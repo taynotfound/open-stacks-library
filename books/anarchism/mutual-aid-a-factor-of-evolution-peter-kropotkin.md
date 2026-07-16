@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://www.gutenberg.org/ebooks/4341"
 source_name: "Project Gutenberg"
-cover: ""
+cover: "https://upload.wikimedia.org/wikipedia/commons/4/44/Mutual_Aid_cover.png"
 at_risk: false
 mirror_state: full
 tags:
