@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://gutenberg.net.au/ebooks01/0100021h.html"
 source_name: "Project Gutenberg Australia (public domain in AU)"
-cover: "https://upload.wikimedia.org/wikipedia/commons/c/c3/1984first.jpg"
+cover: "https://upload.wikimedia.org/wikipedia/commons/5/51/1984_first_edition_cover.jpg"
 at_risk: true
 mirror_state: full
 tags:
