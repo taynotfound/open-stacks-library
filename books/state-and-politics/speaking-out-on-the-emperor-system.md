@@ -4,19 +4,27 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/speaking-out-emperor-system"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+page_type: book
 mirror_state: none
+description: ""
 tags:
   - "Nakagawa Nobuaki"
   - "state"
   - "Japan"
   - "monarchy"
   - "PDF"
-files: []
+images:
+  - "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+links: []
+files:
+  - name: "PDF format"
+    type: "PDF"
+    url: "https://libcom.org/files/TerrorTabooandSilenceSpeakingoutontheEmperorSystem.pdf"
+    hosted: false
 ---
-
 # Speaking Out on the Emperor System
-
 
 Terror, Taboo and Silence: Speaking out on the Emporer System - Nakagawa Nobuaki Presented in PDF format (3mb).
 

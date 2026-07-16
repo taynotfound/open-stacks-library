@@ -4,8 +4,11 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/democracy-and-swp"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/library/IS_Group_1994_pamphlet_democracy.png"
+page_type: stub
 mirror_state: full
+description: ""
 tags:
   - "1990s"
   - "Germany"
@@ -14,19 +17,17 @@ tags:
   - "Socialist Workers Party UK (SWP)"
   - "International Socialist Tendency"
   - "organisation"
-files:
-  - name: "IS Group pamphlet- Democracy and the SWP.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/IS_Group_pamphlet-_Democracy_and_the_SWP.pdf"
-    hosted: true
+images:
+  - "https://files.libcom.org/files/images/library/IS_Group_1994_pamphlet_democracy.png"
+links: []
+files: []
 ---
-
 # Democracy and the SWP
-
 
 We do not agree with their politics but reproduce this for reference.
 
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/IS_Group_pamphlet-_Democracy_and_the_SWP.pdf) (self-hosted)
+Contents 1. GIS Document - Why we Cannot Stay Organised in the SAG 2. ISG Document - For a Democratic SWP 3. Introduction to Luxemburg 4. Rosa Luxemburg - Organisational Questions of Social Democracy 5. ISG Document - The SWP vs. Lenin
+
+IS Group - September 1994
 
 [Read original on libcom.org](https://libcom.org/article/democracy-and-swp)

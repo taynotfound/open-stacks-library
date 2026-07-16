@@ -4,23 +4,28 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/kapital-karl-marx"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/library/korica%200001.jpg"
+page_type: book
 mirror_state: none
+description: ""
 tags:
   - "Srpski"
-files:
-  - name: "karl_marks_kapital_prvi_tom.pdf"
-    type: "PDF"
-    url: "https://files.libcom.org/files/karl_marks_kapital_prvi_tom.pdf"
-    hosted: false
+images:
+  - "https://files.libcom.org/files/images/library/korica%200001.jpg"
+links: []
+files: []
 ---
-
 # Kapital - Karl Marx
-
 
 The scan of the Marx' "Das Kapital" translation by Moša Pijade Skenirana verzija, Karl Marks, "Kapital, Tom prvi", prevod od Moše Pijade
 
-## Downloads
-- [PDF](https://files.libcom.org/files/karl_marks_kapital_prvi_tom.pdf)
+## Kapital (tom 2)
+
+The scan of the Marx' "Das Kapital, tome 2" translation by Moša Pijade Skenirana verzija, Karl Marks, "Kapital, Tom drugi", prevod od Moše Pijade
+
+## Kapital (tom 3)
+
+The scan of the Marx' "Das Kapital, tome 3", translation by Moša Pijade Skenirana verzija, Karl Marks, "Kapital, Tom treći", prevod od Moše Pijade
 
 [Read original on libcom.org](https://libcom.org/article/kapital-karl-marx)

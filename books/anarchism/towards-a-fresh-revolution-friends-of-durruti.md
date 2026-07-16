@@ -4,27 +4,542 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/towards-fresh-revolution-friends-durruti"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/durruti_funeral%5B1%5D.jpg"
+page_type: book
 mirror_state: full
+description: ""
 tags:
   - "Spain"
   - "anarcho-syndicalism"
   - "Spanish civil war"
   - "Friends of Durruti"
   - "PDF"
-files:
-  - name: "Towards a Fresh Revolution - Friends of Durruti.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Towards_a_Fresh_Revolution_-_Friends_of_Durruti.pdf"
-    hosted: true
+images:
+  - "https://files.libcom.org/files/durruti_funeral%5B1%5D.jpg"
+links: []
+files: []
 ---
-
 # Towards a Fresh Revolution - Friends of Durruti
-
 
 Highly influential pamphlet of anarcho-syndicalist CNT militants during the Spanish Civil War who opposed the co-option of their organisation in the Republican government.
 
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Towards_a_Fresh_Revolution_-_Friends_of_Durruti.pdf) (self-hosted)
+## Introduction: Forty years ago
+
+Introduction to the 1978 edition of 'Towards a Fresh Revolution' written by Jaime Balius , former secretary of the Friends of Durruti and director of its paper.
+
+The Friends of Durruti Group was formed in early 1937. Its members and supporters were prominent comrades from the Gelsa battle-front. Remaining true to their anarchist beliefs, they refused to submit to the militarisation and, as a result, moved to the capital of Catalonia (Barcelona) where, along with other Barcelona comrades, they set up the group. They took as their symbol the figure of Buenaventura Durruti, an idealist who had devoted his whole life to his anarchist beliefs. He was a man of action as his heroic death on the Madrid front testifies . . . that heroic and timeless Madrid which lives on in the spontaneous catchphrase which the Republic's government's fight from their city drew from the capital's inhabitants . . . Viva Madrid sin gobierno! (Long live Madrid without government!). This indomitable spirit of the people of Madrid lasted throughout the entire siege of the capital, and it was this spirit that the Group adopted as its own. Thus it was that the fighting men from Gelsa (with the Durruti Column on the Aragon front) became the heralds of the message "Stand fast and fight to the last!" These were virtues which no one can deny that Durruti, the anarchist from Leon, did have. At his funeral Barcelona paid him the tribute of one of the largest popular demonstrations ever, as the Catalan proletariat took to the streets as a body to pay homage to the man who had given his life for the cause of the disinherited the world over.
+
+Having given a rough outline of the nature of our Group I shall now proceed to a short introduction to our pamphlet: Hacia una nueva revolucion (Towards a fresh revolution). First of all, when was it written? Around mid-1938. But it must be emphasised that for us to write a booklet of this sort, with the title we gave it, at that tragic hour for the Spanish proletariat, was a highly suggestive action, amounting to a cry of hope for the fighters of Spain. Notwithstanding their heroism and tenacity, they found themselves surrounded by the most fearful defeat on account of their failure to crush the counter-revolution led by the Stalinists, who were backed by the camouflaged reformists inside the National Confederation of Labour (CNT) and Iberian Anarchist Federation (FAI) and all who were established in the upper echelons of the State. The time was 1938 (40 years ago), at a point when the war was a lost cause, and when war fronts were collapsing one after another as a result of the treachery of Stalinists in key positions in the decision-making process, obeying Stalin's orders to undermine the Spanish proletariat in arms. Such was the tragic hour when we of the Friends of Durruti Group at the group's last session, after prolonged examination of the disaster which the counter revolution had plunged us, and regardless of the scale of disaster, refused to accept the finality of such defeat. The infamous policy pursued by Largo Caballero, whose government contained several anarchist militsnts, had eroded the revolutionary morale of the rearguard; and the Negrin government, the government of defeat or capitulation, gave the defeat hecatomb proportions. For this reason we decided to publish Hacia una nueva revolucion which was, as we said, a message of hope and a determination to renew the fight against an international capitalism which had mobilised its gendarmes of the 30s (in other words, its blackshirts and brownshirts), to put down the Spanish working class at whose head marched the anarchists and the revolutionary rank and file of the National Confederation of Labour.
+
+In the prelude to July we can discern the Spain the Spanish proletariat tried to destroy, the theocratic Black Spain ruled by large landowners who had surrendered the economy of the country to foreign powers. This age-old battle was constantly contested from the 15th century up to 1936, setting liberty against tyranny, progress against obscurantism, ever present in this age-old contest were anarchism and the National Confederation of Labour, whose militants were the targets of savage repression under the monarchy of Alfonso Xlll, the grandfather of Juan Carlos, the present monarch imposed upon the Spanish people by international capitalism. This imposition can be accounted for by the terror that the revolutionary Spain inspires in all the inter connected capitalist forces, on account of its sublime gesture of three years of rebellion in the 30s. Hence the fear felt by the Washington-Moscow axis and the Bonn-Paris-London triangle.
+
+Forty years later, the importance of what we wrote in those hours, fraught with passion and grief, is revealed. If, in the 30s, the Spanish proletariat threw itself into the prodigious fray, though outgunned and with its battlefronts and its rearguard undermined by the hybrid, murderous policy of the communists today the Spanish proletariat once again launches itself into the great adventure of revolution. There are hopeful signs in the form of a magnificent younger generation forged in the jails, who have equipped themselves through reference to books, particularly those written by revolutionaries who stood firm against the tidal wave of counter-revolution . . . and in matters of theory, they may be better equipped than the men of July 1936 who were awestruck by the grandeur of a social revolution that dawned so gloriously over Iberian soil, and which, had it but been given proper expression, would have become the first stage of European and thence, world wide revolution.
+
+In that booklet back in 1938 we said that all revolutions are totalitarian. They must be interpreted and must express themselves in the sense that all revolutions are integral. That is to say, they cannot be made by halves nor tackled side-on without the great edifice of revolution coming face-to-face with destruction. It is terrible when one thinks of the way in which revolutions come to grief. The Spanish revolution was doomed to perish from the instant the revolutionary spirit and the war were divorced. Take, for example, the decree on the militarisation of the militias. With regard to the state structure there was no way the Spanish revolution could survive. The defence committees, control patrols and the collectives were dissolved. This was the build-up to the sudden assault by the Catalan proletariat in May 1937, when the workers tried to win back the gains they had made in July.
+
+The May events are described in our pamphlet. The lesson of May is unmistakable. Revolutions can not restrict themselves to the confines of their native land. A new Spanish revolution must, if it is to succeed, assume European proportions. Today's Europe is sitting on the edge of a volcano. Faithful to our message of 1938, we shall go on fighting for a new and European revolution just as the Spanish revolution of 1936 and the Portuguese revolution of 1974 must be labelled European. Both suffered from the same short-coming-they left the State intact and in both case pseudo-revolutionaries repaired the state structures when they were coming apart on all sides.
+
+Europe's workers must help out the Spanish proletariat with the fight against international capitalism which has already been launched on our soil. Europe's solidarity is indispensable if the monarchy imposed upon the Spanish people by international capitalism is to be overthrown. Once again proletarian Spain will serve as the catalyst for proletarian Europe if we establish a close alliance with the Spanish revolutionary workers to counteract the capitalist siege which has the collusion of both socialists and communists.
+
+The transcendent impact of the Spanish revolution of 1936, which would have begun a cycle of European revolutions of necessity, terrified the capitalist magnates who saw in it the overture to extension throught the continent-and thus massacred the Spanish people!
+
+We have indicated the causes of the defeat, but we want to stress the need to prepare an authentic proletarian internationalism which must show itself in the creation of a powerful and European libertarian movement. Let our one hope and hesitation be that the libertarian spirit of the young Europeans of this Europe, which is only a step away from fascism, does not come to naught. The new Spanish revolution is taking shape: all that remains to be done is to organise the mobilisation of all European revolutionaries around Spain, which has not, even for an instant, and in spite of the terrible bloodbath which international capitalism inflicted on it during the 30s and the years of terror in the 40s and under the present monarchy, failed to declare itself.
+
+The monarchy is the creature of the lackeys of the Bonn-Paris axis and of the hirelings of the US gendarme, not forgetting the tacit acquiescence of the USSR.
+
+Jaime Balius, 1978. [The Friends of Durruti]
+
+## Overture to the Spanish Revolution
+
+A history and interpretation of the class struggle in Spain up to 1938.
+
+Political rotation, which in Spain took the form of Constitutionalists and Absolutionists alternating in power (the clasico turno), collapsed beyond repair with a coup d'etat mounted in the capital of Catalonia by a drunken, cantankerous general, in the year 1923.
+
+The dictatorship of Primo de Rivera is the direct outcome of politics pursued amid maladministration, monopolies, bureaucratic perks, rake-offs, concessions and a whole mass of profiteering operated with the blessing of officialdom.
+
+The military reaction of 1923 was a direct result of one of the reasons why our country is impoverished, one which has absorbed nearly the whole national budget.
+
+Spain's colonial power spawned a rogue's gallery of adventurers, mercenaries, professional politicians, and a cohort of dealers in cheap flesh.
+
+As long as the bureaucracy of the sabre and the captains of industry had plenty of scope to plunder and loot in the overseas possessions, then Spain as such could go on her way more or less unaffected. But colonial disaster held the key to the collapse of this situation, which was maintained by an unscrupulous, ruthless minority.
+
+At the close of the XlXth century the military were deprived of the spoils they craved. They had no option but to return to the peninsula, braid saturated in blood, bearing the shame of beings inept even in their own profession-that of bearing arms.
+
+From that moment forward, the Spanish people have been confronted by a problem fraught with difficulties. Thousands of these proteges of a syphilitic king returned to devour the natives of the mother country, since they no longer had the opportunity to go on impoverishing the peoples of the colonies, who cursed Spain's representatives as thieves and assassins in general's sashes and chevrons.
+
+The public exchequer stood in need of an immediate outlet. The Algeciras conference laid the borders of Morocco open to attack. The mines of the Rif, coveted by the Count of Romanones, became an abyss demanding the blood and the money of the Spanish people.
+
+1,000,000,000 pesetas the Moroccan venture has cost the nation's exchequer, plus many thousands of lives sacrificed to the financial cartel represented by the farmer Count of Romanones.
+
+The most startling points in this Spanish slaughter, revolving around the iron deposits in the tribal territory of Beni-Bu-Ifrur, near the mountain of Af-Laten, are the tragedies of Baranco del Lobo and Anual.
+
+The military have ever been a millstone about the neck of the working people. Look at the Defence Juntas, of evil memory. The moving spirit behind them, Colonel Marquez, tried to infuse them with a liberal outlook, but La Cierva's patronage intrigues far outweighed the transitory good will of a colonel who ended up persecuted and imprisoned in Monyuich.
+
+General Primo de Rivera was the incarnation of this whole past we have mentioned. Thanks to the strength of Lopez Ochoa-and with the passive help of the bourgeosie, the latifundists, the clergy, and the financiers-he brandished his sword from the lofty heights of power.
+
+There is written proof that this former Captain General of Catalonia entered the fray for the purpose of cancelling out the Picasso inquiry's findings-in which Alfonso Xlll and his man of straw, Silvestre the the general, were directly implicated. This interpretation of the facts is undoubtedly well-founded; but what precipitated the military's move was unquestionably the disquiet among the working class. Having had its fill of outrage and systematic thievery, the working class was preparing to banish those responsible for its misfortune from Spanish soil. The financial and industrial bourgeoisie placed all their resources at the disposal of the army. They restricted credit, sabotaged the economy, applied the lock-out and provoked strikes. Great displays of rejoicing from the Catalan bourgeoisie greeted the army's Polish style dictatorship.
+
+The Primo de Rivera era must be categorised as an effort by the ruling class to weaken the working class, who actions were to take on a more positive form at a later date. This reprisal was an updated, more comprehensive re-enactment of the past, with the same moral turpitude and eternal arrogance that have martyrised the corpse of a Spain that is ever noble in its rags.
+
+This philandering general was replaced by Berenguer who was himself supplanted by Aznar. And, to top it all, it was the Count of Romanones-an agent of the intelligence service-who supervised the transfer of power from the Monarchy to his former secretary, Don Niceto Alcala Zamora. He along with the son of Maura and with the assistance of Maranon, the palace physician (and also of the intelligence service), laid the foundations for a Republic which was bound to end in the most frightful stench.
+
+The new Republic was completely unpopular. Instead of following socialist guidelines, forged in the clamour of the streets, the same parasites as in the days of the Bourbons, hold sway. Power is in the hands of politicians who were good servants of the monarchy. Alcala Zamora was a recalcitrant monarchist, a representative of the clergy and latifundists. Azana once belonged to the party of Melquiades Alvarez: Miguel Maura, another royalist; Alejandro Lerroux, a man without honour . . .
+
+Disconsolate Spain took the path of betrayals, of useless secret meetings. April's comedy was to be paid for with torrents of blood.
+
+What the April Republic was to bring forth was catastrophe. Son of Ferrer's murderer, author of 108 deaths, the minister who gave the order to fire "at will" turned our countryside into a network of funeral crosses.
+
+Seeing their hopes violently crushed, the working masses turned angrily against the April fiasco. Miguel Maura mobilised the armed forces of his brand-new Republic to crush and destroy the workers. Pasajes Arnedo, Castilblanco, Seville, Catalonia . . . all describe the true nature of the Republic that exiles the monarch but with his monies intact, and conveys him in a ship of the line. Alfonso Xlll's family shook hands warmly with General Sanjurjo. In August 1932, and again in July 1936. The general unleashed attacks on a people betrayed by politicians who had given the general a free hand. He was an assassin with a royalist background. According to reports, the Count of Romanones said in the station at El Escorial: "Hasta muy pronto" (Until we meet again, very soon).
+
+The Republic prattled on in endless exchanges of views. The Constituent Cortes came up with no solution to any problem.
+
+The question of the army, which only execution pickets could resolve, turned into farce. Azana allowed the military to retire under such exceptional terms that the effect was an enormous upsurge in the non-productive population whilst the barracks were handed over to the monarchist officer class.
+
+Likewise, the religious issue was side-stepped. The Church should have been expropriated without compensation, not to mention the provision for religion and clerics being eliminated from the nation's budget. This was not done. Instead the religious orders were legalised, and the droves who seek refuge in 300 religious orders and 6000 conventos (male and female convents) were given citizenship rights. There was no attempt to eradicate this cancer that has eaten away at the Spanish soul for so many centuries. The Mendizabal administration achieved more than this Republic even though the latter had the benefit of an extra hundred years' experience. And they failed to confiscate the 5,000,000,000 pesetas' worth of Jesuit investment in the nation's economy. Not was a solution found to the problem of finances. The debts and commitments of the monarchy were acknowledged. The budget rocketed. Non-productive classes expanded and the bureaucracy underwent tremendous growth. The public debt, standing at 3,000,000,000 pesetas in 1814, grew phenomenally with the colonial losses and the Moroccan disaster- experiencing a slight deflation at the time of Villaverde-reaching the astronomical sum of 22,000,000,000 in the time of the April Republic.
+
+April 14 brought protection to the rentier and oppression to the consumer. The tax on rent was quite merciless. The policy being applied was plainly a bourgeois one, even if the Socialists were in power. Monopolies remained the order of the day, with the smuggler, March, evading jail as and when he pleased.
+
+Nor was the problem of the statutes any more satisfactorily resolved. There may be talk in one of the articles of the Constitution, of a federal or federative Republic, but for all the talk, centralism still prevails.
+
+The agrarian problem ended in fiasco. The Institute for Agrarian Reform was a hotbed of nepotism. 5000 peasants were to be settled each year. Some 5,000,000 needed land. With this laughably optimistic policy of reform the end might have been in sight after a thousand years!
+
+They came to the labour question armed with a horrendous jargon. Workers control consisted of such delegation of power as friendship and favouritism might allow.
+
+Spain's colonial status became an issue with the Telefonica affair. So, in spite of all Prieto's bravado and the fact that he labelled the Telefonica contract one-sided in a debate in the Ateneo in Madrid and it was better the Telefonica workers be machine-gunned whenever they took to the streets to demand to a just wage-rise rather than North American capital be shored up.
+
+We have lived through two biennia. The Red and the Black. During both the working class were persecuted in darstardly fashion.
+
+The socialists operated as the lackeys of capitalism. The laws for the Defence of the Republic for Public Order, and the Law of April 8th, are wholly repressive in their nature. The Right uses them as it chooses. The workers reaction can be seen in the burning of the conventos, in the events in Barcelona and Figols on January 8th and December 3rd. Deportations to Bata and Villa Cisneros were still more steps towards surrendering the Republic to the proletariat's etemal enemies.
+
+Both biennia were filled with tragedy. Responsibility for the Right's occupying a dominant position must be borne by the social democracy. And it is their fault if the revolution has not been able to escape foreign intervention. In April 1931 the Italian fascists had not extricated themselves from the thorn of Adona and the Hitlerites not yet managed to erect a nationalistic, totalitarian state. Circumstances were favourable. But treachery by the socialists and reformism from Pestana and his acolytes prevented the moment of truth, (which was later to cost even more dearly), from arriving.
+
+Out of this ill-assorted hotchpotch of situations surged October.
+
+The overture to July was born in the Asturias. There the struggle was pursued with courage and ferocity. Inside Catalonia, Dencas set himself the task of alienating the working class from that revolt, which could have been crucial.
+
+All the Socialists wanted to do in October was to prevent Alcala Zamora from handing over to the Right -in the same way as they had frightened him before with their strikes. Had they desired revolution they would have exploited the peasant revolt of June 1934 or even timed it to co-ordinate city with countryside. But the socialists were swept aside by the working class.
+
+The Lerroux-Gil Robles government lasted two years; two black years of repression and imprisonment culminating in the "free the prisoners" elections (elecciones pro-presos) which bore fruit in the events of July.
+
+July 19th The tragedy of Spain knows no end. The most vivid pens fail to describe the tragedy of a people whose bodies and minds are scarred by past and present horrors.
+
+Our writers cannot accurately reflect the calvary of a race that appears to have been born to suffer.
+
+In February, 1936, the sad picture of this Spanish scene was at its blackest. On that date Spain was one vast detention camp. Thousands of workers were behind bars.
+
+We stand on the eve of July. We must call to mind the events that paved the way for the army rebellion.
+
+The policies of the black biennium were bankrupt. Gil Robles had not slaked the appetites of his followers. A conflict had arisen between Alcala Zamora and the Chief of Popular Action. The Jesuits were supporting the president of the Republic. He was their new hope: not for nothing had he raised the banner for constitutional reform and religion. How long the Cortes would last was uncertain. The Radicals had broken away from the Rightist bloc, feeling quite estranged from the heart of the nation. Stormy sittings matched a policy that was base, repugnant and criminal in its crudity.
+
+The proletariat was beginning to make itself felt in a more befitting manner. Monster rallies held in the Stadium in Madrid, in Barcelona and in Valencia commanded huge crowds. That these exhibitions of determination and the spirit of revolt served to renew the credibility of an old reactionary figure such as Azana is something to be regretted. It was an error which would have to be paid for later on with interest. Alcala Zamora thought he was in control of the situation. The Cortes was dissolved. Franco, Goded, Cabanellas, Queipa de Llano, Mola-these were Zamora's puppets. He chose a financier-bandit, one Portela Valladares, to carry his plan into effect.
+
+The resources of the State failed the Galician cacique. In spite of electoral malpractice and the ministry's list of approved candidates, the results of the February elections failed to set the Holy See's mind at rest.
+
+Finding his plans frustrated, Alcala Zamora urged Portela to proclaim a state of emergency. Portela did not dare. He realised that the people of Spain were on the streets and recommended that Azana be sent for. He was right. The politician from the red biennium was to be a temporary sedative. That was precisely what the reactionaries were after at that point. . . a breathing space during which to put the final touches to preparations for the revolt by the generals who frequented the Plaza de Oriente.
+
+The successful elections of February failed to open the eyes of the Socialists. The monster rallies to protest against the numbers imprisoned, the enthusiasm for the release of the prisoners taken during the great drama of October . . . all this suggested nothing new to them. They stuck to their old ways. A new Cortes. A fresh election for the presidency of the Republic. They kept Alcala Zamora's plans and his scheme for handing control over to the military and not to the people.
+
+But the proletariat had learned the harsh lesson of the two biennia, they had lived through. They dashed headlong into the streets. Firebrands set religious centres ablaze. The clamour from the imprisoned defied their walls. City and country were equally aroused.
+
+The ignorance of the social democrats postponed the outburst by the people. Fortunately, after five months, the Rightists' lack of sophistication and their failure to appreciate the truly counter-revolutionary roles of Azana and Prieto, brought the issue on to the streets.
+
+There was sporadic violence from February to July. Yet again workers' blood was spilled. The strike by the building unions in Madrid-and a clash in Malaga exposed the cretinism of the February politicians.
+
+Boldly the Right mobilised for an attack on the situation emerging from the emotion-filled elections. Fascists killed the coward's way, arousing hatred by their surprise attacks. There was a vague feeling that the black Spain was planning something. The talk was persistently of army mutiny.
+
+There was no doubt. The proletariat was setting out along the road to July. The government took a back seat. Faced with a choice between fascism and the proletariat, they opted for the former. To cover his tracks, Number One traitor, Casares Quiroga would threaten the Rightists from the government benches, inciting them to take to the streets.
+
+Calvo Sotelo's murderer brought things to a head. When rumour had it that the army would be invading the streets at any moment the rumours seemed probably true. But did those in government take any preventive measures? Franco was in command in the Canaries, Goded in the Balearics, Mola in Navarre . . . Why was the whole bunch not dismissed? The fascists could also rely on powerful allies in government circles!
+
+On July 17th, that nemesis we had been warding off for some time unmasked itself. In the Balearics, in Morocco, in the Canaries, the officers were in open revolt.
+
+What was done to bring the rebellion to an abrupt halt? What did the government of that scum, Casares Quiroga do? Shut itself up in complete inertia. Concealed the gravity of the situation from the people. Imposed a rigorous censorship. Refused weapons to the proletariat.
+
+There was still time, between July 17th and July 1 9th, to compel the militarists to capitulate. But a highly suspect, suicidal attitude prevailed. Casares Quiroga is Mola's accomplice. He kept him on in Pamplona, even after he had proclaimed himself openly in revolt against the results of the February elections, and regardless of the protection he was extending to all the conspirators on the Right.
+
+The treachery by the Left is obvious. No arms were given to the people, because the bourgeois democrats were afraid of the proletariat. In Zaragoza the attitude of governor Vera Coronel, who prevaricated with the workers' representatives in negotiations, helped the fascists to victory. And in Valencia, when all of Spain was already plunged into fighting, the rebels were allowed to remain in their barracks.
+
+At this historic, blood-soaked hour, it is not with mealy mouths that we charge those Republican politicians who acted openly in favour of fascism out of their fear of the working class. We accuse Azana, Casares, Quiroga, Companys, and the Socialists, all the farceurs from the Republic which, built on a one act sketch in April, has laid waste the homes of the working class. And this is happening because of the failure to make the revolution at the correct time.
+
+The people had to go and look for weapons. They took them by right of conquest. Gained them by their own exertions. They were given nothing; not by the Government of the Republic, not by the Generalitat-not one rifle !
+
+On July 19, as on other great occasions before the proletariat took up its positions in the streets. For some days it had been keeping a close vigil on the streets of every settlement in Spain. In the capital city of Catalonia, memories of glorious past struggles were being conjured up.
+
+The first weapons were seized by workers from some supply ships Iying at anchor in the port of Barcelona, the "Manuel Arnus" and the "Marques de Comillas."
+
+As dawn broke on luly 19, the militarists surged on to the streets facing an attack from the Catalan people, who stormed barracks and fought on until the last fascist redoubt had been taken.
+
+The Catalan proletariat saved the proletariat of Spain from fascism. Proletarian Catalonia became a beacon shedding its light over all of Spain. No matter that the agrarian regions of Spain are in fascist hands we, the workers of the industrial zones, will redeem our comrades from the captivity which has befallen them.
+
+In Madrid, the pattern was the same. No arms were distributed there, either. They were won in the streets. The proletariat fought and stormed the Montana barracks, overwhelming the soldiery. And then, with shotguns and whatever else they could get their hands on, the workers set out for the Sierra de Guadarrama to cut of the advance of General Mola. With the Navarre brigades behind him, he was preparing to conquer the capital city of Castille.
+
+Fascism was routed in the North, in Levante and in a number of places in Aragon, Andalusia and Extremadura. But elsewhere in the peninsula the workers were disarmed and had to contend with leftist governors who eased the way for the Spanish fascists.
+
+Casares Quiroga made way for a government under Martinez Barrio. This politician, who torpedoed the April Constituent Cortes, was coming into power in order to reach an understanding with the fascists and hand power over to them. Swift reflex action by the working class aborted one of the most infamous acts of treachery ever conceived. If this treachery was never implemented, it was only for lack of time. The politicians, beginning with Azana must pay for this vile manoeuvre with their heads. This initially pessimistic outlook and the suggestion of surrender circulating in official circles, were cancelled out by the ferocity of the proletariat. Giral replaced Martinez Barrio.
+
+We have presented an anecdotal outline of how events developed. But it behoves us to dwell a little longer on July and to examine what sort of revolution was achieved in those days of glory.
+
+There has been a lot of theorising about July. The bourgeois democrats and marxists insist that the popular explosion in July must be classifled as a legitimate act of self-defence by a proletariat which saw itself under attack from its worst enemy. Taking this as their basic thesis, the argument then is that July cannot be deemed a typically revolutionary, class phenomenon.
+
+This thesis from our opponents is a fallacy. Revolutions do break out unforeseen, but they are always preceded by a long period of gestation. April opened one era, closed another. And right in the foreground of the April era, and still there today the working class continues to occupy the advance positions of the revolution. Had it not surged head long on to the streets in July, the proletariat would have done so at some other point, but it would not have desisted from its noble undertaking-to free itself of the bourgeois yoke.
+
+From the petit bourgeoisie comes an allegation that we were-all of us, all shades of opinion-out in the streets. But we must remind them that, but for the CNT and the FAI rushing to where danger was greatest, there would have been a repeat performance of the comic opera in Barcelona in October.
+
+In Catalonia, the organised workers in the CNT predominate. If there are any who deny that, it is through ignorance or an attempt to ignore the history of the CNT on Catalan soil.
+
+The July revolution drew its impetus from the workers and, as such, was a class revolution. On the streets and at a theoretical level, all the petit bourgeoisie did was to act as an after thought, nothing more.
+
+But there are other equally important considerations, perhaps more so. The memory of the political conditions which capitalism caused in the XVllth XVlllth and XlXth centuries has grown vague. What is more petit bourgeois democratic illusions on what earlier bids-like 1873, or April-brought about have been shattered. After February the only type of revolution possible in Spain was social revolution- such as that which blazed with such splendour in July.
+
+April was decisive. It was enough to prevent our falling into the same error. By which we do not mean only the repression of which we were the targets. We shall confine ourselves solely to the nonsensical argument put forward by the marxists.
+
+How do we account for the fact that in the July revolution we saw a repetition of the errors we have criticised hundreds and hundreds of times? How come we did not hold out for social revolution in July? How come workers' organisations failed to assume maximum control of the country?
+
+The vast majority of the working population stood by the CNT. Inside Catalonia, the CNT was the majority organisation. What happened, that the CNT did not makes its revolution, the people's revolution, the revolution of the majority of the population?
+
+What happened was what had to happen. The CNT was utterly devoid of revolutionary theory. We did not have a concrete programme. We had no idea where we were going. We had lyricism aplenty; but when all is said and done, we did not know what to do with our masses of workers or how to give substance to the popular effusion which erupted inside our organisations. By not knowing what to do, we handed the revolution on a platter to the bourgeoisie and the marxists who support the farce of yesteryear. What is worse, we allowed the bourgeoisie a breathing space; to return, to re-form and to behave as would a conqueror.
+
+The CNT did not know how to live up to its role. It did not want to push ahead with the revolution with all its consequences. They were frightened by the foreign fleets, claiming that Barcelona would come under fire from ships of the English fleet.
+
+Has any revolution ever been made without having to overcome countless difficulties? Is there any revolution in the world, of the advanced type, that has been able to avert foreign intervention?
+
+Using fear as a springboard and letting oneself be swayed by timidity, one never succeeds. Only the bold, the resolute, men of courage may attain great victories. The timid have no right to lead the masses.
+
+When an organisation's whole existence has been spent preaching revolution it has an obligation to act whenever a favourable set of circumstances arises. And in July the occasion did present itself. The CNT ought to have leapt into the driver's seat in the country, delivering a severe coup de grace to all that is outmoded and archaic. In this way we would have won the war and saved the revolution.
+
+But it did the opposite. It collaborated with the bourgeoisie in the affairs of state, precisely when the State was crumbling away on all sides. It bolstered up Companys and company. It breathed a lungful of oxygen into an anaemic, terror-stricken bourgeoisie.
+
+One of the most direct reasons why the revolution has been asphyxiated and the CNT displaced, is that it behaved like a minority group, even though it had a majority in the streets.
+
+With this minority outlook the CNT has not been able to make its plans prevail; it has found itself continually sabotaged and trapped in the web of a confused, deceitful policy. Inside the Generalitat, as well as the Town Council, we had fewer votes than other groups, even though we had far more members. And, what's more, we were the ones who conquered the streets. Why have we given them up so crassly?
+
+On the other hand, we would assert that revolutions are totalitarian, no matter who says otherwise. What happens is that the various aspects of revolution are progressively dealt with, but with the proviso that the class which represents the new order of things is the one with most responsibility. And when things are done by halves, we have what presently concerns us, the disaster of July.
+
+In July a Committee of Antifascist Militias was set up. It was not a class organ. Bourgeois and counter-revolutionary factions had their representatives on it. It looked as if this Committee had been set up as a counter-balance to the Generalitat. But it was all sham. Control patrols were organised. They were men of the barricades, men of the streets. Factories, work shops and businesses were taken over and the latifundists tackled. Defence committees and supply committees were established in each locality and municipality.
+
+Sixteen months have rolled past. What remains? Of the spirit of July, only a memory. Of the organisms of July, a yesterday.
+
+But the machinery of politics and the petit bourgeoisie lingers on, intact. The undergrowth of some sectors, maintained solely by the backs of the workers, lingers on in the Plaza de la Republica in the Catalan capital.
+
+May 3 It has been inside the barracks of Catalonia that counter-revolution has made its greatest efforts to crush the essentials of the July revolution.
+
+The economic structure of Catalonia allowed for great masses of workers, educated to class consciousness in the atmosphere of factory and workshop, to be concentrated. This peculiar feature of the centres of manufacture is extremely favourable to the attainment of the end of the revolution. In July, Catalonia's working people placed social life on a fresh basis. There was a resurgence by an indomitable proletariat with the critical equipment of long years of struggle within the ranks of the confederation. Social revolution could have been a fact in Catalonia. Further more, this revolutionary proletariat could have served as a counter-weight to a bureaucratic, reformist Madrid and the influence of the Catholic Basque country.
+
+But the events took a different turn. The revolution was not made in Catalonia. Realising that once again the proletariat was saddled with a leadership of quibblers, the petit bourgeoisie, which had gone into hiding in its backrooms in July, hastened to join battle.
+
+The shocking feature of when we speak of the middle class is that we have to refer to marxists, who have been inundated by shppkeepers and the Lliga's 120,000 voters.
+
+In Catalonia, socialism has been a pitiful creature. Its ranks have been swelled by members opposed to revolution. It has captained the counter-revolution. It has spawned a UGT which has been turned into an appendage of the GEPCI. Marxist leaders have sung the praises of counter-revolution. They have sculpted slogans about the issue of a united front whilst first eliminating the POUM, then trying to repeat the operation with the CNT.
+
+The manoeuvres of the petite bourgeoisie, in alliance with the socialists and communists, culminated in the events of May.
+
+There have been conflicting versions of just what happened in May. But the truth of the matter is that the counter-revolution wanted the working class on the streets in a disorganised manner so that they might be crushed. They partially attained their objectives, thanks to the stupidity of some leaders who gave the ceasefire order and dubbed the 'Friends of Durruti' agents provocateurs just when the streets had been won and the enemy eliminated.
+
+Self evidently, the counter-revolution has an interest in control of Public Order passing under the supervision of the Valencia Government. They succeeded in that, thanks to Largo Caballero. It is worth noting that at this time the CNT had four ministers in the cabinet.
+
+It has also been pointed out that the petit bourgeoisie had hatched a scheme providing for foreign intervention on the pretext of disorder breaking out. That foreign flotilla would sail for Barcelona was a certainty. And there has been talk of motorised divisions of the French army on the verge of intervening in frontier posts. To which we might add the conspiratorial work of politicians meeting in the French capital.
+
+The atmosphere had become very tense. CNT membership cards were being torn up. CNT and FAI militants were being disarmed. There were continuous clashes which only by the merest chance did not turn out to have more serious consequences. The provocations that we workers had to put up with were manifold. The threats from the desk-ocracy came out into the open, naked and unashamed.
+
+The death of a socialist militant-Roldan-was exploited as the pretext for a monster display of strength in which all the counter-revolutionary crew took part.
+
+Everything that went wrong was blamed on the CNT. Anarchists were blamed for every misfortune. Food shortages were laid at the door of the supply committees.
+
+The explosion came on the 3rd May. With the cognizance of Ayguade, Rodriguez Salas, Commissar for Public Order, headed a unit of Assault Guards and burst into the Telephone Exchange. They tried to disarm the CNT comrades, even though the Exchange was under joint control of the CNT and UGT.
+
+This move by Rodriguez Salas-who belongs to the PSUC-was a call to arms. Within a few hours barricades had gone up in all the streets in Barcelona city. The crackle of rifle-fire and the rattle of machine guns could be heard and the air was filled with the sounds of cannon salvoes and the reports of bombs.
+
+At the end of a few hours, the tide had turned in the favour of the proletarians enrolled in the CNT who as they had in July, defended their rights with guns in hand. We took the streets. They were ours. There was no power on earth that could have wrested them from us. Working class areas fell to us quickly. Then the enemy's territory was eaten away, little by little, to a redoubt in a section of the residential area- the city centre-which would have fallen soon, but for the defection of the CNT comittees.
+
+Realising the indecision that showed itself in the fighting, and the lack of leadership and organisation evident in the street, our Grouping issued a leaflet followed by a manifesto.
+
+They labelled us agents provocateurs because we demanded that provocateurs be shot, that the armed forces be disbanded, that political parties who had armed the provocation be suppressed, and also that a revolutionary Junta be established, to press on with the socialisation of the economy and to claim all economic power for the unions.
+
+Our analysis, as set out in those moments of tension in both leaflet and manifesto, insisted that the barricades should not be abandoned unconditio ally, since that would be the first time in history when a victorious army had yielded ground to the enemy.
+
+Guarantees were needed that we would not be persecuted. But the chieftains of the CNT gave assurances that the organisation's representatives in the Generalitat would look out for the working class. Nonetheless, the second part of what had come to pass hours earlier in Valencia emerged.
+
+The barricades were abandoned without our having good reason to do so. As the Catalan scene was returning to calm, the excesses perpetrated by the marxists and the public forces came to light. We had been right. Comrade Berneri was snatched from his home and shot to death in the middle of the street: thirty comrades were discovered, horribly mutilated in Sardanola; Comrade Martinez of the Libertarian Youth lost his life in a manner unknown, in the private dungeons of the Cheka, and a large number of comrades from the CNT and FAI were brutally murdered.
+
+We must remember that Professor Berneri was a learned Italian comrade from that anti-fascist Italy filling the deportation islands, the cemeteries and the concentration camps. Like his anti-fascist comrades, he could not stay in Mussolini's Italy.
+
+The murders were followed by a wave of intense repression. Comrades were arrested in connection with the events in July and May: there were attacks on unions, collectives and offices of the Friends of Durruti, the Libertarian Youth and the POUM.
+
+One event we cannot pass over. The disappearance and death of Andres Nin. More than half a year has elapsed now and the Government has yet to clear up the so-called mystery surrounding Nin's murder. Shall we one day know who killed him?
+
+After May, the counter-revolution felt stronger than ever. Foreign powers lent assistance to this reaction by the desk-ocracy. Within a few days the Negrin Government had been formed, with two ends behind its establishment; the annihilation of the revolutionary section of the proletariat and preparation for an abrazo de Vergara. Meanwhile in Catalonia a government composed of secretaries from the political parties and union organisations was set up, until Luis Companys ousted the CNT representatives from the Generalitat.
+
+What took place in May was quite different from what happened in July. In May the proletariat fought with what was self-evidently a class spirit. There could be no doubt that the working class wanted to radicalise the revolution.
+
+However much the reactionary press may try to obscure the nature of May, it will go down in history as a sudden and well-timed blow aimed by the proletariat. Feeling that the revolution was threatened they came on to the streets to save and revitalise it.
+
+In May we were in time to save the revolution. Many perhaps regret having heeded the call for a ceaseflre in those historic moments. And are pained at the sight of jails crammed with workers.
+
+The Friends of Durruti Group did its duty. We were the only ones equal to the challenge of the circumstances. We could foresee the outcome.
+
+May can never be forgotten. It was the loudest knock the working class has delivered on the portals of the bourgeoisie. Whenever they come to speak of the events in May, historians will have to pay homage to the Catalan proletariat, who laid down the yard stick for the new era, which must be one hundred per cent proleatarian.'
+
+Spain's Independence Intervention by foreign powers in the Spanish scene has brought into focus the eternal dilemma in which our country has always found itself.
+
+Since the XVIth century Spain's political life has been a lien of foreign powers. Two dynasties - one Austrian the other Bourbon, not to mention the short reign of Amadeo of Savoy - kept the people of Spain in subjection up to April 14, 1931.
+
+Spain's independence has always been a fiction. The Foreign Office and the Quai d'Orsay have played a most important role in our decisions. Remember the pardoning of Sanjurjo after his rebellion in August 1932, granted only after pressure from the French government?
+
+The Spanish economy, a pre-eminently agrarian one, has kept us tied to the apron strings of the big industrial powers. In order to export our produce we have been obliged to buy machinery we could have made at home. And in return for London taking our oranges, we are urged to buy English coal, with the inevitable result that the working day in our coal mines is reduced because of the slump in production at home.
+
+We export iron, copper and other minerals in order to buy the finished machinery, built by the very country that bought its raw materials from us.
+
+Our sub-soil is extremely rich, but foreign capital owns it. Our country is gripped by the tentacles of international finance which devours the people's wealth. Spanish workers have always sweated in order to satisfy the dividends and substantial profits of foreign stock-holders and financiers.
+
+From the dawn of our history, a spirit of independence has been evident in Spaniards. Invasions have been numerous, but they never managed to extinguish the sacred flame of independence.
+
+When we come to the current invasion, it is clearly of a nature that contrasts with the earlier ones in that in the case of the Iberians, Phoenicians, Carthaginians, Romans, Arabs or French, there was no social dimension.
+
+During the Napoleonic invasion, liberals and absolutists stood shoulder to shoulder in the fray. El Empecinado found Father Merino at his side, though only through force of circumstance.
+
+During the expedition of the Duke of Angouleme, authorised by the Holy Alliance from Vienna, opinion in the Peninsula was noticeably divided. Father Merino sided with the invaders. El Empecinado, for his part, resisted the entry of the foreign forces.
+
+What is happenimg today is a re-enactment of what happened in the reign of Ferdinand Vll. Once again in Vienna there has been a conference of fascist dictators for the purpose of organising their invasion of Spain. And the workers in arms have taken up the mantle of El Empecinado.
+
+Germany and Italy need raw materials. They need iron, copper, lead and mercury. But these Spanish mineral deposits are the preserve of France and England. Yet even though Spain faces subjection, England does not protest. On the contrary-in a vile manoeuvre, she tries to negotiate with Franco.
+
+Since the war began, she has helped blockade ports held by us. Fascist shipping unload war materials at fascist-controlled ports . . . and take on ore, livestock oil.... International fascism needs food for its machine. Hitler's slogan - more guns, less butlers - and Musso lini's autarchy lead them to sack the agricultural regions under the iron rule of the rebel generals.
+
+In economic matters, we have always been dependent on other countries. Commercial treaties and the balance of payments have never operated in our favour. This trend has been a nightmare for our economy.
+
+Spain's problem is a colonial one. Capitalism, having extinguished feudalism in its own territory, finds itself in the incongruous position of having to bolster feudal regimes in the countries it seeks to exploit. This goes for Spain as it does likewise for China.
+
+It is up to the working dass to ensure Spain's independence. Native capitalism will not do it, since international capital crosses all frontiers. This is Spain's current predicament. It is up to us workers to root out the foreign capitalists. Patriotism does not enter into it. It is a matter of class interests.
+
+As the international intrigues go on, it is safe to assume that England will manage to settle the Spanish question on the basis of an ignominious status quo. Will she make economic concessions to Germany and Italy? Will partial rights to our sub-soil resources be hived off to foreign powers? Will Spain be partitioned?
+
+England is interested in our mineral wealth. Such is the colossal pressure of a fascism spread throughout the world and party to the famous Anti-Comintem Pact, that, at best, perfidious Albion will yield; always provided that there is no threat to the free passage of her shipping through the Mare Nostrum.
+
+It is hard to guess what will happen. We must put no trust in the League of Nations, nor in the host of committees and sub-committees, nor in Conferences whose only purpose, like the Nyon Conference, is to waste time on the matter. But it is worth noting that the English Conservatives have recalled Lord Halifax, the author of the massacres in India.
+
+There can be only one question for us; will France be ready to place in the balance not only her maritime, but also her territorial security? Will France keep to the non-intervention policy hammered out by Leon Blum? Is she prepared to renounce her colonial army?
+
+Let us trust no-one. Salvation lies in our own hands. Foreign powers incline to the lesser evil, to the cabal. And the working class will find a way to prevent Spain being made subject to an intemational arrangement, like Tangiers, Danzig or the Saar.
+
+Victory or death, comrades. That is the choice at the present moment.
+
+Collaboration and class struggle In Spain, as has generally been the case in every country, the workers' movement has shown two tendencies. One, the collaborationist one, and the other that admits no truck whatsoever with the enemy.
+
+In this country of ours, it has been socialism with its trade-union offshoot, the UGT that has played the classic role of reformists. It is a refuge for renegade workers, even of infiltrators into workers' organisations whose sole purpose is to yoke the proletariat to the cart of the bourgeoisie.
+
+The statements made by Indalecio Prieta during the Red biennium, on the occasion of the railway mens' strike, encapsulate the essence of collaboration ism. They are notorious;
+
+"I am a minister first, and then a socialist" don Inda stated then.
+
+The Spanish revolution has suffered because of the reformists' pernicious influence on its direction. There has been no willingness to interpret the social, class meaning of the July happenings.
+
+The class struggle that the CNT has always preached has been relegated to a secondary position by a series of issues that have proved enormously prejudicial to the course of the revolutions. Noting this relegation we must not only deplore this disfiguration of the revolution, but also in organic terms the ground lost through the failure to keep strictly to line of revolution on a class terrain and through having trampled Revolutionary Syndicalism into the groumd.
+
+The unions are the organs that genuinely articulate the workers' class feeling in their eternal battle with capitalism. If we relegate the unions to a secondary position, it follows naturally that the interests of the proletariat will be prejudiced.
+
+Collaborationism is to be deplored at all times. There must be no collaboration with capitalism whether outside the bourgeois state or from within the government itself. As producers our place is in the unions, reinforcing the only bodies that ought to survive a revolution headed by the workers.
+
+Class struggle is no obstacle to workers continuing at present to fight on in the battlefields and working in the war industries. But it is imperative to keep it in mind that we proceed to each new initiative with a class sense, giving the unions the priority that is their due.
+
+There must be no other economic body outside the unions to restrict their powers. And the State cannot be retained in the face of the unions-let alone bolstered up by our own forces. The fight against capitalism goes on. Inside our own territory there is still a bourgeoisie connected with the international bourgeosie. The problem is now what it has been for years.
+
+Let us keep the unions true to themselves. Let us keep to the line mapped out by the CNT in its particular confrontation with our native bourgeoisie, as was always the norm up to 19 July.
+
+Collaborationists are allies of the bourgeoisie. Individuals who advocate such relations have no feeling for the class struggle, nor have they the slightest regard for the unions.
+
+Never must we accept the consolidation of our enemy's positions.
+
+The enemy must be restricted. If ever faced with a hiatus we must never allow that social deviation to develop into a position of open assistance to capital.
+
+There can be absolutely no common ground between exploiters and exploited. Which shall prevail, only battle can decide. Bourgeoisie or workers. Certainly not both of them at once.
+
+The working class holds the future in its hands. We pariahs have nothing to lose and, on the contrary, we can win our emancipation which is the destiny of the family of workers.
+
+Let us break the shackles. Let us strengthen our unions. Let us keep the spirit of class struggle alive.
+
+## Our position
+
+The Friends of Durruti group put forward their ideas on how to win the revolution and the war against Franco.
+
+It is time to be specific. We shall be so, with respect to each of the problems posed by the present situation.
+
+With regard to the problem of the war, we back the idea of the army being under the absolute control of the working class. Officers with their origins in the capitalist regime do not deserve the slightest trust from us. Desertions have been numerous and most of the disasters we have encountered can be laid down to obvious betrayals by officers. As to the army, we want a revolutionary one led exclusively by workers, and, should any officer be retained, it must be under the strictest supervision.
+
+We insist that the war be directed by the workers. We have grounds aplenty for this. The defeats at Toledo, Talavera, the loss of the North and Malaga point to incompetence and lack of integrity in the government circles, for the following reasons:
+
+The North of Spain could have been saved if the war materials needed for resistance to the enemy had been obtained. The means were there. The Bank of Spain had enough gold to flood Spanish soil with weaponry. Why was it not done? There was time. We must remember that the non-intervention controls did not begin to make their presence felt until the war in Spain was already some months old.
+
+Leadership in the conduct of the war has been disastrous. Largo Caballero's record is lamentable. That the Aragon Front has not been given the arms its so needs is his fault. His reluctance to arm the Aragonese sector has prevented Aragon from assuring her own redemption from the clutches of the fascists. At the same time this could have taken the pressure off the fronts around Madrid and the North. And it was Largo Caballero who expressed the sentiment that sending arms to the Aragon Front was like handing them over to the CNT.
+
+***************
+
+We are opposed to collaboration with bourgeois groups. We do not believe that the class approach can be abandoned.
+
+Revolutionary workers must not shoulder official posts, nor establish themselves in the ministries. For as long as the war lasts, collaboration is permissible - on the battlefield, in the trenches, on the parapets and in productive labour in the rearguard.
+
+Our place is in the unions, in the work place, keeping alive that spirit of rebellion which will bloom on the earliest occasion that presents itself.
+
+We must have no part of combinations devised by bourgeois politicians acting in concert with foreign chancellories. That would be tantamount to strengthening our enemies and tightening the noose of capitalism. No more portfolios. No more ministries. Let's get back to the unions and the nitty-gritty of work tools.
+
+********************
+
+Let us campaign for unity among the proletariat. But on the understanding that this unity must be between workers, and not with bureaucrats or sinecurists.
+
+At present, an agreement with the revolutionary wing of the UGT by the CNT is a feasible prospect. But we do not believe that an understanding is possible with the UGT of Catalonia, or with Prieto's followers.
+
+************************
+
+Socialisation of the economy is crucial to victory in the war and progress in the revolution. The present drift cannot continue. Nor should anyone believe there is any advantage in the various centres of production operating to no co-ordinated pattem.
+
+But it has to be the workers who see that this is done.
+
+***********************
+
+Nor should the business about religion come up for further discussion. The people have already delivered its final verdict on that issue. Nonetheless, a tendency aimed at re-opening the churches, has emerged. Implementation of the law of freedom of worship and celebration of masses lead us to the conclusion that those in Government have forgotten the days of the great burnings.
+
+***************************
+
+There must be strict rationing in the distribution of goods. That workers should go hungry while hoarders find food in restaurants controlled by the working class is intolerable.
+
+Distribution must be socialised and accompanied by rationing.
+
+Bureaucracy must go. The thousands of bureaucrats who have descended on Barcelona are one of the worst plagues ever visited on us. In place of a bureaucrat, there ought to be a worker. And by bureaucrat we mean any cafe layabout.
+
+*************************
+
+Absolute suppression of the bureaucracy.
+
+*************************
+
+Fabulous rates of pay must go immediately. It is scandalous that where militiamen are earning ten pesetas a day, the bureaucrats are taking home such huge wages. Azana and Companys are still drawing the same salary as before.
+
+We want to see the introduction of the family wage. And an end, once and for all, to this galling inequality.
+
+It must be the people who administer justice. We cannot countenance the false practice that has grown up in this regard. There has been a drift away from the early class tribunals to courts made up of career magistrates. And we are going back to the way things used to be. Now they are doing away with the juries.
+
+Proletarian justice belongs to the workers alone.
+
+************************
+
+There must be progress towards socialisation of the farming industry in Spain. The sabotaging of the collectives has harmed agriculture enormously and has favoured speculation. Contact between town and countryside will bring the peasants closer to the proletarian class. And the mentality of the farm worker used to tilling his own particular plot will be changed.
+
+***********************
+
+Like any other activity in the country that falls under the headings social, cultural or economic, cultural problems are the indisputable province of the workers. It was they who set the pattern of this new era.
+
+************************
+
+Revolutionary order will be enforced by the workers. We insist that the uniformed corps, which are no guarantee of revolution, be dissolved. The unions must supply the men whose task it is to guard the new order we wish to implant.
+
+**********************
+
+As to foreign policy, we shall accept no armistice; and, when it comes to propagandising our revolution, we are of the view that that work must be done among the production centres abroad; not in any chancellories, let alone any cabals.
+
+We must speak to the workers abroad in the language of revolution. So far the vocabulary of democracy has been employed. It has to be brought home to the workers' organisations, to everyone, that they must act: to sabotage fascist production: to refuse to load raw materials or war materials for the assassins of the Spanish people. And that they must demonstrate in the streets, to demand fair treatment by their governments for the cause we defend, which is the cause of the world's proletariat. Our programme
+
+Revolutions cannot succeed if they have no guiding lights, no immediate objectives. That is what we find lacking in the July revolution. Although it had the strength, the CNT did not know how to mould and shape the activity that arose spontaneously in the street. The very leadership was startled by events which were, as far as they were concerned, totally unexpected.
+
+They had no idea which course of action to pursue. There was no theory. Year after year we had spent speculating around abstractions. What is to be done? The leaders were asking themselves then. And they allowed the revolution to be lost.
+
+Such exalted moments leave no time for hesitancy. Rather, one must know where one is headed. This is precisely the vacuum we seek to fill, since we feel that what happened in July and May must never happen again.
+
+We are introducing a slight variation in anarchism into our programme. The establishment of a revolutionary Junta.
+
+As we see it, the revolution needs organisms to oversee it, and repress, in an organised sense, hostile sectors. As current events have shown such sectors do not accept oblivion unless they are crushed.
+
+There may be anarchist comrades who feel certain ideological misgivings, but the lesson of experience is enough to induce us to stop pussy-footing.
+
+Unless we want a repetition of what is happening with the present revolution, we must proceed with the utmost energy against those who are not identified with the working class.
+
+After this brief preamble, we shall now proceed to set out the items of our programme.
+
+I-Establishment of a Revolutionary Junta or National Defence Council This body will be organised as follows: members of the revolutionary Junta will be elected by democratic vote in the union organisations. Account is to be taken of the number of comrades away at the front; these comrades must have the right to representation. The Junta will steer clear of economic affairs, which are the exclusive preserve of the unions.
+
+The functions of the revolutionary Junta are as follows:
+
+a) The management of the war
+
+b) The supervision of revolutionary order
+
+c) International affairs
+
+d) Revolutionary propaganda.
+
+Posts to come up regularly for re-allocation so as to prevent anyone growing attached to them. And the trade union assemblies will exercise control over the Junta's activities.
+
+II - All economic power to the syndicates Since July the unions have supplied evidence of the great capacity for constructive labour. Had we not relegated them to a secondary position, they would have yielded a great return on the investment. It will be the unions that structure the proletarian economy.
+
+An Economic Council may also be set up, taking into consideration the natures of the Industrial Unions and Industrial federations, to improve on the co-ordination of economic activities.
+
+III - Free municipality Prior to the coming of the foreign dynasties, municipal rights were defended with great tenacity in Spain. Such decentralisation precluded the erection of a new State system. And in this new Spain which the proletariat looks forward to, the charter of freedoms that went under at Villalar shall rise again. And the so-called Catalan and Basque problems . . . will be resolved.
+
+The Municipality shall take charge of those functions of society that fall outside the preserve of the unions. And since the society we are going to build shall be composed exclusively of producers, it will be the unions, no less, that will provide sustenance for the municipalities. And, as there is no disparity of interests, there can be no conflict.
+
+The Municipalities will be organised at the level of local, comarcal and peninsula federations. Unions and municipalities will maintain liaison at local, comarcal and national levels.
+
+Towards a fresh revolution The demise of the July revolution has been rapid. None of the revolutions generally regarded as the archetypes of social revolution experienced such a giddy decline.
+
+There can be no theorising about events following one another in stages, because revolution is not yet a fact. It is imperative that the inexhaustive genius of proletarian Spain be tapped once again. We must go out and make a new beginning.
+
+Revolutions occur with great frequency in our country. Sometimes they are embarked upon with out the requisite conditions being present and with no possibility of success. One has to be able to divine the precise moment, psychologically and insurrectionally speaking. The outcome hangs on the correct choice.
+
+Making forecasts is no easy task. Who can say when a new July or even a new May may be possible? We may assume, however, that in Spain the conditions will present themselves afresh.
+
+If the war continues to take this unfavourable turn all the politicians looking for a way to arrive at an armistice and a fraternal embrace will have to be cast on to the dung-heap. Good evidence of this is the sabotaging of the war, the war industries and the whole gamut of supplies, as well as the inflated prices of food - an inflation fomented by those in power with an eye to creating a favourable atmosphere in which to execute their plans for strangling the revolution.
+
+It may, perhaps, be that a negotiated settlement becomes a reality. Then the time will have come to resist it by force of arms. And should we win the war those problems that are posed in such poignant form today will be roused again on the return of our comrades from the fronts. What solutions will be found to them?
+
+How will the industry of war be converted into an industry of peace? Will there be work for the fighting men? Will all the victims be looked after? Will the officer class resign itself to the loss of its sinecures? Can markets be won back again?
+
+The three dates we have described each correspond to different positions. We cannot say which will apply. The problem, however, hinges on the preparation of a new rebellion so that the proletariat can assume control of the country in a definite way.
+
+They cannot say we are over-reacting. The present moment has nothing revolutionary about it. The counter-revolution feels quite bold enough to mount all sorts of provocations. The jails are crammed with workers. The rights of the proletariat are openly denied. We revolutionary workers are treated like underlings. The language of the bureaucrats, in uniform and out of uniform, is intolerable. Not to mention the attacks on the unions.
+
+A fresh revolution is the only course of action open. Let us set about its preparation. And at the height of a new stroke, we shall join the comrades who are today away fighting on the fronts, the comrades in the jails and the comrades who, even now, cherish the hope of a revolution that may bring justice to the working class; all in the streets together.
+
+To the success of a fresh revolution that will bring the workers of town and country complete satisfaction. To the attainment of an anarchist society that will satisfy man's aspirations.
+
+Forward comrades!!
+
+## Some notes on the membership of the FOD
+
+1. Jaime Balius - a crippled journalist. A former medical student of middle class origins. Opposed the Primo de Rivera dictatorship and from then on was associated with the CNT and FAI. Regular contribu tor to Solidaridad Obrera in 1935-1936. Author of a pamphlet "Octubre catalan!", heavily advertised in Solidaridad Obrera in 1935, dealing with the October '34 insurrection. Also wrote for the paper "Ideas" of the Bajo Llobregat comarca-a hard-line anarchist area. Secretary of the Friends of Durruti and director of its paper. He was imprisoned in Barcelona's Model Prison and also held by the Political Social Brigade under the Negrin government.
+
+2. Pablo Ruiz - Fought at Durruti's side in the capture of the Atarazanas barracks in Barcelona in 1936. Prominent in the Durruti Column. Editor of "El Amigo del Pueblo."
+
+3. Domingo Paniagua - Editor of "El Amigo del Pueblo."
+
+4. Juan Espanol.
+
+5. 'Mingo' - Ponciano Alonso-a writer of the "novelas de la ideal" so popular in CNT-FAI circles before 1936.
+
+6. Francisco Carreno - a close collaborator of Durruti's as a member of the Column's War Committee. Visited Russia along with Martin Gudell in late 1936 bearing a message from Durruti to the Soviet workers -not their government. Attended a meeting by the Friends of Durruti in the Poliorama Theatre in Barcelona, a short time before May 1937. Died in France in February 1947.
+
+7. Eleuterio Roig - one of the editors of 'El Amigo del Pueblo.'
+
+8. Jaime Rodriguez.
+
+9. Juan Santana Calero - a libertarian youth leader from around Malaga, and a member of the Libertarian Youth's Catalan Regional Committee with responsibility for press, publicity and culture.
+
+10. 'Fulmen' - who had a regular column in the Friends of Durruti paper concentrating on analogies between the Spanish and French revolutions.
+
+11. 'Atarca.'
+
+12. Ada Marti.
+
+13. Manuel Sanchez - from the mining town of Sallent whose death was recorded in 'El Amigo del Pueblo' No. 2 dated 26 May 1937.
+
+14. 'Artemisa' - writer on El Amigo del Pueblo.
+
+15. Francisco Garcia - whose death was reported in Solidaridad Obrera, 16 April 1937 as being "of especial interest to Friends of Durruti group."
+
+16. In Solidaridad Obrera of 28 May 1937, the Regional Committee of the CNT and the FAI and the local Barcelona Federation of unions said these organisations should proceed to expel members of the Friends of Durruti from their ranks unless they publicly disowned the group. Next day Solidaridad Obrera carried such a statement from Joaquin Aubi and Rosa Munoz, resigning from the group.
+
+Balius is confident that the group had the backing of the CNT-FAI grassroots, and the Friends of Durruti had groups in Sans, Torrasa, Gracia, Sabadell and Sallent, with sympathisers on the Aragon front.
+
+The Friends of Durruti were especially strong in the Food Syndicate. 'El Amigo del Pueblo' No. 8 dated 21 September 1937 carries a report of a police attack on that union's premises in the early hours of 20 September 1937. Hundreds of Civil (Republican) Guards, with tanks, an artillery battery and machine guns descended on.the local, arresting 23 people there. In 'El Amigo del Pueblo' No. 2 (26 May 1937), the Friends of Durruti record certain donations to their press fund. 1000 pesetas from the X group on the Aragon front, l000 pesetas from the comrades at Pina, 100 pesetas from Miguel Chueca (of the council of Aragon) and 25 pesetas from Gregorio Jover and 25 from the committee at Bellver de Cinca.
+
+[A Milita mans wages were 10 pesetas a day at the time AF].
 
 [Read original on libcom.org](https://libcom.org/article/towards-fresh-revolution-friends-durruti)

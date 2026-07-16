@@ -4,8 +4,11 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/1980s-1990s-myths-toyota-system"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/history/Toyota.jpg"
+page_type: stub
 mirror_state: full
+description: ""
 tags:
   - "technology"
   - "manufacturing and materials"
@@ -15,19 +18,13 @@ tags:
   - "management"
   - "work life"
   - "Nomura Masami"
-files:
-  - name: "TheMythsoftheToyotaSystem0.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/TheMythsoftheToyotaSystem0.pdf"
-    hosted: true
+images:
+  - "https://files.libcom.org/files/images/history/Toyota.jpg"
+links: []
+files: []
 ---
-
 # 1980s-1990s: The Myths of the Toyota System
 
-
 Nomura Masami on the myths of the Toyota system of management, in PDF format.
-
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/TheMythsoftheToyotaSystem0.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/1980s-1990s-myths-toyota-system)

@@ -4,8 +4,11 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/international-council-correspondence-united-workers-party-america"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/library/international-council-correspondence_0.jpg"
+page_type: book
 mirror_state: none
+description: ""
 tags:
   - "United Workers Party of America"
   - "United States"
@@ -14,11 +17,12 @@ tags:
   - "International Council Correspondence"
   - "publications"
   - "PDF"
+images:
+  - "https://files.libcom.org/files/images/library/international-council-correspondence_0.jpg"
+links: []
 files: []
 ---
-
 # International Council Correspondence - United Workers Party of America
-
 
 Complete online archive of International Council Correspondence, a council/left communist publication of the United Workers Party of America in the 1930s.
 

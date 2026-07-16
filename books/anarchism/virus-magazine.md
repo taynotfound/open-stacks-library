@@ -4,8 +4,11 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/virus-magazine"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/library/virus-11.png"
+page_type: book
 mirror_state: full
+description: ""
 tags:
   - "Anarchist Federation"
   - "Colin Parker"
@@ -14,6 +17,9 @@ tags:
   - "United Kingdom"
   - "publications"
   - "PDF"
+images:
+  - "https://files.libcom.org/files/images/library/virus-11.png"
+links: []
 files:
   - name: "V1.pdf"
     type: "PDF"
@@ -59,29 +65,27 @@ files:
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V10.pdf"
     hosted: true
-  - name: "V12.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V12.pdf"
-    hosted: true
 ---
-
 # Virus magazine
 
+Complete online archive of Virus magazine, a journal for militant anarchism initially founded by Colin Parker which then became the magazine of the Anarchist Communist Federation (later renamed the Anarchist Federation ).
 
-Complete online archive of Virus magazine, a journal for militant anarchism initially founded by Colin Parker which then became the magazine of the Anarchist Communist Federation (later renamed the Anarchist Federation).
+## Virus #11
 
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V1.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V2.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Virus_3_full.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V4.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V5.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V6.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Virus_7_full.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/virus_8_full.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/virus_9_full.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V13.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V10.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V12.pdf) (self-hosted)
+Issue of Virus magazine from late 1987 with articles about anarchism and community, Lenin and work and more.
+
+## Contents
+
+- Where we stand
+
+- On Marilyn French's "Beyond Power" - Liz Verron
+
+- Anarchy and community
+
+- Marx, Lenin and work: a critical look at Lenin and his thoughts and words on work and work practices
+
+- Letters
+
+- Don Fitz's article on delegate organisation, particularly on the problems of instant recall
 
 [Read original on libcom.org](https://libcom.org/article/virus-magazine)

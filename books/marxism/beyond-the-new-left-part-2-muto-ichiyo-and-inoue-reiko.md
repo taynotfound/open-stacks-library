@@ -4,24 +4,28 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/beyond-new-left-part-2-muto-ichiyo-and-inoue-reiko"
-cover: ""
+source_name: "libcom.org"
+cover: "https://files.libcom.org/files/image015%5B1%5D.jpg"
+page_type: book
 mirror_state: full
+description: ""
 tags:
   - "Marxism"
   - "Muto Ichiyo"
   - "Japan"
   - "social movements"
   - "PDF"
+images:
+  - "https://files.libcom.org/files/image015%5B1%5D.jpg"
+links: []
 files:
-  - name: "BeyondtheNewLeftpart2.pdf"
+  - name: "PDF"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/BeyondtheNewLeftpart2.pdf"
-    hosted: true
+    url: "https://files.libcom.org/files/BeyondtheNewLeftpart2.pdf"
+    hosted: false
 ---
-
 # Beyond the New Left Part 2 - Muto Ichiyo and Inoue Reiko
 
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/BeyondtheNewLeftpart2.pdf) (self-hosted)
+Beyond the New Left Part 2 - Muto Ichiyo and Inoue Reiko Presented in PDF format. (1mb)
 
 [Read original on libcom.org](https://libcom.org/article/beyond-new-left-part-2-muto-ichiyo-and-inoue-reiko)

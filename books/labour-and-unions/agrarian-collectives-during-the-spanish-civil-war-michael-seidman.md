@@ -4,8 +4,11 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/agrarian-collectives-during-spanish-civil-war-michael-seidman"
-cover: ""
+source_name: "libcom.org"
+cover: "https://files.libcom.org/files/collective_farm%5B1%5D.jpg"
+page_type: stub
 mirror_state: full
+description: ""
 tags:
   - "Michael Seidman"
   - "retail and food"
@@ -15,19 +18,13 @@ tags:
   - "agriculture"
   - "Spanish civil war"
   - "PDF"
-files:
-  - name: "Seidman.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Seidman.pdf"
-    hosted: true
+images:
+  - "https://files.libcom.org/files/collective_farm%5B1%5D.jpg"
+links: []
+files: []
 ---
-
 # Agrarian Collectives during the Spanish Civil War - Michael Seidman
 
-
 Michael Seidman on the farming collectives during the Spanish revolution.
-
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Seidman.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/agrarian-collectives-during-spanish-civil-war-michael-seidman)

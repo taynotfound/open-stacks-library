@@ -4,26 +4,23 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/pyrate-captain-mission-larry-law"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/library/pyrate01.jpg"
+page_type: stub
 mirror_state: full
+description: ""
 tags:
   - "fiction"
   - "pirates"
   - "Larry Law"
   - "PDF"
-files:
-  - name: "Pyrate Captain Mission.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Pyrate_Captain_Mission.pdf"
-    hosted: true
+images:
+  - "https://files.libcom.org/files/images/library/pyrate01.jpg"
+links: []
+files: []
 ---
-
 # Pyrate Captain Mission - Larry Law
 
-
 A short fictional pocketbook about the pirate Captain Mission, by Situationist Larry Law.
-
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Pyrate_Captain_Mission.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/pyrate-captain-mission-larry-law)

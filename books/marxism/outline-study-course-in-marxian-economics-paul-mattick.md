@@ -4,8 +4,11 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/outline-study-course-marxian-economics-paul-mattick"
+source_name: "libcom.org"
 cover: "https://files.libcom.org/files/images/library/OutlineStudyCourseCover.jpg"
+page_type: article
 mirror_state: full
+description: ""
 tags:
   - "Karl Marx"
   - "Marxism"
@@ -13,6 +16,9 @@ tags:
   - "Paul Mattick"
   - "International Council Correspondence"
   - "PDF"
+images:
+  - "https://files.libcom.org/files/images/library/OutlineStudyCourseCover.jpg"
+links: []
 files:
   - name: "OutlineStudyCoursePartOne.pdf"
     type: "PDF"
@@ -22,20 +28,13 @@ files:
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/OutlineStudyCoursePartTwo.pdf"
     hosted: true
-  - name: "Outline Study Course - 3_0.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Outline_Study_Course_-_3_0.pdf"
-    hosted: true
 ---
-
 # Outline study course in Marxian economics - Paul Mattick
 
+Paul Mattick's guide to Capital, created for study groups for unemployed workers for classes on the first volume of Marx's Capital ", first published as a pamphlet by International Council Correspondence in 1935.
 
-Paul Mattick's guide to Capital, created for study groups for unemployed workers for classes on the first volume of Marx's Capital", first published as a pamphlet by International Council Correspondence in 1935.
+> “In the unemployed movement, of course the question arose about what to do with people who have nothing to do. So we set up study groups. For this purpose, I wrote a brief guide on how to teach people Capital or preferably how it can be read and discussed with them. For two years, we had regular courses on Marx’s Capital, which were attended by about eighty to a hundred people and were very successful in every respect. ...The main thing was the workers themselves—here, that meant the unemployed—who were supposed to learn self-determination and who had to decide for themselves what they wanted to do. We left it to them, we made proposals, but we did not try to push through a political agenda, but simply what the workers wanted. We tried to put ourselves behind them and, at the same time, influence them ideologically, but not through party propaganda, but through Marx’s Capital, to which neither the Socialists nor the Communists could object." (Paul Mattick, Die Revolution war für mich ein großes Abenteuer)
 
-## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/OutlineStudyCoursePartOne.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/OutlineStudyCoursePartTwo.pdf) (self-hosted)
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Outline_Study_Course_-_3_0.pdf) (self-hosted)
+“In the unemployed movement, of course the question arose about what to do with people who have nothing to do. So we set up study groups. For this purpose, I wrote a brief guide on how to teach people Capital or preferably how it can be read and discussed with them. For two years, we had regular courses on Marx’s Capital, which were attended by about eighty to a hundred people and were very successful in every respect. ...The main thing was the workers themselves—here, that meant the unemployed—who were supposed to learn self-determination and who had to decide for themselves what they wanted to do. We left it to them, we made proposals, but we did not try to push through a political agenda, but simply what the workers wanted. We tried to put ourselves behind them and, at the same time, influence them ideologically, but not through party propaganda, but through Marx’s Capital, to which neither the Socialists nor the Communists could object." (Paul Mattick, Die Revolution war für mich ein großes Abenteuer)
 
 [Read original on libcom.org](https://libcom.org/article/outline-study-course-marxian-economics-paul-mattick)
