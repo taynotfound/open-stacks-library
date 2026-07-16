@@ -1,0 +1,1462 @@
+---
+title: "The Law of Freedom in a Platform"
+author: "Gerrard Winstanley"
+date: "Jul 20, 2019"
+category: "philosophy-and-theory"
+source: "https://theanarchistlibrary.org/library/gerrard-winstanley-the-law-of-freedom-in-a-platform"
+source_name: "theanarchistlibrary.org"
+cover: ""
+page_type: book
+mirror_state: none
+description: "CHAP. I. - The Law of Freedom. The great searching of heart in these days is to find out where true freedom lies, that the commonwealth of England might be established in peace. Some say, 'It lies in the free use of trad"
+tags:
+  - "christian"
+  - "Libertarian communism"
+  - "Religion"
+images: []
+links: []
+files: []
+---
+
+# The Law of Freedom in a Platform
+
+*by Gerrard Winstanley*
+## CHAP. I. - The Law of Freedom.
+
+The great searching of heart in these days is to find out where true freedom lies, that the commonwealth of England might be established in peace.
+
+Some say, 'It lies in the free use of trading, and to have all patents, licences and restraints removed'. But this is a freedom under the will of a conqueror.
+
+Others say, 'It is true freedom to have ministers to preach, and for people to hear whom they will, without being restrained or compelled from or to any form of worship'. But this is an unsettled freedom.
+
+Others say, 'It is true freedom to have community with all women, and to have liberty to satisfy their lusts and greedy appetites'. But this is the freedom of wanton unreasonable beasts, and tends to destruction.
+
+Others say, 'It is true freedom that the elder brother shall be landlord of the earth, and the younger brother a servant'. And this is but a half freedom, and begets murmurings, wars and quarrels.
+
+All these and such like are freedoms: but they lead to bondage, and are not the true foundation-freedom which settles a commonwealth in peace.
+
+True commonwealth's freedom lies in the free enjoyment of the earth.
+
+True freedom lies where a man receives his nourishment and preservation, and that is in the use of the earth. For as man is compounded of the four materials of the creation, fire, water, earth and air; so is he preserved by the compounded bodies of these four, which are the fruits of the earth; and he cannot live without them. For take away the free use of these and the body languishes, the spirit is brought into bondage and at length departs, and ceaseth his motional action in the body.
+
+All that a man labours for, saith Solomon, is this, That he may enjoy the free use of the earth, with the fruits thereof. Eccles. 2.24.
+
+Do not the ministers preach for maintenance in the earth? the lawyers plead causes to get the possessions of the earth? Doth not the soldier fight for the earth? And doth not the landlord require rent, that he may live in the fulness of the earth by the labour of his tenants?
+
+And so, from the thief upon the highway to the king who sits upon the throne, do not everyone strive, either by force of arms or secret cheats, to get the possessions of the earth one from another, because they see their freedom lies in plenty, and their bondage lies in poverty?
+
+Surely then, oppressing lords of manors, exacting landlords and tithe-takers, may as well say their brethren shall not breathe in the air, nor enjoy warmth in their bodies, nor have the moist waters to fall upon them in showers, unless they will pay them rent for it: as to say their brethren shall not work upon earth, nor eat the fruits thereof, unless they will hire that liberty of them. For he that takes upon him to restrain his brother from the liberty of the one, may upon the same ground restrain him from the liberty of all four, viz. fire, water, earth and air,
+
+A man had better to have had no body than to have no food for it; therefore this restraining of the earth from brethren by brethren is oppression and bondage; but the free enjoyment thereof is true freedom.
+
+I speak now in relation between the oppressor and the oppressed; the inward bondages I meddle not with in this place, though I am assured that, if it be rightly searched into, the inward bondages of the mind, as covetousness, pride, hypocrisy, envy, sorrow, fears, desperation and madness, are all occasioned by the outward bondage that one sort of people lay upon another.
+
+And thus far natural experience makes it good, that true freedom lies in the free enjoyment of the earth.
+
+If we look into the old Scriptures,
+
+We find that when Israel had conquered the nations he took possession of the enemies' land, and divided it by lot among the tribes, counting the enjoyment of the earth their perfect freedom.
+
+In the beginning of their wars they first sent spies to view the land of Canaan (Numb. 13.23 to 33), for the enjoyment of that was the freedom they aimed at, for being so long in the barren wilderness, and children multiplying upon them, they wanted land to live upon, Deut. 1.28.
+
+And when the spies returned and shewed them the fruits of the land, and had declared what a fruitful land it was, they were encouraged and restless till they were come thither; and when they heard bad tidings of the land, their hearts fell and they were discouraged.
+
+And when the spirit of wisdom, courage and providence in them had subdued those giants, and had given the house of Israel the land of Canaan, the rulers and chief officers of Israel's army did not divide the land among themselves; but, being faithful-spirited men, they forthwith divided the land by lot, to every tribe his portion without exception.
+
+And when Israel entreated the King of Sihon to suffer him to pass through his land, he would not suffer him, but gathered all his people together and fought with Israel; and the Lord gave Sihon into Israel's hand: and he took possession of his land.
+
+So that we see by Scripture proof likewise, the land is that which every one place their freedom in.
+
+If we look into the practice of kings and conquerors,
+
+Since the Scriptures of Moses were writ, we find they placed their freedom in the enjoyment of the free use of the earth.
+
+When William Duke of Normandy had conquered England, he took possession of the earth for his freedom and disposed of our English ground to his friends as he pleased, and made the conquered English his servants, to plant the earth for him and his friends.
+
+And all kings, from his time to King Charles, were successors of that conquest; and all laws were made to confirm that conquest.
+
+For there are his old laws and statutes yet to be read, that do shew how he allowed the conquered English but three pence and four pence a day for their work, to buy them bread of their task-masters; but the freedom of the earth he and his friends kept in their own hands.
+
+And as kings, so the old gentry and the new gentry likewise, walking in the same steps, are but the successors of the Norman victory.
+
+But are not the Normans and their power conquered by the commoners of England? And why then should we not recover the freedom of our land again, from under that yoke and power?
+
+Then further, the Norman conqueror made laws whereby this English earth should be governed, and appointed two national officers to see those laws performed.
+
+The first officer was the lawyer; and his work is conversant about nothing but the disposing of the earth, and all courts of judicature and suits of law is about the ordering of the earth, according to his law made by him and his party.
+
+The next officer was the national clergy; and their work was to persuade the multitude of people to let William the Conqueror alone with a quiet possession and government of the earth, and to call it his and not theirs, and so not to rebel against him.
+
+And they were to tell the people that if they would acknowledge William Duke of Normandy and his successors to be their lord, king and ruler, and would be obedient to his government: then they should live in the haven, that is, in peace; and they should quietly enjoy their land which they rented, their houses and fruits of their labours without disturbance.
+
+But if they would not acknowledge him to be their lord, king and ruler, nor submit to his government, then they should be cast into hell; that is, into the sorrows of prisons, poverty, whips and death: and their houses and riches should be taken from them, etc.
+
+And this was a true prophetical and experimental doctrine. For do we not see that the laws of a king, while a king, had the power of life and death in them? And he who fell under the power of this lord must pay the uttermost farthing before he was released.
+
+And for their pains for thus preaching, the king established by his laws that they should have the tenth of the increase of all profits from the earth (I Sam. 8.15), placing their freedom where he placed his own, and that is in the use of the earth brought into their hands by the labours of the enslaved men.
+
+But in after times, when this national ministry appeared to the people to be but hirelings, and as the people grew in knowledge, they discovered their hypocrisy more and more, as they do in these days: then this clergy (the spirit of the old Pharisees) began to divine and to deceive the people by a shew of holiness or spiritual doctrine, as they call it, difficult to be understood by any but themselves; persuading the people to believe or fancy that true freedom lay in hearing them preach, and to enjoy that heaven which, they say, every man who believes their doctrine shall enjoy after he is dead: and so tell us of a heaven and hell after death, which neither they nor we know what will be. So that the whole world is at a loss in the true knowledge thereof, as Solomon said, Who shall bring him to see what shall be after he is dead? Eccles. 3.22 and 6.11.
+
+The former hell of prisons, whips and gallows they preached to keep the people in subjection to the king; but by this divined hell after death they preach to keep both king and people in awe to them, to uphold their trade of tithes and new-raised maintenance. And so having blinded both king and people they become the god that rules. This subtle divining spirit is the Whore that sits upon many waters; this is Nahash the Ammonite, that would not make peace with Israel, unless Israel would suffer him to put out their right eyes and to see by his, I Sam. I I.2.
+
+For so long as the people call that a truth which they call a truth, and believe what they preach, and are willing to let the clergy be the keepers of their eyes and knowledge (that is as much as Nahash did, put out their eyes to see by theirs); then all is well, and they tell the people they shall go to heaven.
+
+But if the eyes of the people begin to open, and they seek to find knowledge in their own hearts and to question the ministers' doctrine, and become like unto wise-hearted Thomas, to believe nothing but what they see reason for:
+
+Then do the minsters prepare war against that man or men, and will make no covenant of peace with him till they consent to have their right eyes put out, that is, to have their reason blinded, so as to believe every doctrine they preach and never question any thing, saying, 'The doctrine of faith must not be tried by reason.' No, for if it be, their mystery of iniquity will be discovered, and they would lose their tithes.
+
+Therefore no marvel though the national clergy of England and Scotland, who are the tithing priests and lords of blinded men's spirits, stuck so close to their master the King and to his monarchical oppressing government; for say they, 'If the people must not work for us and give us tithes, but we must work for ourselves as they do, our freedom is lost'. Aye, but this is but the cry of an Egyptian task-master, who counts other men's freedom his bondage.
+
+Now if the earth could be enjoyed in such a manner as every one might have provision, as it may by this platform I have offered, then will the peace of the commonwealth be preserved, and men need not act so hypocritically as the clergy do, and others likewise, to get a living. But when some shall enjoy great possessions, and others who have done as much or more for to purchase freedom shall have none at all, and be made slaves to their brethren, this begets offences.
+
+The glory of Israel's commonwealth is this,
+
+They had no beggar among them.
+
+As you read, when they had conquered the Canaanites and won that land by the purchase of the blood and labour, and by a joint assistance throughout the whole tribes of Israel; the officers and leaders of the people did not sell the land again to the remainder of their enemies, nor buy and sell it among themselves, and so by cheating the people set up a new oppression upon a new account. Neither did they fall a-parting the land before the crowning victory was gotten: but they forbore the disposing of the land till the war was over, and all the tribes stuck close together till all the fighting work was done.
+
+And when they saw the enemies' heart was broke, and that now they were the masters of the field, then they quietly took possession of the land as a free reward for all their hazards and labour.
+
+The officers and leaders were careful to keep promise and engagements to the people, and there was no treachery found in them, as to enrich themselves with the commonwealth's land, and to deprive others of the price of their blood and free-quarter and taxes.
+
+But they made canon with all the crown lands therein, and all other forfeited lands which was gotten by a joint assistance of person and purse of all the tribes. The Scriptures say, they made this canon land a common treasury of livelihood to the whole commonwealth of Israel, and so disposed of it as they made provision for every tribe and for every family in a tribe, nay for every particular man in a family; every one had enough, no man was in want, there was no beggary among them.
+
+They did not divide this land only to particular men who went out to war, but they who stayed at home had an equal share; they did not make one brother a lord of manor and landlord, and other brothers to be servants to them. But seeing the enemies were beaten not by the counsellors only, not by the leaders of the army only, but by the common soldiers also; and not only by them, but by the labourers who stayed at home to provide victuals and free-quarter: therefore did the counsellors and chief officers of the army agree to make provision for every one that assisted, either by person or purse; and this was pure righteousness.
+
+And to those families in a tribe which had many persons in it, to them they allotted more land; and to those families which had less number of persons, they allotted less land. So that not only the tribes in general but every family and person in a tribe, younger brother as well as elder brother, he who wrought at home to provide food as well as he that went to war, all had sufficient, there was no want, the oppression of beggary was not known among them. All burdens were taken off, and Israel in all his tribes and families was made a free commonwealth in power, as well as in name, I Sam. 30.24, Josh. 16, 17 and 18 Chapters.
+
+And thus the land was divided, and the whole land was the common stock, every one had a brotherly freedom therein. For the freedom of the one was the freedom of the other, there was no difference in that, they were men of true, faithful and public spirits not false-hearted.
+
+And so likewise When Esther prevailed with Ring Ahasuerus for freedom, she did not seek her own freedom and interest, but the freedom of all her kindred and friends; for common freedom was that which men of righteous spirits always sought after.
+
+All that I shall say is this, O that those who pretend to set up a gospel-commonwealth in England, Scotland and Ireland would not be worse than Moses, but rather exceed Moses, knowing that if this our English commonwealth's government carry perfect freedom in his hand, then shall the law go forth from England to all the nations of the world.
+
+This foundation being laid from the example of Israel's commonwealth and testimony of God's Word, I shall proceed how the earth shall be governed for the peace of a commonwealth. But by the way, to prevent mistake, I shall insert
+
+A short declaration to take off Prejudice.
+
+Some, hearing of this common freedom, think there must be a community of all the fruits of the earth whether they work or no, therefore strive to live idle upon other men's labours.
+
+Others, through the same unreasonable beastly ignorance, think there must be a community of all men and women for copulation, and so strive to live a bestial life.
+
+Others think there will be no law, but that everything will run into confusion for want-of government; but this platform proves the contrary.
+
+Therefore, because that transgression doth and may arise from ignorant and rude fancy in man, is the law added.
+
+That which true righteousness in my judgment calls community is this, to have the earth set free from all kingly bondage of lords of manors and oppressing landlords, which came in by conquest as a thief takes a true man's purse upon the highway, being stronger than he.
+
+And that neither the earth, nor any fruits thereof, should be bought or sold by the inhabitants one among another, which is slavery the kingly conquerors have brought in; therefore he set his stamp upon silver, that every one should buy and sell in his name.
+
+And though this be, yet shall not men live idle; for the earth shall be planted and reaped, and the fruits carried into barns and store-houses by the assistance of every family, according as is shewed hereafter in order.
+
+Every man shall be brought up in trades and labours, and all trades shall be maintained with more improvement, to the enriching of the commonwealth, more than now they be under kingly power.
+
+Every tradesman shall fetch materials, as leather, wool, flax, corn and the like, from the public store-houses, to work upon without buying and selling; and when particular works are made, as cloth, shoes, hats and the like, the tradesmen shall bring these particular works to particular shops, as it is now in practice, without buying and selling. And every family as they want such things as they cannot make, they shall go to these shops and fetch without money, even as now they fetch with money, as hereafter is shewed how in order.
+
+If any say, 'This will nurse idleness'; I answer, this platform proves the contrary, for idle persons and beggars will be made to work.
+
+If any say, 'This will make some men to take goods from others by violence and call it theirs, because the earth and fruits are a common stock'; I answer, the laws or rules following prevents that ignorance. For though the store-houses and public shops be commonly furnished by every family's assistance, and for every family's use, as is shewed hereafter how: yet every man's house is proper to himself, and all the furniture therein, and provision which he hath fetched from the store-houses is proper to himself; every man's wife and every woman's husband proper to themselves, and so are their children at their dispose till they come to age.
+
+And if any other man endeavour to take away his house, furniture, food, wife or children, saying every thing is common, and so abusing the law of peace, such a one is a transgressor, and shall suffer punishment, as by the government and laws following is expressed.
+
+For though the public store-houses be a common treasury, yet every man's particular dwelling is not common but by his consent, and the commonwealth's laws are to preserve a man's peace in his person and in his private dwelling, against the rudeness and ignorance that may arise in mankind.
+
+If any man do force or abuse women in folly, pleading community, the laws following do punish such ignorant and unrational practice; for the laws of a commonwealth are laws of moderate diligence and purity of manners.
+
+Therefore I desire a patient reading of what hereafter follows; and when you have heard the extent of commonwealth's government or freedom, then weigh it in the balance with kingly government or bondage; and see whether [i.e. which] brings most peace to the land, and establish that for government.
+
+For you must either establish commonwealth's freedom in power, making provision for every one's peace, which is righteousness; or else you must set up monarchy again.
+
+Monarchy is twofold; either for one king to rule, or for many to rule by kingly principles; for the king's power lies in his laws, not in the name. And if either one king rule, or many rule by king's principles, much murmuring, grudges, troubles and quarrels may and will arise among the oppressed people upon every gained opportunity.
+
+But if common freedom be found out and ease the oppressed, it prevents murmurings and quarrels, and establishes universal peace in the earth.
+
+Therefore seeing the power of government is in the hands of such as have professed to the world a godly righteousness, more purely than that of oppressing kings, without doubt their faithfulness and wisdom is required to be manifested in action as well as in words.
+
+But if they who profess more righteousness and freedom in words than the kings' government was, and yet can find out no government to ease the people but must establish the kings' old laws though they give it a new name; I will leave the sentence, worthy such a profession and such a people, to be given by the heart of every rational man. And so I shall proceed how the earth should be governed for the peace of a commonwealth.
+
+## CHAP. II. - What is Government in general.
+
+Government is a wise and free ordering of the earth and the manners of mankind by observation of particular laws or rules, so that all the inhabitants may live peaceably in plenty and freedom in the land where they are born and bred.
+
+In the government of a land there are three parts, viz. laws, fit officers and a faithful execution of those laws.
+
+First, there must be suitable laws for every occasion, and almost for every action that men do; for one law cannot serve in all seasons, but every season and every action have their particular laws attending thereupon for the preservation of right order. As for example,
+
+There is a time to plough, and the laws of right understanding attends upon that work; and there is a time to reap the fruits of the earth, and the laws of right observation attending thereupon.
+
+So that true government is a right ordering of all actions, giving to every action and thing its due weight and measure, and this prevents confusion. As Solomon speaks, There is a time for all things; a time to make promises and engagements and a time to see them performed; a right order in times of war, and a right order in times of peace; every season and time having its law or rule suitable; and this makes a healthful government, because it preserves peace in a right order.
+
+Secondly, there must be fit officers, whose spirits are so humble, wise and free from covetousness, as they can make the established laws of the land their will; and not through pride and vain-glory make their wills to rule above the rules of freedom, pleading prerogative.
+
+For when the right ordered laws do rule, the government is healthful; but when the will of officers rule above law, that government is diseased with a mortal disease.
+
+Thirdly, there must be a faithful execution of those laws; and herein lies the very life of government. For a right order in government lies not in the will of officers without laws, nor in laws without officers, nor in neither of them without execution. But when these three go hand in hand the government is healthful; but if any one of these be wanting the government is diseased.
+
+There is a twofold government, a kingly government and a commonwealth's government.
+
+What is kingly government or monarchy?
+
+Kingly government governs the earth by that cheating art of buying and selling, and thereby becomes a man of contention, his hand is against every man, and every man's hand against him; and take this government at the best, it is a diseased government, and the very city Babylon, full of confusion. And if it had not a club law to support it, there would be no order in it, because it is the covetous and proud will of a conqueror, enslaving a conquered people.
+
+This kingly government is he who beats pruning hooks and ploughs into spears, guns, swords and instruments of war, that he might take his younger brother's creation birthright from him, calling the earth his and not his brother's, unless his brother will hire the earth of him, so that he may live idle and at ease by his brother's labours.
+
+Indeed this government may well be called the government of highwaymen, who hath stolen the earth from the younger brethren by force, and holds it from them by force. He sheds blood not to free the people from oppression, but that he may be king and ruler over an oppressed people.
+
+The situation of this monarchical government
+
+Lies in the will of kings, alias conquerors, setting up lords of manors, exacting landlords, tithing priests and covetous lawyers, with all those pricking briars attending thereupon, to be task-masters to oppress the people, lest they should rise up in riches and power to disthrone him, and so to share the earth with him, redeeming their own creation rights again, which this kingly government withholds from mankind in all nations. For he is the great Man of Sin who is now revealed, who sits in the temple of God, ruling above all that is called God, and both by force and cheating policy takes the people's freedoms from them, Exod. 1.8, 2 Thes. 2.8,9.
+
+This kingly government is he that makes the elder brethren freemen in the earth, and the younger brethren slaves in the earth, before they have lost their freedom by transgression to the law.
+
+Nay, he makes one brother a lord and another a servant while they are in their mother's womb, before they have done either good or evil. This is the mighty ruler that hath made the election and rejection of brethren from their birth to their death, or frown eternity to eternity.
+
+He calls himself the Lord God of the whole creation, for he makes one brother to pay rent to another brother for the use of the water, earth and air, or else he will not suffer him by his laws and lawyers to live above ground, but in beggary; and yet he will be called righteous.
+
+And whereas the Scriptures say that the creator of all things (God) is no respecter of persons, yet this kingly power doth nothing else but respect persons, preferring the rich and the proud; therefore he denies the Scriptures and the true God of righteousness, though he pray and preach of the Scriptures, and keep fasts and thanksgiving-days to God, to be a cloak to hide his oppression from the people, whereby he shews himself to be the great Antichrist and mystery of iniquity, that makes war with Christ and his saints under pretence of owning him.
+
+The great law-giver of this kingly government
+
+Is covetousness ruling in the heart of mankind, making one brother to covet a full possession of the earth and a lordly rule over another brother, which he will have or else he will enslave or kill his brother; for this is Cain who killed Abel: and because of this, he is called the great red dragon, the god of this world, the oppressor, under which the whole creation hath groaned a long time, waiting to be delivered from him.
+
+The rise of kingly government is twofold.
+
+First, by a politic wit, in drawing the people out of common freedom into a way of common bondage; for so long as the earth is a common treasury to all men, kingly covetousness can never reign as king. Therefore his first device was to put the people to buy and sell the earth and the fruits one to another; for this would beget discontents and muddy the waters.
+
+And when this spirit of monarchy hath drawn the people into the way of buying and selling, and the people begin to vex one another, then began his opportunity to reign.
+
+For in that man wherein this kingly spirit seats himself, he tells the people that are wronged, 'Well, I'll ease you, and I'll set things to rights'. And then he went about to establish buying and selling by law, whereby the people had some ease for a time, but the cunning Machiavellian spirit got strength thereby to settle himself king in the earth.
+
+For after some time the people through ignorance began to multiply suits of law one against another, and to quarrel and fight. Now saith this subtle spirit, 'Come follow me' to one sort of people that are oppressed, 'and stick to me, and we will fight with those who wrong you; and if we conquer them, then we will govern the earth as we please, and they shall be our servants, and we will make them work for us'.
+
+Thereupon one sort of people followed one head, and another sort of people followed another head, and so wars began in the earth, and mankind fell a-fighting, one part conquering and enslaving another. And now man is fallen from his innocence, and from the glory of the spirit of common freedom, love and peace, into enmity; everyone striving to be king one over another; everyone striving to be a landlord of the earth, and to make his brother his servant to work for him.
+
+But still here is disorder, therefore this subtle spirit of darkness goes further and tells the people, 'You must make one man king over you all, and let him make laws, and let every one be obedient thereunto'. And when the people consented thereunto, they gave away their freedom, and they set up oppression over themselves.
+
+And this was the rise of kingly power: first by policy, drawing the people from a common enjoyment of the earth to the crafty art of buying and selling; secondly, to advance himself by the power of the sword, when that art of buying and selling had made them quarrel among themselves.
+
+So that this spirit of monarchy it is the spirit of subtlety and covetousness, filling the heart of mankind with enmity and ignorance, pride and vain-glory, because the strong destroys the weak; and so one Scripture calls this the power and government of the Beast, another Scripture calls it the god of this world or the devil. For indeed the monarchical spirit is the power of darkness, for it is the great thick cloud that hath hid the light of the sun of righteousness from shining in his full strength a long time.
+
+And though this kingly spirit doth call buying and selling a righteous thing, thereby to put the simple younger brother upon it, yet he will destroy it as he pleaseth, by patents, licences or monopolizing.
+
+Or else he will at his pleasure take away the riches which his younger brother hath got by trading, and so still lift up himself above his brother.
+
+And as he rise to the throne by the crafty art of buying and selling and by the sword, so he is maintained upon the throne by the same means.
+
+And the people now see that kingly power is the oppressor, and the maintainers thereof are called oppressors by the ancient writers of the Bible.
+
+This kingly power is the old heaven and the old earth that must pass away, wherein unrighteousness, oppression and partiality dwells.
+
+For indeed we never read that the people began to complain of oppression till kingly government rose up, which is the power of covetousness and pride; and which Samuel sets forth to be a plague and a curse upon the people in the first rise of it.
+
+He will take your sons and your daughters to be his servants and to run before his chariots, to plant his ground and to reap his harvest. He will take your fields, your vineyards and oliveyards, even the best of them, and give to his servants as pleaseth him. He will take the tenth of your seed and of your vineyards and give to his officers or ministers. I Sam. 8.
+
+And this was that god who appointed the people to pay tithes to the clergy.
+
+And many other oppressions did the kingly government bring upon the people, as you may read at large in Samuel.
+
+Read I Sam. 8. from Vers. 10. to 19.
+
+The winter's past, the spring time now appears,
+
+Begone thou kingly tyrant, with all thy Cavaliers.
+
+Thy day is past, and sure thou dost appear
+
+To be the bond-man's son, and not the free-born heir.
+
+Matt. 15. 13
+
+What is commonwealth's government?
+
+Commonwealth's government governs the earth without buying and selling; and thereby becomes a man of peace, and the restorer of ancient peace and freedom. He makes provision for the oppressed, the weak and the simple, as well as for the rich, the wise and the strong. He beats swords and spears into pruning hooks and ploughs; he makes both elder and younger brother freemen in the earth. Micah 4.3, 4, Isai. 33.1. and 65.17 to 25.
+
+All slaveries and oppressions which have been brought upon mankind by kings, lords of manors, lawyers and landlords and the divining clergy, are all cast out again by this government, if it be right in power as well as in name.
+
+For this government is the true restorer of all long-lost freedoms, and so becomes the joy of all nations, and the blessing of the whole earth: for this takes off the kingly curse, and makes Jerusalem a praise in the earth. Therefore all you who profess religion and spiritual things, now look to it, and see what spirit you do profess, for your profession is brought to trial.
+
+If once commonwealth's government be set upon the throne, then no tyranny or oppression can look him in the face and live.
+
+For where oppression lies upon brethren by brethren, that is no commonwealth's government, but the kingly government still; and the mystery of iniquity hath taken that peace-maker's name to be a cloak to hide his subtle covetousness, pride and oppression under.
+
+O England, England, wouldst thou have thy government sound and healthful? Then cast about and see and search diligently to find out all those burdens that came in by kings, and remove them; and then will thy commonwealth's government arise from under the clods, under which as yet it is buried and covered with deformity.
+
+If true commonwealth's freedom lie in the free enjoyment of the earth, as it doth, then whatsoever law or custom doth deprive brethren of their freedom in the earth, it is to be cast out as unsavory salt.
+
+The situation of commonwealth's government
+
+Is within the laws of common freedom, whereby there is a provision for livelihood in the earth both for elder and younger brother; and not the one enslaving the other, but both living in plenty and freedom.
+
+The officers, laws and customs hereafter mentioned, or such like, according to such a method, may be the foundation and pillars of commonwealth's government.
+
+This government depends not upon the will of any particular man or men; for it is seated in the spirit of mankind, and it is called the light, or son of righteousness and peace. The tyrants in all ages have made use of this man's name while he hath lain buried, to cover their cheating mystery of iniquity: for if common freedom were not pretended, the commoners of a land would never dance after the pipe of self-seeking wits.
+
+This commonwealth's government may well be called the ancient of days; for it was before any other oppressing government crept in.
+
+It is the moderator of all oppression; and so is like Moses and Joseph in Pharaoh's court, and in time will be the restorer of long lost freedoms to the creation, and delights to plant righteousness over the face of the whole earth.
+
+The great lawgiver in commonwealth's government
+
+Is the spirit of universal righteousness dwelling in mankind, now rising up to teach every one to do to another as he would have another do to him, and is no respecter of persons: and this spirit hath been killed in the Pharisaical kingly spirit of self-love, and been buried in the dunghill of that enmity for many years past.
+
+And if these be the days of his resurrection to power, as we may hope, because the name of commonwealth is risen and established in England by a law, then we or our posterity shall see comfortable effects.
+
+In that nation where this commonwealth's government shall be first established, there shall be abundance of peace and plenty, and all nations of the earth shall come flocking thither to see his beauty, and to learn the ways thereof; and the law shall go forth from that Sion, and that Word of the Lord from that Jerusalem, which shall govern the whole earth. Micah 4.1, 2.
+
+There shall be no tyrant kings, lords of manors, tithing priests, oppressing lawyers, exacting landlords, nor any such like pricking briar in all this holy mountain of the Lord God our righteousness and peace; for the righteous law shall be the rule for everyone, and the judge of all men's actions.
+
+David desired rather to be a door-keeper in this house of God, or commonwealth's government, than to live in the tents of wickedness, which was the kingly oppressing courts.
+
+If any go about to build up commonwealth's government upon kingly principles, they will both shame and lose themselves; for there is a plain difference between the two governments.
+
+And if you do not run in the right channel of freedom, you must, nay you will, as you do, face about and turn back again to Egyptian monarchy: and so your names in the days of posterity shall stink and be blasted with abhorred infamy for your unfaithfulness to common freedom; and the evil effects will be sharp upon the backs of posterity.
+
+Therefore seeing England is declared to be a free commonwealth, and the name thereof established by a law; surely then the greatest work is now to be done, and that is to escape all kingly cheats in setting up a commonwealth's government, that the power and the name may agree together; so that all the inhabitants may live in peace, plenty and freedom, otherwise we shall shew our government to be gone no further but to the half day of the Beast, or to the dividing of time, of which there must be an overturn. Dan. 7.25, Rev. 12.14.
+
+For oppression was always the occasion why the spirit of freedom in the people desired change of government.
+
+When Samuel's sons took bribes and grew rich upon the common purse, and forgot to relieve the oppressed, that made the people forsake the government by judges, and to desire a kingly government. I Sam. 8.34.
+
+And the oppressions of the kingly government have made this age of the world to desire a commonwealth's government and the removal of the kings; for the spirit of light in man loves freedom and hates bondage.
+
+And because the spirit in mankind is various within itself, for some are wise, some are foolish, some idle, some laborious, some rash, some mild, some loving and free to others, some envious and covetous, some of an inclination to do as they would have others do to them, but others seek to save themselves and to live in fulness, though others perish for want:
+
+Therefore because of this was the law added, which was to be a rule and judge for all men's actions, to preserve common peace and freedom; and Paul writ, The law was added because of transgression, one against another.
+
+The haven gates are now set ope for English man to enter: The freedoms of the earth's his due, if he will make adventure.
+
+## CHAP. III. - Where began the first original of Government in the Earth among Mankind?
+
+The original root of magistracy is common preservation, and it rose up first in a private family: for suppose there were but one family in the world, as is conceived, father Adam's family, wherein were many persons:
+
+Therein Adam was the first governor or officer in the earth, because as he was the first father, so he was the most wise in contriving and the most strong for labour, and so the fittest to be the chief governor. For this is the golden rule,
+
+Let the wise help the foolish, and let the strong help the weak. Psa. 35.10, Rom. 15. 1, 2.
+
+But some may say here that Adam was under no law, but his will was a law to him and his household; therefore, from the root from whence magistracy first rose, it is clear-that officers are to be under no law but their own wills, and the people are to be subject thereunto. I answer:
+
+The law of necessity, that the earth should be planted for the common preservation and peace of his household, was the righteous rule and law to Adam, and this law was so clearly written in the hearts of his people that they all consented quietly to any counsel he gave them for that end.
+
+Therefore not Adam's will only, but the will of his people likewise, and the law of common preservation, peace and freedom, was the righteous law that governed both Adam and his household.
+
+But yet observe, that from the father in a family was the first rise of magisterial government, because children wanting experience of their own preservation, therefore such as are experienced are to propound the law of government to them: and therefore from Adam to this day, the law of common preservation is the rule and foundation of true magistracy: and it is the work of all magistrates to help the weak and the foolish.
+
+There are two root[s] from whence laws do spring.
+
+The first root you see is common preservation, when there is a principle in everyone to seek the good of others as himself, without respecting persons: and this is the root of the tree magistracy, and the law of righteousness and peace: and all particular laws found out by experience, necessary to be practised for common preservation, are the boughs and branches of that tree.
+
+And because, among the variety of mankind, ignorance may grow up; therefore this original law is written in the heart of every man, to be his guide or leader: so that if an officer be blinded by covetousness and pride, and that ignorance rule in him, yet an inferior man may tell him where he goes astray; for common preservation and peace is the foundation rule of all government. And therefore if any will preach or practise fundamental truths or doctrine, here you may see where the foundation thereof lies.
+
+The second root is self-preservation: when particular officers seek their own preservation, ease; honour, riches and freedom in the earth, and do respect persons that are in power and riches with them and regard not the peace, freedom and preservation of the weak and foolish among brethren.
+
+And this is the root of the tree tyranny, and the law of unrighteousness; and all particular kingly laws found out by covetous policy to enslave one brother to another, whereby bondage, tears, sorrows and poverty are brought upon many men, are all but the boughs and branches of that tree, tyranny; and such officers as these are fallen from true magistracy, and are no members thereof, but the members of tyranny, who is the devil and Satan.
+
+And indeed this tyranny is the cause of all wars and troubles, and of the removal of the government of the earth oust of one hand into another, so often as it is, in all nations.
+
+For if magistrates had a care to cherish the peace and liberties of the common people, and see them set free from oppression, they might sit in the chair of government and never be disturbed.
+
+But when their sitting is altogether to advance their own interest, and to forget the afflictions of Joseph or their brethren that are under bondage: this is a forerunner of their own downfall, and oftentime proves the plague to the whole land.
+
+Therefore the work of all true magistrates is to maintain the common law, which is the root of right government and preservation and peace to everyone; and to cast out all self-ended principles and interests, which is tyranny and oppression, and which breaks common peace.
+
+For surely the disorderly actings of officers break the peace of the commonwealth more than any men whatsoever.
+
+All officers in a true magistracy of a commonwealth are to be chosen officers.
+
+In the first family, which is the foundation from whence all families sprang, there was the father; he is the first link of the chain magistracy. The necessity of the children that sprang from him doth say,
+
+'Father, do thou teach us how to plant the earth, that we may live, and we will obey'. By this choice they make him not only a father, but a master and ruler. And out of this root springs up all magistrates and officers, to see the law executed and to preserve peace in the earth, by seeing that right government is observed.
+
+For here take notice, that though the children might not speak, yet their weakness and simplicity did speak and chose their father to be their overseer.
+
+So that he who is a true commonwealth's officer is not to step into the place of magistracy by policy or violent force, as all kings and conquerors do; and so become oppressing tyrants, by promoting their self-ended interests or Machiavellian cheats, that they may live in plenty and rule as lords over their brethren.
+
+But a true commonwealth's officer is to be a chosen one, by them who are in necessity and who judge him fit for that work.
+
+And thus a father in a family is a commonwealth's officer, because the necessity of the young children chose him by a joint consent, and not otherwise.
+
+Secondly, in a bigger family called a parish, the body of the people are confused and disordered, because some are wise, some foolish, some subtle and cunning to deceive, others plain-hearted, some strong, some weak, some rash, angry, some mild and quiet-spirited. By reason whereof offences do arise among brethren, and their common peace is broken.
+
+Therefore as necessity hath added a law to limit men's manners, because of transgressions one against another,
+
+So likewise doth the necessity of common peace move the whole body of the parish to choose two, three or more, within that circuit, to be their overseers, to cause the unruly ones, for whom only the law was added, to be subject to the law or rule, that so peace may be preserved among them in the planting of the earth, reaping the fruits, and quiet enjoyment.
+
+Thirdly, in every county, shire or land, wherein the families are increased to a larger commonwealth, the necessity of the people moves them still to choose more overseers and officers to preserve common peace.
+
+And when the people have chosen all officers, to preserve a right order in government of [the] earth among them, then doth the same necessity of common peace move the people to say to their overseers and officers:
+
+'Do you see our laws observed for our preservation and peace, and we will assist and protect you.' And this word 'assist' and 'protect' implies:
+
+The rising up of the people by force of arms to defend their laws and officers against any invasion, rebellion or resistance, yea to beat down the turbulence of any foolish or self-ended spirit that endeavours to break their common peace.
+
+So that all true officers are chosen officers, and when they act to satisfy the necessity of them who chose them, then they are faithful and righteous servants to that commonwealth, and then there is a rejoicing in the city.
+
+But when officers do take the possessions of the earth into their own hands, lifting themselves up thereby to be lords over their masters, the people who chose them, and will not suffer the people to plant the earth and reap the fruits for their livelihood, unless they will hire the land of them or work for day-wages for them, that they may live in ease and plenty and not work:
+
+These officers are fallen from true magistracy of a commonwealth, and they do not act righteously; and because of this, sorrows and tears, poverty and bondages, are known among mankind; and now that city mourns.
+
+And surely if it be carefully looked into, the necessity of the people never chose such officers, but they were either voluntary soldiers or officers chosen by them who ran before they were called; and so by policy and force they sat down in the chair of government, strengthening one sort of people to take the free use of the earth from another sort; and these are sons of bondage, and they act in darkness: by reason whereof the prophet Isaiah cries out, Darkness hath covered the earth, and thick darkness the people; for the leaders of the people have caused them to err: I fear so, O England, etc.
+
+All officers in a commonwealth are to be chosen new ones every year.
+
+When public officers remain long in place of judicature, they will degenerate from the bounds of humility, honesty and tender care of brethren, in regard the heart of man is so subject to be overspread with the clouds of covetousness, pride and vain-glory: for though at the first entrance into places of rule they be of public spirits, seeking the freedom of others as their own; yet continuing long in such a place where honours and greatness is coming in, they become selfish, seeking themselves and not common freedom; as experience proves it true in these days, according to this common proverb,
+
+Great offices in a land and army have changed the disposition of many sweet-spirited men.
+
+And nature tells us that if water stand long, it corrupts; whereas running water keeps sweet and is fit for common use.
+
+Therefore as the necessity of common preservation moves the people to frame a law and to choose officers to see the law obeyed, that they may live in peace:
+
+So doth the same necessity bid the people, and cries aloud in the ears and eyes of England to choose new officers and to remove the old ones, and to choose state-officers every year; and that for these reasons:
+
+First, to prevent their own evils; for when pride and fulness take hold of an officer, his eyes are so blinded therewith that he forgets he is a servant to the commonwealth, and strives to lift up himself high above his brethren, and oftentimes his fall proves very great: witness the fall of oppressing kings, bishops and other state officers.
+
+Secondly, to prevent the creeping in of oppression into the commonwealth again: for when officers grow proud and full, they will maintain their greatness, though it be in the poverty, ruin and hardship of their brethren: witness the practice of kings and their laws, that have crushed the commoners of England a long time.
+
+And have we not experience in these days that some officers of the commonwealth are grown so mossy for want of removing that they will hardly speak to an old acquaintance, if he be an inferior man, though they were very familiar before these wars began? Etc.
+
+And what hath occasioned this distance among friends and brethren but long continuance in places of honour, greatness and riches?
+
+Thirdly, let officers be chosen new every year in love to our posterity; for if burdens and oppressions should grow up in our laws and in our officers for want of removing, as moss and weeds grow in some land for want of stirring, surely it will be a foundation of misery, not easily to be removed by our posterity; and then will they curse the time that ever we their fore-fathers had opportunities to set things to rights for their ease, and would not do it.
+
+Fourthly, to remove officers of state every year will make them truly faithful, knowing that others are coming after who will look into their ways; and if they do not do things justly, they must be ashamed when the next officers succeed. And when officers deal faithfully in the government of the commonwealth, they will not be unwilling to remove. The peace of London is much preserved by removing their officers yearly.
+
+Fifthly, it is good to remove officers every year, that whereas many have their portions to obey, so many may have their turns to rule; and this will encourage all men to advance righteousness and good manners in hopes of honour; but when money and riches bears all the sway in the rulers' hearts, there is nothing but tyranny in such ways.
+
+Sixthly, the commonwealth hereby will be furnished with able and experienced men, fit to govern, which will mightily advance the honour and peace of our land, occasion the more watchful care in the education of children, and in time will make our commonwealth of England the lily among the nations of the earth.
+
+Who are fit to choose, and fit to be chosen, officers in a commonwealth?
+
+All uncivil livers, as drunkards, quarrellers, fearful ignorant men, who dare not speak truth lest they anger other men; likewise all who are wholly given to pleasure and sports, or men who are full of talk; all these are empty of substance, and cannot be experienced men, therefore not fit to be chosen officers in a commonwealth; yet they may have a voice in the choosing.
+
+Secondly, all those who are interested in the monarchical power and government ought - neither to choose nor be chosen officers to manage commonwealth's affairs, for these cannot be friends to common freedom. And these are of two sorts:
+
+First, such as have either lent money to maintain the King's army, or in that army have been soldiers to fight against the recovering of common freedom; these are neither to choose nor be chosen officers in the commonwealth as yet, for they have lost their freedom; yet I do not say that they should be made servants, as the conquered usually are made servants, for they are our brethren, and what they did, no doubt, they did in a conscionable zeal, though in ignorance.
+
+And seeing but few of the Parliament's friends understand their common freedoms, though they own the name commonwealth, therefore the Parliament's party ought to bear with the ignorance of the King's party, because they are brethren, and not make them servants, though for the present they be suffered neither to choose nor be chosen officers, lest that ignorant spirit of revenge break out in them to interrupt our common peace.
+
+Secondly, all those who have been so hasty to buy and sell the commonwealth's land, and so to entangle it upon a new account, ought neither to choose nor be chosen officers, for hereby they declare themselves either to be for kingly interest, or else are ignorant of commonwealth's freedom, or both, therefore unfit to make laws to govern a free commonwealth, or to be overseers to see those laws executed.
+
+What greater injury could be done to the commoners of England, than to sell away their land so hastily, before the people knew where they were, or what freedom they had got by such cost and bloodshed as they were at? And what greater ignorance could be declared by officers than to sell away the purchased land from the purchasers, or from part of them, into the hands of particular men to uphold monarchical principles?
+
+But though this be a fault, let it be bore withal, it was ignorance of brethren; for England hath lain so long under kingly slavery that few knew what common freedom was; and let a restoration of this redeemed land be speedily made by them who have the possession of it.
+
+For there is neither reason nor equity that a few men should go away with that land and freedom which the whole commoners have paid taxes, free-quarter and wasted their estates, healths and blood to purchase out of bondage, and many of them are in want of a comfortable livelihood.
+
+Well, these are the men that take away other men's rights from them, and they are members of the covetous generation of self-seekers, therefore unfit to be chosen officers, or to choose.
+
+Who then are fit to be chosen commonwealth's officers?
+
+Why truly, choose such as have a long time given testimony by their actions to be promoters of common freedom, whether they be members in church fellowship or not in church fellowship, for all are one in Christ.
+
+Choose such as are men of peaceable spirits, and of a peaceable conversation.
+
+Choose such as have suffered under kingly oppression, for they will be fellow-feelers of others' bondages.
+
+Choose such as have adventured the loss of their estates and lives to redeem the land from bondage, and who have remained constant.
+
+Choose such as are understanding men, and who are experienced in the laws of peaceable and right-ordered government.
+
+Choose men of courage, who are not afraid to speak the truth; for this is the shame of many in England at this day, they are drowned in the dung-hill mud of slavish fear of men; these are covetous men, not fearing God, and their portion is to be cast without the city of peace amongst the dogs.
+
+Choose officers out of the number of those men that are above forty years of age, for these are most likely to be experienced men; and all these are likely to be men of courage, dealing truly and hating covetousness.
+
+And if you choose men thus principled, who are poor men, as times go (for the conqueror's power hath made many a righteous man a poor man); then allow them a yearly maintenance from the common stock, until such time as a commonwealth's freedom is established, for then there will be no need of such allowances.
+
+What is the reason that most people are so ignorant of their freedoms, and so few fit to be chosen commonwealth's officers?
+
+Because the old kingly clergy, that are seated in parishes for lucre of tithes, are continually distilling their blind principles into the people, and do thereby nurse up ignorance in them; for they observe the bent of the people's minds, and make sermons to please the sickly minds of ignorant people, to preserve their own riches and esteem among a charmed, befooled and besotted people.
+
+## CHAP. IV.- What are the Officers' Names in a free Commonwealth?
+
+In a private family, a father or master is an officer.
+
+In a town, city or parish,
+
+a peace-maker.
+
+a four-fold office of overseers.
+
+a soldier.
+
+a task-master.
+
+an executioner.
+
+In a county or shire, (This is called either the judge's court, or the county senate)
+
+a judge.
+
+the peace-makers of every town within that circuit.
+
+the overseers and soldiers attending thereupon.
+
+In a whole land.
+
+a parliament.
+
+a commonwealth's ministry.
+
+a post-master.
+
+an army.
+
+All these offices are like links of a chain, they arise from one and the same root, which is necessity of common peace, and all their works tend to preserve common peace; therefore they are to assist each other, and all others are to assist them, as need requires, upon pain of punishment by the breach of the laws. And the rule of right government being thus observed may make a whole land, nay the whole fabric of the earth, to become one family of mankind, and one well-governed commonwealth: as Israel was called one house of Israel, though it consisted of many tribes, nations and families.
+
+The Work of a father or master of a family.
+
+A father is to cherish his children till they grow wise and strong, and then as a master he is to instruct them in reading, in learning languages, arts and sciences, or to bring them up to labour, or employ them in some trade or other, or cause them to be instructed therein, according as is shewed hereafter in the education of mankind.
+
+A father is to have a care that as all his children do assist to plant the earth, or by other trades provide necessaries, so he shall see that everyone have a comfortable livelihood, not respecting one before another.
+
+He is to command them their work and see they do it, and not suffer them to live idle; he is either to reprove by words or whip those who offend, for the rod is prepared to bring the unreasonable ones to experience and moderation:
+
+That so children may not quarrel like beasts, but live in peace like rational men, experienced in yielding obedience to the laws and officers of the commonwealth, everyone doing to another as he would have another do to him.
+
+The work of a peace-maker.
+
+In a parish or town may be chosen three, four or six peacemakers, or more, according to the bigness of the place; and their work is twofold.
+
+First, in general to sit in council to order the affairs of the parish, to prevent troubles and to preserve common peace, and here they may be called councillors.
+
+Secondly, if there arise any matters of offence between man and man, by reason of any quarrels, disturbance or foolish actings, the offending parties shall be brought by the soldiers before any one or more of these peace-makers, who shall hear the matter and shall endeavour to reconcile the parties and make peace, and so put a stop to the rigour of the law, and go no further.
+
+But if the peace-maker cannot persuade or reconcile the parties, then he shall command them to appear at the judge's court at the time appointed to receive the judgment of the law.
+
+If any matters of public concernment fall out wherein the peace of the city, town or country in one county is concerned, then the peace-makers in every town thereabouts shall meet and consult about it; and from them, or from any six of them if need require, shall issue forth any order to inferior officers.
+
+But if the matters concern only the limits of a town or city, then the peace-makers of that town shall from their court send forth orders to inferior officers for the performing of any public service within their limits.
+
+Thirdly, if any proof be given that any officer neglects his duty, a peace-maker is to tell that officer between them two of his neglect; and if the officer continue negligent after this reproof, the peace-maker shall acquaint either the county senate or the national Parliament therewith, that from them the offender may receive condign punishment.
+
+And it is all to this end, that the laws be obeyed; for a careful execution of laws is the life of government.
+
+And while a peace-maker is careful to oversee the officers, all officers and others shall assist him, upon pain of forfeiture of freedom or other punishment, according to the rules following.
+
+One thing remember, that when any offender is brought before any of these chief peace-makers, then this is to be noted, that the offender hath rejected mercy once before by refusing to yield obedience to the overseers, as is explained further hereafter.
+
+The work of an overseer.
+
+In a parish or town there is to be a fourfold degree of overseers, which are to be chosen yearly.
+
+The first is an overseer to preserve peace, in case of any quarrels that may fall out between man and man; for though the earth with her fruits be a common treasury, and is to be planted and reaped by common assistance of every family, yet every house and all the furniture for ornament therein is a property to the indwellers; and when any family hath fetched in from the store-houses or shops either clothes, food or any ornament necessary for their use, it is all a property to that family.
+
+And if any other family or man come to disturb them, and endeavour to take away furniture, which is the ornament of his neighbour's house, or to burn, break or spoil wilfully any part of his neighbours' houses, or endeavour to take away either the food or clothing which his neighbour hath provided for his use, by reason whereof quarrels and provoking words may arise:
+
+This office of overseers is to prevent disturbance, and is an assistance to the peace-maker; and at the hearing of any such offence, this overseer shall go and hear the matter, and endeavour to persuade the offender, and to keep peace; and if friendship be made, and subjection be yielded to the laws for the peace of the commonwealth, the offender is only to be reproved for his rashness by his overseer; and there is an end.
+
+But if the offender be so violent that he will not refrain his offence to his neighbour at this overseer's persuasion, but remain stiff and stubborn, this overseer shall then give out an order to the soldier to carry the body of the offender before the council of the peace-makers, or before any one or more of them.
+
+And if the offender will not yield obedience to the laws of peace by the persuasion of the chief peace-makers neither, then this is to be noted to be the second time that this offender hath refused mercy.
+
+Then shall the peace-maker appoint him a day, and command him to appear before the judge's court, either in the city or country where the offence is given, and there he shall receive sentence according to the rigour of the law.
+
+And if an overseer should make peace, and do not send the offender to the peace-maker's court, yet this shall be noted the first time of such a one's disobedience to the laws.
+
+And all this is to prevent quarrels and offences; and the chief peace-makers or councillors may not always be at hand at the beginning of such disturbance, therefore this overseer is an assistance thereunto, and is a member of that court.
+
+One man shall not take away that commodity which another man hath first laid hands on, for any-commodity for use belongs to him that first laid hands on it for his use; and if another come and say, 'I will have it', and so offences do arise, this overseer shall go to them, or give order to the soldier to bring the offender to him, and shall endeavour to make peace, either by giving the commodity to him who first laid hands on it, or else by taking the commodity from both, and bid them go to the store-houses and fetch more, seeing the store-houses are full and afford plenty of the same commodities, giving the offender a sharp reproof for offering to break the peace, noting this to be the first time that such a one offered violence to break the laws of peace.
+
+And all persons whatsoever shall assist the overseers herein; and if any person strike or affront by words this overseer, he shall give order to the soldier to carry him before the peace-makers, and from them the offender shall receive a command to appear before the judge's court, where he shall receive the sentence of the law without mitigation.
+
+For when a peace-maker or councillor doth appoint an offender to appear before the judge's court, such an offender hath refused mercy twice.
+
+All this is to be done in case of small offences; but if any offence be offered by any which comes within compass of death, there shall be no peace-maker to be a mediator aforehand, but the offender shall be tried by the law.
+
+The second office of overseership is for trades.
+
+And this overseer is to see that young people be put to masters, to be instructed in some labour, trade, science, or to be waiters in store-houses, that none shall be idly brought up in any family within his circuit.
+
+Likewise this overseer is to assist any master of a family by his advice and counsel in the secrets of his trades, that by the experience of the elders the young people may learn the inward knowledge of the things which are, and find out the secrets of nature.
+
+And seeing there are variety of trades, there are to be chosen overseers for every trade, so many overseers as the largeness of the town and city requires; and the employment of this overseer is not to work (unless he will himself) but to go from house to house to view the works of the people of every house belonging to his trade and circuit, and to give directions as he sees cause, and see that no youth be trained up in idleness, as is said.
+
+And if this overseer find any youth more capable and fit for another trade than his own, he shall speak to some overseers of another trade, who shall provide him a master, with the consent of his father, and appoint him what family to live in.
+
+And if the father of a family be weak, sick or naturally foolish, wanting the power of wisdom and government, or should be dead before his children should be instructed; then the overseers of this trade wherein the father was brought up are to put those children into such families where they may be instructed according to the law of the commonwealth.
+
+One man may be an overseer for twenty or thirty families of shoemakers; another for smiths, another for weavers of cloth, another for the keepers of store-houses or shops; for every trade is to have an overseer for that particular trade.
+
+And truly the government of the halls and companies in London is a very rational and well-ordered government; and the overseers of trades may very well be called masters, wardens, and assistants of such and such a company, for such and such a particular trade. Only two things are to be practised to preserve peace:
+
+The first is, that all these overseers shall be chosen new ones every year. And secondly, the old overseers shall not choose the new ones, to prevent the creeping in of lordly oppression; but all the masters of families and freemen of that trade shall be the choosers, and the old overseers shall give but their single voice among them.
+
+And as there are to be overseers for trades in towns and cities:
+
+So there are to be chosen overseers in the country parishes, to see the earth planted; and in every parish in the country may be chosen four or six overseers of husbandry, to see the ground planted within their circuits, and to see that the work of husbandry be done orderly and according to reason and skill.
+
+Some overseers to look after the shepherds, and appoint out such men as are skilled in that work. Some overseers to look after the herdsmen. Some overseers of them who look to horses, and some for the dairies. And the work of these overseers is to see that every family send in their assistance to work, both in ploughing and dressing the earth in that season of the year, in seed time; and in reaping the fruits of the earth, and housing them in store-houses in time of harvest.
+
+Likewise they are to see that all barns belonging to any family, or more public store-houses belonging to a parish, be kept in sufficient repair. Likewise they are to see that every family do keep sufficient working tools for common use, as ploughs, carts and furniture, according as every family is furnished with men to work therewith: likewise pickaxes, spades, pruning-hooks, and any such like necessary instrument.
+
+Likewise it is the work of this overseership to see that schoolmasters, postmasters and ministers do their several offices according to the laws.
+
+Likewise this overseership for trades shall see that no man shall be a house-keeper, and have servants under him, till he hath served under a master seven years and hath learned his trade; and the reason is that every family may be governed by staid and experienced masters, and not by wanton youth.
+
+And this office of overseership keeps all people within a peaceable harmony of trades, sciences or works, that there be neither beggar nor idle person in the commonwealth.
+
+The third office of overseership is to see particular tradesmen bring in their works to store-houses and shops, and to see the waiters in store-houses do their duty.
+
+As there are particular trades requiring strength, and some men are strong to perform such works; so there are some weak in body, whose employment shall be to be keepers of store-houses and shops, both to receive in commodities, and deliver out again, as any particular family or man wants and comes for them.
+
+As for example:
+
+When leather is tanned, it shall be brought into the storehouses for leather; and from thence shoemakers and harnessmakers and such like may fetch it as they need.
+
+So for linen and woollen cloth, it is to be brought by the' weavers into the store-houses or shops, from whence particular families of other trades may fetch as they need: and so for any commodity, as in the law for store-houses is declared.
+
+Now the work of this overseership is of the same nature with the other trades; only this is to be employed only about the oversight of store-houses and shops.
+
+And they are to see that particular tradesmen, as weavers of linen and woollen cloth, spinners, smiths, hatters, glovers and such like, do bring in their works into the shops appointed; and they are to see that the shops and storehouses within their several circuits be kept still furnished:
+
+That when families of other trades want such commodities as they cannot make, they may go to the shops and storehouses where such commodities are, and receive them for their use without buying or selling.
+
+And as this officer sees the particular tradesmen to furnish the shops and store-houses, so they shall see that the keepers of the shops and store-houses be diligent to wait, both to receive in and deliver out again, according to the law, any commodity under their charge.
+
+And if-any keeper of a shop and store-house neglect his duty of his place, through idleness or vain conversation or pride, whereby just offence is given, the overseers shall admonish him and reprove him. If he amend, all is well; if he doth not, he shall give order to the soldiers to carry him before the peace-makers' court; and if he reform upon the reproof of that court, all is well: but if he doth not reform, he shall be sent unto by the officers to appear before the judge's court, and the judge shall pass sentence, that he shall be put out of that house and employment, and sent among the husbandmen to work in the earth; and some other shall have his place and house till he be reformed.
+
+Likewise this overseer shall see to it that the keepers of shops and store-houses do keep their houses in sufficient repair; and when any house wants repair, the keepers thereof shall speak to any of the overseers for trades, and they shall appoint either brick-layers, masons, smiths or carpenters forthwith to take the work in hand and finish it.
+
+Fourthly, all ancient men, above sixty years of age, are general overseers
+
+And wheresoever they go and see things amiss in any officer or tradesman, they shall call any officer or others to account for their neglect of duty to the commonwealth's peace: and these are called elders.
+
+And everyone shall give humble respect to these as to fathers, and as to men of the highest experience in the laws for the keeping of peace in the commonwealth.
+
+And if these see things amiss and do speak, all officers and others shall assist and protect them, to see the laws carefully executed; and everyone that affronts or abuses these in words or deeds shall suffer punishment according to the sentence of the judge.
+
+And all these shall be general assistances and encouragers of all officers in the doing the work of their places.
+
+And the reason of all is this that many eyes being watchful the laws may be obeyed, for to preserve peace.
+
+But if any of these elders should vent their passion, or express envy against anyone and set up his own will above the law, and do things contrary to law, upon complaint the senators at the judge's court shall examine the matter. If he be faulty the judge shall reprove him the first time, but the second time he does so the judge shall pronounce that he shall lose his authority and never bear office nor general oversight more while he lives, only he shall have respect as a man of age.
+
+What is the office of a soldier?
+
+A soldier is a magistrate as well as any other officer, and indeed all state officers are soldiers, for they represent power; and if there were not power in the hand of officers, the spirit of rudeness would not be obedient to any law or government but their own wills.
+
+Therefore every year shall be chosen a soldier, like unto a marshal of a city, and being the chief he shall have divers soldiers under him at his command, to assist in case of need.
+
+The work of a soldier in times of peace is to fetch in offenders, and to bring them before either officer or courts, and to be a protection to the officers against all disturbances.
+
+The soldier is not to do anything without order from the officers; but when he hath an order, then he is to act accordingly; and he is to receive orders from the judge's court or from the peace-makers' court or from overseers, as need shall require.
+
+If a soldier hath brought an offender before a peacemaker, and if the offender will not be subject to the law by his persuasion, and the peace-maker send him to the judge's court, if the offence be under matters of death, the offender shall not be imprisoned in the mean time: but the peacemaker shall command him to appear before the judge's court at the time appointed, and the offender shall promise to obey; and this shall be for two reasons:
+
+First, to prevent cruelty of prisons. Secondly, in the time of his binding over he may remember himself and amend his ways, and by testimony of his own actions and neighbours' reports, his sentence may be mitigated by the judge; for it is amendment not destruction that commonwealth's law requires.
+
+And if this offender run away from that country to another, and so both disobey the peace-makers' command and break his own promise of appearance: then shall the soldiers be sent forth into all places to search for him, and if they catch him, they should bring him before the judge, who shall pronounce sentence of death upon him without mercy.
+
+And if any protect him or shelter him, after hue and cry is made after him, all such protectors shall suffer the loss of freedom for twelve months' time, as is shewed hereafter what that is.
+
+But if the offence should be matter of death, then the peace-maker shall take no promise from him for his appearance, but let the soldier carry him to prison till the next judge's court sits where he shall have his trial.
+
+The work of a task-master.
+
+The work or office of a task-master is to take those into his over-sight as are sentenced by the judge to lose their freedom, and to appoint them their work and to see they do it.
+
+If they do their tasks, he is to allow them sufficient victuals and clothing to preserve the health of their bodies.
+
+But if they prove desperate, wanton or idle, and will not quietly submit to the law, the task-master is to feed them with short diet, and to whip them, for a rod is prepared for the fool's back, till such time as their proud hearts do bend to the law.
+
+And when he finds them subject, he shall then carry a favourable hand towards them, as to offending brethren, and allow them sufficient diet and clothes in hopes of their amendment, but withal see they do their work till by the sentence of the law he be set free again.
+
+The task-master shall appoint them any kind of work or labour as he pleases that is to be done by man.
+
+And if any of these offenders run away, there shall be hue and cry sent after him, and he shall die by the sentence of the judge when taken again.
+
+The work of an executioner.
+
+If any have so highly broke the laws as they come within the compass of whipping, imprisoning and death, the executioner shall cut off the head, hang or shoot to death, or whip the offender according to the sentence of law. Thus you may see what the work of every officer in a town or city is.
+
+What is the work of a judge?
+
+The law itself is the judge of all men's actions, yet he who is chosen to pronounce the law is called judge, because he is the mouth of the law: for no single man ought to judge or interpret the law:
+
+Because the law itself, as it is left us in the letter, is the mind and determination of the Parliament and of the people of the land, to be their rule to walk by and to be the touchstone of all actions.
+
+And that man who takes upon him to interpret the law doth either darken the sense of the law, and so makes it confused and hard to be understood, or else puts another meaning upon it, and so lifts up himself above the Parliament, above the law, and above all people in the land.
+
+Therefore the work of that man who is called judge is to hear any matter that is brought before him; and in all cases of difference between man and man, he shall see the parties on both sides before him, and shall hear each man speak for himself without a fee'd lawyer; likewise he is to examine any witness who is to prove a matter in trial before him.
+
+And then he is to pronounce the bare letter of the law concerning such a thing, for he hath his name 'judge' not because his will and mind is to judge the actions of offenders before him, but because he is the mouth to pronounce the law, who indeed is the true judge. Therefore to this law and to this testimony let everyone have a regard who intends to live in peace in the commonwealth.
+
+But from hence hath arose much misery in the nations under kingly government, in that the man called the judge hath been suffered to interpret the law; and when the mind of the law, the judgment of the Parliament and the government of the land, is resolved into the breast of the judges this bath occasioned much complaining of injustice in judges, in courts of justice, in lawyers, and in the course of the law itself, as if it were an evil rule.
+
+Because the law, which was a certain rule, was varied according to the will of a covetous, envious or proud judge, therefore no marvel though the kingly laws be so intricate, and though few know which way the course of the law goes, because the sentence lies many times in the breast of a judge, and not in the letter of the law.
+
+And so the good laws made by an industrious Parliament are like good eggs laid by a silly gooses and as soon as she hath laid them, she goes her way and lets others take them, and never looks after them more, so that if you lay a stone in her nest, she will sit upon it as if it were an egg.
+
+And so though the laws be good, yet if they be left to the will of a judge to interpret, the execution hath many times proved bad.
+
+And truly as the laws and people of nations have been abused by suffering men (judges) to alter the sense by their interpretation:
+
+So likewise hath the Scriptures of Moses, the prophets, Christ and his apostles been darkened and confounded by suffering ministers to put their inferences and interpretations upon them.
+
+And surely both the judges for the law and the ministers for God's Word have been both unfaithful servants to man and to God, by taking upon them to expound and interpret that rule which they are bound to yield obedience to, without adding to or diminishing from.
+
+What is the judge's court?
+
+In a county or shire there is to be chosen
+
+a judge,
+
+the peace-makers of every town within that circuit,
+
+the overseers, and
+
+a band of soldiers attending thereupon.
+
+And this is called the judge's court or the county senate. This court shall sit four times in the year (or oftener if need be) in the country, and four times in the year in great cities. In the first quarter of the year they shall sit in the east part of the county, and the second quarter of the year in the west, in the third in the south and in the fourth in the north.
+
+And this court is to oversee and examine any officer within their county or limits; for their work is to see that everyone be faithful in his place; and if any officer hath done wrong to any, this court is to pass sentence of punishment upon the offender, according to his offence against the law.
+
+If any grievance lie upon any man, wherein inferior officers cannot ease him, this court shall quietly hear his complaint, and ease him; for where a law is wanting, they may prepare a way of ease for the offender till the Parliament sit, who may either establish that conclusion for a law, if they approve of it, or frame another law to that effect; for it is possible that many things may fall out hereafter which the law-makers for the present may not foresee.
+
+If any disorder break in among the people, this court shall set things to rights. If any be bound over to appear at this court, the judge shall hear the matter and pronounce the letter of the law, according to the nature of the offence.
+
+So that the alone work of the judge is-to pronounce the sentence and mind of the law; and all this is but to see the laws executed, that the peace of the commonwealth may be preserved.
+
+What is the work of a commonwealth's Parliament in general?
+
+A Parliament is the highest court of equity in a land, and it is to be chosen every year; and out of every city, town and certain limits of a country through the land, two, three or more men are to be chosen to make up this court.
+
+This court is to oversee all other courts, officers, persons and actions, and to have a full power, being the representative of the whole land, to remove all grievances and to ease the people that are oppressed.
+
+A Parliament hath his rise from the lowest office in a commonwealth, viz. from the father in a family. For as a father's tender care is to remove all grievances from the oppressed children, not respecting one before another; so a Parliament are to remove all burdens from the people of the land, and are not to respect persons who are great before them who are weak; but their eye and care must be principally to relieve the oppressed ones, who groan under the tyrants' laws and power. The strong, or such as have the tyrant power to uphold them, need no help.
+
+But though a Parliament be the father of a land, yet by the covetousness and cheats of kingly government the heart of this father hath been alienated from the children of the Land, or else so over-awed by the frowns of a kingly tyrant :hat they could not or durst not act for the weakest children's ease.
+
+For hath not Parliaments sat and rose again and made Laws to strengthen the tyrant in his throne, and to strengthen the rich and the strong by those laws, and left Oppression upon the backs of the oppressed still?
+
+But I'll not reap up former weaknesses, but rather rejoice in hope of amendment, seeing our present Parliament hath declared England to be a free commonwealth, and to cast out kingly power; and upon this ground I rejoice in hope that succeeding Parliaments will be tender-hearted fathers to the oppressed children of the land;
+
+And not only dandle us upon the knee with good words and promises till particular men's turns be served, but will Fill our bellies and clothe our backs with good actions of Freedom, and give to the oppressed children's children their birthright portion, which is freedom in the commonwealth's land, which the kingly law and power, our cruel step-fathers and step-mothers, have kept from us and our fathers for many years past.
+
+The particular work of a Parliament is fourfold.
+
+First, as a tender father, a Parliament is to empower officers and give out orders for the free planting and reaping of the commonwealth's land, that all who have been oppressed and kept from the free use thereof by conquerors, kings and their tyrant laws may now be set at liberty to plant in freedom for food and raiment; and are to be a protection to them who labour the earth, and a punisher of them who are idle. But some may say, 'What is that I call commonwealth's land?'
+
+I answer, all that land which hath been withheld from the inhabitants by the conqueror or tyrant kings, and is now recovered out of the hands of that oppression by the joint assistance of the persons and purses of the commoners of the land; for this land is the price of their blood. It is their birthright to them and their posterity, and ought not to be converted into particular hands again by the laws of a free commonwealth.
+
+And in particular, this land is all abbey lands, formerly recovered out of the hands of the pope's power by the blood of the commoners of England, though the kings withheld their rights herein from them.
+
+So likewise all crown lands, bishops' lands, with all parks, forests, chases, now of late recovered out of the hands of the kingly tyrants, who have set lords of manors and taskmasters over the commoners to withhold the free use of the land from them.
+
+So likewise all the commons and waste lands, which are called commons because the poor was to have part therein; but this is withheld from the commoners, either by lords of manors requiring quit rents and overseeing the poor so narrowly that none dares build him a house upon this common land, or plant thereupon without his leave, but must pay him rent, fines and heriots and homage, as unto a conqueror; or else the benefit of this common land is taken away from the younger brethren by rich landlords and freeholders, who overstock the commons with sheep and cattle, so that the poor in many places are not able to keep a cow unless they steal grass for her.
+
+And this is the bondage the poor complain of, that they are kept poor by their brethren in a land where there is so much plenty for every one, if covetousness and pride did not rule as king in one brother over another, and kingly government occasions all this.
+
+Now it is the work of a Parliament to break the tyrants' bonds, to abolish all their oppressing laws, and to give orders, encouragements and directions unto the poor oppressed people of the land, that they forthwith plant and manure this their own land for the free and comfortable livelihood of themselves and posterities;
+
+And to declare to them, it is their own creation rights, faithfully and courageously recovered by their diligence, purses and blood from under the kingly tyrants' and oppressors' power.
+
+The work of a Parliament, secondly,
+
+Is to abolish all old laws and customs which have been the strength of the oppressor, and to prepare and then to enact new laws for the ease and freedom of the people, but yet not without the people's knowledge.
+
+For the work of a Parliament herein is threefold.
+
+first, when old laws and customs of the kings do burden the people, and the people desire the remove of them and the establishment of more easy laws:
+
+It is now the work of a Parliament to search into reason and equity, how relief may be found out for the people in such a case, and to preserve a common peace; and when they have found out a way by debate of counsel among themselves, whereby the people may be relieved, they are not presently to establish their conclusions for a law.
+
+But in the next place, they are to make a public declaration thereof to the people of the land who choose them, for their approbation; and if no objection come in from the people within one month, they may then take the people's silence as a consent thereto.
+
+And then in the third place they are to enact it for a law, to be a binding rule to the whole land. For as the remove of the old laws and customs are by the people's consent, which is proved by their frequent petitioning and requests of such a thing: so the enacting of new laws must be by the people's consent and knowledge likewise.
+
+And here they are to require the consent, not of men interested in the old oppressing laws and customs, as kings used to do, but of them who have been oppressed. And the reason is this:
+
+Because the people must be all subject to the law, under pain of punishment; therefore it is all reason they should know it before it be enacted, that if there be any thing of the counsel of oppression in it, it may be discovered and amended.
+
+But you will say, 'If it must be so, then will men so differ in their judgments, that we shall never agree'. I answer:
+
+There is but bondage and freedom, particular interest or common interest; and he who pleads to bring in particular interest into a free commonwealth will presently be seen and cast out, as one bringing in kingly slavery again.
+
+And men in place and office, where greatness and honour is coming in, may sooner be corrupted to bring in particular interest than a whole land can be, who must either suffer sorrow under a burdensome law, or rejoice under a law of freedom.
+
+And surely those men who are not willing to enslave the people will not be unwilling to consent hereunto.
+
+The work of a Parliament, thirdly,
+
+Is to see all those burdens removed actually, which have hindered or do hinder the oppressed people from the enjoyment of their birthrights.
+
+If their common lands be under the oppression of lords of manors, they are to see the land freed from that slavery.
+
+If the commonwealth's land be sold by the hasty counsel of subtle, covetous and ignorant officers, who act for their own particular interest, and so hath entangled the commoners' land again under colour of being bought and sold:
+
+A Parliament is to examine what authority any had to sell or buy the commonwealth land without a general consent of the people; for it is not any one's but everyone's birthright. And if some through covetousness and self-interest gave consent privately, yet a Parliament, who is the father of a land, ought not to give consent to buy and sell that land which is all the children's birthright and the price of their labours, monies and blood.
+
+They are to declare likewise that the bargain is unrighteous, and that the buyers and sellers are enemies to the peace and freedom of the commonwealth. For indeed the necessity of the people chose a Parliament to help them in their weakness; and where they see a danger like to impoverish or enslave one part of the people to another, they are to give warning and so prevent that danger; for they are the eyes of the land. And surely those are blind eyes that lead the people into bogs, to be entangled in mud again after they are once pulled out.
+
+And when the land is once freed from the oppressors' power and laws, a Parliament is to keep it so, and not suffer it by their consent to have it bought or sold, and so entangled in bondage upon a new account.
+
+And for their faithfulness herein to the people, the people are engaged by love and faithfulness to cleave close to them, in defence and protection. But when a Parliament have no care herein, the hearts of the people run away from them like sheep who have no shepherd.
+
+All grievances are occasioned either by the covetous wills of state-officers, who neglect their obedience to the good laws, and then prefer their own ease, honour and riches before the ease and freedom of the oppressed people. And here a Parliament is to cashier and punish those officers, and place others who are men of public spirits in their rooms:
+
+Or else the people's grievances arise from the practice and power that the kings' laws have given to lords of manors, covetous landlords, tithe-takers or unbounded lawyers, being all strengthened in their oppressions over the people by that kingly law. And when the people are burdened herewith and groan, waiting for deliverance, as the oppressed people of England do at this day; it is then the work of a Parliament to see the people delivered, and that they enjoy their creation freedoms in the earth. They are not to dally with them, but as a father is ready to help his children out of misery, when they either see them in misery or when the children cry for help; so should they do for the oppressed people.
+
+And surely for this end, and no other, is a Parliament chosen, as is cleared before: for the necessity of common preservation and peace is the fundamental law both to officers and people.
+
+The work of a Parliament, fourthly, is this:
+
+If there be an occasion to raise an army to wage war, either against an invasion of a foreign enemy or against an insurrection at home, it is the work of a Parliament to manage that business for to preserve common peace. And here their work is threefold:
+
+First, to acquaint the people plainly with the cause of the war, and to shew them the danger of such an invasion or insurrection; and so from that cause require their assistance in person for the preservation of the laws, liberties and peace of the commonwealth, according to their engagement when they were chosen, which was this: do you maintain our laws and liberties, and we will protect and assist you.
+
+Secondly, a Parliament is to make choice of understanding, able and public-spirited men to be leaders of an army in this case, and to give them commissions and power in the name of the commonwealth to manage the work of an army.
+
+Thirdly, a Parliament's work in this case is either to send ambassadors to another nation which hath invaded our land, or that intends to invade, to agree upon terms of peace, or to proclaim war; or else to receive and hear ambassadors from other lands for the same business, or about any other business concerning the peace and honour of the land.
+
+For a Parliament is the head of a commonwealth's power, or (as it may be said) it is the great council of an army, from whom originally all orders do issue forth to any officer or soldier.
+
+For if so be a Parliament had not an army to protect them, the rudeness of the people would not obey their proceedings: and if a Parliament were not the representative of the people, who indeed is the body of ail power, the army would not obey their orders.
+
+So then, a Parliament is the head of power in a commonwealth, and it is their work to manage public affairs, in times of war and in times of peace; not to promote the interest of particular men, but for the peace and freedom of the whole body of the land, viz. of every particular man, that none be deprived of his creation rights unless he hath lost his freedom by transgression, as by the laws is expressed.
+
+The work of a commonwealth's ministry, and why one day in seven may be a day of rest from labour.
+
+If there were good laws, and the people be ignorant of them, it would be as bad for the commonwealth as if there were no laws at all.
+
+Therefore according to one of the laws of Israel's commonwealth made by Moses, who was the ruler of the people at that time:
+
+It is very rational and good that one day in seven be still set apart, for three reasons:
+
+First, that the people in such a parish may generally meet together to see one another's faces, and beget or preserve fellowship in friendly love;
+
+Secondly, to be a day of rest or cessation from labour, so that they have some bodily rest for themselves and cattle;
+
+Thirdly, that he who is chosen minister (for that year) in that parish may read to the people three things:
+
+First the affairs of the whole land, as it is brought in by the postmaster (as it is related in his office, hereafter following).
+
+Secondly, to read the law of the commonwealth: not only to strengthen the memory of the ancients, but that the young people also, who are not grown up to ripeness of experience, may be instructed to know when they do well and when they do ill; for the laws of a land hath the power of freedom and bondage, life and death, in its hand, therefore the necessary knowledge to be known, and he is the best prophet that acquaints men therewith: that as men grow up in years, they may be able to defend the laws and government of the land. But these laws shall not be expounded by the reader, for to expound a plain law, as if a man would put a better meaning than the letter itself, produces two evils:
+
+First the pure law and the minds of people will be thereby confounded, for multitude of words darken knowledge;
+
+Secondly the reader will be puffed up in pride, to contemn the lawmakers, and in time that will prove the father and nurse of tyranny, as at this day is manifested by our ministry;
+
+And thirdly because the minds of people generally love discourses, therefore that the wits of men both young and old may be exercised, there may be speeches made in a threefold nature.
+
+First to declare the acts and passages of former ages and governments, setting forth the benefit of freedom by well-ordered governments, as in Israel's commonwealth, and the troubles and bondage which hath always attended oppression and oppressors; as the state of Pharaoh and other tyrant kings, who said the earth and people were theirs and only at their dispose.
+
+Secondly speeches may be made of all arts and sciences, some one day, some another: as in physic, chirurgery, astrology, astronomy, navigation, husbandry and such like. And in these speeches may be unfolded the nature of all herbs and plants from the hyssop to the cedar, as Solomon writ of.
+
+Likewise men may come to see into the nature of the fixed and wandering stars, those great powers of God in the heavens above; and hereby men will come to know the secrets of nature and creation, within which all true knowledge is wrapped up, and the light in man must arise to search it out.
+
+Thirdly speeches may be made sometimes of the nature of mankind, of his darkness and of his light, of his weakness and of his strength, of his love and of his envy, of his sorrow'and of his joy, of his inward and outward bondages, and of his inward and outward freedoms, etc. And this is that which the ministry of churches generally aim [at], but, only that they confound their knowledge by imaginary study, when anyone takes upon him to speak without experience.
+
+Now this is the way
+
+To attain to the true knowledge of God (who is the spirit of the whole creation) as he hath spread himself forth in every form, and more eminently in man; as Paul writ, The creation in all the several bodies and forms are but the mansions or fulness of him who hath filled all things with himself.
+
+And if the earth were set free from kingly bondage, so that everyone were sure to have a free livelihood, and if this liberty were granted, then many secrets of God, and his works in nature, would be made public, which men nowadays keep secret to get a living by: so that this kingly bondage is the cause of the spreading of ignorance in the earth. But when commonwealth's freedom is established, and Pharisaical or kingly slavery cast out, then will knowledge cover the earth, as the waters cover the seas; and not till then.
+
+He who is the chosen minister for that year to read shall not be the only man to make sermons or speeches; but everyone who hath any experience, and is able to speak of any art or language or of the nature of the heavens above or of the earth below, shall have free liberty to speak when they offer themselves, and in a civil manner desire an audience, and appoint his day. yet he who is the reader may have his liberty to speak too, but not to assume all the power to himself, as the proud and ignorant clergy have done, who have bewitched all the world by their subtle covetousness and pride.
+
+And everyone who speaks of any herb, plant, art or nature of mankind, is required to speak nothing by imagination, but what he hath found out by his own industry and observation in trial.
+
+And because other nations are of several languages, therefore these speeches may be made sometimes in other languages, and sometimes in our mother tongue, that so the men of our English commonwealth may attain to all knowledges, arts and languages, and that everyone may be encouraged in his industry, and purchase the countenance and love of their neighbourhood for their wisdom and experimental knowledge in the things which are.
+
+And thus to speak, or thus to read the law of nature (or God) as he hath written his name in every body, is to speak a pure language, and this is to speak the truth as Jesus Christ spake it, giving to everything its own weight and measure.
+
+By this means in time men shall attain to the practical knowledge of God truly, that they may serve him in spirit and truth; and this knowledge will not deceive a man.
+
+'Aye but,' saith the zealous but ignorant professor,
+
+'This is a low and carnal ministry indeed, this leads men to know nothing but the knowledge of the earth and the secrets of nature, but we are to look after spiritual and heavenly things.' I answer:
+
+To know the secrets of nature is to know the works of God; and to know the works of God within the creation is to know God himself, for God dwells in every visible work or body.
+
+And indeed if you would know spiritual things, it is to know how the spirit or power of wisdom and life, causing motion or growth, dwells within and governs both the several bodies of the stars and planets in the heavens above, and the several bodies of the earth below, as grass, plants, fishes, beasts, birds and mankind; for to reach God beyond the creation, or to know what he will be to a man after the man is dead, if any otherwise than to scatter him into his essences of fire, water, earth and air of which he is compounded, is a knowledge beyond the line or capacity of man to attain to while he lives in his compounded body.
+
+And if a man should go to imagine what God is beyond the creation, or what he will be in a spiritual demonstration after a man is dead, he doth (as the proverb saith) build castles in the air, or tells us of a world beyond the moon and beyond the sun, merely to blind the reason of man.
+
+I'll appeal to your self in this question, what other knowledge have you of God but what you have within the circle of the creation?
+
+For if the creation in all its dimensions be the fulness of him that fills all with himself, and if you yourself be part of this creation, where can you find God but in that line or station wherein you stand?
+
+God manifests himself in actual knowledge, not in imagination; he is still in motion, either in bodies upon earth, or in the bodies in the heavens, or in both; in the night and in the day, in winter, in summer, in cold, in heat, in growth or not in growth.
+
+But when a studying imagination comes into man, which is the devil, for it is the cause of all evil and sorrows in the world: that is he who puts out the eyes of man's knowledge, and tells him he must believe what others have writ or spoke, and must not trust to his own experience. And when this bewitching fancy sits in the chair of government, there is nothing but saying and unsaying, frowardness, covetousness, fears, confused thoughts and unsatisfied doubtings, all the days of that man's reign in the heart.
+
+Or secondly, examine yourself, and look likewise into the ways of all professors, and you shall find that the enjoyment of the earth below, which you call a low and a carnal knowledge, is that which you and all professors (as well as the men of the world, as you call them) strive and seek after.
+
+Wherefore are you so covetous after the world, in buying and selling? counting yourself a happy man if you be rich, and a miserable man if you be poor. And though you say, heaven after death is a place of glory, where you shall enjoy God face to face, yet you are loath to leave the earth to go thither.
+
+Do not your ministers preach for to enjoy the earth? Do not professing lawyers, as well as others, buy and sell the conqueror's justice, that they may enjoy the earth? Do not professing soldiers fight for the earth, and seat themselves in that land which is the birthright of others as well as theirs, shutting others out? Do not all professors strive to get earth, that they may live in plenty by other men's labours?
+
+Do you not make the earth your very rest? Doth not the enjoying of the earth please the spirit in you? And then you say, God is pleased with your ways and blesseth you. If you want earth and become poor, do you not say, God is angry with you and crosseth you?
+
+Why do you heap up riches? Why do you eat and drink and wear clothes? Why do you take a woman and lie with her to beget children? Are not all these carnal and low things of the earth? And do you not live in them, and covet them as much as any? nay more than many which you call men of the world?
+
+And it being thus with you, what other spiritual or heavenly things do you seek after more than others? And what is in you more than in others? If you say, 'There is'; then surely you ought to let these earthly things alone to the men of the world, as you call them, whose portions these are; and keep you within the compass of your own sphere, that others seeing you live a life above the world in peace and freedom, neither working yourself nor deceiving, nor compelling others to work for you, they may be drawn to embrace the same spiritual life by your single-hearted conversation. Well, I have done here.
+
+Let us now examine your divinity,
+
+Which you call heavenly and spiritual things, for herein speeches are made not to advance knowledge, but to destroy the true knowledge of God. For divinity does not speak the truth as it is hid in every body, but it leaves the motional knowledge of a thing as it is and imagines, studies or thinks what may be, and so runs the hazard, true or false. And this divinity is always speaking words to deceive the simple, that he may make them work for him and maintain him, but he never comes to action himself to do as he would be done by; for he is a monster who is all tongue and no hand.
+
+This divining doctrine, which you call spiritual and heavenly things, is the thief and the robber. He comes to spoil the vineyard of a man's peace, and does not enter in at the door but he climbs up another way. And this doctrine is twofold.
+
+First he takes upon him to tell you the meaning of other men's words and writing by his studying or imagining what another man's knowledge might be, and by thus doing darkens knowledge and wrongs the spirit of the authors who did write and speak those things which he takes upon him to interpret.
+
+Secondly he takes upon him to foretell what shall befall a man after he is dead, and what that world is beyond the sun and beyond the moon, etc. And if any man tell him there is no reason for what you say, he answers, 'You must not judge of heavenly and spiritual things by reason, but you must believe what is told you, whether it be reason or no'. There is a threefold discovery of falsehood in this doctrine.
+
+For first it is a doctrine of a sickly and weak spirit, who hath lost his understanding in the knowledge of the creation and of the temper of his own heart and nature, and so runs into fancies, either of joy or sorrow.
+
+And if the passion of joy predominate, then he fancies to himself a personal God, personal angels and a local place of glory which, he saith, he and all who believes what he saith shall go to after they are dead.
+
+And if sorrow predominate, then he fancies to himself a personal devil and a local place of torment, that he shall go to after he is dead, and this he speaks with great confidence.
+
+Or secondly, this is the doctrine of a subtle running spirit, to make an ungrounded wise man mad: that he might be called the more excellent man in knowledge. For many times when a wise understanding heart is assaulted with this doctrine of a God, a devil, a heaven and a hell, salvation and damnation after a man is dead, his spirit being not strongly grounded in the knowledge of the creation, nor in the temper of his own heart, he strives and stretches his brains to find out the depth of that doctrine and cannot attain to it: for indeed it is not knowledge but imagination; and so, by poring and puzzling himself in it, loses that wisdom he had, and becomes distracted and mad. And if the passion of joy predominate, then he is merry and sings and laughs, and is ripe in the expressions of his words and will speak strange things: but all by imagination. But if the passion of sorrow predominate, then he is heavy and sad, crying out, He is damned, God hath forsaken him and he must go to hell when he dies, he cannot make his calling and election sure. And in that distemper many times a man doth hang, kill or drown himself; so that this divining doctrine, which you call 'spiritual and heavenly things' torments people always when they are weak, sickly and under any distemper; therefore it cannot be the doctrine of Christ the saviour.
+
+For my own part, my spirit hath waded deep to find the bottom of this divining spiritual doctrine: and the more I searched, the more I was at a loss; and I never came to quiet rest, and to know God in my spirit, till I came to the knowledge of the things in this book. And let me tell you, they who preach this divining doctrine are the murderers of many a poor heart who is bashful and simple, and that cannot speak for himself but that keeps his thoughts to himself.
+
+Or thirdly, this doctrine is made a cloak of policy by the subtle elder brother, to cheat his simple younger brother of the freedoms of the earth. For, saith the elder brother, 'The earth is mine and not yours, brother; and you must not work upon it unless you will hire it of me; and you must not take the fruits of it unless you will buy them of me, by that which I pay you for your labour. For if you should do otherwise, God will not love you, and you shall not go to heaven when you die, but the devil will have you and you must be damned in hell.'
+
+If the younger reply and say, 'The earth is my birthright as well as yours, and God who made us both is no respecter of persons: therefore there is no reason but I should enjoy the freedoms of the earth for my comfortable livelihood as well as you; brother.'
+
+'Aye but', saith the elder brother, 'you must not trust to your own reason and understanding, but you must believe what is written and what is told you; and if you will not believe, your damnation will be the greater.'
+
+'I cannot believe', saith the younger brother, 'that our righteous creator should be so partial in his dispensations of the earth, seeing our bodies cannot live upon earth without the use of the earth.'
+
+The elder brother replies, 'What, will you be an atheist and a factious man? Will you not believe God?'
+
+'Yes,' saith the younger brother, 'if I knew God said so I should believe, for I desire to serve him.'
+
+'Why,' saith the elder brother, 'this is his Word, and if you will not believe it, you must be damned; but if you will believe it, you must go to heaven.'
+
+Well, the younger brother, being weak in spirit and having not a grounded knowledge of the creation nor of himself, is terrified and lets go his hold in the earth, and submits himself to be a slave to his brother for fear of damnation in hell after death, and in hopes to get heaven thereby after he is dead; and so his eyes are put out, and his reason is blinded.
+
+So that this divining spiritual doctrine is a cheat; for while men are gazing up to heaven, imagining after a happiness or fearing a hell after they are dead, their eyes are put out? that they see not what is their birthrights, and what is to be done by them here on earth while they are living. This is the filthy dreamer, and the cloud without rain.
+
+And indeed the subtle clergy do know that if they can but charm the people, by this their divining doctrine, to look after riches, heaven and glory when they are dead, that then they shall easily be the inheritors of the earth, and have the deceived people to be their servants.
+
+This divining doctrine, which you call spiritual and heavenly, was not the doctrine of Christ; for his words were pure knowledge, they were words of life. For he said, He spoke what he had seen with his Father; for he had the knowledge of the creation, and spake as everything was.
+
+And this divinity came in after Christ to darken his knowledge; and it is the language of the mystery of iniquity and Antichrist, whereby the covetous, ambitious and serpentine spirit cozens the plain-hearted of his portions in the earth.
+
+And divinity cozens a plain heart two ways. First, if a man have an estate, according to the kings' laws, he is made by this charm to give it or bazle it away to the priests or to religious uses, in hopes to get heaven when he is dead.
+
+Or secondly, a man by running to hear divinity sermons, and dancing after his charming pipe, neglects his labour and so runs into debt, and then his fellow professors will cast him into prison and starve him there, and their divinity will call him a hypocrite and wicked man, and become a devil to torment him in that hell.
+
+But surely light is so broke out that it will cover the earth, so that the divinity charmers shall say, The people will not hear the voice of our charming, charm we never so wisely. And all the priests and clergy and preachers of these spiritual and heavenly things, as they call them, shall take up the lamentation, which is their portion, Alas, alas, that great city Babylon, that mighty city divinity, which hath filled the whole earth with her sorcery and deceived all people, so that the whole world wondered after this Beast; how is it fallen, and how is her judgment come upon her in one hour? And further, as you may read, Rev. 18.10.
+
+The officer of the postmaster.
+
+In every parish throughout the commonwealth shall be chosen two men (at the time when other officers are chosen), and these shall be called postmasters. And whereas there are four parts of the land, east, west, north, south, there shall be chosen in the chief city two men to receive in what the postmaster of the east country brings in, and two men to receive in what the postmaster of the west brings in, and two for the north, and so two for the south.
+
+Now the work of the country postmaster shall be this: they shall every month bring up or send by tidings from their respective parishes to the chief city, of what accidents or passages fall out which is either to the honour or dishonour, hurt or profit, of the commonwealth; and if nothing have fallen out in that month worth observation, then they shall write down peace or good order in such a parish.
+
+And when these respective postmasters have brought up their bills or certificates from all parts of the land, the receivers of those bills shall write down everything in order from parish to parish in the nature of a weekly bill of observation.
+
+And those eight receivers shall cause the affairs of the four quarters of the land to be printed in one book with what speed may be, and deliver to every postmaster a book, that as they bring up the affairs of one parish in writing, they may carry down in print the affairs of the whole land.
+
+The benefit lies here, that if any part of the land be visited with plague, famine, invasion or insurrection, or any casualties, the other parts of the land may have speedy knowledge, and send relief.
+
+And if any accident fall out through unreasonable action or careless neglect, other parts of the land may thereby be made watchful to prevent like danger.
+
+Or if any through industry or ripeness of understanding have found out any secret in nature, or new invention in any art or trade or in the tillage of the earth, or such like, whereby the commonwealth may more flourish in peace and plenty, for which virtues those persons received honour in the places where they dwelt:
+
+When other parts of the land hear of it, many thereby will be encouraged to employ their reason and industry to do the like, that so in time there will not be any secret in nature which now lies hid (by reason of the iron age of kingly oppressing government) but by some or other will be brought to light, to the beauty of our commonwealth.
+
+The rise of a commonwealth's army.
+
+After that the necessity of the people in a parish, in a county and in a land, hath moved the people to choose officers to preserve common peace, the same necessity causeth the people to say to their officers,
+
+'Do you see our laws observed for our common preservation, and we will assist and protect you.'
+
+This word 'assist' and 'protect' implies the rising of the people by force of arms to defend their laws and officers, who rule well, against any invasion, insurrection or rebellion of selfish officers or rude people; yea to beat down the turbulency of any foolish spirit that shall arise to break our common peace.
+
+So that the same law of necessity of common peace, which moved the people to choose officers and to compose a law for to be a rule of government, the same law of necessity of protection doth raise an army; so that an army, as well as other officers in a commonwealth, spring from one and the same root, viz. from the necessity of common preservation.
+
+An army is twofold, viz. a ruling army or a fighting army.
+
+A ruling army is called magistracy in times of peace, keeping that land and government in peace by execution of the laws, which the fighting army did purchase in the field by their blood out of the hands of oppression.
+
+And here all officers, from the father in a family to the parliament in a land, are but the heads and leaders of an army; and all people arising to protect and assist their officers, in defence of a right-ordered government, are but the body of an army.
+
+And this magistracy is called the rejoicing of all nations, when the foundation thereof are laws of common equity, whereby every single man may enjoy the fruit of his labour in the free use of the earth, without being restrained or oppressed by the hands of others.
+
+Secondly, a fighting army, called soldiers in the field, when the necessity of preservation, by reason of a foreign invasion or inbred oppression, do move the people to arise in an army to cut and tear to pieces either degenerated officers, or rude people who seek their own interest and not common freedom, and through treachery do endeavour to destroy the laws of common freedom, and to enslave both the land and people of the commonwealth to their particular wills and lusts.
+
+And this war is called a plague, because that cursed enmity of covetousness, pride and vain-glory and envy in the heart of mankind did occasion the rise of it, because he will not be under the moderate observation of any free and right order unless he himself be king and lord over other persons and their labours.
+
+For now the people do arise to defend their faithful officers against such officers as are unfaithful, and to defend their laws and common peace.
+
+The use or work of a fighting army in a commonwealth
+
+Is to beat down all that arise to endeavour to destroy the liberties of the commonwealth. For as, in the days of monarchy, an army was used to subdue all who rebelled against kingly property, so in the days of a free commonwealth an army is to be made use of to resist and destroy all who endeavour to keep up or bring in kingly bondage again.
+
+The work of this fighting army is twofold.
+
+The first is to withstand the invasion or coming in of a foreign enemy, whose invasion is for no other end but to take away our land and earth from us, to deny us the free use thereof, to become kings and landlords over us and to make us their slaves.
+
+As William the Conqueror when he had conquered England, he gave not only the land in parcels to his soldiers, but he gave all men, their wives and children within such a lordship to his lords of manors, to do with them as they pleased. And for this cause now doth an army arise to keep out an invasion of a foreigner, that by the defence of our army, who is part of ourselves, the rest of our brethren in the commonwealth may plough, sow and reap, and enjoy the fruits of their labours, and so live in peace in their own land.
+
+Or secondly, if a land be conquered and so enslaved as England was under the kings and conquering laws, then an army is to be raised with as much secrecy as may be, to restore the land again and set it free, that the earth may become a common treasury to all her children, without respecting persons, as it was before kingly bondage came in, as you may read, I Sam. 8.
+
+This latter is called civil wars, and this is the wars of the commoners of England against King Charles now cast out, for he and his laws were the successive power of that Norman conquest over England.
+
+And now the commoners of England in this age of the world are rise up in an army, and have cast out that invasion of the Duke of Normandy and have won their land and liberties again by the sword, if they do not suffer their counsels to befool them into slavery again upon a new account.
+
+Therefore you army of England's commonwealth, look to it ! The enemy could not beat you in the field, but they may be too hard for you by policy in counsel, if you do not stick close to see common freedom established.
+
+For if so be that kingly authority be set up in your laws again, King Charles hath conquered you and your posterity by policy and won the field of you, though you seemingly have cut off his head.
+
+For the strength of a king lies not in the visible appearance of his body, but in his will, laws and authority, which is called monarchical government.
+
+But if you remove kingly government and set up true and free commonwealth's government, then you gain your crown, and keep it, and leave peace to your posterity, otherwise not.
+
+And thus doing makes a war either lawful or unlawful.
+
+An army may be murderers and unlawful.
+
+If an army be raised to cast out kingly oppression, and if the heads of that army promise a commonwealth's freedom to the oppressed people if in case they will assist with person and purse, and if the people do assist, and prevail over the tyrant, those officers are bound by the law of justice (who is God) to make good their engagements. And if they do not set the land free from the branches of the kingly oppression, but reserve some part of the kingly power to advance their own particular interest, whereby some of their friends are left under as great slavery to them as they were under the kings, those officers are not faithful commonwealth's soldiers, they are worse thieves and tyrants than the kings they cast out; and that honour they seemed to get by their victories over the commonwealth's oppressor they lose again by breaking promise and engagement to their oppressed friends who did assist them.
+
+For what difference is there between a professed tyrant, that declares himself a tyrant in words, laws and deeds, as all conquerors do, and him who promises to free me from the power of the tyrant if I'll assist him; and when I have spent my estate and blood and the health of my body, and expect my bargain by his engagements to me, he sits himself down in the tyrant's chair and takes the possession of the land to himself, and calls it his and none of mine, and tells me he cannot in conscience let me enjoy the freedom of the earth with him, because it is another man's right?
+
+And now my health and estate is decayed, and I grow in age, I must either beg or work for day wages, which I was never brought up to, for another; whenas the earth is as freely my inheritance and birthright as his whom I must work for; and if I cannot live by my weak labours but take where I need, as Christ sent and took the ass's colt in his need, there is no dispute but by the kings and laws he will hang me for a thief.
+
+But hear, O thou righteous spirit of the whole creation, and judge who is the thief: him who takes away the freedom of the common earth from me, which is my creation rights and which I have helped to purchase out of the hands of the kingly oppressor by my purse and person, and which he hath taken for wages of me;
+
+Or I, who takes the common earth to plant upon for my free livelihood, endeavouring to live as a free commoner in a free commonwealth, in righteousness and peace.
+
+Such a soldier as this engagement-breaker is neither a friend to the creation nor to a particular commonwealth, but a self-lover and a hypocrite, for he did not fight to set the earth free from the bondage of the oppressor as he pretended by his engagements: but to remove that power out of the other's hand into his own. And this is just like the beasts who fight for mastery and keeps it, not relieving but still lording and kinging over the weak. These are monarchical soldiers not commonwealth's soldiers; and such a soldier is a murderer and his warfare is unlawful.
+
+But soldiers of true noble spirits will help the weak and set the oppressed free, and delight to see the commonwealth flourish in freedom, as well as their own gardens. There is none of this true nobility in the monarchical army, for they are all self-lovers; the best is as a briar, and the most upright amongst them is as a thorn held. Speak you prophets of old if this be not true.
+
+A monarchical army lifts up mountains and makes valleys, viz. advances tyrants and treads the oppressed in the barren lanes of poverty.
+
+But a commonwealth's army is like John Baptist, who levels the mountains to the valleys, pulls down the tyrant and lifts up the oppressed: and so makes way for the spirit of peace and freedom to come in to rule and inherit the earth.
+
+And by this which hath been spoken, an army may see wherein they may do well, and wherein they may do hurt.
+
+## CHAP. V. - Education of mankind, in Schools and Trades.
+
+Mankind in the days of his youth is like a young colt, wanton and foolish, till he be broke by education and correction; and the neglect of this care, or the want of wisdom in the performance of it, hath been and is the cause of much division and trouble in the world.
+
+Therefore the law of a commonwealth does require that not only a father but that all overseers and officers should make it their work to educate children in good manners, and to see them brought up in some trade or other, and to suffer no children in any parish to live in idleness and youthful pleasure all their days, as many have been, but that they be brought up like men and not like beasts: that so the commonwealth may be planted with laborious and wise experienced men, and not with idle fools.
+
+Mankind may be considered in a fourfold degree, his childhood, youth, manhood and old age. His childhood and his youth may be considered from his birth till forty years of age; and within this compass of time, after he is weaned from his mother, who shall be the nurse herself if there be no defect in nature, his parents shall teach him a civil and humble behaviour toward all men. Then send him to school, to learn to read the laws of the commonwealth, to ripen his wits from his childhood, and so to proceed in his learning till he be acquainted with all arts and languages. And the reason is threefold:
+
+First, by being acquainted with the knowledge of the affairs of the world, by this traditional knowledge they may be the better able to govern themselves like rational men;
+
+Secondly, they may become thereby good commonwealth's men, in supporting the government thereof, by being acquainted with the nature of government;
+
+Thirdly, if England have occasion to send ambassadors to any other land, we may have such as are acquainted with their language; or if any ambassador come from other lands, we may have such as can understand their speech.
+
+But one sort of children shall not be trained up only to book learning and no other employment, called scholars, as they are in the government of monarchy; for then through idleness and exercised wit therein they spend their time to find out policies to advance themselves to be lords and masters above their labouring brethren, as Simeon and Levi do, which occasions all the trouble in the world.
+
+Therefore, to prevent the dangerous events of idleness in scholars, it is reason, and safe for common peace, that after children have been brought up at schools to ripen their wits, they shall then be set to such trades, arts and sciences as their bodies and wits are capable of; and therein continue till they come to forty years of age.
+
+For all the work of the earth, or in trades, is to be managed by youth, and by such as have lost their freedoms.
+
+Then from forty years of age till fourscore, if he live so long, which is the degree of manhood and old age, they shall be freed from all labour and work, unless they will themselves.
+
+And from among this degree of mankind shall be chosen all officers and overseers, to see the laws of the commonwealth observed.
+
+For as all men shall be workers or waiters in store-houses till they be forty years of age, so none shall be chosen a public officer till he be full forty years of age: for by this time man hath learned experience to govern himself and others: for when young wits are set to govern, they wax wanton, etc.
+
+What trades should mankind be brought up in?
+
+In every trade, art and science, whereby they may find out the secrets of the creation, and that they may know how to govern the earth in right order.
+
+There are five fountains from whence all arts and sciences have their influences: he that is an actor in any or in all the five parts is a profitable son of mankind; he that only contemplates and talks of what he reads and hears, and doth not employ his talent in some bodily action for the increase of fruitfulness, freedom and peace in the earth, is an unprofitable son.
+
+The first fountain is the right planting of the earth to make it fruitful, and this is called husbandry. And there are two branches of it:
+
+As first, planting, digging, dunging, liming, burning, grubbing and right ordering of land, to make it fit to receive seed, that it may bring forth a plentiful crop. And under this head all millers, maltsters, bakers, harness-makers for ploughs and carts, rope-makers, spinners and weavers of linen and such like, are all but good husbandry.
+
+The second branch of husbandry is gardening, how to plant, graft and set all sort of fruit trees, and how to order the ground for flowers, herbs and roots for pleasure, food or medicinal. And here all physicians, chirurgeons, distillers of all sorts of waters, gatherers of drugs, makers of wines and oil, and preservers of fruits and such like, may learn by observation what is good for all bodies, both man and beasts.
+
+The second fountain is mineral employment, and that is to search into the earth to find out mines of gold and silver, brass, iron, tin, lead, cannel coal and stone of all sorts, saltpetre, salt and alum-springs and such like. And here all chemists, gunpowder-makers, masons, smiths and such like, as would find out the strength and power of the earth, may learn how to order these for the use and profit of mankind.
+
+The third fountain is the right ordering of cattle, whether by shepherds or herdsmen; and such may learn here how to breed and train up cows for the dairies, bulls and horses for the saddle or yoke. And here all tanners, hatters, shoemakers, glovers, spinners of wool, clothiers, tailors, dyers and such like, may learn how to order and look to these.
+
+The fourth fountain is the right ordering of woods and timber trees, for planting, dressing, felling, framing of timber for all uses, for building houses or ships. And here all carpenters, joiners, throsters, plough-makers, instrument-makers for music, and all who work in wood and timber, may find out the secret[s] of nature, to make trees more Plentiful and thriving in their growth and profitable for use.
+
+The fifth fountain, from whence reason is exercised to find out the secrets of nature, is [to] observe the rising and setting of the sun, moon and the powers of the heavens above; and the motion of the tides and seas, and their several effects, powers and operations upon the bodies of man and beast. And here may be learned astrology, astronomy and navigation, and the motions of the winds and the causes of several appearances of the face of heaven, either in storms or in fairness.
+
+And in all these five fountains here is knowledge in the practice, and it is good.
+
+But there is traditional knowledge, which is attained by reading or by the instruction of others, and not practical but leads to an idle life; and this is not good.
+
+The first is a laborious knowledge, and a preserver of common peace, which we find God himself acting; for he put forth his own wisdom in practice when he set his strength to work to make the creation: for God is an active power, not an imaginary fancy.
+
+The latter is an idle, lazy contemplation the scholars would call knowledge; but it is no knowledge but a show of knowledge, like a parrot who speaks words but he knows not what he saith. This same show of knowledge rests in reading or contemplating or hearing others speak, and speaks so too, but will not set his hand to work. And from this traditional knowledge and learning rise up both clergy and lawyer, who by their cunning insinuations live merely upon the labour of other men, and teach laws which they themselves will not do, and lays burdens upon others which they themselves will not touch with the least of their fingers. And from hence arises all oppressions, wars and troubles in the world; the one is the son of contention, the other the son of darkness, but both the supporters of bondage, which the creation groans under.
+
+Therefore to prevent idleness and the danger of Machiavellian cheats, it is profitable for the commonwealth that children be trained lip in trades and some bodily employment,-as well as in learning languages or the histories of former ages.
+
+And as boys are trained up in learning and in trades, so all maids shall be trained up in reading, sewing, knitting, spinning of linen and woollen, music, and all other easy neat works, either far to furnish store-houses with linen and woollen cloth, or for the ornament of particular houses with needle-work.
+
+And if this course were taken, there would be no idle person nor beggars in the land, and much work would be done by that now lazy generation for the enlarging of the common treasuries.
+
+And in the managing of any trade, let no young wit be crushed in his invention; for if any man desire to make a new trial of his skill in any trade or science, the overseers shall not hinder him, but encourage him therein: that so the spirit of knowledge may have his full growth in man, to find out the secret in every art.
+
+And let everyone who finds out a new invention have a deserved honour given him; and certainly, when men are sure of food and raiment, their reason will be ripe and ready to dive into the secrets of the creation, that they may learn to see and know God (the spirit of the whole creation) in all his works; for fear of want, and care to pay rent to taskmasters, hath hindered many rare inventions.
+
+So that kingly power hath crushed the spirit of knowledge, and would not suffer it to rise up in its beauty and fulness, but by his club law hath preferred the spirit of imagination, which is a deceiver, before it.
+
+There shall be no buying and selling of the earth, nor of the fruits thereof .
+
+For by the government under kings, the cheaters hereby have cozened the plain-hearted of their creation birthrights, and have possessed themselves in the earth and calls it theirs and not the others' and so have brought in that poverty and misery which lies upon many men.
+
+And whereas the wise should help the foolish, and the strong help the weak, the wise and the strong destroys the weak and the simple.
+
+And are not all children generally simple and weak, and know not the things that belong to their peace till they come to ripe age? But before they come to that understanding, the cunning ones who have more strength and policy have by this hypocritical, lying, unrighteous and cheating art of buying and selling wrung the freedoms of the earth out of their hands, and cozened them of their birthrights.
+
+So that when they come to understanding, they see themselves beggars in the midst of a fruitful land, and so the proverb is true, 'Plain dealing is a jewel, but he who uses it shall die a beggar'. And why?
+
+Because this buying and selling is the nursery of cheaters, it is the law of the conqueror and the righteousness of the scribes and Pharisees, which both killed Christ and hindered his resurrection, as much as darkness can to put out light.
+
+And these cunning cheaters commonly become the rulers of the earth, and then the city mankind mourns, for not the wise poor man, but the cunning rich man, was always made an officer and ruler, such a one as by his stolen interest in the earth would be sure to hold others in bondage of poverty and servitude to him and his party.
+
+And hence arise oppression and tyranny in the earth upon the backs of the weak younger brethren, who are made younger brothers indeed, as the proverb is, by their cunning elder brother; and as Daniel said, The basest of men under kingly government were set to rule, who can command but not obey, who can take other men's labours to live at ease, but not work themselves.
+
+Therefore there shall be no buying and selling in a free commonwealth, neither shall any one hire his brother to work for him.
+
+If the commonwealth might be governed without buying and selling, here is a platform of government for it, which is the ancientest law of righteousness to mankind in the use of the earth, and which is the very height of earthly freedoms. But if the minds of the people, through covetousness and proud ignorance, will have the earth governed by buying and selling still, this same platform, with a few things subtracted, declares an easy way of government of the earth for the quiet of people's minds and preserving of peace in the land.
+
+For as, like a tradesman, I ask the highest price:
+
+Yet I may fall (if you will rise) upon a good advice.
+
+How must the earth be planted?
+
+The earth is to be planted, and the fruits reaped and carried into barns and store-houses, by the assistance of every family. And if any man or family want corn or-other provision they may go to the store-houses and fetch without money. If they want a horse to ride, go into the fields in summer, or to the common stables in winter, and receive one from the keepers; and when your journey is performed, bring him where you had him, without money. If any want food or victuals, they may either go to the butchers' shops, and receive what they want without money; or else go to the flocks of sheep or herds of cattle, and take and kill what meat is needful for their families, without buying and selling. And the reason why all the riches of the earth are a common stock is this, because the earth, and the labours thereupon, are managed by common assistance of every family, without buying and selling; as is shewn how more largely in the office of overseers for trades and the law for store-houses.
+
+The laws for the right ordering thereof, and the officers to see the laws executed to preserve the peace of every family and the peace of every man, and to improve and promote every trade, is shewed in the work of officers and by the laws following.
+
+None will be an enemy to this freedom, which indeed is to do to another as a man would have another do to him, but covetousness and pride, the spirit of the old grudging snapping Pharisees, who gives God abundance of good words in their sermons, in their prayers, in their fasts and in their thanksgivings, as though none should be more faithful servants to him than they: nay, they will shun the company, imprison and kill everyone that will not worship Go(l, they are so zealous.
+
+Well now, God and Christ hath enacted an everlasting law, which is love; not only one another of your own mind, but love your enemies too, such as are not of your mind: and, having food and raiment, therewith be content.
+
+Now here is a trial for you, whether you will be faithful to God and Christ in obeying his laws; or whether you will destroy the man-child of true freedom, righteousness and peace in his resurrection.
+
+And now thou wilt give us either the tricks of a soldier, face about and return to Egypt, and so declare thyself to be part of the serpent's seed, that must bruise the heel of Christ; or else to be one of the plain-hearted sons of promise, or members of Christ, who shall help to bruise the serpent's head, which is kingly oppression; and so bring in everlasting righteousness and peace into the earth Well, the eye is now open.
+
+Store-houses shall be built and appointed in all places, and be the common stock.
+
+There shall be store-houses in all places, both in the country and in cities, to which all the fruits of the earth, and other works made by tradesmen, shall be brought, and from thence delivered out again to particular families, and to everyone as they want for their use; or else to be transported by ship to other lands, to exchange for those things which our land will not or does not afford.
+
+For all the labours of husbandmen and tradesmen within the land, or by navigation to or from other lands, shall be all upon the common stock.
+
+And as every one works to advance the common stock, so every one shall have a free use of any commodity in the store-house, for his pleasure and comfortable livelihood without buying and selling or restraint from any.
+
+And having food and raiment, lodging and the comfortable societies of his own kind, what can a man desire more in these days of his travel?
+
+Indeed, covetous, proud and beastly-minded men desire more, either to lie by them to look upon, or else to waste and spoil it upon their lusts; while other brethren live in straits for want of the use thereof.
+
+But the laws and faithful officers of a free commonwealth do regulate the unrational practice of such men.
+
+There are two sorts of store-houses general and particular.
+
+The general store-houses are such houses as receive in all commodities in the gross, as all barns and places to lay corn and the fruits of the earth at the first reaping: and these may be called store-houses for corn, flax, wool; for leather, for iron, for linen and woollen cloth or for any commodity that comes into our hand by shipping; from whence [a] particular family or shop-keepers may fetch as they need, to furnish their lesser shops.
+
+So likewise herds of cattle in the field, flocks of sheep and horses, are all common store-houses- so that from the herds and flocks every family may fetch what they want for food or pleasure, without buying and selling.
+
+So likewise all public dairies are store-houses for butter and cheese: yet every family may have cows for their own use, about their own house.
+
+And these general store-houses shall be filled and preserved by the common labour and assistance of every family, as is mentioned in the office of overseer for trades.
+
+And from these public houses, which are the general stock of the land, all particular tradesmen may fetch materials for their particular work as they need, or to furnish their particular dwellings with any commodities.
+
+Secondly, there are particular store-houses or shops,
+
+To which the tradesmen shall bring their particular works: as all instruments of iron to the iron-shops, hats to shops appointed for them; gloves, shoes, linen and woollen cloth in smaller parcels, to shops appointed for every one of them; and the like.
+
+Even as now we have particular trade[rs?] in cities and towns, called shopkeepers, which shall remain still as they be, only altered in their receiving in and delivering out. For whereas by the law of kings or conquerors they do receive in and deliver out by buying and selling, and exchanging the conqueror's picture or stamp upon a piece of gold or silver for the fruits of the earth; now they shall (by the laws of the commonwealth) receive into their shops, and deliver out again freely, without buying and selling.
+
+They shall receive in, as into a store-house, and deliver out again freely, as out of a common store-house, when particular persons or families come for anything they need, as now they do by buying and selling under kingly government.
+
+For as particular families and tradesmen do make several works more than they can make use of: as hats, shoes, gloves, stockings, linen and woollen cloth and the like, and do carry their particular work to store-houses:
+
+So it is all reason and equity that they should go to other store-houses, and fetch any other commodity which they want and cannot make; for as other men partakes of their labours, it is reason they should partake of other men's.
+
+And all these store-houses and shops shall be orderly kept by such as shall be brought up to be waiters therein, as is mentioned in the office of overseers for trades.
+
+For as there are some men more ingenious to work, so other men are more ingenious in keeping of store-houses and shops, to receive in and deliver out commodities. And all this easy work may be called waiting at such and such a store-house: as some may wait at corn houses, some at linen and woollen houses, some at leather, some at iron shops; and every general and particular commodity shall be known where they are by their houses and shops, as it is at this day. So that towns and cities, and every family almost, are but store-houses of one commodity or other, for the uses of the commonwealth or to transport to other lands.
+
+Now this same free practice will kill covetousness, pride and oppression: for when men have a law to buy and sell, then, as I have said before, the cunning cheaters get great estates by other men's labours; and being rich thereby, become oppressing lords over their brethren; which occasions all our troubles and wars in all nations.
+
+Come hither now, all you who challenge your brethren to deny Christ, as though you were the only men that love Christ and would be true to him.
+
+Here is a trial of your love: can you be as ready to obey the law of-liberty, which is the command of Christ, as you would have others to obey your kingly laws of bondage? It may be you will either storm, or go away sorrowful; does not Christ tell you, that if you have food and raiment, you should therewith be content? And in this common freedom, here will be food and raiment, ease and pleasure plentiful, both for you and your brethren; so that none shall beg or starve, or live in the straits of poverty- and this fulfils that righteous law of Christ, Do as you would be done by: for that law of Christ can never be performed till you establish commonwealth's freedom.
+
+Therefore now let it appear, seeing the child is come to the birth, whether you will receive Christ who is the spreading spirit of freedom, righteousness and peace; or whether you will return to monarchy, to embrace that Egyptian bondage still. Well, here is life and death set before you, take whether you will; but know that unless your righteousness exceed the righteousness of the kingly and lordly scribes and Pharisees, you shall never enjoy true peace in your spirit.
+
+## CHAP. VI. - The Kings' old laws cannot govern a free Commonwealth.
+
+They cannot govern in times of bondage and in times of freedom too: they have indeed served many masters, popish and protestant. They are like old soldiers, that will but change their name, and turn about, and as they were; and the reason is, because they are the prerogative will of those, under any religion, that count it no freedom to them unless they be lords over the minds, persons and labours of their brethren.
+
+They are called the kings' laws because they are made by the kings. If any say they were made by the commoners, it is answered, They were not made by the commoners as the commoners of a free commonwealth are to make laws.
+
+For in the days of the kings, none were to choose nor be chosen Parliament-men, or law-makers, but lords of manors and freeholders, such as held title to their enclosures of land or charters for their liberties in trades under the king, who called the land his as he was the conqueror, or his successor.
+
+All inferior people were neither to choose, nor to be chosen; and the reason was because all freeholders of land, and such as held their liberties by charter, were all of the kings' interest; and the inferior people were successively of the rank of the conquered ones, and servants and slaves from the time of the conquest.
+
+And further, when a Parliament was chosen in that manner, yet if any Parliament-man in the uprightness of his heart did endeavour to promote any freedom, contrary to the king's will or former customs Tom the conquest, he was either committed to prison by the king or by his House of Lords, who were his ancient Norman successive council of war; or else the Parliament was dissolved and broke up by the king.
+
+So that the old laws were made in times under kingly slavery, not under the liberty of commonwealth's freedom, because Parliament-men must have regard to the king's prerogative interest, to hold his conquest, or else endanger themselves.
+
+As sometimes it is in these days: some officers dare not speak against the minds of those men who are the chief in power, nor a private soldier against the mind of his officer, lest they be cashiered their places and livelihood.
+
+And so long as the promoting of the kings' will and prerogative was to be in the eye of the law-makers, the oppressed commoners could never enjoy commonwealth's freedom thereby.
+
+Yet by the wisdom, courage, faithfulness and industry of some Parliament-men, the commoners have received here a line and there a line of freedom inserted into their laws; as those good lines of freedom in Magna Charta were obtained by much hardship and industry.
+
+Secondly, they were the kings' laws, because the kings' own creatures made the laws; or lords of manors, freeholders, etc., were successors of the Norman soldiers from the conquest, therefore they could do no other but maintain their own and their kings' interest.
+
+And do we not see that all laws were made in the days of the kings to ease the rich landlord? But the poor labourers were left under bondage still; they were to have no freedom in the earth by those Pharisaical laws. For when laws were made and Parliaments broke up, the poor oppressed commoners had no relief; but the power of lords of manors, withholding the free use of the common land from them, remained still: for none durst make use of any common land but at the lord's leave according to the will and law of-the conqueror; therefore the old laws were called the kings' laws.
+
+And these old laws cannot govern a free commonwealth, because the land now is to be set free from the slavery of the Norman conquest; and the power of lords of manors and Norman freeholders is to be taken away, or else the commoners are but where they were, if not fallen lower into straits than they were: and the old laws cannot look with any other face than they did. Though they be washed with commonwealth's water, their countenance is still withered. Therefore it was not for nothing that the kings would have all their laws written in French and Latin and not in English, partly in honour to the Norman race, and partly to keep the common people ignorant of their creation-freedoms, lest they should rise to redeem themselves: and if those laws should be writ in English, yet if the same kingly principles remain in them, the English language would not advantage us anything, but rather increase our sorrow by our knowledge of our bondage.
+
+What is law in general?
+
+Law is a rule whereby man and other creatures are governed in their actions, for the preservation of the common peace. And this law is twofold:
+
+First, it is the power of life (called the law of nature within the creatures) which does move both man and beast in their actions; or that causes grass, trees, corn and all plants to grow in their several seasons; and whatsoever any body does, he does it as he is moved by this inward law. And this law of nature moves twofold, viz. unrationally or rationally. 0
+
+A man by this inward law is guided to actions of generation and present content, rashly, through a greedy self-love, without any consideration, like foolish children, or like the brute beasts; by reason whereof much hurt many times follows the body. And this is called the law in the members warring against the law of the mind.
+
+Or when there is an inward watchful oversight of all motions to action, considering the end and effects of those actions, that there be no excess in diet, in speech or in action break forth to the prejudice of a man's self or others. And this is called the light in man, the reasonable power, or the v law of the mind.
+
+And this rises up in the heart, by an experimental observation of that peace and trouble which such and such words, thoughts and actions bring the man into. And this is called the record on high; for it is a record in a man's heart above the former unreasonable power. And it is called the witness or testimony of a man's own conscience.
+
+And it is said, to the law and to the testimony etc., for this moderate watchfulness is still the law of nature in a higher resurrection than the former: it hath many terms which for brevity sake I let pass.
+
+And this twofold work of the law within man strives to bring forth themselves in writing to beget numbers of bodies on their sides. And that power that begets the biggest number always rules as king and lord in the creature and in the creation, till the other part overtop him, even as light and darkness strive in day and night to succeed each other; or as it is said, the strong man armed keeps the heart of man, till a stronger than he come, and cast him out.
+
+And this written law, proceeding either from reason or unreasonableness, is called the letter; whereby the creation of mankind, beasts and earth is governed according to the will of that power which rules. And it is called by his opposite, the letter that kills, and by those of the same nature with it, it is called the word of life.
+
+As for example, if the experienced, wise and strong man bears rule, then he writes down his mind to curb the unreasonable law of covetousness and pride in unexperienced men, to preserve peace in the commonwealth. And this is called the historical or traditional law, because it is conveyed from one generation to another by writing; as the laws of Israel's commonwealth were writ in a book by Moses, and so conveyed to posterity.
+
+And this outward law is a bridle to unreasonableness, or as Solomon writ, it is a whip for the fool's back, for whom only it was added.
+
+Secondly, since Moses's time, the power of unreasonable covetousness and pride hath sometimes rise up and corrupted that traditional law.
+
+For since the power of the sword rise up in nations to conquer, the written law hath not been to advance common freedom and to beat down the unreasonable self-will in mankind, but it hath been framed to uphold that self-will of the conqueror, right or wrong; not respecting the freedom of the commonwealth, but the freedom of the conqueror and his friends only. By reason whereof much slavery hath been laid upon the backs of the plain-dealing man; and men of public spirits, as Moses was, have been crushed, and their spirits damped thereby; which hath bred, first discontents, and then more wars in the nations.
+
+And those who have been favourites about the conqueror, have by hypocrisy and flattery pleased their king, that they might get what they can of the earth into their possession; and thereby have increased the bondage of the painful labourer, if they could but catch him to act contrary to the conqueror's will, called law. And now the city mourns: and do we not see that the laws of kings have been always made against such actions as the common people were most inclinable to, on purpose to ensnare them into their sessions and courts, that the lawyers and clergy, who were the kings' supporters, might get money thereby, and live in fulness by other men's labours?
+
+But hereby the true nature of a well-governed commonwealth hath been ruined, and the will of kings set up for a law, and the law of righteousness, law of liberty, trod under foot and killed.
+
+This traditional law of kings is that letter at this day which kills true freedom, and it is the fomenter of wars and persecution.
+
+This is the soldier who cut Christ's garment into pieces, which was to have remained uncut and without seam; this law moves the people to fight one against another for those pieces, viz. for the several enclosures of the earth, who shall possess the earth, and who shall be ruler over others.
+
+But the true ancient law of God is a covenant of peace to whole mankind; this sets the earth free to all; this unites both Jew and Gentile into one brotherhood, and rejects none: this makes Christ's garment whole again, and makes the kingdoms of the world to become commonwealths again. It is the inward power of right understanding, which is the true law that teaches people, in action as well as in words, to do as they would be done unto.
+
+But thus much in general, what law is: hereafter follows what those particular laws may be, whereby a commonwealth may be governed in peace and all burdens removed; which is a breaking forth of that law of liberty which will be the joy of all nations when he arises up and is established in his brightness.
+
+Short and pithy laws are best to govern a commonwealth.
+
+The laws of Israel's commonwealth were few, short and pithy; and the government thereof was established in peace, so long as officers and people were obedient thereunto.
+
+But those many laws in the days of the kings of England, which were made, some in times of popery, and some in times of protestantism, and the proceedings of the law being in French and Latin, hath produced two great evils in England.
+
+First, it hath occasioned much ignorance among the people, and much contention; and the people have mightily erred through want of knowledge, and thereby they have run into great expense of money by suits of law, or else many have been imprisoned, whipped, banished, lost their estates and lives by that law which they were ignorant of, till the scourge thereof was upon their backs. This is a sore evil among the people.
+
+Secondly, the people's ignorance of the laws hath bred many sons of contention: for when any difference falls out between man and man, they neither of them know which offends the other; therefore both of them thinking their cause is good, they delight to make use of the law; and then they go and give a lawyer money to tell them which of them was the offender. The lawyer, being glad to maintain their own trade, sets them together by the ears, till all their monies be near spent; and then bids them refer the business to their neighbours, to make them friends; which might have been done at the first.
+
+So that the course of the law and lawyers hath been a mere snare to entrap the people, and to pull their estates from them by craft; for the lawyers do uphold the conqueror's interest and the people's slavery: so that the king, seeing that, did put all the affairs of judicature into their hands. And all this must be called justice, but it is a sore evil.
+
+But now if the laws were few and short, and often read, it would prevent those evils; and everyone, knowing when they did well and when ill, would be very cautious of their words and actions; and this would escape the lawyers' craft.
+
+As Moses's laws in Israel's commonwealth: The people did talk of them when they lay down and when they rose up, and as they walked by the way; and bound them as bracelets upon their hands: so that they were an understanding people in the laws wherein their peace did depend.
+
+But it is a sign that England is a blinded and a snared generation; their leaders through pride and covetousness have caused them to err, yea and perish too, for want of the knowledge of the laws, which hath the power of life and death, freedom and bondage, in its hand. But I hope better things hereafter.
+
+What may be those particular laws, or such a method of laws, whereby a commonwealth may be governed.
+
+1. The bare letter of the law established by act of Parliament shall be the rule for officer and people, and the chief judge of all actions.
+
+2. He or they who add or diminish from the law, excepting in the court of Parliament, shall be cashiered his office, and never bear office more.
+
+3. No man shall administer the law for money or reward; he that doth shall die as a traitor to the commonwealth: for when money must buy and sell justice and bear all the sway, there is nothing but oppression to be expected.
+
+4. The laws shall be read by the minister to the people four times in the year, viz. every quarter, that everyone may know whereunto they are to yield obedience; then none may die for want of knowledge.
+
+5. No accusation shall be taken against any man, unless it be proved by two or three witnesses or his own confession.
+
+6. No man shall suffer any punishment but for matter of fact, or reviling words: but no man shall be troubled for his judgment or practice in the things of his God, so he live quiet in the land.
+
+7. The accuser and accused shall always appear face to face before any officer, that both sides may be heard, and no wrong to either party.
+
+8. If any judge or officer execute his own will contrary to the law, or which there is no law to warrant him in, he shall be cashiered, and never bear office more.
+
+9. He who raises an accusation against any man, and cannot prove it, shall suffer the same punishment the other should, if proved. An accusation is when one man complains of another to an officer, all other accusations the law takes no notice of.
+
+10. He who strikes his neighbour shall be struck himself by the executioner, blow for blow, and shall lose eye for eye, tooth for tooth, limb for limb, life for life; and the reason is that men may be tender of one another's bodies, doing as they would be done by.
+
+11. If any man strike an officer, he shall be made a servant under the task-master for a whole year.
+
+12. He who endeavours to stir up contention among neighbours, by tale-bearing or false reports, shall the first time be reproved openly by the overseers among all the people; the second time shall be whipped; the third time shall be a servant under the task-master for three months; and if he continues, he shall be a servant for ever, and lose his freedom in the commonwealth.
+
+13. If any give reviling and provoking words whereby his neighbour's spirit is burdened, if complaint be made to the overseers, they shall admonish the offender privately to forbear; if he continues to offend his neighbour, the next time he shall be openly reproved and admonished before the congregation, when met together; if he continue, the third time he shall be whipped; the fourth time, if proof be made by witnesses, he shall be a servant under the task-master for twelve months.
+
+14. He who will rule as a lord over his brother, unless he be an officer commanding obedience to the law, he shall be admonished as aforesaid, and receive like punishment if he continue.
+
+Laws for the planting of the earth, etc.
+
+15. Every household shall keep all instruments and tools fit for the tillage of the earth, either for planting, reaping or threshing. Some households, which have many men in them, shall keep ploughs, carts, harrows and such like: other households shall keep spades, pick-axes, axes, pruning hooks and such like, according as every family is furnished with men to work therewith.
+
+And if any master or father of a family be negligent herein, the overseer for that circuit shall admonish him between them two; if he continue negligent, the overseers shall reprove him before all the people: and if he utterly refuse, then the ordering of that family shall be given to another, and he shall be a servant under the task-master till he conform.
+
+16. Every family shall come into the field, with sufficient assistance, at seed-time to plough, dig and plant, and at harvest-time to reap the fruits of the earth and carry them into the store-houses, as the overseers order the work and the number of workmen. And if any refuse to assist in this work, the overseers shall ask the reason; and if it be sickness or any distemper that hinders them they are freed from such service; if mere idleness keep them back, they are to suffer punishment according to the laws against idleness.
+
+Laws against idleness.
+
+17. If any refuse to learn a trade, or refuse to work in seedtime or harvest, or refuse to be a waiter in store-houses, and yet will feed and clothe himself with other men's labours: the overseers shall first admonish him privately; if he continue idle, he shall be reproved openly before all the people by the overseers; and shall be forbore with a month after this reproof. If he still continues idle, he shall then be whipped, and be let go at liberty for a month longer; if still he continue idle, he shall be delivered into the task-master's hand, who shall set him to work for twelve months, or till he submit to right order. And the reason why every young man shall be trained up in some work or other is to prevent pride and contention, it is for the health of their bodies, it is a pleasure to the mind to be free in labours one with another; and it provides plenty of food and all necessaries for the commonwealth.
+
+Laws for store-houses.
+
+18. In every town and city shall be appointed store-houses for flax, wool, leather, cloth and for all such commodities as come from beyond seas, and these shall be called general store-houses; from whence every particular family may fetch such commodities as they want, either for their use in their house, or for to work in their trades; or to carry into the country store-houses.
+
+19. Every particular house and shop in a town or city shall be a particular store-house or shop, as now they be; and these shops shall either be furnished by the particular labour of that family according to the trade that family is of, or by the labour of other lesser families of the same trade, as all shops in every town are now furnished.
+
+20. The waiters in store-houses shall deliver the goods under their charge, without receiving any money, as they shall receive in their goods without paying any money.
+
+21. If any waiter in a store-house neglect his office, upon a just complaint the overseers shall acquaint the judge's court therewith, and from thence he shall receive his sentence to be discharged that house and office; and to be appointed some other labouring work under the task-master; and another shall have his place. For he who may live in freedom, and will not, is to taste of servitude.
+
+Laws for overseers.
+
+22. The only work of every overseer is to see the laws executed; for the law is the true magistracy of the land.
+
+23. If any overseer favour any in their idleness, and neglect the execution of the laws, he shall be reproved the first time by the judge's court; the second time cashiered his office, and shall never bear office more, but fall back into the rank of young people and servants to be a worker.
+
+24. New overseers shall at their first entrance into their office look back upon the actions of the old overseers of the last year, to see if they have been faithful in their places, and consented to no breach of law, whereby kingly bondage should any ways be brought in.
+
+25. The overseers for trades shall see every family to-lend assistance to plant and reap the fruits of the earth, to work in their trades and to furnish the store-houses; and to see that the waiters in store-houses be diligent to receive in and deliver out any goods, without buying and selling, to any man whatsoever.
+
+26. While any overseer is in the performance of his place, everyone shall assist him, upon pain of open reproof (or cashiered if he be another officer) or forfeiture of freedom, according to the nature of the business in hand in which he refused his assistance.
+
+Laws against buying and selling.
+
+27. If any man entice another to buy and sell, and he who is enticed doth not yield but makes it known to the overseer, the enticer shall lose his freedom for twelve months and the overseer shall give words [in] commendation of him that refused the enticement, before all the congregation, for his faithfulness to the commonwealth's peace.
+
+28. If any do buy and sell the earth or quits thereof, unless it be to or with strangers of another nation, according to the law of navigation, they shall be both put to death as traitors to the peace of the commonwealth, because it brings in kingly bondage again and is the occasion of all quarrels and oppressions.
+
+29. He or she who calls the earth his and not his brother's shall be set upon a stool, with those words written in his forehead, before all the congregation; and afterwards be made a servant for twelve months under the task-master. If he quarrel, or seek by secret persuasion, or open rising in arms, to set up such a kingly property, he shall be put to death.
+
+30. The store-houses shall be every man's substance, and not any one's.
+
+31. No man shall either give hire or take hire for his work; for this brings in kingly bondage. If any freemen want help, there are young people, or such as are common servants, to do it, by the overseer's appointment. He that gives and he that takes hire for work, shall both lose their freedom, and become servants for twelve months under the taskmaster.
+
+Laws for navigation.
+
+32. Because other nations as yet own monarchy, and will buy and sell, therefore it is convenient, for the peace of our commonwealth, that our ships do transport our English goods and exchange for theirs, and conform to the customs of other nations in buying and selling: always provided that what goods our ships carry out, they shall be the commonwealth's goods; and all their trading with other nations shall be upon the common stock, to enrich the store-houses.
+
+Laws for silver and gold.
+
+33. As silver and gold is either found out in mines in our own land, or brought by shipping from beyond sea, it shall not be coined with a conqueror's stamp upon it, to set up buying and selling under his name or by his leave; for there shall be no other use of it in the commonwealth than to make dishes and other necessaries for the ornament of houses, as now there is use made of brass, pewter and iron, or any other metal in their use.
+
+But if in case other nations, whose commodities we want, will not exchange with us unless we give them money, then pieces of silver and gold may-be stamped with the commonwealth's arms upon it, for the same use, and no otherwise.
+
+For where money bears all the sway, there is no regard of that golden rule, Do as you would be done by. Justice is bought and sold: nay, injustice is sometimes bought and sold for money: and it is the cause of all wars and oppressions. And certainly the righteous spirit of the whole creation did never enact such a law, that unless his weak and simple men did go from England to the East Indies, and fetch silver and gold to bring in their hands to their brethren, and give it them for their good-will to let them plant the earth, and live and enjoy their livelihood therein.
+
+Laws to choose officers..
+
+34. All overseers and state officers shall be chosen new every year, to prevent the rise of ambition and covetousness; for the nations have smarted sufficiently by suffering officers to continue long in an office, or to remain in an office by hereditary succession.
+
+35. A man that is of a turbulent spirit, given to quarrelling and provoking words to his neighbour, shall not be chosen any officer while he so continues.
+
+36. All men from twenty years of age upwards shall have freedom of voice to choose officers, unless they be such as lie under the sentence of the law.
+
+37. Such shall be chosen officers as are rational men of moderate conversation, and who have experience in the laws of the commonwealth.
+
+38. All men from forty years of age upwards shall be capable to be chosen state officers, and none younger, unless anyone by his industry and moderate conversation doth move the people to choose him.
+
+39. If any man make suit to move the people to choose him an officer, that man shall not be chose[n] at all that time. If another man persuade the people to choose him who makes suit for himself, they shall both lose their freedom at that time, viz. they shall neither have a voice to choose another, nor be chosen themselves.
+
+Laws against treachery.
+
+40. He who professes the service of a righteous God by preaching and prayer, and makes a trade to get the possessions of the earth, shall be put to death for a witch and a cheater.
+
+41. He who pretends one thing in words, and his actions declare his intent was another thing, shall never bear office in the commonwealth
+
+What is freedom?
+
+Every freeman shall have a freedom in the earth, to plant or build, to fetch from the store-houses anything he wants, and shall enjoy the fruits of his labours without restraint from any; he shall not pay rent to any landlord, and he shall be capable to be chosen any officer, so he be above forty years of age, and he shall have a voice to choose officers though he be under forty years of age. If he want any young men to be assistance to him in his trade or household employment, the overseers shall appoint him young men or maids to be his servants in his family.
+
+Laws for such as have lost their freedom.
+
+42. All those who have lost their freedom shall be clothed in white woollen cloth, that they may be distinguished from others.
+
+43. They shall be under the government of a task-master, who shall appoint them to be porters or labourers, to do any work that any freeman wants to be done.
+
+44. They shall do all kind of labour without exception, but their constant work shall be [that of] carriers or carters, to carry corn or other provision from store-house to storehouse, from country to cities, and from thence to countries, etc.
+
+45. If any of these refuse to do such work, the task-master shall see them whipped, and shall feed them with coarse diet. And what hardship is this? For freemen work the easiest work, and these shall work the hardest work. And to what end is this, but to kill their pride and unreasonableness, that they may become useful men in the commonwealth?
+
+46. The wife or children of such as have lost their freedom shall not be as slaves till they have lost their freedom, as their parents and husbands have done.
+
+47. He who breaks any laws shall be the first time reproved in words in private or in public, as is shewed before; the next time whipped, the third time lose his freedom, either for a time or for ever, and not to be any officer.
+
+48. He who hath lost his freedom shall be a common servant to any freeman who comes to the task-masters and requires one to do any work for him; always provided, that after one freeman hath by the consent of the task-master appointed him his work, another freeman shall not call him thence till that work be done.
+
+49. If any of these offenders revile the laws by words, they shall be soundly whipped, and fed with coarse diet; if they raise weapons against the laws, they shall die as traitors.
+
+Laws to restore slaves to freedom.
+
+50. When any slaves give open testimony of their humility and diligence, and their care to observe the laws of the commonwealth, they are then capable to be restored to their freedom, when the time of servitude is expired according to the judge's sentence; but if they remain opposite to the laws, they shall continue slaves still another term of time.
+
+51. None shall be restored to freedom till they have been a twelve month labouring servants to the commonwealth, for they shall winter and summer in that condition.
+
+52. When any is restored to freedom, the judge at the senators' court shall pronounce his freedom, and give liberty to him to be clothed in what other coloured cloth he will.
+
+53. If any persons be sick or wounded, the chirurgeons, who are trained up in the knowledge of herbs and minerals and know how to apply plasters or physic, shall go when they are sent for to any who need their help, but require no reward, because the common stock is the public pay for every man's labour.
+
+54. When a dead person is to be buried, the officers of the parish and neighbours shall go along with the corpse to the grave, and see it laid therein, in a civil manner; but the public minister nor any other shall have any hand in reading or exhortation.
+
+55. When a man hath learned his trade, and the time of his seven years' apprenticeship is expired, he shall have his freedom to become master of a family, and the overseers shall appoint him such young people to be his servants as they think fit, whether he marry or live a single life.
+
+Laws for marriage.
+
+56. Every man and woman shall have the free liberty to marry whom they love, if they can obtain the love and liking of that party whom they would marry; and neither birth nor portion shall hinder the match, for we are all of one blood, mankind; and for portion, the common store-houses are every man['s] and maid's portion, as free to one as to another.
+
+57. If any man lie with a maid and beget a child, he shall marry her.
+
+58. If a man lie with a woman forcibly, and she cry out and give no consent; if this be proved by two witneses, or the man's confession, he shall be put to death, and the woman let go free; it is robbery of a woman['s] bodily freedom.
+
+59. If any man by violence endeavour to take away another man's wife, the first time of such violent offer he shall be reproved before the congregation by the peace-maker; the second time he shall be made a servant under the task-master for twelve months; and if he forcibly lie with another man's wife, and she cry out, as in the case when a maid is forced, the man shall be put to death.
+
+60. When any man or woman are consented to live together in marriage, they shall acquaint all the overseers in their circuit therewith, and some other neighbours- and being all met together, the man shall declare by his own mouth before them all that he takes that woman to be his wife, and the woman shall say the same, and desire the overseers to be witnesses.
+
+61. No master of a family shall suffer more meat to be dressed at a dinner or supper than what will be spent and eaten by his household or company present, or within such a time after, before it be spoiled. If there be any spoil constantly made in a family of the food of man, the overseer shall reprove the master for it privately; if that abuse be continued in his family, through his neglect of family government, he shall be openly reproved by the peace-maker before all the people, and ashamed for his folly; the third time he shall be made a servant for twelve months under the task-master, that he may know what it is to get food, and another shall have the oversight of his house for the time.
+
+62. No man shall be suffered to keep house, and have servants under him, till he hath served seven years under command to a master himself; the reason is, that a man may be of age and of rational carriage before he be a governor of a family, that the peace of the commonwealth may be preserved.
+
+*Here is the righteous law; man wilt thou it maintain?
+
+It may be, is, as hath still, in the world been slain.
+
+Truth appears in light, falsehood rules in power;
+
+To see these things to be is cause of grief each hour.
+
+Knowledge, why didst thou comes to wound and not to cure?
+
+I sent not for thee, thou didst me inlure.
+
+Where knowledge does increase, there sorrows multiply,
+
+To see the great deceit which in the world doth lie:
+
+Man saying one thing now, unsaying it anon,
+
+Breaking all's engagements, when deeds for him are done.
+
+O power where art thou, that must mend things amiss?
+
+Come change the heart of man, and make him truth to kiss.
+
+O death where art thou? Wilt thou not tidings send?
+
+I fear thee not, thou art my loving friend.
+
+Come take this body, and scatter it in the four,
+
+That I may dwell in one, and rest in peace once more.*
