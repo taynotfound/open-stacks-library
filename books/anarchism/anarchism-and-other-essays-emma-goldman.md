@@ -1,29 +1,31 @@
 ---
-title: "Anarchism and other essays - Emma Goldman"
-author: ""
+title: "Anarchism and Other Essays"
+author: "Emma Goldman"
 date: ""
 category: "anarchism"
-source: "https://libcom.org/article/anarchism-and-other-essays-emma-goldman"
+source: "https://www.gutenberg.org/ebooks/2162"
+source_name: "Project Gutenberg"
 cover: ""
+at_risk: false
 mirror_state: full
 tags:
-  - "Emma Goldman"
-  - "women"
   - "anarchism"
-  - "PDF"
+  - "feminism"
+  - "goldman"
+  - "essays"
 files:
-  - name: "Emma Goldman- Anarchism and Other Essays.pdf"
-    type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Emma_Goldman-_Anarchism_and_Other_Essays.pdf"
+  - name: "anarchism-and-other-essays-goldman.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/anarchism-and-other-essays-goldman.epub"
     hosted: true
 ---
 
-# Anarchism and other essays - Emma Goldman
+# Anarchism and Other Essays
 
-
-A collection of writing about anarchism and other topics by legendary anarchist, Emma Goldman.
+**Author:** Emma Goldman  
+**Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/2162)  
 
 ## Downloads
-- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Emma_Goldman-_Anarchism_and_Other_Essays.pdf) (self-hosted)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/anarchism-and-other-essays-goldman.epub)
 
-[Read original on libcom.org](https://libcom.org/article/anarchism-and-other-essays-emma-goldman)
+[Original source](https://www.gutenberg.org/ebooks/2162)
