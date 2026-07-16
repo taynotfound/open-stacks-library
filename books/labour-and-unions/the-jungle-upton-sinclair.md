@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://www.gutenberg.org/ebooks/140"
 source_name: "Project Gutenberg"
-cover: ""
+cover: "https://upload.wikimedia.org/wikipedia/commons/4/4a/The_Jungle_%281906%29_cover.jpg"
 at_risk: false
 mirror_state: full
 tags:
