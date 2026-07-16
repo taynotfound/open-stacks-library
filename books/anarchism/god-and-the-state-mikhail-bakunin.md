@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Bakunin - God and the State.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Bakunin_-_God_and_the_State.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Bakunin_-_God_and_the_State.pdf"
     hosted: true
 ---
 # God and the state - Mikhail Bakunin

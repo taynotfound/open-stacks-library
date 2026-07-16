@@ -20,11 +20,11 @@ links: []
 files:
   - name: "Manifesto of the Socialist Part - Socialist Party of Canada.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Manifesto_of_the_Socialist_Part_-_Socialist_Party_of_Canada.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Manifesto_of_the_Socialist_Part_-_Socialist_Party_of_Canada.mobi"
     hosted: true
   - name: "Manifesto of the Socialist Part - Socialist Party of Canada.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Manifesto_of_the_Socialist_Part_-_Socialist_Party_of_Canada.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Manifesto_of_the_Socialist_Part_-_Socialist_Party_of_Canada.epub"
     hosted: true
 ---
 # Manifesto of the Socialist Party of Canada 1944

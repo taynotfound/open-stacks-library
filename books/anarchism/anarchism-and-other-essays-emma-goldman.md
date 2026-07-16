@@ -16,7 +16,7 @@ tags:
 files:
   - name: "anarchism-and-other-essays-goldman.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/anarchism-and-other-essays-goldman.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-and-other-essays-goldman.epub"
     hosted: true
 ---
 
@@ -26,6 +26,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/2162)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/anarchism-and-other-essays-goldman.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-and-other-essays-goldman.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/2162)

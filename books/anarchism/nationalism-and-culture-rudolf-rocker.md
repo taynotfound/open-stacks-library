@@ -27,7 +27,7 @@ links:
 files:
   - name: "nationalism_and_culture_rocker_rudolf.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/nationalism_and_culture_rocker_rudolf.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/nationalism_and_culture_rocker_rudolf.epub"
     hosted: true
 ---
 # Nationalism and culture - Rudolf Rocker

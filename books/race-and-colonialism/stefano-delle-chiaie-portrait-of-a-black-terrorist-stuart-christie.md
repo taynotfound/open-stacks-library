@@ -26,11 +26,11 @@ links:
 files:
   - name: "Stefano Delle Chiaie_ Portrait  - Christie, Stuart.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Stefano_Delle_Chiaie__Portrait__-_Christie__Stuart.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Stefano_Delle_Chiaie__Portrait__-_Christie__Stuart.epub"
     hosted: true
   - name: "Stefano-Delle-Chiaie.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Stefano-Delle-Chiaie.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Stefano-Delle-Chiaie.pdf"
     hosted: true
 ---
 # Stefano Delle Chiaie: Portrait of a 'black' terrorist - Stuart Christie

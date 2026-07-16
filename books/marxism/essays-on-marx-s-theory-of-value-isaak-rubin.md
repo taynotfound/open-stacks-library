@@ -24,11 +24,11 @@ links: []
 files:
   - name: "rubin_marx_theory_of_value.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/rubin_marx_theory_of_value.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/rubin_marx_theory_of_value.epub"
     hosted: true
   - name: "Essays on Marx's Theory of Value - Rubin, Isaak Illich.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Essays_on_Marx_s_Theory_of_Value_-_Rubin__Isaak_Illich.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Essays_on_Marx_s_Theory_of_Value_-_Rubin__Isaak_Illich.mobi"
     hosted: true
 ---
 # Essays on Marx's theory of value - Isaak Rubin

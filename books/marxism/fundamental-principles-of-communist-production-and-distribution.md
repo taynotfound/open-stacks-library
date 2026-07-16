@@ -24,11 +24,11 @@ links: []
 files:
   - name: "GIK- Fundamental Principles of Communist Production and Distribution.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/GIK-_Fundamental_Principles_of_Communist_Production_and_Distribution.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/GIK-_Fundamental_Principles_of_Communist_Production_and_Distribution.pdf"
     hosted: true
   - name: "GIK - Fundamental Principles of Communist Production and Distribution.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/GIK_-_Fundamental_Principles_of_Communist_Production_and_Distribution.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/GIK_-_Fundamental_Principles_of_Communist_Production_and_Distribution.epub"
     hosted: true
 ---
 # Fundamental principles of communist production and distribution

@@ -26,7 +26,7 @@ links:
 files:
   - name: "A People's History of the Unite - Zinn, Howard.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/A_People_s_History_of_the_Unite_-_Zinn__Howard.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/A_People_s_History_of_the_Unite_-_Zinn__Howard.mobi"
     hosted: true
 ---
 # A people's history of the United States - Howard Zinn

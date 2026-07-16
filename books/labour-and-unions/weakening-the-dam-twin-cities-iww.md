@@ -19,11 +19,11 @@ links: []
 files:
   - name: "wtdCOVER.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wtdCOVER.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wtdCOVER.pdf"
     hosted: true
   - name: "WTDfinal.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/WTDfinal.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/WTDfinal.pdf"
     hosted: true
 ---
 # Weakening the dam - Twin Cities IWW

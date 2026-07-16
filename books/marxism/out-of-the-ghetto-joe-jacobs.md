@@ -33,7 +33,7 @@ links:
 files:
   - name: "Out_Of_The_Ghetto_Joe_Jacobs_p1-160.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Out_Of_The_Ghetto_Joe_Jacobs_p1-160.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Out_Of_The_Ghetto_Joe_Jacobs_p1-160.pdf"
     hosted: true
 ---
 # Out of the Ghetto - Joe Jacobs

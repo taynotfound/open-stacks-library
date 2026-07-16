@@ -22,11 +22,11 @@ links: []
 files:
   - name: "4_Hunting_Specters_-_Paranoid_Purges_in.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/4_Hunting_Specters_-_Paranoid_Purges_in.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/4_Hunting_Specters_-_Paranoid_Purges_in.pdf"
     hosted: true
   - name: "Hunting_Specters.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Hunting_Specters.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Hunting_Specters.pdf"
     hosted: true
 ---
 # Hunting Specters: A Political History of the Purges in the Communist Party of the Philippines

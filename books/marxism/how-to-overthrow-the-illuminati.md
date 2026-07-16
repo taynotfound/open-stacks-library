@@ -67,7 +67,7 @@ links:
 files:
   - name: "how-to-overthrow-the-illuminati_print.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/how-to-overthrow-the-illuminati_print.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/how-to-overthrow-the-illuminati_print.pdf"
     hosted: true
   - name: "here"
     type: "PDF"

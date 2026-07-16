@@ -42,11 +42,11 @@ links:
 files:
   - name: "CS&MH_Libcom.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/CS_MH_Libcom.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/CS_MH_Libcom.pdf"
     hosted: true
   - name: "CS&MH - layout2.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/CS_MH_-_layout2.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/CS_MH_-_layout2.pdf"
     hosted: true
 ---
 # Class struggle and mental health: Live to fight another day

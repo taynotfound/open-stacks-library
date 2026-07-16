@@ -24,11 +24,11 @@ links: []
 files:
   - name: "The Tragedy of Spain - Rocker, Rudolf.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Tragedy_of_Spain_-_Rocker__Rudolf.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Tragedy_of_Spain_-_Rocker__Rudolf.epub"
     hosted: true
   - name: "The Tragedy of Spain - Rocker, Rudolf.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Tragedy_of_Spain_-_Rocker__Rudolf.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Tragedy_of_Spain_-_Rocker__Rudolf.mobi"
     hosted: true
 ---
 # The tragedy of Spain - Rudolf Rocker

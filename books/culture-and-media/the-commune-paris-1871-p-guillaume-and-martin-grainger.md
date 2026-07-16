@@ -25,7 +25,7 @@ links: []
 files:
   - name: "The Commune Paris 1871 - Solidarity.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Commune_Paris_1871_-_Solidarity.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Commune_Paris_1871_-_Solidarity.pdf"
     hosted: true
 ---
 # The Commune: Paris 1871 – P. Guillaume and Martin Grainger

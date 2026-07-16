@@ -24,7 +24,7 @@ links: []
 files:
   - name: "civil-war-france.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/civil-war-france.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/civil-war-france.mobi"
     hosted: true
 ---
 # The civil war in France - Karl Marx

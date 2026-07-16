@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Seventy days in Russia What I saw - Angel Pestaña.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Seventy_days_in_Russia_What_I_saw_-_Angel_Pesta_a.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Seventy_days_in_Russia_What_I_saw_-_Angel_Pesta_a.pdf"
     hosted: true
 ---
 # Seventy days in Russia: What I saw - Angel Pestaña

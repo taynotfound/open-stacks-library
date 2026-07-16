@@ -20,7 +20,7 @@ links: []
 files:
   - name: "John Zerzan- Trade unionism or socialism; the revolt against work_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/John_Zerzan-_Trade_unionism_or_socialism__the_revolt_against_work_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/John_Zerzan-_Trade_unionism_or_socialism__the_revolt_against_work_0.pdf"
     hosted: true
 ---
 # ﻿Trade unionism or socialism: the revolt against work - John Zerzan

@@ -81,11 +81,11 @@ links:
 files:
   - name: "VAUGHN-PRINT.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/VAUGHN-PRINT.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/VAUGHN-PRINT.pdf"
     hosted: true
   - name: "VAUGHN-READ.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/VAUGHN-READ.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/VAUGHN-READ.pdf"
     hosted: true
 ---
 # Documents from the 2017 Vaughn Uprising

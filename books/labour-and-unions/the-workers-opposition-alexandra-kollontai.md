@@ -26,7 +26,7 @@ links: []
 files:
   - name: "The Workers' Opposition - Alexandra Kollontai.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Workers__Opposition_-_Alexandra_Kollontai.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Workers__Opposition_-_Alexandra_Kollontai.pdf"
     hosted: true
 ---
 # The Workers' Opposition - Alexandra Kollontai

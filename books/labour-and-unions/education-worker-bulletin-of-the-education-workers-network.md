@@ -23,23 +23,23 @@ links:
 files:
   - name: "education-worker-1-2007.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/education-worker-1-2007.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/education-worker-1-2007.pdf"
     hosted: true
   - name: "education-worker-3-2008.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/education-worker-3-2008.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/education-worker-3-2008.pdf"
     hosted: true
   - name: "education-worker-5-2009.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/education-worker-5-2009.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/education-worker-5-2009.pdf"
     hosted: true
   - name: "education-worker-6-2011.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/education-worker-6-2011.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/education-worker-6-2011.pdf"
     hosted: true
   - name: "education-worker-7-2011.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/education-worker-7-2011.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/education-worker-7-2011.pdf"
     hosted: true
 ---
 # Education Worker: Bulletin of the Education Workers Network

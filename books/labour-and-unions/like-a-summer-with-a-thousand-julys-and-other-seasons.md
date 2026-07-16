@@ -62,11 +62,11 @@ links:
 files:
   - name: "organized-1-20.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/organized-1-20.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/organized-1-20.pdf"
     hosted: true
   - name: "organized-21-40.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/organized-21-40.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/organized-21-40.pdf"
     hosted: true
 ---
 # Like a summer with a thousand Julys …and other seasons…

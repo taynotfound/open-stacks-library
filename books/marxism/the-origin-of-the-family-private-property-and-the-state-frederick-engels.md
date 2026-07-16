@@ -22,7 +22,7 @@ links: []
 files:
   - name: "Origins of the Family, Private Property, and the State - Friedrich Engels.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Origins_of_the_Family__Private_Property__and_the_State_-_Friedrich_Engels.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Origins_of_the_Family__Private_Property__and_the_State_-_Friedrich_Engels.epub"
     hosted: true
 ---
 # The origin of the family, private property and the state - Frederick Engels

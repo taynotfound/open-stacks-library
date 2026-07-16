@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Left-Wing Lies - Ken Ellis.docx"
     type: "DOCX"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Left-Wing_Lies_-_Ken_Ellis.docx"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Left-Wing_Lies_-_Ken_Ellis.docx"
     hosted: true
   - name: "Left-Wing Lies - Ken Ellis_0.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Left-Wing_Lies_-_Ken_Ellis_0.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Left-Wing_Lies_-_Ken_Ellis_0.epub"
     hosted: true
 ---
 # Left-Wing Lies Ken Ellis

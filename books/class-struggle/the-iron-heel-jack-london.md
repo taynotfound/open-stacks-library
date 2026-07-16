@@ -16,7 +16,7 @@ tags:
 files:
   - name: "the-iron-heel-jack-london.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/the-iron-heel-jack-london.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-iron-heel-jack-london.epub"
     hosted: true
 ---
 
@@ -26,6 +26,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/1164)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/the-iron-heel-jack-london.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-iron-heel-jack-london.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/1164)

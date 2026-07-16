@@ -24,195 +24,195 @@ links:
 files:
   - name: "spgb-forum-journal-1952-60-article-index.docx"
     type: "DOCX"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-journal-1952-60-article-index.docx"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-journal-1952-60-article-index.docx"
     hosted: true
   - name: "spgb-forum-1952-01-oct.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1952-01-oct.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1952-01-oct.pdf"
     hosted: true
   - name: "spgb-forum-1952-02-nov.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1952-02-nov.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1952-02-nov.pdf"
     hosted: true
   - name: "spgb-forum-1952-3-dec.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1952-3-dec.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1952-3-dec.pdf"
     hosted: true
   - name: "spgb-forum-1953-04-jan.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-04-jan.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-04-jan.pdf"
     hosted: true
   - name: "spgb-forum-1953-05-feb.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-05-feb.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-05-feb.pdf"
     hosted: true
   - name: "spgb-forum-1953-06-mar.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-06-mar.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-06-mar.pdf"
     hosted: true
   - name: "spgb-forum-1953-07-apr.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-07-apr.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-07-apr.pdf"
     hosted: true
   - name: "spgb-forum-1953-08-may.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-08-may.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-08-may.pdf"
     hosted: true
   - name: "spgb-forum-1953-09-jun.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-09-jun.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-09-jun.pdf"
     hosted: true
   - name: "spgb-forum-1953-10-jul.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-10-jul.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-10-jul.pdf"
     hosted: true
   - name: "spgb-forum-1953-11-aug.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-11-aug.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-11-aug.pdf"
     hosted: true
   - name: "spgb-forum-1953-12-sep.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-12-sep.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-12-sep.pdf"
     hosted: true
   - name: "spgb-forum-1953-13-oct.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-13-oct.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-13-oct.pdf"
     hosted: true
   - name: "spgb-forum-1953-14-nov.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-14-nov.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-14-nov.pdf"
     hosted: true
   - name: "spgb-forum-1953-15-dec.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1953-15-dec.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1953-15-dec.pdf"
     hosted: true
   - name: "spgb-forum-1954-16-jan.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-16-jan.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-16-jan.pdf"
     hosted: true
   - name: "spgb-forum-1954-17-feb.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-17-feb.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-17-feb.pdf"
     hosted: true
   - name: "spgb-forum-1954-18-mar.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-18-mar.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-18-mar.pdf"
     hosted: true
   - name: "spgb-forum-1954-19-apr.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-19-apr.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-19-apr.pdf"
     hosted: true
   - name: "spgb-forum-1954-20-may.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-20-may.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-20-may.pdf"
     hosted: true
   - name: "spgb-forum-1954-21-jun.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-21-jun.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-21-jun.pdf"
     hosted: true
   - name: "spgb-forum-1954-22-jul.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-22-jul.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-22-jul.pdf"
     hosted: true
   - name: "spgb-forum-1954-23-aug.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-23-aug.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-23-aug.pdf"
     hosted: true
   - name: "spgb-forum-1954-24-sep.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-24-sep.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-24-sep.pdf"
     hosted: true
   - name: "spgb-forum-1954-25-oct.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-25-oct.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-25-oct.pdf"
     hosted: true
   - name: "spgb-forum-1954-26-nov.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-26-nov.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-26-nov.pdf"
     hosted: true
   - name: "spgb-forum-1954-27-dec.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1954-27-dec.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1954-27-dec.pdf"
     hosted: true
   - name: "spgb-forum-1955-28-jan.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-28-jan.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-28-jan.pdf"
     hosted: true
   - name: "spgb-forum-1955-29-feb.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-29-feb.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-29-feb.pdf"
     hosted: true
   - name: "spgb-forum-1955-30-mar.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-30-mar.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-30-mar.pdf"
     hosted: true
   - name: "spgb-forum-1955-31-apr.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-31-apr.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-31-apr.pdf"
     hosted: true
   - name: "spgb-forum-1955-32-may.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-32-may.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-32-may.pdf"
     hosted: true
   - name: "spgb-forum-1955-33-jun.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-33-jun.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-33-jun.pdf"
     hosted: true
   - name: "spgb-forum-1955-34-jul.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-34-jul.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-34-jul.pdf"
     hosted: true
   - name: "spgb-forum-1955-35-oct.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-35-oct.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-35-oct.pdf"
     hosted: true
   - name: "spgb-forum-1955-36-nov.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1955-36-nov.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1955-36-nov.pdf"
     hosted: true
   - name: "spgb-forum-1956-37-jan-feb.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1956-37-jan-feb.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1956-37-jan-feb.pdf"
     hosted: true
   - name: "spgb-forum-1956-38-mar.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1956-38-mar.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1956-38-mar.pdf"
     hosted: true
   - name: "spgb-forum-1956-39-apr.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1956-39-apr.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1956-39-apr.pdf"
     hosted: true
   - name: "spgb-forum-1956-40-jun-jul.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1956-40-jun-jul.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1956-40-jun-jul.pdf"
     hosted: true
   - name: "spgb-forum-1956-41-aug-sep.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1956-41-aug-sep.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1956-41-aug-sep.pdf"
     hosted: true
   - name: "spgb-forum-1956-42-oct-dec.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1956-42-oct-dec.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1956-42-oct-dec.pdf"
     hosted: true
   - name: "spgb-forum-1957-43-may.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1957-43-may.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1957-43-may.pdf"
     hosted: true
   - name: "spgb-forum-1958-44-aug.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1958-44-aug.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1958-44-aug.pdf"
     hosted: true
   - name: "spgb-forum-1958-45-oct.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1958-45-oct.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1958-45-oct.pdf"
     hosted: true
   - name: "spgb-forum-1959-46-jan.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1959-46-jan.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1959-46-jan.pdf"
     hosted: true
   - name: "spgb-forum-1959-47-may.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/spgb-forum-1959-47-may.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/spgb-forum-1959-47-may.pdf"
     hosted: true
 ---
 # Forum Journal

@@ -23,7 +23,7 @@ links: []
 files:
   - name: "Commonweal - Volume 1 (1885)_1.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Commonweal_-_Volume_1__1885__1.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Commonweal_-_Volume_1__1885__1.pdf"
     hosted: true
 ---
 # The Commonweal

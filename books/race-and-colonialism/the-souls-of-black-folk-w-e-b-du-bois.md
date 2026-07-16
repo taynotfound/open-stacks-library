@@ -16,7 +16,7 @@ tags:
 files:
   - name: "souls-of-black-folk-dubois.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/souls-of-black-folk-dubois.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/souls-of-black-folk-dubois.epub"
     hosted: true
 ---
 
@@ -26,6 +26,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/408)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/souls-of-black-folk-dubois.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/souls-of-black-folk-dubois.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/408)

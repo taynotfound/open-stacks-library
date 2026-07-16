@@ -16,7 +16,7 @@ tags:
 files:
   - name: "the-jungle-sinclair.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/the-jungle-sinclair.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-jungle-sinclair.epub"
     hosted: true
 ---
 
@@ -26,6 +26,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/140)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/the-jungle-sinclair.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-jungle-sinclair.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/140)

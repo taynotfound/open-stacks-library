@@ -16,7 +16,7 @@ tags:
 files:
   - name: "down-and-out-orwell.html"
     type: "HTML"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/down-and-out-orwell.html"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/down-and-out-orwell.html"
     hosted: true
 ---
 
@@ -27,6 +27,6 @@ files:
 **Status:** Mirrored because this work faces takedown / restricted access in some jurisdictions.  
 
 ## Downloads
-- [HTML](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/down-and-out-orwell.html)
+- [HTML](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/down-and-out-orwell.html)
 
 [Original source](https://gutenberg.net.au/ebooks03/0300021h.html)

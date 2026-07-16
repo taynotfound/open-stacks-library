@@ -26,7 +26,7 @@ links:
 files:
   - name: "john-crump-the-anarchist-movement-in-japan-1906-1996.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/john-crump-the-anarchist-movement-in-japan-1906-1996.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/john-crump-the-anarchist-movement-in-japan-1906-1996.epub"
     hosted: true
 ---
 # The anarchist movement in Japan, 1906-1996 - John Crump

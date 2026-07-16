@@ -28,19 +28,19 @@ links:
 files:
   - name: "bolshies&workercontrol.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/bolshies_workercontrol.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bolshies_workercontrol.pdf"
     hosted: true
   - name: "The Bolsheviks and Workers' Con - Brinton, Maurice.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Bolsheviks_and_Workers__Con_-_Brinton__Maurice.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Bolsheviks_and_Workers__Con_-_Brinton__Maurice.epub"
     hosted: true
   - name: "The Bolsheviks and Workers' Con - Brinton, Maurice.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Bolsheviks_and_Workers__Con_-_Brinton__Maurice.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Bolsheviks_and_Workers__Con_-_Brinton__Maurice.mobi"
     hosted: true
   - name: "Maurice Brinton- The Bolsheviks and workers' control.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Maurice_Brinton-_The_Bolsheviks_and_workers__control.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Maurice_Brinton-_The_Bolsheviks_and_workers__control.pdf"
     hosted: true
 ---
 # The Bolsheviks and workers' control: the state and counter-revolution - Maurice Brinton

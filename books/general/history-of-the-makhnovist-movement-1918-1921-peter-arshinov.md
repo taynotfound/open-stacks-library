@@ -24,7 +24,7 @@ links: []
 files:
   - name: "History of the Makhnovist Movem - Arshinov, Peter.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/History_of_the_Makhnovist_Movem_-_Arshinov__Peter.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/History_of_the_Makhnovist_Movem_-_Arshinov__Peter.epub"
     hosted: true
 ---
 # History of the Makhnovist movement, 1918-1921 - Peter Arshinov

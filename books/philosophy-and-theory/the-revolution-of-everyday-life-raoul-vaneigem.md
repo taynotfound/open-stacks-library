@@ -24,11 +24,11 @@ links:
 files:
   - name: "The Revolution of Everyday Life - Vaneigem, Raoul.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Revolution_of_Everyday_Life_-_Vaneigem__Raoul.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Revolution_of_Everyday_Life_-_Vaneigem__Raoul.epub"
     hosted: true
   - name: "The Revolution of Everyday Life - Vaneigem, Raoul.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Revolution_of_Everyday_Life_-_Vaneigem__Raoul.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Revolution_of_Everyday_Life_-_Vaneigem__Raoul.mobi"
     hosted: true
 ---
 # The revolution of everyday life - Raoul Vaneigem

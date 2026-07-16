@@ -16,7 +16,7 @@ tags:
 files:
   - name: "brave-new-world-huxley.html"
     type: "HTML"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/brave-new-world-huxley.html"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/brave-new-world-huxley.html"
     hosted: true
 ---
 
@@ -27,6 +27,6 @@ files:
 **Status:** Mirrored because this work faces takedown / restricted access in some jurisdictions.  
 
 ## Downloads
-- [HTML](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/brave-new-world-huxley.html)
+- [HTML](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/brave-new-world-huxley.html)
 
 [Original source](https://gutenberg.net.au/ebooks01/0100031h.html)

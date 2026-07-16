@@ -26,7 +26,7 @@ links:
 files:
   - name: "Dauve-Authier-Communist left in Germany.A4.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Dauve-Authier-Communist_left_in_Germany.A4.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Dauve-Authier-Communist_left_in_Germany.A4.pdf"
     hosted: true
 ---
 # The communist left in Germany 1918-1921 - Gilles Dauvé and Denis Authier

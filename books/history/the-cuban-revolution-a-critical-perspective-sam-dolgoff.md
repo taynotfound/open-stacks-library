@@ -22,7 +22,7 @@ links: []
 files:
   - name: "Dolgoff, Sam - The Cuban revolution, A critical perspective.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Dolgoff__Sam_-_The_Cuban_revolution__A_critical_perspective.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Dolgoff__Sam_-_The_Cuban_revolution__A_critical_perspective.pdf"
     hosted: true
 ---
 # The Cuban revolution: A critical perspective - Sam Dolgoff

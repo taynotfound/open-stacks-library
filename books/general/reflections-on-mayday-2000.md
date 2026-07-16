@@ -24,7 +24,7 @@ links:
 files:
   - name: "Reflections_On_Mayday_1-20.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Reflections_On_Mayday_1-20.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Reflections_On_Mayday_1-20.pdf"
     hosted: true
 ---
 # Reflections on Mayday 2000

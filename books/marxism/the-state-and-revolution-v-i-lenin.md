@@ -16,7 +16,7 @@ tags:
 files:
   - name: "state-and-revolution-lenin.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/state-and-revolution-lenin.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/state-and-revolution-lenin.epub"
     hosted: true
 ---
 
@@ -26,6 +26,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/48769)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/state-and-revolution-lenin.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/state-and-revolution-lenin.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/48769)

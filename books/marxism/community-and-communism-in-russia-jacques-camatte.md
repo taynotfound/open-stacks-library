@@ -22,7 +22,7 @@ links: []
 files:
   - name: "Jacques Camatte- Community and Communism in Russia.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Jacques_Camatte-_Community_and_Communism_in_Russia.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Jacques_Camatte-_Community_and_Communism_in_Russia.pdf"
     hosted: true
 ---
 # Community and Communism in Russia - Jacques Camatte

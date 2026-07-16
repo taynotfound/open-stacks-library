@@ -25,7 +25,7 @@ links: []
 files:
   - name: "fundi-none-shall-escape-radical-perspectives-in-the-caribbean.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/fundi-none-shall-escape-radical-perspectives-in-the-caribbean.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fundi-none-shall-escape-radical-perspectives-in-the-caribbean.pdf"
     hosted: true
 ---
 # None shall escape: Radical perspectives in the Caribbean

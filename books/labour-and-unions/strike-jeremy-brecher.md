@@ -26,11 +26,11 @@ links:
 files:
   - name: "Jeremy_Brecher_Strike.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Jeremy_Brecher_Strike.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Jeremy_Brecher_Strike.epub"
     hosted: true
   - name: "strike-Jeremy-Brecher_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/strike-Jeremy-Brecher_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/strike-Jeremy-Brecher_0.pdf"
     hosted: true
 ---
 # Strike! - Jeremy Brecher

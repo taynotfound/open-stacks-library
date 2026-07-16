@@ -80,11 +80,11 @@ links:
 files:
   - name: "fighting_for_ourselves_-_solidarity_federation.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/fighting_for_ourselves_-_solidarity_federation.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fighting_for_ourselves_-_solidarity_federation.epub"
     hosted: true
   - name: "fighting_for_ourselves_-_solidarity_federation.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/fighting_for_ourselves_-_solidarity_federation.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fighting_for_ourselves_-_solidarity_federation.mobi"
     hosted: true
   - name: "http://scholar.harvard.edu/jrobinson/files/jr_west.pdf"
     type: "PDF"

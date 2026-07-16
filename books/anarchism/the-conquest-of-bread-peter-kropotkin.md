@@ -24,15 +24,15 @@ links: []
 files:
   - name: "Peter Kropotkin- The Conquest of Bread.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Peter_Kropotkin-_The_Conquest_of_Bread.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Peter_Kropotkin-_The_Conquest_of_Bread.pdf"
     hosted: true
   - name: "The_Conquest_of_Bread.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Conquest_of_Bread.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Conquest_of_Bread.mobi"
     hosted: true
   - name: "The-Conquest-of-Bread.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The-Conquest-of-Bread.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The-Conquest-of-Bread.epub"
     hosted: true
 ---
 # The conquest of bread - Peter Kropotkin

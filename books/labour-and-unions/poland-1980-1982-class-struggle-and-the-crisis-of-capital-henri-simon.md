@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Poland 1980-82 - Henri Simon.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Poland_1980-82_-_Henri_Simon.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Poland_1980-82_-_Henri_Simon.epub"
     hosted: true
   - name: "Poland 1980-82 - Henri Simon.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Poland_1980-82_-_Henri_Simon.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Poland_1980-82_-_Henri_Simon.mobi"
     hosted: true
 ---
 # Poland 1980-1982: Class struggle and the crisis of capital - Henri Simon

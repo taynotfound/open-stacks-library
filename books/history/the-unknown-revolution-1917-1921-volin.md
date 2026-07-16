@@ -23,7 +23,7 @@ links:
 files:
   - name: "Volin The unknown revolution.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Volin_The_unknown_revolution.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Volin_The_unknown_revolution.pdf"
     hosted: true
 ---
 # The unknown revolution, 1917-1921 - Volin

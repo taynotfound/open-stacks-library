@@ -23,7 +23,7 @@ links: []
 files:
   - name: "bulgaria_the_new_spain.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/bulgaria_the_new_spain.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bulgaria_the_new_spain.pdf"
     hosted: true
 ---
 # Bulgaria the New Spain - The Communist Terror in Bulgaria

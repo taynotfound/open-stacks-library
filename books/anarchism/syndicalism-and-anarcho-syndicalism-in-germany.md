@@ -24,7 +24,7 @@ links: []
 files:
   - name: "syndicalism-Germany.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/syndicalism-Germany.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/syndicalism-Germany.pdf"
     hosted: true
 ---
 # Syndicalism and anarcho-syndicalism in Germany

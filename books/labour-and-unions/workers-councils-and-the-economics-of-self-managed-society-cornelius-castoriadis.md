@@ -23,11 +23,11 @@ links: []
 files:
   - name: "workers-councils-Cornelius-Castoriadis.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/workers-councils-Cornelius-Castoriadis.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/workers-councils-Cornelius-Castoriadis.pdf"
     hosted: true
   - name: "workers-councils-Cornelius-Castoriadis.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/workers-councils-Cornelius-Castoriadis.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/workers-councils-Cornelius-Castoriadis.mobi"
     hosted: true
 ---
 # Workers' councils and the economics of self-managed society - Cornelius Castoriadis

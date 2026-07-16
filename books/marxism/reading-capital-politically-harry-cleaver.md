@@ -24,11 +24,11 @@ links: []
 files:
   - name: "cleaver-reading_capital_politically.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/cleaver-reading_capital_politically.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/cleaver-reading_capital_politically.pdf"
     hosted: true
   - name: "Reading Capital Politically - Harry Cleaver.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Reading_Capital_Politically_-_Harry_Cleaver.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Reading_Capital_Politically_-_Harry_Cleaver.epub"
     hosted: true
 ---
 # Reading capital politically - Harry Cleaver

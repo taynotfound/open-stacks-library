@@ -25,19 +25,19 @@ links:
 files:
   - name: "Wildcat-Bulletin-1.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Wildcat-Bulletin-1.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Wildcat-Bulletin-1.pdf"
     hosted: true
   - name: "Wildcat-Bulletin-2.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Wildcat-Bulletin-2.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Wildcat-Bulletin-2.pdf"
     hosted: true
   - name: "Wildcat-Bulletin-3.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Wildcat-Bulletin-3.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Wildcat-Bulletin-3.pdf"
     hosted: true
   - name: "Wildcat-Bulletin-4-1982.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Wildcat-Bulletin-4-1982.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Wildcat-Bulletin-4-1982.pdf"
     hosted: true
   - name: "Wildcat-Bulletin-5-April-1982.pdf"
     type: "PDF"
@@ -45,7 +45,7 @@ files:
     hosted: false
   - name: "Wildcat-Bulletin-6-June-1982.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Wildcat-Bulletin-6-June-1982.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Wildcat-Bulletin-6-June-1982.pdf"
     hosted: true
 ---
 # Wildcat journal (UK)

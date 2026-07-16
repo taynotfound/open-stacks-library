@@ -22,11 +22,11 @@ links: []
 files:
   - name: "Gorter, Herman - Open Letter to Comrade Lenin.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Gorter__Herman_-_Open_Letter_to_Comrade_Lenin.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Gorter__Herman_-_Open_Letter_to_Comrade_Lenin.epub"
     hosted: true
   - name: "Herman Gorter- Open letter to comrade Lenin.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Herman_Gorter-_Open_letter_to_comrade_Lenin.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Herman_Gorter-_Open_letter_to_comrade_Lenin.pdf"
     hosted: true
 ---
 # Open letter to comrade Lenin - Herman Gorter

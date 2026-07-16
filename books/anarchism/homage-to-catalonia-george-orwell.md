@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Homage to Catalonia - George Orwell.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Homage_to_Catalonia_-_George_Orwell.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Homage_to_Catalonia_-_George_Orwell.pdf"
     hosted: true
 ---
 # Homage to Catalonia - George Orwell

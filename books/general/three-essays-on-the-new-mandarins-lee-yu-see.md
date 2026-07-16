@@ -23,7 +23,7 @@ links: []
 files:
   - name: "three-essays-on-the-new-mandarins1.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/three-essays-on-the-new-mandarins1.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/three-essays-on-the-new-mandarins1.pdf"
     hosted: true
 ---
 # Three essays on the new mandarins - Lee Yu See

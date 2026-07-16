@@ -21,11 +21,11 @@ links: []
 files:
   - name: "The Making of the English Worki - Thompson, E. P_.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Making_of_the_English_Worki_-_Thompson__E._P_.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Making_of_the_English_Worki_-_Thompson__E._P_.mobi"
     hosted: true
   - name: "The Making of the English Worki - Thompson, E. P_.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Making_of_the_English_Worki_-_Thompson__E._P_.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Making_of_the_English_Worki_-_Thompson__E._P_.epub"
     hosted: true
 ---
 # The making of the English working class - E. P. Thompson

@@ -23,47 +23,47 @@ links: []
 files:
   - name: "V1.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V1.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V1.pdf"
     hosted: true
   - name: "V2.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V2.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V2.pdf"
     hosted: true
   - name: "Virus 3 full.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Virus_3_full.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Virus_3_full.pdf"
     hosted: true
   - name: "V4.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V4.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V4.pdf"
     hosted: true
   - name: "V5.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V5.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V5.pdf"
     hosted: true
   - name: "V6.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V6.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V6.pdf"
     hosted: true
   - name: "Virus 7 full.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Virus_7_full.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Virus_7_full.pdf"
     hosted: true
   - name: "virus 8 full.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/virus_8_full.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/virus_8_full.pdf"
     hosted: true
   - name: "virus 9 full.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/virus_9_full.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/virus_9_full.pdf"
     hosted: true
   - name: "V13.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V13.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V13.pdf"
     hosted: true
   - name: "V10.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/V10.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/V10.pdf"
     hosted: true
 ---
 # Virus magazine

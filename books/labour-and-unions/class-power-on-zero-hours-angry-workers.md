@@ -27,11 +27,11 @@ links:
 files:
   - name: "Class_Power_on_Zero_Hours.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Class_Power_on_Zero_Hours.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Class_Power_on_Zero_Hours.epub"
     hosted: true
   - name: "Class_Power_on_Zero_Hours.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Class_Power_on_Zero_Hours.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Class_Power_on_Zero_Hours.pdf"
     hosted: true
 ---
 # Class Power on Zero-Hours - Angry Workers

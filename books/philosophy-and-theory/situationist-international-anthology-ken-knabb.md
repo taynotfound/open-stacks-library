@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Situationist International Anthology - Knabb, Ken.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Situationist_International_Anthology_-_Knabb__Ken.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Situationist_International_Anthology_-_Knabb__Ken.mobi"
     hosted: true
   - name: "Situationist International Anthology - Knabb, Ken.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Situationist_International_Anthology_-_Knabb__Ken.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Situationist_International_Anthology_-_Knabb__Ken.epub"
     hosted: true
 ---
 # Situationist International anthology - Ken Knabb

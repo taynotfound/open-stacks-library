@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Slippery Slopes (The Anarchists - Azaretto, Manuel.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Slippery_Slopes__The_Anarchists_-_Azaretto__Manuel.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Slippery_Slopes__The_Anarchists_-_Azaretto__Manuel.epub"
     hosted: true
 ---
 # Slippery slopes (the anarchists in Spain) - Manuel Azaretto

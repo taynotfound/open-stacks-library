@@ -16,7 +16,7 @@ tags:
 files:
   - name: "mutual-aid-kropotkin.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/mutual-aid-kropotkin.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/mutual-aid-kropotkin.epub"
     hosted: true
 ---
 
@@ -26,6 +26,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/4341)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/mutual-aid-kropotkin.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/mutual-aid-kropotkin.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/4341)

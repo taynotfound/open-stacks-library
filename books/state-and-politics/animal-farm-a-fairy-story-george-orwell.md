@@ -23,7 +23,7 @@ links: []
 files:
   - name: "Animal Farm - George Orwell.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Animal_Farm_-_George_Orwell.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Animal_Farm_-_George_Orwell.mobi"
     hosted: true
 ---
 # Animal Farm, a fairy story - George Orwell

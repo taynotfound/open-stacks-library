@@ -25,7 +25,7 @@ links: []
 files:
   - name: "Theses on the Chinese revolution - Cajo Brendel.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Theses_on_the_Chinese_revolution_-_Cajo_Brendel.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Theses_on_the_Chinese_revolution_-_Cajo_Brendel.pdf"
     hosted: true
 ---
 # Theses on the Chinese revolution - Cajo Brendel

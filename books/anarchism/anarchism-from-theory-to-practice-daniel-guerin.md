@@ -21,11 +21,11 @@ links: []
 files:
   - name: "Anarchism_ From Theory to Practice - Guerin, Daniel.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Anarchism__From_Theory_to_Practice_-_Guerin__Daniel.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Anarchism__From_Theory_to_Practice_-_Guerin__Daniel.epub"
     hosted: true
   - name: "Anarchism_ From Theory to Practice - Guerin, Daniel_1.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Anarchism__From_Theory_to_Practice_-_Guerin__Daniel_1.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Anarchism__From_Theory_to_Practice_-_Guerin__Daniel_1.mobi"
     hosted: true
 ---
 # Anarchism: from theory to practice - Daniel Guerin

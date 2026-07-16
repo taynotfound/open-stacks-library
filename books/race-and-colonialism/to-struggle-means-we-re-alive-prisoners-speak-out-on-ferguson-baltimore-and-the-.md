@@ -23,11 +23,11 @@ links:
 files:
   - name: "tostrugglereadversion_compressed_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/tostrugglereadversion_compressed_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tostrugglereadversion_compressed_0.pdf"
     hosted: true
   - name: "tostruggleprintversion_compressed-1-12.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/tostruggleprintversion_compressed-1-12.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tostruggleprintversion_compressed-1-12.pdf"
     hosted: true
 ---
 # “To Struggle Means We’re Alive”: Prisoners Speak Out on Ferguson, Baltimore, and the Ongoing Revolt Against the Police

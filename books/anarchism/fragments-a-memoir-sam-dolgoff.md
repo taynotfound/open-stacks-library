@@ -24,7 +24,7 @@ links: []
 files:
   - name: "fragments.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/fragments.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fragments.pdf"
     hosted: true
 ---
 # Fragments: a memoir - Sam Dolgoff

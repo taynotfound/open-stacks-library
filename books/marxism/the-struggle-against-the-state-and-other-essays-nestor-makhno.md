@@ -22,11 +22,11 @@ links: []
 files:
   - name: "Makhno - The Struggle Against the State and Other Essays.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Makhno_-_The_Struggle_Against_the_State_and_Other_Essays.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Makhno_-_The_Struggle_Against_the_State_and_Other_Essays.pdf"
     hosted: true
   - name: "The Struggle Against the State and Other - Makhno, Nestor.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Struggle_Against_the_State_and_Other_-_Makhno__Nestor.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Struggle_Against_the_State_and_Other_-_Makhno__Nestor.epub"
     hosted: true
 ---
 # The struggle against the state and other essays - Nestor Makhno

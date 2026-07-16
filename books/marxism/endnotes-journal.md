@@ -24,31 +24,31 @@ links: []
 files:
   - name: "Endnotes 1.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_1.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_1.pdf"
     hosted: true
   - name: "Endnotes 2.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_2.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_2.pdf"
     hosted: true
   - name: "Endnotes 3.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_3.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_3.pdf"
     hosted: true
   - name: "Endnotes 3 Gender, Race, Class and Other Misfortunes by Endnotes Collective (z-lib.org).epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_3_Gender__Race__Class_and_Other_Misfortunes_by_Endnotes_Collective__z-lib.org_.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_3_Gender__Race__Class_and_Other_Misfortunes_by_Endnotes_Collective__z-lib.org_.epub"
     hosted: true
   - name: "Endnotes 4.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_4.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_4.pdf"
     hosted: true
   - name: "Endnotes 4 Unity In Separation by Endnotes Collective (z-lib.org).epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_4_Unity_In_Separation_by_Endnotes_Collective__z-lib.org_.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_4_Unity_In_Separation_by_Endnotes_Collective__z-lib.org_.epub"
     hosted: true
   - name: "Endnotes 5.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Endnotes_5.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Endnotes_5.pdf"
     hosted: true
 ---
 # Endnotes journal

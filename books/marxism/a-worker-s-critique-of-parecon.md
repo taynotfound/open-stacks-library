@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Steven-Johns-Michael-Albert-debate.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Steven-Johns-Michael-Albert-debate.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Steven-Johns-Michael-Albert-debate.epub"
     hosted: true
   - name: "Steven-Johns-Michael-Albert-debate.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Steven-Johns-Michael-Albert-debate.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Steven-Johns-Michael-Albert-debate.mobi"
     hosted: true
 ---
 # A worker's critique of parecon

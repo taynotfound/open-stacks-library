@@ -24,11 +24,11 @@ links: []
 files:
   - name: "The Factors of Race and Nation  - Bordiga, Amadeo.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Factors_of_Race_and_Nation__-_Bordiga__Amadeo.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Factors_of_Race_and_Nation__-_Bordiga__Amadeo.mobi"
     hosted: true
   - name: "The Factors of Race and Nation  - Bordiga, Amadeo.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Factors_of_Race_and_Nation__-_Bordiga__Amadeo.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Factors_of_Race_and_Nation__-_Bordiga__Amadeo.epub"
     hosted: true
 ---
 # The factors of race and nation in Marxist theory - Amadeo Bordiga

@@ -23,7 +23,7 @@ links:
 files:
   - name: "Cuban Anarchism_ The History of - Fernandez, Frank.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Cuban_Anarchism__The_History_of_-_Fernandez__Frank.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Cuban_Anarchism__The_History_of_-_Fernandez__Frank.epub"
     hosted: true
 ---
 # 1865-2001: Cuban Anarchism: The history of a movement - Frank Fernandez

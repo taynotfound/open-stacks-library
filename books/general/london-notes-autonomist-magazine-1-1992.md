@@ -21,11 +21,11 @@ links: []
 files:
   - name: "London-Notes1a-1-31.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/London-Notes1a-1-31.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/London-Notes1a-1-31.pdf"
     hosted: true
   - name: "londonnotes-1_organized_compressed.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/londonnotes-1_organized_compressed.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/londonnotes-1_organized_compressed.pdf"
     hosted: true
 ---
 # London Notes: autonomist magazine #1 1992

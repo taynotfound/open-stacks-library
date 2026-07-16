@@ -42,7 +42,7 @@ links:
 files:
   - name: "Liberter komünizm bir giriş.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Liberter_kom_nizm_bir_giri_.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Liberter_kom_nizm_bir_giri_.pdf"
     hosted: true
 ---
 # libcom tanıtım kılavuzu

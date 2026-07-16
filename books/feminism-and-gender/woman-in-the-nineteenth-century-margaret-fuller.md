@@ -15,7 +15,7 @@ tags:
 files:
   - name: "woman-in-19th-century-fuller.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/woman-in-19th-century-fuller.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/woman-in-19th-century-fuller.epub"
     hosted: true
 ---
 
@@ -25,6 +25,6 @@ files:
 **Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/8642)  
 
 ## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/woman-in-19th-century-fuller.epub)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/woman-in-19th-century-fuller.epub)
 
 [Original source](https://www.gutenberg.org/ebooks/8642)

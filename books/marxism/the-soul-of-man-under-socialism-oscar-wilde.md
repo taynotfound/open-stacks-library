@@ -21,11 +21,11 @@ links: []
 files:
   - name: "The soul of man under socialism.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_soul_of_man_under_socialism.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_soul_of_man_under_socialism.pdf"
     hosted: true
   - name: "The Soul of Man Under Socialism - Web.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Soul_of_Man_Under_Socialism_-_Web.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Soul_of_Man_Under_Socialism_-_Web.pdf"
     hosted: true
 ---
 # The soul of man under socialism - Oscar Wilde

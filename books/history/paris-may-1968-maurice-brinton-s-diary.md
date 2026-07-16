@@ -25,7 +25,7 @@ links: []
 files:
   - name: "Maurice Brinton- Paris; May 68.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Maurice_Brinton-_Paris__May_68.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Maurice_Brinton-_Paris__May_68.pdf"
     hosted: true
 ---
 # Paris: May 1968 - Maurice Brinton's diary

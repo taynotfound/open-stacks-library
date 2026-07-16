@@ -24,39 +24,39 @@ links: []
 files:
   - name: "gay.left_issue.01.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.01.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.01.pdf"
     hosted: true
   - name: "gay.left_issue.02.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.02.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.02.pdf"
     hosted: true
   - name: "gay.left_issue.03.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.03.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.03.pdf"
     hosted: true
   - name: "gay.left_issue.04.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.04.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.04.pdf"
     hosted: true
   - name: "gay.left_issue.05.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.05.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.05.pdf"
     hosted: true
   - name: "gay.left_issue.06.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.06.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.06.pdf"
     hosted: true
   - name: "gay.left_issue.07.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.07.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.07.pdf"
     hosted: true
   - name: "gay.left_issue.08.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.08.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.08.pdf"
     hosted: true
   - name: "gay.left_issue.09.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/gay.left_issue.09.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gay.left_issue.09.pdf"
     hosted: true
 ---
 # Gay Left: A Socialist Journal Produced by Gay Men

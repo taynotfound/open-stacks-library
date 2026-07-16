@@ -25,7 +25,7 @@ links: []
 files:
   - name: "Ken Weller- The Lordstown struggle and the real crisis in production_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ken_Weller-_The_Lordstown_struggle_and_the_real_crisis_in_production_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ken_Weller-_The_Lordstown_struggle_and_the_real_crisis_in_production_0.pdf"
     hosted: true
 ---
 # The Lordstown struggle and the real crisis in production - Ken Weller

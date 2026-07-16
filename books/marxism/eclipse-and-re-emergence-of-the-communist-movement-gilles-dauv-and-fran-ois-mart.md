@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Dauvé with Martin - Eclipse and Re-emergence.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Dauv__with_Martin_-_Eclipse_and_Re-emergence.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Dauv__with_Martin_-_Eclipse_and_Re-emergence.pdf"
     hosted: true
 ---
 # Eclipse and re-emergence of the communist movement - Gilles Dauvé and François Martin

@@ -22,11 +22,11 @@ links: []
 files:
   - name: "OutlineStudyCoursePartOne.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/OutlineStudyCoursePartOne.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/OutlineStudyCoursePartOne.pdf"
     hosted: true
   - name: "OutlineStudyCoursePartTwo.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/OutlineStudyCoursePartTwo.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/OutlineStudyCoursePartTwo.pdf"
     hosted: true
 ---
 # Outline study course in Marxian economics - Paul Mattick

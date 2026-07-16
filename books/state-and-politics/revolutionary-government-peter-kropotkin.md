@@ -21,7 +21,7 @@ links: []
 files:
   - name: "Revolutionary government.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Revolutionary_government.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Revolutionary_government.pdf"
     hosted: true
 ---
 # Revolutionary government - Peter Kropotkin

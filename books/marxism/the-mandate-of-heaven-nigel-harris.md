@@ -24,11 +24,11 @@ links: []
 files:
   - name: "The Mandate of Heaven.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Mandate_of_Heaven.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Mandate_of_Heaven.pdf"
     hosted: true
   - name: "The Mandate of Heaven - Nigel Harris.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Mandate_of_Heaven_-_Nigel_Harris.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Mandate_of_Heaven_-_Nigel_Harris.epub"
     hosted: true
 ---
 # The Mandate of Heaven - Nigel Harris

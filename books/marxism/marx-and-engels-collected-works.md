@@ -24,199 +24,199 @@ links:
 files:
   - name: "MECW_01.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_01.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_01.pdf"
     hosted: true
   - name: "MECW_02.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_02.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_02.pdf"
     hosted: true
   - name: "MECW_03.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_03.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_03.pdf"
     hosted: true
   - name: "MECW_04.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_04.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_04.pdf"
     hosted: true
   - name: "MECW_05.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_05.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_05.pdf"
     hosted: true
   - name: "MECW_06.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_06.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_06.pdf"
     hosted: true
   - name: "MECW_07.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_07.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_07.pdf"
     hosted: true
   - name: "MECW_08.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_08.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_08.pdf"
     hosted: true
   - name: "MECW_09.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_09.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_09.pdf"
     hosted: true
   - name: "MECW_10.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_10.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_10.pdf"
     hosted: true
   - name: "MECW_11.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_11.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_11.pdf"
     hosted: true
   - name: "MECW_12.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_12.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_12.pdf"
     hosted: true
   - name: "MECW_13.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_13.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_13.pdf"
     hosted: true
   - name: "MECW_14.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_14.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_14.pdf"
     hosted: true
   - name: "MECW_15.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_15.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_15.pdf"
     hosted: true
   - name: "MECW_16.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_16.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_16.pdf"
     hosted: true
   - name: "MECW_17.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_17.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_17.pdf"
     hosted: true
   - name: "MECW_18.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_18.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_18.pdf"
     hosted: true
   - name: "MECW_19.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_19.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_19.pdf"
     hosted: true
   - name: "MECW_20.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_20.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_20.pdf"
     hosted: true
   - name: "MECW_21.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_21.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_21.pdf"
     hosted: true
   - name: "MECW_22.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_22.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_22.pdf"
     hosted: true
   - name: "MECW_23.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_23.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_23.pdf"
     hosted: true
   - name: "MECW_24.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_24.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_24.pdf"
     hosted: true
   - name: "MECW_25.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_25.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_25.pdf"
     hosted: true
   - name: "MECW_26.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_26.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_26.pdf"
     hosted: true
   - name: "MECW_27.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_27.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_27.pdf"
     hosted: true
   - name: "MECW_28.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_28.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_28.pdf"
     hosted: true
   - name: "MECW_29.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_29.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_29.pdf"
     hosted: true
   - name: "MECW_30.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_30.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_30.pdf"
     hosted: true
   - name: "MECW_31.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_31.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_31.pdf"
     hosted: true
   - name: "MECW_32.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_32.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_32.pdf"
     hosted: true
   - name: "MECW_33.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_33.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_33.pdf"
     hosted: true
   - name: "MECW_34.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_34.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_34.pdf"
     hosted: true
   - name: "MECW_35.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_35.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_35.pdf"
     hosted: true
   - name: "MECW_36.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_36.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_36.pdf"
     hosted: true
   - name: "MECW_37.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_37.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_37.pdf"
     hosted: true
   - name: "MECW_38.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_38.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_38.pdf"
     hosted: true
   - name: "MECW_39.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_39.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_39.pdf"
     hosted: true
   - name: "MECW_40.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_40.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_40.pdf"
     hosted: true
   - name: "MECW_41.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_41.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_41.pdf"
     hosted: true
   - name: "MECW_42.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_42.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_42.pdf"
     hosted: true
   - name: "MECW_43.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_43.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_43.pdf"
     hosted: true
   - name: "MECW_44.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_44.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_44.pdf"
     hosted: true
   - name: "MECW_45.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_45.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_45.pdf"
     hosted: true
   - name: "MECW_46.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_46.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_46.pdf"
     hosted: true
   - name: "MECW_47.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_47.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_47.pdf"
     hosted: true
   - name: "MECW_48.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_48.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_48.pdf"
     hosted: true
   - name: "MECW_49.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_49.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/MECW_49.pdf"
     hosted: true
 ---
 # Marx and Engels collected works

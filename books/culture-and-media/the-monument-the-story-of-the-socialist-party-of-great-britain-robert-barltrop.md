@@ -21,7 +21,7 @@ links: []
 files:
   - name: "themonument.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/themonument.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/themonument.pdf"
     hosted: true
 ---
 # The Monument: The story of the Socialist Party of Great Britain - Robert Barltrop

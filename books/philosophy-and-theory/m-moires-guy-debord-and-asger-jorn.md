@@ -20,7 +20,7 @@ links: []
 files:
   - name: "memoires-debord-jorn.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/memoires-debord-jorn.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/memoires-debord-jorn.pdf"
     hosted: true
 ---
 # Mémoires - Guy Debord and Asger Jorn

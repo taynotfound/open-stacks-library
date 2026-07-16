@@ -23,11 +23,11 @@ links: []
 files:
   - name: "Dalla Costa and James - Women and the Subversion of the Community (Pamphlet Layout).pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Dalla_Costa_and_James_-_Women_and_the_Subversion_of_the_Community__Pamphlet_Layout_.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Dalla_Costa_and_James_-_Women_and_the_Subversion_of_the_Community__Pamphlet_Layout_.pdf"
     hosted: true
   - name: "Dalla Costa and James - Women and the Subversion of the Community.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Dalla_Costa_and_James_-_Women_and_the_Subversion_of_the_Community.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Dalla_Costa_and_James_-_Women_and_the_Subversion_of_the_Community.pdf"
     hosted: true
 ---
 # The power of women and the subversion of the community - Mariarosa Dalla Costa and Selma James

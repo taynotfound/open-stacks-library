@@ -25,7 +25,7 @@ links:
 files:
   - name: "Portugal The Impossible Revolution.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Portugal_The_Impossible_Revolution.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Portugal_The_Impossible_Revolution.pdf"
     hosted: true
 ---
 # Portugal: the impossible revolution? - Phil Mailer

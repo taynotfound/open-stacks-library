@@ -23,11 +23,11 @@ links: []
 files:
   - name: "1980_ The Remaking of the Ameri - Goldner, Loren.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/1980__The_Remaking_of_the_Ameri_-_Goldner__Loren.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/1980__The_Remaking_of_the_Ameri_-_Goldner__Loren.mobi"
     hosted: true
   - name: "1980_ The Remaking of the Ameri - Goldner, Loren.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/1980__The_Remaking_of_the_Ameri_-_Goldner__Loren.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/1980__The_Remaking_of_the_Ameri_-_Goldner__Loren.epub"
     hosted: true
 ---
 # 1980: The Remaking of the American Working Class - Loren Goldner

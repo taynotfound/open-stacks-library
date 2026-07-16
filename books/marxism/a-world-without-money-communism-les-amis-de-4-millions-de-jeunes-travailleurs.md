@@ -24,23 +24,23 @@ links: []
 files:
   - name: "Les Amis de 4 Millions de Jeunes Travailleurs- A World Without Money; Communism.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Les_Amis_de_4_Millions_de_Jeunes_Travailleurs-_A_World_Without_Money__Communism.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Les_Amis_de_4_Millions_de_Jeunes_Travailleurs-_A_World_Without_Money__Communism.pdf"
     hosted: true
   - name: "Un_monde_sans_argent.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Un_monde_sans_argent.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Un_monde_sans_argent.pdf"
     hosted: true
   - name: "Blanc, Dominique - A World Without Money- Communism.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Blanc__Dominique_-_A_World_Without_Money-_Communism.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Blanc__Dominique_-_A_World_Without_Money-_Communism.mobi"
     hosted: true
   - name: "Blanc, Dominique - A World Without Money- Communism.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Blanc__Dominique_-_A_World_Without_Money-_Communism.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Blanc__Dominique_-_A_World_Without_Money-_Communism.epub"
     hosted: true
   - name: "communism-a-world-without-money-MORTAR.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/communism-a-world-without-money-MORTAR.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/communism-a-world-without-money-MORTAR.pdf"
     hosted: true
 ---
 # A world without money: communism - Les Amis de 4 Millions de Jeunes Travailleurs

@@ -22,87 +22,87 @@ links: []
 files:
   - name: "wspus-world-socialist-review-1986-1.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1986-1.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1986-1.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1986-2.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1986-2.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1986-2.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1987-3.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1987-3.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1987-3.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1987-4.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1987-4.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1987-4.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1988-5.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1988-5.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1988-5.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1989-6.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1989-6.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1989-6.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1991-7.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1991-7.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1991-7.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1992-8.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1992-8.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1992-8.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1992-9.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1992-9.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1992-9.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1993-10.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1993-10.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1993-10.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1994-11.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1994-11.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1994-11.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1995-12.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1995-12.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1995-12.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1997-13.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1997-13.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1997-13.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1998-14.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1998-14.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1998-14.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-1999-15.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-1999-15.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-1999-15.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-2001-16.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-2001-16.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-2001-16.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-2002-17.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-2002-17.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-2002-17.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-2003-18.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-2003-18.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-2003-18.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-2004-19.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-2004-19.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-2004-19.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-2005-20.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-2005-20.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-2005-20.pdf"
     hosted: true
   - name: "wspus-world-socialist-review-2007-21.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/wspus-world-socialist-review-2007-21.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wspus-world-socialist-review-2007-21.pdf"
     hosted: true
 ---
 # World Socialist Review

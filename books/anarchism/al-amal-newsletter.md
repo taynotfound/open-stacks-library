@@ -29,19 +29,19 @@ links:
 files:
   - name: "AL Amal en Issue 01.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/AL_Amal_en_Issue_01.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/AL_Amal_en_Issue_01.pdf"
     hosted: true
   - name: "AL Amal en Issue 02.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/AL_Amal_en_Issue_02.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/AL_Amal_en_Issue_02.pdf"
     hosted: true
   - name: "AL Amal Issue en 03-4.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/AL_Amal_Issue_en_03-4.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/AL_Amal_Issue_en_03-4.pdf"
     hosted: true
   - name: "AL Amal Issue en 05.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/AL_Amal_Issue_en_05.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/AL_Amal_Issue_en_05.pdf"
     hosted: true
 ---
 # Al Amal Newsletter

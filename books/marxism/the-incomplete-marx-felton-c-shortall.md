@@ -22,19 +22,19 @@ links: []
 files:
   - name: "The Incomplete Marx - Shortall, Shelton F_.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Incomplete_Marx_-_Shortall__Shelton_F_.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Incomplete_Marx_-_Shortall__Shelton_F_.epub"
     hosted: true
   - name: "The Incomplete Marx - Shortall, Shelton F_.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Incomplete_Marx_-_Shortall__Shelton_F_.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Incomplete_Marx_-_Shortall__Shelton_F_.mobi"
     hosted: true
   - name: "Shortall-Incomplete_Marx-300dpiBW-compressed.docx"
     type: "DOCX"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Shortall-Incomplete_Marx-300dpiBW-compressed.docx"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Shortall-Incomplete_Marx-300dpiBW-compressed.docx"
     hosted: true
   - name: "Shortall-Incomplete_Marx-300dpiBW-compressed.odt"
     type: "ODT"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Shortall-Incomplete_Marx-300dpiBW-compressed.odt"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Shortall-Incomplete_Marx-300dpiBW-compressed.odt"
     hosted: true
 ---
 # The incomplete Marx - Felton C. Shortall

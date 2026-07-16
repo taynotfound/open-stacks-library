@@ -27,7 +27,7 @@ links:
 files:
   - name: "Veritable Split In The SI-1-57.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Veritable_Split_In_The_SI-1-57.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Veritable_Split_In_The_SI-1-57.pdf"
     hosted: true
 ---
 # The Veritable Split in the International - Situationist International

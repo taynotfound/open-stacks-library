@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Portugal-Spain.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Portugal-Spain.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Portugal-Spain.pdf"
     hosted: true
   - name: "Ubu Saved From Drowning_ Worker - Goldner, Loren.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ubu_Saved_From_Drowning__Worker_-_Goldner__Loren.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ubu_Saved_From_Drowning__Worker_-_Goldner__Loren.epub"
     hosted: true
 ---
 # Ubu saved from drowning: worker insurgency and statist containment in Portugal and Spain, 1974-1977 - Loren Goldner

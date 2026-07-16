@@ -22,7 +22,7 @@ links: []
 files:
   - name: "LizardTalkcropped.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/LizardTalkcropped.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/LizardTalkcropped.pdf"
     hosted: true
 ---
 # Lizard Talk: Or, Ten Plagues and Another - Peter Linebaugh

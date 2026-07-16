@@ -21,7 +21,7 @@ links: []
 files:
   - name: "peter-gelderloos-how-nonviolence-protects-the-state.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/peter-gelderloos-how-nonviolence-protects-the-state.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/peter-gelderloos-how-nonviolence-protects-the-state.pdf"
     hosted: true
 ---
 # How Nonviolence Protects the State - Peter Gelderloos

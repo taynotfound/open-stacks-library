@@ -22,11 +22,11 @@ links: []
 files:
   - name: "Rocker - Anarcho-Syndicalism Theory and Practice.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Rocker_-_Anarcho-Syndicalism_Theory_and_Practice.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Rocker_-_Anarcho-Syndicalism_Theory_and_Practice.pdf"
     hosted: true
   - name: "Anarcho-syndicalism - Rocker, Rudolf.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Anarcho-syndicalism_-_Rocker__Rudolf.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Anarcho-syndicalism_-_Rocker__Rudolf.epub"
     hosted: true
 ---
 # Anarcho-syndicalism - Rudolf Rocker

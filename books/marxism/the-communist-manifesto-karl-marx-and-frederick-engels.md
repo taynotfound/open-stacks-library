@@ -21,7 +21,7 @@ links: []
 files:
   - name: "Karl Marx- Manifesto of the Communist Party.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Karl_Marx-_Manifesto_of_the_Communist_Party.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Karl_Marx-_Manifesto_of_the_Communist_Party.pdf"
     hosted: true
 ---
 # The communist manifesto - Karl Marx and Frederick Engels

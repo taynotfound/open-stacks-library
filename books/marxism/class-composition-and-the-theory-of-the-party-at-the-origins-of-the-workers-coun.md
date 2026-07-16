@@ -20,7 +20,7 @@ links: []
 files:
   - name: "Sergio Bologna, Class Composition and the Theory of the Party at the Origin of the Workers-Council Movement.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Sergio_Bologna__Class_Composition_and_the_Theory_of_the_Party_at_the_Origin_of_the_Workers-Council_Movement.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Sergio_Bologna__Class_Composition_and_the_Theory_of_the_Party_at_the_Origin_of_the_Workers-Council_Movement.pdf"
     hosted: true
 ---
 # Class composition and the theory of the party at the origins of the workers' council movement

@@ -25,11 +25,11 @@ links: []
 files:
   - name: "Leaving-the-20th-Century-1-93.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Leaving-the-20th-Century-1-93.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Leaving-the-20th-Century-1-93.pdf"
     hosted: true
   - name: "Leaving-the-20th-Century-94-186.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Leaving-the-20th-Century-94-186.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Leaving-the-20th-Century-94-186.pdf"
     hosted: true
 ---
 # Leaving the 20th Century - The incomplete works of the Situationist International

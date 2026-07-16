@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Class War on the Home Front (Wildcat).pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Class_War_on_the_Home_Front__Wildcat_.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Class_War_on_the_Home_Front__Wildcat_.pdf"
     hosted: true
 ---
 # Class War on the home front - revolutionary opposition to the Second World War: the Anti-Parliamentary Communist Federation

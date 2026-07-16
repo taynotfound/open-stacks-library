@@ -22,11 +22,11 @@ links: []
 files:
   - name: "Karl Marx man and fighter - Boris Nicolaievsky and Otto Maenchen-Helfen.docx"
     type: "DOCX"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Karl_Marx_man_and_fighter_-_Boris_Nicolaievsky_and_Otto_Maenchen-Helfen.docx"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Karl_Marx_man_and_fighter_-_Boris_Nicolaievsky_and_Otto_Maenchen-Helfen.docx"
     hosted: true
   - name: "Karl-Marx-Man-and-Fighter-Nicolaeievsky-Part-1-of-2.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Karl-Marx-Man-and-Fighter-Nicolaeievsky-Part-1-of-2.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Karl-Marx-Man-and-Fighter-Nicolaeievsky-Part-1-of-2.pdf"
     hosted: true
 ---
 # Karl Marx: man and fighter - Boris Nicolaievsky and Otto Maenchen-Helfen

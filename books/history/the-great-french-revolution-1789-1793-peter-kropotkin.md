@@ -22,11 +22,11 @@ links: []
 files:
   - name: "Petr_Kropotkin__The_Great_French_Revolution_1789-1793.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Petr_Kropotkin__The_Great_French_Revolution_1789-1793.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Petr_Kropotkin__The_Great_French_Revolution_1789-1793.epub"
     hosted: true
   - name: "Petr_Kropotkin__The_Great_French_Revolution_1789-1793_letter.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Petr_Kropotkin__The_Great_French_Revolution_1789-1793_letter.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Petr_Kropotkin__The_Great_French_Revolution_1789-1793_letter.pdf"
     hosted: true
 ---
 # The great French revolution, 1789-1793 - Peter Kropotkin

@@ -24,7 +24,7 @@ links: []
 files:
   - name: "Gaston Leval Collectives in the Spanish revolution.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Gaston_Leval_Collectives_in_the_Spanish_revolution.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Gaston_Leval_Collectives_in_the_Spanish_revolution.pdf"
     hosted: true
 ---
 # Collectives in the Spanish revolution - Gaston Leval

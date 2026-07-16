@@ -16,7 +16,7 @@ tags:
 files:
   - name: "homage-to-catalonia-orwell.html"
     type: "HTML"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/homage-to-catalonia-orwell.html"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/homage-to-catalonia-orwell.html"
     hosted: true
 ---
 
@@ -27,6 +27,6 @@ files:
 **Status:** Mirrored because this work faces takedown / restricted access in some jurisdictions.  
 
 ## Downloads
-- [HTML](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/homage-to-catalonia-orwell.html)
+- [HTML](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/homage-to-catalonia-orwell.html)
 
 [Original source](https://gutenberg.net.au/ebooks02/0201111h.html)

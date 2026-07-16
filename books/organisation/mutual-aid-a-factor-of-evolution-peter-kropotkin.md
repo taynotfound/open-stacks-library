@@ -24,15 +24,15 @@ links:
 files:
   - name: "Mutual_Aid.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Mutual_Aid.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Mutual_Aid.mobi"
     hosted: true
   - name: "Mutual_Aid.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Mutual_Aid.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Mutual_Aid.epub"
     hosted: true
   - name: "Peter Kropotkin- Mutual Aid; A Factor of Evolution.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Peter_Kropotkin-_Mutual_Aid__A_Factor_of_Evolution.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Peter_Kropotkin-_Mutual_Aid__A_Factor_of_Evolution.pdf"
     hosted: true
 ---
 # Mutual aid: a factor of evolution - Peter Kropotkin

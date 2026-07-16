@@ -19,11 +19,11 @@ links: []
 files:
   - name: "Gurgaon-Workers-News.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Gurgaon-Workers-News.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Gurgaon-Workers-News.mobi"
     hosted: true
   - name: "Gurgaon-Workers-News.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Gurgaon-Workers-News.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Gurgaon-Workers-News.pdf"
     hosted: true
 ---
 # Gurgaon Workers News

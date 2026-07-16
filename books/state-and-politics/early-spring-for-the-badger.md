@@ -20,7 +20,7 @@ links: []
 files:
   - name: "WI-pamphlet-read.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/WI-pamphlet-read.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/WI-pamphlet-read.pdf"
     hosted: true
 ---
 # Early Spring for the Badger

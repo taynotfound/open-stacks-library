@@ -23,7 +23,7 @@ links: []
 files:
   - name: "The Making of an Atlantic Rulin - Pijl, Kees van der_0.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Making_of_an_Atlantic_Rulin_-_Pijl__Kees_van_der_0.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Making_of_an_Atlantic_Rulin_-_Pijl__Kees_van_der_0.epub"
     hosted: true
 ---
 # The making of an Atlantic ruling class - Kees van der Pijl

@@ -23,11 +23,11 @@ links:
 files:
   - name: "alexander-berkman-what-is-communist-anarchism.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/alexander-berkman-what-is-communist-anarchism.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/alexander-berkman-what-is-communist-anarchism.epub"
     hosted: true
   - name: "Berkman - What Is Anarchism.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Berkman_-_What_Is_Anarchism.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Berkman_-_What_Is_Anarchism.pdf"
     hosted: true
 ---
 # What is anarchism? - Alexander Berkman

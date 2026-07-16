@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Workers Against Work_ Labor in  - Seidman, Michael.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Workers_Against_Work__Labor_in__-_Seidman__Michael.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Workers_Against_Work__Labor_in__-_Seidman__Michael.mobi"
     hosted: true
   - name: "Workers Against Work_ Labor in  - Seidman, Michael.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Workers_Against_Work__Labor_in__-_Seidman__Michael.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Workers_Against_Work__Labor_in__-_Seidman__Michael.epub"
     hosted: true
 ---
 # Workers against work: labor in Paris and Barcelona during the Popular Fronts - Michael Seidman

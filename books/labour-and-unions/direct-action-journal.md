@@ -21,19 +21,19 @@ links: []
 files:
   - name: "DirectAction-No1-31Jan1914_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/DirectAction-No1-31Jan1914_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/DirectAction-No1-31Jan1914_0.pdf"
     hosted: true
   - name: "DirectAction-No2-28Feb1914_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/DirectAction-No2-28Feb1914_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/DirectAction-No2-28Feb1914_0.pdf"
     hosted: true
   - name: "DirectAction-No3-31Mar1914.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/DirectAction-No3-31Mar1914.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/DirectAction-No3-31Mar1914.pdf"
     hosted: true
   - name: "DirectAction-No4-1May1914.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/DirectAction-No4-1May1914.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/DirectAction-No4-1May1914.pdf"
     hosted: true
 ---
 # Direct Action journal

@@ -24,11 +24,11 @@ links: []
 files:
   - name: "peasants war.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/peasants_war.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/peasants_war.epub"
     hosted: true
   - name: "peasants war.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/peasants_war.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/peasants_war.mobi"
     hosted: true
 ---
 # The peasants war in Germany 1525-1526 - Ernest Belfort Bax

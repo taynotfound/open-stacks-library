@@ -24,11 +24,11 @@ links: []
 files:
   - name: "The Society of the Spectacle - Debord, Guy_0.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Society_of_the_Spectacle_-_Debord__Guy_0.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Society_of_the_Spectacle_-_Debord__Guy_0.epub"
     hosted: true
   - name: "The Society of the Spectacle - Debord, Guy_0.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Society_of_the_Spectacle_-_Debord__Guy_0.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Society_of_the_Spectacle_-_Debord__Guy_0.mobi"
     hosted: true
 ---
 # Society of the Spectacle - Guy Debord

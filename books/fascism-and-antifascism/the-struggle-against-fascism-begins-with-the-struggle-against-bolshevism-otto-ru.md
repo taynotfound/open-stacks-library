@@ -21,7 +21,7 @@ links: []
 files:
   - name: "Otto Rühle- The struggle against fascism begins with the struggle against Bolshevism_0.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Otto_R_hle-_The_struggle_against_fascism_begins_with_the_struggle_against_Bolshevism_0.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Otto_R_hle-_The_struggle_against_fascism_begins_with_the_struggle_against_Bolshevism_0.pdf"
     hosted: true
 ---
 # The struggle against fascism begins with the struggle against Bolshevism - Otto Ruhle

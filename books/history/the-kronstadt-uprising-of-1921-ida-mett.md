@@ -22,7 +22,7 @@ links: []
 files:
   - name: "IdaMettKronstadt.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/IdaMettKronstadt.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/IdaMettKronstadt.pdf"
     hosted: true
 ---
 # The Kronstadt uprising of 1921 - Ida Mett

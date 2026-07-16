@@ -22,27 +22,27 @@ links: []
 files:
   - name: "Raveiw-1-March-1985.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Raveiw-1-March-1985.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Raveiw-1-March-1985.pdf"
     hosted: true
   - name: "Ainriail-1-August-1985.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-1-August-1985.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ainriail-1-August-1985.pdf"
     hosted: true
   - name: "Ainriail-2-September-1985.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-2-September-1985.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ainriail-2-September-1985.pdf"
     hosted: true
   - name: "Ainriail-3-March-1986.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-3-March-1986.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ainriail-3-March-1986.pdf"
     hosted: true
   - name: "Ainriail-4-May-1986.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-4-May-1986.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ainriail-4-May-1986.pdf"
     hosted: true
   - name: "Ainriail-5-August-86.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-5-August-86.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Ainriail-5-August-86.pdf"
     hosted: true
 ---
 # Ainriail / Raveiw magazine

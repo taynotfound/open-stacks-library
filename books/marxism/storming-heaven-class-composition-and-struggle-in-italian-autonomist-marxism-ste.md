@@ -23,7 +23,7 @@ links: []
 files:
   - name: "Steve Wright - Storming Heaven - Class Composition and Struggle in Italian Autonomist Marxism (2002).pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Steve_Wright_-_Storming_Heaven_-_Class_Composition_and_Struggle_in_Italian_Autonomist_Marxism__2002_.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Steve_Wright_-_Storming_Heaven_-_Class_Composition_and_Struggle_in_Italian_Autonomist_Marxism__2002_.pdf"
     hosted: true
 ---
 # Storming heaven: class composition and struggle in Italian Autonomist Marxism - Steve Wright

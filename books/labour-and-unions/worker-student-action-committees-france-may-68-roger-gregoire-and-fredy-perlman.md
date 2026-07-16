@@ -24,11 +24,11 @@ links: []
 files:
   - name: "Worker-Student Action Committees_ France - Perlman, Fredy.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Worker-Student_Action_Committees__France_-_Perlman__Fredy.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Worker-Student_Action_Committees__France_-_Perlman__Fredy.mobi"
     hosted: true
   - name: "Worker-Student Action Committees_ France - Perlman, Fredy.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Worker-Student_Action_Committees__France_-_Perlman__Fredy.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Worker-Student_Action_Committees__France_-_Perlman__Fredy.epub"
     hosted: true
 ---
 # Worker-student action committees, France May '68 - Roger Gregoire and Fredy Perlman

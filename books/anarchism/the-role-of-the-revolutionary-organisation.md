@@ -24,15 +24,15 @@ links:
 files:
   - name: "RORO.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/RORO.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/RORO.epub"
     hosted: true
   - name: "RORO.odt"
     type: "ODT"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/RORO.odt"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/RORO.odt"
     hosted: true
   - name: "RORO.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/RORO.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/RORO.pdf"
     hosted: true
 ---
 # The Role of the Revolutionary Organisation

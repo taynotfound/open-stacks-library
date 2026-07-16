@@ -19,7 +19,7 @@ links: []
 files:
   - name: "Bordiga Three Part Series Socialist Standard January 2017.docx"
     type: "DOCX"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Bordiga_Three_Part_Series_Socialist_Standard_January_2017.docx"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Bordiga_Three_Part_Series_Socialist_Standard_January_2017.docx"
     hosted: true
 ---
 # Bordiga: Early political views

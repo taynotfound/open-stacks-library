@@ -24,7 +24,7 @@ links: []
 files:
   - name: "socialism_from_below_a_history_of_anarchism_woodcock.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/socialism_from_below_a_history_of_anarchism_woodcock.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/socialism_from_below_a_history_of_anarchism_woodcock.pdf"
     hosted: true
 ---
 # Socialism from Below: A History of Anarchism

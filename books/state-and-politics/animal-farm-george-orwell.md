@@ -17,7 +17,7 @@ tags:
 files:
   - name: "animal-farm-orwell.html"
     type: "HTML"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/animal-farm-orwell.html"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/animal-farm-orwell.html"
     hosted: true
 ---
 
@@ -28,6 +28,6 @@ files:
 **Status:** Mirrored because this work faces takedown / restricted access in some jurisdictions.  
 
 ## Downloads
-- [HTML](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/animal-farm-orwell.html)
+- [HTML](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/animal-farm-orwell.html)
 
 [Original source](https://gutenberg.net.au/ebooks01/0100011h.html)

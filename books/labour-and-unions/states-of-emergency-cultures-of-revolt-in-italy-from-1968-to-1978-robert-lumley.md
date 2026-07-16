@@ -26,15 +26,15 @@ links:
 files:
   - name: "States of Emergency_ Cultures of Revolt  - Robert Lumley.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/States_of_Emergency__Cultures_of_Revolt__-_Robert_Lumley.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/States_of_Emergency__Cultures_of_Revolt__-_Robert_Lumley.epub"
     hosted: true
   - name: "States of Emergency_ Cultures of Revolt  - Robert Lumley.mobi"
     type: "MOBI"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/States_of_Emergency__Cultures_of_Revolt__-_Robert_Lumley.mobi"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/States_of_Emergency__Cultures_of_Revolt__-_Robert_Lumley.mobi"
     hosted: true
   - name: "Robert Lumley- States of emergency; Cultures of revolt in Italy from 1968 to 1978.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Robert_Lumley-_States_of_emergency__Cultures_of_revolt_in_Italy_from_1968_to_1978.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Robert_Lumley-_States_of_emergency__Cultures_of_revolt_in_Italy_from_1968_to_1978.pdf"
     hosted: true
 ---
 # States of emergency: cultures of revolt in Italy from 1968 to 1978 - Robert Lumley

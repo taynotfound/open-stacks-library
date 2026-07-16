@@ -23,11 +23,11 @@ links: []
 files:
   - name: "Conquered City-Victor Serge - Unknown.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Conquered_City-Victor_Serge_-_Unknown.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Conquered_City-Victor_Serge_-_Unknown.epub"
     hosted: true
   - name: "Conquered City-Victor Serge.pdf"
     type: "PDF"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Conquered_City-Victor_Serge.pdf"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Conquered_City-Victor_Serge.pdf"
     hosted: true
 ---
 # Conquered city - Victor Serge

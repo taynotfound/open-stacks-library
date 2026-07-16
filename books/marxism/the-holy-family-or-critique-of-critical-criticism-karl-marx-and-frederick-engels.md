@@ -24,7 +24,7 @@ links: []
 files:
   - name: "The Holy Family - Karl Marx & Friedrich Engels.epub"
     type: "EPUB"
-    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/The_Holy_Family_-_Karl_Marx___Friedrich_Engels.epub"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/The_Holy_Family_-_Karl_Marx___Friedrich_Engels.epub"
     hosted: true
 ---
 # The holy family, or critique of critical criticism - Karl Marx and Frederick Engels
