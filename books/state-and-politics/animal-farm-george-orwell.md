@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://gutenberg.net.au/ebooks01/0100011h.html"
 source_name: "Project Gutenberg Australia"
-cover: "https://upload.wikimedia.org/wikipedia/en/b/b4/Animal_Farm_-_1st_edition.jpg"
+cover: "https://upload.wikimedia.org/wikipedia/commons/f/fb/Animal_Farm_-_1st_edition.jpg"
 at_risk: true
 mirror_state: full
 tags:
