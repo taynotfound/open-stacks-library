@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://www.gutenberg.org/ebooks/408"
 source_name: "Project Gutenberg"
-cover: ""
+cover: "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_Souls_of_Black_Folk_dust_jacket_cover.jpg"
 at_risk: false
 mirror_state: full
 tags:
