@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://www.gutenberg.org/ebooks/61"
 source_name: "Project Gutenberg"
-cover: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Communist-manifesto.png"
+cover: "https://upload.wikimedia.org/wikipedia/commons/8/86/Communist-manifesto.png"
 at_risk: false
 mirror_state: full
 tags:
