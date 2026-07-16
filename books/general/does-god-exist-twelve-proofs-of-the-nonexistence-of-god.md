@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/does-god-exist-twelve-proofs-nonexistence-god"
+cover: ""
 mirror_state: none
 tags:
   - "Sébastien Faure"

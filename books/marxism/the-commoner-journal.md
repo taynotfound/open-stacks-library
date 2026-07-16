@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/commoner-journal"
+cover: "https://files.libcom.org/files/images/library/Screenshot%202021-10-02%20at%2014.42.40.png"
 mirror_state: none
 tags:
   - "Massimo De Angelis"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/debates-around-workers-solidarity-movement"
+cover: ""
 mirror_state: none
 tags:
   - "Workers Solidarity Movement"

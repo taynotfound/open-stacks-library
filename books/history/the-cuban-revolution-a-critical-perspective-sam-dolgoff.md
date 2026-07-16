@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/cuban-revolution-critical-perspective-sam-dolgoff"
+cover: "https://files.libcom.org/files/images/history/Castro.jpg"
 mirror_state: full
 tags:
   - "Sam Dolgoff"

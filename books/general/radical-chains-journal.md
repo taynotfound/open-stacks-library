@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/radical-chains-journal"
+cover: "https://files.libcom.org/files/2024-10/IMG_1975_0.jpeg"
 mirror_state: none
 tags:
   - "United Kingdom"

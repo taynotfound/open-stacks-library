@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/autobiography-mother-jones"
+cover: "https://files.libcom.org/files/images/library/MotherJones.jpg"
 mirror_state: none
 tags:
   - "women"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/chapter-13-miner-conflicts-major-contradictions"
+cover: ""
 mirror_state: none
 tags:
   - "BM Combustion"

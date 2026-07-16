@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/struggle-against-state-and-other-essays-nestor-makhno"
+cover: "https://files.libcom.org/files/images/library/NestorMakhno.jpeg"
 mirror_state: full
 tags:
   - "libertarian communism"

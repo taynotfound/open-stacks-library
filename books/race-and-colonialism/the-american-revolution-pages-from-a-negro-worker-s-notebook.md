@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/american-revolution-pages-negro-workers-notebook"
+cover: "https://files.libcom.org/files/images/library/217151.jpg"
 mirror_state: none
 tags:
   - "racism"

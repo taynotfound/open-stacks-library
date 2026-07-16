@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1995-1997-mersey-docks-dispute-dave-graham"
+cover: "https://files.libcom.org/files/mk5%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Dave Graham"

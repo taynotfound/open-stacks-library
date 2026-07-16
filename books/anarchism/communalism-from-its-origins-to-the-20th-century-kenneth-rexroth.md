@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/communalism-its-origins-20th-century-kenneth-rexroth"
+cover: "https://files.libcom.org/files/images/history/81hhs10KmyL.jpg"
 mirror_state: full
 tags:
   - "libertarian communism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/unknown-revolution-1917-1921-volin"
+cover: "https://files.libcom.org/files/images/history/Kronstadt%20demonstration%201917.jpg"
 mirror_state: full
 tags:
   - "Volin"

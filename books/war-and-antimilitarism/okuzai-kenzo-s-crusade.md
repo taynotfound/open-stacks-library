@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/okuzai-kenzos-crusade"
+cover: ""
 mirror_state: none
 tags:
   - "culture"

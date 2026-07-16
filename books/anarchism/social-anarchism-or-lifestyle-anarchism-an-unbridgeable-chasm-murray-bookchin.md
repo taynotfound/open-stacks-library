@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/social-anarchism-or-lifestyle-anarchism-unbridgeable-chasm-murray-bookchin"
+cover: "https://files.libcom.org/files/images/library/c00.png"
 mirror_state: full
 tags:
   - "Murray Bookchin"

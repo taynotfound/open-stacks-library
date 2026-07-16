@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-russian-revolution-paul-avrich"
+cover: "https://files.libcom.org/files/images/history/anarchists-against-dictatorship%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "anarchism"

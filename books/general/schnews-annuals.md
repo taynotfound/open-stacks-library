@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/schnews-annuals"
+cover: "https://files.libcom.org/files/2023-04/IMG_0747.jpeg"
 mirror_state: none
 tags:
   - "SchNEWS"

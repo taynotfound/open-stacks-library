@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/sabotage-emile-pouget"
+cover: "https://files.libcom.org/files/images/library/Pouget%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "direct action"

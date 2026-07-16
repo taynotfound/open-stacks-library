@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/anarchy-magazine-series-2"
+cover: "https://files.libcom.org/files/images/library/anarchy-cover_0.jpg"
 mirror_state: none
 tags:
   - "Anarchy Collective"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1946-oakland-general-strike-stan-weir"
+cover: "https://files.libcom.org/files/books/Oakland-strike-meeting.jpg"
 mirror_state: none
 tags:
   - "workplace activity"

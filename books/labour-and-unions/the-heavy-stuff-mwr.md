@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/heavy-stuff-mwr"
+cover: ""
 mirror_state: none
 tags:
   - "McDonalds Workers Resistance"

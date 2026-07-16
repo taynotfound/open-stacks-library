@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/slippery-slopes-anarchists-spain-manuel-azaretto"
+cover: "https://files.libcom.org/files/images/history/cma-miembros-2.jpg"
 mirror_state: full
 tags:
   - "anarchism"

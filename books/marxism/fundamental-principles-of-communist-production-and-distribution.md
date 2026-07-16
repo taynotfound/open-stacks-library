@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/fundamental-principles-communist-production-and-distribution"
+cover: "https://files.libcom.org/files/images/library/putilov.jpg"
 mirror_state: full
 tags:
   - "economics"

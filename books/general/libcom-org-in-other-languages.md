@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/libcomorg-other-languages"
+cover: "https://files.libcom.org/files/images/library/language-map.jpg"
 mirror_state: none
 tags:
   - "libcom.org"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/weakening-dam-twin-cities-iww"
+cover: "https://files.libcom.org/files/images/library/Untitlved.png"
 mirror_state: full
 tags:
   - "workplace activity"

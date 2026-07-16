@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/ravachol-octave-mirbeau"
+cover: ""
 mirror_state: none
 tags:
   - "propaganda by deed"

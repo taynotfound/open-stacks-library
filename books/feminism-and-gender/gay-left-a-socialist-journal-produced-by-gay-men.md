@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/gay-left-socialist-journal-produced-gay-men"
+cover: "https://files.libcom.org/files/images/library/cover06.jpg"
 mirror_state: full
 tags:
   - "Gay Left Collective"

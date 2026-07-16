@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/theses-2018-proletarian-struggles-near-and-middle-east-and-their-prospects"
+cover: "https://files.libcom.org/files/images/news/bazneshastegan.jpg"
 mirror_state: none
 tags:
   - "Iran"

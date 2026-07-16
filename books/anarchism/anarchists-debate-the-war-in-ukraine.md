@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-debate-war-ukraine"
+cover: ""
 mirror_state: none
 tags:
   - "Russia-Ukraine war"

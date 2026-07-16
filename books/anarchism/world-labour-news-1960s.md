@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/world-labour-news-1960s"
+cover: "https://files.libcom.org/files/images/library/worldlab.png"
 mirror_state: none
 tags:
   - "Syndicalist Workers Federation (SWF)"

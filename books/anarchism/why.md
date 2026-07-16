@@ -4,6 +4,7 @@ author: "Resistance"
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/why"
+cover: "https://files.libcom.org/files/images/library/why_0.jpg"
 mirror_state: none
 tags:
   - "Why?"

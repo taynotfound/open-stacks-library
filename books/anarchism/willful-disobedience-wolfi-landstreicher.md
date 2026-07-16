@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/willful-disobedience-wolfi-landstreicher"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/zzz%20Willful%20Disobedience%20400_0.jpg"
+mirror_state: full
 tags:
   - "anarchism"
   - "insurrectionary anarchism"
@@ -14,8 +15,8 @@ tags:
 files:
   - name: "Landstreicher - Willful Disobedience.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Landstreicher - Willful Disobedience.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Landstreicher_-_Willful_Disobedience.pdf"
+    hosted: true
 ---
 
 # Willful Disobedience - Wolfi Landstreicher
@@ -24,6 +25,6 @@ files:
 The collected writings of Wolfi Landstreicher's Willful Disobedience. Originally published as a zine from 1996 to 2006, Willful Disobedience was a continuously evolving provocation directed towards anarchists and fellow vagabonds to dig deeper into critical thought and joyous rebellion.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Landstreicher - Willful Disobedience.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Landstreicher_-_Willful_Disobedience.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/willful-disobedience-wolfi-landstreicher)

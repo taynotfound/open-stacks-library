@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/right-be-lazy-paul-lafargue"
+cover: "https://files.libcom.org/files/the_right_to_be_lazy.jpg"
 mirror_state: full
 tags:
   - "Marxism"

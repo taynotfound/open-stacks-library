@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/general-strike-ralph-chaplin"
+cover: "https://files.libcom.org/files/images/library/IWW_demonstration_NY_1914.jpg"
 mirror_state: full
 tags:
   - "Industrial Workers of the World (IWW)"

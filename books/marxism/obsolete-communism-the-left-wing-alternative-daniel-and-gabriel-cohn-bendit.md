@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/obsolete-communism-left-wing-alternative-daniel-and-gabriel-cohn-bendit"
+cover: "https://files.libcom.org/files/images/history/obsolete%20communism.jpg"
 mirror_state: full
 tags:
   - "strikes"

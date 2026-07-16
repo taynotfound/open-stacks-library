@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/armed-joy"
+cover: ""
 mirror_state: none
 tags:
   - "violence"

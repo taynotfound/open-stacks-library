@@ -4,7 +4,8 @@ author: "Outta Control"
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/ainriail-raveiw-magazine"
-mirror_state: none
+cover: ""
+mirror_state: full
 tags:
   - "Belfast Anarchist Collective"
   - "publications"
@@ -14,32 +15,32 @@ tags:
 files:
   - name: "Raveiw-1-March-1985.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Raveiw-1-March-1985.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Raveiw-1-March-1985.pdf"
+    hosted: true
   - name: "Ainriail-1-August-1985.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Ainriail-1-August-1985.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-1-August-1985.pdf"
+    hosted: true
   - name: "Ainriail-2-September-1985.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Ainriail-2-September-1985.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-2-September-1985.pdf"
+    hosted: true
   - name: "Ainriail-3-March-1986.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Ainriail-3-March-1986.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-3-March-1986.pdf"
+    hosted: true
   - name: "Ainriail-4-May-1986.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Ainriail-4-May-1986.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-4-May-1986.pdf"
+    hosted: true
   - name: "Ainriail-5-August-86.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Ainriail-5-August-86.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-5-August-86.pdf"
+    hosted: true
   - name: "Ainriail-6-January-1987.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-06/Ainriail-6-January-1987.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-6-January-1987.pdf"
+    hosted: true
 ---
 
 # Ainriail / Raveiw magazine
@@ -49,12 +50,12 @@ files:
 Complete online archive of Ainriail, a magazine published by Belfast Anarchist collective between 1985 and 1987.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/2022-06/Raveiw-1-March-1985.pdf)
-- [PDF](https://files.libcom.org/files/2022-06/Ainriail-1-August-1985.pdf)
-- [PDF](https://files.libcom.org/files/2022-06/Ainriail-2-September-1985.pdf)
-- [PDF](https://files.libcom.org/files/2022-06/Ainriail-3-March-1986.pdf)
-- [PDF](https://files.libcom.org/files/2022-06/Ainriail-4-May-1986.pdf)
-- [PDF](https://files.libcom.org/files/2022-06/Ainriail-5-August-86.pdf)
-- [PDF](https://files.libcom.org/files/2022-06/Ainriail-6-January-1987.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Raveiw-1-March-1985.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-1-August-1985.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-2-September-1985.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-3-March-1986.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-4-May-1986.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-5-August-86.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Ainriail-6-January-1987.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/ainriail-raveiw-magazine)

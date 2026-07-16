@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/extracts-tragedy-jewish-teenager-stanislaw-smajzner"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/history/Stanislaw%20Smajzner_0.jpg"
+mirror_state: full
 tags:
   - "Nazism"
   - "Jewish"
@@ -15,8 +16,8 @@ tags:
 files:
   - name: "Extracts from the Tragedy of a Jewish Teenager - Stanislaw Smajzner.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Extracts from the Tragedy of a Jewish Teenager - Stanislaw Smajzner.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Extracts_from_the_Tragedy_of_a_Jewish_Teenager_-_Stanislaw_Smajzner.pdf"
+    hosted: true
 ---
 
 # Extracts from the Tragedy of a Jewish Teenager - Stanislaw Smajzner
@@ -25,6 +26,6 @@ files:
 The personal account of Stanislaw Smajzner of his time spent in the Extermination camp at Sobibor. From the start of his journey to Sobibor, through to his participationin the mass escape.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Extracts from the Tragedy of a Jewish Teenager - Stanislaw Smajzner.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Extracts_from_the_Tragedy_of_a_Jewish_Teenager_-_Stanislaw_Smajzner.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/extracts-tragedy-jewish-teenager-stanislaw-smajzner)

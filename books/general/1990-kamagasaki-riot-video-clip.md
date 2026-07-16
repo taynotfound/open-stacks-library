@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/1990-kamagasaki-riot-video-clip"
+cover: "https://files.libcom.org/files/images/history/kamagasaki-1.preview.png"
 mirror_state: none
 tags:
   - "Japan"

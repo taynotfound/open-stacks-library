@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/gurgaon-workers-news-29-august-2010"
+cover: ""
 mirror_state: none
 tags:
   - "Gurgaon Workers News"

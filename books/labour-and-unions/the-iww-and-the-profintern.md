@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/iww-and-profintern"
+cover: "https://files.libcom.org/files/images/library/dsd.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/praxis"
+cover: "https://files.libcom.org/files/images/library/korica_0.png"
 mirror_state: none
 tags:
   - "Hrvatski"

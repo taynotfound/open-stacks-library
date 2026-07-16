@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/basic-anarcho-syndicalism"
+cover: "https://files.libcom.org/files/images/library/1mayo%285%29.jpg"
 mirror_state: full
 tags:
   - "groups"

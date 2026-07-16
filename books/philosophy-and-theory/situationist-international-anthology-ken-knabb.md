@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/situationist-international-anthology-ken-knabb"
+cover: "https://files.libcom.org/files/images/library/cover_53.jpg"
 mirror_state: full
 tags:
   - "Situationist International"

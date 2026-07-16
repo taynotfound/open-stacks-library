@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/tragic-week-may-may-days-barcelona-1937-augustin-souchy"
+cover: "https://files.libcom.org/files/images/history/speciale11%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Augustin Souchy"

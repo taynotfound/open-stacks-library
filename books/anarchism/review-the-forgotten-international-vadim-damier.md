@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/review-forgotten-international-vadim-damier"
+cover: "https://files.libcom.org/files/images/library/Damie.jpg"
 mirror_state: none
 tags:
   - "anarcho-syndicalism"

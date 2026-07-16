@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/tywry-bhran-marks-pl-matyk"
+cover: "https://files.libcom.org/files/images/library/mattick-paul_1.jpg"
 mirror_state: full
 tags:
   []

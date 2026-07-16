@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-movement-japan-1906-1996-john-crump"
+cover: "https://files.libcom.org/files/Japanese_anarchists.jpg"
 mirror_state: full
 tags:
   - "John Crump"

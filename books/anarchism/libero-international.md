@@ -4,6 +4,7 @@ author: "CIRA-Japana"
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libero-international"
+cover: "https://files.libcom.org/files/images/library/libero.jpg"
 mirror_state: none
 tags:
   - "CIRA-Nippon"

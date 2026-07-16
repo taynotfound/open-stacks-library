@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-opposition-nazi-germany-tim-mason"
+cover: "https://files.libcom.org/files/images/history/3292007.c8bafa15.640.jpg"
 mirror_state: full
 tags:
   - "fascism"

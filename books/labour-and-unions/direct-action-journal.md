@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/direct-action-journal"
+cover: "https://files.libcom.org/files/images/library/DirectAction-Coverthumb.jpg"
 mirror_state: full
 tags:
   - "Industrial Workers of the World (IWW)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/alive-kicking-cambridge-anarchist-news"
+cover: ""
 mirror_state: none
 tags:
   - "Alive & Kicking"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/friends-durruti-group-1937-39-agustin-guilamon"
+cover: "https://files.libcom.org/files/images/library/Junio_37_1%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "Spain"

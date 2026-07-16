@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/food-and-climate"
+cover: "https://files.libcom.org/files/images/library/drought-parched-crops-660%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "food"

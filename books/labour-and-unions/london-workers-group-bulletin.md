@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/london-workers-group-bulletin"
+cover: "https://files.libcom.org/files/images/library/lwg6%20copy.png"
 mirror_state: none
 tags:
   - "London Workers Group"

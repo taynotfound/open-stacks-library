@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/gender-accelerationist-manifesto"
+cover: "https://files.libcom.org/files/images/library/Gender%20Accelerationist%20Manifesto%20bookcover.png"
 mirror_state: none
 tags:
   - "feminism"

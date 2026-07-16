@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/jan-waclaw-machajski-radical-critic-russian-intelligensia-and-socialism-marshall-s-shatz"
+cover: "https://files.libcom.org/files/images/history/Jan.jpg"
 mirror_state: none
 tags:
   - "state socialism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/paris-commune-wsm-account"
+cover: ""
 mirror_state: none
 tags:
   - "Workers Solidarity Movement"

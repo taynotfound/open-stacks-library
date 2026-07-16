@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/1980-remaking-american-working-class-loren-goldner"
+cover: "https://files.libcom.org/files/images/history/Construction%20workers%20USA.jpg"
 mirror_state: full
 tags:
   - "Loren Goldner"

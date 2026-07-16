@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/outbreaks-inbreaks-until-exhaustion-roland-simon"
+cover: "https://files.libcom.org/files/images/library/0%2C%2C19153320_303%2C00.jpg"
 mirror_state: none
 tags:
   - "France"

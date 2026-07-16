@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/caribbean-correspondence-journal"
+cover: "https://files.libcom.org/files/2024-11/caribbeancorrespondence.png"
 mirror_state: none
 tags:
   - "Caribbean Correspondence"

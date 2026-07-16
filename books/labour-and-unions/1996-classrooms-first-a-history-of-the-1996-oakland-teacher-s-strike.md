@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/oakland-teachers-strike-1996-iww"
+cover: ""
 mirror_state: none
 tags:
   - "United States"

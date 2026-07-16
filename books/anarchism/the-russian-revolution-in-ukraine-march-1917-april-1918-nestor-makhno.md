@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/russian-revolution-ukraine-march-1917-april-1918-nestor-makhno"
+cover: "https://files.libcom.org/files/images/library/08.jpg"
 mirror_state: full
 tags:
   - "Nestor Makhno"

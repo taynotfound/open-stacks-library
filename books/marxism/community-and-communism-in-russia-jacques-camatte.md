@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/community-and-communism-russia-jacques-camatte"
+cover: "https://files.libcom.org/files/2022-08/camatte-russia.png"
 mirror_state: full
 tags:
   - "Jacques Camatte"

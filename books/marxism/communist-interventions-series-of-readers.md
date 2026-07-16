@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-interventions-series-readers"
+cover: "https://files.libcom.org/files/images/library/11802784_817056885057153_8536038241840981654_o.jpg"
 mirror_state: none
 tags:
   - "Communist Research Cluster"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-motor-bulletins"
+cover: "https://files.libcom.org/files/images/library/IMG_20130817_152149%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Solidarity"

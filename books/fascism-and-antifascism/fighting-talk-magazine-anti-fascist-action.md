@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/fighting-talk-magazine-anti-fascist-action"
+cover: "https://files.libcom.org/files/images/library/antinaz%20008.jpg"
 mirror_state: none
 tags:
   - "Anti Fascist Action (AFA)"

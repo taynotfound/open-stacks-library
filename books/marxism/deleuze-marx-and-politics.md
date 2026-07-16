@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/deleuze-marx-and-politics"
+cover: ""
 mirror_state: full
 tags:
   - "Marxism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/trans-101-wobblies"
+cover: "https://files.libcom.org/files/images/library/gender_0.jpg"
 mirror_state: none
 tags:
   - "Fey"

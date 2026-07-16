@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/kronstadt-uprising-1921-ida-mett"
+cover: "https://files.libcom.org/files/gangut14.jpg"
 mirror_state: full
 tags:
   - "Ida Mett"

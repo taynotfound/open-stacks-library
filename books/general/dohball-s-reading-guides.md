@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/dohballs-reading-guides"
+cover: ""
 mirror_state: none
 tags:
   []

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/manifesto-fast-food-worker-socialist-alternative-us"
+cover: "https://files.libcom.org/files/images/history/d931899c2294a0210bf257d2a2570db6--life-advice-black-books.jpg"
 mirror_state: none
 tags:
   - "workplace activity"

@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/hunting-specters-political-history-purges-communist-party-philippines"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/history/1_pYfw7dqgW58kVj6MlEi-GA.jpeg"
+mirror_state: full
 tags:
   - "killings"
   - "Maoism"
@@ -15,16 +16,16 @@ tags:
 files:
   - name: "4_Hunting_Specters_-_Paranoid_Purges_in.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/4_Hunting_Specters_-_Paranoid_Purges_in.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/4_Hunting_Specters_-_Paranoid_Purges_in.pdf"
+    hosted: true
   - name: "Hunting_Specters.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Hunting_Specters.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Hunting_Specters.pdf"
+    hosted: true
   - name: "alex-de-jong-hunting-specters-1.epub"
     type: "EPUB"
-    url: "https://files.libcom.org/files/alex-de-jong-hunting-specters-1.epub"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/alex-de-jong-hunting-specters-1.epub"
+    hosted: true
 ---
 
 # Hunting Specters: A Political History of the Purges in the Communist Party of the Philippines
@@ -33,8 +34,8 @@ files:
 A historical study of the violent purges committed by the Communist Party of the Philippines and their armed component the New People's Army.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/4_Hunting_Specters_-_Paranoid_Purges_in.pdf)
-- [PDF](https://files.libcom.org/files/Hunting_Specters.pdf)
-- [EPUB](https://files.libcom.org/files/alex-de-jong-hunting-specters-1.epub)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/4_Hunting_Specters_-_Paranoid_Purges_in.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Hunting_Specters.pdf) (self-hosted)
+- [EPUB](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/alex-de-jong-hunting-specters-1.epub) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/hunting-specters-political-history-purges-communist-party-philippines)

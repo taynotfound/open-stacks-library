@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/fascists-and-police-routed-battle-cable-street-reg-weston"
+cover: "https://files.libcom.org/files/images/history/Cable-St-Cover.jpg"
 mirror_state: full
 tags:
   - "fascism"

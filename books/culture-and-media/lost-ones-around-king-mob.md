@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/lost-ones-around-king-mob"
+cover: ""
 mirror_state: none
 tags:
   - "David Wise"

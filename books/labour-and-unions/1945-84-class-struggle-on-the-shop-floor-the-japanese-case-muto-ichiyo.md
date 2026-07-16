@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1945-84-class-struggle-shop-floor-japanese-case-muto-ichiyo"
+cover: ""
 mirror_state: full
 tags:
   - "workplace activity"

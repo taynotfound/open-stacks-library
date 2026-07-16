@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/notes-class-struggle-small-group-workplace-organising"
+cover: "https://files.libcom.org/files/images/library/office.jpg"
 mirror_state: full
 tags:
   - "workplace activity"

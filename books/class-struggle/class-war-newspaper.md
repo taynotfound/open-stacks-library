@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/class-war-newspaper"
+cover: "https://files.libcom.org/files/images/library/war_1_0.jpg"
 mirror_state: none
 tags:
   - "Class War Federation"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-glasgow"
+cover: ""
 mirror_state: none
 tags:
   - "Solidarity"

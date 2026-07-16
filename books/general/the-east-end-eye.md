@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/east-end-eye"
+cover: "https://files.libcom.org/files/images/library/East.png"
 mirror_state: none
 tags:
   - "Scotland"

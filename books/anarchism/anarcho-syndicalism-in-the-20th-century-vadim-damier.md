@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier"
+cover: "https://files.libcom.org/files/images/library/ak2%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "libertarian communism"

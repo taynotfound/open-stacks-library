@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/library/south-aftrican-automobile-assembly"
+cover: ""
 mirror_state: none
 tags:
   - "manufacturing and materials"

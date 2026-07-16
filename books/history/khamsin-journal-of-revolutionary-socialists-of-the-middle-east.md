@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/khamsin-journal-revolutionary-socialists-middle-east"
+cover: "https://files.libcom.org/files/images/library/IMG_20130716_142426.jpg"
 mirror_state: none
 tags:
   - "Khamsin"

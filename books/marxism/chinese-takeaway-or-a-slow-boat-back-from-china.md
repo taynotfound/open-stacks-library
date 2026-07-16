@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/chinese-takeaway-or-slow-boat-back-china"
+cover: "https://files.libcom.org/files/2025-01/maoists.jpg"
 mirror_state: none
 tags:
   - "David Wise"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/stormy-petrel-journal"
+cover: "https://files.libcom.org/files/2025-05/spmast.png"
 mirror_state: none
 tags:
   - "Anarchist Communist Group (ACG)"

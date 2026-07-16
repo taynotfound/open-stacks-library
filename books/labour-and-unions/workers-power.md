@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-power"
+cover: "https://files.libcom.org/files/images/library/Untitled_0.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

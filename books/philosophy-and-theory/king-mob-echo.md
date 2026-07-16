@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/king-mob-echo"
+cover: "https://files.libcom.org/files/2023-03/kingmobcov.png"
 mirror_state: none
 tags:
   - "King Mob"

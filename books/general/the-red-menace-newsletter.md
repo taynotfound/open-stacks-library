@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/red-menace-newsletter"
+cover: "https://files.libcom.org/files/images/library/RM5-Golly.jpg"
 mirror_state: none
 tags:
   - "Canada"

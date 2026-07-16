@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/library/hurricane-katrina-indymedia-accounts-2005"
+cover: ""
 mirror_state: none
 tags:
   - "community activity"

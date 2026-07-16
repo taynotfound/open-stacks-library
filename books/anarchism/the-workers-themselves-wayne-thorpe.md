@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/workers-themselves-wayne-thorpe"
+cover: "https://files.libcom.org/files/books/Cover.jpg"
 mirror_state: partial
 tags:
   - "International Working Men's Association (IWMA)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/black-star-anarchist-review"
+cover: "https://files.libcom.org/files/images/library/black-star.png"
 mirror_state: none
 tags:
   - "Social Revolutionary Anarchist Federation"

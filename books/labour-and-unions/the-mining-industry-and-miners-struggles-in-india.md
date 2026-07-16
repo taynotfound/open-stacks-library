@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/mining-industry-and-miners-struggles-india"
+cover: "https://files.libcom.org/files/images/library/miner.jpg"
 mirror_state: none
 tags:
   - "Gurgaon Workers News"

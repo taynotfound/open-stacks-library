@@ -4,6 +4,7 @@ author: "Inside Story"
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wildcat-london-1970s"
+cover: "https://files.libcom.org/files/images/library/30504120428.jpeg"
 mirror_state: none
 tags:
   - "Nicolas Walter"

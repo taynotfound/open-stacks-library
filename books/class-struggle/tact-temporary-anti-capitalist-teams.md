@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/tact-temporary-anti-capitalist-teams"
+cover: "https://files.libcom.org/files/images/library/tactheader1.jpg"
 mirror_state: none
 tags:
   - "groups"

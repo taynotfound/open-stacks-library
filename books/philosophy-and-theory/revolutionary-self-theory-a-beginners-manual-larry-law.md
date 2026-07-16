@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/revolutionary-self-theory-beginners-manual-larry-law"
+cover: "https://files.libcom.org/files/images/library/revolution01.jpg"
 mirror_state: full
 tags:
   - "situationist"

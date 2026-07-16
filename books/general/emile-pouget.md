@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/khhbaty-rasthwkhoe-emile-pouget"
+cover: "https://files.libcom.org/files/images/library/%20%D8%B3%D9%87%E2%80%8C%D8%B1%D8%A8%D9%87%E2%80%8C%D8%AE%DB%86.jpg"
 mirror_state: full
 tags:
   - "کوردی"

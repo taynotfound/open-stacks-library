@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/revolution-defeat-and-theoretical-underdevelopment-loren-goldner-2016"
-mirror_state: none
+cover: ""
+mirror_state: full
 tags:
   - "Loren Goldner"
   - "Vladimir Lenin"
@@ -15,8 +16,8 @@ tags:
 files:
   - name: "Goldner, Loren - Revolution, Defeat and Theoretical Underdevelopment (2016).pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Goldner, Loren - Revolution, Defeat and Theoretical Underdevelopment (2016).pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Goldner__Loren_-_Revolution__Defeat_and_Theoretical_Underdevelopment__2016_.pdf"
+    hosted: true
 ---
 
 # Revolution, defeat and theoretical underdevelopment - Loren Goldner (2016)
@@ -25,6 +26,6 @@ files:
 Essays written over 2010–14, collected here, deal with the legacy bequeathed to the contemporary revolutionary left by four key historical experiences: the Russian Revolution, the Comintern’s first experiment in ‘anti-imperialism’ in the early years of the Turkish Communist Party (1917–25), the failings of anarchism in the Spanish Revolution/Civil War (1936–9) and the failure of the Trotskyist Fourth International in the run-up to the Bolivian Revolution (1952) and beyond. In short, they probe the theoretical and practical legacies bequeathed to us as Leninism, anti-imperialism, anarchism and 
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Goldner, Loren - Revolution, Defeat and Theoretical Underdevelopment (2016).pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Goldner__Loren_-_Revolution__Defeat_and_Theoretical_Underdevelopment__2016_.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/revolution-defeat-and-theoretical-underdevelopment-loren-goldner-2016)

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/russian-labour-and-bolshevik-power-after-october-william-rosenberg"
+cover: "https://files.libcom.org/files/images/library/putilov-workers%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Russia"

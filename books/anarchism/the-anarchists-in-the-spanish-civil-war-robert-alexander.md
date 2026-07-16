@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-spanish-civil-war-robert-alexander"
+cover: "https://files.libcom.org/files/images/history/CNT-1936.jpg"
 mirror_state: none
 tags:
   - "anarchism"

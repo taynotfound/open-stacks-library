@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/platformo-de-organizo-de-la-enerala-unui-o-de-anarkiisto"
+cover: ""
 mirror_state: none
 tags:
   - "Nestor Makhno"

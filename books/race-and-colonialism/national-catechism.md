@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/library/national-catechism"
+cover: ""
 mirror_state: none
 tags:
   - "Mikhail Bakunin"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/beyond-new-left-part-2-muto-ichiyo-and-inoue-reiko"
+cover: ""
 mirror_state: full
 tags:
   - "Marxism"

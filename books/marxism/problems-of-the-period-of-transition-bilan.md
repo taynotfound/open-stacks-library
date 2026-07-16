@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/problems-period-transition-bilan"
+cover: "https://files.libcom.org/files/images/library/1919%20Death%20to%20capital%2C%20or%20death%20under%20the%20heel%20of%20capitalism.jpg"
 mirror_state: none
 tags:
   - "left communism"

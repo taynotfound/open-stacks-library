@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/essays-marxs-theory-value-isaak-rubin"
+cover: "https://files.libcom.org/files/images/history/cover_0.jpg"
 mirror_state: full
 tags:
   - "Marxism"

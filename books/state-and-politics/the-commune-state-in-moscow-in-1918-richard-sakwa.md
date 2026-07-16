@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/commune-state-moscow-1918-richard-sakwa"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

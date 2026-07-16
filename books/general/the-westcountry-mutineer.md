@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/westcountry-mutineer"
+cover: "https://files.libcom.org/files/images/library/West.png"
 mirror_state: none
 tags:
   - "United Kingdom"

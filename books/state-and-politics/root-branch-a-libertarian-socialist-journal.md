@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/root-branch-libertarian-socialist-journal"
+cover: "https://files.libcom.org/files/images/library/CDAABCF1-044D-4427-9845-295A7FE43766.jpeg"
 mirror_state: none
 tags:
   - "Root & Branch"

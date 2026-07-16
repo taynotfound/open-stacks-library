@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/undercurrent-journal"
+cover: ""
 mirror_state: none
 tags:
   - "Undercurrent"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/new-trends"
+cover: "https://files.libcom.org/files/images/library/New%20Trends%20header.jpg"
 mirror_state: none
 tags:
   - "anarchism"

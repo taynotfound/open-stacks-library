@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/library/scenes-from-uprising-palestine-chomsky"
+cover: ""
 mirror_state: none
 tags:
   - "Noam Chomsky"

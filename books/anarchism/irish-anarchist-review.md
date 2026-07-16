@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/irish-anarchist-review"
+cover: "https://files.libcom.org/files/images/library/IAR%20header.png"
 mirror_state: none
 tags:
   - "Workers Solidarity Movement"

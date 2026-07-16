@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/mutiny-raf-air-force-strikes-1946-david-duncan"
+cover: "https://files.libcom.org/files/duncancover.JPG"
 mirror_state: none
 tags:
   - "1940s"

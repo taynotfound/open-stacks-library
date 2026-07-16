@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-solidarity-newspaper"
+cover: "https://files.libcom.org/files/images/library/Industrial%20Solidarity%20%28April%207%2C%201923%29.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

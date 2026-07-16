@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fire-prisons"
+cover: "https://files.libcom.org/files/2025-07/Screenshot%202025-07-10%20215844.png"
 mirror_state: none
 tags:
   - "Fire to the Prisons (publication)"

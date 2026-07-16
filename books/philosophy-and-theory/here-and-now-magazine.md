@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/here-and-now-magazine"
+cover: "https://files.libcom.org/files/images/library/here-now-14.jpg"
 mirror_state: none
 tags:
   - "Here and Now"

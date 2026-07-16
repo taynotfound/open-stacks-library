@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/mao-tse-tung-and-chinese-revolution"
+cover: "https://files.libcom.org/files/images/history/mao.jpg"
 mirror_state: full
 tags:
   - "Marxism"

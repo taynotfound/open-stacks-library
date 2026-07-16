@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/electoralism-or-class-struggle-phil-dickens"
+cover: "https://files.libcom.org/files/images/blog/1_parliament_explosion.jpg"
 mirror_state: none
 tags:
   - "direct action"

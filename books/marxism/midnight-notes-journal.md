@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/midnight-notes-journal"
+cover: "https://files.libcom.org/files/2022-04/midnight-notes-cover-cropped.png"
 mirror_state: none
 tags:
   - "Midnight Notes Collective"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/library/early-spring-badger"
+cover: ""
 mirror_state: full
 tags:
   - "United States"

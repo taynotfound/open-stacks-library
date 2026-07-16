@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/irrational-politics-maurice-brinton"
+cover: "https://files.libcom.org/files/images/library/XA_REICH.JPG"
 mirror_state: full
 tags:
   - "Maurice Brinton"

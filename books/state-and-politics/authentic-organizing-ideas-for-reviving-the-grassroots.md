@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/authentic-organizing-ideas-reviving-grassroots"
+cover: ""
 mirror_state: none
 tags:
   - "organisation"

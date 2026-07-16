@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/re-collecting-our-past-la-banquise"
+cover: "https://files.libcom.org/files/images/library/Barricades_Paris-1848.jpg"
 mirror_state: full
 tags:
   - "La Banquise"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/revolutionary-spain-karl-marx"
+cover: "https://files.libcom.org/files/images/library/spain%201868.jpg"
 mirror_state: none
 tags:
   - "Karl Marx"

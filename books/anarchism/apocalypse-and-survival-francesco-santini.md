@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/apocalypse-and-survival-francesco-santini"
+cover: "https://files.libcom.org/files/images/library/Santini%202%20image.jpg"
 mirror_state: full
 tags:
   - "Francesco Santini"

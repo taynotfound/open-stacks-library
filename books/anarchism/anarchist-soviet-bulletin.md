@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-soviet-bulletin"
+cover: "https://files.libcom.org/files/images/library/Anarchist%20Soviet%20Bulletin%20v1.01.jpg"
 mirror_state: none
 tags:
   - "anarchism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/factory-society-relationship-historical-category-sergio-bologna"
+cover: "https://files.libcom.org/files/images/library/r_lavoro_anni_60_fabbrica_Ankerfarm_cinisello.jpg"
 mirror_state: none
 tags:
   - "Sergio Bologna"

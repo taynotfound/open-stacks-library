@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/economic-crisis-and-crisis-theory"
+cover: "https://files.libcom.org/files/images/library/economic_crisis_theory.jpg"
 mirror_state: full
 tags:
   - "Marxism"

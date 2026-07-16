@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/trumpism-alexander-reid-ross"
+cover: "https://files.libcom.org/files/images/library/DonaldTrumpOfficiallyAnnouncingForPresidenttrum-980x600.jpg"
 mirror_state: none
 tags:
   - "fascism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/almost-half-century-after-military-coup-we-can-neither-forget-nor-forgive-chile"
+cover: "https://files.libcom.org/files/images/news/Obreros-Unidad-Popular-1024x630.jpg"
 mirror_state: none
 tags:
   - "Chile"

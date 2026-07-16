@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/towards-fresh-revolution-friends-durruti"
+cover: "https://files.libcom.org/files/durruti_funeral%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "Spain"

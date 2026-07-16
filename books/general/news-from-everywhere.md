@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/news-everywhere"
+cover: "https://files.libcom.org/files/images/library/everywhere1.png"
 mirror_state: none
 tags:
   - "United Kingdom"

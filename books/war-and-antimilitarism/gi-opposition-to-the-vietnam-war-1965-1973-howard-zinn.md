@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/gi-opposition-vietnam-war-1965-1973-howard-zinn"
+cover: "https://files.libcom.org/files/vietnam-gi.jpg"
 mirror_state: none
 tags:
   - "war"

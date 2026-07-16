@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/socialist-labor-party-1876-1991-short-history-frank-girard-and-ben-perry"
+cover: "https://files.libcom.org/files/images/library/slpus-girard-perry-1991-cover.jpg"
 mirror_state: full
 tags:
   - "organisation"

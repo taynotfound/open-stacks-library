@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fighting-ourselves-anarcho-syndicalism-and-class-struggle-solidarity-federation"
+cover: "https://files.libcom.org/files/images/library/Screenshot%20%2835%29.png"
 mirror_state: full
 tags:
   - "Solidarity Federation"

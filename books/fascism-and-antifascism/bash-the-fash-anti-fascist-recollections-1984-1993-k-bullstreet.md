@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/bash-fash-anti-fascist-recollections-1984-1993-k-bullstreet"
+cover: "https://files.libcom.org/files/hammer-Swastika.png"
 mirror_state: full
 tags:
   - "fascism"

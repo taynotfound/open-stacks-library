@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/newham-monitoring-project-annual-reports"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/NMP_0.jpg"
+mirror_state: full
 tags:
   - "Newham"
   - "1970s-80s Asians fight racism"
@@ -13,80 +14,80 @@ tags:
 files:
   - name: "Annual Report 1983 January .pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1983 January .pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1983_January_.pdf"
+    hosted: true
   - name: "Annual Report 1983.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1983.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1983.pdf"
+    hosted: true
   - name: "Annual Report - 1984.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2024-03/Annual Report - 1984.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_-_1984.pdf"
+    hosted: true
   - name: "Annual Report 1985_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1985_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1985_0.pdf"
+    hosted: true
   - name: "Annual Report 1986 (interim) .pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1986 (interim) .pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1986__interim__.pdf"
+    hosted: true
   - name: "Annual Report 1987.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1987.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1987.pdf"
+    hosted: true
   - name: "Annual Report 1988_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1988_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1988_0.pdf"
+    hosted: true
   - name: "Annual Report 1989_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1989_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1989_0.pdf"
+    hosted: true
   - name: "Annual Report 1990_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1990_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1990_0.pdf"
+    hosted: true
   - name: "Annual Report 1991 - 1992.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2024-03/Annual Report 1991 - 1992.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1991_-_1992.pdf"
+    hosted: true
   - name: "Annual Report 1992 - 1993_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1992 - 1993_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1992_-_1993_0.pdf"
+    hosted: true
   - name: "Annual Report 1993 - 1994_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1993 - 1994_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1993_-_1994_0.pdf"
+    hosted: true
   - name: "Annual Report 1994 - 1995_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1994 - 1995_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1994_-_1995_0.pdf"
+    hosted: true
   - name: "Annual Report 1997.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1997.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1997.pdf"
+    hosted: true
   - name: "Annual Report 1998_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1998_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1998_0.pdf"
+    hosted: true
   - name: "Annual Report 1999 - 2000_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 1999 - 2000_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1999_-_2000_0.pdf"
+    hosted: true
   - name: "Annual Report 2000 - 2001_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 2000 - 2001_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_2000_-_2001_0.pdf"
+    hosted: true
   - name: "Annual Report 2003 - 2004_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 2003 - 2004_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_2003_-_2004_0.pdf"
+    hosted: true
   - name: "Annual Report 2004 - 2005_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Annual Report 2004 - 2005_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_2004_-_2005_0.pdf"
+    hosted: true
 ---
 
 # Newham Monitoring Project annual reports
@@ -95,24 +96,24 @@ files:
 Annual reports of the Newham Monitoring Project, an anti-racist and police monitoring group that emerged from black and Asian struggles in the 1970s and 1980s. The reports cover a 22-year period from 1983 to 2005.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Annual Report 1983 January .pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1983.pdf)
-- [PDF](https://files.libcom.org/files/2024-03/Annual Report - 1984.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1985_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1986 (interim) .pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1987.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1988_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1989_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1990_0.pdf)
-- [PDF](https://files.libcom.org/files/2024-03/Annual Report 1991 - 1992.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1992 - 1993_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1993 - 1994_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1994 - 1995_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1997.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1998_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 1999 - 2000_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 2000 - 2001_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 2003 - 2004_0.pdf)
-- [PDF](https://files.libcom.org/files/Annual Report 2004 - 2005_0.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1983_January_.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1983.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_-_1984.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1985_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1986__interim__.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1987.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1988_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1989_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1990_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1991_-_1992.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1992_-_1993_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1993_-_1994_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1994_-_1995_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1997.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1998_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_1999_-_2000_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_2000_-_2001_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_2003_-_2004_0.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Annual_Report_2004_-_2005_0.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/newham-monitoring-project-annual-reports)

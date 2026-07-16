@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/library/relations-revolutionary-toward-his-comrades"
+cover: ""
 mirror_state: none
 tags:
   []

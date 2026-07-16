@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/karl-marx-and-paris-commune-clr-james"
+cover: "https://files.libcom.org/files/images/history/Paris%20Commune.jpg"
 mirror_state: full
 tags:
   - "CLR James"

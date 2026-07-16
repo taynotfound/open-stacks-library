@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/may-1968-documents-situationist-international"
+cover: "https://files.libcom.org/files/images/history/situationism-ideas-in-conflict-situationism-ideas-in-conflict.jpg"
 mirror_state: none
 tags:
   - "Situationist International"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/cienfuegos-press-anarchist-review"
+cover: "https://files.libcom.org/files/images/library/Cienfuegos.jpg"
 mirror_state: none
 tags:
   - "Cienfuegos Press"

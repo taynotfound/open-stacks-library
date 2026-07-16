@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/resignation-letter-1973-john-crump"
+cover: ""
 mirror_state: full
 tags:
   - "organisation"

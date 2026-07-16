@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/soul-man-under-socialism-oscar-wilde"
+cover: "https://files.libcom.org/files/images/library/Oscar.jpg"
 mirror_state: full
 tags:
   - "Oscar Wilde"

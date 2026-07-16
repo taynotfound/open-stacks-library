@@ -4,6 +4,7 @@ author: "Not Bored!"
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/veritable-report-last-chance-save-capitalism-italy-censor"
+cover: "https://files.libcom.org/files/images/library/fontana.jpg"
 mirror_state: full
 tags:
   - "terrorism"

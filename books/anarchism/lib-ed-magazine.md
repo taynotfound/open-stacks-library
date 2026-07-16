@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/lib-ed-magazine"
+cover: ""
 mirror_state: none
 tags:
   - "anarchism"

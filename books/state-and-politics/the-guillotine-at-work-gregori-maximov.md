@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/guillotine-work-gregori-maximov"
+cover: "https://files.libcom.org/files/images/history/guillotine.jpg"
 mirror_state: none
 tags:
   - "Gregori Maximov"

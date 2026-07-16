@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/portugal-impossible-revolution-phil-mailer"
+cover: "https://files.libcom.org/files/images/history/portugal.jpg"
 mirror_state: full
 tags:
   - "fascism"

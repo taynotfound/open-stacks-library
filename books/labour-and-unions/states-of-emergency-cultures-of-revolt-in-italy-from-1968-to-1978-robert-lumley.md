@@ -4,6 +4,7 @@ author: "Luxury Communism"
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/states-emergency-cultures-revolt-italy-1968-1978-robert-lumley"
+cover: "https://files.libcom.org/files/images/history/Milan%201968.jpg"
 mirror_state: full
 tags:
   - "Robert Lumley"

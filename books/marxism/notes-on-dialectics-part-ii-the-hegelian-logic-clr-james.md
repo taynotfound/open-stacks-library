@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/notes-dialectics-part-ii-hegelian-logic-clr-james"
+cover: ""
 mirror_state: none
 tags:
   - "CLR James"

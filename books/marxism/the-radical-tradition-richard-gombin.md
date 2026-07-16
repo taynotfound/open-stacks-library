@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/radical-tradition-richard-gombin"
+cover: "https://files.libcom.org/files/2022-11/gombin-trad.png"
 mirror_state: none
 tags:
   - "Richard Gombin"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/worker-unrest-and-bolsheviks-response-1919-vladimir-brovkin"
+cover: "https://files.libcom.org/files/images/library/kronshtat.jpg"
 mirror_state: none
 tags:
   - "Russia"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/you-cant-blow-social-relationship-anarchist-case-against-terrorism"
+cover: "https://files.libcom.org/files/images/library/towers.jpg"
 mirror_state: full
 tags:
   - "violence"

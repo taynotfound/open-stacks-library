@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/ubu-saved-drowning-worker-insurgency-and-statist-containment-portugal-and-spain-1974-1977"
+cover: "https://files.libcom.org/files/images/history/20070326elpepuint_14%5B1%5D.jpeg"
 mirror_state: full
 tags:
   - "fascism"

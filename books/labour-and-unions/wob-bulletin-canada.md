@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wob-bulletin-canada"
+cover: "https://files.libcom.org/files/images/library/Wob%20bulletin%20front.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

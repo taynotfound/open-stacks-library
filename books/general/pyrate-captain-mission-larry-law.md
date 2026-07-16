@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/pyrate-captain-mission-larry-law"
+cover: "https://files.libcom.org/files/images/library/pyrate01.jpg"
 mirror_state: full
 tags:
   - "fiction"

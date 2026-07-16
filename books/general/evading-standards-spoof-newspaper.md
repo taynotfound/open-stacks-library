@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/evading-standards-spoof-newspaper"
+cover: "https://files.libcom.org/files/2022-10/evading-masthead.png"
 mirror_state: none
 tags:
   - "spoofs"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/kronstadt-1921-analysis-bolshevik-propaganda-david-schaich"
+cover: "https://files.libcom.org/files/images/library/kozlovsky_an%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "Kronstadt"

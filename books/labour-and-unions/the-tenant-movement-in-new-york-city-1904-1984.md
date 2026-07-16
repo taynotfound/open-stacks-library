@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/tenant-movement-new-york-city-1904-1984"
+cover: "https://files.libcom.org/files/images/history/frntcvr.jpg"
 mirror_state: none
 tags:
   - "United States"

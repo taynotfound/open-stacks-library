@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/obsolescence-man-vol-i-part-2-world-phantom-and-matrix-philosophical-considerations-radio"
+cover: "https://files.libcom.org/files/images/library/Anders.jpg"
 mirror_state: none
 tags:
   - "United States"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/blast-newspaper-1990s"
+cover: ""
 mirror_state: none
 tags:
   - "Agitator Index Collective"

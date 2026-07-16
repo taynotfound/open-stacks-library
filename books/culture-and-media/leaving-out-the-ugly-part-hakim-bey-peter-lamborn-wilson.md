@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/leaving-out-ugly-part-hakim-beypeter-lamborn-wilson"
+cover: "https://files.libcom.org/files/images/library/bey_small%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Best of the worst"

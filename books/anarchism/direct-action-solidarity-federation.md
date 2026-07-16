@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-solidarity-federation"
+cover: "https://files.libcom.org/files/2024-10/direct%20action%20cover%20-%20Copy.png"
 mirror_state: none
 tags:
   - "Solidarity Federation"

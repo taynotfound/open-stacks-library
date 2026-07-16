@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/zerowork-journal"
+cover: "https://files.libcom.org/files/2024-12/zeroworkcovers-x2.png"
 mirror_state: none
 tags:
   - "Zerowork"

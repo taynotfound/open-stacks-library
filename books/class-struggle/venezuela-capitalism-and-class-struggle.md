@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/venezuela-capitalism-and-class-struggle"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/vnzueli_1.jpeg"
+mirror_state: full
 tags:
   - "Venezuela"
   - "Proletarios Internacionalistas"
@@ -14,8 +15,8 @@ tags:
 files:
   - name: "Venezuela - Capitalism and Class Struggle.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Venezuela - Capitalism and Class Struggle.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Venezuela_-_Capitalism_and_Class_Struggle.pdf"
+    hosted: true
 ---
 
 # Venezuela: Capitalism and Class Struggle
@@ -24,6 +25,6 @@ files:
 Source in Spanish: https://materialesxlaemancipacion.espivblogs.net/2017/04/22/venezuela-capitalismo-y-lucha-de-clases/
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Venezuela - Capitalism and Class Struggle.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Venezuela_-_Capitalism_and_Class_Struggle.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/venezuela-capitalism-and-class-struggle)

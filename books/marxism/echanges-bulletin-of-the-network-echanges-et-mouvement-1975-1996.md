@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/echanges-bulletin-network-echanges-et-mouvement-1975-1996"
+cover: "https://files.libcom.org/files/images/library/echanges_0.png"
 mirror_state: none
 tags:
   - "Echanges et Mouvement"

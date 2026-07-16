@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/revolt-0"
+cover: "https://files.libcom.org/files/2022-10/Revolt%21%20No.%201.%20%281939-02-11%29.jpg"
 mirror_state: none
 tags:
   - "Freedom Press"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/paris-may-1968-maurice-brintons-diary"
+cover: "https://files.libcom.org/files/2022-05/258005.jpg"
 mirror_state: full
 tags:
   - "Maurice Brinton"

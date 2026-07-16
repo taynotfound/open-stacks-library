@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/layers-injustice-re-examining-lucasville"
+cover: "https://files.libcom.org/files/images/history/Lucasville%20release.jpg"
 mirror_state: none
 tags:
   - "United States"

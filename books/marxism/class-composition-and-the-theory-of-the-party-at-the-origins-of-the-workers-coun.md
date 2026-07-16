@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-composition-and-theory-party-origins-workers-council-movement"
+cover: "https://files.libcom.org/files/images/library/arbeiterstreiks1801.jpg"
 mirror_state: full
 tags:
   - "Sergio Bologna"

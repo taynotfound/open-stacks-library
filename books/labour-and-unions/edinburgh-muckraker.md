@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/edinburgh-muckraker"
+cover: "https://files.libcom.org/files/images/library/Edinburgh.png"
 mirror_state: none
 tags:
   - "strikes"

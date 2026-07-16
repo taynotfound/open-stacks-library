@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/yakov-sverdlov-klavdiya-sverdlova"
+cover: "https://files.libcom.org/files/images/library/1918.jpg"
 mirror_state: none
 tags:
   - "biographies"

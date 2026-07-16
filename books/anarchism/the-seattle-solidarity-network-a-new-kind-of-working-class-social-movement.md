@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/seattle-solidarity-network-new-kind-working-class-social-movement"
+cover: "https://files.libcom.org/files/images/library/RsRjD.jpg"
 mirror_state: full
 tags:
   - "anarcho-syndicalism"

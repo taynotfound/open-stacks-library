@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/change-world-without-taking-power-john-holloway"
+cover: "https://files.libcom.org/files/2023-08/51VcjD%2ByiFL._AC_UF894%2C1000_QL80_.jpg"
 mirror_state: full
 tags:
   - "John Holloway"

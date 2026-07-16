@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/kala-tara-paper-asian-youth-movement-bradford"
+cover: "https://files.libcom.org/files/images/library/kala-tara_0.png"
 mirror_state: none
 tags:
   - "fascism"

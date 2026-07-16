@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/marxism-freedom-and-state-mikhail-bakunin"
+cover: "https://files.libcom.org/files/images/library/616779_507020079324280_1568464464_o_0.jpg"
 mirror_state: none
 tags:
   - "International Working Men's Association (IWMA)"

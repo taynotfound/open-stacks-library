@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/tea-break-bulletin"
+cover: "https://files.libcom.org/files/images/library/T-break.png"
 mirror_state: none
 tags:
   - "libcom.org"

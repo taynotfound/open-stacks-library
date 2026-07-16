@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchy-journal-anarchist-ideas"
+cover: "https://files.libcom.org/files/images/library/anarchy-4.jpg"
 mirror_state: none
 tags:
   - "Freedom Press"

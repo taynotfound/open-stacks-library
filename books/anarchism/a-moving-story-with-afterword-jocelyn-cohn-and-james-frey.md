@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/moving-story-afterword-jocelyn-cohn-and-james-frey"
+cover: "https://files.libcom.org/files/images/library/photo%20%2820%29_0.JPG"
 mirror_state: full
 tags:
   - "workplace activity"

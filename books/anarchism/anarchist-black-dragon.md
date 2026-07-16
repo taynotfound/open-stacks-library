@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-black-dragon-0"
+cover: "https://files.libcom.org/files/images/library/ABD%20header.png"
 mirror_state: none
 tags:
   - "Anarchist Black Dragon"

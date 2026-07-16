@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/outline-marxs-capital-volume-i-raya-dunavevskaya"
+cover: "https://files.libcom.org/files/2022-04/outline.jpg"
 mirror_state: none
 tags:
   - "Raya Dunayevskaya"

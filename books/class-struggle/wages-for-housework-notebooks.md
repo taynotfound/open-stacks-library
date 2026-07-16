@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/wages-housework-notebooks"
+cover: "https://files.libcom.org/files/2024-05/wfhnotesbooks.png"
 mirror_state: none
 tags:
   - "publications"

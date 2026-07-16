@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libertarian-communist-review"
+cover: "https://files.libcom.org/files/images/library/LCR%20header.png"
 mirror_state: none
 tags:
   - "Organisation of Revolutionary Anarchists"

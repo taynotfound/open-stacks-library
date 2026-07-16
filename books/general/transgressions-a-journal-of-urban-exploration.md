@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/transgressions-journal-urban-exploration"
+cover: "https://files.libcom.org/files/2024-03/photo-8.jpg"
 mirror_state: none
 tags:
   - "Fabian Tompsett"

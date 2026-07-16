@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/voice-industry"
+cover: "https://files.libcom.org/files/2023-07/voice%20of%20industry%20cover.png"
 mirror_state: none
 tags:
   - "textiles"

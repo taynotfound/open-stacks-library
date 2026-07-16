@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/alternative"
+cover: "https://files.libcom.org/files/images/library/Alternative%20Vol.%203%2C%20No.%201%20%281%29_1.jpg"
 mirror_state: none
 tags:
   - "anarchism"

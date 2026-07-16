@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/do-or-die-magazine-voices-earth-first"
+cover: "https://files.libcom.org/files/images/library/Screenshot%202021-05-09%20at%2009.57.47.png"
 mirror_state: none
 tags:
   - "United Kingdom"

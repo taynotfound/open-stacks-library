@@ -4,6 +4,7 @@ author: "Blackout"
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/nanni-balestrini-1935-2019-if-you-read-you-must-no-longer-fear-anything"
+cover: "https://files.libcom.org/files/images/library/i-figli-dellira-30x40-1968-coll-gallarate-1024x769.jpg"
 mirror_state: none
 tags:
   - "Italy"

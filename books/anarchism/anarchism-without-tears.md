@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchism-without-tears"
+cover: ""
 mirror_state: none
 tags:
   - "anarchism"

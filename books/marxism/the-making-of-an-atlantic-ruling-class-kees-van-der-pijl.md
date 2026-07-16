@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/making-atlantic-ruling-class-kees-van-der-pijl"
+cover: ""
 mirror_state: full
 tags:
   - "Marxism"

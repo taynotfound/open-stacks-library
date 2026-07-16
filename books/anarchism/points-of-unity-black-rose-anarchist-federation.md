@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/points-unity-black-rose-anarchist-federation"
+cover: "https://files.libcom.org/files/images/library/10431230_1526364584272549_1337288361872924058_o.png"
 mirror_state: none
 tags:
   - "anarchism"

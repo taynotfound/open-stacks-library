@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/black-autonomy"
+cover: ""
 mirror_state: none
 tags:
   - "Lorenzo Kom'boa Ervin"

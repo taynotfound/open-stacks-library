@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/marx-beyond-marx-lessons-grundrisse-antonio-negri"
+cover: "https://files.libcom.org/files/2024-06/Marx-Beyond-Marx-Lessons-on-the-Grundrisse-Paperback-9780936756257_83d6abc3-b88f-4e8f-b2a6-40ce73998333.effa4fe15b6ca4eb1a6009269c63d5d3.jpeg"
 mirror_state: full
 tags:
   - "Antonio Negri"

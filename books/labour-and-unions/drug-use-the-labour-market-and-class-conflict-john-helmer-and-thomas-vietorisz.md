@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/drug-use-labour-market-and-class-conflict-john-helmer-and-thomas-vietorisz"
+cover: "https://files.libcom.org/files/images/history/opium.jpg"
 mirror_state: none
 tags:
   - "crime"

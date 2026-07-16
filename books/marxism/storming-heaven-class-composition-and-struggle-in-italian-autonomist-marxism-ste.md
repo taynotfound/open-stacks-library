@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/storming-heaven-class-composition-and-struggle-italian-autonomist-marxism-steve-wright"
+cover: "https://files.libcom.org/files/2023-08/stormingheavenbetter.jpg"
 mirror_state: full
 tags:
   - "Steve Wright"

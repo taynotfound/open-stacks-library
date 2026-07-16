@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/international-socialist-review"
+cover: "https://files.libcom.org/files/images/library/nl010189_c01455b491.jpg"
 mirror_state: none
 tags:
   - "United States"

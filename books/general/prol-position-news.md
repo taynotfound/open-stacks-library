@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/prol-position-news"
-mirror_state: none
+cover: ""
+mirror_state: full
 tags:
   - "Prol-Position"
   - "PDF"
@@ -12,8 +13,8 @@ tags:
 files:
   - name: "pp-intro-flyer.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-11/pp-intro-flyer.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/pp-intro-flyer.pdf"
+    hosted: true
 ---
 
 # prol-position news
@@ -22,6 +23,6 @@ files:
 Online archive of prol-position newsletter, published 2005-2008. "An open project discussing and circulating articles from different regions, translated from different languages, and reporting on different spheres of exploitation and proletarian struggle around the world."
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/2022-11/pp-intro-flyer.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/pp-intro-flyer.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/prol-position-news)

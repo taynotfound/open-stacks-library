@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/library/beyond-fragments-feminism-making-socialism"
+cover: ""
 mirror_state: none
 tags:
   - "organisation"

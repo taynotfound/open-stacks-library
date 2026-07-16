@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/fundamentals-revolutionary-communism-amadeo-bordiga"
+cover: "https://files.libcom.org/files/images/library/communism.jpg"
 mirror_state: none
 tags:
   - "Marxism"

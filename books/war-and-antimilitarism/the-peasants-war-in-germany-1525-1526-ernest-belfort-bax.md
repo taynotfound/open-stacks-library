@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/peasants-war-germany-1525-1526-ernest-belfort-bax"
+cover: "https://files.libcom.org/files/images/library/peasants_0.jpg"
 mirror_state: full
 tags:
   - "uprisings"

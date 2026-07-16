@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/socialism-utopian-and-scientific"
+cover: "https://files.libcom.org/files/images/library/engels.jpg"
 mirror_state: none
 tags:
   - "Marxism"

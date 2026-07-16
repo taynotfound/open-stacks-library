@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/roots-subservience-kan-takayuki"
+cover: "https://files.libcom.org/files/2022-09/140F68B0-558F-44BA-957A-F86998B5E691.jpeg"
 mirror_state: full
 tags:
   - "Kan Takayuki"

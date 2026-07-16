@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/more-one-piece-missing-puzzle-moshe-lewin"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

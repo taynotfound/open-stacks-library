@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-journals-libcom"
+cover: "https://files.libcom.org/files/images/library/sol-all.png"
 mirror_state: none
 tags:
   - "Solidarity"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/flux-magazine-libertarian-socialism"
+cover: "https://files.libcom.org/files/images/library/flux5cov.png"
 mirror_state: none
 tags:
   - "Flux"

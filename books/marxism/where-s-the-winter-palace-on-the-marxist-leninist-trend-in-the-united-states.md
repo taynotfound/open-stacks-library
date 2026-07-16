@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/wheres-winter-palace-marxist-leninist-trend-united-states"
+cover: "https://files.libcom.org/files/images/library/all-russian-congress-of-soviets-vladimir-lenin-britannica.jpg"
 mirror_state: none
 tags:
   - "United States"

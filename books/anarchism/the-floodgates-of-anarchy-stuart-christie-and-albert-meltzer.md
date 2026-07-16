@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/floodgates-anarchy-stuart-christie-and-albert-meltzer"
+cover: "https://files.libcom.org/files/images/library/floodgates.jpg"
 mirror_state: none
 tags:
   - "anarchism"

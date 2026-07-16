@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/study-guide-capital-harry-cleaver"
+cover: "https://files.libcom.org/files/images/library/study.jpg"
 mirror_state: none
 tags:
   - "Karl Marx"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/hotlines-call-centre-inquiry-communism"
+cover: "https://files.libcom.org/files/images/library/hotlines.jpg"
 mirror_state: none
 tags:
   - "workplace activity"

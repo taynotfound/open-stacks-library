@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-theory-practice-daniel-guerin"
+cover: "https://files.libcom.org/files/libertat%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "anarchism"

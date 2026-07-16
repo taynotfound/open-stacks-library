@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/library/third-international-congress-report-ruhle"
+cover: ""
 mirror_state: none
 tags:
   - "Otto Rühle"

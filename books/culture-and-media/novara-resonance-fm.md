@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/novara-resonance-fm"
+cover: "https://files.libcom.org/files/images/library/30bfbea4808585d60b9231291c7e65fe%5B1%5D.png"
 mirror_state: none
 tags:
   - "audio"

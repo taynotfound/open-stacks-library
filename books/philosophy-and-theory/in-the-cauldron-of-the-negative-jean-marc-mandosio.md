@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/cauldron-negative-jean-marc-mandosio"
+cover: "https://files.libcom.org/files/images/library/1d5e2dab9d11488aa0df9161368a8a2c.jpg"
 mirror_state: full
 tags:
   - "Raoul Vaneigem"

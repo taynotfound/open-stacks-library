@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/1900-1990-co-operative-movement-quebec-larry-gambone"
+cover: ""
 mirror_state: none
 tags:
   - "Quebec"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1912-miners-next-step"
+cover: "https://files.libcom.org/files/images/history/2005a_sleekburn%20sinkers%201912.jpg"
 mirror_state: none
 tags:
   - "South Wales Miners Federation"

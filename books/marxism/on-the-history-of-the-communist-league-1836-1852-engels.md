@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/history-communist-league"
+cover: ""
 mirror_state: none
 tags:
   - "Friedrich Engels"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/nationalism-and-culture-rudolf-rocker"
+cover: "https://files.libcom.org/files/images/library/28102.jpg"
 mirror_state: full
 tags:
   - "Rudolf Rocker"

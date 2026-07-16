@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/introductions-political-theories-libcomorg"
+cover: "https://files.libcom.org/files/images/library/anarchist-flags.jpg"
 mirror_state: none
 tags:
   - "libertarian communism"

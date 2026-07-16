@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/muntjac-anarchism-decolonised-magazine"
+cover: "https://files.libcom.org/files/2025-05/muntjac-header.png"
 mirror_state: none
 tags:
   - "Muntjac Magazine"

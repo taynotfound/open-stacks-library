@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/interventions-kapd-3rd-congress-communist-international-1921"
+cover: "https://files.libcom.org/files/images/library/trotsky1921-01.jpg"
 mirror_state: none
 tags:
   - "Kommunistische Arbeiter-Partei Deutschlands (KAPD)"

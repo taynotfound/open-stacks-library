@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/women-struggle-journal"
+cover: "https://files.libcom.org/files/2024-05/wis1-2_0.png"
 mirror_state: none
 tags:
   - "publications"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/truth-about-kronstadt"
+cover: "https://files.libcom.org/files/images/library/Kronstadt.Cover%5B1%5D.jpeg"
 mirror_state: none
 tags:
   - "Russia"

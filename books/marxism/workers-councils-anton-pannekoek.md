@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-councils-anton-pannekoek"
+cover: "https://files.libcom.org/files/2023-02/Pannekoek.png"
 mirror_state: full
 tags:
   - "Anton Pannekoek"

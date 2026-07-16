@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1865-2001-cuban-anarchism-history-movement-frank-fernandez"
+cover: "https://files.libcom.org/files/cuban-anarchism.jpg"
 mirror_state: full
 tags:
   - "anarchism"

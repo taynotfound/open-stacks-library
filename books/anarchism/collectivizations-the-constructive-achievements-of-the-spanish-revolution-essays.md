@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/collectivizations-constructive-achievements-spanish-revolution-essays-documents-and-reports"
+cover: "https://files.libcom.org/files/images/history/cnt-collectives-e1310339648200.jpg"
 mirror_state: full
 tags:
   - "libertarian communism"

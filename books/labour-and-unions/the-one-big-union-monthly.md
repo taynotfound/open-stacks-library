@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/one-big-union-monthly"
+cover: "https://files.libcom.org/files/images/library/monthly.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/daggers-drawn-existent-its-defenders-its-false-critics"
+cover: ""
 mirror_state: none
 tags:
   - "Anonymous"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-critique-parecon"
+cover: "https://files.libcom.org/files/images/blog/parecon.jpg"
 mirror_state: full
 tags:
   - "Steven Johns"

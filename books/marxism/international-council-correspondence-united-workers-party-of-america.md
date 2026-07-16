@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/international-council-correspondence-united-workers-party-america"
+cover: "https://files.libcom.org/files/images/library/international-council-correspondence_0.jpg"
 mirror_state: none
 tags:
   - "United Workers Party of America"

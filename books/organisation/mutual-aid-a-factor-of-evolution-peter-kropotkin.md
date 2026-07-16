@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/mutual-aid-factor-evolution-peter-kropotkin"
+cover: "https://files.libcom.org/files/2022-12/animal%20cooperation.jpg"
 mirror_state: full
 tags:
   - "Peter Kropotkin"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/red-attitude"
+cover: "https://files.libcom.org/files/images/library/RA%20header.png"
 mirror_state: none
 tags:
   - "1990s"

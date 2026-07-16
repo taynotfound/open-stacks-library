@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-youth-journal"
+cover: "https://files.libcom.org/files/2024-06/ay-covs.png"
 mirror_state: none
 tags:
   - "Wynford Hicks"

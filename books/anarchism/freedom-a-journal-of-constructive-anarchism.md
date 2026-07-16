@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/freedom-journal-constructive-anarchism"
+cover: ""
 mirror_state: none
 tags:
   - "Harry Kelly"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/history-separation-endnotes-4"
+cover: "https://files.libcom.org/files/images/library/Pictures%20of%20The%20Fall%20of%20the%20Soviet%20Union%2C%201991%20%281%29.jpg"
 mirror_state: none
 tags:
   - "Endnotes"

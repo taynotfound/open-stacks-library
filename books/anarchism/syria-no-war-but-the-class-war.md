@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syria-no-war-class-war"
+cover: "https://files.libcom.org/files/images/news/US-bombs.jpg"
 mirror_state: none
 tags:
   - "United States"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/outline-study-course-marxian-economics-paul-mattick"
+cover: "https://files.libcom.org/files/images/library/OutlineStudyCourseCover.jpg"
 mirror_state: full
 tags:
   - "Karl Marx"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/debate-direct-unionism"
+cover: "https://files.libcom.org/files/images/library/pick.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

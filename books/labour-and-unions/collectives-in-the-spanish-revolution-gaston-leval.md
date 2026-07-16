@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/collectives-spanish-revolution-gaston-leval"
+cover: "https://files.libcom.org/files/collective_bread%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "retail and food"

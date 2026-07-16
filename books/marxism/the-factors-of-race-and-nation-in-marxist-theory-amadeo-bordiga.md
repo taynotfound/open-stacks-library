@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/factors-race-and-nation-marxist-theory-amadeo-bordiga"
+cover: "https://files.libcom.org/files/images/library/091021_top_eden.jpg"
 mirror_state: full
 tags:
   - "nationalism"

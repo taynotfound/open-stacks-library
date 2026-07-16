@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/condition-english-working-class-fredrich-engel"
+cover: "https://files.libcom.org/files/images/library/04-299.gif"
 mirror_state: full
 tags:
   - "Friedrich Engels"

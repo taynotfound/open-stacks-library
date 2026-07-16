@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/workers-solidarity"
+cover: "https://files.libcom.org/files/images/library/Workers%20Solidarity%20No.%203-1-1-001.jpg"
 mirror_state: none
 tags:
   - "anarcho-syndicalism"

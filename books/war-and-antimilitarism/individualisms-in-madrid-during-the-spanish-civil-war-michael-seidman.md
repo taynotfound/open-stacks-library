@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/individualisms-madrid-during-spanish-civil-war-michael-seidman"
+cover: ""
 mirror_state: none
 tags:
   - "Michael Seidman"

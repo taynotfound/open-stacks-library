@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarcho-syndicalism-rudolf-rocker"
+cover: "https://files.libcom.org/files/images/library/rocker%5B1%5D.gif"
 mirror_state: full
 tags:
   - "Rudolf Rocker"

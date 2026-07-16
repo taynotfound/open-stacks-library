@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/shift-magazine"
+cover: "https://files.libcom.org/files/images/library/shift.gif"
 mirror_state: none
 tags:
   - "United Kingdom"

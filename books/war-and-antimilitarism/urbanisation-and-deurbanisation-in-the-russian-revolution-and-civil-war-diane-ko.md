@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/urbanisation-and-deurbanisation-russian-revolution-and-civil-war-diane-koenker"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

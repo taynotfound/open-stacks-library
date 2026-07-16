@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/what-anarchism-alexander-berkman"
+cover: "https://files.libcom.org/files/images/library/Alexander-Berkman.jpg"
 mirror_state: full
 tags:
   - "Alexander Berkman"

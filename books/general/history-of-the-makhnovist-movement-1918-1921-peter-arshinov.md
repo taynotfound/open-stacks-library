@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/history-makhnovist-movement-1918-1921-peter-arshinov"
+cover: "https://files.libcom.org/files/images/history/Makhno.jpg"
 mirror_state: full
 tags:
   - "Peter Arshinov"

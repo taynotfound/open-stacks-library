@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/ceylon-jvp-uprising-april-1971-solidarity"
+cover: "https://files.libcom.org/files/images/history/1971.jpg"
 mirror_state: full
 tags:
   - "Solidarity"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/may-june-1968-situation-lacking-workers-autonomy"
+cover: "https://files.libcom.org/files/images/library/HambourgCrowd.jpg"
 mirror_state: full
 tags:
   - "general strikes"

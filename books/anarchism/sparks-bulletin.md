@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/sparks-bulletin"
+cover: "https://files.libcom.org/files/images/library/Sparks.jpg"
 mirror_state: none
 tags:
   - "Anarcho-Syndicalist Federation"

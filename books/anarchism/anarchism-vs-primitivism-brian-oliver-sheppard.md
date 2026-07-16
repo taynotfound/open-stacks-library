@@ -4,6 +4,7 @@ author: "See Sharp Press"
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-vs-primitivism-brian-oliver-sheppard"
+cover: "https://files.libcom.org/files/images/library/Green.jpg"
 mirror_state: none
 tags:
   - "primitivism"

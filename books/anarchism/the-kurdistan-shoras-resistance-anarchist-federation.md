@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/kurdistan-shoras-resistance-af"
+cover: ""
 mirror_state: none
 tags:
   - "Anarchist Federation"

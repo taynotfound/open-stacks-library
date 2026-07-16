@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/origin-and-ideals-modern-school-francisco-ferrer"
+cover: "https://files.libcom.org/files/images/library/modern_0.jpg"
 mirror_state: none
 tags:
   - "schools"

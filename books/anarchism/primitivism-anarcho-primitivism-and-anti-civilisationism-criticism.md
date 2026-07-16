@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/primitivism-anarcho-primitivism-and-anti-civilisationism-criticism"
+cover: "https://files.libcom.org/files/Green-and-Black-flag.svg.png"
 mirror_state: none
 tags:
   - "Cold War"

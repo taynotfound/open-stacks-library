@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/subversion-journal"
+cover: "https://files.libcom.org/files/2022-04/subversion-cover_0.png"
 mirror_state: none
 tags:
   - "Subversion"

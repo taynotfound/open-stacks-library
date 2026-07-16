@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/5-year-plan-sheffield-iww"
+cover: "https://files.libcom.org/files/images/library/1415235925170.jpg"
 mirror_state: none
 tags:
   - "organisation"

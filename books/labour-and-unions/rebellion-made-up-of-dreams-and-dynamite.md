@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/rebellion-made-dreams-and-dynamite"
+cover: "https://files.libcom.org/files/images/library/Rebellion--MUDD%20v1.07.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

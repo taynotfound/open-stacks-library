@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/meetings-kremlin-moscow-1921-interview-bernhard-reichenbach"
+cover: "https://files.libcom.org/files/images/library/024%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Kommunistische Arbeiter-Partei Deutschlands (KAPD)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/towards-history-workers-resistance-work-michael-seidman"
+cover: "https://files.libcom.org/files/images/history/Seidman%20pamphlet%20cover.jpg"
 mirror_state: full
 tags:
   - "Michael Seidman"

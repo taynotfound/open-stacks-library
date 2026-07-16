@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "economics"
 source: "https://libcom.org/article/politics-not-economics-was-key-vladimir-brovkin"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

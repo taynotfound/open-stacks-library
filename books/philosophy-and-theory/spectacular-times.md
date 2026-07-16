@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/spectacular-times"
+cover: "https://files.libcom.org/files/images/library/media09.jpg"
 mirror_state: none
 tags:
   - "Larry Law"

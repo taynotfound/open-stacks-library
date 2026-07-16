@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/politics-journal"
+cover: "https://files.libcom.org/files/images/library/dwight-macdonald-mccarthy-et-al-pr.jpg"
 mirror_state: none
 tags:
   - "1940s"

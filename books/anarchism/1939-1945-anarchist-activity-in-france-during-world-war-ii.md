@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchist-activity-france-world-war-2"
+cover: ""
 mirror_state: none
 tags:
   - "fascism"

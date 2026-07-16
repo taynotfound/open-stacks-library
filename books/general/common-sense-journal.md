@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/common-sense-journal"
+cover: ""
 mirror_state: none
 tags:
   - "Common Sense"

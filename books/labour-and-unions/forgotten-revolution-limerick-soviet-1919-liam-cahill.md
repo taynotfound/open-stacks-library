@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/forgotten-revolution-limerick-soviet-1919-liam-cahill"
+cover: "https://files.libcom.org/files/images/history/10467227_1.jpg"
 mirror_state: full
 tags:
   - "strikes"

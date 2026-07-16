@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/history-bourses-du-travail-fernand-pelloutier"
+cover: "https://files.libcom.org/files/images/library/Bourses1.jpg"
 mirror_state: none
 tags:
   - "France"

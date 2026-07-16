@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/japanese-labour-movement-towards-total-dissolution"
+cover: ""
 mirror_state: none
 tags:
   - "Japan"

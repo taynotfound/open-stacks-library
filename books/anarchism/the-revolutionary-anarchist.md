@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/revolutionary-anarchist"
+cover: "https://files.libcom.org/files/images/library/The%20Revolutionary%20Anarchist%20%233.png"
 mirror_state: none
 tags:
   - "United States"

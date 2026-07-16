@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/processed-world-magazine"
+cover: "https://files.libcom.org/files/images/library/processed.gif"
 mirror_state: none
 tags:
   - "Processed World"

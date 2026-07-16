@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/whinger-paul-petard"
+cover: "https://files.libcom.org/files/images/library/IMG%20Whinger%20pic.jpg"
 mirror_state: none
 tags:
   - "Paul Petard"

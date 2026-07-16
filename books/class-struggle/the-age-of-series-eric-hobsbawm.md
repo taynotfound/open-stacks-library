@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/age-series-eric-hobsbawm"
+cover: "https://files.libcom.org/files/images/library/Hobsbawm_nombrado_ciudadano_honor_Viena%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "capitalism"

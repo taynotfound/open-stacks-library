@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/sheffield-anarchist"
+cover: "https://files.libcom.org/files/images/library/sheff.jpg"
 mirror_state: none
 tags:
   - "United Kingdom"

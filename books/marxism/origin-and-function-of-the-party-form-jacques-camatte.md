@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/origin-and-function-party-form-jacques-camatte"
+cover: "https://files.libcom.org/files/images/library/camatte0.png"
 mirror_state: full
 tags:
   - "Jacques Camatte"

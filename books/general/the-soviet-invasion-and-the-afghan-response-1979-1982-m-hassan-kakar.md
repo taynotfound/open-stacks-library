@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/soviet-invasion-and-afghan-response-1979-1982-m-hassan-kakar"
+cover: "https://files.libcom.org/files/images/library/article-1333329-0622BF4C000005DC-256_468x286-2.jpg"
 mirror_state: none
 tags:
   - "Afghanistan"

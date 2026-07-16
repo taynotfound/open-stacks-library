@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/commune-paris-peter-kropotkin"
+cover: "https://files.libcom.org/files/images/history/pariscommune.JPG"
 mirror_state: full
 tags:
   - "Peter Kropotkin"

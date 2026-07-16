@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/rebel-roo"
+cover: "https://files.libcom.org/files/images/library/Screenshot%20%2879%29_LI.jpg"
 mirror_state: none
 tags:
   - "United Kingdom"

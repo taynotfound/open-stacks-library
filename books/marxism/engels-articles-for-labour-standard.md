@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/labour-standard-engels"
+cover: ""
 mirror_state: none
 tags:
   - "Marxism"

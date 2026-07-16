@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/bad-autobiography-james-carr"
+cover: "https://files.libcom.org/files/images/library/The%20Autobiography%20of%20James%20Carr.jpg"
 mirror_state: full
 tags:
   - "James Carr"

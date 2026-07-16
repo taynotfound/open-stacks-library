@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/jaime-balius-and-friends-durruti"
+cover: ""
 mirror_state: full
 tags:
   - "war"

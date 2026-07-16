@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/open-vistas-bi-monthly-life-and-letters"
+cover: "https://files.libcom.org/files/images/library/openvistas.png"
 mirror_state: none
 tags:
   - "anarchism"

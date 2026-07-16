@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/revolt"
+cover: "https://files.libcom.org/files/images/library/Revolt%20v1.04.jpg"
 mirror_state: none
 tags:
   - "anarchism"

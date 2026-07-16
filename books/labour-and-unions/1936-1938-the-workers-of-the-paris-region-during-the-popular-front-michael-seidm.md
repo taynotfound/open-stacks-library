@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1936-1938-workers-paris-region-during-popular-front-michael-seidman"
+cover: "https://files.libcom.org/files/images/history/05.28%20Renault%20strike%201936.png"
 mirror_state: full
 tags:
   - "Michael Seidman"

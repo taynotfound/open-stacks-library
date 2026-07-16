@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/ballad-against-work-kamunist-kranti"
+cover: "https://files.libcom.org/files/images/library/LHSImage1%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "Marxism"

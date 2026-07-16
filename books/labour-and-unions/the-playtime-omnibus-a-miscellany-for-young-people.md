@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/playtime-omnibus-miscellany-young-people"
+cover: "https://files.libcom.org/files/images/library/wpom.png"
 mirror_state: full
 tags:
   - "Workers Playtime"

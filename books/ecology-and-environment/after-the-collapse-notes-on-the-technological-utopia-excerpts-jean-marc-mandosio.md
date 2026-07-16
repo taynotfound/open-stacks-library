@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/after-collapse-notes-technological-utopia-excerpts-jean-marc-mandosio"
+cover: "https://files.libcom.org/files/images/library/16_The_Tower.jpg"
 mirror_state: none
 tags:
   - "environment"

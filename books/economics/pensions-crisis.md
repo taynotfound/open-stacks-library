@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "economics"
 source: "https://libcom.org/article/pensions-crisis"
+cover: "https://files.libcom.org/files/money.jpg"
 mirror_state: none
 tags:
   - "claimants and unpaid"

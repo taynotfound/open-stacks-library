@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/woman-rebel"
+cover: "https://files.libcom.org/files/images/library/The%20Woman%20Rebel%20v1.n01.jpg"
 mirror_state: none
 tags:
   - "women"

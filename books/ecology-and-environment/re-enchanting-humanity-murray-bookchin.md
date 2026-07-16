@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/re-enchanting-humanity-murray-bookchin"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/images_6.jpg"
+mirror_state: full
 tags:
   - "Murray Bookchin"
   - "environment"
@@ -13,13 +14,13 @@ tags:
 files:
   - name: "[Murray_Bookchin]_Re-Enchanting_Humanity_1.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/[Murray_Bookchin]_Re-Enchanting_Humanity_1.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/_Murray_Bookchin__Re-Enchanting_Humanity_1.pdf"
+    hosted: true
 ---
 
 # Re-enchanting humanity - Murray Bookchin
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/[Murray_Bookchin]_Re-Enchanting_Humanity_1.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/_Murray_Bookchin__Re-Enchanting_Humanity_1.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/re-enchanting-humanity-murray-bookchin)

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/buenaventura-durruti-peter-e-newell"
+cover: "https://files.libcom.org/files/images/history/Screenshot%20%2869%29.png"
 mirror_state: none
 tags:
   - "Spain"

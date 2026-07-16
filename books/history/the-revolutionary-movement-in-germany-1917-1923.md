@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/library/revolutionary-movement-in-germany-1917-1923"
+cover: ""
 mirror_state: none
 tags:
   - "GCI-ICG"

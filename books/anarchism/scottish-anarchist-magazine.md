@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/scottish-anarchist-magazine"
+cover: ""
 mirror_state: none
 tags:
   - "1990s"

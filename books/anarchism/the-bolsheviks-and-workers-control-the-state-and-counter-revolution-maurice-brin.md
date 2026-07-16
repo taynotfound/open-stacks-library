@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/bolsheviks-and-workers-control-state-and-counter-revolution-maurice-brinton"
+cover: "https://files.libcom.org/files/images/history/trotsky.jpg"
 mirror_state: full
 tags:
   - "Russian Revolution"

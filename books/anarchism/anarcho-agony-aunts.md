@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarcho-agony-aunts"
+cover: "https://files.libcom.org/files/images/library/D9fQ9-PXkAAKaKv%20%281%29.jpg"
 mirror_state: none
 tags:
   - "sex and sexuality"

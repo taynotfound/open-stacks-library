@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/evade-chile-communiques"
+cover: "https://files.libcom.org/files/images/library/Chile%20PSA_a.png"
 mirror_state: none
 tags:
   - "Chile"

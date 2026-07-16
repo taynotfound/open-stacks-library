@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/manifesto-socialist-party-canada-1944"
+cover: "https://files.libcom.org/files/images/library/SP%20manifesto%201944.jpg"
 mirror_state: full
 tags:
   - "libertarian socialism"

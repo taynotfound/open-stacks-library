@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1982-death-neil-roberts-class-war-aotearoa"
+cover: "https://files.libcom.org/files/2022-04/eight_col_neilroberts3.jpg"
 mirror_state: none
 tags:
   - "Class War Aotearoa"

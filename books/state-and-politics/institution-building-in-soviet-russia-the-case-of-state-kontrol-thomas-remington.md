@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/institution-building-soviet-russia-case-state-kontrol-thomas-remington"
+cover: ""
 mirror_state: none
 tags:
   - "state socialism"

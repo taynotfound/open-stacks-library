@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/war-waterfront-tom-bramble"
+cover: "https://files.libcom.org/files/images/library/waterfront.jpg"
 mirror_state: none
 tags:
   - "strikes"

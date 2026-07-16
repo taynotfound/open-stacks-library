@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/trouble-upt-green-eco-mill-bradfords-eco-peterloo-monstrous-bastards"
+cover: "https://files.libcom.org/files/2025-04/healeymills.png"
 mirror_state: none
 tags:
   - "David Wise"

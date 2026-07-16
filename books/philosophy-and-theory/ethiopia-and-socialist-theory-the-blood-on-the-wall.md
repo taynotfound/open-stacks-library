@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/ethiopia-and-socialist-theory-blood-wall"
+cover: "https://files.libcom.org/files/images/library/RedTError_EPRP_0.jpg"
 mirror_state: none
 tags:
   - "Ethiopia"

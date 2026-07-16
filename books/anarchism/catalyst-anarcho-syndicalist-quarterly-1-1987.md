@@ -4,15 +4,16 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/catalyst-anarcho-syndicalist-quarterly-1-1987"
-mirror_state: none
+cover: "https://files.libcom.org/files/2024-02/catalyst%20cover.jpg"
+mirror_state: full
 tags:
   - "Direct Action Movement (DAM)"
   - "PDF"
 files:
   - name: "Catalyst-quarterly-1-1987.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2024-02/Catalyst-quarterly-1-1987.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Catalyst-quarterly-1-1987.pdf"
+    hosted: true
 ---
 
 # Catalyst: Anarcho-Syndicalist Quarterly #1 1987
@@ -21,6 +22,6 @@ files:
 Debut issue of this magazine published by the Direct Action Movement.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/2024-02/Catalyst-quarterly-1-1987.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Catalyst-quarterly-1-1987.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/catalyst-anarcho-syndicalist-quarterly-1-1987)

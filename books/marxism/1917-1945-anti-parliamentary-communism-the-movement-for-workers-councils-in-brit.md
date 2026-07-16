@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/1917-1945-anti-parliamentary-communism-movement-workers-councils-britain-mark-shipway"
+cover: "https://files.libcom.org/files/images/history/Suffragette_Sylvia_Pankhurst_Suffragette_Sylvia_Pankhurst.jpg"
 mirror_state: none
 tags:
   - "libertarian communism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/everyday-manifesto"
+cover: "https://files.libcom.org/files/cup-coffee.JPG"
 mirror_state: none
 tags:
   - "direct action"

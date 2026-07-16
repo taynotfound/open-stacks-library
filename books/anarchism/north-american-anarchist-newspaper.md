@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/north-american-anarchist-newspaper"
+cover: "https://files.libcom.org/files/images/library/NAA.png"
 mirror_state: none
 tags:
   - "Anarchist Communist Federation of North America"

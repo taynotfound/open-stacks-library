@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/revolution-retrieved-writings-marx-keynes-capitalist-crisis-and-new-social-subjects-antonio"
+cover: "https://files.libcom.org/files/2024-05/retrieved.jpg"
 mirror_state: full
 tags:
   - "Antonio Negri"

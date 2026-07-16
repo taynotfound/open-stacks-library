@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/reflections-june-18-1999"
+cover: "https://files.libcom.org/files/images/library/J18evading2.jpg"
 mirror_state: none
 tags:
   - "activism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-and-black-revolution-lorenzo-komboa-ervin"
+cover: "https://files.libcom.org/files/images/library/78153.jpg"
 mirror_state: none
 tags:
   - "Lorenzo Kom'boa Ervin"

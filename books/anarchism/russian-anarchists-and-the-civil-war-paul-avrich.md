@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/russian-anarchists-and-civil-war-paul-avrich"
+cover: "https://files.libcom.org/files/images/history/l%5B1%5D_0.jpg"
 mirror_state: none
 tags:
   - "Nestor Makhno"

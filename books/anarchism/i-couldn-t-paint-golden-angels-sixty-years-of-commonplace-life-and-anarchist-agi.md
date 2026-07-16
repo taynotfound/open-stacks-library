@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/i-couldnt-paint-golden-angels-sixty-years-commonplace-life-and-anarchist-agitation-albert"
+cover: "https://files.libcom.org/files/2022-08/meltzer-angels.jpeg"
 mirror_state: none
 tags:
   - "Albert Meltzer"

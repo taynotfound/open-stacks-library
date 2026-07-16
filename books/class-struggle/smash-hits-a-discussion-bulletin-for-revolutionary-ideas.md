@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/smash-hits-discussion-bulletin-revolutionary-ideas"
+cover: "https://files.libcom.org/files/2024-02/IMG_1815.jpeg"
 mirror_state: none
 tags:
   - "Class War Federation"

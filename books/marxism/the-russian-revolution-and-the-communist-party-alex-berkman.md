@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/russian-revolution-and-communist-party-alex-berkman"
+cover: "https://files.libcom.org/files/images/library/CPC%5B1%5D.JPG"
 mirror_state: none
 tags:
   - "Alexander Berkman"

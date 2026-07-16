@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/revolution-everyday-life-raoul-vaneigem"
+cover: "https://files.libcom.org/files/2024-06/everydaylife.jpg"
 mirror_state: full
 tags:
   - "Raoul Vaneigem"

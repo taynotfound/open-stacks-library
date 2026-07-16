@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/1918-treaty-brest-litovsk-curbing-revolution-guy-sabatier"
+cover: "https://files.libcom.org/files/images/history/Brest%20Litovsk.jpg"
 mirror_state: none
 tags:
   - "Rosa Luxemburg"

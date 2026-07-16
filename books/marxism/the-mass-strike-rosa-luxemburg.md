@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/mass-strike-rosa-luxemburg"
+cover: "https://files.libcom.org/files/images/library/rosa%5B1%5D.gif"
 mirror_state: none
 tags:
   - "Rosa Luxemburg"

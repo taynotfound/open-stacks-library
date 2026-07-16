@@ -4,6 +4,7 @@ author: "Sylvia Pankhurst"
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-opposition-alexandra-kollontai"
+cover: "https://files.libcom.org/files/books/koll.jpg"
 mirror_state: full
 tags:
   - "Alexandra Kollontai"

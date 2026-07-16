@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/communism-material-human-community-amadeo-bordiga-today-loren-goldner-0"
+cover: "https://files.libcom.org/files/2026-02/bORDIGA-n.jpg"
 mirror_state: none
 tags:
   - "Loren Goldner"

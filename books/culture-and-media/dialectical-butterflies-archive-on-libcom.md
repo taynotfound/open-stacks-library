@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/dialectical-butterflies-archive-libcom"
+cover: "https://files.libcom.org/files/2024-12/dialeticalbutterflies.png"
 mirror_state: none
 tags:
   - "Stuart Wise"

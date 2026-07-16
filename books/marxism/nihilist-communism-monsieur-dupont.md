@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/nihilist-communism-monsieur-dupont"
+cover: "https://files.libcom.org/files/images/library/nihcomcover.jpg"
 mirror_state: full
 tags:
   - "Monsieur Dupont"

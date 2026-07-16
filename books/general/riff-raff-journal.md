@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/riff-raff-journal"
+cover: "https://files.libcom.org/files/2024-07/riff-covs.png"
 mirror_state: none
 tags:
   - "Riff-Raff"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/worker-activism-and-social-polarisation-petrograd-and-moscow-march-october-1917"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

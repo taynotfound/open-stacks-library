@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/advancing-proletariat-abner-e-woodruff"
+cover: "https://files.libcom.org/files/images/library/020.jpg"
 mirror_state: full
 tags:
   - "Industrial Workers of the World (IWW)"

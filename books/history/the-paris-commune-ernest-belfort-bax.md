@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/paris-commune-ernest-belfort-bax"
+cover: ""
 mirror_state: none
 tags:
   - "Paris Commune"

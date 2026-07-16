@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/and-against-state"
+cover: "https://files.libcom.org/files/images/library/LEWRG.png"
 mirror_state: none
 tags:
   - "London Edinburgh Weekend Return Group"

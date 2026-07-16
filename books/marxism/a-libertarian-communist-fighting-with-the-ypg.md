@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/libertarian-communist-fighting-ypg"
+cover: "https://files.libcom.org/files/images/library/funerailles.jpg"
 mirror_state: none
 tags:
   - "Kurdish"

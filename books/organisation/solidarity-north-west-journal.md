@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-north-west-journal"
+cover: "https://files.libcom.org/files/images/library/456554C7-944A-48E1-BEDD-649BB812DA7D.jpeg"
 mirror_state: none
 tags:
   - "Solidarity"

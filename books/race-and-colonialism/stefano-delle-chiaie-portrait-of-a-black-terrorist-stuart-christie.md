@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/stefano-delle-chiaie-portrait-black-terrorist-stuart-christie"
+cover: "https://files.libcom.org/files/images/history/Christie.jpg"
 mirror_state: full
 tags:
   - "fascism"

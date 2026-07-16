@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/gurgaon-workers-news"
+cover: "https://files.libcom.org/files/images/library/Gurgaon_2.jpg"
 mirror_state: full
 tags:
   - "Gurgaon Workers News"

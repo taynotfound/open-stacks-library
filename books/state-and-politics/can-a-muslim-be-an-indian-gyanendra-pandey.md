@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/can-muslim-be-indian-gyanendra-pandey"
+cover: ""
 mirror_state: none
 tags:
   - "nationalism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/iww-1932-george-pearce"
+cover: "https://files.libcom.org/files/images/history/36_0.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

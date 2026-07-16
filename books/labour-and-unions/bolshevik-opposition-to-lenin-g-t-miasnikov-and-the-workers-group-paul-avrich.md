@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/bolshevik-opposition-lenin-g-t-miasnikov-and-workers-group-paul-avrich"
+cover: "https://files.libcom.org/files/images/history/myasnikov002%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Paul Avrich"

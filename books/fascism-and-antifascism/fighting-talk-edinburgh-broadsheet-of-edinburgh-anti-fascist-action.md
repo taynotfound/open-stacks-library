@@ -4,6 +4,7 @@ author: "the Anti-Fascist Archive"
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/fighting-talk-edinburgh-broadsheet-edinburgh-anti-fascist-action"
+cover: "https://files.libcom.org/files/images/history/FTE%20header.png"
 mirror_state: none
 tags:
   - "1990s"

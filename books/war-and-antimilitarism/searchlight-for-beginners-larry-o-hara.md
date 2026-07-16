@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/searchlight-beginners-larry-o-hara"
+cover: "https://files.libcom.org/files/2022-05/41QvY6WwVqL.jpg"
 mirror_state: full
 tags:
   - "Larry O'Hara"

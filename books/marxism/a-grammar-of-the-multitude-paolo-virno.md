@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/grammar-multitude-paolo-virno"
+cover: "https://files.libcom.org/files/AGOTM.JPG"
 mirror_state: none
 tags:
   - "Marxism"

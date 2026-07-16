@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/left-wing-lies-ken-ellis"
+cover: "https://files.libcom.org/files/images/library/SLP-Arnold-petersen-Walter-Steinhilber.jpg"
 mirror_state: full
 tags:
   - "organisation"

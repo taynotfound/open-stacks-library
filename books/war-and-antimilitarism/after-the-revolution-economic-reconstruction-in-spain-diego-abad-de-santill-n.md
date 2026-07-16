@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/after-revolution-economic-reconstruction-spain-diego-abad-de-santillan"
+cover: "https://files.libcom.org/files/images/history/Abad_de_Santillan_et_mate.jpg"
 mirror_state: full
 tags:
   - "Spain"

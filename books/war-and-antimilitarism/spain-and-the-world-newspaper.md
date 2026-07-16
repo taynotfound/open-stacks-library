@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/spain-and-world-newspaper"
+cover: "https://files.libcom.org/files/images/library/Spain-world.jpg"
 mirror_state: none
 tags:
   - "Freedom Press"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/detroit-i-do-mind-dying-study-urban-revolution-dan-georgakas-and-marvin-surkin"
+cover: "https://files.libcom.org/files/images/history/black-workers-power.jpg"
 mirror_state: full
 tags:
   - "racism"

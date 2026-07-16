@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/indian-hierarchy-culture-ideology-and-consciousness-bengali-village-politics-arild-engelsen"
+cover: ""
 mirror_state: none
 tags:
   - "Subaltern"

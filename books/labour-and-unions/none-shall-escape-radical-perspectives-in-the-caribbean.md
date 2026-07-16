@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/none-shall-escape-radical-perspectives-caribbean"
+cover: "https://files.libcom.org/files/images/history/IMG%20Fundi%20pic.jpg"
 mirror_state: full
 tags:
   - "George Myers"

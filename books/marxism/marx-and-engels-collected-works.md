@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/marx-and-engels-collected-works"
-mirror_state: partial
+cover: "https://files.libcom.org/files/images/library/marx-engels.jpg"
+mirror_state: full
 tags:
   - "Karl Marx"
   - "Friedrich Engels"
@@ -187,32 +188,32 @@ files:
     hosted: true
   - name: "MECW_44.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_44.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_44.pdf"
+    hosted: true
   - name: "MECW_45.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_45.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_45.pdf"
+    hosted: true
   - name: "MECW_46.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_46.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_46.pdf"
+    hosted: true
   - name: "MECW_47.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_47.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_47.pdf"
+    hosted: true
   - name: "MECW_48.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_48.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_48.pdf"
+    hosted: true
   - name: "MECW_49.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_49.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_49.pdf"
+    hosted: true
   - name: "MECW_50.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/MECW_50.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_50.pdf"
+    hosted: true
 ---
 
 # Marx and Engels collected works
@@ -264,12 +265,12 @@ A collection of writings from Marx and Engels, consisting of 50 volumes, known a
 - [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_41.pdf) (self-hosted)
 - [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_42.pdf) (self-hosted)
 - [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_43.pdf) (self-hosted)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_44.pdf)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_45.pdf)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_46.pdf)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_47.pdf)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_48.pdf)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_49.pdf)
-- [PDF](https://files.libcom.org/files/2022-12/MECW_50.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_44.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_45.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_46.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_47.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_48.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_49.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/MECW_50.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/marx-and-engels-collected-works)

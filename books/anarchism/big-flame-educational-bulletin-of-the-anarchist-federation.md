@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/big-flame-educational-bulletin-anarchist-federation"
+cover: "https://files.libcom.org/files/2022-07/BF-AF-BP.png"
 mirror_state: none
 tags:
   []

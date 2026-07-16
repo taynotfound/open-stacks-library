@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syndicalism-and-co-operative-commonwealth"
+cover: "https://files.libcom.org/files/images/library/Untitledn.png"
 mirror_state: full
 tags:
   - "France"

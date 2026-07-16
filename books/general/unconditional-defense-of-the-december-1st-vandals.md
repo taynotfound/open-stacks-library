@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/unconditional-defense-december-1st-vandals"
+cover: "https://files.libcom.org/files/images/library/sobre%20este%20documento.jpg"
 mirror_state: none
 tags:
   - "Spain"

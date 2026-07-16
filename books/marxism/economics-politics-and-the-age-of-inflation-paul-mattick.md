@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/economics-politics-and-age-inflation-paul-mattick"
+cover: "https://files.libcom.org/files/images/library/Inflation%20wave%20%284235%20x%204505%29.jpg"
 mirror_state: full
 tags:
   - "Marxism"

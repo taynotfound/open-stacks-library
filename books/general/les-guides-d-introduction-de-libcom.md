@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/les-guides-dintroduction-de-libcom"
+cover: "https://files.libcom.org/files/images/library/CPE-assembly.jpg"
 mirror_state: none
 tags:
   - "Français"

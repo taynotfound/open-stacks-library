@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-swansea"
+cover: "https://files.libcom.org/files/images/library/solidarity-Swansea.png"
 mirror_state: none
 tags:
   - "Solidarity"

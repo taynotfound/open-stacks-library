@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/world-we-must-leave-and-other-essays-jacques-camatte"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/This%20World%20We%20Must%20Leave%20and%20Other%20Essays.jpg"
+mirror_state: full
 tags:
   - "Jacques Camatte"
   - "PDF"
@@ -12,8 +13,8 @@ tags:
 files:
   - name: "Jacques Camatte This World We Must Leave and Other Essays.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Jacques Camatte This World We Must Leave and Other Essays.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Jacques_Camatte_This_World_We_Must_Leave_and_Other_Essays.pdf"
+    hosted: true
 ---
 
 # This World We Must Leave and Other Essays - Jacques Camatte
@@ -22,6 +23,6 @@ files:
 Anthology of challenging post-Marxist essays translated and reprinted from Jacques Camatte's journal Invariance. Published by Autonomedia in 1995.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Jacques Camatte This World We Must Leave and Other Essays.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Jacques_Camatte_This_World_We_Must_Leave_and_Other_Essays.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/world-we-must-leave-and-other-essays-jacques-camatte)

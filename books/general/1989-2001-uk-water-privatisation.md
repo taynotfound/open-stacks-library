@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/uk-water-privatisation"
+cover: ""
 mirror_state: none
 tags:
   - "1980s"

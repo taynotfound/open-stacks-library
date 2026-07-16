@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/letters-correspondance-de-michel-bakounine"
+cover: "https://files.libcom.org/files/images/library/Bakunin%20sketch.jpg"
 mirror_state: none
 tags:
   - "Mikhail Bakunin"

@@ -4,6 +4,7 @@ author: "Ken Knabb"
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/society-spectacle-guy-debord"
+cover: "https://files.libcom.org/files/Society-of-the-spectacle.jpg"
 mirror_state: full
 tags:
   - "Guy Debord"

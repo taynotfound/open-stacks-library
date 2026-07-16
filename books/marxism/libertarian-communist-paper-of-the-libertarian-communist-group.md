@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/libertarian-communist-paper-libertarian-communist-group"
+cover: "https://files.libcom.org/files/images/library/LC%20header.png"
 mirror_state: none
 tags:
   - "Libertarian Communist Group"

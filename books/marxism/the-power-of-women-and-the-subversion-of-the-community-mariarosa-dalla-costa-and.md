@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/power-women-and-subversion-community-mariarosa-dalla-costa-and-selma-james"
+cover: "https://files.libcom.org/files/images/library/tailors-strike.jpg"
 mirror_state: full
 tags:
   - "Mariarosa Dalla Costa"

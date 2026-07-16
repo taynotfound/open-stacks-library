@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/mother-earth"
+cover: "https://files.libcom.org/files/images/library/sf_motherearth_img_01.jpg"
 mirror_state: none
 tags:
   - "Mother Earth"

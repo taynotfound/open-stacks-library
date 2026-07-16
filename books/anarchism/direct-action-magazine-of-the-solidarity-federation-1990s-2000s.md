@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-magazine-solidarity-federation-1990s-2000s"
+cover: ""
 mirror_state: none
 tags:
   - "Solidarity Federation"

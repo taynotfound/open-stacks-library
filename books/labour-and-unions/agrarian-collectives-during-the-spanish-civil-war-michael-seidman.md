@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/agrarian-collectives-during-spanish-civil-war-michael-seidman"
+cover: ""
 mirror_state: full
 tags:
   - "Michael Seidman"

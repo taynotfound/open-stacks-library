@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/notes-midwest-libertarian-conference-may-28-31-1976"
+cover: "https://files.libcom.org/files/images/history/n693554570_157576_4892.jpg"
 mirror_state: full
 tags:
   - "anarchism"

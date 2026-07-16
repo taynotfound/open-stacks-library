@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solidarity-workers-full-control-solidarity-south-london"
+cover: "https://files.libcom.org/files/images/library/solidarity-control.jpg"
 mirror_state: none
 tags:
   - "Solidarity"

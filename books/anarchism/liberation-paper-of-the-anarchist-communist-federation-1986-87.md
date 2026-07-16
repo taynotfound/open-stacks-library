@@ -4,6 +4,7 @@ author: "the Anarchist Communist Federation"
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/liberation-paper-anarchist-communist-federation-1986-87"
+cover: "https://files.libcom.org/files/images/library/Liberation%20header.png"
 mirror_state: none
 tags:
   - "the Anarchist Communist Federation"

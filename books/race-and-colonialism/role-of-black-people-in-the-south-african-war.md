@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/role-black-people-south-african-war"
+cover: "https://files.libcom.org/files/images/library/vo113nne.jpg"
 mirror_state: none
 tags:
   - "war"

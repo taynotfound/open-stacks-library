@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/liberation-society-state-what-communist-anarchism-erich-m%C3%BChsam"
+cover: ""
 mirror_state: none
 tags:
   - "libertarian communism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/who-killed-patrick-quinn-framing-malcolm-kennedy"
+cover: "https://files.libcom.org/files/images/library/malcolm3.jpg"
 mirror_state: none
 tags:
   - "crime"

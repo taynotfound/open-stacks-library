@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/love-rage-wombles-zine"
+cover: "https://files.libcom.org/files/2024-12/loveandrage-x2-min.png"
 mirror_state: none
 tags:
   - "WOMBLES"

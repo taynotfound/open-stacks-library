@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/zero-magazine"
+cover: "https://files.libcom.org/files/images/library/zero7cov.png"
 mirror_state: none
 tags:
   - "Zero"

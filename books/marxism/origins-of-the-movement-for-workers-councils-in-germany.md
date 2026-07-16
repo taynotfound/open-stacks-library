@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/origins-movement-workers-councils-germany"
+cover: "https://files.libcom.org/files/images/library/100975%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Group of International Communists (GIC)"

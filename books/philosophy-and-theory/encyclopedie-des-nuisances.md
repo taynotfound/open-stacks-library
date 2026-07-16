@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/encyclopedie-des-nuisances"
+cover: "https://files.libcom.org/files/2022-12/Screenshot%202022-12-04%20at%2010.24.02.png"
 mirror_state: none
 tags:
   - "Encyclopedie des Nuisances"

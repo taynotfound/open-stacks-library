@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/seventy-days-russia-what-i-saw-angel-pestana"
+cover: "https://files.libcom.org/files/images/history/Pestana2.jpg"
 mirror_state: full
 tags:
   - "Russia"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/eclipse-and-re-emergence-communist-movement-gilles-dauve-and-francois-martin"
+cover: "https://files.libcom.org/files/images/library/french_student_riot_may_19681.jpeg"
 mirror_state: full
 tags:
   - "Gilles Dauvé"

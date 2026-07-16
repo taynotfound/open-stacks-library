@@ -4,6 +4,7 @@ author: "[email protected]"
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/housing-question-engels"
+cover: ""
 mirror_state: none
 tags:
   - "Marxism"

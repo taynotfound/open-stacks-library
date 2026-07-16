@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/radical-america"
+cover: "https://files.libcom.org/files/images/library/radical-America.jpg"
 mirror_state: none
 tags:
   - "Radical America"

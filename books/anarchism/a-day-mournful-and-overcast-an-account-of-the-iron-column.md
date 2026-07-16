@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/day-mournful-and-overcast-account-iron-column"
+cover: "https://files.libcom.org/files/Iron_column_poster%5B1%5D.png"
 mirror_state: full
 tags:
   - "Spanish Civil War and Revolution of 1936-9"

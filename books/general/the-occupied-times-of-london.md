@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/occupied-times-london"
+cover: "https://files.libcom.org/files/images/library/Untitled_11.png"
 mirror_state: none
 tags:
   - "Occupied Times"

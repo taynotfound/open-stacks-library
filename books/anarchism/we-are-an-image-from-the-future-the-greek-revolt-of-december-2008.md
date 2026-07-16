@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/we-are-image-future-greek-revolt-december-2008"
+cover: "https://files.libcom.org/files/images/library/future.jpg"
 mirror_state: none
 tags:
   - "anarchism"

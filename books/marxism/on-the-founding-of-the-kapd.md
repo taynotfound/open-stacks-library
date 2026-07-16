@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/founding-kapd"
+cover: "https://files.libcom.org/files/images/history/hjg.JPG"
 mirror_state: none
 tags:
   - "Kommunistische Arbeiter-Partei Deutschlands (KAPD)"

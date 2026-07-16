@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-paper-syndicalist-workers-federation-1950s-1970s"
+cover: "https://files.libcom.org/files/2022-04/Screenshot%20from%202022-04-10%2023-16-30_0.png"
 mirror_state: none
 tags:
   - "Syndicalist Workers Federation (SWF)"

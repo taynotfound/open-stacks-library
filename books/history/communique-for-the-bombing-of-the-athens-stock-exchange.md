@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/library/communique-bombing-athens-stock-exchange"
+cover: ""
 mirror_state: none
 tags:
   - "guerrillas"

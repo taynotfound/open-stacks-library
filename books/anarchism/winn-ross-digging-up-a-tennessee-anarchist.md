@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/ross-winn-digging-tennessee-ananchist"
+cover: ""
 mirror_state: none
 tags:
   - "anarchists"

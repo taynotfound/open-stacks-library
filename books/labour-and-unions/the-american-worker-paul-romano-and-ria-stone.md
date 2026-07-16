@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/american-worker-paul-romano-and-ria-stone"
+cover: "https://files.libcom.org/files/images/history/GM%20workers.jpg"
 mirror_state: full
 tags:
   - "Paul Romano"

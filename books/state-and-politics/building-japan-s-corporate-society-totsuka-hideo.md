@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/building-japans-corporate-society-totsuka-hideo"
+cover: ""
 mirror_state: none
 tags:
   - "economics"

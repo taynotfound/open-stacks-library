@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/change-world-without-taking-power-or-take-power-change-world-debate-strategies-how-build"
+cover: "https://files.libcom.org/files/images/library/holloway_0.jpg"
 mirror_state: none
 tags:
   - "Marxism"

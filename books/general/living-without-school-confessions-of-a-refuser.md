@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/living-without-school-confessions-refuser"
+cover: ""
 mirror_state: none
 tags:
   - "Japan"

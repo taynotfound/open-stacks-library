@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/japan-corporate-society-kumazawa-makoto"
+cover: ""
 mirror_state: none
 tags:
   - "Japan"

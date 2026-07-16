@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchos"
+cover: "https://files.libcom.org/files/images/library/Anarchos%20No.%202%20%28Spring%201968%29.jpg"
 mirror_state: none
 tags:
   - "United States"

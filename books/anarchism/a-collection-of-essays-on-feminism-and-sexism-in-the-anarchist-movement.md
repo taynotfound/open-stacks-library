@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/collection-essays-feminism-and-sexism-anarchist-movement"
+cover: "https://files.libcom.org/files/images/library/anarcho-feminism.png"
 mirror_state: none
 tags:
   - "women"

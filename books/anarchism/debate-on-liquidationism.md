@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/debate-liquidationism"
+cover: "https://files.libcom.org/files/images/library/dissolve.jpg"
 mirror_state: none
 tags:
   - "organisation"

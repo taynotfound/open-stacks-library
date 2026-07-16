@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/incomplete-marx-felton-c-shortall"
+cover: "https://files.libcom.org/files/images/library/Marx_0.jpg"
 mirror_state: full
 tags:
   - "Karl Marx"

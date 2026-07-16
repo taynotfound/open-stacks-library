@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/fascism-and-anti-fascism-medway-towns-1927-1940-david-turner"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/IMG_7883.jpg"
+mirror_state: full
 tags:
   - "fascism"
   - "United Kingdom"
@@ -15,8 +16,8 @@ tags:
 files:
   - name: "turner-medway-full.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/turner-medway-full.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/turner-medway-full.pdf"
+    hosted: true
 ---
 
 # Fascism and anti-Fascism in the Medway Towns 1927-1940 - David Turner
@@ -25,6 +26,6 @@ files:
 Booklet published by Kent Anti-Fascist Committee in 1993.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/turner-medway-full.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/turner-medway-full.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/fascism-and-anti-fascism-medway-towns-1927-1940-david-turner)

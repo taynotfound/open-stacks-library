@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/summer-thousand-julys-and-other-seasons"
+cover: "https://files.libcom.org/files/images/library/st-pauls-riot.jpg"
 mirror_state: full
 tags:
   - "BM Blob"

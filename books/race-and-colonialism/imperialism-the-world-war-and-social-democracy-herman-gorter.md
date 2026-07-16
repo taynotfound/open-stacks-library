@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/imperialism-world-war-and-social-democracy-herman-gorter"
+cover: "https://files.libcom.org/files/images/library/Austrians_executing_Serbs_1917.jpg"
 mirror_state: full
 tags:
   - "nationalism"

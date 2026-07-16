@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/library/social-democracy-aufheben-7"
+cover: ""
 mirror_state: none
 tags:
   - "economics"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/organize-strike-fight-win-quebecs-2012-student-strike"
+cover: "https://files.libcom.org/files/images/library/header%5B1%5D.png"
 mirror_state: full
 tags:
   - "education"

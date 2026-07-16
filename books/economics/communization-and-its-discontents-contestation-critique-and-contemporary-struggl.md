@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "economics"
 source: "https://libcom.org/article/communization-and-its-discontents-contestation-critique-and-contemporary-struggles"
+cover: "https://files.libcom.org/files/images/library/communization.png"
 mirror_state: full
 tags:
   - "crisis"

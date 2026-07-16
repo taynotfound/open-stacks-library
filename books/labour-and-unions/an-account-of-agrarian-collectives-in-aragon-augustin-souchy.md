@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/account-agrarian-collectives-aragon-augustin-souchy"
+cover: "https://files.libcom.org/files/images/history/phoca_thumb_l_spanien72%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Augustin Souchy"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/lenins-terror-within-bolshevik-party-maximov"
+cover: "https://files.libcom.org/files/images/library/Lenin-Trotsky_Red_Square%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Gregori Maximov"

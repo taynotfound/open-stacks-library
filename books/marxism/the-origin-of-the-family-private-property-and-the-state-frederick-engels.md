@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/origin-family-private-property-and-state-frederick-engels"
+cover: ""
 mirror_state: full
 tags:
   - "Marxism"

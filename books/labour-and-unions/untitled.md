@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/dr-qlsn-qmpp"
+cover: "https://files.libcom.org/files/images/library/class%20struggle_0.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

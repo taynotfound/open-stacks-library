@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/explosion-point-ideology-kurdistan-vp-geh"
+cover: "https://files.libcom.org/files/images/news/Capture-du2019e%CC%81cran-2018-05-03-a%CC%80-13.43.27-1024x679.jpg"
 mirror_state: none
 tags:
   - "Syria"

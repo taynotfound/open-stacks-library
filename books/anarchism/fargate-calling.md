@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fargate-calling"
+cover: "https://files.libcom.org/files/images/history/Holberry.jpg"
 mirror_state: none
 tags:
   - "sex and sexuality"

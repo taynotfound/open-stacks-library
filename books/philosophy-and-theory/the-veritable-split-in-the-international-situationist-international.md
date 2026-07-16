@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/veritable-split-international-situationist-international"
-mirror_state: none
+cover: "https://files.libcom.org/files/2023-05/veritablecov.jpg"
+mirror_state: full
 tags:
   - "Situationist International"
   - "Guy Debord"
@@ -16,12 +17,12 @@ tags:
 files:
   - name: "Veritable Split In The SI-1-57.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2023-05/Veritable Split In The SI-1-57.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Veritable_Split_In_The_SI-1-57.pdf"
+    hosted: true
   - name: "Veritable Split In The SI-58-119.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2023-05/Veritable Split In The SI-58-119.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Veritable_Split_In_The_SI-58-119.pdf"
+    hosted: true
 ---
 
 # The Veritable Split in the International - Situationist International
@@ -30,7 +31,7 @@ files:
 The final publication of the S.I. from 1972.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/2023-05/Veritable Split In The SI-1-57.pdf)
-- [PDF](https://files.libcom.org/files/2023-05/Veritable Split In The SI-58-119.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Veritable_Split_In_The_SI-1-57.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Veritable_Split_In_The_SI-58-119.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/veritable-split-international-situationist-international)

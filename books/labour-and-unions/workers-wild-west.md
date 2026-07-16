@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-wild-west"
+cover: "https://files.libcom.org/files/images/library/img_0389.jpg"
 mirror_state: none
 tags:
   - "WorkersWildWest"

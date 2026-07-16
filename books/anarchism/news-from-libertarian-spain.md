@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/news-libertarian-spain"
+cover: "https://files.libcom.org/files/2025-06/261344.jpeg"
 mirror_state: none
 tags:
   - "publications"

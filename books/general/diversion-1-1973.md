@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/diversion-1-1973"
+cover: "https://files.libcom.org/files/2023-05/diversion-cov.png"
 mirror_state: none
 tags:
   - "Jonathan Horelick"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/gender-power-and-struggle"
+cover: "https://files.libcom.org/files/images/library/powerpowerless.jpg"
 mirror_state: none
 tags:
   - "gender"

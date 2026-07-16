@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/still-strike-recollections-bisbee-deportee-fred-watson"
+cover: "https://files.libcom.org/files/images/history/Bisbee-deportation.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

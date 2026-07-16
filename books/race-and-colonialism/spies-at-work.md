@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/library/spies-work"
+cover: ""
 mirror_state: none
 tags:
   - "repression"

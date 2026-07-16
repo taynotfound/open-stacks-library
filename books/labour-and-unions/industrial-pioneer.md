@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-pioneer"
+cover: "https://files.libcom.org/files/images/library/industrialpioneercover.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

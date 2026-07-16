@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/raven-anarchist-quarterly"
+cover: "https://files.libcom.org/files/2022-04/raven%20covers.png"
 mirror_state: none
 tags:
   - "Freedom Press"

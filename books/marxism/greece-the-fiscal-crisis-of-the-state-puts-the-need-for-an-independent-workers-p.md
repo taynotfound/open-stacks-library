@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/greece-fiscal-crisis-state-puts-need-independent-workers-politics-agenda-mouvement"
+cover: "https://files.libcom.org/files/images/library/greece%20general%20strike.jpg"
 mirror_state: none
 tags:
   - "riots"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-and-other-essays-emma-goldman"
+cover: ""
 mirror_state: full
 tags:
   - "Emma Goldman"

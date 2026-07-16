@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/1920s-communism-vs-reforms-mistakes-communist-party-ireland"
+cover: "https://files.libcom.org/files/images/history/001_group%5B1%5D.JPG"
 mirror_state: full
 tags:
   - "Sylvia Pankhurst"

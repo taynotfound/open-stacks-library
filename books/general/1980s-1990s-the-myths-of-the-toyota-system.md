@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/1980s-1990s-myths-toyota-system"
+cover: "https://files.libcom.org/files/images/history/Toyota.jpg"
 mirror_state: full
 tags:
   - "technology"

@@ -4,6 +4,7 @@ author: "[email protected]"
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/peasant-war-germany-friedrich-engels"
+cover: "https://files.libcom.org/files/images/history/Rohrbach-verbrennung-1525.jpg"
 mirror_state: full
 tags:
   - "Friedrich Engels"

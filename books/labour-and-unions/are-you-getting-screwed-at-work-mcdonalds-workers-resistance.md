@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/are-you-getting-screwed-work-mcdonalds-workers-resistance"
+cover: "https://files.libcom.org/files/images/library/screwed.jpg"
 mirror_state: none
 tags:
   - "McDonalds Workers Resistance"

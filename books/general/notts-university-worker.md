@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/notts-university-worker"
+cover: "https://files.libcom.org/files/images/library/Notts%20Uni%20Workers.jpg"
 mirror_state: none
 tags:
   - "United Kingdom"

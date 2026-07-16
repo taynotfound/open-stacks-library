@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/french-strikes-may-june-1968-bruno-astarian"
+cover: "https://files.libcom.org/files/images/library/Citroen-occupied.jpg"
 mirror_state: full
 tags:
   - "strikes"

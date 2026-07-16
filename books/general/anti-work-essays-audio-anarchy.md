@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/anti-work-essays-audio-anarchy"
+cover: "https://files.libcom.org/files/images/library/antiwork.jpg"
 mirror_state: none
 tags:
   - "video"

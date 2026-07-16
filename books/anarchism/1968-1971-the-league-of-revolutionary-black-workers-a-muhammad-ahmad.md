@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1968-1971-league-revolutionary-black-workers-muhammad-ahmad"
+cover: "https://files.libcom.org/files/images/history/Forman.jpg"
 mirror_state: full
 tags:
   - "racism"

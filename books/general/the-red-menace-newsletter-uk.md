@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/red-menace-newsletter-uk"
+cover: "https://files.libcom.org/files/images/library/redmenace.png"
 mirror_state: none
 tags:
   - "United Kingdom"

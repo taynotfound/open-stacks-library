@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/freedom"
+cover: "https://files.libcom.org/files/images/library/Freedom-newspapers.jpg"
 mirror_state: none
 tags:
   - "Freedom Press"

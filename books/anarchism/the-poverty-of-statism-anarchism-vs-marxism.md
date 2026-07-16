@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/poverty-statism-anarchism-vs-marxism"
+cover: "https://files.libcom.org/files/images/library/51b3W6EYR5L._SY344_BO1%2C204%2C203%2C200_.jpg"
 mirror_state: full
 tags:
   - "Rudolf Rocker"

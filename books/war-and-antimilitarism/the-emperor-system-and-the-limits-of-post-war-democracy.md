@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/emperor-system-and-limits-post-war-democracy"
+cover: "https://files.libcom.org/files/2022-09/C4EB5C17-22AB-4EE8-8592-2E241612BDFB.jpeg"
 mirror_state: none
 tags:
   - "Amano Yasukazu"

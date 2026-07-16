@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solid-black-fist-prison-strike-newsletter"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/SBF%20cover.jpg"
+mirror_state: full
 tags:
   - "United States"
   - "prisons"
@@ -14,8 +15,8 @@ tags:
 files:
   - name: "SBF_Final1.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/SBF_Final1.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/SBF_Final1.pdf"
+    hosted: true
 ---
 
 # Solid Black Fist - Prison Strike Newsletter
@@ -24,6 +25,6 @@ files:
 A newsletter created for the August 2018 national strikes, by Amani Sawari.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/SBF_Final1.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/SBF_Final1.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/solid-black-fist-prison-strike-newsletter)

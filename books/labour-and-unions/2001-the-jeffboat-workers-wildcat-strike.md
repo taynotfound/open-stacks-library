@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/2001-jeffboat-workers-wildcat-strike"
+cover: "https://files.libcom.org/files/images/history/jeffboat5.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

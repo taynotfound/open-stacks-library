@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/life-yoseba-kobayashi-kengo"
+cover: ""
 mirror_state: none
 tags:
   - "Japan"

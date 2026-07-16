@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/analysis-bureaucracy-workers-management-socialisme-ou-barbarie"
+cover: ""
 mirror_state: none
 tags:
   - "Marxism"

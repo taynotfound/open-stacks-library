@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/1990s-control-resistance-and-death-japanese-school-system-okamura-tatsuo"
+cover: ""
 mirror_state: none
 tags:
   - "education"

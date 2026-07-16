@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/blast-newspaper"
+cover: "https://files.libcom.org/files/2024-07/The%20Blast%20-%20Vol%201%20No%2015%20-%201%20July%201916%20Cover_0.jpg"
 mirror_state: none
 tags:
   - "Alexander Berkman"

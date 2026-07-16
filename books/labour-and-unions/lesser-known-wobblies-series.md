@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/lesser-known-wobblies-series"
+cover: "https://files.libcom.org/files/images/history/lesser%20known.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

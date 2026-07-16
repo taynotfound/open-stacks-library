@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/peer-review"
+cover: "https://files.libcom.org/files/2025-09/Peer%20Review%20Issue%2001.png"
 mirror_state: none
 tags:
   - "The Peer Review"

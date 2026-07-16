@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/introduction-left-communism-germany-1914-1923"
+cover: "https://files.libcom.org/files/images/history/syfraubu%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Dave Graham"

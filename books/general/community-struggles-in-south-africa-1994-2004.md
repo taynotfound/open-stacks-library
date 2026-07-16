@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/community-struggles-south-africa-1994-2004"
+cover: "https://files.libcom.org/files/south-africa-strike-2001.jpg"
 mirror_state: none
 tags:
   - "1990s"

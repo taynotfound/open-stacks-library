@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/striking-stuff-jean-gittins"
+cover: "https://files.libcom.org/files/images/history/striking%20stuff.gif"
 mirror_state: none
 tags:
   - "1980s"

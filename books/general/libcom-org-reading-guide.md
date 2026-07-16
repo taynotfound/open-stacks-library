@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/libcomorg-reading-guide"
+cover: "https://files.libcom.org/files/images/library/Clifford-Harper-illustrat-007.jpg"
 mirror_state: none
 tags:
   - "libcom.org"

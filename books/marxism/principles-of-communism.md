@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/principles-communism-engels"
+cover: ""
 mirror_state: none
 tags:
   - "Marxism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/trade-unionism-or-socialism-revolt-against-work-john-zerzan"
+cover: "https://files.libcom.org/files/images/library/zerzancover.jpg"
 mirror_state: full
 tags:
   - "John Zerzan"

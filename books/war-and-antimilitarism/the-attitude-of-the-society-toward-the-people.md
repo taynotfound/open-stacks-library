@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/library/attitude-society-toward-people"
+cover: ""
 mirror_state: none
 tags:
   []

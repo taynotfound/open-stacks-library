@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/help-out"
+cover: "https://files.libcom.org/files/images/library/typing.jpg"
 mirror_state: none
 tags:
   - "PDF formats"

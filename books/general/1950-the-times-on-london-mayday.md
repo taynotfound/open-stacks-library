@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/mayday-london-1950-times"
+cover: ""
 mirror_state: none
 tags:
   - "riots"

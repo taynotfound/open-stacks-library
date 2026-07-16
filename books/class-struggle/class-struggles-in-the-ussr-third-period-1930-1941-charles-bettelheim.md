@@ -4,6 +4,7 @@ author: "@naufragos1"
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/class-struggles-ussr-third-period-1930-1941-charles-bettelheim"
+cover: "https://files.libcom.org/files/images/library/Screenshot%20%28689%29.png"
 mirror_state: none
 tags:
   - "state socialism"

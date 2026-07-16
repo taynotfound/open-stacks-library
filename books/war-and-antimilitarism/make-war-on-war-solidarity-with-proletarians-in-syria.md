@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/make-war-war-solidarity-proletarians-syria"
+cover: "https://files.libcom.org/files/images/news/siria111.jpg"
 mirror_state: none
 tags:
   - "Syria"

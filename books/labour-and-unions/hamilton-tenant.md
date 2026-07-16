@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/hamilton-tenant"
+cover: "https://files.libcom.org/files/images/library/Hamilton%20Tenant%20letterhead.jpg"
 mirror_state: none
 tags:
   - "Canada"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/conquered-city-victor-serge"
+cover: "https://files.libcom.org/files/images/library/conquered-city-217.png"
 mirror_state: full
 tags:
   - "Victor Serge"

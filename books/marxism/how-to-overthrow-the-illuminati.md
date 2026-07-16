@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/how-overthrow-illuminati"
+cover: "https://files.libcom.org/files/images/library/how-cover.jpg"
 mirror_state: full
 tags:
   - "libertarian communism"

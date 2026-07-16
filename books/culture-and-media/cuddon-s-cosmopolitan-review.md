@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/cuddons-cosmopolitan-review"
+cover: "https://files.libcom.org/files/2023-04/Screenshot%202023-04-07%20at%2010.08.52.png"
 mirror_state: none
 tags:
   - "Ted Kavanagh"

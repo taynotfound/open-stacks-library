@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/marine-worker"
+cover: "https://files.libcom.org/files/images/library/The%20Marine%20Worker%20Vol.%203%2C%20No.%203%20%28July%201936%29.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

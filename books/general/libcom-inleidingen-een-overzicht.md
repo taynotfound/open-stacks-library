@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/libcom-inleidingen-een-overzicht"
+cover: "https://files.libcom.org/files/images/library/12112044_467040623481093_4860008082384501270_n.jpeg"
 mirror_state: none
 tags:
   - "Nederlands"

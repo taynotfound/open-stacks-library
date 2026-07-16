@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/wilhelmshaven-revolt-1918-1919-ikarus"
+cover: "https://files.libcom.org/files/images/library/Befreite_Matrosen.jpg"
 mirror_state: full
 tags:
   - "Jan Appel"

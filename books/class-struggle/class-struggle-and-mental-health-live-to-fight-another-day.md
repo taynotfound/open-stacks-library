@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/class-struggle-and-mental-health-live-fight-another-day"
+cover: "https://files.libcom.org/files/images/library/CS%26MH%20-%20cover.png"
 mirror_state: full
 tags:
   - "mental health"

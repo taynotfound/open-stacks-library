@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/russian-tragedy-alex-berkman"
+cover: "https://files.libcom.org/files/images/library/300px-Attacking_kronstadt%5B1%5D.JPG"
 mirror_state: none
 tags:
   - "Alexander Berkman"

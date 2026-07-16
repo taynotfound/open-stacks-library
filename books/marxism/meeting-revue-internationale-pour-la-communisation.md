@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/meeting-revue-internationale-pour-la-communisation"
+cover: "https://files.libcom.org/files/images/library/meeting_0.png"
 mirror_state: none
 tags:
   - "Meeting"

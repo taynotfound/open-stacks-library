@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/once-upon-time-there-was-place-called-nothing-hill-gate"
+cover: "https://files.libcom.org/files/images/history/Notting-Hill.jpg"
 mirror_state: full
 tags:
   - "BM Blob"

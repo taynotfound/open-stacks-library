@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/unity-voice-concerned-postal-workers"
+cover: "https://files.libcom.org/files/images/library/unity.jpg"
 mirror_state: none
 tags:
   - "Anarcho-Syndicalist Federation"

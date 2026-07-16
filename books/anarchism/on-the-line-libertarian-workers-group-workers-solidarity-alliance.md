@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/line-libertarian-workers-groupworkers-solidarity-alliance"
+cover: "https://files.libcom.org/files/images/library/On-the-Line-Vol.-2%2C-No.-3-%28August-1979%29-001_0.jpg"
 mirror_state: none
 tags:
   - "United States"

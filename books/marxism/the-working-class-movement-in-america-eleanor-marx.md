@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/working-class-movement-america-eleanor-marx"
+cover: "https://files.libcom.org/files/images/library/cigar_workers.jpg"
 mirror_state: none
 tags:
   - "women"

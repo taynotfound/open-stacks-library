@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/views-comments"
+cover: "https://files.libcom.org/files/2023-01/Untitled.png"
 mirror_state: none
 tags:
   - "Workers Solidarity Alliance"

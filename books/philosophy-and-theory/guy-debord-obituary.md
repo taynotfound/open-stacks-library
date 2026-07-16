@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/guy-debord-obituary"
+cover: "https://files.libcom.org/files/images/history/Debord%20age%2019%201951.jpg"
 mirror_state: none
 tags:
   - "Guy Debord"

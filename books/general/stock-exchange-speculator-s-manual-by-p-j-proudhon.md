@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/stock-exchange-speculators-manual-pj-proudhon"
+cover: "https://files.libcom.org/files/2024-06/Test%201.PNG"
 mirror_state: none
 tags:
   - "Pierre-Joseph Proudhon"

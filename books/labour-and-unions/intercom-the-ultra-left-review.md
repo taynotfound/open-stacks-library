@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/intercom-ultra-left-review"
+cover: "https://files.libcom.org/files/images/library/Intercomcover.jpg"
 mirror_state: none
 tags:
   - "Careless Talk"

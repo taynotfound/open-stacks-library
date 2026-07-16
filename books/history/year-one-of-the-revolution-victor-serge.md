@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/year-one-revolution-victor-serge"
+cover: "https://files.libcom.org/files/images/library/YearOne1stEd450.jpg"
 mirror_state: full
 tags:
   - "Victor Serge"

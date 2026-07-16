@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/sweatshops-starbucks"
+cover: ""
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

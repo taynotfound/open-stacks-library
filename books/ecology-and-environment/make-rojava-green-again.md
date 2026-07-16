@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/make-rojava-green-again"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/1_4.png"
+mirror_state: full
 tags:
   - "Syria"
   - "libertarian socialism"
@@ -17,8 +18,8 @@ tags:
 files:
   - name: "make-rojava-green-again.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/make-rojava-green-again.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/make-rojava-green-again.pdf"
+    hosted: true
 ---
 
 # Make Rojava Green Again
@@ -27,6 +28,6 @@ files:
 A pamphlet on social ecology in the context of the Democratic Federation in Northern Syria (Rojava).
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/make-rojava-green-again.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/make-rojava-green-again.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/make-rojava-green-again)

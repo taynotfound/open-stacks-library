@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/womans-voice"
+cover: "https://files.libcom.org/files/images/library/voz-de-mujer.jpg"
 mirror_state: none
 tags:
   - "women"

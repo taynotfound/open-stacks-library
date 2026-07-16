@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/crowbar-magazine"
+cover: ""
 mirror_state: none
 tags:
   - "Crowbar"

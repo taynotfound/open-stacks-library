@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/poland-1980-1982-class-struggle-and-crisis-capital-henri-simon"
+cover: "https://files.libcom.org/files/images/history/strikers.jpg"
 mirror_state: full
 tags:
   - "Henri Simon"

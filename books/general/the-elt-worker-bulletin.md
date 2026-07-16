@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/elt-worker-bulletin"
+cover: "https://files.libcom.org/files/images/library/grafton%20teachers.jpg"
 mirror_state: none
 tags:
   - "publications"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/under-banner-marxism"
+cover: "https://files.libcom.org/files/images/library/1922-4.jpg"
 mirror_state: full
 tags:
   - "Marxism"

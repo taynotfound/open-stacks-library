@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/class-culture-and-conflict-barcelona-1898-1937-chris-ealham"
+cover: "https://files.libcom.org/files/images/history/barricades.jpg"
 mirror_state: full
 tags:
   - "anarchism"

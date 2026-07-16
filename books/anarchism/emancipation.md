@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/emancipation"
+cover: "https://files.libcom.org/files/images/library/emancover_0.jpg"
 mirror_state: none
 tags:
   - "anarchism"

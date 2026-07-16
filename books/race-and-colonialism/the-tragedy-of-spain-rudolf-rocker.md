@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/tragedy-spain-rudolf-rocker"
+cover: "https://files.libcom.org/files/franco_1.jpg"
 mirror_state: full
 tags:
   - "Spanish Civil War and Revolution"

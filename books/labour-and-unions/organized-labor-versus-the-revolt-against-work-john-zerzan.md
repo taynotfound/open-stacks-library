@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/organized-labor-versus-revolt-against-work-john-zerzan"
+cover: "https://files.libcom.org/files/images/library/Samuelson02%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "John Zerzan"

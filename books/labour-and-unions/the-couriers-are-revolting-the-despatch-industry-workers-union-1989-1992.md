@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/couriers-are-revolting-despatch-industry-workers-union-1989-1992"
+cover: "https://files.libcom.org/files/images/history/couriers.jpg"
 mirror_state: full
 tags:
   - "1980s"

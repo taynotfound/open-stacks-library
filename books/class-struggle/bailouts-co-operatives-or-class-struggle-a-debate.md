@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/bailouts-co-operatives-or-class-struggle-debate"
+cover: "https://files.libcom.org/files/northern_rock%5B1%5D.gif"
 mirror_state: none
 tags:
   - "Iain McKay"

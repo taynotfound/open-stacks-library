@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/marxian-economics-edgar-hardcastle"
+cover: "https://files.libcom.org/files/images/library/Edgar%20Hardcastle%201986.png"
 mirror_state: none
 tags:
   - "Marxism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-clydeside"
+cover: ""
 mirror_state: none
 tags:
   - "Solidarity"

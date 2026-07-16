@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-and-capital-mario-tronti"
+cover: "https://files.libcom.org/files/images/library/TrontiOperaiCapitale72.jpg"
 mirror_state: none
 tags:
   - "Mario Tronti"

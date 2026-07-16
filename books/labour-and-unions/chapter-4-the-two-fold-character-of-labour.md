@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/reading-capital-politically-cleaver-character-labour"
+cover: ""
 mirror_state: none
 tags:
   []

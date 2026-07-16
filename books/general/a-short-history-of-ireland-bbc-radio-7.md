@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/short-history-ireland-bbc-radio-7"
+cover: "https://files.libcom.org/files/images/history/Illoyal-Lawless-Irreligious-Banditti-1.jpg"
 mirror_state: none
 tags:
   - "Ireland"

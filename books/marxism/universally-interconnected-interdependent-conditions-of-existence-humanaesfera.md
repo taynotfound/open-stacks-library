@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/universally-interconnectedinterdependent-conditions-existence-humanaesfera"
+cover: "https://files.libcom.org/files/images/library/Cadeia%20logistica.jpg"
 mirror_state: none
 tags:
   - "internationalism"

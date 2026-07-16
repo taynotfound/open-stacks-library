@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/timperley-village-anarchist-tv-am"
+cover: "https://files.libcom.org/files/2023-12/Screenshot%202023-12-10%20at%2011.21.41.png"
 mirror_state: none
 tags:
   - "Timperley Village Anarchist Militia"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/white-rose-documents"
+cover: "https://files.libcom.org/files/images/history/white-rose.jpg"
 mirror_state: none
 tags:
   - "fascism"

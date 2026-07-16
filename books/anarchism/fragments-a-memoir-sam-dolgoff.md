@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fragments-memoir-sam-dolgoff"
+cover: "https://files.libcom.org/files/images/history/Sam-Dolgoff.jpg"
 mirror_state: full
 tags:
   - "Sam Dolgoff"

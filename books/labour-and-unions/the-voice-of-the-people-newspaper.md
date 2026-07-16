@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/voice-people-newspaper"
+cover: "https://files.libcom.org/files/images/library/voice.png"
 mirror_state: full
 tags:
   - "Industrial Workers of the World (IWW)"

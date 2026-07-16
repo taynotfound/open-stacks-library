@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/kapital-karl-marx"
+cover: "https://files.libcom.org/files/images/library/korica%200001.jpg"
 mirror_state: none
 tags:
   - "Srpski"

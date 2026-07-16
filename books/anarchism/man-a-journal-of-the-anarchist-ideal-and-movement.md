@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/man-journal-anarchist-ideal-and-movement"
+cover: "https://files.libcom.org/files/images/library/man%21.png"
 mirror_state: none
 tags:
   - "anarchism"

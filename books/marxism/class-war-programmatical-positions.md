@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-war-programmatical-positions"
+cover: "https://files.libcom.org/files/images/library/pepe.jpg"
 mirror_state: none
 tags:
   - "Tridni Valka"

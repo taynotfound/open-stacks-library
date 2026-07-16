@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/hungary-56-andy-anderson"
+cover: "https://files.libcom.org/files/images/history/Hungary-56.jpg"
 mirror_state: full
 tags:
   - "Andy Anderson"

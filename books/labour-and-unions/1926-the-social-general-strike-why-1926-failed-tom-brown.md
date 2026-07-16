@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1926-social-general-strike-why-1926-failed-tom-brown"
+cover: "https://files.libcom.org/files/images/history/Tyldesley_miners_outside_the_Miners_Hall_during_the_1926_General_Strike%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "Tom Brown"

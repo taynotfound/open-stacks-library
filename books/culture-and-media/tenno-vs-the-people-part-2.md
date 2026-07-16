@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/tenno-vs-people-part-2"
+cover: ""
 mirror_state: none
 tags:
   - "Japan"

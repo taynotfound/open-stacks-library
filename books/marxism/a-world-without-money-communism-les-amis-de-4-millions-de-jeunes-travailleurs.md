@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs"
+cover: "https://files.libcom.org/files/images/library/un8.png"
 mirror_state: full
 tags:
   - "Les amis de 4 millions de jeunes travailleurs"

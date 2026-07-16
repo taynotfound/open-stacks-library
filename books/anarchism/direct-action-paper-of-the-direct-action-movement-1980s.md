@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-paper-direct-action-movement-1980s"
+cover: "https://files.libcom.org/files/images/history/DA%20header.png"
 mirror_state: none
 tags:
   - "Direct Action Movement (DAM)"

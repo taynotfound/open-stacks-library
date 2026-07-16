@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/who-oakland-anti-oppression-activism-politics-safety-and-state-co-optation"
+cover: "https://files.libcom.org/files/images/library/civil%20rights%20punch.jpg"
 mirror_state: full
 tags:
   - "racism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workplace-papers-sojourner-truth-organization"
+cover: "https://files.libcom.org/files/images/library/workplacepapers_0.jpg"
 mirror_state: none
 tags:
   - "organisation"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/1994-nous-sommes-tous-des-casseurs"
+cover: ""
 mirror_state: none
 tags:
   - "1990s"

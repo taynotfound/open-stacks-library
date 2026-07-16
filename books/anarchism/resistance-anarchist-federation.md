@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/resistance-anarchist-federation"
+cover: "https://files.libcom.org/files/images/library/resistance.jpg"
 mirror_state: full
 tags:
   - "Anarchist Federation"

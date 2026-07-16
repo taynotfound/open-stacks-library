@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/peoples-history-united-states-howard-zinn-0"
+cover: "https://files.libcom.org/files/images/history/history.jpg"
 mirror_state: full
 tags:
   - "Howard Zinn"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/reading-capital-politically-harry-cleaver"
+cover: "https://files.libcom.org/files/images/library/rcpcover2ed.jpg"
 mirror_state: full
 tags:
   - "Harry Cleaver"

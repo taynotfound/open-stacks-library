@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/emperors-legions-history-japans-right-wing"
+cover: ""
 mirror_state: none
 tags:
   - "fascism"

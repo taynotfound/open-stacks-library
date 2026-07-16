@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/italy-1977-8-living-earthquake-red-notes"
+cover: "https://files.libcom.org/files/images/library/bologna-13-marzo-1977-08.jpg"
 mirror_state: none
 tags:
   - "Red Notes"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/communism-has-not-yet-begun-claude-bitot"
+cover: "https://files.libcom.org/files/images/library/Marx_2.jpg"
 mirror_state: full
 tags:
   - "Claude Bitot"

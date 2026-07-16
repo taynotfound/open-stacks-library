@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wisconsin-south-central-federation-labors-general-strike-packet"
+cover: "https://files.libcom.org/files/images/library/wisconsin-general-strike.jpg"
 mirror_state: none
 tags:
   - "United States"

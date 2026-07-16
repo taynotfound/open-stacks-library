@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/inside-story"
+cover: "https://files.libcom.org/files/2023-10/inside-story.jpg"
 mirror_state: none
 tags:
   - "Wynford Hicks"

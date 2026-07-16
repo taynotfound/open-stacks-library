@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/monument-story-socialist-party-great-britain-robert-barltrop"
+cover: "https://files.libcom.org/files/images/library/themonument.jpg"
 mirror_state: full
 tags:
   - "groups"

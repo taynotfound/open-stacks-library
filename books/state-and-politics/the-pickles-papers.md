@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/pickles-papers"
+cover: "https://files.libcom.org/files/images/library/Pickles%20Bradford.jpg"
 mirror_state: none
 tags:
   - "1980s"

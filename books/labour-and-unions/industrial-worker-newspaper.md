@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-worker-newspaper"
+cover: "https://files.libcom.org/files/images/library/306186_331721703556494_1997649088_n_0.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

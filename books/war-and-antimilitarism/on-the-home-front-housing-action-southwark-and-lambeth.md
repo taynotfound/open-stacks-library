@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/home-front-housing-action-southwark-and-lambeth"
+cover: "https://files.libcom.org/files/images/library/haslmeeting_resized_0.jpg"
 mirror_state: none
 tags:
   - "London"

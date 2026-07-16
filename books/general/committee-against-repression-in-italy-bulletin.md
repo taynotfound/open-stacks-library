@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/committee-against-repression-italy-bulletin"
+cover: "https://files.libcom.org/files/2024-05/caricovers.png"
 mirror_state: none
 tags:
   - "Committee Against Repression in Italy (CARII)"

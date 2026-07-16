@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/jean-paul-marat-historico-biographical-sketch-ernest-belfort-bax"
+cover: "https://files.libcom.org/files/images/library/jean_paul_marat.jpg"
 mirror_state: none
 tags:
   - "biographies"

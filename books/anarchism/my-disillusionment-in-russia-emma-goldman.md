@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/my-disillusionment-russia-emma-goldman"
+cover: "https://files.libcom.org/files/images/history/300px-Emma_Goldman_gives_eulogy_at_Peter_Kropotkin%27s_funeral.jpg"
 mirror_state: full
 tags:
   - "Emma Goldman"

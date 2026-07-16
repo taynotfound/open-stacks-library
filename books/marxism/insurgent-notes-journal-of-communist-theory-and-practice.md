@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/insurgent-notes-journal-communist-theory-and-practice"
+cover: "https://files.libcom.org/files/2025-11/INx8_0.png"
 mirror_state: none
 tags:
   - "Loren Goldner"

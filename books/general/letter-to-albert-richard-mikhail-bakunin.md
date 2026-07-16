@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/letter-albert-richard-mikhail-bakunin"
+cover: ""
 mirror_state: none
 tags:
   - "Mikhail Bakunin"

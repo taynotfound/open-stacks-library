@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/cable-street-beat-review"
+cover: "https://files.libcom.org/files/images/library/CSB%20header.png"
 mirror_state: none
 tags:
   - "1980s"

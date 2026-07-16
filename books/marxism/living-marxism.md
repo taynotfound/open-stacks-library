@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/living-marxism"
+cover: "https://files.libcom.org/files/images/library/living-marxism-fall-1940.jpg"
 mirror_state: none
 tags:
   - "United States"

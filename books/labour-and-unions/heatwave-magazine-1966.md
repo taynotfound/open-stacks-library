@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/heatwave-magazine-1966"
+cover: "https://files.libcom.org/files/2023-04/heatwavecov.png"
 mirror_state: none
 tags:
   - "Heatwave"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/reply-moshe-and-brovkin-william-g-rosenberg"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

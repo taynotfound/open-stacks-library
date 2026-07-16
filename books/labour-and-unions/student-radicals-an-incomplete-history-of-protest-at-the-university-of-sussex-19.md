@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/student-radicals-incomplete-history-protest-university-sussex-1971-75"
+cover: "https://files.libcom.org/files/images/library/red-flag-1970.jpg"
 mirror_state: full
 tags:
   - "United Kingdom"

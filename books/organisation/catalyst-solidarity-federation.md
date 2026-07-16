@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/catalyst-solidarity-federation"
+cover: ""
 mirror_state: full
 tags:
   - "Solidarity Federation"

@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/new-movement-henri-simon"
-mirror_state: none
+cover: "https://files.libcom.org/files/2022-08/thenewmovement.png"
+mirror_state: full
 tags:
   - "Henri Simon"
   - "Solidarity"
@@ -13,8 +14,8 @@ tags:
 files:
   - name: "solidarity-pamphlet-n51.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/solidarity-pamphlet-n51.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/solidarity-pamphlet-n51.pdf"
+    hosted: true
 ---
 
 # The New Movement - Henri Simon
@@ -23,6 +24,6 @@ files:
 Solidarity pamphlet 51, published 1976.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/solidarity-pamphlet-n51.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/solidarity-pamphlet-n51.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/new-movement-henri-simon)

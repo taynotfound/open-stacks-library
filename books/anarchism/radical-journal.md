@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/radical-journal"
+cover: "https://files.libcom.org/files/images/library/radical.jpg"
 mirror_state: none
 tags:
   - "Radical"

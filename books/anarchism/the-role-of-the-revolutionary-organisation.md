@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/role-revolutionary-organisation"
+cover: "https://files.libcom.org/files/images/library/RORO%20Cover_0.jpg"
 mirror_state: full
 tags:
   - "organisation"

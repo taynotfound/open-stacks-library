@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/parecon-or-libertarian-communism"
+cover: "https://files.libcom.org/files/debate.png"
 mirror_state: none
 tags:
   - "libcom.org"

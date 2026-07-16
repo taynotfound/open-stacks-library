@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/library/paris-commune-1871-undercurrent-6"
+cover: ""
 mirror_state: none
 tags:
   - "Undercurrent"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/social-revolution-journal"
+cover: ""
 mirror_state: none
 tags:
   - "1970s"

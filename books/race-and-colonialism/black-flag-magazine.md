@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/black-flag-magazine"
+cover: "https://files.libcom.org/files/images/library/bf4-6-jan1976_1.png"
 mirror_state: none
 tags:
   - "Black Flag"

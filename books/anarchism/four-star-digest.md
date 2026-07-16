@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/four-star-digest"
+cover: "https://files.libcom.org/files/images/library/digest.png"
 mirror_state: none
 tags:
   - "United States"

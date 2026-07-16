@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syndicalism-and-anarcho-syndicalism-germany"
+cover: "https://files.libcom.org/files/images/history/FAUD.png"
 mirror_state: full
 tags:
   - "anarchism"

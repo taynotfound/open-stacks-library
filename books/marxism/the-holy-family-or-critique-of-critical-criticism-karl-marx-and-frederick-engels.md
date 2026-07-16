@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/holy-family-or-critique-critical-criticism-karl-marx-and-frederick-engels"
+cover: "https://files.libcom.org/files/images/library/7705080.jpg"
 mirror_state: full
 tags:
   - "Karl Marx"

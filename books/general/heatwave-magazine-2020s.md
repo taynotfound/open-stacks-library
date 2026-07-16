@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/heatwave-magazine-2020s"
+cover: ""
 mirror_state: none
 tags:
   - "publications"

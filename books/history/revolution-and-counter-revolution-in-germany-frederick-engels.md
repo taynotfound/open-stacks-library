@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/library/revolution-counter-revolution-germany"
+cover: ""
 mirror_state: full
 tags:
   - "Friedrich Engels"

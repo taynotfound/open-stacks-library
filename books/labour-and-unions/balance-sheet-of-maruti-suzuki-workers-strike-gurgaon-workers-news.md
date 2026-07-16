@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/balance-sheet-maruti-suzuki-workers-strike-gurgaon-workers-news"
+cover: "https://files.libcom.org/files/images/library/maruti%20suzuki.jpg"
 mirror_state: none
 tags:
   - "Gurgaon Workers News"

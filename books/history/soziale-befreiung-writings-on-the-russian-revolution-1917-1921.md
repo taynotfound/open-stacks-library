@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/soziale-befreiung-writings-russian-revolution-1917-1921"
+cover: "https://files.libcom.org/files/images/history/100-Years-of-Russian-Revolution-Communism-Democracy.jpg"
 mirror_state: none
 tags:
   - "Russian Revolution 1917"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/ngo-sector-trojan-horse-capitalism"
+cover: "https://files.libcom.org/files/images/library/LiberalsRiotNow_0.jpg"
 mirror_state: full
 tags:
   - "anarchism"

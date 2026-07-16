@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/middlesex-declaration-precariat"
+cover: ""
 mirror_state: none
 tags:
   - "Best of the worst"

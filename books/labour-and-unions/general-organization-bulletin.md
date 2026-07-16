@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/general-organization-bulletin"
+cover: "https://files.libcom.org/files/2025-04/362511246.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

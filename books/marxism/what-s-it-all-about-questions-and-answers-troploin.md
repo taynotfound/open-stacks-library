@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/library/whats-it-all-about-questions-answers-troploin"
+cover: ""
 mirror_state: none
 tags:
   - "Gilles Dauvé"

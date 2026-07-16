@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchy-organization-debate-1907-international-anarchist-congress"
+cover: ""
 mirror_state: none
 tags:
   - "Errico Malatesta"

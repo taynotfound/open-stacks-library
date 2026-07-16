@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-dreadnought"
+cover: "https://files.libcom.org/files/2025-04/WD%20Main%20Cover_0.jpg"
 mirror_state: none
 tags:
   - "Sylvia Pankhurst"

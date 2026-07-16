@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/campaign-redistribute-pain-2018"
+cover: "https://files.libcom.org/files/images/library/Amend-the-13th-Amendment-art-by-Rashid-1116-web.jpg"
 mirror_state: none
 tags:
   - "These articles first appeared in the San Francisco Bay View."

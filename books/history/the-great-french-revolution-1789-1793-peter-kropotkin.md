@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/great-french-revolution-1789-1793-peter-kropotkin"
+cover: "https://files.libcom.org/files/images/history/Liberty.jpg"
 mirror_state: full
 tags:
   - "Peter Kropotkin"

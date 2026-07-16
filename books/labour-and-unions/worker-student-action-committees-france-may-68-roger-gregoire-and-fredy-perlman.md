@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/worker-student-action-committees-france-may-68-roger-gregoire-and-fredy-perlman"
+cover: "https://files.libcom.org/files/images/history/May-68.jpg"
 mirror_state: full
 tags:
   - "Fredy Perlman"

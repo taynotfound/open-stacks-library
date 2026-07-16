@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/sic-international-journal-communisation"
+cover: "https://files.libcom.org/files/images/library/sic.jpg"
 mirror_state: none
 tags:
   - "Sic"

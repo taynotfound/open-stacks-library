@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/monetary-crisis-capitalism-origin-development-aleksei-stadnichenko"
+cover: "https://files.libcom.org/files/images/library/gold%20%282%29.png"
 mirror_state: none
 tags:
   - "money"

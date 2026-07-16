@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-newspaper"
+cover: "https://files.libcom.org/files/2025-04/1917.05.19%20p.1-402.jpg"
 mirror_state: none
 tags:
   - "publications"

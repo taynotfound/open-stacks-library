@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-who-turned-bolsheviks-nick-heath"
+cover: ""
 mirror_state: none
 tags:
   - "Nick Heath"

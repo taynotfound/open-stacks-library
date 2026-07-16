@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solidarity-aotearoa-workers-solidarity-movement"
+cover: "https://files.libcom.org/files/images/library/solidarityissue12_0.jpg"
 mirror_state: none
 tags:
   - "Aotearoa Workers Solidarity Movement (AWSM)"

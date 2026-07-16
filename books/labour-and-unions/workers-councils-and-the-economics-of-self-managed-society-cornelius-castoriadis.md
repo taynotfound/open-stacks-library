@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-councils-and-economics-self-managed-society-cornelius-castoriadis"
+cover: "https://files.libcom.org/files/images/library/cover_2.jpg"
 mirror_state: full
 tags:
   - "Solidarity"

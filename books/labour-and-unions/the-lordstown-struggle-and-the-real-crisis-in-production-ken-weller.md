@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/lordstown-struggle-and-real-crisis-production-ken-weller"
+cover: "https://files.libcom.org/files/0.jpg"
 mirror_state: full
 tags:
   - "Ken Weller"

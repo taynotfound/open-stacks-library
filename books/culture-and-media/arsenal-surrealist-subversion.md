@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/arsenal-surrealist-subversion"
+cover: "https://files.libcom.org/files/2024-02/Arsenal%20-%20Surrealist%20Subversion%201.jpg"
 mirror_state: none
 tags:
   - "Franklin Rosemont"

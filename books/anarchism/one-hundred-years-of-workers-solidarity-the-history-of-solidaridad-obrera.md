@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/one-hundred-years-workers-solidarity-history-solidaridad-obrera"
+cover: "https://files.libcom.org/files/images/history/So.jpg"
 mirror_state: none
 tags:
   - "Spain"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/how-fast-it-all-blows-some-lessons-2001-cincinnati-riots"
+cover: "https://files.libcom.org/files/images/library/how_fast_it_all_blows_up.jpg"
 mirror_state: none
 tags:
   - "United States"

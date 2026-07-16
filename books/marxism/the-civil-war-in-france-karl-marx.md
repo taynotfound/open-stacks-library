@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/civil-war-france-karl-marx"
+cover: "https://files.libcom.org/files/images/history/Barricade_Voltaire_Lenoir_Commune_Paris_1871.jpg"
 mirror_state: full
 tags:
   - "Karl Marx"

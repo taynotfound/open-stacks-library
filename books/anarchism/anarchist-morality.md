@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchist-morality-peter-kropotkin"
+cover: ""
 mirror_state: none
 tags:
   - "Peter Kropotkin"

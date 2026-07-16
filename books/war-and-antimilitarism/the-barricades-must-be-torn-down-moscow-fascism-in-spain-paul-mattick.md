@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/barricades-must-be-torn-down-moscow-fascism-spain-paul-mattick"
+cover: "https://files.libcom.org/files/images/history/Barricades%20-%20Barcelona%20May%2037.jpg"
 mirror_state: none
 tags:
   - "Paul Mattick"

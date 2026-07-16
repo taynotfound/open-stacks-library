@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/communication-worker-bulletin"
+cover: "https://files.libcom.org/files/2022-10/DC0AA246-81F6-4B7E-BAE5-25CA0BB841B5.jpeg"
 mirror_state: none
 tags:
   - "Communication Workers Group"

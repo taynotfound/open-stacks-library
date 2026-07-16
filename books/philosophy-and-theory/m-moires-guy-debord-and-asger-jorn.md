@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/memoires-guy-debord-and-asger-jorn"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/memoires.png"
+mirror_state: full
 tags:
   - "Guy Debord"
   - "United Kingdom"
@@ -13,12 +14,12 @@ tags:
 files:
   - name: "memoires-debord-jorn.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/memoires-debord-jorn.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/memoires-debord-jorn.pdf"
+    hosted: true
   - name: "Debord_Guy_Jorn_Asger_Memoires_1993.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Debord_Guy_Jorn_Asger_Memoires_1993.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Debord_Guy_Jorn_Asger_Memoires_1993.pdf"
+    hosted: true
 ---
 
 # Mémoires - Guy Debord and Asger Jorn
@@ -27,7 +28,7 @@ files:
 An influential art book by Guy Debord and Asger Jorn, first published in December 1958 by the Copenhagen SI, with a second issue in 1959. Renowned for its sandpaper cover which inspired, among others, the design for the 1980 debut album of the English post-punk band The Durruti Column, 'The Return of the Durutti Column'.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/memoires-debord-jorn.pdf)
-- [PDF](https://files.libcom.org/files/Debord_Guy_Jorn_Asger_Memoires_1993.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/memoires-debord-jorn.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Debord_Guy_Jorn_Asger_Memoires_1993.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/memoires-guy-debord-and-asger-jorn)

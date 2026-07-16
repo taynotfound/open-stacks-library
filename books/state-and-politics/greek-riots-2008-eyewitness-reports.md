@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/greek-riots-2008-eyewitness-reports"
+cover: "https://files.libcom.org/files/images/history/Greece.jpg"
 mirror_state: none
 tags:
   - "riots"

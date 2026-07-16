@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/rank-and-file-or-broad-left-short-history-building-worker-group"
+cover: "https://files.libcom.org/files/images/library/bwgpix1.jpg"
 mirror_state: none
 tags:
   - "United Kingdom"

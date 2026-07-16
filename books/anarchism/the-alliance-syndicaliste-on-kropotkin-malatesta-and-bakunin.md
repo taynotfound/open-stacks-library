@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/alliance-syndicaliste-kropotkin-malatesta-and-bakunin"
+cover: "https://files.libcom.org/files/images/library/SO.png"
 mirror_state: none
 tags:
   - "Peter Kropotkin"

@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/point-blank-journal-1972"
-mirror_state: none
+cover: "https://files.libcom.org/files/2022-12/pb1-a.jpg"
+mirror_state: full
 tags:
   - "Point Blank!"
   - "PDF"
@@ -13,8 +14,8 @@ tags:
 files:
   - name: "Point_Blank_Journal_no1.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2022-12/Point_Blank_Journal_no1.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Point_Blank_Journal_no1.pdf"
+    hosted: true
 ---
 
 # Point-Blank! Journal (1972)
@@ -23,6 +24,6 @@ files:
 Only issue of the journal of the San Francisco situationist group Point Blank.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/2022-12/Point_Blank_Journal_no1.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Point_Blank_Journal_no1.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/point-blank-journal-1972)

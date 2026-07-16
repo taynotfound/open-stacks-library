@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/fighting-call-bulletin"
+cover: "https://files.libcom.org/files/images/library/fighting-call.jpg"
 mirror_state: none
 tags:
   - "Anti-Parliamentary Communist Federation (APCF)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/bolsheviks-civil-war-and-red-fascism"
+cover: "https://files.libcom.org/files/images/library/lenin_speech%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "Russia"

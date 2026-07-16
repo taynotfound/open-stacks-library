@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/peasants-russians-utopian-essence-war-communism-bertrand-m-patenaude"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

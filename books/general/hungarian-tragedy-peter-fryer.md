@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/hungarian-tragedy-peter-fryer"
+cover: "https://files.libcom.org/files/images/library/peter-fryer-hungarian-tragedy.jpg"
 mirror_state: full
 tags:
   - "journalism"

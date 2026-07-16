@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/not-love-story-armed-struggle-against-institutions-patriarchy"
+cover: "https://files.libcom.org/files/2024-11/IMG_1987.jpeg"
 mirror_state: full
 tags:
   - "Ann Henson"

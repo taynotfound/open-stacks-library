@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/program-alliance"
+cover: ""
 mirror_state: none
 tags:
   - "Mikhail Bakunin"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/not-coorier-open-bulletin-libertarian-socialists"
+cover: "https://files.libcom.org/files/2024-08/coorier-masthead.png"
 mirror_state: none
 tags:
   - "Scotland"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/value-price-and-profit-karl-marx"
+cover: "https://files.libcom.org/files/images/library/iwma%5B1%5D.gif"
 mirror_state: full
 tags:
   - "Karl Marx"

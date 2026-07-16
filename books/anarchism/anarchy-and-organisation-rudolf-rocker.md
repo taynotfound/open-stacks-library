@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchy-and-organisation-rudolf-rocker"
+cover: ""
 mirror_state: full
 tags:
   - "Rudolf Rocker"

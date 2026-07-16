@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/unholy-alliance-seamens-strike-analysis-george-foulser"
+cover: "https://files.libcom.org/files/images/history/2483729509_465cb95661_o.jpg"
 mirror_state: full
 tags:
   - "George Foulser"

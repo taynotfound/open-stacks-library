@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/oiseau-tempete-magazine"
+cover: "https://files.libcom.org/files/2025-05/0_1.png"
 mirror_state: none
 tags:
   - "Oiseau-tempête"

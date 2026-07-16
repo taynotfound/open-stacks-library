@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/critical-hidden-history-king-mob-david-wise"
-mirror_state: none
+cover: "https://files.libcom.org/files/2023-05/wrath.jpg"
+mirror_state: full
 tags:
   - "David Wise"
   - "King Mob"
@@ -12,8 +13,8 @@ tags:
 files:
   - name: "JumbledNotesACriticalHiddenHistoryOfKingMob.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/2023-05/JumbledNotesACriticalHiddenHistoryOfKingMob.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/JumbledNotesACriticalHiddenHistoryOfKingMob.pdf"
+    hosted: true
 ---
 
 # A Critical Hidden History of King Mob - David Wise
@@ -22,6 +23,6 @@ files:
 An expansive memoir of English Situationist-influenced group King Mob, by one of its members. Written 1999-2003 and originally published on the Revolt Against Plenty website in 2007.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/2023-05/JumbledNotesACriticalHiddenHistoryOfKingMob.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/JumbledNotesACriticalHiddenHistoryOfKingMob.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/critical-hidden-history-king-mob-david-wise)

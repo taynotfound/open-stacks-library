@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-collectivisation-during-spanish-revolution-deirdre-hogan"
+cover: "https://files.libcom.org/files/images/history/phoca_thumb_l_kollektivbetrieb8%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "revolutions"

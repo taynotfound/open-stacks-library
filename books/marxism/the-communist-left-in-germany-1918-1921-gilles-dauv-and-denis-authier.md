@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-left-germany-1918-1921-gilles-dauve-and-denis-authier"
+cover: "https://files.libcom.org/files/images/library/Bundesarchiv_Bild_146-2004-0048%2C_Revolution_in_Bayern%2C_Gefangener.jpg"
 mirror_state: full
 tags:
   - "Gilles Dauvé"

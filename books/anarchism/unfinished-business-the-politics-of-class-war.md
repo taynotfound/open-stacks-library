@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/unfinished-business-politics-class-war"
+cover: "https://files.libcom.org/files/images/library/unfinished_fram.jpg"
 mirror_state: full
 tags:
   - "Class War Federation"

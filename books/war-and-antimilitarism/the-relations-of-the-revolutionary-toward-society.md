@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/library/relations-revolutionary-toward-society"
+cover: ""
 mirror_state: none
 tags:
   []

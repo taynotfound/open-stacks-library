@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/contradiction-trotsky-claude-lefort"
+cover: "https://files.libcom.org/files/images/history/stalin-and-trostky-03.jpg"
 mirror_state: none
 tags:
   - "Marxism"

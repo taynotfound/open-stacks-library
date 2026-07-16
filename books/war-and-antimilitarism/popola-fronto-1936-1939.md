@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/popola-fronto-1936-1939"
+cover: "https://files.libcom.org/files/images/library/Popola%20Fronto.png"
 mirror_state: none
 tags:
   - "Spanish civil war"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/guia-introdutorio-libcom"
+cover: "https://files.libcom.org/files/images/library/27Oct_Portugal_800x600.jpg"
 mirror_state: none
 tags:
   - "Português"

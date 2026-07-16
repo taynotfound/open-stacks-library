@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/law-value-series"
+cover: "https://files.libcom.org/files/images/library/20060220100806%21Rivera_detroit_industry_north.jpg"
 mirror_state: none
 tags:
   - "capitalism"

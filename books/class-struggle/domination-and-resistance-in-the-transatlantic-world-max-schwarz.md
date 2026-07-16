@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/domination-and-resistance-transatlantic-world-max-schwarz"
+cover: "https://files.libcom.org/files/images/history/hercules_vs_hydra.jpg"
 mirror_state: none
 tags:
   - "capitalism"

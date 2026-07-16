@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/our-activity-late-1980s-and-1990s-activity-and-balance-sheet-antagonism"
+cover: ""
 mirror_state: none
 tags:
   - "Antagonism"

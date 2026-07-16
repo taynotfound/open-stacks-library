@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/we-see-it-dont-see-it-solidarity"
+cover: "https://files.libcom.org/files/2023-01/asweseeit_0.png"
 mirror_state: none
 tags:
   - "Solidarity"

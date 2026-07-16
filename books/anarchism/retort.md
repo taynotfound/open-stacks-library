@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/retort"
+cover: "https://files.libcom.org/files/images/library/retort.jpg"
 mirror_state: none
 tags:
   - "Retort"

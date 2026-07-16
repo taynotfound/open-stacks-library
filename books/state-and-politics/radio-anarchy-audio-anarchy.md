@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/radio-anarchy-audio-anarchy"
+cover: "https://files.libcom.org/files/images/library/anarchy-box2.jpg"
 mirror_state: none
 tags:
   - "United States"

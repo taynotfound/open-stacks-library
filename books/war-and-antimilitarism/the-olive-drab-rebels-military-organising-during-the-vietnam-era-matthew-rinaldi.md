@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/olive-drab-rebels-military-organising-during-vietnam-era-matthew-rinaldi"
+cover: "https://files.libcom.org/files/images/history/image001%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "war"

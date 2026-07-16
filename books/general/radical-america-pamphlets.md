@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/radical-america-pamphlets"
+cover: "https://files.libcom.org/files/2025-03/ra-pamph.png"
 mirror_state: none
 tags:
   - "Radical America"

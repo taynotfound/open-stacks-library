@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/vanguard-libertarian-communist-journal"
+cover: "https://files.libcom.org/files/2022-04/vanguard-cover.png"
 mirror_state: none
 tags:
   - "Vanguard (publication)"

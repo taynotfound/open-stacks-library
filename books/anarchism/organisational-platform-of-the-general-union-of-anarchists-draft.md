@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/organisational-platform-general-union-anarchists-draft"
+cover: "https://files.libcom.org/files/images/library/makhno_1921%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "organisation"

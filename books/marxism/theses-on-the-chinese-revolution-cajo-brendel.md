@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/theses-chinese-revolution-cajo-brendel"
+cover: "https://files.libcom.org/files/images/history/red-book.jpg"
 mirror_state: full
 tags:
   - "Cajo Brendel"

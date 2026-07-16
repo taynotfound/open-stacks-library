@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/class-war-072018-airstrikes-syria-third-world-war-show-or-reality-no-war-class-war"
+cover: "https://files.libcom.org/files/images/news/CW7.jpg"
 mirror_state: none
 tags:
   - "Syria"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/race-traitor-journal-new-abolitionism"
+cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202018-12-19%20at%2017.48.04_0.png"
 mirror_state: none
 tags:
   - "racism"

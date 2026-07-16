@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/tides-flame"
+cover: "https://files.libcom.org/files/images/library/cropped-tofwebsitebannerlines13.jpg"
 mirror_state: none
 tags:
   - "United States"

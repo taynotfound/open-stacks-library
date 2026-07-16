@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/revolutionary-government-peter-kropotkin"
+cover: "https://files.libcom.org/files/images/library/Committee-safety.jpg"
 mirror_state: full
 tags:
   - "Peter Kropotkin"

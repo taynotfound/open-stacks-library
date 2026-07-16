@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/singlejack-solidarity-stan-weir"
+cover: "https://files.libcom.org/files/images/library/081664294X.01._SX220_SCLZZZZZZZ_.jpg"
 mirror_state: full
 tags:
   - "workplace activity"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/red-and-black-revolution"
+cover: "https://files.libcom.org/files/images/library/D89DCC79-9DD4-4E54-85BB-F0DFAEF95CC4.jpeg"
 mirror_state: none
 tags:
   - "Workers Solidarity Movement"

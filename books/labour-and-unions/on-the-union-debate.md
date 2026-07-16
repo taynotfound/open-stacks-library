@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/union-debate"
+cover: "https://files.libcom.org/files/images/library/Labor-Rally.jpg"
 mirror_state: none
 tags:
   - "unions"

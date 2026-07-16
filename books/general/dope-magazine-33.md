@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/dope-magazine-33"
+cover: "https://files.libcom.org/files/2026-04/dope33cov.png"
 mirror_state: none
 tags:
   - "DOPE Magazine"

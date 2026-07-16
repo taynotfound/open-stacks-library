@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/thirst-gold-will-leave-us-without-water-graffiti-latin-america-and-spain"
+cover: "https://files.libcom.org/files/2024-02/1706189164559blob_0.jpg"
 mirror_state: none
 tags:
   - "Stuart Wise"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/homage-catalonia-george-orwell"
+cover: "https://files.libcom.org/files/images/library/poum1.jpg"
 mirror_state: full
 tags:
   - "fascism"

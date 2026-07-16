@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-against-work-labor-paris-and-barcelona-during-popular-fronts-michael-seidman"
+cover: "https://files.libcom.org/files/images/library/WaW_cover_0.jpg"
 mirror_state: full
 tags:
   - "Michael Seidman"

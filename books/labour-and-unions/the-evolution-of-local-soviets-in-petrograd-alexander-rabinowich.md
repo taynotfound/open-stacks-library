@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/evolution-local-soviets-petrograd-alexander-rabinowich"
+cover: ""
 mirror_state: none
 tags:
   - "Russia"

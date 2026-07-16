@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/aus-der-werkstatt-der-deutschen-revolution-emil-barth"
+cover: "https://files.libcom.org/files/images/library/Emil%20Barth.jpg"
 mirror_state: none
 tags:
   - "German Revolution 1918"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/struggle-against-fascism-begins-struggle-against-bolshevism-otto-ruhle"
+cover: "https://files.libcom.org/files/images/library/Hitler-Stalin.jpg"
 mirror_state: full
 tags:
   - "Otto Rühle"

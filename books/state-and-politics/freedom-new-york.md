@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/freedom-new-york"
+cover: ""
 mirror_state: none
 tags:
   - "Road to Freedom Association"

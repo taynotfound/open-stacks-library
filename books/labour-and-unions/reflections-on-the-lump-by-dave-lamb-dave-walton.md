@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/reflections-lump-dave-lamb-dave-walton"
+cover: "https://files.libcom.org/files/images/history/liverpool.jpg"
 mirror_state: none
 tags:
   - "Dave Walton"

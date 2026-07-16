@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/occupation-dead-end"
+cover: "https://files.libcom.org/files/images/library/yellow.jpg"
 mirror_state: none
 tags:
   - "education"

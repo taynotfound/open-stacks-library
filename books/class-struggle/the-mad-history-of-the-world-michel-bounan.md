@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/mad-history-world-michel-bounan"
+cover: "https://files.libcom.org/files/images/library/Jan-gossaert-merchant-001_0.jpg"
 mirror_state: none
 tags:
   - "technology"

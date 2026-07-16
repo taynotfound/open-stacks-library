@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/working-class-autonomy-and-crisis-red-notes"
+cover: "https://files.libcom.org/files/images/library/02-wcaatc-front.png"
 mirror_state: none
 tags:
   - "Red Notes"

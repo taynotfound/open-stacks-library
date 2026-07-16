@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/selections-perspectivas-antidesarrollistas-miguel-amoros"
+cover: "https://files.libcom.org/files/images/library/xxii-celina-su.jpg"
 mirror_state: none
 tags:
   - "environment"

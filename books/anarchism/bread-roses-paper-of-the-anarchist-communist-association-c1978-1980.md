@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/bread-roses-paper-anarchist-communist-association-c1978-1980"
+cover: "https://files.libcom.org/files/images/library/B%26R%20header.png"
 mirror_state: none
 tags:
   - "Anarchist Communist Association"

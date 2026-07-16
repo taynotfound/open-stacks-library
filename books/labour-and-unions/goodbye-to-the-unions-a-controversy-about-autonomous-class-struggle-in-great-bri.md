@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/goodbye-unions-controversy-about-autonomous-class-struggle-great-britain"
+cover: "https://files.libcom.org/files/images/history/Winter%20of%20Discontent%201979%20-%20councilworkers.jpg"
 mirror_state: full
 tags:
   - "Dave Douglass"

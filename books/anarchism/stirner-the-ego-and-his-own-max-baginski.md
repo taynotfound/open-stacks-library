@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/stirner-ego-his-own"
+cover: ""
 mirror_state: none
 tags:
   - "anarchism"

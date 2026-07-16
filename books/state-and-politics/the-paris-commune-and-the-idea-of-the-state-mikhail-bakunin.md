@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/paris-commune-and-idea-state-mikhail-bakunin"
+cover: "https://files.libcom.org/files/images/history/pariscommune1871.jpg"
 mirror_state: full
 tags:
   - "Mikhail Bakunin"

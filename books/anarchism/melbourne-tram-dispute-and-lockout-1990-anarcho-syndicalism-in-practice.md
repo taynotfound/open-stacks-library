@@ -4,6 +4,7 @@ author: "Dick Curlewis"
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/melbourne-tram-dispute-and-lockout-1990-anarcho-syndicalism-practice"
+cover: "https://files.libcom.org/files/Melbourne2035%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "strikes"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/black-voice"
+cover: "https://files.libcom.org/files/images/library/BlackVoice.jpg"
 mirror_state: none
 tags:
   - "United Black Workers"

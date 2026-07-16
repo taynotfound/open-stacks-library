@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "history"
 source: "https://libcom.org/article/poll-tax-rebellion-danny-burns"
+cover: "https://files.libcom.org/files/images/history/poll-tax_0.jpg"
 mirror_state: full
 tags:
   - "community activity"

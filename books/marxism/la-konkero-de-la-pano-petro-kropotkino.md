@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/la-konkero-de-la-pano-petro-kropotkino"
+cover: "https://files.libcom.org/files/images/library/zw4f64585d.jpg"
 mirror_state: none
 tags:
   - "Peter Kropotkin"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/making-english-working-class-e-p-thompson"
+cover: "https://files.libcom.org/files/images/history/factory.jpg"
 mirror_state: full
 tags:
   - "EP Thompson"

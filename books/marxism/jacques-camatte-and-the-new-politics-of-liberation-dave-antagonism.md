@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/jacques-camatte-and-new-politics-liberation-dave-antagonism"
+cover: "https://files.libcom.org/files/images/library/CYBERPUNK1.jpg"
 mirror_state: none
 tags:
   - "Dave Antagonism"

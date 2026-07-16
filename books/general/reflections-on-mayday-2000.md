@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/reflections-mayday-2000"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/maydaycov.png"
+mirror_state: full
 tags:
   - "activism"
   - "2000s"
@@ -15,12 +16,12 @@ tags:
 files:
   - name: "Reflections_On_Mayday_1-20.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Reflections_On_Mayday_1-20.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Reflections_On_Mayday_1-20.pdf"
+    hosted: true
   - name: "Reflections_On_Mayday_21-40.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Reflections_On_Mayday_21-40.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Reflections_On_Mayday_21-40.pdf"
+    hosted: true
 ---
 
 # Reflections on Mayday 2000
@@ -29,7 +30,7 @@ files:
 A collection of texts reflecting on Mayday 2000: A festival of anti-capitalist ideas and action in London. PDFs courtesy of the comrades at Sparrows Nest Archive, Nottingham.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Reflections_On_Mayday_1-20.pdf)
-- [PDF](https://files.libcom.org/files/Reflections_On_Mayday_21-40.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Reflections_On_Mayday_1-20.pdf) (self-hosted)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Reflections_On_Mayday_21-40.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/reflections-mayday-2000)

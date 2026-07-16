@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/red-black-anarchist-journal"
+cover: "https://files.libcom.org/files/images/library/red-black-journal.jpg"
 mirror_state: none
 tags:
   - "anarchism"

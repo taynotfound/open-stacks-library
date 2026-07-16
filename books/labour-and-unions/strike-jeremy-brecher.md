@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/strike-jeremy-brecher"
+cover: "https://files.libcom.org/files/images/history/strike-cover.jpg"
 mirror_state: full
 tags:
   - "Jeremy Brecher"

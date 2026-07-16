@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/krasnoyarsk-russia-love-no-war-class-war"
+cover: "https://files.libcom.org/files/images/news/yfivT7gClpM.jpg"
 mirror_state: none
 tags:
   - "internationalism"

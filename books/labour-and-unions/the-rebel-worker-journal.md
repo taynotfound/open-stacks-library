@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/rebel-worker-journal"
+cover: ""
 mirror_state: none
 tags:
   - "The Rebel Worker (IWW)"

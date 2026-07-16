@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/views-and-comments"
+cover: "https://files.libcom.org/files/images/library/Views%20and%20Comments%20No.%2046%20%28Spring%201964%29_0.jpg"
 mirror_state: none
 tags:
   - "anarchism"

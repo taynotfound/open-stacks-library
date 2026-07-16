@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/conquest-bread-peter-kropotkin"
+cover: "https://files.libcom.org/files/images/library/sp001662%5B1%5D.jpg"
 mirror_state: full
 tags:
   - "Peter Kropotkin"

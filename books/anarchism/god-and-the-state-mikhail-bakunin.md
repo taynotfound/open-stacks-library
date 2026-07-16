@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/god-and-state-mikhail-bakunin"
+cover: "https://files.libcom.org/files/images/library/001195d5_medium.jpeg"
 mirror_state: full
 tags:
   - "Mikhail Bakunin"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/strategy-after-ferguson"
+cover: "https://files.libcom.org/files/images/library/BHS_ahayat18_0.jpg"
 mirror_state: none
 tags:
   - "racism"

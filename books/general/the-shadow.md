@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/shadow"
+cover: "https://files.libcom.org/files/2024-01/shadowcov1_0.png"
 mirror_state: none
 tags:
   - "publications"

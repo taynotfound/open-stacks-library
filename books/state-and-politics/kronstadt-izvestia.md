@@ -4,6 +4,7 @@ author: "Anatoli Lamanov"
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/kronstadt-izvestia"
+cover: "https://files.libcom.org/files/images/library/izvestia.png"
 mirror_state: none
 tags:
   - "Izvestia"

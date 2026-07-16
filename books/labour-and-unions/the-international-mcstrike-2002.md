@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/international-mcstrike-2002"
+cover: "https://files.libcom.org/files/images/history/mcdoof.jpg"
 mirror_state: none
 tags:
   - "McDonalds Workers Resistance"

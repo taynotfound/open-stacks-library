@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/leninism-or-marxism-rosa-luxemburg"
+cover: "https://files.libcom.org/files/2022-04/Rosa_Lux_Stuttgart_1907.jpg"
 mirror_state: full
 tags:
   - "Rosa Luxemburg"

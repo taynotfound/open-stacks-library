@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/interview-edelweiss-pirate-walter-mayer"
+cover: "https://files.libcom.org/files/0%2C%2C1390660_4%2C00%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "fascism"

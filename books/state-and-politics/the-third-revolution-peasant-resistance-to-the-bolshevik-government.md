@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/third-revolution-peasant-resistance-bolshevik-government"
+cover: "https://files.libcom.org/files/images/history/red-Army.jpg"
 mirror_state: full
 tags:
   - "Nick Heath"

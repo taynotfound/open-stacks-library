@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/occupy-oakland-advance-struggles-political-reflection"
+cover: "https://files.libcom.org/files/images/library/nov-2nd-sunset-cranes-big.jpg"
 mirror_state: none
 tags:
   - "United States"

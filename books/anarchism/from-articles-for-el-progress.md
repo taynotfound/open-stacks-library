@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/articles-el-progress"
+cover: "https://files.libcom.org/files/images/library/1869_bakunin_basle.jpg"
 mirror_state: none
 tags:
   - "Mikhail Bakunin"

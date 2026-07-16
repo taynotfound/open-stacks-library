@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/situationist-times"
+cover: "https://files.libcom.org/files/images/library/SI-Times-440x371_0.jpg"
 mirror_state: none
 tags:
   - "Jacqueline de Jong"

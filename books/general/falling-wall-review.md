@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/falling-wall-review"
+cover: "https://files.libcom.org/files/2024-05/5.png"
 mirror_state: none
 tags:
   - "Falling Wall Press"

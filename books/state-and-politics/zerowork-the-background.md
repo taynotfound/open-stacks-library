@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/zerowork-background"
+cover: ""
 mirror_state: none
 tags:
   - "Zerowork"

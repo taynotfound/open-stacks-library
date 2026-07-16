@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-opposition-iww"
+cover: "https://files.libcom.org/files/images/library/Workers-Opposition-1-19-1-1-001.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

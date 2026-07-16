@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/autonomia-post-political-politics"
+cover: "https://files.libcom.org/files/images/library/autonomia-post-political-politics_0.jpg"
 mirror_state: full
 tags:
   - "Antonio Negri"

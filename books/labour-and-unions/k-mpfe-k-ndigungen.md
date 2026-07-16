@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/kampfe-kundigungen"
+cover: "https://files.libcom.org/files/images/blog/CUPW%20Picket%20Line%20002.jpg"
 mirror_state: none
 tags:
   - "Phineas Gage"

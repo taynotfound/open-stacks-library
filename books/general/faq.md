@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/anakisuto-faq"
+cover: "https://files.libcom.org/files/images/library/Black-red-flag.jpg"
 mirror_state: none
 tags:
   - "日本語"

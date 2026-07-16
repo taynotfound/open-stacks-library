@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/soil-liberty-newsletter"
+cover: "https://files.libcom.org/files/images/library/soil-Liberty.jpg"
 mirror_state: none
 tags:
   - "Soil of Liberty"

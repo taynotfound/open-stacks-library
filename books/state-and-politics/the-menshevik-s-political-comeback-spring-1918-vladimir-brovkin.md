@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/mensheviks-political-comeback-spring-1918-vladimir-brovkin"
+cover: "https://files.libcom.org/files/images/history/vladmir-brovkin.jpg"
 mirror_state: full
 tags:
   - "Russia"

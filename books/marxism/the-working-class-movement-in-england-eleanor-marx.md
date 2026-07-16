@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/working-class-movement-england-eleanor-marx"
+cover: "https://files.libcom.org/files/images/library/chartism.jpg"
 mirror_state: none
 tags:
   - "Diggers"

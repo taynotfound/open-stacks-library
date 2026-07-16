@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/burning-river-revolutionary-anarchist-collective-documents"
+cover: "https://files.libcom.org/files/images/library/burningriveranarchist.png"
 mirror_state: none
 tags:
   - "anarchism"

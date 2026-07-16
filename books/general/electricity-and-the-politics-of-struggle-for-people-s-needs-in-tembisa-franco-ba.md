@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/library/electricity-tembisa-franco-barchiesi"
+cover: ""
 mirror_state: none
 tags:
   - "energy"

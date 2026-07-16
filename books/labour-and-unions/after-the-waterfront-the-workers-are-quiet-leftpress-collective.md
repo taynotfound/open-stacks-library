@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/after-waterfront-workers-are-quiet-leftpress-collective"
+cover: "https://files.libcom.org/files/images/library/union-membership.jpg"
 mirror_state: full
 tags:
   - "unions"

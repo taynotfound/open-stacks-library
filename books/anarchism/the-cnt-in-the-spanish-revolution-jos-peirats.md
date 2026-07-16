@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/cnt-spanish-revolution-jose-peirats"
+cover: "https://files.libcom.org/files/images/history/CNT.jpg"
 mirror_state: none
 tags:
   - "Spain"

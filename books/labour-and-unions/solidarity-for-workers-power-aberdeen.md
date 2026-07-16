@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solidarity-workers-power-aberdeen"
+cover: "https://files.libcom.org/files/images/library/A1875C53-8952-48DB-BEEB-A39043C57F15.jpeg"
 mirror_state: none
 tags:
   - "Solidarity"

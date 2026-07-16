@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/colombias-burning"
+cover: "https://files.libcom.org/files/images/news/Arde_Colombia.jpg"
 mirror_state: none
 tags:
   - "internationalism"

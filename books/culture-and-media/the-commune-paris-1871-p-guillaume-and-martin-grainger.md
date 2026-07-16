@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/commune-paris-1871-p-guillaume-and-martin-grainger"
+cover: "https://files.libcom.org/files/images/library/Paris%20commune.jpg"
 mirror_state: full
 tags:
   - "Maurice Brinton"

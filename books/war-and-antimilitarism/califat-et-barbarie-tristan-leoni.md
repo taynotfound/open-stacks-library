@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/califat-et-barbarie-tristan-leoni"
+cover: "https://files.libcom.org/files/images/library/123.png"
 mirror_state: none
 tags:
   - "Islam"

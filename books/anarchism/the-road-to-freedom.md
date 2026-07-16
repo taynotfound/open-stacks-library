@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/road-freedom"
+cover: "https://files.libcom.org/files/images/library/The%20Road%20to%20Freedom.png"
 mirror_state: none
 tags:
   - "anarchism"

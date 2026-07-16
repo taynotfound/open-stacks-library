@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/history-socialist-thought-gdh-cole"
+cover: "https://files.libcom.org/files/images/history/%24_57.JPG"
 mirror_state: none
 tags:
   - "Marxism"

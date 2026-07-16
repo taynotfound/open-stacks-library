@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/manifesto-libertarian-communism-georges-fontenis"
+cover: "https://files.libcom.org/files/images/library/Georges_Fontenis_2.png"
 mirror_state: full
 tags:
   - "Georges Fontenis"

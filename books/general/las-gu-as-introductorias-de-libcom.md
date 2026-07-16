@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/las-guias-introductorias-de-libcom"
+cover: "https://files.libcom.org/files/images/library/Huelga-01.jpg"
 mirror_state: none
 tags:
   - "Español"

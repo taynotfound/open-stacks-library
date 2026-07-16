@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/people-newspaper"
+cover: "https://files.libcom.org/files/images/library/the-people.png"
 mirror_state: none
 tags:
   - "United States"

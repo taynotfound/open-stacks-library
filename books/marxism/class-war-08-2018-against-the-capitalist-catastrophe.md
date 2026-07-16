@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-war-082018-against-capitalist-catastrophe"
+cover: "https://files.libcom.org/files/images/library/CW8.jpg"
 mirror_state: none
 tags:
   - "internationalism"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/wolverine-gay-voices-hostility"
+cover: ""
 mirror_state: none
 tags:
   - "Class War Federation"

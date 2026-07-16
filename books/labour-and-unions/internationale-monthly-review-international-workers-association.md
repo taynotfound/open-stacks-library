@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/internationale-monthly-review-international-workers-association"
+cover: "https://files.libcom.org/files/2025-10/internationale-masthead.png"
 mirror_state: none
 tags:
   - "International Workers' Association (IWA)"

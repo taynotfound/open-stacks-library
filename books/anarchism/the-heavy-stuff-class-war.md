@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/heavy-stuff-class-war"
+cover: "https://files.libcom.org/files/2024-02/IMG_1810.jpeg"
 mirror_state: none
 tags:
   - "Class War Federation"

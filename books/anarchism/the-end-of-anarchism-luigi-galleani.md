@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/end-anarchism-luigi-galleani"
+cover: "https://files.libcom.org/files/images/library/galleani04.jpg"
 mirror_state: full
 tags:
   - "anarchism"

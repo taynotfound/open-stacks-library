@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/dont-be-soldier-radical-anti-war-movement-north-london-1914-1918-ken-weller"
+cover: "https://files.libcom.org/files/images/history/Trafalgar-square.jpg"
 mirror_state: full
 tags:
   - "war"

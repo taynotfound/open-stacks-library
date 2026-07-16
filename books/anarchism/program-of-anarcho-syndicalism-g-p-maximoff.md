@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/program-anarcho-syndicalism-g-p-maximoff"
+cover: "https://files.libcom.org/files/images/library/sp001355.gif"
 mirror_state: full
 tags:
   - "Gregori Maximov"

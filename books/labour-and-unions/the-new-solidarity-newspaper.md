@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/new-solidarity-newspaper"
+cover: "https://files.libcom.org/files/images/library/The%20New%20Solidarity.jpg"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

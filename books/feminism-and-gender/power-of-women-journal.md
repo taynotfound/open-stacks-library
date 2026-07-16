@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/power-women-journal"
+cover: "https://files.libcom.org/files/2024-05/Power-of-Women-masthead.png"
 mirror_state: none
 tags:
   - "Power of Women collective (UK)"

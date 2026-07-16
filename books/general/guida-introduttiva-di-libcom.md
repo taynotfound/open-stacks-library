@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/guida-introduttiva-di-libcom"
+cover: "https://files.libcom.org/files/images/library/torino4_0.jpg"
 mirror_state: none
 tags:
   - "Italiano"

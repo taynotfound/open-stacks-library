@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/schnews-newsletter"
+cover: ""
 mirror_state: none
 tags:
   - "SchNEWS"

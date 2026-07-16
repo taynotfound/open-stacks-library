@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/library/insurrectionalist-anarchism-%E2%80%94-part-one"
+cover: ""
 mirror_state: none
 tags:
   - "insurrectionary anarchism"

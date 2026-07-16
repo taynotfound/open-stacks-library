@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "economics"
 source: "https://libcom.org/article/1990-1992-britain-and-politics-european-exchange-rate-mechanism"
+cover: "https://files.libcom.org/files/MajorLamont_203x150%5B2%5D.jpg"
 mirror_state: none
 tags:
   - "economics"

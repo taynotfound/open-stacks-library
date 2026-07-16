@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1990-91-immigrant-labour-japan-selections-ampo-journal"
+cover: ""
 mirror_state: none
 tags:
   - "racism"

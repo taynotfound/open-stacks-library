@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/mortar-volume-1"
+cover: "https://files.libcom.org/files/images/library/mortar_cover.jpg"
 mirror_state: full
 tags:
   - "Canada"

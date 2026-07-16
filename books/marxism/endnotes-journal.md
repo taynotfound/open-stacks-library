@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/endnotes-journal"
+cover: "https://files.libcom.org/files/images/library/endnotes-1.gif"
 mirror_state: full
 tags:
   - "Endnotes"

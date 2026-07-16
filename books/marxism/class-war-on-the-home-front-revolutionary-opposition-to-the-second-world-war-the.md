@@ -4,6 +4,7 @@ author: "Subversion"
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-war-home-front-revolutionary-opposition-second-world-war-anti-parliamentary-communist"
+cover: "https://files.libcom.org/files/images/library/war.jpg"
 mirror_state: full
 tags:
   - "organisation"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/kanri-shakai-managed-society-c-douglas-lewis-kogawa-tetsuo"
+cover: ""
 mirror_state: none
 tags:
   - "state"

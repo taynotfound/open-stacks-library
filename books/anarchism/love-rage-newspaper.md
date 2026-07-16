@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/love-rage-newspaper"
+cover: "https://files.libcom.org/files/images/library/L%26R%20header.png"
 mirror_state: none
 tags:
   - "Love and Rage"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/autobiographies-haymarket-martyrs"
+cover: "https://files.libcom.org/files/images/history/482478_372434359523496_1193501142_n.jpg"
 mirror_state: none
 tags:
   - "anarchism"

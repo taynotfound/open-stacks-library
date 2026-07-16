@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/modern-times"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/modern-times.png"
+mirror_state: full
 tags:
   - "United Kingdom"
   - "publications"
@@ -13,8 +14,8 @@ tags:
 files:
   - name: "modern-times.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/modern-times.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/modern-times.pdf"
+    hosted: true
 ---
 
 # Modern times
@@ -23,6 +24,6 @@ files:
 One-off ultraleft publication from London from 1987, looking at Thatcher's Britain and the global class struggle.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/modern-times.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/modern-times.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/modern-times)

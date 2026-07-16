@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/vengeance"
+cover: "https://files.libcom.org/files/images/library/1v2copy.jpg"
 mirror_state: none
 tags:
   - "anarchism"

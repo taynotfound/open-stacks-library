@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/negative-dialectics-theodor-adorno"
+cover: "https://files.libcom.org/files/images/library/adorno_0.jpg"
 mirror_state: none
 tags:
   - "Theodor Adorno"

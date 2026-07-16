@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "general"
 source: "https://libcom.org/article/counter-information-newsletter"
+cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202021-01-31%20at%2019.53.07.png"
 mirror_state: full
 tags:
   - "Counter Information"

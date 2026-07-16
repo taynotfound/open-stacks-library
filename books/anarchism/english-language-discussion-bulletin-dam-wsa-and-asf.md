@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/english-language-discussion-bulletin-dam-wsa-and-asf"
+cover: ""
 mirror_state: none
 tags:
   - "United States"

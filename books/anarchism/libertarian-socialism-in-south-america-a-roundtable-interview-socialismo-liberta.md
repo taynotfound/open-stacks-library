@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libertarian-socialism-south-america-roundtable-interviewsocialismo-libertario-en-sur"
+cover: "https://files.libcom.org/files/images/library/ASL%20Argentina.png"
 mirror_state: none
 tags:
   - "Black Rose Anarchist Federation"

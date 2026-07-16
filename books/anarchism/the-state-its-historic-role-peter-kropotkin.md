@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/state-its-historic-role-peter-kropotkin"
+cover: "https://files.libcom.org/files/images/library/thestate.JPG"
 mirror_state: full
 tags:
   - "Peter Kropotkin"

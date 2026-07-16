@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/xtra-paper-armchair-terrorists"
+cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202020-07-17%20at%2019.52.42.png"
 mirror_state: none
 tags:
   - "Xtra"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-manifesto-karl-marx-and-frederick-engels"
+cover: "https://files.libcom.org/files/images/library/387px-Communist-manifesto%5B1%5D.png"
 mirror_state: full
 tags:
   - "Karl Marx"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/seattle-worker"
+cover: "https://files.libcom.org/files/images/library/Seattle%20Worker%20APRIL-MAY%202018-page001.png"
 mirror_state: none
 tags:
   - "Industrial Workers of the World (IWW)"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/brief-history-liberia-1822-1991"
+cover: "https://files.libcom.org/files/lib01%5B1%5D.jpg"
 mirror_state: none
 tags:
   - "war"

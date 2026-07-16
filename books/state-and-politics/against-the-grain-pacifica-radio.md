@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "state-and-politics"
 source: "https://libcom.org/library/against-grain-pafica-radio"
+cover: ""
 mirror_state: none
 tags:
   - "United States"

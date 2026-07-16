@@ -4,7 +4,8 @@ author: ""
 date: ""
 category: "anarchism"
 source: "https://libcom.org/article/worker-cooperatives-and-revolution-history-and-possibilities-united-states"
-mirror_state: none
+cover: "https://files.libcom.org/files/images/library/revolution_0.jpg"
+mirror_state: full
 tags:
   - "anarcho-syndicalism"
   - "cooperatives"
@@ -17,8 +18,8 @@ tags:
 files:
   - name: "Worker Cooperatives and Revolution.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Worker Cooperatives and Revolution.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Worker_Cooperatives_and_Revolution.pdf"
+    hosted: true
 ---
 
 # Worker Cooperatives and Revolution: History and Possibilities in the United States
@@ -27,6 +28,6 @@ files:
 This book, published in 2014, attempts to bring Marxism and the solidarity economy together in both theory and practice.
 
 ## Downloads
-- [PDF](https://files.libcom.org/files/Worker Cooperatives and Revolution.pdf)
+- [PDF](https://raw.githubusercontent.com/taynotfound/libcom-mirror/main/files/Worker_Cooperatives_and_Revolution.pdf) (self-hosted)
 
 [Read original on libcom.org](https://libcom.org/article/worker-cooperatives-and-revolution-history-and-possibilities-united-states)

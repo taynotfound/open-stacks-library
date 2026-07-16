@@ -4,6 +4,7 @@ author: "religious fascism,"
 date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/hipsterphobia-cava-sundays"
+cover: "https://files.libcom.org/files/images/library/class-war-protest.jpg"
 mirror_state: none
 tags:
   - "‘normcore’"

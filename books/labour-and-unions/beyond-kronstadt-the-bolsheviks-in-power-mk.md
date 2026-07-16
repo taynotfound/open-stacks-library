@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/beyond-kronstadt-bolsheviks-power-mk"
+cover: "https://files.libcom.org/files/images/library/factcom1%5B1%5D_0.jpg"
 mirror_state: none
 tags:
   - "Russia"

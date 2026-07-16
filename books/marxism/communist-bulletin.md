@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-bulletin"
+cover: "https://files.libcom.org/files/images/library/cb01.png"
 mirror_state: none
 tags:
   - "Communist Bulletin Group"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/harass-brass-some-notes-toward-subversion-us-armed-forces"
+cover: "https://files.libcom.org/files/images/history/we-wont-fight-final.jpg"
 mirror_state: none
 tags:
   - "war"

@@ -4,6 +4,7 @@ author: ""
 date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/1989-opposition-emperor-system"
+cover: "https://files.libcom.org/files/2022-09/FE5F5E82-C03F-4369-B429-597184213029.jpeg"
 mirror_state: none
 tags:
   - "Odawara Norio"
