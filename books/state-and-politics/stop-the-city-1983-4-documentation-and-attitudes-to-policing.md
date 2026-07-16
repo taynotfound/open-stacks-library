@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/stop-city-19834-documentation-and-attitudes-policing"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/stccov.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c4acf96f70f1952d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "occupy movement"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/stccov.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c4acf96f70f1952d.jpg"
 links:
   - url: "https://www.flickr.com/photos/musaeum/342814649/sizes/o/in/set-72157594454732283/ "
     text: "http://www.flickr.com/photos/musaeum/342814649/sizes/o/in/set-72157594454732283/"

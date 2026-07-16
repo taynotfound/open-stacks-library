@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/radical-tradition-richard-gombin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-11/gombin-trad.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/124a5aa34c7f6516.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "workers councils"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/2022-11/gombin-trad.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/124a5aa34c7f6516.png"
 links: []
 files: []
 ---

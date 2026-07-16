@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/echanges-bulletin-network-echanges-et-mouvement-1975-1996"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/echanges_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bb78cdfa5c668a52.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/echanges_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bb78cdfa5c668a52.png"
 links: []
 files: []
 ---

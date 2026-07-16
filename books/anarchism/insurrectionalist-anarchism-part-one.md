@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/insurrectionalist-anarchism-%E2%80%94-part-one"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarquiaprofesional-01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83af60d2a2e046ea.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "insurrectionary anarchism"
   - "Alfredo M. Bonanno"
 images:
-  - "https://files.libcom.org/files/images/library/anarquiaprofesional-01.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83af60d2a2e046ea.jpg"
 links: []
 files: []
 ---

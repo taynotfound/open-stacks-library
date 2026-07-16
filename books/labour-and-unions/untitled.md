@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/dr-qlsn-qmpp"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/class%20struggle_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/58ea0a86c3857885.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Jewish"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/class%20struggle_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/58ea0a86c3857885.png"
 links: []
 files: []
 ---

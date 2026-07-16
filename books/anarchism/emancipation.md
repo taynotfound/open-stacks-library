@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/emancipation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/emancover_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fc02724b3888f207.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Emancipation"
   - "Anarchist Association of the Americas"
 images:
-  - "https://files.libcom.org/files/images/library/emancover_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fc02724b3888f207.jpg"
 links: []
 files: []
 ---

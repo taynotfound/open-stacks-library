@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-composition-and-theory-party-origins-workers-council-movement"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/arbeiterstreiks1801.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2fa13e2e91879a96.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "autonomist Marxism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/arbeiterstreiks1801.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2fa13e2e91879a96.jpg"
 links: []
 files:
   - name: "Sergio Bologna, Class Composition and the Theory of the Party at the Origin of the Workers-Council Movement.pdf"

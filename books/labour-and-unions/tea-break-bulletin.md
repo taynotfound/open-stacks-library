@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/tea-break-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/T-break.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcc39ae32571df5c.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/T-break.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcc39ae32571df5c.png"
 links:
   - url: "https://www.royalmailchat.co.uk "
     text: "royalmailchat.co.uk"

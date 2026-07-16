@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/after-waterfront-workers-are-quiet-leftpress-collective"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/union-membership.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3c7feccaa5a22182.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,11 +13,11 @@ tags:
   - "unions"
   - "Australia"
 images:
-  - "https://files.libcom.org/files/images/library/union-membership.jpg"
-  - "https://files.libcom.org/files/australian-union-membership-graph.png"
-  - "https://files.libcom.org/files/wavin-on-the-breeze-mua-here-to-stay-may-day-1998_thumb1.jpg"
-  - "https://files.libcom.org/files/meatworker-batoned.png"
-  - "https://files.libcom.org/files/export-the-pigs.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3c7feccaa5a22182.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/654f5a1f4e13dd95.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f7ff41a92307e274.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bec2916a50508f81.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a35421e6a0b56262.png"
 links:
   - url: "https://workersbushtelegraph.com.au/books/after-the-waterfront-the-workers-are-quiet/ "
     text: "Workers Bush Telegraph"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/four-star-digest"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/digest.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1cf9c054482032f7.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Four Star Anarchist Organization"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/digest.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1cf9c054482032f7.png"
 links:
   - url: "https://4sao.wordpress.com/2011/03/03/latest-four-star-digest-summarizes-our-recent-work-2/ "
     text: "Four Star Anarchist Organization"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/origin-and-function-party-form-jacques-camatte"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/camatte0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/29d1250e246f8d2a.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "left communism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/camatte0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/29d1250e246f8d2a.png"
 links:
   - url: "https://cras31.info/IMG/pdf/invariance_transition.pdf "
     text: "the original French text"

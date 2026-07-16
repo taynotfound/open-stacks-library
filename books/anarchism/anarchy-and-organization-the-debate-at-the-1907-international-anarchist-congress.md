@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchy-organization-debate-1907-international-anarchist-congress"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Mother%20Earth%20v09.11.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/543bde85cc8d024b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Max Baginski"
   - "individualism"
 images:
-  - "https://files.libcom.org/files/images/library/Mother%20Earth%20v09.11.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/543bde85cc8d024b.jpg"
 links: []
 files: []
 ---

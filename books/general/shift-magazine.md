@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/shift-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/shift.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20b1a419fa415c35.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Shift"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/shift.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20b1a419fa415c35.gif"
 links: []
 files: []
 ---

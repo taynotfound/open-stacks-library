@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/imperialism-world-war-and-social-democracy-herman-gorter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Austrians_executing_Serbs_1917.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b492d8d95727c167.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "social democracy"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Austrians_executing_Serbs_1917.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b492d8d95727c167.jpg"
 links: []
 files: []
 ---

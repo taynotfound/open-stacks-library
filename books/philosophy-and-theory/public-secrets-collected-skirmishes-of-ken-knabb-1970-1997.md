@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/public-secrets-collected-skirmishes-ken-knabb-1970-1997"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Public%20Secrets.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b0fdf288de27ce0a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,9 +18,9 @@ tags:
   - "autobiographies"
   - "Bureau of Public Secrets"
 images:
-  - "https://files.libcom.org/files/images/library/Public%20Secrets.jpg"
-  - "https://files.libcom.org/files/2023-05/arton8246.jpg"
-  - "https://files.libcom.org/files/2023-03/iran.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b0fdf288de27ce0a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23803e9224761004.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/de5fde443dbbc03e.gif"
 links:
   - url: "https://www.bopsecrets.org/PS/joyrev.htm "
     text: "http://www.bopsecrets.org/PS/joyrev.htm"

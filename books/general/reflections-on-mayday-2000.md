@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/reflections-mayday-2000"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/maydaycov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a94ff7a61edf3e75.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "United Kingdom"
   - "Reclaim The Streets"
 images:
-  - "https://files.libcom.org/files/images/library/maydaycov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a94ff7a61edf3e75.png"
 links:
   - url: "https://www.oocities.com/pract_history/cenotaph.html "
     text: "Practical History"

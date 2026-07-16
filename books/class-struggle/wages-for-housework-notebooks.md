@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/wages-housework-notebooks"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-05/wfhnotesbooks.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6a42f95d7cc21601.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "publications"
   - "feminism"
 images:
-  - "https://files.libcom.org/files/2024-05/wfhnotesbooks.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6a42f95d7cc21601.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/obsolescence-man-vol-i-part-2-world-phantom-and-matrix-philosophical-considerations-radio"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Anders.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9a8ed2778b6df943.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "radio"
   - "Gunther Anders"
 images:
-  - "https://files.libcom.org/files/images/library/Anders.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9a8ed2778b6df943.jpg"
 links: []
 files: []
 ---

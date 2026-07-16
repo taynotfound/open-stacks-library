@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/evade-chile-communiques"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Chile%20PSA_a.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e91ce44a1ea3bec.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Evade Chile"
   - "Ediciones Inéditas"
 images:
-  - "https://files.libcom.org/files/images/library/Chile%20PSA_a.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e91ce44a1ea3bec.png"
 links:
   - url: "https://web.archive.org/web/20191120005017/https://ediciones-ineditas.com/category/translation/chile/ "
     text: "an archived copy of the defunct EI site"

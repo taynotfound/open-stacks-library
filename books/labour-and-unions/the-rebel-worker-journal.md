@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/rebel-worker-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/rebelworker-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e1655b85facf98c5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Chicago"
   - "1960s"
 images:
-  - "https://files.libcom.org/files/2024-06/rebelworker-logo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e1655b85facf98c5.png"
 links: []
 files: []
 ---

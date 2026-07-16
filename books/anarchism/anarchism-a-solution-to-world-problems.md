@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-solution-world-problems"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/10149.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9444aedc8dcd63ef.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Man!"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/10149.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9444aedc8dcd63ef.jpg"
 links:
   - url: "https://theanarchistlibrary.org/library/man-anarchism-the-solution-to-the-world-s-problems "
     text: "The Anarchist Library"

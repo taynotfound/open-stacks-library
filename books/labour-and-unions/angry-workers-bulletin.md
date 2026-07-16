@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/angry-workers-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202020-12-22%20at%2014.38.44.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f117a6d8a7a8dbdc.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Angry Workers Bulletin"
 images:
-  - "https://files.libcom.org/files/images/library/Screen%20Shot%202020-12-22%20at%2014.38.44.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f117a6d8a7a8dbdc.png"
 links: []
 files: []
 ---

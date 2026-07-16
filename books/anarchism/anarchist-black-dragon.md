@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-black-dragon-0"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/ABD%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/184f6766e765e8ac.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "publications"
   - "Carl Harp"
 images:
-  - "https://files.libcom.org/files/images/library/ABD%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/184f6766e765e8ac.png"
 links:
   - url: "https://anarchistblackdragon.noblogs.org "
     text: "the collection at the Anarchist Black Dragon noblogs site"

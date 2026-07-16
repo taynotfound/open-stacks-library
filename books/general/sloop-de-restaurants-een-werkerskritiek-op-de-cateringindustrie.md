@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/sloop-de-restaurants-een-werkerskritiek-op-de-cateringindustrie"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/front.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9da5d1e86c14cdcb.png"
 page_type: stub
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "PDF"
   - "Nederlands"
 images:
-  - "https://files.libcom.org/files/images/library/front.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9da5d1e86c14cdcb.png"
 links: []
 files: []
 ---

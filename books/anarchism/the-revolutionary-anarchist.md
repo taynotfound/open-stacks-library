@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/revolutionary-anarchist"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The%20Revolutionary%20Anarchist%20%233.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/17686453e42e93b6.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "The Revolutionary Anarchist"
 images:
-  - "https://files.libcom.org/files/images/library/The%20Revolutionary%20Anarchist%20%233.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/17686453e42e93b6.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchism-without-tears"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-08/Bakunin%20and%20Marx%20-%20Kenafick.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f6a005bf46e0b6f.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "anarchism"
   - "Australia"
 images:
-  - "https://files.libcom.org/files/2023-08/Bakunin%20and%20Marx%20-%20Kenafick.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f6a005bf46e0b6f.png"
 links: []
 files: []
 ---

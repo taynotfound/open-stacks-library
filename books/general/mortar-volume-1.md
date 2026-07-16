@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/mortar-volume-1"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/mortar_cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/28a898cfd56d4e9c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Common Cause"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/mortar_cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/28a898cfd56d4e9c.jpg"
 links: []
 files: []
 ---

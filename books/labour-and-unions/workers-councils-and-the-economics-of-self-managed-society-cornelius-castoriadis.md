@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-councils-and-economics-self-managed-society-cornelius-castoriadis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cover_2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e8ebd3b50f1d8c8b.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/cover_2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e8ebd3b50f1d8c8b.jpg"
 links: []
 files:
   - name: "workers-councils-Cornelius-Castoriadis.pdf"

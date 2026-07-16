@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/strike-jeremy-brecher"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/strike-cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2e241a3e35b2750.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "CIO"
 images:
-  - "https://files.libcom.org/files/images/history/strike-cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2e241a3e35b2750.jpg"
 links:
   - url: "https://shop.workingclasshistory.com/products/strike-jeremy-brecher"
     text: "If you enjoy this text, please purchase the book here."

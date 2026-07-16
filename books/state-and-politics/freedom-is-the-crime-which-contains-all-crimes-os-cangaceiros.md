@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/freedom-crime-which-contains-all-crimes-os-cangaceiros"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2026-04/oscangaceiros.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8ead9b4d3e79dad0.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,13 +15,13 @@ tags:
   - "prisons"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2026-04/oscangaceiros.png"
-  - "https://files.libcom.org/files/2026-04/montpelier.png"
-  - "https://files.libcom.org/files/2026-04/bois.png"
-  - "https://files.libcom.org/files/2026-04/fresnes.png"
-  - "https://files.libcom.org/files/2026-04/bois2.png"
-  - "https://files.libcom.org/files/2026-04/map.png"
-  - "https://files.libcom.org/files/2026-04/cangaceiros2.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8ead9b4d3e79dad0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b2c17075bbe2a9d0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/62cbb99708835e6b.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4e71d5e72262b6fe.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83aa6fda318a8147.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64001b463736fc1a.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ffab8df55f03413f.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/nihilist-communism-monsieur-dupont"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/nihcomcover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f3784d5fd7b69ce5.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,9 +14,9 @@ tags:
   - "libertarian communism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/nihcomcover.jpg"
-  - "https://files.libcom.org/files/2023-12/editions.jpg"
-  - "https://files.libcom.org/files/2023-12/laugh.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f3784d5fd7b69ce5.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e6d710d5d69bb004.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d9f0d35f030cc1bf.jpg"
 links:
   - url: "https://medium.com/contrahistorical/nihilist-communism-a-postscript-for-the-book-by-the-other-dupont-ea811865d9ae "
     text: "https://medium.com/contrahistorical/nihilist-communism-a-postscript-for-the-book-by-the-other-dupont-ea811865d9ae"

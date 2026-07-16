@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/workers-themselves-wayne-thorpe"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/books/Cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2bbf4b603663ae2a.jpg"
 page_type: stub
 mirror_state: partial
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Wayne Thorpe"
   - "Profintern"
 images:
-  - "https://files.libcom.org/files/books/Cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2bbf4b603663ae2a.jpg"
 links: []
 files:
   - name: "0. Preface_0.pdf"
@@ -28,8 +28,8 @@ files:
     hosted: true
   - name: "1. Pre-War Syndicalist Movement_0.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/1. Pre-War Syndicalist Movement_0.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/baea637d_1._Pre-War_Syndicalist_Movement_0.pdf"
+    hosted: true
   - name: "2. Seeking an International Syndicalist Strategy_0.pdf"
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/2._Seeking_an_International_Syndicalist_Strategy_0.pdf"

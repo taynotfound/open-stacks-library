@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/london-notes-autonomist-magazine-1-1992"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/london-notes-cov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/79f2ab525d38fbda.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "autonomism"
   - "London Notes"
 images:
-  - "https://files.libcom.org/files/images/library/london-notes-cov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/79f2ab525d38fbda.png"
 links: []
 files:
   - name: "London-Notes1a-1-31.pdf"

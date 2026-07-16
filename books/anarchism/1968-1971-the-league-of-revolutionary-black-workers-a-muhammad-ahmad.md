@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1968-1971-league-revolutionary-black-workers-muhammad-ahmad"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Forman.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ca7f342d5013ae66.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "syndicalism"
   - "Detroit"
 images:
-  - "https://files.libcom.org/files/images/history/Forman.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ca7f342d5013ae66.jpg"
 links: []
 files: []
 ---

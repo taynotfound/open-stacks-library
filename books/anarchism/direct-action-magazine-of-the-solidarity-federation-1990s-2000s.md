@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-magazine-solidarity-federation-1990s-2000s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-07/DA-SF-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/53bbb216e7c8cf76.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,11 +17,11 @@ tags:
   - "1990s"
   - "2000s"
 images:
-  - "https://files.libcom.org/files/2022-07/DA-SF-logo.png"
-  - "https://files.libcom.org/files/2022-08/laddism.jpg"
-  - "https://files.libcom.org/files/2022-08/testosterone.jpg"
-  - "https://files.libcom.org/files/2022-08/young.jpg"
-  - "https://files.libcom.org/files/2022-09/41K75RyGl0L.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/53bbb216e7c8cf76.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77f07b91bf197d09.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/32c15d620bacf429.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f01b9760aeb2882e.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7eb8134df1ab6430.jpg"
 links:
   - url: "https://web.archive.org/web/20030807091310/http://direct-action.org.uk/ "
     text: "old Direct Action site via archive.org Waybackmachine"

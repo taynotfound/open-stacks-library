@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/root-branch-libertarian-socialist-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/CDAABCF1-044D-4427-9845-295A7FE43766.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/95c4610c20c582ed.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "libertarian socialism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/CDAABCF1-044D-4427-9845-295A7FE43766.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/95c4610c20c582ed.jpg"
 links:
   - url: "http://www.connexions.org/RedMenace.htm"
     text: "Red Menace archive"

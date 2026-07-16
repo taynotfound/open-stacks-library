@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/timperley-village-anarchist-tv-am"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-12/Screenshot%202023-12-10%20at%2011.21.41.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ddd72659b42b92c8.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Class War Federation"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2023-12/Screenshot%202023-12-10%20at%2011.21.41.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ddd72659b42b92c8.png"
 links:
   - url: "https://counago-and-spaves.blogspot.com/2005/08/wake-up-to-anarchy.html "
     text: "Counago & Spaves blog"

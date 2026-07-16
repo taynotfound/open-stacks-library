@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/agrarian-collectives-during-spanish-civil-war-michael-seidman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/collective_farm%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20c39bb3efa681ff.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Spanish civil war"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/collective_farm%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20c39bb3efa681ff.jpg"
 links: []
 files: []
 ---

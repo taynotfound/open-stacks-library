@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-glasgow"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/DD17800D-4A8E-451B-A232-B9B386291F3B.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/76d40a5e0d3e25f7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/DD17800D-4A8E-451B-A232-B9B386291F3B.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/76d40a5e0d3e25f7.jpg"
 links: []
 files: []
 ---

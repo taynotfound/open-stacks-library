@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/riff-raff-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-07/riff-covs.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bbd78e34b5e5bfd2.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Sweden"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-07/riff-covs.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bbd78e34b5e5bfd2.png"
 links:
   - url: "https://www.riff-raff.se/en/ "
     text: "https://www.riff-raff.se/en/"

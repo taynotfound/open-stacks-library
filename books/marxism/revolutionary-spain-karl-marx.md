@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/revolutionary-spain-karl-marx"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/spain%201868.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c37447b929a85b1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Spain"
   - "1800s"
 images:
-  - "https://files.libcom.org/files/images/library/spain%201868.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c37447b929a85b1.jpg"
 links: []
 files: []
 ---

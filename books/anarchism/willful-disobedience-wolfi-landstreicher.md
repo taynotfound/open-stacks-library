@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/willful-disobedience-wolfi-landstreicher"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/zzz%20Willful%20Disobedience%20400_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1259b0be0da71fd4.jpg"
 page_type: article
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Wolfi Landstreicher"
   - "Max Stirner"
 images:
-  - "https://files.libcom.org/files/images/library/zzz%20Willful%20Disobedience%20400_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1259b0be0da71fd4.jpg"
 links: []
 files: []
 ---

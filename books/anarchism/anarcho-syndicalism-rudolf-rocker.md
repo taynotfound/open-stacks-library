@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarcho-syndicalism-rudolf-rocker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/rocker%5B1%5D.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0287afb8d60ea5b5.gif"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/rocker%5B1%5D.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0287afb8d60ea5b5.gif"
 links: []
 files:
   - name: "Rocker - Anarcho-Syndicalism Theory and Practice.pdf"

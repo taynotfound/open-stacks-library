@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/notes-dialectics-part-ii-hegelian-logic-clr-james"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/c-l-r-james-4.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ca1b4dcb401234c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "1940s"
   - "Johnson–Forest Tendency"
 images:
-  - "https://files.libcom.org/files/images/library/c-l-r-james-4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ca1b4dcb401234c.jpg"
 links: []
 files: []
 ---

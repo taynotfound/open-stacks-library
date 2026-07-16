@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-youth-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/ay-covs.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a8599328e57f8d71.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2024-06/ay-covs.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a8599328e57f8d71.png"
 links: []
 files: []
 ---

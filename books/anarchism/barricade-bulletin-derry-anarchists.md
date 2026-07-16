@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/barricade-bulletin-derry-anarchists"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/BB%20header.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/70c9cf0312fe9e21.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "2010s"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/BB%20header.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/70c9cf0312fe9e21.jpg"
 links:
   - url: "https://derryanarchists.blogspot.com "
     text: "Derry Anarchists"

@@ -5,14 +5,14 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-movement-africa"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Koretsky_Africa.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/68addd232a11caa0.jpg"
 page_type: book
 mirror_state: full
 description: ""
 tags:
   - "International Communist Current"
 images:
-  - "https://files.libcom.org/files/images/history/Koretsky_Africa.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/68addd232a11caa0.jpg"
 links: []
 files: []
 ---

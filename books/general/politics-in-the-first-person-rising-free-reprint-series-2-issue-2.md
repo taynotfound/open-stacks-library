@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/politics-first-person-rising-free-reprint-series-2-issue-2"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-03/firstpersoncov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/33ea5550fcb557a0.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "PDF"
   - "https://libcom.org/tags/claudio-albertani"
 images:
-  - "https://files.libcom.org/files/2025-03/firstpersoncov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/33ea5550fcb557a0.png"
 links: []
 files: []
 ---

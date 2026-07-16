@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/american-worker-paul-romano-and-ria-stone"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/GM%20workers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7669e723565a4408.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "manufacturing and materials"
   - "car industry"
 images:
-  - "https://files.libcom.org/files/images/history/GM%20workers.jpg"
-  - "https://files.libcom.org/files/2024-11/GcI0f6PXkAAfE4Y.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7669e723565a4408.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7912054b522d2f8b.jpg"
 links: []
 files: []
 ---

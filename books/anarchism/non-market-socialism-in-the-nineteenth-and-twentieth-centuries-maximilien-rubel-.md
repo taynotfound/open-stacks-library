@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/non-market-socialism-nineteenth-twentieth-centuries-maximilien-rubel-john-crump-editors"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/rubel.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e2fab408be7a72a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "John Crump"
   - "anarchist communism"
 images:
-  - "https://files.libcom.org/files/images/history/rubel.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e2fab408be7a72a.jpg"
 links:
   - url: "https://bataillesocialiste.wordpress.com/themes/2008/09/01/socialism-or-chaos-1947/"
     text: "Socialism or Chaos"
@@ -140,8 +140,8 @@ files:
     hosted: false
   - name: "The Socialist Party and War"
     type: "PDF"
-    url: "http://www.worldsocialism.org/spgb/archive/war%281939%29.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/3b1ae56a_war_1939_.pdf"
+    hosted: true
 ---
 # Non-Market Socialism in the Nineteenth and Twentieth Centuries - Maximilien Rubel, John Crump (editors)
 

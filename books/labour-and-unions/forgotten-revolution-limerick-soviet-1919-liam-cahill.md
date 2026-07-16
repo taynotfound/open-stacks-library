@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/forgotten-revolution-limerick-soviet-1919-liam-cahill"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/10467227_1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d66e7c6c3f035570.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Liam Cahill"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/10467227_1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d66e7c6c3f035570.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/letters-correspondance-de-michel-bakounine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Bakunin%20sketch.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c53705fddff6302b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Mikhail Bakunin"
   - "anarchism"
 images:
-  - "https://files.libcom.org/files/images/library/Bakunin%20sketch.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c53705fddff6302b.jpg"
 links: []
 files: []
 ---

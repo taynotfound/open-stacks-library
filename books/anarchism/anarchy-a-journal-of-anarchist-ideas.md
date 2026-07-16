@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchy-journal-anarchist-ideas"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarchy-4.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5afc00a596890a2c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/anarchy-4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5afc00a596890a2c.jpg"
 links:
   - url: "https://www.thesparrowsnest.org.uk/ "
     text: "The Sparrows Nest"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/you-cant-blow-social-relationship-anarchist-case-against-terrorism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/towers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/242bc41c94cae1dd.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "propaganda by deed"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/towers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/242bc41c94cae1dd.jpg"
 links: []
 files: []
 ---

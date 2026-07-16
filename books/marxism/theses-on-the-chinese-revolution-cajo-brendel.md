@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/theses-chinese-revolution-cajo-brendel"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/red-book.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a4fbbbfdfaa3c598.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "Cultural Revolution"
   - "Maoism"
 images:
-  - "https://files.libcom.org/files/images/history/red-book.jpg"
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-29%20at%2017.26.32.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a4fbbbfdfaa3c598.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf5f27ad96b5a10b.png"
 links: []
 files:
   - name: "Theses on the Chinese revolution - Cajo Brendel.pdf"

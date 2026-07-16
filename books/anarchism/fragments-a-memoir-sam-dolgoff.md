@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fragments-memoir-sam-dolgoff"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Sam-Dolgoff.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97b786eff77933f7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "accounts"
   - "autobiographies"
 images:
-  - "https://files.libcom.org/files/images/history/Sam-Dolgoff.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97b786eff77933f7.jpg"
 links: []
 files:
   - name: "fragments.pdf"

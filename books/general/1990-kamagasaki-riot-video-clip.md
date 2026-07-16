@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/1990-kamagasaki-riot-video-clip"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/kamagasaki-1.preview.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/004b1036a7f72411.png"
 page_type: stub
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "video"
   - "Kamagasaki"
 images:
-  - "https://files.libcom.org/files/images/history/kamagasaki-1.preview.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/004b1036a7f72411.png"
 links:
   - url: "http://www.archive.org/download/NishinariRiots/nishinaririot.wmv"
     text: "wmv format"

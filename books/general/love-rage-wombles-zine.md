@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/love-rage-wombles-zine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-12/loveandrage-x2-min.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93447588316a0943.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "WOMBLES"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-12/loveandrage-x2-min.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93447588316a0943.png"
 links: []
 files: []
 ---

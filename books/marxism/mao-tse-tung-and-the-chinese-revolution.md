@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/mao-tse-tung-and-chinese-revolution"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/mao.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a10d308b31a2363d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1950s"
   - "Maoism"
 images:
-  - "https://files.libcom.org/files/images/history/mao.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a10d308b31a2363d.jpg"
 links: []
 files: []
 ---

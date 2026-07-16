@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/searchlight-beginners-larry-o-hara"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-05/41QvY6WwVqL.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/451bbe5aef52f9ca.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Searchlight"
   - "Phoenix Press"
 images:
-  - "https://files.libcom.org/files/2022-05/41QvY6WwVqL.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/451bbe5aef52f9ca.jpg"
 links: []
 files: []
 ---

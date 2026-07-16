@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/modern-times"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/modern-times.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b380f2bed3fde7af.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Modern times"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/modern-times.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b380f2bed3fde7af.png"
 links: []
 files: []
 ---

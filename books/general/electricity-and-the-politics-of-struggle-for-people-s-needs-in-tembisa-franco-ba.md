@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/electricity-tembisa-franco-barchiesi"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/b_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b8acf4d7f71d552.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "South Africa"
   - "utilities"
 images:
-  - "https://files.libcom.org/files/images/blog/b_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b8acf4d7f71d552.jpg"
 links: []
 files: []
 ---

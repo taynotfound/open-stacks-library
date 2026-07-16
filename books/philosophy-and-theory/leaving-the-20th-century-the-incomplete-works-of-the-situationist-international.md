@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/leaving-20th-century-incomplete-works-situationist-international"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/leavingcov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/323b597c0ead4ff3.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,11 +16,11 @@ tags:
   - "anthologies"
   - "Wicked Messengers"
 images:
-  - "https://files.libcom.org/files/2024-06/leavingcov.png"
-  - "https://files.libcom.org/files/2024-06/cinema.png"
-  - "https://files.libcom.org/files/2024-06/maintenant.png"
-  - "https://files.libcom.org/files/2024-06/workerscouncilscartoon.png"
-  - "https://files.libcom.org/files/2024-06/vivre.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/323b597c0ead4ff3.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/71d0c6e1bc8c4c20.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4cc34251f8852006.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0e8ea35f3281801a.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b87ebbf7c73f140.png"
 links: []
 files:
   - name: "Leaving-the-20th-Century-1-93.pdf"

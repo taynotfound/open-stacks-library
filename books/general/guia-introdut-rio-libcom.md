@@ -5,17 +5,17 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/guia-introdutorio-libcom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/27Oct_Portugal_800x600.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26ebc3773b506df1.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Português"
 images:
-  - "https://files.libcom.org/files/images/library/27Oct_Portugal_800x600.jpg"
-  - "https://files.libcom.org/files/mcworker.jpg"
-  - "https://files.libcom.org/files/miners.jpg"
-  - "https://files.libcom.org/files/Greece.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26ebc3773b506df1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d49e6407b23b3980.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26b50715756140cf.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97842db14c95ea17.jpg"
 links:
   - url: "https://humanaesfera.blogspot.com.br "
     text: "humanaesfera"

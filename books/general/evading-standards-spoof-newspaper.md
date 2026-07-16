@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/evading-standards-spoof-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-10/evading-masthead.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/98a4ddd4218e5beb.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "1990s"
 images:
-  - "https://files.libcom.org/files/2022-10/evading-masthead.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/98a4ddd4218e5beb.png"
 links: []
 files: []
 ---

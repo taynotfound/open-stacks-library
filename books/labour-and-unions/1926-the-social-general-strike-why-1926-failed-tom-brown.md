@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1926-social-general-strike-why-1926-failed-tom-brown"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Tyldesley_miners_outside_the_Miners_Hall_during_the_1926_General_Strike%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cfa1fb40b4f49901.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1926 general strike"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/Tyldesley_miners_outside_the_Miners_Hall_during_the_1926_General_Strike%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cfa1fb40b4f49901.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/soil-liberty-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/soil-Liberty.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bfff6838005124b6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "North Country Anarchists and Anarcha-Feminists"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/soil-Liberty.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bfff6838005124b6.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/social-revolution-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/socrevlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e9f918220efe5df5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/socrevlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e9f918220efe5df5.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/anti-work-essays-audio-anarchy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/antiwork.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/76adf7d21ceff654.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "anti-work"
   - "Audio Anarchy"
 images:
-  - "https://files.libcom.org/files/images/library/antiwork.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/76adf7d21ceff654.jpg"
 links:
   - url: "https://www.mediafire.com/folder/z9sisjgda66g8/Anti-Work_Essays "
     text: "Medifire"

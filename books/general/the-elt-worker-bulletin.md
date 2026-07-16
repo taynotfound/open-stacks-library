@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/elt-worker-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/grafton%20teachers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c4e3a45fdd163e50.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Notes from Below"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/grafton%20teachers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c4e3a45fdd163e50.jpg"
 links:
   - url: "https://notesfrombelow.org/author/elt-worker "
     text: "First hosted by Notes from Below"

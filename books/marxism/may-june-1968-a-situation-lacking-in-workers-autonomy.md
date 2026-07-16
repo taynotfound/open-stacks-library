@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/may-june-1968-situation-lacking-workers-autonomy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/HambourgCrowd.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0efb9c1446c7b0e1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Mouvement Communiste"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/HambourgCrowd.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0efb9c1446c7b0e1.jpg"
 links: []
 files: []
 ---

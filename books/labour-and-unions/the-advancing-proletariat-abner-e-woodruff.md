@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/advancing-proletariat-abner-e-woodruff"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/020.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/388d8c343afc4e61.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Abner E. Woodruff"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/020.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/388d8c343afc4e61.jpg"
 links:
   - url: "https://www.library.arizona.edu/exhibits/bisbee/docs/020.html "
     text: "The Bisbee Deportation of 1917: A University of Arizona Web Exhibit"

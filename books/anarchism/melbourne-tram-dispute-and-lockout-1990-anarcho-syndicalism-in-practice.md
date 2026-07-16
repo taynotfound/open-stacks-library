@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/melbourne-tram-dispute-and-lockout-1990-anarcho-syndicalism-practice"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Melbourne2035%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8cd212c2575d5398.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "trams"
   - "occupations"
 images:
-  - "https://files.libcom.org/files/Melbourne2035%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8cd212c2575d5398.jpg"
 links:
   - url: "http://www.takver.com"
     text: "http://www.takver.com"

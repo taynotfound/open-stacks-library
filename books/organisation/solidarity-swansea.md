@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-swansea"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/solidarity-Swansea.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6d56bf2c0d730d57.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Swansea"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/solidarity-Swansea.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6d56bf2c0d730d57.png"
 links: []
 files: []
 ---

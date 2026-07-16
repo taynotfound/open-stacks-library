@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/hungary-56-andy-anderson"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Hungary-56.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f82bd220af3c6772.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Hungary 56"
   - "Hungary"
 images:
-  - "https://files.libcom.org/files/images/history/Hungary-56.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f82bd220af3c6772.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/commune-paris-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/pariscommune.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fdd20b9c5e2c6007.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1870s"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/pariscommune.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fdd20b9c5e2c6007.jpg"
 links:
   - url: "http://dwardmac.pitzer.edu/Anarchist_Archives/"
     text: "Anarchist Archives"

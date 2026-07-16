@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/worker-cooperatives-and-revolution-history-and-possibilities-united-states"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/revolution_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8547cb58e3b61f38.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Radical history"
   - "mutual aid"
 images:
-  - "https://files.libcom.org/files/images/library/revolution_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8547cb58e3b61f38.jpg"
 links:
   - url: "https://inthesetimes.com/article/13998/the_welfare_state_of_america/ "
     text: "We propose a new anti-austerity coalition"

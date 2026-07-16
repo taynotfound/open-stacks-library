@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/greece-fiscal-crisis-state-puts-need-independent-workers-politics-agenda-mouvement"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/greece%20general%20strike.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dcad1bfb53c58edf.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,12 +15,12 @@ tags:
   - "Greece unrest"
   - "Greece against austerity"
 images:
-  - "https://files.libcom.org/files/images/library/greece%20general%20strike.jpg"
-  - "https://files.libcom.org/files/2022-05/L32GreekFiscalCrisis1.jpg"
-  - "https://files.libcom.org/files/2022-05/L32GreekFiscalCrisis2.jpg"
-  - "https://files.libcom.org/files/mc1.png"
-  - "https://files.libcom.org/files/mc2.png"
-  - "https://files.libcom.org/files/mc3.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dcad1bfb53c58edf.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/42b6cbf8025bdc95.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b80daed723f722d4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/32cb9375c34e9eae.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed04a741dd66d332.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7c5da8e185e1a2d1.png"
 links:
   - url: "https://www.blaumachen.gr "
     text: "https://www.blaumachen.gr"

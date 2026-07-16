@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/make-war-war-solidarity-proletarians-syria"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/siria111.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/36632b0f0aaf9ed4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Syria conflict"
   - "valladolor"
 images:
-  - "https://files.libcom.org/files/images/news/siria111.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/36632b0f0aaf9ed4.jpg"
 links: []
 files: []
 ---

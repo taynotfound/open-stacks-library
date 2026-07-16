@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/red-and-black-revolution"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/D89DCC79-9DD4-4E54-85BB-F0DFAEF95CC4.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8edf3e0622438821.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "platformism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/D89DCC79-9DD4-4E54-85BB-F0DFAEF95CC4.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8edf3e0622438821.jpg"
 links:
   - url: "https://www.wsm.ie/rbr "
     text: "Red & Black Revolution"

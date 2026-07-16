@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/organize-strike-fight-win-quebecs-2012-student-strike"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/header%5B1%5D.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/106564b9c19c3839.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Quebec student strike 2012"
   - "CLASSE"
 images:
-  - "https://files.libcom.org/files/images/library/header%5B1%5D.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/106564b9c19c3839.png"
 links:
   - url: "https://creativecommons.org/licenses/by-nc-sa/3.0/ "
     text: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"

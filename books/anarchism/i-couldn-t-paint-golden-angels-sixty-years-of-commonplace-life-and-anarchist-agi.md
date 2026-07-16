@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/i-couldnt-paint-golden-angels-sixty-years-commonplace-life-and-anarchist-agitation-albert"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/meltzer-angels.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ba2727df6d28bd9a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "George Orwell"
   - "Guy Aldred"
 images:
-  - "https://files.libcom.org/files/2022-08/meltzer-angels.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ba2727df6d28bd9a.jpg"
 links:
   - url: "https://www.katesharpleylibrary.net/jwsvjx "
     text: "The Kate Sharpley Library"

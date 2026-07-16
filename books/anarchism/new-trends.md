@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/new-trends"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/New%20Trends%20header.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/54c7a9f17e65c0b4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "New Trends"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/New%20Trends%20header.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/54c7a9f17e65c0b4.jpg"
 links: []
 files: []
 ---

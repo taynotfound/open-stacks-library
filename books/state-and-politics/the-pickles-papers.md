@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/pickles-papers"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Pickles%20Bradford.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0c20eab3e66a76f4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Conservative Party"
   - "1 in 12 Publications"
 images:
-  - "https://files.libcom.org/files/images/library/Pickles%20Bradford.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0c20eab3e66a76f4.jpg"
 links:
   - url: "https://www.1in12.com/publications/library/index.htm "
     text: "the 1 in 12 Publications archive"

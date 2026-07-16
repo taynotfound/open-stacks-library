@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1945-84-class-struggle-shop-floor-japanese-case-muto-ichiyo"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,13 +15,13 @@ tags:
   - "Japan"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://files.libcom.org/files/ClassStruggleontheJapaneseShopfloor.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/0dd83323_ClassStruggleontheJapaneseShopfloor.pdf"
+    hosted: true
 ---
 # 1945-84: Class struggle on the shop floor, the Japanese case - Muto Ichiyo
 

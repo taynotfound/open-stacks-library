@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-movement-japan-1906-1996-john-crump"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Japanese_anarchists.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20dce906cc1db26c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "Shūsui Kōtoku"
 images:
-  - "https://files.libcom.org/files/Japanese_anarchists.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20dce906cc1db26c.jpg"
 links:
   - url: "http://www.afed.org.uk"
     text: "www.afed.org.uk"

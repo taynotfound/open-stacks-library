@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/american-revolution-pages-negro-workers-notebook"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/217151.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83865a86d1663a37.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "CIO"
   - "James Boggs"
 images:
-  - "https://files.libcom.org/files/images/library/217151.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83865a86d1663a37.jpg"
 links:
   - url: "https://monthlyreview.org/press/books/pb0153/ "
     text: "Monthly Review Press"

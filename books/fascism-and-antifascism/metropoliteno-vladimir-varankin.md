@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/metropoliteno-vladimir-varankin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/antauparolo-2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fba8df8706df741c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Vladimir Varankin"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/antauparolo-2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fba8df8706df741c.jpg"
 links:
   - url: "https://www.blogger.com/null"
     text: "https://www.blogger.com/null"

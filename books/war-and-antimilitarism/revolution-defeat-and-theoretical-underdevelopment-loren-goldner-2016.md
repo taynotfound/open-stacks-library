@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/revolution-defeat-and-theoretical-underdevelopment-loren-goldner-2016"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/petro4b.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/de622345738aae79.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,15 +17,15 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/petro4b.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/de622345738aae79.jpg"
 links:
   - url: "http://insurgentnotes.com"
     text: "http://insurgentnotes.com"
 files:
   - name: "http://bthp23.com/Portugal-Spain.pdf"
     type: "PDF"
-    url: "http://bthp23.com/Portugal-Spain.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/7419178e_Portugal-Spain.pdf"
+    hosted: true
 ---
 # Revolution, defeat and theoretical underdevelopment - Loren Goldner (2016)
 

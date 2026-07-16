@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/israeli-pilots-refuse-fly-assassination-missions-2003"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/airforce.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7c5b2e6cdc8b42ae.jpg"
 page_type: article
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "airforce"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/airforce.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7c5b2e6cdc8b42ae.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/monument-story-socialist-party-great-britain-robert-barltrop"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/themonument.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9a4260b49ae356b7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Robert Barltrop"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/themonument.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9a4260b49ae356b7.jpg"
 links: []
 files:
   - name: "themonument.pdf"

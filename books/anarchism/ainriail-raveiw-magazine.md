@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/ainriail-raveiw-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-06/Ainriail-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d84c291e34607cc7.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,8 +16,8 @@ tags:
   - "Northern Ireland"
   - "1980s"
 images:
-  - "https://files.libcom.org/files/2022-06/Ainriail-logo.png"
-  - "https://files.libcom.org/files/2022-06/dates.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d84c291e34607cc7.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b5d3d59d30d380dd.png"
 links: []
 files:
   - name: "Raveiw-1-March-1985.pdf"

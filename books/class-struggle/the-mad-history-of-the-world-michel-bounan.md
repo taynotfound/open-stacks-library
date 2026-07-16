@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/mad-history-world-michel-bounan"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Jan-gossaert-merchant-001_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ddc7adf0d4ec4a8.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Michel Bounan"
   - "anthropology"
 images:
-  - "https://files.libcom.org/files/images/library/Jan-gossaert-merchant-001_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ddc7adf0d4ec4a8.jpg"
 links: []
 files: []
 ---

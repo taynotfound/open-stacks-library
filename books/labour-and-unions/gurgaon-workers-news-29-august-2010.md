@@ -5,14 +5,14 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/gurgaon-workers-news-29-august-2010"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/01280010-jpg.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/064bfac0dfb8ea1e.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Gurgaon Workers News"
 images:
-  - "https://files.libcom.org/files/images/library/01280010-jpg.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/064bfac0dfb8ea1e.jpg"
 links:
   - url: "https://go2.wordpress.com/?id=725X1342&site=gurgaonworkersnews.wordpress.com&url=http%3A%2F%2Fwww.ethicaltrade.org%2FDrapers-March-10.pdf&sref=http%3A%2F%2Fgurgaonworkersnews.wordpress.com%2F%23fn1 "
     text: "NGO Garments Document 1"

@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/condition-english-working-class-fredrich-engel"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/04-299.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ae17faa230fc876f.gif"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Friedrich Engels"
   - "class"
 images:
-  - "https://files.libcom.org/files/images/library/04-299.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ae17faa230fc876f.gif"
 links: []
 files: []
 ---

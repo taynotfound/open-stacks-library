@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/bulgaria-new-spain-communist-terror-bulgaria"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bulgaria-spain.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1476c384b39fd5ec.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Stalinism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/bulgaria-spain.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1476c384b39fd5ec.png"
 links: []
 files:
   - name: "bulgaria_the_new_spain.pdf"

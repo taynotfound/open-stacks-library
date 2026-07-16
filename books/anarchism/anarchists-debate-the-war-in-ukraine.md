@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-debate-war-ukraine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-03/nwbcw-sticker.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb707fcaab7bcc34.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Russia-Ukraine war"
   - "Ukraine"
 images:
-  - "https://files.libcom.org/files/2022-03/nwbcw-sticker.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb707fcaab7bcc34.jpg"
 links:
   - url: "https://itsgoingdown.org/no-war-but-class-war-against-state-nationalism-and-inter-imperialist-war-in-ukraine/ "
     text: "This article was published on It's Going Down"

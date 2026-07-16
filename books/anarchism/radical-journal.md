@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/radical-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/radical.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a2ca59b5cd97e0f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/radical.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a2ca59b5cd97e0f.jpg"
 links: []
 files: []
 ---

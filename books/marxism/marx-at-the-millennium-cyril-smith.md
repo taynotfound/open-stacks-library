@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/marx-millennium-cyril-smith"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Cover_8.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2a853150926115d.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Marxist Humanism"
   - "Karl Marx"
 images:
-  - "https://files.libcom.org/files/images/library/Cover_8.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2a853150926115d.jpg"
 links: []
 files: []
 ---

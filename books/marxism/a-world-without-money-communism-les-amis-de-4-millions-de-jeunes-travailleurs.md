@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/world-without-money-communism-les-amis-de-4-millions-de-jeunes-travailleurs"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/un8.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/45367a54aac42bff.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "communisation"
   - "communist society"
 images:
-  - "https://files.libcom.org/files/images/library/un8.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/45367a54aac42bff.png"
 links: []
 files:
   - name: "Les Amis de 4 Millions de Jeunes Travailleurs- A World Without Money; Communism.pdf"

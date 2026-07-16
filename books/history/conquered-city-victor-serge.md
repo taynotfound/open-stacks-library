@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/conquered-city-victor-serge"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/conquered-city-217.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5c69abe1301cd039.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/conquered-city-217.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5c69abe1301cd039.png"
 links: []
 files:
   - name: "Conquered City-Victor Serge - Unknown.epub"

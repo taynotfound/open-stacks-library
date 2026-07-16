@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/money-and-human-condition-michael-neary-and-graham-taylor"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-04/pexels-cottonbro-5922490.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/85c70c6009fbc07c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Open Marxism"
   - "money"
 images:
-  - "https://files.libcom.org/files/2024-04/pexels-cottonbro-5922490.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/85c70c6009fbc07c.jpg"
 links: []
 files: []
 ---

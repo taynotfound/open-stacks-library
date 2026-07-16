@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/homage-catalonia-george-orwell"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/poum1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e2ac8a4f953eb575.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "George Orwell"
   - "accounts"
 images:
-  - "https://files.libcom.org/files/images/library/poum1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e2ac8a4f953eb575.jpg"
 links: []
 files:
   - name: "Homage to Catalonia - George Orwell.pdf"

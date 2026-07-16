@@ -5,17 +5,17 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/les-guides-dintroduction-de-libcom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/CPE-assembly.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e12734ea9a562226.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Français"
 images:
-  - "https://files.libcom.org/files/images/library/CPE-assembly.jpg"
-  - "https://files.libcom.org/files/COG-1_0.gif"
-  - "https://files.libcom.org/files/COG-2.gif"
-  - "https://files.libcom.org/files/COG-3.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e12734ea9a562226.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fa82251c9d80920a.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6e45387f61e9250c.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8572d49a4d8c4f23.gif"
 links:
   - url: "https://www.independent.co.uk/news/world/politics/the-real-hunger-games-how-banks-gamble-on-food-prices-and-the-poor-lose-out-7606263.html "
     text: "des spéculateur-trice-s retiennent des denrées alimentaires"

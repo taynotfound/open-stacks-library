@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/newham-monitoring-project-annual-reports"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/NMP_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/116834411179f7c5.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Newham Monitoring Project"
   - "police"
 images:
-  - "https://files.libcom.org/files/images/library/NMP_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/116834411179f7c5.jpg"
 links: []
 files:
   - name: "Annual Report 1983 January .pdf"

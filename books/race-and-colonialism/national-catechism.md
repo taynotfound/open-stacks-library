@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/library/national-catechism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-05/77835793753897593.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1012af2f02ff57cd.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Mikhail Bakunin"
   - "national liberation"
 images:
-  - "https://files.libcom.org/files/2023-05/77835793753897593.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1012af2f02ff57cd.jpg"
 links: []
 files: []
 ---

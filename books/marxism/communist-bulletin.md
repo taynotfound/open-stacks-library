@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cb01.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/39f2f84810ea61f8.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "PDF"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/cb01.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/39f2f84810ea61f8.png"
 links: []
 files: []
 ---

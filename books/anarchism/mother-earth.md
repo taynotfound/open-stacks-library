@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/mother-earth"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sf_motherearth_img_01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1bf44ce2357f1c98.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "poetry"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/sf_motherearth_img_01.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1bf44ce2357f1c98.jpg"
 links: []
 files: []
 ---

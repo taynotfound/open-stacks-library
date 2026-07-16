@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/do-or-die-magazine-voices-earth-first"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screenshot%202021-05-09%20at%2009.57.47.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1252d07672240c31.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screenshot%202021-05-09%20at%2009.57.47.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1252d07672240c31.png"
 links:
   - url: "https://www.doordie.org.uk/links-and-downloads.html "
     text: "Do Or Die archive"

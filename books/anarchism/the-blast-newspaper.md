@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/blast-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-07/The%20Blast%20-%20Vol%201%20No%2015%20-%201%20July%201916%20Cover_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f616c2217a5a5bd6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "United States"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-07/The%20Blast%20-%20Vol%201%20No%2015%20-%201%20July%201916%20Cover_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f616c2217a5a5bd6.jpg"
 links:
   - url: "https://akuk.com/non-fiction/labour-history/the-blast.html "
     text: "AK UK"

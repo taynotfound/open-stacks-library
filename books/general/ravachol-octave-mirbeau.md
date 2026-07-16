@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/ravachol-octave-mirbeau"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/front-cover-small.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/555d1ad95c6c4590.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Octave Mirbeau"
   - "Ravachol"
 images:
-  - "https://files.libcom.org/files/images/library/front-cover-small.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/555d1ad95c6c4590.jpg"
 links: []
 files: []
 ---

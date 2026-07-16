@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/aufheben"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Aufheben.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8bc83e3c10a808c5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Aufheben"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/Aufheben.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8bc83e3c10a808c5.png"
 links: []
 files: []
 ---

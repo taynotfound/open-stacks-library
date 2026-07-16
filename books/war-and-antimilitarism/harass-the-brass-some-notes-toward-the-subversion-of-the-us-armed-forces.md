@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/harass-brass-some-notes-toward-subversion-us-armed-forces"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/we-wont-fight-final.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fd8175aa685d3afc.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1970s"
   - "military and law enforcement"
 images:
-  - "https://files.libcom.org/files/images/history/we-wont-fight-final.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fd8175aa685d3afc.jpg"
 links:
   - url: "http://prole.info"
     text: "prole.info"

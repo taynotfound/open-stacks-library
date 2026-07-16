@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/veritable-split-international-situationist-international"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-05/veritablecov.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e26e99643b2efba9.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "PDF"
   - "Chronos Publications"
 images:
-  - "https://files.libcom.org/files/2023-05/veritablecov.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e26e99643b2efba9.jpg"
 links:
   - url: "https://www.cddc.vt.edu/sionline/si/notes.html "
     text: "Declaration"

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/mutiny-raf-air-force-strikes-1946-david-duncan"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/duncancover.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1a8b35eecbe3e5a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "military and law enforcement"
   - "airforce"
 images:
-  - "https://files.libcom.org/files/duncancover.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1a8b35eecbe3e5a.jpg"
 links: []
 files: []
 ---

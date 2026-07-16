@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/theorie-communiste"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bandeauAccueil.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a1bf595b4105ab6d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "communisation"
   - "Roland Simon"
 images:
-  - "https://files.libcom.org/files/images/library/bandeauAccueil.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a1bf595b4105ab6d.jpg"
 links: []
 files: []
 ---

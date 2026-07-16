@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/women-struggle-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-05/wis1-2_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4aa8b20de3db9d86.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "publications"
   - "feminism"
 images:
-  - "https://files.libcom.org/files/2024-05/wis1-2_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4aa8b20de3db9d86.png"
 links: []
 files: []
 ---

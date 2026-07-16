@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/not-love-story-armed-struggle-against-institutions-patriarchy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-11/IMG_1987.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b48edd5b5a79252b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "guerrillas"
   - "feminism"
 images:
-  - "https://files.libcom.org/files/2024-11/IMG_1987.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b48edd5b5a79252b.jpg"
 links: []
 files: []
 ---

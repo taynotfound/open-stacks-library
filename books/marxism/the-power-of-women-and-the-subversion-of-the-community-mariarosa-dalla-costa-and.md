@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/power-women-and-subversion-community-mariarosa-dalla-costa-and-selma-james"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/tailors-strike.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2902f66fe40dbc00.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "PDF"
   - "Falling Wall Press"
 images:
-  - "https://files.libcom.org/files/images/library/tailors-strike.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2902f66fe40dbc00.jpg"
 links: []
 files:
   - name: "Dalla Costa and James - Women and the Subversion of the Community (Pamphlet Layout).pdf"

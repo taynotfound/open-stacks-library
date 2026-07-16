@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-who-turned-bolsheviks-nick-heath"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Nabat.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/373b74c8bbe00201.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "state socialism"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/history/Nabat.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/373b74c8bbe00201.jpg"
 links: []
 files: []
 ---

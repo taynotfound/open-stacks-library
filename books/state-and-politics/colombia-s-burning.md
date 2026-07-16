@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/colombias-burning"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/Arde_Colombia.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d81407a199791ac4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Colombia"
   - "Latin America"
 images:
-  - "https://files.libcom.org/files/images/news/Arde_Colombia.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d81407a199791ac4.jpg"
 links: []
 files: []
 ---

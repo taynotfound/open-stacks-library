@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/help-out"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/typing.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/35880e5f31a010c1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/images/library/typing.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/35880e5f31a010c1.jpg"
 links:
   - url: "https://en.wikipedia.org/wiki/Nestor_Makhno#External_links "
     text: "external links"

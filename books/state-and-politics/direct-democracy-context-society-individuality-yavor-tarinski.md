@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/direct-democracy-context-society-individuality-yavor-tarinski"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-11/cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ebd8413c5decac8.jpg"
 page_type: article
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "direct democracy"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-11/cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ebd8413c5decac8.jpg"
 links: []
 files: []
 ---

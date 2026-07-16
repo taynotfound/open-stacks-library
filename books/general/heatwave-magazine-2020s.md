@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/heatwave-magazine-2020s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-11/heatwavelogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d29b99f735d675ce.png"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-11/heatwavelogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d29b99f735d675ce.png"
 links:
   - url: "https://heatwavemag.info/letting-the-world-burn/ "
     text: "The Case for Letting the World Burn: Pre-print Editorial to Issue 1"

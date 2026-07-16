@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/outline-marxs-capital-volume-i-raya-dunavevskaya"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/outline.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e258b685273544d3.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Marxist Humanism"
   - "News and Letters Committees"
 images:
-  - "https://files.libcom.org/files/2022-04/outline.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e258b685273544d3.jpg"
 links:
   - url: "https://rayadunayevskaya.org/ArchivePDFs/324.pdf "
     text: "the Raya Dunayevskaya Collection"

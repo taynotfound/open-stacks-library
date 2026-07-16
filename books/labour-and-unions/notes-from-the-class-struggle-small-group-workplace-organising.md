@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/notes-class-struggle-small-group-workplace-organising"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/office.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ec534ae4db3e1c1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Netherlands"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/office.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ec534ae4db3e1c1.jpg"
 links: []
 files: []
 ---

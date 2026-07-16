@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libertarian-analysis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Libertarian%20analysis%20Vol.%201%2C%20No.%204%20%28Winter%201971%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/346cb7fbd6adf6ed.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Libertarian analysis"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Libertarian%20analysis%20Vol.%201%2C%20No.%204%20%28Winter%201971%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/346cb7fbd6adf6ed.jpg"
 links: []
 files: []
 ---

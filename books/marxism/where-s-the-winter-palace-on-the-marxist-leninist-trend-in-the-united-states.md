@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/wheres-winter-palace-marxist-leninist-trend-united-states"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/all-russian-congress-of-soviets-vladimir-lenin-britannica.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bddaef903a1657ec.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Leninism"
   - "The Left Wind"
 images:
-  - "https://files.libcom.org/files/images/library/all-russian-congress-of-soviets-vladimir-lenin-britannica.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bddaef903a1657ec.jpg"
 links:
   - url: "https://www.workers.org/wwp/ "
     text: "Workers World Party (WWP)"

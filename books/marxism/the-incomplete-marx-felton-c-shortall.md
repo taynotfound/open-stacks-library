@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/incomplete-marx-felton-c-shortall"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Marx_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e4f70d9775183822.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Felton C. Shortall"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Marx_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e4f70d9775183822.jpg"
 links: []
 files:
   - name: "The Incomplete Marx - Shortall, Shelton F_.epub"

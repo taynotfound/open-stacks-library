@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-opposition-nazi-germany-tim-mason"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/3292007.c8bafa15.640.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0891b0e1e5e61504.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Tim Mason"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/3292007.c8bafa15.640.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0891b0e1e5e61504.jpg"
 links: []
 files: []
 ---

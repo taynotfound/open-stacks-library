@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-opposition-iww"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Workers-Opposition-1-19-1-1-001.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/07e5391fa773c894.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Workers' Opposition"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Workers-Opposition-1-19-1-1-001.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/07e5391fa773c894.jpg"
 links: []
 files: []
 ---

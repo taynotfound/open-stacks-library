@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/occupation-dead-end"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/yellow.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a4580d37ad8745c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "University of Sussex"
   - "Queer (in) Crisis"
 images:
-  - "https://files.libcom.org/files/images/library/yellow.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a4580d37ad8745c.jpg"
 links:
   - url: "http://latimesblogs.latimes.com/money_co/2009/06/the-use-of-toxic-to-describe-high-risk-mortgages-has-been-de-rigueur-for-the-last-two-years-now-it-looks-like-countrywide.html"
     text: "toxic assets"

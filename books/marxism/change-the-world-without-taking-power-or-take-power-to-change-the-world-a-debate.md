@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/change-world-without-taking-power-or-take-power-change-world-debate-strategies-how-build"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/holloway_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/01f502e9cf0e3038.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "autonomist Marxism"
   - "debates"
 images:
-  - "https://files.libcom.org/files/images/library/holloway_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/01f502e9cf0e3038.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/solidarite-journal-radical-left"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/solidarity_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b5735e9ab3d8ed3.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Solidarité"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/solidarity_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b5735e9ab3d8ed3.jpg"
 links:
   - url: "https://www.lulu.com/shop/solidarit%C3%A9/solidarit%C3%A9-journal-of-the-radical-left-vol-1-no-1/paperback/product-21139845.html "
     text: "here"

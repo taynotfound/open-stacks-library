@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/radical-america"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/radical-America.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/79efe68e80b1a07f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/radical-America.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/79efe68e80b1a07f.jpg"
 links:
   - url: "https://library.brown.edu/cds/radicalamerica/ "
     text: "this website"

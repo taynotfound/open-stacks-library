@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/tides-flame"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cropped-tofwebsitebannerlines13.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3df8829a9bd2fa10.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "insurrectionary anarchism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/cropped-tofwebsitebannerlines13.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3df8829a9bd2fa10.jpg"
 links:
   - url: "https://tidesofflame.wordpress.com/ "
     text: "Originally hosted at tidesofflame.wordpress.com"

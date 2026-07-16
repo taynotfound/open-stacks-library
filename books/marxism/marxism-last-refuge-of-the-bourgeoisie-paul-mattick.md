@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/marxism-last-refuge-bourgeoisie-paul-mattick"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Dead%20capital.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7cf689b621c6d8ad.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Paul Mattick"
   - "state socialism"
 images:
-  - "https://files.libcom.org/files/images/library/Dead%20capital.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7cf689b621c6d8ad.jpg"
 links: []
 files: []
 ---

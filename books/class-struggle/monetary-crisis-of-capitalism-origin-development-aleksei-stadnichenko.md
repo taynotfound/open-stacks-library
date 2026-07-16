@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/monetary-crisis-capitalism-origin-development-aleksei-stadnichenko"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/gold%20%282%29.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c6e41e892014d64e.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "money"
   - "Aleksei Stadnichenko"
 images:
-  - "https://files.libcom.org/files/images/library/gold%20%282%29.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c6e41e892014d64e.png"
 links:
   - url: "https://www.larouchepub.com/eiw/public/1978/eirv05n37-19780926/eirv05n37-19780926_041-soviet_think_tanks_scrutinize_in.pdf "
     text: "Larouchite"

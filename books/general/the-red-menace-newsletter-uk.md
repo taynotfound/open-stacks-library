@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/red-menace-newsletter-uk"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/redmenace.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6bb721458403146d.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/redmenace.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6bb721458403146d.png"
 links:
   - url: "https://www.geocities.com/pract_history/redmenace/ussr.html "
     text: "Practical History"

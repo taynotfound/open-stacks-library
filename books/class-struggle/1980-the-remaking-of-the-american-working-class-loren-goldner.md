@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/1980-remaking-american-working-class-loren-goldner"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Construction%20workers%20USA.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6d72561125d0504b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/Construction%20workers%20USA.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6d72561125d0504b.jpg"
 links: []
 files:
   - name: "1980_ The Remaking of the Ameri - Goldner, Loren.mobi"

@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/who-oakland-anti-oppression-activism-politics-safety-and-state-co-optation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/civil%20rights%20punch.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/945b5dec45ffa12c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Escalating Identity"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/civil%20rights%20punch.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/945b5dec45ffa12c.jpg"
 links:
   - url: "https://escalatingidentity.wordpress.com/2012/04/30/who-is-oakland-anti-oppression-politics-decolonization-and-the-state/ "
     text: "Escalating Identity"

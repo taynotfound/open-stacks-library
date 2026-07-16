@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/radical-chains-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-10/IMG_1975_0.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8b91e843fbaebd55.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Radical Chains"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-10/IMG_1975_0.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8b91e843fbaebd55.jpg"
 links:
   - url: "https://archive.org/details/RadicalChainsTwoAndFour "
     text: "Spirit of Revolt"

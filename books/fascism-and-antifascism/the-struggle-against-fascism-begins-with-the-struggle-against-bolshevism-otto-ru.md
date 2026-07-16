@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/struggle-against-fascism-begins-struggle-against-bolshevism-otto-ruhle"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Hitler-Stalin.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/875cf43d6bcc67b6.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Bratach Dubh"
 images:
-  - "https://files.libcom.org/files/images/library/Hitler-Stalin.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/875cf43d6bcc67b6.jpg"
 links: []
 files:
   - name: "Otto Rühle- The struggle against fascism begins with the struggle against Bolshevism_0.pdf"

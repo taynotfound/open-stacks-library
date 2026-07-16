@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/1917-1945-anti-parliamentary-communism-movement-workers-councils-britain-mark-shipway"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Suffragette_Sylvia_Pankhurst_Suffragette_Sylvia_Pankhurst.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/510a76ed5464cb21.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "workers councils"
   - "United Kingdom"
 images:
-  - "https://files.libcom.org/files/images/history/Suffragette_Sylvia_Pankhurst_Suffragette_Sylvia_Pankhurst.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/510a76ed5464cb21.jpg"
 links: []
 files: []
 ---

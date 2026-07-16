@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/resistance-anarchist-federation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/resistance.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fe7e281327c94c70.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/resistance.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fe7e281327c94c70.jpg"
 links:
   - url: "https://www.afed.org.uk/ "
     text: "Anarchist Federation"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/communalism-its-origins-20th-century-kenneth-rexroth"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/81hhs10KmyL.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f45849049ef892b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Kenneth Rexroth"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/81hhs10KmyL.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f45849049ef892b.jpg"
 links:
   - url: "https://www.bopsecrets.org/rexroth/communalism.htm "
     text: "here."

@@ -5,14 +5,14 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/kapital-karl-marx"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/korica%200001.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0c8b9db973958e48.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Srpski"
 images:
-  - "https://files.libcom.org/files/images/library/korica%200001.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0c8b9db973958e48.jpg"
 links: []
 files: []
 ---

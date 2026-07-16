@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/hipsterphobia-cava-sundays"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/class-war-protest.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/404363a22025b850.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "United Kingdom"
   - "gentrification"
 images:
-  - "https://files.libcom.org/files/images/library/class-war-protest.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/404363a22025b850.jpg"
 links:
   - url: "https://www.theguardian.com/uk-news/2015/sep/29/cereal-killer-cafe-class-war-anti-gentrification-protest-independent-businesses"
     text: "recently announced that Class War would be mad not to continue to target independent businesses,"
@@ -82,8 +82,8 @@ links:
 files:
   - name: "the work"
     type: "PDF"
-    url: "http://www.overgaardtonnesen.dk/TEKSTERNE/05-Smith-New-Globalism-New-Urbanism-Gentrification.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/8edee13f_05-Smith-New-Globalism-New-Urbanism-Gentrification.pdf"
+    hosted: true
 ---
 # Hipsterphobia - Cava Sundays
 

@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/cracking-movement-squatting-beyond-media-adilkno"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-10/2023-10-18-13-6-5-01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faa76908bca10ab6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,10 +15,10 @@ tags:
   - "1980s"
   - "Netherlands"
 images:
-  - "https://files.libcom.org/files/2023-10/2023-10-18-13-6-5-01.jpg"
-  - "https://files.libcom.org/files/2023-10/Demonstratie_van_Staatsliedenbuurt_naar_hoofdbureau_politie_naar_aanleiding_van_,_Bestanddeelnr_933-4873.jpg"
-  - "https://files.libcom.org/files/2023-10/HVVA00165000279.jpg"
-  - "https://files.libcom.org/files/2023-11/pearls2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faa76908bca10ab6.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e78403f1486d2118.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4747906588876ced.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6ebabcac5bbfb078.jpg"
 links: []
 files: []
 ---

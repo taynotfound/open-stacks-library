@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/october-79-guy-debord-and-internationale-situationniste"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-04/october-79-cov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23958220d5d9b744.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Situationist International"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-04/october-79-cov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23958220d5d9b744.png"
 links: []
 files: []
 ---

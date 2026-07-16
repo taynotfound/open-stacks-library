@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/olive-drab-rebels-military-organising-during-vietnam-era-matthew-rinaldi"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/image001%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4e6c8a63b0b854af.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1970s"
   - "Matthew Rinaldi"
 images:
-  - "https://files.libcom.org/files/images/history/image001%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4e6c8a63b0b854af.jpg"
 links:
   - url: "http://prole.info"
     text: "prole.info"

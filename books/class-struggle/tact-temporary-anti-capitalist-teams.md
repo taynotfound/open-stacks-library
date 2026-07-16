@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/tact-temporary-anti-capitalist-teams"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/tactheader1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/920cc14e3739d883.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "United Kingdom"
   - "TACT1"
 images:
-  - "https://files.libcom.org/files/images/library/tactheader1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/920cc14e3739d883.jpg"
 links: []
 files: []
 ---

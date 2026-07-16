@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/stefano-delle-chiaie-portrait-black-terrorist-stuart-christie"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Christie.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3c32404284ed15d1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "strategy of tension"
   - "Italy 60s-70s"
 images:
-  - "https://files.libcom.org/files/images/history/Christie.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3c32404284ed15d1.jpg"
 links:
   - url: "https://www.christiebooks.com "
     text: "Christie Books"

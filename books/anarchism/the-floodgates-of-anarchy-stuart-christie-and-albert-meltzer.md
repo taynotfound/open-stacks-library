@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/floodgates-anarchy-stuart-christie-and-albert-meltzer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/floodgates.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/90df6cebad7dd9df.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Stuart Christie"
   - "United Kingdom"
 images:
-  - "https://files.libcom.org/files/images/library/floodgates.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/90df6cebad7dd9df.jpg"
 links: []
 files: []
 ---

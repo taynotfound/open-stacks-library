@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/love-rage-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/L%26R%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/572ba4a024ec45e6.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/L%26R%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/572ba4a024ec45e6.png"
 links: []
 files: []
 ---

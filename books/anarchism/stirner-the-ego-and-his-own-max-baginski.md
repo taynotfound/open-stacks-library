@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/stirner-ego-his-own"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/stirner.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a1bb9a07b34d1d3b.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Max Baginski"
   - "individualism"
 images:
-  - "https://files.libcom.org/files/images/library/stirner.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a1bb9a07b34d1d3b.gif"
 links: []
 files: []
 ---

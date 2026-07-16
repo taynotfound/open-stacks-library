@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/does-god-exist-twelve-proofs-nonexistence-god"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Faure_Sebastien.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2ed80ce38a609c99.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Sébastien Faure"
 images:
-  - "https://files.libcom.org/files/images/library/Faure_Sebastien.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2ed80ce38a609c99.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/labor-under-trump"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/trump_taj_mahal_strike.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/03c4d1b681530271.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Recomposition"
   - "Donald Trump"
 images:
-  - "https://files.libcom.org/files/images/blog/trump_taj_mahal_strike.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/03c4d1b681530271.jpg"
 links:
   - url: "https://zinnedproject.org/materials/elegy-for-peter-norman/"
     text: "Peter Norman"
@@ -47,8 +47,8 @@ links:
 files:
   - name: "Printable PDF Version"
     type: "PDF"
-    url: "https://lifelongwobbly.files.wordpress.com/2016/11/back-to-the-future.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/52675b10_back-to-the-future.pdf"
+    hosted: true
 ---
 # Labor under Trump
 

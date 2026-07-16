@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/stuart-christies-account-his-actions-franco-assassination-attempt-1964"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Stuart.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c287a95772f867bf.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "accounts"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Stuart.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c287a95772f867bf.jpg"
 links: []
 files: []
 ---

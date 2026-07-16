@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/mandate-heaven-nigel-harris"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Communists_enter_Beijing_28194929-1313765524.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b4ed59c702e1d42f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "state capitalism"
   - "mobi"
 images:
-  - "https://files.libcom.org/files/images/library/Communists_enter_Beijing_28194929-1313765524.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b4ed59c702e1d42f.jpg"
 links: []
 files:
   - name: "The Mandate of Heaven.pdf"

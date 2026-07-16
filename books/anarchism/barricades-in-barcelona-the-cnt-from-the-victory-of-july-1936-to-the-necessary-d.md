@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/barricades-barcelona-cnt-victory-july-1936-necessary-defeat-may-1937-agustin-guillamon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/La%20Brecha%20de%20San%20Pablo.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a694bdd268edd1b2.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Agustín Guillamón"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/La%20Brecha%20de%20San%20Pablo.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a694bdd268edd1b2.jpg"
 links: []
 files: []
 ---

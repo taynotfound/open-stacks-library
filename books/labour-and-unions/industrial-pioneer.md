@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-pioneer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/industrialpioneercover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a4c68a4f6de2716.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Industrial Pioneer"
   - "a little bit of One Big Union monthly"
 images:
-  - "https://files.libcom.org/files/images/library/industrialpioneercover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a4c68a4f6de2716.png"
 links: []
 files: []
 ---

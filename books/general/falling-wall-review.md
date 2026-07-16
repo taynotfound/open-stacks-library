@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/falling-wall-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-05/5.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5377afe568c37c03.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Falling Wall Press"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-05/5.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5377afe568c37c03.png"
 links: []
 files: []
 ---

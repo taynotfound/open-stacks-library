@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-councils-anton-pannekoek"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-02/Pannekoek.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5f09e40e245f7e69.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "workers councils"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-02/Pannekoek.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5f09e40e245f7e69.png"
 links: []
 files: []
 ---

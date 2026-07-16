@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/reflections-lump-dave-lamb-dave-walton"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/liverpool.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f0376b05f9fba94.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "builders"
   - "Dave Lamb"
 images:
-  - "https://files.libcom.org/files/images/history/liverpool.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f0376b05f9fba94.jpg"
 links: []
 files: []
 ---

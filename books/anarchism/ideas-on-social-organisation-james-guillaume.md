@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/ideas-social-organisation-james-guillaume"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/200px-Guillaume_james.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7e817a6644fd38fc.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "1870s"
   - "James Guillaume"
 images:
-  - "https://files.libcom.org/files/images/library/200px-Guillaume_james.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7e817a6644fd38fc.jpg"
 links: []
 files: []
 ---

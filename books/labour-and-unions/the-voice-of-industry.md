@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/voice-industry"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-07/voice%20of%20industry%20cover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/958327790829176d.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "slavery"
   - "Industrial Revolution"
 images:
-  - "https://files.libcom.org/files/2023-07/voice%20of%20industry%20cover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/958327790829176d.png"
 links:
   - url: "https://archive.org/details/VoiceOfIndustry/VoiceOfIndustry-1845-05-29600dpi/ "
     text: "Internet Archive"

@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/buenaventura-durruti-peter-e-newell"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Screenshot%20%2869%29.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9b8a9b6a0e6cb65a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Buenaventura Durruti"
   - "Peter E Newell"
 images:
-  - "https://files.libcom.org/files/images/history/Screenshot%20%2869%29.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9b8a9b6a0e6cb65a.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/oiseau-tempete-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-05/0_1.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/61dd81df534c0103.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "post-situationist"
   - "France"
 images:
-  - "https://files.libcom.org/files/2025-05/0_1.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/61dd81df534c0103.png"
 links:
   - url: "https://archivesautonomies.org/spip.php?article1957 "
     text: "here, in French."

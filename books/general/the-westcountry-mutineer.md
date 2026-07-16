@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/westcountry-mutineer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/West.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec319dfe35c6f235.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/West.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec319dfe35c6f235.png"
 links: []
 files: []
 ---

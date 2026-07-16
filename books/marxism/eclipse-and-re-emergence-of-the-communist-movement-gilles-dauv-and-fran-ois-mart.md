@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/eclipse-and-re-emergence-communist-movement-gilles-dauve-and-francois-martin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/french_student_riot_may_19681.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d2e06487edacdd47.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "workers councils"
   - "France 1968"
 images:
-  - "https://files.libcom.org/files/images/library/french_student_riot_may_19681.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d2e06487edacdd47.jpg"
 links: []
 files:
   - name: "Dauvé with Martin - Eclipse and Re-emergence.pdf"

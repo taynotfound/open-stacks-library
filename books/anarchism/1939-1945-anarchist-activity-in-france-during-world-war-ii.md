@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchist-activity-france-world-war-2"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/0%2C%2C1390660_4%2C00%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9f25b879c4c5d7fd.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "French Resistance"
   - "accounts"
 images:
-  - "https://files.libcom.org/files/0%2C%2C1390660_4%2C00%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9f25b879c4c5d7fd.jpg"
 links:
   - url: "http://cnt-ait.info"
     text: "http://cnt-ait.info"

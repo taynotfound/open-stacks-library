@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/libcom-inleidingen-een-overzicht"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/12112044_467040623481093_4860008082384501270_n.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8fcb09263096fe98.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Nederlands"
 images:
-  - "https://files.libcom.org/files/images/library/12112044_467040623481093_4860008082384501270_n.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8fcb09263096fe98.jpg"
 links:
   - url: "https://dnapatents.georgetown.edu/ "
     text: "DNA"

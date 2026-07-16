@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/revolution-everyday-life-raoul-vaneigem"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/everydaylife.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcfce2f202929519.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2024-06/everydaylife.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcfce2f202929519.jpg"
 links:
   - url: "https://www.amazon.co.uk/exec/obidos/redirect?link_code=ur2&tag=libcom-21&camp=1634&creative=6738&path=ASIN%2F0946061017%2Fqid%3D1136548902%2Fsr%3D1-1%2Fref%3Dsr_1_2_1"
     text: "Buy The Revolution of Everyday Life now"

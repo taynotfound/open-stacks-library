@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/goodbye-unions-controversy-about-autonomous-class-struggle-great-britain"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Winter%20of%20Discontent%201979%20-%20councilworkers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/87fcfc2f21532e4e.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "coal"
   - "Advocom"
 images:
-  - "https://files.libcom.org/files/images/history/Winter%20of%20Discontent%201979%20-%20councilworkers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/87fcfc2f21532e4e.jpg"
 links: []
 files: []
 ---

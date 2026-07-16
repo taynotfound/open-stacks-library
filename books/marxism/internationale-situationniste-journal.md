@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/internationale-situationniste-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-11/DF5F518F-6EFA-49F7-8AC2-E8274D5729F0.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f5d9e17d7fe44edc.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Marxism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2022-11/DF5F518F-6EFA-49F7-8AC2-E8274D5729F0.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f5d9e17d7fe44edc.jpg"
 links: []
 files: []
 ---

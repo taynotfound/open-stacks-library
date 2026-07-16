@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/role-black-people-south-african-war"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/vo113nne.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6976163cc2b3a32a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "colonialism"
   - "Boer war"
 images:
-  - "https://files.libcom.org/files/images/library/vo113nne.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6976163cc2b3a32a.jpg"
 links: []
 files: []
 ---

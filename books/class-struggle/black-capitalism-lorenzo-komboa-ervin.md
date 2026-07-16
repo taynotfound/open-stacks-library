@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/black-capitalism-lorenzo-komboa-ervin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/610x%5B1%5D_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6cdb8fa692c57410.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "capitalism"
   - "black power"
 images:
-  - "https://files.libcom.org/files/610x%5B1%5D_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6cdb8fa692c57410.jpg"
 links: []
 files: []
 ---

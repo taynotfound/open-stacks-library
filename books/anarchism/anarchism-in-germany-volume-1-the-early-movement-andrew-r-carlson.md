@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-germany-volume-1-early-movement-andrew-r-carlson"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/220px-Freiheit.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05c33640965af7af.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Andrew R. Carlson"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/220px-Freiheit.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05c33640965af7af.png"
 links: []
 files: []
 ---

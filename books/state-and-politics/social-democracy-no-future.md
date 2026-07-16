@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/library/social-democracy-aufheben-7"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/foodbank_2604191b.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c75661287a536ccb.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "economics"
   - "Aufheben"
 images:
-  - "https://files.libcom.org/files/images/library/foodbank_2604191b.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c75661287a536ccb.jpg"
 links: []
 files: []
 ---

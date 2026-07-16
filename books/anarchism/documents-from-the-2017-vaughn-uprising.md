@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/documents-2017-vaughn-uprising"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Vaughn.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4b26aa08ca7d35c9.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "It's Going Down"
   - "Chicago Anarchist Black Cross"
 images:
-  - "https://files.libcom.org/files/images/library/Vaughn.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4b26aa08ca7d35c9.jpg"
 links:
   - url: "https://itsgoingdown.org/bloc-party-interview-former-vaughn-prisoner-thomas-gordon/ "
     text: "For further information on the Vaughn Uprising, listen to the audio interview with Thomas Gordon available here"

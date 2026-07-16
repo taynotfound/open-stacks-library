@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/everyday-manifesto"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/cup-coffee.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1e8353ff503f713f.jpg"
 page_type: gallery
 mirror_state: none
 description: ""
@@ -15,20 +15,20 @@ tags:
   - "libcom.org"
   - "UK elections 2010"
 images:
-  - "https://files.libcom.org/files/cup-coffee.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1e8353ff503f713f.jpg"
   - "https://files.libcom.org/files/community-assembly-argentina.jpg"
-  - "https://files.libcom.org/files/chile-coup-1973-stadium.jpg"
-  - "https://files.libcom.org/files/global-warming-glacier.jpg"
-  - "https://files.libcom.org/files/smoke_stacks.jpg"
-  - "https://files.libcom.org/files/loggers.jpg"
-  - "https://files.libcom.org/files/holocaust.jpg"
-  - "https://files.libcom.org/files/nick-griffin[1].jpg"
-  - "https://files.libcom.org/files/Boarded-up-house.jpg"
-  - "https://files.libcom.org/files/gate-gourmet-workers-strike.jpg"
-  - "https://files.libcom.org/files/anti-fascist-action.jpg"
-  - "https://files.libcom.org/files/dirty-nhs-sink.jpg"
-  - "https://files.libcom.org/files/nhs-beds.jpg"
-  - "https://files.libcom.org/files/nhs-strike-against-privatisation.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fc8b34a085319eab.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fc28f9bcaa22ea3d.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/313044d180ade11f.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/07a00180491d9917.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/020f1016ef49f134.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/49d30d6ae3247ccc.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/68966a254fb220d8.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e0986b97b51a685a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ab3a4cd22cf07e0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/86162a454583534b.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/308d773ea4f352c6.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a4ab14c78af28abf.jpg"
 links:
   - url: "http://www.sussex.ac.uk/press_office/media/media270.shtml"
     text: "Press release here"
@@ -71,8 +71,8 @@ links:
 files:
   - name: "Presentation before the World Health Organisation of the Indian Drug Manufacturers’ Association"
     type: "PDF"
-    url: "http://www.who.int/intellectualproperty/events/en/Majmudar.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/dd9c15a7_Majmudar.pdf"
+    hosted: true
 ---
 # Everyday manifesto
 

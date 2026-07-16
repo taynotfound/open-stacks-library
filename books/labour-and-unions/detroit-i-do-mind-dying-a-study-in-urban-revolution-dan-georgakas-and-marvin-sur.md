@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/detroit-i-do-mind-dying-study-urban-revolution-dan-georgakas-and-marvin-surkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/black-workers-power.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5f899ff82da07c59.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,9 +19,9 @@ tags:
   - "United Auto Workers (UAW)"
   - "AFL-CIO"
 images:
-  - "https://files.libcom.org/files/images/history/black-workers-power.jpg"
-  - "https://files.libcom.org/files/detroit1.png"
-  - "https://files.libcom.org/files/detroit2.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5f899ff82da07c59.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/48c69386373556a5.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c720ccca7ebf5c9c.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/fighting-talk-edinburgh-broadsheet-edinburgh-anti-fascist-action"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/FTE%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/316cd4979a3b0d7a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/FTE%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/316cd4979a3b0d7a.png"
 links:
   - url: "https://antifascistarchive.net/literature/local-anti-fascist-bulletins/ "
     text: "the Anti-Fascist Archive"

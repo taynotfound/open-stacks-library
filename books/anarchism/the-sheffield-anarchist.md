@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/sheffield-anarchist"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sheff.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7a73d41f0a1bf2e0.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "The Sheffield Anarchist"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/sheff.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7a73d41f0a1bf2e0.jpg"
 links:
   - url: "https://www.shaarc.org.uk/ "
     text: "Sheffield Anarchist Archive"

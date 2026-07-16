@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/du-feminisme-illustre-editions-blast-meor"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/feminisme.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e97487dddc012b57.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "feminism"
   - "gender"
 images:
-  - "https://files.libcom.org/files/images/library/feminisme.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e97487dddc012b57.png"
 links:
   - url: "https://blastemeor.noblogs.org/post/2015/08/14/brochure-du-feminisme-illustre-severement-corrigee/ "
     text: "éditions Blast & Meor"
@@ -36,12 +36,12 @@ links:
 files:
   - name: "Rapport contre la normalité"
     type: "PDF"
-    url: "http://inventin.lautre.net/livres/FHAR.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/095355fd_FHAR.pdf"
+    hosted: true
   - name: "Le Fléau , n° 4"
     type: "PDF"
-    url: "http://archivesautonomies.org/IMG/pdf/homosexualites/fleausocial/lefleausocial-n04.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a5914a28_lefleausocial-n04.pdf"
+    hosted: true
 ---
 # Du féminisme illustré - éditions Blast & Meor
 

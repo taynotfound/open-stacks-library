@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/socialism-utopian-and-scientific"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/engels.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/50e5d108b562c637.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Marxism"
   - "Friedrich Engels"
 images:
-  - "https://files.libcom.org/files/images/library/engels.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/50e5d108b562c637.jpg"
 links: []
 files: []
 ---

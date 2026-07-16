@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/karl-marx-man-and-fighter-boris-nicolaievsky-and-otto-maenchen-helfen"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Karl_Marx_001.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fed221bfe831763d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Boris Nicolaievsky"
   - "Otto Maenchen-Helfen"
 images:
-  - "https://files.libcom.org/files/images/library/Karl_Marx_001.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fed221bfe831763d.jpg"
 links: []
 files:
   - name: "Karl Marx man and fighter - Boris Nicolaievsky and Otto Maenchen-Helfen.docx"

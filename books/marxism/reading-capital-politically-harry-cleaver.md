@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/reading-capital-politically-harry-cleaver"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/rcpcover2ed.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/330e3d0bcf38227b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/rcpcover2ed.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/330e3d0bcf38227b.jpg"
 links: []
 files:
   - name: "cleaver-reading_capital_politically.pdf"

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/none-shall-escape-radical-perspectives-caribbean"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/IMG%20Fundi%20pic.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/89d3ad8cbd25e4a4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "Caribbean"
   - "Grenada"
 images:
-  - "https://files.libcom.org/files/images/history/IMG%20Fundi%20pic.jpg"
-  - "https://files.libcom.org/files/2025-01/fundi-map.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/89d3ad8cbd25e4a4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/58823350c7c83372.jpg"
 links: []
 files:
   - name: "fundi-none-shall-escape-radical-perspectives-in-the-caribbean.pdf"

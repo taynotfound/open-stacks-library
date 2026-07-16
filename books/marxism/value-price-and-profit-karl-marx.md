@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/value-price-and-profit-karl-marx"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/iwma%5B1%5D.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fcd65f85ed30bc3c.gif"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "International Working Men's Association (IWMA)"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/iwma%5B1%5D.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fcd65f85ed30bc3c.gif"
 links: []
 files: []
 ---

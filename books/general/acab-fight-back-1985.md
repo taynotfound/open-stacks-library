@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/acab-fight-back-1985"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-12/ACAB-COVER.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e308a316c0fc45c9.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "PDF"
   - "Bristol"
 images:
-  - "https://files.libcom.org/files/2024-12/ACAB-COVER.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e308a316c0fc45c9.png"
 links: []
 files: []
 ---

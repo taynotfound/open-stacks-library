@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/explosion-point-ideology-kurdistan-vp-geh"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/Capture-du2019e%CC%81cran-2018-05-03-a%CC%80-13.43.27-1024x679.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dc57b6aff51e569d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "YPG"
   - "Solitudes intangibles"
 images:
-  - "https://files.libcom.org/files/images/news/Capture-du2019e%CC%81cran-2018-05-03-a%CC%80-13.43.27-1024x679.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dc57b6aff51e569d.jpg"
 links:
   - url: "https://rtd.rt.com/films/road-to-raqqa/"
     text: "Russia Today"
@@ -98,8 +98,8 @@ links:
 files:
   - name: "SI_explosion ideol Kurdistan_SV_2018"
     type: "PDF"
-    url: "http://solitudesintangibles.fr/wp-content/uploads/2018/05/SI_explosion-ideol-Kurdistan_SV_2018-1.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/d0225814_SI_explosion-ideol-Kurdistan_SV_2018-1.pdf"
+    hosted: true
 ---
 # The explosion point of ideology in Kurdistan – VP & GEH
 

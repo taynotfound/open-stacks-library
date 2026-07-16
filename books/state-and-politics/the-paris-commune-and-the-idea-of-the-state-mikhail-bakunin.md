@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/paris-commune-and-idea-state-mikhail-bakunin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/pariscommune1871.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2492ba979e6bad7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Paris Commune"
   - "1870s"
 images:
-  - "https://files.libcom.org/files/images/history/pariscommune1871.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2492ba979e6bad7.jpg"
 links: []
 files: []
 ---

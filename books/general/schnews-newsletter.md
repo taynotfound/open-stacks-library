@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/schnews-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-01/SchNEWSlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5d39f786cf06f1cf.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "1990s"
   - "Brighton"
 images:
-  - "https://files.libcom.org/files/2023-01/SchNEWSlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5d39f786cf06f1cf.png"
 links:
   - url: "https://schnews.org/ "
     text: "https://schnews.org/"

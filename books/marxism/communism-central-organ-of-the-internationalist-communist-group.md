@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communism-central-organ-internationalist-communist-group"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-03/communismheader.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dd1130a6606a5780.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "GCI-ICG"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-03/communismheader.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dd1130a6606a5780.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/ethiopia-and-socialist-theory-blood-wall"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/RedTError_EPRP_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ba910fe11f2eff7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Ethiopian revolution 1974"
   - "Ken Tarbuck"
 images:
-  - "https://files.libcom.org/files/images/library/RedTError_EPRP_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7ba910fe11f2eff7.jpg"
 links: []
 files: []
 ---

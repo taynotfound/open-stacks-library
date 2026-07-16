@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/zero-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/zero7cov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/55abc83d4a1e962a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "feminism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/zero7cov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/55abc83d4a1e962a.png"
 links:
   - url: "https://dwardmac.pitzer.edu/anarchist_archives/coldoffthepresses/Zero/Zerocontents.html "
     text: "Anarchy Archives"

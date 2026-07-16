@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/end-anarchism-luigi-galleani"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/galleani04.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/67935c0f217af52b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Luigi Galleani"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/galleani04.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/67935c0f217af52b.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/introductions-political-theories-libcomorg"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarchist-flags.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4d8e57544e9b6eb5.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,9 +13,9 @@ tags:
   - "libertarian communism"
   - "libcom.org"
 images:
-  - "https://files.libcom.org/files/images/library/anarchist-flags.jpg"
-  - "https://files.libcom.org/files/CNT-armoured-car-factory.gif"
-  - "https://files.libcom.org/files/Basel_1869[1].png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4d8e57544e9b6eb5.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0e486e810460519b.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/861ae88b56f3d153.png"
 links: []
 files: []
 ---

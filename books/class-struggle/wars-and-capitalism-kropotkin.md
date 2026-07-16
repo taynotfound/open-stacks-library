@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/wars-and-capitalism-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/quote-for-capitalism-war-and-peace-are-business-and-nothing-but-business-karl-liebknecht-112208.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/288cb8f73aae99e7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "capitalism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/quote-for-capitalism-war-and-peace-are-business-and-nothing-but-business-karl-liebknecht-112208.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/288cb8f73aae99e7.jpg"
 links: []
 files: []
 ---

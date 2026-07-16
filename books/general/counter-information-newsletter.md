@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/counter-information-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202021-01-31%20at%2019.53.07.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/11a344b378e908dc.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Autonomous Centre of Edinburgh"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screen%20Shot%202021-01-31%20at%2019.53.07.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/11a344b378e908dc.png"
 links:
   - url: "https://www.counterinfo.org.uk/ "
     text: "http://www.counterinfo.org.uk/"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/commoner-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screenshot%202021-10-02%20at%2014.42.40.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e3d6d13f13fd7a7c.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "The Commoner"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screenshot%202021-10-02%20at%2014.42.40.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e3d6d13f13fd7a7c.png"
 links:
   - url: "https://thecommoner.org/ "
     text: "https://thecommoner.org/"

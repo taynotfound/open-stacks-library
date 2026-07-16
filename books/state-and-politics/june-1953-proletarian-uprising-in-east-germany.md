@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/june-1953-proletarian-uprising-east-germany"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-06/17551786_906.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efecfabe7656c567.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "East Germany 1953"
   - "internationalism"
 images:
-  - "https://files.libcom.org/files/2023-06/17551786_906.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efecfabe7656c567.jpg"
 links: []
 files: []
 ---

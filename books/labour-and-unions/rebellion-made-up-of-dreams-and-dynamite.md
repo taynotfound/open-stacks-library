@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/rebellion-made-dreams-and-dynamite"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Rebellion--MUDD%20v1.07.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/656a33395b4e88ea.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "Covington Hall"
 images:
-  - "https://files.libcom.org/files/images/library/Rebellion--MUDD%20v1.07.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/656a33395b4e88ea.jpg"
 links:
   - url: "https://depts.washington.edu/iww/map_newspapers.shtml "
     text: "the University of Washington's IWW History Project"

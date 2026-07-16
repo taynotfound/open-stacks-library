@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wildcat-london-1970s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/30504120428.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b585a19631a40688.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Wynford Hicks"
   - "Wildcat (London 1970s)"
 images:
-  - "https://files.libcom.org/files/images/library/30504120428.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b585a19631a40688.jpg"
 links: []
 files: []
 ---

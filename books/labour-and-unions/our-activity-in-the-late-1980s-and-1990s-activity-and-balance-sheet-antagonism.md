@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/our-activity-late-1980s-and-1990s-activity-and-balance-sheet-antagonism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/JD%20gardening_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0cd2e700ca86d841.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,9 +17,9 @@ tags:
   - "poll tax"
   - "Wapping dispute"
 images:
-  - "https://files.libcom.org/files/images/history/JD%20gardening_0.jpg"
-  - "https://files.libcom.org/files/2023-02/cndfront.jpg"
-  - "https://files.libcom.org/files/2023-02/cndback.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0cd2e700ca86d841.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b17998c09d849a8c.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c681b9aff983dbca.jpg"
 links:
   - url: "https://www.geocities.com/antagonism1/our80s90s/index.html "
     text: "Antagonism"

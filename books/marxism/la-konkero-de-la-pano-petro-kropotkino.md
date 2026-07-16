@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/la-konkero-de-la-pano-petro-kropotkino"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/zw4f64585d.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c0dd31867d9111e8.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "communist society"
   - "Esperanto"
 images:
-  - "https://files.libcom.org/files/images/library/zw4f64585d.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c0dd31867d9111e8.jpg"
 links:
   - url: "https://wiki.liberecanoj.org/tiki-index.php?page=Tekstoj+de+la+grupo+Liberecanoj "
     text: "Grupo Librecanoj"

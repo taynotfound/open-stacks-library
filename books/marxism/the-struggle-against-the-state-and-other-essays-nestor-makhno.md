@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/struggle-against-state-and-other-essays-nestor-makhno"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/NestorMakhno.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0cd0033c68164d1a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "epub"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/NestorMakhno.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0cd0033c68164d1a.jpg"
 links: []
 files:
   - name: "Makhno - The Struggle Against the State and Other Essays.pdf"

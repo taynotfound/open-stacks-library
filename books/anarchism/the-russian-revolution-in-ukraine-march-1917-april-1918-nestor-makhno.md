@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/russian-revolution-ukraine-march-1917-april-1918-nestor-makhno"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/08.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b00dde906127e1e.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/08.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b00dde906127e1e.jpg"
 links: []
 files: []
 ---

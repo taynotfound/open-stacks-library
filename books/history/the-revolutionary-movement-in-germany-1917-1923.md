@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/library/revolutionary-movement-in-germany-1917-1923"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/guerracivil.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a8f1edc0dd5fe17b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Germany"
   - "social movements"
 images:
-  - "https://files.libcom.org/files/guerracivil.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a8f1edc0dd5fe17b.jpg"
 links: []
 files: []
 ---

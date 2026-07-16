@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/class-struggles-ussr-third-period-1930-1941-charles-bettelheim"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screenshot%20%28689%29.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e07a6423b2c1fb25.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Joseph Stalin"
   - "Charles Bettelheim"
 images:
-  - "https://files.libcom.org/files/images/library/Screenshot%20%28689%29.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e07a6423b2c1fb25.png"
 links: []
 files: []
 ---

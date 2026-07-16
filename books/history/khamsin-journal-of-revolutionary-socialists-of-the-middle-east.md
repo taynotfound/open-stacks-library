@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/khamsin-journal-revolutionary-socialists-middle-east"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IMG_20130716_142426.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/482ab874b4635a5f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Jewish"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/IMG_20130716_142426.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/482ab874b4635a5f.jpg"
 links: []
 files: []
 ---

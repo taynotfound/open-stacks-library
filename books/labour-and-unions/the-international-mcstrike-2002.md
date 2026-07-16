@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/international-mcstrike-2002"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/mcdoof.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1f08abc9371badef.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "accounts"
   - "restaurants"
 images:
-  - "https://files.libcom.org/files/images/history/mcdoof.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1f08abc9371badef.jpg"
 links: []
 files: []
 ---

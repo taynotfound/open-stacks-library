@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/libertarian-communist-paper-libertarian-communist-group"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/LC%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83a53c2f4ded83c7.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/LC%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83a53c2f4ded83c7.png"
 links:
   - url: "https://thesparrowsnest.org.uk/search.php?query=libertarian+communist&logic=and&digital=0&digital=0 "
     text: "Originally digitised by the Sparrow's Nest"

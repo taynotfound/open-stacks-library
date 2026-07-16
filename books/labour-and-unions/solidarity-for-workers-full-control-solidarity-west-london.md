@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solidarity-workers-full-control-solidarity-west-london"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/solidarity-West.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/481952e0f2c2b667.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/solidarity-West.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/481952e0f2c2b667.jpg"
 links: []
 files: []
 ---

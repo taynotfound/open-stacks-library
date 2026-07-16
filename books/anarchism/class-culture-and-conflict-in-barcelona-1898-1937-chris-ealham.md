@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/class-culture-and-conflict-barcelona-1898-1937-chris-ealham"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/barricades.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed8de51df2ea0e82.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Federación Anarquista Ibérica (FAI)"
   - "Chris Ealham"
 images:
-  - "https://files.libcom.org/files/images/history/barricades.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed8de51df2ea0e82.jpg"
 links:
   - url: "https://www.akpress.org/2010/items/anarchismandthecity "
     text: "on AK USA site"

@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/freedom-new-york"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The%20Woman%20Rebel%20v1.n01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/63d00edf812e8ec2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "New York"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/The%20Woman%20Rebel%20v1.n01.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/63d00edf812e8ec2.jpg"
 links: []
 files: []
 ---

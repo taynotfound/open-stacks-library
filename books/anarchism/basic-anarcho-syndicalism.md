@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/basic-anarcho-syndicalism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1mayo%285%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f05af91507075be4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "International Workers' Association (IWA)"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/1mayo%285%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f05af91507075be4.jpg"
 links:
   - url: "https://anarcosindicalismo-basico.blogspot.co.uk/ "
     text: "Anarcosindicalismo: Basico"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/al-amal-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-02/Sudanese%20anarchists.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b3c8798927014dba.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "colonialism"
   - "Sudan conflict"
 images:
-  - "https://files.libcom.org/files/2025-02/Sudanese%20anarchists.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b3c8798927014dba.png"
 links:
   - url: "https://www.paypal.com/paypalme/cntait1 "
     text: "https://www.paypal.com/paypalme/cntait1"

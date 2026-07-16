@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syndicalism-and-anarcho-syndicalism-germany"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/FAUD.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5fc33a0e709d34bd.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Helge Döhring"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/FAUD.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5fc33a0e709d34bd.png"
 links: []
 files:
   - name: "syndicalism-Germany.pdf"

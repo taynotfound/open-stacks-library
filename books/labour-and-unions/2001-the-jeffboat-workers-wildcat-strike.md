@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/2001-jeffboat-workers-wildcat-strike"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/jeffboat5.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcbbd63a7e817e82.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "wildcat strikes"
   - "transport"
 images:
-  - "https://files.libcom.org/files/images/history/jeffboat5.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcbbd63a7e817e82.jpg"
 links: []
 files: []
 ---

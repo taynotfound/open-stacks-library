@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/organisational-platform-general-union-anarchists-draft"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/makhno_1921%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5fe9471060fca57e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "platformism"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/makhno_1921%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5fe9471060fca57e.jpg"
 links: []
 files: []
 ---

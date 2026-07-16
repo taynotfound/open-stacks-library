@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/introduction-left-communism-germany-1914-1923"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/syfraubu%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/15e050fbf65c4566.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "German Revolution 1918"
   - "FAUD"
 images:
-  - "https://files.libcom.org/files/images/history/syfraubu%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/15e050fbf65c4566.jpg"
 links: []
 files: []
 ---

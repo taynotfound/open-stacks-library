@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/meetings-kremlin-moscow-1921-interview-bernhard-reichenbach"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/024%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e5fa994120223c4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "accounts"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/024%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e5fa994120223c4.jpg"
 links: []
 files: []
 ---

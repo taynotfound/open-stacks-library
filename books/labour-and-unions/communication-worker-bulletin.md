@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/communication-worker-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-10/DC0AA246-81F6-4B7E-BAE5-25CA0BB841B5.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cccbce1914943f87.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-10/DC0AA246-81F6-4B7E-BAE5-25CA0BB841B5.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cccbce1914943f87.jpg"
 links: []
 files: []
 ---

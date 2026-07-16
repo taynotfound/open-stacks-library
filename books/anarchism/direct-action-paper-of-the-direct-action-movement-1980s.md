@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-paper-direct-action-movement-1980s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/DA%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/56f6cb83780d62e5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/DA%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/56f6cb83780d62e5.png"
 links:
   - url: "https://thesparrowsnest.org.uk/search.php?query=direct+action&logic=and&digital=0&digital=0 "
     text: "the excellent collection at the Sparrow's Nest"

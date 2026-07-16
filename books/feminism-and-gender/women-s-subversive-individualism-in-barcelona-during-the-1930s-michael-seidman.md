@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/womens-subversive-individualism-barcelona-during-1930s-michael-seidman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/phoca_thumb_l_spanischer-buergerkrieg-9%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e73e0e768fc2bf0.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Confederación Nacional del Trabajo (CNT)"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/phoca_thumb_l_spanischer-buergerkrieg-9%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e73e0e768fc2bf0.jpg"
 links:
   - url: "https://misterscruffles.wordpress.com/2013/04/06/part-1-those-of-barcelona-by-h-e-kaminski/ "
     text: "H. E. Kaminsky's testimony"

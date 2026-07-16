@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-theory-practice-daniel-guerin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/libertat%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/576ceecdd76e8732.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/libertat%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/576ceecdd76e8732.jpg"
 links: []
 files:
   - name: "Anarchism_ From Theory to Practice - Guerin, Daniel.epub"

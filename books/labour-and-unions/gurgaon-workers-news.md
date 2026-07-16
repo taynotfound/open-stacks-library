@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/gurgaon-workers-news"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Gurgaon_2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8944609b1882c06a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "manufacturing and materials"
   - "India"
 images:
-  - "https://files.libcom.org/files/images/library/Gurgaon_2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8944609b1882c06a.jpg"
 links: []
 files:
   - name: "Gurgaon-Workers-News.mobi"

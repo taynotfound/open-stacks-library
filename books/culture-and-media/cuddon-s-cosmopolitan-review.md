@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/cuddons-cosmopolitan-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-04/Screenshot%202023-04-07%20at%2010.08.52.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ddf12822e1e8bea.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-04/Screenshot%202023-04-07%20at%2010.08.52.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ddf12822e1e8bea.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/trans-101-wobblies"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/gender_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fef72f08a8c87c25.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "LGBTQ+ (Lesbian Gay Bi Trans Queer +)"
   - "gender"
 images:
-  - "https://files.libcom.org/files/images/library/gender_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fef72f08a8c87c25.jpg"
 links:
   - url: "https://iwwboston.org/2012/05/15/trans-101-for-wobblies-part-1-understanding-basic-terminology/ "
     text: "here"

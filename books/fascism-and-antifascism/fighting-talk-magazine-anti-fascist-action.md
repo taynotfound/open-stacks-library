@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/fighting-talk-magazine-anti-fascist-action"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/antinaz%20008.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8c74d54d44ceda71.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/antinaz%20008.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8c74d54d44ceda71.jpg"
 links: []
 files: []
 ---

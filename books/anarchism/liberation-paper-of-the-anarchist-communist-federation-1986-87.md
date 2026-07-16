@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/liberation-paper-anarchist-communist-federation-1986-87"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Liberation%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d0e4a8e3142cc73a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Liberation%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d0e4a8e3142cc73a.png"
 links:
   - url: "https://www.thesparrowsnest.org.uk/index.php/14-news-and-events/165-new-additions-to-the-digital-library-sep-2018 "
     text: "the Sparrow's Nest"

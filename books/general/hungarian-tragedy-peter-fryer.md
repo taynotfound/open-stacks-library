@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/hungarian-tragedy-peter-fryer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/peter-fryer-hungarian-tragedy.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1e802510b9ad6e5.jpg"
 page_type: article
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Peter Fryer"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/peter-fryer-hungarian-tragedy.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1e802510b9ad6e5.jpg"
 links: []
 files: []
 ---

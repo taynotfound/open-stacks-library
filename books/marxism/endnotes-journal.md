@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/endnotes-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/endnotes-1.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ae1307581ba022f.gif"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/endnotes-1.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ae1307581ba022f.gif"
 links: []
 files:
   - name: "Endnotes 1.pdf"

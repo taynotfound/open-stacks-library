@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/fighting-call-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/fighting-call.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/565e608f62324e77.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/fighting-call.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/565e608f62324e77.jpg"
 links: []
 files: []
 ---

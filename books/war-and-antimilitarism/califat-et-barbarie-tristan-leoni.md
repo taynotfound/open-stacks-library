@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/califat-et-barbarie-tristan-leoni"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/123.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/84e0aafc3352a1cf.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "DDT21"
   - "Islamic State"
 images:
-  - "https://files.libcom.org/files/images/library/123.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/84e0aafc3352a1cf.png"
 links:
   - url: "https://ddt21.noblogs.org/?page_id=324"
     text: "Kurdistan ?"
@@ -126,36 +126,36 @@ links:
 files:
   - name: "Islamic State : The Economy-Based Terrorist Funding"
     type: "PDF"
-    url: "https://risk.thomsonreuters.com/sites/default/files/GRC01815.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/9a867104_GRC01815.pdf"
+    hosted: true
   - name: "Women of the Islamic State, A manifesto on women"
     type: "PDF"
     url: "http://www.quilliamfoundation.org/wp/wp-content/uploads/publications/free/women-of-the-islamic-state3.pdf"
     hosted: false
   - name: "Rapport fait au nom de la commission d’enquête relative aux moyens mis en œuvre par l’État pour lutter contre le terrori"
     type: "PDF"
-    url: "http://www.assemblee-nationale.fr/14/pdf/rap-enq/r3922-t2.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/db2509b0_r3922-t2.pdf"
+    hosted: true
   - name: "Deux guerres locales"
     type: "PDF"
-    url: "http://www.larevuedesressources.org/IMG/pdf/internationale_situationniste_11.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/4156ed1f_internationale_situationniste_11.pdf"
+    hosted: true
   - name: "La mise en place en Syrie des organisations de la société civile"
     type: "PDF"
     url: "http://www.ilasouria.org/wp-content/uploads/2014/01/11-Leverrier.pdf"
     hosted: false
   - name: "Syria at War: Five Years On"
     type: "PDF"
-    url: "https://www.unescwa.org/sites/www.unescwa.org/files/publications/files/syria-war-five-years.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/15e85966_syria-war-five-years.pdf"
+    hosted: true
   - name: "Syrian Refugee Arrivals In Greece"
     type: "PDF"
-    url: "http://reliefweb.int/sites/reliefweb.int/files/resources/UNHCR-Greece_SyrianSurvey%20%281%29.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/42218367_UNHCR-Greece_SyrianSurvey__1_.pdf"
+    hosted: true
   - name: "Cologne : les attaques contre les femmes sont le produit du patriarcat et font le jeu des racistes anti-immigrés"
     type: "PDF"
-    url: "http://mouvement-communiste.com/documents/MC/Leaflets/BLT1602FRVF.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/025a36f5_BLT1602FRVF.pdf"
+    hosted: true
 ---
 # Califat et Barbarie - Tristan Leoni
 

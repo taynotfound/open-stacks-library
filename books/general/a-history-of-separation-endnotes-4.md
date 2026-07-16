@@ -5,15 +5,15 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/history-separation-endnotes-4"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Pictures%20of%20The%20Fall%20of%20the%20Soviet%20Union%2C%201991%20%281%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3462c9dfdbbf0c1a.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Endnotes"
 images:
-  - "https://files.libcom.org/files/images/library/Pictures%20of%20The%20Fall%20of%20the%20Soviet%20Union%2C%201991%20%281%29.jpg"
-  - "https://files.libcom.org/files/tc-periodisation.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3462c9dfdbbf0c1a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/556c58d03c35b98a.png"
 links: []
 files: []
 ---

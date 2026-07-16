@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/end-music-punk-new-wave-reggae-critique-david-and-stuart-wise"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-12/endofmusic2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0051370202e619d8.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,9 +19,9 @@ tags:
   - "situationist"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-12/endofmusic2.jpg"
-  - "https://files.libcom.org/files/2022-12/endofmusic11.jpg"
-  - "https://files.libcom.org/files/2022-12/endofmusic12.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0051370202e619d8.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9e70594c0b2a1eb1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cd7921fa3d4793b4.jpg"
 links: []
 files: []
 ---

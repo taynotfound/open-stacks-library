@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/soul-man-under-socialism-oscar-wilde"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Oscar.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/22bbc5a53aee3ea0.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "communist society"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Oscar.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/22bbc5a53aee3ea0.jpg"
 links: []
 files:
   - name: "The soul of man under socialism.pdf"

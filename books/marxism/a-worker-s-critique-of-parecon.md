@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-critique-parecon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/parecon.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e4fd7334e8232fd4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "communist society"
   - "mobi"
 images:
-  - "https://files.libcom.org/files/images/blog/parecon.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e4fd7334e8232fd4.jpg"
 links: []
 files:
   - name: "Steven-Johns-Michael-Albert-debate.epub"

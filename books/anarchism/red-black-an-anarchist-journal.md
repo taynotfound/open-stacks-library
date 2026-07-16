@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/red-black-anarchist-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/red-black-journal.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a1bec6a130da6c2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "Jack Grancharoff"
 images:
-  - "https://files.libcom.org/files/images/library/red-black-journal.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a1bec6a130da6c2.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solid-black-fist-prison-strike-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SBF%20cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ea3131713cd1e96d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Amani Sawari"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/SBF%20cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ea3131713cd1e96d.jpg"
 links:
   - url: "https://sawarimi.org/npsnewsletter "
     text: "A newsletter created for the August 2018 national strikes, by Amani Sawari"

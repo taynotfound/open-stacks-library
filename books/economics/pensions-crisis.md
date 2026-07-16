@@ -5,7 +5,7 @@ date: ""
 category: "economics"
 source: "https://libcom.org/article/pensions-crisis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/money.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c7fffbead16af1f9.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "pensions"
   - "old age"
 images:
-  - "https://files.libcom.org/files/money.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c7fffbead16af1f9.jpg"
 links: []
 files: []
 ---

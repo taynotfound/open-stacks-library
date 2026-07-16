@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/international-socialist-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/nl010189_c01455b491.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b60931faacad4bd2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "International Socialist Review"
 images:
-  - "https://files.libcom.org/files/images/library/nl010189_c01455b491.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b60931faacad4bd2.jpg"
 links: []
 files: []
 ---

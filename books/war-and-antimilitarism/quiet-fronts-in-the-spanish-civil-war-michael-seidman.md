@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/quiet-fronts-spanish-civil-war-michael-seidman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/civil-war-trench.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6ab71e644fc3a17c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "military and law enforcement"
   - "Spanish civil war"
 images:
-  - "https://files.libcom.org/files/images/library/civil-war-trench.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6ab71e644fc3a17c.jpg"
 links: []
 files: []
 ---

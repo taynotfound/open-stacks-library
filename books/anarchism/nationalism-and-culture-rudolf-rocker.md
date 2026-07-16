@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/nationalism-and-culture-rudolf-rocker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/28102.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ea85dc3cb2b053f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "anarchism"
   - "religion"
 images:
-  - "https://files.libcom.org/files/images/library/28102.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ea85dc3cb2b053f.jpg"
 links:
   - url: "https://www.anarchosyndicalism.net/rocker/nc.htm "
     text: "anarchosyndicalism.net"

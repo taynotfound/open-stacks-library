@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/road-freedom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The%20Road%20to%20Freedom.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c1841e57cb83b40a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "The Road to Freedom"
 images:
-  - "https://files.libcom.org/files/images/library/The%20Road%20to%20Freedom.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c1841e57cb83b40a.png"
 links: []
 files: []
 ---

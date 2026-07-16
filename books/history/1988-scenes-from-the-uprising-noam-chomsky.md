@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/library/scenes-from-uprising-palestine-chomsky"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/tammam-azzam-syria-in-blood-2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8783502dfa05f7e7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Israel"
   - "uprisings"
 images:
-  - "https://files.libcom.org/files/images/news/tammam-azzam-syria-in-blood-2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8783502dfa05f7e7.jpg"
 links: []
 files: []
 ---

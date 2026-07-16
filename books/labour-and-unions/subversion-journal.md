@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/subversion-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/subversion-cover_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/199cdb3967b565b3.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-04/subversion-cover_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/199cdb3967b565b3.png"
 links: []
 files: []
 ---

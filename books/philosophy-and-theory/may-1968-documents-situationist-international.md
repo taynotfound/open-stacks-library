@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/may-1968-documents-situationist-international"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/situationism-ideas-in-conflict-situationism-ideas-in-conflict.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b15a416014ce39b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "situationist"
   - "France 1968"
 images:
-  - "https://files.libcom.org/files/images/history/situationism-ideas-in-conflict-situationism-ideas-in-conflict.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b15a416014ce39b.jpg"
 links: []
 files: []
 ---

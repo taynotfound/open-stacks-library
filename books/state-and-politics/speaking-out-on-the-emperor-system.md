@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/speaking-out-emperor-system"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,13 +16,13 @@ tags:
   - "monarchy"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://libcom.org/files/TerrorTabooandSilenceSpeakingoutontheEmperorSystem.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/2879f11b_TerrorTabooandSilenceSpeakingoutontheEmperorSystem.pdf"
+    hosted: true
 ---
 # Speaking Out on the Emperor System
 

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/iww-and-profintern"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/dsd.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64494743f354e5e1.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "USSR"
   - "Profintern"
 images:
-  - "https://files.libcom.org/files/images/library/dsd.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64494743f354e5e1.png"
 links: []
 files: []
 ---

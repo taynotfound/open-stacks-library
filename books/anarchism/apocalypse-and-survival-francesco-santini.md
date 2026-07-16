@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/apocalypse-and-survival-francesco-santini"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Santini%202%20image.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b8be23bb0109182a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Giorgio Cesarano"
   - "Autonomia Operaia"
 images:
-  - "https://files.libcom.org/files/images/library/Santini%202%20image.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b8be23bb0109182a.jpg"
 links: []
 files: []
 ---

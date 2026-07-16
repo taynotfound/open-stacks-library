@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/autobiographies-haymarket-martyrs"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/482478_372434359523496_1193501142_n.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/47ad928526928bc7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "8-hour day"
   - "Knights of Labor"
 images:
-  - "https://files.libcom.org/files/images/history/482478_372434359523496_1193501142_n.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/47ad928526928bc7.jpg"
 links: []
 files: []
 ---

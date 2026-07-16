@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-russian-revolution-paul-avrich"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/anarchists-against-dictatorship%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dda8f85b6607248b.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1920s"
   - "USSR"
 images:
-  - "https://files.libcom.org/files/images/history/anarchists-against-dictatorship%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dda8f85b6607248b.jpg"
 links: []
 files: []
 ---

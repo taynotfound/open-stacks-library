@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/sweatshops-starbucks"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Ben%20Fletcher%20book%20cover.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bd014cd72eb0ebf2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "United States"
   - "marxvx"
 images:
-  - "https://files.libcom.org/files/Ben%20Fletcher%20book%20cover.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bd014cd72eb0ebf2.jpg"
 links:
   - url: "http://ech.case.edu/cgi/article.pl?id=IWOTW"
     text: "abandoned the IWW for the CIO"

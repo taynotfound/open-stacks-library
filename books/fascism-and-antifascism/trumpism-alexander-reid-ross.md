@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/trumpism-alexander-reid-ross"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/DonaldTrumpOfficiallyAnnouncingForPresidenttrum-980x600.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1be75d448a6eb860.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Donald Trump"
   - "2016 US elections"
 images:
-  - "https://files.libcom.org/files/images/library/DonaldTrumpOfficiallyAnnouncingForPresidenttrum-980x600.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1be75d448a6eb860.jpg"
 links:
   - url: "https://www.libraryofsocialscience.com/ideologies/docs/the-palingenetic-core-of-generic-fascist-ideology/index.html "
     text: "palingenenetic ultrantionalism"

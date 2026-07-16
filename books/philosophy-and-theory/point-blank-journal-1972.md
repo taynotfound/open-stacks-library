@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/point-blank-journal-1972"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-12/pb1-a.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ebd5605987f91c8e.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "situationist"
   - "San Francisco"
 images:
-  - "https://files.libcom.org/files/2022-12/pb1-a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ebd5605987f91c8e.jpg"
 links:
   - url: "https://www.geocities.com/Athens/Acropolis/8195/blasts/pointblank/pointblank2.htm "
     text: "From Subversion"

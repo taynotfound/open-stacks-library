@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/socialist-labor-party-1876-1991-short-history-frank-girard-and-ben-perry"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/slpus-girard-perry-1991-cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/41de19f38ccd0cd5.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Ben Perry"
   - "Daniel De Leon"
 images:
-  - "https://files.libcom.org/files/images/library/slpus-girard-perry-1991-cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/41de19f38ccd0cd5.jpg"
 links: []
 files: []
 ---

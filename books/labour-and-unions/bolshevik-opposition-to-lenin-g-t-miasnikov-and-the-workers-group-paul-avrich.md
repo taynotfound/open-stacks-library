@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/bolshevik-opposition-lenin-g-t-miasnikov-and-workers-group-paul-avrich"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/myasnikov002%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e80c2026bf7ba95.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Vladimir Lenin"
   - "Bolsheviks"
 images:
-  - "https://files.libcom.org/files/images/history/myasnikov002%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8e80c2026bf7ba95.jpg"
 links: []
 files: []
 ---

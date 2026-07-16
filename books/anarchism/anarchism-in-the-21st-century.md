@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-21st-century"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/front_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b8dfec23f50e4a4d.png"
 page_type: article
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Georgi Konstantinov"
   - "Bulgarian Anarchist Federation"
 images:
-  - "https://files.libcom.org/files/images/library/front_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b8dfec23f50e4a4d.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-against-work-labor-paris-and-barcelona-during-popular-fronts-michael-seidman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/WaW_cover_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/07864c7574ed90c0.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/images/library/WaW_cover_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/07864c7574ed90c0.jpg"
 links: []
 files:
   - name: "Workers Against Work_ Labor in  - Seidman, Michael.mobi"

@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/politics-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/dwight-macdonald-mccarthy-et-al-pr.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ba7be3d6aec4cf3.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Politics Circle"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/dwight-macdonald-mccarthy-et-al-pr.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ba7be3d6aec4cf3.jpg"
 links: []
 files: []
 ---

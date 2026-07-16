@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/points-unity-black-rose-anarchist-federation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/10431230_1526364584272549_1337288361872924058_o.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ac3cb3a4b1c24b39.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "United States"
   - "Black Rose Anarchist Federation"
 images:
-  - "https://files.libcom.org/files/images/library/10431230_1526364584272549_1337288361872924058_o.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ac3cb3a4b1c24b39.png"
 links:
   - url: "https://www.blackrosefed.org/points-of-unity/ "
     text: "Black Rose Anarchist Federation"

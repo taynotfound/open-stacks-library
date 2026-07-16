@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/still-strike-recollections-bisbee-deportee-fred-watson"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Bisbee-deportation.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1ebf694f214f32e4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "mining"
   - "metals"
 images:
-  - "https://files.libcom.org/files/images/history/Bisbee-deportation.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1ebf694f214f32e4.jpg"
 links:
   - url: "http://www.library.arizona.edu/exhibits/bisbee"
     text: "http://www.library.arizona.edu/exhibits/bisbee/index.html"

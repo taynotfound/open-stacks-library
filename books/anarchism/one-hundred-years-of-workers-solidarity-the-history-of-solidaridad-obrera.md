@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/one-hundred-years-workers-solidarity-history-solidaridad-obrera"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/So.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/194871d34944e8a4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Carles Sanz"
   - "Paul Sharkey"
 images:
-  - "https://files.libcom.org/files/images/history/So.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/194871d34944e8a4.jpg"
 links: []
 files: []
 ---

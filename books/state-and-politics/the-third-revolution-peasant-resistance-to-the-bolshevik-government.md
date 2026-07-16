@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/third-revolution-peasant-resistance-bolshevik-government"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/red-Army.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1910s"
   - "uprisings"
 images:
-  - "https://files.libcom.org/files/images/history/red-Army.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 links: []
 files: []
 ---

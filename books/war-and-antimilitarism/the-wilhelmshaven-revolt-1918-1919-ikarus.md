@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/wilhelmshaven-revolt-1918-1919-ikarus"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Befreite_Matrosen.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1298adf076d2e2d8.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "military and law enforcement"
   - "German Revolution 1918"
 images:
-  - "https://files.libcom.org/files/images/library/Befreite_Matrosen.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1298adf076d2e2d8.jpg"
 links: []
 files: []
 ---

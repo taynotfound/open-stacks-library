@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/tenno-vs-people-part-2"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/image015%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f8fcc5d653c9f23.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,13 +13,13 @@ tags:
   - "Japan"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/image015%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f8fcc5d653c9f23.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://libcom.org/files/TennoVsthePeoplepart2.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a1368c0b_TennoVsthePeoplepart2.pdf"
+    hosted: true
 ---
 # Tenno vs. the People part 2
 

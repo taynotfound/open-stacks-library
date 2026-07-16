@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/balance-sheet-revolution-bilan-dune-revolution"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Armed_soldiers_carry_a_banner_reading_%27Communism%27%2C_Nikolskaya_street%2C_Moscow%2C_October_1917.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb24ee67eb8df876.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "International Communist Party"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/Armed_soldiers_carry_a_banner_reading_%27Communism%27%2C_Nikolskaya_street%2C_Moscow%2C_October_1917.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb24ee67eb8df876.jpg"
 links:
   - url: "https://www.sinistra.net/lib/bas/progco/qini/qininlabef.html "
     text: "Sinistra.net - International Library of the Communist Left'"

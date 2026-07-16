@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/occupied-times-london"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Untitled_11.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2f45190c4c8c7b7e.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "occupy movement"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Untitled_11.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2f45190c4c8c7b7e.png"
 links:
   - url: "https://theoccupiedtimes.org/ "
     text: "https://theoccupiedtimes.org/"

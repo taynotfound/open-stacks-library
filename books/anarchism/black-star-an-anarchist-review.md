@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/black-star-anarchist-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/black-star.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1367345e0adfc5bb.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/black-star.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1367345e0adfc5bb.png"
 links: []
 files: []
 ---

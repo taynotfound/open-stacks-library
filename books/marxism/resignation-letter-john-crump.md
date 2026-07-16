@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/resignation-letter-1973-john-crump"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SPGB-1905-conference.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ce654bf7329093e1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Socialist Party of Great Britain (SPGB)"
   - "John Crump"
 images:
-  - "https://files.libcom.org/files/images/library/SPGB-1905-conference.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ce654bf7329093e1.jpg"
 links: []
 files: []
 ---

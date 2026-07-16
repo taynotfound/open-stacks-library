@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/gay-left-socialist-journal-produced-gay-men"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cover06.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7523adac1f4b2704.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/cover06.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7523adac1f4b2704.jpg"
 links: []
 files:
   - name: "gay.left_issue.01.pdf"

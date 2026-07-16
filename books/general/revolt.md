@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/revolt-0"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-10/Revolt%21%20No.%201.%20%281939-02-11%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb966be8a6656c59.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "United Kingdom"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-10/Revolt%21%20No.%201.%20%281939-02-11%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb966be8a6656c59.jpg"
 links: []
 files: []
 ---

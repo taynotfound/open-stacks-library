@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/lenins-terror-within-bolshevik-party-maximov"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Lenin-Trotsky_Red_Square%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2063c754ae5bf9d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Vladimir Lenin"
   - "Workers Opposition"
 images:
-  - "https://files.libcom.org/files/images/library/Lenin-Trotsky_Red_Square%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2063c754ae5bf9d.jpg"
 links: []
 files: []
 ---

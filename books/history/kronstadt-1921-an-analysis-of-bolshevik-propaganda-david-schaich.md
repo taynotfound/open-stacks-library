@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/kronstadt-1921-analysis-bolshevik-propaganda-david-schaich"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/kozlovsky_an%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3fdb5246c7a70ae8.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/kozlovsky_an%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3fdb5246c7a70ae8.jpg"
 links: []
 files: []
 ---

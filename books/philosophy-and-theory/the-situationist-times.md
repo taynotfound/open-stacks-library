@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/situationist-times"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SI-Times-440x371_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d6f3fade7daef796.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/SI-Times-440x371_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d6f3fade7daef796.jpg"
 links:
   - url: "https://jacquelinedejong.com/internationale-situationniste/ "
     text: "https://jacquelinedejong.com/internationale-situationniste/"

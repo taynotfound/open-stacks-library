@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/debate-direct-unionism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/pick.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d5baaeec396929b0.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Industrial Worker"
   - "direct unionism"
 images:
-  - "https://files.libcom.org/files/images/library/pick.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d5baaeec396929b0.png"
 links:
   - url: "https://thoughtsonthestruggle.blogspot.com/2012/03/response-to-direct-unionism.html "
     text: "Thoughts on the Struggle"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/notes-midwest-libertarian-conference-may-28-31-1976"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/n693554570_157576_4892.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64ccfc3dc5de9e18.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Iowa"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/n693554570_157576_4892.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64ccfc3dc5de9e18.jpg"
 links: []
 files: []
 ---

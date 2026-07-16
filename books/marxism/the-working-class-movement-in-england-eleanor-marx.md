@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/working-class-movement-england-eleanor-marx"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/chartism.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3ebad5a44fb70373.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Levellers"
   - "feudalism"
 images:
-  - "https://files.libcom.org/files/images/library/chartism.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3ebad5a44fb70373.jpg"
 links: []
 files: []
 ---

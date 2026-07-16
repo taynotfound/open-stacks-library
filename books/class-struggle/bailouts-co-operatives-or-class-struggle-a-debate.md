@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/bailouts-co-operatives-or-class-struggle-debate"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/northern_rock%5B1%5D.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec8ade1235af445c.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "debates"
   - "Freedom Press"
 images:
-  - "https://files.libcom.org/files/northern_rock%5B1%5D.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec8ade1235af445c.gif"
 links:
   - url: "https://www.freedompress.org.uk/ "
     text: "Freedom newspaper"

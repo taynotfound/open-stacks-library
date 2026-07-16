@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/venezuela-capitalism-and-class-struggle"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/vnzueli_1.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aa929b43534c660f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "La Oveja Negra"
   - "Materiales"
 images:
-  - "https://files.libcom.org/files/images/library/vnzueli_1.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aa929b43534c660f.jpg"
 links: []
 files: []
 ---

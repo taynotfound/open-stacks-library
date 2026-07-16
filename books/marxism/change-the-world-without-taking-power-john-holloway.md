@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/change-world-without-taking-power-john-holloway"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-08/51VcjD%2ByiFL._AC_UF894%2C1000_QL80_.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/de39f38f0def0859.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Open Marxism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-08/51VcjD%2ByiFL._AC_UF894%2C1000_QL80_.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/de39f38f0def0859.jpg"
 links:
   - url: "https://www.herramienta.com.ar "
     text: "www.herramienta.com.ar"

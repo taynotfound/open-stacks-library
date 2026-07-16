@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-dreadnought"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-04/WD%20Main%20Cover_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0837e76507dc9ca7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2025-04/WD%20Main%20Cover_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0837e76507dc9ca7.jpg"
 links:
   - url: "https://lse-atom.arkivum.net/uklse-dl1wr03018 "
     text: "Scans taken from LSE Digital Library Women's Rights Collection"

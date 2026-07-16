@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/library/third-international-congress-report-ruhle"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Lenin-Art-740047%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ae046e4038d6f54.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Third International"
   - "Die Aktion"
 images:
-  - "https://files.libcom.org/files/images/library/Lenin-Art-740047%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ae046e4038d6f54.jpg"
 links:
   - url: "http://www.kurasje.org"
     text: "kurasje.org"

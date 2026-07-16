@@ -5,13 +5,13 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/big-flame-educational-bulletin-anarchist-federation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-07/BF-AF-BP.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ccbcb97adf3c2b5.png"
 page_type: book
 mirror_state: none
 description: ""
 tags: []
 images:
-  - "https://files.libcom.org/files/2022-07/BF-AF-BP.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ccbcb97adf3c2b5.png"
 links:
   - url: "https://thesparrowsnest.org.uk/index.php "
     text: "Sparrows Nest Archive"

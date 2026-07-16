@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/essays-marxs-theory-value-isaak-rubin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/cover_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7a24d0f552b6243d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,10 +16,10 @@ tags:
   - "Isaak Rubin"
   - "mobi"
 images:
-  - "https://files.libcom.org/files/images/history/cover_0.jpg"
-  - "https://files.libcom.org/files/17-1.jpg"
-  - "https://files.libcom.org/files/17-2.jpg"
-  - "https://files.libcom.org/files/17-3.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7a24d0f552b6243d.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7eccde1abc716c29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d7f338bc4d148c67.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d17b2f1026448b57.jpg"
 links: []
 files:
   - name: "rubin_marx_theory_of_value.epub"

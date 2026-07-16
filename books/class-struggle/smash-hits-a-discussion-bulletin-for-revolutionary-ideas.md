@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/smash-hits-discussion-bulletin-revolutionary-ideas"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-02/IMG_1815.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/08b35a02e5bed40e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "United Kingdom"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-02/IMG_1815.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/08b35a02e5bed40e.jpg"
 links: []
 files: []
 ---

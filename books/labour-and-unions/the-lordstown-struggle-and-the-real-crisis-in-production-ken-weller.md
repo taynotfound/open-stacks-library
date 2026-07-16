@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/lordstown-struggle-and-real-crisis-production-ken-weller"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec4446e31fce0bff.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "on-the-job action"
   - "car industry"
 images:
-  - "https://files.libcom.org/files/0.jpg"
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-29%20at%2017.22.48.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec4446e31fce0bff.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7f56e8bf81af9e1b.png"
 links: []
 files:
   - name: "Ken Weller- The Lordstown struggle and the real crisis in production_0.pdf"

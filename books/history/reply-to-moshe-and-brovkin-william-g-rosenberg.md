@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/reply-moshe-and-brovkin-william-g-rosenberg"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/maximoff%5B1%5D.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aaaf0acdcf4ac33e.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,13 +14,13 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/maximoff%5B1%5D.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aaaf0acdcf4ac33e.gif"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/RosenbergreplytoBoth.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/66c86a0b_RosenbergreplytoBoth.pdf"
+    hosted: true
 ---
 # Reply to Moshe and Brovkin - William G Rosenberg
 

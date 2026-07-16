@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/revolutionary-government-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Committee-safety.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/54c8d946c5bb54da.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Freedom Press"
 images:
-  - "https://files.libcom.org/files/images/library/Committee-safety.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/54c8d946c5bb54da.jpg"
 links: []
 files:
   - name: "Revolutionary government.pdf"

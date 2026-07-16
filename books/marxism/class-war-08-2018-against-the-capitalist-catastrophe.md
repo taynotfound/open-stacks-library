@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-war-082018-against-capitalist-catastrophe"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/CW8.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/53e7206ac7482231.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Proletarios Internacionalistas"
   - "communism"
 images:
-  - "https://files.libcom.org/files/images/library/CW8.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/53e7206ac7482231.jpg"
 links: []
 files: []
 ---

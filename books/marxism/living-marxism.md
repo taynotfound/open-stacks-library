@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/living-marxism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/living-marxism-fall-1940.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3d895c4e2dfc3007.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "Living Marxism"
 images:
-  - "https://files.libcom.org/files/images/library/living-marxism-fall-1940.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3d895c4e2dfc3007.jpg"
 links: []
 files: []
 ---

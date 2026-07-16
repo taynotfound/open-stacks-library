@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/day-mournful-and-overcast-account-iron-column"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Iron_column_poster%5B1%5D.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/94b1464c82e989b5.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "military and law enforcement"
   - "Spanish civil war"
 images:
-  - "https://files.libcom.org/files/Iron_column_poster%5B1%5D.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/94b1464c82e989b5.png"
 links:
   - url: "http://flag.blackened.net/revolt"
     text: "Revolt"

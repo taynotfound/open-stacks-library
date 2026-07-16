@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/organizer-twin-cities-iww"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/dd.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/736e8714eadfa8ca.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Minnesota"
   - "The Organizer"
 images:
-  - "https://files.libcom.org/files/images/library/dd.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/736e8714eadfa8ca.png"
 links: []
 files: []
 ---

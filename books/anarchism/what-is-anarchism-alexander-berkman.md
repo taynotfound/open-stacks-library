@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/what-anarchism-alexander-berkman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Alexander-Berkman.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7a82b81724ade606.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Alexander-Berkman.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7a82b81724ade606.jpg"
 links:
   - url: "https://www.akpress.org/the-abc-of-anarchism.html "
     text: "AK Press"

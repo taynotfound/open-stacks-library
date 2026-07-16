@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-north-west-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/456554C7-944A-48E1-BEDD-649BB812DA7D.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b24f26435e73617e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/456554C7-944A-48E1-BEDD-649BB812DA7D.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b24f26435e73617e.jpg"
 links: []
 files: []
 ---

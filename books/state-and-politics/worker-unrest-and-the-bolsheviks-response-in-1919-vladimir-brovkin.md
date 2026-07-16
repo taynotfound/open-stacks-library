@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/worker-unrest-and-bolsheviks-response-1919-vladimir-brovkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/kronshtat.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ab7b22fa96f2b437.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,13 +17,13 @@ tags:
   - "Bolsheviks"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/kronshtat.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ab7b22fa96f2b437.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/WorkersUnrestBolshevikResponsebrovkin.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/9a0d7220_WorkersUnrestBolshevikResponsebrovkin.pdf"
+    hosted: true
 ---
 # Worker Unrest and the Bolsheviks' Response in 1919 - Vladimir Brovkin
 

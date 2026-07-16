@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/peasants-war-germany-1525-1526-ernest-belfort-bax"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/peasants_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26241dc6f37ab84c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Ernest Belfort Bax"
   - "peasants war"
 images:
-  - "https://files.libcom.org/files/images/library/peasants_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26241dc6f37ab84c.jpg"
 links: []
 files:
   - name: "peasants war.epub"

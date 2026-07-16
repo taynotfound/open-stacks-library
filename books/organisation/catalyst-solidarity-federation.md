@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/catalyst-solidarity-federation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/catalystlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2be97cdc92ecc16b.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Solidarity Federation"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2022-08/catalystlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2be97cdc92ecc16b.png"
 links:
   - url: "https://www.solfed.org.uk/catalyst "
     text: "http://www.solfed.org.uk/catalyst"

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/edinburgh-muckraker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Edinburgh.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d44ff51efff45bf5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Edinburgh Muckraker"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Edinburgh.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d44ff51efff45bf5.png"
 links:
   - url: "https://edinburghmuckraker.org.uk/ "
     text: "Edinburgh Muckraker"

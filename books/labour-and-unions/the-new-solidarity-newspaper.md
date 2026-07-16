@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/new-solidarity-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The%20New%20Solidarity.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/98d8b8a04f38a466.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "The New Solidarity"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/The%20New%20Solidarity.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/98d8b8a04f38a466.jpg"
 links: []
 files: []
 ---

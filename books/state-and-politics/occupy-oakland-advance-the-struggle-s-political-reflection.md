@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/occupy-oakland-advance-struggles-political-reflection"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/nov-2nd-sunset-cranes-big.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/03023832e8ecffc7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "ILWU"
   - "occupy movement"
 images:
-  - "https://files.libcom.org/files/images/library/nov-2nd-sunset-cranes-big.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/03023832e8ecffc7.jpg"
 links:
   - url: "https://bthp23.com/Theses%20for%20Discussion.pdf "
     text: "Theses for Discussion"

@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/against-wall-motherfucker-anthology"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-04/uawcov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/abdf16b3e628f305.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Ben Morea"
 images:
-  - "https://files.libcom.org/files/2023-04/uawcov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/abdf16b3e628f305.png"
 links: []
 files: []
 ---

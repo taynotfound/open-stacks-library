@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/we-see-it-dont-see-it-solidarity"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-01/asweseeit_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/044cf7f3542435e5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Solidarity"
   - "libertarian communism"
 images:
-  - "https://files.libcom.org/files/2023-01/asweseeit_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/044cf7f3542435e5.png"
 links: []
 files: []
 ---

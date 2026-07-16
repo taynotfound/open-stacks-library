@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/sic-international-journal-communisation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sic.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b605406425944ef3.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/sic.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b605406425944ef3.jpg"
 links:
   - url: "https://sites.google.com/site/theoriecommuniste/ "
     text: "Théorie Communiste"

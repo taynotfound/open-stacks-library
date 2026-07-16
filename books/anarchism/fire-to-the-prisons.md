@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fire-prisons"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-07/Screenshot%202025-07-10%20215844.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/270d59725de55755.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "insurrectionary anarchism"
   - "anarchism"
 images:
-  - "https://files.libcom.org/files/2025-07/Screenshot%202025-07-10%20215844.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/270d59725de55755.png"
 links: []
 files: []
 ---

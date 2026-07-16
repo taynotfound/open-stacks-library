@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/bash-fash-anti-fascist-recollections-1984-1993-k-bullstreet"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/hammer-Swastika.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4db608f22496a247.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "K Bullstreet"
   - "National Front (NF)"
 images:
-  - "https://files.libcom.org/files/hammer-Swastika.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4db608f22496a247.png"
 links: []
 files: []
 ---

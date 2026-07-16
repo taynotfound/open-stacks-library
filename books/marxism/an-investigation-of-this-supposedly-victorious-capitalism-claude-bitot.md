@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/investigation-supposedly-victorious-capitalism-claude-bitot"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/manefac.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf56891ad79b99e2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "crisis"
   - "Claude Bitot"
 images:
-  - "https://files.libcom.org/files/images/library/manefac.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf56891ad79b99e2.jpg"
 links: []
 files: []
 ---

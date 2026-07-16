@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/marxs-capital-and-todays-global-crisis-raya-dunavevskaya"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-11/Marxs%20capital%20and%20today.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d7f4a8f04ff92e94.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Ernest Mandel"
   - "Tony Cliff"
 images:
-  - "https://files.libcom.org/files/2022-11/Marxs%20capital%20and%20today.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d7f4a8f04ff92e94.jpg"
 links:
   - url: "https://youtu.be/h7HyEFFViUA?t=699 "
     text: "2021 discussion on the upcoming new translation of Capital Volume 1"

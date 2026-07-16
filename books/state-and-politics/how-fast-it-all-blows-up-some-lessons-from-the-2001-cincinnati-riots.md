@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/how-fast-it-all-blows-some-lessons-2001-cincinnati-riots"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/how_fast_it_all_blows_up.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f89a02b5e9f32062.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "One Thousand Emotions"
   - "Cincinnati"
 images:
-  - "https://files.libcom.org/files/images/library/how_fast_it_all_blows_up.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f89a02b5e9f32062.jpg"
 links:
   - url: "https://www.newsandletters.org/Issues/2001/May/1.05_lead.htm "
     text: "News & Letters (May 2001)"

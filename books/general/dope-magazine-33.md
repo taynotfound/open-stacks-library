@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/dope-magazine-33"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2026-04/dope33cov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ad51fdcb4559fe69.png"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "DOPE Magazine"
 images:
-  - "https://files.libcom.org/files/2026-04/dope33cov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ad51fdcb4559fe69.png"
 links:
   - url: "https://www.dopemag.org "
     text: "DOPE Magazine"

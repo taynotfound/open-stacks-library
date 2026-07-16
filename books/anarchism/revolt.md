@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/revolt"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Revolt%20v1.04.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c9bf7516570e395a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "Hippolyte Havel"
 images:
-  - "https://files.libcom.org/files/images/library/Revolt%20v1.04.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c9bf7516570e395a.jpg"
 links: []
 files: []
 ---

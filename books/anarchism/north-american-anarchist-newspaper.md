@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/north-american-anarchist-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/NAA.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7e04ceaa639553c3.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/NAA.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7e04ceaa639553c3.png"
 links:
   - url: "https://issuu.com/randalljaykay "
     text: "Arm The Spirit"

@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/spectacular-times"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/media09.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/78a3b05994411b18.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Spectacular Times"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/media09.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/78a3b05994411b18.jpg"
 links: []
 files: []
 ---

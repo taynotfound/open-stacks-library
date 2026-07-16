@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/kampfe-kundigungen"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/CUPW%20Picket%20Line%20002.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aff68dd576731e6c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "IWW Europe"
   - "Deutsch"
 images:
-  - "https://files.libcom.org/files/images/blog/CUPW%20Picket%20Line%20002.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aff68dd576731e6c.jpg"
 links:
   - url: "https://spuren.cc/kampfe-kundigungen/ "
     text: "Spuren der Solidarität"

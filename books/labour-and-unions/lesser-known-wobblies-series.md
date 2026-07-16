@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/lesser-known-wobblies-series"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/lesser%20known.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b3e71a6ff520c4da.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,9 +14,9 @@ tags:
   - "biographies"
   - "The Organizer"
 images:
-  - "https://files.libcom.org/files/images/history/lesser%20known.png"
-  - "https://files.libcom.org/files/7ac8602f8a338d09e17e3b179ef1d0a0.jpg"
-  - "https://files.libcom.org/files/stjohn.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b3e71a6ff520c4da.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efd4ba1d630bb706.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b630ca660a2f5a3.png"
 links: []
 files: []
 ---

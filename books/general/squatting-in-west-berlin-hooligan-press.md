@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/squatting-west-berlin-hooligan-press"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screenshot%202021-04-04%20at%2011.25.23.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4721311a762fecc2.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,10 +17,10 @@ tags:
   - "PDF"
   - "Autonomen"
 images:
-  - "https://files.libcom.org/files/images/library/Screenshot%202021-04-04%20at%2011.25.23.png"
-  - "https://files.libcom.org/files/2023-08/IMG_1735.jpeg"
-  - "https://files.libcom.org/files/2023-08/IMG_1734.jpeg"
-  - "https://files.libcom.org/files/2023-08/IMG_1733.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4721311a762fecc2.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f250e5c20062c414.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b46c89dabf3e9861.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c8ca743ab3b2797.jpg"
 links:
   - url: "https://library.fes.de/cgi-bin/courage.pl?id=07.00918&dok=198104&f=198104_004&l=198104_009&c=198104_004 "
     text: "Frauen Besetzer Hausen"

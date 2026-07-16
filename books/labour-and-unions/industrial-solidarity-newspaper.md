@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-solidarity-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Industrial%20Solidarity%20%28April%207%2C%201923%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4e0bbbde3af6f95f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Industrial Solidarity"
   - "publications tag"
 images:
-  - "https://files.libcom.org/files/images/library/Industrial%20Solidarity%20%28April%207%2C%201923%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4e0bbbde3af6f95f.jpg"
 links: []
 files: []
 ---

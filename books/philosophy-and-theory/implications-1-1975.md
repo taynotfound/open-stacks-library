@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/implications-1-1975"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/implicationscov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b89eb9cdd54fb28e.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,9 +16,9 @@ tags:
   - "post-situationist"
   - "Wilhelm Reich"
 images:
-  - "https://files.libcom.org/files/2024-06/implicationscov.png"
-  - "https://files.libcom.org/files/2024-11/shutes1.png"
-  - "https://files.libcom.org/files/2024-11/shutes2.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b89eb9cdd54fb28e.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ed63ae80a20a0f8.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/090ee9cf783f7226.png"
 links:
   - url: "https://library.nothingness.org/articles/SI/en/pub_contents/5 "
     text: "Vaneigem's 'The Revolution of Everyday Life'"

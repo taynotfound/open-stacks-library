@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/revolution-retrieved-writings-marx-keynes-capitalist-crisis-and-new-social-subjects-antonio"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-05/retrieved.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0b8d2da1bb918a30.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "PDF"
   - "Red Notes"
 images:
-  - "https://files.libcom.org/files/2024-05/retrieved.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0b8d2da1bb918a30.jpg"
 links: []
 files: []
 ---

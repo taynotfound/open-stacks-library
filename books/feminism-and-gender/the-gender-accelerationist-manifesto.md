@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/gender-accelerationist-manifesto"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Gender%20Accelerationist%20Manifesto%20bookcover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/693ae2a4d074dd51.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Vikky Storm"
   - "Eme Flores"
 images:
-  - "https://files.libcom.org/files/images/library/Gender%20Accelerationist%20Manifesto%20bookcover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/693ae2a4d074dd51.png"
 links: []
 files: []
 ---

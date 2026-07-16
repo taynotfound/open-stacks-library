@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/value-and-its-abolition-bruno-astarian"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/ba.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bc7261ba1b136074.png"
 page_type: article
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "communisation"
   - "Bruno Astarian"
 images:
-  - "https://files.libcom.org/files/images/library/ba.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bc7261ba1b136074.png"
 links:
   - url: "https://www.marxists.org/archive/rubin/index.htm "
     text: "Rubin’s"

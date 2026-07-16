@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/bad-autobiography-james-carr"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The%20Autobiography%20of%20James%20Carr.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/763504bb28c62af1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "autobiographies"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/The%20Autobiography%20of%20James%20Carr.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/763504bb28c62af1.jpg"
 links: []
 files: []
 ---

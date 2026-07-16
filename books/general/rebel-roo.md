@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/rebel-roo"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screenshot%20%2879%29_LI.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1b216b1be19e8686.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Deliveroo"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screenshot%20%2879%29_LI.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1b216b1be19e8686.jpg"
 links:
   - url: "https://www.weareplanc.org/ "
     text: "Plan C"

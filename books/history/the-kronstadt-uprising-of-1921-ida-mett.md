@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/kronstadt-uprising-1921-ida-mett"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/gangut14.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b2efd06ca993c440.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "1920s"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/gangut14.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b2efd06ca993c440.jpg"
 links: []
 files:
   - name: "IdaMettKronstadt.pdf"

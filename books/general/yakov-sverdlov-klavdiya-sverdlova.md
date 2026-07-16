@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/yakov-sverdlov-klavdiya-sverdlova"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1918.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c6994a331596215f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Yakov Sverdlov"
   - "Klavdiya Sverdlova"
 images:
-  - "https://files.libcom.org/files/images/library/1918.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c6994a331596215f.jpg"
 links:
   - url: "https://politazbuka.info/texts-art/435-sverdlova-k-t-yakov-mihailovich-sverdlov.html "
     text: "Russian"

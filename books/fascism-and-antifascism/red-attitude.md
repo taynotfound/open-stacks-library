@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/red-attitude"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/RA%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fe612de28ef0403e.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/RA%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fe612de28ef0403e.png"
 links:
   - url: "https://antifascistarchive.net/literature/red-attitude-manchester-united-anti-fascist-fanzine/ "
     text: "the collection at the Anti-Fascist Archive"

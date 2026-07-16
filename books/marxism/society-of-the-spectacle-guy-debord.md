@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/society-spectacle-guy-debord"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Society-of-the-spectacle.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f3baf7d08481e2fe.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/Society-of-the-spectacle.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f3baf7d08481e2fe.jpg"
 links: []
 files:
   - name: "The Society of the Spectacle - Debord, Guy_0.epub"

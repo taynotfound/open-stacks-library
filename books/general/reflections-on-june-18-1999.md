@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/reflections-june-18-1999"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/J18evading2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/596581e08a6c4f13.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Reclaim The Streets"
   - "J18"
 images:
-  - "https://files.libcom.org/files/images/library/J18evading2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/596581e08a6c4f13.jpg"
 links:
   - url: "https://af-north.org/afed-archive/online/j18/ "
     text: "the archive at AF-North.org"

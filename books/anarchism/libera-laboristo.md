@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libera-laboristo"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/libera_laboristo_1925_augusto_no_1.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/24c0ade0fe991f6e.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Libera Laboristo"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/libera_laboristo_1925_augusto_no_1.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/24c0ade0fe991f6e.png"
 links: []
 files: []
 ---

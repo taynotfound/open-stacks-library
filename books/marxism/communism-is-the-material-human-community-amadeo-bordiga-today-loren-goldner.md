@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communism-material-human-community-amadeo-bordiga-today-loren-goldner-0"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2026-02/bORDIGA-n.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/60deb247c64ea04e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Loren Goldner"
   - "Amadeo Bordiga"
 images:
-  - "https://files.libcom.org/files/2026-02/bORDIGA-n.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/60deb247c64ea04e.jpg"
 links: []
 files: []
 ---

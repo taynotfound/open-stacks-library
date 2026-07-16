@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/poll-tax-rebellion-danny-burns"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/poll-tax_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5500e970f8e569f6.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Danny Burns"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/poll-tax_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5500e970f8e569f6.jpg"
 links: []
 files: []
 ---

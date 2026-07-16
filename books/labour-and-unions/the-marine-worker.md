@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/marine-worker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The%20Marine%20Worker%20Vol.%203%2C%20No.%203%20%28July%201936%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/140edd22723046fe.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Marine Transport Workers"
 images:
-  - "https://files.libcom.org/files/images/library/The%20Marine%20Worker%20Vol.%203%2C%20No.%203%20%28July%201936%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/140edd22723046fe.jpg"
 links: []
 files: []
 ---

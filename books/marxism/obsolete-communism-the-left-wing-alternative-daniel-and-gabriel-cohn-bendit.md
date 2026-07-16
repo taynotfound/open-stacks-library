@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/obsolete-communism-left-wing-alternative-daniel-and-gabriel-cohn-bendit"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/obsolete%20communism.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b73b756f89159f22.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Gabriel Cohn-Bendit"
   - "Daniel Cohn-Bendit"
 images:
-  - "https://files.libcom.org/files/images/history/obsolete%20communism.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b73b756f89159f22.jpg"
 links:
   - url: "https://www.amazon.co.uk/exec/obidos/redirect?link_code=ur2&tag=libcom-21&camp=1634&creative=6738&path=ASIN%2F1902593251%2Fqid%3D1136169344%2Fsr%3D1-1%2Fref%3Dsr_1_0_1"
     text: "buy Obsolete Communism online now"

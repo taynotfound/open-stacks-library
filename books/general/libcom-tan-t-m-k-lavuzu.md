@@ -5,17 +5,17 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/libcom-tanitim-kilavuzu"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/reno%203.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d13437895e8c06f1.jpg"
 page_type: book
 mirror_state: full
 description: ""
 tags:
   - "Türkçe"
 images:
-  - "https://files.libcom.org/files/images/library/reno%203.jpg"
-  - "https://files.libcom.org/files/somali-maden-iscileri-hala-tazminat-bekliyor-59071-5.jpg"
-  - "https://files.libcom.org/files/devlet.jpg"
-  - "https://files.libcom.org/files/renault-fabrikasinda-is-birakma-eylemi-ek-fotograf_8447_dhaphoto7-1024x523.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d13437895e8c06f1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e587a01ce115f0e9.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2422098533e3a0b.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1cb3fe4e28656c9.jpg"
 links:
   - url: "https://www.yeryuzupostasi.org/2016/10/14/kapitalizm-bir-giris/ "
     text: "Yeryüzü Postası"

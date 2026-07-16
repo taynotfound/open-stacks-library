@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/working-class-movement-america-eleanor-marx"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cigar_workers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1d2b47d4dc025a55.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Eleanor Marx"
   - "child Labour"
 images:
-  - "https://files.libcom.org/files/images/library/cigar_workers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1d2b47d4dc025a55.jpg"
 links: []
 files: []
 ---

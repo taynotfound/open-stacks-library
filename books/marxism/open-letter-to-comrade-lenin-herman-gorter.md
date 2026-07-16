@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/open-letter-comrade-lenin-herman-gorter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/FileHandler_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6bbcb0cf1f91c78d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,9 +15,9 @@ tags:
   - "Vladimir Lenin"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/FileHandler_0.jpg"
-  - "https://files.libcom.org/files/2025-04/gorterfront.png"
-  - "https://files.libcom.org/files/2025-04/gorterback.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6bbcb0cf1f91c78d.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/07ef7d51aed2dd82.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f976168244bc7584.png"
 links: []
 files:
   - name: "Gorter, Herman - Open Letter to Comrade Lenin.epub"

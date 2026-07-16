@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/leninism-or-marxism-rosa-luxemburg"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/Rosa_Lux_Stuttgart_1907.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b893ebb3b91b146.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Russian Revolution 1905"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-04/Rosa_Lux_Stuttgart_1907.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b893ebb3b91b146.jpg"
 links: []
 files: []
 ---

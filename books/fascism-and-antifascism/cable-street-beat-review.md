@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/cable-street-beat-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/CSB%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/72f728e12505047b.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/CSB%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/72f728e12505047b.png"
 links:
   - url: "https://antifascistarchive.net/literature/cable-street-beat-afa-supporting-music-organisation/ "
     text: "the Anti-Fascist Archive"

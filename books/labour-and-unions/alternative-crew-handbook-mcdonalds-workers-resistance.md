@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/alternative-crew-handbook-mcdonalds-workers-resistance"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/McDonalds_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/801ffcef694396e1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "United Kingdom"
   - "fast food"
 images:
-  - "https://files.libcom.org/files/images/library/McDonalds_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/801ffcef694396e1.jpg"
 links: []
 files: []
 ---

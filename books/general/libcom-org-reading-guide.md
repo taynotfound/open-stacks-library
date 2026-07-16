@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/libcomorg-reading-guide"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Clifford-Harper-illustrat-007.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1255f969c16d4a87.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "libcom.org"
 images:
-  - "https://files.libcom.org/files/images/library/Clifford-Harper-illustrat-007.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1255f969c16d4a87.jpg"
 links:
   - url: "https://anarchism.pageabode.com/afaq/index.html "
     text: "An Anarchist FAQ"

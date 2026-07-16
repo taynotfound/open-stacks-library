@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/roots-subservience-kan-takayuki"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-09/140F68B0-558F-44BA-957A-F86998B5E691.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f793540384d7059.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "monarchy"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-09/140F68B0-558F-44BA-957A-F86998B5E691.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f793540384d7059.jpg"
 links: []
 files: []
 ---

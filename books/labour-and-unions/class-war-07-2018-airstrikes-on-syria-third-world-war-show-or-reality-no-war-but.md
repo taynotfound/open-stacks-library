@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/class-war-072018-airstrikes-syria-third-world-war-show-or-reality-no-war-class-war"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/CW7.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2887f939c81fc1b1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Tridni Valka"
   - "Syria conflict"
 images:
-  - "https://files.libcom.org/files/images/news/CW7.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2887f939c81fc1b1.jpg"
 links:
   - url: "https://www.autistici.org/tridnivalka/class-war-07-2018-airstrikes-on-syria-third-world-war-show-or-reality-no-war-but-the-class-war/ "
     text: "Source"

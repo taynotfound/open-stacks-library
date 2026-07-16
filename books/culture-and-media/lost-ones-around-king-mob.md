@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/lost-ones-around-king-mob"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-10/Screenshot%202024-10-31%20at%2020.39.36.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2366e8b50aa868e9.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,8 +17,8 @@ tags:
   - "Phil Mailer/Meyler"
   - "Stuart Wise"
 images:
-  - "https://files.libcom.org/files/2024-10/Screenshot%202024-10-31%20at%2020.39.36.png"
-  - "https://files.libcom.org/files/2024-12/dsci0087.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2366e8b50aa868e9.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/015d04c013f4bfcb.jpg"
 links: []
 files: []
 ---

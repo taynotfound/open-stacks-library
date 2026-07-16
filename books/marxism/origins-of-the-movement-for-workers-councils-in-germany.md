@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/origins-movement-workers-councils-germany"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/100975%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0975d585b6a9bad6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "workers councils"
   - "German Revolution 1918"
 images:
-  - "https://files.libcom.org/files/images/library/100975%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0975d585b6a9bad6.jpg"
 links: []
 files: []
 ---

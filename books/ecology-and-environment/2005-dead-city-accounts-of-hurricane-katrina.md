@@ -5,7 +5,7 @@ date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/library/hurricane-katrina-indymedia-accounts-2005"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/18k1nsnnb6s05jpg.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ecfcb1b528666a26.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Hurricane Katrina"
   - "accounts"
 images:
-  - "https://files.libcom.org/files/images/blog/18k1nsnnb6s05jpg.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ecfcb1b528666a26.jpg"
 links: []
 files: []
 ---

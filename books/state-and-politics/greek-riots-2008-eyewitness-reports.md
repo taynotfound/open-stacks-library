@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/greek-riots-2008-eyewitness-reports"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Greece.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/73334dee9c02b6ea.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,8 +17,8 @@ tags:
   - "accounts"
   - "Greece unrest"
 images:
-  - "https://files.libcom.org/files/images/history/Greece.jpg"
-  - "https://files.libcom.org/files/Greece%20old%20lady%20one_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/73334dee9c02b6ea.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf9f1cb25fba2d62.jpg"
 links:
   - url: "https://athens.indymedia.org/front.php3?lang=el&article_id=948843 "
     text: "here"

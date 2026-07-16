@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/principia-dialectica-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/prindial.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e35e59a88244e833.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Michel Prigent"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/prindial.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e35e59a88244e833.png"
 links: []
 files: []
 ---

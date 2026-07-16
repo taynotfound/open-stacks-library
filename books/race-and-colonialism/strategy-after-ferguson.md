@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/strategy-after-ferguson"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/BHS_ahayat18_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f8475300cb60b225.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Joohyun Kim"
   - "police"
 images:
-  - "https://files.libcom.org/files/images/library/BHS_ahayat18_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f8475300cb60b225.jpg"
 links:
   - url: "https://www.viewpointmag.com/2016/02/01/strategy-after-ferguson/ "
     text: "This collection first appeared in Viewpoint Magazine"

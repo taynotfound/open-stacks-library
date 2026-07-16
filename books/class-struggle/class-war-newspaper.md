@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/class-war-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/war_1_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6029d87a57b7ff47.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,10 +17,10 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/war_1_0.jpg"
-  - "https://files.libcom.org/files/2024-02/clock1.jpg"
-  - "https://files.libcom.org/files/2024-02/ianbone-cw-sale.jpg"
-  - "https://files.libcom.org/files/2024-02/Freedom-Phil-Cleaver-Cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6029d87a57b7ff47.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/928046b6aeacb056.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1b24b26e16e50ee.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9cdcbd4abdff4ed5.jpg"
 links: []
 files: []
 ---

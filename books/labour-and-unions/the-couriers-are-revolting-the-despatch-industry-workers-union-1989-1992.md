@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/couriers-are-revolting-despatch-industry-workers-union-1989-1992"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/couriers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a0199778169aa3e5.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "communications"
   - "Despatch Industry Workers Union"
 images:
-  - "https://files.libcom.org/files/images/history/couriers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a0199778169aa3e5.jpg"
 links:
   - url: "https://www.katesharpleylibrary.net/ "
     text: "Kate Sharpley Library"

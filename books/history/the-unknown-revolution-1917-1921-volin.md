@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/unknown-revolution-1917-1921-volin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Kronstadt%20demonstration%201917.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b50b6eaf782fc24.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/Kronstadt%20demonstration%201917.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6b50b6eaf782fc24.jpg"
 links:
   - url: "https://shop.workingclasshistory.com/products/the-unknown-revolution-1917-1921-voline "
     text: "buy it here."

@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/new-movement-henri-simon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/thenewmovement.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed92b6a14578c2cf.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "United Kingdom"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-08/thenewmovement.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed92b6a14578c2cf.png"
 links: []
 files: []
 ---

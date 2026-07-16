@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1982-death-neil-roberts-class-war-aotearoa"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/eight_col_neilroberts3.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/357e24e3ed0fd134.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "deaths"
   - "propaganda by deed"
 images:
-  - "https://files.libcom.org/files/2022-04/eight_col_neilroberts3.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/357e24e3ed0fd134.jpg"
 links: []
 files: []
 ---

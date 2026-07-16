@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/zerowork-background"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sf1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fbb44106f583414e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,10 +14,10 @@ tags:
   - "United States"
   - "websites"
 images:
-  - "https://files.libcom.org/files/images/library/sf1.jpg"
-  - "https://files.libcom.org/files/2024-12/Screenshot%202024-12-15%20at%2017.27.59.png"
-  - "https://files.libcom.org/files/2024-12/supp2.png"
-  - "https://files.libcom.org/files/2024-12/supp3.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fbb44106f583414e.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9bae0265fc3d9d13.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8330d0267482ce05.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97c1f6ebf938ddbf.png"
 links:
   - url: "https://zerowork.org "
     text: "zerowork.org"
@@ -72,16 +72,16 @@ links:
 files:
   - name: "Women and the Subversion of the Community"
     type: "PDF"
-    url: "http://www.zerowork.org/2.1DallaCostaSubversionBkgrd.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/805dc54c_2.1DallaCostaSubversionBkgrd.pdf"
+    hosted: true
   - name: "'Immeasurable Value? An Essay on Marx's Legacy'"
     type: "PDF"
-    url: "http://www.commoner.org.uk/10caffentzis.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/3512bf89_10caffentzis.pdf"
+    hosted: true
   - name: "a piece published in Monthly Review"
     type: "PDF"
-    url: "http://la.utexas.edu/users/hcleaver/cleavercontradictions.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/74e5af44_cleavercontradictions.pdf"
+    hosted: true
 ---
 # Zerowork: the background
 

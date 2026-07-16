@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/book-pleasures-raoul-vaneigem"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Raoul%20Vaneigem%20-%20The%20Book%20of%20Pleasures.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/25dd64b075a4fc44.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "PDF"
   - "Situationist International"
 images:
-  - "https://files.libcom.org/files/images/library/Raoul%20Vaneigem%20-%20The%20Book%20of%20Pleasures.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/25dd64b075a4fc44.jpg"
 links: []
 files: []
 ---

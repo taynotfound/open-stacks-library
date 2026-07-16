@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/anarchist-morality-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/kropotkin1%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c5460cca838d336c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Peter Kropotkin"
   - "anarchism"
 images:
-  - "https://files.libcom.org/files/kropotkin1%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c5460cca838d336c.jpg"
 links: []
 files: []
 ---

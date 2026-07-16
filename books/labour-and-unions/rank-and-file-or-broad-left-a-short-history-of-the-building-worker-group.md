@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/rank-and-file-or-broad-left-short-history-building-worker-group"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bwgpix1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/026ec7139d3375b8.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Building Worker Group"
   - "Mark Metcalf"
 images:
-  - "https://files.libcom.org/files/images/library/bwgpix1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/026ec7139d3375b8.jpg"
 links:
   - url: "https://www.solfed.org.uk/ "
     text: "www.solfed.org.uk"

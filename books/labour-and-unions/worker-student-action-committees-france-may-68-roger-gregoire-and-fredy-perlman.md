@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/worker-student-action-committees-france-may-68-roger-gregoire-and-fredy-perlman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/May-68.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/66129d5d383496d8.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "uprisings"
   - "France"
 images:
-  - "https://files.libcom.org/files/images/history/May-68.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/66129d5d383496d8.jpg"
 links: []
 files:
   - name: "Worker-Student Action Committees_ France - Perlman, Fredy.mobi"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/how-overthrow-illuminati"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/how-cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/752cc78e6a19f8a2.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "conspiracy theories"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/how-cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/752cc78e6a19f8a2.jpg"
 links:
   - url: "http://overthrowingilluminati.wordpress.com/glossary/"
     text: "glossary"
@@ -71,8 +71,8 @@ files:
     hosted: true
   - name: "here"
     type: "PDF"
-    url: "http://overthrowingilluminati.files.wordpress.com/2013/08/how-to-overthrow-the-illuminati_print.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a31a3424_how-to-overthrow-the-illuminati_print.pdf"
+    hosted: true
 ---
 # How to overthrow the Illuminati
 

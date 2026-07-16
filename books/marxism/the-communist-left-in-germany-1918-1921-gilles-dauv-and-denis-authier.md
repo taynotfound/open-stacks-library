@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-left-germany-1918-1921-gilles-dauve-and-denis-authier"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Bundesarchiv_Bild_146-2004-0048%2C_Revolution_in_Bayern%2C_Gefangener.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f24afb3a4db36b4f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "workers councils"
   - "left communism"
 images:
-  - "https://files.libcom.org/files/images/library/Bundesarchiv_Bild_146-2004-0048%2C_Revolution_in_Bayern%2C_Gefangener.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f24afb3a4db36b4f.jpg"
 links:
   - url: "https://www.redemmas.org/collective_action_notes/dauve11.htm "
     text: "Collective Action Notes"

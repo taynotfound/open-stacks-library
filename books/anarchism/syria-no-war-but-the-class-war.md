@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syria-no-war-class-war"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/US-bombs.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b91d3ff25336d01d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Syria conflict"
   - "Anarchist Communist Group (ACG)"
 images:
-  - "https://files.libcom.org/files/images/news/US-bombs.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b91d3ff25336d01d.jpg"
 links:
   - url: "https://www.anarchistcommunism.org/2018/04/18/no-war-but-the-class-war-war/ "
     text: "ACG website"

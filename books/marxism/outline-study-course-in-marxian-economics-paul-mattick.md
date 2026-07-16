@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/outline-study-course-marxian-economics-paul-mattick"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/OutlineStudyCourseCover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/36bb62b38914930b.jpg"
 page_type: article
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "International Council Correspondence"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/OutlineStudyCourseCover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/36bb62b38914930b.jpg"
 links: []
 files:
   - name: "OutlineStudyCoursePartOne.pdf"

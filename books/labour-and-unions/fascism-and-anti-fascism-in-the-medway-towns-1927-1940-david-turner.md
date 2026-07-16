@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/fascism-and-anti-fascism-medway-towns-1927-1940-david-turner"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IMG_7883.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d5f5121a2c7564dd.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "British Union of Fascists"
   - "David Turner"
 images:
-  - "https://files.libcom.org/files/images/library/IMG_7883.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d5f5121a2c7564dd.jpg"
 links: []
 files: []
 ---

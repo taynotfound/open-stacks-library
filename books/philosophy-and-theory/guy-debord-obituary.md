@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/guy-debord-obituary"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Debord%20age%2019%201951.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b416fa5585096b2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "situationist"
   - "Freedom Press"
 images:
-  - "https://files.libcom.org/files/images/history/Debord%20age%2019%201951.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7b416fa5585096b2.jpg"
 links: []
 files: []
 ---

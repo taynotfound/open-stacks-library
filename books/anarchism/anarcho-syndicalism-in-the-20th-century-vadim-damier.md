@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarcho-syndicalism-20th-century-vadim-damier"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/ak2%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/48f27eb2c5b84002.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Vadim Damier"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/ak2%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/48f27eb2c5b84002.jpg"
 links: []
 files: []
 ---

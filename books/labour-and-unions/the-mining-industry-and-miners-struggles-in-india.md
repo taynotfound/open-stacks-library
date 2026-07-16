@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/mining-industry-and-miners-struggles-india"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/miner.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/903d67036a21656e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "mining"
   - "coal"
 images:
-  - "https://files.libcom.org/files/images/library/miner.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/903d67036a21656e.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/1960s-beyond-new-left-part-2-muto-ichiyo-inoue-reiko"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,13 +14,13 @@ tags:
   - "Japan"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://files.libcom.org/files/InSearchoftheNewLeftpart2.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/31d4d655_InSearchoftheNewLeftpart2.pdf"
+    hosted: true
 ---
 # 1960s: Beyond the New Left Part 2- Muto Ichiyo & Inoue Reiko
 

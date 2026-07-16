@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/social-anarchism-or-lifestyle-anarchism-unbridgeable-chasm-murray-bookchin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/c00.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0849e866e78b78f0.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "lifestylism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/c00.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0849e866e78b78f0.png"
 links: []
 files: []
 ---

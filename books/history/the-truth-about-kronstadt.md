@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/truth-about-kronstadt"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Kronstadt.Cover%5B1%5D.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fda5afda9445ef9d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "1920s"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/Kronstadt.Cover%5B1%5D.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fda5afda9445ef9d.jpg"
 links: []
 files: []
 ---

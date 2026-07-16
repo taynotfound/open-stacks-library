@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/people-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/the-people.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/734950b3b076478e.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/the-people.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/734950b3b076478e.png"
 links: []
 files: []
 ---

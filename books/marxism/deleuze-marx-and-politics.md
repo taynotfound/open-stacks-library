@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/deleuze-marx-and-politics"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cover_89.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/59c735aa053d14bf.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "autonomist Marxism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/cover_89.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/59c735aa053d14bf.jpg"
 links: []
 files: []
 ---

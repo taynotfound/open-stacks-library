@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/barricades-must-be-torn-down-moscow-fascism-spain-paul-mattick"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Barricades%20-%20Barcelona%20May%2037.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5d404af01ef60b84.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "1930s"
   - "Spanish civil war"
 images:
-  - "https://files.libcom.org/files/images/history/Barricades%20-%20Barcelona%20May%2037.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5d404af01ef60b84.jpg"
 links: []
 files: []
 ---

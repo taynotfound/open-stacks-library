@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/french-strikes-may-june-1968-bruno-astarian"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Citroen-occupied.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6279431dbd7c6b29.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "CFDT"
   - "Bruno Astarian"
 images:
-  - "https://files.libcom.org/files/images/library/Citroen-occupied.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6279431dbd7c6b29.jpg"
 links: []
 files: []
 ---

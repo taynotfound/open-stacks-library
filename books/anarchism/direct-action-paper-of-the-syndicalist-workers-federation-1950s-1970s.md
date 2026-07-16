@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-paper-syndicalist-workers-federation-1950s-1970s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/Screenshot%20from%202022-04-10%2023-16-30_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/36770f33c0127ab5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-04/Screenshot%20from%202022-04-10%2023-16-30_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/36770f33c0127ab5.png"
 links:
   - url: "https://thesparrowsnest.org.uk/search.php?query=direct+action&logic=and&digital=0&digital=0 "
     text: "the Sparrow's Nest"

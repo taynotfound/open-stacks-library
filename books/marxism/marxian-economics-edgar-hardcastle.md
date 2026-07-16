@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/marxian-economics-edgar-hardcastle"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Edgar%20Hardcastle%201986.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f607b683d200428.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Socialist Party of Great Britain (SPGB)"
   - "Edgar Hardcastle"
 images:
-  - "https://files.libcom.org/files/images/library/Edgar%20Hardcastle%201986.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f607b683d200428.png"
 links: []
 files: []
 ---

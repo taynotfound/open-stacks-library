@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/irrational-politics-maurice-brinton"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/XA_REICH.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7feb14033e48994e.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,8 +18,8 @@ tags:
   - "psychology"
   - "Wilhelm Reich"
 images:
-  - "https://files.libcom.org/files/images/library/XA_REICH.JPG"
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-29%20at%2016.52.57.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7feb14033e48994e.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0a3f6695d80c4e52.png"
 links: []
 files: []
 ---

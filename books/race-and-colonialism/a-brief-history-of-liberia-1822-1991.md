@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/brief-history-liberia-1822-1991"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/lib01%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/abe1880b93e23f85.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "imperialism"
   - "countries"
 images:
-  - "https://files.libcom.org/files/lib01%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/abe1880b93e23f85.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-motor-bulletins"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IMG_20130817_152149%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f7efce4baa00dae.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/IMG_20130817_152149%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0f7efce4baa00dae.jpg"
 links: []
 files: []
 ---

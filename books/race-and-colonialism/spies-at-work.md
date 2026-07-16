@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/library/spies-work"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/1_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a22680f34243cd77.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Economic League"
   - "blacklisting"
 images:
-  - "https://files.libcom.org/files/images/blog/1_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a22680f34243cd77.png"
 links:
   - url: "https://www.1in12.com/publications/library/index.htm "
     text: "This book was first made available online by the 1 in 12 Publications library"

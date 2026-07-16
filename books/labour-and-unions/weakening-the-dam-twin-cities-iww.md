@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/weakening-dam-twin-cities-iww"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Untitlved.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3ece99d006af1fb8.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Industrial Workers of the World (IWW)"
   - "United States"
 images:
-  - "https://files.libcom.org/files/images/library/Untitlved.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3ece99d006af1fb8.png"
 links: []
 files:
   - name: "wtdCOVER.pdf"

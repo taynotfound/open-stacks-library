@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/stormy-petrel-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-05/spmast.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/06a42e270b69f805.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Anarchist Communist Group (ACG)"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-05/spmast.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/06a42e270b69f805.png"
 links:
   - url: "https://www.anarchistcommunism.org/stormy-petrel/ "
     text: "here"

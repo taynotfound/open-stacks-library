@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/undercurrent-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/undercurrentlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3e3c77414e411746.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "Antagonism"
 images:
-  - "https://files.libcom.org/files/images/library/undercurrentlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3e3c77414e411746.png"
 links:
   - url: "https://web.archive.org/web/20031207165430/http://www.anti-capital.net:80/undercurrent/index.html "
     text: "here"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/viewpoint-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/jhh.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e3d2044e5a98331a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "autonomist Marxism"
   - "Viewpoint Magazine"
 images:
-  - "https://files.libcom.org/files/images/library/jhh.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e3d2044e5a98331a.png"
 links:
   - url: "https://viewpointmag.com/2011/10/17/issue-1-occupy-everything/ "
     text: "Viewpoint Magazine"

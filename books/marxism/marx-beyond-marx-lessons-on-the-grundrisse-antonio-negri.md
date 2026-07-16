@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/marx-beyond-marx-lessons-grundrisse-antonio-negri"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/Marx-Beyond-Marx-Lessons-on-the-Grundrisse-Paperback-9780936756257_83d6abc3-b88f-4e8f-b2a6-40ce73998333.effa4fe15b6ca4eb1a6009269c63d5d3.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/92d2c60de3e4a182.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "autonomist Marxism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2024-06/Marx-Beyond-Marx-Lessons-on-the-Grundrisse-Paperback-9780936756257_83d6abc3-b88f-4e8f-b2a6-40ce73998333.effa4fe15b6ca4eb1a6009269c63d5d3.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/92d2c60de3e4a182.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/memoires-guy-debord-and-asger-jorn"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/memoires.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9e3d174cee774a23.png"
 page_type: stub
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "situationist"
   - "Asger Jorn"
 images:
-  - "https://files.libcom.org/files/images/library/memoires.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9e3d174cee774a23.png"
 links: []
 files:
   - name: "memoires-debord-jorn.pdf"

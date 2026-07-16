@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/great-french-revolution-1789-1793-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Liberty.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b6fafc5fc84eea3b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/Liberty.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b6fafc5fc84eea3b.jpg"
 links: []
 files:
   - name: "Petr_Kropotkin__The_Great_French_Revolution_1789-1793.epub"

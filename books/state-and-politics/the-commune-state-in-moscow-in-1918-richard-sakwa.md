@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/commune-state-moscow-1918-richard-sakwa"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/red-Army.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,13 +14,13 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/red-Army.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/CommuneStateMoscow1918Sakwa.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/65dcc390_CommuneStateMoscow1918Sakwa.pdf"
+    hosted: true
 ---
 # The Commune State in Moscow in 1918 - Richard Sakwa
 

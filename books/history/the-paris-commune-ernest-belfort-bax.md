@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/paris-commune-ernest-belfort-bax"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/elisee-reclus.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e72c5af4e5c1f220.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Paris Commune"
   - "Ernest Belfort Bax"
 images:
-  - "https://files.libcom.org/files/elisee-reclus.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e72c5af4e5c1f220.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wildcat-journal-uk"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/wildcat14cov_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d5fe013b900cc99a.jpg"
 page_type: book
 mirror_state: partial
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/wildcat14cov_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d5fe013b900cc99a.jpg"
 links:
   - url: "https://splitsandfusions.wordpress.com/ "
     text: "Splits and Fusions archive"
@@ -41,8 +41,8 @@ files:
     hosted: true
   - name: "Wildcat-Bulletin-5-April-1982.pdf"
     type: "PDF"
-    url: "https://files.libcom.org/files/Wildcat-Bulletin-5-April-1982.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/0a046993_Wildcat-Bulletin-5-April-1982.pdf"
+    hosted: true
   - name: "Wildcat-Bulletin-6-June-1982.pdf"
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/Wildcat-Bulletin-6-June-1982.pdf"

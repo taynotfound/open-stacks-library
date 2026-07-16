@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/are-you-getting-screwed-work-mcdonalds-workers-resistance"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/screwed.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c10a306d7eb224e6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "United Kingdom"
   - "fast food"
 images:
-  - "https://files.libcom.org/files/images/library/screwed.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c10a306d7eb224e6.jpg"
 links: []
 files: []
 ---

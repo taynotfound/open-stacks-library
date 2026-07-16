@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-worker-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/306186_331721703556494_1997649088_n_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9130df96030cde7d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "Industrial Worker"
 images:
-  - "https://files.libcom.org/files/images/library/306186_331721703556494_1997649088_n_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9130df96030cde7d.jpg"
 links:
   - url: "https://industrialworker.org "
     text: "online blog"

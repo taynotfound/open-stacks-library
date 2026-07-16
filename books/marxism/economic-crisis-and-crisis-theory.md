@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/economic-crisis-and-crisis-theory"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/economic_crisis_theory.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b70322d51b1177d7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Paul Mattick"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/economic_crisis_theory.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b70322d51b1177d7.jpg"
 links: []
 files: []
 ---

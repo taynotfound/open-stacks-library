@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/libertarian-communist-fighting-ypg"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/funerailles.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/69839672cb2eb5d1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "YPG"
   - "Arthur Aberlin"
 images:
-  - "https://files.libcom.org/files/images/library/funerailles.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/69839672cb2eb5d1.jpg"
 links:
   - url: "https://www.alternativelibertaire.org/?Combattant-volontaire-au-Rojava-02 "
     text: "Vicomte de Valnoir"

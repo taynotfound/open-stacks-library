@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/extracts-tragedy-jewish-teenager-stanislaw-smajzner"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Stanislaw%20Smajzner_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e5b4a22e688d19ea.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "holocaust"
   - "autobiographies"
 images:
-  - "https://files.libcom.org/files/images/history/Stanislaw%20Smajzner_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e5b4a22e688d19ea.jpg"
 links: []
 files: []
 ---

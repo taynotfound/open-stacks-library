@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/views-and-comments"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Views%20and%20Comments%20No.%2046%20%28Spring%201964%29_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6741a555755d87ad.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Views and Comments"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Views%20and%20Comments%20No.%2046%20%28Spring%201964%29_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6741a555755d87ad.jpg"
 links: []
 files: []
 ---

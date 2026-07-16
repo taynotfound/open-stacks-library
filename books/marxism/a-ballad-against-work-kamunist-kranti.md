@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/ballad-against-work-kamunist-kranti"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/LHSImage1%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6a6f2a739c9cd3bf.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "India"
   - "work"
 images:
-  - "https://files.libcom.org/files/images/library/LHSImage1%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6a6f2a739c9cd3bf.jpg"
 links:
   - url: "https://redemmas.org/collective_action_notes/intro.htm "
     text: "Collective Action Notes"

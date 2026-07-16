@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-union-bulletin-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-05/Screenshot%202025-05-15%20220434.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/926248a15003c395.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Industrial Workers of the World (IWW)"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-05/Screenshot%202025-05-15%20220434.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/926248a15003c395.png"
 links: []
 files: []
 ---

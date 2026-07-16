@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/popola-fronto-1936-1939"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Popola%20Fronto.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cfcef2062751df71.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Esperanto"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Popola%20Fronto.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cfcef2062751df71.png"
 links:
   - url: "https://bibliotekomolera.org/popolafronto.html "
     text: "Bibliotekamolera"

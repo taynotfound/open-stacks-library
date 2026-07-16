@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/seventy-days-russia-what-i-saw-angel-pestana"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Pestana2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/29c630da46601f1b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Angel Pestaña"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/history/Pestana2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/29c630da46601f1b.jpg"
 links: []
 files:
   - name: "Seventy days in Russia What I saw - Angel Pestaña.pdf"

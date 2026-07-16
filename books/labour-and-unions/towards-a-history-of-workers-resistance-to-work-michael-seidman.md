@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/towards-history-workers-resistance-work-michael-seidman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Seidman%20pamphlet%20cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/28997d485fd09c3f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Spanish civil war"
   - "News from Everywhere"
 images:
-  - "https://files.libcom.org/files/images/history/Seidman%20pamphlet%20cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/28997d485fd09c3f.jpg"
 links: []
 files: []
 ---

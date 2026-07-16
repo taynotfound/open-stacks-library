@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/state-its-historic-role-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/thestate.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23fdbd45c6b1986a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Freedom Press"
 images:
-  - "https://files.libcom.org/files/images/library/thestate.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23fdbd45c6b1986a.jpg"
 links: []
 files: []
 ---

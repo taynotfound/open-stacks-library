@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/1900-1990-co-operative-movement-quebec-larry-gambone"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/strike.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/716b2b8e21769503.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Larry Gambone"
   - "Freedom Press"
 images:
-  - "https://files.libcom.org/files/images/history/strike.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/716b2b8e21769503.jpg"
 links: []
 files: []
 ---

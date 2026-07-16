@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/program-alliance"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bakunin_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/780df7614b41e81e.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Mikhail Bakunin"
 images:
-  - "https://files.libcom.org/files/images/library/bakunin_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/780df7614b41e81e.jpg"
 links: []
 files: []
 ---

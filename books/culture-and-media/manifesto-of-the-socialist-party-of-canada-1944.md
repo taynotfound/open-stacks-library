@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/manifesto-socialist-party-canada-1944"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SP%20manifesto%201944.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d467df8be1aaa200.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "epub"
   - "Socialist Party of Canada"
 images:
-  - "https://files.libcom.org/files/images/library/SP%20manifesto%201944.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d467df8be1aaa200.jpg"
 links: []
 files:
   - name: "Manifesto of the Socialist Part - Socialist Party of Canada.mobi"

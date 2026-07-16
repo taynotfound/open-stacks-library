@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchists-spanish-civil-war-robert-alexander"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/CNT-1936.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a5f2d8cdbd45fe36.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Mujeres Libres"
   - "Robert Alexander"
 images:
-  - "https://files.libcom.org/files/images/history/CNT-1936.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a5f2d8cdbd45fe36.jpg"
 links: []
 files: []
 ---

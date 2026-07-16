@@ -5,7 +5,7 @@ date: ""
 category: "economics"
 source: "https://libcom.org/article/politics-not-economics-was-key-vladimir-brovkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/trotsky-red-army-1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c25774b56d00df9d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,13 +13,13 @@ tags:
   - "Russia"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/trotsky-red-army-1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c25774b56d00df9d.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/BrovkinreplytoRosenberg.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/77a74020_BrovkinreplytoRosenberg.pdf"
+    hosted: true
 ---
 # Politics, Not Economics Was the Key - Vladimir Brovkin
 

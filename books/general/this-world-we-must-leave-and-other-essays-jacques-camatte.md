@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/world-we-must-leave-and-other-essays-jacques-camatte"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/This%20World%20We%20Must%20Leave%20and%20Other%20Essays.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cc0507eef5c3194d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "PDF"
   - "Gianni Collu"
 images:
-  - "https://files.libcom.org/files/images/library/This%20World%20We%20Must%20Leave%20and%20Other%20Essays.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cc0507eef5c3194d.jpg"
 links:
   - url: "https://en.internationalism.org/content/17352/critique-so-called-communisers-part-31-jacques-camatte-bordigism-negation-proletariat "
     text: "'Critique of the so-called “Communisers” Part 3.1: Jacques Camatte - from Bordigism to the negation of the proletariat'"

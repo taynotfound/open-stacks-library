@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/bread-roses-paper-anarchist-communist-association-c1978-1980"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/B%26R%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/16a7c9838b85dd29.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/B%26R%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/16a7c9838b85dd29.png"
 links:
   - url: "https://thesparrowsnest.org.uk/search.php?query=bread+and+roses&logic=and&digital=0&digital=0 "
     text: "aken from the excellent archive at the Sparrow's Nest"

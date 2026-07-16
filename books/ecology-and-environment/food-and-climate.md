@@ -5,7 +5,7 @@ date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/food-and-climate"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/drought-parched-crops-660%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e41edb3fb796df47.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,8 +14,8 @@ tags:
   - "climate change"
   - "agriculture"
 images:
-  - "https://files.libcom.org/files/images/library/drought-parched-crops-660%5B1%5D.jpg"
-  - "https://files.libcom.org/files/world%20fertiliser%20use.png.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e41edb3fb796df47.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/337745c04d46b3ae.png"
 links:
   - url: "https://en.wikipedia.org/wiki/Food_sovereignty "
     text: "'food sovereignty'"

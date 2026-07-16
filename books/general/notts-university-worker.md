@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/notts-university-worker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Notts%20Uni%20Workers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3023610a90793862.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Notes from Below"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Notts%20Uni%20Workers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3023610a90793862.jpg"
 links:
   - url: "https://notesfrombelow.org/article/notts-university-worker-bulletin-1 "
     text: "This bulletin was first hosted at Notes from Below"

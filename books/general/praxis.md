@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/praxis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/korica_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efdc6386776a11b9.png"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Hrvatski"
 images:
-  - "https://files.libcom.org/files/images/library/korica_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efdc6386776a11b9.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fighting-ourselves-anarcho-syndicalism-and-class-struggle-solidarity-federation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screenshot%20%2835%29.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0cfd5c31d9a49a05.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screenshot%20%2835%29.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0cfd5c31d9a49a05.png"
 links:
   - url: "https://freedompress.org.uk/product/fighting-for-ourselves-anarcho-syndicalism-and-the-class-struggle/ "
     text: "Freedom Press"
@@ -88,12 +88,12 @@ files:
     hosted: true
   - name: "http://scholar.harvard.edu/jrobinson/files/jr_west.pdf"
     type: "PDF"
-    url: "http://scholar.harvard.edu/jrobinson/files/jr_west.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/089a0e3f_jr_west.pdf"
+    hosted: true
   - name: "http://www.parliament.uk/documents/commons/lib/research/rp99/rp99-111.pdf"
     type: "PDF"
-    url: "http://www.parliament.uk/documents/commons/lib/research/rp99/rp99-111.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/45bef315_rp99-111.pdf"
+    hosted: true
   - name: "http://www.natcen.ac.uk/media/769712/the%20august%20riots%20in%20england..."
     type: "PDF"
     url: "http://www.natcen.ac.uk/media/769712/the%20august%20riots%20in%20england%20web.pdf"

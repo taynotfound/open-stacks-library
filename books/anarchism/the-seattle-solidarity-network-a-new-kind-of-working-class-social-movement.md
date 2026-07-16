@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/seattle-solidarity-network-new-kind-working-class-social-movement"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/RsRjD.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6568d63aabf516c2.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Seattle Solidarity Network"
   - "Walter Winslow"
 images:
-  - "https://files.libcom.org/files/images/library/RsRjD.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6568d63aabf516c2.jpg"
 links: []
 files: []
 ---

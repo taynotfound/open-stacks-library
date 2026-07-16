@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/alternative"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Alternative%20Vol.%203%2C%20No.%201%20%281%29_1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d917d1aa5f526cef.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Non-Profit Association of Libertarians"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Alternative%20Vol.%203%2C%20No.%201%20%281%29_1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d917d1aa5f526cef.jpg"
 links: []
 files: []
 ---

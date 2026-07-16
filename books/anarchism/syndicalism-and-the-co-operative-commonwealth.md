@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syndicalism-and-co-operative-commonwealth"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Untitledn.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ecf38fecf4d1dff.png"
 page_type: stub
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Emile Pataud"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Untitledn.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0ecf38fecf4d1dff.png"
 links: []
 files: []
 ---

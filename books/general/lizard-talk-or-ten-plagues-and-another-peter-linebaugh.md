@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/lizard-talk-or-ten-plagues-and-another-peter-linebaugh"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/5Jul_Linebaugh_AE-960x640.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83ff0d6c9edf2957.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "ACT UP"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/5Jul_Linebaugh_AE-960x640.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/83ff0d6c9edf2957.jpg"
 links: []
 files:
   - name: "LizardTalkcropped.pdf"

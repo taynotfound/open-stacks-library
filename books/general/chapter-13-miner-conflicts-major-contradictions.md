@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/chapter-13-miner-conflicts-major-contradictions"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/lep.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e1b9184f3a2a523d.png"
 page_type: stub
 mirror_state: none
 description: ""
 tags:
   - "BM Combustion"
 images:
-  - "https://files.libcom.org/files/2022-08/lep.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e1b9184f3a2a523d.png"
 links: []
 files: []
 ---

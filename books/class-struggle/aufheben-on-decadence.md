@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/library/decadence-aufheben"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/2889377697_22ca9baf15%5B2%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a4feb4ecc674c953.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Aufheben"
   - "class"
 images:
-  - "https://files.libcom.org/files/images/library/2889377697_22ca9baf15%5B2%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a4feb4ecc674c953.jpg"
 links: []
 files: []
 ---

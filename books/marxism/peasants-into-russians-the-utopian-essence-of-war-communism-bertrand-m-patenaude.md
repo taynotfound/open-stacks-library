@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/peasants-russians-utopian-essence-war-communism-bertrand-m-patenaude"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1917.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4104b46fe93f8409.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,13 +19,13 @@ tags:
   - "Bolsheviks"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/1917.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4104b46fe93f8409.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/PeasantsIntoBolshevikspatenaude.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/79f72978_PeasantsIntoBolshevikspatenaude.pdf"
+    hosted: true
 ---
 # Peasants into Russians: The Utopian Essence of War Communism - Bertrand M Patenaude
 

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/heavy-stuff-class-war"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-02/IMG_1810.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e279d22801c551b2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2024-02/IMG_1810.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e279d22801c551b2.jpg"
 links: []
 files: []
 ---

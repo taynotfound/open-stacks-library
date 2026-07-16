@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/veritable-report-last-chance-save-capitalism-italy-censor"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/fontana.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/92e2a80476e3efb3.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "hoax"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/fontana.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/92e2a80476e3efb3.jpg"
 links:
   - url: "https://www.notbored.org/ "
     text: "Not Bored!"

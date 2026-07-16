@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1990-91-immigrant-labour-japan-selections-ampo-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IRR_struggle.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/66d108e783cf338b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,13 +16,13 @@ tags:
   - "migration"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/IRR_struggle.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/66d108e783cf338b.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://libcom.org/files/ImmigrantLaborSelections.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/aba95c86_ImmigrantLaborSelections.pdf"
+    hosted: true
 ---
 # 1990-91 Immigrant Labour in Japan - selections from the AMPO journal
 

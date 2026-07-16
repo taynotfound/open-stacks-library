@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/moving-story-afterword-jocelyn-cohn-and-james-frey"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/photo%20%2820%29_0.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a58e5cec5a79c38.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "occupy movement"
   - "mobi"
 images:
-  - "https://files.libcom.org/files/images/library/photo%20%2820%29_0.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a58e5cec5a79c38.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/reification-lukacs"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/animalcrackers_textmedium.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e21e5d98e68fd694.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Marxism"
   - "Georg Lukacs"
 images:
-  - "https://files.libcom.org/files/images/library/animalcrackers_textmedium.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e21e5d98e68fd694.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/library/flight-freedom-philosophic-myth-making-literary-avant-gardism-yuri-davydov"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/nB86fnK8ye0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ef4f4426862b66a1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "culture"
   - "Yuri Davydov"
 images:
-  - "https://files.libcom.org/files/images/library/nB86fnK8ye0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ef4f4426862b66a1.jpg"
 links:
   - url: "https://ru.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D1%8B%D0%B4%D0%BE%D0%B2,_%D0%AE%D1%80%D0%B8%D0%B9_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87 "
     text: "Yuri Davydov"

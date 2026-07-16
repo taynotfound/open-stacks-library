@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/debate-liquidationism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/dissolve.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b5066a9bac3829a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "United States"
   - "debates"
 images:
-  - "https://files.libcom.org/files/images/library/dissolve.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b5066a9bac3829a.jpg"
 links:
   - url: "https://thinkinthroughit.wordpress.com/2013/09/20/liquidationism/ "
     text: "Thinkin Through It"

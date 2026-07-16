@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/crowbar-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/crowbar-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7acbd256d4493491.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Brixton"
   - "Hooligan Press"
 images:
-  - "https://files.libcom.org/files/images/library/crowbar-logo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7acbd256d4493491.png"
 links: []
 files: []
 ---

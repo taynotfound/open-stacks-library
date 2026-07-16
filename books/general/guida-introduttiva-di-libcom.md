@@ -5,17 +5,17 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/guida-introduttiva-di-libcom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/torino4_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0dff0702bc567cf9.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Italiano"
 images:
-  - "https://files.libcom.org/files/images/library/torino4_0.jpg"
-  - "https://files.libcom.org/files/mcworker.jpg"
-  - "https://files.libcom.org/files/miners.jpg"
-  - "https://files.libcom.org/files/Greece.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0dff0702bc567cf9.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d49e6407b23b3980.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26b50715756140cf.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97842db14c95ea17.jpg"
 links:
   - url: "https://www.flickr.com/photos/giuseppemilo/ "
     text: "Giuseppe Milo"

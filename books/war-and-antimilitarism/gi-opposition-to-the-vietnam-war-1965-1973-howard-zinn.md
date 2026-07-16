@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/gi-opposition-vietnam-war-1965-1973-howard-zinn"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/vietnam-gi.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bc6cb907eff53e28.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Vietnam"
   - "1970s"
 images:
-  - "https://files.libcom.org/files/vietnam-gi.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bc6cb907eff53e28.jpg"
 links: []
 files: []
 ---

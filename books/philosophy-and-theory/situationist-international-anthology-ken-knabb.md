@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/situationist-international-anthology-ken-knabb"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cover_53.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93b7b1d9e4e9fd73.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "anthologies"
 images:
-  - "https://files.libcom.org/files/images/library/cover_53.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93b7b1d9e4e9fd73.jpg"
 links: []
 files:
   - name: "Situationist International Anthology - Knabb, Ken.mobi"

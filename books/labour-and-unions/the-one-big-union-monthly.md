@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/one-big-union-monthly"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/monthly.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ca158e666a420be5.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "The One Big Union Monthly"
 images:
-  - "https://files.libcom.org/files/images/library/monthly.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ca158e666a420be5.png"
 links: []
 files: []
 ---

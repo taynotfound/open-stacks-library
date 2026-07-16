@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1946-oakland-general-strike-stan-weir"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/books/Oakland-strike-meeting.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dfad10c2abe35be6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Oakland"
   - "accounts"
 images:
-  - "https://files.libcom.org/files/books/Oakland-strike-meeting.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dfad10c2abe35be6.jpg"
 links: []
 files: []
 ---

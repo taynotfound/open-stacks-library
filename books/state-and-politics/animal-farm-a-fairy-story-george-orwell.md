@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/animal-farm-fairy-story-george-orwell"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Animal%20Farm.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1849705f5817d1c4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Animal%20Farm.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1849705f5817d1c4.jpg"
 links: []
 files:
   - name: "Animal Farm - George Orwell.mobi"

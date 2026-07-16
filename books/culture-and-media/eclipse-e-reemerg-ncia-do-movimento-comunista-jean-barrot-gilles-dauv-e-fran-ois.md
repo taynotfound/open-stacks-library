@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/eclipse-e-reemergencia-do-movimento-comunista-jean-barrotgilles-dauve-e-francois-martin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/eclipree.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4a6304e367741ba7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Português"
   - "François Martin"
 images:
-  - "https://files.libcom.org/files/images/library/eclipree.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4a6304e367741ba7.jpg"
 links: []
 files: []
 ---

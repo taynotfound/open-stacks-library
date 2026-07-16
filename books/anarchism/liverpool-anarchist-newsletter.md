@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/liverpool-anarchist-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/LA.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c78359c2b4e42e6.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "publications"
   - "Anti-Fascist Network"
 images:
-  - "https://files.libcom.org/files/images/library/LA.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c78359c2b4e42e6.png"
 links: []
 files:
   - name: "Liverpool Anarchist - Issue 1 - Oct'19.pdf"

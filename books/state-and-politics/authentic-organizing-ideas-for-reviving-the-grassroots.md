@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/authentic-organizing-ideas-reviving-grassroots"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/state-Street-demonstration.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cabae6f0e0ae49d1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "public and third sector"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/state-Street-demonstration.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cabae6f0e0ae49d1.jpg"
 links: []
 files: []
 ---

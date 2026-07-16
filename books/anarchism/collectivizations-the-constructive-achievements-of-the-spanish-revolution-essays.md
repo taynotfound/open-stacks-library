@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/collectivizations-constructive-achievements-spanish-revolution-essays-documents-and-reports"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/cnt-collectives-e1310339648200.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b8b03251f6286db.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Federación Ibérica de Juventudes Libertarias (FIJL)"
   - "Confederación Nacional del Trabajo (CNT)"
 images:
-  - "https://files.libcom.org/files/images/history/cnt-collectives-e1310339648200.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b8b03251f6286db.jpg"
 links: []
 files: []
 ---

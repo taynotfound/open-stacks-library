@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/making-english-working-class-e-p-thompson"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/factory.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/02ccc07b2b00c7b5.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/images/history/factory.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/02ccc07b2b00c7b5.jpg"
 links: []
 files:
   - name: "The Making of the English Worki - Thompson, E. P_.mobi"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/virus-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/virus-11.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f348b5d797176efe.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/virus-11.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f348b5d797176efe.png"
 links: []
 files:
   - name: "V1.pdf"

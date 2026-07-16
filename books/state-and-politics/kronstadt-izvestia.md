@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/kronstadt-izvestia"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/izvestia.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/14d7d3a51a11daa4.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "navy"
   - "USSR"
 images:
-  - "https://files.libcom.org/files/images/library/izvestia.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/14d7d3a51a11daa4.png"
 links:
   - url: "http://www-personal.umich.edu/~mhuey/"
     text: "Scott Zenkatsu Parker and edited by Mary Huey"

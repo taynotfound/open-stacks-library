@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/eight-theses-militant-historiography"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/r_sciopero_gen_pz_gramsci_1973.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c66ad00147f77e20.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Italy"
   - "operaismo"
 images:
-  - "https://files.libcom.org/files/images/library/r_sciopero_gen_pz_gramsci_1973.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c66ad00147f77e20.jpg"
 links: []
 files: []
 ---

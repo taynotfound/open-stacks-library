@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/chuang-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Both_Stacked-1080x675.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05b4415565b8aeca.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Both_Stacked-1080x675.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05b4415565b8aeca.png"
 links: []
 files: []
 ---

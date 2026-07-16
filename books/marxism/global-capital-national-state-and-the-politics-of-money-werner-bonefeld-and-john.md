@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/global-capital-national-state-and-politics-money-werner-bonefeld-and-john-holloway"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-01/Global%20Capital.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/54eb85623138aa9f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Werner Bonefeld"
   - "Open Marxism"
 images:
-  - "https://files.libcom.org/files/2024-01/Global%20Capital.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/54eb85623138aa9f.jpg"
 links: []
 files: []
 ---

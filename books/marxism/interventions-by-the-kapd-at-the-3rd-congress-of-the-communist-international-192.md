@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/interventions-kapd-3rd-congress-communist-international-1921"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/trotsky1921-01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c615edfbbe879424.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "speeches"
   - "Wage Slave X"
 images:
-  - "https://files.libcom.org/files/images/library/trotsky1921-01.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c615edfbbe879424.jpg"
 links: []
 files: []
 ---

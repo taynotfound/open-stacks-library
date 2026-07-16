@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/organized-labor-versus-revolt-against-work-john-zerzan"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Samuelson02%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b66fe8dcd9e11913.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "AFL-CIO"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Samuelson02%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b66fe8dcd9e11913.jpg"
 links:
   - url: "https://www.geocities.com/cordobakaf "
     text: "Class against Class"

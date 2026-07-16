@@ -5,14 +5,14 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/debates-around-workers-solidarity-movement"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/office_panel_15%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2474fd2505c7a474.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Workers Solidarity Movement"
 images:
-  - "https://files.libcom.org/files/images/library/office_panel_15%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2474fd2505c7a474.jpg"
 links:
   - url: "https://en.wikipedia.org/wiki/Karl_Kautsky "
     text: "Kautsky"

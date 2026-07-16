@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/student-radicals-incomplete-history-protest-university-sussex-1971-75"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/red-flag-1970.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/96f6f6188828bd77.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Ed Goddard"
   - "libcom.org"
 images:
-  - "https://files.libcom.org/files/images/library/red-flag-1970.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/96f6f6188828bd77.jpg"
 links: []
 files: []
 ---

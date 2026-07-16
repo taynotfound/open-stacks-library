@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/god-and-state-mikhail-bakunin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/001195d5_medium.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/428949cf3d28f566.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Germany"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/001195d5_medium.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/428949cf3d28f566.jpg"
 links: []
 files:
   - name: "Bakunin - God and the State.pdf"

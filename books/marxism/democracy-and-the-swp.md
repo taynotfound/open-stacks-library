@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/democracy-and-swp"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IS_Group_1994_pamphlet_democracy.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b27fb2f16c94b50.png"
 page_type: stub
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "International Socialist Tendency"
   - "organisation"
 images:
-  - "https://files.libcom.org/files/images/library/IS_Group_1994_pamphlet_democracy.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b27fb2f16c94b50.png"
 links: []
 files: []
 ---

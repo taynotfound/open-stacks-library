@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/unity-voice-concerned-postal-workers"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/unity.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/46f3ad21421bfd09.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/unity.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/46f3ad21421bfd09.jpg"
 links: []
 files: []
 ---

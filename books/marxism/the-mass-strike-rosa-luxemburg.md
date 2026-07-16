@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/mass-strike-rosa-luxemburg"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/rosa%5B1%5D.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/92716f3423dd52d7.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "state socialism"
   - "Russian Revolution 1905"
 images:
-  - "https://files.libcom.org/files/images/library/rosa%5B1%5D.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/92716f3423dd52d7.gif"
 links: []
 files: []
 ---

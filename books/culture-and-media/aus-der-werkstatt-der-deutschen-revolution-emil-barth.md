@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/aus-der-werkstatt-der-deutschen-revolution-emil-barth"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Emil%20Barth.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f281c1e3a7334105.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Deutsch"
   - "Emil Barth"
 images:
-  - "https://files.libcom.org/files/images/library/Emil%20Barth.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f281c1e3a7334105.jpg"
 links: []
 files: []
 ---

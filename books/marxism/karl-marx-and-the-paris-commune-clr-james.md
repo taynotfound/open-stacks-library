@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/karl-marx-and-paris-commune-clr-james"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Paris%20Commune.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ffb6531cd5c97c4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1870s"
   - "Johnson–Forest Tendency"
 images:
-  - "https://files.libcom.org/files/images/history/Paris%20Commune.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ffb6531cd5c97c4.jpg"
 links: []
 files: []
 ---

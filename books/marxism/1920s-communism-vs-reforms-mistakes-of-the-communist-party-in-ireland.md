@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/1920s-communism-vs-reforms-mistakes-communist-party-ireland"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/001_group%5B1%5D.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf84b8d22be0b81f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Ireland"
   - "United Kingdom"
 images:
-  - "https://files.libcom.org/files/images/history/001_group%5B1%5D.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf84b8d22be0b81f.jpg"
 links: []
 files: []
 ---

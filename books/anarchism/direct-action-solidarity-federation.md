@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-solidarity-federation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-10/direct%20action%20cover%20-%20Copy.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1b55b34e57f172fb.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "anarcho-syndicalism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-10/direct%20action%20cover%20-%20Copy.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1b55b34e57f172fb.png"
 links: []
 files: []
 ---

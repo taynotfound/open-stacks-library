@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/sabotage-emile-pouget"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Pouget%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5e4782851024ed16.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Emile Pouget"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Pouget%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5e4782851024ed16.jpg"
 links: []
 files: []
 ---

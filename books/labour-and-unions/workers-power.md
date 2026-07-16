@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-power"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Untitled_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cdbc7a19f8d55d04.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Industrial Workers of the World (IWW)"
   - "Industrial Worker"
 images:
-  - "https://files.libcom.org/files/images/library/Untitled_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cdbc7a19f8d55d04.png"
 links:
   - url: "https://forworkerspower.blogspot.com/ "
     text: "For Workers Power"

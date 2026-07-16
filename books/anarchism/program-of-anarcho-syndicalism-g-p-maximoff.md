@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/program-anarcho-syndicalism-g-p-maximoff"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sp001355.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf1af20bea43f4e1.gif"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Gregori Maximov"
   - "anarcho-syndicalism"
 images:
-  - "https://files.libcom.org/files/images/library/sp001355.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf1af20bea43f4e1.gif"
 links: []
 files: []
 ---

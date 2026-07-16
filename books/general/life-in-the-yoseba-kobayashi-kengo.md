@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/life-yoseba-kobayashi-kengo"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/333783.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9b6fde04003c2e73.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,13 +15,13 @@ tags:
   - "Kamagasaki"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/333783.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9b6fde04003c2e73.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://libcom.org/files/LifeintheYoseba.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/0d2a83e0_LifeintheYoseba.pdf"
+    hosted: true
 ---
 # Life in the Yoseba - Kobayashi Kengo
 

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/unholy-alliance-seamens-strike-analysis-george-foulser"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/2483729509_465cb95661_o.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/10863c0771da43f6.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "shipping"
   - "Trades Union Congress (TUC)"
 images:
-  - "https://files.libcom.org/files/images/history/2483729509_465cb95661_o.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/10863c0771da43f6.jpg"
 links: []
 files: []
 ---

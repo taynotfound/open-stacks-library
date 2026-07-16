@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/irish-anarchist-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IAR%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b5429447d0fe2f07.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "2010s"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/IAR%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b5429447d0fe2f07.png"
 links:
   - url: "https://www.wsm.ie/irish-anarchist-review "
     text: "the Irish Anarchist Review"

@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/gender-power-and-struggle"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/powerpowerless.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c438d0f96272180c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Polite Ire"
   - "sexual violence"
 images:
-  - "https://files.libcom.org/files/images/library/powerpowerless.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c438d0f96272180c.jpg"
 links:
   - url: "https://politeire.wordpress.com/2011/11/06/gender-power-and-struggle-part-i/#more-33 "
     text: "Polite Ire"

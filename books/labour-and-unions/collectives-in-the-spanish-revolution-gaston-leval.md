@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/collectives-spanish-revolution-gaston-leval"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/collective_bread%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/184aba3316006d53.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Spanish civil war"
   - "Gaston Leval"
 images:
-  - "https://files.libcom.org/files/collective_bread%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/184aba3316006d53.jpg"
 links: []
 files:
   - name: "Gaston Leval Collectives in the Spanish revolution.pdf"

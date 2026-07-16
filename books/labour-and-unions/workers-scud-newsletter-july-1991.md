@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-scud-newsletter-july-1991"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-11/workers-scud-cover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05103afb3eeaa5d7.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "No War but the Class War"
   - "Unpopular Books"
 images:
-  - "https://files.libcom.org/files/2024-11/workers-scud-cover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05103afb3eeaa5d7.png"
 links: []
 files: []
 ---

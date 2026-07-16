@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/jaime-balius-and-friends-durruti"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Iron_column_poster%5B1%5D.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/94b1464c82e989b5.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "accounts"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/Iron_column_poster%5B1%5D.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/94b1464c82e989b5.png"
 links:
   - url: "http://katesharpleylibrary.net"
     text: "Kate Sharpley Library"

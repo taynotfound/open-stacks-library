@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/founding-kapd"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/hjg.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5d4f80730720f1c1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "German Revolution 1918"
   - "Communist Workers' Organisation (CWO)"
 images:
-  - "https://files.libcom.org/files/images/history/hjg.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5d4f80730720f1c1.jpg"
 links:
   - url: "http://www.kurasje.org"
     text: "kurasje.org"

@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/middlesex-declaration-precariat"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/03-29-57_a-group-of-crusties_original.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4db0f00c4987d4c2.jpg"
 page_type: article
 mirror_state: none
 description: ""
 tags:
   - "Best of the worst"
 images:
-  - "https://files.libcom.org/files/images/library/03-29-57_a-group-of-crusties_original.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4db0f00c4987d4c2.jpg"
 links: []
 files: []
 ---

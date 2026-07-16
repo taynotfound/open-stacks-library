@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/ka-popoy-selected-writings"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Ka%20Popoy%20Cover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/647180976f196272.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "communism"
   - "anthologies"
 images:
-  - "https://files.libcom.org/files/images/library/Ka%20Popoy%20Cover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/647180976f196272.png"
 links:
   - url: "https://web.archive.org/web/20021015200425/http://www.popoy.cjb.net/ "
     text: "popoy.cjb.net"

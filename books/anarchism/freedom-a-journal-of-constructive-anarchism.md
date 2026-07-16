@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/freedom-journal-constructive-anarchism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-08/freedom-NY-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77f74504c7183ac4.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "anarchism"
   - "New York"
 images:
-  - "https://files.libcom.org/files/2024-08/freedom-NY-logo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77f74504c7183ac4.png"
 links: []
 files: []
 ---

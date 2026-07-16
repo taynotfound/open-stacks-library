@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchy-and-organisation-rudolf-rocker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/freedom-we-the-anarchists.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/61da36f9bbbd09d8.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Spain"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/freedom-we-the-anarchists.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/61da36f9bbbd09d8.jpg"
 links:
   - url: "https://www.antorcha.net/biblioteca_virtual/politica/ayo/anarquismo_y_organizacion.html#1 "
     text: "Antorcha.net"

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/tenant-movement-new-york-city-1904-1984"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/frntcvr.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c0653764669b950b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Ronald Lawson"
   - "Mark Naison"
 images:
-  - "https://files.libcom.org/files/images/history/frntcvr.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c0653764669b950b.jpg"
 links:
   - url: "https://www.tenant.net "
     text: "TenantNet"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/grammar-multitude-paolo-virno"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/AGOTM.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bb5343bdc79e57d1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "autonomism"
   - "Paolo Virno"
 images:
-  - "https://files.libcom.org/files/AGOTM.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bb5343bdc79e57d1.jpg"
 links: []
 files: []
 ---

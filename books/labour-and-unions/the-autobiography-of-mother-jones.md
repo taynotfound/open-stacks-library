@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/autobiography-mother-jones"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/MotherJones.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c437ba0aa5e36bd4.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Colorado"
   - "Knights of Labor"
 images:
-  - "https://files.libcom.org/files/images/library/MotherJones.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c437ba0aa5e36bd4.jpg"
 links: []
 files: []
 ---

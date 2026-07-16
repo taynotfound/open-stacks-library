@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/labour-process-and-class-strategies"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/The_Labour_Process_%26_Class_Strategies.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b677b566e92afb99.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Alfred Sohn-Rethel"
   - "Christian Palloix"
 images:
-  - "https://files.libcom.org/files/images/library/The_Labour_Process_%26_Class_Strategies.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b677b566e92afb99.png"
 links: []
 files: []
 ---

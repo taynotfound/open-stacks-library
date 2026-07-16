@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/russian-anarchists-and-civil-war-paul-avrich"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/l%5B1%5D_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c55129fb1b0d4c3a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "1920s"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/history/l%5B1%5D_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c55129fb1b0d4c3a.jpg"
 links: []
 files: []
 ---

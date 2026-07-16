@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/states-emergency-cultures-revolt-italy-1968-1978-robert-lumley"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Milan%201968.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/69464c9e0d82004e.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Italy"
   - "Italy 60s-70s"
 images:
-  - "https://files.libcom.org/files/images/history/Milan%201968.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/69464c9e0d82004e.jpg"
 links:
   - url: "https://shop.workingclasshistory.com/products/states-emergency-revolt-italy-1968-1978-robert-lumley "
     text: "please buy it here."

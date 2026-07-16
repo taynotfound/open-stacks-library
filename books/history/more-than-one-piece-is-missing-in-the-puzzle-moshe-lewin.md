@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/more-one-piece-missing-puzzle-moshe-lewin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/lenin_speech%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30b2bf79bd70ad20.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,13 +16,13 @@ tags:
   - "Bolsheviks"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/lenin_speech%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30b2bf79bd70ad20.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/LewinreplyRosenberg.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/8d61517f_LewinreplyRosenberg.pdf"
+    hosted: true
 ---
 # More than One Piece is Missing in the Puzzle - Moshe Lewin
 

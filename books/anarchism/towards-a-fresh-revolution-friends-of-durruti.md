@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/towards-fresh-revolution-friends-durruti"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/durruti_funeral%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/47e7e3d23b0104a3.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Friends of Durruti"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/durruti_funeral%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/47e7e3d23b0104a3.jpg"
 links: []
 files: []
 ---

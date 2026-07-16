@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/guillotine-work-gregori-maximov"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/guillotine.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/134a28017ea9b42f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Leon Trotsky"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/history/guillotine.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/134a28017ea9b42f.jpg"
 links: []
 files: []
 ---

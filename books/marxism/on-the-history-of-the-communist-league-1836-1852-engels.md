@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/history-communist-league"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/mikhail_bakunin_by_rae_maxwell-d3cwa8l.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fa3958bae68857b8.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "1850s"
   - "1830s"
 images:
-  - "https://files.libcom.org/files/images/library/mikhail_bakunin_by_rae_maxwell-d3cwa8l.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fa3958bae68857b8.jpg"
 links: []
 files: []
 ---

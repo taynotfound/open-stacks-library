@@ -5,14 +5,14 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-04/1917.05.19%20p.1-402.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/114060ba2cd41756.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-04/1917.05.19%20p.1-402.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/114060ba2cd41756.jpg"
 links: []
 files: []
 ---

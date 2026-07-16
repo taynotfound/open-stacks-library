@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/open-vistas-bi-monthly-life-and-letters"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/openvistas.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c80c89cfae716f8.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Open Vistas"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/openvistas.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9c80c89cfae716f8.png"
 links: []
 files: []
 ---

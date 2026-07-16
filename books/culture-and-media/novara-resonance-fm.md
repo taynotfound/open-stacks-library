@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/novara-resonance-fm"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/30bfbea4808585d60b9231291c7e65fe%5B1%5D.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf5e1b834c4d92ae.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Aaron Bastani"
   - "Novara Media"
 images:
-  - "https://files.libcom.org/files/images/library/30bfbea4808585d60b9231291c7e65fe%5B1%5D.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf5e1b834c4d92ae.png"
 links:
   - url: "https://novaramedia.com/ "
     text: "Novara"

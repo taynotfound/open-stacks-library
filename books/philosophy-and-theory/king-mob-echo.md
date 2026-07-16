@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/king-mob-echo"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-03/kingmobcov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/403bdcd8fe920835.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "situationist"
 images:
-  - "https://files.libcom.org/files/2023-03/kingmobcov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/403bdcd8fe920835.png"
 links: []
 files: []
 ---

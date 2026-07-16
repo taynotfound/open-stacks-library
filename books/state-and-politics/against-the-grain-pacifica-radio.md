@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/library/against-grain-pafica-radio"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/obama_salutes_traditional_marriage.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d75a888f35ed5d52.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "audio"
   - "Sasha Lilley"
 images:
-  - "https://files.libcom.org/files/images/library/obama_salutes_traditional_marriage.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d75a888f35ed5d52.jpg"
 links:
   - url: "https://www.againstthegrain.org/files/atg/AtG_2010.11.15_Harvey_on_State_Coyle_on_Work_Week.mp3 "
     text: "http://www.againstthegrain.org/files/atg/AtG_2010.11.15_Harvey_on_State_Coyle_on_Work_Week.mp3"

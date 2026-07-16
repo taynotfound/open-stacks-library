@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/manifesto-fast-food-worker-socialist-alternative-us"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/d931899c2294a0210bf257d2a2570db6--life-advice-black-books.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/39e2f2fd10aa829c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Tony Wilsdon"
   - "Brent Gaspaire"
 images:
-  - "https://files.libcom.org/files/images/history/d931899c2294a0210bf257d2a2570db6--life-advice-black-books.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/39e2f2fd10aa829c.jpg"
 links: []
 files: []
 ---

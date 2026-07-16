@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/outbreaks-inbreaks-until-exhaustion-roland-simon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/0%2C%2C19153320_303%2C00.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/800d84a3f9573f56.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Roland Simon"
   - "2016 French Labour Law Protests"
 images:
-  - "https://files.libcom.org/files/images/library/0%2C%2C19153320_303%2C00.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/800d84a3f9573f56.jpg"
 links:
   - url: "https://en.wikipedia.org/wiki/School_for_Advanced_Studies_in_the_Social_Sciences "
     text: "EHESS"

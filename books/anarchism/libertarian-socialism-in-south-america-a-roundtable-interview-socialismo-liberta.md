@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libertarian-socialism-south-america-roundtable-interviewsocialismo-libertario-en-sur"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/ASL%20Argentina.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b95c156254483671.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Black Rose Anarchist Federation"
   - "Enrique Guerrero-López"
 images:
-  - "https://files.libcom.org/files/images/library/ASL%20Argentina.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b95c156254483671.png"
 links:
   - url: "https://blackrosefed.org/libertarian-socialism-south-america-p1/ "
     text: "Part 1 of Black Rose Anarchist Federation's series of interviews with libertarian socialist groups in South America"

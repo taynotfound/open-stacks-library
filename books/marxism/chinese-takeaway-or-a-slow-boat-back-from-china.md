@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/chinese-takeaway-or-slow-boat-back-china"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-01/maoists.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e3c11246c399602.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,9 +16,9 @@ tags:
   - "Maoism"
   - "Maoists"
 images:
-  - "https://files.libcom.org/files/2025-01/maoists.jpg"
-  - "https://files.libcom.org/files/2025-01/black-panters-great-wall_opt-2ff3c43b.jpeg"
-  - "https://files.libcom.org/files/2025-01/La_cause_du_peuple_logo.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e3c11246c399602.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c1a8dcbdd2a2c5c4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5474588efe8517f6.jpg"
 links: []
 files: []
 ---

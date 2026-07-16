@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/industrial-collectivisation-during-spanish-revolution-deirdre-hogan"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/phoca_thumb_l_kollektivbetrieb8%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec6b8e6ce050fc3d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Deirdre Hogan"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/phoca_thumb_l_kollektivbetrieb8%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec6b8e6ce050fc3d.jpg"
 links:
   - url: "http://flag.blackened.net/revolt"
     text: "Revolt collection"

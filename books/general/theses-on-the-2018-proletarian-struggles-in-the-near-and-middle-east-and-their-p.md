@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/theses-2018-proletarian-struggles-near-and-middle-east-and-their-prospects"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/bazneshastegan.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d1e1f2ea6be42c77.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Fredo Corvo"
   - "Iran protests 2017/18"
 images:
-  - "https://files.libcom.org/files/images/news/bazneshastegan.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d1e1f2ea6be42c77.jpg"
 links: []
 files: []
 ---

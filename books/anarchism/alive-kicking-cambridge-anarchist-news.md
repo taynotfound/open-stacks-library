@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/alive-kicking-cambridge-anarchist-news"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-02/alivelogo.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c6790f07c8364926.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "Cambridge"
 images:
-  - "https://files.libcom.org/files/2024-02/alivelogo.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c6790f07c8364926.jpg"
 links: []
 files: []
 ---

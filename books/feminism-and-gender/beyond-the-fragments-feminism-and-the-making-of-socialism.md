@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/library/beyond-fragments-feminism-making-socialism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/spheres-6.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b8b6866e07d72242.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Lynne Segal"
   - "Hilary Wainwright"
 images:
-  - "https://files.libcom.org/files/images/library/spheres-6.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b8b6866e07d72242.jpg"
 links: []
 files: []
 ---

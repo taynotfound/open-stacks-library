@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/5-year-plan-sheffield-iww"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1415235925170.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a3b688b22610b8cd.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Sheffield"
   - "New Syndicalist"
 images:
-  - "https://files.libcom.org/files/images/library/1415235925170.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a3b688b22610b8cd.jpg"
 links:
   - url: "https://www.iww.org/history/library/branches/TwinCitiesGMB/weakining_the_dam/9 "
     text: "Goals, Then Strategy, Then Tactics"

@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/black-flag-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bf4-6-jan1976_1.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e67dd6a4e8afc03.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,9 +14,9 @@ tags:
   - "United Kingdom"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/bf4-6-jan1976_1.png"
-  - "https://files.libcom.org/files/BF7-5-84backcov.jpg"
-  - "https://files.libcom.org/files/2022-06/2232834645_06ab2a65ec.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e67dd6a4e8afc03.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3095ba292180a750.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/11a1afbe2d1f9c3a.jpg"
 links:
   - url: "https://www.blackflag.org.uk/ "
     text: "https://www.blackflag.org.uk/"

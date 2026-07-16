@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/enrages-and-situationists-occupation-movement-france-may-68"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Enrag%C3%A9s%20cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/39074918205a6784.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Situationist International"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Enrag%C3%A9s%20cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/39074918205a6784.jpg"
 links:
   - url: "https://www.cddc.vt.edu/sionline/si/enrages.html "
     text: "the Situationist International Online archive"

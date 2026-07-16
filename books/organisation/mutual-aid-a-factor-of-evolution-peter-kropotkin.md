@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/mutual-aid-factor-evolution-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-12/animal%20cooperation.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed8f97da4f279862.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-12/animal%20cooperation.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ed8f97da4f279862.jpg"
 links:
   - url: "http://dwardmac.pitzer.edu/Anarchist_Archives/"
     text: "Anarchy Archives"

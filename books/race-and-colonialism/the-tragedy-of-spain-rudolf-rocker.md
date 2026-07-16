@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/tragedy-spain-rudolf-rocker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/franco_1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/837393860169540c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/franco_1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/837393860169540c.jpg"
 links: []
 files:
   - name: "The Tragedy of Spain - Rocker, Rudolf.epub"

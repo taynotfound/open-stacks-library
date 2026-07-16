@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/platformo-de-organizo-de-la-enerala-unui-o-de-anarkiisto"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/blog/makhnovshchina.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/56c303764620808a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Esperanto"
   - "Jesús González"
 images:
-  - "https://files.libcom.org/files/images/blog/makhnovshchina.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/56c303764620808a.jpg"
 links: []
 files: []
 ---

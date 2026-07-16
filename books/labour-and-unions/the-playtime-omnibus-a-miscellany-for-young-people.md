@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/playtime-omnibus-miscellany-young-people"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/wpom.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/294af723bca16369.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "PDF"
   - "Phoenix Press"
 images:
-  - "https://files.libcom.org/files/images/library/wpom.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/294af723bca16369.png"
 links:
   - url: "https://hackneyhistory.wordpress.com/2011/07/05/workers-playtime-on-the-death-of-colin-roach-and-community-policing-1983/ "
     text: "The Radical History of Hackney"

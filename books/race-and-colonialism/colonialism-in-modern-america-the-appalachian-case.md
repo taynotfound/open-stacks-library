@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/colonialism-modern-america-appalachian-case"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/traintrip.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6ea7eba8408ee025.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Donad Askins"
   - "other contributors"
 images:
-  - "https://files.libcom.org/files/images/library/traintrip.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6ea7eba8408ee025.jpg"
 links: []
 files: []
 ---

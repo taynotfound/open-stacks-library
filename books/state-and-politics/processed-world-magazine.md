@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/processed-world-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/processed.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/048054cd38aa7d67.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "San Francisco"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/processed.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/048054cd38aa7d67.gif"
 links: []
 files: []
 ---

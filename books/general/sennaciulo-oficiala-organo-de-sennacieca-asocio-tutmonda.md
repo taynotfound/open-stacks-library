@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/sennaciulo-oficiala-organo-de-sennacieca-asocio-tutmonda"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SennaciuloMajo2006.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/615f82efdee03c72.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "SAT"
   - "Esperanto"
 images:
-  - "https://files.libcom.org/files/images/library/SennaciuloMajo2006.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/615f82efdee03c72.jpg"
 links: []
 files:
   - name: "Sennaciulo_1925_n14_jan1_0.pdf"

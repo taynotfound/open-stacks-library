@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/1918-treaty-brest-litovsk-curbing-revolution-guy-sabatier"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Brest%20Litovsk.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c64980087450c875.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "state capitalism"
   - "Guy Sabatier"
 images:
-  - "https://files.libcom.org/files/images/history/Brest%20Litovsk.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c64980087450c875.jpg"
 links: []
 files: []
 ---

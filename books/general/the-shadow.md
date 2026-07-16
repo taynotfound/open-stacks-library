@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/shadow"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-01/shadowcov1_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/db1076f0289b130f.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "publications"
   - "New York"
 images:
-  - "https://files.libcom.org/files/2024-01/shadowcov1_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/db1076f0289b130f.png"
 links:
   - url: "https://shadowpress.net/ "
     text: "shadowpress.net"

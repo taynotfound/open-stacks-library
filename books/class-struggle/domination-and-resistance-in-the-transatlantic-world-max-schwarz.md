@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/domination-and-resistance-transatlantic-world-max-schwarz"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/hercules_vs_hydra.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4a2f768f8b08931c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Max Schwarz"
   - "NYCC"
 images:
-  - "https://files.libcom.org/files/images/history/hercules_vs_hydra.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4a2f768f8b08931c.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-war-home-front-revolutionary-opposition-second-world-war-anti-parliamentary-communist"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/war.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/be97ea028fc168fc.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "United Kingdom"
   - "Spanish civil war"
 images:
-  - "https://files.libcom.org/files/images/library/war.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/be97ea028fc168fc.jpg"
 links: []
 files:
   - name: "Class War on the Home Front (Wildcat).pdf"

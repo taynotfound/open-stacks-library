@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/soziale-befreiung-writings-russian-revolution-1917-1921"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/100-Years-of-Russian-Revolution-Communism-Democracy.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e0b0c511b1a76a4a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "anthologies"
   - "Bolsheviks"
 images:
-  - "https://files.libcom.org/files/images/history/100-Years-of-Russian-Revolution-Communism-Democracy.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e0b0c511b1a76a4a.jpg"
 links:
   - url: "https://tenox.livejournal.com/24805.html "
     text: "Source in Russian: «Коммунистический» интернационал против мирового пролетариата"

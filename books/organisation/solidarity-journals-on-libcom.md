@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/article/solidarity-journals-libcom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sol-all.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/af26b47f93a44d9a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "United Kingdom"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/sol-all.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/af26b47f93a44d9a.png"
 links: []
 files: []
 ---

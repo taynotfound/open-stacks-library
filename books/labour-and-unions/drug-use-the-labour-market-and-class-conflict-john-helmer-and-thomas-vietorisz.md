@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/drug-use-labour-market-and-class-conflict-john-helmer-and-thomas-vietorisz"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/opium.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6e62bb64aeb4b43c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "John Helmer"
   - "Thomas Vietorisz"
 images:
-  - "https://files.libcom.org/files/images/history/opium.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6e62bb64aeb4b43c.jpg"
 links: []
 files: []
 ---

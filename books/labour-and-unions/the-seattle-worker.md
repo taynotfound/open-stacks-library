@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/seattle-worker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Seattle%20Worker%20APRIL-MAY%202018-page001.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e1fa11f347701056.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Seattle%20Worker%20APRIL-MAY%202018-page001.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e1fa11f347701056.png"
 links:
   - url: "https://seattleiww.wordpress.com/seattle-worker/ "
     text: "The Seattle Worker is the bimonthly newsletter of the IWW Seattle branch"

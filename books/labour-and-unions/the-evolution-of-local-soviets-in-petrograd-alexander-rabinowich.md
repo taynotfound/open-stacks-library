@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/evolution-local-soviets-petrograd-alexander-rabinowich"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/factcom1%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0f1ca75cf25219e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,13 +16,13 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/factcom1%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0f1ca75cf25219e.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/EvolutionLocalSovietsRabinowich.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/16663f29_EvolutionLocalSovietsRabinowich.pdf"
+    hosted: true
 ---
 # The Evolution of Local Soviets in Petrograd - Alexander Rabinowich
 

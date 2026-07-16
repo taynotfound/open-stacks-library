@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/east-end-eye"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/East.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d588dd72919fd4ea.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Glasgow Games Monitor 2014"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/East.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d588dd72919fd4ea.png"
 links:
   - url: "https://gamesmonitor2014.org/ "
     text: "Glasgow Games Monitor 2014"

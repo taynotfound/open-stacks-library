@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/age-series-eric-hobsbawm"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Hobsbawm_nombrado_ciudadano_honor_Viena%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6814f99de944bf0d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Eric J. Hobsbawm"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Hobsbawm_nombrado_ciudadano_honor_Viena%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6814f99de944bf0d.jpg"
 links: []
 files: []
 ---

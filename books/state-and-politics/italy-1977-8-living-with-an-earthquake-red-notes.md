@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/italy-1977-8-living-earthquake-red-notes"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bologna-13-marzo-1977-08.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/42bff6da51d941a3.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Italy 60s-70s"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/bologna-13-marzo-1977-08.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/42bff6da51d941a3.jpg"
 links: []
 files: []
 ---

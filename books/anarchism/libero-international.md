@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libero-international"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/libero.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/272fbc0fcba65209.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "South Korea"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/libero.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/272fbc0fcba65209.jpg"
 links:
   - url: "https://www.cira.ch/home "
     text: "Centre International de Recherches sur l'Anarchisme - CIRA"

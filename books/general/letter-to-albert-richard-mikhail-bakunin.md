@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/letter-albert-richard-mikhail-bakunin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/3701976-lg.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/305f257ef5d5c747.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Mikhail Bakunin"
   - "letters"
 images:
-  - "https://files.libcom.org/files/images/library/3701976-lg.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/305f257ef5d5c747.jpg"
 links: []
 files: []
 ---

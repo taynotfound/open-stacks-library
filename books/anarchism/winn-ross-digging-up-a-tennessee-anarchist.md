@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/ross-winn-digging-tennessee-ananchist"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/444px-Ross_Winn_restored.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6878d26ca0e66f94.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Nutmeg Brown"
   - "Ally Greenhead"
 images:
-  - "https://files.libcom.org/files/images/history/444px-Ross_Winn_restored.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6878d26ca0e66f94.jpg"
 links: []
 files: []
 ---

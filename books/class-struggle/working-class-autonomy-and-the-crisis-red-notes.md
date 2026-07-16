@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/working-class-autonomy-and-crisis-red-notes"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/02-wcaatc-front.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aba1e03fc9c93527.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Italy 60s-70s"
   - "operaismo"
 images:
-  - "https://files.libcom.org/files/images/library/02-wcaatc-front.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aba1e03fc9c93527.png"
 links: []
 files: []
 ---

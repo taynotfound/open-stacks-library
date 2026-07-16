@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/jean-paul-marat-historico-biographical-sketch-ernest-belfort-bax"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/jean_paul_marat.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cee1e74227cf7534.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "French Revolution"
   - "Ernest Belfort Bax"
 images:
-  - "https://files.libcom.org/files/images/library/jean_paul_marat.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cee1e74227cf7534.jpg"
 links: []
 files: []
 ---

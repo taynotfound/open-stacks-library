@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/anti-duhring-engels"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Marx_2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b9a693332e354ccd.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Marxism"
   - "Friedrich Engels"
 images:
-  - "https://files.libcom.org/files/images/library/Marx_2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b9a693332e354ccd.jpg"
 links: []
 files: []
 ---

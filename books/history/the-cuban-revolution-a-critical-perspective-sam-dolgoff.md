@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/cuban-revolution-critical-perspective-sam-dolgoff"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Castro.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/80c8b58aacb46b85.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "mobi"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/Castro.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/80c8b58aacb46b85.jpg"
 links: []
 files:
   - name: "Dolgoff, Sam - The Cuban revolution, A critical perspective.pdf"

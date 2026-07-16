@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/education-worker-bulletin-education-workers-network"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/educationworkerlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97bd8ae7d1d66751.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Solidarity Federation"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2022-08/educationworkerlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97bd8ae7d1d66751.png"
 links:
   - url: "https://organiseireland.blogspot.com/"
     text: "organiseireland.blogspot.com"

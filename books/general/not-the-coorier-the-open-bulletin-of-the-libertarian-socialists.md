@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/not-coorier-open-bulletin-libertarian-socialists"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-08/coorier-masthead.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3eb3acf26ab1b1f3.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Tayside Libertarian Socialist Group"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2024-08/coorier-masthead.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3eb3acf26ab1b1f3.png"
 links: []
 files: []
 ---

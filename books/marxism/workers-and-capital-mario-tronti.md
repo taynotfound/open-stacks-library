@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/workers-and-capital-mario-tronti"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/TrontiOperaiCapitale72.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/49f5bff0f506474f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "autonomist Marxism"
   - "operaismo"
 images:
-  - "https://files.libcom.org/files/images/library/TrontiOperaiCapitale72.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/49f5bff0f506474f.jpg"
 links: []
 files: []
 ---

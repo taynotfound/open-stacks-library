@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/mcsues-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/McDonalds.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/534c7f9200eea1a0.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "McDonalds Workers Resistance"
   - "McDonalds"
 images:
-  - "https://files.libcom.org/files/images/library/McDonalds.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/534c7f9200eea1a0.jpg"
 links: []
 files: []
 ---

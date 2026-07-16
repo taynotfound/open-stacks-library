@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/iww-1932-george-pearce"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/36_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6270ab5de2e1a412.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "1930s"
   - "George Pearce"
 images:
-  - "https://files.libcom.org/files/images/history/36_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6270ab5de2e1a412.jpg"
 links: []
 files: []
 ---

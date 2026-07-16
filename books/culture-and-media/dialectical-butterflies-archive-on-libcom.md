@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/dialectical-butterflies-archive-libcom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-12/dialeticalbutterflies.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f31c8dd3cd1780f1.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,8 +14,8 @@ tags:
   - "David Wise"
   - "websites"
 images:
-  - "https://files.libcom.org/files/2024-12/dialeticalbutterflies.png"
-  - "https://files.libcom.org/files/2024-12/db-footer.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f31c8dd3cd1780f1.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/05047b55cc0bd2ff.png"
 links:
   - url: "https://web.archive.org/web/20191026193007/http://www.dialecticalbutterflies.com:80/ "
     text: "https://web.archive.org/web/20191026193007/http://www.dialecticalbutterflies.com:80/"

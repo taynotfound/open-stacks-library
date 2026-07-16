@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/counter-planning-kitchen-nicole-cox-and-silvia-federici"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-12/Screenshot%202022-12-11%20at%2010.40.27.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e350093914026004.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Falling Wall Press"
   - "wages for housework"
 images:
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-11%20at%2010.40.27.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e350093914026004.png"
 links:
   - url: "https://caringlabor.wordpress.com/2010/10/20/nicole-cox-and-silvia-federici-counter-planning-from-the-kitchen/ "
     text: "Caring Labour - an Archive"

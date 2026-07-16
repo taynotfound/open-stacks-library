@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/fascists-and-police-routed-battle-cable-street-reg-weston"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Cable-St-Cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/63851017319e25c4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "United Kingdom"
   - "Tower Hamlets"
 images:
-  - "https://files.libcom.org/files/images/history/Cable-St-Cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/63851017319e25c4.jpg"
 links:
   - url: "http://www.red-star-research.org.uk/rpm/rpm.html"
     text: "Revolutions Per Minute"

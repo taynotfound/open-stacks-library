@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/unconditional-defense-december-1st-vandals"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sobre%20este%20documento.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2afae05e0f37e487.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Spain"
   - "Unos Caníbales"
 images:
-  - "https://files.libcom.org/files/images/library/sobre%20este%20documento.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2afae05e0f37e487.jpg"
 links:
   - url: "https://pepitas.net/ "
     text: "Pepitas de Calabaza"

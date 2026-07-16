@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/muntjac-anarchism-decolonised-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-05/muntjac-header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9d200114b4058479.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Muntjac Magazine"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-05/muntjac-header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9d200114b4058479.png"
 links: []
 files: []
 ---

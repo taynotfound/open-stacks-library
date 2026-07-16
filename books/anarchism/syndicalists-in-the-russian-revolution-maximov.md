@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/syndicalists-russian-revolution-maximov"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/maximoff%5B1%5D.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aaaf0acdcf4ac33e.gif"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/maximoff%5B1%5D.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aaaf0acdcf4ac33e.gif"
 links:
   - url: "http://dwardmac.pitzer.edu/anarchist_archives"
     text: "http://dwardmac.pitzer.edu/anarchist_archives"

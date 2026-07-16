@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/blast-newspaper-1990s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-12/Blastlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3b83224664b855a4.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Joel Olson"
   - "Minneapolis"
 images:
-  - "https://files.libcom.org/files/2022-12/Blastlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3b83224664b855a4.png"
 links: []
 files: []
 ---

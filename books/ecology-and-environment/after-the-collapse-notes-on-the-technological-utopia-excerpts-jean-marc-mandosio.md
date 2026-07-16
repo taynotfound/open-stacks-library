@@ -5,7 +5,7 @@ date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/after-collapse-notes-technological-utopia-excerpts-jean-marc-mandosio"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/16_The_Tower.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/599f75ad554db73c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "technology"
   - "Jean-Marc Mandosio"
 images:
-  - "https://files.libcom.org/files/images/library/16_The_Tower.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/599f75ad554db73c.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/portugal-impossible-revolution-phil-mailer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/portugal.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aa5604f65ccbc60c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Phil Mailer/Meyler"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/portugal.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/aa5604f65ccbc60c.jpg"
 links:
   - url: "https://www.amazon.co.uk/exec/obidos/redirect?link_code=ur2&tag=libcom-21&camp=1634&creative=6738&path=ASIN%2F0900688246%2Fqid%3D1136548636%2Fsr%3D1-2%2Fref%3Dsr_1_0_2"
     text: "Buy Portugal: The Impossible Revolution? now"

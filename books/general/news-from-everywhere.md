@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/news-everywhere"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/everywhere1.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8826bf9f7a00abd3.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "News from Everywhere"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/everywhere1.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8826bf9f7a00abd3.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "economics"
 source: "https://libcom.org/article/communization-and-its-discontents-contestation-critique-and-contemporary-struggles"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/communization.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/886acc77474c2b5d.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Benjamin Noys"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/communization.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/886acc77474c2b5d.png"
 links: []
 files: []
 ---

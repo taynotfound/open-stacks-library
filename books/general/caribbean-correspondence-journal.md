@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/caribbean-correspondence-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-11/caribbeancorrespondence.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/776f67e53911380f.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Caribbean Correspondence"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-11/caribbeancorrespondence.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/776f67e53911380f.png"
 links: []
 files: []
 ---

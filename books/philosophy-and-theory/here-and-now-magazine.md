@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/here-and-now-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/here-now-14.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7796059e7d62cc1e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/here-now-14.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7796059e7d62cc1e.jpg"
 links:
   - url: "https://spiritofrevolt.info/here-and-now/ "
     text: "Spirit of Revolt"

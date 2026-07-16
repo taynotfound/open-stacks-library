@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wob-bulletin-canada"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Wob%20bulletin%20front.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1e7e1f06a85c9a6.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Canada"
   - "Organizing Work"
 images:
-  - "https://files.libcom.org/files/images/library/Wob%20bulletin%20front.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1e7e1f06a85c9a6.png"
 links:
   - url: "https://organizing.work/2018/12/wob-bulletin-1/ "
     text: "Originally hosted at Organizing Work"

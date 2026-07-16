@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/library/revolution-counter-revolution-germany"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Rohrbach-verbrennung-1525.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/724c006fa5fc1b2f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "epub"
   - "German revolution 1848"
 images:
-  - "https://files.libcom.org/files/images/history/Rohrbach-verbrennung-1525.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/724c006fa5fc1b2f.jpg"
 links: []
 files: []
 ---

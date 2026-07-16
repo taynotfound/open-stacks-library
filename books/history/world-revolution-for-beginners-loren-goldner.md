@@ -5,14 +5,14 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/world-revolution-beginners-loren-goldner"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2026-02/long-live-the-world-revolution.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4c85998b9662d626.png"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Loren Goldner"
 images:
-  - "https://files.libcom.org/files/2026-02/long-live-the-world-revolution.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4c85998b9662d626.png"
 links:
   - url: "https://breaktheirhaughtypower.org/on-the-extreme-margins-of-the-centennial-of-the-october-revolution/ "
     text: "my short article on the centennial"

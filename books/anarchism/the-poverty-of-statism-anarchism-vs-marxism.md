@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/poverty-statism-anarchism-vs-marxism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/51b3W6EYR5L._SY344_BO1%2C204%2C203%2C200_.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/766723ae809fb1f7.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Nikolai Bukharin"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/51b3W6EYR5L._SY344_BO1%2C204%2C203%2C200_.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/766723ae809fb1f7.jpg"
 links: []
 files: []
 ---

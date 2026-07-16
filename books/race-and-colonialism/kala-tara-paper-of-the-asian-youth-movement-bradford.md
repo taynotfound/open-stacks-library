@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/kala-tara-paper-asian-youth-movement-bradford"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/kala-tara_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/091800d4b1f92c1b.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Bradford"
   - "black liberation in Britain"
 images:
-  - "https://files.libcom.org/files/images/library/kala-tara_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/091800d4b1f92c1b.png"
 links: []
 files: []
 ---

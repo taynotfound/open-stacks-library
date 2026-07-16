@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/news-libertarian-spain"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-06/261344.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0bd76e25846d4817.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "anarchism"
   - "anarcho-syndicalism"
 images:
-  - "https://files.libcom.org/files/2025-06/261344.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0bd76e25846d4817.jpg"
 links: []
 files: []
 ---

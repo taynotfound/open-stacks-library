@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/class-war-programmatical-positions"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/pepe.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a21976a4f8d9e122.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Tridni Valka"
   - "communism"
 images:
-  - "https://files.libcom.org/files/images/library/pepe.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a21976a4f8d9e122.jpg"
 links:
   - url: "https://www.autistici.org/tridnivalka/programmatical-positions/ "
     text: "http://www.autistici.org/tridnivalka/programmatical-positions/"

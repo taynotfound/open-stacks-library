@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/vanguard-libertarian-communist-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/vanguard-cover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b7ae4c88ad40eb2.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "PDF"
   - "New York"
 images:
-  - "https://files.libcom.org/files/2022-04/vanguard-cover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2b7ae4c88ad40eb2.png"
 links: []
 files: []
 ---

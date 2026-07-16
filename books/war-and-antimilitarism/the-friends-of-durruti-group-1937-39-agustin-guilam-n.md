@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/friends-durruti-group-1937-39-agustin-guilamon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Junio_37_1%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7576bdca4776d1b9.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Agustín Guillamón"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Junio_37_1%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7576bdca4776d1b9.jpg"
 links: []
 files: []
 ---

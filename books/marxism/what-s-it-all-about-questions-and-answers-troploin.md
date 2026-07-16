@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/whats-it-all-about-questions-answers-troploin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/church.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77ae7a6db195584b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Karl Nesic"
   - "communisation"
 images:
-  - "https://files.libcom.org/files/images/library/church.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77ae7a6db195584b.jpg"
 links:
   - url: "https://web.archive.org/web/20071226105636rn_1/www.geocities.com/revolutiontimes/ "
     text: "Revolution Times"

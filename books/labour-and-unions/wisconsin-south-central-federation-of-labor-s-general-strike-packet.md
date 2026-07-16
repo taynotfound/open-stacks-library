@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/wisconsin-south-central-federation-labors-general-strike-packet"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/wisconsin-general-strike.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/31c2b9dad4581668.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Wisconsin protests"
   - "SCFL"
 images:
-  - "https://files.libcom.org/files/images/library/wisconsin-general-strike.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/31c2b9dad4581668.jpg"
 links:
   - url: "https://www.scfl.org/?page=generalstrike "
     text: "scfl.org"

@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/12-rules-what-podcast"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/12%20rules%20finished_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d4ae7d60a5253b18.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "audio"
   - "12 Rules For What"
 images:
-  - "https://files.libcom.org/files/images/library/12%20rules%20finished_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d4ae7d60a5253b18.jpg"
 links:
   - url: "https://soundcloud.com/12rulesforwhat"
     text: "12 Rules For WHAT"

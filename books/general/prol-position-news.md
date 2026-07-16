@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/prol-position-news"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-11/pp-news-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a3cc7f1bd73ed00.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "PDF"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2022-11/pp-news-logo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a3cc7f1bd73ed00.png"
 links: []
 files: []
 ---

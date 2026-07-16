@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/holy-family-or-critique-critical-criticism-karl-marx-and-frederick-engels"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/7705080.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77443a85a811881f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Szeliga"
   - "Bruno Bauer"
 images:
-  - "https://files.libcom.org/files/images/library/7705080.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77443a85a811881f.jpg"
 links: []
 files:
   - name: "The Holy Family - Karl Marx & Friedrich Engels.epub"

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/hamilton-tenant"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Hamilton%20Tenant%20letterhead.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1bf5174115c4bdaa.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Hamilton"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Hamilton%20Tenant%20letterhead.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1bf5174115c4bdaa.jpg"
 links: []
 files: []
 ---

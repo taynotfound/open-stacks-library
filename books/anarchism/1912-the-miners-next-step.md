@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1912-miners-next-step"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/2005a_sleekburn%20sinkers%201912.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/565bf86169fe1652.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "United Kingdom"
   - "Wales"
 images:
-  - "https://files.libcom.org/files/images/history/2005a_sleekburn%20sinkers%201912.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/565bf86169fe1652.jpg"
 links: []
 files: []
 ---

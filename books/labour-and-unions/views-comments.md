@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/views-comments"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-01/Untitled.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcb12783f7bb6287.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "United States"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2023-01/Untitled.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bcb12783f7bb6287.png"
 links:
   - url: "https://philly-wsa.org/ "
     text: "Metro Philadelphia Chapter"

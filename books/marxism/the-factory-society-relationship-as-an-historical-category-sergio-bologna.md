@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/factory-society-relationship-historical-category-sergio-bologna"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/r_lavoro_anni_60_fabbrica_Ankerfarm_cinisello.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/971fbe88d81506a9.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "autonomist Marxism"
   - "operaismo"
 images:
-  - "https://files.libcom.org/files/images/library/r_lavoro_anni_60_fabbrica_Ankerfarm_cinisello.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/971fbe88d81506a9.jpg"
 links: []
 files: []
 ---

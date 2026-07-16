@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/1980s-1990s-myths-toyota-system"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Toyota.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/617542ec5d66a94d.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "work life"
   - "Nomura Masami"
 images:
-  - "https://files.libcom.org/files/images/history/Toyota.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/617542ec5d66a94d.jpg"
 links: []
 files: []
 ---

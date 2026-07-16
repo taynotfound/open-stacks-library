@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/dont-mark-his-face-hull-prison-riot-1976"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-01/Screenshot%202024-01-07%20at%2022.52.43.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/59b23a8160625482.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "National Prisoners' Movement"
   - "Hull prison riot 1976"
 images:
-  - "https://files.libcom.org/files/2024-01/Screenshot%202024-01-07%20at%2022.52.43.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/59b23a8160625482.png"
 links: []
 files: []
 ---

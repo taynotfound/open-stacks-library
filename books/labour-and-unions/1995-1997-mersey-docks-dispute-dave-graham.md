@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1995-1997-mersey-docks-dispute-dave-graham"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/mk5%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/62d3c0d6e5fad03d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "Liverpool"
   - "United Kingdom"
 images:
-  - "https://files.libcom.org/files/mk5%5B1%5D.jpg"
-  - "https://files.libcom.org/files/picket.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/62d3c0d6e5fad03d.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1a1792d844f00c4d.gif"
 links: []
 files: []
 ---

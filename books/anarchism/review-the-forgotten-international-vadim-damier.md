@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/review-forgotten-international-vadim-damier"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Damie.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cb232334c6ac7b1e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "International Workers' Association (IWA)"
   - "Vadim Damier"
 images:
-  - "https://files.libcom.org/files/images/library/Damie.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cb232334c6ac7b1e.jpg"
 links:
   - url: "https://www.centrostudilibertari.it/bollettini "
     text: "centrostudilibertari.it/bollettini"

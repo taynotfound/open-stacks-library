@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/burning-river-revolutionary-anarchist-collective-documents"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/burningriveranarchist.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e4f1b6cc532e13f.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Burning River Revolutionary Anarchist Collective"
   - "Cleveland"
 images:
-  - "https://files.libcom.org/files/images/library/burningriveranarchist.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2e4f1b6cc532e13f.png"
 links: []
 files: []
 ---

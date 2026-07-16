@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/beyond-kronstadt-bolsheviks-power-mk"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/factcom1%5B1%5D_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0f1ca75cf25219e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Bolsheviks"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/factcom1%5B1%5D_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0f1ca75cf25219e.jpg"
 links: []
 files: []
 ---

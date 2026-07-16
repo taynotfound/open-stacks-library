@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/urbanisation-and-deurbanisation-russian-revolution-and-civil-war-diane-koenker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/red-Army.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,13 +14,13 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/red-Army.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/DeurbanisKoenker.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/8afdacbf_DeurbanisKoenker.pdf"
+    hosted: true
 ---
 # Urbanisation and Deurbanisation in the Russian Revolution and Civil War - Diane Koenker
 

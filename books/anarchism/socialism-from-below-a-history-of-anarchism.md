@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/socialism-below-history-anarchism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Socialism%20From%20below%20cover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f756c309f5c20f43.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "propaganda by deed"
   - "anarcho-syndicalism"
 images:
-  - "https://files.libcom.org/files/images/library/Socialism%20From%20below%20cover.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f756c309f5c20f43.png"
 links: []
 files:
   - name: "socialism_from_below_a_history_of_anarchism_woodcock.pdf"

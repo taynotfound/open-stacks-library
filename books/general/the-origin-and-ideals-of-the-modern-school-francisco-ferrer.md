@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/origin-and-ideals-modern-school-francisco-ferrer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/modern_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/62286fc7970a385f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "free schools"
   - "Francisco Ferrer"
 images:
-  - "https://files.libcom.org/files/images/library/modern_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/62286fc7970a385f.jpg"
 links: []
 files: []
 ---

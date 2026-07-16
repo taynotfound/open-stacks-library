@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/year-one-revolution-victor-serge"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/YearOne1stEd450.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a37384cc46e593a.jpg"
 page_type: stub
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/YearOne1stEd450.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a37384cc46e593a.jpg"
 links:
   - url: "https://www.marxists.org/archive/serge/1930/year-one/index.htm "
     text: "http://www.marxists.org/archive/serge/1930/year-one/index.htm"

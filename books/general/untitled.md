@@ -5,13 +5,13 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/tywry-bhran-marks-pl-matyk"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/mattick-paul_1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/84bffa5b332563b2.jpg"
 page_type: stub
 mirror_state: full
 description: ""
 tags: []
 images:
-  - "https://files.libcom.org/files/images/library/mattick-paul_1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/84bffa5b332563b2.jpg"
 links: []
 files: []
 ---

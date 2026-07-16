@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/paris-may-1968-maurice-brintons-diary"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-05/258005.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e0a671251d4b675c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "PDF"
   - "Dark Star"
 images:
-  - "https://files.libcom.org/files/2022-05/258005.jpg"
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-29%20at%2016.41.42.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e0a671251d4b675c.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e897e4e89ef0b7ae.png"
 links: []
 files:
   - name: "Maurice Brinton- Paris; May 68.pdf"

@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/invergordon-mutineer-len-wincott"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Wincott%20covers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/99de7c4d49b54616.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Len Wincott"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Wincott%20covers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/99de7c4d49b54616.jpg"
 links: []
 files: []
 ---

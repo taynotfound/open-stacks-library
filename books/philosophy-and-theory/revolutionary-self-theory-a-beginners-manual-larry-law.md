@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/revolutionary-self-theory-beginners-manual-larry-law"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/revolution01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8cd8480d04a48d80.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Larry Law"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/revolution01.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8cd8480d04a48d80.jpg"
 links: []
 files: []
 ---

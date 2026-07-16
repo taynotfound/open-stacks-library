@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/primitivism-anarcho-primitivism-and-anti-civilisationism-criticism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/Green-and-Black-flag.svg.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2d8e3d13a5c95029.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,10 +17,10 @@ tags:
   - "primitivism"
   - "anarchism"
 images:
-  - "https://files.libcom.org/files/Green-and-Black-flag.svg.png"
-  - "https://files.libcom.org/files/john-zerzan.jpg"
-  - "https://files.libcom.org/files/were-doomed.jpg"
-  - "https://files.libcom.org/files/oklahoma-bombing.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2d8e3d13a5c95029.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/71dad4c7c887419d.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/201026f0b389df50.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b61c87e6559aee30.jpg"
 links: []
 files: []
 ---

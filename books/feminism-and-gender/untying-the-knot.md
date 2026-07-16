@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/library/untying-the-knot"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarcho-feminism_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/439fe8c80055ad3e.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "debates"
   - "Cathy Devine"
 images:
-  - "https://files.libcom.org/files/images/library/anarcho-feminism_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/439fe8c80055ad3e.png"
 links: []
 files: []
 ---

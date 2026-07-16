@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/russian-tragedy-alex-berkman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/300px-Attacking_kronstadt%5B1%5D.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ad400dd664c5bf8a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "USSR"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/300px-Attacking_kronstadt%5B1%5D.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ad400dd664c5bf8a.jpg"
 links: []
 files: []
 ---

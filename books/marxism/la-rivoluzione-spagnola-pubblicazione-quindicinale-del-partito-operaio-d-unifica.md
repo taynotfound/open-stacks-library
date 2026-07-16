@@ -5,14 +5,14 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/la-rivoluzione-spagnola-pubblicazione-quindicinale-del-partito-operaio-dunificazione-mar"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sewing.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1eb8330be04d112c.gif"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Italiano"
 images:
-  - "https://files.libcom.org/files/images/library/sewing.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1eb8330be04d112c.gif"
 links: []
 files: []
 ---

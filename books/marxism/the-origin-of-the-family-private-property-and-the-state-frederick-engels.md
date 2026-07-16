@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/origin-family-private-property-and-state-frederick-engels"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/7705080.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77443a85a811881f.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/7705080.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77443a85a811881f.jpg"
 links: []
 files:
   - name: "Origins of the Family, Private Property, and the State - Friedrich Engels.epub"

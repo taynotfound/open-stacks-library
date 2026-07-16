@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/peoples-history-united-states-howard-zinn-0"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/history.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/82c754a5a017b249.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "mobi"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/history.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/82c754a5a017b249.jpg"
 links:
   - url: "https://historyisaweapon.com "
     text: "History Is A Weapon"

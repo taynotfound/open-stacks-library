@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/communist-party-provisional-programme-pankhurst"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/001_group%5B1%5D.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf84b8d22be0b81f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "United Kingdom"
   - "Communist Party of Great Britain (CPGB)"
 images:
-  - "https://files.libcom.org/files/images/history/001_group%5B1%5D.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf84b8d22be0b81f.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/building-japans-corporate-society-totsuka-hideo"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-09/FE5F5E82-C03F-4369-B429-597184213029.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/22c2d14bc420816c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,13 +15,13 @@ tags:
   - "Japan"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-09/FE5F5E82-C03F-4369-B429-597184213029.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/22c2d14bc420816c.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://libcom.org/files/MythesoftheManagedSociety.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/42692a62_MythesoftheManagedSociety.pdf"
+    hosted: true
 ---
 # Building Japan's Corporate Society - Totsuka Hideo
 

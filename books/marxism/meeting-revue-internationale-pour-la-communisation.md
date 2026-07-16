@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/meeting-revue-internationale-pour-la-communisation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/meeting_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9055fb3ebf1d0e80.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Roland Simon"
   - "Bernard Lyon"
 images:
-  - "https://files.libcom.org/files/images/library/meeting_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9055fb3ebf1d0e80.png"
 links:
   - url: "http://meeting.senonevero.net"
     text: "http://meeting.senonevero.net"

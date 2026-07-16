@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/rebellion-truck-drivers-crossroads-iniciativa-revolucao-universal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/brazil-truckers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/35e5cc8f91c956b6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "truckers"
   - "Iniciativa Revolução Universal"
 images:
-  - "https://files.libcom.org/files/images/news/brazil-truckers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/35e5cc8f91c956b6.jpg"
 links: []
 files: []
 ---

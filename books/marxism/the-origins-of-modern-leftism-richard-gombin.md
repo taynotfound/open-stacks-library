@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/origins-modern-leftism-richard-gombin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-11/gombin-left.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/21077422fc32b0ac.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Richard Gombin"
   - "libertarian communism"
 images:
-  - "https://files.libcom.org/files/2022-11/gombin-left.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/21077422fc32b0ac.jpg"
 links: []
 files: []
 ---

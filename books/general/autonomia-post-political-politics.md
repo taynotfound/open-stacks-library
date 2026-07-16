@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/autonomia-post-political-politics"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/autonomia-post-political-politics_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0db912099ba63813.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "autonomism"
   - "Gilles Deleuze"
 images:
-  - "https://files.libcom.org/files/images/library/autonomia-post-political-politics_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0db912099ba63813.jpg"
 links: []
 files: []
 ---

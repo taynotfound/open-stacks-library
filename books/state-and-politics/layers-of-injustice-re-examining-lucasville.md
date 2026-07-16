@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/layers-injustice-re-examining-lucasville"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Lucasville%20release.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7cbdc1d00cc81c6d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Staughton Lynd"
   - "Lucasville"
 images:
-  - "https://files.libcom.org/files/images/history/Lucasville%20release.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7cbdc1d00cc81c6d.jpg"
 links:
   - url: "https://www.lucasvilleamnesty.org/search/label/Re-Examining%20Essays "
     text: "A series of essays by Staughton Lynd examining the 1993 events at Lucasville"

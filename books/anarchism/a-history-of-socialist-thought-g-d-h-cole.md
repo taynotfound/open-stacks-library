@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/history-socialist-thought-gdh-cole"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/%24_57.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2df3d38e85179c3f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "G.D.H. Cole"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/%24_57.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2df3d38e85179c3f.jpg"
 links: []
 files: []
 ---

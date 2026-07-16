@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/manifesto-libertarian-communism-georges-fontenis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Georges_Fontenis_2.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ab11a603464cb41b.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "platformism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Georges_Fontenis_2.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ab11a603464cb41b.png"
 links: []
 files: []
 ---

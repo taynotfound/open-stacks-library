@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/transgressions-journal-urban-exploration"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-03/photo-8.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/be776a261c1f050c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Alastair Bonnett"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-03/photo-8.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/be776a261c1f050c.jpg"
 links:
   - url: "https://www.unpopular.org.uk/transgressions/tg001.html "
     text: "here"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/zerowork-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-12/zeroworkcovers-x2.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/979d0f3497835757.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "autonomist Marxism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2024-12/zeroworkcovers-x2.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/979d0f3497835757.png"
 links: []
 files: []
 ---

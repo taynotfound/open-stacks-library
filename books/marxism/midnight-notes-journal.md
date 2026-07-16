@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/midnight-notes-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/midnight-notes-cover-cropped.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6c79548cc2708956.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,11 +14,11 @@ tags:
   - "autonomist Marxism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2022-04/midnight-notes-cover-cropped.png"
-  - "https://files.libcom.org/files/2025-05/summer1979.png"
-  - "https://files.libcom.org/files/2025-05/spectrum.png"
-  - "https://files.libcom.org/files/2025-05/politron.png"
-  - "https://files.libcom.org/files/2025-05/gasprices.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6c79548cc2708956.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6aa548c3bf1562fd.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e12d74fcbd56396e.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7fe213647b691393.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ebbc32ad8a492134.png"
 links:
   - url: "https://www.midnightnotes.org/mnpublic.html "
     text: "Midnight Notes Collective"

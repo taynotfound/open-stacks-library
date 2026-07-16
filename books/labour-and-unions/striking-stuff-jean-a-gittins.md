@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/striking-stuff-jean-gittins"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/striking%20stuff.gif"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a8a83289e9f3ab92.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Women Against Pit Closures"
   - "1 in 12 Publications"
 images:
-  - "https://files.libcom.org/files/images/history/striking%20stuff.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a8a83289e9f3ab92.gif"
 links:
   - url: "https://www.1in12.com/publications/library/strikingstuff/strikingstuff.html "
     text: "Taken from the 1 in 12 Publications archive."

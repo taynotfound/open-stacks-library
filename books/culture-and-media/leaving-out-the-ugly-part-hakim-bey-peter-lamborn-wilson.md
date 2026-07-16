@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/leaving-out-ugly-part-hakim-beypeter-lamborn-wilson"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bey_small%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/978b4ea89847edab.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Robert Elms"
   - "Beywatch"
 images:
-  - "https://files.libcom.org/files/images/library/bey_small%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/978b4ea89847edab.jpg"
 links:
   - url: "http://void.nothingness.org/archives/RA/display/2815"
     text: "The Research on Anarchism List (RA-L)"

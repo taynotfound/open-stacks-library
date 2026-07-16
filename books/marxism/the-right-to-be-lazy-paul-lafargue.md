@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/right-be-lazy-paul-lafargue"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/the_right_to_be_lazy.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/356a3e78c5e21176.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "work"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/the_right_to_be_lazy.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/356a3e78c5e21176.jpg"
 links: []
 files: []
 ---

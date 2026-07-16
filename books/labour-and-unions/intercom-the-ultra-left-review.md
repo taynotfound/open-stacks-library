@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/intercom-ultra-left-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Intercomcover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/10a4facf2c2b2030.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Intercomcover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/10a4facf2c2b2030.jpg"
 links: []
 files: []
 ---

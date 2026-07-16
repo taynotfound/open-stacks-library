@@ -5,7 +5,7 @@ date: ""
 category: "ecology-and-environment"
 source: "https://libcom.org/article/make-rojava-green-again"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1_4.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/444dfee38a3e701a.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Kurdistan"
   - "Debbie Bookchin"
 images:
-  - "https://files.libcom.org/files/images/library/1_4.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/444dfee38a3e701a.png"
 links:
   - url: "https://makerojavagreenagain.org "
     text: "makerojavagreenagain.org"

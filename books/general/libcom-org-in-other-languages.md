@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/libcomorg-other-languages"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/language-map.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/346af641e4aaef8a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Français"
   - "हिन्दी"
 images:
-  - "https://files.libcom.org/files/images/library/language-map.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/346af641e4aaef8a.jpg"
 links: []
 files: []
 ---

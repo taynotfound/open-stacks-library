@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/war-waterfront-tom-bramble"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/waterfront.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4b1212c79c1ffb15.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "job losses"
   - "Tom Bramble"
 images:
-  - "https://files.libcom.org/files/images/library/waterfront.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4b1212c79c1ffb15.jpg"
 links:
   - url: "https://www.takver.com/wharfie/index.htm "
     text: "Takver's Soapbox"

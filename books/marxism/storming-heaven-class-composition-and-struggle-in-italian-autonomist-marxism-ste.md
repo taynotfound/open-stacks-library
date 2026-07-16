@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/storming-heaven-class-composition-and-struggle-italian-autonomist-marxism-steve-wright"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-08/stormingheavenbetter.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c147cc327992fc61.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "mobi"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-08/stormingheavenbetter.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c147cc327992fc61.jpg"
 links: []
 files:
   - name: "Steve Wright - Storming Heaven - Class Composition and Struggle in Italian Autonomist Marxism (2002).pdf"

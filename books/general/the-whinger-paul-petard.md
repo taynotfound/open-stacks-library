@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/whinger-paul-petard"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/IMG%20Whinger%20pic.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5e5c4180da298bd3.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "The Whinger"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/IMG%20Whinger%20pic.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5e5c4180da298bd3.jpg"
 links: []
 files: []
 ---

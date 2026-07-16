@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/conquest-bread-peter-kropotkin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/sp001662%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b13b66fb7163a848.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/images/library/sp001662%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b13b66fb7163a848.jpg"
 links: []
 files:
   - name: "Peter Kropotkin- The Conquest of Bread.pdf"

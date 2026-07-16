@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/library/oakland-teachers-strike-1996-iww"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/oaklandportpicket070519a.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ef8c4621a710bfd2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "California"
   - "Oakland"
 images:
-  - "https://files.libcom.org/files/oaklandportpicket070519a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ef8c4621a710bfd2.jpg"
 links:
   - url: "http://iww.org"
     text: "iww.org"

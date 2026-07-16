@@ -5,7 +5,7 @@ date: ""
 category: "organisation"
 source: "https://libcom.org/library/south-aftrican-automobile-assembly"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/southafrica.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/00c58cf226e834e8.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "South Africa"
   - "car industry"
 images:
-  - "https://files.libcom.org/files/images/news/southafrica.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/00c58cf226e834e8.jpg"
 links: []
 files: []
 ---

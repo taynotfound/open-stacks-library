@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/gci-icg-west-bank-gaza-jerusalem-response-proletarian-struggle-bourgeoisie-once-again"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-03/poster-ar-he.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ed5938f830d437f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Intifada"
   - "internationalism"
 images:
-  - "https://files.libcom.org/files/2024-03/poster-ar-he.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ed5938f830d437f.jpg"
 links:
   - url: "https://www.autistici.org/tridnivalka/gci-icg-we-are-neither-israeli-nor-palestinian-neither-jewish-nor-muslim-we-are-the-proletariat-2003/ "
     text: "https://www.autistici.org/tridnivalka/gci-icg-we-are-neither-israeli-nor-palestinian-neither-jewish-nor-muslim-we-are-th"

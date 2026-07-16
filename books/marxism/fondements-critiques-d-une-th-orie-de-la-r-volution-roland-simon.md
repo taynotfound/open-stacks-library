@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/fondements-critiques-dune-theorie-de-la-revolution-roland-simon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/rs1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1163de464bb2b9b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "communisation"
   - "Roland Simon"
 images:
-  - "https://files.libcom.org/files/images/library/rs1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1163de464bb2b9b.jpg"
 links: []
 files: []
 ---

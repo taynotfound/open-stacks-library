@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/jacques-camatte-and-new-politics-liberation-dave-antagonism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/CYBERPUNK1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf27c6bf830fce5a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Jacques Camatte"
   - "left communism"
 images:
-  - "https://files.libcom.org/files/images/library/CYBERPUNK1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf27c6bf830fce5a.jpg"
 links: []
 files: []
 ---

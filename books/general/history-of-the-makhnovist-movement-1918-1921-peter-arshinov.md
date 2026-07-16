@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/history-makhnovist-movement-1918-1921-peter-arshinov"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Makhno.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3c83da2a8baa8cda.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/images/history/Makhno.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3c83da2a8baa8cda.jpg"
 links: []
 files:
   - name: "History of the Makhnovist Movem - Arshinov, Peter.epub"

@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/hotlines-call-centre-inquiry-communism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/hotlines.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1dc1209a3fcdc59d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Kolinko"
   - "work life"
 images:
-  - "https://files.libcom.org/files/images/library/hotlines.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1dc1209a3fcdc59d.jpg"
 links: []
 files: []
 ---

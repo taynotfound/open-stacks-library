@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/library/early-spring-badger"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/Wisconsin.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b4d69e84864012db.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Wisconsin protests"
   - "Anonymous"
 images:
-  - "https://files.libcom.org/files/images/news/Wisconsin.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b4d69e84864012db.jpg"
 links: []
 files:
   - name: "WI-pamphlet-read.pdf"

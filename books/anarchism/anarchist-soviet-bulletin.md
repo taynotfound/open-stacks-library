@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchist-soviet-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Anarchist%20Soviet%20Bulletin%20v1.01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/056262e0421e8eed.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "Marcus Graham"
 images:
-  - "https://files.libcom.org/files/images/library/Anarchist%20Soviet%20Bulletin%20v1.01.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/056262e0421e8eed.jpg"
 links: []
 files: []
 ---

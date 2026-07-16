@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/about-turkish-armys-aggression-canton-afrin-rojava"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/Guernica.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0d9e169a9c7ca3a2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "YPG"
   - "Syria"
 images:
-  - "https://files.libcom.org/files/images/news/Guernica.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0d9e169a9c7ca3a2.jpg"
 links:
   - url: "https://ddt21.noblogs.org/?page_id=1906#comment-4276 "
     text: "https://ddt21.noblogs.org/?page_id=1906#comment-4276"

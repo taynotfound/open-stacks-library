@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/kurdistan-shoras-resistance-af"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/kurds1991%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4212a18193b6f653.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Gulf War"
   - "workers councils"
 images:
-  - "https://files.libcom.org/files/images/library/kurds1991%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4212a18193b6f653.jpg"
 links: []
 files: []
 ---

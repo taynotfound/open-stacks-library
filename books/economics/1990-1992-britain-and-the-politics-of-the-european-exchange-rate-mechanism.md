@@ -5,7 +5,7 @@ date: ""
 category: "economics"
 source: "https://libcom.org/article/1990-1992-britain-and-politics-european-exchange-rate-mechanism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/MajorLamont_203x150%5B2%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5b796de98330ab03.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "1990s"
   - "United Kingdom"
 images:
-  - "https://files.libcom.org/files/MajorLamont_203x150%5B2%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5b796de98330ab03.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/alliance-syndicaliste-kropotkin-malatesta-and-bakunin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SO.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/86b60b2dd89c8445.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "ASRAS"
   - "René Berthier"
 images:
-  - "https://files.libcom.org/files/images/library/SO.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/86b60b2dd89c8445.png"
 links: []
 files: []
 ---

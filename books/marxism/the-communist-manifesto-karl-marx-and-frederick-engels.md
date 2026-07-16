@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-manifesto-karl-marx-and-frederick-engels"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/387px-Communist-manifesto%5B1%5D.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/73d79a859702d9b3.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/387px-Communist-manifesto%5B1%5D.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/73d79a859702d9b3.png"
 links: []
 files:
   - name: "Karl Marx- Manifesto of the Communist Party.pdf"

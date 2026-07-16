@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/man-journal-anarchist-ideal-and-movement"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/man%21.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bb725eb83e993cc8.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "Man!"
 images:
-  - "https://files.libcom.org/files/images/library/man%21.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bb725eb83e993cc8.png"
 links:
   - url: "https://anarchiststudies.org/connecting-our-struggles-border-politics-antifascism-and-lessons-from-the-trials-of-ferrero-sallitto-and-graham/"
     text: "Journal of Anarchist Perspectives"

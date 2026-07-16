@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/library/paris-commune-1871-undercurrent-6"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/pariscommune.JPG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fdd20b9c5e2c6007.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "1870s"
   - "University of Sussex"
 images:
-  - "https://files.libcom.org/files/images/history/pariscommune.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fdd20b9c5e2c6007.jpg"
 links: []
 files: []
 ---

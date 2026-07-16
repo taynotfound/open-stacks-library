@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/ceylon-jvp-uprising-april-1971-solidarity"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/1971.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e762ce57ac32f0d1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Trotskyism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/1971.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e762ce57ac32f0d1.jpg"
 links: []
 files: []
 ---

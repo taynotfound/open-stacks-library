@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/emperors-legions-history-japans-right-wing"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,13 +14,13 @@ tags:
   - "Japan"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-09/52BF6E3A-39DF-4117-8888-5DC346843E28.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1370d7dac22426ea.jpg"
 links: []
 files:
   - name: "PDF format"
     type: "PDF"
-    url: "https://libcom.org/files/TheEmperor'sLegionsJapan'sRightWing.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a2d5c9e7_TheEmperor_sLegionsJapan_sRightWing.pdf"
+    hosted: true
 ---
 # The Emperor's Legions - A History of Japan's Right Wing
 

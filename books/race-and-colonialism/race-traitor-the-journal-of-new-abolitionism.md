@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/race-traitor-journal-new-abolitionism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202018-12-19%20at%2017.48.04_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64d71e9912cdf603.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Race Traitor"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screen%20Shot%202018-12-19%20at%2017.48.04_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/64d71e9912cdf603.png"
 links: []
 files: []
 ---

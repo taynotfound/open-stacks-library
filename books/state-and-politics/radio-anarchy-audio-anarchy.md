@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/radio-anarchy-audio-anarchy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarchy-box2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b7d42c86591a1e35.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "audio"
   - "Audio Anarchy"
 images:
-  - "https://files.libcom.org/files/images/library/anarchy-box2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b7d42c86591a1e35.jpg"
 links:
   - url: "https://www.mediafire.com/folder/t7zalsdzd0u84/Anarchy_Radio "
     text: "Mediafire Folder link"

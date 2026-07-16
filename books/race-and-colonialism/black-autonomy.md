@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/black-autonomy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-03/blackautonomy-logo.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c9eef204380be5d1.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "PDF"
   - "Seattle"
 images:
-  - "https://files.libcom.org/files/2024-03/blackautonomy-logo.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c9eef204380be5d1.jpg"
 links:
   - url: "https://web.archive.org/web/19990202205507/http://www.webcom.com/nattyreb/black.autonomy/ "
     text: "here"

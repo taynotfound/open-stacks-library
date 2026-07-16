@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/under-banner-marxism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1922-4.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23e314d4752373ce.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Marxism"
   - "USSR"
 images:
-  - "https://files.libcom.org/files/images/library/1922-4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23e314d4752373ce.jpg"
 links:
   - url: "https://magister.msk.ru/library/philos/shpngl05.htm "
     text: "text"

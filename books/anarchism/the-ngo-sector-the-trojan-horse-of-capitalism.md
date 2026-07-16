@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/ngo-sector-trojan-horse-capitalism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/LiberalsRiotNow_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e823d9410bed5618.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Crn Blok"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/LiberalsRiotNow_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e823d9410bed5618.jpg"
 links: []
 files: []
 ---

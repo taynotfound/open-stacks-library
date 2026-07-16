@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/civil-war-france-karl-marx"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Barricade_Voltaire_Lenoir_Commune_Paris_1871.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b15375f05511f9fe.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Paris Commune"
   - "1870s"
 images:
-  - "https://files.libcom.org/files/images/history/Barricade_Voltaire_Lenoir_Commune_Paris_1871.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b15375f05511f9fe.jpg"
 links: []
 files:
   - name: "civil-war-france.mobi"

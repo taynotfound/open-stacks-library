@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/interview-edelweiss-pirate-walter-mayer"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/0%2C%2C1390660_4%2C00%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9f25b879c4c5d7fd.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "WWII resistance"
   - "German Resistance"
 images:
-  - "https://files.libcom.org/files/0%2C%2C1390660_4%2C00%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9f25b879c4c5d7fd.jpg"
 links: []
 files: []
 ---

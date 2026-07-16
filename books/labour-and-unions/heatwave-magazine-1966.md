@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/heatwave-magazine-1966"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-04/heatwavecov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30099502411a7233.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "PDF"
   - "The Rebel Worker (IWW)"
 images:
-  - "https://files.libcom.org/files/2023-04/heatwavecov.png"
-  - "https://files.libcom.org/files/2023-04/heatwave-ad.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30099502411a7233.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a9f581aa9f94449f.png"
 links: []
 files: []
 ---

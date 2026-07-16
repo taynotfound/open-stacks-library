@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/line-libertarian-workers-groupworkers-solidarity-alliance"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/On-the-Line-Vol.-2%2C-No.-3-%28August-1979%29-001_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f322be127270ee37.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Libertarian Workers Group"
   - "Anarchist Communist Federation of North America"
 images:
-  - "https://files.libcom.org/files/images/library/On-the-Line-Vol.-2%2C-No.-3-%28August-1979%29-001_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f322be127270ee37.jpg"
 links: []
 files: []
 ---

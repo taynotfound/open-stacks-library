@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/solidarity-workers-power-aberdeen"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/A1875C53-8952-48DB-BEEB-A39043C57F15.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1a5bf54559949537.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "Aberdeen"
 images:
-  - "https://files.libcom.org/files/images/library/A1875C53-8952-48DB-BEEB-A39043C57F15.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1a5bf54559949537.jpg"
 links: []
 files: []
 ---

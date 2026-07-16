@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/international-council-correspondence-united-workers-party-america"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/international-council-correspondence_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9eb162c6c69f9576.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/international-council-correspondence_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9eb162c6c69f9576.jpg"
 links: []
 files: []
 ---

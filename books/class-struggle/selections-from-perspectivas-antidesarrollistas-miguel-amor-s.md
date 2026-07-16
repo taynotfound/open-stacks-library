@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/selections-perspectivas-antidesarrollistas-miguel-amoros"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/xxii-celina-su.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2f004f4692e5c78a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "urban planning"
   - "Miguel Amorós"
 images:
-  - "https://files.libcom.org/files/images/library/xxii-celina-su.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2f004f4692e5c78a.jpg"
 links: []
 files: []
 ---

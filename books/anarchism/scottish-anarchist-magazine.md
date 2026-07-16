@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/scottish-anarchist-magazine"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/scotanlogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/747f48569d529a20.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Scottish Federation of Anarchists"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/scotanlogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/747f48569d529a20.png"
 links: []
 files: []
 ---

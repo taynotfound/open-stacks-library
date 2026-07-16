@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/world-labour-news-1960s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/worldlab.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/129434640355fe92.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "1960s"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/worldlab.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/129434640355fe92.png"
 links: []
 files: []
 ---

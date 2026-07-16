@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/white-rose-documents"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/white-rose.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6184c40f03d423a5.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "German Resistance"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/history/white-rose.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6184c40f03d423a5.jpg"
 links: []
 files: []
 ---

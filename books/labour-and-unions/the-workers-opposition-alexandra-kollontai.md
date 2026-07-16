@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workers-opposition-alexandra-kollontai"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/books/koll.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8ac1ed9a4bc9466a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,9 +19,9 @@ tags:
   - "Russian Revolution 1917"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/books/koll.jpg"
-  - "https://files.libcom.org/files/2022-12/kollontai1.jpeg"
-  - "https://files.libcom.org/files/2022-12/kollontai2.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8ac1ed9a4bc9466a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8287ed823c1bdd6e.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e096e77bfaa3732a.jpg"
 links: []
 files:
   - name: "The Workers' Opposition - Alexandra Kollontai.pdf"

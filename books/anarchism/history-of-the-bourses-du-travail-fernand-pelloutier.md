@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/history-bourses-du-travail-fernand-pelloutier"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Bourses1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0d56d2c956e8310f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Fernand Pelloutier"
   - "Federation des Bourses du Travail de France et des Colonies"
 images:
-  - "https://files.libcom.org/files/images/library/Bourses1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0d56d2c956e8310f.jpg"
 links: []
 files: []
 ---

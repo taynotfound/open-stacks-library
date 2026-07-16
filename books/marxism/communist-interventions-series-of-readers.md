@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communist-interventions-series-readers"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/11802784_817056885057153_8536038241840981654_o.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf606fa560d5886c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/11802784_817056885057153_8536038241840981654_o.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf606fa560d5886c.jpg"
 links:
   - url: "https://communistresearchcluster.wordpress.com/ "
     text: "https://communistresearchcluster.wordpress.com/"

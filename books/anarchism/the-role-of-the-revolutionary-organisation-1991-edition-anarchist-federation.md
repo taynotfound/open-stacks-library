@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/role-revolutionary-organisation-af"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/afed%20logo.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/53bba19e7be26fa0.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "Anarchist Federation"
   - "anarchism"
 images:
-  - "https://files.libcom.org/files/images/library/afed%20logo.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/53bba19e7be26fa0.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/workplace-papers-sojourner-truth-organization"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/workplacepapers_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f07838953b9fb54b.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "United States"
   - "Sojourner Truth Organization"
 images:
-  - "https://files.libcom.org/files/images/library/workplacepapers_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f07838953b9fb54b.jpg"
 links:
   - url: "https://www.sojournertruth.net/workplacepapers.html "
     text: "Sojourner Truth Organization"

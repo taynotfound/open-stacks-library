@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/retort"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/retort.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dc1a44afb11844e5.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/retort.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dc1a44afb11844e5.jpg"
 links:
   - url: "https://www.cira.ch/home "
     text: "Centre International de Recherches sur l'Anarchisme (CIRA)"

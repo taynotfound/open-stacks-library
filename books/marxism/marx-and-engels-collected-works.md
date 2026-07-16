@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/marx-and-engels-collected-works"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/marx-engels.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f901a620ac03de5d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "PDF"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/marx-engels.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f901a620ac03de5d.jpg"
 links:
   - url: "https://archive.org/details/MarxEngelsCollectedWorksVolume10MKarlMarx/Marx%20%26%20Engels%20Collected%20Works%20Volume%201_%20Ka%20-%20Karl%20Marx/ "
     text: "Internet Archive"

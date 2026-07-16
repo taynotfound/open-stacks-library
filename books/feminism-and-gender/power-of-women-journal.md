@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/power-women-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-05/Power-of-Women-masthead.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e19461b0411f9b90.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "feminism"
 images:
-  - "https://files.libcom.org/files/2024-05/Power-of-Women-masthead.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e19461b0411f9b90.png"
 links: []
 files: []
 ---

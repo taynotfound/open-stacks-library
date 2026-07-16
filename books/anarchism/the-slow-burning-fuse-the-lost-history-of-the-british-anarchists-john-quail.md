@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/slow-burning-fuse-lost-history-british-anarchists-john-quail"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/william_morris_snakeshead%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/095188b75af35e96.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "United Kingdom"
   - "John Quail"
 images:
-  - "https://files.libcom.org/files/images/history/william_morris_snakeshead%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/095188b75af35e96.jpg"
 links: []
 files: []
 ---

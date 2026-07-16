@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/schnews-annuals"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-04/IMG_0747.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d727faaa9f38e490.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "SchNEWS"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2023-04/IMG_0747.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d727faaa9f38e490.jpg"
 links:
   - url: "https://squallmagazine.com/ "
     text: "http://squallmagazine.com/"

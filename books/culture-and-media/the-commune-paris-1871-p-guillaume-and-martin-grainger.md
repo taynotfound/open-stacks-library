@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/commune-paris-1871-p-guillaume-and-martin-grainger"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Paris%20commune.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/acaf431fcdac7ca3.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "Paris"
   - "Paris Commune"
 images:
-  - "https://files.libcom.org/files/images/library/Paris%20commune.jpg"
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-29%20at%2016.58.35.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/acaf431fcdac7ca3.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5dd8a4c5412309fd.png"
 links: []
 files:
   - name: "The Commune Paris 1871 - Solidarity.pdf"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/direct-action-paper-anarchist-federation-britain-1945-1950"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-01/Screenshot%202025-01-01%20at%2017.32.17_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/948041d595f91eeb.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "1940s"
 images:
-  - "https://files.libcom.org/files/2025-01/Screenshot%202025-01-01%20at%2017.32.17_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/948041d595f91eeb.png"
 links:
   - url: "https://www.katesharpleylibrary.net/73n757 "
     text: "The 1945 split in British anarchism"

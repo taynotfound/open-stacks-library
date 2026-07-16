@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/campaign-redistribute-pain-2018"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Amend-the-13th-Amendment-art-by-Rashid-1116-web.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efce54e49c1d93ec.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Free Alabama Movement"
   - "Bennu Hannibal Ra-Sun"
 images:
-  - "https://files.libcom.org/files/images/library/Amend-the-13th-Amendment-art-by-Rashid-1116-web.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efce54e49c1d93ec.jpg"
 links:
   - url: "https://sfbayview.com/tag/campaign-to-redistribute-the-pain-2018/ "
     text: "These articles first appeared in the San Francisco Bay View."

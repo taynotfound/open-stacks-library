@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/insurgent-notes-journal-communist-theory-and-practice"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-11/INx8_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/897ddf3f714bcbf8.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "John Garvey"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-11/INx8_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/897ddf3f714bcbf8.png"
 links:
   - url: "https://insurgentnotes.com/ "
     text: "http://insurgentnotes.com/"

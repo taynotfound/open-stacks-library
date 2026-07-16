@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/catalyst-anarcho-syndicalist-quarterly-1-1987"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-02/catalyst%20cover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb69742d417eb3c1.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Direct Action Movement (DAM)"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2024-02/catalyst%20cover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fb69742d417eb3c1.jpg"
 links:
   - url: "https://www.solfed.org.uk "
     text: "SolFed"

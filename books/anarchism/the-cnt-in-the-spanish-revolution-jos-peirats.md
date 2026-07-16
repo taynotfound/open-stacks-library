@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/cnt-spanish-revolution-jose-peirats"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/CNT.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/390411f3c5bcff7c.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "José Peirats"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/history/CNT.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/390411f3c5bcff7c.jpg"
 links: []
 files: []
 ---

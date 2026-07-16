@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/anti-exchange-mart"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-08/martcov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8660ee25400b321c.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "PDF"
   - "1990s"
 images:
-  - "https://files.libcom.org/files/2023-08/martcov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8660ee25400b321c.png"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/jan-waclaw-machajski-radical-critic-russian-intelligensia-and-socialism-marshall-s-shatz"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Jan.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c82be232ead54a99.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Marshall S. Shatz"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/history/Jan.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c82be232ead54a99.jpg"
 links: []
 files: []
 ---

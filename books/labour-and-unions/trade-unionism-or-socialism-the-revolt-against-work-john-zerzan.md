@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/trade-unionism-or-socialism-revolt-against-work-john-zerzan"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/zerzancover.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cca03427813762f6.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "unions"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/zerzancover.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cca03427813762f6.jpg"
 links: []
 files:
   - name: "John Zerzan- Trade unionism or socialism; the revolt against work_0.pdf"

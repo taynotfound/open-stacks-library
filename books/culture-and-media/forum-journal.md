@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/forum-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/spgb-forum-journal-logo-1952.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/48067d5d61e62ac9.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "World Socialist Movement"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/spgb-forum-journal-logo-1952.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/48067d5d61e62ac9.png"
 links:
   - url: "https://www.worldcat.org/oclc/942838693 "
     text: "OCLC 942838693"

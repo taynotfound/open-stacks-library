@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-and-black-revolution-lorenzo-komboa-ervin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/78153.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2dde86cc4ce68788.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "anarchism"
   - "black power"
 images:
-  - "https://files.libcom.org/files/images/library/78153.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2dde86cc4ce68788.jpg"
 links: []
 files: []
 ---

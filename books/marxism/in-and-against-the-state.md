@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/and-against-state"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/LEWRG.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1c0c0f17566d4bcc.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Conference of Socialist Economists"
   - "Open Marxism"
 images:
-  - "https://files.libcom.org/files/images/library/LEWRG.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1c0c0f17566d4bcc.png"
 links: []
 files: []
 ---

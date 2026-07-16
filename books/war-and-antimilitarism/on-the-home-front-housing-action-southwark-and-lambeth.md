@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/home-front-housing-action-southwark-and-lambeth"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/haslmeeting_resized_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5bd3dc837ca1c1de.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Lambeth"
   - "Southwark"
 images:
-  - "https://files.libcom.org/files/images/library/haslmeeting_resized_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5bd3dc837ca1c1de.jpg"
 links:
   - url: "https://housingactionsouthwarkandlambeth.wordpress.com/ "
     text: "Housing Action Southwark and Lambeth"

@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/workers-solidarity"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Workers%20Solidarity%20No.%203-1-1-001.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/724b292b26019570.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Workers%20Solidarity%20No.%203-1-1-001.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/724b292b26019570.jpg"
 links: []
 files: []
 ---

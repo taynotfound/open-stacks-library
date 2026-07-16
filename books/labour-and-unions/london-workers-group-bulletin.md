@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/london-workers-group-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/lwg6%20copy.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ad7396fd85cd3ffc.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "PDF"
   - "Joe Thomas"
 images:
-  - "https://files.libcom.org/files/images/library/lwg6%20copy.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ad7396fd85cd3ffc.png"
 links: []
 files: []
 ---

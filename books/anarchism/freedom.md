@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/freedom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Freedom-newspapers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d0ffc796b0a0a8c6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Freedom-newspapers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d0ffc796b0a0a8c6.jpg"
 links: []
 files: []
 ---

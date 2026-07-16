@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/vengeance"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1v2copy.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/eb3cb6f0e502a728.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Vengeance"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/1v2copy.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/eb3cb6f0e502a728.jpg"
 links: []
 files: []
 ---

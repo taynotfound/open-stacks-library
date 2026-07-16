@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/economics-politics-and-age-inflation-paul-mattick"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Inflation%20wave%20%284235%20x%204505%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/176aa3fb8d7b33a0.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Paul Mattick"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Inflation%20wave%20%284235%20x%204505%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/176aa3fb8d7b33a0.jpg"
 links: []
 files: []
 ---

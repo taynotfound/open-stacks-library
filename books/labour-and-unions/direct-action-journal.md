@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/direct-action-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/DirectAction-Coverthumb.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/35d941eda1fc9648.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/DirectAction-Coverthumb.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/35d941eda1fc9648.jpg"
 links: []
 files:
   - name: "DirectAction-No1-31Jan1914_0.pdf"

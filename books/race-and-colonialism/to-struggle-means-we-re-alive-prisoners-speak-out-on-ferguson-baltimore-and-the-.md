@@ -5,7 +5,7 @@ date: ""
 category: "race-and-colonialism"
 source: "https://libcom.org/article/struggle-means-were-alive-prisoners-speak-out-ferguson-baltimore-and-ongoing-revolt-against"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/ferguson-riots-600.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a99e401d199c46a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Black Lives Matter movement"
   - "police"
 images:
-  - "https://files.libcom.org/files/images/library/ferguson-riots-600.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a99e401d199c46a.jpg"
 links:
   - url: "https://prisonersonferguson.wordpress.com/ "
     text: "Prisoners on Ferguson"

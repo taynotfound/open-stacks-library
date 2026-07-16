@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/almost-half-century-after-military-coup-we-can-neither-forget-nor-forgive-chile"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/Obreros-Unidad-Popular-1024x630.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8f817d7bc6c42510.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "internationalism"
   - "Vamos hacia la vida"
 images:
-  - "https://files.libcom.org/files/images/news/Obreros-Unidad-Popular-1024x630.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8f817d7bc6c42510.jpg"
 links:
   - url: "https://enoughisenough14.org/wp-content/uploads/2021/09/Almost-half-a-century-after-the-military-coup.pdf "
     text: "Almost half a century after the military coup – Download"

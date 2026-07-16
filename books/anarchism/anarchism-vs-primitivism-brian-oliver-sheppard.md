@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchism-vs-primitivism-brian-oliver-sheppard"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Green.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c5d793711f996c5e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Green Anarchist"
   - "Brian Oliver Sheppard"
 images:
-  - "https://files.libcom.org/files/images/library/Green.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c5d793711f996c5e.jpg"
 links:
   - url: "https://www.seesharppress.com "
     text: "See Sharp Press"

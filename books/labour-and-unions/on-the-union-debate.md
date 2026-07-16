@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/union-debate"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Labor-Rally.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c83d3effd9ba654d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "unions"
   - "debates"
 images:
-  - "https://files.libcom.org/files/images/library/Labor-Rally.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c83d3effd9ba654d.jpg"
 links:
   - url: "https://advancethestruggle.wordpress.com/2013/02/11/the-problematic-of-the-union-in-the-u-s-what-is-to-be-done/ "
     text: "Advance the Struggle"

@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/stock-exchange-speculators-manual-pj-proudhon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-06/Test%201.PNG"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8c58cffc64de4da8.png"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Pierre-Joseph Proudhon"
 images:
-  - "https://files.libcom.org/files/2024-06/Test%201.PNG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8c58cffc64de4da8.png"
 links: []
 files: []
 ---

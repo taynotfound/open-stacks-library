@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarchos"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Anarchos%20No.%202%20%28Spring%201968%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7582a212b041b3d5.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Eastside Anarchist Group"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Anarchos%20No.%202%20%28Spring%201968%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7582a212b041b3d5.jpg"
 links:
   - url: "https://thesparrowsnest.org.uk/ "
     text: "The Sparrows' Nest"

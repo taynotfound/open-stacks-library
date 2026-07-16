@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/cauldron-negative-jean-marc-mandosio"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/1d5e2dab9d11488aa0df9161368a8a2c.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dbc397a78b40e42a.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Jean-Marc Mandosio"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/1d5e2dab9d11488aa0df9161368a8a2c.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dbc397a78b40e42a.jpg"
 links: []
 files: []
 ---

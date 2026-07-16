@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/fundamental-principles-communist-production-and-distribution"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/putilov.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7f2a2cb657333291.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "communist society"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/putilov.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7f2a2cb657333291.jpg"
 links: []
 files:
   - name: "GIK- Fundamental Principles of Communist Production and Distribution.pdf"

@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/balance-sheet-maruti-suzuki-workers-strike-gurgaon-workers-news"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/maruti%20suzuki.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf8b414016fe70db.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "wildcat strikes"
   - "Suzuki"
 images:
-  - "https://files.libcom.org/files/images/library/maruti%20suzuki.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/bf8b414016fe70db.jpg"
 links:
   - url: "https://de.labournet.tv/video/6035/streik-bei-maruti-suzuki-gurgaonindien "
     text: "Video"

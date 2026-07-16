@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/study-guide-capital-harry-cleaver"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/study.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ee39ee2d7b2c5f4d.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "economics"
   - "Harry Cleaver"
 images:
-  - "https://files.libcom.org/files/images/library/study.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ee39ee2d7b2c5f4d.jpg"
 links: []
 files: []
 ---

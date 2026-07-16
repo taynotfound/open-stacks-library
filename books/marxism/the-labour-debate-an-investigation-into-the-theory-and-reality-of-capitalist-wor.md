@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/labour-debate-investigation-theory-and-reality-capitalist-work-ana-c-dinerstein-michael"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-10/4819959.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/17e9a24693fd85ad.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Massimo De Angelis"
   - "Glenn Rikowski"
 images:
-  - "https://files.libcom.org/files/2023-10/4819959.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/17e9a24693fd85ad.jpg"
 links:
   - url: "https://nearymike.wordpress.com/2014/03/19/being-utopic-anti-value-in-motion-labour-real-subsumption-and-the-revolution-of-everyday-life/ "
     text: "Writing in 2014"

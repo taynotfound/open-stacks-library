@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/daggers-drawn-existent-its-defenders-its-false-critics"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Bratach%20Dubh%20-%20Collected%20Articles%20-%20Volume%202.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/68c2a9d6f151efe2.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Anonymous"
   - "insurrectionary anarchism"
 images:
-  - "https://files.libcom.org/files/images/library/Bratach%20Dubh%20-%20Collected%20Articles%20-%20Volume%202.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/68c2a9d6f151efe2.jpg"
 links: []
 files: []
 ---

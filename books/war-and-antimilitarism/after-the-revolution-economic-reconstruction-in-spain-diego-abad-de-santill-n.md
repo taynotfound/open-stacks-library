@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/after-revolution-economic-reconstruction-spain-diego-abad-de-santillan"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Abad_de_Santillan_et_mate.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec455f191b88f34c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Federación Anarquista Ibérica (FAI)"
   - "Diego Abad de Santillán"
 images:
-  - "https://files.libcom.org/files/images/history/Abad_de_Santillan_et_mate.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ec455f191b88f34c.jpg"
 links:
   - url: "https://membres.multimania.fr/anarchives/site/syndic/aftertherevolution.htm "
     text: "http://membres.multimania.fr/anarchives/site/syndic/aftertherevolution.htm"

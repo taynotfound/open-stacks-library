@@ -5,7 +5,7 @@ date: ""
 category: "feminism-and-gender"
 source: "https://libcom.org/article/pink-triangle-nazi-war-against-homosexuals"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/pink-triangle.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/14abb89dad3b68b4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "holocaust"
   - "Richard Plant"
 images:
-  - "https://files.libcom.org/files/images/library/pink-triangle.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/14abb89dad3b68b4.jpg"
 links: []
 files: []
 ---

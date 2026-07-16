@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/soviet-invasion-and-afghan-response-1979-1982-m-hassan-kakar"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/article-1333329-0622BF4C000005DC-256_468x286-2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30977ca36d1c5a62.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,9 +14,9 @@ tags:
   - "USSR"
   - "M. Hassan Kakar"
 images:
-  - "https://files.libcom.org/files/images/library/article-1333329-0622BF4C000005DC-256_468x286-2.jpg"
-  - "https://files.libcom.org/files/ft7b69p12h_map1.jpg"
-  - "https://files.libcom.org/files/ft7b69p12h_map2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30977ca36d1c5a62.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/10cb4a3b5c22234e.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6219d236d71ce32c.jpg"
 links: []
 files: []
 ---

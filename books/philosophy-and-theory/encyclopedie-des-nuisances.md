@@ -5,7 +5,7 @@ date: ""
 category: "philosophy-and-theory"
 source: "https://libcom.org/article/encyclopedie-des-nuisances"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-12/Screenshot%202022-12-04%20at%2010.24.02.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9547e61fdf808c0f.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Jaime Semprun"
   - "Christian Sebastiani"
 images:
-  - "https://files.libcom.org/files/2022-12/Screenshot%202022-12-04%20at%2010.24.02.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9547e61fdf808c0f.png"
 links:
   - url: "https://archivesautonomies.org/spip.php?article1792 "
     text: "http://archivesautonomies.org/spip.php?article1792"

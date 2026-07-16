@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/red-menace-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/RM5-Golly.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d6a82054c2fe5129.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "The Red Menace (Canada)"
   - "publications"
 images:
-  - "https://files.libcom.org/files/images/library/RM5-Golly.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d6a82054c2fe5129.jpg"
 links:
   - url: "https://www.connexions.org/RedMenace.htm "
     text: "Connexions.org"

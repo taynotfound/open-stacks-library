@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/mayday-london-1950-times"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/poll-tax-riot-1.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93b29c7df72095f5.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "demonstrations"
   - "United Kingdom"
 images:
-  - "https://files.libcom.org/files/poll-tax-riot-1.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93b29c7df72095f5.jpg"
 links: []
 files: []
 ---

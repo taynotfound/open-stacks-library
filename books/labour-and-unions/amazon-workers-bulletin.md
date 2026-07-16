@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/amazon-workers-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/Amazon%20bulletin%20header.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8eebf6c22ab4a230.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "accounts"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-08/Amazon%20bulletin%20header.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8eebf6c22ab4a230.jpg"
 links:
   - url: "https://notesfrombelow.org/article/amazon-workers-bulletin "
     text: "A bulletin produced by the Notes from Below group collecting workers' reports from Amazon, including wildcat strikes."

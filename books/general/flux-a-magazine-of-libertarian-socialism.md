@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/flux-magazine-libertarian-socialism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/flux5cov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4089dd20f8327cc7.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Nottingham"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/flux5cov.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4089dd20f8327cc7.png"
 links:
   - url: "https://thesparrowsnest.org.uk/search.php?query=Flux&logic=and&digital=0&digital=0&digital=1 "
     text: "The Sparrows Nest"

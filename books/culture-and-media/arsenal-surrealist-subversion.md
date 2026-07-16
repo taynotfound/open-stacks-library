@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/arsenal-surrealist-subversion"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-02/Arsenal%20-%20Surrealist%20Subversion%201.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/623b7a283af9156e.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "art"
 images:
-  - "https://files.libcom.org/files/2024-02/Arsenal%20-%20Surrealist%20Subversion%201.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/623b7a283af9156e.jpg"
 links: []
 files: []
 ---

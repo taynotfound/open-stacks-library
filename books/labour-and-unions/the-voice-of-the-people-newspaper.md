@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/voice-people-newspaper"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/voice.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4d5010ffe477f3fa.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/voice.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4d5010ffe477f3fa.png"
 links: []
 files:
   - name: "No.01_0.pdf"

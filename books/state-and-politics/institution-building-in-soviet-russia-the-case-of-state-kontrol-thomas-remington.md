@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/institution-building-soviet-russia-case-state-kontrol-thomas-remington"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/300px-Emma_Goldman_gives_eulogy_at_Peter_Kropotkin%27s_funeral.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/01eebbda81357863.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "USSR"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/history/300px-Emma_Goldman_gives_eulogy_at_Peter_Kropotkin%27s_funeral.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/01eebbda81357863.jpg"
 links: []
 files:
   - name: "PDF Format"

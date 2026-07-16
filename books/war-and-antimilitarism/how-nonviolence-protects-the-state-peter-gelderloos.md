@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/how-nonviolence-protects-state-peter-gelderloos"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/gelder.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b032a8d8d8fc888d.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "epub"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/gelder.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b032a8d8d8fc888d.jpg"
 links: []
 files:
   - name: "peter-gelderloos-how-nonviolence-protects-the-state.pdf"

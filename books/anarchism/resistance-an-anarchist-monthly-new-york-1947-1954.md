@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/resistance-anarchist-monthly-new-york-1947-1954"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarchy001.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/711853939b42283a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Resistance"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/anarchy001.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/711853939b42283a.jpg"
 links: []
 files: []
 ---

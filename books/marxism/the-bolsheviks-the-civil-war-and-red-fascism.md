@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/bolsheviks-civil-war-and-red-fascism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/lenin_speech%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30b2bf79bd70ad20.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Bolsheviks"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/lenin_speech%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/30b2bf79bd70ad20.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/three-essays-new-mandarins-lee-yu-see"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-01/1_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/43c2f72de2be47d4.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,9 +16,9 @@ tags:
   - "China"
   - "Minus"
 images:
-  - "https://files.libcom.org/files/2025-01/1_0.jpg"
-  - "https://files.libcom.org/files/2025-01/59.jpg"
-  - "https://files.libcom.org/files/2025-01/60.JPG"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/43c2f72de2be47d4.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/726fb17e454f5421.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0be17ec558940cd3.jpg"
 links: []
 files:
   - name: "three-essays-on-the-new-mandarins1.pdf"

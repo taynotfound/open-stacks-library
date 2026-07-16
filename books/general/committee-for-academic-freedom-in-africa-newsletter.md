@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/committee-academic-freedom-africa-newsletter"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/students_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/701ce5f30f7989f8.jpg"
 page_type: article
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Magbaily Fyle"
   - "Committee for Academic Freedom in Africa"
 images:
-  - "https://files.libcom.org/files/images/library/students_0.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/701ce5f30f7989f8.jpg"
 links: []
 files:
   - name: "CAFA_18.pdf"

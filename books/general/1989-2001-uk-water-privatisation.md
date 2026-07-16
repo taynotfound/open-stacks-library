@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/uk-water-privatisation"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Esme_Choonara_Amy_Leather_Candy_Udwin_Maxine_Bowler_SWP_Disputes_Committee_2011.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1ad6dbde76ddb8b0.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "United Kingdom"
   - "utilities"
 images:
-  - "https://files.libcom.org/files/images/library/Esme_Choonara_Amy_Leather_Candy_Udwin_Maxine_Bowler_SWP_Disputes_Committee_2011.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1ad6dbde76ddb8b0.jpg"
 links:
   - url: "http://www.parliament.the-stationery-office.co.uk/pa/cm199900/cmselect/cmenvaud/597/59702.htm"
     text: "www.parliament.the-stationery-office.co.uk/pa/cm199900/cmselect/cmenvaud/597/59702.htm"

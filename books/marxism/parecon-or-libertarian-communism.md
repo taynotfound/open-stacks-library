@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/parecon-or-libertarian-communism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/debate.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf6cee65a2cc86d3.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "debates"
   - "Parecon"
 images:
-  - "https://files.libcom.org/files/debate.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cf6cee65a2cc86d3.png"
 links: []
 files: []
 ---

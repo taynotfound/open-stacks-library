@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/who-killed-patrick-quinn-framing-malcolm-kennedy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/malcolm3.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ab537115a62897ea.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,8 +19,8 @@ tags:
   - "Colin Roach Centre"
   - "Malcolm Kennedy"
 images:
-  - "https://files.libcom.org/files/images/library/malcolm3.jpg"
-  - "https://files.libcom.org/files/images/malcolm5.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ab537115a62897ea.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/eecced8b01d360b2.jpg"
 links: []
 files: []
 ---

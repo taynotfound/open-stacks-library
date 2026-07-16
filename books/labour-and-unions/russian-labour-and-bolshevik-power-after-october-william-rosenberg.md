@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/russian-labour-and-bolshevik-power-after-october-william-rosenberg"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/putilov-workers%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d1706360ad06ffdb.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Bolsheviks"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/putilov-workers%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d1706360ad06ffdb.jpg"
 links: []
 files: []
 ---

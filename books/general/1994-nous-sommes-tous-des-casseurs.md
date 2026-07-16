@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/library/1994-nous-sommes-tous-des-casseurs"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/banlieue-riots.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2b9faa59b8dfc57.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "riots"
   - "France"
 images:
-  - "https://files.libcom.org/files/banlieue-riots.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2b9faa59b8dfc57.jpg"
 links: []
 files: []
 ---

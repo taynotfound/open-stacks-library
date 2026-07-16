@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/universally-interconnectedinterdependent-conditions-existence-humanaesfera"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Cadeia%20logistica.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/76c0fc1da8a3912f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "humanaesfera"
   - "nationalism"
 images:
-  - "https://files.libcom.org/files/images/library/Cadeia%20logistica.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/76c0fc1da8a3912f.jpg"
 links:
   - url: "https://atlas.media.mit.edu/en/ "
     text: "The Observatory of Economic Complexity"

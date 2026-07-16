@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/committee-against-repression-italy-bulletin"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2024-05/caricovers.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/403cf6409a23da8a.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "Italy"
 images:
-  - "https://files.libcom.org/files/2024-05/caricovers.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/403cf6409a23da8a.png"
 links: []
 files: []
 ---

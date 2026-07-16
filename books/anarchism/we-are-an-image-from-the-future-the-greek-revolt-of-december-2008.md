@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/we-are-image-future-greek-revolt-december-2008"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/future.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/45944f01739d0c87.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Tasos Sagris"
   - "A. G. Schwarz"
 images:
-  - "https://files.libcom.org/files/images/library/future.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/45944f01739d0c87.jpg"
 links:
   - url: "https://www.akpress.org/2010/items/weareanimagefromthefuture "
     text: "here"

@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/ubu-saved-drowning-worker-insurgency-and-statist-containment-portugal-and-spain-1974-1977"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/20070326elpepuint_14%5B1%5D.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/392075dfc3a28125.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Portuguese revolution"
   - "Spanish resistance"
 images:
-  - "https://files.libcom.org/files/images/history/20070326elpepuint_14%5B1%5D.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/392075dfc3a28125.jpg"
 links: []
 files:
   - name: "Portugal-Spain.pdf"

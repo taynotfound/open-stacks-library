@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/singlejack-solidarity-stan-weir"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/081664294X.01._SX220_SCLZZZZZZZ_.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ba550984a17c043e.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Stan Weir"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/081664294X.01._SX220_SCLZZZZZZZ_.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ba550984a17c043e.jpg"
 links: []
 files: []
 ---

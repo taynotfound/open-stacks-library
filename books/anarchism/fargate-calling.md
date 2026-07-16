@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/fargate-calling"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Holberry.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1687135b78869be6.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Fargate Speaker"
   - "Sheffield Anarchist Federation"
 images:
-  - "https://files.libcom.org/files/images/history/Holberry.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1687135b78869be6.jpg"
 links: []
 files: []
 ---

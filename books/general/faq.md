@@ -5,14 +5,14 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/anakisuto-faq"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Black-red-flag.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/02c3f8cef50afcd5.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "日本語"
 images:
-  - "https://files.libcom.org/files/images/library/Black-red-flag.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/02c3f8cef50afcd5.jpg"
 links: []
 files: []
 ---

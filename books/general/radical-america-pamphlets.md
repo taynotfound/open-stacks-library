@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/radical-america-pamphlets"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-03/ra-pamph.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3493a265a0f24e77.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Radical America"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2025-03/ra-pamph.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3493a265a0f24e77.png"
 links: []
 files: []
 ---

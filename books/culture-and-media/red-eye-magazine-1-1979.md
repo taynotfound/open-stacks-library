@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/red-eye-magazine-1-1979"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-04/red-eye-cover.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4bc23091d93a803b.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,8 +16,8 @@ tags:
   - "Gilles Dauvé"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2025-04/red-eye-cover.png"
-  - "https://files.libcom.org/files/2025-04/barrotSI.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4bc23091d93a803b.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/148e926b4493aeba.png"
 links:
   - url: "https://web.archive.org/web/20121111033845/http://www.geocities.com/~johngray/romtit.htm "
     text: "here"

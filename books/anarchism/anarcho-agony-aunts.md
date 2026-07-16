@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/anarcho-agony-aunts"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/D9fQ9-PXkAAKaKv%20%281%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7d4554cd9e5d8345.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "feminism"
   - "Anarcho Agony Aunts"
 images:
-  - "https://files.libcom.org/files/images/library/D9fQ9-PXkAAKaKv%20%281%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7d4554cd9e5d8345.jpg"
 links:
   - url: "https://curiouscat.me/marijamdid "
     text: "here"

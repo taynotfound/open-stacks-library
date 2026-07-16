@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/krasnoyarsk-russia-love-no-war-class-war"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/news/yfivT7gClpM.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f9b08d9e40e63761.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "internationalism"
   - "International Proletarian Union"
 images:
-  - "https://files.libcom.org/files/images/news/yfivT7gClpM.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f9b08d9e40e63761.jpg"
 links: []
 files: []
 ---

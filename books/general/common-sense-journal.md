@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/common-sense-journal"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2026-03/commonsenselogo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93fcf05f48eadd8d.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Conference of Socialist Economists"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2026-03/commonsenselogo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/93fcf05f48eadd8d.png"
 links:
   - url: "https://commonsense.josswinn.org/ "
     text: "https://commonsense.josswinn.org/"

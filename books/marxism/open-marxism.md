@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/open-marxism"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-10/openmarxism_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b86c9cd3f0a64684.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Open Marxism"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2023-10/openmarxism_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b86c9cd3f0a64684.png"
 links:
   - url: "https://commonsensejournal.org.uk/1994/04/01/issue-15 "
     text: "https://commonsensejournal.org.uk/1994/04/01/issue-15"

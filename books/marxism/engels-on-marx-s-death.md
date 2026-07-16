@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/engels-marxs-death"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Marx.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/32e81ba85f597bdb.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Karl Marx"
   - "Friedrich Engels"
 images:
-  - "https://files.libcom.org/files/images/history/Marx.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/32e81ba85f597bdb.jpg"
 links: []
 files: []
 ---

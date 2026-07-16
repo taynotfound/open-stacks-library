@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/yard-roots"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Yard%20Roots%20Vol.%201%2C%20No.%203%20%28November-December%201981%29-1-1-001%20%281%29.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/186d78f96ca0ec03.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "Yard Roots"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Yard%20Roots%20Vol.%201%2C%20No.%203%20%28November-December%201981%29-1-1-001%20%281%29.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/186d78f96ca0ec03.jpg"
 links: []
 files: []
 ---

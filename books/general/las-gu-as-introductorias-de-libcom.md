@@ -5,20 +5,20 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/las-guias-introductorias-de-libcom"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Huelga-01.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1efa55fcbf621183.jpg"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Español"
 images:
-  - "https://files.libcom.org/files/images/library/Huelga-01.jpg"
-  - "https://files.libcom.org/files/COG-1_0.gif"
-  - "https://files.libcom.org/files/COG-2.gif"
-  - "https://files.libcom.org/files/COG-3.gif"
-  - "https://files.libcom.org/files/mcworker.jpg"
-  - "https://files.libcom.org/files/miners.jpg"
-  - "https://files.libcom.org/files/Greece.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1efa55fcbf621183.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fa82251c9d80920a.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6e45387f61e9250c.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8572d49a4d8c4f23.gif"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d49e6407b23b3980.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/26b50715756140cf.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/97842db14c95ea17.jpg"
 links: []
 files: []
 ---

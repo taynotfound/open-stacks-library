@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/article/worker-activism-and-social-polarisation-petrograd-and-moscow-march-october-1917"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/cohnbendit2%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a75d3819254f8348.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,13 +15,13 @@ tags:
   - "1920s"
   - "Russian Revolution 1917"
 images:
-  - "https://files.libcom.org/files/images/library/cohnbendit2%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a75d3819254f8348.jpg"
 links: []
 files:
   - name: "PDF Format"
     type: "PDF"
-    url: "https://libcom.org/files/WorkerActivism1918koenker.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/09b5f537_WorkerActivism1918koenker.pdf"
+    hosted: true
 ---
 # Worker Activism and Social Polarisation in Petrograd and Moscow March to October 1917 - Rosenberg/Koenker
 

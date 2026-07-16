@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/communism-has-not-yet-begun-claude-bitot"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Marx_2.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b9a693332e354ccd.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Stalinism"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Marx_2.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b9a693332e354ccd.jpg"
 links: []
 files: []
 ---

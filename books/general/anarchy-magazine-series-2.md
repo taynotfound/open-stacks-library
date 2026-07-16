@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/anarchy-magazine-series-2"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/anarchy-cover_0.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1ac077cc154a8639.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,8 +15,8 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/anarchy-cover_0.jpg"
-  - "https://files.libcom.org/files/2022-06/31172410990.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1ac077cc154a8639.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e962f8e99d4df2b8.jpg"
 links:
   - url: "https://www.katesharpleylibrary.net/pc87wq "
     text: "Kate Sharpley Library"

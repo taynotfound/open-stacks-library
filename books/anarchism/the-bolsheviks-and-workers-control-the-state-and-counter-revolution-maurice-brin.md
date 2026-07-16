@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/bolsheviks-and-workers-control-state-and-counter-revolution-maurice-brinton"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/trotsky.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1771d060b9cbce18.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "state socialism"
   - "1920s"
 images:
-  - "https://files.libcom.org/files/images/history/trotsky.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1771d060b9cbce18.jpg"
 links:
   - url: "https://www.amazon.co.uk/exec/obidos/redirect?link_code=ur2&tag=libcom-21&camp=1634&creative=6738&path=ASIN%2F0900688076%2Fqid%3D1136548435%2Fsr%3D1-3%2Fref%3Dsr_1_0_3"
     text: "Buy The Bolsheviks and Workers' Control now"

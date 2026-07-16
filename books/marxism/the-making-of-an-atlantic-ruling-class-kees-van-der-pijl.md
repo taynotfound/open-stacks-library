@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/making-atlantic-ruling-class-kees-van-der-pijl"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/NATO-Logo-for-website-page.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/57dfea787893c441.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/images/library/NATO-Logo-for-website-page.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/57dfea787893c441.jpg"
 links: []
 files:
   - name: "The Making of an Atlantic Rulin - Pijl, Kees van der_0.epub"

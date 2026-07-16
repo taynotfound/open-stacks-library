@@ -5,7 +5,7 @@ date: ""
 category: "culture-and-media"
 source: "https://libcom.org/article/xtra-paper-armchair-terrorists"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/Screen%20Shot%202020-07-17%20at%2019.52.42.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/338fb75b8c3127c3.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Martin Wright"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/Screen%20Shot%202020-07-17%20at%2019.52.42.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/338fb75b8c3127c3.png"
 links: []
 files: []
 ---

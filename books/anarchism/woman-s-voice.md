@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/womans-voice"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/voz-de-mujer.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/69a16d1ac42dd0a7.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "La Voz de la Mujer"
   - "Virginia Bolten"
 images:
-  - "https://files.libcom.org/files/images/library/voz-de-mujer.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/69a16d1ac42dd0a7.jpg"
 links: []
 files: []
 ---

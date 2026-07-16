@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/community-and-communism-russia-jacques-camatte"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-08/camatte-russia.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/db330d25132aad9d.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "PDF"
   - "David Brown"
 images:
-  - "https://files.libcom.org/files/2022-08/camatte-russia.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/db330d25132aad9d.png"
 links: []
 files:
   - name: "Jacques Camatte- Community and Communism in Russia.pdf"

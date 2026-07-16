@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/peer-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-09/Peer%20Review%20Issue%2001.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d729a201edc66f50.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "anarchism"
   - "zine"
 images:
-  - "https://files.libcom.org/files/2025-09/Peer%20Review%20Issue%2001.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d729a201edc66f50.png"
 links:
   - url: "https://archive.org/details/@the_peer_review "
     text: "Internet Archive"
@@ -74,16 +74,16 @@ files:
     hosted: false
   - name: "https://thelocalkids.noblogs.org/files/2022/06/tlk08.pdf"
     type: "PDF"
-    url: "https://thelocalkids.noblogs.org/files/2022/06/tlk08.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/5e903704_tlk08.pdf"
+    hosted: true
   - name: "https://anathema.noblogs.org/files/2020/04/mar-apr_2020.pdf"
     type: "PDF"
-    url: "https://anathema.noblogs.org/files/2020/04/mar-apr_2020.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/87b2ff69_mar-apr_2020.pdf"
+    hosted: true
   - name: "https://anarchotranshumanzine.wordpress.com/wp-content/uploads/2015/04/h2.pdf"
     type: "PDF"
-    url: "https://anarchotranshumanzine.wordpress.com/wp-content/uploads/2015/04/h2.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a6b6ec57_h2.pdf"
+    hosted: true
 ---
 # The Peer Review
 

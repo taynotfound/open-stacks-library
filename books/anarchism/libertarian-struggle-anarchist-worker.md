@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/libertarian-struggleanarchist-worker"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/LS%20header.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/145044e7ac9fcc47.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Organisation of Revolutionary Anarchists"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/LS%20header.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/145044e7ac9fcc47.png"
 links:
   - url: "https://thesparrowsnest.org.uk/search.php?query=libertarian+struggle&logic=and&digital=0&digital=0 "
     text: "Originally scanned and digitised by the Sparrow's Nest"

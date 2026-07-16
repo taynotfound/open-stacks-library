@@ -5,7 +5,7 @@ date: ""
 category: "history"
 source: "https://libcom.org/library/communique-bombing-athens-stock-exchange"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/Catala.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2330c274f3ab315b.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "guerrillas"
   - "Revolutionary Struggle"
 images:
-  - "https://files.libcom.org/files/images/history/Catala.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2330c274f3ab315b.png"
 links: []
 files: []
 ---

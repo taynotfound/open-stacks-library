@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/poland-1980-1982-class-struggle-and-crisis-capital-henri-simon"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/strikers.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4fec869a26d26147.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Poland"
   - "Poland 1976-82"
 images:
-  - "https://files.libcom.org/files/images/history/strikers.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4fec869a26d26147.jpg"
 links: []
 files:
   - name: "Poland 1980-82 - Henri Simon.epub"

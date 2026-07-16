@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/hunting-specters-political-history-purges-communist-party-philippines"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/1_pYfw7dqgW58kVj6MlEi-GA.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fbbe21cc0042109b.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Alex de Jong"
   - "communism"
 images:
-  - "https://files.libcom.org/files/images/history/1_pYfw7dqgW58kVj6MlEi-GA.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fbbe21cc0042109b.jpg"
 links: []
 files:
   - name: "4_Hunting_Specters_-_Paranoid_Purges_in.pdf"

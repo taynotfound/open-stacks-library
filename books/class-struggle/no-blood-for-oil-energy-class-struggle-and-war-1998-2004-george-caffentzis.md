@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/no-blood-oil-energy-class-struggle-and-war-1998-2004-george-caffentzis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-06/Screenshot%202023-06-18%20at%2014.41.55.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0be7901cba3d454.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "PDF"
   - "oil"
 images:
-  - "https://files.libcom.org/files/2023-06/Screenshot%202023-06-18%20at%2014.41.55.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0be7901cba3d454.png"
 links: []
 files: []
 ---

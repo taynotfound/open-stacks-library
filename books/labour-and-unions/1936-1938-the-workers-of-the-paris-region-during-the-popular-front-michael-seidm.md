@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/1936-1938-workers-paris-region-during-popular-front-michael-seidman"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/05.28%20Renault%20strike%201936.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3ccf922e0f3acaf6.png"
 page_type: stub
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "occupations"
   - "8-hour day"
 images:
-  - "https://files.libcom.org/files/images/history/05.28%20Renault%20strike%201936.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3ccf922e0f3acaf6.png"
 links: []
 files: []
 ---

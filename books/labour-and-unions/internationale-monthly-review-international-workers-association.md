@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/internationale-monthly-review-international-workers-association"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-10/internationale-masthead.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9e96901182a5947b.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2025-10/internationale-masthead.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9e96901182a5947b.png"
 links: []
 files: []
 ---

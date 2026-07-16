@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/library/liberation-society-state-what-communist-anarchism-erich-m%C3%BChsam"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/bakunin.GIF"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d892b8dc701258cf.gif"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "Germany"
   - "Erich Mühsam"
 images:
-  - "https://files.libcom.org/files/images/library/bakunin.GIF"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d892b8dc701258cf.gif"
 links: []
 files: []
 ---

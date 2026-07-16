@@ -5,20 +5,20 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/diversion-1-1973"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-05/diversion-cov.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f72c22404610b150.png"
 page_type: book
 mirror_state: none
 description: ""
 tags:
   - "Jonathan Horelick"
 images:
-  - "https://files.libcom.org/files/2023-05/diversion-cov.png"
-  - "https://files.libcom.org/files/2023-05/noa2.jpg"
-  - "https://files.libcom.org/files/2023-05/noa3a.jpg"
-  - "https://files.libcom.org/files/2023-05/noa6.jpg"
-  - "https://files.libcom.org/files/2023-05/noa7a.jpg"
-  - "https://files.libcom.org/files/2023-05/noa10.jpg"
-  - "https://files.libcom.org/files/2023-05/noa12.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f72c22404610b150.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/15af003a98f3889e.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/56d3b4e53cd8ee73.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1eaeeed9d18ea018.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/902d8e971d71895a.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2fa2321550ceebb.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2012e7130d158c9.jpg"
 links: []
 files: []
 ---

@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/law-value-series"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/20060220100806%21Rivera_detroit_industry_north.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d6f061a4ecf668b0.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "capitalism"
   - "Brendan Cooney"
 images:
-  - "https://files.libcom.org/files/images/library/20060220100806%21Rivera_detroit_industry_north.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/d6f061a4ecf668b0.jpg"
 links:
   - url: "https://youtu.be/dGT-hygPqUM "
     text: "Introduction"

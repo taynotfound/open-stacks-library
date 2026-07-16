@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/fundamentals-revolutionary-communism-amadeo-bordiga"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/communism.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/63fe195e1b562842.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "left communism"
   - "Internationalist Communist Party"
 images:
-  - "https://files.libcom.org/files/images/library/communism.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/63fe195e1b562842.jpg"
 links: []
 files: []
 ---

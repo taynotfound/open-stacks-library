@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/class-power-zero-hours-angry-workers"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-03/classpowercover.jpeg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fe12f7a3b1280204.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "London"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2023-03/classpowercover.jpeg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/fe12f7a3b1280204.jpg"
 links:
   - url: "https://www.angryworkers.org/class-power-on-zero-hours/ "
     text: "Angry Workers site"

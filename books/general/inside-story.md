@@ -5,7 +5,7 @@ date: ""
 category: "general"
 source: "https://libcom.org/article/inside-story"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2023-10/inside-story.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cad0ec154c893d95.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Wynford Hicks"
   - "publications"
 images:
-  - "https://files.libcom.org/files/2023-10/inside-story.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cad0ec154c893d95.jpg"
 links: []
 files: []
 ---

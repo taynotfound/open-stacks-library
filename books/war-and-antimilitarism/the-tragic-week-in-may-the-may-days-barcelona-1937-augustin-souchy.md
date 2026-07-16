@@ -5,7 +5,7 @@ date: ""
 category: "war-and-antimilitarism"
 source: "https://libcom.org/article/tragic-week-may-may-days-barcelona-1937-augustin-souchy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/speciale11%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/32108e23c3571f6a.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "Spanish civil war"
   - "May Days 1937"
 images:
-  - "https://files.libcom.org/files/images/history/speciale11%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/32108e23c3571f6a.jpg"
 links:
   - url: "http://www.geocities.com/CapitolHill/2419/fod.html"
     text: "Friends of Durruti"

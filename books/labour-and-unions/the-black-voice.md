@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/black-voice"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/BlackVoice.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/881ee5cc4bee9005.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "Ford"
   - "black power"
 images:
-  - "https://files.libcom.org/files/images/library/BlackVoice.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/881ee5cc4bee9005.jpg"
 links: []
 files: []
 ---

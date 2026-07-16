@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/article/left-wing-lies-ken-ellis"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/SLP-Arnold-petersen-Walter-Steinhilber.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a3c9e3148c80894c.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -19,7 +19,7 @@ tags:
   - "epub"
   - "Ken Ellis"
 images:
-  - "https://files.libcom.org/files/images/library/SLP-Arnold-petersen-Walter-Steinhilber.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/a3c9e3148c80894c.jpg"
 links: []
 files:
   - name: "Left-Wing Lies - Ken Ellis.docx"

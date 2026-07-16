@@ -5,7 +5,7 @@ date: ""
 category: "marxism"
 source: "https://libcom.org/library/peasant-question-france-germany-engels"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/7705080.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77443a85a811881f.jpg"
 page_type: book
 mirror_state: none
 description: ""
@@ -13,7 +13,7 @@ tags:
   - "Marxism"
   - "Friedrich Engels"
 images:
-  - "https://files.libcom.org/files/images/library/7705080.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/77443a85a811881f.jpg"
 links: []
 files: []
 ---

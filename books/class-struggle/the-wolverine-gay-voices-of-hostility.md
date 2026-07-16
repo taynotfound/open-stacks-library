@@ -5,7 +5,7 @@ date: ""
 category: "class-struggle"
 source: "https://libcom.org/article/wolverine-gay-voices-hostility"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/wolverinelogo_0.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f483af62f7c2317.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "United Kingdom"
   - "gay liberation"
 images:
-  - "https://files.libcom.org/files/images/library/wolverinelogo_0.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4f483af62f7c2317.png"
 links: []
 files: []
 ---

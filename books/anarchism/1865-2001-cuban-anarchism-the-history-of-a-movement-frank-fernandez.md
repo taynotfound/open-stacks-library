@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/1865-2001-cuban-anarchism-history-movement-frank-fernandez"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/cuban-anarchism.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f3fc8afde93a1aa9.jpg"
 page_type: book
 mirror_state: full
 description: ""
@@ -16,7 +16,7 @@ tags:
   - "mobi"
   - "epub"
 images:
-  - "https://files.libcom.org/files/cuban-anarchism.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f3fc8afde93a1aa9.jpg"
 links:
   - url: "http://www.illegalvoices.org"
     text: "Anarchist People of Colour (US) website"

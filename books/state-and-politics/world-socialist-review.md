@@ -5,7 +5,7 @@ date: ""
 category: "state-and-politics"
 source: "https://libcom.org/article/world-socialist-review"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/library/world-socialist-review-banner-outline-on-transparent.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8101d33437996b67.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -17,7 +17,7 @@ tags:
   - "WSPUS"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/images/library/world-socialist-review-banner-outline-on-transparent.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8101d33437996b67.png"
 links: []
 files:
   - name: "wspus-world-socialist-review-1986-1.pdf"

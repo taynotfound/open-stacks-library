@@ -5,7 +5,7 @@ date: ""
 category: "fascism-and-antifascism"
 source: "https://libcom.org/article/antifa-england-2000s"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2025-12/antifa-england2-logo.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c5df522d14c4e4b6.png"
 page_type: book
 mirror_state: full
 description: ""
@@ -14,7 +14,7 @@ tags:
   - "PDF"
   - "anti-fascism"
 images:
-  - "https://files.libcom.org/files/2025-12/antifa-england2-logo.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c5df522d14c4e4b6.png"
 links: []
 files:
   - name: "AntifaIntro.pdf"

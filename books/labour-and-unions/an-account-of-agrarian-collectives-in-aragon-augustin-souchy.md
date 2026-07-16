@@ -5,7 +5,7 @@ date: ""
 category: "labour-and-unions"
 source: "https://libcom.org/article/account-agrarian-collectives-aragon-augustin-souchy"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/images/history/phoca_thumb_l_spanien72%5B1%5D.jpg"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e8407a080166a6b9.jpg"
 page_type: article
 mirror_state: none
 description: ""
@@ -18,7 +18,7 @@ tags:
   - "Spanish civil war"
   - "accounts"
 images:
-  - "https://files.libcom.org/files/images/history/phoca_thumb_l_spanien72%5B1%5D.jpg"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e8407a080166a6b9.jpg"
 links: []
 files: []
 ---

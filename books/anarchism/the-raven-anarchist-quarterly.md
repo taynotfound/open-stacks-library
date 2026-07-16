@@ -5,7 +5,7 @@ date: ""
 category: "anarchism"
 source: "https://libcom.org/article/raven-anarchist-quarterly"
 source_name: "libcom.org"
-cover: "https://files.libcom.org/files/2022-04/raven%20covers.png"
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c54ea963c6d00634.png"
 page_type: book
 mirror_state: none
 description: ""
@@ -15,7 +15,7 @@ tags:
   - "publications"
   - "PDF"
 images:
-  - "https://files.libcom.org/files/2022-04/raven%20covers.png"
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c54ea963c6d00634.png"
 links:
   - url: "https://www.freedompress.org.uk/ "
     text: "http://www.freedompress.org.uk/"
