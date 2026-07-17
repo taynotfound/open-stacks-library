@@ -86,9 +86,14 @@ for f in md_files:
     # full = we have a readable copy here (full archived body OR a self-hosted file)
     # partial = we hold some files but not the full text
     # none = we only link out; no body, no hosted files
+    # linked_only: true forces "none" — for curated pointer entries whose body is
+    # just a short editorial blurb + source link, NOT an archived full copy.
+    linked_only = bool(re.search(r'true', meta.get("linked_only", ""), re.I))
     has_body = len(body) > 40
     hosted_files = [x for x in meta["files"] if x.get("hosted")]
-    if has_body or hosted_files:
+    if linked_only:
+        state = "none"
+    elif has_body or hosted_files:
         state = "full"
     elif meta["files"]:
         state = "partial"
