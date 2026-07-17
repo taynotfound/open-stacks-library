@@ -1,0 +1,89 @@
+---
+title: "Anarchists in Israel - Sam Dolgoff"
+author: "Sam Dolgoff"
+date: "1986"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/sam-dolgoff-anarchists-in-israel"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "In the mid-1970s Esther and I embarked on a two-week tour of Israel, not merely to see the sights, but to contact our anarchist comrades publishing their organ Problemen. We also wanted to contact Israeli settlers whom we already knew at ho"
+tags:
+  - "anarchism"
+  - "Israel"
+  - "Jewish Anarchism"
+  - "Anarcho-Communism"
+  - "Palestine"
+  - "Organizational Dualism"
+  - "anti-militarism"
+  - "pdf"
+files:
+  - name: "Anarchists in Israel.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sam-dolgoff-anarchists-in-israel.pdf"
+    hosted: true
+  - name: "Anarchists in Israel.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sam-dolgoff-anarchists-in-israel.epub"
+    hosted: true
+---
+
+# Anarchists in Israel
+
+*by Sam Dolgoff*
+
+> This article, from the book “Fragments: a memoir,” by Sam Dolgoff (Refract Publications, 1986) recounts a trip to Israel by Sam and his wife Esther, to meet the anarchists t
+
+In the mid-1970s Esther and I embarked on a two-week tour of Israel, not merely to see the sights, but to contact our anarchist comrades publishing their organ *Problemen*. We also wanted to contact Israeli settlers whom we already knew at home. We felt that the trip was all the more necessary because altogether too many comrades did not even know that there were a few anarchist groups in Israel, much less an anarchist publication there.
+
+We immediately contacted the editor of *Problemen*, Joseph Ludin, a prolific writer, himself an anarchist refugee from Poland. Ludin and the comrades were most hospitable. “You are most welcome to stay with us and save hotel bills.” We spent some time at Ludin’s home in Tel-Aviv where we were informed about the situation in Israel and what our comrades were trying to do. A little later we were escorted to the anarchist center in Tel-Aviv, a good-sized hall with an impressive library of Hebrew, Yiddish and a sprinkling of Russian and Polish literature, a well-equipped kitchen and other conveniences.
+
+It was at the center where we had the pleasure of meeting Dina, the widow of the unforgettable Polish anarchist Eliesor Hirshauge. Dina lived on the premises and took care of the hall. She presented us with an autographed copy of Eliesor’s work, *The Anarchist Movement in Poland: Memoirs and Comments*. The little book is really a most important work, a primary source which should be translated into English and other idioms. Dina passed away a few years ago. The center was closed and the books donated to libraries.
+
+While in Israel we were anxious to meet F. Hochauser Armony, listed in the directory as a “teacher of languages.” I greatly enjoyed reading his dispatches and articles in the Spanish anarchist periodicals *Solidaridad Obrera, CNT* and other anarchist journals. Armony was a talented and prolific writer who, before coming to Israel, lived in Spain, Portugal, France, Italy and other countries. He and his comrade, Simcha Hamburg, now co-editor of *Problemen*, spent a few hours with us at our hotel in Haifa. Armony was by no means an uncritical Israeli patriot as were so many settlers, but he deeply deplored the attitudes of many anarchists who, while rightfully condemning Israeli nationalism and chauvinism, ignored the atrocities committed by the Arab tyrants against their own subjects. We mourned his death a few years ago.
+
+We noted considerable interest in anarchism in student circles manifested in conversations with students we met at the universities in Haifa and in Tel-Aviv. Ludin, Dina and other comrades informed us that the anarchist center was over-crowded for the occasional discussion meetings. All the young people we talked with violently denounced the outrageous conduct of the fanatical orthodox Jews. In their attitude toward women, their contempt for legal restrictions and traditional conservative attitudes toward sex and parental authority, the young Israeli rebels are just as, if not more advanced than the young nonconformists elsewhere.
+
+We came across quite a few Israeli imperialists who insisted that Israel should by force of arms reconquer territories which they claimed belonged to Israel thousands of years ago. However, sentiment for peace was so intense that many Israelis would gladly make peace even if further concessions had to be made.
+
+Although Israeli Arabs are entitled to the same legal rights as other Israeli citizens, there are, unfortunately, many Israelis who mistreat their Arab neighbors as “inferior” menials fit only to do the low paid “dirty work” which nobody else wants. They look upon the Arabs somewhat like American racists do negroes. (The Jewish fascist Rabbi Kahane was lately elected to the Israeli legislature, the Knesset.)
+
+We felt better about all this when we visited the Jerusalem studio of our old friend the artist Rohr whom we knew in New York. Rohr is not an anarchist, but his tolerant humanistic attitude impressed us. Rohr maintained that if Israeli Jews were ever to attain good relations with the Arabs here in Israel, their whole attitude toward them must change. They must adopt a truly brotherly attitude toward their Arab neighbors in Israel, learn to live together in mutual esteem and respect as equals.
+
+Rohr did not merely preach, but lived his ideals. He conducted his life in accordance with the noblest libertarian traditions of the pioneers who built the Israeli kibbutzim. When he made his periodic trips to the United States and other countries to sell his paintings (we have a few) and deliver talks about life in Israel, *all* the proceeds went, not to him, but to his kibbutz. Unfortunately we could not accept his invitation to visit his kibbutz. I do not know what happened to him or to his family, but did hear that they suffered a number of misfortunes.
+
+#### The Israeli Anarchists
+
+*Problemen*, the first bi-monthly periodical of the Israeli anarchists whose first editor was the Russian Jewish anarchist Abba Gordin (deceased), was originally published in both Yiddish and Hebrew, the official language of Israel. I was told that *Problemen* was no longer published in Hebrew, only in Yiddish, which many, if not most, Israelis did not understand, because there were not enough capable Hebrew anarchist writers and, more importantly, that *Problemen* was really an international periodical: the only surviving Yiddish language paper in the world. In view of this, *Problemen* publishes cultural, historical, literary articles and essays and news of common interest to the former readers of the defunct Yiddish anarchist papers. Comments on Israeli problems are usually found in the editorial article. There is no official policy or formal statement of principles. Important points are summed up in the following extracts:
+
+> Everyone knows that by us in Israel there is no shortage of demagogues and liars. The government ruined the economy, spread chauvinism, reinforced the power of the clergy, sharpened the enmity between us and the Arab people.... we deplore the hypocrisy of the Israeli Labor Party. They blame the Begin government for everything, but they have themselves been guilty of the same crimes when they were in power.
+>
+> We know from our own experience that politicians and diplomats neither will, or can, ever achieve peace between nations. They find it easier to make war than to make peace. A state of peace involves understanding and agreement between peoples, not capitulation of one parry to another. But peace is never made in good faith or without ulterior motives. This is why it would he easier to conclude peace with the Arab people than with their rulers. To achieve this we must renounce ruling the Arab people in Israel, abandon our snobbish attitude, and together with them live in brotherhood.
+
+(In this connection we were impressed by the declaration of an old settler in a kibbutz we visited that the pioneer settlers in Israel were welcomed and assisted by their Arab neighbors *before, not after* the Israeli state was established.)
+
+> As far as the eleventh election campaign of both the reactionary and liberal parties to the Knesset is concerned, we know full well that both these parties are ideologically bankrupt, without social vision. Their one aim is the conquest of power. Their party and personal interests are, for them, more important than the interests of the people. Neither one nor the other will solve the difficult problems facing Israel. Neither one nor the other has a constructive social program for the people; obliterate the gulf between the few rich and the many poor or establish peaceful relations with the Arabs living in Israel. Neither one nor the other will, or is able to do away with the bureaucratic state apparatus; end the shameful parliamentary intrigues which are for both blocs necessary to promote their political careers and secure for themselves well paid and privileged posts.
+>
+> Especially tragic for the Israeli masses is the domination of the minority of orthodox religious politicians over the majority of the people. Their hooligans terrorize the non-religious citizens, stone passing vehicles violating the Sabbath. They connive to obtain for themselves the best well paying job in the state agencies, supporting administrations that give them more. The religious politicians blackmail both the liberal and reactionary parties to grant their demands in exchange for their indispensable support in coalition governments. All this, and more, is why even the most “liberal” parties are, for their own self-interest, unwilling and unable to curtail the power of the ultra-religious well-organized power bloc. This can only be accomplished by organizing free *non-party* people’s clubs to protect them from religious domination.
+>
+> Unfortunately, the Israeli masses, the only ones able to break up this criminal alliance between the powerful, all-pervasive governmental bureaucracy, the military adventurers, the ultra-reactionary clergy and the capitalists, are psychologically and educationally unable to revolutionize Israeli society. As children they are already indoctrinated to blindly obey their parents, their elders, their “revered leaders.” Later, they are taught never to question the “revealed truths” hammered into their heads by their teachers and their “superiors.” They are taught that for “success in life” they must conform to things as they are, to respect authority- never revolt.
+>
+> What has become of the libertarian grass-roots people’s movements that flourished *before* the establishment of the Israeli state- the communes, the settlements, the kibbutzim, the cooperatives, the self-managed workers industrial and agricultural enterprises? ... The constructive libertarian institutions are now becoming increasingly corrupted by the cult of state centralization. Now, over thirty years later, we see how heavy a price in freedom of action, in loss of morale, in creativity, in self-management, the Israeli people are paying for their submission to the state; a swollen bureaucracy, the continuing degeneration of the kibbutzim into de facto capitalist enterprises with low-paid wage labor, private property, production for profit and the other “blessings” of capitalism.
+
+In spite of all this, the Israeli comrades are forced, like the other tendencies, to accept the fact that Israel must be defended. The day after the proclamation of the state of Israel (15 May 1948) Assam Pasha, Secretary-General of the Arab League, threatened that: “This will be a war of extermination and momentous massacres like the Mongolian massacres and the Crusades.” In discussion with Israeli anarchists it was emphasized that the unilateral dismantling of the Israeli state would not at all be anarchistic. It would, on the contrary, only reinforce the immense power of the Arab states and actually expedite their plans for the conquest of Israel.
+
+Israel is a tiny, impoverished land lacking the indispensable military and economic resources to defend itself without outside help. Its very existence depends upon the military, financial and economic support of the United States, and, if need be, its direct military intervention. It is to all intents and purposes reduced to the status of a satellite subject to the control of the United States.
+
+Far from curtailing the concentrated power of the state, the necessity for defense of Israel-freely acknowledged by our comrades- depends upon putting into effect the indispensable military, economic, legislative and social measures needed to keep Israel in a permanent state of war preparation. Such war preparations, instead of lessening, only accelerate the trend toward despotism, the permanent characteristic of every state. The Israeli anarchists (and they are not the only ones, the non-anarchists too) know only too well that curtailing the power of the state under such circumstances offers no real alternative. But they do feel their moral obligation as anarchists to resist as much as they can the growing despotism of the Israeli state.
+
+Since “politicians and dictators” will not, and cannot in good faith, conclude peace with Israel, it would not, as claimed by *Problemen*, be at all easy, but actually *impossible* to consummate peace with the Arab *people*. To achieve a true accord and alliance with the Arab people, the Arab masses would have to defy their rulers by refusing to obey their commands. This the backward, fanatically religious Arab masses, who are by no means more progressive and perhaps more reactionary than their rulers, are not inclined to do. With relatively few honorable exceptions, the majority of Arabs hate the “Israeli invaders.” Under such deplorable circumstances “peace and brotherhood” between Arab and Israeli people is doubtless a laudable but impractical proposal. But it is still their moral obligation, as anarchists, to plant by word of mouth and by example, that voluntary cooperation, mutual aid and solidarity of all peoples in brotherhood must, and can eventually be achieved.
+
+There is no anarchist movement in Israel. If Joseph Ludin could no longer edit the paper, there would be no one to replace him and *Problemen*, the only anarchist paper in Israel, would disappear. Yet the few aging comrades courageously continue to propagandize the necessity for the disappearance of the state, to be replaced by free local, provincial, national and international federations and confederations of free peoples. They know, of course, that our ideal cannot be realized in the foreseeable future. But for them, the essence of anarchism as a living movement of the people is to stimulate the spirit of revolt and influence movements for the free society in an anarchistic direction.
+
+This is a realistic policy. A small, but growing movement of progressive workers, radical minded students and oppressed feudal agricultural toilers in revolt against political-social-economic despotism is, however faintly, beginning to emerge. Many of these rebels (I met quite a few in American academic circles on my tours) are receptive to anarchist ideas.
+
+Iran is a good example. As I write these lines I read a graphic report by the Iranian militant Alexander Bazarov in the Canadian anarchist journal *Srike!* (February 1985). The headline “STRIKE WAVE SWEEPS IRAN: A CLASS RE-AWAKENS!” refers to a month-long strike of twenty thousand workers in the great iron industry of Ispahan. During the height of the strike, the workers detained the management inside the plants as hostages. This strike was by no means an isolated incident. In the past six months there were a hundred spontaneous rank-and-file workers’ strikes.
+
+In another article in the Iranian bimonthly emigre journal *Ezane Azud* (The Free Man) dedicated toward the spread of anarchist ideas among the exiled Iranian community we are informed that “The courageous individuals and groups both inside and outside of Iran continue to organize for the overthrow of religious autocracy.”
+
+We left Israel in the hope that the inspiring efforts of the little band of comrades, struggling against such great odds, will be encouraged and sustained.
