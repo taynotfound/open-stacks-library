@@ -3,10 +3,36 @@
 in ONE request instead of ~2000 individual GitHub raw fetches.
 Index carries all list/detail metadata + short desc, but NOT the full body.
 Bodies are lazy-fetched per book only when opened."""
-import glob, re, json, os
+import glob, re, json, os, subprocess, html, time
 
 ROOT = os.environ.get("OS_ROOT", ".")
+SITE = "https://theopenstacks.apolochees.me"
 md_files = sorted(glob.glob(ROOT + "/books/**/*.md", recursive=True))
+
+
+def git_added_dates():
+    """Map books/<cat>/<slug>.md -> unix timestamp of first (Add) commit.
+    One git pass; falls back to filesystem mtime if git is unavailable."""
+    dates = {}
+    try:
+        p = subprocess.run(
+            ["git", "-C", ROOT, "log", "--diff-filter=A", "--name-only",
+             "--format=%at", "--", "books/"],
+            capture_output=True, text=True, timeout=120)
+        cur = None
+        for ln in p.stdout.splitlines():
+            ln = ln.strip()
+            if not ln:
+                continue
+            if ln.isdigit():
+                cur = int(ln)
+            elif ln.endswith(".md") and cur and ln not in dates:
+                dates[ln] = cur  # first time we see it = newest add (git log is newest-first)
+    except Exception:
+        pass
+    return dates
+
+ADDED = git_added_dates()
 
 
 def unq(s):
@@ -145,7 +171,11 @@ for f in md_files:
         "slug": slugify(title),
         "path": rel,
         "hasBody": len(body) > 40,
+        "added": ADDED.get(rel, int(os.path.getmtime(f))),
     })
+
+# newest first for recently-added surfacing
+out.sort(key=lambda e: e.get("added", 0), reverse=True)
 
 with open(ROOT + "/index.json", "w", encoding="utf-8") as fh:
     json.dump(out, fh, ensure_ascii=False, separators=(",", ":"))
