@@ -123,6 +123,39 @@ def file_size(f):
     return 0
 
 
+LANG_NAMES = {
+    "en": "English", "de": "Deutsch", "fr": "Francais", "es": "Espanol",
+    "it": "Italiano", "pt": "Portugues", "zh": "Chinese", "ru": "Russian",
+    "bg": "Bulgarian", "nl": "Nederlands", "pl": "Polski",
+}
+# filename-prefix (sister-mirror slugs) -> language code
+_PREFIX_LANG = {"de": "de", "fr": "fr", "es": "es", "it": "it",
+                "pt": "pt", "zh": "zh", "ru": "ru", "bg": "bg", "talde": "de"}
+
+
+def derive_lang(meta, rel):
+    """Language code for an item. Priority: explicit front-matter `language`,
+    then sister-mirror filename prefix (books/<cat>/<code>-slug.md), then
+    source_name host prefix, then native-language tag, else English."""
+    explicit = (meta.get("language") or meta.get("lang") or "").strip().lower()
+    if explicit:
+        return explicit[:2]
+    base = os.path.basename(rel)
+    pre = base.split("-", 1)[0].lower()
+    if pre in _PREFIX_LANG:
+        return _PREFIX_LANG[pre]
+    sn = (meta.get("source_name") or "").lower()
+    m = re.match(r'(de|fr|es|it|pt|zh|ru|bg)\.anarchist', sn)
+    if m:
+        return m.group(1)
+    tagset = {t.lower() for t in meta.get("tags", [])}
+    for code, nm in (("de", "deutsch"), ("fr", "francais"), ("es", "espanol"),
+                     ("it", "italiano"), ("pt", "portugues")):
+        if nm in tagset:
+            return code
+    return "en"
+
+
 out = []
 for f in md_files:
     txt = open(f, encoding="utf-8").read()
@@ -166,6 +199,7 @@ for f in md_files:
         "source": meta.get("source", ""),
         "cover": meta.get("cover", ""),
         "sourceName": meta.get("source_name", ""),
+        "language": derive_lang(meta, rel),
         "atRisk": bool(re.search(r'true', meta.get("at_risk", ""), re.I)),
         "desc": desc,
         "slug": slugify(title),

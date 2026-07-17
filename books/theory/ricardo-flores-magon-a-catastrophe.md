@@ -1,0 +1,50 @@
+---
+title: "A Catastrophe - Ricardo Flores Magón"
+author: "Ricardo Flores Magón"
+date: "1912"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/ricardo-flores-magon-a-catastrophe"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "“I will not sacrifice myself so that others may live,” said the peasant miner Pedro in a clear voice when his coworker Juan unfolded before his eyes an issue of the newspaper “Regeneration.” It was filled with details about the revolutionar"
+tags:
+  - "theory"
+  - "fiction"
+  - "pdf"
+files:
+  - name: "A Catastrophe.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-ricardo-flores-magon-a-catastrophe.pdf"
+    hosted: true
+  - name: "A Catastrophe.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-ricardo-flores-magon-a-catastrophe.epub"
+    hosted: true
+---
+
+# A Catastrophe
+
+*by Ricardo Flores Magón*
+
+> Translated from Spanish by Mitchell Cowen Verter.From “Regeneration” number 72. January 13, 1912.
+
+“I will not sacrifice myself so that others may live,” said the peasant miner Pedro in a clear voice when his coworker Juan unfolded before his eyes an issue of the newspaper “Regeneration.” It was filled with details about the revolutionary movement of the Mexican proletariat. “I have a family,” he continued. “What an idiot I would be to expose my belly to the gunfire of federal soldiers.”
+
+Juan received the observation of Pedro without surprise. Others had told him the same thing. Some even tried to punch him when he told then that there were places where the peasants had disposed of their masters, and had made themselves the owners of the plantations. Some days passed. Juan, after buying a good carbine rifle with an abundant supply of cartridges, penetrated the mountain range to the place where he knew rebels were waiting. He was not interested in knowing to what faction the revolutionaries belonged or what ideals they defended. All the better if they were people like him; that is, those who hoist the red flag, struggling to strengthen themselves in order to found a new society, in which each person would be the master of himself and no one the oppressor of the others. He would join up with them. He would augment with his person the number of combatants as well as the number of minds in the great redemptive work, which so badly needed rifles as well as minds capable of illuminating other minds, and hearts capable of inflaming other hearts with the same fire. However, if the marauders in the outskirts were not people like him, it did not matter: He would join with them anyways, for he considered it the duty of a freedom fighter to mingle with his unconscious brothers to talk with them about the rights of the proletariat.
+
+One day, the wives of the miners thronged together at the door to the mine. A landslide had closed one of the tunnels in the mine, leaving more than fifty workers unable to communicate with the outside. Pedro was among these people, and, like the others, had no hope of escaping death. In the darkness, the poor peasant thought of his family; for them, he felt a terrible agony He was deprived of water and food, but, finally, after a few days, the repose of death would come. But what about this family? What would become of his wife and his children, as small as they were? He also thought with rage about the barrenness of his sacrifice. He realized belatedly that Juan, the anarchist, was right when, unrolling “Regeneration” before his face, he had spoken enthusiastically about the social revolution, of the necessary war between the classes. It was indispensable for man to cease being the slave of another man, for all to be able to lift a piece of bread to their mouths, for them to eliminate crime, prostitution, and misery in one stroke. The poor miner then remembered the cruel sentence he, in a certain way, threw in the face of his friend Juan as if it were spittle “I will not sacrifice myself so that others may live.”
+
+The pensive miner was buried alive from working so that the bourgeois owners of the enterprise could live from his labor. Meanwhile, the women cried outside, twisting their arms, crying out pleas that they be returned to their spouses, their brothers, their sons, their fathers. Crews of volunteers presented themselves to the managers of the enterprise. They asked for permission to do something to rescue those unfortunate human beings, who awaited a slow death in the mine, horribly wasting away from hunger and thirst. The rescue workers began, but how slow it went! Furthermore, could they even be sure that the miners were still alive? Didn’t everyone remember that the capitalists, in order to increase their profits, did not provide enough wood to support the tunnels? Precisely these poor supports caused the catastrophe. Nevertheless, men of good will worked, taking turns from dawn to dusk. The bourgeois owners of the mine did not give the miserable families of the victims even a fistful of corn to make some tortillas or a glass of horchata, even though the capitalists owed their spouses, brothers, sons, and fathers salary from many weeks of work.
+
+Forty eight hours had passed since the catastrophe occurred. The sun, outside, illuminated the desolation of the miners’ families. Meanwhile, in the bowels of the earth, in the dark caverns, the ultimate act of the horrible tragedy approached. Maddened by thirst, possessed by a savage desperation, the miners whose minds had been severely weakened struck furiously at the hard rock with their picks for some minutes until they soon fell down prostrate. Some never got up again. Pedro thought. How blissful Juan must be in these moments, free like all men who have a firearm in their hands, satisfied like all men who have a great idea and fight for it. In these moments, Juan would be clashing against the soldiers of the Government, Capitalism, and the Church, precisely again the torturers who were guilty of burying him alive so that their profits wouldn’t diminish. Then he felt himself shake with fury against the capitalists, who drink the blood of the poor. He then remembered the sayings of Juan. Even though they had always seemed boring to Pedro, they now gave him all the courage he could muster. He remembered one day when Juan, while rolling a cigarette, had spoken to him of the dreadful number of victims that industry disgorges each year in all countries. He endeavored to demonstrate that more human beings die in derailments, in shipwrecks, in fires, in mine landslides, in the infinite workplace accidents than in the bloodiest revolution. This wasn’t even including the millions and millions of people who died of anemia, of overwork, of malnourishment, of sicknesses contracted from the bad hygienic conditions in poor people’s homes and in the workshops, mills, factories, foundries, mines, and other establishments of exploitation.
+
+Pedro also remembered how he listened to Juan that time with such contempt. He repelled Juan with such brutality when the propagandist advised him to send his small contribution, whatever he could afford, to the Revolutionary Organization that worked for the economic, political, and social liberty of the working class. He remembered that he had told Juan. “I am not such a ... blockhead to give my money; better that I get drunk!” And some semblance of remorse tortured his heart. In the anguish of the moment, with the lucidity that sometimes comes in critical moments, he thought that it would have been preferable to die defending his class than to suffer a gloomy, hateful death so that bourgeois thievery could survive. He imagined Juan, bosom to the ground, repelling the gunfire of tyranny’s soldiers. Pedro imagined him radiant with joy and enthusiasm, carrying in his fist the hallowed standard of the oppressed, the red flag. He pictured him being so magnificent, so beautiful, his locks blowing in the air, in the middle of combat, hurling dynamite bombs into the enemy trenches. He saw him leading some valiant people towards a plantation to tell the peasants. “Take everything for yourselves and work for your own well being, like human beings and not like beasts of burden.” And poor Pedro wanted a life like Juan’s, which he now understood was fecund; but it was already too late for that. Even though some moments still remained for him, he was dead for the world ...
+
+Fifteen days had passed since the date of the mine catastrophe. The despondent rescue workers abandoned the task of saving the miners. The relatives of the dead miners had to leave the countryside because they could no longer pay rent for their houses. Some of the daughters, sisters and widows sold kisses in the taverns for a piece of bread. Pedro’s oldest son found himself in jail. He had taken some patio tables from the mining company to make his home a bit warmer. In this tiny room, his mother lay stretched out on the ground, sick as a result of the moral blow she had suffered.
+
+All the relatives had come to the office to ask for the salary that was still owed to the miners. They did not receive even a cent. They had to negotiate with the Great Captain. As a result, they discovered that the dead miners exited life as debtors. The poor families had no one to pay the rents of their small houses. It was a beautiful day, during which nature was indifferent to human misery, when the sun crashed its rays upon the nearby reservoir, and the birds, free from masters, worked for their own benefit, chasing insects for themselves, for their chicks, and no one else. On this beautiful day, a representative of Authority, dressed in black like a buzzard and accompanied by some armed soldiers, paced from house to house, putting all the poor people into the street in the name of the Law and for the good benefit of Capital.
+
+This is how Capital pays those who sacrifice themselves for it.
+
+*One who votes only exchanges masters*
