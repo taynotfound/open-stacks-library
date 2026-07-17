@@ -1,0 +1,65 @@
+---
+title: "Bifolchi, Giuseppe, 1895–1978: Biography of an Italian anarchist communist who fought in the Spanish Civil War and then later in the Italian Resistance to the Nazis - Nick Heath"
+author: "Nick Heath"
+date: "March 7, 2007"
+category: "history"
+source: "https://theanarchistlibrary.org/library/nick-heath-bifolchi-giuseppe-1895-1978"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "Giuseppe Bifolchi, aka Viola, aka V. Born: Balsorano, Italy 1895. Died: Avezzano, Italy 1978. Giuseppe Bifolchi was born in the Abruzzi in Balsorano on 20th February 1895. A non-commissioned officer during World War One Giuseppe Bifolchi be"
+tags:
+  - "history"
+  - "biography"
+  - "Italy"
+  - "Spanish Civil War"
+  - "World War II"
+  - "anti-fascism"
+  - "pdf"
+files:
+  - name: "Bifolchi, Giuseppe, 1895–1978.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-nick-heath-bifolchi-giuseppe-1895-1978.pdf"
+    hosted: true
+  - name: "Bifolchi, Giuseppe, 1895–1978.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-nick-heath-bifolchi-giuseppe-1895-1978.epub"
+    hosted: true
+---
+
+# Bifolchi, Giuseppe, 1895–1978: Biography of an Italian anarchist communist who fought in the Spanish Civil War and then later in the Italian Resistance to the Nazis
+
+*by Nick Heath*
+
+***Giuseppe Bifolchi, aka Viola, aka V.
+  
+
+Born: Balsorano, Italy 1895. Died: Avezzano, Italy 1978.***
+
+Giuseppe Bifolchi was born in the Abruzzi in Balsorano on 20th February 1895. A non-commissioned officer during World War One Giuseppe Bifolchi became an individualist anarchist, later moving over to a pronouncedly organisational anarchist communism.
+
+Forced into exile in France in the 1920s, he became a supporter of the *Organisational Platform of the Libertarian Communists* of Arshinov, Makhno, Mett et al. He participated in the international meetings convened by the Platformists in 1927. [1]
+
+In 1924 he contributed to the single issue (15th December) of the Italian paper *L’Agitazione a favore di Castagna e Bonomini* published in Paris to support the two comrades Mario Castagna and Ernesto Bonomini accused of having killed two fascists and threatened with extradition. They were sentenced respectively to seven and eight years in prison.
+
+In 1927 he worked in a cement works and lived at 47 rue Rebeval in the 19th arrondissement of Paris with his partner Argentina Gantelli. He contributed to the French anarchist paper *Le Libertaire* under the signature “V”. The 7th August 1927 he took part in the demonstration in the Bois de Vincennes of the International Committee of Anarchist Defence for Sacco and Vanzetti. The same year he suffered an expulsion order in September and was forced to move to Brussels. There between1929-1931 he was the publisher of the Italian anarchist monthly *Bandiera Nera* (Brussels, 17 issues from April 1929 to May 1931). During the same period he contributed to the bilingual Franco-Italian paper published since 1900 in Geneva by Luigi Bertoni, *Il Risveglio anarchico-Le réveil anarchiste* and to the monthly magazine *Vogliamo* (Lugano, August 1929 – January 1931).
+
+In July 1936, with Camillo Berneri, M. Centrone, Girotti, Perrone, Ernesto Bonomini and Fantozzi he was part of the first group of Italians to go to Perpignan to prepare to fight in Spain. He was later joined there by Argentina. A member of the Italian section of the Ascaso Column, he was the leader of the group of riflemen who on the 25th August 1936 managed to capture the heights of Monte Pelato, albeit with heavy losses. He was later named as responsible for the Rosselli Column on the Huesca front. Giuseppe Biffolchi was the real military head of the column whose political head was the militant of the anti-fascist organisation, *Giustizia e Liberta*, Carlo Rosselli. In November 1936 during the offensive on Almudevar he was responsible for the right wing of the attack. Bifolchi showed great courage and calmness in action and was a significant tactician.
+
+During the events of May 1937 he was a member of the Italian section of the Defence Committee of the CNT.
+
+In a letter to his brother on the 14 August 1937, he wrote: “I can say that in Spain I have passed the happiest year of my existence, If I have to die I will die happy”.
+
+He was forced to return to France where he was arrested in 1937 at Perpignan and again served with an expulsion notice.
+
+He was able to bring back Spanish passports and these were used to help comrades in Belgium escape to South America on the eve of the Second World war. Thus the passport of Giovanni Aragno, killed on 7th January 1937 on the Mirabueno front, was used by the anarchist Emilio Marziani who, in 1940, departed from Anvers for South America, and that of Luigi Fthealda, killed January 1937 at Majadahonda (Madrid), was passed over to the anarchist Aramis Crenonini for the same purpose.
+
+In 1940 he was interned in a prison camp then extradited to Italy. There he was deported to Ponza and then Ventotene, and then fought in the Resistance. He was nominated as the “Liberation Mayor” of Balsorano in 1944. In this capacity he went on 4th June with a delegation from the town to plead with the Allies not to bombard Balsorano as the Germans had departed. The delegation was received in bad grace, and Balsorano was not spared two further artillery shellings before the firing stopped.
+
+After the Liberation he set up a fruit cooperative based on anarchist principles. He contributed to the anarchist magazine *L’Internationale*.
+
+In 1970 he appears to have lived in the USA.
+
+Giuseppe Bifolchi died at Avezzano on the 16th March 1978.
+
+[1] See also the “Anarchist Communist Manifesto” of the 1st Italian Section of the International Anarchist Communist Federation, set up after the international meetings in Paris and of which Bifolchi was a prominent member.
