@@ -1,0 +1,67 @@
+---
+title: "Bonk: University of California Office of the President Attacked - sacred black and red"
+author: "sacred black and red"
+date: "May 14, 2024"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/sacred-black-and-red-bonk-university-of-california-office-of-the-president-attacked"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "s-b-sacred-black-and-red-bonk-university-of-califo-1.png(<s-b-sacred-black-and-red-bonk-university-of-califo-1.png) “The beginning of every revolution is an exit, an exit from the social order that power has enshrined in the name of law, st"
+tags:
+  - "theory"
+  - "Bay Area"
+  - "Palestine"
+  - "free Palestine"
+  - "pdf"
+files:
+  - name: "Bonk.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sacred-black-and-red-bonk-university-of-california-office-of-the-president-attacked.pdf"
+    hosted: true
+  - name: "Bonk.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sacred-black-and-red-bonk-university-of-california-office-of-the-president-attacked.epub"
+    hosted: true
+---
+
+# Bonk: University of California Office of the President Attacked
+
+*by sacred black and red*
+
+[s-b-sacred-black-and-red-bonk-university-of-califo-1.png](<s-b-sacred-black-and-red-bonk-university-of-califo-1.png>)
+
+> “The beginning of every revolution is an exit, an exit from the social order that power has enshrined in the name of law, stability, public interest, and the greater good.”
+>   
+
+> - Basel al-Araj
+
+With the Aurora Borealis above us and the martyrs in our hearts, we attacked the UC Office of the President in solidarity with the Palestinian Resistance. Using a fire extinguisher filled with red paint we covered the facade and smashed seven windows. Then, with access to the building, we released 500 cockroaches inside and emptied a second fire exintguisher onto the interior. We finalized the act by leaving a water jug inscribed with “Bonk” at the scene—an homage to the militants of Cal Poly Humboldt and the international student encampment movement.
+
+As anti-colonial anarchists and communists we offer this act of material and spiritual solidarity with the hopes of shattering the illusion that resistance is limited to a single site.
+
+As Moten says “THE ONLY POSSIBLE RELATIONSHIP TO THE UNIVERSITY TODAY IS A CRIMINAL ONE.” The University’s true fascist form has been put on full display, and hiding behind hollow progressive ideals is no longer an option for the dead-eyed desk killers. Abolish the UC showed us in 2020 that the University of California is nothing more than a settler colonial project, that their police are protecting the gates of colony, where knowledge is produced and captured by the State to only dig its claws deeper into the flesh of Indigenous lands here and abroad. Let us not forget the UC became co-ed to breed settlers and populate the west coast. Speaking only to the UC's material connection to the Zionist entity obfuscates the extent of the political, theoretical, and cultural entanglements between the UC and the Israeli State. The University does not simply fund Israel, it creates Israel, and launches this white-colony into the post-modern Empire. What does divestment mean when the very essence and foundation of the institution is a fascist regime? Where does Zionism begin and end in the University of California? Is divestment an oxymoron? The UC must be abolished.
+
+The “working-class” public colleges are not safe from critique (nor attack). Some of the resulting encampments have established themselves as outposts of nonprofits and NGOs—loyal only to funders; moved by professional partnerships and personal brands. Revolutionary struggle and its legacies have been co-opted, deradicalized, and professionalized through identity-driven liberal pedagogies. By teaching a revisionist history that renders liberation movements compatible with capitalism, university-deputized counterinsurgents erase and demonize militant forms of struggle while smugly promoting an inert philosophy of nonviolence and respectability. This is one of many reasons why, although divestment is a valid and tangible baseline demand, our long-term focus should not be on reforming and reaffirming these institutions, but rather on resource expropriation and fucking them up irreparably.
+
+Across Bay Area university encampments and police-liasoned street mobilizations, escalation is consistently policed by weaponized liberal anti-oppression politics or crushed entirely by the fear of risk. Perpetual hand wringing over what could happen obscures what can be achieved. Attempting to shape a militant movement into something that will never have to contend with repression is to abandon the pursuit of revolutionary ends. The attack on UCOP began with an ask: how can political analysis be articulated through attack? An effective operation begins with the needs of the struggle, the goals of the cadre, and its limitations. Threat assessments should remain realistic and specific to the actions being carried out. Within the American empire, what is solidarity with the Mujahideen of Palestine and militant student movements if not shapeshifting into a political fighting force?
+
+We join the chorus calling for escalation in the imperial core: escalate, escalate, escalate! This is our historical and spiritual duty. To not hold this as truth is to give up and accept defeat, hoping someone else will do what it takes to disrupt the flow of capital into the settler-colonial project. We must bring the war home.
+
+> “Let them do their work because there is a manhood in that work which we will one day transform into holy struggle, and as long as the colonizer wants to kill our souls, these people are closer to God and to the love of holy struggle than are those who submit.”
+>   
+
+> - Sheikh Izz ad-Din al-Qassam
+
+For the children of Gaza
+  
+
+For the martyrs
+  
+
+With eternal revolutionary spirit
+  
+
+Break open the gates
+
+- sacred black and red
