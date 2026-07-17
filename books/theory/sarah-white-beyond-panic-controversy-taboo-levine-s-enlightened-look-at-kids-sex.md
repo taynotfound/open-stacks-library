@@ -1,0 +1,52 @@
+---
+title: "Beyond panic, controversy & taboo: Levine’s enlightened look at kids & sex - Sarah White"
+author: "Sarah White"
+date: "2002"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/sarah-white-beyond-panic-controversy-taboo-levine-s-enlightened-look-at-kids-sex"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "Harmful to Minors: The Perils of Protecting Children from Sex. Judith Levine. University of Minnesota Press, 2002. Before Judith Levine’s Harmful to Minors: The Perils of Protecting Children from Sex (2002) was even published, many people"
+tags:
+  - "theory"
+  - "children"
+  - "Fifth Estate"
+  - "Fifth Estate #359"
+  - "review"
+  - "sexuality"
+  - "pdf"
+files:
+  - name: "Beyond panic, controversy & taboo: Levine’s enlightened look at kids & sex.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sarah-white-beyond-panic-controversy-taboo-levine-s-enlightened-look-at-kids-sex.pdf"
+    hosted: true
+  - name: "Beyond panic, controversy & taboo: Levine’s enlightened look at kids & sex.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sarah-white-beyond-panic-controversy-taboo-levine-s-enlightened-look-at-kids-sex.epub"
+    hosted: true
+---
+
+# Beyond panic, controversy & taboo: Levine’s enlightened look at kids & sex
+
+*by Sarah White*
+
+> From Fifth Estate #359, Winter 2002–2003
+
+> ***Harmful to Minors: The Perils of Protecting Children from Sex.*** Judith Levine. University of Minnesota Press, 2002.
+
+Before Judith Levine’s *Harmful to Minors: The Perils of Protecting Children from Sex* (2002) was even published, many people were out in force condemning the book. Minnesota House Majority Leader and Republican gubernatorial candidate Tim Pawlenty called the book “trash.” E-mails and phone calls to the University of Minnesota Press admonished the publishers to “burn in hell.” Neither considerations of free speech nor the fact that Pawlenty and other critics had read only a couple of chapter excerpts restrained them from pressuring U of M Press to stop publication. The Press continued with publication. The Press continued with publication, but the University of Minnesota, which provides less than six percent of the Press’ funding, initiated an external review of the Press to evaluate it publishing criteria.
+
+So what prompted all the controversy? Levine writes that sex between an adult and minor is not always harmful to the minor. She specifies that non-consensual sex is harmful no matter who is involved, but she questions the notion that minors do not have the ability to consent to sexual relations with adults. Levine supports her question with research, just as she supports all issues raised in *Harmful* with research. Levine neither ignores age-related power imbalances nor claims that all adult-minor relationships are healthy. This is just one issue that she raises among many, yet the eager censors swarmed around the topic of adult-minor relationships.
+
+Some reviews suggested that people might be especially sensitive to the topic because of the recent child sex abuse cases in the Catholic church. However, these abusive situations make it all the more important to publish a book like *Harmful to Minors*. Levine points out that people in the USA talk less openly about sexuality — especially the sexuality of minors — as compared to other western cultures. Fear motivates much of the discourse around sexuality. Levine’s book helps deconstruct these fears and gives us coordinates for more enlightened discussions. If *Harmful* is able to prompt conversations about sexuality — its positives and negatives — children who are sexually abused would be more apt to tell someone thereby preventing future child abuse cases.
+
+Levine cites studies showing that education about sexuality that includes accurate information about pregnancy and disease prevention reduces the number of unwanted pregnancies and diseases. She explicitly details the needs for this more comprehensive sexuality education as an alternative to the predominantly abstinence-only programs either do not learn about methods of protection or only learn the reasons why these methods do not work. Therefore, when they do become sexually active (and studies show that they do so only months later than their abstinence-plus educated peers) they have higher incidence of pregnancy and disease because of their lack of accurate knowledge about prevention.
+
+Levine addresses what other discussions on child sexuality don’t: sex can be fun and pleasurable. However, when this missing discourse of desire is broached, it is usually within the context of male desire being forced upon an unwilling or innocent female. Levine maintains that this masculinist paradigm is problematic for a variety of reasons. First of all, its limits male desire to power and aggression to be used against women as opposed to a desire of pleasure for both himself and his partner. It also relegates female desire to the stereotype of the virgin/whore dichotomy. This aspect of desire is related to some of the controversy about adult-minor sexual relations: “statutory rape is not about sex the victim says she did not want,” explains Levine. But rather, “It is about sex she did want but which adults believe she only thought she wanted because she wasn’t old enough to know she did not want it.”
+
+*Harmful to Minors* is structured with two main sections. In the first, “Harmful Protection,” Levine offers information to understand and analyze the fears that promote censorship, “pedophile panics,” and the “gradual pathologizing of normative children’s sexuality.” She chronicles the shift to the right that has resulted in the abstinence-only movement, the absence of abortion within “the discourse of teen sex,” and the understanding of sex as synonymous with heterosexual intercourse.
+
+In the second part, “Sense and Sexuality,” Levine proposes “way of rethinking our approaches to kids’ sexuality ... based on a simple belief: erotic pleasure is a gift and can be a positive joy to people at every age.” Levine provides example of several successful approaches people have employed to reduce fear and promote intellectual and emotional engagement with issues of sexuality.
+
+The fear that *Harmful* deconstructs also propelled the out-cry and prompted the rejection of *Harmful* for publication by many different publishing houses. It is this same fear that prompted the University of Minnesota to succumb to pressure to commence the review of the U of M Press. This external review “conclude[d] that the Press not only meets the standards and norms of American university press publishing, but is in many respects more rigorous than most.” This leaves unanswered the question of why the University thought the review was needed. What does this say about the future of academic presses publishing controversial materials? The reigning social/political ideology reinforces a panoply of fears that threaten all free discussion inside of or in any way sponsored by public institutions.
