@@ -1,0 +1,117 @@
+---
+title: "An Improved Capitalism or the End of Capitalism?: Review of James Speth, The Bridge at the Edge of the World: Capitalism, the Environment, and Crossing from Crisis to Sustainability. - Wayne Price"
+author: "Wayne Price"
+date: "February 05, 2016"
+category: "economics"
+source: "https://theanarchistlibrary.org/library/wayne-price-an-improved-capitalism-or-the-end-of-capitalism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "There is an interesting development in the anti-climate change/ecological movement. Most environmentalist leaders and theorists have been liberals or moderates. They have seen capitalism and its state as the necessary framework for preventi"
+tags:
+  - "economics"
+  - "book review"
+  - "capitalism"
+  - "pdf"
+files:
+  - name: "An Improved Capitalism or the End of Capitalism?.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-wayne-price-an-improved-capitalism-or-the-end-of-capitalism.pdf"
+    hosted: true
+  - name: "An Improved Capitalism or the End of Capitalism?.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-wayne-price-an-improved-capitalism-or-the-end-of-capitalism.epub"
+    hosted: true
+---
+
+# An Improved Capitalism or the End of Capitalism?: Review of James Speth, The Bridge at the Edge of the World: Capitalism, the Environment, and Crossing from Crisis to Sustainability.
+
+*by Wayne Price*
+
+There is an interesting development in the anti-climate change/ecological movement. Most environmentalist leaders and theorists have been liberals or moderates. They have seen capitalism and its state as the necessary framework for preventing ecological catastrophe. But after decades of failure, some of these environmentalists have come to accept the analysis of radical ecologists, that the cause of climate warming (and other ecological problems) is the capitalist system, its drive to accumulate and grow indefinitely, its market, its inequality, poverty, and exploitation, and its national states. Yet these same environmentalists reject the radicals’ conclusion that capitalism must be replaced by socialism—meaning some kind of cooperative, nonprofit, economy with democratic planning and production for use. (As I will discuss, there is a decentralized and radically democratic version of socialism which is advocated by anarchists.)
+
+ This is a very well-written book that illustrates this reformist approach, as an expression of left-environmentalist politics.. The author does a fine job of summarizing a lot of information about the climate and ecological crises. At the time of publication, James Speth was dean of Yale’s School of Forestry and Environmental Studies. He reports that for about 40 years he was active in mainstream environmentalist politics. “*…I have helped launch environmental organizations, have been in court litigating…, and have lobbied Congress and testified there…. I have globe-trotted to any number of international summits….I served as President Jimmy Carter’s White House environmental advisor and as head of the the United Nation’s largest agency for international development.*” (Speth 2008; xi) Reviewing his previous book, Time magazine described him as the “*ultimate insider*.” (xi)
+
+ Yet he is dissatisfied. While the establishment environmentalists won certain improvements (in cleaner air and water, for example), overall the environment has gotten much worse. “*We have been winning battles…but losing the war.*” (xii) This recognition has moved him to his left.
+
+ While Speth was deep into respectable environmentalism, others had been developing more radical analyses. The anarchist and social ecologist Murray Bookchin (1980) had depicted the basic ecological problem as capitalism’s drive to grow or die, to accumulate ever greater amounts of capital. This creates an inevitable clash with the needs of a balanced and healthy nature/human eco-system. Analysis of this clash between the needs of capital accumulation and natural ecology was further developed by ecologically-concerned Marxist scholars, such as John Bellamy Foster (2000). If humanity and the world were to survive, these radicals concluded, then capitalism had to be replaced. While not opposed to fights for limited gains (Bookchin was in the movement against nuclear power), they believed that a revolution to establish socialism (of some sort) was necessary to prevent civilization-destroying catastrophe. Even now, this is not Speth’s view.
+
+ Speth apparently agrees with other writers such as Naomi Klein or Herman Daly. Daly, for example, has written a series of notable books and articles arguing for a “Steady State Economy.” He argues that the growth-driven industrial economy we live under is incompatible with an ecologically sustainable society. Daly advocates an economy which develops qualitatively, as he puts it, but not quantitatively (with appropriate and balanced development of the poorer nations). “*The remaining natural world no longer is able to provide the sources and sinks for the metabolic throughput necessary to sustain the existing oversized economy—much less a growing one….The economy must conform to the rules of a steady state—seek qualitative development, but stop aggregate quantitative growth.*” (Daly 2008; 1) Better not bigger. He believes that such an economy would produce as much happiness among the people as our existing system—if not more. “*…The correlation between absolute income and happiness extends only up to some threshold of ‘sufficiency’….*” (10)
+
+ However, while Speth and Daly wish to end the grow-or-die drive of our economy, they think they can do this while maintaining capitalism: private property in the means of production, competition among enterprises, profits, money, wage labor, and the market. Daly’s pro-capitalist views have been brilliantly critiqued by Richard Smith (2010). I too am going to argue against the politics of this reformist trend among those who still believe that an improved capitalism can avoid catastrophic warming.
+
+#### Speth’s View of the Crisis and Its Causes
+
+Speth reviews the bad news about climate change as well as other negative ecological developments. These include rising sea levels, loss of forests and farm land, loss of available healthy water, extinction of plant and animal species, the spread of toxic pollutants, and so on. These effects “*…could contribute to the forced migrations of large numbers of people.*” (25) (I hardly need to comment on this last point.)
+
+ How bad is it? Speth cites Sir Martin Rees, president of the Royal Society (UK), that “*the odds are no better than fifty-fifty that our present civilization on earth will survive to the end of the present century.*” (5-6) He quotes the NASA climate scientist, James Hansen, “*This warming has brought us to the precipice of a great ‘tipping point’.*” (27) Immanuel Wallerstein, world system analyst, is quoted, “*The present historical system is in fact in terminal crisis. The issue before us is what will replace it.*” (185) Speth concludes, if we “*keep doing exactly what we are doing today…the world in the latter part of this century won’t be fit to live in.*” (x)
+
+ Speth’s discussion of the social system’s “terminal crisis” was written shortly before the 2008 Great Recession. It was written eight years before the December 2015 global climate conference in Paris. That conference’s agreement, if fully implemented (a big “if,” since there is no enforcement mechanism) would bring the world about half-way to what is needed to prevent catastrophic global warming, with no program for going further. “Terminal crisis” indeed.
+
+ Like Bookchin and Foster, Speth sees the basic problem as due to capitalism and its grow-or-die requirements. “*Inherent in the dynamics of capitalism is a powerful drive to earn profits, invest them, innovate and thus grow the economy….These features of capitalism, as they are constituted today, work together to produce an economic and political reality that is highly destructive of the environment.*” (7) Much of the book explores this drive of capitalism toward unlimited quantitative growth, the role of the market in this drive, the centrality of the corporation in carrying out accumulation, the wastefulness of consumption under capitalism, and the domination of the corporations over governments.
+
+ Radicals can agree with almost all of this analysis. The ecological crisis may seem to be a “classless” problem (because it affects everyone on the planet). Yet it is essentially an effect of capitalism—which is ruled by the capitalist class—the class which dominates the state. Nevertheless, I have two criticisms of his theory, criticisms which apply to the whole reformist, liberal-environmentalist, trend.
+
+ The first is his belief that capitalism can be altered to not be driven to accumulate at all costs, or instead to develop in useful directions. This includes a belief that the market can be redirected to encourage pro-ecological development, and even that the corporations can be modified to be democratic and useful. Note his reference, in the last quotation, to “*features of capitalism, as they are constituted today,*” suggesting that capitalism might be reconstituted with better features. After criticizing capitalism’s drive to grow, he suddenly claims that it was only after World War II that “*growthmania*” became central to capitalism. Therefore “*there is hope that it is not a permanent or inevitable feature.…*” (122) But capitalism has always had an urge to unlimited growth, for centuries before the post-war period (when it became a government policy due to capitalism’s failure to grow during the Depression).
+
+ Speth believes in capitalism: “*The creativity, innovation,and entrepreneurship of businesses operating in a vibrant private sector are essential to designing and building the future.*” (11) Yet it is this supposed creativity, entrepreneurship, and vibrancy which is destroying the biosphere and the future! He also declares, “*Corporations also do tremendous good in the world.*” (165) Of course, since corporations dominate the economy, no doubt they produce most useful goods. But in the course of doing this, they are destroying the world.
+
+ Secondly, Speth writes of capitalism in a classless way. To speak of capitalism’s drive to accumulate is to speak of its need to exploit its workers. In essence capitalism is nothing but the capital/labor relationship—while it treats nature as having little or no marketable value. The accumulation of commodities and money comes from human labor, and from the workers being paid less than they produce. In the capitalist market, the workers’ ability to work (their “labor power”) is a commodity, to be bought by the capitalist for less than it can produce. The working class is essential and central to capitalism. Therefore it must be essential and central to any overturn of capitalism (and thus the saving of the world ecology). Yet Speth has nothing to say about the need to mobilize the workers, in their self-interest and in the interests of their children. There are one or two references to unions and that is it. The problem is not that he discusses other social forces, but that he does not raise the working class. Yet there is no other force in society which could stop industrial capitalism’s production, under its present motives, and start the economy up again on a new and better basis.
+
+ Probably, much of the reason Speth clings to capitalism (after his own reasoning discredits it), is his rejection of socialism. “*I myself have no interest in socialism or centralized economic planning….*” (11) He identifies socialism with ownership of the economy by the national state and top-down economic planning. This is really the program of state socialism (authoritarian socialism). Put in actual practice (as under Stalinist totalitarianism), it creates not socialism but state capitalism. State capitalism is also driven to accumulate, to maintain an internal market while competing on the world market, to exploit its workers, and to destructively treat nature as an endless mine. However, there are other, radically democratic and libertarian, versions of socialism, held by anarchists and some others.
+
+#### Speth’s Program
+
+Speth believes that it is possible to create a better, greener, and non-growth-oriented capitalism. Part of his program is standard liberal reform, including labor legislation (certainly worth supporting): “*…a shorter workweek and longer vacations; greater labor protections, job security and benefits…; restrictions on advertising;…strong social and environmental provisions in trade agreements;…genuinely progressive taxation for the rich and greater income support for the poor; major spending on public sector services and environmental amenities….*” (120)
+
+ More radically, he also proposes a slate of reforms to alter capitalist corporations: “*Revoke corporate charters….Exclude…unwanted corporations….Roll back limited liability…. Eliminate corporate personhood….Get corporations out of politics….*” (179) (He does NOT propose expropriating the “unwanted corporations,” taking away the capital of their capitalists, and turning them over to their workers or to communities.)
+
+ Even so, it should be obvious that these proposals, especially the latter, would be opposed by the capitalist class (and its hired politicians of both parties). They would fight tooth and claw, to the bitter end. The proposals would mean a rebalance of the government and the economy, from the capitalists to the working class and the oppressed. Such “reforms” would be seen as steps toward socialism. And they could be steps toward socialism—either that or failed reform efforts which re-establish capitalist domination. After all, even such reforms, taken in total, still maintain the basics of a capitalist economy—including the national state (which supposedly would be carrying out the reforms and regulating the corporations).
+
+ However, in a few places, Speth raises ideas which may point to a different approach than either an “improved” capitalism or a centralized statist fake “socialism”. For example, he notes (favorably) that the “*social greens…focus on redistribution policies—including power redistribution—to address environmental questions. Many favor a thoroughgoing decentralization and strong protection of local economies and communities. They question…the ability of governments as commonly constituted to guide sensible behavior.*” (44) These “social greens”, he even suggests, may be pointing “*to the new vision and new worldview that are needed*.” (45)
+
+ Later he suggests “*new forms of ownership and control*” at the local level. He discusses “*employee ownership…worker ownership*” of businesses. He points to the many forms of co-operatives: consumer, producer, farmer marketing, credit unions, and others. He refers to ownership and provision of services by cities—municipalization of industry as distinct from nationalization. “*…Ownership by workers, public ownership, and public and private enterprises that do not seek traditional profits…offer opportunities for greater local control [and]…heightened environmental performance.*” (194) Politically he seeks to modify, at least, the centralized state, “*at the community and regional levels…[with] deliberative or discursive democracy…direct democracy.*” (221)
+
+ Many other writers on ecological dangers similarly criticize the over-centralized system of industrial capitalism, and advocate a more decentralized system (discussed in Price 2016). They cite economic/technical issues as well the advantages of increased local democracy. For example, one report, which agreed with Daly’s goal of a Steady State Economy, noted, “*…We are built into and are still building ourselves into a centralized energy system. Such systems favor fossil and nuclear fuels over renewable energy, do not exploit the maximum efficiency possible.., and the energy system is subject to large distribution loses*.” (New Economic Foundation 2010; 102) Instead, it says, “*If installed at the local level, renewable energy schemes can also contribute to local economic regeneration…improve environmental literacy… [and] reduce [lack of] access to energy caused by poor living standards and low-incomes.*” (116)
+
+#### Libertarian (Anti-Authoritarian) Socialism
+
+Like Speth’s proposals, this points to libertarian socialism (socialist anarchism). Workers’ self-managed industries, co-operatives, local agro-industrial communities—in a federated, cooperative, non-profit, and participatory economy—is socialist anarchism. Nor does it rule out forms of democratic economic planning-from-below, if the cooperative enterprises associate in federations and networks. (For discussion of this approach, see Purchase 1994. He discusses radical ecology from an anarcho-syndicalist perspective.)
+
+ But this is not what Speth proposes. Firstly, because he wants such localized and self-managed enterprises to be independent businesses competing on the market (not federating). Secondly, he wants such arrangements to be limited only to “*a new sector*” (194) of the overall economy—next to the improved corporations—not as a whole new system.
+
+ With his proposed changes, Speth writes, “*We would no longer have capitalism as we know it….Whether this…is beyond capitalism or is a reinvented capitalism is largely definitional. And…no longer very important*.” (194) But it is very important. A “reinvented” capitalism would still have the drive to accumulate and therefore environmentally destructive effects. Even if such a change could be done, corporations and other businesses on the market would constantly tend to revert to the old, destructive, accumulative capitalism. And it is very unlikely to be accomplished in this gradualist fashion. The capitalist class and its national states would resist any change which seriously tried to go “beyond” the existing system or to “reinvent” it. They would not accept any proposals which threatened to take away their wealth and power, their corporations and banks, their industries, their mansions, and their bought-and-paid-for politicians—even in this modified, watered-down, form.
+
+ The objective crises—both ecological (climate change, pollution, etc.) and economic (stagnation, inequality, poverty, crises)—are frighteningly deep, a “terminal crisis”. The gap between them and popular consciousness is enormous. Speth hopes to overcome this gap (gradually and within the system) by building local alternate co-ops and such. This is not bad in itself, but not a strategy for overcoming capitalist resistance. He hopes for “*the rise of a new consciousness…a spiritual awakening*.” (199) A spread of ecological and internationalist consciousness would certainly be good, but in itself it is too abstract. It does not say what needs to be done. (Contrast with his earlier positive reference to “*the new vision and new worldview that are needed,*” raised by the decentralist radical “social greens.”)
+
+ More valuably he points to the need, in the U.S. and worldwide, for “*an international movement of citizens and scientists….a broad-gauged citizens’ movement, one that includes social justice as well as environmental concerns.*” (228-229) He includes “*organized labor*” as part of this movement. Unfortunately he also includes “*enlightened business leaders*” and “*progressive businesses*.” (229—230) Perhaps there may be cause for a temporary alliance on some local issue. On a national and international scale, business is, and must be, opposed to the program Speth has laid out. Even a (hypothetical) moderate, reasonable, capitalist, who is aware of the environmental danger, will reject proposals to “*Roll back limited liability [and] eliminate corporate personhood*.” (179) The capitalists are the enemy! The workers and all other oppressed people need to overturn the international capitalist class, take away their wealth, and dismantle their institutions, replacing them with participatory-democratic ones. This would be a revolution.
+
+ Speth rejects the alternative of revolution. He quotes a “political theorist” as writing, “*Historically, the outcomes of revolutions have generally borne little relation to the intentions of revolutionaries….*” (185) I will not write here about the positive and negative outcomes of historical revolutions. (I wonder if Speth and this theorist reject the outcome of the American Revolution?) But the argument for a popular revolution is twofold. Firstly, what is needed is not a slight change but a drastic reorganization of society, if we are to save humanity and the biosphere. Secondly, that the ruling rich and their agents will resist with all their might any such change, no matter how necessary, or how democratic and popular. Look at the otherwise inexplicable behavior of the U.S.’s two (pro-capitalist) political parties. One is crazily denying the existence of human-caused climate change, calling it a hoax and a conspiracy! The other verbally admits the problem, but carries out only half-measures and inconsistent actions. The capitalists and their politicians must be popularly forced to step down (whether with violence or non-violence depends on circumstances and is not the central issue).
+
+#### Conclusion
+
+It is a hopeful sign that such an establishment figure as Speth and liberals like Klein and Daly have turned to their left in dealing with the climate and related crises. They see the need for some sort of drastic change. They see capitalism (at least as it is) as the fundamental cause. They and those like them make suggestions which point to decentralization, cooperation, workers’ management, and local direct democracy. Yet they do not go all the way to libertarian socialism—as anarchists do. They mis-educate people to think that an improved capitalism might still work to avoid ecological and economic catastrophe. Yet Speth advocates some sort of international popular movement against climate change and the destruction of the world. On that much, we can agree.
+
+#### References
+
+<biblio>
+Bookchin, Murray (1980). Toward an Ecological Society. Montreal/Buffalo: Black Rose Books.
+
+ Daly, Herman E. (2008). “A Steady-State Economy.” Sustainable Development Commission, UK. (April 24, 2008).
+ http://www.sd-commission.org.uk/data/files/publications...e.pdf.
+
+ Foster, John Bellamy (2000). Marx’s Ecology: Materialism and Nature. NY: Monthly Review Press.
+
+ New Economic Foundation (2010). Growth Isn’t Possible. (January 25, 2010) London NEF.
+ http://www.neweconomics.org/publications/growth-isnt-po...sible
+
+ Price, Wayne (2016). “Eco-Socialism and Decentralism; The Re-Development of Anarchism in the Ecology/Climate Justice Movement.” Anarkismo.
+ http://www.anarkismo.net/article/28974?search_text=wayn...price
+
+ Purchase, Graham (1994). Anarchism & Environmental Survival. Tucson AZ: Sea Sharp Press.
+
+ Smith, Richard (2010). “Beyond Growth or Beyond Capitalism?” Real-World Economics Review, No. 53. 26 June 2010. Pp. 28—42.
+ http://www.paecon.net/PAEReview/issue53/Smith53.pdf
+
+ Speth, James Gustave (2008). The Bridge at the Edge of the World: Capitalism, the Environment, and Crossing from Crisis to Sustainability. New Haven: Yale University Press.
+</biblio>

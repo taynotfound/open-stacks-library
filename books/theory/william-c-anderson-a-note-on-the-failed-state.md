@@ -1,0 +1,45 @@
+---
+title: "A Note on the ‘Failed State’ - William C. Anderson"
+author: "William C. Anderson"
+date: "May 10, 2021"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/william-c-anderson-a-note-on-the-failed-state"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "The state cannot fail those who it was never meant to protect. To call the U.S. a “failed state” implies that it had the intention of serving the people it was designed to oppress. Yet, the proliferation of this form of criticism among libe"
+tags:
+  - "theory"
+  - "the state"
+  - "failure"
+  - "pdf"
+files:
+  - name: "A Note on the ‘Failed State’.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-william-c-anderson-a-note-on-the-failed-state.pdf"
+    hosted: true
+  - name: "A Note on the ‘Failed State’.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-william-c-anderson-a-note-on-the-failed-state.epub"
+    hosted: true
+---
+
+# A Note on the ‘Failed State’
+
+*by William C. Anderson*
+
+The state cannot fail those who it was never meant to protect. To call the U.S. a “failed state” implies that it had the intention of serving the people it was designed to oppress. Yet, the proliferation of this form of criticism among liberals, leftists, and otherwise became more prevalent in the wake of compounding crises of all sorts during the latter half of the Trump presidency. Analyzing what this term implies could help us better respond to the problems exposed by its limitations.
+
+Different people have different intentions when they dismiss the U.S. as a failure of a state, but the underlying assumption for many is that the state is supposed to benefit people. During a time when abolitionism is growing, particularly with regard to the prison industrial complex, it’s very important to understand the connections between the state and the people it destroys. Just as the criminal legal system is not “broken,” the state is not failing because exclusion and subjugation are definitive aspects of its formation. State violence does not occur because the state is working incorrectly, it occurs because this violence is how it maintains power.
+
+We can observe how the state sanctions violence through policing and the military to better comprehend the violence of the state as a whole. When the police kill, torture, or assault people we often hear this described as “excessive force.” We know the state grants the police power to use force (deadly and extrajudicial if they please) in the first place, so to condemn it as “excessive” is to grant it some measure of acceptability. It’s like saying, “You can have the right to kill, but maybe you shouldn’t have *this* time.” Labeling it in terms of excess reauthorizes the norm when it’s not considered unreasonable to freely execute people. This does absolutely nothing to challenge the standard of such atrocity because it casually reinforces and legitimizes the violence.
+
+Similarly, to say that the U.S. is a failed state is to ignore the fact that the foundation of the state is the immeasurable violence inflicted on Native people, Black people, immigrants, poor people, and many, many others. When we suggest it’s failing these very people, it implies that we can change or reform the core functioning of an apparatus that was structured with our domination and deaths as an intended result. This is not merely a U.S. phenomenon. Alongside Grace Lee Boggs and Cornelius Castoriadis, C.L.R. James [wrote the following](<https://libcom.org/library/facing-reality-clr-james-grace-lee-boggs-pierre-chaulieu>):
+
+> “The whole world today lives in the shadow of state power. This state power is an ever-present self-perpetuating body over and above society. It transforms the human personality into a mass of economic needs to be satisfied by decimal points of economic progress. It robs everyone of initiative and clogs the free development of society. This state power, by whatever name it is called, One-Party state or Welfare state, destroys all pretense of government by the people, of the people. All that remains is government for the people.”
+
+Of course not all states are equal in power and destruction, but if we seek to castigate states by making systemic violence into a failure, then we must then ask what is a successful state and does it not inflict unacceptable violence on people? Calling the U.S. a failed state runs the risk of engaging in an inadvertent act of faith in the U.S. project itself by suggesting that we believed it would do what it’s never done for oppressed people: serve them. “Failed state” also carries the exceptional baggage of Western superiority in it because it is often assigned to places in the Global South like Somalia, Iraq, or the Democratic Republic of Congo. It has the violence of hegemony and global finance embedded within it as a designation. Meanwhile, the imperialist violence and exploitation of Western states that make other countries “failures” gets excused by the liberal notion that states fail because they’re not functioning correctly or they’re “corrupt.” However, it’s clear that these countries suffered egregious aggression at the hands of other states nonetheless.
+
+What gets labeled failure—such as leaving people to die during ecological crises or not providing adequate resources to people in need—should lead us to question the necessity of the state. Instead of being attached to a form that doesn’t meet our needs, we should hope to reject it as a fulfilling project. The state is not going to change for us and we should be wary of efforts to seize state power in hopes of reforming this dangerous weapon into something supposedly better. Just as prison industrial complex abolitionists do not hope to make prisons more livable as the existence of prison is the problem, we should not hope to rehabilitate the oppressive conditions of confinement within the borders of the nation-state. A complete abolitionist vision requires us to challenge the idea that police, borders, and militaries must exist in the world. Some may feel the absence of a state would render us defenseless when we already have to defend ourselves from this monster on a daily basis. This reasoning could easily be compared to those who question how safe things would be without policing. The police are but one force of many that the state has authorized to kill us at any moment; that’s certainly not safety.
+
+Making the state form necessary and using the language of failure can represent a limit of imagination—that we are bound to repeat efforts to control something so dangerous it carries nuclear consequences. State power is a weapon that some fight to wield and others fight to destroy. No matter what people’s intentions are, we have to be honest about the purpose of state power. We’re failing ourselves if we believe the state will be where we find triumph, when we know it’s where we’ve suffered so much loss.
