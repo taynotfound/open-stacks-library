@@ -1,0 +1,55 @@
+---
+title: "Abad de Santillán, Diego (1897–1983) - Andrew H. Lee"
+author: "Andrew H. Lee"
+date: "2009"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/andrew-h-lee-abad-de-santillan-diego-1897-1983"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "Diego Abad de Santillán (a pseudonym of Baudillo Sinesio García Fernández, sometimes also spelled Hernández) was an anarchist intellectual influential both in the Spanish and Argentine movements. Abad de Santillán was born in Spain, but his"
+tags:
+  - "anarchism"
+  - "biography"
+  - "Spanish anarchists"
+  - "Argentina"
+  - "Spain"
+  - "pdf"
+files:
+  - name: "Abad de Santillán, Diego (1897–1983).pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-andrew-h-lee-abad-de-santillan-diego-1897-1983.pdf"
+    hosted: true
+  - name: "Abad de Santillán, Diego (1897–1983).epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-andrew-h-lee-abad-de-santillan-diego-1897-1983.epub"
+    hosted: true
+---
+
+# Abad de Santillán, Diego (1897–1983)
+
+*by Andrew H. Lee*
+
+> Published in The International Encyclopedia of Revolution and Protest.
+
+Diego Abad de Santillán (a pseudonym of Baudillo Sinesio García Fernández, sometimes also spelled Hernández) was an anarchist intellectual influential both in the Spanish and Argentine movements.
+
+Abad de Santillán was born in Spain, but his family moved to Argentina when he was a boy. He worked various jobs in Argentina and returned to Spain to continue his education, earning a doctorate in Madrid. There, he was active in the 1917 general strike, for which he faced a prison term. Amnestied a year later, he returned to Argentina, where he became a leading figure in the anarchosyndicalist Argentine Regional Work Federation (Fed- eración Obrera Regional Argentina, FORA) as editor of its journal, *La Protesta*. In 1922, as a delegate of the FORA, he attended the founding congress and the 1924 congress of the International Workingmen’s Association (IWMA) in Berlin, where he remained briefly to study medicine. In Germany, he became acquainted with a number of important anarchists, including Rudolf Rocker, Voline, Nestor Makhno, Alexander Schapiro, Emma Goldman, and Alexander Berkman, as well as Max Nettlau, whose work he translated into Spanish and published. Abad de Santillán went to Mexico in 1925 to aid the Mexican anarchosyndicalist General Federation of Workers (Confederación General de Traba- jadores, CGT) and then back to Argentina, where he participated in the international solidarity campaign in defense of Sacco and Vanzetti. He wrote a history of anarchism in Argentina in 1930 and was sentenced to death for sedition that same year, but instead was briefly exiled to Spain, after which he returned to Argentina for two years.
+
+It was in Spain once again, however, that Abad de Santillán was to play a crucial role during the rise and fall of the Republic. He joined the anarchosyndicalist Confederación Nacional del Trabajo (National Labor Con- federation, CNT), where he became an active opponent of reformism, and became the peninsular secretary of the Federación Anar- quista Ibérica (Iberian Anarchist Federation, FAI), as well as editing *Solidaridad Obrera* (Workers’ Solidarity), *Tiempos Nuevos* (New Times), and *Tierra y Libertad* (Land and Free- dom), among other publications. During the Spanish revolution and civil war, he served as the FAI’s delegate to the Anti-Fascist Mili- tias Committee in Catalonia, then became Minister of the Economy in the Catalan regional government. Critical of the policies of Spanish socialist premier Juan Negrín and of the role of the Spanish Communist Party, Abad de Santillán published *El organismo económico de la revolución* (published in English as *After the Revolution*), a brief but ambitious statement of the anarchosyndicalist program for a self-managed economy.
+
+With the defeat of the Republic, he went into exile to France, later returning to Argentina via Santo Domingo and Chile. There he resumed writing scholarly works on the history of anarchism, including *Why Did We Lose the War* (*¿Por qué perdimos la guerra?*, 1978), which was made into a film by his son Luis Galindo in 1978. He was less active in politics, though he did work against the Perón dictatorship. He contributed to numerous dictionaries and encyclopedias and his writings had an enormous impact. He defended the policy of collaboration during the civil war and became increasingly reformist, coming to regard the state as a greater threat than capitalism, which he viewed as a necessary stage of social progress. In 1977, he returned to Spain, dying in Barcelona in 1983.
+
+----
+
+**REFERENCES AND SUGGESTED READINGS**
+
+<biblio>
+Abad de Santillán, D. (1937) *After the Revolution: Economic Reconstruction in Spain Today*. New York: Greenberg. (Translation of *El organismo económico de la revolución: cómo vivios y cómo podríamos vivir en España*, 1936.).
+
+Abad de Santillán, D. (1977) *Memorias, 1897–1936*. Barcelona: Planeta.
+
+Galindo, Luís (dir.) (1978) *Why Did We Lose the War?* (*¿Por qué perdimos la guerra?*). Available at www.brightcove.tv/title.jsp?title=236034466&channel=219646953.
+
+Iñiguez, M. (2001) García Fernández, Baudillo Sinesio. In *Esbozo de una enciclopedia histórica del anarquismo español.* Madrid: Fundación de Estudios Libertarios Anselmo Lorenzo, pp. 252–3.
+</biblio>
