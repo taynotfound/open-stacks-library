@@ -19,7 +19,9 @@ jobs:
     if: >-
       github.event_name == 'workflow_dispatch' ||
       startsWith(github.event.head_commit.message, '[new]') ||
-      startsWith(github.event.head_commit.message, '[Translation]')
+      startsWith(github.event.head_commit.message, '[Translation]') ||
+      contains(github.event.head_commit.message, 'translation/') ||
+      startsWith(github.event.head_commit.message, 'Merge pull request') && contains(github.event.head_commit.message, 'translation/')
     steps:
       - uses: actions/checkout@v4
 
@@ -32,7 +34,7 @@ jobs:
         id: kind
         run: |
           MSG="${{ github.event.head_commit.message }}"
-          if echo "$MSG" | grep -q '^\[Translation\]'; then
+          if echo "$MSG" | grep -qE '^\[Translation\]|translation/'; then
             echo "type=translation" >> "$GITHUB_OUTPUT"
           else
             echo "type=new" >> "$GITHUB_OUTPUT"
