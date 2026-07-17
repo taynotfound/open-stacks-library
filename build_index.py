@@ -207,7 +207,7 @@ for f in md_files:
         "originalSlug": meta.get("originalSlug") or meta.get("originalslug") or "",
         "atRisk": bool(re.search(r'true', meta.get("at_risk", ""), re.I)),
         "desc": desc,
-        "slug": slugify(title),
+        "slug": (slugify(title) + "-" + meta.get("language","en")) if (meta.get("originalSlug") or meta.get("originalslug")) else slugify(title),
         "path": rel,
         "hasBody": len(body) > 40,
         "added": ADDED.get(rel, int(os.path.getmtime(f))),
