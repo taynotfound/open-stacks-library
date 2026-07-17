@@ -1,0 +1,62 @@
+---
+title: "Canadian Separatism: the Second Front - Samuel Edward Konkin III"
+author: "Samuel Edward Konkin III"
+date: "March 1, 1980"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/samuel-edward-konkin-iii-canadian-separatism-the-second-front"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "Even the most anti-political libertarian has to admit elections do change things, even if only because they are believed and acted upon. The most striking example in the democratic enclave of Western society may well be the two Canadian fed"
+tags:
+  - "anarchism"
+  - "libertarianism"
+  - "Canada"
+  - "separatism"
+  - "pdf"
+files:
+  - name: "Canadian Separatism: the Second Front.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-samuel-edward-konkin-iii-canadian-separatism-the-second-front.pdf"
+    hosted: true
+  - name: "Canadian Separatism: the Second Front.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-samuel-edward-konkin-iii-canadian-separatism-the-second-front.epub"
+    hosted: true
+---
+
+# Canadian Separatism: the Second Front
+
+*by Samuel Edward Konkin III*
+
+> The Libertarian Forum  Volume 13 Number 2 / March-April 1980  Pages 7-8
+
+Even the most anti-political libertarian has to admit elections do change things, even if only because they are believed and acted upon. The most striking example in the democratic enclave of Western society may well be the two Canadian federal elections within the past year. And the most recent results could well portend strong gains for objective libertarianism, grist for the activist’s mill.
+
+After 16 long years of Liberal (pro-U.S. centrist party, like unto U.S. Democrats with right and left wings) Party rule, eleven of them under the Gallic Kennedy-type, Pierre Eliot Trudeau, the West, Maritimes, and English-speaking East-Central of Canada voted for Alberta’s Joe Clark and his Progressive Conservative (mildly anti-U.S., centre-right Party, like unto mix of British Tories and French Gaullists with a smattering of American Liberal Republicanism) Party. Since Quebec stubbornly supported Trudeau’s Liberals and the Social Credit (pro-U.S., radical right party, similar to a mixture of Birchers and populists), Clark could only muster a minority government, though only four seats short of a majority. The Creditistes had five seats, well, six originally until one was bought out by the Tories (as the P.C.’s are known, the Liberals are called “Grits”), and the assumption by most pundits in the Canadian press was that fiery Fabien Roy and his Creditistes would prop up their ideological near-kinsmen.
+
+Such was not to be. Although Trudeau was berated for his arrogance, it was nothing compared to that displayed by Clark & Co. to the Social Credit Party.[1] After dragging out the calling of Parliament after the election to a record four months, Clark presented a budget calling for higher taxes and more controls and assumed the free-enterprise Creditistes had nowhere else to go and support him. In the greatest act of political moral suicide since Gilles Gregoire blocked the House of Commons single-handedly to begin Social-Credit Separatism and paralyse the federal government, the Creditistes refused to vote for the budget. The Liberals, smelling blood, swam back from their scattered constituencies, parties (cocktail variety), and homes to join the social-democrat New Democrat Party (NDP) into narrowly defeating the budget. In any heir of British Parliamentary tradition, that constitutes the strongest possible vote of non-confidence, and Clark promptly resigned, calling for an election.
+
+The winter election, coming just eight months after the last one, was manifestly unpopular, and Clark’s 18-cent gas tax even less so. The Liberals regained seats in the Maritimes and Ontario, and wiped out the Creditistes in Quebec (so much for the rewards of morality in the political arena); the NDP further cut into the Tories in the West. Worst of all, from a libertarian political viewpoint, Trudeau won an absolute majority of seats and remains safe from non-confidence motions (and elections) for the full five-year maximum term. Ironically, Trudeau was about to step down in disgrace when the election suddenly happened, and the Liberals had been gearing up for the bruising leadership convention. *Maclean’s* (the Time-Newsweek of Canada) called his return on the cover of its election issue: “The Second Coming.”
+
+From a Fabian political libertarian viewpoint, the February 1980 (“Valentine’s Day”) election could be considered a gain for statism, with the loss of the proto-libertarian Creditistes and a majority government. Furthermore, Trudeau is the champion of strong, central government, and will be using his prime ministry to battle Rene Levesque’s Parti Quebec (commonly called pequistes) in the coming referendum on “Quebec sovereignty.” This concept, by the way, requires some twisted unraveling, thanks to Leveque’s continued weaseling and selling out of Separatism, but it basically allows the voters of Quebec to vote for “separatism” without actually getting it; it’s taken as a bargaining ploy by most of the media pundits to give Levesque a stronger hand in bargaining with Trudeau for Provincial *vs* federal rights and powers.
+
+Before dealing with this crucial libertarian issue of separatism, or as the Yanks (especially the Yankees from Mississippi) like to call the concept, secession, there was one direct blow for libertarianism in the election. No, the very conservative Canadian Libertarian Party (overwhelmingly minarchist, anti-communist in foreign policy, and worst of all, anti-separatist because the strongest faction in the PQ is socialist-liberal) got not only zero seats, but failed to get any significant mention in the press. At least the CBC election coverage mentioned only the four parties above and “Others:” *Maclean’s* also made no mention of the CLP before, during or after the election. Ah, but the Rhinoceros Party, a Canadian variant of the “Nobody for President” campaign, received mention on the CBC (Canadian Broadcasting Corporation, government-owned and largest TV network) and fully a third-page in Maclean’s. More importantly, quoting from *Maclean’s,* “While all other parties watched their slim Quebec footholds trampled under the Liberal thumping, the Rhinocerotics saw their total vote almost double to 110,000. “But we weren’t worried,” confides Rhino heavy Charles McKenzie. ‘We took the precaution of doubling our number of candidates.’ One bitter Quebec Tory candidate, Clark aide Andre Payette, appearing on the provincially owned TV network, Radio-Quebec, after its election centre had been invaded by a Rhino band, confessed to having a lot in common with Rhino star Sonia (Tickle) Cote—such as roughly the same number of votes. Sonia, perched beside him in her clown outfit and hanging over her accordion, could only look up and blush coyly from under her single forehorn.
+
+“Meanwhile, back at their east-end Montreal rent-a-hall, the Rhino machine—basically a hippi revival, complete with construction boots, giggling kids and barking dogs—danced drunkenly around a giant TV screen, celebrating the 1,000-plus votes won by a horned cousin in Calgary.”
+
+Calgary, brings us to the point of this article. The second largest and second most conservative city in Alberta (and the most Americanized, with its own John Birch Society chapter) after Edmonton, the capital, is probably the most libertarian in the sense most Americans would think of it, with a thriving anti-tax movement winning plebiscites just like Howard Jarvis. All Alberta, like British Columbia and Saskatchewan on either side, voted in zero Liberals, and while BC and Saskatchewan voted in many NDPs, Alberta went solidly PC, showing those Eastern bandits what it thought of those who would steal its precious oil. Calgary also is the home of provincial premier Peter Lougheed, himself a Kennedy-esque type who ousted the Alberta Social Credit Party in 1972 and remained in power since. Lougheed has bloated the Alberta Heritage Fund with oil royalties to the point where he could probably buy the entire Canadian army should it ever be used to invade a seceding Alberta. Would ultra-right, tax-free, regulation-loose, anti-union Alberta secede? Undoubtedly the most bigoted anti-frog (French equivalent of “nigger”) area in Canada, would Alberta go separatist? *Maclean’s* seems to think so.
+
+Back when this author was the firebrand Social Credit leader at the University of Alberta (1964-1968), he had to look long and hard for another secessionist, even those who liked the idea but not the French Canadians. Then a report about five years ago mentioned that an Alberta separatist party had been started and 500 members had joined. *Maclean’s* reported, in the issue after its election special, “For Albertans, it was back to the barricades, back to their traditional sense of grievance and isolation. Having felt themselves a part of the federal government for the first time since John Diefenbaker’s days, the shock of being on the outside looking east again have shoved some toward separatism. At the Canada West Foundation, the think tank devoted to forging a new Canada within Confederation, the telephone was ringing at 8:15 the morning after. ‘I picked it up and someone said, “I feel totally disenfranchised today,” ’ says administration officer Nancy Sanford. ‘Every five minutes since, there has been another call. A quarter of the callers are looking for a separatist party, which we aren’t. The rest are saying they feel totally sick and they want to voice their frustration to someone.”
+
+How serious is this possibility of Alberta separatism taken? Of course, short of shipping oil by pipeline to Montana, land-locked Alberta has the Pacific coastline—and an equally strong separatist pull. Again, from *Maclean’s,* “BC IN POLITICAL ISOLATION. And it is Perrault ((Liberal senator from BC)) who is reminding Trudeau of events such as last week’s radio survey that showed six out of every 10 callers in favor of separation from the rest of Canada. ‘But usually it’s just the dissidents who call these shows,’ he philosophizes.”
+
+The quote comes from the lead article in Maclean’s, along with a cartoon showing Trudeau facing a battery of microphones, with an array of knives, arrows, tomahawks and darts protruding from his backside “. . . and I am reminded that while we face the threat of separatism in Quebec, we must not turn our backs on the alienation of the West . . .” Yes, the threat of Western separatism is taken seriously.
+
+Even though the other two Western Provinces elected only two Liberals total (from urban Manitoba) giving an Alberta—British Columbia “Rocky Mountain Republic” a nice buffer zone, the battle will be fought economically, not on the battlefield. The fact that Alberta is rich and economically free, and the rest of Canada is suffering under austerity budgets and heavy government regulation and taxation is the key. And it’s also the problem because there is no firm ideological leadership in the West. Lougheed is simply a conservative who is following the political dynamics of the situation which leads him to the coming confrontation with Ottawa (the federal capital) over oil controls. But he’s not fighting for Alberta non-regulation of petroleum vs federal regulation, rather they’re arguing how the plunder should be divided. This could kill any principled rally against the central state..
+
+And, finally, the link between Quebec and Western separatists must be established. Again, Lougheed is not the medium, a symbol of a (relatively sophisticated, to be sure) anti-frog mentality, and not likely to win Levesque’s support. The old Social Credit Party, strong precisely in Alberta, Quebec (and still the provincial government in British Columbia) would have been the perfect vehicle—but it’s at a new low in strength, most of its old supporters supporting the pequistes in Quebec and the PCs in Alberta.
+
+The potential for libertarian organization is obvious.
+
+[1] Apologies for name-dropping, but Prime Minister Clark was a PM at the University of Alberta when this writer, in his pre-libertarian days, sat as Social Credit whip in model parliament and remembered his arrogance well toward the SC Party, then the dominant one in Alberta politics.

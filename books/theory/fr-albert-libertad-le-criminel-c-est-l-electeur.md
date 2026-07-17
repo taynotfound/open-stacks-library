@@ -1,0 +1,70 @@
+---
+title: "Le criminel, c’est l’électeur ! - Albert Libertad"
+author: "Albert Libertad"
+date: "1906"
+category: "theory"
+source: "https://fr.anarchistlibraries.net/library/albert-libertad-le-criminel-c-est-l-electeur"
+source_name: "fr.anarchistlibraries.net"
+page_type: book
+mirror_state: full
+description: "C’est toi le criminel, ô Peuple, puisque c’est toi le Souverain. Tu es, il est vrai, le criminel inconscient et naïf. Tu votes et tu ne vois pas que tu es ta propre victime. Pourtant n’as-tu pas encore assez expérimenté que les députés, qui"
+tags:
+  - "francais"
+  - "theory"
+  - "élection"
+  - "démocratie"
+  - "pdf"
+files:
+  - name: "Le criminel, c’est l’électeur !.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talfr-albert-libertad-le-criminel-c-est-l-electeur.pdf"
+    hosted: true
+  - name: "Le criminel, c’est l’électeur !.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talfr-albert-libertad-le-criminel-c-est-l-electeur.epub"
+    hosted: true
+---
+
+# Le criminel, c’est l’électeur !
+
+*Albert Libertad*
+
+> Placard anti-électoral, 1er mars 1906. Publié par l’anarchie n°47 et signé Albert Libertad.
+
+C’est toi le criminel, ô Peuple, puisque c’est toi le Souverain. Tu es, il est vrai, le criminel inconscient et naïf. Tu votes et tu ne vois pas que tu es ta propre victime.
+
+Pourtant n’as-tu pas encore assez expérimenté que les députés, qui promettent de te défendre, comme tous les gouvernements du monde présent et passé, sont des menteurs et des impuissants ?
+
+Tu le sais et tu t’en plains ! Tu le sais et tu les nommes ! Les gouvernants quels qu’ils soient, ont travaillé, travaillent et travailleront pour leurs intérêts, pour ceux de leurs castes et de leurs coteries.
+
+Où en a-t-il été et comment pourrait-il en être autrement ? Les gouvernés sont des subalternes et des exploités : en connais-tu qui ne le soient pas ?
+
+Tant que tu n’as pas compris que c’est à toi seul qu’il appartient de produire et de vivre à ta guise, tant que tu supporteras, - par crainte,- et que tu fabriqueras toi-même, - par croyance à l’autorité nécessaire,- des chefs et des directeurs, sache-le bien aussi, tes délégués et tes maîtres vivront de ton labeur et de ta niaiserie. Tu te plains de tout ! Mais n’est-ce pas toi l’auteur des mille plaies qui te dévorent ?
+
+Tu te plains de la police, de l’armée, de la justice, des casernes, des prisons, des administrations, des lois, des ministres, du gouvernement, des financiers, des spéculateurs, des fonctionnaires, des patrons, des prêtres, des proprios, des salaires, des chômages, du parlement, des impôts, des gabelous, des rentiers, de la cherté des vivres, des fermages et des loyers, des longues journées d’atelier et d’usine, de la maigre pitance, des privations sans nombre et de la masse infinie des iniquités sociales.
+
+Tu te plains ; mais tu veux le maintien du système où tu végètes. Tu te révoltes parfois, mais pour recommencer toujours. C’est toi qui produis tout, qui laboures et sèmes, qui forges et tisses, qui pétris et transformes, qui construis et fabriques, qui alimentes et fécondes !
+
+Pourquoi donc ne consommes-tu pas à ta faim ? Pourquoi es-tu le mal vêtu, le mal nourri, le mal abrité ? Oui, pourquoi le sans pain, le sans souliers, le sans demeure ? Pourquoi n’es-tu pas ton maître ? Pourquoi te courbes-tu, obéis-tu, sers-tu ? Pourquoi es-tu l’inférieur, l’humilié, l’offensé, le serviteur, l’esclave ?
+
+Tu élabores tout et tu ne possèdes rien ? Tout est par toi et tu n’es rien.
+
+Je me trompe. Tu es l’électeur, le votard, celui qui accepte ce qui est ; celui qui, par le bulletin de vote, sanctionne toutes ses misères ; celui qui, en votant, consacre toutes ses servitudes.
+
+Tu es le volontaire valet, le domestique aimable, le laquais, le larbin, le chien léchant le fouet, rampant devant la poigne du maître. Tu es le sergot, le geôlier et le mouchard. Tu es le bon soldat, le portier modèle, le locataire bénévole. Tu es l’employé fidèle, le serviteur dévoué, le paysan sobre, l’ouvrier résigné de ton propre esclavage. Tu es toi-même ton bourreau. De quoi te plains-tu ?
+
+Tu es un danger pour nous, hommes libres, pour nous, anarchistes [sic]. Tu es un danger à l’égal des tyrans, des maîtres que tu te donnes, que tu nommes, que tu soutiens, que tu nourris, que tu protèges de tes baïonnettes, que tu défends de ta force de brute, que tu exaltes de ton ignorance, que tu légalises par tes bulletins de vote, - et que tu nous imposes par ton imbécillité.
+
+C’est bien toi le Souverain, que l’on flagorne et que l’on dupe. Les discours t’encensent. Les affiches te raccrochent ; tu aimes les âneries et les courtisaneries : sois satisfait, en attendant d’être fusillé aux colonies, d’être massacré aux frontières, à l’ombre de ton drapeau.
+
+Si des langues intéressées pourlèchent ta fiente royale, ô Souverain ! Si des candidats affamés de commandements et bourrés de platitudes, brossent l’échine et la croupe de ton autocratie de papier ; Si tu te grises de l’encens et des promesses que te déversent ceux qui t’ont toujours trahi, te trompent et te vendront demain : c’est que toi-même tu leur ressembles. C’est que tu ne vaux pas mieux que la horde de tes faméliques adulateurs. C’est que n’ayant pu t’élever à la conscience de ton individualité et de ton indépendance, tu es incapable de t’affranchir par toi-même. Tu ne veux, donc tu ne peux être libre.
+
+Allons, vote bien ! Aies confiance en tes mandataires, crois en tes élus.
+
+Mais cesse de te plaindre. Les jougs que tu subis, c’est toi-même qui te les imposes. Les crimes dont tu souffres, c’est toi qui les commets. C’est toi le maître, c’est toi le criminel, et, ironie, c’est toi l’esclave, c’est toi la victime.
+
+Nous autres, las de l’oppression des maîtres que tu nous donnes, las de supporter leur arrogance, las de supporter ta passivité, nous venons t’appeler à la réflexion, à l’action [sic].
+
+Allons, un bon mouvement : quitte l’habit étroit de la législation, lave ton corps rudement, afin que crèvent les parasites et la vermine qui te dévorent. Alors seulement du pourras vivre pleinement.
+
+*LE CRIMINEL, c’est l’Électeur !*

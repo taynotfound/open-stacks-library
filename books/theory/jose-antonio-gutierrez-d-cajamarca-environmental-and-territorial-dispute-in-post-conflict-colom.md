@@ -1,0 +1,41 @@
+---
+title: "Cajamarca: environmental and territorial dispute in “post-conflict” Colombia - José Antonio Gutiérrez D."
+author: "José Antonio Gutiérrez D."
+date: "April 23, 2017"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/jose-antonio-gutierrez-d-cajamarca-environmental-and-territorial-dispute-in-post-conflict-colom"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "On March 26th there was a popular referendum in the heart of Colombia, in the town of Cajamarca, in the department of Tolima, to decide whether the citizens agreed with gold mining in their territory or not. In this municipality the transna"
+tags:
+  - "theory"
+  - "Colombia"
+  - "peacebuilding"
+  - "pdf"
+files:
+  - name: "Cajamarca: environmental and territorial dispute in “post-conflict” Colombia.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-jose-antonio-gutierrez-d-cajamarca-environmental-and-territorial-dispute-in-post-conflict-colom.pdf"
+    hosted: true
+  - name: "Cajamarca: environmental and territorial dispute in “post-conflict” Colombia.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-jose-antonio-gutierrez-d-cajamarca-environmental-and-territorial-dispute-in-post-conflict-colom.epub"
+    hosted: true
+---
+
+# Cajamarca: environmental and territorial dispute in “post-conflict” Colombia
+
+*by José Antonio Gutiérrez D.*
+
+On March 26th there was a popular referendum in the heart of Colombia, in the town of Cajamarca, in the department of Tolima, to decide whether the citizens agreed with gold mining in their territory or not. In this municipality the transnational corporation AngloGold Ashanti has been for years pushing for the exploitation of a gold mine they call *La Colosa* (Colossus), which is reputedly the largest gold mine in the Western Hemisphere: 60% of the municipal territory — 30,440 hectares — has been granted to AngloGold Ashanti for mining purposes. 98% of voters rejected mining in Cajamarca, mostly because of the fact that gold has no use other than producing profits and it is a most destructive activity against the environment. You cannot eat gold, and this is well known in Cajamarca, a traditional agrarian region that produces some 10% of the food which is consumed in the capital of the country, Bogotá.
+
+This result, however, didn’t come out of the blue: it was the result of years of struggle and popular education on the effects and impacts that mining would have on the region, through door to door campaigns, leaflets, pamphlets, demonstrations in support of the right to water, life and territory. Year after year, thousands of people have concentrated in the capital of the Tolima department, Ibagué, to protest in the so-called carnival-demonstrations against mega-mining. The Peasant and Environmental Committee of Cajamarca, students’ organisations, youth collectives, agrarian trade unions such as ASTRACATOL, and the Committee for a Popular Referendum on Mining in Cajamarca, they all played a role and worked side by side on this particular issue, in spite of differences on others, to guarantee the success of the campaign.
+
+This was not the first referendum of this type in Tolima, either. On 2013, the community of Piedras, a nearby municipality, which was to be affected by the debris of the operations of AngloGold Ashanti, rejected with 99% of the total votes the proposal to carry mining related activities in their locality. These are but the visible expressions of a patient work of organising that has been going on quietly for years; a good reminder that radical change doesn’t mean ‘sudden’ change, and that the most valuable attribute of radicals is precisely patience and perseverance in the quiet and gentle work of regenerating our communities.
+
+Although the work of these network has been quiet and gentle, it has not been free from forceful repression. The price paid in the course of this resistance has been quite high in some rural communities, indeed. In the south of the department, where a number of hydro-electrical projects were planned to divert the water sources from the peasantry in order to feed the gigantic demand of energy of the Colossus, is where the impact of this repression was made felt the strongest. These areas have been territories of agrarian resistance since the 1930s, and strongholds of insurgents for decades. Counterinsurgency came hand in hand with the mega-projects: today, 30% of the Colombian armed forces (some 100,000 men in uniform) are directly deployed to protect mining and energy projects from community protest. The full militarisation of southern Tolima was complete in the mid-2000s, when the infamous Infantry Battalion XVII “*José Domingo Caicedo*” made its appearance. The ASTRACATOL union organisers Gildardo Díaz and Héctor Orozco were among the first victims (2011) in the municipality of Chaparral, where a hydro-electrical project was devised for the river Ambeima. Many agrarian organisers in Chaparral, Planadas and Rioblanco, were arrested and harassed on trumped-up charges that after extensive campaigning were dismissed, in a veritable war of attrition against the organised communities. This situation is not unique to Tolima: according to a PBI report of 2011, 80% of the human rights violations and 87% of the cases of forced displacement in Colombia took place in mining areas –as well, 78% of attacks against trade unionists in the country happened in the mining-energy industry, which is appalling in a country with an undisputed world record on murders of trade unionists. According to a 2015 report of Global Witness, Colombia, together with Brazil, is at the top of the countries where it’s most dangerous being an environmental activist judging by the numbers of activists killed.
+
+Although the people of Tolima have been using the constitutional mechanism of the Popular Referendum to voice their opposition to the activities of AngloGold Ashanti in the region, the government is bent on making sure that the project goes ahead and has insisted they will not listen to the people’s verdict. The minister of Mines, Germán Arce Zapata, came out shortly after the results were known, to say that the results were not binding. This, in spite of the fact that the participation was well above the quorum and that in May 2016 the Constitutional Court had ruled against a 2001 legal decree (tailor-made for the mining companies), which stated that mining was a supreme good of the nation and no local community or authority could therefore oppose a project. Although the referendum quite clearly showed the opinion of the people of Cajamarca, it also showed the huge democratic deficit of the State, which will ignore even constitutional mechanisms whenever the results don’t fit the agenda of the elites and their transnational buddies. This is why the popular organisations of Tolima, with the same perseverance with which they carried the long work leading to this referendum, will start organising a broad popular resistance that translates the will of the people into the realm of facts. The next referendum will be on the streets of Tolima to actively oppose this rapacious environmentally damaging model of mining.
+
+Although we are entering a period of so-called post-conflict, after the peace agreement between the government and FARC-EP former insurgents, it is clear that the State is not willing to abandon brute force when it has to deal with bothersome communities that actually don’t want to be trampled on in the name of progress. The government wanted peace in order to allow investment projects to go deeper into Colombian territories with as little inconvenience as possible, not to solve the structural problems of the disenfranchised majorities. The battle of these local communities in defence of their territory, in Tolima and elsewhere, will define the patterns of conflicts ahead in this supposedly “post-conflict” period. So far, it is not looking nice. But Cajamarca has shown a way of unity from below, of learning how to work together on specific goals in spite of broader differences, and most importantly, it has shown that those below cannot rely on anyone but their own strength.
