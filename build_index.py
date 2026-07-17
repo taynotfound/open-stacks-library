@@ -186,3 +186,112 @@ n_hosted = sum(1 for e in out for fl in e["files"] if fl.get("hosted"))
 print(f"books indexed: {len(out)}")
 print(f"index.json size: {sz/1e6:.2f} MB")
 print(f"self-hosted files: {n_hosted} · {human_size(total_hosted_bytes)}")
+
+
+# ---------------------------------------------------------------------------
+# Secondary artifacts, all built from `out`, all committed by the same Action:
+#   feed.xml          - RSS 2.0 of the 50 most recently ADDED items
+#   opds.xml          - OPDS 1.2 catalog (Atom) for e-reader apps
+#   search-index.json - flat docs for Lunr.js full-text search on the client
+# ---------------------------------------------------------------------------
+def xesc(s):
+    return html.escape(str(s or ""), quote=True)
+
+def item_url(e):
+    kind = "gallery" if (e.get("pageType") == "gallery" or (e.get("images") and not e.get("files"))) else "book"
+    return f"{SITE}/{kind}/{e['slug']}"
+
+now_http = time.strftime("%a, %d %b %Y %H:%M:%S +0000", time.gmtime())
+now_iso = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+
+# ---- RSS feed: newest 50 additions (out is already newest-first) ----
+rss_items = []
+for e in out[:50]:
+    pub = time.strftime("%a, %d %b %Y %H:%M:%S +0000", time.gmtime(e.get("added", 0)))
+    url = item_url(e)
+    desc = e.get("desc") or f"{e['title']} archived on The Open Stacks."
+    cats = "".join(f"<category>{xesc(t)}</category>" for t in (e.get("tags") or [])[:6])
+    rss_items.append(
+        f"<item><title>{xesc(e['title'])}</title>"
+        f"<link>{xesc(url)}</link><guid isPermaLink=\"true\">{xesc(url)}</guid>"
+        f"<pubDate>{pub}</pubDate>"
+        f"{'<author>'+xesc(e['author'])+'</author>' if e.get('author') else ''}"
+        f"{cats}<description>{xesc(desc)}</description></item>")
+
+rss = (f'<?xml version="1.0" encoding="UTF-8"?>\n'
+       f'<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel>'
+       f'<title>The Open Stacks - recently added</title>'
+       f'<link>{SITE}/</link>'
+       f'<atom:link href="{SITE}/feed.xml" rel="self" type="application/rss+xml"/>'
+       f'<description>Newest additions to The Open Stacks, an anti-censorship library.</description>'
+       f'<language>en</language><lastBuildDate>{now_http}</lastBuildDate>'
+       + "".join(rss_items) + "</channel></rss>")
+with open(ROOT + "/feed.xml", "w", encoding="utf-8") as fh:
+    fh.write(rss)
+
+# ---- OPDS 1.2 catalog (acquisition feed) for e-reader apps ----
+MIME = {"pdf": "application/pdf", "epub": "application/epub+zip",
+        "mobi": "application/x-mobipocket-ebook", "azw3": "application/vnd.amazon.ebook",
+        "html": "text/html", "htm": "text/html", "txt": "text/plain"}
+def file_mime(f):
+    src = (f.get("name", "") + " " + f.get("url", "")).lower()
+    m = re.search(r"\.(pdf|epub|mobi|azw3|html?|txt)(\?|#|$)", src)
+    return MIME.get(m.group(1).replace("htm", "html"), "application/octet-stream") if m else "application/octet-stream"
+
+opds_entries = []
+n_acq = 0
+for e in out:
+    acq = []
+    for f in (e.get("files") or []):
+        if f.get("hosted") and f.get("url"):
+            acq.append(f'<link rel="http://opds-spec.org/acquisition" '
+                       f'href="{xesc(f["url"])}" type="{file_mime(f)}"/>')
+    if not acq:
+        continue
+    n_acq += 1
+    upd = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime(e.get("added", 0)))
+    author = f"<author><name>{xesc(e['author'])}</name></author>" if e.get("author") else ""
+    cats = "".join(f'<category term="{xesc(t)}"/>' for t in (e.get("tags") or [])[:6])
+    summ = xesc(e.get("desc") or e["title"])
+    opds_entries.append(
+        f"<entry><title>{xesc(e['title'])}</title>"
+        f"<id>{xesc(item_url(e))}</id><updated>{upd}</updated>{author}{cats}"
+        f'<link rel="alternate" href="{xesc(item_url(e))}" type="text/html"/>'
+        f"<summary type=\"text\">{summ}</summary>" + "".join(acq) + "</entry>")
+
+opds = (f'<?xml version="1.0" encoding="UTF-8"?>\n'
+        f'<feed xmlns="http://www.w3.org/2005/Atom" '
+        f'xmlns:opds="http://opds-spec.org/2010/catalog">'
+        f'<id>{SITE}/opds.xml</id>'
+        f'<title>The Open Stacks</title><updated>{now_iso}</updated>'
+        f'<author><name>The Open Stacks</name><uri>{SITE}/</uri></author>'
+        f'<link rel="self" href="{SITE}/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>'
+        f'<link rel="start" href="{SITE}/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>'
+        + "".join(opds_entries) + "</feed>")
+with open(ROOT + "/opds.xml", "w", encoding="utf-8") as fh:
+    fh.write(opds)
+
+# ---- Lunr search docs: title/author/tags/text (full body when we hold it) ----
+docs = []
+for e in out:
+    body = ""
+    if e.get("hasBody"):
+        try:
+            with open(os.path.join(ROOT, e["path"]), encoding="utf-8") as bf:
+                raw = bf.read()
+            mm = re.search(r"^---\n.*?\n---\n?", raw, re.S)
+            body = raw[mm.end():] if mm else raw
+            body = re.sub(r"\s+", " ", body)[:1800]  # cap per-doc to keep the client index lean
+        except Exception:
+            body = ""
+    docs.append({
+        "slug": e["slug"],
+        "title": e["title"],
+        "author": e.get("author", ""),
+        "tags": " ".join(e.get("tags") or []),
+        "text": (e.get("desc", "") + " " + body).strip(),
+    })
+with open(ROOT + "/search-index.json", "w", encoding="utf-8") as fh:
+    json.dump({"docs": docs}, fh, ensure_ascii=False, separators=(",", ":"))
+
+print(f"feed.xml: {len(rss_items)} items · opds.xml: {n_acq} acquirable · search-index.json: {len(docs)} docs")
