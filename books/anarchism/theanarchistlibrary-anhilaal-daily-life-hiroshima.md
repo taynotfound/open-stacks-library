@@ -1,0 +1,22 @@
+---
+title: "Daily Life & Hiroshima"
+author: "anhilaal"
+date: "2018"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/anhilaal-daily-life-hiroshima"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "– Some Notes"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "anhilaal-daily-life-hiroshima.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/anhilaal-daily-life-hiroshima.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anhilaal-daily-life-hiroshima)
