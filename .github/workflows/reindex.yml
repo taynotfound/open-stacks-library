@@ -58,7 +58,14 @@ jobs:
           else
             git add index.json
             git commit -m "chore: rebuild index.json"
-            git push
+            # another [new] batch may have landed while we were building;
+            # rebase our index commit on top, preferring our freshly built index.json
+            for attempt in 1 2 3; do
+              if git push; then break; fi
+              echo "push rejected, rebasing (attempt $attempt)"
+              git pull --rebase -X ours origin main || git rebase --abort
+              sleep 2
+            done
             echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
