@@ -1,0 +1,22 @@
+---
+title: "Zróbcie sobie okupację"
+author: "CrimethInc."
+date: "2024"
+category: "anarchism"
+source: "https://pl.anarchistlibraries.net/library/crimethinc-zrobcie-sobie-okupacje"
+source_name: "pl.anarchistlibraries.net"
+page_type: book
+mirror_state: none
+language: "pl"
+description: "Poradnik"
+tags:
+  - "polski"
+  - "anarchism"
+files:
+  - name: "crimethinc-zrobcie-sobie-okupacje.epub"
+    type: "EPUB"
+    url: "https://pl.anarchistlibraries.net/library/crimethinc-zrobcie-sobie-okupacje.epub"
+    hosted: false
+---
+
+[Read on pl.anarchistlibraries.net](https://pl.anarchistlibraries.net/library/crimethinc-zrobcie-sobie-okupacje)
