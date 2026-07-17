@@ -130,8 +130,8 @@ files:
     hosted: true
   - name: "Women of the Islamic State, A manifesto on women"
     type: "PDF"
-    url: "http://www.quilliamfoundation.org/wp/wp-content/uploads/publications/free/women-of-the-islamic-state3.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/1e50c278_women-of-the-islamic-state3.pdf"
+    hosted: true
   - name: "Rapport fait au nom de la commission d’enquête relative aux moyens mis en œuvre par l’État pour lutter contre le terrori"
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/db2509b0_r3922-t2.pdf"
@@ -797,7 +797,7 @@ NOTES
 
 35 Philippe-Joseph Salazar, op. cit. p. 142.
 
-36 Brigade Al-Khansaa, Women of the Islamic State, A manifesto on women , 2015 (publication de militantes de l’EI). http://www.quilliamfoundation.org/wp/wp-content/uploads/publications/free/women-of-the-islamic-state3.pdf
+36 Brigade Al-Khansaa, Women of the Islamic State, A manifesto on women , 2015 (publication de militantes de l’EI). https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/1e50c278_women-of-the-islamic-state3.pdf
 
 37 Interview de Géraldine Casutt , Le Nouvel Observateur , 9 avril 2015.
 

@@ -132,12 +132,12 @@ links:
 files:
   - name: "Questions of the Day"
     type: "PDF"
-    url: "http://www.worldsocialism.org/spgb/QOD/QOD.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/8185a9e3_QOD.pdf"
+    hosted: true
   - name: "Socialist Principles Explained"
     type: "PDF"
-    url: "http://www.worldsocialism.org/spgb/pdf/spe%282000%29.pdf"
-    hosted: false
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/263cc586_spe_2000_.pdf"
+    hosted: true
   - name: "The Socialist Party and War"
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/3b1ae56a_war_1939_.pdf"
