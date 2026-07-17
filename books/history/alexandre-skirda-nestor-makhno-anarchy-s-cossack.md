@@ -27,6 +27,14 @@ files:
     type: "PDF"
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/NestorMakhnoAnarchysCossack.pdf"
     hosted: true
+  - name: "Nestor Makhno - Anarchy's Cossack (The Anarchist Library edition).pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/nestor-makhno-anarchys-cossack-tal.pdf"
+    hosted: true
+  - name: "Nestor Makhno - Anarchy's Cossack.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/nestor-makhno-anarchys-cossack.epub"
+    hosted: true
 ---
 
 # Nestor Makhno: Anarchy’s Cossack
