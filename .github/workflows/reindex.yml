@@ -58,7 +58,7 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "index.json unchanged, nothing to commit"
           else
-            git add index.json feed.xml opds.xml search-index.json
+            for f in index.json feed.xml opds.xml search-index.json; do [ -f "$f" ] && git add "$f"; done
             git commit -m "chore: rebuild index.json + feed/opds/search"
             # another [new] batch may have landed while we were building;
             # rebase our index commit on top, preferring our freshly built index.json
