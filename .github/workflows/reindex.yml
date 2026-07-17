@@ -1,0 +1,77 @@
+name: Rebuild index.json
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'books/**'
+      - 'build_index.py'
+
+concurrency:
+  group: rebuild-index
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  reindex:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rebuild index.json
+        id: build
+        run: |
+          python build_index.py > /tmp/buildout.txt 2>&1 || { cat /tmp/buildout.txt; exit 1; }
+          cat /tmp/buildout.txt
+          COUNT=$(grep -oP 'books indexed:\s*\K[0-9]+' /tmp/buildout.txt | head -1)
+          SIZE=$(grep -oP 'index.json size:\s*\K[0-9.]+ MB' /tmp/buildout.txt | head -1)
+          echo "count=${COUNT:-?}" >> "$GITHUB_OUTPUT"
+          echo "size=${SIZE:-?}" >> "$GITHUB_OUTPUT"
+
+      - name: Commit index.json if changed
+        id: commit
+        run: |
+          git config user.name "taynotfound"
+          git config user.email "marztayron@gmail.com"
+          if git diff --quiet -- index.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "index.json unchanged, nothing to commit"
+          else
+            git add index.json
+            git commit -m "chore: rebuild index.json [skip ci]"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Notify Discord
+        if: always()
+        env:
+          WEBHOOK: ${{ secrets.OSLOG_DISCORD_WEBHOOK }}
+        run: |
+          if [ "${{ job.status }}" = "success" ]; then
+            if [ "${{ steps.commit.outputs.changed }}" = "true" ]; then
+              EMOJI="📚"; TITLE="index rebuilt"
+              DESC="**${{ steps.build.outputs.count }}** books · ${{ steps.build.outputs.size }} · pushed"
+            else
+              EMOJI="✅"; TITLE="index checked"
+              DESC="**${{ steps.build.outputs.count }}** books · no change"
+            fi
+          else
+            EMOJI="💥"; TITLE="reindex failed"
+            DESC="build broke on this push"
+          fi
+          RUN="<https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}>"
+          CMP="<https://github.com/${{ github.repository }}/commit/${{ github.sha }}>"
+          MSG=$(printf '%s **[%s](%s)**\n%s\n-# %s · pushed by %s' \
+            "$EMOJI" "$TITLE" "$RUN" "$DESC" "[$(echo ${{ github.sha }} | cut -c1-7)]($CMP)" "${{ github.actor }}")
+          jq -n --arg c "$MSG" \
+            '{username:"foxbot", avatar_url:"https://github.com/taynotfound.png", content:$c}' \
+            > /tmp/payload.json
+          curl -s -X POST "$WEBHOOK" -H "Content-Type: application/json" --data-binary @/tmp/payload.json
