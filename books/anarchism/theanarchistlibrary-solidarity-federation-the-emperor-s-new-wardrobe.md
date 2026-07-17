@@ -1,0 +1,22 @@
+---
+title: "The Emperor’s New Wardrobe"
+author: "Solidarity Federation"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/solidarity-federation-the-emperor-s-new-wardrobe"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "reinventing imperialism"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "solidarity-federation-the-emperor-s-new-wardrobe.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/solidarity-federation-the-emperor-s-new-wardrobe.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/solidarity-federation-the-emperor-s-new-wardrobe)
