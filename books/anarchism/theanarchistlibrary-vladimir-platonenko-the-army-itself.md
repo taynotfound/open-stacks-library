@@ -1,0 +1,22 @@
+---
+title: "The Army Itself"
+author: "Vladimir Platonenko"
+date: "2023"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/vladimir-platonenko-the-army-itself"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Original translation. Retrieved on 9th March 2023 from avtonom.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "vladimir-platonenko-the-army-itself.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/vladimir-platonenko-the-army-itself.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/vladimir-platonenko-the-army-itself)
