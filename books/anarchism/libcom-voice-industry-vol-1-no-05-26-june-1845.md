@@ -1,0 +1,35 @@
+---
+title: "Voice Industry Vol 1 No 05 26 June 1845"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/voice-industry-vol-1-no-05-26-june-1845"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The 26 June 1845 issue of the Voice of Industry (Vol. 1 No. 5)."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Voice of Industry - Vol 1 No 5 - 26 June 1845.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/2023-08/Voice of Industry - Vol 1 No 5 - 26 June 1845.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/voice-industry-vol-1-no-05-26-june-1845)
+
+The 26 June 1845 issue of the Voice of Industry (Vol. 1 No. 5).
+
+When a man must have work today, or go without bread for himself and family, he is not in a position to make a fair bargain. Capital is able to look about and to take advantage of all the circumstances which will enable it to reduce the wages of labor. The large clothes dealers in the cities have their agents in the country, 1 who get work done at the lowest prices. A gentleman told us, the other day, that he saw the daughter of a respectable farmer making shirts for 11 cents a piece, for one of the dealers. He asked her whether she thought it a sufficient price. "No," said she, "if I were obliged to support myself, I could not do it by this work; but I merely employ my time which otherwise I should not use." It had not occurred to her that she was thus lowering the price paid to those who did depend on their labor for subsistence.
+
+We beseech our brother workingmen not to close their eyes nor their understandings to the tremendous effect which the improvement of machinery is destined to exert on their social condition, unless prevented by wise and vigorous measures on their part. When the common necessaries of life were principally supplied by hand labor, a fair day's work would not only command a fair day's wages, but it was not difficult to find good and suitable employment; and few skillful workmen ever had to complain of having little to do, or of being obliged to throw away their labor for prices scarce sufficient to keep soul and body together. But now that steam, and wind, and water, are made to do the work of many hands, now that so many of the common tools of every handicraft are so perfected, as in fact to give a man a half a dozen pair of hands instead of one, the labor of every trade in which machinery can be introduced takes a far smaller number of persons, and the remainder, who would naturally have been engaged in the same business, being thus thrown out of employment, crowd into other occupations which are carried on in the old mode, until every branch of labor becomes overstocked, so that the best workmen, in many cases, find it hard to get a living, though they sweat and toil till they feel the effects of overexertion in every joint and fibre of their body. Nor is this the hardest part of the case. A man, tending a circular saw or a planing machine, though he finds it not so easy to get employment, as when he drove the saw or plane by hand, and receive no more for his labor, than if he did the work by mere manual strength, actually produces a far greater amount of value, which goes to enrich the owner of the machine, and to widen and make permanent the deep gulf which always divides the rich and the poor. The profits of the machinery go to the capitalist; the operative is becoming more and more to be considered an appendage to the machine; his best qualities are valued principally as they contribute to the pecuniary success of the establishment; it is not expected that he will share in the mass of wealth which he is helping to create; and he thus finds it impossible to obtain the benefits, which are the natural fruit of labor, but which in this case, are given not to him who does the work, but to him who is able to get others to work for him.
+
+This theory of the influence of machinery on the working man is so familiar to all who have reflected on the subject with any attention, that it seems almost like a waste of words to dwell upon it; but the practical confirmation of it is not so evident in this country, as will be; various causes have conspired to postpone the evils which must inevitably come; and for the full illustration of the subject, as seen in the daily life, in the dwelling house, in the family circle of the operative, we must look to the system in the rank, festering ripeness of its operation among the feudal halls of industry in the old world. But the nature of things cannot be changed, and the same cause will produce the same effects here as elsewhere. Already our largest commercial cities, our great manufacturing towns, show clearly the fatal symptoms, which portend the coming of the terrific pestilence. But as yet, there is a deep current of vitality, the red glow of health, in the mass of the workingmen of this country, which will enable them to expel the deadly virus, before it is too late.
+
+The remedy is to be found, not in opposing the improvements in machinery; no yankee will ever do that; not in declaiming in the workshops, and at the corners of the streets, about the hardness of the times; but in vigorous, combined action, in producing a union between capital and labor, thus giving a direct interest in the machines to the men who work them. This union of interest must be brought about. The man who labors with the machine must share its profits, as well as the man who owns it. How far this can or will be done, under the present isolated arrangements of society is a problem, which it behooves the mass of our intelligent workingmen seriously to consider and discuss. In a true Association, where labor, capital, and skill are each represented, and equitable share of the product, where all branches of industry contribute to swell the amount not only of the general stock, but of personal returns, the difficulty is at once set aside; the great problem of modern society is solved; and a sure foundation laid for an enormous increase in the production of wealth, for its impartial distribution, for its immediate application to the greater purposes of social life, and thus for the establishment of mutual kindness, perpetual peace, and pure harmony in all the relations of men.
+
+In this point of view, no one can be surprised that we advocate so earnestly, and with all the ability we posses, a practical trial of the benefits of systematic Association. We are convinced, not only from a deep sense of the prevailing evils of society, not only from theoretical demonstration resting on exact principles of science, but from a pretty extensive experience of the effects of combination, that the true remedy for our social ills is to be found here, and that an experiment to this end, provided with sufficient means, engaged in by competent persons, and conducted with ordinary discretion, would terminate, not in disappointment or disaster, but in triumphant success.
