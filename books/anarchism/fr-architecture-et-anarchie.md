@@ -1,0 +1,154 @@
+---
+title: "Architecture et anarchie: Un couple mal assorti - Jean-Pierre Garnier"
+author: "Jean-Pierre Garnier"
+date: "2004"
+category: "anarchism"
+source: "https://fr.anarchistlibraries.net/library/architecture-et-anarchie"
+source_name: "fr.anarchistlibraries.net"
+page_type: book
+mirror_state: full
+description: "; author Jean-Pierre Garnier ; SORTauthor Garnier Jean-Pierre Erratum Ravage Éditions : Suite à des prises de positions de l’auteur de cette brochure (dont nous n’avions pas connaissance), antisémites et pro-négationnistes sous prétexte d'”"
+tags:
+  - "francais"
+  - "anarchism"
+  - "architecture"
+  - "urbanisme"
+  - "Ravage Editions"
+  - "pdf"
+files:
+  - name: "Architecture et anarchie.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talfr-architecture-et-anarchie.pdf"
+    hosted: true
+  - name: "Architecture et anarchie.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talfr-architecture-et-anarchie.epub"
+    hosted: true
+---
+
+# Architecture et anarchie: Un couple mal assorti
+
+*Jean-Pierre Garnier*
+
+> Publié sous forme de brochure par Ravage Editions le 22 décembre 2014.
+
+; #author Jean-Pierre Garnier
+; #SORTauthor Garnier Jean-Pierre
+
+**Erratum Ravage Éditions :** Suite à des prises de positions de l’auteur de cette brochure (dont nous n’avions pas connaissance), antisémites et pro-négationnistes sous prétexte d'”anti-conformisme”, celle-ci ne sera plus imprimée ni distribuée. Ou bien, elle sera débarrassée de son auteur.
+
+----
+
+Introduction
+
+À l’heure où certains réaffirment, comme les maoïstes en leur temps, vouloir « reprendre la ville », se la « réapproprier » ou l’« auto-gérer », il paraît nécessaire de reproduire des textes comme celui-ci. Nous rappelant, à travers la question de l’architecture, qu’il n’y a rien à se réapproprier dans ce monde, et renvoyant à leur véritable origine – le citoyennisme – toutes les illusions participatives des démocrates en tout genre. Après tout, que vient faire le *re* de « *ré*approprions-nous la ville », « *re*prenons la ville » ou « *re*claim the street ». À quel moment les villes nous ont-elles appartenu ? Lorsque l’humanité fut chassée de ses terres pour habiter les villes construites comme des camps pour fixer et concentrer la main d’œuvre sous bonne garde ? Nous les avons construites, oui, en des temps immémoriaux ou récemment, mais nous ne les avons pas dessinées, nous ne les avons pas pensées, et elles n’ont pas été construites pour nous servir, mais pour servir les puissants et leur maintien de l’ordre, donc pour nous asservir.
+
+Certains rétorqueront que lors de moments insurrectionnels, la ville appartient aux insurgés, mais nous pensons plutôt qu’une insurrection, si elle se veut vraiment révolutionnaire, doit se fixer comme perspective qualitative la destruction des villes comme de toutes les autres concentrations du pouvoir. Pour des raisons pratiques d’abord, car comment pourrions-nous nous nourrir en ville (durablement) si nous refusons de faire tourner les usines de mort de l’agro-industrie ? Mais aussi parce que nous ne pouvons pas rêver d’un autre monde sans engendrer de ruines. Se réapproprier la ville, ou l’auto-gérer, équivaudrait à s’enfermer dans le cycle infernal de la gestion, et donc de la reproduction de ce monde, ultime contre-révolution. C’est Durruti qui affirmait :
+
+> *« Nous n’avons pas peur des ruines. Nous allons recevoir le monde en héritage. La bourgeoisie peut bien faire sauter et démolir son monde à elle avant de quitter la scène de l’Histoire. Nous portons un monde nouveau dans nos cœurs. »*
+
+L’architecture moderne doit répondre à des critères eux aussi modernes, et qui ne seront jamais les nôtres. La prévention situationnelle en est le meilleur exemple. Derrière ce terme barbare et tout préfectoral, se cache en fait la traduction formalisée de méthodes orientées vers la prise en compte de la sécurité dans les aménagements des espaces publics ou privés, en somme, du flicage. Son application étant censée réduire le sentiment d’insécurité. Elle fait donc plus que jamais des architectes et urbanistes de simples auxiliaires de police. Mais était-il encore nécessaire de le prouver ?
+
+Pour que crève le vieux monde, il faudra détruire toutes les prisons, villes inclues.
+
+                    *Décembre 2014, Ravage Editions.*
+
+##### Architecture et anarchie : un couple mal assorti
+
+> *« Un jour, je suis tombé sur une gravure représentant un architecte de l’Inde ancienne : un homme siégeant au milieu de la maison, armé d’une longue perche, avec laquelle il désignait aux ouvriers où poser leur pierre. Être assis et commander les maçons, j’avais trouvé ma vocation. »* Renzo Piano (architecte) [1]
+
+Quel rapport sinon a priori antinomique peuvent bien entretenir l’architecture et l’anarchie ? C’est peu dire, en effet, que l’architecture s’est mise dès l’origine au service de l’ordre, comme en témoigne l’édification des temples pour honorer les dieux, des palais pour protéger les puissants ou des monuments pour glorifier les tyrans. Symbole de l’autorité, l’architecture l’est assurément. Mais, pas seulement : elle est d’abord l’un de ses instruments, et non des moindres, puisqu’elle constitue un mode indispensable de son exercice.
+
+> *« Plus encore que la représentation ostentatrice du pouvoir, l’architecture est au principe d’un art de commander. Tout pouvoir s’exerce architectoniquement. »* [2]
+
+L’étymologie grecque du mot l’atteste d’ailleurs assez : le préfixe *arkhi* exprime la prééminence, désignant ce qui vient en premier dans l’ordre aussi bien chronologique que hiérarchique. Autrement dit, le commencement va de pair avec le commandement (*arkhê*).
+
+La pratique de l’architecture elle-même s’en ressent, plus que jamais marquée par l’élitisme et l’autoritarisme. Rêver de la « démocratiser », comme le firent les étudiants « contestataires » de la discipline, il y a une trentaine d’années, est à cet égard un non-sens. Soucieux avant tout de secouer la tutelle de leurs « grands maîtres », certains avaient été jusqu’à se réclamer du maoïsme - ou du moins ce que l’on en percevait dans les salons ou les salles de séminaires - pour inciter l’architecte à « descendre de son piédestal », à pratiquer le « retour à la base » pour se mettre « à l’écoute des masses ». Sitôt entrés dans la profession, ces révolutionnaires de la planche à dessin s’empressèrent de renouer avec la tradition mandarinale. Si tant est qu’ils aient jamais rompu avec elle. Défroqués du gauchisme de leur jeunesse, les Jean Nouvel, Christian de Portzamparc, Roland Castro et autres « starchitectes » campent, en tout cas, plus que jamais sur les marches des palais.
+
+Peut-il exister, dès lors, à propos de la création architecturale un point de vue anarchiste qui ne soit pas purement négatif, pour ne pas dire iconoclaste ? L’architecture ne serait-elle vouée, de toute éternité, qu’à servir le prince, celui-ci se réclamerait-il du peuple, comme ce fut le cas dans les pays du socialisme réellement inexistant ou, encore de nos jours, dans ceux où la « démocratie » est censée régner, si l’on peut dire ? Aussi magnifique qu’elle puisse être, aussi forte soit l’émotion esthétique qu’elle procure, l’empreinte que les humains laissent sur terre au travers de l’art de bâtir ne serait-elle, en fin de compte, que celle de la domination et de la soumission ? Exception infirmant la règle, cet art devrait-il, de par sa nature intrinsèquement autoritaire, échapper à la « révolution totale » ou « intégrale » qui constitue l’horizon du combat pour l’émancipation ? Comment rompre, en d’autres termes, le lien plus que séculaire qui associe le pouvoir des lieux aux lieux du pouvoir ? Et parvenir ainsi à réinscrire le premier dans ce dont la majorité des humains ont été dépossédés par les seconds : leur capacité à auto-instituer, individuellement ou collectivement, leur relation à l’habiter.
+
+##### Les fausses fenêtres de l’autoconstruction
+
+Il y a plusieurs façons d’envisager cette relation où les habitants pourraient donner libre cours, dans leur rapport avec l’habitat, à leurs facultés inventives et créatives. La première qui vient à l’esprit est évidemment l’autoconstruction. De nombreux écrits y ont déjà été consacrés, mais ce type de réponse et les expériences dont elle s’inspire ou qu’elle inspire ne répondent pas exactement à la problématique énoncée plus haut.
+
+Placée le plus souvent sous le signe de l’urgence et de la pénurie, l’autoconstruction constitue tout d’abord, de nos jours, une solution de survie courante dans les pays où une grande partie de la population, victime de l’oppression des régimes en place, végète dans la misère et la déréliction. Sans doute l’habitat de fortune qui lui sert d’abri, sinon de résidence, est-il le fruit de la « débrouille », c’est-à-dire d’une inventivité dictée par la nécessité. Mais, sauf à verser dans le populisme exotique où se complaisent certains anthropologues épris de « culture de la pauvreté », on ne saurait, sans cynisme ni démagogie, déceler dans les bidonvilles l’esquisse d’un modèle alternatif de création architecturale. Dans le meilleur des cas, on pourra tout au plus, comme s’y emploient les experts ès développement, « durable » ou non, y puiser quelques idées (choix de matériaux non coûteux, utilisation des savoir-faire locaux, conformité de l’agencement des espaces aux modes de vie, etc.) susceptibles d’améliorer l’ordinaire.
+
+Dans les pays du capitalisme avancé, l’autoconstruction a pu être également considérée comme le nec plus ultra d’un « habitat autogéré ». Il ne s’ensuit pas, toutefois, que la créativité en matière architecturale soit toujours au rendez-vous. En dépit des efforts assidus de quelques sociologues pour révéler la « richesse de sens » des pavillons construits par leurs propriétaires ou sous leur contrôle étroit, c’est la médiocrité et la banalité esthétiques qui prédominent. Le savoir-faire constructif dont peuvent faire preuve les « bâtisseurs du dimanche » ne saurait, en effet, être confondu avec une quelconque inventivité esthétique. Ainsi les habitations individuelles édifiées par les travailleurs immigrés portugais, espagnols ou grecs pour leurs familles, par exemple, dans la perspective de leur retour au pays, gâchent-elles autant, et souvent plus, le paysage de leur région d’origine, que les lotissements et autres « nouveaux villages » qui prolifèrent à la périphérie des villes des pays d’accueil. C’est que la « compétence » pratique et langagière du « pavillonnaire » érigé par certains sociologues en « occupant actif » de son logement n’en fait pas pour autant un créateur. De même, l’ingéniosité dont il peut faire montre pour « bricoler » l’intérieur de son logement ou aménager le jardin attenant reste la plupart du temps prisonnière de stéréotypes puisés parmi les « modèles-types » de maisons préfabriquées vendues « clefs en main » sur catalogue, bloquant toute sortie hors des sentiers battus. Tout le monde n’est pas le facteur Cheval !
+
+À l’opposé de cet habitat autoconstruit où la diversité va de pair avec la répétitivité, il existe des prototypes de logements « innovants », à un titre ou à un autre, en maisons individuelles ou en petits immeubles collectifs, conçus et réalisés par leurs propriétaires, avec souvent le concours d’amis architectes, urbanistes, ingénieurs ou designers. Expériences sans nul doute enrichissantes, mais seulement à la portée d’une minorité de gens aisés désireux de prouver que l’on pouvait « vivre autrement » dans un monde globalement inchangé. Il en va de même pour les « baraques retapées » par leurs acquéreurs pour être converties en résidences secondaires dans les zones rurales menacées de désertification. Et que dire des « lofts » aménagés à grands frais par leurs riches occupants dans des ateliers ou des entrepôts désaffectés légués par la désindustrialisation ?
+
+On objectera peut-être qu’avant d’être investies par les « bobos », les « friches urbaines » ont initialement servi de terres d’accueil à des « marginaux » plus ou moins désargentés, allergiques au droit de propriété et à la marchandisation généralisée de l’espace urbain. Lieux d’expérimentation sociale en même temps que mode de survie, il arrive que les squats, notamment lorsqu’ils sont transformés en « espaces culturels » par des artistes, soient l’occasion pour des non-professionnels de déployer des talents d’architectes qui seraient demeurés à l’état de virtualités en d’autres situations résidentielles. Le plus souvent, cependant, les aménagements apportés sont des plus sommaires. Effectués, de surcroît, avec des moyens limités, ils obligent les squatters à vivre dans des conditions précaires de confort et d’hygiène où l’invention et la créativité architecturale ne sauraient guère trouver place.
+
+Censée « rompre avec l’urbanisation capitaliste », la récupération inventive des interstices d’un tissu urbain dégradé n’a pas tardé à inspirer édiles et promoteurs à la recherche, eux aussi, d’une alternative à une « rénovation » devenue impopulaire et surtout invendable, à la longue, en raison des dévastations esthétiques et écologiques qu’elle avait entraînées.
+
+Un nouveau modèle de « reconquête urbaine » lui a donc succédé : la « réhabilitation » des anciens quartiers populaires et leur « gentrification », c’est-à-dire leur occupation progressive, sinon progressiste, par des individus friqués et branchés épris de non-conformisme labellisé.3 L’autoconstruction, dans ce cas, n’est plus de mise. C’est à des architectes spécialisés que l’on fait désormais appel pour « réinventer » la ville.
+
+##### Les impasses de la « participation »
+
+Dans la foulée de l’élan libérateur de mai 68, toute une littérature s’est rapidement accumulée autour de la thématique du « droit à la ville », théorisée par le sociologue Henri Lefebvre et popularisée par une petite-bourgeoisie intellectuelle radicalisée qui discernait alors dans le « champ urbain » l’ouverture d’un « nouveau front » contre la domination bourgeoise. Les « luttes urbaines » menées à cette époque contre les projets d’aménagement de la technocratie ou les opérations immobilières des « marchands de ville » semblaient accréditer le bien-fondé de cette vision. Organisés en comités d’usagers, conseils de résidents et autres associations de riverains, soutenus par des militants qui auguraient une extension ou un déplacement de la « contestation » du champ du travail vers l’espace urbain, nombre de citadins faisaient valoir leur volonté d’intervenir directement dans le domaine jusque-là réservé de l’urbanisme et de l’architecture.
+
+Emprunté par les situationnistes aux architectes futuristes de l’URSS pré-stalinienne avant d’être converti en jingle électoraliste par les « communicants » du parti socialiste, le slogan « changer la ville pour changer la vie » ouvrira la voie à un déferlement de propositions pour faire « participer » les habitants à l’« amélioration de leur cadre de vie ». On en viendra même à préconiser l’« autogestion » de ce dernier, au nom d’un approfondissement jugé indispensable de la « démocratie locale ». Pris dans ce flux idéologique, des architectes parlèrent d’« associer les usagers » à la définition et à la mise en œuvre des projets urbains, les plus radicaux n’hésitant pas à reprendre à leur compte le mot d’ordre lancé par leur confrère égyptien Hassan Fahti dans un tout autre contexte : « Construire avec le peuple ».
+
+Bien entendu, ces proclamations restèrent, sinon sans lendemain, du moins sans conséquences notables sur le partage des rôles entre, d’une part, les producteurs de l’espace urbain, c’est-à-dire les décideurs et les concepteurs, seuls habilités à déterminer, entre autres, quelles formes devait revêtir la ville dans l’avenir, et, d’autre part, les consommateurs, c’est-à-dire le commun de ses habitants, conviés par une « critique » architecturale servile non seulement à accepter, mais à approuver, voire à applaudir des « grands travaux » réalisés sans leur aval.
+
+Certes, on s’est préoccupé en haut lieu de connaître un peu mieux les goûts et dégoûts du peuple, transmué entre-temps en « public », en matière d’urbanisme et d’architecture. Une meute de chercheurs est régulièrement dépêchée « sur le terrain » pour capter ses « besoins », étudier ses « pratiques », supputer ses « représentations ». En outre, l’essor des « nouvelles technologies de communication », surtout utilisées, en l’occurrence, comme techniques audiovisuelles informatisées de manipulation, a permis aux élus locaux de mettre au point des procédures de « concertation » de plus en plus sophistiquées pour faire du citadin un « acteur à part entière dans la cité ». Cependant, quand on lui demande son avis, ce sera rarement sur des projets urbains un tant soit peu importants susceptibles de modifier notablement son environnement, mais plutôt sur des questions aussi essentielles que l’emplacement d’un terrain de boules, la hauteur des bordures de trottoir ou la signalétique d’un passage protégé.
+
+De toute façon, s’il a voix au chapitre, celle-ci n’est que « consultative » !
+
+En dépit des efforts déployés par les autorités et leurs relais médiatiques pour faire croire le contraire, le « droit de regard » octroyé au citadin sur la qualité du paysage urbain n’a fait que le confirmer et le confiner dans le statut qui a toujours été le sien : celui de spectateur. Aujourd’hui comme hier, l’art de bâtir reste l’apanage des princes, qu’ils soient managers « globaux », gouvernants nationaux ou potentats locaux, secondés par les architectes de renom dont ils se sont acquis les services.
+
+Pur produit de la séparation et du morcellement de la praxis humaine sous l’effet de la division capitaliste du travail, la création architecturale passe à juste titre pour une activité hautement spécialisée réservée à une minorité, pour ne pas dire une élite. Seuls des individus pourvus de la formation, des connaissances et des aptitudes adéquates, peuvent aujourd’hui prétendre façonner l’environnement construit où leurs semblables sont appelés à vivre. Faut-il, dès lors, se résoudre à admettre que l’hypothèse de départ, formulée par André Bernard et Philippe Garnier, selon laquelle « le pouvoir d’innover, d’inventer est au cœur de l’homme, de chaque homme, comme potentialité », ne pourrait s’appliquer à la production architecturale et, plus largement, à celle de l’espace habité, si l’on excepte les aménagements de détail domiciliaires évoqués plus haut ? Admettre que, finalement, la complexité atteinte aujourd’hui par l’activité constructive rend illusoire tout espoir de réappropriation populaire dans ce domaine ? Ou bien ne serait-ce pas plutôt, comme à chaque fois que la « complexité » est mise en avant, un alibi pour rendre impensable l’idée même d’une telle réappropriation ?
+
+##### « Mère de tous les arts » ou enfant ingrat de l’artisanat ?
+
+Il fut un temps où, à côté de l’architecture « savante » réservée aux édifices religieux, princiers ou civiques, c’est-à-dire aux emblèmes construits de la domination, se déployait une architecture ordinaire que l’on pourrait presque qualifier de populaire dans la mesure où elle était le fait d’artisans immergés dans la vie quotidienne des « petites gens » dont ils faisaient partie, œuvrant d’ailleurs en collaboration permanente avec ceux-ci. L’habitat qui en résultait (maisons, boutiques, rues, placettes, voûtes, chapelles, fontaines, murets, terrasses, etc.) était si conforme aux besoins, aux désirs, aux plaisirs ou aux croyances de chacun qu’il n’est pas exagéré de considérer le peuple comme le véritable créateur de son « cadre de vie », l’artisan jouant, dès lors, le rôle de simple médiateur technique. Pour bien marquer l’enracinement de cette « architecture sans architectes » dans le terreau socio-historique local, des anthropologues la qualifieront de « vernaculaire » - du mot latin vernaculus, c’est-à-dire « né dans la maison », pour l’esclave, et non venu d’ailleurs -, pour ne pas dire « indigène », terme plus approprié, mais fâcheusement connoté depuis la décolonisation.
+
+Si l’on a placé ci-dessus l’expression « cadre de vie » entre guillemets, c’est qu’elle est mystificatrice. Sous couvert de valoriser l’environnement en soulignant ce qu’il a de vital pour nos contemporains, elle incite à entériner, en le naturalisant, l’encadrement de leur vie par l’espace construit. Or, le propre de l’architecture dite vernaculaire est qu’elle s’élaborait « en prise » directe « avec » les manières de vivre des habitants, au contraire de la construction industrialisée qui lui succédera et fera peser son « emprise sur » eux. La première matérialisait et symbolisait à la fois l’autonomie préservée de la collectivité qu’ils formaient, même si celle-ci devait rendre des comptes aux puissants plus ou moins lointains qui régnaient sur elle. La seconde, en revanche, sera mise en œuvre, conjointement à l’urbanisme technocratique qui se développait parallèlement, pour apprendre à vivre aux habitants - formulation à prendre aux sens propre et figuré -, selon les canons individualistes de la modernité. Pour en faire des consommateurs dociles, certes. Mais, d’abord, comme le rappelle un auteur qui n’oublie pas la dimension politique de la destruction programmée du tissu urbain ancien, pour *« briser la vieille capacité de résistance des classes populaires en assurant les conditions matérielles de leur atomisation. »* [3]
+
+Précapitaliste, l’architecture vernaculaire se maintiendra malgré tout tant bien que mal jusqu’à ce que la « modernisation », sous la forme de l’industrialisation, achève d’envahir ce que l’on appellera désormais le « secteur du bâtiment », liquidant l’art de bâtir des artisans dont les savoir-faire seront rejetés dans la poubelle de l’« archaïsme », au même titre que l’art de vivre qui lui était lié. C’est à dessein que le mot « art » sert ici à qualifier à la fois un mode de vie et la manière de concevoir l’environnement qui lui correspond, encore que ce dernier terme ne soit, lui non plus, guère satisfaisant. Il présuppose, en effet, une extériorité de l’habitat par rapport à l’habitant, typique d’une société où le sens de l’habiter se perd peu à peu.
+
+Habiter un espace, en effet, dans l’acception anthropologique, c’est-à-dire transitive du terme, c’est pouvoir y investir nos envies, nos rêves ou nos souvenirs pour en faire un « lieu » identifiable auquel nous pourrons nous-mêmes nous identifier, que ce soit durant une vie entière ou seulement pour un bref moment, en tant qu’hôte éphémère d’un lieu ou même simple visiteur de passage. Mais il arrive le plus souvent que l’on doive refouler sentiments et aspirations, contraints que nous sommes d’habiter dans un espace qui, non seulement sera vécu comme extérieur, mais pourra nous paraître étranger voire hostile. Indissociables, « savoir-faire » et « savoir- vivre » la ville - ou le village - se sont combinés pour faire spontanément de celle-ci - ou de celui-ci -, une « œuvre ». Aujourd’hui, on l’a assez dit, le capitalisme les a, comme le reste, sciemment convertis en produits.
+
+Avant d’être intronisée, à tort ou à raison, « mère de tous les arts », l’architecture est donc longtemps restée le fruit d’une activité artisanale. Et l’on comprend mal, si l’on fait abstraction des « impératifs » du mode de production capitaliste, pourquoi elle ne le redeviendrait pas, au moins en partie, pour peu que l’artisanat soit lui-même réactualisé. C’est la voie que préconise, entre autres, l’architecte belge Léon Krier, plus libertaire qu’anarchiste, dont les projets déjà réalisés, parfois à l’échelle d’un ensemble de logements, d’équipements et d’espaces publics, ont pu l’être, dans le cadre de la logique marchande, bien sûr, mais sans avoir dû recourir à ces méthodes industrielles prétendument efficaces qui ont conduit aux échecs techniques, culturels, écologiques et politiques que l’on sait. Une fois libérés, comme toute autre activité productive, de l’obsession de la rentabilité et du profit, la quarantaine de corps de métiers qui composent l’artisanat de la construction pourraient offrir d’infinies possibilités d’expression artistique et d’invention personnelle à une multitude d’individus, réduisant d’autant, à défaut d’y mettre fin, le monopole créatif que s’arrogent les architectes.
+
+##### Vivre de l’art des autres
+
+> *« Un village, un seul mas établi parmi quelques terrasses de cultures au flanc d’une colline, humanise le paysage jusqu’à l’horizon ; la pauvreté et la solitude qu’abritent leurs pierres projettent sur le monde alentour la présence d’un sens secret et d’un ordre désirable. »*
+
+En une seule phrase et avec ce seul exemple, le sociologue Michel Freitag résume et illustre ce que peut avoir de problématique l’architecture d’aujourd’hui. [4]
+
+Et quel manque en résulte pour tous ceux - la majorité - qui, à défaut d’être en mesure de façonner et de modeler eux-mêmes leurs lieux de vie, même en amateurs, aimeraient pourtant pouvoir s’émouvoir, se réjouir, s’amuser, se souvenir, imaginer selon leur propre gré au contact d’espaces conçus et fabriqués par d’autres.
+
+On peut affirmer, sans courir le risque d’être contredit, que la majeure partie de ce qui s’est bâti au cours des dernières décennies coupe court, à de rares exceptions près, à tout plaisir ou désir d’y déceler ou d’y projeter une signification autre que celle de l’utilité.
+
+> *« Par-delà la fonctionnalité immédiate de l’aménagement des lieux et des choses, quel monde s’est-il laissé entrevoir et désirer ? »* [5]
+
+Quelle « présence » peut-on bien rencontrer dans l’environnement urbanisé que l’on nous propose - impose - aujourd’hui ? Et pourtant, ce ne sont pas les architectes, urbanistes, paysagistes et plasticiens qui font défaut pour tenter de rétablir le dialogue entre les habitants et « leur » habitat. Mais, que l’on ait besoin de tous ces « professionnels », « experts », « spécialistes » et autres « intervenants », comme on les appelle, montre bien, précisément, que la capacité d’inventer qui devrait être au cœur de chaque homme en tant qu’habitant comme dans les autres sphères de son existence ne lui appartient plus.
+
+Par-delà son utilité, une architecture, quelle qu’elle soit, ne devrait-elle pas, dans ces conditions, tirer une légitimité nouvelle d’un certain pouvoir sur l’imaginaire des habitants ? Non plus de ce pouvoir d’intimidation et d’imposition auquel nous nous référions en introduction à notre propos, pouvoir de persuasion, fût-elle « clandestine », comme dans les temples de la consommation - consommation culturelle incluse, s’agissant des musées, des théâtres ou des salles d’opéra - , bien en phase avec une société qui prospère sur la passivité du plus grand nombre. Ce dont il s’agit ici, c’est, au contraire, d’un pouvoir d’incitation à l’auto-expression.
+
+Philippe Garnier rappelait le critère que proposait Picasso d’une œuvre d’art réussie :
+
+> *« Le fait qu’elle donne chez l’autre le désir d’inventer - non pas dans la peinture, mais dans son propre champ. »* [6]
+
+Cela vaut, évidemment, aussi pour l’architecture. À plus forte raison, pourrait-on même ajouter : tant qu’à être « la mère de tous les arts », elle pourrait, étant donné la multiplicité des registres esthétiques sur lesquels elle doit jouer, faire naître des « vocations » créatives par les biais et dans les domaines les plus divers parmi les gens dont l’architecture n’est pas le métier. Songeons, par exemple, à tous ceux qui sont devenus écrivains, peintres, photographes ou cinéastes - connus ou inconnus, talentueux ou maladroits, peu importe - pour avoir, au départ, pris la plume ou une caméra à seule fin de faire partager les sensations et les émotions éprouvées en parcourant une ville, un quartier, une rue, une maison...
+
+On ne peut, par conséquent, que déplorer que le tout-venant de ce qui s’édifie sous nos yeux participe de cette architecture muette ou illisible qui n’offre aucun texte à lire, aussi stérilisante pour l’esprit que la monumentalité bavarde qui sert de relais aux discours, propagandistiques ou promotionnels, des puissants. Et, puisqu’il faut bien finir, nous terminerons sur l’évocation de l’un de ces lieux qui nous parlent, comme on dit, parce que d’autres ont réussi à établir un dialogue actif avec lui. Choisissons donc de nous transporter vers l’une de ces îles des Cyclades que le génie des hommes a longtemps su faire passer pour bénies des dieux.
+
+Comment ne pas vibrer charnellement face à ces villages perchés sur le rebord des falaises qui donnent l’impression que la neige y est tombée en plein été, à moins que leurs cubes harmonieusement pétrifiés comme par un poétique hasard ne dégoulinent en vague vers le port accueillant blotti à leur pied ? Preuve irréfutable, s’il en est, de la possibilité de cet « art immédiat de l’espace » dont parlait avec passion l’écrivain Jacques Lacarrière, peu avant que la déferlante du tourisme de masse ne commence à faire sentir ses effets délétères. Rêvons quand même d’un monde, et faisons en sorte qu’il advienne, où les humains devenus tous artistes, d’une manière ou d’une autre, pourront recommencer à créer au lieu de se contenter de travailler et de consommer, si tant est que le contentement puisse être associé à de pareilles occupations. Un monde où chacun pourra se fabriquer, avec les moyens du bord, des plus rudimentaires aux plus élaborés, mais surtout avec son imaginaire propre, un endroit à l’image de celui qu’évoquait le grand poète crétois, Nicos Kazantzakis, lorsqu’au crépuscule de sa vie, il écrira :
+
+> *« À l’instant atroce de la mort, fermez les yeux et, si vous voyez Santorin, Naxos, Paros et Mykonos, vous entrerez, sans même passer par la terre, dans le paradis. Que pèsent le sein d’Abraham et les spectres immatériels du paradis chrétien au regard de cette éternité grecque, faite d’eau, de rocher et de vent frais ? »*
+
+                    [ . . . ]
+
+[1] Couronné en 1998 par le prix Pritzker (le Nobel de l’architecture), Renzo Piano est le coauteur du centre Georges-Pompidou. Réalisés aux quatre coins du globe, ses projets comptent parmi les chefs-d’œuvre incontestés - et incontestables - de l’architecture contemporaine : centre Jean-Marie-Djibaou en Nouvelle-Calédonie, terminal aéroportuaire Kansaï à Okinawa, siège social d’Hermès à Tokyo et du New York Times (en cours de construction) à New York, cité de la Musique à Rome, etc.
+
+[2] Benoît Goetz, « La dislocation : critique du lieu », in Ch. Younès, M. Mangematin, Lieux contemporains, Descartes et Cie, 1997.
+
+[3] « De la destruction des villes en temps de paix », Revue du Mauss, n° 14, second semestre 1999.
+
+[4] Michel Freitag, *Architecture et société*, Éditions Saint-Martin, 1992.
+
+[5] *Ibid.*
+
+[6] *Réfractions, n° 7*, « L’art et l’inventivité », 2001.

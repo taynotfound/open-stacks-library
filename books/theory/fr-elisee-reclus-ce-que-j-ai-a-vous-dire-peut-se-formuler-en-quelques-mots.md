@@ -1,0 +1,51 @@
+---
+title: "Ce que j’ai à vous dire peut se formuler en quelques mots - Élisée Reclus"
+author: "Élisée Reclus"
+date: "1885"
+category: "theory"
+source: "https://fr.anarchistlibraries.net/library/elisee-reclus-ce-que-j-ai-a-vous-dire-peut-se-formuler-en-quelques-mots"
+source_name: "fr.anarchistlibraries.net"
+page_type: book
+mirror_state: full
+description: "Clarens, Vaud, 26 septembre 1885. Compagnons, Vous demandez à un homme de bonne volonté, qui n’est ni votant ni candidat, de vous exposer quelles sont ses idées sur l’exercice du droit de suffrage. Le délai que vous m’accordez est bien cour"
+tags:
+  - "francais"
+  - "theory"
+  - "élection"
+  - "pdf"
+files:
+  - name: "Ce que j’ai à vous dire peut se formuler en quelques mots.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talfr-elisee-reclus-ce-que-j-ai-a-vous-dire-peut-se-formuler-en-quelques-mots.pdf"
+    hosted: true
+  - name: "Ce que j’ai à vous dire peut se formuler en quelques mots.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talfr-elisee-reclus-ce-que-j-ai-a-vous-dire-peut-se-formuler-en-quelques-mots.epub"
+    hosted: true
+---
+
+# Ce que j’ai à vous dire peut se formuler en quelques mots
+
+*Élisée Reclus*
+
+> Lettre adressée à Jean Grave, insérée dans Le Révolté du 11 octobre 1885.
+
+Clarens, Vaud, 26 septembre 1885.
+
+Compagnons,
+
+Vous demandez à un homme de bonne volonté, qui n’est ni votant ni candidat, de vous exposer quelles sont ses idées sur l’exercice du droit de suffrage.
+
+Le délai que vous m’accordez est bien court, mais ayant, au sujet du vote électoral, des convictions bien nettes, ce que j’ai à vous dire peut se formuler en quelques mots.
+
+Voter, c’est abdiquer ; nommer un ou plusieurs maîtres pour une période courte ou longue, c’est renoncer à sa propre souveraineté. Qu’il devienne monarque absolu, prince constitutionnel ou simplement mandataire muni d’une petite part de royauté, le candidat que vous portez au trône ou au fauteuil sera votre supérieur. Vous nommez des hommes qui sont au-dessus des lois, puisqu’ils se chargent de les rédiger et que leur mission est de vous faire obéir.
+
+Voter, c’est être dupe ; c’est croire que des hommes comme vous acquerront soudain, au tintement d’une sonnette, la vertu de tout savoir et de tout comprendre. Vos mandataires ayant à légiférer sur toutes choses, des allumettes aux vaisseaux de guerre, de l’échenillage des arbres à l’extermination des peuplades rouges ou noires, il vous semble que leur intelligence grandisse en raison même de l’immensité de la tâche. L’histoire vous enseigne que le contraire a lieu. Le pouvoir a toujours affolé, le parlotage a toujours abêti. Dans les assemblées souveraines, la médiocrité prévaut fatalement.
+
+Voter c’est évoquer la trahison. Sans doute, les votants croient à l’honnêteté de ceux auxquels ils accordent leurs suffrages — et peut-être ont-il raison le premier jour, quand les candidats sont encore dans la ferveur du premier amour. Mais chaque jour a son lendemain. Dès que le milieu change, l’homme change avec lui. Aujourd’hui, le candidat s’incline devant vous, et peut-être trop bas ; demain, il se redressera et peut-être trop haut. Il mendiait les votes, il vous donnera des ordres. L’ouvrier, devenu contre-maître, peut-il rester ce qu’il était avant d’avoir obtenu la faveur du patron ? Le fougueux démocrate n’apprend-il pas à courber l’échine quand le banquier daigne l’inviter à son bureau, quand les valets des rois lui font l’honneur de l’entretenir dans les antichambres ? L’atmosphère de ces corps législatifs est malsain à respirer, vous envoyez vos mandataires dans un milieu de corruption ; ne vous étonnez pas s’ils en sortent corrompus.
+
+N’abdiquez donc pas, ne remettez donc pas vos destinées à des hommes forcément incapables et à des traîtres futurs. Ne votez pas ! Au lieu de confier vos intérêts à d’autres, défendez-les vous-mêmes ; au lieu de prendre des avocats pour proposer un mode d’action futur, agissez ! Les occasions ne manquent pas aux hommes de bon vouloir. Rejeter sur les autres la responsabilité de sa conduite, c’est manquer de vaillance.
+
+Je vous salue de tout cœur, compagnons.
+
+                    Élisée Reclus.

@@ -1,0 +1,57 @@
+---
+title: "Bring the Ruckus vs. Race Traitor - Geert Dhondt"
+author: "Geert Dhondt"
+date: "July 2, 2007"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/geert-dhondt-bring-the-ruckus-vs-race-traitor"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "The proletarian movement is the self-conscious, independent movement of the immense majority, in the interest of the immense majority. The proletariat, the lowest stratum of our present society, cannot stir, cannot raise itself up, without"
+tags:
+  - "theory"
+  - "Bring the Ruckus"
+  - "Race Traitor"
+  - "pdf"
+files:
+  - name: "Bring the Ruckus vs. Race Traitor.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-geert-dhondt-bring-the-ruckus-vs-race-traitor.pdf"
+    hosted: true
+  - name: "Bring the Ruckus vs. Race Traitor.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-geert-dhondt-bring-the-ruckus-vs-race-traitor.epub"
+    hosted: true
+---
+
+# Bring the Ruckus vs. Race Traitor
+
+*by Geert Dhondt*
+
+> Geert is a member of Bring the Ruckus.
+
+> *The proletarian movement is the self-conscious, independent movement of the immense majority, in the interest of the immense majority. The proletariat, the lowest stratum of our present society, cannot stir, cannot raise itself up, without the whole superincumbent strata of official society being sprung into the air.*
+>
+> —Karl Marx, 1848
+> *It can see to it that not only no action of this inner group [Blacks] is opposed to the real interests of the nation, but that it works for an in conjunction with the best interests of the nation.*
+>
+> —W.E.B. DuBois, 1940
+> *[T]heir agitation, resistance and the political developments that they can initiate, can be the means whereby the proletariat is brought on to the scene.*
+>
+> —C.L.R. James, 1948
+
+Is Bring the Ruckus a *Race Traitor* organization? Does Bring the Ruckus subscribe to *Race Traitor* politics? Do *Race Traitor* and Bring the Ruckus put whitey at the center of the revolutionary struggle? These kinds of question pop up all the time. This brief piece tries to bring some clarity to these kinds of questions.
+
+*Race Traitor* is a radical journal that was founded in 1992. This journal argued through articles, poetry, and personal stories that the way to bring about revolutionary change in this country was to “abolish the white race.”
+
+The political reflected in *Race Traitor* follows in a long-tradition of revolutionary politics in the U.S.. This is that tradition of the Abolitionists, of W.E.B. Du Bois, and of C.L.R. James. This is the tradition that has continually argued the fundamental importance of the fighting the “color-line” in the U.S. as a revolutionary strategy. There is no fundamental difference between Du Bois’s analysis of Reconstruction (1935), of James’ arguments in the “Revolutionary Answer to the Negro problem in the USA (1948)” and the positions of Race Traitor or Bring the Ruckus. Dubois, James, Race Traitor, BTR all argue the fundamental importance of fighting the color line in order to create a new world. I believe one of the reasons that some might think of BTR as a “Race Traitor” organization is because fundamentally both the journal and our organization focus on importance of the fighting the color line. This position is very different from most organizations on the “Left”.
+
+BTR emerged in the wake of the death of “Love and Rage” and the “Seattle” protests. When Love and Rage was splitting, BTR was a logical outcome of one of the positions on race within Love and Rage. (see Roy San Filippo’s A New World in our Hearts, AK Press, 2003). A few former L&R members are currently members in BTR. The Sojourner Truth Organization (STO) was also important to both BTR and Race Traitor. Former STO members are in both BTR and *Race Traitor*. STO, which was one of the tendencies in “New Communist Movement” of the 1970s, also focused on importance of fighting the color line. These different organizations and journal also belong to a certain common tendency among revolutionaries.
+
+A key difference, which distinguishes this tendency from other tendencies, is its approach on race in the U.S. There is a difference between a position of “Black and White, Unite and Fight” and “Abolish the White Race” or whatever else you want to call “the problem”. The first is the common approach on the left to focus on “class” and that there are poor POC as well as poor whites thus we need to focus on their common problems of being poor and fight together hand in hand. This was a common position within SDS, within Love and Rage, within NEFAC. A second position of “abolishing the white race” is the very different. This fight is against the color line. If people today call this second position a “race traitor” position, then I will stick with this second position and defend this position. But I don’t think of it as race traitor position, but obviously both *Race Traitor* and BTR subscribe to this second position.
+
+But of course, BTR and Race Traitor are not the same. In a sense, BTR is an organization which is much more ambitious, vague, less developed and is only in its cradle. *Race Traitor* is a journal not an organization. *Race Traitor* is a project, which may or may not have published its last issue (On Palestine). BTR is trying to develop a new Praxis. I think BTR is building upon the work of race traitor, upon the work of James, upon the work of STO, upon the work of Love and Rage, upon the work of bell hooks and many, many others including other tendencies. In a sense, to anyone who has ever read C.L.R James, both *Race Traitor* and BTR are Jamesian Projects, but different projects. When C.L.R. James, Grace Lee Boggs and Cornelius Castoriadis wrote about the “Marxist Organization” in Facing Reality, this is the kind of autonomous organization that BTR is modeled after which both rejects the vanguard and network.
+
+There is a continuing critique of BTR as well as *Race Traitor* that these politics puts whitey at the center. This is not true at all. Not for BTR nor for *Race Traitor*. For *Race Traitor*, there is a special message for so-called whites. Focusing on fighting the institutions that hold up the color line and its strategic importance for revolution does not come from so-called whites but from DuBois, C.L.R James, Malcolm X, bell hooks and many others. Race Traitor follows in these footsteps combining their militant language with “social construction” language and addressing the role of “so-called” whites in this process. An accusation that argues that *Race Traitor* puts white’s as the saviors of the revolutionary struggle completely misunderstand how *Race Traitor* is rooted in this long tradition of fighting the color-line and the strategic importance of this struggle in the creation of a new world.
+
+BTR builds upon this tendency. We believe, that while this is not solely sufficient, that fighting the institutions that hold up the color line today will create the possibility for revolutionary change. BTR is committed to developing an American revolutionary praxis for the 21st century. This is not putting whitey at the center and this is not just a derivative of *Race Traitor*. This is a Jamesian project for the 21st century.
