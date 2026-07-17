@@ -1,0 +1,22 @@
+---
+title: "Anarchy"
+author: "Elisée Reclus"
+date: "2019"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/elisee-reclus-anarchy"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "libcom.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "elisee-reclus-anarchy.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/elisee-reclus-anarchy.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/elisee-reclus-anarchy)
