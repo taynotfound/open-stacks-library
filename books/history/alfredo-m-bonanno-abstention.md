@@ -1,0 +1,62 @@
+---
+title: "Abstention - Alfredo M. Bonanno"
+author: "Alfredo M. Bonanno"
+date: "1985"
+category: "history"
+source: "https://theanarchistlibrary.org/library/alfredo-m-bonanno-abstention"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "We’ve always been against elections. Of every shape and nature. Political, local, zone-based elections; union elections, school elections, etc. Taking part in elections means that you’re “delegating”, namely that you’re surrendering yoursel"
+tags:
+  - "history"
+  - "voting"
+  - "Elections"
+  - "Insurrectionist Theory"
+  - "pdf"
+files:
+  - name: "Abstention.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-alfredo-m-bonanno-abstention.pdf"
+    hosted: true
+  - name: "Abstention.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-alfredo-m-bonanno-abstention.epub"
+    hosted: true
+---
+
+# Abstention
+
+*by Alfredo M. Bonanno*
+
+> Originally published on “Anarchismo” n. 46, April 1985, p. 2 with the title “Elezioni: cambiare per restare identici” (“Elections: to change is to stay the same”).
+
+We’ve always been against elections. Of every shape and nature. Political, local, zone-based elections; union elections, school elections, etc.
+
+Taking part in elections means that you’re “delegating”, namely that you’re surrendering yourself to other people’s hands. Most people are manipulated by ideological programs and easy words. Anarchists have never been laboring under this misapprehension.
+
+Those who participate in power become themselves power. Because there isn’t an optimal management of power. There is a better and a worse management, but from the depth of a dictatorship to the (apparently) golden surface of a tolerant democracy, the exploited always end up obeying, making sacrifices and accepting the class system hoping that their rulers will make some concessions to them.
+
+From every political perspective, under any color or program, the exploited are forced to fall on their knees, to say yes. To subvert this state of things we must change perspective. I’m not talking about a different choice, but a different perspective. We don’t need new programs, different men or parties; what we need is that people, the exploited, the workers, the unemployed, women, students – in short, the great majority of the people, — decide to take the matters regarding their future into their own hands. Basically, we need to deny delegation and apply direct action. Of course, these are just nice words, which, by the way, anarchists repeat every time there’s an election. Not voting is not enough. That’s right. The traditional abstention, even the anarchist one, even the absolute and constant abstention, is not enough. It’s a platonic instrument that only in particular historic moments, when we are faced with extreme contradictions from capital and the State, can cause a concentration of antagonistic forces. Otherwise, when the situation is more or less stable and power proceeds with regular political and administrative adjustments, abstention from voting creates only an ideal dissent.
+
+We need to make a step forward. We’ve already talked about this many times, but I realize that this is a very difficult conversation. Many comrades believe that the problem of abstention is detached from the continuous process of recuperating consent which, in a democratic order, is common practice. Take for example the opinion campaigns, the usual posters, the usual flyers that spring up and then disappear every time power reaches the end of its term.
+
+I think we can summarize a few points for study in order to develop a more coherent and, above all, more efficient approach to abstention:
+
+ 1. Different consultative levels: political, administrative, industrial, educational, zonal, medical, etc...
+
+ 2. Persistence in abstaining from voting, regardless of the election deadlines.
+
+ 3. A concept of alternative intervention. That is, a mass action to propose alternative solutions on a local basis by putting pressure from the outside, in each consultative reality.
+
+ 4. Establishment of zonal abstentionist structures based on the autonomy of struggle, self-management and the principle of permanent struggle.
+
+ 5. Characteristics of these (mass) structures.
+
+ 6. Relationship between these zonal abstentionist structures and the specific anarchist movement.
+
+ 7. Elaborating information on peripheral issues (of cities, regions or neighborhoods).
+
+ 8. Globalization of the intervention in every aspect of reality (militarization of the territory, the prison system, nuclear energy, ecology, essential services, healthcare, occupation, productive choices, culture, etc.).
+
+To the person reading these words, please don’t attribute us more possibilities and less intelligence than we have. Ours is just a research proposal. We are fully aware that, for the time being, we can’t go further, but we think it’s useful to, at least, propose a step forward regarding the stasis of traditional abstention.
