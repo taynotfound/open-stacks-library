@@ -1,0 +1,40 @@
+---
+title: "Vinnytsia Berlin Against Anarcho Militarists Their War Propaganda"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/vinnytsia-berlin-against-anarcho-militarists-their-war-propaganda"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "On August 2 2025, the soliparty Konvulsismo #2 took place in the city of Berlin in support of the Assembly collective in Kharkiv, Ukraine. As both a political group and media outlet, the collective denounces forced conscription. It also reports on social struggles taking place in the context of the "
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/vinnytsia-berlin-against-anarcho-militarists-their-war-propaganda)
+
+On August 2 2025, the soliparty Konvulsismo #2 took place in the city of Berlin in support of the Assembly collective in Kharkiv, Ukraine. As both a political group and media outlet, the collective denounces forced conscription. It also reports on social struggles taking place in the context of the Russian invasion and occupation and the increasing authoritarianism of the Ukrainian state in the name of ‘national unity’.
+
+Konvulsismo is a party collective dedicated to organising experimental/electronic music shows in support of anti-war groups around the world in the face of growing remilitarization in Europe. Its first event was a concert that raised money for New Profile, a support network for military objectors in Israel, recently defunded by the the German state. Months later, Konvulsismo #2 was the target of a disinformation campaign by the group “Good night imperial pride” (themselves linked to the so-called “Solidarity Collectives”). According to a text circulating on social media a few days before the party, Assembly is only apparently an anarchist and anti-war collective, hiding a political agenda of collaboration with the Russian occupying forces. This resulted in a series of cancellations, forcing Konvulsismo #2 to change its venue and much of its lineup in a matter of days. Fortunately, the party went off without a hitch, with the support of comrades and musician friends in solidarity with Assembly, in line with a resolutely anti-militarist and internationalist political stance.
+
+Here is our response to the campaign of threats, intimidation and slander against us:
+
+A response to the critiques circulating against the soli-party Konvulsismo #2 in support of the Assembly collective, held on August 2th 2025, in Berlin
+
+1. Wars are raging around the world. The one that has officially pitted the Russian and Ukrainian states against each other for the past three years (and in the Donbass since 2014) now serves as an accelerator for European rearmament. Since the general mobilization of 1914, “sacred union” has always been the weapon of power and of the ruling classes to stifle popular revolt and rally the subaltern classes under its flag against a rival nation. We, Konvulsismo, as internationalists and antimilitarists, refuse to endorse this macabre fool's game. In the same way we supported Israeli objectors in the past, this time we raised funds for the Assembly collective, based in Kharkiv (Ukraine), an important resource for practices of desertion and for those who organize day-to-day solidarity against forced conscription. In the slaughterhouse of war, we are always on the side of the deserters.
+
+2. A ridiculous disinformation campaign full of confused assumptions has been conducted against Assembly, accusing the group of being pro-Russian. Anyone who has followed their political activity and publications knows the truth: they’ve been constantly and consistently criticizing the Russian invasion. Moreover, when the war broke out, they launched an initiative to support civilians suffering Russian shelling in the region of Kharkiv. What they refuse to do, however, in line with their internationalist stance, is to join the Ukrainian army, to defend the Ukrainian state and its ruling class, or to support the military machine's murderous policy against its own population. In doing so, they have always also promoted and advocated desertions, mutinies and revolts against the war effort in Russia, Belarus and the occupied territories of eastern Ukraine and Crimea.
+
+3. Regarding the assertion that true anti-militarism is practiced with weapons in hand and on the front line (a pure Orwellian inversion), providing the state with a constant supply of cannon fodder: already hardly tenable at the start of the conflict, unconditional support for brigades calling themselves anarchists, despite having long been subordinate to the regular Ukrainian army, definitely seems to be a position at odds with the concrete situation. Contrary to the views that seem to be consensus among a section of the Left or anarchists in Germany, we also want to emphasize that anarchists and, more broadly, anti-authoritarians and revolutionnaries in Ukraine, are not a homogeneous group. Relying on the image of so-called anti-authoritarian brigades, “Good Night Imperial Pride”, “Solidarity Collectives” and other groups try to make invisible anti-war initiatives. In so doing, they play into the hands of the Ukrainian state and portray such initiatives as pro-Russian, even though Assembly and other internationalists support deserters on both sides of the frontline.
+
+4. While these groups advocate patriotic "anarchism", the state for which they kill and die wages war against its own population. From the beginning of the conflict, supposed national unity is forged on the basis of forced conscription campaigns. Both Russia and Ukraine increasingly difficult to find volunteers for the slaughter. Desertion has now become a mass phenomenon: the Ukrainian and Russian working classes are well aware that they have nothing to win in this war. On the very evening before the soliparty, despite the curfew, hundreds of protesters joined a rally in the city of Vinnytsia to demand the release of men detained by military enlistment offices. The protesters broke into a stadium where the detainees were being held for evading military service and were met with tear gas and arrests. Assembly is one of the few anarchist media outlets reporting on the uprisings, mutinies, revolts and strikes that have been taking place against forced conscription as the Ukrainian state struggles to convince its population of joining the war effort.
+
+5. This macabre scenario is the product - as well as the driving force - behind accelerated militarization, particularly in Europe. Against the backdrop of a deep crisis of capitalism and escalating conflicts between rival powers, the death industry of war is the only horizon this world has to offer. In Germany, this is reflected not only in the discussion about the reintroduction of compulsory military service, but, above all, in increasing military spending (by contrast to budget cuts in social services and education - a form of militarised and generalised austerity). All over Europe, this escalation of violence is also expressed in the reinforcement of national borders and in hostility towards immigrants and the racist persecution of minorities, especially Arab and Muslim.
+
+6. In such a context, neither support for the West on the pretext that it is “democratic”, nor support for the Russian or any other regime on the grounds that it opposes US imperialism, can be a solution for our emancipation. Amid the ongoing war in Europe, it is our position that we have to intensify solidarity – for example, with internationalists from Ukraine, such as the Assembly collective – and struggles where we are, especially when the states in which we reside are directly or indirectly involved in the military conflict. This is not to support one side or the other - that is the job of all kinds of nationalists, be they anarchists, leftists or rightists. It's a question of fighting the industry of death, those who profit from it and the world that produces it, here and now. Solidarity with deserters on both sides of the front line!
