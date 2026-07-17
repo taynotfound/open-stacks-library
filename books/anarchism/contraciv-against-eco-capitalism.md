@@ -1,0 +1,264 @@
+---
+title: "Against eco-capitalism - Contraciv"
+author: "Contraciv"
+date: "2016"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/contraciv-against-eco-capitalism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "1. Civilization, unsustainability and capitalism Humans are about 250,000 years old. The civilized way of life has existed for about 10 thousand years. Civilization did not spread through extraordinary evolutionary success. Civilization sp"
+tags:
+  - "anarchism"
+  - "ecology"
+  - "anti-capitalism"
+  - "eco-anarchy"
+  - "pdf"
+files:
+  - name: "Against eco-capitalism.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-contraciv-against-eco-capitalism.pdf"
+    hosted: true
+  - name: "Against eco-capitalism.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-contraciv-against-eco-capitalism.epub"
+    hosted: true
+---
+
+# Against eco-capitalism
+
+*by Contraciv*
+
+> This is the English version of a Brazilian Portuguese essay compilation. Original title: Contra o eco-capitalismo. English version by Contraciv.
+
+#### 1. Civilization, unsustainability and capitalism
+
+Humans are about 250,000 years old. The civilized way of life has existed for about 10 thousand years. Civilization did not spread through extraordinary evolutionary success. Civilization spread through expansionism: invasion; conquest; assimilation and annihilation.
+
+Capitalism is the latest trend of civilization. Socialism presents itself as the hegemonic alternative to this tendency. Both disagree on how the means of production will be managed, but neither criticizes civilization.
+
+There are indications that humans had population stability and ecological sustainability before civilization. Civilization, with all its monumental achievements, far from being the maximum manifestation of human potentiality, is the manifestation of its deepest misery. And this is not where it fails, not where it lacks, but precisely where it is most prominent. It is the result of what makes us seek in the construction of external symbols of power what we are lacking internally.
+
+The current economic model was created to respond to the crisis of the previous model, and it did so by buying some time in exchange for generating instability. The deregulation of markets has become a vice. To save profitability, jobs must be sacrificed. The world economy is driven by overconsumption. If consumption declines, something has to make up for that loss, and there are no more places to draw money from. Public money starts to be used to pay private debts and avoid the collapse of markets, which could generate a domino effect. Ultimately, those who profit from this are the banks (HUSSON, 2011).
+
+The new role of global culture is to make us feel good about cooperating with economic restructuring to lessen the impact of the crisis. And one of the suggested solutions is eco-capitalism. It is about opening a new space for profit by transforming production and services into businesses that are a little more ecological. Consumers will pay for it if they are convinced that it is their responsibility to have cleaner cars and use more sustainable energy sources. When culture says “save the planet”, it is really saying “save the economy” (MÜLLER, 2009).
+
+Not that the damage to the environment isn't real. But eco-capitalism does not address the cause of the environmental crisis. The ecological discourse serves as an excuse to save capitalism. Through it, it is possible to promote a new ideal of “social welfare”. One that does not oblige public institutions to manage the public good, but on the contrary, that justifies an investment in the private initiative and lets it manage the public good through the consumer market. Thus, it will not be necessary to harm the big companies. On the contrary, they will benefit from public money, with the excuse that it is an incentive to create and adopt more ecological strategies and technologies. The government creates laws guaranteeing these benefits, not only because politicians are also investors in these companies, but because this is the only way to sustain the global economy.
+
+It is the consumer's money that covers the expenses to transform the current civilization into a more ecological civilization. More than that, the destabilization process started in neoliberalism is perpetuated thanks to this investment. Those who have money can save the world by buying ecological alternatives. Those who have nothing to offer the “planet” will be harmed, because they will probably only be able to resort to the most “primitive” means as a source of income.
+
+Laws, agreements and policies to spare the planet from environmental damage caused by everyday products will never be enough. In reality, they only serve to prevent significant changes from taking place. Even the most radical wing of environmentalism is reformist about civilization (HEINBERG, 2005).
+
+If civilization itself is a problem, no amount of environmentalism will do. Environmental devastation is just one of the effects of civilization. Green capitalism is a continuation of oil-based capitalism and wars, and any other type of capitalism will not survive. More than that, moving to the next stage of civilization does not solve the problem inherent in the cultural process that generated it. We've been dealing with crises within crises within crises since the dawn of civilization. The central, most important and most fundamental crisis is also the most primitive...
+
+#### 2. The lethal imperatives of economic development
+
+A good example of how harmful our economic system can be is in the way we treat agriculture and medicine, as examined by Capra (1984).
+
+In order to supply the economic expansion, cheap but little nutritious products are sold through grandiose advertising campaigns, making less and less healthy food available to the consumer. The rules of the economy benefit those who sell the most, so it is more profitable to invest in advertising than in the quality of the product.
+
+Farming has become a major industry today, a slave to these unhealthy rules. To produce more, farmers are forced to merely reproduce techniques created by agronomists, losing their autonomy. Farmers are now forced to disregard the ecological relationships between plants, animals, soil, water and air. They are driven by market convenience to produce goods to supply a demand created by advertising.
+
+In this industry, animals are tortured, piled up, receive inadequate food and are kept alive with antibiotics, spending a life of intense suffering. With plants it is not much different. They are chemically modified to resist pests, when in fact they are becoming less and less nutritious. All this causes an environmental impact on the soil, which becomes infertile; and for the rivers, which become polluted due to the accumulation of toxic waste.
+
+To make matters worse, a large part of the cost of our food comes from spending on fuel for transportation. The agroindustry depends on the petrochemical industry, that is, it has become dependent on a non-renewable resource that causes massive environmental and social problems.
+
+With all this, we can safely say that our agriculture is today the most unsustainable enterprise in the world, therefore the greatest threat to life on this planet. It could still be assumed that at least the profit of the land workers increased. In reality what happened was the opposite: it is increasingly difficult for individuals to live from growing food. The job most essential to our existence has become the most insecure of all.
+
+The problem in agriculture is related to the problem in medicine. Most of the cost of treating disease could be avoided by eating healthier. Pharmaceutical companies control everything from doctors' training to how they will use their knowledge, according to the interest of some companies that manufacture medicines and hospital equipment. This way of treating agriculture and medicine, two areas considered of prime importance to people's well-being, reappears in a similar way in virtually all forms of work and production in our society. These things don't seem to have a simple solution. Every time we increase funding or create laws in the hope of fixing them, we only change the focus of the problem and actually make it worse.
+
+For example, the rationale used to move forward with the process of industrializing farms was to reduce food shortages. The promise was that mass-produced food would eliminate hunger. What happened was precisely the opposite, and several companies became rich with this, however we continue to believe that hunger can be solved with technological advances and increased production. But our economic system does not guarantee equal distribution, nor does it guarantee that the priority is subsistence, but export and market expansion. Hunger is not a problem of food distribution, it was generated by the loss of autonomy of rural workers over agricultural resources. To rescue this autonomy, it would be necessary to put an end to agroindustry, which is obviously not a simple thing to do.
+
+#### 3. Gift and sociability
+
+Thanks to mercantile culture, we have become accustomed to seeing all our relationships as equal exchanges, the kind that do not generate debt. But debt is the ground on which social bonds are founded. The stronger the bond with someone, the stronger the feeling that we owe that person something that we will hardly be able to repay. This sense of indebtedness or gratitude is fundamental to the gift economy. In it, we give without expecting a return, but the unintentional result is the debt that strengthens the affective bond. The sense of gift is eliminated when one seeks to settle the debt, when one always seeks to pay exactly for what one receives. Equivalent exchange is related to individualization and the weakening of social ties (GODBOUT, 1998).
+
+It all started in the way we relate to nature. At some point in human history, there was a fundamental transition in this relationship. Instead of thinking of what we get from nature in terms of gifts, we start thinking in terms of resource extraction. Extraction or production is considered as an equivalent exchange, which does not produce debt: human labor (force + time) is exchanged and resources or products are obtained. For the economic thought of the 19th century, it is as if human work produced a bond between the worker and the product of his work. Such a link, when hidden by market relations, produces an alienation of work. Few lines are said, however, about the alienation of nature in relation to the matter that originated the product of work. Both utilitarianism and mainstream economic materialism eliminate the concept of gift from our relationship with nature.
+
+The gift is free, does not require an equivalent return, and strengthens the bonds between those involved, such as the affection that parents offer their children. An equivalent exchange allows for bargaining, since equivalence depends on varying criteria. In a bargain it is possible to obtain advantage. This makes profit possible. A person does not bargain with himself to achieve a goal. One part of the body does not negotiate with the other before doing something for it. The process of eliminating the gift is related to the separation between human beings and their environment.
+
+In the relationship mediated by the gift, the concept of production, product or merchandise does not fit. Food, for example, is not simply produced by labor. Therefore, it makes no sense to talk about increased production or production effectiveness. To perform the calculation that allows you to get more things with less work, you need to create another relationship with nature. It all depends on which worldview is closer to the truth: Either human beings have always wanted accumulation, but never managed to rise to the top of the pyramid of needs until a relatively recent period of human history, or they lived in a cycle of abundance, and the desire for hoarding never lasted long enough to spur an industry focused on increasing production. All we know is that excess is the result of a scarcity economy (SAHLINS, 2013).
+
+The response to the gift is another gift, but even when there is an apparent exchange of gifts, the logic is not that of exchange. The response to the gift occurs through the pleasure of giving, not through the demand to receive something in return. Instead of an exchange, what takes place is an endless cycle of gifts, each of which only increases the debt of one to the other. You only pay the debt when you want to sever the relationship. That is why friends respond to a gift with some embarrassment: “You shouldn't”, which means absence of duty in the sense of obligation, but not absence of debt. You just don't want to owe anything to someone you don't want to see anymore. Some seek to clear their debts to the dead to allow their spirit to free itself from the chains that bind it, which demonstrates the strength of the social bond generated by the gift.
+
+Our society has isolated its members from other beings, taking them out of the open cycle to which all other beings are subject, and inserting them into apparently closed cycles of matter and energy circulation. However, these cycles are not closed, only the relationship with the rest of the life cycle has been hidden. Without this kind of alienation, it would not be possible to build systems for the extraction and use of resources in such a predatory manner. A being cannot be separated from its environment without falling ill. What is at stake is domestication, separation from what gives form and structure to being.
+
+The gift paradigm reverses the ethical issue of utilitarianism. The ethics of utilitarianism ask for the action that maximizes gains and minimizes losses. The premise is the existence of a natural and individual desire to achieve optimization. The ethic of giving is not concerned with optimization, but with the pleasure of giving. Thus, it does not ask for what one earns, but asks for what can be freely given. Mercantile or utilitarian ethics expands the possibility of controlling and planning action to new horizons. This expansion makes possible the exponential increase of social complexity, which inserts us in an apparently inexorable way in a torrent of social and cultural changes (CLASTRES, 2020).
+
+Pleasure is the engine of the gift, not duty. It is about the pleasure of giving as the basis of every human relationship. The paradigm that starts from the interest in accumulation needs to explain the gift phenomenon as an exception, a deviation from the norm, something extraordinary or even painful. The gift paradigm, on the contrary, starts from the interest in sharing, and the phenomenon to be explained is that of accumulation. Anyway, instead of asking “why does someone give without expecting something in return?”, we ask ourselves “why does someone stop giving and starts piling up things?”. That is, what makes a person stop the continuous process of giving, what makes one isolate oneself from the cycle of giving that was followed by all our ancestors?
+
+When we also consider the need to give and not just the need to receive, negotiation and value structures that aim to control the relationship between spending and earnings lose their meaning. In such conditions, the concept of property is elusive. Even if something is entrusted to someone, it does not become someone's property. This type of relationship centers on the bond between two beings. The objects have value referring to this bond. Nothing can actually be acquired, bought or sold. What is not already yours cannot be owned.
+
+For example, when food is digested it becomes part of what constitutes a being. By instituting that external objects can be considered as a person's property, we become like devourers of the world. Things that don't belong in our body become part of us. So, in parallel with the growth of the body, we grow as we achieve things. This new type of growth converts us into assimilating beings, as well as giving society a power similar to the power of a biological organism. The things we accumulate make us greater. As our dependence on these objects grows, we become dependent on the accumulation process itself.
+
+If the objects we accumulate are part of us, we are composed of organic and inorganic parts. When the extent of control determines our survival, values cannot remain the same. Market structure is not an inevitable result of human development. If today we live in a society of scarcity, this is due in the first place to the transition from gift economy to exchange economy as a model of relationship between beings.
+
+#### 4. Against capital
+
+The concept of capital presupposes the transformation of nature into an object of human production and human consumption, and this establishes a fundamental inequality between humans and nature. The civilized human being believes they can produce the good of all through work. Capital is the result of the belief that we are fully deserving of an inalienable right to life, liberty and property. As if nature wasn't doing more than its obligation to provide us with the means to live healthily and experience pleasure.
+
+The civilized is the one who has sworn never to feel hungry again in their life, even if they have to kill, steal, lie or betray. We demand everything from the world without feeling constrained to give anything. We want to be accepted by a world that we don't accept as it is. We want to transform the world into something more human. We call the wild world unfair and violent.
+
+As a matter of principle, we exclude non-humans from all deliberations about what we do or do not do with the entire planet, since, according to our concepts, only humans can deliberate. If nature wants to be respected, it should speak our language. We no longer need to speak in its language, for it is too slow, and we have no time to waste. We believe that it is enough for human beings to agree with each other on what they think would be best for everyone. We trust that strengthening human ties is the only viable way to make society more just. We believe we are nature's brain, its mind, its decision center.
+
+Capital does not need to be shared. It needs to be abandoned, along with its means of production. The “work” category needs to be replaced by the “gift” category. This is not about sentimentality. It is not a question of idealizing the harshness of life that people lead in “primitive” ways of life. What does it matter if life was easy or difficult? What matters to me is whether it is livable.
+
+We only realize what we don't need when we try to do without it for a while. There is nothing really necessary that cannot be built again.
+
+Many people agree with these criticisms of capitalist society. They would like to live in a simpler and fairer society, but they need money, because without money there is no way to live. People who revolt against the system will get nowhere.
+
+The question is not whether you want to live or not. It is obvious that if money is needed to live in this society, then we cannot be against money. The question is whether you are against capital. For if you are against it, what do you do about it?
+
+When someone attacks you, robs you or harms you in any way, you react. You don't fight simply because you recognize that an injustice has been committed, you fight because these rights are recognized by the ruling power. But if there is no organization or institution supporting your struggle, it seems pointless.
+
+You conclude that we can't get rid of this system, bad as it is, because nobody will support you if you start doing that. They can humiliate you, beat you and arrest you. No one will take your side. Therefore, you do not consider this as a legitimate fight. You think that those who do this have nothing to gain, only to lose, so it has no validity. It only has validity if the powerful give it validity.
+
+If we fight against the dominant culture to bring about radical change, we are beaten and ridiculed. If you do something that is not aimed at a benefit that is considered legitimate, you are a dreamer, a crazy person…
+
+They say after 30 we need to stop thinking with our hearts and start thinking with our heads. The truth is that we started to think with our stomachs, because control depends on the fear of hunger and the desire to consume. As much as you prosper in this system, the moment you oppose it, you lose all your privileges.
+
+This society is founded on the maximization of accumulation. It's much easier to make money from exploration than anything else. Because money invested in exploitation generates more money, but money used to do good does not return. No matter how much you invest in alternatives, exploring some aspect of nature will always be more advantageous, and the more money you invest in exploration, the more money you earn, while the money used to preserve it does not generate more money. The monetary system is fundamentally in favor of exploitation.
+
+But who needs money to make the necessary changes? Money does not buy change of view. We could live in the most perfect of societies, and it would still be possible to create a way to accumulate and expand, if this continues to be seen as a value.
+
+"If your experience is that water comes from a faucet and food comes from the supermarket, you're going to fight to the death over those things", says Derrick Jensen (1998). Our experience is that cooperating with this system, however unfair it may be, keeps us alive. So we fight to stay in it. Our experience is that fighting for another way of life can kill us, so we consider it insane. The central fear of fighting for another way of life is that you will lose your life. We all want to preserve life. If everyone knew that this way of life is the real threat to life, they would not continue to move forward with expansion plans.
+
+I don't think our society can be changed without a lot of effort. To get here we had to do enormous damage to nature and native cultures, and we cannot reverse that damage without forgoing the benefits.
+
+This society is founded on the positive value of productivity. We have difficulty conceiving how producing can mean something negative. Even knowing that nothing is as destructive as our production system, we still feel useless when we don't collaborate with it. We only feel good when we are well fitted, when we have good jobs and good wages. Production, creation and accumulation are related terms. Both correspond to something being added, to the positive balance. Being productive and creative, in this system, is equivalent to cooperating with the accumulation that is destroying us. Ultimately, being productive and creative, in this system, is equivalent to being self-destructive.
+
+When we think of winning, we first think of something beneficial. That's why nobody wants to lose and everybody wants to win. But this reveals something: if we think first of what is beneficial, it is precisely because we lack it. If we were satisfied with what we have, gaining more things wouldn't be so desirable, and losing wouldn't be so bad. Our positivity is a cover for our neediness. We don't realize that, in the current situation, what we should value most is the negative, the loss, the decrease, because we've grown too much and now we can't manage our monumental undertakings. We focus on things that can be added, not things that could be subtracted. We think of thousands of things we could have and still don't have.
+
+If people were to oppose the injustice inherent in this accumulation system with as much determination, grit, passion and fury as they oppose the supermarket cashier who charged the wrong price, or the bus driver who didn't stop at the right stop, or the cleaner who ruined the paint on your apartment, surely things would be different…
+
+Who gave us the right to build our city on this place and to do what we do with the natural life that existed here? Who gives us the right to reap the fruits of slavery and deforestation? What does it mean to fight capital in a world where capital is equivalent to god?
+
+#### 5. Justice, law and civilization
+
+Just as the Ancient Greeks considered that anyone living outside the polis could not be much more than a savage, we prefer to trust people who follow our customs.
+
+With the control and expansion of territories, people were forced to live in much larger groups than was ever possible. As they were being assimilated, the different human cultures were adapting to a new way of life: the crowd. This crowd needed a common criterion for deciding what to do when a conflict occurred, because their customs were incompatible.
+
+The urgency to put things in order led the colonizers to create systems of universal law. With a monopoly on the use of violence, the authorities hoped to reduce the number of conflicts. Where there can be no justice, it remains to do equivalent damage and thus satisfy the victims' desire for revenge.
+
+This became possible because in the mass production mode, people lose their importance as individuals. In a small group, each person makes a difference for everyone's survival. A group that insisted on doubling the losses rather than minimizing them would not survive long on a subsistence lifestyle. But in a crowd it's easier to kill, arrest or fine the troublemakers than to deal with the cause of the trouble.
+
+Human beings have lived without positive laws for most of history, and yet the instability and ephemerality of primitive social organizations are the basic assumptions for theories of law even today. Without a profound change in the very concept of law, no legal change will solve any human problem.
+
+#### 6. Work society
+
+In trying to define the human being, philosophers have resorted to a number of aspects, from rationality to their genetic makeup. But the question about the role of human beings on earth involves the question of human ethology, that is, human behavior, including culture.
+
+In a world that causes both trauma and addiction to work, events that occur in the workplace or thoughts arising from work activity have been the most common topics in informal conversations, even in conversations between family members, couples, friends or even strangers. Work, and everything it gives rise to, has gradually invaded all our time, our lives, our minds and all our dispositions for action. Behavior at work has become more conditioning for the individual than their coexistence in any other social space. In fact, the alienating tendency of repetitive work, common in the industrial age, has been replaced by an ethology that takes life to work and work to life, in all its aspects.
+
+Thus, human ethology is increasingly centered on the society of work, confusing itself with the ethology of work. Not just human work, but socially useful work, that is, work that cooperates to the progress of a civilized society. The ethos required in the workplace, assimilated as a life lesson by motivational speeches, has become a lifestyle, something that becomes the basis for behavior in all other aspects of life. Career as a lifestyle becomes a fetish. The everyday look becomes a “medical look”, a “legal look”, a “philosophical look”, and so on. Everything revolves around the profession. The individual has centered his life more on work than on any other of his capacities. In other words, the artificial function, created to supply an accumulation society, is replacing all the functions and responsibilities that we had in the past. In these terms, the work society created a new role for humans, depriving us of the rights and duties we had and replacing our ethics with an ethics based on production and consumption.
+
+The ethology of uncivilized humans resembles the ethology of undomesticated or wild animals. This way of life was abandoned and considered to be imprisoning, poor and primitive. The question that arises is then an opposition between work, which is the social function in the market structure, and the human function for the environment in which we emerge. When all behaviors are aimed only at maintaining work; when even art exists as a function of work and follows the same structure as work; when all human activities are assimilated and classified according to the degree of efficiency with which they collaborate with the society of work; we are living in a work society.
+
+As living dead, we are beings that have lost their function, starting to just feed and assimilate others. Like cancer cells, we no longer live for the body, but only for our own growth. Our principle of action is determined by forces alien to life.
+
+The loss of human functions leads to a constant search for something that is lacking and to the reproduction of a meaningless and purposeless routine, generating fear, anger and despair. Life-death, unlike death, spreads, dominating minds and bodies, in a movement of expansion through deceit and violence. Death closes the circle of life, but life-death prevents the circle of life from closing, creating a vicious circle. It disconnects us from our purpose as human beings and sends us into a downward spiral of accumulating and expanding power.
+
+It is no coincidence that some authors have linked the undead to the curse of Cain, the first farmer, first murderer and also the founder of the first city. Cain was condemned to wander the earth aimlessly and received a mark that prevents him from being killed, but all his work results in ashes. He is, by definition, a man stripped of his human role, condemned to walk towards emptiness, in a meaningless existence.
+
+Cain, who plowed his field with his brother's blood, is the first to accumulate. In Hebrew, Cain means "man of means". He, who was heir to the condemnation to work for the sin of covetousness, now also becomes the founder of a new curse: the lacking that leads to the destruction of life due to work.
+
+We choose work as a source not only of sustenance, but of existential meaning. All aspects of modern work, including the programming of behaviors by calculating productivity, become aspects of modern life. But life transformed into a product also becomes part of a meaningless process when consumption ends. That is, this process is the transformation of everything that is life into life-death.
+
+#### 7. Capitalist environmentalism
+
+One day the world's biggest criminals gathered at a global conference to discuss a very important issue: Criminal activities are destroying the world. The main concern was that criminals were acting too brutally, too violently, too predatory. Their source of income was simply being destroyed, literally going extinct. Something had to be done urgently, or else the criminals would have no more people to rob; kill; rape; blackmail; extort and exploit. This means that they would no longer be able to maintain their lifestyle, they would have to live as they used to, unable to obtain the benefits that only crime can bring. And it would be too awful to have to stop now that they’ve come this far.
+
+So they came up with a big solution: Let's preserve! Let's not kill someone who doesn't need to be killed. Let's not take away absolutely everything the person has. Let's be rational and efficient, let’s save our resources. They called this idea “sustainability”, and around the world there was a lot of talk about conscious crime. Analysts calculated what the optimal percentage to steal from someone would be, so that the person would recover faster, and thus be robbed again in less time. This kind of discussion excited criminals, who wrote many articles about the new perspectives, new paradigms and new directions for crime. They said things like: “A more sustainable crime is possible” and “We must have respect for those we exploit”. What do you think this story is about?
+
+Many believe that there is a crisis of conscience affecting the world's polluters and destroyers, and that we now realize the harm we are doing and are moving towards a change, to leave a better world for future generations.
+
+The idea that the ecological concern is recent hides the fact that all the measures aimed at restoring the balance between human and nature have failed miserably, and that we are repeating the same mistakes for centuries. The long history of the relationship between human and nature is full of colossal failures in terms of achieving harmonious coexistence. Since antiquity, there have been thinkers concerned with deforestation and dams. None of this is new, and it is clear that things have gotten worse despite all the concern. We tend to think that we are more aware today because we have more access to information.
+
+We today blame oil and corporations, but there was a time in the past when oil held the promise of cleaner, more efficient energy. Petroleum was once what biodiesel is today: an ecological alternative, much less polluting than its predecessor, coal. When will it become clear that finding alternative energy sources is not enough? The most important thing is what we do with that energy. To say that we can move our cars without polluting the air with carbon monoxide would be like, 200 years ago, saying that we could move our carts without polluting the streets with feces. Yes, it's true, so what? Our naivety consists in persisting in the same mentality that replaced carts with cars.
+
+For the consumer society, the downfall of environmentalism is because it does not prioritize progress. The issue of the failure of environmentalism is being seen as a matter of shifting focus from ecology to economics. The environmental crisis is seen as yet another challenge that capitalism can and must overcome, with the help of technology and culture.
+
+The concern now is how to make the preservation of the environment something “erotic” and “profitable”. Any proposal that does not take this into account may be considered unrealistic. If this is true, environmentalism is doomed. Even so, we must go against the culture of death produced by the civilizing process.
+
+#### 8. Against eco-consumerism
+
+The big issue in the current ecological debate has been how to reconcile sustainable patterns of production and consumption with an economy based on the accelerated development of the means of production and consumption. This is a political issue. If the consumer is subjected to an unsustainable economic system, he does not have the power to make choices that lead to sustainable consumption. To say that sustainable, ethical, responsible and conscious consumption is a matter of consumer choice is naive. Consumers depend on consumer culture to define what is sustainable. We don't recognize what it means to be sustainable in a culture that depends on accelerated economic development. We use this word without being aware of what it means in practical terms and outside the logic of consumption (MEZZACAPPA, 2008).
+
+The eco-consumption discourse is not necessarily about consuming less, but one that places the consumer as a protagonist, as a multiplying agent of private political actions aimed at sustainability. He must understand what motivates consumption and know how to separate real needs from created needs. But how does the consumer do this?
+
+The media that propagate this “ecological conscience” are under the control of the economic system. They have a good reason to propagate ideas that are supposedly contrary to the prevailing culture. They are based on the belief that commercial success can be compatible with minimizing the environmental impact caused by the extraction of natural resources. That is, they use a criterion of professional ethics combined with production efficiency. This criterion comes from the very development of capitalism as a rationalization of relations based on productivity. It begins with the belief that harmony between social welfare and efficiency of the means of production is possible. In other words, what is propagated today as ecological awareness is an ideology adapted to the spirit of capitalism. It is based on the belief that we need only to rationalize the use of technologies and means of production for everything to be fine. It is as if the problem were the lack of development, and not the fact that this development is based on production and consumption.
+
+The ecological revolution is proposed in the format of a new social contract, which defines the limits of the average consumer, guaranteeing at the same time consumption for the disadvantaged and profit growth for "sustainable" companies, supposedly redistributing income to the poor population. When the sustainable economist says that “we can be sustainable with social responsibility and without giving up profit”, they are talking about a new business model, not about overcoming capitalism.
+
+On the one hand we have the ecological discourse of the “mystical” type, which seems to deal with environmental sins, industrial doom, climate apocalypse, revelation of a hidden truth, subjective conversion to a new paradigm and redemption through new technologies and a new perception. On the other hand, supporters of “sustainable development”, unite ecology with capitalism and defend a kind of “ecology of prosperity”. Making money from ecology would be the only possible future for ecology. Ecology becomes the same as privatizing nature, that is, inserting it into the logic of the market, as a kind of long-term investment, for which individuals can be solely responsible, since the state has failed in this mission. This would supposedly imply greater efficiency in the management of natural resources, according to liberal ideology.
+
+The eco-capitalist discourse says that the preservation of nature will only be possible when all beings are accounted for as properties. That is, ecology only becomes possible with the assumption of private property. This is what is happening when we talk about the ecological footprint and natural capital… We establish a financially rational relationship with nature as a source of material resources.
+
+The central figure of this ecological revolution is the consumer. Who is the consumer? The consumer is not a person, it is a role assumed by a person. The role of conscious consumer or environmentally responsible citizen is embodied by one person, but it is just a way of life. Like any cultural product, it is propagated by an industry that exploits this market segment. Culture encourages social change that is useful and necessary for capitalist society. It propagates an ethic of efficiency, which focuses on consuming well. It transforms all the wisdom of living well into the wisdom of good consumption (VOGT, 2008).
+
+It is not easy to distinguish when we are being the agent or the target of this discourse. Consumption has become entertainment, it includes the critique of consumerism itself. But consumption still sustains the economy, which has become dependent on the spectacle. When credit is reduced, consumption is reduced, and this creates a crisis. To avoid collapse, you need to inject credit, which is like a stimulant drug, whose effect becomes weaker with the passage of time. It is necessary to borrow money so that we can spend what we don't have on what we don't need, because without increasing debt there is no economic development, and without that there is no investment, and without investment there is no profit, and without profit competitiveness decreases and companies tend to going bankrupt, taking away jobs and the possibility of consumption, including sustainable consumption. Culture presents those who consume the right things as a model, thus reinforcing a representation that aims to generate social coercion for conscious consumption.
+
+Children are the most targeted by advertising campaigns. It's common to see parents fighting with their children while they scream and kick about a product as if it wasn't worth living without it. Children are not to blame for feeling this overwhelming desire, as they live in a cultural environment created to generate this behavior. The environment of a large supermarket or mall is built to target the weaknesses of human psychology. But it is just a microcosm of what happens in consumer culture, where consumption acquires an existential meaning. Today, there are no better developed psychological techniques than those used to classify, understand and encourage consumption practices. Such techniques are able, with incredible precision, to describe and predict consumption trends at a local and global level.
+
+Although work is seen as something that dignifies us, most of the work is aimed at covering expenses with unnecessary consumption, either yours or your employer's. What work really dignifies is consumption.
+
+Consumption pervades all aspects of society. We reach out to others and show our love through consumption. Our memory is made up of the products we consume. Ultimately, all relationships become mediated by consumption. Production and consumption begin to give meaning to social practices and representations. Consumption becomes a symbolic need that generates cohesion and social order, replacing religion in several aspects.
+
+Consumerism, like individualism, is a much bigger problem than we usually portray it. Culture propagates the idea that individualism is a moral problem, it is a problem of individuals, as a synonym for selfishness, when in fact individualism is a social phenomenon, and is implied in the very idea of analyzing all social phenomena from the point of view of individuals (methodological individualism). Analogously, we could talk about a "methodological consumerism", which goes far beyond a moral problem of individuals who consume too much, and is implied in the idea that all issues, even political issues (such as animal suffering) can be solved on the basis of consumption choices.
+
+The increase in consumption should not be seen as a problem that can be solved by ecologically correct consumption. Substituting overconsumption for a more moderate one will not be enough. Eco-consumption continues to be a perspective adjusted to a culture that defends the belief, expressed by Benjamin Friedman, that economic growth is necessary to maintain social peace. If the rich stop growing, the system automatically reacts, and the poor are in the most vulnerable part of the impact zone. The system was built to depend on increasing profit. That is why some capitalists defend their own growth as a possibility to generate jobs and invest in the growth of the country as a whole. If we stop circulating money faster and faster, the situation could get worse. When you run down a mountain creating avalanches, stopping is no longer a safe option. Either you become part of the avalanche, or you are buried under it. Downsizing is only an option as long as it can further streamline business. It is only worthwhile if it generates more possibilities for profit (ROMEIRO, 2008).
+
+Showing an ecologically correct attitude has become something necessary for the survival of the social image of both companies and individuals. Ecology joined personal development and professional ethics. Things change to stay the same. Current ecology points to overcoming human material limitations, in a biotechnological sense.
+
+The problem with our production and consumption model is not that we live on a finite planet. The planet could have infinite resources and the same problem would arise: the growth of production leads to the need to consume more, which in turn tends to reduce life to consumption. This model threatens life whether it succeeds or fails, with or without natural limitations. In a way, acknowledging that the planet is finite can be very helpful in preventing the blind force of the market from destroying itself too quickly through runaway excess growth. But this awareness alone only forces us to change the modes of appropriation so that the process continues to grow in a "sustainable" way. If sustainability is limited to rationing resources to maintain profit, it is about as sustainable as infinite growth can be.
+
+When all cultural change can only take place through mass cultural production, then civilization has won. It would be necessary to change what produces culture in the first place. Is education the solution? Not when turned into a commodity. With educators under the control of the market, education loses its potential to generate profound social change.
+
+If the problem is to find an ecological way to earn all the money that is earned from the devastation of nature, then it is only a matter of replacing the modes of production in order to preserve the economic system and its underlying "ecosystem". The central problem should not be to educate for the preservation of the environment as a source of resources that feed civilization. Environmental degradation is a consequence of a civilizing process that also degrades human relationships. An efficient economy does not make us more able to reflect on the human condition.
+
+We continue to adhere to different worldviews that do not find a consensus on the human problem. They may be consistent with a culture that observes the problem from a biological, economic, political, material or pragmatic point of view, but when talking about human beings, the focus is generally restricted to the material conditions for maintaining civilization. If that focus doesn't change, we won't get very far.
+
+#### 9. How to fight eco-capitalism
+
+When I wrote this text, in 2016, I could not see any practical proposal to solve the problem. But now, in 2023, some ideas have emerged. First, it is necessary to understand what cannot work: sustainable development. The concept of economic development, in capitalism, implies growth in the rate of profit, while ecological sustainability implies a level of stability, a limit to growth. "Mainstream" ecology uses a concept of sustainability suited to the dominant economic model, removing from it any potential for a radical critique of capitalism.
+
+Deep ecology has a philosophical critique of the concept of "sustainable development", pointing to a contradiction: development is a self-centered concept while ecological sustainability would require a more open, biocentric view, without human exceptionalism or centrality of civilized values. A truly sustainable relationship with the earth can only occur if humans do not place themselves as the only "rationality" that decides how everything should work, what should or should not exist, how, where and in what quantity.
+
+Eco-capitalism is an expanded form of capitalism. A form that assimilates criticisms of previous models of capitalism, such as criticism of waste, pollution and inequality produced by industrial capitalism, and uses them to create new forms of consumption. Eco-capitalism is, above all, technocratic. Therefore, the scathing critique of eco-capitalism needs to be an expanded critique of capitalism, synthesizing the understanding of the origin of human ecological problems, thousands of years ago, with the understanding of the civilizational progress that led to the technological society in which we live today, where work relationships and social coexistence were radically altered.
+
+As capitalism reaches its “final form”, the critique of it needs to become less reformist. Criticism needs to focus on what capital cannot assimilate. Radical criticism of land ownership, for example, rather than belief in more “rational” management. While this view seems difficult to defend today, it is increasingly viable. The strengthening of ancestral wisdom that opposes both the concept of market and the concept of state is a good sign. The eco-anarchist critique of civilization in Brazil has moved beyond the almost inaccessible discourse of authors such as John Zerzan to the powerful discourse of authors such as Ailton Krenak and Davi Kopenawa.
+
+The advantage of using more authors like these is immense. As well as using feminist authors, who radically criticize patriarchy as the source of human and animal domination. These “new” authors, which have always existed but have not yet been properly read, provide a less rugged terrain for the development of an anticolonial vision of “degrowth”.
+
+Latouche's (2012) critiques economic growth as an irrational belief. Today, degrowth seems to be stuck between the advance of market fascism and the social-democratic opposition. How to talk about degrowth in a context in which all hopes have been placed on a president who promises the return of abundance and the power of consumption for the Brazilian worker?
+
+The answer, for me, is that we should speak LOUDER. Not just with words, but with actions. This is a propitious moment, not because we are supposedly in a more democratic moment, but precisely because the liberal democratic model proved incapable of preventing the neoliberal takedowns. Now is the time to unmask eco-capitalism. Much more than a simple deception, eco-capitalism shows itself as eco-fascism. It's not just about not falling into the illusion of ecological brands and shorter showers. Now it's more precisely about destroying the structure on which capitalism will try to sustain itself in the coming decades. Elon Musk's electric cars aren't just a false solution. They are part of the problem, and we must address this problem with more than laws and good mandates. We must address it with a radical political opposition.
+
+#### References
+
+<biblio>
+CAPRA, Fritjof. The turning point: Science, society, and the rising culture. Bantam, 1984.
+
+CLASTRES, Pierre. Society against the state: essays in political anthropology. Princeton University Press, 2020.
+
+GODBOUT, Jacques T. "Introdução à dádiva." Revista Brasileira de Ciências Sociais 13 (1998): 39-52.
+
+HEINBERG, Richard. "Was civilization a mistake?." Against Civilisation (2005).
+
+HUSSON, Michel. O Capitalismo rumo a uma regulação caótica. Outubro revista. n. 19. p. 11-38, 2011.
+
+JENSEN, Derrick. Actions speak louder than words. Green Fools Collective, 1998.
+
+LATOUCHE, Serge. As vantagens do decrescimento. Protopia, 2012.
+
+MEZZACAPPA, Marina. Outro sistema é possível? ComCiência, Campinas, n. 99, 2008.
+
+MÜLLER, Tadzio, and Alexis Passadakis. "20 Theses against green capitalism." Anarchist Library, 2009.
+
+ROMEIRO, Ademar Ribeiro. Crescimento econômico e meio ambiente. ComCiência, Campinas, n. 99, 2008.
+
+SAHLINS, Marshall. Stone age economics. Routledge, 2013.
+
+VOGT, Carlos. O consumidor e o consumido. ComCiência, Campinas, n. 99, 2008.
+</biblio>

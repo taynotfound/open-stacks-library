@@ -1,0 +1,62 @@
+---
+title: "Against Black Britishness - Sunwo"
+author: "Sunwo"
+date: "14/12/24"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/sunwo-against-black-britishness"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "For a country partly responsible for spreading ideas like nationalism across the globe, Britishness is not just a badge—it is a mechanism of control. To be “black” in Britain, then, should be a negation of coloniality. Yet, the lack of cont"
+tags:
+  - "anarchism"
+  - "Black Anarchism and Black Anarchic Radicals"
+  - "insurrectionary"
+  - "United Kingdom"
+  - "pdf"
+files:
+  - name: "Against Black Britishness.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sunwo-against-black-britishness.pdf"
+    hosted: true
+  - name: "Against Black Britishness.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-sunwo-against-black-britishness.epub"
+    hosted: true
+---
+
+# Against Black Britishness
+
+*by Sunwo*
+
+> This peice was featured in Muntjac Magazine Issue 1
+
+For a country partly responsible for spreading ideas like nationalism across the globe, Britishness is not just a badge—it is a mechanism of control. To be “black” in Britain, then, should be a negation of coloniality. Yet, the lack of continuity in the decolonial struggle within the heart of the colonial core has created a form of cultural amnesia. Our people’s came here seeking liberation from the chains of colonialism, dreaming of a better life. But in doing so, they were forced into a new form of intercolonialism. Now, we wrestle with the impossible task of fitting into a culture that negates our very existence and liberation.
+
+*What does it mean to be captured, to be colonised inside the heart of the empire?*
+
+Black people in Britain experience systemic oppression at every level. We are the least employed, the least paid, and we hold the least significant positions of power. The rare exceptions, the tokens, have climbed up by bootlicking their way into the system. We are disproportionately incarcerated, and when sentenced, we face harsher punishments for the same crimes committed by our white counterparts. The system is designed to push us into poverty and then criminalises us for it.
+
+The healthcare system, too, reflects this systemic neglect. We experience the worst health outcomes and receive the poorest treatments. Our communities are ravaged by a combination of structural inequality and outright hostility. And yet, many of us cling to the dream of “success” within this system—a dream that ultimately requires us to work for the very state that oppresses us. Success in this system, for Black people, can only mean subjugation.
+
+#### **The Lessons of Windrush**
+
+The history of Black people on this island is a history of exploitation. Our relationship with the British state is defined by labour: we were brought here to serve the dying empire. The Windrush generation should serve as a lesson in how we are used. They came to rebuild Britain after the war, only to face hostility, deportation, and betrayal.
+
+Today, we see the same pattern in the legally sanctioned immigration of African health and care workers. They are brought here under unequal terms, with limited rights to stay and build a life. Their purpose is clear: to prop up a crumbling system. This unequal exchange, this intercolonial migration, reflects the ongoing exploitation of Black labor to delay the collapse of British society.
+
+#### **Against Britishness**
+
+Black people must reject Britishness as a core identity. It should exist only as a condition for administrative purposes—a recognition of the reality we must navigate. But we cannot allow it to define us. To accept Black Britishness is to fall into the same traps as Black Americans, who have been isolated by nationalism. American Blackness, forged in the crucible of reactionary patriotism, has become complicit in imperialism. This “imperial Blackness” serves the empire rather than resisting it.
+
+Instead, we must imagine and fight for an anarchic, liberatory Blackness. This is a Blackness that transcends borders, a Blackness that resists the conditions of oppression affecting Black people worldwide. It must be rooted in solidarity with the diaspora—connecting not just African descendants but all Black people subjected to colonial violence, from the Caribbean to the Pacific.
+
+#### **Toward a Liberatory Future**
+
+To build this liberatory Blackness, we must focus on radical cultural and political practices that reject assimilation into colonial systems. This means organising through autonomous horizontal formations that coordinate locally and internationally, sharing radical histories, ideas, and strategies. It means rejecting nationalism and imperialism in all forms.
+
+Our struggle must be insurrectionary and disruptive. We must engage in direct action, mutual aid, and self-organisation. Only through resisting are we going to overcome the forces that seek to isolate and oppress us.
+
+Anti-colonial struggle must be fought within the colonial core itself. The crimes of this country—the systemic exploitation, the racism, the xenophobia—can only be addressed through the collapse of the empire that created them. We cannot reform an empire; we must dismantle it.
+
+For Black people in Britain, liberation cannot come through Britishness. It can only come through the rejection of empire, the rejection of borders, and the creation of a radical, borderless solidarity.
