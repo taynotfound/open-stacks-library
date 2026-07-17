@@ -1,10 +1,11 @@
 ---
-title: "COINTELPRO — FBI Records: The Vault"
+title: "COINTELPRO  -  FBI Records: The Vault"
 author: "Federal Bureau of Investigation"
 date: ""
 category: "surveillance"
 source: "https://vault.fbi.gov/cointel-pro"
 source_name: "FBI Records: The Vault"
+archive: "https://web.archive.org/web/20260711044204/https://vault.fbi.gov/cointel-pro"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -17,11 +18,13 @@ tags:
 files: []
 ---
 
-# COINTELPRO — FBI Records: The Vault
+# COINTELPRO  -  FBI Records: The Vault
 
 **Source:** FBI Records: The Vault  
 
-The FBI's own declassified files on COINTELPRO — its covert program to surveil, infiltrate, discredit and disrupt civil rights groups, the anti-war movement, and the left. Read the memos in the Bureau's own words.
+The FBI's own declassified files on COINTELPRO  -  its covert program to surveil, infiltrate, discredit and disrupt civil rights groups, the anti-war movement, and the left. Read the memos in the Bureau's own words.
 
 [View original source](https://vault.fbi.gov/cointel-pro)
+
+**Archived snapshot (Wayback Machine):** [https://web.archive.org/web/20260711044204/https://vault.fbi.gov/cointel-pro](<https://web.archive.org/web/20260711044204/https://vault.fbi.gov/cointel-pro>)
 

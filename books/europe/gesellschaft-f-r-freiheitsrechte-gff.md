@@ -5,6 +5,7 @@ date: ""
 category: "europe"
 source: "https://www.freiheitsrechte.org"
 source_name: "GFF"
+archive: "https://web.archive.org/web/20260710033114/https://freiheitsrechte.org/"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -24,3 +25,5 @@ files: []
 A German civil-liberties organization that litigates strategically against surveillance laws and rights violations.
 
 [View original source](https://www.freiheitsrechte.org)
+
+**Archived snapshot (Wayback Machine):** [https://web.archive.org/web/20260710033114/https://freiheitsrechte.org/](<https://web.archive.org/web/20260710033114/https://freiheitsrechte.org/>)

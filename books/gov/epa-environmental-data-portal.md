@@ -5,6 +5,7 @@ date: ""
 category: "gov"
 source: "https://www.epa.gov/data"
 source_name: "EPA"
+archive: "https://web.archive.org/web/20260716012740/https://www.epa.gov/data"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -24,3 +25,5 @@ files: []
 The Environmental Protection Agency's central data hub for air, water, and toxics data. Environmental datasets have been targeted for removal under deregulatory administrations.
 
 [View original source](https://www.epa.gov/data)
+
+**Archived snapshot (Wayback Machine):** [https://web.archive.org/web/20260716012740/https://www.epa.gov/data](<https://web.archive.org/web/20260716012740/https://www.epa.gov/data>)

@@ -5,6 +5,7 @@ date: "2024"
 category: "europe"
 source: "https://www.disinfo.eu/publications/"
 source_name: "EU DisinfoLab"
+archive: "https://web.archive.org/web/20260604090159/https://www.disinfo.eu/publications"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -24,3 +25,5 @@ files: []
 Research publications on disinformation campaigns across Europe, including far-right and state-linked influence operations.
 
 [View original source](https://www.disinfo.eu/publications/)
+
+**Archived copy (Wayback Machine):** [https://web.archive.org/web/20260604090159/https://www.disinfo.eu/publications](<https://web.archive.org/web/20260604090159/https://www.disinfo.eu/publications>)

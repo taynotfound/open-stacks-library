@@ -5,6 +5,7 @@ date: ""
 category: "europe"
 source: "https://www.stasi-unterlagen-archiv.de"
 source_name: "Stasi Records Archive"
+archive: "https://web.archive.org/web/20240820003117/https://www.stasi-unterlagen-archiv.de/"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -24,3 +25,5 @@ files: []
 The archive of the former East German secret police (Stasi), documenting one of history's most pervasive surveillance states. A crucial record of what mass state surveillance looks like.
 
 [View original source](https://www.stasi-unterlagen-archiv.de)
+
+**Archived snapshot (Wayback Machine):** [https://web.archive.org/web/20240820003117/https://www.stasi-unterlagen-archiv.de/](<https://web.archive.org/web/20240820003117/https://www.stasi-unterlagen-archiv.de/>)

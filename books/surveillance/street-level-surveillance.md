@@ -5,6 +5,7 @@ date: ""
 category: "surveillance"
 source: "https://sls.eff.org/"
 source_name: "Electronic Frontier Foundation"
+archive: "https://web.archive.org/web/20260716234042/https://sls.eff.org/"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -24,4 +25,6 @@ files: []
 EFF's plain-language field guide to the surveillance tech police point at ordinary people: license plate readers, stingrays/cell-site simulators, face recognition, body cams, drones. What each does, how it's abused, what the law says.
 
 [View original source](https://sls.eff.org/)
+
+**Archived snapshot (Wayback Machine):** [https://web.archive.org/web/20260716234042/https://sls.eff.org/](<https://web.archive.org/web/20260716234042/https://sls.eff.org/>)
 

@@ -5,6 +5,7 @@ date: ""
 category: "gov"
 source: "https://edg.epa.gov"
 source_name: "EPA Environmental Data Gateway"
+archive: "https://web.archive.org/web/20250730001938/https://edg.epa.gov/"
 cover: ""
 mirror_state: none
 linked_only: true
@@ -24,3 +25,5 @@ files: []
 The EPA's geospatial data catalog, providing access to environmental datasets and mapping services.
 
 [View original source](https://edg.epa.gov)
+
+**Archived snapshot (Wayback Machine):** [https://web.archive.org/web/20250730001938/https://edg.epa.gov/](<https://web.archive.org/web/20250730001938/https://edg.epa.gov/>)
