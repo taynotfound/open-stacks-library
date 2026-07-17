@@ -1,0 +1,69 @@
+---
+title: "Die Notwendigkeit der Revolution - Peter Kropotkin"
+author: "Peter Kropotkin"
+date: "1885"
+category: "history"
+source: "https://de.anarchistlibraries.net/library/peter-kropotkin-die-notwendigkeit-der-revolution"
+source_name: "de.anarchistlibraries.net"
+page_type: book
+mirror_state: full
+description: "Es gibt Abschnitte im Leben der Menschheit, wo die Notwendigkeit einer heftigen Aufrüttelung, einer Umwälzung, welche die Gesellschaft bis ins Innerste bewegt, sich unter allen Gesichtspunkten als notwendig erweist. In diesen Zeitpunkten fä"
+tags:
+  - "deutsch"
+  - "history"
+  - "Soziale Revolution"
+  - "pdf"
+files:
+  - name: "Die Notwendigkeit der Revolution.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talde-peter-kropotkin-die-notwendigkeit-der-revolution.pdf"
+    hosted: true
+  - name: "Die Notwendigkeit der Revolution.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/talde-peter-kropotkin-die-notwendigkeit-der-revolution.epub"
+    hosted: true
+---
+
+# Die Notwendigkeit der Revolution
+
+*von Peter Kropotkin*
+
+> Französischer Originaltitel: "La nécessité de la Révolution". Erschienen in Original-Ausgabe unter dem Titel: Kropotkin, Petr A.: Paroles d'un révolté. Aus dem Französischen von Pierre Ramus (Rudolf Grossmann).
+
+Es gibt Abschnitte im Leben der Menschheit, wo die Notwendigkeit einer heftigen Aufrüttelung, einer Umwälzung, welche die Gesellschaft bis ins Innerste bewegt, sich unter allen Gesichtspunkten als notwendig erweist. In diesen Zeitpunkten fängt jeder Mensch, der ein Herz hat, an zu sagen, daß die Sachen nicht so weitergehen können; daß es großer Ereignisse bedarf, die gewaltsam den Faden der Geschichte abbrechen, die Menschheit aus dem alten Geleise, in das sie hineingeraten ist, hinausschleudern und sie in neue Bahnen werfen, einem Unbekannten, der Suche nach dem Ideal entgegen. Man fühlt die Notwendigkeit einer riesigen, unerbittlichen Revolution, die kommen muß: nicht nur um die wirtschaftliche Herrschaftsordnung – die auf kaltblütiger Ausbeutung, Spekulation und Betrug gegründet ist – umzuwälzen; nicht nur um das Gerüst der politischen Macht – das auf der durch List, Ränke und Lügen ausgeübten Herrschaft Einiger aufgebaut ist –, zu stürzen; sondern auch um die Gesellschaft in ihrem Gedanken- und Gefühlsleben zu bewegen, die Erstarrung wachzurütteln, die Sitten umzugestalten, inmitten der niederen und kleinlichen Gefühle des Augenblicks den belebenden Hauch der edlen Leidenschaften, der großherzigen Begeisterung, der opferfreudigen Hingabe zu entfachen.
+
+In solchen Zeiten, wo die aufgeblasene Mittelmäßigkeit jeden Verstand erstickt, der sich nicht vor den Hohepriestern auf die Knie wirft, wo die Moral der goldenen Mittelstraße das allgemeine Gesetz ist und die Gemeinheit siegreich herrscht – in diesen Zeiten wird die Revolution zur Notwendigkeit, die ehrlichen Menschen aller Gesellschaftsklassen rufen den Sturm herbei, damit dieser mit seinem Feueratem die Pest, die uns erstickt, verbrenne, den Moder, der uns verzehrt, wegfege, in seinem Rasen alle Trümmer der Vergangenheit, die auf uns lasten, uns ersticken, uns Licht und Luft nehmen, zerstreue; damit er endlich der ganzen Welt einen neuen Hauch von Leben, von Jugend, von Ehrlichkeit bringe.
+
+Es ist nicht die Brotfrage allein, die sich in solchen Zeitläufen aufdrängt; es ist die Frage des Fortschrittes gegen die Unbeweglichkeit, der menschlichen Entwicklung gegen die Verrohung, des Lebens gegen die stinkende Verrottung des Sumpfes.
+
+Die Geschichte hat uns die Erinnerung an solch ein Zeitalter bewahrt: es ist jenes des Niederganges des römischen Weltreiches; heute erlebt die Menschheit eine zweite solche Epoche.
+
+Wie die Römer der Verfallszeit, so stehen wir einer tiefen Umwandlung gegenüber, die in den Geistern vor sich geht und nichts weiter verlangt als die günstigen Umstände, um sich in Tatsachen umzusetzen. Wenn die Revolution sich uns auf wirtschaftlichem Gebiet aufdrängt, wenn sie auf politischem Gebiet zur gebieterischen Notwendigkeit wird, so ist sie noch viel unvermeidlicher auf moralischem Gebiet.
+
+Ohne moralische Bande, ohne gewisse Verpflichtungen, die sich jedes Mitglied der Gesellschaft gegenüber den anderen schafft und die bei ihm alsbald zu Gewohnheiten werden, ist keine Gesellschaft möglich. Wir finden diese moralischen Bande, diese geselligen Gewohnheiten auch tatsächlich bei allen menschlichen Gruppen; wir sehen sie sehr entwickelt und streng befolgt bei den primitiven Völkerschaften, den überlebenden Bruchstücken von dem, was ihrem Anfang die ganze Menschheit war.
+
+Aber die Ungleichheit der Besitztümer und der Verhältnisse, die Ausbeutung des Menschen durch den Menschen, die Beherrschung der Massen durch einige Menschen, haben im Laufe der Zeitalter diese kostbaren Ergebnisse des ursprünglichen Lebens der Gesellschaft untergraben und zerstört. Die auf der Ausbeutung aufgebaute Großindustrie, der Handel, der auf dem Betrug gegründet ist, die Herrschaft derjenigen, die sich Regierung nennen, können nicht mehr mit diesen Prinzipien einer Moral, deren Grundlage die Solidarität aller Menschen ist, zusammenbestehen, welche wir noch bei den primitiven Volksstämmen, die an die Grenzen der polizeilich reglementierten Welt zurückgedrängt sind, vorfinden. Denn wie kann irgendeine Solidarität zwischen dem Kapitalisten und dem Arbeiter, den jener ausbeutet, zwischen dem Armee-Befehlshaber und dem Soldaten, zwischen dem Regierenden und dem Beherrschten bestehen?
+
+So sehen wir auch, wie an Stelle der primitiven Moral, die sich darauf gründet, *daß der Einzelne sich mit allen Seinesgleichen eins fühlt*, die scheinheilige Moral der Religionen tritt; diese sind bestrebt, mit ihren Trugschlüssen die Ausbeutung und die Herrschaft zu rechtfertigen und beschränken sich nur darauf, die rohesten Betätigungsformen der einen sowie der anderen zu rügen. Sie befreien den Einzelnen von seinen moralischen Verpflichtungen gegen Seinesgleichen und legen ihm bloß Verpflichtungen gegen ein höchstes Wesen auf – gegen eine unsichtbare Abstraktion, deren Zorn man beschwören und deren Wohlwollen man erkaufen kann, wenn man nur seine angeblichen Diener gut bezahlt.
+
+Aber die immerfort häufiger werdenden Beziehungen, die sich heute zwischen den einzelnen Menschen, den Gruppen, den Nationen, den Kontinenten anknüpfen, legen der Menschheit neue moralische Verpflichtungen auf. Und in dem Maße, als der religiöse Glaube verschwindet, erkennt der Mensch, daß er, um glücklich zu sein, sich neue Pflichten auf erlegen muß – nicht mehr gegen ein unbekanntes Wesen, sondern all jenen gegenüber, mit denen er in Beziehungen tritt. Der Mensch begreift mehr und mehr, daß das Glück des vereinzelten Menschen nicht möglich ist; daß dasselbe nur im Glück aller – im Glück der ganzen Menschheit – gesucht werden kann. An Stelle der negativen Prinzipien der religiösen Moral: «Du sollst nicht stehlen, du sollst nicht töten», usw. treten die unendlich weiteren und sich immerfort erweiternden positiven Prinzipien der menschlichen Moral. Die Verbote eines Gottes – welche man immer verletzen konnte, um ihn später durch Opfergaben zu besänftigen – werden ersetzt durch das Gefühl der Solidarität mit jedem und mit allen, das dem Menschen sagt: *«**Wenn du glücklich sein willst, so tue jedem und allen das Gleiche, was du willst, das andere dir tun sollen!»* Und dieser einfache Ausspruch, diese wissenschaftliche Schlußfolgerung, die nichts mehr mit den religiösen Vorschriften zu tun hat, öffnet mit einem Schlag einen ganzen weiten Horizont der Vervollkommnung, der Verbesserung des Menschengeschlechtes.
+
+Die Notwendigkeit, unsere Beziehungen nach diesem – so großartigen und einfachen – Grundsatz umzuändern, macht sich von Tag zu Tag mehr fühlbar. Aber nichts kann geschehen in dieser Richtung, so lange Ausbeutung und Herrschaft, Scheinheiligkeit und Sophisterei die Grundlagen unserer gesellschaftlichen Organisation bleiben.
+
+Tausend Beispiele könnten angeführt werden, um dies zu bekräftigen. Aber wir wollen uns hier auf ein einziges beschränken – das furchtbarste –: unsere Kinder. Was tun wir mit ihnen in der gegenwärtigen Gesellschaft?
+
+Die Achtung vor der Kindheit ist eine der besten Eigenschaften, die sich in der Menschheit in ihrem mühevollen Fortschritt von der Wildheit zum heutigen Zustand entwickelt hat. Wie oft hat man in der Tat gesehen, daß der verworfenste Mensch durch das Lächeln eines Kindes entwaffnet wurde? – Nun, diese Achtung ist heute im Verschwinden begriffen, und das Kind wird heute bei uns Maschinenfutter, wenn nicht ein Spielzeug der rohen Leidenschaften.
+
+Wir haben kürzlich gesehen, wie die Bourgeoisie unsere Kinder hinmordet, indem sie dieselben viele Stunden lang im Tage in den Fabriken arbeiten läßt.[1] Dort wird ihr Körper zugrunde gerichtet. Aber das ist nicht das Ärgste. Bis ins Mark verdorben, mordet die Gesellschaft auch den Geist unserer Kinder.
+
+Indem sie den Schulunterricht zum Drill macht, den den jungen und edlen Leidenschaften und dem Bedürfnis nach einem Ideal, das sich in einem gewissen Alter bei der Mehrzahl unserer Kinder entwickelt, gar keinen Spielraum läßt, bewirkt sie, daß jede nur einigermaßen unabhängige, poetische oder stolze Natur die Schule haßt, sich in sich selbst verschließt oder anderswo einen Ausweg für ihre Leidenschaften sucht. Einige suchen in Romanen nach der Poesie, die ihnen im Leben gefehlt hat; sie stopfen sich voll von jener ekelhaften Literatur, die durch und für die Bourgeoisie fabriziert wird, zu so und so viel die Zeile – und enden vielleicht damit, eines Tages einem anderen Kinde die Gurgel zu durchschneiden, «um ein berühmter Mörder zu werden». Andere geben sich scheußlichen Lastern hin, und nur die Kinder der «goldenen Mittelstraße», jene, die weder Leidenschaften noch Feuer, kein Unabhängigkeitsgefühl haben, kommen ohne Unfall «ans Ziel». Diese werden der Gesellschaft die guten Staatsbürger mit kleinlicher Moral liefern, die freilich nicht Taschentücher auf der Straße stehlen, aber auf «anständige Art» ihre Kunden bestehlen; die keine Leidenschaften haben, aber im Geheimen ihren Besuch bei der Kupplerin machen, «um die Einförmigkeit des häuslichen Herdes loszuwerden»; die in ihrem Sumpf hocken und Zeter und Mordio über den schreien, der an ihr verschimmeltes Dasein zu rühren wagt.
+
+Soviel mit Bezug auf die Jünglinge! Was das Mädchen betrifft, verdirbt die Bourgeoisie es vom frühesten Alter an. Unsinnige Lektüre, aufgeputzte Puppen, Toiletten und erbauliche Beispiele der Mutter, Gespräche, die sie in den Gesellschaftsräumen überhört – nichts fehlt, um aus dem Kind eine Frau zu machen, die bereit ist, sich dem Meistbietenden zu verkaufen. Und dieses Kind sät bereits Verderben rings herum: schauen die Arbeiterkinder nicht mit neidischen Blicken dieses hübsch angezogene, frühreife und kokette Mädchen mit eleganten Manieren an? Aber wenn die Mutter «tugendhaft» ist – nach der Art, wie die anständigen Bourgeoisiefrauen es sind –, so ist die Sache noch schlimmer! Wenn das Kind Intelligenz und Gefühl hat, wird es bald den richtigen Wert dieser doppelten Moral erkennen, die sagt: «Liebe deinen Nächsten, aber plündere ihn aus, wo du kannst». «Sei tugendhaft – bis zu einem gewissen Grade», usw. – und, erstickend in dieser Atmosphäre der Scheinheiligkeit, nichts im Leben findend, was schön, hoheitsvoll, begeisternd ist, was eine wahre Leidenschaft erwecken kann, wird sie sich ohne Bedenken in die Arme des Erstbesten werfen – wenn er nur ihre Begierde nach Luxus befriedigen kann.
+
+Untersucht diese Tatsachen, denkt über sie nach und sagt uns, ob wir nicht recht haben, zu behaupten, daß es einer furchtbaren Revolution bedarf, um endlich all den Schmutz unserer Gesellschaftsordnung bis zu seinen Wurzeln wegzufegen; denn solange die Ursachen des Krebsschadens bestehen bleiben, wird nichts geheilt werden können.
+
+Solange wir eine Klasse von Müßiggängern haben, die unter dem Vorwand, daß sie notwendig sind, um uns zu leiten, durch unsere Arbeit erhalten werden – solange werden diese Müßiggänger immer ein Pestherd für die allgemeine Sittlichkeit sein. Der müßige und verrohte Mensch, der sein ganzes Leben lang nur nach neuen Vergnügen sucht, bei dem jedes Gefühl der Solidarität mit anderen Menschen durch die Grundlagen seiner Existenz ertötet wird, und in dem sein ganzes tägliches Leben die niedrigste Selbstsucht großzieht – dieser Mensch wird immer durch die brutalste Genußsucht geleitet werden; er wird die Kunst, das Theater, die Presse prostituieren – er hat es bereits getan –, er wird sein Volk und dessen Verteidiger verkaufen und, zu feige, um selbst zu morden, die Besten seines Landes hinmorden lassen, wenn er fürchtet, seinen Geldsack, die einzige Quelle seiner Genüsse, zu verlieren.
+
+Dies ist unvermeidlich, und alles Schreiben der Moralprediger der Kirche und des Staates wird nichts daran ändern. Die Pest ist in unseren Heimstätten, wir müssen ihre Ursache zerstören und müßten wir auch mit Feuer und Schwert vorgehen, dürfen wir nicht zögern. Es handelt sich um das Wohl der Menschheit.
+
+[1] Elisée Reclus merkt hierzu an, daß sich dieser Hinweis Kropotkins auf den Bericht von Emma Brown über Kinderarbeit in den Fabriken von Massachusetts in den USA beziehe, der in der Zeitschrift ‹Atlantic Monthly› veröffentlicht worden war. In diesem empirischen Bericht wird festgestellt, daß das Gesetz über Kinderarbeit nirgends befolgt werde. 44% – fast die Hälfte aller Fabrikarbeiter in Massachusetts – seien Kinder unter fünfzehn Jahren, die gesundheitlich zugrunde gerichtet würden. Grund dieses Ausmaßes an Kinderbeschäftigung sei der niedrige Kinderlohn von nur 24% des Erwachsenenlohnes. (Anm. wiedergegeben in: ‹Peter Kropotkin, Worte eines Rebellen›, Hg. Pierre Ramus, Wien-Klosterneuburg 1924, S. 21.)
