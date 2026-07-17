@@ -1,23 +1,32 @@
 ---
-title: "Nestor Makhno: Anarchy\u2019s Cossack"
+title: "Nestor Makhno: Anarchy's Cossack - Alexandre Skirda"
 author: "Alexandre Skirda"
 date: "Dec 31, 2020"
 category: "history"
 source: "https://theanarchistlibrary.org/library/alexandre-skirda-nestor-makhno-anarchy-s-cossack"
 source_name: "theanarchistlibrary.org"
-cover: ""
+cover: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/nestor-makhno-anarchys-cossack.jpg"
 page_type: book
-mirror_state: none
-description: "Foreword History Bites Back The spectacular collapse of the so-called communist system of the former USSR has exposed the vacuousness of the regime\u2019s historians\u2019 official theses and highlighted the intellectual complacen"
+mirror_state: full
+description: "Alexandre Skirda's history of Nestor Makhno and the anarchist insurgent movement in Ukraine during the Russian Revolution and civil war. Full text plus self-hosted PDF."
 tags:
   - "history"
   - "Nestor Makhno"
+  - "Alexandre Skirda"
   - "Russian Revolution"
   - "Soviets"
   - "Ukraine"
-images: []
-links: []
-files: []
+  - "pdf"
+images:
+  - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/nestor-makhno-anarchys-cossack.jpg"
+links:
+  - url: "https://libcom.org/article/nestor-makhno-anarchys-cossack-alexandre-skirda"
+    text: "Also at libcom.org"
+files:
+  - name: "Nestor Makhno - Anarchy's Cossack - Alexandre Skirda.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/NestorMakhnoAnarchysCossack.pdf"
+    hosted: true
 ---
 
 # Nestor Makhno: Anarchy’s Cossack
