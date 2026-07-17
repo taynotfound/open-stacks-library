@@ -39,11 +39,13 @@ jobs:
           cat /tmp/buildout.txt
           COUNT=$(grep -oP 'books indexed:\s*\K[0-9]+' /tmp/buildout.txt | head -1)
           SIZE=$(grep -oP 'index.json size:\s*\K[0-9.]+ MB' /tmp/buildout.txt | head -1)
+          HOSTED=$(grep -oP 'self-hosted files:\s*\K.*' /tmp/buildout.txt | head -1)
           # fall back to counting the freshly built file if the log line changes
           [ -z "$COUNT" ] && COUNT=$(jq 'length' index.json 2>/dev/null)
           DELTA=$(( ${COUNT:-0} - ${PREV:-0} ))
           echo "count=${COUNT:-?}" >> "$GITHUB_OUTPUT"
           echo "size=${SIZE:-?}" >> "$GITHUB_OUTPUT"
+          echo "hosted=${HOSTED:-?}" >> "$GITHUB_OUTPUT"
           echo "prev=${PREV}" >> "$GITHUB_OUTPUT"
           echo "delta=${DELTA}" >> "$GITHUB_OUTPUT"
 
@@ -78,10 +80,10 @@ jobs:
             DELTA="${{ steps.build.outputs.delta }}"
             if [ "${DELTA:-0}" -gt 0 ]; then
               EMOJI="📚"; TITLE="index rebuilt"
-              DESC="**${{ steps.build.outputs.count }}** items (+${DELTA}) · ${{ steps.build.outputs.size }}"
+              DESC="**${{ steps.build.outputs.count }}** items (+${DELTA}) · ${{ steps.build.outputs.size }} · 🗄️ ${{ steps.build.outputs.hosted }}"
             elif [ "${DELTA:-0}" -lt 0 ]; then
               EMOJI="📚"; TITLE="index rebuilt"
-              DESC="**${{ steps.build.outputs.count }}** items (${DELTA}) · ${{ steps.build.outputs.size }}"
+              DESC="**${{ steps.build.outputs.count }}** items (${DELTA}) · ${{ steps.build.outputs.size }} · 🗄️ ${{ steps.build.outputs.hosted }}"
             else
               EMOJI="✅"; TITLE="index checked"
               DESC="**${{ steps.build.outputs.count }}** items · no change"
