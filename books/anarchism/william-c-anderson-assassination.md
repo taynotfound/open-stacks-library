@@ -1,0 +1,61 @@
+---
+title: "Assassination: Anarchism and the Birth of the FBI - William C. Anderson"
+author: "William C. Anderson"
+date: "September 6, 2022"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/william-c-anderson-assassination"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "“The anarchists were reflex to an evil history which penetrated their own remarkable and macabre achievements.”– Cedric Robinson The history of classical anarchism is filled with radical foresight, mistakes, and persecution. Its past helps"
+tags:
+  - "anarchism"
+  - "Anarchist movement"
+  - "History"
+  - "repression"
+  - "Leon Czolgosz"
+  - "pdf"
+files:
+  - name: "Assassination.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-william-c-anderson-assassination.pdf"
+    hosted: true
+  - name: "Assassination.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-william-c-anderson-assassination.epub"
+    hosted: true
+---
+
+# Assassination: Anarchism and the Birth of the FBI
+
+*by William C. Anderson*
+
+*“The anarchists were reflex to an evil history which penetrated their own remarkable and macabre achievements.”– Cedric Robinson*
+
+The history of classical anarchism is filled with radical foresight, mistakes, and persecution. Its past helps explain how the word “socialism” became conflated with state-building. Important awareness of anti-state or stateless socialism(s) and the broader historical socialist movement has been neglected. Though now often seen as an aesthetic term, or an utopian desire, or a signifier for disorganization, anarchism’s story is one of uncompromising confrontation. As an international, anti-colonial, and revolutionary movement many of its proponents prioritized direct violent action of the highest order, going as far as to assassinate monarchs and heads of state. While some people may have a general understanding of the “Red Scare” and Mccarthyism, less know how insurrectionary anarchism led to the birth of The Federal Bureau of Investigation (FBI).
+
+To understand why anarchism led to the creation of one of the most dangerous police forces in the history of nation-states, it’s necessary to witness anarchist history as a universal threat. At the turn of century in the early 1900s, anarchists made members of the world’s ruling establishments increasingly fearful. As a radical ideology that doesn’t try to reform or create new states, it questioned the fundamental need for their existence. Therefore, it’s condemned as a chaotic impulse by ruling classes that depend on state formations to govern. To make matters terrifying for the world’s reigning elite, some anarchists engaged in what was known as the “propaganda of the deed” as a model method to try to provoke a revolutionary uprising among the masses. These were insurrectionary tactics that took on the form of violent attacks on police, political assassinations, bombings, and revolutionary expropriations. Enough of it had occurred to conjure the image of anarchists as “bomb throwers.” These actions would work to redefine national security apparatuses.
+
+When self-professed anarchist Leon Czolgosz shot President William McKinley on September 6, 1901, it transformed the nature of law enforcement in the United States. The assassination of King Umberto of Italy on July 29, 1900, by the anarchist Gaetano Bresci set the stage to portray anarchism as a global threat. Writing for the [*American Historical Review* in 1955](<https://www.jstor.org/stable/1844919>), historian Sidney Fine recalled that *The Outlook* correspondent Francis H. Nichols made an important note. Nichols “asked…whether the nation’s government and the President were themselves secure from anarchist attack.” Fine writes, “Anarchism was regarded as ‘the most dangerous theory which civilization has ever had to encounter.’” After all, European anarchists assassinated President Carnot of France on the 24th of June in 1894, Prime Minister Canovas del Castillo of Spain on August 8th, 1897, and Empress Elizabeth of Austria on September 10th, 1898 – and they weren’t the only ones. The President of the United States was but the latest victim.
+
+Stateside, the Russian-American anarchist Alexander Berkman had already tried to kill U.S. industrialist Henry Clay Frick in 1892 during the Homestead strike. The Haymarket Bombing of May 4, 1886, in Chicago, led people to further associate anarchism with violence when a bomb attack on police was blamed on eight anarchists. “Who were the pioneers of the eight-hour movement,” asked a formerly enslaved Black woman and anarchist [Lucy Parsons](<https://theanarchistlibrary.org/library/lucy-e-parsons-the-haymarket-martyrs>), “Those martyrs who were strung from the gallows in Chicago on November 11, 1887, the much-lied-about and abused Anarchists.”**** A labor organizer herself, she and other anarchists had been active in pursuing better conditions for workers around wages, hours, and safety. Her pointing to the lies being told about those who were ultimately executed revealed an early acknowledgment of anarchists as scapegoats. Czolgosz’s assassination of President McKinley was preceded by and framed this anarchist reputation. Today, [The White House website](<https://www.whitehouse.gov/about-the-white-house/presidents/william-mckinley/>) still carries this enduring anti-anarchist sentiment. In its description of Mckinleys killing it states, “He was standing in a receiving line at the Buffalo Pan-American Exposition when a deranged anarchist shot him twice. He died eight days later.”
+
+Questions about Czolgosz, his dedication to anarchist politics, and his mental health arose. What’s clear is that a president with [highly imperialist foreign policy](<https://libcom.org/article/1901-assassination-president-william-mckinley>) that “brought America into the world arena as a world power” through the Spanish-American War was the authoritarian target. Authorities responding to the assassination set their sights on noteworthy anarchist Emma Goldman and others like her. Leon had seen Goldman speak and said all he knew about anarchism was from “one speech delivered by Emma Goldman in Cleveland.”[1] The targeting of prominent anarchists and the increased persecution led others to distance themselves from the movement’s visibility. It was a problem that would manifest in the way nation-states would begin to go after anarchists worldwide.
+
+Theodore Roosevelt inherited the presidency when Mckinley died. Through Roosevelt, the campaign against anarchism took special precedence. Roosevelt told Congress, “we should war with relentless efficiency not only against anarchists, but against all active and passive sympathizers with anarchists.” Roosevelt continued, stating how, Mckinley had been killed by a “depraved criminal belonging to that body of criminals who object to all governments, good and bad alike.” The policy against anarchism was used to reshape social life, target dissidents globally, and bolstered the police state for generations to come.[The Immigration Act of 1903 or the Anarchist Exclusion Act](<http://projects.leadr.msu.edu/makingmodernus/exhibits/show/theodore-roosevelt--a-conflict/reinforcing-immigration-polici>) set a precedent as one example of how anti-anarchist sentiment was used to target immigrants, sex workers, and the disabled. Much of this was rooted in xenophobia aimed at “undesirables” since anarchists in the U.S. were often Italians, Russians, and other immigrants who were looked down upon by White Anglo-Saxon Protestants.
+
+The desire for more power to surveil and police at the federal level grew. Roosevelt appointed a reformer named Charles Bonaparte (the grand nephew of Napoleon) as his second Attorney General. He pushed him to create what would later become the FBI by drawing from Secret Service agents and other departments’ resources. The FBI website currently prides itself on this origin story. Though on its history page it incorrectly describes anarchism as an “often violent offshoot of Marxism,” there are other admissions that show this was an opportune moment. It goes further to say “The anarchists, in a sense, were the first modern-day terrorists.” And “anarchist” would function similarly to the way “terrorist” does today as a floating label that can be plastered onto one’s enemies for the purposes of violent repression. It also shows how the two terms were given a synonymous relationship.
+
+This moment wasn’t exclusive to the U.S; it was international. In *[Menace to Empire](<https://www.ucpress.edu/book/9780520267480/menace-to-empire>),* Moon-Ho Jung details how Roosevelt’s foreign policy in the Philippines was shaped by anti-anarchist militarism. Writing, “Although the congressional hearings emanated from McKinley’s assassination and Roosevelt’s war against anarchism, debates over immigration could not but harken back to their anti-Asian roots.”[2]
+
+The antiradical and colonial origins of anti-Asian racism were very much a part of the suppression of anarchism in the name of empire. After all, anarchism had spread to East Asian countries like Korea, Japan, China, and more. Its embrace among oppressed people, especially colonized subjects, called into question the legitimacy of U.S. expansion. This became an opportunity for the U.S. state to use its opposition against whatever it labeled “anarchism” in order to carry out the political agenda of international policing and neocolonialism.
+
+It wasn’t just monarchies or capitalist states that targeted anarchists, but even state-socialist projects practiced this repression. Alexander Berkman and Emma Goldman observed as much firsthand. Goldman documented this in the U.S.S.R. in her manuscript titled *My Disillusionment in Russia*. She had offered to help the Bolshevik revolutionary Vladimir Lenin in support of the Russian cause. But Lenin told [her](<https://www.marxists.org/reference/archive/goldman/works/1920s/disillusionment/ch05.htm>), “There can be no free speech in a revolutionary period.” Anarchism was positioned as a common poison to states that had to be rooted out to preserve the infrastructure granted to ruling classes. Since the state is their machinery, no matter what economic model they endorse, they can *always* use the state to maintain power. At the core, what’s so dangerous is the idea that people would challenge the capitalist world order permitted through the nation-state form.
+
+The killing of a president represented a disastrous opportunity to push reformism. Just as post-9/11 was a moment for the state to reconfigure and reform itself in increasingly fascistic ways, so too was the post-Mckinley moment. The authoritarianism of the state cannot let a good tragedy go to waste. Perhaps this is why, in part, for the FBI anarchists were “the first modern-day terrorists.” This history birthed disastrous consequences and highlighted issues that remain unresolved for contemporary anarchists.
+
+When we assess the past and look at present conditions we can write new theories and live new praxis. Anti-state politics don’t operate according to global capitalist rules and that’s absolutely necessary. This is also why these politics scare governments, politicians, and their patriotic supporters so much. However, being daring enough to go against the capitalistic order of the world doesn’t mean every act will have revolutionary results. Of Czolgosz, Emma Goldman [said](<https://theanarchistlibrary.org/library/emma-goldman-the-tragedy-at-buffalo>), “What results the act of September 6 will have no one can say; one thing, however, is certain: he has wounded government in its most vital spot.” What did that wound reveal then and what does it say now? Though much has changed, the need to overcome what assassinations did not stop remains
+
+[1] Rauchway, Eric. *Murdering McKinley: The Making of Theodore Roosevelt’s America*. United Kingdom: Farrar, Straus and Giroux, 2007, 103.
+
+[2] Jung, Moon-Ho. *Menace to Empire: Anticolonial Solidarities and the Transpacific Origins of the US Security State*. United States: University of California Press, 2022, 52.
