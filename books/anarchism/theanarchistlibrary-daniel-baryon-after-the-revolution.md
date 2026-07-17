@@ -1,0 +1,22 @@
+---
+title: "After the Revolution"
+author: "Daniel Baryon"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/daniel-baryon-after-the-revolution"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Author script"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "daniel-baryon-after-the-revolution.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/daniel-baryon-after-the-revolution.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/daniel-baryon-after-the-revolution)
