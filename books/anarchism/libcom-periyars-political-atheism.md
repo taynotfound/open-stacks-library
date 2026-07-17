@@ -1,0 +1,82 @@
+---
+title: "Periyars Political Atheism"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/periyars-political-atheism"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The fight between New Atheism and religious extremism is futile, for both are rigid in their outlooks and blind to social injustices. Political atheism is a radical alternative rooted in a broader critique of hierarchical power. Karthick Ram Manoharan is faculty at National Law School of India Unive"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/periyars-political-atheism)
+
+The fight between New Atheism and religious extremism is futile, for both are rigid in their outlooks and blind to social injustices. Political atheism is a radical alternative rooted in a broader critique of hierarchical power.
+
+Karthick Ram Manoharan is faculty at National Law School of India University, Bengaluru. He was earlier Marie Sklodowska Curie Actions Individual Fellow at the University of Wolverhampton. He is the author of Periyar: A Study in Political Atheism (Orient BlackSwan 2022) and Frantz Fanon: Identity and Resistance (Orient BlackSwan 2019), and the co-editor of Rethinking Social Justice (Orient BlackSwan 2020).
+
+Political atheism is a conceptual challenge to political theology. It is a recognition of religion’s power to influence the state and the nation-state’s use of religion-like forms of mystification. Political atheism differs from New Atheism as it is not just concerned with rejecting God and religious bigotry but is connected to broader imaginations of socio-political justice. I take the position that the fight between New Atheism and religious extremism is a false conflict since both, besides being quite rigid in their outlooks, rarely consider addressing injustices in their own societies.
+
+As a concept rooted in challenging all forms of hierarchical power, political atheism can contribute to crucial debates on secularism today. I derive this concept from my engagement with the works of Periyar E.V. Ramasamy, a radical social reformer from South India and a rationalist who quite provocatively criticized religion. Recent times, however, have been quite dangerous for rationalists in South Asia.
+
+In the last ten years, four prominent rationalists in India were assassinated allegedly by Hindutva extremists. Gauri Lankesh, MM Kalburgi, Govind Pansare, and Narendra Dabholkar were from different backgrounds, but all four opposed religious extremism and shared a commitment to secularism. Lesser known was the murder of H. Farooq, a Periyarist in Tamil Nadu, allegedly by Islamists who resented his propagation of atheism. Earlier in 2010, a Professor in Kerala, TJ Joseph, had his hand chopped off for setting a question paper that was considered offensive by extremists affiliated to the Popular Front of India, an Islamist organization now banned in India. Murders of atheist bloggers in Bangladesh and those accused of blasphemy in Pakistan occur at an alarming frequency.
+
+Islamism has been debated in the West for a while now. Of late, Hindutva politics has also received coverage owing to its current dominant position in India. For a good part of post-independence Indian history, it was taken for granted that the country would be secular. This changed after the 2014 Indian general elections when the pro-Hindutva Bharatiya Janata Party (BJP) under the leadership of hardliner Narendra Modi came to power. In 2019, they were voted again to power with a comfortable majority.
+
+Observers have criticized increasing vigilantist attacks against religious minorities, leftists, liberals, and secularists in recent years. Controversial legal measures, such as the Citizenship Amendment Act passed by the parliament in 2019 and legislations attempting to restrict interfaith marriages in BJP-ruled states, have drawn censure. A more concerning development is the extent to which BJP impacted mainstream discourse. In their first tryst with power under AB Vajpayee in 1998, the BJP tried to prove they were the genuine secularists. Now, the opposition tries to prove that they are pro-Hindu.
+
+Under the BJP’s patronage, organizations of the Hindu Right, earlier concentrated in North India, have expanded to South Indian states. But Tamil Nadu is one state where they continue to struggle to find a foothold. In the 2014 general elections, the BJP alliance got two seats in Tamil Nadu, while the All India Anna Dravida Munnetra Kazhagam (AIADMK) won 37. In 2019, the Dravida Munnetra Kazhagam-led Secular Progressive Alliance won 38, leaving one for the AIADMK, which was now part of the BJP alliance.
+
+Since 1967, when the DMK of CN Annadurai won the state elections and ousted the Congress, Tamil Nadu has been under the rule of two major Dravidian parties, the DMK and the AIADMK. Both parties largely advocate welfarism, and some of their policy successes towards a mostly inclusive model of development have been highlighted in recent academic works like S. Narayan’s Dravidian Years (2018) and A. Kalaiyarasan and M. Vijayabaskar’s The Dravidian Model (2021).
+
+Placing these policy measures in a historical context, the authors also give considerable credit to the social reform movement led by Periyar E.V. Ramasamy from 1925 to 1973. The Self-Respect Movement, as it was popularly known, advocated for proportional representation of socio-economically deprived communities in public institutions, political empowerment of non-Brahmin castes, equal rights for women, a variant of socialism, and the abolition of casteism. Besides these, in his lifetime, Periyar gained considerable notoriety for his attacks on religion, especially Hinduism.
+
+However, as I have argued in my recent work Periyar: A Study in Political Atheism (2022), Periyar’s attacks on religion was not a reductive opposition to the spiritual but was strongly rooted in a broader critique of hierarchical power. It wasn’t just atheism, but a political atheism.
+
+To understand political atheism, one must understand what it is opposed to – for it is fundamentally an oppositional programme – namely political theology. The German political philosopher Carl Schmitt understood that crucial concepts in the modern state like order, security, war, peace etc were ‘secularized theological concepts’. They might appear secular, that is, distinct from or not influenced by religion, but an undercurrent of theology often informs them. For instance, Schmitt brilliantly observes how the sovereign power in the secular world determines what is the condition of exception, while its parallel in theology is the determination of what is evil. Just as theology cannot function without an understanding of evil, the state cannot function without an understanding of the exception.
+
+But much earlier in 1871, the Russian anarchist Mikhail Bakunin drew a somewhat similar parallel. In The Political Theology of Mazzini, Bakunin’s polemic against the Italian revolutionary Giuseppe Mazzini, he argued that religion, nationalism, statism shared a similar commitment to hierarchies, and revolutions that were dependent on these would not do away with oppression but only bring a new form of oppression. Bakunin’s anarchism could be called a political atheism.
+
+Indeed, some of Bakunin’s contemporaries and his predecessors in Europe also voiced a strong criticism of religion for being unscientific, irrational, and/or deceptive. Bakunin differed in that he saw similar mystifications at work in ideas of the state and nation. Anarchism’s relation to the state was akin to atheism’s relation to theology.
+
+Periyar, who came later, sought to make a critique of religion not just a matter of intellectual debate but a lively public affair. Periyar and his movement used public speeches, articles, satires, plays etc., to profane the sacred. In his time, conservative Hindus filed legal cases against him and his followers and tried to physically disrupt his meetings on some occasions. In contemporary times, many things he said and did are unimaginable.
+
+The Bakuninists actively sought to dismantle the state to establish a stateless socialism. Not all forms of anarchism seek to act to dismantle the state, even if it is seen as desirable. But all forms of anarchism view the state as oppressive, even if some might seek to work within the state apparatus for realist reasons. Atheism too is plural, but what unites atheists is a disbelief in supernatural entities. One can personally be an atheist, without campaigning for the same in public. Other atheists seek to confront religion through public criticism. Atheist regimes like that of Enver Hoxha of Albania sought to ban religion and promote atheism through the state.
+
+Then there are movements that challenge religion as a part of a wider social reform movement. Periyar’s Self-Respect Movement saw religion as intimately linked to various forms of oppression in the world in general, in India in particular, and he sought to explicitly criticize it. The difference between Periyar and atheists like Richard Dawkins or Christopher Hitchens is that Periyar’s atheism was located within a mass movement for social justice and was alert to the social and political problems of the day. Periyar did not seek to prove a scientific or rational point over God; he said at a few occasions that if God or religion could stand by the side of social justice and against oppression, he has no dispute against them. The fact they were not, and were often used by forces of oppression compelled him to oppose them.
+
+“I am a reformer. A true reformer must have no attachment to religion, language, nation or caste,” Periyar said (Periyar Kalanjiyam 22 2007: p.252). That Periyar was opposed to casteism and patriarchy is well known. He linked the oppression of women and the non-Brahmin castes to religion. As far as Hinduism was concerned, he saw the religion as privileging the Brahmin castes at the expense of the oppressed castes.
+
+His critique of religion was based on hyperliteral readings of some textual sources (MSS Pandian, Brahmin and Non-Brahmin, 2007, p. 192). Periyar saw the non-Brahmins of South India as ‘Sudras’, the lowest rank of people in the Hindu varna system. Below them were the ‘untouchables’, the outcastes, who suffered multiple forms of discrimination and deprivations. Periyar held the Hindu religion to be primarily responsible for the degraded position of the ‘Sudras’ and the ‘untouchables’ – in this, he shared much common ground with other anti-caste thinkers like Jotirao Phule and B.R. Ambedkar.
+
+To a great extent, colonial modernity provided the horizon for these thinkers to operate, but they also used native sources to challenge the mainstream iterations of the Hindu religion. For instance, the writings of the Madras Secular Society, active from 1878-1888 and who were in many senses the intellectual predecessors to Periyar, demonstrate considerable familiarity with Western and native texts in favor of rationalism. The thinkers of this group associated Hinduism with casteism, and quite a few propagated atheism.
+
+Periyar, who came later, sought to make a critique of religion not just a matter of intellectual debate but a lively public affair. Periyar and his movement used public speeches, articles, satires, plays etc., to profane the sacred. In his time, conservative Hindus filed legal cases against him and his followers and tried to physically disrupt his meetings on some occasions. In contemporary times, many things he said and did are unimaginable.
+
+Given the problem of caste and women’s oppression, Periyar did not believe that the Hindu religion could be reformed. He militantly advocated for the political, economic, and sexual freedom of women, but these could not be offered by any religion. For the problem of caste, there are some occasions where he advocates conversion to Islam and many where he praises the virtues of Buddhism. In fact, one could say that Buddhism is the religion he criticized the least and spoke the most in favor of, mainly because he saw Buddhism as a philosophy of reason. On Islam, Periyar, for a period, viewed it as a religion that was strong enough to physically confront casteism.
+
+However, he was also keen to address the subjugation of Muslim women and criticized how their choices were restricted by male dominance. The ’Muslim leaders’ that he found most appealing were not religious Maulanas but Kemal Ataturk and Gamal Abdel Nasser, whom he saw as radical reformers in conservative societies. Overall, Periyar believed that following no religion was better than following the best religion. More importantly, even the best religion had to be subject to critical scrutiny.
+
+It can be easily derived from Periyar’s criticisms of Hinduism that he opposed Hindu nationalism as well. But Periyar was also suspicious of secular forms of nationalism, be it Indian or Tamil nationalism. To him, nationalism was another form of religious mystification. On Indian nationalism, he saw it as a derivative of the Hindu imaginary, of how mainstream secularism cloaked upper-caste privilege and the dominance of Hinduism.
+
+On Tamil nationalism, he criticized it for elevating language to the status of divinity and for being unwilling to confront caste and masculinist prejudices within the Tamil tradition. All nationalisms valorize the past, or specifically, a particular reading of the past. Periyar found such pasts to be, in his own words, like an onion – as one peels away layers, nothing remains!
+
+In what way does Periyar speak to the world today? Though religion, masculinism, and casteism are problems that Periyar saw as interlinked and to be done away with, most people in Tamil Nadu are religious; misogyny is rampant in public culture, and different forms of caste conflicts occur. But to dismiss Periyarism citing these examples of the persistence of problems would be as reductive as dismissing Marxism citing the success of capitalism.
+
+These are deep-rooted problems, and it will take a considerable period of measured actions before changes can be realized. What is significant about the political culture in Tamil Nadu is the extent to which chauvinisms – religious or linguistic – have been contained by the mainstream Dravidian parties. The Self-Respect Movement’s critique of these forms of chauvinism created a space for public debate on controversial topics. Periyar was and continues to be accused of blasphemy, sedition, hate speech, and offensive speech.
+
+Laws and mores against blasphemy or sedition are almost always exercises of power. The recent assassination attempt on Salman Rushdie showed once again how deadly offended sentiments can be, but realistically, one cannot wish away people taking offense. A controversial speech can be offensive without being a hate speech – take Malcolm X’s famous Ballot or the Bullet Talk, for instance. Because those fighting for social justice often strongly believe they must offend and disturb the peace.
+
+Hate speech is a different category. It is considered a calculated usage of words to instigate violence against weaker sections of society. In informed debates on hate speech, offensive, even incendiary, language against privileged sections or state power does not constitute hate speech. But those concerned about building a wide solidarity can possibly express concern if such offensive speech is practically useful. Equally so, one should uncompromisingly challenge the use of violence to silence speech that is considered offensive. Periyar’s political atheism indeed tests the limit of free speech because Periyar’s underlying sentiment is an expansive idea of freedom.
+
+References: Kalaiyarasan, A. and M. Vijayabaskar. The Dravidian Model: Interpreting the Political Economy of Tamil Nadu. Cambridge: Cambridge University Press, 2021. Manoharan, Karthick Ram. Periyar: A Study in Political Atheism. Hyderabad, Orient BlackSwan, 2022. Narayan, S. Dravidian Years: Politics and Welfare in Tamil Nadu. New Delhi: Oxford University Press, 2018. Pandian, M.S.S. Brahmin and Non-Brahmin: Genealogies of the Tamil Political Present. Ranikhet: Permanent Black, 2007. Ramasamy, Periyar E.V. Periyar Kalanjiyam 22: Pennurimai Pagam 3. Chennai: Periyar Suyamariyadhai Prachara Niruvanam, 2007.
+
+Original Source: https://shuddhashar.com/periyars-political-atheism/
