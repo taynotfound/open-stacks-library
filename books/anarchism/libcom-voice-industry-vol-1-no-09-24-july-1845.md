@@ -1,0 +1,37 @@
+---
+title: "Voice Industry Vol 1 No 09 24 July 1845"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/voice-industry-vol-1-no-09-24-july-1845"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The 24 July 1845 issue of the Voice of Industry (Vol. 1 No. 9)."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Voice of Industry - Vol 1 No 9 - 24 July 1845.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/2023-08/Voice of Industry - Vol 1 No 9 - 24 July 1845.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/voice-industry-vol-1-no-09-24-july-1845)
+
+The 24 July 1845 issue of the Voice of Industry (Vol. 1 No. 9).
+
+Now in the article before us it will be noticed that the writer has left his first position and considerably modified his charge; in as much as he uses the term substance instead of a positive declaration that this was the precise language used by the Lowell delegate—of course taking the responsibility of being his own interpreter, and construing it to suit his own peculiar case. We deny the charge of endorsing all of the above assertions; and had H. W. exercised a liberal and Christian spirit while [writing] his reply, he would not have thus falsely represented our remarks. We did not endorse the statement that, "there was ten times more slavery in Lowell than on the Southern plantations," but asserted that we believed there was slavery both at Lowell and on the Southern plantations, signifying no disposition whatever to uphold either, or to measure their difference, but a sincere wish to do away with both. The operatives in our mills are not slaves in the same sense that we understand Southern slavery, they are nominally free, but that they are to a great degree slaves, together with a large portion of the working people of the North is undeniable—slaves of necessity and want—slaves to capital, and obliged to obey its dictates, or suffer; and it is our honest conviction that a portion of our northern laborers suffer more mental anxiety and enjoy less annual happiness, than the favored class among the slave population of the South. Not that we would entertain even one apology for Southern slavery—God forbid—we are opposed to slavery in every and all forms, and while we sympathize for one portion of our brothers in bondage, we would not be neglectful of others who toil and suffer under the garb of freedom. We did not endorse the sentiment, "that the first thing to be done to elevate the workingmen was to collect and burn the Sunday School books, which were poisoning the minds of the young," but promptly denied it, stating that we, or the New England Workingmen's Association, cherished no such desire or thought, though it was stated by a delegate in that Convention. But we have since learned from those present during the entire session, that no such sentiment was offered not even in "substance." In our previous remarks upon this point we merely showed up the absurdity of resorting to such means to awaken the opposition of the religious community against the workingmen's cause, and that it was a mere subterfuge without a shadow of reason or good sense, and that Sunday School books were as various and conflicting as sects and doctrines in the world.
+
+The other "infamous sentiments" we "adopted and defended" without any "vexation" or "disturbance," because we believed them to be truths which interested the workingmen of the country. And what are these "infamous sentiments"? Simply, that the church and capital were to a great degree united in supporting systems to the injury of the workingmen—that commerce, manufacturing and foreign emigration, as they now exist, are in opposition to their true interests—that the manufacturing system of Lowell, as now conducted, is not conducive to the virtue and chastity of its population.
+
+We endorsed and defended openly and boldly the above sentiments and are willing to have our views go abroad, believing that the workingmen of New England, who are free to think and act, will acknowledge with us that they are truths, however "infamous" they may appear to the tender sensibilities of our Natick friend, the Lowell Journal and all those who are engaged in rearing and nourishing the feudal systems of America, in opposition to the industrial classes. As the Journal correspondent has left these sentiments entirely uncontroverted we shall not continue their consideration further; and for want of room shall defer the remainder of his article, which consists of a train of unfounded assertions and grave declarations false, and inconsistent, until next week, when we design giving it another notice.
+
+"Poor but Honest."—The newspapers, and other equally great authorities, make use of this phrase in biographical notices—"He was born of poor but honest parents"! Poor but honest! That is to infer that the parents ought to have been dishonest because they were poor; but that in the particular case they were honest [in] spite of their poverty. This common phrase is a direct insult to the condition of ninety-nine men out of the hundred, and an indignity to human nature. There might be, considering the manner in which many fortunes are acquired, some little shade of meaning in saying of the heir of fortune—"He was born of rich but honest parents"!—but the "poor but honest" phrase is atrocious.
+
+It is not necessary to recapitulate the horrors I have witnessed in the regions of poverty. It is said that the eras of pestilence and famine are passed, but so will not those say who have visited the dwellings of the operatives of our great manufacturing towns, when the markets are glutted, and the mills and manufactories are closed. Pestilence still rages fiercely as ever, in the form of typhus, engendered by want. In the mission I have called myself to, I have stood upon the mud floor, over the corpse of the mother and the newborn child—both the victims of want. I have seen a man (God's image) stretched on straw, wrapped only in a mat, resign his breath, from starvation, in the prime of age. I have entered on a sultry Summer's night, a small house, situated on the banks of a common sewer, wherein one hundred and twenty-seven human beings, of both sexes and all ages, where indiscriminately crowded. I have been in the pestilential hovels of our great manufacturing cities, where life was corrupted in every possible mode from the malaria of the sewer to the poison of the gin bottle. I have been in sheds of the peasant, worse than the hovel of the Russian, where eight squalid, dirty, boorish creatures were to be kept alive by eight shillings per week irregularly paid. I have seen the humanities of life desecrated in every way. I have seen father snatch the bread from the child, and the mother offer the gin bottle for the breast. I have seen too, generous sacrifices and tender considerations, to which the boasted chivalries of Sydney and Edward were childish ostentation. I have found wrong so exalted, and right so debased—I have seen and known of so much misery, that the faith in good has shivered within me.
+
+A gentleman left Lowell the 16th of May, went to England, remained there about a week, went to Scotland, and had a machine built, remained there ten days, learned how to work the machine, and got back to Lowell on the 3rd of July. 3
