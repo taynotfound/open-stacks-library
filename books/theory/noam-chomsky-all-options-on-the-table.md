@@ -1,0 +1,79 @@
+---
+title: "All options on the table? - Noam Chomsky"
+author: "Noam Chomsky"
+date: "August 6, 2008"
+category: "theory"
+source: "https://theanarchistlibrary.org/library/noam-chomsky-all-options-on-the-table"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "Nuclear threats and counter-threats are a subtext of our times, steadily, it seems, becoming more insistent. The July meeting in Geneva between Iran and six major world powers on Iran’s nuclear programme ended with no progress. The Bush adm"
+tags:
+  - "theory"
+  - "Iran"
+  - "nuclear"
+  - "pdf"
+files:
+  - name: "All options on the table?.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-noam-chomsky-all-options-on-the-table.pdf"
+    hosted: true
+  - name: "All options on the table?.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-noam-chomsky-all-options-on-the-table.epub"
+    hosted: true
+---
+
+# All options on the table?
+
+*by Noam Chomsky*
+
+> Published in the Khaleej Times.
+
+Nuclear threats and counter-threats are a subtext of our times, steadily, it seems, becoming more insistent. The July meeting in Geneva between Iran and six major world powers on Iran’s nuclear programme ended with no progress.
+
+The Bush administration was widely praised for having shifted to a more conciliatory stand — namely, by allowing a US diplomat to attend without participating — while Iran was castigated for failing to negotiate seriously. And the powers warned Iran that it would soon face more severe sanctions unless it terminated its uranium enrichment programs.
+
+Meanwhile India was applauded for agreeing to a nuclear pact with the United States that would effectively authorise its development of nuclear weapons outside the bounds of the Nonproliferation Treaty (NPT), with US assistance in nuclear programmes along with other rewards — in particular, to US firms eager to enter the Indian market for nuclear and weapons development, and ample payoffs to parliamentarians who signed on, a tribute to India’s flourishing democracy.
+
+Michael Krepon, co-founder of the Stimson Center and a leading specialist on nuclear threats, observed reasonably that Washington’s decision to “place profits ahead of nonproliferation” could mean the end of the NPT if others follow its lead, sharply increasing the dangers all around.
+
+During the same period, Israel, another state that has defied the NPT with Western support, conducted large-scale military manoeuvres in the eastern Mediterranean that were understood to be preparation for bombing Iran’s nuclear facilities.
+
+In a New York Times Op-Ed article, “Using Bombs to Stave Off War,” the prominent Israeli historian Benny Morris wrote that Iran’s leaders should welcome Israeli bombing with conventional weapons, because “the alternative is an Iran turned into a nuclear wasteland.”
+
+Purposely or not, Morris is reviving an old theme. During the 1950s, leading figures of Israel’s governing Labor Party advised in internal discussion that “we will go crazy (“nishtagea”) if crossed, threatening to bring down the Temple Walls in the manner of the first “suicide bomber,” the revered Samson, who killed more philistines by his suicide than in his entire lifetime.
+
+Israel’s nuclear weapons may well harm its own security, as Israeli strategic analyst Zeev Maoz persuasively argues. But security is often not a high priority for state planners, as history makes clear. And the “Samson complex,” as Israeli commentators have called it, can be flaunted to warn the master to carry out the desired task of smashing Iran, or else we’ll inflame the region and maybe the world.
+
+The “Samson complex,” reinforced by the doctrine that “the whole world is against us,” cannot be lightly ignored. Shortly after the 1982 invasion of Lebanon, which left some 15–20,000 killed in an unprovoked effort to secure Israel’s control of the occupied territories, Aryeh Eliav, one of Israel’s best-known doves, wrote that the attitude of “those who brought the ‘Samson complex’ here, according to which we shall kill and bury all the Gentiles around us while we ourselves shall die with them,” is a form of “insanity” that was then all too prevalent, and still is.
+
+US military analysts have recognised that, as Army Lt. Col. Warner Farr wrote in 1999, one “purpose of Israeli nuclear weapons, not often stated, but obvious, is their ‘use’ on the United States,” presumably to ensure consistent U.S. support for Israeli policies — or else.
+
+Others see further dangers. Gen. Lee Butler, former commander-in-chief of the US Strategic Command, observed in 1999 that “it is dangerous in the extreme that in the cauldron of animosities that we call the Middle East, one nation has armed itself, ostensibly, with stockpiles of nuclear weapons, perhaps numbering in the hundreds, and that inspires other nations to do so.” This fact is hardly irrelevant to concerns about Iran’s nuclear programmes, but is off the agenda.
+
+Also off the agenda is Article 2 of the UN Charter, which bars the threat of force in international affairs. Both US political parties insistently proclaim their criminality, declaring that “all options are on the table” with regard to Iran’s nuclear programmes.
+
+Some go beyond, like John McCain, joking about what fun it would be to bomb Iran and to kill Iranians, though the humour may be lost on the “unpeople” of the world, to borrow the term used by British historian Mark Curtis for those who do not merit the attention of the privileged and powerful.
+
+Barack Obama declares that he would do “everything in my power” to prevent Iran from gaining the capacity to produce nuclear weapons. The unpeople surely understand that launching a nuclear war would be “in his power”.
+
+The chorus of denunciations of the New Hitlers in Teheran and the threat they pose to survival has been marred by a few voices from the back rooms. Former Mossad Chief Ephraim Halevy recently warned that an Israeli attack on Iran “could have an impact on us for the next 100 years.”
+
+An unnamed former senior Mossad official added, “Iran’s achievement is creating an image of itself as a scary superpower when it’s really a paper tiger” — which is not quite accurate: The achievement should be credited to US-Israeli propaganda.
+
+One of the participants in the July meetings was Egyptian Foreign Minister Ahmed Aboul Gheit, who outlined “the Arab position”: “to work toward a political and diplomatic settlement under which Iran will maintain the right to use nuclear energy for peaceful purposes” but without nuclear weapons.
+
+The “Arab position” is that of most Iranians, along with other unpeople. On July 30, the 120-member Nonaligned Movement reiterated its previous endorsement of Iran’s right to enrich uranium in accord with the NPT.
+
+Joining the unpeople is the large majority of Americans, according to polls. The American unpeople not only endorse Iran’s right to enrich uranium for peaceful purposes but also support the “Arab position” calling for a nuclear-weapons-free-zone in the entire region, a step that would sharply reduce major threats, but is also off the agenda of the powerful; unmentionable in electoral campaigns, for example.
+
+Benny Morris assures us that “Every intelligence agency in the world believes the Iranian programme is geared toward making weapons.” As is well-known, the US National Intelligence Estimate of November 2007 judged “with high confidence that in fall 2003, Teheran halted its nuclear weapons programme.” It is doubtful, to say the least, that the intelligence agencies of every country of the NAM disagree.
+
+Morris is presumably reporting information from an Israeli intelligence source — which generalizes to “every intelligence agency” by the same logic that instructs us that Iran is defying “the world” by seeking to enrich uranium: the world apart from its unpeople.
+
+There are rumblings in radical nationalist (so-called “neocon”) circles that if Barack Obama wins the election, Bush-Cheney should bomb Iran, since the threat of Iran is too great to be left in the hands of a wimpish Democrat. Reports also have surfaced — recently from Seymour Hersh in The New Yorker — on US “covert operations” in Iran, otherwise known as international terrorism.
+
+In June, Congress came close to passing a resolution (H. Con. Res. 362), strongly supported by the Israeli lobby, virtually calling for a blockade of Iran — an act of war, that could have set off the conflagration that is greatly feared in the region and around the world. Pressures from the anti-war movement appear to have beaten back this particular effort, according to Mark Weisbrot at Alternet.org, but others are likely to follow.
+
+The government of Iran merits severe condemnation on many counts, but the Iranian threat remains a desperate construction of those who arrogate to themselves the right to rule the world, and consider any impediment to their just rule to be criminal aggression. That is the primary threat that should concern us, as it concerns saner minds in the West, and the unpeople of the rest of the world.
