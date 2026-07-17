@@ -54,12 +54,12 @@ jobs:
         run: |
           git config user.name "taynotfound"
           git config user.email "marztayron@gmail.com"
-          if git diff --quiet -- index.json; then
+          if git diff --quiet -- index.json feed.xml opds.xml search-index.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "index.json unchanged, nothing to commit"
           else
-            git add index.json
-            git commit -m "chore: rebuild index.json"
+            git add index.json feed.xml opds.xml search-index.json
+            git commit -m "chore: rebuild index.json + feed/opds/search"
             # another [new] batch may have landed while we were building;
             # rebase our index commit on top, preferring our freshly built index.json
             for attempt in 1 2 3; do
