@@ -73,6 +73,30 @@ def slugify(s):
     return re.sub(r'^-|-$', '', s)[:80]
 
 
+def human_size(n):
+    for unit in ("B", "KB", "MB", "GB", "TB"):
+        if n < 1024 or unit == "TB":
+            return (f"{n:.0f} {unit}" if unit == "B" else f"{n:.1f} {unit}")
+        n /= 1024.0
+
+
+def file_size(f):
+    """Bytes on disk for a hosted file, matched by the basename of its URL
+    (the URL points at files/<realname>; the `name` field is only a label)."""
+    from urllib.parse import unquote
+    url = f.get("url", "")
+    name = unquote(url.rsplit("/", 1)[-1]) if url else (f.get("name") or "")
+    if not name:
+        return 0
+    for cand in (os.path.join(ROOT, "files", name),
+                 os.path.join(ROOT, "files", "img", name)):
+        try:
+            return os.path.getsize(cand)
+        except OSError:
+            continue
+    return 0
+
+
 out = []
 for f in md_files:
     txt = open(f, encoding="utf-8").read()
@@ -90,6 +114,10 @@ for f in md_files:
     # just a short editorial blurb + source link, NOT an archived full copy.
     linked_only = bool(re.search(r'true', meta.get("linked_only", ""), re.I))
     has_body = len(body) > 40
+    # Attach byte sizes to hosted files (so the frontend can show "12.4 MB").
+    for fl in meta["files"]:
+        if fl.get("hosted"):
+            fl["size"] = file_size(fl)
     hosted_files = [x for x in meta["files"] if x.get("hosted")]
     if linked_only:
         state = "none"
@@ -123,5 +151,8 @@ with open(ROOT + "/index.json", "w", encoding="utf-8") as fh:
     json.dump(out, fh, ensure_ascii=False, separators=(",", ":"))
 
 sz = os.path.getsize(ROOT + "/index.json")
+total_hosted_bytes = sum(fl.get("size", 0) for e in out for fl in e["files"] if fl.get("hosted"))
+n_hosted = sum(1 for e in out for fl in e["files"] if fl.get("hosted"))
 print(f"books indexed: {len(out)}")
 print(f"index.json size: {sz/1e6:.2f} MB")
+print(f"self-hosted files: {n_hosted} · {human_size(total_hosted_bytes)}")
