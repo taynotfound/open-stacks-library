@@ -32,12 +32,20 @@ jobs:
       - name: Rebuild index.json
         id: build
         run: |
+          # item count from the previously committed index.json (before this rebuild)
+          PREV=$(git show HEAD:index.json 2>/dev/null | jq 'length' 2>/dev/null || echo 0)
+          [ -z "$PREV" ] && PREV=0
           python build_index.py > /tmp/buildout.txt 2>&1 || { cat /tmp/buildout.txt; exit 1; }
           cat /tmp/buildout.txt
           COUNT=$(grep -oP 'books indexed:\s*\K[0-9]+' /tmp/buildout.txt | head -1)
           SIZE=$(grep -oP 'index.json size:\s*\K[0-9.]+ MB' /tmp/buildout.txt | head -1)
+          # fall back to counting the freshly built file if the log line changes
+          [ -z "$COUNT" ] && COUNT=$(jq 'length' index.json 2>/dev/null)
+          DELTA=$(( ${COUNT:-0} - ${PREV:-0} ))
           echo "count=${COUNT:-?}" >> "$GITHUB_OUTPUT"
           echo "size=${SIZE:-?}" >> "$GITHUB_OUTPUT"
+          echo "prev=${PREV}" >> "$GITHUB_OUTPUT"
+          echo "delta=${DELTA}" >> "$GITHUB_OUTPUT"
 
       - name: Commit index.json if changed
         id: commit
@@ -60,9 +68,13 @@ jobs:
           WEBHOOK: ${{ secrets.OSLOG_DISCORD_WEBHOOK }}
         run: |
           if [ "${{ job.status }}" = "success" ]; then
-            if [ "${{ steps.commit.outputs.changed }}" = "true" ]; then
+            DELTA="${{ steps.build.outputs.delta }}"
+            if [ "${DELTA:-0}" -gt 0 ]; then
               EMOJI="📚"; TITLE="index rebuilt"
-              DESC="**${{ steps.build.outputs.count }}** items · ${{ steps.build.outputs.size }} · pushed"
+              DESC="**${{ steps.build.outputs.count }}** items (+${DELTA}) · ${{ steps.build.outputs.size }}"
+            elif [ "${DELTA:-0}" -lt 0 ]; then
+              EMOJI="📚"; TITLE="index rebuilt"
+              DESC="**${{ steps.build.outputs.count }}** items (${DELTA}) · ${{ steps.build.outputs.size }}"
             else
               EMOJI="✅"; TITLE="index checked"
               DESC="**${{ steps.build.outputs.count }}** items · no change"
