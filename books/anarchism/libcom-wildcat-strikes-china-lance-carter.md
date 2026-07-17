@@ -1,0 +1,52 @@
+---
+title: "Wildcat Strikes China Lance Carter"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/wildcat-strikes-china-lance-carter"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Insurgent Notes #1, June 2010."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/wildcat-strikes-china-lance-carter)
+
+The wildcat strike at the Nanhai Honda factory which formally ended on June 4th with a partial victory for workers, has subsequently inspired two other Honda factories in the Pearl River Delta to go on strike. In addition, workers from several Taiwanese-owned factories have adopted similar tactics, holding a sit-in in Jiangsu and blocking roads in Shenzhen .
+
+The initial Honda strike began on May 17th. It took place in a transmissions factory in Foshan , Guangdong. The strike lasted over two weeks and received considerable coverage in mainland Chinese newspapers. At its height, around 1,900 workers (almost the entire factory) walked off the job. Because the Nanhai factory is responsible for making car transmissions, the strike eventually stopped production at four other Honda assembly plants. 1 In total, Honda’s losses amounted to 2,500 cars per day. 2
+
+Over the two week period of unrest Honda presented four different offers to the workers, all of which were rejected. The offers were designed to divide the more skilled interns from the bulk of the regular workers by offering the former more. Interns make up one third of the Nanhai factory workforce. Because interns do not sign contracts, receive no insurance plan, and are not protected under Chinese labor laws, their grievances were particularly acute. However, Honda interns are young—many having not yet graduated from school—and so were seen by management as being more susceptible to persuasion. At one point student representatives from the intern’s schools were sent to the factory to convince interns to return to work. 3 In the end, all attempts to divide workers failed.
+
+On May 26th, after management’s second offer was rejected, workers banded together to come up with a list of coherent demands which reflected their collective interests. Thus, on the following day of May 27th workers presented Honda with the following demands:
+
+Workers at the Nanhai factory organized themselves independently of the local trade union. Email and text messaging seem to have played an important role in facilitating communication. On several occasions over the two week period, workers decided to elect representatives to negotiate with management. This representative structure seems to have developed naturally out of the needs of the struggle and was not originally connected to any specific political goals. However, over the course of the struggle many workers began to demand a restructuring of the local unions along such democratic lines. Later, workers from a different Honda factory in Zhongshan, Guangdong who began a subsequent strike on June 9th briefly reasserted this goal as one of their primary demands. 5
+
+The official unions in China (All China Federation of Trade Unions) are state-controlled. In the Nanhai factory strike, the unions played only a “mediating” role and refused to openly support the workers. On May 31st, members of the local Shishan Town trade union even physically attacked a group of forty workers, causing seven or eight serious injuries. 6 However, the incident seems to have instilled more solidarity among workers than fear. The following day, the local unions issued a public “apology” to the workers in which they tried to play down responsibility for the assault. 7
+
+The Nanhai strike formally ended on June 4th. A settlement was reached between the worker-elected negotiating committee and the General Manager of Honda Motors in China, Zeng Qinghong. Worker’s won a partial victory. Honda agreed to raise all employee wages by 500 rmb per month (around 33%), as well as agreeing to regular cash bonuses and other demands. 8 The issue of restructuring the local union was not reported on. Towards the end of the strike the sixteen-member worker’s negotiating committee issued two letters to the public which were published by the Chinese media amidst much fanfare.
+
+Media coverage of the initial Honda strike was surprisingly broad and in-depth. Although, the state-censured media received orders to stop reporting on any labor disputes as early as May 28th, 9 coverage by local Guangdong media continued well up until June 4th. However, since the conclusion of the Nanhai strike, mainland media has remained completely silent in regard to the subsequent wave of wildcat strikes that have rocked other parts of China. This tacit approval of coverage of the initial Nanhai strike seems to reflect a desire on the part of the CCP to see domestic consumption rise. On June 4th, coinciding with the resolution of the Nanhai strike, the Beijing Municipal Government announced it was raising Beijing’s minimum wage by 20%. 10 Later on June 9th, the Shenzhen government followed suit and announced a minimum wage increase of 10%. 11 Since January, a total of fourteen Chinese provinces have declared 10%-20% increases in the minimum wage. 12
+
+As the Nanhai strike was coming to a close, another dispute erupted on the other side of the country. On June 4th, workers from the Taiwanese-owned (KOK International) rubber factory outside Shanghai began a sit-in to protest low pay and intolerable working conditions. 13 Workers complained of being subjected to toxic fumes and having to labor in temperatures well over 100 degrees fahrenheit. From the beginning, the strike received almost unanimous support from workers. 14 Though the sit-in started on June 4th, reports did not reach Western media until June 7th when striking workers clashed with police. Around fifty workers were injured and dozens arrested in the clash. 15
+
+Back in Guangdong, a third incident broke out in Shenzhen. On June 6th, between 300 and 500 workers from a Merry Electronics factory—a Taiwanese audio components manufacturer—staged a walkout and blocked roads for the better part of a day. 16 The company immediately responded by announcing a significant wage increase, though a spokesperson denied that the increase had any relation to the strike.
+
+As the week proceeded, two more strikes erupted in Honda factories based in Guangdong.
+
+The second, like the initial, was in Foshan. On June 7th, workers from Honda’s Fengfu exhaust system factory folded their arms and demanded the same concessions granted the Nanhai workers. Around 250 workers, out of a total about 500, joined the strike. 17 Production at the Fengfu factory had not been affected by the events of the previous two weeks, but workers had learned about the Nanhai strike through media reports. The Fengfu strike, though only lasting three days, forced production to stop at two of Honda’s four assembly plants—which had just returned to work after being paralyzed by the initial strike. 18 An agreement was finally reached on the evening of June 9th which granted significant concessions to the workers.
+
+Earlier in the day on June 9th, a third Honda strike broke out in Xiaolan, Zhongshan. The Xiaolan Honda Lock factory is responsible for supplying key sets, door locks, side mirrors, and other components for Honda automobiles. The strike apparently began when several employees were beaten up by security guards for allegedly planning an industrial action. 19 Though demanding wage increases similar to the Nanhai and Fengfu workers, it is this third strike at Honda Lock that seems to have briefly taken on more radical dimensions. According to the New York Times, in addition to an 89% wage increase, Honda Lock workers at one point also demanded the right to form an independent labor union based on elected representation. 20 Workers elected a ten-member “factorywide council” to enter negotiations with management on the first day of the strike. Though Honda agreed to consider the worker’s wage demands, it said it had no authority to approve an independent union. “Management said that a government labor board would decide on the workers’ requests by June 19, and asked that the workers return to their jobs in the meantime. 21
+
+On June 11th, around 500, out of a total of 1,500 workers, took to the streets outside the Honda Lock factory to demonstrate. 22 Workers encountered several lines of riot police who sealed off the street, surrounding the protesters for nearly two hours. In the days following the demonstration, workers held several rallies outside the plant while waiting for management to present an acceptable offer. However, Honda Lock appears to be taking a hard-line. Because the Honda Lock factory relies on mostly unskilled labor, management has repeatedly insulted workers by offering a wage increase of 100 rmb and attempting to bring in strike breakers. 23 As of June 17th, the vast majority of workers remain on strike while about 100 have returned to work. 24
+
+Beijing has maintained a strict silence over the past month. However, on June 15th, Premier Wen Jiabao responded subtly by giving a speech to a group of construction workers on the need for better labor conditions for migrant workers. 25 The central government has refused to get directly involved and seems conflicted over how to handle the strikes. Though no doubt welcoming higher wages as a boost to internal consumption, the CCP does not want to see workers become too emboldened. Calls for autonomous and democratic trade unions, if granted only at the local level, would have far-reaching consequences. But workers seem to have backed away from this demand. No doubt what is of most significance in these strikes is the worker-elected negotiating committees that have sprung up in place of the unions. The Chinese media refereed to the initial Nanhai factory committee as an independent union. However, these committees clearly lack the bureaucratic character of the ACFTU. If workers continue to demand a restructuring of the unions, will the committees we have seen spring up over the past month serve as a model for this restructuring? If so, this would have truly radical implications for the Chinese working class.
+
+Original article archived at https://web.archive.org/web/20250318071906/http://insurgentnotes.com/2010/06/wildcat-strikes-in-china/
