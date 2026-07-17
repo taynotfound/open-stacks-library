@@ -1,0 +1,125 @@
+---
+title: "Class Struggle In The Green Mountains: The Vermont Workers' Center - Lady/Green Mountain Anarchist Collective"
+author: "Lady/Green Mountain Anarchist Collective"
+date: "2003"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/lady-green-mountain-anarchist-collective-class-struggle-in-the-green-mountains-the-vermont-work"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "Vermont, 2003 -The Vermont Workers' Center (VWC) opened the doors to its first office space in the spring of 1998. The mission of the center reads: \"We seek an economically just and democratic Vermont in which all residents have living wage"
+tags:
+  - "anarchism"
+  - "Vermont Workers Center"
+  - "Labor Movement"
+  - "Green Mountain Anarchist Collective"
+  - "NEFAC"
+  - "Unions"
+  - "Organized Labor"
+  - "pdf"
+files:
+  - name: "Class Struggle In The Green Mountains: The Vermont Workers' Center.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-lady-green-mountain-anarchist-collective-class-struggle-in-the-green-mountains-the-vermont-work.pdf"
+    hosted: true
+  - name: "Class Struggle In The Green Mountains: The Vermont Workers' Center.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-lady-green-mountain-anarchist-collective-class-struggle-in-the-green-mountains-the-vermont-work.epub"
+    hosted: true
+---
+
+# Class Struggle In The Green Mountains: The Vermont Workers' Center
+
+*by Lady/Green Mountain Anarchist Collective*
+
+> Originally published in the Northeastern Anarchist, 2003.
+
+*Vermont, 2003 -*The Vermont Workers' Center (VWC) opened the doors to its first office space in the spring of 1998. The mission of the center reads: "We seek an economically just and democratic Vermont in which all residents have living wages, decent health care, childcare, housing and transportation. We work to build a democratic, diverse movement of working Vermonters that is locally focused and coordinated on a statewide basis. We work with organized labor in moving towards economic justice and in strengthening the right to organize. We are committed to taking action on the full range of issues that concern working people, and to building alliances nationally and internationally." The VWC seeks to build an effective and meaningful labor movement within the particularities of Vermont.
+
+  
+
+The overarching goal of the VWC is to empower those persons within the working class who are normally shut out of the political and economic systems that, time and time again, pursue policies that do not uplift the worker, but rather push them closer to the precipice of poverty and ignorance. To quote from their outreach pamphlet: "By organizing public hearings, forums, publicizing people's stories, and taking part in direct action, we support workers throughout the state who are trying to improve their wages, benefits, rights on the job, working conditions, and their communities."
+
+  
+
+This is not to say that the sole focus of the VWC is centered on the piecemeal issues that are perpetuated by the basic internal dualities of capitalism (which can be seen as the idea that the rich get richer, and the poor get poorer). In short, the VWC is not simply running around sticking their fingers in leaky dams. The center also makes the connection to, and is actively working towards, long term, more comprehensive solutions to the problems of capitalism and the oppressive contradictions between worker and owner, labor and management, the working individual and the "boss," the voter and politician.
+
+  
+
+Roots of the Vermont Workers Center
+
+The founding membership of the VWC came from a community group formed in 1996 called Central Vermonters for a Livable Wage. This group was made up of welfare recipients, activists, labor union people, community members, union staff, high school students, and religious affiliated people. Additionally, one-quarter of the groups' membership was made up of members of the #10 Anarchist Collective (formerly Love & Rage members). Central Vermonters for a Livable Wage did solidarity work with labor struggles, and brought people together to talk about economic justice. Tanya Waters, a former member of the #10 Anarchist Collective and founding member of the VWC recalls: "Many of the members began talking about raising the minimum wage, which meant legislative work. We were effective in earning another $1.00 an hour, but we wanted to do work that was more focused around working with the community. Whereas, legislative work was a disempowering experience."[1]
+
+  
+
+The first projects of the VWC were a statewide workers' rights handbook and hotline (which still functions today), solidarity with Bennington Potters, Capitol City Press in Barre and Berlin, Trans-ed, anti-privatization with janitors in Barre, and work on raising the minimum wage. The VWC also gave presentations on workers' rights at adult ed programs, churches, union shops, several high schools, and a few colleges.
+
+  
+
+The creation of the VWC was an evolution of three years of work and tactics that originated as an issue organization (Central Vermonters for a Livable Wage). Issue organizations are harder to keep together than a workers' center that organizes around several of the concerns working class people have. A workers' center is an organization that people will self-identify with, a place where people can find others who share similar experiences. It serves as a place with resources that the community can access, such as writing press releases, phone banking, and a meeting space. It organizes campaigns that try to improve wages, benefits, rights on the job, working conditions, and ultimately the community.
+
+  
+
+Functionally, the VWC has a steering committee and a coordinating committee made up of unions, community organizations, religious groups, and individuals. The steering committee meets 4 times a year to democratically decide on projects they will work on, and the coordinating committee meets as needed to focus on more day-to-day issues. The VWC is funded through foundation grants, individual donations, and union donations. The first year it started with an annual budget of $11,000 and the ability to pay two staff members $100 per week. Currently, through its display of successful work to union and community members, their budget has increased to $65,000 a year, and the ability to pay one full-time staff person.
+
+  
+
+How the VWC Differs From Other Workers' Centers
+
+One way the VWC is unique is because Vermont is traditionally different than areas where workers' centers primarily exist. This difference is reflected in two areas: race and population. The population of Vermont is 620,000 most of which is comprised of rural areas. With rural living comes a high unemployment rate due to economic flight (i.e. effects of "free trade" policies) and a minimal amount of jobs employing a large number of people, such as factory employment. 85% of businesses in Vermont employ nine employees or less. "Vermont is unique because there are no models where you can organize 85% of the businesses. You really have to pull your resources together," says Tanya, "we build rights and power for people who might not work in a large factory and have the minimal protection of a union."
+
+  
+
+Most workers' centers in the U.S. are located in immigrant communities. However, in a state that is 97% European-American, there is no prevalent immigrant community or even a larger "minority" population, for such a center to connect with. "Our analysis early on was really about finding the power to make change. Early on we recognized race was not going to be our rally point," says Tanya, "gender has always been an issue, and economics is what we found to be most powerful because it is something people here can relate to."
+
+  
+
+Another point of uniqueness the VWC holds a dual function as a Jobs With Justice chapter. It tries to combine the general workers' rights focus with solidarity for workers who already have unions.
+
+  
+
+Challenging the Stereotypical Model of Workplace Organizing
+
+Stereotypically, workplace organizing is done largely in industrial, male dominated sectors, by paid organizers. This model often leaves out work that is traditionally done by women, and can be isolating when and if attempted. "A lot of our work is inherently feminist," says Jason Winston, a former member of the #10 Collective and founder of the VWC, "we work with people who are mostly in a traditionally female workplace such as nurses and nurses' aids, school support staff, and teachers. Here we are confronting the [stereotypical] model of the worker. Also, a lot of core activists with the VWC have been women." Tanya adds: "I have seen a lot of the [stereotypical] model of organizing that womyn don't really respond to. When you connect issues in the workplace to issues in the community, such as household issues, childcare, healthcare, food, etc., the connection between these issues and the workplace makes this struggle important to women."
+
+  
+
+The focus of the stereotypical model of organizing is on individual bread and butter issues as they relate to the individuals in the specific shops. The organizing the VWC has done is different because they often try to link the struggles of an entire industry as opposed to an isolated workplace, and in turn they try to show how those particular struggles relate to larger issues that affect society as a whole. The recent Justice For Healthcare Workers campaign is a good example of this effort. When the workers at Berlin Health & Rehab Center in central Vermont organized with UE in 2000 to become the first unionized private nursing home in the state, the VWC immediately began solidarity work in their struggle. They helped by leafleting, phone banking, writing letters to the editor, coordinating rides for community members to their picket line, calling the hospital CEO, and attending a rally. The workers prevailed and formed a union, UE Local 254, who then began negotiations to win their first contract. To support the workers through this struggle, the VWC formed a community support committee that organized rallies, targeted parades, and informational pickets at its sister facilities. Not only did the workers get their contract in January 2002, but the state responded to the attention generated by the solidarity work by implementing the first ever staffing rules for Vermont nursing homes. During this time, the VWC realized that short staffing and poverty wages were prevalent in all other nursing homes in the state, as well as hospitals. Form these realizations, the Justice for Healthcare Workers campaign was born.
+
+  
+
+The campaign was successful in several ways. The nurses at Fletcher Allen Hospital won their contract on June 21. The contract included key changes made to the hospital policy such as safe nurse-to-patient ratios, which will greatly improve the time that nurses have to spend with each patient, a ban on mandatory overtime, which will ensure that nurses are not forced to work grueling back-to-back shifts, and an economic package that will improve the hospital's ability to recruit and retain qualified nurses. Also, this victory is seen as groundbreaking in the healthcare field because the campaign has held rallies, forums, workshops, and public education events around the need for universal healthcare access, and created a potential for fixing the broken healthcare system in Vermont. The central thesis of the campaign was that if Vermonters want quality healthcare, one of the ways it can happen is when people are not overworked and underpaid, thus linking the need for universal healthcare for all people, and how it is needed in society as a whole.
+
+  
+
+The campaign did hold events in efforts to educate the public around the need for universal healthcare, but the VWC realizes that educating people about such capitalist B-movies coming to life is not enough. If the working class is to circumvent the intentions of the wealthy and/or ruling class, it must not only voice opposition to the absurdity commonly referred to as "policy," but must also give voice to and develop its own vision as it relates to the present and future. And if this vision is to gain the significance required to make a play for the common future, it must be comprehensive in character and content.[2]
+
+  
+
+A current project brewing at the VWC targets the building trades and is similar to the above campaign in that it frames the struggle for good jobs throughout the state as one big struggle, in the broader context of the working class and as a social justice cause. James Haslam, director of the VWC says that "the Justice for Construction Workers Campaign (which is being called Good Jobs for Vermont) will begin the process of bringing people from the building trades together to talk about a common agenda to establish good wages, benefits, and union membership within the construction trades. Since many construction projects are commissioned by public institutions or include the use of public funds and/or financing, our Good Jobs for Vermont campaign will insist that the jobs produced pay good wages, benefits, and have safe working conditions, or in other words, are union jobs." Plant closings and layoffs have culminated in a loss of good jobs and a threat to public services in Vermont because of "free trade" policies and corporate globalization. The campaign will connect this issue with the need to create good living wage jobs.
+
+  
+
+Anarchism and the Vermont Workers' Center
+
+The VWC was founded by a large proportion of class struggle anarchists, and currently those who do a lot of the organizing identify to one degree or another with anarchism. While the volunteers involved with the center do not all identify as such, a number of those who do are known to the community as anarchists. However, their politics are not front and center; it is about the work they are doing. The VWC prioritizes its work by first building a movement around people and what their issues are. Then, the need to figure out how to build that movement into a more democratic one emerges. "We are far from being revolutionary," says Jason, "but we have the strategy of starting where people are at. People only joined because of what we were doing, not because of what we said. We didn't act like we could tell them what they wanted to hear. It is not a theoretical relationship. You build trust with people because you stand on their picket line."
+
+  
+
+It is important to note the VWC's recognition of the historical limitations of bureaucratic trade unions (of which they work closely with), as often these organizations fail to see beyond their limited self-interest. In the current union model, the labor unions are not the all powerful defenders of the working class they have the potential to be. Due to the collaborative nature of many unions between leadership structure, party politics, and cooperation with the bosses, numerous labor organizations are compelled to traverse undemocratic paths, which often stifle attempts of direct action in the workplace. Acknowledging these flaws, we can see that mainstream trade unions in the U.S. are not currently revolutionary organizations, and that most also fail to promote radical worker self-activity and serious class warfare. The issue is not whether unions are revolutionary, rather how anarchists work within unions towards a revolutionary end.
+
+  
+
+Marx once referred to the unions as "the universities of the working class." While this may have been clearly true during his time, we should understand the potential that unions retain today for such educating to occur. Through participation in labor unions, workers acknowledge class interests and develop class consciousness. The trade union movement is the most important mass movement the working class has built. Based on the numbers of people represented by unions, anarchist groups must have a program that addresses and relates to these organizations and the workers who participate in them.
+
+  
+
+As anarchists and leftwing activists we aim our efforts at establishing a society through which the basic needs of all persons are guaranteed, and through which the chains of alienation are fractured by an inclusive democratic structure that reaches out to all people. Toward that goal, the efforts of the VWC as illustrated above, must be applauded, supported, and duplicated, if not made even stronger. It is true that it will be a difficult road to revolutionize these organizations due to certain conservative tendencies within labor bureaucracy. Even so, we are armed by the failures and arrogance of the capitalist class who, driven by greed, is not content with the status quo of domination and are seeking new innovations to exploit us as wage slaves. There is a potential for such radicalization to occur within organized labor; let us not forget the thousands of sheet metal workers, steelworkers, and others who, during the battle of Seattle, broke rank with the union bureaucrats and joined anarchists, students, and radicals on the barricades. We, as revolutionaries, must look for ways to force unions to take more radical stances, and also to create a truly popular front through which the rank and file can and will go beyond the status quo elements that are content at sticking their fingers in leaky dams instead of rebuilding the fucking thing.
+
+[1] Currently, Vermont's minimum wage is $6.75/hr; well above the national standard. And the city of Burlington has set the minimum wage at $10/hr for all businesses that do over a certain amount of work for the city.
+
+  
+
+[2] On September 28, 2002, well over 1,000 Vermonters rallied for universal healthcare in Montpelier (that's the capitol folks, and keep in mind that only 8,000 people live there). Aside from the recent demonstrations against the invasion of Iraq, this was one of the largest rallies in Vermont history.
+
+*Lady is a volunteer at the VWC, a member of the Green Mountain Anarchist Collective (NEFAC-Vermont), and a lifetime member of the working class.*
