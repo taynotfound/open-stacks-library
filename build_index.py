@@ -87,9 +87,11 @@ def parse_front(md):
 
 
 def first_para(body):
+    import re as _re
+    body = _re.sub(r'^>\s*\*Translated to English from[^\n]*\n?', '', body, flags=_re.M).strip()
     for l in body.split("\n"):
         t = l.strip()
-        if t and not t.startswith(("#", "**", "- ", "[")):
+        if t and not t.startswith(("#", "**", "- ", "[", ">")):
             return t
     return ""
 
