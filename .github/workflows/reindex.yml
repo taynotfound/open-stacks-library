@@ -15,12 +15,11 @@ permissions:
 jobs:
   reindex:
     runs-on: ubuntu-latest
-    # Only run when a human pushes a commit whose message starts with [new],
-    # or on manual dispatch. Keeps the bot's own index commits from looping
-    # and skips ordinary edits that don't add library items.
+    # Run on [new] or [Translation] commits, or manual dispatch
     if: >-
       github.event_name == 'workflow_dispatch' ||
-      startsWith(github.event.head_commit.message, '[new]')
+      startsWith(github.event.head_commit.message, '[new]') ||
+      startsWith(github.event.head_commit.message, '[Translation]')
     steps:
       - uses: actions/checkout@v4
 
@@ -29,10 +28,19 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Detect commit type
+        id: kind
+        run: |
+          MSG="${{ github.event.head_commit.message }}"
+          if echo "$MSG" | grep -q '^\[Translation\]'; then
+            echo "type=translation" >> "$GITHUB_OUTPUT"
+          else
+            echo "type=new" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Rebuild index.json
         id: build
         run: |
-          # item count from the previously committed index.json (before this rebuild)
           PREV=$(git show HEAD:index.json 2>/dev/null | jq 'length' 2>/dev/null || echo 0)
           [ -z "$PREV" ] && PREV=0
           python build_index.py > /tmp/buildout.txt 2>&1 || { cat /tmp/buildout.txt; exit 1; }
@@ -40,7 +48,6 @@ jobs:
           COUNT=$(grep -oP 'books indexed:\s*\K[0-9]+' /tmp/buildout.txt | head -1)
           SIZE=$(grep -oP 'index.json size:\s*\K[0-9.]+ MB' /tmp/buildout.txt | head -1)
           HOSTED=$(grep -oP 'self-hosted files:\s*\K.*' /tmp/buildout.txt | head -1)
-          # fall back to counting the freshly built file if the log line changes
           [ -z "$COUNT" ] && COUNT=$(jq 'length' index.json 2>/dev/null)
           DELTA=$(( ${COUNT:-0} - ${PREV:-0} ))
           echo "count=${COUNT:-?}" >> "$GITHUB_OUTPUT"
@@ -60,8 +67,6 @@ jobs:
           else
             for f in index.json feed.xml opds.xml search-index.json; do [ -f "$f" ] && git add "$f"; done
             git commit -m "chore: rebuild index.json + feed/opds/search"
-            # another [new] batch may have landed while we were building;
-            # rebase our index commit on top, preferring our freshly built index.json
             for attempt in 1 2 3; do
               if git push; then break; fi
               echo "push rejected, rebasing (attempt $attempt)"
@@ -76,17 +81,23 @@ jobs:
         env:
           WEBHOOK: ${{ secrets.OSLOG_DISCORD_WEBHOOK }}
         run: |
+          KIND="${{ steps.kind.outputs.type }}"
           if [ "${{ job.status }}" = "success" ]; then
-            DELTA="${{ steps.build.outputs.delta }}"
-            if [ "${DELTA:-0}" -gt 0 ]; then
-              EMOJI="📚"; TITLE="index rebuilt"
-              DESC="**${{ steps.build.outputs.count }}** items (+${DELTA}) · ${{ steps.build.outputs.size }} · 🗄️ ${{ steps.build.outputs.hosted }}"
-            elif [ "${DELTA:-0}" -lt 0 ]; then
-              EMOJI="📚"; TITLE="index rebuilt"
-              DESC="**${{ steps.build.outputs.count }}** items (${DELTA}) · ${{ steps.build.outputs.size }} · 🗄️ ${{ steps.build.outputs.hosted }}"
+            if [ "$KIND" = "translation" ]; then
+              EMOJI="🌐"; TITLE="translation indexed"
+              DESC="**${{ steps.build.outputs.count }}** items · ${{ steps.build.outputs.size }}"
             else
-              EMOJI="✅"; TITLE="index checked"
-              DESC="**${{ steps.build.outputs.count }}** items · no change"
+              DELTA="${{ steps.build.outputs.delta }}"
+              if [ "${DELTA:-0}" -gt 0 ]; then
+                EMOJI="📚"; TITLE="index rebuilt"
+                DESC="**${{ steps.build.outputs.count }}** items (+${DELTA}) · ${{ steps.build.outputs.size }} · 🗄️ ${{ steps.build.outputs.hosted }}"
+              elif [ "${DELTA:-0}" -lt 0 ]; then
+                EMOJI="📚"; TITLE="index rebuilt"
+                DESC="**${{ steps.build.outputs.count }}** items (${DELTA}) · ${{ steps.build.outputs.size }} · 🗄️ ${{ steps.build.outputs.hosted }}"
+              else
+                EMOJI="✅"; TITLE="index checked"
+                DESC="**${{ steps.build.outputs.count }}** items · no change"
+              fi
             fi
           else
             EMOJI="💥"; TITLE="reindex failed"
