@@ -1,0 +1,127 @@
+---
+title: "Anarchists vs. the State - Kirwin Shaffer"
+author: "Kirwin Shaffer"
+date: "2023, March 7"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/kirwin-shaffer-anarchists-vs-the-state"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: full
+description: "As Latin America swings left, activists keep alive a long anarchist tradition of critiquing the limits of state power. For them, the real alternatives are in communities, workplaces, and the streets. In October 2019, street protests and vio"
+tags:
+  - "anarchism"
+  - "Latin America"
+  - "Mexico"
+  - "Colombia"
+  - "Brazil"
+  - "Chile"
+  - "Cold War"
+  - "pdf"
+files:
+  - name: "Anarchists vs. the State.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-kirwin-shaffer-anarchists-vs-the-state.pdf"
+    hosted: true
+  - name: "Anarchists vs. the State.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tal-kirwin-shaffer-anarchists-vs-the-state.epub"
+    hosted: true
+---
+
+# Anarchists vs. the State
+
+*by Kirwin Shaffer*
+
+> Kirwin Shaffer is professor of Latin American Studies at Pennsylvania State University-Berks College. He is author of Anarchist Cuba (2019), Black Flag Boricuas (2013), and Anarchists of the Caribbean (2020). Text originally published in NACLA Report on the Americas, Volume 55, 2023 - Issue 1
+
+As Latin America swings left, activists keep alive a long anarchist tradition of critiquing the limits of state power. For them, the real alternatives are in communities, workplaces, and the streets.
+
+In October 2019, street protests and violent clashes rocked Chile. As the police and military temporarily lost control of the historic uprising against inequality and neoliberalism, the governing and opposition parties agreed to hold a plebiscite on whether to rewrite the country’s dictatorship-era constitution. A constituent assembly convened in 2021 drafted a new constitution, but in a plebiscite on September 4, 2022, voters rejected the proposal. The result came as a blow to the six-month-old government of leftist President Gabriel Boric, who as a member of Congress had helped to negotiate the agreement that opened the door to the constitutional process.
+
+A week after the draft constitution’s defeat, anarchists took to the streets to mark the 49th anniversary of General Augusto Pinochet’s 1973 military coup. Although Boric had openly expressed support in 2019 for the mass student-led fare evasions that sparked the uprising, effectively backing a broad coalition with anarchists, on the coup’s anniversary, Boric’s riot police attacked the anarchists with tear gas and water cannons. Few anarchists were surprised. This is how governments—whether dictatorial or democratic, rightist or leftist—historically have dealt with the most radical wing of the Left.
+
+Left-wing politics have awakened again in Latin America after a regional rightward turn that marked the decline of the early 21st century Pink Tide. In eight Latin American countries, leftist leaders have captured one presidential victory after another since 2018. The “Left,” however, is not monolithic. Nor is the entire Left enamored with controlling state power. In response to Latin America’s new left turn, anarchists have resurrected their historical critiques of both free market and state-centered solutions. Despite their anticapitalist rhetoric, leaders of the first Pink Tide continued promoting extractive capitalism with only limited redistributive change. This has led anarchists to predict that today’s cohort of leftist governments will do little better.
+
+These critiques carry forward a tradition of anarchist challenges to capitalism and the state dating to the late 1800s. As the oldest wing of Latin American leftist politics, anarchists dominated the Left for decades before the first parliamentarian socialists and then Marxist political parties arrived on the scene. Today, with an emphasis on decentralized power and the importance of organizing the working and dominated classes for direct democracy and direct action, Latin American anarchism, too, is awakening. Challenging neoliberal capitalism and the left-leaning governments now in office, anarchist organizations and anarchic forms of decentralized popular activism offer important alternatives to the limits of the market and state.
+
+Anarchy is not chaos. Rather, anarchists seek political order through local and municipal level direct action that allows people to live, work, create, and socialize on egalitarian terms, with no rulers or managers. In this vision, the liberation of working and dominated classes must not rely on the state or political parties—even working-class political parties—nor engage in the quest for vertical power through electoral politics. Instead, anarchists seek to inspire average people to build power outside of governmental institutions, usually through social movements and direct action, direct democracy, and horizontal cooperation with other dominated classes. This is “social power” or “popular power.”
+
+A constant anarchist fear is that left political parties wish to capture grassroots social movements and coopt their energy for their own party’s political gain—and then maybe they will work to benefit the dominated classes after winning power. So, while anarchists might cooperate with mainstream leftist parties for shared goals and occasionally vote for leftist candidates—especially to replace right-wing or far-right presidents, as in Brazil and Chile—anarchist politics demand constant vigilance of political parties, media, NGOs, and other institutions. For anarchists, vertical political power is incapable of solving the plethora of economic, ethnic, racial, social, gender, and environmental problems facing the hemisphere. In this view, governments—even progressive ones— do little to respond to Indigenous demands, prevent violence against women, rein in extractive capitalism, fight imperialism, or battle authoritarian forces.
+
+#### Anarchists and the Second Pink Tide
+
+##### Mexico
+
+The election of Mexico's Andres Manuel Lopez Obrador in 2018 kicked off a new era for the Latin American Left. It also marked the first leftist president elected in Mexico since Lazaro Cardenas in the 1930s. However, for many on the far left, several of AMLO's policies, such as cooperating with U.S. President Donald Trump on immigration, seemed anti-humanitarian and dangerous.
+
+Anarchists joined other critics to condemn the government's planned megaprojects, especially the $20 billion Mayan Train across the Yucatan Peninsula. While the state has promoted the train as key to southern Mexico's economic development, anarchists joined environmental and Indigenous organizations to argue the project will negatively impact peoples and environments while doing little to improve the lives of poor Mexicans. It is just another lavish state project with little if any say or input from the people it is supposedly aimed to help.
+
+Anarchists also attack the frequent lawlessness of the Mexican military-long at war with the drug cartels, but also susceptible to cartel influence-and the Mexican police departments that do little to investigate murders and disappearances, especially of women. At the same time, anarchist support for and work with the Zapatista movement has kept pace with that movement's growth. In 2019, the Zapatistas organized 11 new resistance centers and 16 new autonomous municipalities, bringing the total of organized territories to 43.
+
+Anarchists have been particularly active in Mexico's growing feminist movement, which expanded in recent years largely in response to police and government inaction in the face of rampant femicides, transfemicides, and sexual assault, including at the hands of authorities. Anarcha-feminists are important and visible in protests such as the annual March 8 International Women's Day demonstrations. The actions reflect anarchist concepts of popular power and the need to find solutions beyond what they see as AMLO's ineffective, top-down policies.
+
+While many feminists demand that the government actively prosecute perpetrators of rape and gender-based violence, anarchists focus their efforts on decentralized mobilizations of women and men as tools of collective empowerment to expose abusers and generate grassroots organizations.
+
+##### Brazil
+
+Brazil's October 2022 presidential elections were one instance where some anarchists cautiously supported electoral politics. Faced with another four years under far-right President Jair Bolsonaro, many anarchists advocated voting for leftist former president Luiz Im1cio Lula da Silva to stop a further slide toward fascism and the unrelenting destruction waged against the environment and Indigenous communities. Yet many Brazilian anarchists cautioned that even with a Lula victory, centralized state authority would not solve Brazil's structural problems, such as rampant sexual harassment, poverty, and environmental destruction.
+
+Meanwhile, many anarchists rejected any foray into politics. As union activists and researchers Rafael Viana da Silva, Kauan Willian dos Santos, and Victor Khaled put it: "It makes no sense to harass anarchists to vote:' Instead, they argued, activists needed to "maintain [their] internal coherence:' Anarchists sought to accumulate social power by penetrating spaces where the working class labored, prayed, played, and lived, not excluding Bolsonaro strongholds like gun clubs, Pentecostal churches, and among truckers. However, it's questionable how much impact they made. Anarchists also pledged to continue working among trade unions and popular organizations since they feared that after a Lula victory, the Workers' Party-controlled state would use its *comites populares de luta-peoples'* committees mobilized across the country to support Lula's campaign-to coopt unions and popular movements.
+
+Brazilian anarchist scholar Bruno Lima Rocha noted in the lead-up to the presidential runoff that even with Lula as president, major institutions would remain under right-wing and pro-corporate control. For instance, within the country's highly concentrated media landscape, the second-largest conglomerate is owned by the family of a right-wing evangelical bishop who openly endorsed Bolsonaro. This creates power to suppress debate about gender rights, abortion, and LGBTQI+ issues, which became far-right flashpoints under Bolsonaro. Lima Rocha stressed the importance of grassroots "struggle on a societal scale" around these concerns, as national media will not address them.
+
+As some anarchists put it, it was okay to vote, but that was not enough. Regardless of the election outcome, the votes that counted were within unions, community and student associations, and popular movements building grassroots popular power.
+
+##### Colombia
+
+One of the potentially most radical leftist governments currently in office is that of former guerrilla fighter Gustavo Petro and Afro-Colombian activist Francia Marquez. Though the Petro-Marquez ticket campaigned on numerous left-of-center reforms, they still must navigate the capitalist world system and Colombia's traditionally oligarchic institutions. Anarchists have few illusions that the administration will deliver on reforms to effectively tax the rich, level the gaping class divides, or institute land reform.
+
+Land reform offers a case in point. After the new government entered office, Indigenous, Afrodescendant, and other rural peoples ramped up occupations of private farms, urging the administration to follow through on its promises to address unequal land ownership. But Vice President Marquez called the occupiers "invaders:' Although the government reached an agreement to purchase land from cattle ranchers for redistribution to landless and land-poor families, the administration remains firmly committed to guaranteeing private property interests. This leads anarchists to see the Petro-Marquez government as a social democratic, liberal force that will not challenge deeply rooted traditional elites and capitalist structures.
+
+##### Chile
+
+Leftist former student leader Gabriel Boric assumed the presidency in early 2022 on the heels of the massive 2019 uprising against Chilean neoliberalism. During the unrest, anarchists formed "clans" as part of the frontline protest group known as the Primera Linea to physically confront riot police, point lasers at cops and surveillance drones, and shield protesters from police violence.
+
+Boric's first months in office, though, reinforced anarchist assessments of the limits of leftist state power. An early test was his administration's response to the long-simmering feud between the Mapuche people and the state over control of traditional Mapuche lands. Beginning in the 1990s, neoliberal governments facilitated corporate penetration of these lands, particularly for logging, deepening a more than century-old settler colonial project. The radical wing of the Mapuche resistance launched a sabotage campaign to press for autonomy. Tensions escalated again in late 2021, when outgoing President Sebastian Piiiera declared a state of emergency and deployed troops to the region.
+
+Hopes to resolve the conflict under a new leftist government quickly faded. Days after the new government took office in March 2022, Mapuche leaders rejected an attempted ministerial visit for failure to respect protocols, and in April and May, resistance organizations carried out new acts of sabotage against forestry and farming infrastructure and equipment. Anarchists joined Mapuche activists in support of their claims to ancestral lands. For anarchists, such industries are a stalwart of neoliberal capitalism's assault on Indigenous peoples' interests.
+
+Anarchist nightmares continued as the Boric government declared a new state of emergency across southern Chile, aimed at the Mapuche. Then in August 2022, authorities arrested Mapuche leader Hector Llaitul. For anarchists, Mapuche peoples, and their allies, the Boric administration has taken the same approach to the so-called Mapuche conflict as previous right-wing, neoliberal governments, continuing centuries of repression against Indigenous peoples. Demands for freedom for Mapuche political prisoners, demilitarization, and concrete steps toward returning Indigenous lands remain unaddressed.
+
+Anarchists also joined the early constitutional assembly meetings that were promoted as popular consultations on the contents of the draft constitution. While skeptical of the assemblies organized by political parties, anarchists nevertheless encouraged average people to come together to discuss their futures. The ultimate defeat of the proposed constitution did not surprise anarchists, who viewed the original agreement that gave way to the process as pacifying and the final document as riddled with shortcomings, including around key issues such as natural resources and the private pension system.
+
+For anarchists, the failure of the vote was yet another cautionary tale about putting faith in a state-led approach, especially one that failed to end neoliberal capitalism. A few independent voices in the legislature and the executive are no bulwark against entrenched economic interests. Since September's plebiscite, some anarchists have argued that anarchists nevertheless should compete in future local elections. While a seeming contradiction to professed anti-statism, such moves reflect anarchist beliefs in the importance of dealing with issues that directly impact people's daily lives at the municipal and other decentralized levels.
+
+#### Latin American Anarchism as the First and Most Radical Socialism: 1880s-Cold War
+
+These latest anarchist critiques build on a long history of anti-statist, anti-capitalist radicalism. Anarchism was the first socialism of the Americas. Aside from the utopian colonies dotting the 19th-century landscape in places like Colombia's Sierra Nevada de Santa Marta (1850s) and Colonia Cecilia in Brazil (1890s), anarchists organized most early trade unions in Latin America. Parliamentary socialist parties and the first Bolshevik-inspired communist parties emerged at different times in the first decades of the 20th century, but by then anarchists had dominated the Left for decades.
+
+Anarchists led the charge against urban and rural industrialized export capitalism, criticized the persistent influence of the Catholic Church, and attacked the growing threat of U.S. neocolonialism, particularly in Mexico and the Caribbean Basin. Government persecution and the growth of Marxist political parties and movements led to a decline in anarchist organization in the late 1920s and 1930s. Nevertheless, Latin America's anarchists remained on the front lines of anti-fascist struggles and volunteered in the battles against General Francisco Franco during the Spanish Civil War. Throughout the Cold War, anarchists directed their attacks against Latin American populists, regional dictators, Moscow-backed communists, and U.S. imperialism. They also maintained positions in trade unions from Argentina to Cuba.
+
+In Cuba, anarchists joined the struggle against U.S.-backed dictator Fulgencio Batista in the 1950s, working with both urban and rural insurrectionists. Following Batista's overthrow in 1959, anarchists struggled to shape the Cuban Revolution according to their views, calling for freedom of speech and association, decentralized control over education, and agrarian reform. However, growing Communist control of the Cuban Revolution placed decision-making power in the hands of centralized bureaucrats. Anarchists challenged state-centered agrarian and education reforms, but the Communist state viewed anarchists' pro-freedom, pro-municipal organizing as counterrevolutionary. By 1961, Fidel Castro's government had closed their newspapers and either jailed or forced anarchists into exile.
+
+The end of the Cold War in the early 1990s did more than discredit communist politics. It also ushered in the spread of neoliberal capitalism. By the mid-1990s, the discredited political Left had little capacity to stem the expansion of neoliberalism and IMP-imposed structural adjustment austerity programs. The emerging economic chaos created social and political spaces for a new wave of leftist politics-this time not based on winning centralized state power but on expanding grassroots, horizontal social power. Anarchism was reborn.
+
+#### Anti-Authoritarian Socialism and Decentralized Social Movements after the Cold War
+
+Citizens—or maybe better called "subjects"—of many countries across the hemisphere quickly grew sick of the economic, political, and financial impacts of neoliberal capitalism. In Mexico, as the North American Free Trade Agreement took effect in January 1994, the Zapatista National Liberation Army (EZLN) launched an anti-state, anti-neoliberal rebellion in Chiapas. After initially demanding a larger national political voice, the EZLN reconfigured itself to promote local, municipal, decentralized governance. This pro-Indigenous movement built on a larger anarchist legacy rooted in the armed struggles of the 1910-1920 Mexican Revolution, waged in the north by the Magonistas (supporters of the Flores Magón brothers) and in the south by the Zapatistas (supporters of Emiliano Zapata).
+
+The Battle of Seattle at the 1999 World Trade Organization meeting launched new anarchist and other decentralized, anti-state, anti-neoliberal initiatives globally, especially in Latin America. The World Social Forum that began in 2001 in Porto Alegre, Brazil became an umbrella movement of progressive and leftist causes, including anarchism. At the same time, decentralized municipal movements of rural workers in Brazil's Landless Workers Movement (MST) organized land seizures and pursued social justice.
+
+Other movements, working from Indigenous rights and anarcho-environmental perspectives, resisted so-called development projects like a dam in Honduras or foreign-controlled oil and mineral extraction in Peru and Chile that devastated cultures and the environment. Meanwhile, in Bolivia, neoliberal privatization efforts sparked the historic Cochabamba Water War that later led Bolivia to enshrine the basic right to water and ban its privatization in the 2009 Constitution.
+
+Beginning in late 2001, another landmark uprising against neoliberalism hit the region. When Argentina's ailing economy collapsed, people took to the streets shouting,*"Que se vayan todos:'* As experiments with horizontal organizing and alternative economies proliferated, unemployed workers occupied and reorganized factories and workplaces. With equal say and equal pay-one vote for each worker and equal wages for all-worker democracy councils voted on operational decisions. This horizontal form of worker power challenged much of the Left's traditional inclination for vertical, top-down state power. Today, these horizontal worker-controlled enterprises continue, growing in numbe r from around 100 in the early years of the movement to around 400 two decades later.
+
+As these examples show, across the region grassroots democracy challenged the growing political and economic orthodoxy in the streets, and even if victory was not always assured, at least the neoliberal plutocracy knew that real obstacles stood in their way. In fact, in the first decade of the new millennium, these movements helped to usher in new leftist governments.
+
+#### 21st-Century Socialism?
+
+By the mid-2000s, much of the global Left had fallen in love with the audacious attempts by the Pink Tide governments to build a "21st-century socialism:' The anarchist Left, however, was not so quick to support these leftist state actions, especially their relationships with authoritarian states like Iran and Russia and Cuba's ongoing restrictions on social and individual freedoms. Later, while anarchists in post-Chavez Venezuela and around the region opposed U.S.-sanctions, they refused to support Chavez's successor Nicolas Maduro, condemning him as an authoritarian leader. They also rejected the U.S.-backed Juan Guaidó as a puppet of U.S. imperialism.
+
+Anarchists further criticized the Pink Tide governments' continued reliance on extractive economic policies linked to capitalist markets. Anarchists argued that this contradiction reflected the limits of a leftist government in a neoliberal world. While their political rhetoric was firmly "leftist" and some poverty reduction ensued, no government challenged the logic of extractive economies. They did not significantly alter property relations, redistribute wealth, or alter the class structures of their societies. Nor did these center-left governments do much to address women's and LGBTQI+ demands, facilitate racial and ethnic inclusion, or deliver on Indigenous land rights. While anarchists acknowledged that limited redistributive policies helped the poor and gave some voice to Indigenous and Afrodescendant peoples, they also argued that these policies were little more than state-clientele relations designed to create popular support for the government.
+
+Will the latest Pink Tide follow suit? Today, social and economic realities have changed. For instance, some leftist governments have overseen advances in reproductive and LGBTQI + rights. During his first two terms, Lula's administration reduced poverty and fed the poor, but more money went to debt repayment than fighting economic inequality, and poverty and hunger levels have since rebounded. During the early 2000s, the government could ride the wave of a booming commodities market. But even if extractivism continues, that boom is over. So, what can a Lula state-or any of the region's leftist governments—really do?
+
+While anarchists remain skeptical of efforts initiated from the top of the political-economic -social hierarchy-national governments-there is often a note of cautious optimism with the election ofleftist governments. While such governments will not end neoliberal policies and extractive capitalism, anarchists recognize that voters choose leftist politicians to rein in rapacious capitalism. Yet, when those same political leaders unleash military and police repression, as against anarchists and Mapuche communities in Chile, or when they fail to meet legitimate safety demands, such as those voiced by women and trans people in Mexico, the need for caution remains strong.
+
+Leaders and supporters of the second Pink Tide proclaim that these new governments will contend with the limitations of their predecessors, seeking, for example, to industrialize raw materials like lithium rather than depending on unprocessed exports. Still, economies based on exporting resources, whether raw or transformed, tether countries to transnational capitalism. For anarchists, the path to a more just world is through decentralized, horizontal organizing—building social and popular power, not vertical state power. Even a well-intentioned leftist leader's ability to help the people will be constrained by entrenched political and economic forces, both foreign and domestic. In the end, it's grassroots solutions that hold the potential for people to gain more control over their daily lives and develop stronger local communities where their voices carry more sway than at the ballot box.
