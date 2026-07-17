@@ -82,11 +82,23 @@ for f in md_files:
     desc = meta.get("description") or first_para(body)
     if len(desc) > 400:
         desc = desc[:400]
+    # Derive state from what we ACTUALLY hold, not the (often wrong) front-matter.
+    # full = we have a readable copy here (full archived body OR a self-hosted file)
+    # partial = we hold some files but not the full text
+    # none = we only link out; no body, no hosted files
+    has_body = len(body) > 40
+    hosted_files = [x for x in meta["files"] if x.get("hosted")]
+    if has_body or hosted_files:
+        state = "full"
+    elif meta["files"]:
+        state = "partial"
+    else:
+        state = "none"
     out.append({
         "title": title,
         "author": meta.get("author", ""),
         "category": meta.get("category") or (rel.split("/")[1] if "/" in rel else "general"),
-        "state": meta.get("mirror_state", "none"),
+        "state": state,
         "tags": meta["tags"],
         "files": meta["files"],
         "images": meta["images"],
