@@ -1,0 +1,59 @@
+---
+title: "Nicaragua Entre La Espada Y La Pared"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/nicaragua-entre-la-espada-y-la-pared"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Un artículo sobre la situación en Nicaragua, en español, de un anarcocomunista mexicano."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "nicaragua.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/nicaragua.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/nicaragua-entre-la-espada-y-la-pared)
+
+Miles de personas protestan en una marcha durante abril de 2018 Un artículo sobre la situación en Nicaragua, en español, de un anarcocomunista mexicano.
+
+En la década de los 30 sucede la epopeya más destacada en la historia nicaragüense, cuando Augusto Cesar Sandino encabeza la resistencia contra la invasión de los marines estadounidenses que intentaban manejar el gobierno para favorecer los intereses de sus empresas tanto marítimas (misma razón por la que ocuparían Panamá) como agricultoras (como harían en Guatemala). Encabezando una guerrilla de campesinos y trabajadores, hostigarían a los invasores hasta que estos terminan por retirarse, restableciendo el gobierno constitucional, de carácter burgués, el cual pronto le agradecería a Sandino su gesta, asesinándole. Sandino pasaría a ser un icono del “antiimperialismo latinoamericano”.
+
+Las siguientes décadas los gobiernos burgueses mantendrían una política de hambre y represión contra el pueblo trabajador, llegando al clímax con la dictadura de Anastasio Somoza, la cual sería derrocada en los 70 por una insurrección popular encabezada por el Frente Sandinista de Liberación Nacional (FSLN), el cual era una amalgama interclasista de partidos de oposición, leninistas, teólogos de la liberación, demócratas, partidario del foquismo guerrillero, el cual lograría derrocar al dictador en 1979, haciéndose del poder estatal hasta 1990, cuando la oligarquía proyanki volvería al poder a través de las urnas, apoyada por un movimiento armado llamado “La contra”.
+
+Más allá de estas efemérides consagradas, las gestos del pueblo nicaragüense se han librado en otros frentes, desafortunadamente la bibliografía sobre ellas es escasa (como en todas partes sigue siendo labor de los desposeídos rascar su propio pasado y reencontrarse con sus batallas). En 1924 existía la central Obrerismo Organizado, de principios cercanos al mutualismo. En 1940 se funda el Partido Socialista Nicaragüense (con tendencias leninistas) y la Central de Trabajadores de Nicaragua, que seguirá el ejemplo coorporativo de los sindicatos mexicanos. Aunque el pensamiento libertario fue pionero en casi todo el territorio americano, prácticamente no tuvo presencia en Nicaragua, salvo alguna organización en los oficios, o la huelga de estibadores de 1919.
+
+Si bien es pobre la presencia de organizaciones formales, la lucha autónoma y espontanea de los trabajadores se ha manifestado continuamente. Podemos hablar de un antes y un después del terremoto de diciembre de 1972, una tragedia que cobró cerca de 10, 000 vidas y destruyó la capital. Al pésimo manejo de la crisis por parte del Estado se le suma la corrupción con la que fue manejada toda la ayuda internacional (la analogía con los sismos en México es inevitable) lo cual provocaría un sismo entre la clase trabajadora, que pasa de una vaga reacción de indignación entre la sociedad civil, a un enfrentamiento abierto entre el proletariado y las clases dominantes, donde estallarían huelgas, bloqueos y asambleas en todas las urbes del país. A pesar de grandes demostraciones como las de los trabajadores de la construcción o los servicios hospitalarios, los aparatos políticos y sindicales del régimen lograrían encauzar el malestar y dividir a la clase, aunque esto sería el primer paso previo a la insurrección de 1979. Esta erupción no será un combate aislado, sino parte del segundo asalto que llevó a cabo el proletariado a lo largo de todo el mundo.
+
+En 2007, como parte del ciclo de gobiernos progresistas latinoamericanistas, el líder del FSLN, Daniel Ortega accedería de nuevo al poder, esta vez no por un levantamiento armado, sino por la vía electoral, colocándose en la órbita de Estados cercanos al chavismo venezolano. Desde ese momento, Ortega realizaría una serie de cambios constitucionales, apoyado en su estructura de masas, que le han permitido reelecciones continuas, vislumbradas por lo menos hasta 2021.
+
+Este triunfo fue acogido como parte de la “revancha de los pueblos latinoamericanos” sobre sus burguesías procoloniales, sin embargo trajo consigo la cooptación de los sindicatos y la censura a las pocas voces opositoras que criticaban los contradicciones en el sandinismo, como lo fue la corrupción de alto nivel, el aumento de la jornada laboral o el servicio militar obligatorio. Dentro de la cúpula del FSLN también se vivieron rupturas con la burocracia dominante liderada por Daniel Ortega, como Ernesto Cardenal, poeta y religioso (los rebeldes nicaragüenses siempre se declararon orgullosamente católicos), el escritor y diplomático Sergio Ramírez, la feminista conciliadora Giocconda Belli y recientemente los hermanos cantantes Mejía Godoy.
+
+Sin embargo el respaldo de Daniel Ortega no se vio mermado, la retórica de oposición a “seguir siendo el patio trasero” de EUA, que sigue siendo su principal socio comercial, así como la cooperación económica con Sudamérica y China (que no es solo a través del comerció, también del proyecto de un canal interoceanico que rivalice con el de Panamá) ha logrado mantener la popularidad del presidente, que sigue consolidando un aparato de gobierno a modo, con su esposa en la vicepresidencia y sus hijos en las posiciones más importantes de la administración.
+
+Es en abril de este año cuando comienza una etapa de protestas no vistas en 40 años. Si bien el lector puede acceder a sinfín de cronologías en la prensa, es necesario un intento de periodización de este alzamiento:
+
+El nivel de violencia llevó a que la iglesia rompiera su alianza con el presidente, ya que prestó sus parroquias como refugio de los manifestantes, además de mandar en varias ocasiones delegaciones con el fin de liberar a los estudiantes atrapados bajo fuego, incluso varios sacerdotes sufrieron ataques directos de los sandinistas. No está de más recordar que el episcopado nicaragüense es aliado de Ortega , apoyando sus reformas a cambio de retrocesos como la penalización del aborto terapéutico. Aunque si bien la cúpula eclesial es claramente derechista, la base creyente aún mantiene vivo el recuerdo del “cristo de palacahuina”, aquella iglesia compuesta por comunidades eclesiales de base y basada en la teología de la liberación, la cual fue fundamental en la lucha contra la dictadura somocista, por lo cual es difícil separarlas del todo. En últimas fechas, el presidente Ortega ha acusado abiertamente de golpistas a los curas que sirven de mediadores con los rebeldes.
+
+El escenario es complejo e inquietante. Las masas trabajadoras se encuentran entre la espada y la pared. Por un lado esta el FSLN, organización burocrática estalinista que con el paso de los años migró hacia un nacionalismo de corte bolivariano, que aún cuenta con un fuerte respaldo popular debido a sus políticas asistenciales y su discurso que evoca las epopeyas revolucionarias de los 70. Por otro lado esta la oposición de derecha, compuesta por los empresarios y la pequeña burguesía que siente amenazada sus propiedades. Ninguno de estos dos bandos representa a los trabajadores, ambos son dos opciones enfrentadas de gestión capitalista.
+
+Afirmar esto no es un gesto de desesperanza. El sandinismo ha venido ha cubrir un vació que el viejo linaje familiar de la burguesía criolla no podía. A través de la reforma agraria y de los intentos de industrialización intentó revolucionar el capitalismo nicaragüense, el cual vivía en el subdesarrollo dada su pobre producción de mercancías, lo cual lo mantenía en esa posición dependiente y subordinada dentro del mercado.
+
+Pero el desarrollo productivo y económico no ha significado más que el desarrollo de una nueva burguesía, la cual ha pasado a abrir sus horizontes más allá de Norteamérica. La burocracia estatal, como gestora de este nuevo modelo, se sirve con la cuchara grande, acumulando una riqueza envidiable y colocando a sus miembros en posiciones de poder, el cual defienden a través de un aparato clientelar, para lo cual requieren a los sindicatos y a los comités locales, donde no solo controlan el flujo de los apoyos económicos y productivos, sino que forman a su base militante y reclutan a sus fuerzas de choque, las mismas que se han encargado de la ocupación de Managua y Masaya, buscando mantener el orden y evitar intentos de organización autónoma (asambleas, barricadas, saqueos, etc).
+
+El proletariado que en un inicio salio a las calles para defenderse del robo de una parte de sus ingresos por parte del fondo de pensiones, experimentó una catarsis al intentar formarse una dirección política, la cual fue aprovechada por los partidos de oposición y la pequeña burguesía que imprimió sus demandas y sus modelos. Los trabajadores, huérfanos de organizaciones autónomas o minorías revolucionarias (las declaraciones que hemos encontrado son o bien de grupos obreros extranjeros o de académicos locales) decidieron volver a casa, pasando a una resistencia pasiva, con excepción de los estudiantes radicalizados.
+
+La derecha pro-yanqui poco a poco ha ido dándole su carácter reaccionario a la movilización, eliminando las demandas económicas y de justicia por las electorales, las cuales es obvio que solo ellos pueden aprovechar, ya que los jóvenes que levantan barricadas en Monimbó no cuentan con una estructura que pueda competir por la presidencia. Por si fuera poco, han comenzado a agitar las posibilidades de una intervención en salvaguarda de los DDHH, a través de los organismos internacionales como la OEA y el grupo de Lima, que es bien sabido, responden a los intereses de Washington, y han sido el parapeto para su intervención en varias intentonas de golpes de Estado.
+
+Los proletarios se encuentran entre la espada y la pared. El sandinismo necesita bases obreras y campesinas para legitimar su dominio autoritario. La oposición los necesita como carne de cañón que sostengan sus demandas de transición del poder. Y mientras todos los grupos de poder dialogan “como salvar a la patria”, los proletarios se baten a muerte en las calles, con un saldo de 300 muertos al día de hoy. El escenario se antoja complicado y con pocas opciones para organizar un bando autónomo y con perspectiva clasista .
+
+Las luchas del proletariado nicaragüense son las mismas del proletariado mundial, sin embargo mientras su lucha sea dirigida por intereses ajenos, difícil será apoyarla, más allá de pronunciarse en contra de la masacre (como ya lo han hecho finísimas personalidades del establishment cultural ). La izquierda internacional, tan fanática de los comunicados, a preferido guardar un silencio cómplice, no vayan a molestar a los ideólogos de La Habana y Caracas, que han dejado claro su respaldo incondicional al gobierno de Ortega.
+
+Es menester extraer lecciones. Los objetivos del proletariado no son transitorios como los ciclos de los gobernantes, son históricos, la abolición del Estado y sus sicarios. No son demandas parciales como la reducción de la pobreza, sino la abolición de las mercancías, específicamente el trabajo, que sujeta al hombre y la mujer a una esclavitud cotidiana., No existe diferencia entre los autoritarios de izquierda y los liberales de derecha, habrá que barrer con ambos, los proletarios están en la alternativa de rechazar la totalidad de su miseria o nada , Sus germenes ya están ahí, inundando las calles y prendiendo barricadas.
