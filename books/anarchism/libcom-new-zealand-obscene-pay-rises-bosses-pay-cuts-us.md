@@ -1,0 +1,56 @@
+---
+title: "New Zealand Obscene Pay Rises Bosses Pay Cuts Us"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/new-zealand-obscene-pay-rises-bosses-pay-cuts-us"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The bosses of New Zealand’s biggest companies (including state-owned enterprises) received a massive average pay rise of 14% in the 2010 financial year. This has bumped up their already whopping salaries – some earn as much as $5 million per year – earned by profiting off our labour."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/new-zealand-obscene-pay-rises-bosses-pay-cuts-us)
+
+The anti-cuts budget day rally outside parliament in Wellington, May 19 The bosses of New Zealand’s biggest companies (including state-owned enterprises) received a massive average pay rise of 14% in the 2010 financial year. This has bumped up their already whopping salaries – some earn as much as $5 million per year – earned by profiting off our labour.
+
+At the same time, the average wage rise for all wage-labouring New Zealanders for the year up to March 2011 has been a paltry 2%. This is actually a pay cut, because the rate of inflation for the year up to March 2011 has been 4.5%. For the million of us who are beneficiaries, our paltry benefits are also being effectively cut, as benefits increased by only 1.96% in April 2010.
+
+Yep, as we already know, the cost of living is soaring and our pay packets or benefits aren’t keeping up. The increase in the cost of living has been caused by the government raking in money from increasing GST (a retrogressive tax which penalises working-class people), big increases in the basics such as petrol, food and electricity, as well as increases in rates, and school/ university fees. Yet again capitalist companies like dairy company Fonterra and the electricity giants are profiting gleefully from our hardship. While hundreds of thousands of us struggle to pay the bills, such profiteering has gone unchecked in the ‘free market.’
+
+The contrast between pay rises for bosses and cuts for us is pretty stark. It’s pretty obvious that while capitalists and their mates in the top levels of government give themselves extravagant pay increases, and the government bails out various financial institutions to the tune of billions of dollars, this elite class is deliberately passing on the vast majority of the costs of the recession on to us, on to working-class people. Indeed, they are viciously cutting our standard of living, including the recent budget cuts announced by the government (see article on page 2).
+
+It’s also pretty obvious that they want to keep our wages at paltry levels. While there has been much song and dance from the government about closing the wage gap with Australia – our wages are 30% on average lower than Australia, hence thousands of NZers understandably migrate to Australia – this rhetoric is complete bullshit. The wage gap has been widening. Finance Minister Bill English revealingly told a conference of his capitalist cronies (i.e. ‘business leaders’) in early April that low wages were a ‘fact of life’ and would attract ‘investment’. Prime Minister Key chimed in that bargain basement wages were one of the reasons why Canon had recently decided to set up a call centre in Auckland. Translation: the low wage economy is good for business, and even better for their profits, so we should just bloody put up with it you ungrateful sods, so keep on working your arse off, being underpaid, overworked and overstressed is good for you, and so is having such a sped up life where you don’t have much time outside work. Work is freedom! (Bollocks).
+
+A major reason why wages have been kept so low is the failure of unions, who are often aligned with the anti-worker pro-business Labour Party, to provide any effective opposition to wage freezes and cuts, spiralling unemployment, anti-union laws and anti-worker laws designed to clamp down on workers’ resistance (such as sickies and strikes). Unions’ opposition to the new anti-worker laws and government cutbacks has been purely symbolic. Crucially, it did not involve industrial action apart from some unions holding ineffective one-hour stopworks. The CTU (Council of Trade Unions) then called off proposed rallies in April and May this year against the new employment laws. Timid union bureaucrats keep getting wet toes and calling off action when more action is needed. Thus the ‘fairness at work’ (under capitalism, is work fair?) campaign has gained little momentum. Union bureaucrats have mostly avoided confrontation with capital and the state, and instead promoted class collaboration (i.e. ‘partnership’) with the very people who are attacking us. Even the unions who claim they are struggle-based have been unprepared or unable to take widespread strike action. Workers generally are sceptical whether unions can deliver them benefits.
+
+Hence incidences of strikes remain pitifully low. Government figures claim that only 17 strikes occurred in 2010, the lowest since way back in 1935, when just 12 strikes occurred. Yet their figure of 6,394 people participating in strikes last year, while historically very low, is misleading given that up to 16,000 teachers went on strike in late 2010. Strike figures for this year will depressingly be even lower given that so many pro-Labour Party unions like the PSA (Public Services’ Association) have unsurprisingly given up on any industrial struggle after their brief spell of relative ‘militancy’ against the National government, and instead have focussed on putting Labour back in parliamentary power in this years election. Yet this electioneering is illusory: under Labour we won’t be much better off, as they have consistently attacked working-class living standards over the last 25 years. If they were voted in, Goff has said he will promote a financially responsible budget, and no matter how much they claim to have turned leftward, they will be forced by capital’s economic constraints to cut back services and wages just like National. We don’t trust Labour, just like the vast majority of the population. Labour needs to be actively opposed.
+
+We don’t have all the answers: they need to come from ourselves, from working-class people, out of the conditions we face everyday, and not from organisations that claim to represent workers and seek to lead and manipulate them from above.
+
+Action needs to be based on the actual forms of resistance in society, and build from there, rather than imposing foreign models from the outside. In the workplace, most resistance is unoffical, informal and hidden: it does not occur through formal channels like unions. Unions only represent about 20% of the workforce. Most resistance, apart chucking your job in and getting a new one (which has become more and more uncommon given the lack of jobs), occurs through small groups of workmates who watch each other’s backs. These informal work groups in both unionised and non-unionised workplaces slow the pace of work (eg. by making deliberate mistakes until the workpace is slowed to a level everyone is comfortable with, and other forms of sabotage), take longer and longer breaks, slag off management and isolate those who collaborate with managers, take sickies, steal, and so on. These forms of resistance are not individualistic, but require much co-operation. If you can’t find such a group in your workplace, steadily form one with workers who you can trust.
+
+Once a culture of trust, support and co-operation between workers has been established, and bosses attempts to break up these informal groups have failed, then this resistance needs to become more open and less clique-like (limited to small groups of workmates). Once it becomes more open, then things like strikes become possible.
+
+Yet this does not mean we believe all action needs to occur outside unions. For the minority of workers in unions, you can still use workplace resistance groups to encourage everyone to vote for officially sanctioned legal industrial action such as strikes (but sadly only if your bargaining negotiations have broken down). If key informal groups in the workplace support industrial action, then the action is far more likely to succeed and be effective, regardless of the manipulations of management and union officials. Sure, it’s very difficult to take direct action in today’s climate with all the legal leg-irons on us taking industrial action, the rightward drift in parties, unions and popular culture, and how so few workers are involved in unions and are unable to afford to strike. But where it’s possible, it’s supremely necessary to take such action, especially if we want wages to increase. If workers cannot afford to strike, you can stay on-the-job and take action like go-slows and work-to-rules, which can be quite effective. Also it’s a good idea to take regular common breaks, and involve all workers in your workplace in such actions, not just unionised workers.
+
+Once resistance has become more open, take control of the strikes and actions. Make decisions in open workplace meetings where all workers (temps, permanents, contractors, part-timers etc) are invited and able to participate rather than leaving it to union full-timers. Call for mass assemblies of workers to control action. Make sure these meetings are run from the floor and not by union officials. Fight against class collaboration by union officials.
+
+We also need to look beyond our own workplace and try to form links with other workers (waged and unwaged): we are all in it together. It is a good idea to visit other workers’ picket lines and discuss how you can help each other. It is also useful to form support groups or solidarity networks that support all workers and can take action outside legal leg-irons on struggle, such as the Wellington Solidarity Network.
+
+Beneficiaries are also an important part of the working-class, and one that is often overlooked or sneered at. Beneficiaries mostly resist WINZ by individual scams to get more money on the benefit. This resistance needs to become more collective and open. There is a real need for vibrant beneficiaries groups run by beneficiaries themselves (and not professional advocates) to be formed to fight against benefit cuts and bullying from WINZ, and to provide mutual support. These groups were around in the 1980s and 1990s, and it’s a pity they’ve disappeared.
+
+Overall, we need to build upon hidden forms of resistance, and make them more collective, popular and open. This struggle needs to be controlled and directed from below, and independent of union and party bureaucracies. We know that without this struggle and widespread direct action, we cannot stop and begin to roll-back the attacks on us.
+
+This article is from the June 2011 issue of Solidarity, free newssheet of the Aotearoa Workers Solidarity Movement . Read the rest of the issue online or download a .pdf copy here .
+
+Woops, yep I do! I've submitted an edit. Cheers for spotting.
+
+There's now an Italian translation of this, at http://anarkismo.net/article/19820 thanks to the FdCA.
