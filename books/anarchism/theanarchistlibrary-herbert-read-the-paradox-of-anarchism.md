@@ -1,0 +1,86 @@
+---
+title: "The Paradox of Anarchism"
+author: "Herbert Read"
+date: "2009"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/herbert-read-the-paradox-of-anarchism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "In this interesting essay Herbert Read presents the concept of the functional contract in opposition to the social contract. The functional contract characterizes the anarchic society where individuals arrange their affairs and follow rules on the basis of functional aims voluntarily aimed at by the"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "herbert-read-the-paradox-of-anarchism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/herbert-read-the-paradox-of-anarchism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/herbert-read-the-paradox-of-anarchism)
+
+It has been the fashion, especially among orthodox Marxists, to hold in contempt any theory of politics which did not justify itself in action, and this emphasis on action has often led to a confusion of means and ends — the means too often overshadowing the ends and becoming a substitute for them. The dictatorship of the proletariat, for example, at first put forward as a means towards the classless society, becomes stabilized in Russia as the sovereignty of a new class.
+
+Anarchism does not confuse means and ends, theory and practice. As a theory it relies on reason alone, and if the conception of society which it thus arrives at seems utopian and even chimerical, it does not matter, for what is established by right reasoning cannot be surrendered to expediency. Our practical activity may be a gradual approximation towards the ideal, or it may be a sudden revolutionary realization of that ideal, but it must never be a compromise. Proudhon was often accused of being an anarchist in theory, but only a reformist in practice: he was, in fact, an anarchist, all the time, who refused to commit himself to the hazards of dictatorship. He would not play the game of politics because he knew that economics were the fundamental reality. And so to-day it is conceivable that a change in the control of financial credit, or a new system of land tenure, might bring us nearer to anarchism than a political revolution which merely transferred the power of the state into the hands of a new set of ambitious gangsters.
+
+Anarchism means literally a society without an arkhos , that is to say, without a ruler. It does not mean a society without law and therefore it does not mean a society without order. The anarchist accepts the social contract, but he interprets that contract in a particular way, which he believes to be the way most justified by reason.
+
+The social contract, as expounded by Rousseau, implies that each individual in society surrenders his independence for the common good, with the assumption that only in this way can the liberty of the individual be guaranteed. Liberty is guaranteed by law, and law, to use Rousseau’s phrase, is the expression of the general will.
+
+So far we are on common ground, not only with Rousseau, but with the whole democratic tradition which has been built up on the theoretical foundation laid by Rousseau. Where the anarchist diverges from Rousseau, and from that aspect of the democratic tradition which has found expression in parliamentary socialism, is in his interpretation of the manner in which the general will should be formulated and enforced.
+
+Rousseau himself was not consistent on this question. He was quite convinced that some form of state must exist as an expression of the general will, and that the power invested in the state by general consent must be absolute. He was equally convinced that the individual must retain his liberty, and that upon the individual’s enjoyment of liberty depended all progress and civilization. He realized that as an historical fact the state and the individual had always come into conflict, and for a solution of this dilemma he fell back upon his theory of education. If every citizen could be brought up to appreciate the beauty and harmony of the laws inherent in nature, he would be as incapable of establishing a tyranny as of enduring one. The society in which he lived would automatically be a natural society, a society of free consent in which law and liberty are but two aspects of the same reality. But such a system of education implies a pre-existing authority to establish it and that authority must be absolute.
+
+The system of government recommended by Rousseau in The Social Contract is an elective aristocracy rather than a true democracy, and to control this aristocracy he imagines a state so small that every individual within it would be able to watch and criticize the government. He probably had something like the Greek city-state in mind as the real unit. He certainly had no prevision of the vast complexes of millions of individuals which constitute most modern states, and we can be quite sure that he would have been the first to admit that his system of checks on authority would not work under such conditions.
+
+But his theory of the state, which has had such a profound influence on the development of modern socialism, has been taken over as applicable to these vast conglomerates, and it then becomes a justification for the most absolute kind of authoritarianism. This danger was recognized as long ago as 1815 by Benjamin Constant, who described The Social Contract as “le plus terrible auxiliaire de tous les genres de despotisme”.
+
+If what Rousseau calls an aristocratic form of government is more or less identical with modern democracy, what he calls democracy is more or less identical with the modern theory of anarchism, and it is interesting to see why he rejects democracy. He does so for two reasons — first because he regards it as an executive impossibility. A people cannot be continuously assembled to govern; it must delegate authority as a mere matter of convenience, and once you have delegated authority, you no longer have a democracy.
+
+His second reason is a typical example of his inconsistency. If there were a people of gods, he says, they could govern themselves democratically, but a government so perfect is unsuitable for men.
+
+But if democracy is the perfect form of government, it is not for one who has proclaimed his faith in the perfectibility of man to restrict it to the gods. What is good enough for the gods is all the better for man — as an ideal. If the ideal exists we must recognize it and strive, however approximately, to attain it.
+
+But the fundamental question in all this sophistry is ignored by Rousseau. It is the unreality of the notion of the general will. There is probably only one issue on which a people ever expresses unanimous or general will: the defence of their physical liberty. Otherwise they divide according to their temperaments, and though these are limited in number, they are sufficiently diverse and so mutually opposed that in any given geographical area they will give rise to incompatible groups.
+
+On that very account, say Rousseau and many other philosophers, a democracy is impossible.
+
+They are forced to this conclusion because they adhere obstinately to the arbitrary boundaries of the modern state — boundaries established by rivers, seas, mountains and military treaties, and not by reason.
+
+Suppose we were to ignore these boundaries, or abolish them. The realities are, after all, human beings with certain desires: with certain primitive needs. These human beings, according to their needs and sympathies, will spontaneously associate themselves into groups for mutual aid, will voluntarily organize an economy which ensures the satisfaction of their needs. This is the principle of mutual aid, and it has been explained and justified with much historical and scientific evidence by Kropotkin. It is this principle which the anarchist makes the foundation of the social order, and upon which he believes he can build that democratic form of society which Rousseau felt was reserved for the gods.
+
+It is not necessary here to repeat the empirical evidence for this belief: Kropotkin’s great book can now be obtained for sixpence in the Penguin Series, and it is a work whose scholarship is acknowledged by sociologists of all schools. The difficulty is not to justify a principle which has sound psychological and empirical evidence to support it, but to apply this principle to the existing state of society.
+
+This we do tentatively by taking the voluntary organizations which already exist and seeing to what extent they are capable of becoming the units in a democratic society. Such organizations are trade unions, syndicates, professional unions and associations — all those groups which crystallize around a human function. We then consider the functions which are now performed by the state, and which are necessary for our well-being, and we ask ourselves to what extent these functions could be entrusted to such voluntary organizations. We come to the conclusion that there are no essential functions which could not thus be transferred. It is true that there are functions like making war and charging rent which are not the expression of an impulse towards mutual aid, but it does not need much consideration of such functions to see that they would naturally disappear if the central authority of the state was abolished.
+
+The mistakes of every political thinker from Aristotle to Rousseau have been due to their use of the abstract conception man . Their systems assume the substantial uniformity of this creature of their imaginations, and what they actually propose are various forms of authority to enforce uniformity on man.
+
+But the anarchist recognizes the uniqueness of the person, and only allows for organization to the extent that the person seeks sympathy and mutual aid among his fellows. In reality, therefore, the anarchist replaces the social contract by the functional contract, and the authority of the contract only extends to the fulfilling of a specific function.
+
+The political unitarian or authoritarian conceives society as one body compelled to uniformity. The anarchist conceives society as a balance or harmony of groups, and most of us belong to one or more such groups. The only difficulty is their harmonious interrelation.
+
+But is it so difficult? It is true that trade unions sometimes quarrel with one another, but analyse these quarrels and you will find, either that they proceed from causes outside their function (such as their different conception of their place in a non-functional, e.g. capitalist, society) or from personal rivalries, which are a reflection of the struggle for survival in a capitalist world. Such differences of aim bear no relation to the principle of voluntary organization and are indeed excluded by that very concept. In general, trade unions can agree with one another well enough even in a capitalist society, in spite of all its incitement to rivalry and aggressiveness.
+
+If we go outside our own time to the Middle Ages, far example, we find that the functional organization of society, though imperfectly realized, was proved to be quite possible, and its gradual perfection was only thwarted by the rise of capitalism. Other periods and other forms of society, as Kropotkin has shown, fully confirm the possibility of the harmonious interrelationships of functional groups.
+
+Admitted, it may be said, that we can transfer all the economic functions of the state in this way, what about other functions — the administration of criminal law, relationships with foreign countries not at the same stage of social development, education, etc.?
+
+To this question the anarchist has two replies. In the first place he argues that most of these non-functional activities are incidental to a non-functional state — that crime, for example, is largely a reaction to the institution of private property, and that foreign affairs are largely economic in origin and motivation. But it is agreed that there questions, such as certain aspects of common law, infant education, public morality, which may be outside the province of the functional organizations. These, he argues, are matters of common sense, solved by reference to the innate good will of the community. But the community, for this purpose need not necessarily be anything so impersonal and so grandiose as a state — in fact, it will be effective in inverse ratio to its size. The most effective community is the smallest — the family. Beyond the family is the parish, the local association of men in contiguous dwellings. Such local associations may form their courts and these courts are sufficient to administer a common law based on common sense. The manor courts in the Middle Ages, for example, dealt with all crimes and misdemeanours save those committed against the artificial entities of the state and the Church.
+
+In this sense anarchism implies a universal decentralization of authority, and a universal simplification of life. Inhuman entities like the modern city will disappear. But anarchism does not necessarily imply a reversion to handicraft and outdoor sanitation. There is no contradiction between anarchism and electric power, anarchism and air transport, anarchism and the division of labour, anarchism and industrial efficiency. Since the functional groups will all be working for their mutual benefit, and not for other people’s profit or for mutual destruction, the measure of efficiency will be the appetite, for fullness of living.
+
+There is a further consideration of a more topical and pressing nature. In a remarkable book published recently, The Crisis of Civilization , Alfred Cobban has shown that the disasters which have fallen on the Western world are a direct consequence of the adoption by Germany of the theory of popular or national sovereignty, in place of the theory of natural law which had been evolved by the rational movement of thought in the eighteenth century known as the Enlightenment. German thought, writes Mr. Cobban,
+
+substituted historical rights for natural rights, and will of the nation, or the Volk, for reason as the basis of law and government. ... The ultimate result of the theory of popular sovereignty was thus the substitution of history for ethics. This tendency was present in the contemporary thought of all countries. It has only achieved a complete triumph in Germany. The distinguishing mark of modern German thought is dissolution of ethics in the Volkgeist; its practical conclusion is that the state is the source of all morality and the individual must accept the laws and actions of his own state as having ultimate ethical validity.
+
+I will not repeat the detailed evidence which Mr. Cobban, who is a professional historian, offers in support of this statement, but its truth is obvious enough. “Sovereignty, whether it adopts the democratic, nationalist, or socialist disguise, or some amalgam of all three, is the political religion of to-day.” It follows that if we are to rid Europe permanently of the menace to peace which Germany represents, we must first of all refute the German conception sovereignty. So long as this conception remains, as a national religion, there will be a continual resurgence of the instruments of such a policy — armed might and arbitrary aggression.
+
+It was a great German, already alarmed by the tendencies then taking shape, as an immediate reaction from the French Revolution, who warned his countrymen against the monster they were creating.
+
+It is thus [wrote Schiller] that concrete individual life is extinguished, in order that the abstract whole may continue its miserable life, and the state remains for ever a stranger to its citizens, because nowhere does it touch their feelings. The governing authorities find themselves compelled to classify, and thereby simplify, the multiplicity of citizens, and only to know humanity in a representative form and at second hand. Accordingly they end by entirely losing sight of humanity, and by confounding it with a simple artificial creation of the understanding, whilst on their part the subject classes cannot help receiving coldly laws that address themselves so little to their personality. At length society, weary of having a burden that the state takes so little trouble to lighten, falls to pieces and is broken up — a destiny that has long since attended most European states. They are dissolved in what may be called a state of moral nature, in which public authority is only one function more, hated and deceived by those who think it necessary, respected only by those who can do without it. (Letters upon the Aesthetical Education of Man, VI, 1795)
+
+In these prescient words Schiller stated that antagonism between organic freedom and mechanical organizations which has been ignored in the political development of modern Europe, with results which we see all round us now.
+
+Anarchism is the final and most urgent protest against this fate: a recall to those principles which alone can guarantee the harmony of man’s being and the creative evolution of his genius.
