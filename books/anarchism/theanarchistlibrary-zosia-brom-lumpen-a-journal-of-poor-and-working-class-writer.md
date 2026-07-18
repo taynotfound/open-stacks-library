@@ -1,0 +1,36 @@
+---
+title: "Lumpen: A journal of Poor and Working Class Writers Editorial"
+author: "Zosia Brom"
+date: "2025"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/zosia-brom-lumpen-a-journal-of-poor-and-working-class-writers-editorial"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "retreived on 19/08/2025 from https://organisemagazine.org.uk/2025/08/18/lumpen-15-editorial-editorial/"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "zosia-brom-lumpen-a-journal-of-poor-and-working-class-writers-editorial.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/zosia-brom-lumpen-a-journal-of-poor-and-working-class-writers-editorial.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/zosia-brom-lumpen-a-journal-of-poor-and-working-class-writers-editorial)
+
+The first time I had lived experience of how deep class division in the UK runs was shortly after my arrival, when a much younger version of myself began my first romantic relationship on these isles. ‘It’s not gonna last,’ remarked someone I used to share a squat with, a someone who was merely a passer-by in my life, ‘he’s too working class for you.’ Obviously before that I was aware of how the British perceive class and how embedded class- based divisions are in British society, a theoretical knowledge I had due to my general political leanings but also, such is the association between Britishness and class that I actually remembered my school’s English teacher explaining it to us, a bunch of kids sitting in a school somewhere in rural Poland. I also remember my bafflement with the discovery that Elisabeth Windsor et co aren’t kept merely as a tourist attraction, but instead this country is rather serious about the monarchy and its outdated rituals, concept of divine destiny, inheritable aristocracy status and all the trimmings such as an unelected legislative power aka the House of Lords: all ancient concepts I was under the impression were put to bed in Europe sometime between 1848 and 1918.
+
+But this passing remark about my personal life was the first time someone presented it to me so bluntly, and also while making far-reaching assumptions about what they assumed they knew about my background and experiences, applying their British-centric stereotypes of class to it and then spitting out this, frankly, completely fucked unsolicited statement.
+
+Back then, it took me a while to process what just happened. Firstly, the class prejudice of course, coming from someone I already considered full of themselves: a rich English kid temporarily playing so-called alternative lifestyle before disappearing back to their little comfortable life: anyone who has had any experience of squatting should be familiar with the type. But secondly, I was amazed how the remarker was apparently both able to perfectly assess my love interest’s class background and get it absolutely wrong with mine. There was an assumption behind what they said, and it was that I’m too good for this particular guy I was into, and that it is a natural law. And this assumption really puzzled me because, even if we, for the moment, look at the world through the prejudiced lenses of the person making the statement, it was hilariously misjudged and reflected exactly nothing about who I was. I was dirt poor, and it certainly wasn’t a predicament new to me. I didn’t have parents giving me access to bank of mum and dad. I wasn’t going to inherit any riches. I was working in a fish & chips shop, only to few years later become a push bike courier and then a landscaper, which were the three main sources of my income all the way until my early 40s when I, by this or that miracle managed to land this job, the one paying me for navel gazing to you in an editorial of a magazine, but most importantly the one that does not require me to work outdoors rain or shine, delivering other people’s parcels or laying rolled grass on some posh bastard’s lawn while worrying about how much longer my knees are gonna last in all that while patiently allowing the said posh bastard to ask me questions such as, “oh you are Polish, surely happen to know a good cleaner?” the honest answer to which would be something like, ‘yeah I do, but fuck off’.
+
+All of this was ignored to vomit this prejudiced statement out, based, I believe, on the fact that other than the above, I also held a higher education degree (from a country where free education is guaranteed by a very much written down constitution), I was able to hold a conversation about most general knowledge trivia, I was rather well- read, I spoke two languages, and all other of my cultural capital features that are considered as sure-tale higher class indicators by, well, the type of people who know nothing beyond a stereotype about the working class. There are plenty of such people in some progressive circles, the same circles where it is impolite to talk about money, so we are politely not asking each other about what we do to get them and whether it’s working or simply going to the magic hole in the wall to, without fail, find them there.
+
+This experience, while certainly flagrant due to it also expressing a strong prejudice to the British working class, is just one of many I’ve had when my own class status was routinely misjudged based on myself not fulfilling some kind of standard of what passes for working class among the higher classes in the progressive left, the same classes who are also more than happy to downgrade or blur their own backgrounds to take up the seat on the table of the class discourse in the UK that simply should not be theirs. This relates to the general tendency in the British society to see migrants as a special type of demographics, people talked about but not with, people perhaps worth helping and supporting, but not necessarily including. It recreates the divisions between “the working class” as opposed to “the migrants” that are peddled by the likes of Nigel Farage. It’s harmful, unfair and counterproductive. It needs to change.
+
+With this issue, we give space to people who have lived experience of migration. With it, we attempt to normalise such voices in the class discourse in the UK. We also give some space to British working class people to talk about how they see issues such as migration, racism, Britishness.
+
+It’s important to note that we aren’t going to stop including migrants in what we do on this issue only: it is merely a part of a wider set of projects and activities we are busy developing in our drive to challenge some tendencies in the left when it comes to migrants and class discourse, as well as forward the idea of migrants as a legitimate part of British society: an effort both ambitious and worth taking, especially given the trends in the mainstream politics to sow divisions based on people’s places of birth, which increasingly results in shameful and terrifying events such as the racially-motivated riots from Summer 2024 and, more recently, in Northern Ireland, making building links between different groups of people inhabiting the UK even more urgent than before.
