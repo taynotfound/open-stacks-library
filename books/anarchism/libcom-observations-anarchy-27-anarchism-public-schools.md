@@ -1,0 +1,54 @@
+---
+title: "Observations Anarchy 27 Anarchism Public Schools"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/observations-anarchy-27-anarchism-public-schools"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/observations-anarchy-27-anarchism-public-schools)
+
+I agree with just about everything Charles Radcliffe said in ANARCHY 27 about the Public Schools, but I don't think he is sufficiently optimistic about the potentialities of these institutions as breeding grounds for anarchism. It is not just that boys from major public schools have sufficient confidence to rebel and defy society when they feel it necessary. Also important is the fact that in a Public School one confronts power so often, and it is a sort of power about which one can have no 'liberal' illusions. In a school in which the staff is responsible for discipline and general organisation, it is possible for the individual pupil to feel that a decision reached, however unfavourable to him, is just.
+
+On the other hand, an authoritarian prefect-dominated system involving fagging and corporal punishment either crushes individuality or, surprisingly frequently, leads to questioning not just of the prefect or whoever but of authority as such. And when one has confronted arbitrary authority really closely, one soon detects it later behind the 'democratic' facades of political parties. In a Public School, in order to retain one's self-respect, one is often forced into taking part in the sort of psychological duel with authority which in the outside world is often a very important part of non-violent struggle against oppression.
+
+Moreover, if there is to be any association of boys to try and improve conditions, this will tend to resemble an anarchist group in the closeness of its voluntary co-operation and in awareness of the need for mutual reliance. In Kropotkin's 'Memoirs of a Revolutionist' there are some very exciting and impressive examples of co-operation among the boys in the authoritarian Corps of Pages, which clearly had a considerable influence on Kropotkin's later anarchism.
+
+I would not dream of trying to defend public schools on these grounds: this would be similar to arguing that some disease was a good thing because those who survived it became particularly resistant to a further attack. But what I would say is that anarchists should realise that the desire for freedom and the capacity to form free societies are not the prerogative of any one class, any more than they are of any one race. Next time you go past a Public School remember (even if it is an effort) that the boys inside are human, just like you. Oxford. JOHN ADAMSON.
+
+* I have set up a small anarchist discussion group here at public school, concentrating mainly now on questions in history, and various interpretations of the syllabus we have to prepare for exams. Our group, though still small is quite an active one. You may remember seeing — or hearing about — the notorious Public Schools CND banner which put in an appearance on Aldermaston 1962, and which indeed led for part of the way the swirling mob which had refused to break up at the end of Whitehall as General Peggy Duff had ordered; so what may have been inwardly a demonstration of anarchists (in preparation for Aldermaston 1963) was outwardly an expression of solidarity and strength by public schoolboys! This Public Schools banner has now been changed, unstitched and dyed black and red, with the words 'Anarchist Youth' sewn on. The banner is to be launched at the school speech day in a month's time where we shall be selling Official Secrets pamphlets instead of the crappy old school magazine which is heavily censored and smells of old dough.
+
+Being in our last term we are producing a house magazine which will give the authorities such a hammering for the way they have muzzled us here that they will never forget it … If I could write, if I could write half of the injustices, the censoring of debating subjects, the curtailment of CND — almost non-existent here — the muzzling of people who for once have thought things out for themselves, the threats of expulsion, the refusal to allow individuals to resign from the cadet corps, the indoctrination and the brainwashing, it's enough to make an anarchist go nuts.
+
+We cannot do much, because of the expulsion threat; this is the great weapon, the deterrent with which authority can suppress minorities who get out of hand, but nevertheless steps are being taken in the right direction, and I shall continue to distribute FREEDOM and ANARCHY as much as possible despite attempts by authority to seize them, which they once did, and proclaimed the magazine illegal. Thank you for sending it under closed cover. I must now go to chant psalms and mumble the Lord's Prayer with the rest of them. —shire. J.
+
+* I would like to make one or two additions on the subject of public schools. There is a marked increase once again in public school dissent. I have heard of many schools where minor forms of direct action and civil disobedience have been used to varying effect. Most of these have been fairly effectively hushed up but some details are bound to get out. Among other things that have come to my attention are a sit down against fagging, a protest march against the cane.
+
+A recent example was the protest organised by a number of public schoolboys in Somerset during the latest Freedom from Hunger (FFH) campaign. In an atmosphere of stifling conformity this group very courageously decided to take action against FFH, In case this seems to be an example of some brand of bloody minded tory-ism I had better briefly explain the basis of the protest. They claimed that FFH, although generously supported by a large number of decent people, was essentially a capitalist device to take attention off the real cause of hunger — which was and is capitalism, State or otherwise. They claimed that a sane society had to come through the concerted actions of the people towards a responsible and sane society, based on the principles of individual autonomy and mutual aid. Their protest ended when they symbolically dragged the Union Jack through the streets of a local town. Many may feel (I do not) that their protest was too extreme to be deemed constructive anarchist propaganda but it was brilliantly conducted and is an earnest of a new spirit, which may expand to involve more and more young people.
+
+This is not the only example of dissent. A new campaign — The Schools Anti-Vote Campaign — also organised by a small group of public schoolboys, is getting under way. It is being run, at present, on very small scale but it is hoped that it will spread through other schools and present a serious opportunity for young people to discuss radical libertarian ideas.
+
+With a General Election looming close, there will obviously be mock elections in many schools and it is against these that this campaign is directed. The need to oppose the election is felt to be even more urgent now that CND has endorsed the idea of schoolkid YCND-ers taking part in such elections — presumably as a beginner's course in parliamentary cretinism.
+
+The originators of this campaign must remain anonymous in the interests of continued action but a small group has been set up in London to act (solely) as a co-ordination centre for a larger campaign directed at all schools.
+
+Anyone who knows anarchists at schools, or other pupils likely to be sympathetic to this campaign can get in touch with the Schools Anti-Vote Campaign at Flat 4, 148 Fellows Road, London, N.W.3. It is obvious that anarchists should support this campaign which is a serious opportunity to influence young people with libertarian ideas.
+
+It may be that CND groups and anti-election groups in schools can do a more valuable job than anti-war cells in the forces. Both activities are vitally necessary to the continuation of the human race. Both are deserving of support. This campaign is being conducted in the best anarchist tradition by people directly involved. It is immensely encouraging. DISSENTIENT PUBLIC SCHOOL BOY.
+
+(These are the final paragraphs of George Woodcock's Anarchism published this month by Penguin Books, now available from Freedom Bookshop at 8s. including postage.)
+
+If human values are to survive, a counter-ideal must be posed to the totalitarian goal of a uniform world, and that counter-ideal exists precisely in the vision of pure liberty that has inspired the anarchist and near-anarchist writers from Winstanley in the 17th century. Obviously it is not immediately realizable, and, since it is an ideal, it will probably never be realized. But the very presence of such a concept of pure liberty can help us to judge our condition and see our aims; it can help us to safeguard what liberties we still retain against the further encroachments of the centralizing state; it can help us to conserve and even enlarge those areas in which personal values still operate; it can help in the urgent task of mere survival, of living out the critical decades ahead until the movement of world centralization loses its impetus like all historical movements, and the moral forces that depend on individual choice and judgment can reassert themselves in the midst of its corruption.
+
+The anarchist ideal may best fulfil this purpose, as its first exponents would have agreed, by the impact of its truths on receptive minds rather than by the re-creation of obsolete forms of organization or by the imitation of insurrectional methods that failed even in the past. The heritage that anarchism has left to the modern world is to be found in a few inspiring lives of self-sacrifice and devotion like those of Malatesta and Louise Michel, but most of all in the incitement to return to a moral and natural view of society which we find in the writings of Godwin and Tolstoy, of Proudhon and Kropotkin, and in the stimulation such writers give to that very taste for free choice and free judgment which modern society has so insidiously induced the majority of men to barter for material goods and the illusion of security. The great anarchists call on us to stand on our own moral feet like a generation of princes, to become aware of justice as an inner fire, and to learn that the still, small voices of our own hearts speak more truly than the choruses of propaganda that daily assault our outer ears. "Look into the depths of your own beings", said Peter Arshinov, the friend of Makhno. "Seek out the truth and realize it yourselves. You will find it nowhere else." In this insistence that freedom and moral self-realization are interdependent, and one cannot live without the other, lies the ultimate lesson of true anarchism.
