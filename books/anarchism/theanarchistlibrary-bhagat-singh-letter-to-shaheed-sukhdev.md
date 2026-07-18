@@ -1,0 +1,26 @@
+---
+title: "Letter to Shaheed Sukhdev"
+author: "Bhagat Singh"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/bhagat-singh-letter-to-shaheed-sukhdev"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "http://www.shahidbhagatsingh.org/index.asp?linkid=6"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "bhagat-singh-letter-to-shaheed-sukhdev.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/bhagat-singh-letter-to-shaheed-sukhdev.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/bhagat-singh-letter-to-shaheed-sukhdev)
+
+By the time you receive this letter I will be gone, going to a far off destination. Let me assure that I am prepared for the voyage inspite of all the sweet memory and inspite of all the charms of my life here. Upto this day one thing pinched in my heart and it was this that my brother, my own brother, misunderstood and accused me of a very serious charge — the charge of weakness. Today I am quite satisfied, today more than ever do I feel that was nothing, but a misunderstanding, a wrong calculation. My overfrankness was interpreted as my talkativeness, and my confession as my weakness. And now I feel it was misunderstanding and only is understanding. I am not weak, not weaker than anyone amongest us, brother. With a clear heart I go, will you clear too? It will be very kind of you. But note that you are to take no hasty step, soberly and calmly you are to carry on the work. Don’t try to take the chance at the very outset. You have some duty towards the public, and that you can fulfil by continuing this work. As a suggestion I would say that M.R. Shastri* appeals to me more than ever. Try to bring him in the arena, provided he himself may be willing, clearly knowing the dark future. Let him mix with men and study their psychology. If he will work in the right spirit, he will be the better judge. Arrange as you may deem fit. Now, brother, let us be happy.
+
+By the way, I am say that I cannot help arguing once again my case in the matter under discussion. Again do I emphasise that I am full of ambition and hope and of full charm of life. But I can renounce all at the time of need, and that is the real sacrifice. These things can never be hinderance in the way of man, provided he be a man. You will have the practical proof in the near future. While discussing anybody’s character you asked me one thing, whether love ever proved helpful to any man. Yes, I answer that question today. To Mazzini it was. You must have read that after the utter failure and crushing defeat of his first rising he could no bear the misery and haunting ideas of his dead comrades. He would have gone mad or committed suicide but for one letter of a girl he loved. He would as strong as any one, nay stronger than all. As regards the moral status of love I may say that it in itself is nothing BUT PASSION, not an animal passion but a human one, and very sweet too. Love in itself can never be an animal passion. Love always elevates the character of man. It never lowers him, provided love be love. You can’t call these girls — mad people, as we generally see in films — lovers. They always play in the hands of animals passions. The true love cannot be created. It comes of its own accord, nobody can say when. It is but natural. And I may tell you that a young man and a young girl can love each other, and with the aid of their love they can overcome the passions themselves and can maintain their purity. I may clear one thing here; when I said that love has human weakness, I did not say it for an ordinary human being at this stage, where the people generally are. But that is most idealistic stage when man would overcome all these sentiments, the love, the hatred, and so on. When man will take reason as the sole basis of his activity. But at present it is not bad, rather good and useful to man. And moreove while rebuking the love. I rebuked the love of one individual for one, and that too in idealistic stage. And even then, man must have the strongest feelings of love which he may not confine to one individual and may make it universal. Now I think I have cleared my position. One thing I may tell you to mark; we inspite of all radical ideas that we cherish, have not been able to do away with the overidealistic Arya Samajist conception of morality. We may talk glibly about all the radical things that can possible be conceived, but in practical life we begin to tremble at the very outset. This I will request you do away with. And may I, Without fear at all the misapprehension in my mind, request you do kindly lower the standard of your over-idealism a bit, not to be harsh to those who will live behind and will be the victims of a disease as myself ? Don’t rebuke them and thus add to their woes and miseries. They need your sympathy. May I repeat that you, without bearing any sort of grudge against any particular individual, will sympathise with those who needed the most ? But you cannot realise these things unless and until you yourself fall a victim to this. But, why I am writing all this? I wanted to be frank. I have cleared my heart.
