@@ -1,0 +1,30 @@
+---
+title: "Anarchist Revolution Spain New Statesman"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/anarchist-revolution-spain-new-statesman"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Account by Cyril Connolly in the New Statesman or 21st November 1936 of the anarchist revolution during the Spanish Civil War"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/anarchist-revolution-spain-new-statesman)
+
+Collectivised CNT tram Account by Cyril Connolly in the New Statesman or 21st November 1936 of the anarchist revolution during the Spanish Civil War
+
+"It is in Barcelona that the full force of the anarchist revolution becomes apparent. Their initials, CNT and FAI, are everywhere. They have taken over all the hotels, restaurants, cafes, trains, taxis, and means of communication, as well as all theatres, cinemas, and places of amusement. Their first act was to abolish the tip as being incompatible with the dignity of those who receive it, and to attempt to give one is the only act, short of making the Fascist salute, that a foreigner can be disliked for.
+
+Spanish anarchism is a doctrine which has gone through three stages. The first was the conception of pure anarchy which grew out of the writings of Rousseau, Proudhon, Godwin, and to a lesser extent, Diderot and Tolstoy. The essence of this anarchist faith is that there exists in mankind a natural trend towards nobility and dignity; human relations based on a love of liberty combined with a desire to help each other (as shown for instance in the mutual generosity of the poor in slum districts in cases of sickness and distress) should in themselves be enough, given education and the right economic conditions, to provide a working basis for people to live on; State interference, armies, property, would be as superfluous as they were to the early Christians. The anarchist paradise would be one in which the instincts towards freedom, justice, intelligence and "bondad" in the human race develop gradually to the exclusion of all thoughts of personal gain, envy, and malice. But there exist two stumbling blocks to this ideal - the desire to make money and the desire to acquire power. Everybody who makes money or acquires power, according to the anarchists, does so to the detriment of himself and at the expense of other people, and as long as these instincts are allowed free run there will always be war, tyranny, and exploitation. Power and money must therefore be abolished altogether. At this point the second stage of anarchism begins, that which arises from the thought of Bakunin, the contemporary of Marx. He added the rider that the only way to abolish power and money was by direct action on the bourgeoisie in whom these instincts were incurably ingrained, and who took advantage of all liberal legislation, all concessions from the workers, to get more power and more money for themselves. "The rich will do everything for the poor but get off their backs," Tolstoy has said. "Then they must be blown off," might have been Bakunin's corollary. From this time (the Eighties) dates militant anarchism with its crimes of violence and assassination. In most of its strongholds, Italy, Germany, Russia, it was either destroyed by Fascism or absorbed by Communism, which has usually seemed more practical, realisable, and adaptable to industrial countries; but in Spain the innate love of individual freedom, a personal dignity of the people, made them prefer it to Russian Communism, and the persecution which it underwent was never sufficient to blot it out.
+
+Finally, in the last few years it has gone through a third transformation; in spite of its mystical appeal to the heart anarchism has always been an elastic and adaptable faith, and looking round for a suitable machinery to replace State centralisation it found syndicalism, to which it is now united. Syndicalism is a system of vertical rather than horizontal Trade Unions, by which, for instance, all the workers on this paper, editors, reviewers, printers and distributors, would delegate members to a syndicate which would negotiate with other syndicates for the housing, feeding, amusements, etc., of all the body. This anarcho-syndicalism through its organ, the CNT, has been able to get control of all the industries and agriculture of Catalonia and much of that in Andalusia, Valencia and Murcia, forming a more or less solid block from Malaga to the French frontier with considerable power also in the Asturias and Madrid. The executive militant spearhead of the body is the Federacion Anarquistica Iberica, usually pronounced as one word, FAI, which partly owing to acts of terrorism, partly to its former illegality, is clothed in mystery today. It is almost impossible to find out who and how many belong to it.
+
+The ideal of the CNT and the FAI is libertarian Communism, a Spain in which the work and wealth is shared by all, about three hours' work a day being enough to entitle anyone to sufficient food, clothing, education, amusement, transport, and medical attention. It differs from Communism because there must be no centralisation, no bureaucracy, and no leaders; if somebody does not want to do something, the anarchists argue, no good will come of making them do it. They point to Stalin's dictatorship as an example of the evils inherent in Communism. The danger of anarchism, one might argue, is that it has become such a revolutionary weapon that it may never know what to do with the golden age when it has it, and may exhaust itself in a perpetual series of counter-revolutions. Yet it should be an ideal not unsympathetic to the English, who have always honoured freedom and individual eccentricity and whose liberalism and whiggery might well have turned to something very similar had they been harassed for centuries, like the Spanish proletariat, by absolute monarchs, militant clergy, army dictatorships and absentee landlords."
