@@ -1,0 +1,44 @@
+---
+title: "Neither their peace nor their war"
+author: "Rev Dia"
+date: "2022"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/rev-dia-neither-their-peace-nor-their-war"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 26th January 2022 from a translation of revdia.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "rev-dia-neither-their-peace-nor-their-war.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/rev-dia-neither-their-peace-nor-their-war.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/rev-dia-neither-their-peace-nor-their-war)
+
+Recently, it can be noticed that the activity of a number of organizations and political forces has again aggravated the issue of “truce” in the South-East of Ukraine. The Rada recently passed a law on holding elections in Donbas within the framework of the Minsk agreements. The event itself is only a fully expected consequence of the negotiations themselves, changes in the constitution and behind-the-scenes agreements between Ukraine, Russia and the European Union. But this did not prevent Azov from using this day for a spectacular, but completely meaningless (except, of course, their self-publicity) march. The Minsk agreements were called by the Central Committee the Azov and Biletsky capitulations, and their own demands, typical of right-wing populists, were called the demands of the whole nation. There are some interesting moments in the march itself.
+
+First, it is obvious that after signing the Minsk agreements with Ukraine’s main creditors, Germany and France, the government will be able to withdraw from these agreements only at the cost of losing all possible investments and loans. For a corrupt state, this will mean the lack of billions of dollars to cut (which will mean stopping funding for the Azov Regiment — no longer buying the White Leader an apartment in the center of Kiev), and for ordinary citizens it will be an economic disaster. After all, no matter how cool, crumbs from the lord’s table settled in the pockets of ordinary Ukrainians. It is no secret that due to the nature of modern Ukrainian society, despite all the activity in the struggle for political rights (often not useless), the struggle for economic rights, for bread, practically does not go beyond appealing to government agencies or journalists, and only occasionally, in extreme cases, peaceful street rallies. With this approach of “class unity”, Ukrainian workers have become, in fact, hostages of the economic decisions of the elite and can not oppose them because of their differences. If Azov did not play PR, but really tried to force the government to withdraw from the Minsk agreement, for Ukrainians it would mean only two ways — extreme radicalization and social explosion, or extreme poverty, unemployment and a sharp outflow of youth to neighboring countries. It is obvious that the security guards and reactionaries from Azov, and even more so those behind this formation, are not going to take such risks.
+
+Even some representatives of the far-right movement have noticed the inconsistency of “capitulation fighters” — and this is not surprising, because neither when adopting amendments to the constitution, nor when Poroshenko signed agreements, no “warning” marches were held through Azov, and from events near the Verkhovna Rada and Igor Humeniuk, Azov decided to distance itself as much as possible.
+
+Secondly, Azov’s action was largely of a protest nature and was directed against Poroshenko. There are still posts against Poroshenko on their media. After all, until recently, when Azov took part in the dispersal of the “third Maidan”, on their website they called themselves nothing but a pro-government force that is not going to rock the boat, “or Putin will attack.” The abrupt paradigm shift is not surprising. In Ukraine, the contradictions between the highest echelons of power are escalating — the conflict between Poroshenko and Yatsenyuk, the conflict between Saakashvili and Avakov — these are just ripples on the water, which we can see in the media. But even without this, it is obvious that two large groups have formed under the government, with Poroshenko at the center of its influence and the Popular Front, Avakov, and their sponsors at the center of the other’s influence. These two groups are trying to share power, resources and authority with each other — and many political forces, speeches and statements are just an instrument of pressure from one group to another.
+
+It is easy to confirm that Avakov and Azov are still working together, even on the same march. Some media outlets reported that one of the police officers was injured by pyrotechnics during a march by one of the protesters. And, literally half an hour later, the press service of the police has already denied that any of the police were injured and declared that the march was legal. Avakov and Biletsky, apparently, were acquainted in their hometown and formed a semblance of feudal relations between them. Avakov acts as a senior, and Biletsky as an executive vassal, who carries out a political order from Avakov’s influence group.
+
+It seems to us that the topic that Azov raised on the march was chosen for only two reasons — it was easier to mobilize free right-wing activists (thus reducing financial costs), and this topic itself did not touch on other, more social issues that could would provoke society to further steps. After all, why talk about a twofold increase in tariffs when the elections in Donbass are held?
+
+Third, it is also clear to us that Poroshenko’s peace agreements are nothing more than an attempt to preserve the status quo, including with the small pro-Russian juntas that have developed in Luhansk and Donetsk oblasts. This “world” for many residents of the occupied regions will mean the continuation of the tyrannical rule of the Kremlin’s puppets. And for Ukrainians, this will mean the eternal position of hostages in the hands of the authorities, who in any case will urge not to rock the boat, nod to the heel, pro-Russian, column, blame any dissatisfied agent of the Russian secret services. Such a world promises nothing good for Ukrainians or for the people of Donetsk and Luhansk, except for further impoverishment. Moreover, it is likely that the symbiosis of pro-Russian and current Ukrainian elites will provide a good basis for establishing a police and predatory state in Ukraine, which will not count on anyone and suppress any protests by brute force.
+
+The Ukrainian elite does not want and cannot change the situation, because the war could lead to the loss of sponsors in Europe and to the total occupation by Russia (which, like a driven rat, is ready to take any measures to protect its “ imperial conquest ”). In fact, Ukraine has become hostage to the capitalist and state systems, as well as the authoritarian mentality of many workers. If a large part of the people of Donetsk and Luhansk were ready to fight not only with the fictional “junta”, but also with the real one — then no weapons and specialists from Russia would be able to occupy the territory that is now under the control of pro-Russian forces. If a large part of Ukrainians were set up for class conflict, sought their rights and had real, not virtual weight in the country’s political life, sought greater self-government and autonomy from the state — then the occupation of Ukraine would be impossible without terrible costs for Russia (in comparison, Chechnya would seem to be an extremely cheap conflict), and many Ukrainian servicemen would not fall into the traitorous cauldrons of their generals. Attempts to reconcile the oppressors with the oppressed and, therefore, the oppressors of the two warring parties within this system will invariably lead to the creation of a dictatorship. Trying to ignite the flames of war with one gang of exploiters against another will inevitably lead to casualties from the civilian population, completely cut off from this choice, to a bloody war in which there will be no justice, only money and resources.
+
+At the moment, anarchists cannot seriously influence the situation in the country — not because of their control and puppetry, as in Azov, but because of the small number and lack of resources. Therefore, it is unwise to think now what would be better for Ukrainians on one side or the other than to untie this capitalist Gordian knot. For us, only one thing is clear — neither declarations of peace nor cries of war bring anything good to Ukrainian workers.
+
+Only the struggle and war against “their” masters can give Ukrainians both bread and freedom. Real freedom, not the one that only applies to the top.
+
+We have only one thing to say: Peace is a house, war is a palace.
