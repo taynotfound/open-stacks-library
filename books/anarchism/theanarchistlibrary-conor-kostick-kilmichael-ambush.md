@@ -1,0 +1,120 @@
+---
+title: "The Kilmichael Ambush"
+author: "Conor Kostick"
+date: "2025"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/conor-kostick-kilmichael-ambush"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "28 November 1920"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "conor-kostick-kilmichael-ambush.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/conor-kostick-kilmichael-ambush.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/conor-kostick-kilmichael-ambush)
+
+Violence and Revolution: was the Kilmichael Ambush justified?
+
+In November 1920, the War of Independence between the Irish national movement and the British authorities was at its height. Determined not to make any concessions in Ireland, partly for fear of the consequences for the rest of the empire, the British Cabinet had embarked on a policy of repression and intimidation. From 25 March 1920 a new military force, the ‘Black and Tans’ (called after the colour of their uniform) began to arrive in Ireland and their aim, as the Police Journal put it, was to make Ireland ‘an appropriate hell for rebels’.
+
+Burning property, torturing suspects and assassinating whoever they chose without fear of legal consequence after the Restoration of Order in Ireland Act of August 1920, the Black and Tans attempted to crush the daily acts of resistance by Irish nationalists. The police were also supplemented by a 1,500 strong Auxiliary Division of soldiers, known as the ‘Auxies’, who were recruited from officers who had been in the Great War and who from August 1920 took the lead in attacks on suspected nationalists.
+
+In the month before the Kilmichael Ambush, eighteen-year-old Kevin Barry had been hung in Mountjoy Jail, leading to huge popular anger and dismay, while on 21 November 1920, ‘Bloody Sunday’ had seen fourteen British agents shot dead by Michael Collins’s intelligence group. In reprisal, British troops went to Croke Park and fired on the crowd and players, also killing fourteen people. In Dublin castle, three prisoners were beaten and killed.
+
+From about the end of September 1920, the Cork III Brigade of the IRA had been operating a ‘flying column’. This was a full-time unit that was prepared to remain under arms and travel considerable distances, unlike the more typical IRA company, which mobilised for a task but then returned to civilian life when the mission was over. On 21 November 1920 a meeting of the Brigade Council took place with representatives from all the battalions. There it was decided to put the flying column on a regular footing with Tom Barry as Officer Commanding. The new Flying Column assembled at Clogher, Dunmanway, with an empty house for its headquarters. There, the thirty men received training from Tom Barry, although lack of ammunition meant they could only fire three rounds each. Three days training was all the preparation the unit obtained before facing into battle.
+
+Tom Barry was only twenty-three at the time of the Kilmichael Ambush. But then, most of his men were in their 20s. When they were joined at the ambush point by Cornelius Cotter of Curradringagh, Cotter was much the oldest at 39. Although young, Barry had been in the Great War and until radicalised by news of the Easter Rising of 1916, had not considered himself to be in any way political. He did, however, see active service in Turkey and Egypt before his discharge on 7 April 1919.
+
+The Cork III Brigade Flying Column had rifles from two sources. On 17 November 1919, Maurice Donegan, O/C 5th Battalion, Cork III Brigade had organised a successful raid on a British Naval Motor Launch in Bantry, through which he had obtained ten rifles, ten revolvers and plenty of ammunition. He reckoned that, ‘without them the Kilmichael Ambush could not have been carried out in the following year.’ Another cache of rifles came from the Volunteers of the post-1913 period. Denis McCullough, IRB Supreme Council, recalled how the Ancient Order of Hibernians had seized control of Volunteer rifles in Belfast,
+
+… and hid them in the pavilion in Celtic Association Football Club grounds. They remained there for a long time, but sometime about 1919/20, the IRA traced their hiding place, raided Celtic Park, recovered the guns and sent them back to Dublin. I gather from Frank Thornton that they eventually were brought to Cork and were in use at the famous ambush in Kilmichael and other engagements in the West Cork area, where they were used to good effect.
+
+Each member of the flying column had 35 rounds of ammunition and in addition, the unit had two ‘Mills bombs’, i.e. hand grenades with an effective range of about 15 metres.
+
+The local Auxiliaries had made Macroom Castle their base and IRA intelligence noted that on four successive Sundays two lorry-loads of Auxiliaries had travelled from Macroom to Gloun Cross, after which they varied their journeys. It seemed possible to plan an ambush of these lorries, provided the vehicles were intercepted north of Gloun Cross.
+
+The problem was that the deforested landscape made it impossible to find a spot sufficiently far from Macroom Castle that had any realistic line of retreat. Vice Commandant of the flying column, Michael McCarthy, and Tom Barry therefore picked an ambush position that gave a fair chance of victory in a battle that was likely to be a fight to the death. It was a stretch of road near Kilmichael where a couple of sharp turns in the road would help with slowing the lorries and some sizeable rocky outcrops provided cover near the road.
+
+On the night of Saturday 27 November the IRA men gave their confessions to Canon O’Connell, P.P., Ballineen, who arrived for that purpose. The priest wished the men luck and referred to their being ‘in the middle of the Sassenachs’, that is, in an area heavily occupied by imperial forces. Very early, around 2 a.m. under a sleet-filled night sky, on Sunday, 28 November 1920, Barry paraded the men and then led them towards the Kilmichael Ambush, avoiding all houses on the way and skirting junctions.
+
+Having walked through the night and wet weather for over five hours and nearing their destination, it was discovered that fifteen-year-old signals Lieutenant Pat Deasy had followed the column. Although Pat was ordered home, his appeals, fatally, won through and he was placed in the company of Michael McCarthy.
+
+Parading the men, Barry gave a speech about the importance of the battle to come. The Auxiliaries had been built up in British propaganda as undefeatable. This would be the first encounter between Auxiliaries and the IRA and for the sake of the whole nation, they had to win. It would be a fight to the end, the landscape did not permit retreat. With that, the flying column deployed in three sections for the ambush. At the east end of the road was Section 1, under the command of Barry. Their big challenge was to slow the enemy lorries so that rifle fire and possibly a Mills bomb would be effective in stopping the first vehicle. Since they had no land mines, Barry decided on a tactic that was highly risky for him personally, which was to simply stand on the road while wearing an IRA officer’s tunic and field equipment, which he had borrowed from Patrick O’Brien, Adjutant 3rd (Dunmanway) Battalion, Cork III Brigade. Surely, if only out of curiosity, the lorry would brake to examine such an unfamiliar sight? The rest of Section 1 were close to Barry, hidden behind a narrow stone wall which jutted out as far as the road.
+
+Section 2 were to deal with the second lorry. They took up positions near to the road on the north side, but had to spread out in case the second vehicle did not come around the corner. The east end of this position was to witness the heaviest exchanges of fire and it was just as well that Jack Hennessy, Adjutant of Ballineen Company and Section Leader, of the Flying Column took measures to improve the natural cover.
+
+My particular position was on a clump of rocks overlooking the road, but there was no protection on either side. We were in position at 8 a.m. and I built a wall of dry stones around our position and covered the stones with heath. This gave us a box to fight from in case the Auxies made an attempt to surround us if anything went wrong with our attack.
+
+A third section was placed on the south side of the road, which was essential to ensure that as the Auxiliaries entered the Kilmichael Ambush they were caught in a cross-fire and would find it hard to obtain cover.
+
+Having learned about the ambush, at 9 a.m. John Lordan, vice Officer-Commanding of the Bandon Battalion arrived with his rifle and was warmly welcomed by Tom Barry, being assigned to No. 2 section. With local Cornelius Cotter present with his side-by-side double barrel shotgun and assigned to Section 1, and with young Pat Deasy the ambush party was 34 strong.
+
+All day long, the IRA soldiers lay in cover in the cold, damp air. No provision had been made for a supply of food, although nearby was a poor farming family whose girls brought the men a bucket of tea and shared what little bread they themselves had. Finally, as dusk was spreading over the wintery sky, between 4 p.m. and 5 p.m., there came almost simultaneously two sounds: that of a horse drawn cart and the distant rumble of lorries.
+
+In the cart were five armed Volunteers who were replacements for the Flying Column from companies who had rotated their contribution to the column in order to share the experience of training. Shouting, ‘get them off the road. Gallop up the passageway. The Auxies are here. Keep galloping,’ a disaster was narrowly averted by a matter of seconds. After all the painful, freezing and starving hours of waiting, the ambush could have fallen apart had the Auxiliaries come across these IRA men prematurely.
+
+The galloping horse took the late arrivals down the passage past the house at the western end of the ambush position, where they dismounted too late to participate in the battle. No sooner had these soldiers moved off the roadway when the first of two lorries came around the corner.
+
+Merry and singing, the officers of the British army who had been gathered together at very high rates of pay to smash the Irish national movement were indeed curious as they saw a lone figure in uniform on the dusky road. The first lorry slowed down to a crawl at fifty yards from Barry, still edging towards him. Whistle in mouth, finger of the pin of his Mills bomb, Barry waited until the vehicle was thirty-five yards away. This was a long distance for the bomb, but there was a generous size of target, the uncovered cabin area of the lorry behind the windshield, and to wait for an even closer target was to risk the enemy acting first. He pulled the pin, threw the bomb and drew his automatic, the first shot of which signalled everyone else to open fire.
+
+With a stunning explosion, the grenade landed perfectly beside the driver, killing him and another Auxiliary, probably District Inspector Francis Crake, the commanding officer. The lorry continued to roll on to within a few yards of Section 1 who had leapt into the road and were all firing furiously. The seven Auxiliaries in the back scrambled out and did their best to return fire but in a matter of minutes were all dead or wounded.
+
+Witnessing the battle ahead and under fire himself, the driver of the second lorry tried to reverse but got stuck. The Auxiliaries in the vehicle threw themselves from it and began to return fire toward the rocks from where Section 2 were based. This exchange lasted some time, for one participant it felt like twenty minutes, although in reality it was probably more like ten.
+
+I was wearing a tin hat. I had fired about ten rounds and had got five bullets through the hat when the sixth bullet wounded me in the scalp. Vice Comdt. McCarthy had got a bullet through the head and lay dead. I continued to load and fire but the blood dripping from my forehead fouled the breach of my rifle. I dropped my rifle and took M McCarthy’s. Many of the Auxies lay on the road dead or dying. Our orders were to fix bayonets and charge on to the road when we heard three blasts of the O/C’s whistle. I heard the three blasts and got up from my position, shouting ‘hands up’. At the same time, one of the Auxies about five yards from me drew his revolver. He had thrown down his rifle. I pulled on him and shot him dead. I got back to cover, where I remained for a few minutes firing at living and dead Auxies on the road.
+
+The battle was won when Barry and the rest of Section 1 reloaded as fast as they could, or picked up rifles and ammunition from the dead Auxiliaries around their lorry and then hurried along the road to within close range of the second lorry. Once these IRA men were able to open fire, the position of the Auxiliaries was hopeless and several of the British ex-officers shouted that they surrendered, throwing away their rifles. This was the moment Barry blew his whistle three times, summoning everyone to the road. But the fighting was not, in fact, at an end. Pulling revolvers, some of the Auxiliaries who had surrendered started shooting again, wounding two IRA men, including young Pat Deasy who had stood up at the whistle and took a bullet through his stomach.
+
+Merciless now, Barry ordered an all-out attack and the Section 1 men continued to advance, shooting as they did so, until within ten yards of the last of the Auxiliaries to be killed. Then, in the silence, Barry blew his whistle again.
+
+When I reached the road a wounded Auxie moved his hand towards his revolver. I put my bayonet through him under the ribs. Another Auxie tried to pull on John Lordan, who was too near to use his bayonet and he struct the Auxie with the butt of his rifle. The butt broke on the Auxie’s skull.
+
+As the members of the flying column dragged the corpses of their enemies into the road and searched them, the driver of the second lorry escaped. He had been hiding under the lorry and choose this moment to make a run for it. He chose well and despite being fired upon, escaped into the deepening gloom. Michael O’Driscoll, Coomhoola Company, 5th Battalion Cork III Brigade saw him making off across country.
+
+I fired a couple of shots at him before realising that my sights were down. When I had my sights right, he had got into cover among some cattle and I lost him.
+
+Unfortunately for the driver of the second lorry, despite an almost miraculous escape from the scene of the ambush, he was later seen at Droumcarra, where he arrived at nightfall. A group of unarmed men sympathetic to the IRA took him on with sticks and found his revolver was empty. Made a prisoner, the Auxiliary driver was handed over to Cornelius Kelleher, Officer Commanding Tarelton Company, Cork I Brigade. He was subsequently executed and buried in Andhala bog. Kelleher had been out riding his biycle with a dispatch for Barry and gone to investigate the ambush scene, witnessing the burning lorries before turning back to assist with the two bodies of the IRA dead and the dying Pat Deasy.
+
+Of the eighteen Auxiliaries to have set off in the two lorries from Macroom Castle that day, seventeen were killed. The only survivor was an Auxiliary so badly injured that he never recovered the use of his limbs.
+
+Having set fire to the lorries, the men of the flying column gathered seventeen rifles and seventeen revolvers, seven or eight Mills bombs, other military equipment and large weight of rifle and revolver ammunition. Perhaps most valuable of all was a sandbag filled with the papers and notebooks that were recovered with detailed information about the British military presence in the locality. As a result, when the column left the scene to march towards their safe house at Granure via Manch Bridge, progress was very slow and it was not until after midnight that they reached their billet, an abandoned cottage. The whole column slept on bundles of straw strewn about the floor after a late meal prepared by members of Ballinacarriga company.
+
+Other IRA men and women from Cuman na mBan assisted the recovery of the flying column by mounting guard and acting as scouts despite the pouring rain. Mary O’Neill (later Walsh), Captain, South Bandon area, Cumann na mBan helped treat the wounded the following day when the column had moved on to Kilbrittain.
+
+After the Kilmichael Ambush a number of the Column came into our area [Kilbrittain Branch] to rest. John Hennessy had a scalp bullet wound which was not dressed for two days. I cleaned and dressed the wound and he remained until it was healed. A Doctor said, later, only for the care he might have been blood poisoned.
+
+Meanwhile the bodies of Michael McCarthy and James O’Sullivan, who had been short during the heavy fighting around the second lorry were taken by cart, with the wounded Pat Deasy to a farmhouse near Castletown-Kinneigh owned by the Buttimer family. At around 10 p.m. the teenager died. Understandably, the Buttimer’s were anxious to get the three bodies out of the house, anticipating that they would be burned out of their home as a reprisal. The corpses were temporarily buried in a bog for three days until they could be properly buried in Castletown-Kinneigh.
+
+It might be expected that this extraordinary victory led to a sense of triumph among the members of the flying column. Among the wider Irish national movement and internationally among opponents of the British empire it was hugely celebrated. But among the men themselves, the reaction was almost the opposite. And no wonder. All warfare is disgusting and this battle was particularly grim. James O’Sullivan had died when his face was smashed in by a ricochet from the bolt of his rifle. Pat Deasy had bled out in pain for hours. The Auxiliaries had been shot, some at very close range; they had also been bayonetted, or had their brains smashed out. One IRA man had received a mouthful of arterial blood from his enemy. The Auxiliaries had gone down screaming and cursing. Every combatant would have horrific memories for the rest of his life.
+
+As Michael O’Driscoll observed. ‘Some of our men were pretty badly shaken. The fight had been short, sharp and very bloody.’ Tom Barry had noticed the cooling down of the men in the aftermath of the fight and that ‘a few appeared on the point of collapse because of shock.’ He gave orders for drilling and marching, to rally them. But even an experienced veteran like Barry was not immune to the consequences of violently destroying other human beings and his heart trouble in the days that followed might well have been a result of trauma as well as the marching and waiting for hours in the cold and wet.
+
+Far from going on to relish battle, the victorious IRA men of the Kilmichael Ambush were disinclined to go through similar experiences again. Peter Kearney, Lt Battalion Staff (Scouting), 2nd Battalion, Cork I Brigade noted: ‘The 3rd Dunmanway Battalion had been falling away rather badly since the Kilmichael ambush. A number of men out of that battalion had fought at Kilmichael, but the strain had affected their nerves to such an extent that a number of the battalion officers were practically useless from that time on, and no resistance was being shown to the enemy who were very overbearing.’
+
+Very few of the men ever showed any inclination to celebrate the ambush; they did not talk to their families about it and it is noticeable in RTE interviews around the anniversaries how curt they tend to be, as well as somewhat mocking of myth making.
+
+There is no doubt that the victory of the IRA against the Auxiliaries on 28 November 1920 was a massive blow to the morale not just of the British forces in Ireland but also their hangers-on. It was a justified action in that it contributed to the decline of imperial rule in Ireland. Those nationalists operating secretly within the British administration were able to observe the effect of the IRA’s action at Kilmichael. Liam Archer, a telegraphist at the G.P.O. described how, ‘one night I took a phone call from Auxiliary HQ, Beggars Bush. The Auxie led off with “Oh hell”. I said, “what’s up?” He answered, “my nerves are bad – we are all in a bad way,” and he then gave me the story of Kilmichael.’
+
+Ned Broy, operating for Michael Collins within the police wrote,
+
+During the second half of the year 1920 the Auxiliary force of the R.I.C. began to come into action against the I.R.A. In July, 1920, they numbered 500 and by 26 December of that year their strength was 1,227. British propaganda in Ireland lauded the new force to the skies. They were invincible; they were almost bullet proof, and the I.R.A. would never dare to attack or even face such redoubtable adversaries. The hangers on of Dublin Castle began to take new heart. They had found a trump card at last after having had to endure such a succession of disasters.
+
+Just when this propaganda was at its height, on 28th November, 1920, a force of 18 Auxiliaries was annihilated at Kilmichael, near Macroom, in the Co. Cork. British propagandists alleged that, not satisfied with merely killing the Auxiliaries, the I.R.A. had then mutilated the bodies with axes. What really happened was that some of the Auxiliaries called out that they were prepared to surrender and when the I.R.A. moved forward in order to accept the surrender the Auxiliaries again commenced firing and killed three Volunteers. The remaining Volunteers resumed firing and did not desist until the whole Auxiliary force was wiped out.
+
+This axe propaganda thus contradicted the main propaganda. The Volunteers, who were alleged to be afraid of attacking such supermen according to the new propaganda, were in so little dread of antagonising the remaining 1,200 Auxiliaries that they used axes on the dead Auxiliaries. This secondary propaganda again made the hearts sink of all the friends and minions of Dublin Castle. It caused an immediate loss of all cocksureness amongst these human barometers.
+
+To recognise that armed resistance to the empire played a part in forcing Britain to the negotiating table is not at all the same thing, however, as saying it was always the right strategy to pursue or that it was the most effective one. Had the conflict between Britain and Ireland been a purely military affair, Britain would have won without any difficulty. With up to 100,000 troops available for the suppression of Ireland and with the IRA struggling to find arms and ammunition for more than a few thousand fighters, there was never any possibility of escaping the empire by conventional war. Insofar as the IRA were effective, it was because they were complementing a mass popular movement, one that was making Ireland ungovernable.
+
+Moreover, conservative nationalists were horrified by this independent spirit among the workers of Ireland and came to learn that a crucial instrument for regaining control of the situation was the IRA. When British authority collapsed outside of major towns and cities, it was the IRA that the landlords and richer farmers turned to in order to protect their property. And within the army, the distinction between those at the top and the rank and file grew more marked. Tom Barry observed this when he went to Dublin during the Truce of 1921 and,
+
+could see the way headquarters was carrying on in Dublin – big carpeted suites of rooms in the Gresham Hotel and bottles of whiskey and brandy all round. I went in and told them they should be ashamed of themselves.
+
+Those who chose the path of being a member of the IRA during the War of Independence deserve recognition for risking their lives and making enormous sacrifices to help the whole country escape a tyrannical and exploitative imperial power. It was not, however, a path that could even achieve temporary success without other people organising radical popular protests, especially among the working class.
