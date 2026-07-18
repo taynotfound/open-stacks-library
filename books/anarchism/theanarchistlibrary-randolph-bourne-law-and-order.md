@@ -1,0 +1,40 @@
+---
+title: "Law and Order"
+author: "Randolph Bourne"
+date: "2010"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/randolph-bourne-law-and-order"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Masses (March 1912). Reprinted in The Radical Will Retrieved on November 18, 2010 from fair-use.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "randolph-bourne-law-and-order.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/randolph-bourne-law-and-order.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/randolph-bourne-law-and-order)
+
+No incident of recent years has served to bring out so much crude thinking among supposedly educated men as the now happily ended McNamara case. A wave of hysterical passion for “law and order” seems suddenly to have swept over the land, a passion which one would like to believe is entirely sincere and ready to carry itself through to logical conclusions. It looks a little too much like a sudden scare, a purely physical timidity on the part of the comfortable classes, to be quite convincing. The gallant and well-worn phrase, “law and order,” has been worked overtime to conceal a very real fear on the part of the dominant classes for their lives and property.
+
+The “law and order” which they reverence is one in which society minds its own business as far as they are concerned, and attends with drastic severity to any violent interference with their peaceful rule of things. Now “law and order” is a very admirable ideal. It is the highest ideal for a society with the exception of one — and that is, justice. The neglect of this important fact has made it very difficult to secure any impartial discussion of the question. Those who have insisted on analyzing the concept of “law and order” and have kept before their minds the ideal of justice, have been instantly denounced as defenders of dynamiting, champions of murder, and enemies of the human race.
+
+Now, it is one thing to defend a deed; it is another to explain it. Because Socialists have kept their heads and tried to explain this remarkable and unprecedented incident, they have had to face a torrent of abuse and vilification which in too many cases has caused an ignominious retreat of Socialist thinkers to cover and a surrender of their logical position. This position is not one of defense or indictment; it is a coldly scientific one of explanation. And the fact that in this overheated atmosphere of prejudice and recrimination, there is a set of principles and a body of facts which will give that scientific explanation, speaks volumes for the truth, accuracy and wisdom of the Socialist philosophy.
+
+Socialists see in the dynamiting incident a symptom of the class-struggle, and in this they are absolutely right. The violence of the labor-unions is simply a pawn in the great game they are waging against the employers’ organizations, and the retaliations of the employers are ruthless, though not perhaps so sensational. It is a real state of war, little as our God-fearing citizens like to acknowledge it. To be sure, the unions are not actuated by any motives of sympathy for the working-class as a whole. They are out simply for the aggrandizement of their own interests. They are the cleverest, most aggressive and most determined portion of the working class, just as the big employers they fight are the most intelligent and aggressive of the capitalistic class.
+
+It is inevitable that the unions should adopt the same methods of organization as do the industrial corporations; that graft and corruption and lobbying should permeate their organization just as it does “big business.” We can best understand the situation by picturing the labor unions and the corporations as the respective advance guards of two hostile armies. Their contact represents the point where the smouldering hostility breaks out into open warfare. The rest of the army we can see straggling back in the rear; on one side the unorganized workers, the unskilled laborers, clerks, etc.; on the other, small merchants, salaried officers and professional men. But the essential, never-closing gulf remains, based on different economies of life, on absolutely opposed interests — a gulf that will never be filled up, except in one way, and that is, of course, Socialism.
+
+This idea of industrial war and the open conflict of a submerged and eternal class-hostility is no mere figure of speech. It is the only sane interpretation of this complex situation. The dynamiting, just as the strikes and riots, is a social phenomenon, not an individual. To speak of murder in this connection is irrelevant. Murder is the willful taking of the life of a definite individual or individuals. Malice is a necessary accompaniment to murder. The dynamiting was, we will admit, a reckless and absurd attempt to further the material interests of the labor unions, but its intent was this ultimate political end, not the taking of the life of individuals, any more than the death of the employees in a badly ventilated mine can be called murder. Indeed, both deeds — the blowing up of the men in Los Angeles, and the mine explosion in Tennessee — are similar in character. Neither expresses malice, but both express a cynical and ruthless disregard for human life, a “class-carelessness,” rather than an individual carelessness. It does little good to hold the individual responsible. Punishing the individual does not change the class ethics and the class practices. You have to change the class attitudes towards each other. And here again, of course, the Socialists have the solution. Abolish this hostile attitude of classes toward each other by abolishing the class-struggle. Abolish class-struggle by abolishing classes. Abolish classes by merging the classes into one.
+
+The part of the government in this case seems perhaps the most unjust of all. We have seen that the labor union system and the corporation system are, to all intents and purposes, each a State revolving in the larger State. Each has its political organization and its control over its members which are the characteristics of a State. These two States are the antagonists in the industrial war. Now the crucial question is, what shall be the position of the governmental State in this struggle? It can throw its governmental machinery of courts and law on the side of the corporations, or on the side of the labor unions, or it can remain neutral and let the contestants fight it out.
+
+Of course, every one recognizes that in actual practice our governmental system is at the disposal of the corporation class. The common law, injunctions, and the entire machinery of the courts is set in motion against the offences perpetrated by the labor unions against the corporations, and but seldom, and that unsystematically, against corporations for their wrongs to labor. Now it is manifest that this is as unfair as it would be for the governmental machinery to be turned over exclusively to the labor unions. And the third alternative — that the State remain neutral — while theoretically fair, would, of course, result in intolerable anarchy, and besides would abrogate the State’s claim to authority as the political expression of the whole people. The only thing left then is that the State become either the arbitrator between the two sides (a function for which it is badly fitted), or that it should become progressively Socialistic and devote all its efforts to the abolition of the class-war.
+
+Thus we see that all the morals of this incident of the McNamaras lead to Socialism. It is imperative that college men should think clearly on this subject and not let themselves be carried away by traditional phrases which they have never stopped to analyze. We have a new situation to interpret, and we must think of it in new terms. The Socialist philosophy gives the only intelligible analysis and interpretation of this as of so many other situations. Without it, one has only confusions and absurdities of thought.
