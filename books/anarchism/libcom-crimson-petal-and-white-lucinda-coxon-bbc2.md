@@ -1,0 +1,24 @@
+---
+title: "Crimson Petal And White Lucinda Coxon Bbc2"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/crimson-petal-and-white-lucinda-coxon-bbc2"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An unusually lucid, lurid costume drama goes straight for Victorian hypocrisy’s jugular ... Too straight, perhaps?"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/crimson-petal-and-white-lucinda-coxon-bbc2)
+
+An unusually lucid, lurid costume drama goes straight for Victorian hypocrisy’s jugular ... Too straight, perhaps?
+
+A Rose by Any Other Name ... Television review – Tom Jennings This surprisingly effective London Victoriana condenses Michel Faber’s massive 2002 novel, which transcended both familiar narrative conventions of sprawling Dickensian naturalism and latterday gender-centred revisionisms like John Fowles’ The French Lieutenant’s Woman and Sarah Waters’ feminist fables queering typical patriarchal pitches. Lucinda Coxon’s ambitious four-part adaptation (on BBC2 in April) likewise subverts UK costume drama’s softpedalled apologism for aristocratic hierarchy variously seasoned with limp critique – from sundry disgusted fascinations with lavish decadence, through Andrew Davies’ yuppie-friendly popularisations of Jane Austen, to recent bourgeois trash like Downton Abbey reinstating rigid stratification’s cosy cold comforts. Director Marc Munden, whose The Devil’s Whore (Channel 4, 2008) corroded English Civil War clichés of grim puritans and romantic royalists – even hinting at the political and military significance of assorted utopian socialists like the Ranters and Levellers – now suitably queasily reinscribes the 1870s imperial capital’s rotten inner-city and sinister suburbia. In hellish Notting Hill alleyways filmed in skewed angles, colour and focus for maximal disorientation, a teenage prostitute’s discovery of a friend battered to death by a client becomes grist to the literary shit-ledger our autodidact heroine has compiled since her brothelkeeping mother first pandered her upon puberty. Sugar (played with impressive detached intensity by Romola Garai), already legendary in sex-tourist guides, beguiles feckless industrialist heir William Rackham (Chris O’Dowd, nailing the comic pathos of pretentious snobbery) who risks bankruptcy for exclusive patronage – first in a respectable townhouse, then his sterile Surrey home as governess to a child whose secluded mother’s abject terror of flesh and blood renders her vulnerable to both abusive medics and fashionably vacuous spiritualism. Sugar’s pragmatic entrepreneurialism in escaping the gutter lends her intellectual prowess to save Rackham’s business fortunes, but proto-feminism and class-hatred uneasily mingle in protecting the wife and daughter – eventually destroying him but returning her to precariousness. The Crimson Petal and the White ’s sophisticated allegory of sex trade as social structure surpasses classic tropes of tragic whores and happy hookers, whether in Fanny Hill , Pygmalion , Pretty Woman or Secret Diary of a Call Girl . Rich historical and cultural references convincingly interweave prostitution and class, poverty and aspiration, family and the disciplining of bodies and souls, the development of capitalism and ideological and religious mystification in a refreshingly materialist matrix with manifold resonances. But whereas Faber forensically contrasted details of disinterested sex, ubiquitous disease and meticulous corporeal care with the breathtaking evasions of Agnes’ hysterical agony and William’s cringeing aestheticism, on TV we merely get vivid momentary reminders of the underlying obscene Real. Similarly, the avoidance of excessive prurient televisual attention also means downplaying Sugar’s fertile expressivity, implying that degradation permits sensuality only via displaced negativity. Fleeting intimations of love for her own – and of their considerable feral intelligence – thus remain inconsequential rhetorical supplements to overdetermining unfortunate circumstance, which precludes lasting solidarity when betterment necessitates severing roots. Refusing stereotypes of hapless vulgar lower-class humility does not demand such solipsism, especially given that widespread grass-roots collective ferment in this period actually nourished substantial social reform movements. Frustratingly, the series ultimately recapitulates its precursors’ deep conservatism, surrendering to a modernist individualism epitomised by final flight to a fantasied ‘free’ America. The Crimson Petal and the White is released on DVD on 6 June Review first published in Freedom , Vol. 72, No. 10, May 2011. For other reviews and essays by Tom Jennings, see: www.variant.org.uk www.tomjennings.pwp.blueyonder.co.uk
