@@ -1,0 +1,40 @@
+---
+title: "Sparks Power Tyne Wear Wildcat Action Wins Back Jobs"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/sparks-power-tyne-wear-wildcat-action-wins-back-jobs"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "There should be no question about the real cause of this victory – the direct and continued industrial action of sparks at the Follingsby Park picket!"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/sparks-power-tyne-wear-wildcat-action-wins-back-jobs)
+
+There should be no question about the real cause of this victory – the direct and continued industrial action of sparks at the Follingsby Park picket!
+
+On construction sites around the UK, contractors such as Balfour Beatty and NG Bailey have already tried to de-skill the sparks’ (electrician) trade earlier this year. These contractors remain unpopular among many workers in the electrical industry due to this, though ultimately they failed to achieve their goal after much resistance from the sparks throughout the country.(1) However, this has not stopped other contractors from trying to do the same. Most recently we have seen an example of this in Gateshead.
+
+Jeff Bezos’ Amazon is using a number of construction contractors to build a massive fulfilment centre in Follingsby Park, the sizeable industrial estate in Tyne & Wear. In a move that is typical for the fragmented nature of present-day capitalism, only the fulfilment centre itself is owned by Amazon – the construction work is carried out by labourers brought in from various other contractors, whereas the workforce for the Amazon site itself will be provided by yet another agency. SSE Enterprise Contracting, one of the contractors responsible for finishing things for Amazon at Follingsby, told untrained workers to detach cables and carry out other potentially deadly electrical works on-site; not only did this move go against any sense of health and safety, it also undermined the skilled trade of the electricians. Thus the sparks organised an impressive wildcat action on 16 June, refusing to work and picketing the fulfilment centre instead.
+
+SSE refused to admit any error on their part at first, while Amazon was quick to dismiss any responsibility by claiming the issue concerns only “a small number of contractors working at the Gateshead site and had no operational impact on the construction works currently taking place”.(2) However, the pressure from the sparks (primarily rank & file members of the trade union Unite) initially seemed to have worked brilliantly as some 60 sparks refused to cross the picket. In response to this, the main contractor gave in and insisted “that this stops and electricians are hired to complete the work”.(3) Unite were quick to announce this as a victory, but shortly thereafter around 35 electricians who were employed by SIS Systems – yet another sub-contractor – were told to leave the site for good on Friday.
+
+Although no official reason for the sacking was given, it was obvious that this was done to rid the construction zone of any class-conscious sparks and punish them for their industrial action (all of the fired workers had taken part in the earlier pickets). The sparks rightfully chose to organise more wildcat activity for the following week, starting and carrying on with pickets from Monday 21 June. The numbers were not as numerous this week as the 100 or so attendees of last week’s Wednesday picket, but there was a strong presence nonetheless. On Tuesday the sparks even decided to completely block the entrance to the site; when told by the police to “move”, they did so creatively – by crossing the road back and forth, therefore cleverly still blocking all incoming traffic.
+
+The solidarity on the scene was commendable, with the majority of the sparks present actually arriving from other workplaces (some even on leave from offshore platforms), but the area was not clear of scabs either. Some of the electrical workers from Liverpool and other locations around the UK chose to betray their proletarian colleagues by crossing the picket line. One particularly aggressive man almost drove into some of the protesting sparks, threatening to come back with a blade to stab all of them for blocking the entrance.(4)
+
+Despite the threats and an increased police presence, the sparks showed up yet again the next day on Wednesday 23 June and bravely continued to picket the Amazon construction site at Follingsby Park all the way through the morning. Talks between contractors, sub-contractors and a representative from Unite (workers from the picket line were not involved in the process and some were not sure who exactly was representing them) were set to start at 10am on the same day, so the sparks decided to not block the entrance in order to give them a chance while still showing their presence. Not everyone was keen on Unite, however, with one spark comparing trade union reps to politicians and saying that he does not trust them, instead fully agreeing with the need for workers’ self-organisation and direct action. Another admitted that nothing can be achieved through the official channels of the unions, hence the need for wildcat action. Even among those who were more enthusiastic about Unite, the sentiment that unions swoop in near the end of strikes and claim credit for working class victories was prevalent. These men had no illusions about the limited nature of trade unions as organs of dialogue and compromise benefiting the ruling class.
+
+Wednesday’s talks continued until past 4pm, but eventually the contractors reluctantly agreed to reinstate all of the fired sparks. There should be no question about the real cause of this victory – the direct and continued industrial action of sparks at the Follingsby Park picket! Persistence and working class solidarity bore fruit, which will hopefully send a clear signal to electricians and workers nationwide that standing up for your comrades can bring results. Though the sparks in Gateshead got their jobs back, attacks on this industry as well as others will continue. We know who will be asked to pay the price for the pandemic and the capitalist crisis.(5) The unwavering spirit of the workers here along with their no-nonsense approach towards scabs, in spite of threats from the latter and ominous messages from some of their supervisors (along with the watchful eyes of the police), remained admirable throughout.
+
+Nevertheless, conditions and terms of work will continue to degrade for all of us. We can expect more dirty deals behind closed doors, and not just in the electrical industry. This is on top of the grim fact that wage labour, regardless of the pay offered and circumstances faced at the workplace, is always exploitation. Defensive struggles such as this one may give us the illusion that the deadly wheels of capital have been halted, but in fact they keep turning and churning. Eventually, perhaps sooner than later, they may bring us and our planet to a scorching end. The working class will know no rest on this Earth until a classless, moneyless, borderless society is achieved. The only possible way of getting us there is revolution – and for that we first need a wider struggle which poses a real political alternative to the bosses’ offensive.
+
+Notes (1) The sparks actually have quite the recent history of workplace militancy. See our articles on the 2011 strikes: Solidarity and the Sparks and 30 November: One Off Protest or Working Class Reawakening? (2) Amazon spokesperson quoted in: chroniclelive.co.uk (3) From the National Construction Rank & File statement: twitter.com (4) Such violent threats are not always empty. We have just reported on the death of the worker Adil Belakhdim in Italy, killed by a driver of a van that rammed into the picket. See: A Victim of the Bosses, A Victim of Capitalism (5) See: A Sign of Things to Come , There isn't a Vaccine against Capitalism and The Capitalist Offensive
