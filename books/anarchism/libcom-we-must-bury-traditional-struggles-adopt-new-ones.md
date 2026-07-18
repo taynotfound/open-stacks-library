@@ -1,0 +1,24 @@
+---
+title: "We Must Bury Traditional Struggles Adopt New Ones"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/we-must-bury-traditional-struggles-adopt-new-ones"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "This article points out our weak position in the global struggles against the state and the system . It tells the readers that the current system is more advanced and more stronger than before so that using the old methods of struggles do not work, benefiting the state and the system."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/we-must-bury-traditional-struggles-adopt-new-ones)
+
+This article points out our weak position in the global struggles against the state and the system . It tells the readers that the current system is more advanced and more stronger than before so that using the old methods of struggles do not work, benefiting the state and the system.
+
+We must bury the traditional struggles to adopt new ones By Zaher Baher 12/02/2020 Capitalism and its pillar, the state, have changed their methods to fight back against the working class movement. The system with all its structures have amended and adapted themselves to the struggle of their class enemy and have learnt how to tame it. In fact the way the working class struggle against their employers and the state has actually benefited the capitalist system. Capitalism is developing. From time to time renewing itself in order to manage better to cope with its internal problems of competition and external ones to fight back against its enemy. This development is very obvious, especially since the 1980s, but still the working class or rather the masses fight back in the same way they fought decades ago. The current global mass movements, in particular the Yellow Vests in France, which has continued for over a year. Countless protests in Iran, the mass movements in Lebanon and Iraq, which started in October 2019, have achieved little to nothing. This is not because they are not strong, or because their demands are irrelevant or because they do not have support from different sections in the society. If we look at the recent global protests, uprisings and movements including the four countries that I mentioned above, they still use the same old tactics and methods to meet their demands. Surely, we cannot use the old tools and tactics in dealing with this very advanced system. The subject is not whether we can still win or achieve a little with the old tactics, the subject is how much we can win? Whether winning confines itself in changing the government or the system? Let’s look into the recent global unrest a bit closer from the Yellow Vests, Hong Kong, Ecuador, Sudan, Chile, Iran, Lebanon and Iraq. The worst possibility is that they can be defeated and given a negative lesson leading to disappointment. The best outcome is they achieve very little. Why is that? The answer is simple. The seeds of the defeat have been carried out by the movement itself. Going on the streets, marching, clashing with the police, occupying a place or a main square in the main cities and staying for a long time. Doing all of this is okay at the beginning of protests or uprisings for many reasons. But staying there for so long without further plans take the protesters nowhere. This weak point must be noticed and addressed to make vital changes in our methods of struggle. We need to expand and transfer our struggle to the vast majority of the people, involving them to create a mass movement with the rest of the community and society. The way we struggle is no longer valid anymore and it serves the system, the state and its own bureaucratic administrations more. The longer the protests continue, the weakest will be drained of energy, blood and less people will be involved. The history of our struggles since 1980s has shown that and is known by many of us. The most current effective movement is the one in Iraq that started in October 2019. Regardless, the protesters need to expand and spread their struggles effectively to the masses by organising in local groups and non-hierarchal mass organisations. They need to involve people in their neighbourhoods, factories, workplaces, schools, universities and offices to set up people’s assemblies. To have regular meetings to bring back the politics to the hands of people by empowering themselves to make their own decisions about every aspect of their own lives and their communities. In my opinion this is a very important step and plan. The above methods are necessary for a mass social revolution. I regret to say without doing these things the fate of the movement in Iraq, Iran and Lebanon won’t be better than the one we have already seen before. Zaherbaher.com
