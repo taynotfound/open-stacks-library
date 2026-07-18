@@ -1,0 +1,44 @@
+---
+title: "Occupy And Class Struggle Waterfront"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/occupy-and-class-struggle-waterfront"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "December 12th West Coast Port Shutdown"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/occupy-and-class-struggle-waterfront)
+
+On December 12th, the entire Occupy movement on the West Coast will blockade their respective ports to shut down “Wall Street on the Waterfront.” This is both an effort to build a mass social struggle in the US against the 1% and a coordinated response to the coordinated attacks against our movement in the last few weeks. If the police repress any of our actions on the West Coast that day, the blockade will continue up and down the coast. This historic action is being taken on independent of existing authorities – from the mayor and police to the unions themselves, who are unable to legally support such actions even if they wanted to. The 1% has been pulling every lever at their command to delegitimate and criminalize the movement. On the 12th we will demonstrate our growing social power, attacking the 1% at their point of profit while expanding and deepening the movement in the workplace, communities, schools and the social imaginary.
+
+The 1% is not simply an abstract slogan. They are the corporations that pay no taxes. They are the financial institutions that drove the economy into the ground. They are the bailed-out bank that won’t re-write your under-water mortgage with the taxpayer funds your grandkids will still be paying for decades from now. The 1% are embodied in the politicians that send your kids or spouses off to fight wars that defend nothing but the profits of the 1%, leaving hundreds of thousands dead all over the world, as veterans with PTSD and Gulf War Syndrome return home to shoddy services and no jobs. When these veterans have stood up for the people of this country on the streets of Oakland, they have been beaten and shot in the head with police projectiles, from a police force freshly trained by the Israeli and Bahrainian military to repress popular protest.
+
+The same bosses that have paid you less in exchange for longer hours and higher productivity for decades; the same politicians who have made you pay more taxes in exchange for de-funded or closed public schools, rising state college tuitions and gutted social services; this political and economic coalition that has brought about the highest degrees of inequality in US history; these are the 1%, and all of them must go.
+
+The last two major pivot-points in US class struggle were the 30s and the 70s/80s. Workers gained the upper hand in the 30s, Capital gained it back completely in the 80s. Both of these pivots came out of upsurges that transcended existing class struggle in the workplace, that were rooted in historic economic, political and social crises. In the 30s, social unionism, community solidarity and agitation from the unemployed forced Capital’s hand into making concessions to stave off more radical potentials. In the 1970s and 80s foreign competition, technological change and the beginnings of globalization gave Capital the upper hand, leading to deindustrialization and steadily declining real wages and union density.
+
+These two pivot points took place during major economic crises and were driven by forces that were bigger than the unions and the bosses in any one place, whether a generalized workers’ struggle much more threatening than the unions alone, or the forces of technology and competition in the global market. The Occupy movement is building a socialized class struggle similar to the 30s, but even more threatening to those in power. The movement is trying to build a generalized opposition to the 1% that also seeks the abolition of white supremacy and patriarchy – not just on the job, but in communities and in the home. This is a major threat to the existing order and is being responded to as such – federally coordinated police attacks, media smear campaigns, and attempts to drive a wedge between unions and the movement. Our enemies will do what they need to do. But so will we.
+
+The 1% has never had a problem understanding their best interests, organizing themselves, having influence over politics, or acting in the collective interests of their class. Their strength has been our weakness, and our subsequent weakness has reinforced their strength. The 99% is trying to create itself as a viable force, directly confronting the 1%, to take back what is rightfully ours – the wealth we create and the control over our lives and our children’s future – while fighting alongside people around the world struggling to do the same. The 99% needs to overcome its own divisions, internal hierarchies, and lack of action, transforming ourselves in the process.
+
+Oakland, and the entire West Coast Occupy movement from Alaska to San Diego, are taking the fight back to the 1% on December 12th with a coordinated West Coast Port Blockade, with solidarity actions taking place all over the country. This is a community action in solidarity with port truck drivers and Longshore workers who have been under direct attack by the 1%. The 1% have been steadily busting unions or preventing workers from joining one. For decades corporations have waged a one-sided class war against workers with assistance from politicians in both parties. The Occupy movement is attempting to make this not only a struggle that has two sides, but one that puts workers (and the unemployed) on the offensive.
+
+Together we can not only push back against the 1%, but wage a protracted fight to democratize production and our economy. The formation of a broader mass movement that seeks to break the monopoly that the rich have over resources and power is a formidable task, but one that finds an increasing social base as the majority of the population loses not only what they have, but hope for the future, while the 1% reap record profits. Polls show that a large and growing portion of the population is sympathetic to the anti-capitalist message of the Occupy movement, despite media distortions. This is a sentiment that comes out of the material conditions of this historical moment. The need to alleviate inequality and give people more control over their daily lives and their communities has gone from the desire of a few to the need of the many. The West Coast Port Blockade, ongoing home reclamations led by those who have been evicted with support from the community, and steady work against police brutality are some of the ways of taking our power back from the 1%.
+
+In Oakland, we are standing in solidarity with non-union port truck drivers who work for as little as $30 a day, have no benefits, constantly breathe toxins from polluting trucks and face racism on the job at every turn. As the government facilitates the formation of massive oligopolies from banking to telecommunications, workers who make less than minimum wage cannot organize for a fair wage, let alone a union, due to “anti-trust” laws being applied to them, due to their misclassification as “independent contractors.” The law makers and bosses that constructed these laws aren’t going to help these workers. Union lawyers haven’t been able to doing anything. Union organizers can’t legally organize them. The National Labor Relations Board isn’t taking this up. The media isn’t covering this story. Occupy Oakland has been working with, and is standing in solidarity with, these multiply exploited truckers, while looking at the rest of the 89% of workers who face the boss as isolated individuals and not as a collective. What we are doing goes beyond ordinary protest and transcends the norms of the labor movement which has been hemorrhaging membership and granting concessions for decades.
+
+The lack of concrete demands should not be read as “no goals,” but as “no compromise.” The December 12th Port Shutdown is bringing the fight back to the 1% and expanding a movement that is seeking objectives that are unapologetically radical, but at the same time logical and simple. People should have control over their own lives. We should receive the things we, our families, and our communities need. We should fight back against anyone who tries to exploit us and take away the fruits of the wealth we create. That is what we are doing on December 12th, and this is what we will continue to do.
+
+Mike King is a PhD candidate at UC–Santa Cruz and an East Bay activist. He can be reached at mking(at)ucsc.edu.
+
+I am energised by way direct community and industrial action is happening together in Oakland. This is what we need!
