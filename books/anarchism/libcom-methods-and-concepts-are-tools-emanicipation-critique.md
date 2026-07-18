@@ -1,0 +1,40 @@
+---
+title: "Methods And Concepts Are Tools Emanicipation Critique"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/methods-and-concepts-are-tools-emanicipation-critique"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article that centers political concepts as tools for action and a critique of turning them into ideology."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/methods-and-concepts-are-tools-emanicipation-critique)
+
+An article that centers political concepts as tools for action and a critique of turning them into ideology.
+
+Political concepts are supposed to give us tools to figure out how to bring about the society we want. Theory constructs frameworks of political concepts to understand the past, carve out answers for our present, and project into the future. As agents of political change the ability to think and act in real time is critical. With dramatically changing circumstances revolutionaries have to navigate rapid fluctuations in the political field where friend becomes foe, foe becomes friend, and dark potentials lie within us all. Ideally the tools we chose should expand what we’re able to do, opening up a wider field of action than was previously available or obtained by politics as usual.
+
+Our conceptual frameworks are then tools and should be evaluated in part by their ability or inability to help political agents act across time, and they should altered to improve their capacity to do so. Concepts do things, but they are imperfect and have to be weighed against other potential alternatives. Just like we don’t use a hammer to bind a screw to a board, we use different political concepts for different tasks.
+
+Sometimes political theory is compared to science, but this is distorting. Politics spans two spheres: that of social forces struggling for power and that of political agents. As militants, we have to decide how to act, and this is not merely a technical pursuit of whatever will bring us to victory, but involves ethical dimensions and values. In physics the behavior of sub-atomic particles differs radically from the world of people and the world of galaxies. Similarly the questions and problems political agents encounter are radically different from an analysis of world capitalism. If politics is science, it is many sciences with uncertainty how the different frames relate. In fact, one of the main challenges for social change is that the political militant has to navigate both their role as agent and the unfolding of large scale political forces beyond their immediate grasp.
+
+Though this may seems logical, it goes against a deep thread in political tradition where there’s an identification of conceptual frameworks with politics itself, particularly in a fixed form. That is to say not that theory and conceptual frameworks are tools we can check against what we want to do with them, use different ones, alter them, etc., but that some privileged framework is taken not only as a way to do politics, but the only way to do some specific politics. This is about the elevation of political method to the level of ideology.
+
+The clearest example of this is the identification with dialectics as the only method and framework for thought and revolutionary politics itself. Dialectics can be viewed as an approach, a theory that allows us to do certain things, evaluated for its ability and inability to do so, and used alongside other tools for thinking through how to act as militants. Turning a framework into ideology goes a step further by taking the ideas of the method as exclusive components of a political ideology insulating them against other potential contributions. However you define that method, it takes substantive claims about particular concepts (contradiction, dialectics, class struggle, classes, etc), and connects them to actual movements working for emanicipatory goals. Something similar could be said of certain anarchists, though it’s less common, who try to turn the static application of direct action and direct democracy into the definition of liberatory politics, an anarchist method.
+
+In both cases a conceptual framework is taken out of its context (of tools for action) and placed into the evaluative realm of political ideas, traditions, and principles. Tools can be compared to each other, and evaluated against what we’re trying to do. If a tool doesn’t work for the task, we grab or invent another. This is largely how science works. Relativity science could do things in some spheres Newtonian physics couldn’t. Quantum mechanics could do things relativity couldn’t, and vice versa. The key for scientists is to explain and make predictions about what they are working on. Taking the method of relativity and elevating it to an ideology would be incoherent. Relativity is just an attempt to get at something, and when it runs up against its limits, we modify or replace it. In some cases we utilize multiple theories when each is inadequate, which is the case in todays physics with the clash between relativity and quantum mechanics both of which are useful (pending some grand unified theory).
+
+Perhaps this is the goal of people who elevate their method to ideology. Still by fixing particular conceptual tools (say dialectics, specific theses about class struggle, law of value, or whatever) and making them immutable items of ideology, it closes off our minds to critically understanding new events in terms that may go beyond whatever tools we’ve happened to have inherited. There’s no justification for thinking whatever we ended up believing today must be true, and politically it’s a dangerous path because it encourages rigid and dogmatic approaches to understanding new events. Today we find ourselves in an environment where large shifts are happening that are changing the political landscape, but it is unclear exactly how and where; making an open and critical approach that much more important. Turning frameworks into ideology disarms our ability to evaluate our beliefs to serve or hold back political agents, as all analyses and action becomes evaluated by their conforming or failure to conform with the framework that defines the tradition.
+
+Bizarrely this sort of error generally together with an obsession with science, which is strange because no equivalent exists in science where theories becomes elevated to an ethics. This is a problem specifically for today, because the existing divisions within revolutionary thinking are probably worse off than they’ve ever been. Recent decades have thrown existing politics into unknown territory, and forces are shifting while labels are fixed or even misplaced. The geo-political changes in an era of crisis and recomposition make independent militants capable of thinking and acting in real time not merely a bonus, but a raw necessity. Our political thought needs to reflect that reality and push its militants towards critical reflection and adaptability, something which ideologizing method insulates against.
+
+The alternative is to look to using whatever methodology and assumptions helps us achieve our aims. The objectives, goals, and ethics of the pursuit of stateless communism ultimately is the defining feature of our task. Different concepts, methods, and traditions should be evaluated against their ability to help take us there and avoid dead ends, not the other way around. The uncomfortable truth is likely that there is no single approach we can take that will reliably solve problems for us. To decide how to act in the whirlwind of the moment shouldn’t be seen as applying steps like a recipe, but more like training for a marathon. Action is not the domain of deductions. Our minds and bodies learn together as our thoughts and experiences mutually influence each other, and we create knowledge that is only partially conscious and rational. Perhaps the primary question today is what experience and thinking expands the capacity of people struggling to act, and what restricts it?
