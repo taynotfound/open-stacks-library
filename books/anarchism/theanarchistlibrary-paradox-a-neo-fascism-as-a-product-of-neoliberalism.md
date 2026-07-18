@@ -1,0 +1,42 @@
+---
+title: "Neo-fascism as a product of neoliberalism"
+author: "paradox-a"
+date: "2025"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/paradox-a-neo-fascism-as-a-product-of-neoliberalism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The following article comes from the German-language blog paradox-a.de, was translated with the help of deepl.com and therefore contains inaccuracies. paradox-a.de"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "paradox-a-neo-fascism-as-a-product-of-neoliberalism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/paradox-a-neo-fascism-as-a-product-of-neoliberalism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/paradox-a-neo-fascism-as-a-product-of-neoliberalism)
+
+Obviously, the general conditions are changing on a large scale. Change is scary because it creates uncertainty. And this is completely justified: Neither are “pensions secure” in European countries, nor, is the preservation of jobs. It cannot be assumed with certainty that the majority of the population will be able to participate in public goods such as transport infrastructure, healthcare or the education system in the long term. And their quality will continue to deteriorate. But the perceived threat is even more existential: the externalized reality of wars and the consequences of global warming is getting closer, just as livelihoods are being eroded by existing intensive agriculture. In this atmosphere, the super-rich have long been building bunkers, the wealthy are acquiring private security services and the middle classes are trying to secure what they can.
+
+Now you could say: “Nothing is eaten as hot as it is cooked”. Perhaps it makes sense to warn vehemently today about the coming threats in order to set the corresponding corrective mechanisms in motion. But there is no need to panic, because humanity has always been inventive and now has so much knowledge and resources at its disposal that the whole thing can be rearranged. - However, this way of thinking implies that social change is a quasi-natural process that can only be reacted to because it is inevitable. In reality, however, the restructuring of the existing form of society is taking place systematically, extensively and according to the will of the rich and powerful.
+
+The neoliberal economic-political social arrangement is being replaced by a different form. In the latter, the hardships of capitalism become more apparent. In it, democratic rights, freedoms and institutions are dismantled, as they stand in the way of increased interests in capital exploitation and the exercise of power. With the dissolution of the welfare state, the lower quarter or third of the population of European nation states is forced into neo-feudal conditions of dependency. Certainly, for some, the difference to the current situation is not particularly great. Now, significantly more people are having their passports taken away so that they can work on plantations and in factories, crammed into eight-bed rooms and deprived of their rights.
+
+Expanded surveillance mechanisms, extended police powers and the correspondingly influenced media discourse make it possible to discredit and stifle any resistance to the new regime. Wars are being waged to clear up over-accumulation and break resistance to the new regime. This resistance will still exist. People will still relate to each other in solidarity, unite in counter-cultures and form the nuclei of a society worth striving for. For this to succeed, however, it is important to understand the changes that are taking place, to look the enemies in the eye and to prefigure visions of desirable futures against the reality of those in power.
+
+The new ruling arrangement will not be a thoroughly fascist society. It will not function in the sense of a totalitarian form of society, as it was constructed in historical National Socialism. In other words, the totality will be more inconspicuous - and will be based on data. Sooner or later, National Socialism would have suffocated from its own totalitarianism if the Allied armies had not finally put a stop to the extension of the insane project. And yet the emerging system of rule will fundamentally fall back on fascist elements and methods.
+
+They will emerge from their niches in the police, military, judiciary, secret services, authorities, fraternities and unscrupulous companies. Fascist forces and practices will not dominate all areas of society - but they will impose the emerging social form by force and set the tone within it. Fascism thus fulfills its paradoxical function of a reactionary avant-garde or avant-garde reaction. Therefore, based on the prognosis of an intensification of social crises based on current developments, a fascization of the social form as a whole can be assumed. This is happening even though a numerical majority of the population would not actually want this if they were aware of the connections - but they would have to position themselves in relation to them.
+
+It is therefore possible to speak of neo-fascism taking over the regulatory function of the neoliberalism of the 1970s - 2020s. The fear of this is rampant on the social left - whether it is aware of it or not. However, talking about fears, experiences of powerlessness and despair is still not a common collective practice. This is because, understandably, it is always more uncomfortable to confront negative feelings and thoughts than to suppress them. “Hope” is always a consequence of despair. A vision, on the other hand, can correspond to the most pragmatic ideas and conceptions of the world - if only we were prepared to focus on the future to be fought for instead of mourning the demise of the crumbling old.
+
+There are also tangible reasons for this: The emerging neo-fascist form of society is a product of neoliberalism. Under neoliberalism, public goods are privatized, most people on average do not receive an effective wage increase to compensate for inflation and the level of unionization is reduced. In neoliberalism, political opposition is also met with repression, while oppositional demands are depoliticized by technocratic mediation bodies and adapted by government policy and exploited as innovation. Neoliberal hypercapitalism atomized and de-sensualized individuals through its self-actualization narratives and mechanisms to such an extent that they seek their salvation from isolation and meaninglessness in the constructs of fascist communities and nation states.
+
+Neoliberalism thus only pushed the tendencies inherent in capitalism and the state as a whole in a certain direction. However, it allowed for niches, alternatives and even resistance to it. Because these promised potential for innovation. The associated particularization of groups made it easier to control them. And finally, the expansion of liberal individualism and the increase in productivity on credit gave the system legitimacy. The changes in society as a whole, and thus the need for individuals, communities and companies to continuously adapt, were accelerated to an unprecedented degree, while at the same time democratic mechanisms became less and less effective and public goods were further privatized and dismantled.
+
+People do not react - sometimes consciously, often unconsciously - to this alone. Rather, they also anticipate the consequences of these developments for the future, especially as much more information is available nowadays. This exposes them to enormous stress and real uncertainties. However, the public spaces for discussing this in an undisguised manner and for dealing with it collectively have largely disappeared or shifted to the anonymity of the internet. This makes it extremely difficult to achieve a certain level of self-efficacy and to create a sense of solidarity. Personalities become increasingly unstable the more fragile citizenship status becomes. As a result, racism, sexism, homophobia and transphobia, social chauvinism, post-factual, esoteric and asshole-like ways of thinking and behaving find fertile ground. They form the prerequisites for the advancement, establishment and legitimization of the neo-fascist ruling arrangement. This is the legacy of the neoliberal regime that has profited itself to death.
