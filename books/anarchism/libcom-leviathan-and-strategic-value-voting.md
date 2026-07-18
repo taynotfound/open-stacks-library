@@ -1,0 +1,58 @@
+---
+title: "Leviathan And Strategic Value Voting"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/leviathan-and-strategic-value-voting"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/leviathan-and-strategic-value-voting)
+
+Submitted by Ivysyn on November 2, 2020 It's election season in the United States, not long after this video is posted one of two things will occur. Either sitting president Donald Trump will be reelected for another 4 year term, or his opponent and former vice president Joe Biden will be elected for the first time. Naturally it is the assumption imparted to us from our most important institutions that who is elected president is very important. By voting for president we, as the regular people who don't hold political office, can have our voices heard. Given the past 4 years of Trumps far-right administration many are anxious to see him vacate the highest office. Many, as in 2016, put their hope in Vermont senator Bernie Sanders who ran both times on a platform of increased social services. Bernie has dropped out of the race and backed Joe Biden; dashing the hopes of his supporters in almost the exact same fashion he did so in 2016. With Bernie out and Biden the nominee many have resigned themselves to voting for "the lesser evil". Biden maybe a spineless establishment democrat, but, so the reasoning goes, Trump is an ultra-conservative firebrand who will take any opportunity to launch more attacks on marginalized groups and the environment.
+
+To put it lightly the past 4 years of Trump have been grim, so it seems intuitive that we need to elect someone else that is at least a click to his left. Joe Biden, Obama's former vice President, seems like the man for the job, especially since the "progressive" option in Bernie Sanders is no longer viable. However, most progressives are aware of Biden's own pitfalls. Joe Biden made his political career in the historically racist US senate and today still brags about getting along with segregationists. He refuses to be pushed into a more proactive climate policy and in any case is backed by fossil fuel interests. He supports coercive drug war mechanisms over safe consumption sites which evidence suggests work much better. He has lagged behind Bernie Sanders Medicare for all position when anything but a universal system of healthcare coverage will leave us with our current counter-intuitive system where healthcare goes primarily to those who can pay for it. He has stated that he would shoot protestors in the leg, rather than in the head, and seemed to believe this was a groundbreaking concession. He verbatim promised a room full of rich associates that "nothing would fundamentally change". In addition he is backed by union-busting law firms, not to speak of the accusation of sexual assault.
+
+Despite all of this most progressives view him as the "lesser evil". Anna Hiltner writing for the Princeton University student publication said:
+
+"I believe that if our aim is to challenge the status quo, and especially if we live in a swing state, we need to take into account the consequences of our inaction. By voting strategically for Biden, we oppose a far right government that will hurt the most vulnerable segments of society far more than a Biden presidency would"
+
+Ilya Somin explains the logic of lesser evil voting, or "LEV", further in a 2016 Washington Post opinion piece:
+
+"Imagine an election where the only options are Queen Cersei from Game of Thrones, and Sauron, the Dark Lord from Tolkien’s Lord of the Rings. If Cersei wins, she will kill many innocent people, and oppress others. But she will leave much of the population more or less alone (as long as they don’t openly oppose her or threaten her family in any way). If Sauron wins, he will kill far more innocent people, and make the survivors his slaves.
+
+Under those circumstances, it seems clear that a person who ensures a Cersei victory has done a good deed. He or she will have saved large numbers of people from slavery or death, even though the Cersei regime would be a deeply unjust one."
+
+Activist intellectual Professor Noam Chomsky of MIT has been a persistent advocate of LEV. According to Chomsky Trump, especially with regard to climate change, represents an existential threat to the continued existence of the human species. Thus he maintains that establishment democrats like Hilary Clinton in 2016, or Biden in 2020, are the obvious choice for preventing possible colossal damage.
+
+So, are they right? Should we bite the bullet and vote for the lesser evil? To answer this question we need to understand what voting is. To understand that we need to abandon, for a minute, the politics of the 2020 election and look at the longue duree of the capitalist world-system. The first major ideological debates among the elites of the capitalist world-system were those between the liberals and conservatives. The conservatives wanted no progressive social change and advocated the total entrenchment of the church, patriarchal, and monarchical hierarchies. The liberals disagreed. They thought that if no concessions were made the lower strata of the system then the result would be social destabilization, revolt, and the ultimate downfall of the world-system. This debate was effectively settled for the next century or so by the uprisings of 1848 which constituted revolutionary upheavals in all zones of the world-system. 1848 was part of the liberals' fears, revolt by the lower strata, come to life. This clear demonstration of the threat the Liberals pointed to caused the conservatives to concede to the liberals.
+
+The new agenda of the world elites became incremental social change administered by technocrats to the benefit of a limited segment of the lower strata. This incremental change can be summed up in the dual concessions of social programs and civil liberties. At the same time welfare states were developed the right to vote, or "the franchise", was extended to certain sectors of the population. This enshrined faith in the lower strata, of the pan-European world before the second world war, and after the second world war that of the rest of the world, that the state could meet their needs and thus bound them to the status quo.
+
+At the opening of the 70s something shocking took place. There was a crises of overproduction for the capitalist world-economy. Production was developed so well that too much was produced seriously degrading the efficiency of industry. The political consequence of this crises was the destruction of the state's ability to doll out these limited concessions that bound the lower strata to the existing social order. The state had to become a blunt instrument for holding a crises ridden social order together and lost the finances for it's social programs. Since the structural crises that started way back then has only gotten worse over the subsequent decades so has this political aspect of the crises.
+
+This all means that the state as a mechanism for meeting social needs has more, or less collapsed, and so has the ideological binding tethering the lower strata to the world-system, leading to political dillusionment. This is the general structural mapping of the longue duree of the issue we face on November Third. In the first place the vote, or franchise, while being a real concessions, always served more to bind the lower strata to the status quo than to allow them to carry out meaningful progressive change. In the period of structural crises we now find ourselves in the vote means even less since the capacity of every state to act as a mechanism for even limited progressive change has been greatly diminished.
+
+Strategically; if the vote was attained through social upheaval then it stands to reason that replacing far-right Trumpism with progressive social change is a matter of organizing social movements, rather than electing someone slightly left of him, or even of electing someone well to his left ala Sanders. Here we should be as fair as possible. Even the advocates of LEV typically abridge their arguments with the disclaimer that broader social organizing will make the real difference. As Chomsky says:
+
+"Finally, it should be understood that the reigning doctrinal system recognizes the role presidential elections perform in diverting the left from actions which have the potential to be effective in advancing its agenda. These include developing organizations committed to extra-political means, most notably street protest, but also competing for office in potentially winnable races. The left should devote the minimum of time necessary to exercise the LEV choice then immediately return to pursuing goals which are not timed to the national electoral cycle."
+
+However, this admission undermines the LEV framing of the issue all together. A crucial premise of LEV is that we are granted a limited number (two, speaking specifically about US POTUS elections) of potential options which are all bad with some/one being the least bad of those options. It is for this reason that in a podcast debate over LEV Chomsky repeatedly diverted from any and all broader points to insist that those issues will not come up on November 3rd. Honestly then, why should anyone care about November 3rd? If the broader issues don't come up on November 3rd then what even does come up on November 3rd?
+
+The problem with LEV is that it is premised on the idea that the presidential elections present a fatalistically limited set of choices. This plainly is not the case when we realize what the LEV advocates themselves have conceded, that we have much more power to make progressive change through the building of social movements than hedging our bets on which reactionary politician will end up being least reactionary.
+
+So..to vote, or not? As it happens this isn't even the correct question. The correct question is what tactical value voting has for the proliferation of progressive social change. The answer is that it has none. Does voting do any active harm? No, and for the same reason it has no tangible benefits. It's telling that when the fact that all the issues which are supposedly pressing us to vote, even for the lesser evil, are more robustly addressed by sustained on the ground activism, the only reply of people like Chomsky is
+
+Sources https://www.democracynow.org/2018/2/1... https://www.democracynow.org/2019/9/1... https://www.democracynow.org/2019/7/9... https://www.latimes.com/business/stor... https://truthout.org/articles/latest-... https://www.democracynow.org/2020/9/4... https://www.democracynow.org/2020/8/1... https://ideas.repec.org/p/ces/ceswps/... https://www.youtube.com/watch?v=9y92d... https://antisystemic.blogspot.com/202... https://truthout.org/articles/biden-r... https://jamanetwork.com/journals/jama... https://truthout.org/articles/bidens-... https://truthout.org/articles/anti-un... https://truthout.org/articles/joe-bid... https://truthout.org/articles/bidens-... https://www.salon.com/2019/06/19/joe-... https://www.democracynow.org/2020/6/3... https://www.jstor.org/stable/424718?s... https://www.dukeupress.edu/world-syst... https://www.dailyprincetonian.com/art... https://www.washingtonpost.com/news/v... https://chomsky.info/an-eight-point-b... https://www.youtube.com/watch?v=3vsrm...
+
+Note: This article was made from the transcript of this video I uploaded to my YouTube Channel.
