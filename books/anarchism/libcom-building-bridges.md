@@ -1,0 +1,46 @@
+---
+title: "Building Bridges"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/building-bridges"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Simon Bridges is the leader of the National Party, one of the two traditional parties of government in Aotearoa/New Zealand. He is currently touring the regions of the country. This article is a report on one of the public meetings during the tour."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/building-bridges)
+
+Simon Bridges is the leader of the National Party, one of the two traditional parties of government in Aotearoa/New Zealand. He is currently touring the regions of the country. This article is a report on one of the public meetings during the tour.
+
+Simon Bridges is the young, new-ish National Party Leader. Historically National has had more turns at running things than the other parties. For this reason he is probably somebody to take notice of, even if not in power at the moment. Bridges is currently doing a tour of regional towns in order to gauge the mood out there and to introduce himself to the many who are unaware that he has spent the past 10 years in parliament. A member of the Anarchist-Communist group Aotearoa Workers Solidarity Movement (AWSM) had a front row seat as the leader arrived late for his public meeting in Rotorua. This is a summary of the main part of the meeting…
+
+The audience waited patiently for Bridges to appear, giving time to scan those who had assembled. They numbered about 200, which has to be a pretty good turnout for lunch time in a town where not much happens politically. Of that number, only 10-15 didn’t have grey hair. To some extent that could be the reality you’d expect with the working age population being at work at that time of day. Though perhaps if they really wanted to turn up, they could’ve made the effort, so maybe it speaks to the apathy of people who would rather be in the lunchroom eating their ham sandwiches than listening to a ham. It might also simply be an indication of the sort of demographic the National Party has in the regions and therefore a cause for concern if they stopped to consider the implications for the future. It’s probably a combination of all this, it’s hard to tell.
+
+Upon arriving, Bridges scanned the crowd then opened with a potted auto-biography. This combined a number of points that showed why his succession to the leadership was probably welcomed among the party spin doctors. He stressed being a kid from a non-political family (just an ordinary bloke), yet one who had been a member of the party since a teenager (so a solid operator who won’t rock the boat), being Maori (they don’t all vote Labour) and an experienced lawyer who went to Oxford (therefore appealing to lower middle class voters with aspirations).
+
+This scattergun set of attributes was then rounded off with a folksy joke about when he met his wife for the first time, though tellingly it was more about her meeting him. Finally he closed with a story about taking his father-in-law to a rugby game (like any good kiwi joker) and encountering ex- Labour Leader Andrew Little and buying the poor guy a beer (generous to his opponents). While he seemed to hold the audience’s attention up until this point, the last anecdote fell surprisingly flat. Perhaps it sounded patronising coming from someone who hasn’t exactly been a major success himself yet and might end up with the same fate as Little himself. Whatever the reason, it didn’t gain the positive reaction he had hoped for, so he moved on.
+
+For his segue Bridges chose to have a few digs at NZ First leader, Winston Peters. This is understandable on one level. After all, Bridges won his seat in parliament in an electorate Peters had long considered his personal fiefdom. Though another National Party nobody had been first to topple Peters in Tauranga, clearly there is bad blood there, and Bridges was relishing being able to push that wound.
+
+This was followed by pitching himself as a realistic and pragmatic politician who knows that proportional representation requires working with minor parties. Bridges then rattled off a list of possible tails for him to wag. This included the Maori Party, who were decisively ejected from parliament last election, The Opportunities Party, a market research driven vehicle whose multi-millionaire founder has stepped down [and the party itself shortly after this meeting has decided to de-register itself] and The Conservatives, a Christian based right-wing party whose support plummeted beyond repair when their hypocritical millionaire founder was involved in a sexual scandal. Next he mentioned the free-market fanatics of ACT, who at least have one MP but nothing new to offer and only exist in parliament thanks to the electoral tinkering of National.
+
+Not content with this list of real micro-parties, Bridges then invented non-existent parties. This included something he called ‘True Greens’, a supposed faction who want to go beyond allegedly being “…watermelons, green on the outside and red on the inside…disguised socialists” and become a single-issue environmentalist party. This is either woefully ignorant or deliberately misleading in not acknowledging the Greens have worked hard to be a party with multiple policies across a range of issues and thus have survived decades. They are far from a single issue party.
+
+The other fantasy party apparently consists of a breakaway faction of NZ First who prefer the Nats. True, Peters may not have a career for much longer given his age and there is no obvious successor. However, the reality is that being eclectic populists, they have never had much trouble working with National in the past and are unlikely to in the future. The reality is, NZ First has a solid support base which has held together for a long time and the party is National’s most likely partner and Peters is still its leader. So it probably isn’t really good politics to denigrate somebody whose support you need. It smacks more of a combination of arrogance and sour grapes because Peters chose Labour this time round.
+
+The next part of the meeting was given over to a selection of questions from the audience. This was a good opportunity for the guest to think on his feet on a range of issues. These went from a question about trade with Russia, with the emphasis in the reply being support for ‘free trade’ with the barest nod to human rights tacked on at the end, to veterans affairs and the closure of the local post shop. The latter was something Bridges clearly wasn’t aware of and he largely deflected it to a generalised answer about services and a reference to other issues. Not surprisingly for a National Party lawyer and ex-prosecutor, he spoke unimaginatively about the need for more prisons and the supposed ‘softness’ of Labour. He criticised the current proportional representation system on the basis that it should automatically give the party with the most votes, first rights to form a government (guess which one that was at the last election?). Then he hinted that the current government will somehow continue to manipulate the system in its favour in some unspecified way.
+
+The one time in the meeting he actually received applause was related to a local roading issue, mostly because this had come unprompted so he probably did have some genuine knowledge of what it was about. Adding a wild card to the event, a very agitated and barely coherent guy ranted to Bridges about World War One veterans. He waved a thick dossier, mentioned dates of parliamentary committee meetings and spoke of a cover-up without really explaining the substance to anyone. Bridges looked as bemused as everyone else and said “I don’t know about that”. Not so much an admission of modesty, more the obvious default position anyone would take.
+
+Overall it has to be said, Bridges handled the spontaneous nature of this section of the meeting pretty well, or at least he made no big blunders and never looked stumped for an answer. Mind you, this was mostly due to not being too specific and making sure to qualify statements rather than make any bold claims or try to be too clever.
+
+At this point, it felt like time to leave. It wasn’t technically the end of the meeting, but it seems unlikely any dramatic events or amazing new gems of wisdom were issued forth during the remainder of it. So, what to say? Bridges comes across as a handsome, bland, slickly packaged career politician undergoing a leadership apprenticeship. His instincts are socially conservative but he realises the need to be pragmatic and to keep things steady. At present, Labour is in its honeymoon period in government and could be in power for a long time. Should he eventually come to power himself, you won’t get anything new from Bridges. His will be much like the calibre of all the other governments in this country, (including the current one), dull and middle of the road. If or when there is a major political or economic earthquake it will be interesting to see whether that will be good enough for the system to hold together.
