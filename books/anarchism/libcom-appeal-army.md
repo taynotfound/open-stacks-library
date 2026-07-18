@@ -1,0 +1,35 @@
+---
+title: "Appeal Army"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/appeal-army"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An appeal published in 1891 by anarchists in Sheffield, England, aimed at soldiers calling on them not to take up arms against their fellow workers."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "An appeal to the army.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/An appeal to the army.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/appeal-army)
+
+An appeal published in 1891 by anarchists in Sheffield, England, aimed at soldiers calling on them not to take up arms against their fellow workers.
+
+Fellow-workers - for fellow-workers you were before you sold yourselves, and fellow-workers you may be after your term of servitude as soldiers has expired. We, the Anarchist-Communists of England, being the English section of the Anarchist-Communist groups of the world, appeal to your manhood to listen to us through this address, and to be careful before you cast aside what is on the one hand an appeal and on the other a word of warning
+
+The world-wide struggle on the part of the wage-workers against the tyranny of Capitalism is becoming so severe that recently, in various parts of the world, the military have been used by our masters in order to crush the rising aspirations of the people. In America, men, women and children have been shot down by the soldiery for daring to protest against the starvation wages paid to them. In France, Austria, Italy, Spain, and Belgium the same thing has occurred. You may say, what has all this to do with me? Well, stop and listen. Recently in Scotland, at Motherwell, at Liverpool, at Southampton, Leeds and Bradford, the services of the soldiery - in whose hands this may fall - were utilized to put down the meetings of working men and women, who were attempting to protest against the miserable wages paid, and the horrible conditions under which many of them lived. The capitalists, in their attempt by "blackleg" labour to crush the workers are, and ever have been, ready to use the soldiery in order to achieve their damnable ends; only recently the soldiery in Maryborough, Australia, were made howling drunk and then let out in the town, committing many brutal assaults, yet the workers were quiet even under these circumstances and this is in one of our own colonies. Other governments in various parts of the world have used soldiers as "blacklegs" to defeat the workers in their attempt to better their position. The governing powers of England, made up of our masters as they are, and must necessarily be whilst they hold the means of life in their hands, are not one bit behind their "co-thieves" the capitalists of other lands. Recently, during the threatened Gas Strike, it is well known that accommodation was made for the soldiers, not only to occupy the Gas Works, but also to "blackleg" against those on strike. Is this to continue? The answer lays with you, largely. You who are the sons of workers, you who have known the hard conditions of factory life, you who when your services were no longer required by a boss were cast aside and forced (in most cases) to enlist or starve, are you to be the men to crush others whom you left behind in factory, mine, field, or workshop, when they try to resist being slowly starved to death? Nay, surely you will never butcher your own class like wolves eager for blood. Our fathers, mothers, and kindred have, like many of yours, ended their days in the workhouse, whilst we, and many of you, have had to eke out a miserable existence as best we could. And why? In order that an idle class of landlords and Capitalists may live in luxury and debauchery, whilst we work hard and starve. They are able to maintain their power over us simply because they can hire you to shoot us down if we should rebel to alter our conditions, paying you out of what has been wrung from the blood and sweat of your brethren. Need this be? No, a thousand times no. There is land enough for all to live upon; nature has endowed us with skill to be able, not only to exist, but to live the lives of happy men, women and children.
+
+We are striving to bring about a condition of society in which there shall be neither slave nor master, neither poor nor rich, where all shall be able to satisfy their human desires, in a word we are striving for FREEDOM. Shall it be said that you - part of our class as you are - will aid in suppressing our noble efforts? Remember you also will have the battle of life to fight, that you will on the day of your discharge have to begin the struggle for existence; what sympathy can you expect if today you use your weapons against those who are fighting not only their battle but yours. Pause, comrades, and on the words "Make ready, Fire!" shoot the scoundrels who [order that] you murder the people. You do your duty and We will do ours. We have put our hand to the plough and do not mean to turn back whether we achieve VICTORY or meet DEATH. We have nothing to lose but our chains, and we have a world to gain. We, therefore are working for the destruction of private property, believing that the holding of land and capital by the community will be the best and safest way to obtain the greatest amount of happiness for you and all the human race.
+
+When, the people attempt to take back the wealth they have created, your services will be called in; THINK carefully, and decide on which side you will fight. Science has placed in our hands a weapon also and we shall not hesitate to answer back when once you have began the bloody work of our task- masters. We appeal to you in no idle manner, we are in earnest; we ask you to choose whom you will fight for and with. Shall it be for our masters or with us? The history of the world testifies to cases where the soldiery have joined the people against their rulers; let us hope that history will record that the soldiers of England stood beside the people and against the thieves who robbed them. We appeal to you to choose, and we warn you on the other hand that, come what will, we will not turn back. Every means we know of shall be used by us in our struggle, and if you are against us, we can only look upon you as traitors to your class and enemies of mankind. We ask you again to show your sympathy by joining the revolt of the people, which may not be long coming. Whilst determined to resist force by force, we would rather greet you as comrades than enemies. Our watchword is "REVOLT! REVOLT!" what shall yours be? Several of our comrades are in your midst, will you answer their signal, or obey the commands of your officers? Let us hope when our comrades cry "REVOLT!" that your answer will thunder forth "Revolt! Revolt! against tyranny and robbery; hurrah for Anarchy and the Social Revolution."
+
+Originally published in The Sheffield Anarchist, July 19th 1891.
