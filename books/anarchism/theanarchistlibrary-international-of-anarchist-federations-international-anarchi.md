@@ -1,0 +1,44 @@
+---
+title: "International anarchism against the bosses of the world"
+author: "International of Anarchist Federations"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/international-of-anarchist-federations-international-anarchism-against-the-bosses-of-the-world"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 2003-05-24 from iaf-ifa.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "international-of-anarchist-federations-international-anarchism-against-the-bosses-of-the-world.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/international-of-anarchist-federations-international-anarchism-against-the-bosses-of-the-world.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/international-of-anarchist-federations-international-anarchism-against-the-bosses-of-the-world)
+
+The “long-lasting and permanent” climate of war we have been thrown into since September 11 th , has become a constant part of our daily lives. It has implications and repercussions concerning the manipulation of information, propaganda, lies, repression, psychological manipulation, etc. At every level, the pedlars of war are working openly or covertly to restrict political freedom and that of workers’ organisations everywhere. The “war against terrorism” has become the pretext to launch a definite and determined attack against all areas of resistance, and against any obstacles which stand in the way of the interests of the international power system which has the US as its axis. This attack is intended to hinder any discussion or opposition to this supremacy.
+
+On the world stage, the threat of a war of aggression against Iraq, the endless massacres in the Middle East, the increasing military presence in Colombia (which as a recipient of US military aid, is in third place after Turkey and Israel) and the Afghan war, continue to be at the centre of attention while other possible theatres of conflict are opening up.The euphoria and boldness which characterised the “magnificent progressive fortunes” of economic globalisation, so hailed by the neo-liberal rulers, are becoming increasingly deflated following the current recession. Particularly symptomatic of this recession is a reduction in commerce, limited financial transactions and a highly cautious attitude towards any new developments.Consequently, the ruling classes are now forced to rethink and reorganise their politics of “public” intervention (read “state” intervention), confront their politics of war and their process of restructuring.
+
+In this context, the process of economic globalisation, pushed forward by the multinationals and their organisations of reference (the WTO, IMF, etc.) is slowing down. At the same time, a strong upsurge of national and macro-regional politics can be seen — such as with the handling of the war in Afghanistan, the process of building up Europe, the reorganisation of the role of NATO, and France and Germany pulling out of the Iraq crisis.On the other hand, discussion of “matters” such as public spending, with all its related priorities of interventions and incentives, really means talking about the politics of profit.
+
+This results in a necessary relaunch of the role of national states where, however, the military force of the North American state is such that we can glimpse a new phase in the globalistion process; namely, one centred on a type of political imperialism which forces all the other states into a subordinate relationship. Simultaneously, practices of integration and competition coexist in a scenario which sees war as the inevitable outcome of a crisis in international relations.
+
+Bush’s warning — with us or against us — bears witness to the US desire to impose itself, always and in whatever way, and in a context which is made more complex by the processes and inextricable intrigues of economic globalisation. In the recent past these intrigues have, more than once, conditioned the development of such an imposition, but after the attack on the Twin Towers they no longer seem to be relevant. In fact, if economic globalisation had become a giant curtain concealing the continual redefinition of the powers and their hierarchy, September 11 th cut it to shreds and revealed the wish for totalitarian control of the world by the ruling US groups.
+
+Their behaviour is not subject to any judgement, as can be seen by the US stance not only towards the United Nations International War Crimes Tribunal but also towards the whole of the United Nations. In this situation, the present movement against economic globalisation, multinationals and their organisations, is forced to redefine its practices and objectives. In a context of war, we cannot confine ourselves to challenging these economic organs without confronting what and who supports them and the politics that drives them. A leap must be made, so as to give political and social consistency to our own proposals, our anger and our personal indignation; thereby bringing up-to-date the revolutionary proposals directed towards the demolition of political and economic power and for generalised self-management. In this climate of “civil war,” cunningly created to conceal people’s real desires and responsibilities, unleashing one person against another — workers and peoples, young people and movements — we need to see ourselves clearly; we need to recognise the dangers and traps before us.
+
+One such very present danger is the tendency to enclose oneself in a regional or national, or an ethnic or religious base, thus breathing life back into the logic of nationalism. Instead, it is necessary to breathe life back into internationalism which has animated this period of struggles. Such internationalism, in its most radical and libertarian social components, has had the clearest and most determined spirit.
+
+In order to politically oppose the barbarities of war, to bury it and the whole system it generates, it is essential to coordinate movements wherever they may be, to have dialogue between the various political and ideological cultures which animate these movements, and to make comparisons in all areas. But for this to succeed, it must not fall into the usual reformist trap, generally Social Democratic, which celebrated its last rites in Porto Alegre.
+
+In fact, internationalism only has meaning if it has a very solid base built on a commitment to struggle against “one’s own” state, “one’s own” power system — and, in fact, it is only in this way that the effectiveness of social transformation, animating the different spirits of the movement, can be measured. This current phase we are living through is characterised by a speeding up of the politics of fragmentation and the ending of social “guarantees”, a period of containment and social selection. Therefore the development and direction of the movement will depend on how much we are able to come up with proposals, with intelligence and energy. It must be a movement which has the ability to by-pass the formal established opposition, in order to bring into the movement those people who are no longer willing to submit to the daily violence of the power system, those who genuinely believe that another world is not only possible but is in fact essential.
+
+All over the world, anarchists are giving their practical, incisive and active contributions towards these aims. The effects of the mobilisation in Seattle are still being felt. This saw a determined and effective anarchist presence and is a sign of libertarian renewal in the USA. In Russia, crime and repression have not stopped anarchists from being deeply committed against an openly fascist regime. Latin America has seen a continued growth of groups, newspapers and mobilisations. They are putting as the order of the day, the problem of coordinating the ever increasing number of initiatives developed on a national scale, especially in Argentina, Chile, Venezuela, Uruguay and Brazil.
+
+In Europe, even in the complexity of the anarchist and anarcho-syndicalist movement, there have been many instances of high visibility of the movement — from Lyon to Amsterdam, as well as in Genoa, Rome, Paris, London, Prague, Athens and Seville. Other signals are also coming from Turkey, Nigeria, Senegal, South Africa, Lebanon and Australia. Therefore, at such a point in time, it is even more essential that we do not delay in acquiring an internationalist dimension in local practices. The International of Anarchist Federations is aiming to promote a strengthening of ties between its affiliated organisations and urges a united initiative with the whole of the anarchist movement, taking into account the richness and diversity of all involved, both recognising and working on common routes and purposes.
