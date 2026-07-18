@@ -1,0 +1,52 @@
+---
+title: "New Path Gender Equality Harley Roquentin"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/new-path-gender-equality-harley-roquentin"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "All of us has been affected by gender. Men and women, by virtue of their label, are expected to conform to the rigid nature of their identities or else risk hypocrisy. Those of us who reach out, who try and transcend our restrictions are caught in a trap; the pervasiveness of gender has forced us no"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/new-path-gender-equality-harley-roquentin)
+
+All of us has been affected by gender. Men and women, by virtue of their label, are expected to conform to the rigid nature of their identities or else risk hypocrisy. Those of us who reach out, who try and transcend our restrictions are caught in a trap; the pervasiveness of gender has forced us not to ignore the construct, but to define ourselves against it. We have come to a point in history where the next step to gender equality is clear – it must be abolished.
+
+There are many of you who might ask: ‘why not simple equality between men and women?’ The answer is simple. This is an impossible task, even more so than the alternative in question. Inequality is inherent in the concept of gender. Separate duties, separate modes of dress, separate tones of voice and positions of power, these are not possible to remove. We can work to close the gap; as we have seen, with de jure equality and the successes of various feminist movements. But for the gap to disappear completely, this is a separate question entirely.
+
+‘Separate but equal’ is a slogan that has never worked in the past, and for good reason. The most evident example is from the Jim Crow days of segregation in the United States. But even now, regarding gender, we are assured; men and women have different responsibilities, but are, in fact, in perfect correlation to our charge, say those who remain steadfast to the phrase. We need only to turn to Catholicism and the Orthodox Abrahamic religions to find this in its most blatant form. In the former, women cannot be priests because they are less like Jesus. The story of Lilith – wherein Adam’s initial wife had some pride and independence, and was obliterated for it – is taught in Israel’s mandatory religious teachings for youth. One needs not look farther than mandatory modes of dress in Sharia states for the Orthodox Islamic stance on the subject.
+
+In the secular world, these issues still exist, but they are more implicit. Noted linguistics professor Robin Lakoff notes in her work Language and Woman’s Place that the differences in gender relations are evident by the very way we speak; men are more aggressive when they talk, more keen to interrupt and react with violence. Dialogue between men is generally more competitive than active discourse. Women, however, are more prone to use qualifiers, hedge-words (‘um, like’) and are considerably less interruptive. Lakoff believes that this is more than simple language choice. To her, this more passive way of communicating did not appear from a vacuum. It is a manifestation of a more submissive state of mind.
+
+On the other side of the issue, we have men’s rights activists. They cite biases on child-custody claims towards women, institutional forces ignoring women-against-men violence, abuse towards stay-at-home fathers, and other similar issues as evidence for prejudices against men. This, of course, is effectively explained in feminist discourse as ‘toxic masculinity,’ as ways that patriarchy is harmful to men. More than that, it is harmful to men who display real or imagined effeminacy. Their roles in society are already set out for them. Men do not look after children, men do not let themselves be hurt by a woman, men are strong, independent forces. End of story.
+
+There is an explanation. It is delivered to us by one of the great feminists Simone De Beauvoir , sometimes noted as the harbinger for the second-wave, in her great treatise The Second Sex. In it she says:
+
+The relation of the two sexes is not that of two electrical poles: the man represents both the positive and the neuter to such an extent that in French hommes designates human beings, the particular meaning of the word vir being assimilated into the general meaning of the word “homo.” Woman is the negative, to such a point that any determination is imputed to her as a limitation, without reciprocity… In fact, just as for the ancients there was an absolute vertical that defined the oblique, there is an absolute human type that is masculine. Woman has ovaries and a uterus; such are the particular conditions that lock her in her subjectivity; some even say she thinks with her hormones. Man vainly forgets that his anatomy also includes hormones and testicles. He grasps his body as a direct and normal link with the world that he believes he apprehends in all objectivity, whereas he considers woman’s body an obstacle, a prison, burdened by everything that particularizes it… Humanity is male, and man defines woman, not in herself, but in relation to himself; she is not considered an autonomous being.
+
+She elaborates on this further; she discusses how all binaries, like the one in gender, are fundamentally unequal. To de Beauvoir, whenever there is two, there is always a Subject and an Other. The subject, as makes reference to above, is what defines humanity. The Other is what they define themselves against, something to compare themselves to in order to make sure they are on the right track. We see saw this with the European gentiles against the Jews during the 20th century. We saw this with white Americans and African-Americans, too, and still do today. We see this now with the western world against Muslims. In each case, the former are human – in the latter, a perceived horror of which the former can look at and say, ‘I am not them, and that makes me what I am.’ Such is also the a priori relationship between men and women.
+
+In this case, considering each part of the binary ‘separate but equal’ is unsustainable. We must move towards something better. This is moving past gender altogether, making a brighter and more authentic future. There is something to be said about labels in general. To ignore all aspects of politics, for example, is a feat of ignorance – some of the terms, such as communist or capitalist or libertarian, are helpful to communicate our ideals for a better world. But gender accomplishes nothing but hindrance. It is useless and oppressive and should be written out of our daily lives.
+
+To make this future possible, the key is communication and consistency. We ourselves must remove ourselves from the binary and advocate others to do the same. We must organize in order for us to be heard. We must be loud. We must be aggressive. It will be an uphill battle. But we live in the most opportune moment in history thus far. A new set of language is being formed to include non-binaries. Gender-neutral parenting has gained steam. Us non-binaries ourselves are becoming a larger phenomenon every day.
+
+Some might criticize us for our militancy. They might believe that, because their character corresponds so strongly to the gender they take on, that to use the language of non-binaries would remove the voices to the more dysphoric among us. To them, refraining from the conflict is noble. But they are letting the minority, the tortured fight the battle for the future. The point is to make gender obsolete to everyone, not a minority. Those who agree with our thesis but choose the easiest way out are an obstacle, not an asset. Others might suggest that to rid ourselves of the binary, it is best not to move directly towards the conclusion, but rather advocate for the expansion of non-binary genders to be more inclusive. Admittedly, there is no harm in doing so. But any gender, even if they are not apart of the binary themselves, define themselves in relation to it, thus perpetuating their existence.
+
+Without gender, there are only people. Women would no longer be de facto subjugated, men would no longer fall prey to dangerous inclinations towards violent masculinity. The construct is useless and destructive, and if we want to gender equality to rise to its greatest potential, it must be destroyed. We have nothing to lose but our chains.
+
+Linguistics aside, all the evidence that is supposedly in favor of 'seperate not equal' being impossible and all binaries being necessarily relationships of subject/other is from stuff that has nothing to do with gender, and more to do with race?
+
+She elaborates on this further; she discusses how all binaries, like the one in gender, are fundamentally unequal. To de Beauvoir, whenever there is two, there is always a Subject and an Other. The subject, as makes reference to above, is what defines humanity. The Other is what they define themselves against, something to compare themselves to in order to make sure they are on the right track. We see saw this with the European gentiles against the Jews during the 20th century. We saw this with white Americans and African-Americans, too, and still do today. We see this now with the western world against Muslims. In each case, the former are human – in the latter, a perceived horror of which the former can look at and say, ‘I am not them, and that makes me what I am.’ Such is also the a priori relationship between men and women.
+
+Like here. The author cites all these race struggles and then just adds at that they think its the same for men and women but doesn't actually cite anything gender relation specific and goes straight on to speculations about how we should organise as if the premise has just been established beyond doubt.
+
+Good point. Do you disagree that binary (or hierarchical) systems operate in this way? I think the experiences and impacts on individuals are obviously different within different social hierarchies, but substructural aspects are similar; Otherization is a hegemonic mechanism found in every social hierarchy from race to gender to class to statism to anthropocentrism. I think the author could have used more examples of this within gender, but since all hierarchical systems are interrelated I don't see any harm in linking different systems, especially when they're compared on a substructural level.
