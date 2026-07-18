@@ -1,0 +1,28 @@
+---
+title: "Betrayal Cnt"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/betrayal-cnt"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Internationale Situationniste #11 (October 1967)."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/betrayal-cnt)
+
+In the article on Spain in I.S. #10 regarding the doomed union of the bourgeoisie, the Stalinists and others attempted by bourgeois democracy in order to succeed the Francoist state with a more rational form of advanced capitalism 1 , we pointed out that "the recent negotiations between the CNT and the Falangist unions are yet another reflection of this same tendency toward submission to bourgeois evolution." After having virtuously reproached the situationists for criticizing Proudhon (challenging our assertion of his "hierarchical separation" of women 2 , but without trying to refute it) Le Monde Libertaire declared in June 1966: "Likening the Spanish CNT to the Falangist unions is taking it a bit too far! The SI overlooks the fact that the group 'negotiating' with Francoism is certainly not the CNT and was vigorously denounced by the entire international anarchist movement. Malevolence or ignorance? In either case the SI has discredited itself..." This odd lyricism requires some explanation. We clearly did not "identify" the CNT with the Falange; on the contrary, this monstrosity was cited as the supreme example of the discouragement of any anti-Franco opposition. No one could imagine us supposing that the entire exiled CNT would ratify such a gesture, which signifies the renunciation of everything for which its members gave their very lives. But our article concerned events inside Spain, in a period when the civil war era organizations carry much less weight than they used to, when survivors hunted for decades tend toward discouragement, toward all sorts of "democratic fronts." While I.S. #10 was at the printers, the press broke the news of a few scandalous indiscretions on the part of the best Falangists, either opposed to this attempt or disappointed with its results. But we already know the falseness of the pious variant of anarchism "vigorously" presented in response — a handful of traitors, simply resuscitated by the Falangists — and unfortunately these people represent a real current.
+
+To respond now to this imputation of "malevolence or ignorance" advanced with a certain cynicism three months later by the well-informed but discreet people at Le Monde Libertaire, we are in a position to clear up the following issues: in the name of the CNT's "secretary of the interior," the traitor Royano (aka Romero) conducted negotiations with the highest Falangist authorities, after having spoken with General Alonso. He wished to include the CNT in the foundation of a great legal democratic union whose right to strike would be conditional. Royano obtained every police protection imaginable to carry out his politics in Spain and beyond, and to involve anybody he felt to be of use to his undertaking. Following this, he organized a clandestine conference within the CNT — evidently directed by the most bureaucratic selection imaginable, but composed of actual CNT militants — where he explained his politics. With the exception of one or two delegates who immediately refused to listen to a word, a few put aside their reservations, and the great majority gave Royano their approval. Hoping to have his perspective ratified, he then attended the CNT's General Congress — extended to an "inter-continental" geographic zone — which was held in Montpellier from 10 to 16 August 1965. On the eve of the conference, he met secretly with the tendency in opposition to the International Secretariat of the CNT. He revealed his dealings to them in their full extent; and explained his naïve intention to state his opinions before the congress. These opponents — who included Cipriano Mera and José Peraits, responsible for the FIJI — sensed the incongruity and danger of his conduct; and persuaded him that if he absolutely had to appear at the conference, he was not to say anything about his enormous blunder. They kept the affair carefully hidden (six months later, they were denounced for kidnapping a Spanish bishop in Rome). While the CNT's International Secretariat, investigating its own emissaries, had suspicions that something was brewing in Spain, it did not discover who was involved. The opposition played the game of concealing him, thus allowing back into Spain a man they knew had dangerous contacts with the police.
+
+This straightforward summary should suffice to show the extent of the demoralization experienced by most of the Spanish anarchist movement, in spite of the claims of the systematically respectful anarchists of other countries — people who have been absent from the revolutionary plane for around half a century. It also demonstrates the odd fashion in which the "activists" of the Spanish liberation movement could combat the CNT-FAI's "immobilism," using all available means. This immobilism is, on one hand, the product of the crushing defeat of the Spanish workers' revolution; and on the other hand the refusal to undertake a rigorous critique of the very history of this defeat, and of the choices made thereafter (this leads us back to the general problem of anarchist ideology). It would be difficult to suspect the SI of defending any sort of ideological immobilism whatsoever. We are only too happy to say that we find reckless bids by reformist liquidators far, far worse.
+
+Translated by Reuben Keehan. From https://www.cddc.vt.edu/sionline/si/cnt.html
