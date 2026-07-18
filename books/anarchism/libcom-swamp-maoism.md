@@ -1,0 +1,90 @@
+---
+title: "Swamp Maoism"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/swamp-maoism"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A (hopefully) joke position paper by a fictitious maoist cell in Florida advocating the start of a protracted people&#039;s war in Florida everglades. Reproduced for archival purposes."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/swamp-maoism)
+
+A (hopefully) joke position paper by a fictitious maoist cell in Florida advocating the start of a protracted people's war in Florida everglades. Reproduced for archival purposes.
+
+I want to preserve this document as while I'm 99% sure it was a satire, there are sections that while absurd mirror actual views and suggestions by some North American Maoists. The popular youtube channel Maoist Rebel News for an example has on several occasions lectured Maoists in Canada for not running into the countryside to establish bases to engage in open conflict with the Canadian state.
+
+And while I was looking for additional information on what the Florida Communist Front was I found several online discussions amongst Maoists where some called the document nonsensical, while others worryingly defended it. And the bizarre antics of the Red Guards Maoists show they aren't immune to embracing militant fantasy.
+
+The Florida Communist Front (FCF), an underground cadre based in Belle Glade, has issued the following call to action for the consideration of all true comrades.
+
+*** Towards a Protracted People’s War in the Florida Everglades
+
+We live in dark times. The Trump-Pence regime is working rapidly to consolidate its agenda of mass incarceration, mass deportation, and constant imperialist war. For its countless victims, America has always been a living nightmare—a colonial plantation state built on slavery and the genocide of people of color. Today, it is slipping into fascism, and millions of people are about to suffer the consequences.
+
+What is to be done? The Democratic Party offers no hope for significant political change, and neither do the constellation of reformist and revisionist “left” groups like the Greens. The only way we can fight back against Trump is through a concerted struggle of the masses that will overthrow the bourgeoisie and put the people in power to construct a new socialist order.
+
+As Maoists, we operate within the philosophical framework of Marxism-Leninism, the science of revolution. The time has come for us to dialectically analyze the material conditions of the Trump presidency and act decisively in the interests of the masses. Drastic times call for drastic measures. As the Black Panthers taught us, sometimes you have to pick up the gun to put it away. In 2017, the stakes have never been higher. We need a resistance with teeth, and the only way we can build that is through a people’s army and a protracted people’s war.
+
+“You know I envy you North Americans. You live in the belly of the beast” —Che Guevara
+
+For far too long, we have ignored the possibility of revolution in the United States and focused all our attention on the Third World. But imperialism can never fall until we strike it at its source. All the great national liberation movements in Cuba, China, and Vietnam won through slow, painstaking guerilla tactics. To build people power here in the United States, we should emulate their struggles and begin a similar revolutionary project. How can this task be accomplished? It may seem impossible. The United States has the most powerful military in the world and it has not seen a major domestic conflict since the Civil War. But history and geography offer us an inspiration that points to Florida.
+
+For decades, the Florida Seminoles were a beacon of freedom and resistance to white supremacy. They defended their land from encroaching settlers and offered shelter to fugitive slaves, who became known as Black Seminoles. In 1835, they refused to be sent on the Trail of Tears, took up arms against Andrew Jackson’s genocidal deportation efforts, and waged a resistance war against U.S. imperialism. They hid under cover of the Everglades, using guerilla tactics to keep the American troops at bay. The Black Seminoles fought by their side, as did hundreds of local slaves who revolted, setting their plantations on fire and joining the struggle. It took nearly seven years for the rebellion to be crushed. It was America’s bloodiest, most expensive Indian war, and it was also one of the largest slave revolts in American history.
+
+Even though they were eventually defeated, we should remember the Seminoles’ heroic example. From a scientific standpoint, their war can be viewed as a great national liberation struggle with important implications for the modern fight against Trump. Their efforts were made possible not only through their bravery, but also by the terrain of the Florida Everglades. The natural shelter of the wetlands made them an ideal location for an outnumbered, outgunned force to build a strong guerilla presence.
+
+The Everglades have hardly disappeared—half of the land in the region remains undeveloped. We should use this to our advantage, bringing revolution to America by making it the center of a new protracted people’s war. This scheme may seem pointless, even daft at first glance. But upon further dialectical examination, it is very much pragmatic and achievable. We will outline below how such a scenario could play out.
+
+The struggle could begin with just three or four focos (small revolutionary groupings as described by Che Guevara) establishing permanent camps in the swampiest, most isolated parts of the Everglades—areas seldom penetrated by tourists. This would not be difficult. For shelter, the revolutionaries could use small, semi-submerged boats camouflaged with sticks, leaves, and mud. Each group could be as small as four people (though larger sizes would be ideal). Two fighters would maintain a constant presence at the base, and the other two would maintain lives in the outside world. To raise money to fund the base, they would take jobs or sell scrap metal, ideally in the surrounding area. They would travel to the camp regularly and keep their comrades stocked with food, weapons, and other important supplies. On a frugal budget, these outposts could be maintained on less than two thousand dollars a month.
+
+“The guerrilla must move amongst the people as a fish swims in the sea” —Mao Zedong
+
+Once the bases were fully operational, the groupings would begin their political work. It is vital that our guerilla forces not become isolated in their camps. For any chance of victory, a revolutionary force must move swiftly to build a firm relationship with the masses, in both the cities and the countryside. Without strong support from the workers and peasants, a people’s army becomes impotent and highly vulnerable to imperialist repression.
+
+To achieve this end, the first task of a people’s army is to make its presence known to the masses. Our Everglades focos would accomplish this by planting red flags all over the wetlands, clearly marking the area as their territory. They could also install loudspeakers at strategic locations and blast propaganda that could be heard for miles. Modern renditions of songs from the Cultural Revolution could be played on the loudspeakers 24/7, which would do a great deal to raise class consciousness. Titles could include “Without the Communist Party, There Would Be No New Florida” and “The East Coast is Red.”
+
+Next, the people’s army would begin to reach out to the locals. There are many lucrative farms in the Everglades region, a legacy of the South’s racist plantation economy. Many of the workers on these farms are undocumented immigrants, exploited and bound to the land through their lack of legal avenues for employment. Dialectically, we should view this class formation as an authentic neo-peasant stratum. The focos of our army should target this important group for recruitment, and in doing so protect them from Donald Trump’s deportation agenda. Our guerillas will emerge out of the swamplands and infiltrate the surrounding countryside, assisting these peasants in the fields to gain their trust and support. After consulting with them to develop a mass line, we will induct them into our ranks, stage an insurrection against the growers, burn their farms to the ground, and then return to our Everglades bases with thousands of new comrades.
+
+After this initial attack, the people’s war will pass into its first major phase, which Mao describes as “the period of the enemy's strategic offensive and our strategic defensive.” Massive state repression will come down on the revolutionary forces. They will do everything in their power to hunt down our army and brutally rout it. During this phase, we will not have the equipment or the experience necessary for direct confrontation with the military. We will have to focus our efforts on concealing and fortifying our camps against the massive search efforts that will take place. Meanwhile, we will train our new recruits in the art of guerilla warfare and have them study the fundamentals of Marxism-Leninism, with an emphasis on the works of Lenin, Stalin, and Mao.
+
+During this period, our forces will generally be confined to the safety of the hidden bases and mobilizations will be limited. Even so, a revolutionary must always commit himself to serving the people, no matter where he is. This is a non-negotiable principle, and if we fail to uphold it, the peasants and proletariat will never flock to our ranks. While we are in hiding in the wetlands, our focos could maintain their dedication to serving the people by killing off invasive pests in the region, particularly pythons. This brave campaign would win our army a great deal of public adoration, and by selling the python skins we could raise substantial funds for the war effort.
+
+Due to its swelled numbers, the people’s army will desperately need more food, clothing, and weaponry. Throughout our strategic defensive, it will be critical for our forces to develop new supply lines. As activists from Belle Glade, FCF members have witnessed firsthand the poverty and alienation that many communities on the outskirts of the Everglades face. With a vigorous propaganda campaign, Belle Glade and other towns like it would quickly become sympathetic to our cause. Residents could send our focos cash, small arms, and other basic necessities, along with information on enemy movements. Nearby Seminole reservations like Big Cyprus would be particularly intrigued by the struggle, and might even become a primary source of additional recruits.
+
+However, the most important task during this phase will be for the people’s army to cement an alliance with Cuba. Excluding the DPRK, Cuba is the last great Communist state, with a noble history of proletarian internationalism. When Angola needed his assistance, Fidel Castro answered the call. His brother Raul will be eager to answer ours. Cuba could provide the people’s army with invaluable resources, including tanks, missiles, heavy weaponry, fighter jets, and military advisors. They could also help our forces secure aid from Iran, Russia, Venezuela, and the DPRK. Once these arrangements have been made, it will be crucial for our forces to gain a strategic foothold in Everglades City. This town is located on the gulf coast and would be a perfect location for Cuban supply ships to land at. After this shipping route is secured, the people’s war will escalate to the second stage: strategic stalemate.
+
+“Take small and medium cities and extensive rural areas first; take big cities later.” —Mao Zedong
+
+As its resources improve, the people’s army becomes increasingly ready to fuse the focos together to form larger units, engaging with the enemy directly to seize actual territory. As Mao explains, this process must begin with the capture of minor urban centers. In Florida, this would include entail first taking control of all the land in the Everglades, and then seizing all towns that are south of Tampa and east of Miami. This advancement must be rapid; because at the same time the bourgeoisie will erupt in terror and attempt to consolidate its forces in preparation for the final showdown.
+
+There is a reason for the Everglades’ strategic value that has not yet been discussed: it is close in proximity to the Greater Miami Area, a sprawling urban metropolis. As the people’s army expands out of the Everglades, it will be in an excellent position to encircle this region, which is home to six million people. As it pushes closer and closer to the Miami area, the people’s war will transition to its final stage: the strategic offensive. City and countryside will be brought into tremendous dialectical tension. U.S. military forces will withdraw to Miami in a desperate effort to defend their last important stronghold in the Sunshine State. They will fight tooth and claw to protect it from us.
+
+To counter this effort, we will use a very new set of tactics. For the first time, the people’s army will commence mass struggles in the cities, and not just sparsely populated locations. It should not be difficult for our army to mobilize Miami residents. Many of them are people of color who are already familiar with Communism. We will call a general strike, and thousands of workers will take to the streets to support the revolution. At the same time, we will infiltrate and fraternize with the U.S. military to encourage mass defections. As we enter the city, the military will be hamstringed and unable to shoot at our forces without cutting down throngs of civilians. When this occurs, morale will disappear and the enemy’s ability to resist our offensive will collapse.
+
+The world will be turned upside down when our tanks roll triumphantly into the streets of Miami. Throngs of workers will gather together, singing the Internationale as we erect a statue of Che Guevara in Little Havana. Meanwhile, our army will move swiftly to cement its control over the city by weeding out all reactionaries. We will round up hundreds of first-generation Cuban exiles and send them to reeducation camps in the wetlands. Their properties will be confiscated and turned into revolutionary munitions factories.
+
+Working and oppressed people everywhere will rally when they learn that the mass struggle is gaining ground in the United States. The new government in Florida will give massive aid to all oppressed nations, especially the DPRK. It will also send arms to revitalize the FARC, the Shining Path, the Communist Party of the Philippines, the Naxalites, and other Third World liberation movements. At the same time, it will expand the revolution within the U.S. by forming new divisions of the people’s army in the Rockies, the Appalachians, and the Great Dismal Swamp. Because of the nuclear deterrent, the U.S. imperialists will be powerless to stop these advances. The international proletariat and neo-peasantry will fight on, continuing their struggle until the red flag flies over every country.
+
+This vision can become a reality, but only if we fight for it. It will all begin in the humble swamps of the Everglades. When should we establish our people’s army? Now, and not one moment later! The FCF calls on all true Marxist-Leninists in the United States to move to Florida and immediately begin preparations to set up camps. When the first hidden base in the Everglades is established, its leader should issue a public announcement, establishing their foco as the steering committee of the people’s army. Under the principles of democratic centralism, all future focos must strictly subordinate themselves to this central body. As Ho Chi Minh once remarked, “the man who first steps forward is the best to lead the charge.”
+
+Many “revolutionary” parties will object to this arrangement on the grounds that they must first build up their organizational capacity before they commence any significant class struggle or people’s war. This is a grotesquely revisionist position. At the beginning of a class conflict, the party does not organize the struggle—the struggle organizes the party. As the masses fight for their interests in dialectical tension with the bourgeoisie, the vanguard party begins to manifest itself as an organic formation of the most radical and militant workers. Ergo, for a vanguard party of any significance to emerge in the United States, there must first be a pre-existing trend towards the escalation of the mass struggle. This trend will not be initiated on its own. It can only emerge through the conscious activities of a people’s army in a protracted people’s war. As Che Guevara observed, “the revolution is not an apple that falls when it is ripe. You have to make it fall.”
+
+“There are decades where nothing happens; and there are weeks where decades happen.” —V.I. Lenin
+
+Lenin understood that revolutionary actions must be initiated in short periods of tremendous opportunity. That opportunity has arrived for us. Throughout this text, the FCF has clearly demonstrated that a people’s war in Florida is the only path forward by which the American proletariat can begin to organize a liberatory revolution to seize power. The sun is rising over the Everglades, and the future beckons to us. We must dare to struggle and dare to win!
+
+The power of our enemies is daunting, and our sacrifice will be tremendous. But it will all be worth it in the end, for we have no fear of death. We embrace martyrdom with open arms—to die for the people is weightier than Mount Tai! Focos, join our struggle; focos, unite! You have nothing to lose but your lives.
+
+*** Drafted by John Horse II (pseudonym) of the Florida Communist Front Adopted unanimously on June 1, 2017, by the FCF general body
+
+Oh dear. I would have thought that the Everglades had enough problems with invasive species, without pockets of Maoists littering up the place.
