@@ -1,0 +1,24 @@
+---
+title: "Fight Labour Unions Myanmar Pou Chen Workers"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/fight-labour-unions-myanmar-pou-chen-workers"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Since the coup, there are no legal institutions that are operating in the interests of the working class. By bribing military officers, the capitalist class, in particular the domestic and foreign oligarchs, is able to repress and exploit the working class on an ever-increasing scale. As a result, t"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/fight-labour-unions-myanmar-pou-chen-workers)
+
+Since the coup, there are no legal institutions that are operating in the interests of the working class. By bribing military officers, the capitalist class, in particular the domestic and foreign oligarchs, is able to repress and exploit the working class on an ever-increasing scale. As a result, the working class, especially the low-income working class, needed to organise on their own to pursue their own interests and protect their rights against the exploitations.
+
+Under Taiwanese ownership, the Myanmar Pou Chen facility makes more than 38,000 pairs of Adidas shoes every day. However, the company didn’t pay enough for its workers to withstand the rising cost of essentials amidst the bad economic conditions. The workers requested a raise in the daily wage from 4,800 kyats to 8,000 kyats due to the economic situation and the rising cost of essentials. With a three-day strike in October, the workers demanded answers to 21 problems, including low pay and workplace discrimination. More than 2,000 workers were reported to join the strike. During the strikes, one of the workers, who requested anonymity for safety reasons, stated, "But the military truck with around two dozen armed troops followed us everywhere we marched inside the factory estate." After spearheading a three-day walkout, the management declared on October 28 that it had fired 26 unionised workers for violating their employment agreements. According to the union workers, security guards removed the 26 union workers from the factory. Factory workers made an attempt to extend the strike without the union leaders, but were warned by management and detained by military. The workers subsequently filed a complaint with the Ministry of Labour, Immigration, and Population in Naypyitaw, noting that union head Ma Phyo Thida Win had worked at Pou Chen for more than four years. The labour department of Shwe Pyi Thar Township was given the case by the ministry, and on November 22, November 25, and December 8 it met with the parties involved. The expelled workers were later presented with a three-month wage compensation package by management, which the workers rejected, declaring that they just wanted to be reinstated. The 10-day salary the Myanmar Pou Chen company referred to as "severance money" was put into the bank accounts of the expelled workers on December 1 along with the monthly salary for October. However, it's reported that the workers intended to refund the funds. "According to labour law, this situation is regarded as a personal conflict between the employees and the employer. Workers have the right to file a civil lawsuit against the factory owner if they are not satisfied. The only choice left to us, however, is to go to Adidas since we don't trust the junta's legal system," according to a labour rights activist who is helping the Pou Chen workers. Therefore, the unionised employees at the Pou Chen factory in Myanmar are requesting intervention from Adidas. "Our current circumstance and the brand's knowledge of working conditions may not be at all comparable. Thus, I would like them to pay close attention to what is taking place on the ground and support our workers, said Ma Phyo Thida Win, 26, the president of the labour union at the Myanmar Pou Chen factory. Nine of the union members who had been fired had accepted the compensation as of January 2, 2023, while the remaining members were still fighting for their reinstatement. Even for those who continue to demand reinstatement, the business factory forces them to sign agreements and guidelines that violate or are oppressive of their workers' rights. Since the 2021 coup, there has been a surge in the exploitation of workers by capitalists. More and increasingly capitalist enterprises, particularly those owned by oligarchs and foreign billionaires, are turning more merciless against their workers because there is no rule of law or effective legal system under the military dictatorship that is currently in power. Most of the time, these capitalist corporations use the military officers as their pets by bribing them repress the workers and the unionists.
