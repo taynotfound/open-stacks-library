@@ -1,0 +1,74 @@
+---
+title: "Occupy Class War"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/occupy-class-war"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A member of Wild Rose Collective writes about how Occupy&#039;s &#039;99% vs 1%&#039; rhetoric is problematic and who in reality in includes and excludes."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/occupy-class-war)
+
+A member of Wild Rose Collective writes about how Occupy's '99% vs 1%' rhetoric is problematic and who in reality in includes and excludes.
+
+It would seem the division is clear. There is the “1%,” and there is the “99%.”
+
+We know what, and a lot of time we even know who this “1%” is, although for some reason no one seems to be talking about it. Instead, we tend to speak to the inverse—the “99%”. It is a created concept really, an imagined unity that says somewhat clearly: “those who have been fucked by the 1%.”
+
+We might do well to call the 1% what they are—the ruling class. Today’s ruling class are capitalists gone wild, heralding capitalism to its logical neo-liberal conclusion. Yes, the 1% has all of the money, they also have all control of the supposedly democratic system which we are all, whether we like it or not, a part.
+
+We might also do well to call the division what it is— a class war .
+
+We say war for a reason. It implies that there is a battle, necessary confrontation. It also implies that one must choose sides. One of the things the 99% as a concept has done is draw the symbolic and newspaper worthy battle-lines. On their side they have pretty much the entire media-stream, a shit-ton of money, various laws, politicians, and bureaucrats to protect them. When that isn’t enough, they have gated communities, private security teams (in some cases whole armies), municipal police forces, and if the shit really hits the fan, the US military to protect them. Despite losing our homes, our rents rising, our longer hours, our unemployment, our minimum wage, our non-existent futures, our depression and anxieties, and our melting planet—we still have our anger, our minds, our bodies, our collectivity.
+
+But let’s take a step back. When we draw lines in the sand, between the ruling class and the “99%,” what else do we imply by lumping so many people together? We know that the 99% is a constructed concept of unity, imagined, seemingly out of thin air, around September 2011 to articulate the fragile alliance between those on the losing side of the escalating global financial crisis.
+
+But in practice this alliance or stated unity seems to only pertain to those who self-identify with, or are involved in, the Occupy movement. It is a mistake to include everyone who is not a millionaire into such a concept—the 99%. In short, with the uncritical proliferation of the 99% as a vague unifier of massive quantities of people—differing in gender, race, class, etc, as well as political affiliations or sensibilities—we need to look closer at the implications of such terminology, but more importantly what it creates in reality.
+
+Concepts can constitute reality and call it into being. They have the power to communicate a basis for felt, but not yet described, experiences when they resonate with our everyday lives. This can be a powerful force—consider the words spoken by Stokely Carmichael in the wake of the shooting of civil rights activist James Meredith in June, 1966: “This is the twenty-seventh time I have been arrested and I ain’t going to jail no more! The only way we gonna stop them white men from whuppin’ us is to take over. What we gonna start sayin’ now is Black Power !” In one breath, years of struggle and articulation of experience—from MLK and SNCC to the term’s more immediate inspiration, the militancy of Malcolm X—are spoken in clear, precise, and slogan-worthy words. Suddenly a growing tendency of black militancy is translated in two simple words, and makes immediate sense regardless of whether or not one had ever heard Malcolm X speak, but felt his message in their every day experience. In that moment “Black Power” created a possibility, a space, for the emergence of a fiery mass consciousness that rejected the white supremacy and racist ideologies that proliferated everywhere. One need not be a scholar of African American history or political science, one didn’t need to have read MLK, Marcus Garvey, or Malcolm X to understand the words, it was self-evident, felt, and entirely clear.
+
+The concept “the 99%” functions similarly, but resonates with quite a different group of people and its antagonisms are much more vague. Millions of people who are in debt, have lost their jobs, houses, and life savings understand the 99% perfectly well with little or no need for an explanation of the inner workings of financial capitalism (e.g. “Wall St.”). Both the symbolic and pragmatic function of the term makes sense—if 1% of people have all the money, 99% of people are getting fucked. Like the abstraction of Wall Street as a stand-in for the immaterial accumulation of capital, as well as the would-be residence of the 1%, the 99% stands in symbolically for all those subject to the whims of Wall St. The vulgarity and violence of the ruling class is articulated in clear, slogan-friendly dialectical terms—1% v. 99%
+
+But on the ground (that is, outside of the spectacular battles of the media) another question becomes pressing: When we say 99%, whom do we mean, exactly? Looking closer reveals rather quickly it doesn’t work especially well to simply lump everyone together, at least, as it has been used so far within Occupy.
+
+Take for example the way the concept of the 99% is often used within the movement to validate fairly specific liberal middle-class politics taken as a priori, which in turn ironically cancels out other politics within the 99% in the name of fear of scaring any potential occupiers, or worse, the elusive “community” or “public” with voices of anger, antagonism, or radical politics.
+
+“Police need a raise! Police need a raise! Police need a raise!” [Chanting protestors are hauled off in handcuffs.]
+
+Of course, this generous form of unity contradicts others’ inclusion in the supposedly blanket 99%—people of color, prisoners, undocumented immigrants, queer and transfolk come to mind, as people who face or fear police violence on a daily basis. It is not just about the cops though, and I don’t want to over-emphasize a hatred toward the police that we anarchists can slip into (there are plenty of legitimate critiques of the police, but that isn’t the point I’m trying to make here). The point is that this example of “be nice to the police” is indicative of a larger tendency within the movement of the way that the 99% concept / term is used as propaganda externally, as well as internally to suggest directions for the movement to go and what tactics we should use to get there. It condescendingly and often ignorantly assumes an affinity between white middle-class folks who, perhaps, have lost their moderate to high paying jobs, or students who are crippled by debt, with poor and oppressed peoples who have struggled and fought for generations against a systemic racism and classism. Scroll through the “ we are the 99% ” tumblr, and you’ll see a hell of a lot more “I played by all of the rules,” implying “why did I get screwed?” than you’ll see “half of my family is in prison,” “my boss frequently steals wages from workers,” or “as an undocumented immigrant I work sub-minimum wage.” There is a sea of difference between “I tried to pull myself up by my bootstraps and the straps broke,” compared to “I never got a pair of fucking shoes!”
+
+We shouldn’t fetishize the “most oppressed” though either. The point is that we need to have a better understanding of the rhetoric we use, and its relationship to real world effects in terms of who participates, but as importantly, how we as ‘Occupiers’ understand ourselves as a unified group, a would-be class, at the very least related group in common struggle. Like the middle-class folks who neglect to recognize how their liberalism and political assumptions can affect particular oppressed peoples as participants in Occupy, a militant and narrow-minded commitment to only the “most oppressed” (often times excluding oneself, flirting with a kind of awkwardly vanguardist role) can similarly result in a failure to recognize certain groups of people (students, for example, as a legitimate part of the working class who are enslaved by debt) and the pervasive and diverse ways in which capitalism has affected various peoples.
+
+I not only think it is possible but that it is essential to begin to understand contemporary class politics as they emerge in all of their messy complexities within a grassroots movement that identifies the ruling class as the enemy. Some Marxist theorists call it ‘ class-composition ,’ referring to a complicated ever changing structuring of class both as it relates to political affinities and labor realities, but also and equally as important—their potentials in assembling or conjoining in struggle. As I understand it, class-composition works toward a re-conceptualization of class such that the social and the political spheres that were formerly thought to be necessarily distinct can be reconciled. But more importantly, to compose implies to create—that is, to articulate our similarities as well as our differences, without a need to refer to representative politics, and to understand how those affinities between different types of people, as well as singularities specific to the individual, offer potential to struggle on multiple terrains. When we build sincere affinities, which will require much more listening than has happened thus far, that are based on deep understandings of the various ways capitalism and oppression affect and manipulate different people, we more deeply understand how our actions have consequences on others within the supposed 99%, and we better understand how to struggle collectively while maintaining our respective politics, identities, etc. We will also see in the processes of composing our affinities toward one another—understanding and embracing our differences, rejecting our internalized oppressive behavior—a deepening of our bonds and an intensified commitment to each other as well as to our respective struggles. In this sense, quality over quantity might prove important, and might again reveal that not all of the 99% are our friends.
+
+This, it seems to me, is what Occupy is all about in its attempt to pull a thread between so many differing types of people that make up the 99% while also resisting, so far at least, representative politics. But, generally speaking, it seems Occupy has neglected to do any work to articulate the both subtle and great differences as well as fragile alliances, instead conveniently harkening back on the reductive 99% unifier, muddling and canceling out many people. There are ways in which students, for example, can be militant about being exploited as workers, and having a critique of debt, without throwing out a nuanced understanding of our other racial, intellectual, geographic, hetero, gendered or other kinds of privileges. But this requires a re-imagining of what it means to be a part of the oppressed, it requires checking one’s privilege without relinquishing individual agency, and finally it requires a persistent linkage between various groups balanced with an understanding that capitalism distributes violence, economic inequality, and other forms of oppression unevenly and thus not everyone’s experiences (or politics) are the same.
+
+This, in my estimation has been the primary problem with the [lack of] class analysis within Occupy, and of the concept of the 99%. Thus far it has not gotten us closer to understanding our differences in relationship to our shared forms of exploitation, either as workers or the subjects to the violence of financial capitalism. There are several stories of transphobic, racist, classist, patriarchal activities within GAs and various encampments. These stories signal that Occupy has so far struggled to listen, to be self-critical, but most importantly to deepen an understanding of all of the lingering -isms amongst ourselves. It also signals a realistic difficulty of learning again how to speak to one another, how to reject our own internalized systems of oppression, how to relate, how to join one another in the streets and re-learn how to speak, and perhaps most importantly how to listen. But if we are going to insist upon generalized language of inclusivity we must also ask in an honest way: Who gets to be part of such a group? Or better, who isn’t showing up, and why?
+
+In the spirit of this essay I should note that I am definitely not the first to bring up these problems or analyses; I’ve learned from many brilliant people. Below are a few links that have made an impression on me and helped to sharpen my politics; surely there are many other great voices to be heard.
+
+Colorlines continually posts good articles putting race on the table in relationship to Occupy. See their posts here .
+
+W.I.T.C.H. (Women and Trans* Conspiracy from Hell) produced a scathing and productive critique of Occupy coming from a queer / anarchist perspective. It was here that I first read a good critique of “99%.” Can be downloaded here .
+
+Transgendered artist / activist Micha Cardenas describes her frustration to find that OccupyLA has kept sexual assault that has occurred at camp from public discussion, and thus not adequately dealt with, for fear of ‘damaging the movement.’ Can be read here .
+
+But let’s take a step back. When we draw lines in the sand, between the ruling class and the “99%,” what else do we imply by lumping so many people together? We know that the 99% is a constructed concept of unity, imagined, seemingly out of thin air, around September 2011 to articulate the fragile alliance between those on the losing side of the escalating global financial crisis.
+
+Yes, yes, yes. I think the "99%" slogan is similar to the movement of the unborn fetus in the womb. It's a warning that the gestation is well underway and can only result in abortion or birth.
+
+We should be mindful that for many in America acknowledging the "99%" slogan as truthful (if vague and imprecise) represents their first baby steps on the road to proletarian class consciousness.
+
+It's just like the "Occupy" slogan. For me, the "Occupy" slogan is so pregnant with meaning and revolutionary implication as to represent the summation of all that is necessary in order to accomplish our emancipation from capital.
+
+It seems to me that it's a small, tiny little baby step to go from "Occupy Wall Street" to "Occupy the workplace"!
