@@ -1,0 +1,48 @@
+---
+title: "Dispatches Hurricaned Ny Morning Manhattan"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/dispatches-hurricaned-ny-morning-manhattan"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "One of a series of blogs from Cindy Milstein on living through the hurricane. While power is out and tanks roll in, somehow people are still making it in to work..."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/dispatches-hurricaned-ny-morning-manhattan)
+
+One of a series of blogs from Cindy Milstein on living through the hurricane. While power is out and tanks roll in, somehow people are still making it in to work...
+
+At around 5:00 p.m. yesterday, out of some perverse curiosity, because I almost didn't want to believe it, I wandered up as far as Times Square. No need to take a photo; it looks like any other day, packed full of shoppers and tourists, and glaringly lit up like an extra-sharp slap in the face to all those areas and people in cold, dark apartments facing food and water shortages. The ticker tape expresses its support for those impacted.
+
+Around 6:00 p.m., as dusk was nearing, I wandered into a big, bright bank lobby filled with ATMs and, for some reason, lots of three-pronged outlets. So a bunch of us from the Lower East Side and Chinatown stopped there to make our own recharging station of sorts, filling up the batteries in our phones before we all schlep down to our dark apartments. We sat on the floor, sharing power-outage stories, as disconcerted people came in and out to use their ATMs for more shopping and dining pleasure. One woman on the floor near me, who lives in Chinatown near the high-rise public housing, said she saw forty to fifty tanks on 3rd Avenue at 23rd Street -- then she showed me a photo of them. Probably protection, she said, from folks in lower Manhattan if they go another couple days without supplies. Plenty to be had, for money, stacked high on shelves starting around 30th Street and northward. For too many, solidarity is only for the neon lights of Broadway, all show and no substance.
+
+At around 7:00 p.m., I started heading south, with dark lower Manhattan looming ahead. I stopped first in Grand Central Station -- bustling, crowded, light -- then went one block south on Fifth, and the traffic lights and building lights were suddenly gone -- simply out. Looking down, say, 36th or 38th streets toward the East is like peering into a grand canyon from the bottom of it. Then, suddenly again, two kitsch NYC gift shops were aglow, followed by the well-lit CUNY Grad Center with four bored black male guards and a sprinkling of diehard grad students or faculty, mostly coming outside for a smoke, and the bright Empire State building across the street, and rush-hour mayhem, along with tons of new walkers and bikers, looking disoriented too. And ahead, miles of darkness -- to what I hear is Goldman-Sachs' fully illuminated high-rise at the tip of Manhattan. If what's electrified equals what's "valued," we're in trouble. But we know that already, don't we? Such moments only offer plain-sighted confirmation.
+
+As I got toward 30th, darkness, nothing but darkness -- though last night, that made for some spectacular sights, like Madison Square Park. Without lights and with few cars on the road, notwithstanding red police flares on its outskirts, it looked like an honest-to-goodness forest. I hate to use this language, but it was kind like some sort of temporary rewilding zone! And the Flatiron Building, the most gorgeous of all, bronze-iron outline sketched against pale-peachy sky in the dark, dark night.
+
+This morning, again out of perverse curiosity, I had to see for myself, and yes indeed, there are tons of tanks around 3rd and 4th avenues, clustered around a former (?) armory. Lots of soldiers, police, and national guard are milling around, eating bagels and drinking coffee. There are lots of tanks and other odd-looking military vehicles, seemingly too tiny and militaristic for material aid deliveries, and a few trucks -- only a few -- being loaded with bottled water (hmm, four to five days into the storm devastation?). Mostly, tanks...
+
+Still no electricity in most of lower NYC this morning either, and most everything is still shut. Some small local(ish) businesses are trying to sell what they can -- mostly, coffee. One store had a sign out front stressing "fresh" alongside "bagels." I also saw a bunch of rotting boxes (actually, many!) of perishables through several windows of the larger grocery stores. When I went into one small place to get something edible for breakfast (cold, to carry with me), the woman behind the counter said it took her several hours to drive from her NJ home (where she says they are likely to be without power for two more weeks); that she's only got a quarter tank of gas left after waiting 2.5 hours for gasoline last night only to have cops tell everyone "station's closed!" before she and others were able to fill up. I asked her why she came in to work. "Yeah, my sister asked me the same thing, and I told her, 'Because I'm an idiot!'" (she laughed). I told her she deserved double or more pay today; "Yeah, tell that to my cheap-ass boss."
+
+Months ago, I'd committed to doing a workshop on what's fundamentally wrong with capitalism for a coop housing institute in Ann Arbor (good and bad timing, I suppose; I don't want to leave, but I also am more than ready to rail on capitalism). That means getting to JFK. And that's my last story for the moment before I unplug and get on the second of four mass transits to the airport.
+
+Yesterday, I walked to 34th Street, since I knew the subway was running from there uptown, so I could ask about how the hell to get to JFK. Not one, but two completely kind and friendly MTA workers took an interest in figuring it out with me. They gave me not one, but two subways maps (even though I insisted I didn't need either). They problem-solved multiple options. And then they settled on what I should do, which first included walking from 7th Street on the Lower East Side to Grand Central Station on 42nd Street to catch a shuttle to downtown Brooklyn to then get the A train to finally catch AirTrain. When I mentioned that I'd usually look it up online, but I couldn't because I still didn't have electricity, and both my computer and phone's batteries were at zero charge, one of the MTA folks suggested I go to a nearby cafe to recharge. I'd already checked five in the area -- all overfull with people like me. He said, "Go to the one underground in Penn Station; nobody knows about it," pointing toward the subway exit and entrance, where today people entered free of charge (free, because so little of this public transit system was functioning). Sure enough, he was right, and I and three other folks happily shared an outlet, taking turns recharging and chatting about the hurricane's damage. About a half-hour later, the MTA guy came in, with more info for me, but mostly happy to see that I'd taken his advice. "I told you!" he said, with a big smile.
+
+Back to this morning and how all the MTA info revealed yet another class-inequity dynamic in this power outage. I packed light for my trip and started my walk from East 7th Street toward 42nd, past the tanks and troops around 23rd, and when I got to around 34th Street, noticed a bunch of double buses with temporary signs saying "Jay Street Metrotech" (that's in downtown Brooklyn, for those who don't know). Another friendly and kind MTA person said, yes, I could catch one of the free buses from here, saving me nearly ten more blocks on foot, much as I love walking. I hopped on what became a sardine-situation bus, and off the driver went -- fast, because there are no traffic lights and there is little traffic going downtown in the blackout area, and it's basically a straight, clear shot. I noticed a lot of bicyclists this morning seemingly having a grand time -- well, some of them -- doing the same thing, in a sort of hurricane-facilitated critical mass. Made me wish I'd trekked over to Brooklyn yesterday to get that loaner bike set aside for me. Anyway, the bus whizzed past bewildered person after person, waiting on corners in the Lower East Side. The driver stopped once, at Houston, to let five people off, then determinedly continued on to cross the Manhattan Bridge (a beautiful quiet walk these past few days without trains crossing it) to downtown Brooklyn.
+
+And then it hit me. All the shuttle buses that both the MTA folks yesterday mulled over ALL left from either 34th or 42nd Streets or higher! Nothing south of that. So all those many people already without lights, heat, cell reception, hot water, elevators, showers, subways, etc., etc., -- especially all those who can't afford to leave, can't afford to miss work, might not be able to walk or afford cabs or ride bikes -- all those "down-and-out in lower Manhattan" folks are plain out of luck to get free shuttle buses anywhere remotely near or in their neighborhood.
+
+Good morning for some; really bad morning for others -- depending on what side of the class, race, gender, ability, etc. divides you are on. Climate change is too nice a word for it.
+
+If you’ve run across this blog post as a reposting somewhere, you can find other blog-musings and more polished essays at Outside the Circle , cbmilstein.wordpress.com/ . Share, enjoy, and repost–as long as it’s free, as in “free beer” and “freedom.
+
+Photo: by Cindy Milstein, one of way-too-many militaristic vehicles sent to NYC. Originally written on November 2, 2012
