@@ -1,0 +1,36 @@
+---
+title: "Letter Albert Richard Mikhail Bakunin 0"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/letter-albert-richard-mikhail-bakunin-0"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/letter-albert-richard-mikhail-bakunin-0)
+
+You keep on telling me that we both agree on fundamental points. Alas! my friend, I am very much afraid that we find ourselves in absolute disagreement... . I must, more than ever, consider you as a believer in centralization, and in the revolutionary State, while I am more than ever opposed to it, and have faith only in revolutionary anarchy, which will everywhere be accompanied by an invisible collective power, the only dictatorship I will accept, because it alone is compatible with the aspirations of the people and the full dynamic thrust of the revolutionary movement!
+
+Your revolutionary strategy could be summed up as follows: as soon as the revolution breaks out in Paris, Paris organizes the Provisional Revolutionary Commune. Lyons, Marseilles, Rouen, and other large cities revolt at the same time, immediately send their revolutionary delegations to Paris, and set up a sort of national assembly, or People’s Committee of Public Safety for all of France. This committee decrees the revolution for all of France. This committee decrees the revolution, the abolition of the old state and social liquidation of all exploitative institutions, be they governmental, religious, or economic. The committee also decrees, at the same time, the collectivization of property and the organization of a new revolutionary state with dictatorial power in order to suppress internal and external reaction: Is this not your idea?
+
+Our idea, our plan is exactly the opposite — there is no reason to assume that the revolutionary uprising must necessarily begin in Paris. It may well begin in the provinces. But let us assume that the revolution, as usual, begins in Paris. It is our conviction that Paris should then play only a negative role, i.e., initiate the destruction of the old order, but not organize the new order (in the rest of France). If Paris itself stages a successful uprising, it would then have the obligation and the right to call for solidarity in the complete political, juridical, financial, and administrative liquidation of the State, and of political and privately owned or controlled (but not strictly) personal property; the demolition of all the functions, services, and powers of the State; the public burning of all public and private legal documents and records. Paris will immediately and to the greatest possible extent organize itself in a revolutionary manner. The newly formed workers’ associations would then take possession of all the tools of production as well as all buildings and capital, arming and organizing themselves into regional sections made up of groups based on streets and neighborhood boundaries. The federally organized sections would then associate themselves to form a federated commune. And it will be the duty of the commune to declare that it has neither the right nor the desire to organize or govern all of France. This commune, on the contrary, will appeal to all the people, to all the communes, and to what up till now was considered foreign territory, to follow its example, to make its own revolution in as radical a manner as possible and to destroy the state, juridical institutions, privileged ownership, and so forth.
+
+Paris will then invite these French or foreign communes to meet either in Paris or in some other place, where their delegations will collectively work out the necessary arrangements to lay the groundwork for equality, the indispensable precondition for all freedom. They will formulate an absolutely negative program which will stress what must be abolished, organize the common defense and propaganda against the enemies of the Revolution, and develop practical revolutionary solidarity with its friends in all lands.
+
+The constructive tasks of the Social Revolution, the creation of new forms of social life, can emerge only from the living practical experience of the grass-roots organizations which will build the new society according to their manifold needs and aspirations.
+
+The provinces, at least such main centers as Lyons, Marseilles, Saint-Étiénne, Rouen, and others do not have to wait for decrees from Paris before organizing the Revolution. They must revolt and, like Paris, make the negative, i.e., the destructive phase of the Revolution. They must organize themselves spontaneously, without outside interference, so that the Revolutionary Federal Assembly or Provincial and Communal Delegations do not attempt to govern and regulate all of France; the Revolutionary Assembly is, on the contrary, the creation of local and spontaneous organizations in each of the revolutionary centers of France. In short, the Revolution emanating from all points should not, and must not, depend on a single directing center. The center must not be the source, but the product; not the cause, but the effect of the revolution.
+
+There must be anarchy, there must be — if the revolution is to become and remain alive, real, and powerful — the greatest possible awakening of all the local passions and aspirations; a tremendous awakening of spontaneous life everywhere. After the initial revolutionary victory the political revolutionaries, those advocates of brazen dictatorship, will try to squelch the popular passions. They appeal for order, for trust in, for submission to those who, in the course and in the name of the Revolution, seized and legalized their own dictatorial powers; this is how such political revolutionaries reconstitute the State. We, on the contrary, must awaken and foment all the dynamic passions of the people. We must bring forth anarchy, and in the midst of the popular tempest, we must be the invisible pilots guiding the Revolution, not by any kind of overt power but by the collective dictatorship of all our allies [members of the anarchist vanguard organization International Alliance of Social Democracy], a dictatorship without tricks, without official titles, without official rights, and therefore all the more powerful, as it does not carry the trappings of power. This is the only dictatorship I will accept, but in order to act, it must first be created, it must be prepared and organized in advance, for it will not come into being by itself, neither by discussions, nor by theoretical disputations, nor by mass propaganda meetings...
+
+If you will build this collective and invisible power you will triumph; the well-directed revolution will succeed. Otherwise, it will not! ! If you will play around with welfare committees, with official dictatorship, then the reaction which you yourself have built will engulf you ... who are already talking yourselves into becoming the Dantons, the Robespierres, and the Saint-Justs of revolutionary socialism, and you are already preparing your beautiful speeches, your brilliant “coups d’états,” which you will suddenly foist on an astonished world...
