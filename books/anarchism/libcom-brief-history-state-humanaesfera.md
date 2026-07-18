@@ -1,0 +1,28 @@
+---
+title: "Brief History State Humanaesfera"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/brief-history-state-humanaesfera"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "How did the state become distinct from the castes and presented itself as a neutral entity that hovers and contrasts with a so-called civil society? What is the relation between the emergence of capitalist power over the world and the emergence of absolutist monarchies and nation-states? This short "
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/brief-history-state-humanaesfera)
+
+How did the state become distinct from the castes and presented itself as a neutral entity that hovers and contrasts with a so-called civil society? What is the relation between the emergence of capitalist power over the world and the emergence of absolutist monarchies and nation-states? This short article presents a synthetic look at the history of the emergence of the modern state.
+
+This text is an addendum to Private property, substance of state .
+
+A BRIEF HISTORY OF THE STATE The State as such has no history, because, as a mental abstraction, it has no substance of its own which could, from itself, establish any self-coherent development over time. Abstractions are creations of human beings in flesh and blood. Consequently, the modifications of the State will only make sense when we analyze the history of human beings in their relations and in their activities of transformation of material circumstances, in which they transform themselves along with these social relations, while inventing their own ideas. 1 The very idea of a "State" as a separate and distinct entity that hover above and in essential contrast to a "civil society" is a novelty in history that emerged only in the eighteenth century, precisely with capitalist society (we have already analyzed in detail in this text the necessity of this "distinction"). Previously, the word "state" simply meant "state of affairs," that is, the "status quo" of a stable and well-established caste system (i.e., where the lower castes, the servants and the slaves, are obedient to the point of not worrying those above). For example, as late as in France immediately before the French Revolution, “State” (in French: état ) was what the castes were called: “First State” (clergy), “Second State” (nobility of the sword and nobility of the robe) and “Third State” (peasants, artisans, bourgeois ...). Thus, "State" was the name for the social hierarchy itself, the name for the hierarchical arrangement of what we now call “civil society”. Of course, the dominant castes organized themselves with weapons against the lower castes, that is, they were directly the governments themselves, making assemblies, parliaments, coronating kings, emperors, or even making a democracy of slave owners, as in Greece. However, like today's corporate boards, they saw no need to present their power as something that contrasted with “civil society”, for the servants and slaves were servants and slaves precisely because they were already trapped in personal ties of blackmail and menace to the masters, who did not need such imaginary subtleties. At that time, industrial capital (which depends on the generalization of wage labor, only possible after the separation of the former slaves and servants from all way of life, which means that in order to survive they must sell themselves in the labor market to have money to buy) did not yet exist, but only commercial capital - fleets of heavily armed ships that pirated each other, pile up villages or buy cheap from one place to sell the most expensive possible in another. These fleets were known as “companies”. Commercial capital, for centuries, millennia, has always been marginal, merely trading among the various pre-capitalist societies. It had as clients the masters of slaves and servants, nobles, kings, priests, etc., who bought luxurious goods to use them in a pre-capitalist way , through gifts, parties, costly and unproductive expenditure, in order to reproduce the ties of kinship and dependence which constituted their own social relations of dominant caste, while at the same time affirming, by “beneficence”, the bonds of personal domination, of infinite moral debt of their subordinates. As we said, this “symbiosis” lasted for millennia. This began to change about 550 years ago, when commercial capitalists began massing their capitals to finance powerful absolutist monarchies in return for the service of securing their monopoly of trade routes in the competition with other commercial capitalists. It was the time when firearms appeared in Europe. This explains why, in an unending arms race to this day, the various monarchies have become increasingly dependent on the financing of these capitalists to arm themselves more and more, and the capitalists, in turn, depended more and more on absolutist monarchies to monopolize ever more trade routes. The search for new trade routes to be monopolized, and the increase of power of each absolutist monarchy, led to the colonization of the Americas, Asia and Africa. In short, it was the commercial capitalists who, by financing absolutist monarchies, made what was the mere internal hierarchical organization of the feudal lordly castes come to appear and be treated as a separate entity from “civil society”, as an “neutral” entity that hover above the various castes. 2
+
+[This text was translated into English by humanaesfera from the original version in portuguese ( Propriedade privada, substância do Estado )]
