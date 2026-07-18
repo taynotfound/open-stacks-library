@@ -1,0 +1,40 @@
+---
+title: "Thoughts Solfeds Anarcho Syndicalism 21St Century And Especifismo"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/thoughts-solfeds-anarcho-syndicalism-21st-century-and-especifismo"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by Klas Batalo on SolFed&#039;s views and their similarities to other anarchist currents such as the Latin American especifismo."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/thoughts-solfeds-anarcho-syndicalism-21st-century-and-especifismo)
+
+An article by Klas Batalo on SolFed's views and their similarities to other anarchist currents such as the Latin American especifismo.
+
+If you’ve been following debates in class struggle anarchism the last few years you’ve most likely encountered the writings of the Solidarity Federation (UK) who’ve put out excellent pamphlets on anarcho-syndicalist theory and practice with the hope of updating it for the 21st century. The first of these Strategy & Struggle was released by the Brighton local of SolFed in 2009 and created much of a buzz for the organization, especially around the website libcom.org. This is why many anticipated eagerly the release the groups’ elaboration and improvement upon many of the ideas in that pamphlet, Fighting for Ourselves , released around this time last year in 2012.
+
+One of the key debates that broke out around these theories were about the relationship and role of revolutionary minorities to mass movements and the broad working class. In Strategy & Struggle the Brighton local laid out a theory of permanent minority organizations like propaganda groups and networks of militants, minority non-permanent organizations put up by the needs of the struggle, and mass non-permanent organizations. For this Brighton SolFed got accused of councilism and left-communism, but while their distinctions on the relationship of revolutionary minority to the class might have been underdeveloped the content on the role and internal functioning of the revolutionary minority has been less seriously looked into, and in my honest opinion the real innovation that all sincere revolutionaries should not overlook.
+
+This same debate left me for a few years grappling within the question of if SolFed’s theory was one of championing mono organization (one big organization like a mass party) over dual organization (seeing distinct roles for a political minorty and economic mass organization). However I’ve been increasingly convinced this is not the case. Rather SolFed is reaffirming for the 21st century anarcho-syndicalism’s core principle and method of not seperating the political and the economic in how we engage in our social work as revolutionaries. In Strategy & Struggle they laid out how they would rather take a pluralist approach to organization, and so they do not see the need for “a platformist ‘general union of anarchists’ or left communist ‘single proletarian party’” and that instead of being united only around ideas and program, revolutionary organizations should be internally organized around their function and role in the social-economic struggle.
+
+No where in SolFed’s theory does the organization reject social insertion or anarcho-syndicalist work in organizations other than their own, a common fallacy directed at anarcho-syndicalism that it just wants to form one big organization to encapsulates all of the struggle. In fact their strategy papers state that where there is a trade union or community organization already in a members’ life they should engage in anarcho-syndicalist work within that context arguing for anarcho-syndicalist ideas and actions. They have no problem dual carding and regrouping rank and file militants around an organized minority within such contexts. However where they break ground is how we can internally organize the division of labor within revolutionary minority organizations so as to build towards the massification of not only the organization itself but the struggle in turn.
+
+SolFed’s innovation here is the coupling of local community based propaganda groups with the dual structure of networks of militants whether industrially (such as their Education Workers Network) or based on other social distinctions such as being a student or unwaged (their new Student Network and Unwaged Workers Network). To often we see revolutionary minorities just take on the first of these functions as propaganda groups, with occasional networking between individuals, a discussion and reading group here or there. But shouldn’t our revolutionary organizations also be equiped and ready to engage internally as to be organized in their intervention in the social-economic struggle? Might this lack of coordination speak to why often such political groups are inadequately prepared for when ruptures with the normal low state of struggle occur, when like the movements against austerity and Occupy popped up?
+
+Andrew Flood of Workers Solidarity Movement has recently said as much. Recently there has been much debate around that organization about it’s trials and tribulations relating to their intervention in the crisis. That debate is too long and elaborate to get into here but before the crisis he and others had put forward a 10 year plan that included the desire to create libertarian industrial networks and neighborhood community centers, that echo much of what SolFed details as their approach. Andrew Flood laments in a piece on his blog that they never really were able to get such networks going. This is especially interesting considering Andrew also at his blog recognizes also that with the advent of the internet many of the traditional political roles of revolutionary minorities has been transforming. More history, literature, and “memory of the class” is availble than ever. Sites like libcom.org and AnarchistBlackCat.org allow individual members accross groups and geography to discuss and have debates as never seen before, when the only way to engage with others in this way was to join a group that put out a paper and studied the few works they could all get their hands on.
+
+This is not to say that only anarcho-syndicalism has come to these conclusions. The FARJ of Brazil in their Social Anarchism & Organization and elsewhere elaborate not only on concentric circles of engagement (a theory long practiced within the anti-capitalist movement, though theirs is a particularly libertarian theorization from below and internal to the class movement) but also argues for internal organization of the specific revolutionary organization into social and economic fronts. Typically for most leftist groups these have been focused either in industry, community, and students/education, but the FARJ have themselves organized around Urban Social Movements, a Community Front, and Argiculture and Nature.
+
+However SoFed’s thorough theorization of this way of operating is the first I’ve seen actually implemented fairly successfully in the global North/West. For far too long class struggle anarchist movement and the left in general has only set itself up to fight the “battle of ideas” regulating class struggle only to organizations outside themselves. Organizations like SolFed and FARJ show us how we can organize for the struggle as well.
+
+Finally, SolFed’s Fighting for Ourselves lays out a more refined theory on how active minorities organized around politics as such propaganda groups could transform themselves via encorporating such social-economic networks of militants internally to become a real force and tendency towards massification. This theory is particularly elaborated in the 5th chapter of their book on how they seek to become a revolutionary mass minority, or revolutionary union. What is new to this theory is seeing such an organic relationship and role between active minorities becoming mass minorities, and hopefully revolutionary mass militant minorities able to make class struggle wins on a larger scale.
