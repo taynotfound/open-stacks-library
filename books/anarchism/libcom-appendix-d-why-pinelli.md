@@ -1,0 +1,42 @@
+---
+title: "Appendix D Why Pinelli"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/appendix-d-why-pinelli"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/appendix-d-why-pinelli)
+
+In order that the responsibility for the Piazza Fontana bombing be seen to be the work of anarchists, suitable and likely candidates had to be available in Milan. It would appear from the harassment directed against Pinelli and his friends since 25 April that he and the Anarchist Black Cross had been agreed on by the various parties to the conspiracy. So far as the security services and fascists were concerned, implicating the ABC as the political and organisational inspiration for the bombings would represent a much more convincing and plausible scapegoat than the teenagers of the Rome 22 March Group. In addition, it would permit them to implicate a man considered by the authorities of prime importance in the Italian left, the marxist publisher Giacomo Feltrinelli, who, in the eyes of the right, represented the main danger to the Italian status quo. By showing Feltrinelli to be a murderer as opposed to a highly considered leftist publisher, they would not only rid themselves of a dangerous and troublesome enemy, but would also deliver a severe blow to the Italian left.
+
+It was Feltrinelli who had supplied an alibi for his two anarchist friends, Giovanni and Eliane Corradini, who had been arrested in connection with the 25 April bombing. The right-wing and centre press had also named Feltrinelli as the main financier of the anarchist groups and the instigator of the bombing campaign. 1 Pinelli, in turn, was a close friend of the Corradini's, who were also active in the Anarchist Black Cross, and in Calabresi's eyes Pino was the man to tie the whole anarchist conspiracy together. If he could be induced to make the necessary statements the success of the whole operation would be assured, as Pinelli himself was in no way suspect as a man who had long repudiated political violence.
+
+As Pinelli was a highly esteemed comrade any statement made by him concerning anarchist involvement in the outrage would be the ideal finishing touch to the whole manoeuvre.
+
+The provocateurs had done their work well. They were well aware that discussions had taken place between Pinelli and the other comrades at the Ponte della Ghisolfa concerning methods of resisting what they believed to be an imminent rightist coup in which they would be number one targets. These discussions, which necessarily involved preparations for clandestine activity, could easily be presented in a damning light. The provocateurs and infiltrators had successfully penetrated the group and were stoking the fires and pushing the debate to extremes, urging the need to move from theory and the preparation of contingency plans to practice. In the meantime, terrorist actions had been carried out intended to prepare public opinion against the anarchists.
+
+Giuseppe Pinelli was to provide the finishing touch. The interrogation followed the normal pattern of intimidation: erosion of his physical and mental resistance, and the threat of being named as one of the perpetrators of the massacre. Pinelli did not break and the interrogations moved on to the “third degree.” It would appear that during this more violent final phase of Pinelli’s interrogation the anarchist realised the full ramifications of the entire plot, and that, intuitively, he understood they were trying to draw him into a trap. The names and circumstances mentioned by the police would have made Pinelli realise that at least one provocateur had infiltrated the group and he would have quickly divined the connections between this man, Antonio Sottosanti, alias “Nino the fascist” a man very similar in appearance to Pietro Valpreda and his interrogators. Faced with the knowledge that Pinelli was fully cognisant of their involvement to the plot, the policemen present who were so involved could hardly afford to let him be released. One of the many blows was crucial and left Pinelli slumped in his chair, unconscious or dead.
+
+With Pinelli not only unwilling to play their game but now fully aware of the extent to which at least some of his captors were involved in the conspiracy in which he was being cast in a central role, the only alternative scenario was for the honourable anarchist to appear to take his own life when it became clear to him his ideals had been betrayed. According to the statements made by the five police officers present — Calabresi, Panessa, Mucilli, Mainardi and carabinieri lieutenant Sabino Logrono — Pinelli’s final words as he threw himself out of the window were “This is the end…” (of anarchism). So far as the authorities were concerned Pinelli’s suicide was therefore an act of self-incrimination.
+
+Police Inspector Luigi Calabresi was himself murdered on 17 May 1972. The killer, covering his face with a newspaper, approached his intended victim at about 9.15 a.m. shortly after he left his home in Milan's Via Cherubini and fired three shots into Calabresi as he was about to get into his car. Patrice Chairoff (see text) claims Calabresi's murder had nothing to do with his involvement in the death of Pinelli. Chairoff believes that Calabresi was killed because of his investigations into Mondialexport, an import-export agency which served as a cover for a section of the West German intelligence service BND known as BND II. Ostensibly dealing in bulk foodstuffs, Mondialexport, under the control of SS veteran Gerhardt Mertens, an associate of Otto Skorzeny, was in fact an important international arms smuggling operation and a source of laundered funds for clandestine BND II operations in Italy and elsewhere.
+
+Calabresi's murderers, all identified, were known neo-fascists and contract agents of the Paladin organisation (see text) and BND II: Gianni Nardi — son of a billionaire industrialist previously implicated in the murder of a Milan fireman in 1967. Bruno Stefano — prominent member of Delle Chiaie's AN organisation. Gudrun Keiss — a girlfriend of Bruno Stefano and former star of Scandinavian pornographic films. Chairoff states she has worked for West German intelligence since December 1970. Believed to have driven the getaway car following the murder. Jean Vincent Martini — Avanguardia Nazionale activist from South Tyrol, recruiting agent for Angolan mercenaries and main Paladin agent in Belgium. Identified as one of Paladin’s killers in Paladin's anti-ETA contract.
+
+According to Chairoff, BND II is in fact the West German section of the secret intelligence organisation within NATO, the Italian section of which was the Rose of the Winds. In 1977 the BND II was allegedly controlled from the main espionage centre at 33 Heilmannstrasse, D-Pullach bei Munchen, by one Dieter Blotz (a.k.a. Jan Helmers). In Rome the parallel BND operated (1977) under the cover of another export-import agency in the Via G. C-boni, an address which also provided cover for the Paladin group, Aginter Press and World Service (Chairoff, as has been mentioned, actually ran the Athens-based World Service under the noms-de-guerre of Dr Siegfried Schoenenberg and N. Kalchi).
+
+The BND II case officers in Rome in 1977 were, according to Chairoff: Herbert Schlesinger – responsible for the control and coordination of neo- Nazi and fascist activities, overseeing existing groups and, when necessary, creating new groups to meet the requirements of the moment.
+
+Penkowski – a former lieutenant in German military intelligence (MAD – Militarischen Abschirmdienst, based at Bruhlerstrasse 300, MAD Cologne). Penkowski allegedly controls infiltrated cells of the Red Brigades, the NAP, the Proletari dei Quartieri, the Gioventu Proletaria and the New Partisans. (It is interesting to speculate that the order for the murder of Aldo Moro, which served primarily the interests of the extreme right in Italy, may well have emanated from this source. The rightists behind the 1964 Plan Solo plot had planned a similar end for Moro.) The Roman station chief of this section of the BND responsible for the above-named officers was, again according to Chairoff, one Erik Mullinken who reported direct to the Bavarian spy centre.
