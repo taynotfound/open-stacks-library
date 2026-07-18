@@ -1,0 +1,57 @@
+---
+title: "West Siberian Uprising 1921 1922"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/west-siberian-uprising-1921-1922"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A short account of the West Siberian uprising against the Bolsheviks."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "The West Siberian uprising.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/The West Siberian uprising.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/west-siberian-uprising-1921-1922)
+
+Map - west Siberia A short account of the West Siberian uprising against the Bolsheviks.
+
+The uprising in West Siberia was the largest uprising that the Bolsheviks confronted in the wave of discontent set off by grain requisitioning. The peasant rebellion was a response to the apogee of the policy of War Communism of the Soviet state, based on emergency food dictatorship. The arbitrariness of local authorities and the food requisitioning detachments was not the cause but the consequence of a military experiment with communism. The personification of the food policy was characterised by the Bolshevik leader and grain commissar in Tyumen, Grigori Indenbaum: " It shall be the most ruthless massacre ” until the announcement of full grain confiscation.
+
+In January 1921 the export of “surplus” grain harvested to be sent to Central Russia was complicated by the announcement of the confiscation of the seed surplus. This condemned peasants to the impossibility of spring sowing and the threat of famine. This was the direct cause of the spontaneous and massive peasant uprising. In Ishimsk district in the north-eastern region of the Tyumen province,the grain and seed requisition was directed by Jacob Mayers, who had been an anarchist and member of the Industrial Workers of the World in the USA .(1) He was now a staunch Bolshevik and one of the cruellest and most cynical of their local leaders. He claimed that seed requisitioning was hundred per cent. The same situation prevailed throughout Tyumen province which explains the sudden and spontaneous nature of the rising.
+
+The Russian anarchist Mikhail Maggid has noted that in Siberia that there was no formal community system but that the village assembly remained important. Mutual aid and collective work were deeply implanted in the area and even before the revolution there were many cooperatives which had squeezed out private producers.
+
+“Huge rich Siberian villages (sometimes several thousand inhabitants) were very far from cities and from each other. Although they were dependent on exchange with the cities, yet the degree of their economic and social independence was higher than anywhere else. This situation contributed to the development of skills of self-organization and mutual aid among the peasants.”
+
+They saw central government as a system of extortion and bullying and quickly established their own self-organisation during the Revolution. In addition to peasants there were game and fur hunters. Usually they exchanged meat and furs for food with the villages but the requisitioning robbed them of this. The Bolshevik food requisitioning squads began confiscations against these hunters. What they failed to take into account was that these hunters were armed and in addition had an intimate knowledge of the taiga, indispensable in guerrilla war. Thus an environment for a third revolution had been created in Siberia.
+
+The uprising broke out on 31st January 1921 in the Ishimsk district spreading through the whole of Tyumen, into the Akmola, Omsk, and eastern regions of Chelyabinsk and Ekaterinburg province. In April over 100,000 people had been drawn into the insurgency. Strictly speaking the West Siberian Uprising- the generally accepted term- was in fact several uprisings in west Siberia, the Urals and what is now Kazakhstan. In Western Siberia one feature of the uprising, not found in those in European Russia was that the policies of war communism brought together the interests of peasants and Cossacks. In Petropavlovsk and Kokchetav counties of Omsk province and in the Ishimsk district almost all local Cossacks took part in the uprising.
+
+In February 1921, the rebels for three weeks paralyzed traffic on both lines of the Trans-Siberian Railway, and then captured the city of Petropavlovsk on February 14th, Tobolsk and Kokchetav on the 21st, Surgut on March 10, Voloshin on March 21st, Obdorsk on April 1st and Karkaralinsk on the 5th and fought for Ishim (which passed hands several times).
+
+As with other uprising against the Bolsheviks the slogan of “For the Soviets without Communists," was advanced with demands of freedom of speech, assembly and association, freedom of trade, the right to freely dispose of their land and products of their labour summed up in the call for the abolition of grain requisitioning. The insurgent headquarters at Tobolsk issuing an appeal to all the inhabitants of Siberia on March 25th 1921, declared that they were for the establishment of a soviet regime and against the Communist government which masqueraded as administering such a regime. In the liberated territories freely elected district and village peasants' soviets were restored. However insurgents did not put forward a single policy document comparable to the Antonov programme in Tambov province, the resolutions of the Kronstadt revolt, the declarations drafted by Serov and Dolmatov or the political programme of Mironov.
+
+The rebel army was divided into fronts (the Siberian, North, South, South-West), with different armies- East, South, West, People's Insurgent, the People's Peasant then divided into divisions (South-Ishim, Kurgan, etc.) , regiments, battalions, companies and platoons.
+
+As with other uprisings against the Bolshevik regime, ( e.g. Fomin, Zaposhkov, Popov, Vakulin, Maslakov and Kolesnikov) military leadership came from commanders with a peasant or Cossack peasant background, seasoned soldiers with experience of both the First World War and the Civil War, with service in the Red Army. In west Siberia these commanders were drawn from the ranks of former non-commissioned officers. One of the principal military leaders in Tobolsk County was Vasily Zheltovsky, from peasants of a village in that county. He had fought in the First World War as a sergeant major. In early 1921, he was a military office clerk in Kugaevskoy parish and had a small farm. Stepan Danilov, who had also fought in WW1 , a resident of a village in the Tobolsk district, was the organiser and commander of the insurgent Karachi parish, then commander of the South-West Front of the Tobolsk district. Petr Shevchenko, a middle peasant of a village in Ishim County raised a rebellion in his native village, later commanded an insurgent regiment. The commander of the 2 nd Liberation Regiment in Kurgan rebel divisions, then head of the 1st Yalutorovsk Liberation detachment was Nikolai Bulatov, had been an ensign in the Tsarist army,then an instructor in the Red Army. Among the commanders of the rebel troops were Communists, such as, for example, the chairman of the Bolshevik party cells and a former commissar of Trinity parish in Petropavlovsk County, Timotei Liedberg.
+
+It should be noted that whilst the military leaders of the uprising came from a peasant and n.c.o. background the commanders of the Bolshevik forces came from the officer class of the old Tsarist army. Shorin himself had been a Tsarist colonel as had his chief of staff Afanaseyev. The brigade commander Nikolai Rakhmanov who received the top Bolshevik medal the Order of the Red Banner for his efforts in crushing the rising in Tyumen province had similarly been a captain in the Imperial Army.
+
+On February 12, 1921 the Siberian Bolshevik leadership took the secret decision that in case of damage to the railroad, the nearest village located within a radius distance of 10 would be destroyed. In April 1921 the West Siberian uprising spread to the northern districts of Tyumen Province. Fighting with the rebels in April-May was not over yet, it moved into a guerrilla phase. Knowledge of the terrain allowed the insurgent detachments to remain elusive. Insurgents dispersed into small groups with the arrival of a regular army detachment, hiding in forests or disguising themselves as villagers ready to re-form to carry out new attacks. The support of the local population was essential and forthcoming. It supplied the insurgents with information, shelter, food and horses. In autumn 1921, the Bolsheviks changed their tactics establishing garrisons and revolutionary committees in the region. The Bolsheviks began to use flying detachments of hardened Bolsheviks and established a network of espionage and intelligence gathering to prevent and eliminate the possibility of resistance in areas under their control. Amnestied rebels involved in operations to eliminate and the capture of the ringleaders. There were instances when amnestied former insurgents were used to entrap insurgent commanders. The Bolsheviks began to shoot all insurgents that had been captured. In December 1921 the Bolshevik military command in the region reported to the headquarters of the Red Army on the "complete elimination of banditry." The uprising had been defeated because the Bolsheviks were better armed and had instigated a campaign of mass terror aimed at the general population which succoured the insurgents. In addition the introduction of NEP turned many peasants towards compromise with the Bolshevik administration. Guerilla fighting continued until the end of 1922 but the main forces of the insurgents had been dispersed in spring and summer 1921. With the suppression of the uprising punitive operations were carried out. Relatives of insurgents were taken hostage, whilst there were artillery bombardments of whole villages resulting in many deaths among non-combatants, including old people, women and children.
+
+1) Mayers, Jacob Zakharovich (1892-1937) was an American citizen, born in Philadelphia to the family of a government official. He graduated from an 8-year Russian school in Cleveland and began working in the printing trade. He was active in the trade union movement: from 1912 he was a member of the Federation of Anarchists of the U.S.A. and the IWW. From 1917 he was in Russia: he worked in the transport department of the Kharkov Provincial Economic Council; in the middle of 1918 he organized a Soviet partisan detachment in the Urals; in 1919 he joined the Bolsheviks serving as a member of the Extracurricular Section of the Political Department of the 3rd Red Army, which assigned him to the Tyumen Provincial Food [requisitioning] Committee [Gybprodkom]. From March 1920 he was in charge of the Department of Distribution, and from July 24 of that year he was a member of the board of the Tyumen Gubprodkom. He was shot on November 22 1937 in Moscow.
+
+Sources : Magid, Mikhail. For the soviets without communists! Anti-Bolshevik rebel movements in the Russian revolution at: http://a-pesni.golosa.info/grvojna/makhno/rebels/antibolch.htm
+
+Excerpted from The Third Revolution: peasant and worker resistance to the Bolshevik government by Nick Heath
+
+YouTube war history channel video on Siberian uprising; https://www.youtube.com/watch?v=6gyaQoeE4Pw Also has vids on Kronstadt & other civil war stuff.
