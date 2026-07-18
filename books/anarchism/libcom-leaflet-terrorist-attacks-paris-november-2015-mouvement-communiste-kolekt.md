@@ -1,0 +1,65 @@
+---
+title: "Leaflet Terrorist Attacks Paris November 2015 Mouvement Communiste Kolektivne Proti"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/leaflet-terrorist-attacks-paris-november-2015-mouvement-communiste-kolektivne-proti"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "This is the English translation of the leaflet that was written in the immediate aftermath of the terrorist attacks in Paris on Friday 13 November 2015, in which 130 people died. The original French version is provided as a PDF."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "MC_Attentats_leafletEN.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/MC_Attentats_leafletEN.pdf"
+    hosted: false
+  - name: "MC_Attentats_leafletFR.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/MC_Attentats_leafletFR.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/leaflet-terrorist-attacks-paris-november-2015-mouvement-communiste-kolektivne-proti)
+
+Recent map of Syria showing where IS are This is the English translation of the leaflet that was written in the immediate aftermath of the terrorist attacks in Paris on Friday 13 November 2015, in which 130 people died. The original French version is provided as a PDF.
+
+Fight the state’s warmongering lies Class war is the only possible response to the mass murderers Neither gods, nor masters, nor states, nor bosses We need to go beyond an emotional response to the slaughter perpetrated in Paris on 13 November and to understand what it means. The hundreds killed, injured and traumatised deserve more than indignation and an appeal to peace and life.
+
+Was this killing an act of war, as is claimed, against the dominant classes of the whole world? But a war against what? A war against the West by the dispossessed masses of the Middle East? A war of religion between Islam and the other religions of the Book, Christianity and Judaism? A war by Islamic State against its enemies, the states of the anti-terrorist coalition? It’s very little of any of that. The targets chosen show that the mass murderers have only come out with these explanations despite their confused and delirious demands. The people sitting at tables outside cafés, the spectators at a rock concert, can't be considered to be either “western crusaders” who have to be punished, nor “heathens”, nor representatives of one or other state. The victims are “ordinary” human beings going out for a drink, listening to music or simply walking in the street. In no case did the killers target the state, the capitalist system, or its real or symbolic representations.
+
+This January, we wrote: “Whatever were the aims of those responsible for the massacre at Charlie Hebdo, the consequence was to terrorise the whole population. To terrorise so as to prevent understanding, to terrorise so as to set up even higher artificial barriers between people on the basis of religious belief” . What happened on Friday 13 November 2015 shows that the French state and its allies are at the very least incapable of preventing attacks on the population. While this kind of action does not lastingly threaten the accumulation of capital, while it doesn't aim at military targets, the life or death of a few hundred civilians is neither here nor there to the ruling classes. Their tears only serve to cover up the greater repression aimed at the oppressed classes. It also gives the police and the army a wonderful opportunity to train themselves in how to occupy and dominate the city.
+
+The French state continues to play with fire. “What I want to say to the French, is that we are at war. Yes, we are at war,” says Manuel Valls, and carries on “we have always said that there is no zero risk, that there could be terrorist attacks which hit France in a more long lasting way” . To drive the point home: “The threats will continue: it is a question of months, perhaps years. The French must be strong.”
+
+What better way to keep civil society and the proletariat in fear? What better way to make us accept increased powers for the state and new emergency laws? What better way to transform survivors of war or famine into potential terrorists? What better way to shutter the borders and push back hundreds of thousands of proletarians to the places that they've fled from? A Syrian passport belonging to one of the killers is enough to cast the suspicion of terrorism on to millions of Syrians who are escaping their country and trying to come to Europe. In the same way, the supposedly Muslim population here will be even more made the object of mistrust, discrimination and repression. These actions reinforce the racists on all sides.
+
+This discourse of fear, such as the words of Manuel Valls, was already in use after the attacks against Charlie Hebdo and the kosher supermarket. But the marches on 11 January 2015 marked a stopping point. Civil society refused to let itself be intimidated. The attempt by the state to politically use fear was held back. But the reinforcement of the security apparatus of social control has not stopped.
+
+These massacres are as much an extreme expression of the degradation of social relations amongst the poorest, of the proletariat, as of an improbable war between states. The Caliphate rests on sand, it holds the populations of its territories under terror, it lives through rackets and plunder; it is anything but a modern state because it emanates from the Sunni tribal structure. As for its so-called enemies, the capitalist states of the anti-terrorist coalition, Russia included, they carry out minimal military actions with the unstated objective of fixing the Caliphate, preventing it from developing while maintaining it as a global scarecrow, as a perfect foil to the modern capitalist state.
+
+On their side, the petty crooks, drug dealers, racketeers who rob the proletariat, and other chicken thieves converted into soldiers of God are as much the product of the defeat of the revolutionary project of the working class as the fifth column of a cut-throat Islamic state. The Paris killers all have one thing in common: they come from estates and poor neighbourhoods here or elsewhere. They are the most degenerated product of the segregation in which the state and capital keeps millions of the dispossessed. But they are not victims. Beyond their self-representation, they are, on the contrary, a part of the system which they pretend to fight against. A precious part which allows the state to militarise social relations, to divide the oppressed classes even further and to restore the reputation of the state as the only possible defender of the whole of civil society, as the only guarantee, sovereign, of the order of capital.
+
+These killers have expressed all their disgust for the other, whoever it might be, the other as such. Their act is not a gesture of delinquent revolt but an action in the most pure tradition of religious sects. Manipulated by the preachers of the Apocalypse, the murderers hate the whole of society and every one of their own kind who don’t share their sectarian isolation, their cheap fanaticism. Alone, they certainly are. Their “spiritual community” is no more than a pretext for expressing their hatred of others, hatred of people. Ideal puppets for the Caliphate, which recruits them to extend the front line of its combat and so recruit new proselytes. Puppets also in the hands of the states which swear to fight the Caliphate because these states use their massacres to reinforce their hold over civil society and over the proletariat in particular. Puppets but not oppressed. Puppets who oppress their own kind. Islamo-fascists by their role and useful idiots by themselves.
+
+The butchers of Islamic State have chosen their camp. We still hear the kind souls of the left and extreme left of capital explain the “radicalisation” of certain people by the “social divide” between centre and suburbs and as a predictable reaction to the “islamophobia” and racism of French society. For these false materialists, there is a mechanical link between the objective situation of poverty and oppression and the choice of some people to act in the name of a deadly ideology, the antithesis of any hope of going beyond the present situation.
+
+Yet how many in France live in situations comparable to or worse than those of Coulibaly, or the Kouachi brothers, Merah and all the others? How many make the choice of religion? Amongst those, how many choose an interpretation which is respectful and generous to others, rather than nihilistic and deadly like that of the partisans of the Caliphate? How many others continue to try to make ends meet between crappy jobs and their resourcefulness, despite the same difficulties and the same frustrations? How many of them decided to go to watch a football match on Friday? How many went for a drink in the bars of Paris?
+
+The killings in Paris have been explained by the propagandists of the Caliphate as acts of vengeance in the name of the Iraqis and Syrians killed by the bombs of Assad and the international anti-terrorist coalition. In this way, the Caliphate takes on the traditional conception of war that capitalism has raised to the level of a veritable plan for the industrial-scale massacre of populations. According to this conception, to fight an enemy state you have to terrorise its inhabitants. This logic has been applied consistently over decades in Palestine, where the Israeli state cages the Palestinians of Gaza and the other occupied territories and where Hamas and other armed Islamists claim that resisting occupation is synonymous with killing Israeli Jews. It's a logic also at work in the towns of eastern Turkey inhabited by Kurds, victims of a permanent state of siege by the Turkish state.
+
+The Caliphate and its predecessors have done the same thing by destroying the lives of unarmed civilians in Paris, Madrid, London, Ankara and Beirut. Up until now, in Iraq and Syria, all the enemies of IS have preferred to take their time in the fight against the partisans of the Caliphate; each one concentrating on its local interests, whether aiming at other targets (Russia and Iran against the Syrian rebels, Turkey against the PKK, Israel against Hezbollah), or whether reducing risky military operations to a strict minimum to give more priority to manoeuvres of encirclement while hiding behind air strikes which are not as intensive as their propaganda suggests. The proof? The number of US air force missions carried out up until now (around 10,000 since the start of the “war” against IS) is equivalent to those undertaken on a single day during the first Gulf War. From the beginning of the air attacks carried out by the Syrian dictatorship, they've caused far more deaths amongst populations under the brutal rule of the Islamists than amongst the Islamists themselves. All the self-proclaimed enemies of IS – Russia, Iran and the US, but also its previous benefactors the Turks – have every interest in keeping caged a monster which they have already de-fanged. This puppet state, the Caliphate, has exhausted its offensive capacities in Iraq and Syria over the last few months. The acceleration of the internationalisation of the fighting explains its growing weakness.
+
+We called our leaflet about the slaughter at Charlie Hebdo and the kosher supermarket: “In response to the attack on Charlie Hebdo the proletariat has to take up the ruthless struggle against the violent religious fanaticism which reinforces the state and increases divisions within the exploited and oppressed” . We added: “The despicable attack on Charlie Hebdo plays the game of the state and weakens the only class, the working class, which can concretely fight religious fanaticism where it is rooted, where it searches for its potential soldiers, in working class neighbourhoods and in workplaces. This fight is indispensable if we are not to give up asserting the need for the exploited and oppressed to organise themselves independently against the state, against all states” .
+
+Unfortunately, this message has lost none of its meaning after the massacres of 13 November.
+
+Mouvement Communiste/ Kolektivně proti kapitálu, 15 November 2015
+
+“ Religious suffering is, at one and the same time, the expression of real suffering and a protest against real suffering. Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people. The abolition of religion as the illusory happiness of the people is the demand for their real happiness. To call on them to give up their illusions about their condition is to call on them to give up a condition that requires illusions . The criticism of religion is, therefore, in embryo, the criticism of that vale of tears of which religion is the halo .”
+
+– Karl Marx. A Contribution to the Critique of Hegel’s Philosophy of Right, 1843
