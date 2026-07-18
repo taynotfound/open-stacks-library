@@ -1,0 +1,50 @@
+---
+title: "Review They Cant Kill Us All Ferguson Baltimore And New Era Americas Racial Justice"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/review-they-cant-kill-us-all-ferguson-baltimore-and-new-era-americas-racial-justice"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A review of Wesley Lowery&#039;s book covering the emergence of the Black Lives Matter movement and other activist projects in response to police shootings in the US."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/review-they-cant-kill-us-all-ferguson-baltimore-and-new-era-americas-racial-justice)
+
+They Can't Kill Us All A review of Wesley Lowery's book covering the emergence of the Black Lives Matter movement and other activist projects in response to police shootings in the US.
+
+Lowery, Wesley. They Can't Kill Us All: Ferguson, Baltimore, and the New Era in America's Racial Justice Movement. New York: Little Brown and Company, 2016.
+
+Washington Post reporter Wesley Lowery has written a moving account of the emerging wave of anti-racist and anti-police violence organizing and protest that culminated in the Black Lives Matter movement and other activist projects. Lowery reflects on events and his relation to them as a reporter, and as a black man, as he moves from city to city over a two year period, from one tragedy to the next.
+
+His first assignment in this period is to cover the 2014 killing of Michael Brown by officer Darren Wilson in Ferguson, Missouri. He goes on to cover multiple cases up to the shooting of Philando Castille by officer Jeronimo Yanez in 2016, in St. Anthony, Minnesota.
+
+As he creates a panorama of police killings, he also observes his own professional evolution. Guilt over repeatedly approaching still grieving victims' families as a reporter leads Lowery to ask for more personal reflections about the victims’ lives. The families often appreciate the chance to preempt inevitable portrayals of their loved ones as “thugs.” Their humanity is expressed in a respectful but even-tempered way. Lowery doesn't try to portray "angels." He points out that the media tend to focus on this lack of angel status, especially for black victims of police violence, as a way of implying they deserved to die. The media’s pattern of criminalizing black victims led to a hashtag, #IfTheyGunnedMeDown, in which people posted a photo of themselves in a school or professional capacity side by side with one of them posing gangsta style or partying hard. Many interviewees in the book express the feeling that “even if I did everything right” they would still be targeted by police.
+
+In Ferguson, Lowery unwittingly becomes a part of the national story, as he and a fellow journalist are arrested in a police sweep inside a McDonald’s where he is writing up notes for a story. They are both thrown in jail merely for doing their jobs. Their arrests become viral news instantly and raise doubts about the role of the Ferguson police as the protests continue. This incident helped set the tone of Lowery’s book. Unlike much of the reporting he’s critical of, Lowery doesn’t set out to discredit victims and protesters in favor of a police narrative. He does however leave room for critical voices, as when he later interviewed students at the University of Missouri. They were skeptical of a hunger strike that ended with the 2015 resignation of University President Tim Wolfe. Though these students understood the complaints over racial incidents at the campus, they questioned whether racial tensions rose to the level activists claimed, how President Wolfe was responsible, and what he could have done to prevent them. Nonetheless, the event is described as a win for raising the cost of authorities doing nothing in the face of racist incidents.
+
+Lowery wanted to crunch demographic numbers as he sought to understand the patterns in police involved killings. He helped to create a data base with his colleagues at the Washington Post that tallies police killings, and gathers demographic data on the victims. This had not been done in a coordinated way by police departments in the US so no one really knew the extent of these deaths. He also payed attention to the developing role of twitter and other social media, as well as his own learning curve on streaming media, all of which emerged as key sources for early information on police shootings and resultant protests and riots.
+
+Lowery has contacts with high profile activists and student leaders be they active in the streets or on college campuses. We see their accounts, mostly about why they became activists. We get a sense of the work that goes into raising the stories of police shootings to the national consciousness, aside from the work of the protesters themselves. Despite all the efforts by activists, police killings in 2016 had risen over the previous two years at the time his book went to print. (By the end of 2016, the Washington Post database showed 963 fatal shootings by police for 2016, slightly fewer than the 991 in 2015.)
+
+The book suffers from some weaknesses. There is a near complete lack of critique of the corporate rhetoric or class position of many of the activists, which raise questions as to the depth of their analysis of state and police violence. For example, although Deray McKesson and Brittanny Packnett’s Teach For America (TFA) affiliations are mentioned, nothing at all is said about the negative implications of this. They were among the best known of the Ferguson protesters. TFA is a union busting, anti-public school, pro-charter organization that has effectively populated local school boards and political offices toward the goal of dismantling public education. It is massively funded by Walmart, the Broad Foundation, and other powerful corporate donors. After a dismal run for Baltimore Mayor, McKesson parlayed his media fame into an administrative appointment as “chief human capital officer” to the Baltimore Public School System. He was appointed by Sonja Brookins Santelises, another TFA alumnus who is "CEO" of Baltimore City public schools. His qualifications for the administrative position amount to a few semesters as a TFA placed teacher in the classroom. He makes $165,000 a year in this position. I looked up the average Baltimore County teacher salary, which is $62,272.
+
+Lowery offers nothing on the crass opportunism of many of the BLM activists, for example Alicia Garza's appearance at a Leadership Conference with Arne Duncan, the union busting, school privatizing neoliberal, and Robert Rubin, ex-Goldman Sachs co-chairman and Clinton Secretary of the Treasury who helped deregulate the financial industry. One of the more shocking products to come out of the Black Livest Matter movement was the BLM Credit Card, based on the concept of support for the black bourgeoisie, and that making black bankers richer will somehow benefit “the black community.” McKesson spoke at a Wells Fargo sponsored event , “From Black Panthers to Black Lives Matter, the Movement Continues,” put on by the “The U.S. Black Chambers (USBC), an organization dedicated to growing black business.” Wells Fargo is well known for pushing risky, high cost mortgages on minority borrowers.
+
+These few examples introduce the shortcomings of _some_ of the BLM leadership, without negating the attention to racial injustice and police violence they helped create. It is important to offer a critique of this movement where problems exist. It’s one thing to call out racism. It’s another thing to go to the root causes of racism’s ongoing manifestations. As many have pointed out, you can’t fight racism without class struggle and class solidarity, concepts which are lacking in much BLM activism.
+
+Adolph Reed has written extensively on the constraining historical context that black leaders find themselves in. In his Stirrings in the Jug: Black Politics in the Post-Segregation Era , he looks back to the early development of a dominant black political class in 1970s Atlanta, Georgia. Their power was conditional upon the “acceptance of overarching programmatic frameworks and priorities for governance and administration - a larger system of political rationality-defined by the pro-growth, pro-business interests that reproduce entrenched patterns of racialized inequality.”
+
+In Atlanta this contradiction appeared most strikingly in Mayor Jackson's success in preempting popular black support for a 1977 strike by municipal sanitation workers, nearly all of whom were black and who were easily the lowest- paid workers on the city government's payroll. Jackson short-circuited the union's attempt to build community support for the strike by portraying it as a racial attack by the white-led American Federation of State, County, and Municipal Employees on his black-led administration.
+
+The 1977 strike triply illustrates the character of the post-segregation racial transition. First, it attests to the extent of the new political class's ideological victory within black politics. Jackson's hegemonic control of the idea of black interest enabled him to subvert and co-opt the moral force of racial populism even in opposition to a militant insurgency by one of the most vulnerable, conspicuously "grassroots" elements of the black population: public sector workers em- ployed to do unappealing work for poverty-level wages.
+
+While Lowery’s book does nothing to tease out the reactionary elements of some leadership in BLM and other movements emerging out of these protests, it works as a companion piece to other texts that do provide a class analysis of black leadership. The human face of protesters, victims, and their families, as well as the timeline of organizational development, all in the geographical and historical context of several US cities make this an important first hand account of a two year period in the ongoing epidemic of police violence.
