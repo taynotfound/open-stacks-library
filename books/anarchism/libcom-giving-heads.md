@@ -1,0 +1,52 @@
+---
+title: "Giving Heads"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/giving-heads"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/giving-heads)
+
+WELCOME to Processed World #18, an issue devoted to the always-popular subject of sex. We begin wifh Ana Logue's account of some of our collective ruminations, and Primitivo Morales provides a few of his own. Then Maxine Holt offers an analysis of today's moral climate and its relation to the sexual revolution of the past decades. Chaz Bufe talks candidly about working in a porn theater in his Tale of Toil POLES 'N HOLES..., while Linda Thomas contributes another glimpse of the dark side of the sex industry in YOUR KNIFE IN MY LIFE. Clitora E. Cummings condemns the hypocrisy surrounding the sale of sex in FANTASY'S LEGAL, REALITY'S NOT, and Paxa Lourde takes us inside the AIDS hotline in 863-AIDS.
+
+In BIG BANG, Jeff Goldthorpe portrays the lingering anxiety AIDS has caused among bisexual men. Our friend Med-o, traveling In Africa, sent an excerpt from Kenyan writer Ngugi Wa Thiongo's novel DEVIL ON THE CROSS about routine sexual harassment in the offices of Nairobi. MY DATE WITH HOLLY NEAR is an hilarlous send-up of Near's style of feminist sexuality, gratefully reprinted from Brooklyn's SHOE POLISH WEEK. KELLY GIRL PLAYS POSTMISTRESS marks the return of Kelly Call Girl (last seen in PW#13) with her first pornographic tale. The issue's remaining action piece is WENDA, which provoked our severest difference of editorial opinion in some time. A bare majority found It good satire, while many others felt it was flat or even offensive. Read it and let us know what you think.
+
+MY INTERVIEW AT PISSTEX describes a real-life hostile encounter at a Silicon Valley pharmaceutical firm. PISSTEX, together with poetry about work, HOT UNDER THE COLLAR's accounts of bank-worker resistance and our letters, provides a dose of the kind of material PW is best known for.
+
+Are women capable of being as sexually aggressive as men? Why do 13-year-old girls get pregnant? Are men or women who use their position of power to get sex interested in sex or power, or both? How much of our sexual behavior is instinctual, how much the product of our mental life? These are some the questions raised by members of the Processed World collective and their friends, when we first proposed doing another issue on sex (the first was PW #7).
+
+Some of us thought we had answers to some of the questions. We were, I think, rather surprised to discover how divergent these answers were. What I learned from this discussion is that people's ideas about sex are as unique as their own sexuality, which is, in turn, related to their own experience. As one woman put it, "After three abortions how can I speak about women being sexually aggressive? I can never be as aggressive as most men because the experience of these abortions never leaves me. When a man has sex, he does not consider this consequence."
+
+A month later, we had gotten down to the real nitty gritty: who has it better, men or women? One PWer argued persuasively that women were not interested in having sex with men who had no money. "If you work at a low-paying job, you are invisible. Women, especially women with higher paying jobs, look right through you as if you didn't exist." It is much easier for a woman, he concluded, to have sex than a man. Yes, we agreed, it is much easier for a woman to have sex than a man, even in San Francisco, if she does not care who her partner is. But, it was pointed out, it's much less likely that a woman will have an orgasm as a result of having sex, especially casual sex, than it is for a man. In other words, the greater availability of sex for women does not entail greater access to sexual fulfillment.
+
+The discussion then turned, in my mind, to the millenial debate over the differences between women's and men's sexuality. The pendulum swings from the position that women are sexually voracious and almost insatiable, unless repressed, to the view that what women really want is to be held and cuddled. Coming to sexual age in the mid-'60s, I read sex manuals that preached the gospel of the simultaneous orgasm. These books stressed the importance of foreplay and even endorsed oral sex, with the proviso that it not lead to "climax." They counseled men to delay ejaculating by thinking of baseball statistics. The books (they were very much alike) reported that the vaginal orgasms their authors promoted were considered ahnormal by the Victorians. Reading the Kinsey Report during that period, I discovered that most American women did not have orgasms during intercourse. Freud and Wilhelm Reich were much in fashion, and it was easy to assume that non-orgasmic women (they were called frigid then) were victims of the dread disease of sexual repression.
+
+In 1969, Anne Koedt published The Myth of the Vaginal Orgasm as a radical feminist tract. The clitoris, she argued, is the source of all female pleasure. Since then women who have experienced vaginal orgasms, and even multiple orgasms, have had to go into the closet or risk having their feminist credentials revoked. (At a certain time during the '70s, a feminist male remarked, "it was difficult to remain politically erect.")
+
+Today, although we are just one step away from our children looking through the keyhold and calling the police, the party line on sex is whatever gets you off is OK (as long as it doesn't hurt you or anyone else and you don't exchange bodily fluids with a stranger). Most women do not have orgasms during intercourse, according to Dr. June Reinisch of the Kinsey Institute, and there is no reason they should, she says, unless they wish to "broaden [their] range of sexual activity." To do that, she advises seeing a sex therapist.
+
+The news that most women do not have orgasms during intercourse should come as a great relief to men suffering from performance anxiety. Not only doesn't size matter, duration and technique may not count either. At least this is the impression I get from my reading of sex and relationship columns in the newspapers. Apparently, we have reached the ultimate expression of the credo that states every person is responsible for his or her own feelings, pleasure, karma, life, etc. Sex between two people is no longer a sexual relationship, it is merely two people having sex together.
+
+Reading Masters and Johnson's latest book, I was treated to a different insight into heterosexual relationships. Lesbian couples, I learned, typically spend more time than heterosexual couples, some times hours, in their love-making; but they make love less frequently. Gay men, on the other hand, are more likely to have more sexual encounters and engage in less foreplay than heterosexuals or Lesbians. Heterosexual sex, it appears, is a meeting and merging of male and female sexuality. It is different from gay or lesbian sex in that it requires more effort and imagination to understand the needs of the other. A gay man, presumably, does not have to ask his partner if he has come yet. Expert opinion will continue to change. The law of the marketplace demands it. And sex will continue to be exciting and frustrating, as easy as riding a bicycle, and as difficult as getting a taxi in the rain, no matter what the experts say.
+
+Which brings us to the next topic: censorship. All of us at PW agree that censorship, even of violent material, like Rambo, is never acceptable. The Meese commission's report on pornography has already had its effect. It has been reported that a rapist is using the Commission's recommendations (which were not its findings) as his defense. Pornography, he argues, made him do it. When I gouge out my opponent's eyes, I will blame it on Shakespeare, or better yet, every theatre company whose production of King Lear I have seen and the university where I studied English Literature. My son, who plays with a toy Uzi and GI Joes, thinks real wars are "stupid" because people get killed in them. He knows the difference between fantasy and reality.
+
+The current war on drugs & sexuality doesn't really surprise me. If the fear of syphilis helped usher in Victorianism, what should one expect of AIDS? The hatred of the "underclass" has fueled previous drug hysterias, and today's society has more hatred and almost as much moral smugness. I may not be surprised at the current prohibitions, but I am puzzled. I can understand a person not wishing to use drugs, or whatever. I am, however, baffled as to the thinking of those people who get so worked up about somebody else's life. Most of the offending people are quite innocuous. OK, you don't want your pilot to be zonked out of his/her gourd (pot, booze or stress)—you want them clear-headed. Most jobs don't require that level of alert-ness: if I can do my job stoned, so much the better for me. If I can't hack it, getting fired seems like apt treatment. Who suffers—American productivity? Give me a break. Of course, some jobs are only endurable with some form of escapist behavior.
+
+Sure, people hurt/kill themselves with drugs (and with sex), which may be sad, but it is still their own business. This great hoopla over drugs (which will last longer than that over sex), so filled with ignorant rage, citing symptoms as causes, must ignore the crucial question: "Why do these people (the 'druggies' and 'sex-wierdos') do these things!"
+
+The answers that are given vary from the incomplete to the stupid. Why do people need dozens of sex partners, or to be stoned or drunk all the time? At the risk of being both incomplete and stupid, I would quote an old saying (borrowed from a friend's grandmother) "Oh, you mean 'Feeling no pain."' What an irrational thing--to seek relief from the grim pain of life.
+
+But you see, there are these people--some who would love someone of the wrong type (whether of the wrong race, religion, or gender), others who would smoke pot, or do coke or chase the dragon. Let us arrest them, stone them, exile them, kill them. They are not one of us good people, with our devices and valium and booze and affairs. We who are preparing a war, to sacrifice unknown numbers for some insane purpose, understand morality as no other people could. We who pollute the world will keep all bodies free from contamination.
