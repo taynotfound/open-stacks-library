@@ -1,0 +1,118 @@
+---
+title: "Industrial Unity Response Locality Shop"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/industrial-unity-response-locality-shop"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A reply by E.A. Martinez to Scott Nappolos&#039; &#039;Area, shop, and revolution: a case for both locality and workplace unitary organization&#039;."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/industrial-unity-response-locality-shop)
+
+A reply by E.A. Martinez to Scott Nappolos' ' Area, shop, and revolution: a case for both locality and workplace unitary organization '.
+
+We received a number of replies and great discussion from the piece by S Nappalos on the IWW’s locality versus industrial structures. E.A. Martinez has sent a lengthy response raising points of criticism and agreement that is worth engaging. While the discussion centers around structures of the IWW, bigger issues are at hand. In reality the debate centers around the role of the workplace organizer, how they relate to their job and neighborhood, and where we situate their struggles. We’re glad to see this thoughtful reply, and hope it generates some reflection and responses.
+
+Industrial unity: a response to “Locality & shop” by E.A. Martinez
+
+The division between local organization and industrial organization – and which should prevail over the other – has been a hot topic of debate within revolutionary unions for decades, and the IWW is no exception. Locality and Shop Inside Revolutionary Unions provides one perspective on whether the local form (the General Membership Branch, or GMB) or the industrial form (the Industrial Union Branch, or IUB) is superior.
+
+After examining attempts by the Portland IWW to build a patchwork of IUBs in the early 2000s, the author concludes that industrial organization is not suited for the present socio-economic conditions in which we find ourselves, or for the present state of the IWW. Rather, we should look to build the IWW as local groups of militants and political radicals who “take [their militancy] with them through their jobs.”
+
+The author points to many Wobblies’ opposition to activism as one of the chief causes for the preference of industrial units over local units, which is not untrue. Many Wobblies have argued that locality-based IWW branches are often mistaken for merely another acronym in a city’s alphabet soup of revolutionary groups, book clubs, NGOs, and non-profits. To combat the perception of the IWW as anything but an industrial union, Wobblies have pushed for more workplace- and industry-based organization, as this will demonstrate to activists that we are in fact a union, and not one of many political clubs.
+
+Ventures of this nature were attempted within several IWW branches in the early 2000s, and ultimately, says the author, “the IUBs all failed, and outside of Portland all were extremely short lived.” We are treated to several theories as to why industrial organization has, and presumably will, fail. I will address these in the following sections.
+
+Committees organized for years without creating a stable workplace base large enough to justify IUBs. This is a situation we shouldn’t expect to change until the political landscape is altered radically. [...] Otherwise, we must learn to live and adapt to organizing in an environment where revolutionary ideas and action have extreme difficulty taking hold and staying, especially in organizing.
+
+Unfortunately, at no point in history has the political landscape altered itself . Rather, when the political landscape is “altered radically,” it is done by a mass workers’ movement, operating through direct action and democratic organization.
+
+We cannot wait to act until popular political viewpoints recognize revolutionary anti-capitalism as a valid and legitimate political position. If the political landscape is going to be altered radically, it is going to be altered by the self-directed activity of the working class. As militants, our role is to actively build an organization, a movement, a concept, that encourages and allows this class activity to flourish. The idea that this cannot happen in the present social field is specious: Workers are being exploited now in the same ways they have always been. And what’s more, the one alternative they once had – the class-collaborationist unions – are falling increasingly out of favor. Working people are searching for alternatives now seemingly more than ever.
+
+Further, “revolutionary ideas and action” needn’t be the centerpiece of our organizing. Revolutionary unions should not measure themselves by the number of workers they have converted to convinced anarchosyndicalism (or whatever flavor of anti-capitalism you prefer). Rather, the purpose of revolutionary unionism is to create an organization where workers are able to express their interests as a class. Recognizing that the interests of the working class are always and everywhere antithetical to capital, once workers’ actions are liberated from the straightjacket of business unions and the heavy-handed repression of capital, they will act against capital. This is not to say that workers will “blindly” or “spontaneously” do away with capitalism, but rather revolutionary consciousness is always imputed to workers and workers’ movements through activity .
+
+While the spirit of IUBs is correct, [...] the structural solution does not match our environment nor conquer the problem of activism. IUBs don’t exist[, not] because no one thought to try, but because there isn’t the self-activity of the class that makes them possible.
+
+If it is true that workers are so disempowered, so repressed politically, so hopelessly unable to organize themselves in the present political landscape, then the IWW will always be politically marginal and irrelevant to workers, and it will make little difference whether we structure ourselves geographically or by industry. If there is not enough working class self-activity to justify Industrial Union Branches, there is not enough working class self-activity to justify General Membership Branches.
+
+The difference between the two, here, seems to be that GMBs are open to anyone with self-professedly “radical” views, while Industrial Union Branches must, to at least some degree, rely on reaching out to unorganized, non-class-conscious workers. This would bring up back to the original criticism of GMBs as complicit with activism. It would seem that the argument being made is that, if conditions are so dire that we cannot organize workers , we should at least organize revolutionaries into their own groups (GMBs), though these groups will do little but wait until the right time to start organizing workers.
+
+If we cannot inspire the working class self-activity that “makes [industrial unionism] possible,” even if only on the scale of small workplaces, we have failed – both as militants and as a militant union. If we cannot, as a revolutionary union, inspire this militancy, the problem is with us , and not with historical conditions; history has shown us that it has been done by other revolutionary unions (even our own), countless times before, in historical conditions that were astronomically harsher than our own. The IWW of old, to use just one example, managed to do this in an appreciable scale at a time when to go on strike meant facing death at the hands of bayonets and bullets. We are not merely victims of history, but also its creators and directors.
+
+In many ways the GMB mirrors the situation we find ourselves in which we organize to develop IWW militants who can carry their fights on once things cool down. Those individuals form a network of revolutionaries organizing in their cities and towns, and take it with them through their jobs.
+
+If this is indeed the purpose of the IWW, why even call ourselves a union? After all, every person with an opinion on politics – whether anarchosyndicalist, Trotskyist, liberal, or fascist – inevitably “take[s] it with them through their jobs.” Surely non-union leftist groups fulfill this function as well.
+
+I feel the discrepancy here is that unions are not merely associations of working people, but associations of working people organized by workplace and industry, dedicated to building power for workers in those workplaces and industries. Unions are not political organizations that arbitrarily restrict their membership to workers. After all, if the goal of the IWW is to simply find people with radical ideas, why restrict our membership to workers? Surely there are managers and other bosses who have read Kropotkin and can help workers organize themselves (so long as it’s not at the shop they manage, of course).
+
+If our goal is to search for or create studied militants, we are not a labor union. But even more pressingly, if our goal is to search for or create militant, the best thing we can do is to continue to build shop presences. If workers indeed develop revolutionary aspirations from action, what better way is there to develop militant workers? When workers see, at their own job, that management is always hostile to workers’ attempts to gain better standards of living, and that workers can win such gains through organizing with other workers against management, is there any better way to demonstrate that capitalism is antithetical to their livelihoods?1 It is no exaggeration that almost the entire theory of anarchosyndicalism relies on this premise.
+
+I interpret this desire to gather militants as a way to seek out organizers. To be sure, whereas the SEIU needs a layer of professional, salaried “organizers,” the IWW needs a layer of committed, class-conscious workers who are able to initiate campaigns, “carry on the fights” (in the words of the author) and use our knowledge and experience to aid fellow workers. The class-conscious workers are the “organizers” of the IWW – the difference of course being we are in the same position within the union as the workers we are organizing (or, rather, the workers we are encouraging to organize themselves); we have no special privileges or rights over any other worker-member.
+
+The point I am trying to make is that gathering militants is a means to building the union, not the union’s purpose. We do need a stratum of radical workers who are familiar enough with the goals of the IWW (and committed to those goals) that they can work through campaigns and keep the branch stable.
+
+When interest in the IWW first picks up in an area, a GMB is the way to go. As the author rightly points out:
+
+Dividing the relatively small groups of IWWs multiplied the amount of people needing to do the tedious work of administration. Each IUB had delegates, secretaries, and treasurers. Generally a few dedicated militants carried a branch. Without capable dedicated militants to move projects forward, the best organizers often ended up becoming administrators; effectively decreasing their time to do the organizing work that sustains, inspires, and develops its members.
+
+If there are fifteen IWW members in a city, it simply makes no sense to divide them up into three groups of 5 people based on the industry in which they work. We can maximize the capabilities of this small group if we put them all together and enable them to work on the same campaign (usually in the form of an Industrial Organizing Committee).
+
+Moreover, these original fifteen members joined the union because they are class-conscious enough to want to dedicate themselves to building an alternative to capitalism. They “self-recruited,” or joined the union because they believe in it – less class-conscious workers, by definition, do not seek to build a revolutionary union from the ground up. As such, these original fifteen are the “organizers” of the IWW. It takes a degree of class-consciousness for anyone to organize against the bosses; these militant workers can inspire that consciousness in other workers. They can “start the fights,” so to speak.
+
+When the Industrial Organizing Committee(s) has either established multiple job shops or attracted a sufficient amount of individual workers from different workplaces in the given industry who are interested in organizing their shops, these workers can and should “break off” from the GMB and form their own IUB. IUBs would give members in this industry the autonomy to continue organizing in their own industry, leaving the remainder of the GMB able to initiate new organizing campaigns in other industries. After the initial growth from the IOC, the IUB would presumably have the stability and sustainability to carry on its own efforts. This would make affiliation with the GMB largely unnecessary.
+
+We are indeed an industrial union , not a neighborhood- or city-based group of workers. GMBs have played a part in changing the perception of the IWW from an industrial union to a milieu of radicals (who may or may not describe themselves as “workers”). In my experience, when people are interested in the IWW, they do not ask me, “how can I organize the IWW in my workplace?” They ask me, “is there an IWW group in my city? How do I get one started if there isn’t?” These people are not interested in the “group” because they are a class-conscious worker looking to develop workers’ power, but rather because they are an activist who is eager to “make connections” with other radicals and gain experience in a radical political setting.
+
+If there is no IWW branch in their city, what are they to think? Indeed, as a resident of northern New Jersey (an area with no IWW group), this is what I thought too. “There’s no IWW in my area, why join?” I was also introduced to the IWW as if it were a place to discuss leftist history and theory and meet other leftists (and generally do all the fun things you do in anarchist organizations in the US).
+
+If the IWW was organized industrially, there would be little need for an IWW group (of whatever industry) to be local to me. Rather, it would simply be a matter of me attempting to organize my workplace with the IWW. The Industrial Union of the industry in which I work would be able to lend support such as finances or putting me into contact with other members of the union, but there would be little need for the “local” aspect.
+
+Ultimately, localism leads to dead-end local patriotism and activism at worst. At best, it leads to the industrial organization that supporters of IUBs seek to build. This would seem to mean that proponents of “perpetual GMBs” really just seek to build the same thing as proponents of IUBs, albeit in a more roundabout way.
+
+I wish to thank S.N. Nappalos for authoring the original article, as it has opened up the opportunity for many Wobblies to participate in the discussion surrounding this issue – an issue that I feel is one of the most pressing matters we must resolve as a union in the coming years.
+
+First, I would like to commend FW Martinez on their reply to FW Nappalos’ Locality and Shop Inside Revolutionary Unions, it is a great example of the type of positions FWs should be putting forward to each other so as to collectively debate important issues of the day between revolutionary unionists. I find myself split about 50-50 between agreeing with both FWs, but since this is intended as a reply to FW Martinez I will mostly focus on my agreement and disagreements with their piece and my own perspectives.
+
+“We cannot wait to act until popular political viewpoints recognize revolutionary anti-capitalism as a valid and legitimate political position. If the political landscape is going to be altered radically, it is going to be altered by the self-directed activity of the working class. As militants, our role is to actively build an organization, a movement, a concept, that encourages and allows this class activity to flourish.”
+
+The historical strength of anarcho-syndicalism, and in recent history of the IWW, has been recognizing that as a working class movement we can struggle for immediate gains now, in a revolutionary way (via direct action and control of such struggles by those directly affected from below), while still maintaining our maximum program, abolition of the wage system, the state and capital. Unlike many left communists, autonomist Marxists, and even some class struggle anarchists (platformists come to mind), revolutionary unionists and anarcho-syndicalists have always asserted that mass workers’ associations can organize in a revolutionary way outside of revolutionary periods, in fact we must take up this task now more than ever, as FW Martinez points out:
+
+“…the class-collaborationist unions – are falling increasingly out of favor. Working people are searching for alternatives now seemingly more than ever.”
+
+“If there are fifteen IWW members in a city, it simply makes no sense to divide them up into three groups of 5 people based on the industry in which they work. We can maximize the capabilities of this small group if we put them all together and enable them to work on the same campaign.”
+
+This quote illustrates how FW Martinez agrees with FW Nappalos on this point, but I believe overlooks the qualitative leap in local organization that the latter is seeking to make. No serious organizer in the IWW wants GMBs to be leftist political organizations or Joe Hill Clubs. By introducing the concepts of locality and shop organization, FW Nappalos highlighted the historical functions most revolutionary unionist and anarcho-syndicalist union movements have taken on. Furthermore they argue that the campaign of such a local based organizing initiative should be to organize in a syndicalist way around working class life under capitalism.
+
+The FAUD in Germany was organized around Industrial Federations and local Workers’ Communities, similarly the CGT around Bourse du Travail (local labor councils) and industrial syndicates, the CNT have had Sindicatos de Officios Varios as well as setting up local ateneos or social centers and tenant unions, the FORA with local resistance societies as well as workers associations organized by shop/trade. Today groups like Solidarity Federation in their book Fighting for Ourselves, describe how they organize a revolutionary union initiative by local groups and industrial as well as community networks (like efforts around student organizing with their student network).
+
+As FW Martinez says “gathering militants is a means to building the union.” This is the real role that GMBs as locality based groups should take on. I feel this is what FW Nappalos means when they conclude that:
+
+“Maybe we can make better use of what we have by recognizing the function of a locality based organization to address the totality of life under capitalism alongside committees and structures of workplace networks of militants like shop committees, industrial organizing committees, and eventually workplace branches.”
+
+Finally I’d be remiss if I didn’t share my criticisms with FW Martinez and others. I think unfortunately and unintentionally their reply has a straw man like logic to its’ argument, that what FW Nappalos is calling for is for GMBs to take on the character of a political organization.
+
+“I feel the discrepancy here is that unions are not merely associations of working people, but associations of working people organized by workplace and industry, dedicated to building power for workers in those workplaces and industries. Unions are not political organizations that arbitrarily restrict their membership to workers.”
+
+As I hinted at in the previous passage I agree with FW Nappalos that a local based group should not be a political organization, but an organizing initiative for starting small fights within our capacity around life under capitalism in order to build to the point that justifies a division of labor into more community or industrial forms of organization whether they be separate organizing committees, branches, networks, or eventually unions, and so on.
+
+Perhaps an example from a sister class struggle and anarcho-syndicalist inspired organization would better highlight this dilemma we often face as revolutionary unionists. The Seattle Solidarity Network (SeaSol for short) started as an organizing initiative of about 5 wobblies who a bunch of organizing experience but little luck sustaining longer term collective campaigns in workplaces. From the get go they decided to focus on fighting struggles around life under capitalism, such as against wage theft from bosses, deposit theft from landlords, horrendous banking practices, and in some cases sexism and racism. The goal has been as working class people come to SeaSol, win, and hopefully stay committed members of the organizations’ main organizing committee SeaSol would eventually be able to take on bigger and bigger fights, including collective fights like organizing inside shops and tenant unionization in apartment complexes, etc. Recently I had the pleasure of meeting with one of the founders of SeaSol when they presented to IWWs and members of the Boston Solidarity Network, and learned that they have now split off some of their work into a new second committee (C2 short for committee 2) for investigating, mapping and charting and planning for such new more collective fights.
+
+As FW Martinez puts forward eventually such a committee of workers or tenants according to the federalist principle should probably “break off” and form its own organization, but in my honest opinion this should only be done when it becomes a practical necessity to do so.
+
+When FW Martinez insists that because we are an industrial union, aspiring organizers should just be assisted by the appropriate industrial body, I feel they also under estimate the need for local community support for workplace organizing. Many IWWs are self-starters like the FW correctly points out and I see this often lead to thinking that we can just build in our workplaces while being in touch with the rest of the union, but in my experience it is useful to have an organizing committee of committed Wobblies on the outside helping you. Not only can your FWs hold you to task, but their real networks of friends, relatives, and coworkers are a vital resource to rely upon in case of the need of solidarity in workplace campaigns.
+
+Finally I take issue with FW Martinez’s insistence that we are necessarily “an industrial union, not a neighborhood- or city-based group of workers.” To me there is no denying the fact that for the time being most wobblies will be organized into GMBs which are essentially networks of militants across industries and communities, geographically organized. The role of these groups like the FW says should be to facilitate new unionist organizing. However to demarcate that the IWW should only concern itself with workplace organizing to me is vulgar workerism. I feel like the history of the revolutionary unionist and anarcho-syndicalist movements shows not only has there been attempts at community unionism, but that it is a vital necessity to engage in such organizing as part of the long term objectives of the class struggle.
+
+FW Martinez is right we should strive not to have people ask us “How can I get involved with the IWW in my city?” but put ourselves into a position where people ask us “How can I organize a union in my community, school or workplace,” and have a plan and vision to guide them there, and hopefully become lifelong revolutionary union organizers.
+
+As a retrospective, curious how any or all of this has played out since first written.
