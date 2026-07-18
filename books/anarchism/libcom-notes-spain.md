@@ -1,0 +1,36 @@
+---
+title: "Notes Spain"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/notes-spain"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "On recent industrial and University unrest in Spain - and the Acratas group. From Internationale Situationniste #12 (September 1969)."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/notes-spain)
+
+On recent industrial and University unrest in Spain - and the Acratas group. From Internationale Situationniste #12 (September 1969).
+
+The inflexibility of the thinkers of the unofficial capitalism governing Spain is their best guarantee against a revolutionary uprising. Their forces are crystallized around a technocratic reformism that has nevertheless begun to incite real struggles wherever it is implemented. It is in the most advanced industries, those which constitute Franco's calling card to Common Market Europe, that the workers have asserted their potential most. In 1965, metallurgists from Pegaso made several attempts to march on Madrid to support the student revolt. In 1967, the Echevarri factories in Bilbao remained on strike for six months, with workers' families participating in general assemblies that sent delegates all over Spain. As with the recent spontaneous collectivizations of small farms in Navarre, these actions stand in flagrant opposition to the Christian-Stalinist practices of the Workers' Commissions, who with uncanny timing, cancelled a day of action planned for 24 January as soon as they were faced with the declaration of a state of emergency. With its eyes set squarely on a place in the sun of a post-Franco parliament, the tactic of the Communist Party — an across-the-board alliance of anti-Franco opposition that includes the "left phalangists" — is confronted by its own specter, which haunts it as much as it does the fascists who hold power, even though since 1936, it has been no more capable of frightening the pope than it has the millionaires of New York. As for the state of emergency, it was presented as the only possible response for those who hold nothing more than power to those who know — and even Opus Dei 1 understands this — that modernization cannot be carried out without a corresponding structural change. And it should be added that the state of emergency arrived just in time to avoid a major reconsideration of salaries that had been blocked for a year, during which time the cost of living rose by around 25%.
+
+A long way from these dinosaurean struggles, the old mole continues his work. In Spain as elsewhere, the so-called critical university has bided its time with relativistic juggling and contingent contortions. Already, radical elements are gathering around the catch-cry "Abolish the University!" by quite naturally setting language alight. Just like any of the French Action Committees, they have been able to define the fundamental alternative: "Either the two-bit University providing alibis for all those who pursue other studies, or the definitive solution to the 'university problem' as a step toward the definitive solution to the class problem." More than anyone else, the Madrid Acratas group were able to shatter the illusion of a revolutionary unionism, expressing radical positions and giving them a scandalous reality. Formed in October 1967, the group were not dissimilar to the Nanterre Enragés: the same field of operations, the same program, the same forms of action — this says a great deal about the world in which we live. Under their influence, the frequent tendency to violence toward the police has became an almost everyday fact for the "students." Literally every assembly in Spain ends with songs and a riot. Acratas , who translated and distributed texts by the SI, were responsible for the Iberian misadventures of that washed-up prick J.-J. Servan-Schreiber, who they unceremoniously threw out of the Faculty of Law when he had the pretention to try to speak and the illusion that he'd found an audience. But at the same time, their critique of violence protected Acratas from the inherent recuperation into traditional terrorism. If attacks on police, cars, school equipment and windows helped verify their critique of ideology, heirarchy and the commodity, it was by tearing down a classroom crucifix that they showed the cops they are most capable of defying the coagulated history of Francoism. With this gesture they revived the great revolutionary tradition that had seen no other preliminary move toward the imposition of the absolute power of the workers' councils, to which Acratas claimed absolute adherence.
+
+"Y EL CRISTO EN LA MIERDA" 2 Crucifix defenestrated by Acratas at the University of Madrid (January 1968)
+
+If Acratas disbanded in June 1968, they left behind an invigorating memory of a group as close to Marx as they were to Durruti, and as far from Lenin as they were from Proudhon. Did we not even see four bureaucrats from the FUR risk capital punishment for trying to burn down the University, or worse, bomb the best convent in Madrid, killing two of the good sisters? In Barcelona, where Billyclub Grappin appreciates our moderation best, the students who burnt a faculty door covered the dean in petrol when he attempted to intervene; police only barely managed to put him out. On 20 January, the rhector of the same university narrowly escaped being thrown from a window. The process of bringing the faculties to a standstill, which devastates the unions and the government just as much, contributes more and more to highlighting the false oppositions of the ideologies of prehistory: here as everywhere, the desire of the unions to be recuperated leads to their recuperation by the powers that be. The revolutionary movement in Spain will stay beaten as long as it has no consciousness of its victories. It must re-adapt itself or else surrender all its ground — beginning with its memory — to the Stalinist, Francoist and democrat architects of its military defeat. Its victories provide the outline of the absolute power of the workers' councils; they are the minimum requirement of the entire workers' movement. Their knowledge is linked to every coherent revolutionary position. Those who are conscious of making history should never forget the history of consciousness.
+
+"Oh, mother dearest!! It's good to make love to all these enragés!!!"
+
+What a nerve: Based on an comic strip advertisement, this is the first page of one of those pamphlets that inundate our schools every day. It is a vulgar and depraved blend of childish anarchism and blatant pornography, published by a certain "Federation of Worker Student Committees for Southern Paris," whose slogans include "Drop dead, you bastard!" (to be used when addressing "the pope, teachers and priests"), and, if you'll excuse us, "We won't be f***ed around any more!" Even if the students have enough sense to treat such aberrations indifferently, you have ask who finances the lavish printing of these rags, especially if they expect to exercise any authority over an education minister who tolerates such things in social establishments.
+
+Translated by Reuben Keehan. From https://www.cddc.vt.edu/sionline/si/onspain.html
