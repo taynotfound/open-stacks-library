@@ -1,0 +1,46 @@
+---
+title: "Partner Not Envisaged"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/partner-not-envisaged"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "LEILA BERG, well-known as a writer for and about children, has contributed to several recent issues of ANARCHY."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/partner-not-envisaged)
+
+LEILA BERG, well-known as a writer for and about children, has contributed to several recent issues of ANARCHY.
+
+SOMEONE ONCE WROTE TO ME, that she had often found the people who did things she approved of were people she disapproved of. “How very true,” I wrote back. “Read Joy Baker’s book Children in Chancery ”. Joy Baker has won a victory for every one of us. She has established the right of everyone to make use of the law, against Authority; more specifically she established the right, already in fact laid down in the 1944 Education Act but hitherto made nonsense of by many Education Authorities that all parents can educate their children as they wish, and that they do not have to educate them themselves in the way they would be educated in State schools. She established that when an Education Authority speaks of the school that is “most suitable for the child”, what is often meant is the school that for various reasons it suits the authority to send the child to.
+
+She has shown an unflagging tenacity of purpose that very few of us, in similar circumstances. could match, extending over ten years including several pregnancies which, far from tiring her or distracting her, strengthened her purpose.
+
+During her ten court appearances, one of which was to answer a demand that the children be made wards of court, and another resulted in her being sentenced to two months imprisonment—which could never be carried out—and the children being ordered to appear before a Juvenile Court—her statements on education were stimulating, hard-hitting, and certainly not “immoral” as Lord Justice Upjohn implied—unless “immoral” means “against the status quo”. It is difficult to select quotations because she is not by any means taciturn, but here are a few:
+
+“Compulsory education is in itself a contradiction in terms”. “At school you can sit children in rows at desks and tell them things and you may instruct a proportion of them more or less adequately in a number of quite useless subjects, but this is not education … The time at which education starts is when we are born—and there is no leaving age.” “I believe in education by natural development, and instruction given ‘on demand’ and not by the calendar and clock. And it works.”
+
+“It does not follow that because a child for ten long years sits in school he will even be instructed, let alone educated. He will merely have satisfied the Education Act.”
+
+“The Authority can give their definition of education in three words—‘children in school’. Whether the child learns anything, benefits, or suffers, doesn’t matter to them … Could I sue the Education Authority, if my children did attend their schools, on the grounds that they were not giving the children a proper education?” “I am not seeking to force my view on anyone else’s children—it is the Education Authority who seek to force theirs on mine.” “It is a contradiction in terms to require that education be suited to the child’s ability and aptitude, and at the same time that it must follow only one rigid pattern as decreed by a Government department.” “It is children at school who are brought up isolated from the normal daily lives of the adult people they will soon become.” Yet at the same time she is obviously blindly prejudiced, unsubtle, egocentric and quite lacking in vision. Does this matter? Only of course to those close to her, and that includes her own children, to whom she is devoted. Our children, and our grandchildren, whom she does not care tuppence for, inherit only her magnificent assets.
+
+Joy Baker as a child was sent to school when she was six, already able to read and write. During that year she attended three schools. Her first consisted of two other pupils; her second was a small village kindergarten run by an elderly lady who terrified her (both by her behaviour to the less able children, and by her religious readings); her third school had three other pupils. At seven, she was sent to her first big school, where the noisy mass of children terrified her, where mass teaching bewildered her, and insanitary lavatories and messy dinner-tables (afterwards used uncleaned for lessons) sickened her, and where individual initiative was an offence. She remained at this school till she was fifteen, and came out of it with an absolutely fixed determination that her own children, when she had them, would never go through what for her had been a nightmare. She did not consider, and has never considered, that her children, or their schools, might possibly exist in their own right, with their own characteristics. Had she done so, had she been emotionally able to do so, we should never have seen the state and the individual so inflexibly opposed, nor cheered on the sideline as the individual won. Joy Baker insisting on her cage has set us free.
+
+Her initial fight was with the School Attendance Officer in Bedfordshire. The Bedfordshire Education Office was, it seems to me, helpful, courteous and co-operative, and anxious not to have trouble. The Clerk explained to her that they had to carry out the regulations, but stated voluntarily that “many parents prefer to educate their children at home … May I emphasise that there is no suggestion that you or any parents are wrong in deciding to educate your children otherwise than in school. It is only that the Council … have to ask parents to give full information about the adequacy of the education being provided”. The trouble was that Mrs. Baker flatly refused to play, right from the start, even with such a friendly team. (She says right through the book that she loathes organised games). When she moved, through Buckinghamshire, on to Norfolk, leaving Bedfordshire still rueful and trying to explain, and Buckinghamshire on the verge of taking action, she found herself facing a very different team, one so edgy they even jumped the gun—although, undoubtedly, the difference has quite escaped her; in her view, as she says several times, she was a wild-cat defending her young from the hunter, and the individuality of the hunter did not concern her.
+
+One of the first things that happened to her in Norfolk was that a woman magistrate, several policemen, one policewoman, and an N.S.P.C.C. inspector, came to her house at night when she was away on legal business, having left a domestic help at home. These uniformed officials climbed in through the window, took the children out of their beds, got them dressed, carried them to the police car outside, and removed them to an unknown destination. The domestic help was told by them that they would leave the children undisturbed if she undertook to send them to school the next day. When Mrs. Baker returned and discovered what had happened, she drove to the local policeman’s house, but he refused to tell her where the children were. She drove to the police station, and after a lot of argument was taken to Dereham Children’s Home. The matron refused to let her in, and when she called to the children the matron and a man threw her out and barred the door. More police arrived. She lay down on the steps of the Home and said she would stay there until they gave her her children back. Shortly after midnight a police inspector arrived who knew her father; he spoke kindly to her, brought her a cup of warm milk, promised her personally that if she would go home the children would be returned the next day, and took her home in his car.
+
+This absolutely appalling and unforgivable episode, set down in Mrs. Baker’s book, has never been denied, as far as I know, by either Norfolk County Council or the N.S.P.C.C. If they have a different story to tell, many people would be glad to hear it. On what legal ground was it possible for the officials of a Home, supported by police, to lock out a mother demanding her children? And how did the N.S.P.C.C., in my experience concentrating always on keeping a family together, and on holding on to its unofficial status, ever come to offer itself as a tool in this brutal demonstration of governmental force?
+
+After that, court case followed court case. Joy Baker was fortunately never aware of her own vulnerability. The force against her maddened her, but she never saw it clearly. She had the wonderful fighting asset of emotional energy without imagination. She went blazing on, until she exhausted her opponents. “Parliament”, said Mr. Sparrow, Q.C., in exasperation “never visualised Mrs. Baker. There has never been another Mrs. Baker”.
+
+I am genuinely grateful to Mrs. Baker and her tremendous energy. She has made it clear what we must never forget—that an individual in a bureaucratic state can win the right to act according to his beliefs. But I too never envisaged a Mrs. Baker who would fight for me.
