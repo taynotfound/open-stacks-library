@@ -1,0 +1,180 @@
+---
+title: "Refugees Amerika Gay Manifesto"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/refugees-amerika-gay-manifesto"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Called a Gay Manifesto, this is really Carl Wittman&#039;s personal views on being a Gay male in 1970. In addition to criticising homophobia it also criticises the attitudes and strategies of the Gay Lib movement and offers some alternatives. Also includes some very personal beliefs and observations"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/refugees-amerika-gay-manifesto)
+
+Called a Gay Manifesto, this is really Carl Wittman's personal views on being a Gay male in 1970. In addition to criticising homophobia it also criticises the attitudes and strategies of the Gay Lib movement and offers some alternatives. Also includes some very personal beliefs and observations.
+
+San Francisco is a refugee camp for homosexuals. We have fled here from every part of the nation, and like refugees elsewhere, we came not because it is so great here, but because it was so bad there. By the tens of thousands, we fled small towns where to be ourselves would endanger our jobs and any hope of a decent life; we have fled from blackmailing cops, from families who disowned or ‘tolerated’ us; we have been drummed out of the armed services, thrown out of schools, fired from jobs, beaten by punks and policemen.
+
+And we have formed a ghetto, out of self-protection. It is a ghetto rather than a free territory because it is sill theirs. Straight cops patrol us, straight legislators govern us, straight employers keep us in line, straight money exploits us. We have pretended everything is OK, because we haven't been able to see how to change it - we've been afraid.
+
+In the past year there has been an awakening of gay liberation ideas and energy. How it began we don't know; maybe we were inspired by black people and their freedom movement; we learned how to stop pretending form the hip revolution. Amerika in all its ugliness has surfaced with the war and our national leaders. And we are revulsed by the quality of our ghetto life.
+
+Where once there was frustration, alienation, and cynicism, there are new characteristics among us. We are full of love for each other and are showing it; we are full of anger at what has been done to us. And as we recall all the self-censorship and repression for so many years, a reservoir of tears pours out of our eyes. And we are euphoric, high, with the initial flourish of a movement.
+
+We want to make ourselves clear: our first job is to free ourselves; that means clearing our heads of the garbage that's been poured into them. This article is an attempt at raising a number of issues, and presenting some ideas to replace the old ones. It is primarily for ourselves, a starting point of discussion. If straight people of good will find it useful in understanding what liberation is about, so much the better.
+
+It should also be clear that these are the views of one person, and are determined not only by my homosexuality, but my being white, male, middle class. It is my individual consciousness. Our group consciousness will evolve as we get ourselves together - we are only at the beginning.
+
+1. What homosexuality is: Nature leaves undefined the object of sexual desire. The gender of that object is imposed socially. Humans originally made homosexuality taboo because they needed every bit of energy to produce and raise children: survival of species was a priority. With overpopulation and technological change, that taboo continued only to exploit us and enslave us.
+
+As kids we refused to capitulate to demands that we ignore our feelings toward each other. Somewhere we found the strength to resist being indoctrinated, and we should count that among our assets. We have to realize that our loving each other is a good thing, not an unfortunate thing, and that we have a lot to teach straights about sex, love, strength, and resistance.
+
+Homosexuality is not a lot of things. It is not a makeshift in the absence of the opposite sex; it is not a hatred or rejection of the opposite sex; it is not genetic; it is not the result of broken homes except inasmuch as we could see the sham of American marriage. Homosexuality is the capacity to love someone of the same sex.
+
+2. Bisexuality: Bisexuality is good; it is the capacity to love people of either sex. The reason so few of us are bisexual is because society made such a big stink about homosexuality that we got forced into seeing ourselves as either straight or non-straight. Also, many gays go turned off to the ways men are supposed to act with women and vice-versa, which is pretty f---ed-up. Gays will begin to turn on to women when 1) it's something that we do because we want to, and not because we should, and 2) when women's liberation changes the nature of heterosexual relationships.
+
+We continue to call ourselves homosexual, not bisexual, even if we do make it with the opposite sex also, because saying "Oh, I'm Bi" is a copout for a gay. We get told it's OK to sleep with guys as long as we sleep with women, too, and that's still putting homosexuality down. We'll be gay until everyone has forgotten that it's an issue. Then we'll begin to be complete.
+
+3. Heterosexuality: Exclusive heterosexuality is f---ed up. It reflects a fear of people of the same sex, it's anti-homosexual, and it is fraught with frustration. Heterosexual sex is f---ed up too; ask women's liberation about what straight guys are like in bed. Sex is aggression for the male chauvinist; sex is obligation for the traditional woman. And among the young, the modern, the hip, it's only a subtle version of the same. For us to become heterosexual in the sense that our straight brothers and sisters are is not a cure, it is a disease.
+
+1. Lesbianism: It's been a male-dominated society for too long, and that has warped both men and women. So gay women are going to see things differently from gay men; they are going to feel put down as women, too. Their liberation is tied up with both gay liberation and women's liberation.
+
+This paper speaks form the gay male viewpoint. And although some of the ideas in it may be equally relevant to gay women, it would be arrogant to presume this to be a manifesto for lesbians.
+
+We look forward to the emergence of a lesbian liberation voice. The existence of a lesbian caucus within the New York Gay Liberation Front has been very helpful in challenging male chauvinism among gay guys, and anti-gay feelings among women's lib.
+
+2. Male Chauvinism: All men are infected with male chauvinism - we were brought up that way. It means we assume that women play subordinate roles and are less human than ourselves. (At an early gay liberation meeting one guy said, "Why don't we invite women's liberation - they can bring sandwiches and coffee.") It is no wonder that so few gay women have become active in our groups.
+
+Male chauvinism, however, is not central to us. We can junk it much more easily than straight men can. For we understand oppression. We have largely opted out of a system which oppresses women daily - our egos are not built on putting women down and having them build us up. Also, living in a mostly male world we have become used to playing different roles, doing or own shit-work. And finally, we have a common enemy: the big male chauvinists are also the big anti-gays.
+
+But we need to purge male chauvinism, both in behavior and in thought among us. Chick equals nigger equals queer. Think it over.
+
+3. Women's liberation: They are assuming their equality and dignity and in doing so are challenging the same things we are: the roles, the exploitation of minorities by capitalism, the arrogant smugness of straight white male middle-class Amerika. They are our sisters in struggle. Problems and differences will become clearer when we begin to work together. One major problem is our own male chauvinism. Another is uptightness and hostility to homosexuality that many women have - that is the straight in them. A third problem is differing views on sex: sex for them has meant oppression, while for us it has been a symbol of our freedom. We must come to know and understand each other's style, jargon and humor.
+
+1. Mimicry of straight society: We are children of straight society. We still think straight: that is part of our oppression. One of the worst of straight concepts is inequality. Straight (also white, English, male, capitalist) thinking views things in terms of order and comparison. A is before B, B is after A; one is below two is below three; there is no room for equality. This idea gets extended to male/female, on top/on bottom, spouse/not spouse, heterosexual/homosexual, boss/worker, white/black and rich/poor. Our social institutions cause and reflect this verbal hierarchy. This is Amerika.
+
+We've lived in these institutions all our lives. Naturally we mimic the roles. For too long we mimicked these roles to protect ourselves - a survival mechanism. Now we are becoming free enough to shed the roles which we've picked up from the institutions which have imprisoned us.
+
+2. Marriage: Marriage is a prime example of a straight institution fraught with role playing. Traditional marriage is a rotten, oppressive institution. Those of us who have been in heterosexual marriages too often have blamed our gayness on the breakup of the marriage. No. They broke up because marriage is a contract which smothers both people, denies needs, and places impossible demands on both people. And we had the strength, again, to refuse to capitulate to the roles which were demanded of us.
+
+Gay people must stop gauging their self-respect by how well they mimic straight marriages. Gay marriages will have the same problems as straight ones except in burlesque. For the usual legitimacy and pressures which keep straight marriages together are absent, e.g., kids, what parents think, what neighbors say.
+
+To accept that happiness comes through finding a groovy spouse and settling down, showing the world that "we're just the same as you" is avoiding the real issues, and is an expression of self-hatred.
+
+3. Alternatives to Marriage: People want to get married for lots of good reasons, although marriage won't often meet those needs or desires. We're all looking for security, a flow of love, and a feeling of belonging and being needed.
+
+These needs can be met through a number of social relationships and living situations. Things we want to get away from are: 1. exclusiveness, propertied attitudes toward each other, a mutual pact against the rest of the world; 2. promises about the future, which we have no right to make and which prevent us from , or make us feel guilty about, growing; 3. inflexible roles, roles which do not reflect us at the moment but are inherited through mimicry and inability to define equalitarian relationships.
+
+We have to define for ourselves a new pluralistic, rolefree social structure for ourselves. It must contain both the freedom and physical space for people to live alone, live together for a while, live together for a long time, either as couples or in larger numbers; and the ability to flow easily from one of these states to another as our needs change.
+
+Liberation for gay people is defining for ourselves how and with whom we live, instead of measuring our relationship in comparison to straight ones, with straight values.
+
+4. Gay 'stereotypes': The straight's image of the gay world is defined largely by those of us who have violated straight roles. There is a tendency among 'homophile' groups to deplore gays who play visible roles - the queens and the nellies. As liberated gays, we must take a clear stand. 1) Gays who stand out have become our first martyrs. They came out and withstood disapproval before the rest of us did. 2) If they have suffered from being open, it is straight society whom we must indict, not the queen.
+
+5. Closet queens: This phrase is becoming analogous to 'Uncle Tom.' To pretend to be straight sexually, or to pretend to be straight socially, is probably the most harmful pattern of behavior in the ghetto. The married guy who makes it on the side secretly; the guy who will go to bed once but won't develop any gay relationships; the pretender at work or school who changes the gender of the friend he's talking about; the guy who'll suck cock in the bushes but won't go to bed.
+
+If we are liberated we are open with our sexuality. Closet queenery must end. Come out.
+
+But: in saying come out, we have to have our heads clear about a few things: 1) closet queens are our brothers, and must be defended against attacks by straight people; 2) the fear of coming out is not paranoia; the stakes are high: loss of family ties, loss of job, loss of straight friends - these are all reminders that the oppression is not just in our heads. It's real. Each of us must make the steps toward openness at our own speed and on our own impulses. Being open is the foundation of freedom: it has to be built solidly. 3) "Closet queen" is a broad term covering a multitude of forms of defense, self-hatred, lack of strength, and habit. We are all closet queens in some ways, and all of us had to come out - very few of us were 'flagrant' at the age of seven! We must afford our brothers and sisters the same patience we afforded ourselves. And while their closet queenery is part of our oppression, it's more a part of theirs. They alone can decide when and how.
+
+It is important to catalog and understand the different facets of our oppression. There is no future in arguing about degrees of oppression. A lot of 'movement' types come on with a line of shit about homosexuals not being oppressed as much as blacks or Vietnamese or workers or women. We don't happen to fit into their ideas of class or caste. Bull! When people feel oppressed, they act on that feeling. We feel oppressed. Talk about the priority of black liberation or ending imperialism over and above gay liberation is just anti-gay propaganda.
+
+1. Physical attacks: We are attacked, beaten, castrated and left dead time and time again. There are half a dozen known unsolved slayings in San Francisco parks in the last few years. "Punks," often of minority groups who look around for someone under them socially, feel encouraged to beat up on "queens" and cops look the other way. That used to be called lynching.
+
+Cops in most cities have harassed our meeting places: bars and baths and parks. They set up entrapment squads. A Berkeley brother was slain by a cop in April when he tried to split after finding out that the trick who was making advances to him was a cop. Cities set up 'pervert' registration, which if nothing else scares our brothers deeper into the closet.
+
+One of the most vicious slurs on us is the blame for prison 'gang rapes.' These rapes are invariably done by people who consider themselves straight. The victims of these rapes are us and straights who can't defend themselves. The press campaign to link prison rapes with homosexuality is an attempt to make straights fear and despise us, so they can oppress us more. It's typical of the f---ed-up straight mind to think that homosexual sex involves tying a guy down and f---ing him. That's aggression, not sex. If that's what sex is for a lot of straight people, that's a problem they have to solve, not us.
+
+2. Psychological warfare: Right from the beginning we have been subjected to a barrage of straight propaganda. Since our parents don't know any homosexuals, we grow up thinking that we are alone and different and perverted. Our school friends identify 'queer' with any non-conformist or bad behavior. Our elementary school teachers tell us not to talk to strangers or accept rides. Television, billboards and magazines put forth a false idealization of male/female relationships, and make us wish we were different, wish we were 'in.' In family living class we're taught how we're supposed to turn out. And all along, the best we hear if anything about homosexuality is that it's an unfortunate problem.
+
+3. Self-oppression: As gay liberation grows, we will find our uptight brothers and sisters, particularly those who are making a buck off our ghetto, coming on strong to defend the status quo. This is self oppression: 'don't rock the boat'; 'things in SF are OK'; 'gay people just aren't together'; 'I'm not oppressed.' These lines are right out of the mouths of the straight establishment. A large part of our oppression would end if we would end if we would stop putting ourselves and our pride down.
+
+4. Institutional: Discrimination against gays is blatant, if we open our eyes. Homosexual relationships are illegal, and even if these laws are not regularly enforced, they encourage and enforce closet queenery. The bulk of the social work psychiatric field looks upon homosexuality as a problem, and treats us as sick. Employers let it be known that our skills are acceptable as long as our sexuality is hidden. Big business and government are particularly notorious offenders.
+
+The discrimination in the draft and armed services is a pillar of the general attitude towards gays. If we are willing to label ourselves publicly not only as homosexual but as sick, then we qualify for deferment; and if we're not 'discreet' (dishonest) we get drummed out of the service. Hell, no, we won't go, of course not, but we can't let the army f--- over us this way, either.
+
+1. What sex is: It is both creative expression and communication: good when it is either, and better when it is both. Sex can also be aggression, and usually is when those involved do not see each other as equals; and it can also be perfunctory, when we are distracted or preoccupied. These uses spoil what is good about it.
+
+I like of think of good sex in terms of playing the violin: with both people on one level seeing the other body as an object capable of creating beauty when they play it well; and on a second level the players communicating through their mutual production and appreciation of beauty. As in good music, you get totally into it - and coming back out of that state of consciousness is like finishing a work of art or coming back from an episode of an acid or mescaline trip. And to press the analogy further: the variety of music is infinite and varied, depending on the capabilities of the players, both as subjects and as objects. Solos, duets, quartets (symphonies, even, if you happen to dig Romantic music!) are possible. The variations in gender, response, and bodies are like different instruments. And perhaps what we have called sexual 'orientation' probably just means that we have not yet learned to turn on to the total range of musical expression.
+
+2. Objectification: In this scheme, people are sexual objects, but they are also subjects, and are human beings who appreciate themselves as object and subject. This use of human bodies as objects is legitimate (not harmful) only when it is reciprocal. If one person is always object and the other subject, it stifles the human being in both of them. Objectification must also be open and frank. By silence we often assume or let the other person assume that sex means commitments: if it does, ok; but if not, say it. (Of course, it's not all that simple: our capabilities for manipulation are unfathomed - all we can do is try.)
+
+Gay liberation people must understand that women have been treated exclusively and dishonestly as sexual objects. A major part of their liberation is to play down sexual objectification and to develop other aspects of themselves which have been smothered so long. We respect this. We also understand that a few liberated women will be appalled or disgusted at the open and prominent place that we put sex in our lives; and while this is a natural response from their experience, they must learn what it means for us.
+
+For us, sexual objectification is a focus of our quest for freedom. It is precisely that which we are not supposed to share with each other. Learning how to be open and good with each other sexually is part of our liberation. And one obvious distinction: objectification of sex for us is something we choose to do among ourselves, while for women it is imposed by their oppressors.
+
+3. On positions and roles: Much of our sexuality has been perverted through mimicry of straights, and warped from self-hatred. These sexual perversions are basically anti-gay:
+
+"I like to make it with straight guys" "I'm not gay, but I like to be 'done'" "I like to f---, but don't want to be f---ed" "I don't like to be touched above the neck"
+
+This is role playing at its worst; we must transcend these roles. We strive for democratic, mutual, reciprocal sex. This does not mean that we are all mirror images of each other in bed, but that we break away from the roles which enslave us. We already do better in bed than straights do, and we can be better to each other than we have been.
+
+4. Chickens and Studs: Face it, nice bodies and young bodies are attributes, they're groovy. They are inspiration for art, for spiritual elevation, for good sex. The problem arises only in the inability to relate to people of the same age, or people who don't fit the plastic stereotypes of a good body. At that point, objectification eclipses people, and expresses self-hatred: "I hate gay people, and I don't like myself, but if a stud (or chicken) wants to make it with me, I can pretend I'm someone other than me."
+
+A note on exploitation of children: kids can take care of themselves, and are sexual beings way earlier than we'd like to admit. Those of us who began cruising in early adolescence know this, and we were doing the cruising, not being debauched by dirty old men. Scandals such as the one in Boise, Idaho - blaming a "ring" of homosexuals for perverting their youth - are the fabrications of press and police and politicians. And as for child molesting, the overwhelming amount is done by straight guys to little girls: it is not particularly a gay problem, and is caused by the frustrations resulting form anti-sex puritanism.
+
+5. Perversion: We've been called perverts enough to be suspect of any usage of the word. Still many of us shrink from the idea of certain kinds of sex: with animals, sado/masochism, dirty sex (involving piss or shit). Right off, even before we take the time to learn any more, there are some things to get straight:
+
+1. we shouldn't be apologetic to straights about gays whose sex lives we don't understand or share;
+
+2. it's not particularly a gay issue, except that gay people are probably less hung up about sexual experimentation;
+
+3. let's get perspective: even if we were to get into the game of deciding what's good for someone else, the harm done in these 'perversions' is undoubtedly less dangerous or unhealthy than is tobacco or alcohol.
+
+4. While they can be reflections of neurotic or self-hating patterns, they may also be enactments of spiritual or important phenomena: e.g. sex with animals may be the beginning of interspecies communication: some dolphin-human breakthroughs have been made on the sexual level; e.g. one guy who says he digs shit during sex occasionally says it's not the taste or texture, but a symbol that he's so far into sex that those things no longer bug him; e.g. sado/masochism, when consensual, can be described as a highly artistic endeavor, a ballet the constraints of which are thresholds of pain and pleasure.
+
+We are refugees from Amerika. So we came to the ghetto - and as other ghettos, it has its negative and positive aspects. Refugee camps are better than what preceded them, or people never would have come. But they are still enslaving, if only that we are limited to being ourselves there and only there.
+
+Ghettos breed self-hatred. We stagnate here, accepting the status quo. The status quo is rotten. We are all warped by our oppression, and in the isolation of the ghetto we blame ourselves rather than our oppressors.
+
+Ghettos breed exploitation: Landlords find they can charge exorbitant rents and get away with it, because of the limited area which us safe to live in openly. Mafia control of bars and baths in NYC is only one example of outside money controlling our institutions for their profit. In San Francisco the Tavern Guild favors maintaining the ghetto, for it is through ghetto culture that they make a buck. We crowd their bars not because of their merit but because of the absence of any other social institution. The Guild has refused to let us collect defense funds or pass out gay liberation literature in their bars - need we ask why?
+
+Police or con men who shake down the straight gay in return for not revealing him; the bookstores and movie makers who keep raising prices because they are the only outlet for pornography; heads of 'modeling' agencies and other pimps who exploit both the hustlers and the johns - these are the parasites who flourish in the ghetto.
+
+SAN FRANCISCO - Ghetto or Free Territory: Our ghetto certainly is more beautiful and larger and more diverse than most ghettos, and is certainly freer than the rest of Amerika. That's why we're here. But it isn't ours. Capitalists make money off of us, cops patrol us, government tolerates us as long as we shut up, and daily we work for and pay taxes to those who oppress us.
+
+To be a free territory, we must govern ourselves, set up our own institutions, defend ourselves, and use our won energies to improve our lives. The emergence of gay liberation communes, and out own paper is a good start. The talk about gay liberation coffee shop/dance hall should be acted upon. Rural retreats, political action offices, food cooperatives, a free school, unalienating bars and after hours places - they must be developed if we are to have even the shadow of a free territory.
+
+Right now the bulk of our work has to be among ourselves - self educating, fending off attacks, and building free territory. Thus basically we have to have a gay/straight vision of the world until the oppression of gays is ended.
+
+But not every straight is our enemy. Many of us have mixed identities, and have ties with other liberation movements: women, blacks, other minority groups; we may also have taken on an identity which is vital to us: ecology, dope, ideology. And face it: we can't change Amerika alone: Who do we look to for collaboration?
+
+1. Women's Liberation: summarizing earlier statements, 1) they are our closest ally; we must try hard to get together with them. 2) a lesbian caucus is probably the best way to attack gay guys' male chauvinism, and challenge the straightness of women's liberation; 3) as males we must be sensitive to their developing identities as women, and respect that; if we know what our freedom is about, they certainly know what's best for them.
+
+2. Black liberation: This is tenuous right now because of the uptightness and supermasculinity of many black men (which is understandable). Despite that, we must support their movement, particularly when they are under attack form the establishment; we must show them that we mean business; and we must figure out which our common enemies are: police, city hall, capitalism.
+
+3. Chicanos: Basically the same problem as with blacks: trying to overcome mutual animosity and fear, and finding ways to support them. The extra problem of super up-tightness and machismo among Latin cultures, and the traditional pattern of Mexicans beating up "queers" can be overcome: we're both oppressed, and by the same people at the top.
+
+4. White radicals and ideologues: We're not, as a group, Marxist or communist. We haven't figured out what kind of political/economic system is good for us as gays. Neither capitalist or socialist countries have treated us as anything other than non grata so far.
+
+But we know we are radical, in that we know the system that we're under now is a direct source of oppression, and it's not a question of getting our share of the pie. The pie is rotten.
+
+We can look forward to coalition and mutual support with radical groups if they are able to transcend their anti-gay and male chauvinist patterns. We support radical and militant demands when they arise, e.g. Moratorium, People's Park; but only as a group; we can't compromise or soft-peddle our gay identity.
+
+Problems: because radicals are doing somebody else's thing, they tend to avoid issues which affect them directly, and see us as jeopardizing their 'work' with other groups (workers, blacks). Some years ago a dignitary of SDS on a community organization project announced at an initial staff meeting that there would be no homosexuality (or dope) on the project. And recently in New York, a movement group which had a coffee-house get-together after a political rally told the gays to leave when they started dancing together. (It's interesting to note that in this case, the only two groups which supported us were the Women's Liberation and the Crazies.)
+
+Perhaps most fruitful would be to broach with radicals their stifled homosexuality and the issues which arise from challenging sexual roles.
+
+5. Hip and street- people: A major dynamic of rising gay lib sentiment is the hip revolution within the gay community. Emphasis on love, dropping out, being honest, expressing yourself through hair and clothes, and smoking dope are all attributes of this. The gays who are the least vulnerable to attack by the establishment have been the freest to express themselves on gay liberation.
+
+We can make a direct appeal to young people, who are not so uptight about homosexuality. One kid, after having his first sex with a male said, "I don't know what all the fuss is about, making it with a girl just isn't that different."
+
+The hip/street culture has led people into a lot of freeing activities: encounter/sensitivity, the quest for reality, freeing territory for the people, ecological consciousness, communes. These are real points of agreement and probably will make it easier for them to get their heads straight about homosexuality, too.
+
+6. Homophile groups: 1) reformist or pokey as they sometimes are, they are our brothers. They'll grow as we have grown and grow. Do not attack them in straight or mixed company. 2) ignore their attack on us. 3) cooperate where cooperation is possible without essential compromise of our identity. CONCLUSION: AN OUTLINE OF IMPERATIVES FOR GAY LIBERTATION
+
+1. Free ourselves: come out everywhere; initiate self defense and political activity; initiate counter community institutions.
+
+2. Turn other gay people on: talk all the time; understand, forgive, accept.
+
+3. Free the homosexual in everyone: we'll be getting a good bit of shit form threatened latents: be gentle, and keep talking & acting free.
+
+4. We've been playing an act for a long time, so we're consummate actors. Now we can begin to be, and it'll be a good show!
