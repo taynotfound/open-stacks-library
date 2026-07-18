@@ -1,0 +1,32 @@
+---
+title: "Individualism."
+author: "John Arthur Andrews"
+date: "2014"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/john-arthur-andrews-individualism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Original publication: The Firebrand VOL. II. No. 34. PORTLAND, OREGON, SUNDAY, SEPTEMBER, 27 1896. Scanned from Original. http://firebrandpdx.files.wordpress.com/2010/01/firebrand-v2-n34.pdf"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "john-arthur-andrews-individualism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/john-arthur-andrews-individualism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/john-arthur-andrews-individualism)
+
+I AM an Individualist and a Communist, and I am a Communist because I am an Individualist. What State Socialists call Individualism is as much so as the "free labor" of the capitalist language (non-union, and especially blackleg labor) is really free labor. What certain opponents of the State who are not Communists call Individualism is no more so than the "free labor" spoken of by the denouncers of prison-made goods is free labor.
+
+What I consider a condition of Individualism is one in which each individual decides his own doings for himself on his own judgement of the circumstances which appear to concern him. I claim that so far as I am concerned, and I mean to the whole extent of my being concerned also, no matter how many people may be concerned also, it is for me to decide exactly what I will do, be, have, use, favor, tolerate, or resent, according to how I perceive and feel and think from moment to moment in the circumstances about me. It is for me to act fraternally because I find it the most natural thing to do, and not because other people have decided that it is the proper thing. It is for me to resent because I feel resentment and not because other people or even I myself have previously defined a certain thing to be wrong. It is for me to live out my own life in my own way, and on that account - because I will not have anything but my real way of seeing and feeling and thinking about things - because I decline to perceive and feel and think according to a prescribed or conventional plan, or any lines not prompted by my nature as being who and what I am - I decline to acknowledge property. It is so far as I am concerned a matter of what I find to be my whole self's way of regarding things, wheter and why I shall on a given occasion use or abstain from using a certain thing, wheter and why I shall be for, against, or indifferent to this or that person using it, abstaining from using it, or being prevented from using it. Property teaches that I and I only have a right to some things or some quantities of things, and someone erse to some other things, and that I have no right to these things, nor he to the former. I reply, it is as I perceive and feel and think at the moment, according to the circumstances of the moment, wheter I want to use the first things or not, wheter I want to use the second things or not, wheter another person using what you say are my things aggrieves me or not, wheter his using what you say are his things pleases me or not, and also what I am going to do about it. Further, I presume that the same is the case with him. Therefore I conclude that he and I will either harmonise in our doings without property, or fail to harmonise with each other (or with our own natures if we seem outwardly to harmonise in our doings) with property. In any case property is something imposed instead of our natures. I want to reserve something for myself because in the circumstances it is natural for me to do so; you say on the contrary that there is some sacred affinity between me and it, or some sacred incompatibility. I don't want to reserve it - you still say the same thing. According to you, if I don't want to reserve it, and you say it is mine, I ought to feel just as much aggrieved if you come along and take it as if I did want it, and you, knowing that, but not caring, forcibly or by stealth deprived me of it. According to you, I ought to feel just as loth to use something when by doing so I should not be depriving another person of any use he expected (or when he didn't expect to use it at all), provided you say it is his, as if I should be sending all his purposes and expectations and opportunities to total ruin.
+
+That seems a mad sort of thing to me, and I much prefer to remain sane; I value my individuality too highly to sacrifice it to such nonsense. In short, I am an uncompromising Individualist; I decide for myself my own relation and attitude towards other people in respect of things, and I neither require nor suffer any doctrine or dogma to decide for me. Therefore I absolutely and utterly repudiate the Property Idea. What I want on the whole to keep to myself I will keep for the reason that I want to - at any rate while I both want to and can; what I want to take I will take, simply because, all things considered, I want to do so; what I want to respect other people's need of, I will let them keep if they have it, or try and get it for them if they havn't, for the sole reason that this is what I want to do; and I want other people to act in the same free way, because I have confidence that I can get along all right with humanity, and I don't want to knock up against a System just when I think I am dealing with pure human individuals.
+
+Accoringly, as a consistent Individualist, I am necessarily in the nature of things, a Communist.
+
+P.S.- The important thing to me is to do as I like because I like; the important thing to other people about that, is what it is that I like to do. Their appreciations of this will go a good way to determine what they like to do. Consequently there will be most chances of survival for those who not only passively harmonise, but by nature actively help each other for the sake of the friendly interest they feel in each other - that is, because they want to. So that not only the plunder-likers but the property-likers are doomed to become extinct. Private property is the diseased reaction against the excess of ancient communitarism - not communism - from which relief has wrongly sought in personal priviledge instead of in liberty. J.A.A.
