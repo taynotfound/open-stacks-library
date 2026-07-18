@@ -1,0 +1,38 @@
+---
+title: "Radicalizing Armed Forces Federico Campagna"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/radicalizing-armed-forces-federico-campagna"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Noam Chomsky once said that engaging in armed confrontation with the State is a suicide attempt, as &quot;if you come with a rifle, they will come back with a tank, if you come with a tank, they will come back with a fighter jet.&quot; However, who exactly are &quot;they&quot;?"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/radicalizing-armed-forces-federico-campagna)
+
+Noam Chomsky once said that engaging in armed confrontation with the State is a suicide attempt, as "if you come with a rifle, they will come back with a tank, if you come with a tank, they will come back with a fighter jet." However, who exactly are "they"?
+
+In the beginning, it was the navy. On the morning of 30 October 1918, the sailors of the battleship Kiel mutinied, forcing their commander to flee under cover of disguise. In the following days, more and more German battleships were taken over by their sailors, who, together with workers from the cities, created councils for direct democratic decision-making. The unrest quickly moved to factory workers and to the rest of the army, to the point that, on 9 November 1918, the socialist leader Philipp Scheidemann proclaimed the onset of revolution, an action which finally led to the end of the war and of the Kaiser.
+
+Today, in the winter of 2011, which reminds some of the ‘spring of nations’ of 1848, it is once again the army that plays a crucial role in the success of popular revolts across North Africa. In Tunisia and Egypt, mass demonstrations found solidarity in large sectors of the military, which did not oppose the popular insurgency and even, in Tunisia, helped to bring down the regime.
+
+The American theorist and anarchist Noam Chomsky once said that engaging in armed confrontation with the State is a suicide attempt, as "if you come with a rifle, they will come back with a tank, if you come with a tank, they will come back with a fighter jet." At a first consideration, such a statement seems to be irrefutable. The State, in most parts of the world, does not only have the monopoly on the use of ‘legitimate’ violence, but also has exclusive access to all possible means of a military confrontation with external or internal enemies. However, it is indeed in Chomsky’s sentence that is hidden the key of a possible breakthrough. In particular, in the word ‘they’. Who are ‘they’? It might seem that ‘they’ refers to the State and its powers. Nonetheless, this is not an accurate interpretation. ‘They’ are the army and the police, that is, the effective, practical holders of all the means of military action. In fact, Chomsky’s sentence holds a deep truth, that may escape his initial intentions: it is ‘them’ who have the power to decide on the result of any imaginable social unrest.
+
+Seen with the eyes of the democratic West, and in particular with those of people on the left, the army and the police seem to belong to a dimension of existence that has very little to share with that of the civil population. After the end of mandatory conscription in most European countries, the military has increasingly become a highly specialized, elite force that resembles more the armies of private contractors than the popular armies of the past. Like the caste of warriors of some ancient civilizations, most armed forces of the West have lost any real contact with the lives and desires of those populations that they supposed to defend. Furthermore, just like in those castes, the level of democracy internal to the army has now reached the all-time-low of a tight hierarchical organization.
+
+Today, after decades of devoted pacifism, it is difficult for most European lefties to remember the positive role that large sectors of the army played in several moments of revolutionary struggle. Also, and more strangely, to remember the experiences of radical politics that often took place within old-style, conscripted armies. We could mention, for example, the Italian groups Proletari in Divisa (Proletariats in Uniform) in the 1960s and the 1970s. During those years, Italian society witnessed an amazing level of social tension, with the radicalization of the class conflict and the self-mobilization of large sectors of the population belonging to far-left organizations. The young people entering the army at that time brought into the barracks that same revolutionary spirit that was shaking other disciplinary institutions such as factories, prisons and schools. The aim of Proletari in Divisa was that of challenging the hierarchical structure of the army, as well as its obedience to the interests of the government and of the ruling class, and that of supporting and connecting with the social struggles happening all over the country. Despite the clear illegality of it, on several occasions thousands of radical soldiers marched in their uniforms, their faced covered by a red scarf, alongside workers and students, called for strikes inside the barracks in solidarity with strikes happening in the factories, started their own democratic councils and even issued their own publications.
+
+Of course, this seems to be a universe away from today’s experience of what British nationalists call ‘our boys’ deployed as occupation troops in Afghanistan and Iraq. However, it might be the case that such a dramatic change in the role and the potential of the army for progressive, revolutionary social change has to be blamed in part on the a priori pacifism of most sectors of the left. Apart from the occasional, often shallow, reminder that ‘the policemen are the sons of the workers’, there have been virtually no attempts in recent years to explore the possibility to transform the armed forces from an element of governmental repression and subjugation, to one of popular liberation.
+
+Today as much as in the past, most people in the army and in the police come from working class and underprivileged backgrounds. However, this is not enough to stop them from becoming arguably the strongest accomplices of State and corporate domination over national and foreign populations. To say it in Marxist terms, the fact that most of the armed forces are in ‘in themselves’ part of the proletariat, does not imply that they are part of the proletariat as a revolutionary class ‘for itself’. Examples such as that of Proletari in Divisa (and of countless other experiences before that), though, show that this is not an impossible shift to make.
+
+It is in the best interest of the radical social movements that are now springing up everywhere across Europe to imagine how this could happen. Maybe, instead of aiming at engaging in often pointless confrontations with the police, they could make an effort to meet policemen and soldiers out of their working hours and engage in friendly, informal, subtle moments of direct propaganda. They could try and understand what are the tensions and injustices internal to the military forces and support the privates in their claims for a decent and equal treatment. They could invite them to political meetings, introduce them to their friends and turn institutional enemies into personal friends. After all, there is no more effective way to disarm a person than to disarm his or her brain. And, on the other hand, there is no better way to gain access to military strength, if necessary, than to gain access to the brains that control it.
