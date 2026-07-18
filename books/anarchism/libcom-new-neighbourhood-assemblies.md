@@ -1,0 +1,38 @@
+---
+title: "New Neighbourhood Assemblies"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/new-neighbourhood-assemblies"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Mi: An anarchist of Exarchia"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/new-neighbourhood-assemblies)
+
+It is very early to draw conclusions about the messages and the lessons that we learned through the insurrection of December. Maybe it will take months or even years to understand what we did because we’re still in the heat of the moment. One characteristic of December was the occupation of government buildings, municipality buildings, universities, and municipal cultural centres. The goal of all these actions was to organise the participation of the inhabitants and local people in the centre of the different cities and also in the suburbs. In the city centres and in the universities, the occupations arose from political actors, from the libertarians or anarchists or autonomists, and also ultra-left movements, and inside these occupations the majority of participants were already politically conscious. On the other hand the vast majority of people who participated in the occupations in the suburbs were local people who hadn't been active before. Even though there were also politically conscious comrades there, the great majority of the participants were people who appeared in the movement for their first time, All these assemblies in the suburbs used the name, "Open Assembly of the Inhabitants of" whatever area, or "popular assembly" Because parthenogenesis does not exist, many of these assemblies arose from campaigns and meetings and struggles around specific local themes that predated December.
+
+The second important characteristic of these assemblies is that for the first time struggles that started in the centre of Athens - like the response to the assassination of Alexis or the attack on Kuneva, or the solidarity with the prisoners, or general talks that took place during the insurrection in the occupation of the Polytechnic or Nomiki or ASOEE or the General Confederation of Greek Workers building - became subjects for discussion and struggle in the assemblies and neighbourhoods all around Greece. The central point of these assemblies was no longer a local problem, but a general subject that connected all these assemblies all throughout Greece. And this was apparent in a slogan that you could find in all the different assemblies, "Let’s take life back into our hands, "This means that we have to carry out a global struggle that includes all the different sides and activities of life.
+
+In many areas of Greece where popular assemblies had never existed, new ones appeared for the first time, possibly started by neighbours who knew each other. To get a good picture of these assemblies, imagine that during December and the beginning of January, between 150-500 people in each neighbourhood were taking part. And they organised many different demonstrations for Alexis, for Kuneva, for the prisoners, they printed many different posters and pamphlets, and also organised concerts and attacks on police stations or other local targets.
+
+In the neighbourhood assemblies people always prefer to talk and debate for hours and even days, sometimes to even avoid making a final decision at all, in order to seek consensus and avoid stooping to holding a vote. Sometimes this is chaotic, sometimes it is a lengthy procedure, but it allows everyone to express his or her own opinion and to find a place within the general spirit. Another important characteristic is how the general assemblies functioned as welcome centres where you could find announcements and calls for help for all the different initiatives that appeared inside the assembly. The initiatives were not created by final decisions coming from the assembly but rather they were the initiatives of members that were accommodated by the general assembly, There were no decisions about what would happen and what wouldn't. All of it was happening. Thus, these assemblies allowed important anarchist principles such as consensus and the empowerment of individual initiative to pass to people who were not anarchists but adopted the practices and theories and principles of the anarchist movement.
+
+There were other actions that had previously been unheard of. The refusal to pay for public transportation and attacks on the ticket machines, the occupation of the Opera Hall that worked as a meeting point between the artists and the society, and gave the artists the chance to express their new ideas developed during the insurrection. To even mention all the actions that took place you would need a catalogue of the hundreds of blogs created during the insurrection by all these different assemblies and initiatives. These blogs were very important instruments for visibility and direct public announcements. There was no need anymore for any kind of mediation or intermediary, in the form of the media, And all of the groups produced thousands of posters and pamphlets that created direct public dialogue in the streets.
+
+Another important initiative that started after December was the Assembly for Health. It is an assembly constituted by workers in the health sector, including doctors, pharmacists, and nurses. This assembly tries to expose the great problems of health care as a social problem and not a medical problem. To break the barriers between the specialists and the laymen, the doctors and the patients. The first actions of this assembly took place in two huge public hospitals where the members occupied the lobby liberating it and giving everyone a chance to have free health care for five hours. The idea behind these actions was to announce to all society that health is a social gift and that it is irrational to expect people to pay for health care.
+
+It is also important to mention the assembly for solidarity with Kuneva. It gathered a large number of people who participated in the insurrection. With demos, occupations of state buildings, and the smashing of private cleaning companies. And the arson attack on the metro station of Kifissia, one of the richest areas of Athens, that caused 12 million euros in damage.
+
+In the suburbs, after the occupations of all these municipality buildings and cultural centres and central buildings ended, the assemblies have continued to exist though they no longer have a central building as a reference point and they don’t gather such a large number of people. But in three different suburbs, Petralona, Nea Filadelfia, and Brachami, they now have permanent occupations for the assemblies. The health workers' assembly participates in the occupied building in Petralona. A new horizon has opened up in terms of building anarchist social struggles as they try to create solutions for health as a social problem, and to offer free health care to the people of the neighbourhood. And meanwhile the already existing social centres and squats have been empowered, and host intense activity every day.
+
+These assemblies that we mention here, and all that we have left out, created an entire galaxy of actions, attacks, protests, confrontations, pamphlets, campaigns, posters, and critiques. All this appeared after the assassination of a fifteen-year-old boy but it spreads its light across the planet by creating itself, creating new people, new comrades, new actions, new visions, new practices, and the future of the movement itself.
