@@ -1,0 +1,50 @@
+---
+title: "Messages Solidarity Between Students Uk Iran"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/messages-solidarity-between-students-uk-iran"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "In early December 2010, in the context of struggle against cuts and privatisation, students in university occupations at UCL, Manchester, Sheffield, SOAS, Brighton, Goldsmiths and Bath write a solidarity massage to Iranian students. A few days later, Iranian students inside the country as well as st"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/messages-solidarity-between-students-uk-iran)
+
+In early December 2010, in the context of struggle against cuts and privatisation, students in university occupations at UCL, Manchester, Sheffield, SOAS, Brighton, Goldsmiths and Bath write a solidarity massage to Iranian students. A few days later, Iranian students inside the country as well as studying abroad respond.
+
+We the students who are actively fighting for our rights to education in the UK, are sending this message of solidarity and unity to support your struggle and endeavours for democracy and justice. We have followed your determination and bravery and the dear price you have paid since the summer of 2009. We have also been informed of the level of systematic oppression against students, imprisonment of student activists, suspending students from their studies and intimidation through internal and external disciplinary measures. Although incomparable, we have also experienced some degree of state brutality, intimidation and limitations to our rights to protests. We believe that our similarities overshadow our differences and we stand with you in unity. From students in London to Athens, to Tehran, we are fighting to return the power back to its rightful owners, the people.
+
+UCL, Manchester, Sheffield, SOAS, Brighton, Goldsmiths and Bath occupations
+
+ما دانشجویان معترض کشور انگلستان که این روزها در حال مبارزه برای دفاع از حق تحصیل و آموزش خود هستیم این پیام اتحاد و همبستگی را برای حمایت از مبارزات شما برای دموکراسی و عدالت می فرستیم. ما عزم راسخ و شجاعت شما و بهای سنگینی که از تابستان سال گذشته پرداخت کرده اید را دنبال کرده ایم. ما همچنین از میزان سرکوب سیستماتیکی که بر شما اعمال شده، با زندانی کردن و تعلیقها یا ارعاب دانشجویان از طریق روشهای انضباطی از داخل و خارج دانشگاه مطلع شده ایم. هر چند قیاس به جایی نیست، در این چند هفته ما هم شمه ای از خشونت دولتی، ارعاب و محدودیت گذاشتن بر حق اعتراض‌ مان را تجربه کرده ایم. ما معتقدیم که شباهت های خواسته های ما و شما بر تفاوتهایمان غلبه می کند پس در اتحاد با شما می ایستیم. ما دانشجویان از لندن تا آتن تا تهران مبارزه می کنیم تا قدرت را به صاحبان اصلی آن یعنی مردم بازگردانیم
+
+دانشجویان متحصن در دانشگاه های یو. سی ال. – شفیلد – منچستر – سواس – برایتون – گلدسمیث – باث
+
+We have received your statement of solidarity and it is indeed beyond all words that how encouraging and heartening we have found it. Your message found us almost on the Students day in Iran, a day in which once again, despite the unprecedented presence of repressive forces, we uttered the voice of our protest in all universities throughout Iran and, yet again, we showed that not only a year of threats, suspensions, arrests and tortures has not brought us to a standstill, but it has only made us more determined to pursue our struggle for freedom, justice and human rights more tirelessly than ever. Our determination for persisting in our cause only increases when we witness that our fellow students in other countries have also chosen to oppose the unjust and discriminatory education policies instead of conforming to the existing order. As we have been following your protests during the past months, we have perceived the common humanistic essence of our struggles and that of yours. This commonness indicates that there exist the chains which tie together human emancipatory endeavors beyond political borders, ties which have become evident, during the student movements. Not only this has offered hope for a better future in our country, but it bears a promise that living in a better world is possible.
+
+Surely there will be those who tell us: “But is a better world possible?” In their view, privatization of the educational system and dominance of the rules of market over universities are immutable parts of the inevitable fate of human societies. Yet we know, better than ever, that the existing conditions are not part of the natural process of humanity, but the artifact of the neoliberal policies and the consequence of their hegemonic dominance within the past decades.
+
+Policies that have forfeited human rights for the profits of free capital flow, and have deprived human societies of their inalienable rights; such as rights to public health care, to free education and to stable employment, which have been gained through centuries of enlightenment and relentless endeavors of successive generations. The devastating consequences of such assaults threaten invaluable human accomplishments; be it in the developed world or in the developing countries. All the same, the extension of neoliberal privatization policies to Iran proceeds to pass similar imposed laws towards privatizing the education and universities.
+
+For this reason, we, the Iranian students, hand in hand with you and our fellow students all around the globe, have a message for those who deprive us of equality in possession of a fairer existence, and replace it with equitability in dispossession. We tell them that living in such a world is not our destiny. For we believe that free and equal existence, for humanity regardless of where they dwell, is possible. We are determined to step toward creating just such a world. Undoubtedly, to get through this path, we have to reinforce our ties beyond drawing up statements of solidarity and arrange an organic relationship in order to exchange our experiences and our capabilities.
+
+Our dear friends, in the great endeavor that you have begun, we, all those who believe in a better world, shall be on your side. We believe that your resoluteness will carry you through your path and brings about your success. We shall prevail.
+
+A group of students and graduates from University of : Tehran, Polytechnic, Sharif, Elm va Sanaat, Khajeh Nasir, Allameh, Razi of Kermanshah, Azad of Sannadaj, Ilam, Gilan, Rasht,Mazandaran, Nooshirvani of Babol, Bouali Sina of Hamedan. A group of Iranian students and graduate from University of : Polytechnic of Milano, Pisa,Bremen, Aachen, Freie Universität of Berlin , Applied sciences of Munich, Bochum, Essen-Duisburg,Leibniz University of Hannover, Vienna, Leiden, Düsseldorf, Toronto, York, Mc Gill,Leiden, Amsterdam, Delft, Den Haag, Sheffield, Leeds, Nottingham
+
+دوستان عزیز؛ ما پیام اتحاد و همبستگی شما را دریافت کردیم* و از توصیفمان خارج است که این پیام را چه میزان دلگرم کننده و نیرو بخش یافتیم. پیامی که همزمان با بزرگداشت روز دانشجو در ایران به دستمان رسید؛ روزی که با وجود صف آرایی بی سابقه نیروهای سرکوبگر، بار دیگر فریاد اعتراضمان را در تمام دانشگاههای ایران بلند کردیم و نشان دادیم که یک سال تهدید، تعلیق از تحصیل، حبس و شکنجه ما را از پای ننشانده و تنها عزممان را برای مبارزه در راه آزادی و عدالت و حقوق انسانی راسخ تر کرده است. در میانه راهِ ایستادگی و پیشروی، شورمند می شویم وقتی شاهد آن هستیم که دوستان دانشجوی ما در کشورهای دیگر نیز، به جای تبعیت از سلطه ی نظم مستقر، راهِ اعتراض به قوانین تبعیض آمیز و ناعادلانه آموزشی را برگزیده اند. پی گیری مبارزات شما در ماههای اخیر و جوهر انسانی مشترکی که میان مبارزات شما و خود می یابیم، به ما نشان می دهد که رشته هایی ناگسستنی، تلاش های رهایی- بخشِ انسان ها را در فراسوی مرزهای جغرافیایی به هم پیوند می دهد، رشته هایی که اینک بار دیگر در عرصه مبارزات جنبش های داشجویی نمایان شده است؛ و این نه تنها ما را به فردایی بهتر در کشورمان امیدوار می سازد، بلکه نوید بخش آن است که زیستن در جهانی بهتر ممکن است. اما مسلما کسانی هستند که به ما و شما خواهند گفت: "مگر برای جهان وضعی بهتر از این قابل تصور است؟!" از نگاه آنان خصوصی شدن نظام آموزش و یا تسلط سیاست بازار بر دانشگاهها نیز بخشی از تقدیر گزیر ناپذیرِ جوامع بشری است. اما ما بهتر از هر زمان دیگر می دانیم که وضعیت موجود به هیچ رو تقدیر بشر نیست، بلکه برساخته ی سیاست های نئولیبرالی و محصول فراگیر شدن سلطه آنها در دهه های اخیر است؛ سیاست هایی که هر روزه حقوق انسان ها را قربانی منافع گردش آزادِ سرمایه کرده و جوامع انسانی را از حقوق مسلمی که حاصل قرن ها روشنگری و تلاش و مبارزه مستمر نسل های متوالیِ انسانهاست، محروم می کنند؛ حقوقی مانند بهداشت عمومی، آموزش رایگان و حق برخورداری از اشتغال پایدار. آثار زیانبار چنین تهاجمی، دستاوردهای ارزشمندِ بشری را در همه جای جهان تهدید می کنند، خواه در کشورهای متروپل و توسعه یافته و خواه در کشورهای پیرامونی و توسعه نیافته، کما اینکه در ادامه فرآیندِ خصوصی سازی نئولیبرال در ایران، قوانین تحمیلیِ مشابهی در جهت خصوصی سازی آموزش و دانشگاهها، در کشور ما نیز در حال پیشروی هستند. از این رو ما دانشجویان ایرانی، همصدا با شما و همه دوستان دانشجویمان در سایر نقاط جهان، به کسانی که برابری در برخورداری را از ما سلب می کنند و در عوض، همسانی در محرومیت را جایگزین آن می نمایند می گوییم که جهانی این چنین تقدیر ما نیست، زیرا باور داریم که زیستِ آزاد و برابرِ همه افراد بشر، در هر جای دنیا که باشند، ممکن است و ما اراده کرده ایم برای ساختن چنین دنیایی قدم برداریم. بی تردید در این مسیر بایستی پیوندهایمان را از سطح اعلام حمایت و همبستگی فراتر برده و به برقراری روابطی ارگانیک برای هم اندیشی و تبادل تجربیات و امکاناتمان اقدام کنیم. آری دوستان، در مصاف ارزشمندی که آغاز کرده اید ما و همه آنانی که به جهانی بهتر باور دارند را همراه و همصدای خود بدانید، تا لحظه پیروزی.
+
+جمعی از دانشجویان و دانش آموختگان دانشگاه های : تهران، پلی تکنیک، شریف، علم و صنعت، خواجه نصیر، علامه، رازی کرمانشاه، آزاد سنندج، ایلام، گیلان، آزاد رشت مازندران، نوشیروانی بابل، بوعلی همدان
+
+جمعی از دانشجویان و محققینِ ایرانی دانشگاه های: پلی‌ تکنیک میلان، پیزا، برمن، آخن، آزاد برلین، علمی کاربردی مونیخ، بوخوم، اسن - دویسبورگ،هانوفر، دوسلدورف، تورنتو، یورک، مک گیل کانادا، وین، لایدن، آمستردام، اوترخت، دلفت، لاهه، شفیلد، ناتینگهام
+
+* پیام همبستگی دانشجویان انگلیس http://www.indymedia.org.uk/en/2010/12/470747.html
