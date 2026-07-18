@@ -1,0 +1,94 @@
+---
+title: "Gangs"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/gangs"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A critique of recent proposals to deal with gangs in Aotearoa/New Zealand."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/gangs)
+
+A critique of recent proposals to deal with gangs in Aotearoa/New Zealand.
+
+When politicians want to come across as tough on crime they will announce a crackdown on gangs. Criminal gangs make an easy target because (quite correctly) few people like them or want, them in their midst. Simon Bridges, the Leader of National Party, is no different. On October 30th, 2019, it was reported in the Stuff article National Party say they ‘hate gangs’ and would block benefit access that: “National wants to block gang members from receiving a benefit if they are unable to prove they don’t have illegal income or assets. “The plan is part of National’s Social Services Discussion Document, which was released on Wednesday and states: ‘National hates gangs. They peddle misery in our communities and are responsible for the scourge of drugs in New Zealand.’ “National Party leader Simon Bridges told Stuff the move was prompted by the exponential increase in gang numbers and if elected next year, National would crack down hard on gangs.”
+
+This increase in gangs refers to the upsurge in the numbers of patched gang members and prospects by as much as 1400 that the Police Association referred to at their conference held in October 2019. As part of their plan to crack down on gangs it was reported in the same article that: “National will also compel government agencies to share information about gang members and their families so they are supported to be violence and drug-free. “Bridges believed most New Zealanders would not think he was heartless for implementing the policy. “’Right now they are working hard, paying taxes, while gang members double dip getting the benefit and having their ill gotten gains from their crime. It is beyond the pale. “The gangs were known and there were a raft of touch points between gangs and agencies, so MSD would be tasked to administer the policy, he said.”
+
+Not surprisingly for a social conservative, Bridges assumes that gang members are on a benefit while simultaneously living off the proceeds of crime. While it might be a popular stereotype there is no way to confirm this because the Ministry of Social Development does not keep records of whether or not their clients belong to a gang.
+
+The response from the government was swift and showed that the measures being proposed to deal with the gangs by the National Party had pretty much been implemented. As was reported in the same article: “Police Minister Stuart Nash said it was ‘desperate political grandstanding’ on the part of Bridges who seems to have only just realised that gangs had a presence in New Zealand. “‘Gang numbers started growing when the Rebels Motorcycle Club from Australia established a foothold in 2011, under the previous government. The following year, police numbers fell by 150. Criminals began to be deported from Australia in even greater numbers in 2015. His government responded by freezing spending on police.’ “Sanctions against those with undeclared income were already enforced, he said. “Police, Inland Revenue and the Ministry of Social Development already went hard on benefit fraud and tax fraud – whether or not someone had a patch on their back, he said.”
+
+In passing, this highlights the fact that essentially Labour has nothing different to distinguish itself from National. There may be the occasional technical differences or bits of fine tuning here and there, but often they share the common ground of trying to out tough each other.
+
+On November 26th, it was reported in the Stuff article National Party’s war on gangs could ban patches, create ‘Strike Force Raptor’ police that:
+
+“The National Party wants to ban gang patches and insignia in public places and create an Australian-style “Strike Force Raptor” police unit to crack down on gangs and Other proposals to crack down on gangs included revoking parole for those who associated with gangs and creating a new sentence for violent gang crime.”
+
+A gang patch ban is a gimmick and such bans are already in place in much of the country. For the most part the gang patch ban has either been circumvented by gang members tattooing their gang patches on their faces, arms or back or mocked by simply turning the jacket with the gang patch inside out.
+
+More intriguing, though, is their plan to set up a Strike Force Raptor-type anti-gang police unit modelled on the New South Wales gang-busting unit. While this would appeal to many people who want to see a tough stance taken it is worth mentioning that the performance of the police unit National wants to emulate has come under fire.
+
+In the article Lawyer alleges stalking, intimidation by members of police taskforce targeting bikies that was published in the June 4th, 2019, Sydney Morning Herald it was alleged:
+
+“A NSW solicitor has called for an investigation into members of a high-level police taskforce targeting bikies after officers allegedly stalked and intimidated him. “Greg Coombes, a lawyer in Grafton in the state’s north, was due to represent a client associated with the Gladiators bikie gang last Tuesday when members of Strike Force Raptor allegedly began to follow him from his home.”
+
+This is only one of many criticisms levelled against this police unit. Former New South Wales detective Mike Kennedy was quoted in a Radio New Zealand website article on November 27th, 2019, as saying:
+
+“He needs to pull his head out of whatever it’s stuck in because … [gangs] exist. They’re always going to exist. They just go underground. “I’m not a bleeding heart liberal,” he said. “But [the zero-tolerance strategy has] just been a disaster.”
+
+“Outlaw motorcycle gangs are unregulated, so how would you know?” he said. “They’re not required to pay a fee … and register with government. So any suggestion that the numbers are down is just nonsense.” Kennedy said the problem had just been driven underground. “People don’t stop being members of groups just because they’ve been arrested. They go into jail, they reinforce themselves, they come out, [and] they get more of a reason to remain in the group they’re in.” Police officers needed a working relationship with communities, including gang members, so they would cooperate with investigations, he said. “You need this community to trust you so that when things need to be brought into line, the police are able to go in and speak to people and find out who’s … behaving really badly, and who needs to be put in jail,” Kennedy said. “If you want those families to help the police … then you can’t just tar them all with the same brush. And that’s what Raptor does.”
+
+When even former police officers from New South Wales are saying that such task forces don’t work then notice should be taken. Its worth remembering what the Police Minister said. Much of the increase in gang numbers in New Zealand was the result of the Australian police – including the Strike Force Raptor – deporting gang members to New Zealand. In short, the Strike Force Raptor hasn’t especially reduced gang numbers but has essentially merely exported them.
+
+A Stuff article (29/11/19), reported that experts in crime and gangs were less than impressed by the claims made by the National Party.
+
+“Apart from the headline-grabbing gang issue, the 43 proposals feature a mix of nuanced ideas and proposals without substance, they said. It has raised questions among police sources about Bill of Rights issues and whether the proposals could ever actually be enacted. Experts have also highlighted that much of the document contains areas where policy already exists and questioned whether the tactics to suppress gangs could even work. There are already 12 government agencies which cooperate with information sharing about gangs through the Police Gang Intelligence Centre and the Government has already proposed Firearm Prohibition Orders (FPOs) to keep guns out of the hands of gangs – something the National Party said it wants to implement. The Government has provided additional police to specifically work on organised crime and Police Minister Stuart Nash is considering new police powers, through a review of the Crimes Act and proceeds of crime laws, targeting gang hierarchy and organised crime.”
+
+Again, this underscores the point that really there is often little to separate the political parties. They share a desire to legitimise their control over society, to give police more power and to use crude crackdowns on gangs as their pretext. They disagree on the details, some policies and public relations messaging of this but not the fundamentals.
+
+While the politicians of all kinds and law enforcement argue among themselves over how they should deal with the gangs it has been the Police Association – an organisation hardly noted for having liberal tendencies – that has concluded that the gang problem is the result of societal issues and the increasingly lucrative drug trade. The article What’s going on with gangs? Influx of organised criminals is ‘destroying families’ (Stuff, October 16th, 2019) stated:
+
+“The UN estimates the illicit meth market in Australia and New Zealand is now worth $11.1 billion, partly because of high wholesale and retail prices. “’High-level Mexican drug cartels are now targeting New Zealand because selling drugs here is so lucrative. In the last year alone New Zealand police seized one and a half tonne of meth and an increased volume of cocaine,’ [Police Association President Chris] Cahill said.”
+
+“In the past 10 years police had gone from single kilo drug imports justifying significant resources, to now, 100 kilo imports being almost commonplace, he said. “’However my biggest concern is the rapid growth in gang numbers and the effect this will have on the lives of New Zealanders.’ “’What does it say when young people are increasingly considering gang membership as their future? Our members see disconnected, angry, confused and unloved young people turning to gangs as a ‘family’!’”
+
+This sentiment is shared to some extent by the Mongrel Mob, one of the largest gangs. In the November 27th, 2019, NZ Herald article Simon Bridges should target poverty if he wants to tackle gang problems – Mongrel Mob Kingdom it was reported:
+
+“Waikato Mongrel Mob Kingdom president Sonny Fatupaito said the party’s law and order proposals reprised old policies which had “failed miserably” and “terrorised Māori … for generations”. “Fatupaito said his gang chapter was formed “out of the ashes of poverty” and that gangs were the most marginalised people in the country.” “The gang president questioned the success of the Strike Force Raptor Unit in Australia, which has absorbed significant resources while failing to stem the rise of gang members or gang-related crime in the country. “He noted the Australian Ombudsman’s finding that the unit disproportionately targeted non-gang citizens and Aboriginal citizens. “Fatupaito said he predicated an Australian-style crackdown in New Zealand last year because of the influx of “501s” or Australian deportees from motorcycle gangs, who had led to a rise in gang numbers, drug crime, and violence here.”
+
+Leaving aside Fatupaito’s misleading attempt to link gangs with other marginalised groups, he is right about National’s plans to deal with gangs being a re-tread of old policies that have failed here and overseas. What the politicians and others who have spoken about the gang problem have all touched upon, but often failed to address, is that the gangs are the product of both socio-economic failures within society and the failed war on drugs. Gangs are a misanthropic and deeply misdirected attempt to deal with real problems that exist for those at the bottom of society. They are a pathogen an unhealthy society produces.
+
+In the late 20th and early 21st Century technology has done away with thousands of jobs. A factory doesn’t require thousands of workers on a production line to produce goods. It can be done by a small group of people sitting behind computers and big screen monitors. There’s no need for filing clerks because there are no paper files any more. They’re all on screen. Even farms no longer need as many workers to harvest crops because a machine can do it more efficiently. Working class people, especially in rural areas, and Maori people have been disproportionately disadvantaged by such changes.
+
+In addition, though by its nature this is difficult to prove, I would argue there is cronyism and nepotism in much of New Zealand when it comes to jobs. There is also the absence of opportunities caused by the lack of educational qualifications, appropriate work experience and skills for the local job market and long standing bigotry against Maori and the poor which paints them as lazy, drug-addicted criminals despite no evidence to back such stereotypes.
+
+With so few opportunities in the legitimate job market this has led some into the drug trade. Despite the risks involved the drug trade is lucrative. The Australian and New Zealand drug trade in total is worth $11.1 billion a year. This is now attracting the attention of drug cartels in Mexico and elsewhere. As the September 20th, 2019, Radio New Zealand article The Detail: New Zealand’s rampant drug culture reveals:
+
+“The prices that we pay for it here are much higher than the rest of the world and basically trans-national organised crime groups, cartels in Mexico and South America as well as the more traditional organised crime groups in China and Southeast Asia, have cottoned on to this.” “A kilogram of meth can be produced in Mexico or China for just a few hundred to a thousand dollars. That’s probably worth $5000 in Mexico or the US if it gets to the border. “You bring that same kilogram here and the market price for a kilogram is anywhere between $180,000 and $350,000.” Basically, with a waiting base of buyers willing to pay $100 for 0.1 grams of meth – New Zealand is an attractive proposition for smugglers. “I’ve been in this organisation for 36 years … and I never thought I’d see these types of numbers,” says Customs investigations manager Bruce Berry.
+
+Drugs are also risky. 64 people were found to have died – at least in part – as a result of methamphetamine related toxicity over slightly less than five years, according to inquest reports released under the Official Information Act. The risks associated with P are seen as very minor compared to the money that can be made from it and this is a key factor as to why the gangs are growing. In a society where a lot of young people, especially among Maori and Pacific Island communities (and increasingly Asian as well), are being shut out of the legitimate economy they are joining the gangs to get into the drug trade to make money. This has happened particularly in Northland where it was reported in the March 13th, 2018, article Getting hold of meth in 20 minutes or less that
+
+“There’s so much unemployment in the Far North, there’s very little transport, you’ve got a widely distributed population and the gangs easily take advantage of people,” said Whangarei defence lawyer Kelly Ellis, who frequently interacts and represents meth users.
+
+The one thing that is self-evident is that there are no easy solutions to dealing with the gangs, certainly not within the system that currently dominates. These groups are largely the product of a dysfunctional society and an economy where an underclass of people have been shut out.
+
+As has been stated above the gang problem won’t be solved by grandstanding politicians demanding getting tough on them. Nor will the use of brute force by dedicated anti-gang task forces like the New South Wales Strike Force Raptors achieve any long-term solutions. In most cases where gangs have been cracked down on human rights abuses, extra-judicial killings and homicide rates have increased dramatically, especially in Colombia, Honduras, Mexico and the Philippines, as Amnesty International and Human Rights Watch have reported many times.
+
+In my view there are two ways in which the gang problem can be better dealt with: The first is possible as a reform within the current system. Deny the gangs their key source of income: money from drugs. The easiest way to achieve this would be the legalisation of all drugs. If the legalisation of drugs follows the same pattern as the legalisation of prostitution did, the immediate short term result would be the flooding of the local market with cheap drugs in the hope they could get more customers. When the anticipated increase in demand does not meet the actual demand the bottom will fall out of the drug trade and take down most of the gangs with it. Those that survive will need to regroup and look for alternative sources of revenue. Even though there will still be gangs they would be seriously knocked back for a while at least.
+
+The second is a longer term, deeper and more difficult one…the abolition of Capitalism. This would eradicate the wasteful economic system that has decided that thousands of people are worthless because their experience, qualifications and skills are of no use to bosses and those who do their bidding. In the grey and black economies those same people dismissed as useless have often found themselves in useful tasks such as building fences, mending heaters or fixing bikes for neighbours in return for cash in hand or cultivating and harvesting marijuana crops. It would be better if those currently in the Mongrel Mob were running a hemp co-op or repair business instead.
+
+Without the poverty the system we currently live under creates, gangs wouldn’t be able to recruit members because there would be no attraction. Without poverty children will be raised in safer and stable environments so by the time they enter society they would be equipped with the necessary social skills to cope in whatever type of world they enter. Such young people don’t join gangs because they don’t need substitute families, promises of flash cars and nice homes or any of the other gimmicks that gangs use to lure people into their ranks.
+
+A society based on democratic community control of resources, where there are no extremes of wealth and power would act to take the oxygen out of the growth of parasitic organisations such as gangs and governments. Lets be honest, we may never reach the point where they are eliminated entirely, but we can and should try to head in that direction since the alternative proposed by the current political establishment has little meaningful to offer.
