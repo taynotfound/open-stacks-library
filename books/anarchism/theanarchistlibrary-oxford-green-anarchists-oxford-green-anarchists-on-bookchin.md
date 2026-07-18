@@ -1,0 +1,38 @@
+---
+title: "Oxford Green Anarchists on Bookchin"
+author: "Anarchist Federation"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/oxford-green-anarchists-oxford-green-anarchists-on-bookchin"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in Organise! Issue 45 — Spring 1997. Retrieved on May 13, 2013 from www.afed.org.ukl][web.archive.org]]"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "oxford-green-anarchists-oxford-green-anarchists-on-bookchin.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/oxford-green-anarchists-oxford-green-anarchists-on-bookchin.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/oxford-green-anarchists-oxford-green-anarchists-on-bookchin)
+
+JM IS RIGHT (see last issue of Organise!). To equate a “project that questions the totality” with “pacifists and gradualists, with no conception of class struggle or revolution” does indeed demonstrate that “the ACF’s understanding of anarcho-primitivism (exhibits) either wilful ignorance or a desire to distort it”. It’s reminiscent of the ol’ Stalinist lie that all those more radical than themselves were fascists. Anarcho-primitivism doesn’t “mask capitalism” and deny class struggle. As John Zerzan has said, “it seeks to broaden and deepen our understanding” of it.
+
+Which brings us to Bookchin. It is hard to believe you suffered “no critical loss of faculties” when you featured his blatherings last issue. Didn’t you realise you were being patronised by this prestigious college dean pleading his “limited income at the age of seventy-five” etc.? Didn’t you know Bookchin’s no anarchist communist? To everyone he’s not seeking to use for his short-term political advantage as a lever against anarcho-primitivism, he’s the founder of social ecologism, which he arrogantly sees as superseding all other cultures, including anarchist communism. Murray Bookchin Thought has foundered on the rock of libertarian municipalism, which Michael Williams’s expose of Ecologie Montreal show, in practice, to be as liberal/reformist as anything you’d expect from the Green Party in the UK, for ol’ Bookworm’s overripe rhetoric to the contrary. So much for his ‘revolutionism’! It’s hilarious to see an old fossil like Bookchin rail against “the walking dead of the sixties...abandoning their convictions for private life and academic careers) when he first came to prominence then, is now comfortably cosseted in an academic career of his own, and is now scrapping all radical/redeeming features of social ecology in his senescence in a sad attempt to ally himself with others even more conservative and historically doomed than himself.
+
+It is incredible you find Green Anarchist’s response to Bookchin’s Social Anarchism v. Lifestyle Anarchism more “personalised and vitriolic” than the original provocation! As you clearly don’t know, Bookchin’s partner is one Janet Biehl. Her dubiously derivative, scrappy and poisonous Ecofascism smears all challenging urbanism as fascists, just like the ol’ Stalinist ploy mentioned above. A curious line for a Green to take, you might think, but libertarian municipalism is the subtext again. Biehl’s latest idiocy is to use Bookchin’s journal, Green Perspectives, to accuse Jason McQuinn, the editor of a rival US anarcho-primitivist journal, Anarchy, of promoting Holocaust revisionism!
+
+So Bookchin has some gall to accuse others of “ad hominem” attacks and he doesn’t dare identify any of them so readers can make up their own minds. Foremost is John Clark, once a prominent social ecologist but now sickened by ‘Kommissar’ Bookchin’s dogmatic libertarian municipalism. We’d also recommend David Watson’s Beyond Bookchin (even though it is boringly ‘cosmic’ in places) and Bob Black’s forthcoming Anarchy After Leftism for those too challenged by anarcho-primitivism to have actually read any yet.
+
+Yours, for the destruction of Civilisation, Oxford Green Anarchists
+
+Are you saying that by publishing Bookchin’s letter we suspended our critical faculties? Does that mean we shouldn’t have published it? Well sorry, we publish all sorts of letters in Organise! from all points of view and if the inclusion of Bookchin’s letter displeases you, tough!What’s all this stuff about “old fossils” and “senescence” by the way? Does this mean that when you reach a certain age your ideas can be discounted? Surely age has nothing to do with it, it’s ideas that count, not what age you are. Yes, we are not at all convinced by Bookchin’s views about libertarian municipalism, but we attempt , we repeat ,to move away from personalised attacks(Organise! has been guilty of this approach in the past with the Dave Douglass unions polemic) to a detached and analytical examination of libertarian thinkers.
+
+Our mention of pacifists and gradualists, with no conception of class struggle or revolution, in our reply to JM’s letter, was perfectly legitimate. JM cited Woodcock to back up his notion that “second wave” anarchism emerged after World War Two. A better example of the pacifist/liberal/gradualist camp could not be found! It has always been our contention that revolutionary anarchism was undermined by the various humanists, individualists and reformists that described themselves as anarchists. This may have been inevitable as the result of the collapse of the revolutionary waves that swept through Europe and other parts of the world. It was a pretty grim time in the late 40s and 50s, with the aftermath of two world wars, fascism and Stalinism, and the virtual annihilation of the genuine revolutionary movements. The return of the class struggle anarchist movement began in the 60s, it could be argued, and everywhere we see its resurgence. Obviously there is a difference between Green Anarchist and the liberal/humanist/pacifist camp but JM muddied the waters by citing Woodcock, whose arguments typify the views of that camp. You seem to think that if you say long and loud enough that anarcho-primitivism is the new, modern anarchism destined to supersede “classical” anarchism, it will become a fact. We’re glad that you don’t deny class struggle. But don’t you write off the entire urban working class? Haven’t you done this systematically in the pages of Green Anarchist? Far from “broadening and deepening” an understanding of class struggle, you turn to notions of “revolution from the periphery”where revolutions in the “underdeveloped” world would ignite revolutions in the West. Isn’t this a revised version of the old Third World revolutionist ideas that were so common in the 60s and 70s, very much influenced by Maoism? You seem to have no idea of the dynamic of class struggle-you failed to understand the Wapping printers’ strike, when you criticised them for printing the Sun. This is an idealist position, and you fail to realise the nature of struggle, which starts off at present reality, but has the possibilty of transforming that reality. Anarcho-primitivism is hardly new, people like Zisly and Gravelle and their group the Naturiens were putting forward similar ideas in the 1880s and 90s in France.These ideas were mistaken then, and we think that they are mistaken now. Modern anarchist-communism has learnt from many struggles, from the many insights of environmental , anti-racist and anti-sexist struggles. In our opinion-but we would say that, wouldn’t we- it is the current that has superseded “classical” anarchism.
+
+We have received a similar letter from BB in the United States which covers the same ground as the above letter.
