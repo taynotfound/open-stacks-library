@@ -1,0 +1,34 @@
+---
+title: "Being Woman Organizer Isnt Easy"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/being-woman-organizer-isnt-easy"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by Luz Sierra about the gendered expectations she has faced within her family and culture."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/being-woman-organizer-isnt-easy)
+
+Wob women at a picket in Brooklyn, 2007. An article by Luz Sierra about the gendered expectations she has faced within her family and culture.
+
+This past year I became politically active. I went from being completely unaware of the existence of radical politics to doing organizing work in Miami with an anarchist perspective. It has been both a rewarding and difficult journey, yet gender seems to haunt me wherever I go. I am probably not the first woman to experience this, but I believe that I should demonstrate how this is a real issue and provide my personal insight for other women to have a reference point for their own struggles.
+
+Being raised by Nicaraguan parents and growing up in Miami’s Latin community, I have firsthand experience with the sexist culture in South Florida. Many families that migrated from South and Central America and the Caribbean arrived to the United States carrying traditions from the 1970s and 1980s. Daughters are raised by women who were taught that their goal in life is to be an obedient wife and to devote their time to raising children and making their husbands happy. Latin women are supposed to be modest, self-reserved, have the ability to fulfill domestic roles and be overall submissive. Some Hispanic families might not follow this social construction, but there are still a large number of them who insert this moral into their households. For instance, this social construct is apparent in the previous three generations of my father’s and mother’s families. My great grandmothers, grandmothers, mother and aunts never completed their education and spend the majority of their life taking care of their husbands and children. Meanwhile, various male members of my current and extended family had the opportunity to finish their education, some even received college degrees, and went on to become dominant figures in their households. The male family members also had the chance to do as they pleased for they left all household and childcare responsibilities to their wives. As the cycle continued, my mother and grandmothers attempted to socialize me to fulfill my expected female role. I was taught not to engage in masculine activities such as sports, academia, politics, and other fields where men are present. Unfortunately for them, I refused to obey their standards of femininity. I have played sports since I was 10 years old; I grew a deep interest in history, sociology and political science; and I am currently part of three political projects. Such behavior has frustrated my parents to the point that I am insulted daily. My mother will claim that I am manly, selfish for devoting more time to organizing and promiscuous because the political groups I am involved with consist mostly of men. My father will state that I am senseless for wasting my time in politics and should devote more time in preparing myself to become a decent wife and mother.
+
+Hearing the stories and witnessing the sorrow of all the women who are blatant victims of patriarchy has inspired me to keep moving forward as an organizer. Watching my mother be passive with my father, witnessing my sisters being forced to display undesirable traits, and watching the tears women have shed after sharing their unfortunate stories of living under the oppressive rule of male figures has allowed me to turn anger into energy devoted to creating a society where women are no longer oppressed. I am tired of having to face gender inequality and watching women fall into its traps. We cannot continue to neglect this issue and endure these obstacles alone. As revolutionary women, we must take these matters seriously and find strategies and solutions to overcome them.
+
+One way to start facing this struggle is by sharing our personal experience with one another and recognizing the problems we deal with today. We cannot keep denying and repressing our frustration of gender inequality. It needs to be released. How can we expect to create a social revolution when we rarely lay our personal tribulations on the table? I know it is hard to discuss the issues we face at home, at work or within political circles. It is even difficult for me to write this article, but we need to stop letting barriers obstruct us. I remember I was petrified when I initially spoke about my personal problems with a comrade. I thought she would not understand me and would think I was annoying her, but after exposing my story, I soon realized she faced the same hardships and abuse too and was sympathetic to my situation. This really transformed my life because I thought I always had to wait to talk to my therapist about these dilemmas, but I was completely wrong. There are people out there who are willing to listen and provide support; it is up to us to reach out to them. I came to understand that gender issues still exist and that my hardships are real. Through simple actions like talking and building relationships, I believe we can form a collective of people willing to create tactics to abolish such oppression. This is how Mujeres Libres formed and created a tendency within the Confederación Nacional del Trabajo and Federación Anarquista Ibérica that faced gender inequality. They were able to grow in numbers and seize the power to fight in the forefront of the Spanish Revolution. This could be achieved today if we place our hearts and minds to it. Many of us might say that our current social setting and capacity will make that impossible, but how would we know if we have not tried yet? This is why I encourage all revolutionary women to stop secondguessing themselves and fight. Let’s end the silence now and begin to form the solidarity that is needed.
+
+Most activists are only partly free from the dominant class society "programming" called "socialization". "I recovered from depression in 2013 after receiving therapy for over six months, and I am currently battling with social anxiety and low self-esteem. Nevertheless, I still manage to maintain my integrity and will continue to do so to keep fighting."
+
+It is real pity that a free on line simple DIY technique is available... and so many activists do not use it and continue with unneeded sufferings of various kinds: "receiving therapy", depression, social anxiety, etc. Just try http://ilan.shalif.com/psychology/content1.htm and you will be on the fast road to emotional freedom.
