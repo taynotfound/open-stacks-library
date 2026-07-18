@@ -1,0 +1,38 @@
+---
+title: "Introduction to Drop Everything"
+author: "Annie LeBrun"
+date: "2018"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/annie-lebrun-introduction-to-drop-everything"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Green Anarchy #20, Summer 2005. Translated from French by Guy Ducornet. This piece first appeared in English in the book, Surrealist Women: An International Anthology, edited by Penelope Rosemont. It is a translation of the introduction of Annie LeBrun’s book, Lachez Tout (Drop Everything), a m"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "annie-lebrun-introduction-to-drop-everything.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/annie-lebrun-introduction-to-drop-everything.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/annie-lebrun-introduction-to-drop-everything)
+
+At sixteen, I decided my life would not be as others intended it to be. This determination—and perhaps luck—allowed me to escape most of the misfortune inherent in the feminine condition. Rejoicing that young women today increasingly manifest their desire to reject the models heretofore offered them, I, nonetheless, deplore their seeming readiness to identify with the purely formal negation of these old-fashioned models, that is, when they do not settle for simply bringing them back into fashion. At a time when everyone complacently intones that one is not born a woman but one becomes a woman, hardly anyone seems to trouble herself about not becoming one. Indeed, it’s just the opposite. Contrary to the efforts of eighteenth- and nineteenth- century feminists who endeavored to eliminate the illusory difference that gave men real power over women, the neofeminists of recent years have made it their business to establish the reality of that difference in order to claim an illusory power that women are said to have been denied. So thoroughly do they work at establishing the reality of this illusive difference that in the end, the revolt against impossibility of being tends to vanish under the blows of militant stupidity, thus introducing the obligation to be. Do we forever need to remind ourselves that in matters of revolt, we need no ancestors? And definitely, no technical advisers eager to exchange their recipes for feminine insubordination from A to Z.
+
+In view of the extent of the crimes more or less legally perpetrated, not only against women but also against all those who refuse the social codification of sexual roles (homosexuals in particular), this revolt can only be regarded as urgent—so urgent that I cannot refrain from disrupting the chorus of those, male or female, who claim they are abstracting it from the private obscurity where it violently takes shape, and from whence it draws its overwhelming strength. I insist: this rebellion is always directed against the collective morale, no matter upon what basis the collectivity was founded. How, then, can we fail to see that today every woman will be dispossessed of the recovery of her self if she does not notice that every one of her tirades might be redirected and used to build an ideology as contradictory in its proposals as it is totalitarian in its intentions? We even find her tacitly encouraged on all sides to reveal the claims of her sex, ever since the so-called “women’s cause” was presented as the image of a rebellion tamed inside the net of the negative normalization that our epoch is so proficient at casting over the most remote spaces on the horizon.
+
+Having always disdained masters who act like slaves as well as slaves eager to slip into the skins of masters, I confess that the ordinary conflicts between men and women have been of very little concern to me. My sympathy goes rather to those who desert the roles that society assigns them. Such people never claim to be constructing a new world, and therein lies their fundamental honesty: they never impose their notion of well being on others. With a powerful determination that can often overturn the established order, they are just happy to be the exceptions that negate the rule.
+
+Oscar Wilde interests me more than any bourgeois woman who agreed to marry and have children, and then, one fine day, suddenly feels that her oh so hypothetical creativity is being frustrated.
+
+I shall not list my preferences in this regard: it would be useless to do so, and extremely discouraging for the cause of women.
+
+The fact that I have done my best as far as possible, to avoid biological destiny’s psychic, social and intellectual hold upon me is my own business, but I shall never give in to society’s attempt to make me feel guilty in the name of all women and to force me back into the limitations of that destiny. Such sudden and inexorable promiscuity in search of each woman’s identity indeed threatens women at the very heart of their freedom when the gender difference is asserted at the expense of all other specific differences. Let us just consider calmly what we have all had to endure in the name of God, Nature, Man and History. It seems, however, that all of that was not enough, for it is all starting up again under the banner of Woman. Specialists in coercion make no mistake when with sudden zeal they increase the numbers of national and international organizations dealing with “la condition feminine” without actually effecting any legislative change. And they can hardly go very far astray, since the moment when Louis Aragon [a Stalinist], that choirboy for repression for almost half a century, announced that woman is “Man’s Future”. I have the gravest doubts about a future that might look anything like Elsa Triolet.
+
+In all that is said and written in the name of woman, I see the return—under the pretext of liberation—of everything that has traditionally diminished women. They denounce the family but extol motherhood as the foundation of the family. They attack the notion of woman-as-object but promote the revival of “feminine mystery”. And the exposure of the relationships between men and women as power relations initiates theories about the most sickening and inane conjugal squabbles. For me these are just so many more reasons to be glad that I have turned my back on the dead-ends of so-called “feminine sensibility”. Moreover, nothing could make me alter my natural aversion to majorities, especially when they are composed of part-time martyrs—largely a phenomenon of the western world.
+
+The more deafening the noise of our time, the more I feel certain that my life is elsewhere, gliding along my love whose shapes entomb the passing of time. I look at you. We shall meet on the bridge of transparency before diving into the night of our differences. We shall swim near to one another at a distance, tense or distracted, going against the stream of our enigma to find ourselves in the uncertain embrace of our fleeting shadows. We are not the only ones to have encountered a point of transparency before plunging into the night of our differences and who have come up not caring whether we are male or female. And if very few men find it easy to recognize themselves in Francis Picabia’s avowal, “Women are the agent of my freedom,” it is perhaps because that comes only with the triumph of a Marvelous that men and women have yet to discover. That is why I object to being enrolled in an army of women engaged in struggle simply because of a biological accident. My frantic individuality is exactly in proportion to all that strives toward the interchangeability of all beings. This book is a call for desertion.
