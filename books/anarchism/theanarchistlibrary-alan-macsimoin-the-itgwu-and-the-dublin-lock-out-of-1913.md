@@ -1,0 +1,110 @@
+---
+title: "The ITGWU and the Dublin Lock-out of 1913"
+author: "Alan MacSimoin"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/alan-macsimoin-the-itgwu-and-the-dublin-lock-out-of-1913"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "75 years since (1913 — 1988)"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "alan-macsimoin-the-itgwu-and-the-dublin-lock-out-of-1913.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/alan-macsimoin-the-itgwu-and-the-dublin-lock-out-of-1913.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/alan-macsimoin-the-itgwu-and-the-dublin-lock-out-of-1913)
+
+THIS YEAR MARKS the 75 th anniversary of the 1913 Lock-Out in Dublin. It is part of the history of our class and such history is important to us. It gives us a sense of where we are coming from, it teaches us lessons that can be put to use in other struggles, and sometimes a knowledge of the courage displayed by ordinary men and women in the past gives us heart for the fights yet to come.
+
+In 1913 militant trade unionism had a tremendous task ahead of it. The poverty of manual workers was appalling. The death rate in Dublin, 27.6 per 1OOO, was as high as Calcutta’s, The slums were the worst of any city in either Ireland or Britain. 20,108 families were recorded as living in a single room. An Irish Times editorial commenting on a report about Dublin housing wrote that “28,000 of our fellow citizens live in dwellings which even the Corporation admits to be unfit for human habitation. Nearly a third of our population so live that from dawn to dark and from dark to dawn it is without cleanliness, privacy or self respect. Sanitary conditions ruled out ordinary standards of savage morality”
+
+If slum figures were higher than the rest of the “United Kingdom of Great Britain and Ireland”, wage rates were lower. Thousands worked a 70 hour week for as little as 70p. Women’s wages could be as low as 25p. Rents, however, were higher than in Britain.
+
+Jim Larkin arrived from Liverpool in 1907 as an organiser for the British National Union of Dock Labourers. Immediately he threw himself into the work of organising the unskilled into the union, Strikes for recognition and higher wages broke out in Belfast, Newry and Cork.
+
+Before long friction developed between the new Irish members and the British leadership of the NUDL. The union officers, and in particular the general secretary, James Sexton, became alarmed at the combative spirit of the Irish branches. Soon they were settling disputes over the heads of the members on strike, sending them back to work on the basis of weak and paltry deals arranged with employers behind the strikers’ backs. Twenty years before the NUDL had done a good job of organising labourers in Britain but its leaders had become divorced from any real control by the membership. They were now more concerned with ‘respectability’, seeing their role as mediators who worked for ‘fair play’ and industrial peace.
+
+Some of the most active members, grouped around Larkin, broke away and on January 4 th 1909 founded the Irish Transport Workers Union. The union, whose name was to be enlarged to ITGWU, began in humble surroundings. Its first office was a bare room in a tenement in Townsend Street, Dublin. Its assets were “a couple of chairs, a table, two empty bottles and a candle”.
+
+Many of the founding members came from the infant socialist movement. Among their influences was syndicalism. This was the idea that all workers, regardless of trade, should be in ‘one big union’ which would use whatever methods were necessary to win in their battles with the bosses, The syndicalists held that the interests of workers and bosses were absolutely opposed and their end goal was a general strike to throw out the bosses and establish socialism. This was only one of the influences present and it was not clearly defined but it can claim much of the credit for popularising the notion of the ‘sympathetic strike’.
+
+A man who was to play a significant role in the union was James Connolly. At the time the ITGWU was set up he was in America where, along with fellow-Irishman Patrick Quinlan, he formed a branch of the syndicalist Industrial Workers of the World in Newark, New Jersey. Shortly after he became secretary of the IWW Building and Constructional Workers Industrial Union in the area. It is also worth noting that when Jim Larkin went to America in 1914 to raise funds for the impoverished ITGWU he also joined the IWW. (The IWW saw itself as a revolutionary union, a fair proportion of its founders and prominent activists were anarchists ).
+
+By 1910 the ITGWU was claiming 3,000 members and was admitted to the Irish Trade Union Congress. It quickly established a name for itself as an aggressive defender of its members and as a union that refused to make shoddy deals over the workers’ heads. A forerunner of the 1913 lock-out took place in 1911 in Wexford when two foundries, Pierces and the Star Works, told their staffs “no workman is acceptable if a member of the ITGWU” The lock-out lasted six months, saw the importation of scabs from England and RIC (police) from Dublin, and the RIC killing of a worker called Michael Leary. The bosses caved in, though as a face saving exercise they insisted that the strikers form a different union. This was the Irish Foundry Workers Union (which was affiliated with the ITGWU and two years later dropped the pretence and became a regular branch).
+
+Between 1911 and 1913 the union, mainly by the use of sympathetic strikes, won victories in Dublin.
+
+These benefited not only its own growing membership, but other trades also. Through the union’s control of the carting industry (transport), engine drivers, coach makers, cabinet makers, sheet metal workers, carpenters and all the building trades got increases in pay. Among its own membership, dockers, labourers, coal and grain fillers, bottle factory workers, biscuit makers, mineral water bottlers and railway workers received pay rises. The increases varied between 15p to 50p weekly — no small sum for the times.
+
+If the workers were happy at this turn in events, the bosses certainly were not, They banded together in the Dublin Employers Federation. Their leader was William Martin Murphy, owner of the Irish Independent, Evening Herald, and Irish Catholic newspapers, the Dublin Tramways Company and holder of big interests in hotel and drapery businesses.
+
+Murphy’s plan was to use the weapon of starvation to break the union. On September 2 nd 1913 he spelled out his policy to the Dublin Chamber of Commerce — “The employer all the time managed to get his three meals a day, but the unfortunate workman and his family had no resources whatever except submission, and that was what occurred in 99 cases out of 100. The difficulty of teaching that lesson to the workmen was extraordinary.”
+
+During the months of July and August Murphy was preparing for a showdown, by swelling the ranks of his employees with new recruits who had to sign an undertaking that they would not join the ITGWU. He also arranged with the British authorities that in the event of a strike the tramway company “was assured of the most ample protection for their men by the forces of the Crown”.
+
+On August 12 th 1913 a notice was posted in all tramway depots saying that there would be no recognition for “Mr. Larkin or his union”. Meanwhile Larkin, in an attempt to consolidate the recent gains, had come up with a scheme for a Conciliation Board. By 18 votes to 3 the Committee of the Employers Federation agreed to his proposal. It can be argued that Larkin was naive to think that any long term arrangement could be maintained that would be beneficial to the workers. Murphy didn’t want even a short term one, vowing to “smash the Conciliation Board”.
+
+On August 21 st nearly 200 men and boys in the parcels office of the Tramway Company received the following notice: — “As the directors understand that you are a member of the Irish Transport Union, whose methods are disorganising the trade and business of the city, they do not further require your services. The parcels traffic will be temporarily suspended. If you are not a member of the union when traffic is resumed your application for re-employment will be favourably considered ”
+
+On the morning of August 26 th , the first day of Horse Show week, Murphy got a shock. At ten o’clock the tram drivers took out their union badges and pinned them in their buttonholes, They then walked off their trams, leaving them stranded in the middle of the road. The strike was on. The demands were reinstatement of and parcels staff, and equality of hours and wages with the tramway workers of Belfast.
+
+Despite Murphy being only one of a minority of three on the question of the Conciliation Board, the Dublin bosses rallied around him. Each employer deposited, in the name of the Employers Federation, a sum of money in the bank. If a depositor came to terms with the union he lost all his money. The first boss to follow Murphy was Shackleton of Lucan, followed by Jacobs and the coal merchants. Then on September 3 rd 400 employers met and pledged not to employ a single person who remained loyal to the union.
+
+They agreed to lock out all workers who refused to sign this pledge — “I hereby undertake to carry out all instructions given to me by or on behalf of my employers and further I agree to immediately resign my membership of the Irish Transport and General Workers Union (if a member) and I further undertake that I will not join or in any way support this union.” Ten days later Dublin’s big farmers joined in and issued a similar ultimatum.
+
+Murphy used his newspapers to claim that the tram strike was collapsing and to attempt to split the strikers by printing all manner of lies and slanders against Larkin. The Irish Catholic of September 6 th : “They are poor and have naught, but if they were rich tomorrow, debauchery would soon have them in poverty again... by folly or malice of their so-called leader, they have been placed in deplorable straits... all this to gratify the vengeful whims of an adventurer who has been battening on their credulity”. Murphy pretended that his objection was only to “Larkinism” and not to legitimate trade unionism. This lie was easily exposed by mention of the previous efforts of the tram workers to organise. In 1903 Murphy had smashed the “Dublin and District Tramways Trade Union” and victimised its leading members.
+
+The workers of Dublin met the threat to destroy the Transport Union with a heroic resistance. All over the city thousands chose the lock-out rather than sign the notorious document. Each trade served by labourers walked out when the labourers were ordered to sign. Most tradesmen showed solidarity. Even the United Builders Labourers Trade Union, who had been in conflict with Larkin, refused to sign and marched out “to help the ITGWU boys”. The women and girls marched out from the factories once the document was produced. By September 27 th there were 24,000 locked-out. Within another two weeks the number rose to about 30,000. 32 unions were involved, all sticking up for the rights of the Transport Union, and trade union principles.
+
+The first attempt at conciliation was tried by the leaders of the British TUC, who sent a special delegation to Dublin. If they didn’t realise this was a serious battle, the employers did and told them to get lost.
+
+The close co-operation between the bosses and the state forces revealed itself early in the struggle when Larkin was arrested on charges of seditious libel and conspiracy, because he had advised workers to defend themselves against assaults by the police. Out on bail, he was announced as the main speaker for a mass meeting in O’Connell Street on August 31 st . The meeting was banned by the authorities in Dublin Castle. Larkin addressed a huge crowd outside Liberty Hall, burned a copy of the banning order and declared that he would speak in O’Connell Street on Sunday. The RIC ended the meeting with a violent baton charge.
+
+All Dublin waited to see if Larkin would keep his promise. The street was packed on the day. Hundreds of police lined up on both sides. Suddenly on the balcony of Murphy’s own Imperial Hotel a bearded man appeared. The false beard was discarded, Larkin had kept his promise.
+
+As he began to speak he was quickly arrested, Then, before the crowd had even recovered from their surprise, the RIC fell on them with a brutal baton charge. Men, women and children were felled and beaten as they lay in the street. Hundreds were admitted to hospitals that evening.
+
+Throughout the struggle this brutality was repeated all over the city. One of the most scandalous incidents was a police attack on a block of tenements, Corporation Buildings, in the city centre. This was home to many strikers. At two o’clock on a Monday morning the police invaded. Tenants were beaten without regard to age or sex, homes were wrecked. Even a baby of a few months was left with an eye injury.
+
+Police thuggery inevitably produced fatalities, James Nolan, a young union member, was beaten so badly that his skull was smashed in. John Byrne also lost his life at the hands of the RIC. A young striker Alice Brady was travelling home with her food parcel from the union office when an armed scab shot her dead, Michael Byrne, secretary of the ITGWU in Dun Laoghaire was tortured in a police cell and died shortly after release.
+
+Pickets were attacked by police, meetings were broken up. Strikers responded with stoning of trams driven by scabs. Larkin said the workers should arm and defend themselves, This cry was translated into the formation of the Irish Citizen Army which was trained by Captain Jack White DSO, an ex-British Army officer who now fully supported the workers’ cause and later joined the ranks of the anarchist movement during the Spanish Civil War, The ICA was a workers’ militia armed with sticks and hurleys, for protection against police and blacklegs. (Later the hurleys gave way to rifles when the ICA took part in the 1916 rising).
+
+Then, as now, the Catholic church enjoyed a lot of influence. From the beginning it had opposed trade unionism, and had then tried to back ‘moderate’ unions against ones that fought hard for their members, In 1911 in Sligo, Dr, Clancy, the bishop, denounced Larkin as a socialist and forbade the people to attend the public meeting of the union. (Showing that clerical power is not always as strong as bishops would wish, the public meeting was one of the largest ever seen in Sligo.)
+
+In spite of great efforts, including a food kitchen in Liberty Hall, it was obvious that the strikers’ children were suffering from Murphy’s “starvation policy “. Some good people in Britain offered to take children into their homes until the situation improved. The union, while fearing public hostility would be whipped up by religious bigots, agreed to co-operate because of the childrens’ desperate plight.
+
+The union’s fears were real. Dr. Walsh, Catholic Archbishop of Dublin, despite assurances that the children’s religion would be safeguarded, attacked the plan. He also stated that it was unacceptable because sending children to comfortable homes with three appetising meals a day would make them discontented with their slum homes when they returned. As children were taken to the boats and trains, gangs of thugs were organised to try and prevent their departure. These were marshalled by priests and officers of the Ancient Order of Hibernians. A campaign of slander claimed that the children were being taken away so that they could be made into Protestants All this had its effect. However, many children did manage to get to Britain and Belfast.
+
+Once the lock-out was general in Dublin the two sides’ strength could be clearly seen. On one side was the vast majority of the Dublin working class, on the other not only the employers of the city but the whole of the British ruling class and its state machinery. If the union was not to be ground down in a protracted war of attrition the struggle would have to be spread across the Irish sea. The ITGWU had always responded to calls for solidarity action from British unions, now when it was fighting for its very life it demanded that this action be reciprocated.
+
+Who should be appealed to? The bureaucracy of the unions or the rank and file? The ITGWU founders’ experience of the NUDL let them know what could be expected from the bureaucrats. Would officials who had betrayed their own members behave any better towards members of another union, an Irish one at that? From the first they appealed directly to the rank and file, and met with a great response.
+
+On September 16 th railway workers in Liverpool began to black all traffic to Dublin, soon some 13,000 were locked out or on strike as far afield as Birmingham, Sheffield, Crewe and Derby. This action was totally unofficial, organised by rank and file committees who aimed towards a national stoppage in support of Dublin. Sadly the railway union leaders, in particular J.H. Thomas, managed to prevent the strike spreading, isolate the militants and secure a return to work. There was a great fighting spirit and a real willingness to take solidarity action, but the militants were too unorganised and uncoordinated to overcome the manoeuvres of Thomas and his cronies.
+
+The ITGWU launched a second appeal for solidarity action. Larkin spoke at meetings all over Britain, his “fiery cross” crusade. In response a second wave of unofficial action spread across Britain. In South Wales two train drivers were sacked for refusing to carry Dublin traffic. 30,000 of their fellow workers on the railways struck in support of them. Once again Thomas used all his schemes and pleadings to get the strikers back to work he ended up describing the two sacked train drivers as “a disgrace” to trade unionism!
+
+Union officials reported great difficulty in keeping their members on the Liverpool and London docks from coming out in sympathy. There was no lack of support for the ITGWU’s struggle but the militants just did not have enough co-ordination to take on the, bureaucrats, and break their hold.
+
+The pressure from below was such, however, that the TUC called its first ever special conference. They hoped to kill off unofficial action by seeming to be doing something themselves, All eyes turned on the TUC. Delegates to the special conference were not elected from within their unions but simply selected from the ranks of the more cautious executive committee members. The vote for sympathy action was lost by 2,280,000 to 203,000. A shameful betrayal orchestrated by timid officials afraid to step outside the bounds of ‘conciliation and arbitration’.
+
+Nevertheless £150,000 was collected for Dublin, which was a massive amount in those times. (A debt we repaid during the 1984/85 miners strike when Ireland contributed more per head of population than any other country). The food ships sent by the British TUC helped to maintain morale and keep the wolf from the door. But they were no substitute for the strike action that would have brought the bosses to their knees.
+
+By the end of the year there had been two meetings between the union and the employers but negotiations were broken off when the employers refused to give any guarantee against victimisation in the re-employment of workers. There were still almost daily picket line battles between strikers and armed scabs and RIC. Many union members were still being injured and arrested. After 16 year-old Alice Brady was murdered in December angry strikers caught a revolver carrying scab and beat him to death. Another was thrown into the Liffey. But it was now plain that the union was fighting a losing battle.
+
+By mid-January 1914 a drift back to work had started. A month later there were still 5,000 brave men and women sticking it out in circumstances of the direst poverty The last group to accept defeat and return to work were the magnificent women of Jacobs who held out till mid-March.
+
+What was the significance of the defeat? Some, such as the historian Desmond Greaves, say it was not a defeat. In reality it was a crushing defeat. Victimisation happened all over the city, the union was financially broken and its membership decimated. A climate of demoralisation and despondency prevailed.
+
+However such defeats are not always terminal. A hard core of determined members kept the union together It was an uphill task, They were thought unrealistic and had to put up with much shrugging of shoulders and cynicism. Yet by October 1915 they were strong enough to win a dispute with the Dublin Steam Packet Company. Murphy had once again called for a lock-out but this time his employer friends refused to follow him They had won two years earlier but at a great financial cost. They were in no hurry to spend such large amounts of money again.
+
+By 1921 the union was truly back on its feet. 120,000 workers all over the country were carrying ITGWU cards. The seemingly unstoppable tide of militant trade unionism, often called Larkinism, had been stopped and tamed but the union had survived. The potential was still there for further and greater outbreaks of class warfare.
+
+Today we can get demoralised when we look at the wave of emigration sweeping the 32 counties, the job losses, the very low level of struggle, the feeling of almost total powerlessness and lack of confidence among our friends and work mates. It is a little like the period after 1913. Just as then, it has fallen to small numbers to keep the ideas of class struggle and solidarity alive. It is usually unexciting and undramatic — but it is vital. We are laying the foundations for the struggles of tomorrow, the struggles we hope will take us into a world that can offer a real future to us all.
