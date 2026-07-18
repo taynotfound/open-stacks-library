@@ -1,0 +1,68 @@
+---
+title: "Quest Microwavable Pasta Other Vital Needs"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/quest-microwavable-pasta-other-vital-needs"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "tale of toil: biotech secretary, by robin wheatworth"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/quest-microwavable-pasta-other-vital-needs)
+
+When the agricultural research group where I work first formed, it was looking into new ways to produce hardier and more productive cereal crops. There were four scientists, all Ph.D.'s in their mid-thirties. Edgar, a chemist, was running the show; Pete, a biochemist; Rob, a plant physiologist; and Sergio, an agronomist from Central America. I was hired as their secretary and bookkeeper. Our little outfit was funded by a large industrial group which had decided to diversify its operations and explore agriculture.
+
+We had a couple of small labs and a greenhouse on site. Cereal varieties were analyzed and tested in the greenhouse by Rob. Potentially interesting varieties were crossed to make superior cereal lines using a non-toxic chemical method developed by Pete. Then Sergio would supervise test plots out in the Sacramento Valley to see how the plants actually performed in terms of added yield.
+
+The pace of the work was moderated by the seasons. In November they planted in the fields, while during the spring, lab and greenhouse work continued. In June we would go out to the hot valley to look at the results -- maybe 20 acres of test plots of old and new varieties of grain, all turning from green to golden under the strong sun. The hybrid plants showed obvious new traits, some plants very short and close to the ground, some nearly as tall as us, some with good seed set, some with poor, some beset by disease, some thriving. The crops were harvested and taken back to the labs for analysis. Then, in autumn, the planting cycle began again.
+
+The program continued like this for several years. In agriculture they call it classical breeding. Desirable traits are developed in a hit and miss manner. You take one plant with a good strong trait, you cross it with another plant and with other good traits, and you hope the resulting offspring will combine all the desired traits. It's a long, slow process. The produce in the supermarket represents decades of development.
+
+Our small group expanded with the hiring of a few more associate scientists for the chemistry work (one from Taiwan and one an immigrant from mainland China), the first woman scientist of the group, who was a botanist to assist with lab and greenhouse work. We were a long way from any sort of actual product, and Edgar was getting nervous about continued funding.
+
+The parent company seemed ambivalent, and Edgar thought we needed a hook to keep them interested. So Edgar, being an enterprising and up-to-date scientist, launched a huge lobby for a genetic engineering program.
+
+Genetic engineering of plants really represents a quantum leap over traditional plant breeding. Instead of a trial and error procedure that lasts a decade, you can potentially identify, isolate and introduce a new gene into a plant in a year. The parent company, after some struggle, was won over to the wave of the future--the allure of reaping profits from the newborn science of plant genetic enginering. During the next couple of years the tone of the operation took on a totally new dimension. We constructed the latest in high tech labs in addition to several million dollars in equipment purchases. We hired a whole new group of credentialed scientists in the disciplines of cell and molecular biology. Men and women in their 20's and early 30's, these scientists were the hotshots from the latest university genetics programs.
+
+In the new structure, Edgar became the scientist administrator. Pete and Rob continued the original work in biochemistry and plant physiology. Sergio spent all his time at the field station. Tim, a bright and driven Asian-American, was the Ph.D. running cellular biology. Stephanie, an intelligent Ph.D. of few words, was running molecular biology. The cell and molecular groups each had a retinue of young new breed genetic scientists, mostly Americans, three more Taiwanese, one east Indian and two Europeans.
+
+The workplace was a lot livelier. The group until then had consisted of your basic dedicated bench scientists, pretty much locked into their fields, sports being their main outside interest. The newer group consisted of generally younger singles who attended concerts, liked sports, paid some attention to the media, drove new sports cars and met socially outside work. A few of the new scientists professed interest in environmental causes and set up in-house recycling of paper and cans.
+
+When the new labs opened, a rift developed between the original scientists and the new group. In science these days, molecular and cell biology is ""in.'' Chemistry and biochemistry still play a basic role, but biological disciplines such as physiology, which consider the whole organism, are ""out.'' At the universities all the aspiring biologists want to study genetics. As a result, their overall outlook tends to be limited to the microscopic level at best.
+
+For the first few years of the genetic engineering labs, Rob, the plant physiologist, was down in the dumps. He had been counseled that his specialty -- the study of the overall plant and how it reacted with the surrounding environment -- was no longer where it was at. To be more employable he needed to get into molecules. When the labs developed plant lines that had to move into the greenhouse, and then outdoors into an actual field, it became apparent that the molecular and cell people didn't know the first thing about whole plants. They didn't consider, for example, that if you move a gene that influences a certain stage of growth, it might affect the overall maturation of the plant. At that point it was decided that the plant physiologist better give a few quick seminars to the rest of the group. His dignity was partially restored until the young assistant botanist transferred to the cell biology lab to rev up her skills. Now Rob can't find another assistant to hire. He told me, ""They don't train people like me anymore.'' This man is 39 years old!
+
+Observing this episode with Rob, and seeing the whirlwind changes brought by genetic engineering, made me look more closely at what was happening. It's been barely 20 years since the first gene splice. The field of molecular biology, initiated by Rockefeller Foundation grants in the mid-1930's, has finally come into its own during this past decade and a half. It has received tremendous research and development funding.
+
+1970s: For the first time molecular biology succeeded in controlled manipulation of genetic material. Pieces of genetic material were successfully moved from one organism to another.
+
+In 1975: the international scientific community, awed by the magnitude of this breakthrough, held a conference at Asilomar, California, and actually declared a moratorium on all genetic research until enough was known to control this emerging technology.
+
+1980s: The business element in the scientific community gained enough influence to reverse the scientists' moratorium. Huge venture capital investments were made as genetic engineering research again proceeded at full speed. The door was opened wider by a 1980 Supreme Court decision granting the first patent on a process for genetic manipulation to Stanford and UC Berkeley. It was astonishing in two respects. It was the first patent on a life form, and it was the first time academia formally entered the business world with a patent. During the 1980s, investment poured into medicine and agriculture to develop applications.
+
+1990s: After ten full years of major investment there are few significant biotechnology products on the market. Research takes time and the developing technologies are so new they have barely matured. Biomedicine is a little closer to bringing products to market than is bioagriculture. The venture capitalists are getting very anxious and are pushing hard for products.
+
+Under this pressure there could be a whole series of useless and/or damaging genetic technology spin-off applications, such as herbicide tolerance. Not only is industry usurping the new technology to protect its earler investments in obsolete technology, they are also in a mad rush to commercialize and get immediate returns on investment before the technology's potential is even halfway realized.
+
+In an infinite range of possibilities, the industrial sponsors are having a bigger say than ever before in what science is actually developing. The universities are busy organizing academic biotechnology consortia to facilitate the flow of basic research to industry (in return for funding and a piece of the patent action). The ties between academia and industry, always present, have reached unprecedented levels in the case of biotechnology.
+
+Genetically engineered herbicide tolerance is an interesting case in point, though it's not a project at the labs where I work. The agrichemical companies became the biggest backers of genetic engineering of plants in the early 1980s. They invested early, and financed full scale in-house research labs. Finding a specific gene that carries a specific trait is one of the difficulties of genetic engineering.
+
+The scientists in those labs isolated the gene for herbicide tolerance during their continuous testing and studying of how herbicides act on plants. The agrichemical companies now have an ""isolated herbicide tolerant gene'' that they can move into crops that are plagued by weeds, like cotton. A farmer sprays his cotten crop like crazy, the cotton thrives, the weeds don't grow, and the company sells genetically altered crop lines and more herbicide than ever. This herbicide tolerance is actually one of the few genes currently isolated, identified and in the stage of advanced product development. In many other agricultural labs the rush is on to get to market with a similar product in order to stay competitive. It is very likely that some of the first genetically engineered plants will be herbicide resistant varieties, both crop plants and forest timber trees.
+
+The research stops here--the skills developed toward gene isolation and manipulation are put on hold while the rush to product development takes over. Imagine the implications of spraying all the timber plantations in the semi-wild with herbicides. But there is no research into these ecological consequences -- research dollars are committed to bringing products to market as soon as possible.
+
+Back in our labs, the push is also on. I've asked a number of scientists how they feel about herbicide tolerance being the pilot product of genetic engineering? How do they feel about the way the technology they develop is actually applied? Stephanie smiles, and though she is the leader of the molecular biology group, she just shakes her head and says she's glad herbicide tolerance isn't one of our projects. Rob also shakes his head, doesn't say anything. He's already had the funding pulled out from under projects he's worked on at two other labs, losing his job both times. He's not too anxious to make any statements. Pete, busy at the chemistry bench, shrugs his shoulders and acknowledges that funding is everything. ""You work on what they are willing to fund.''
+
+Steven, one of the younger scientists, once confided to me that the herbicide tolerance work is dangerous. He was labeled a liberal by the rest of the group for being against the attack on Iraq. This relatively mild political stance made his lab mate so uncomfortable she stopped speaking to him. He recently left the labs to go back to graduate school and study environmental law. Two years ago, another young cell biologist left for law school. He, however, was going to be a patent attorney.
+
+Stephanie, Rob and Steven, the dedicated bench scientists, are not the driving forces of the operation. There is another career track in the labs, the scientist turned businessman/manager. Tim, the cell biology leader, is competent and professional, definitely a candidate for the business track, although he rather ruefully told me one day, ""I went to graduate school in the '70s. The structure of DNA had just been identified. It was incredibly exciting. The scientists in those years had a say in the direction the discovery could take. There was a tremendous amount of debate on the responsible application of the science. I never would have believed then that I would end up working in industry.'' He now is wholeheartedly committed to the projects assigned to him. Edgar has been sharpening his business and management skills, and has teamed with with go-getter Matt, who is a Ph.D. in biochemistry turned MBA. Together they have plans to take our group to the top, to be first in both technology and business development. They are a fair representation of what science is these days: competitive and very business oriented. Not long ago I heard Matt commenting, ""we've got the solution, now all we need is the problem.'' He was talking about some finding on altering the starch content in wheat that had the potential of being applied to pasta production. It turns out that the big food processors have a problem with pasta microwavability -- the pasta gets mushy. Excited discussion percolated throughout the company about the microwave oven application.
