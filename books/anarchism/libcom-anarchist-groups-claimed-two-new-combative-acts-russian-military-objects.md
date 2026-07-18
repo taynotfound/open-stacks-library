@@ -1,0 +1,42 @@
+---
+title: "Anarchist Groups Claimed Two New Combative Acts Russian Military Objects"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/anarchist-groups-claimed-two-new-combative-acts-russian-military-objects"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Both photos are from BOAK - the new year is already bringing excellent news! However, the civilian population and humanitarian groups in Ukraine this winter, with constant shutdowns in electricity and heating, especially need funds. You can donate to our online newsletter for continuous work on this"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/anarchist-groups-claimed-two-new-combative-acts-russian-military-objects)
+
+Both photos are from BOAK - the new year is already bringing excellent news! However, the civilian population and humanitarian groups in Ukraine this winter, with constant shutdowns in electricity and heating , especially need funds. You can donate to our online newsletter for continuous work on this international rubric and offline volunteer activities joining this fundraising . Good luck and happiness to all our supporters in the new year!
+
+On January 4, the Anarcho-Communists' Combat Organization (BOAK/ACCO) took responsibility for the explosion of the railway bridge to some facility of the Russian Ministry of Defense:
+
+"The attack took place some time ago. Unfortunately it wasn’t 100% effective but this experience will be taken into account in preparation for our next attacks. And to make it not only useful for us but for the whole partizan movement we decided to share it. About 10 kg of permon (igdanite (ANFO) with aluminium powder) been stuffed in a metal case (paint bucket). We’ve used an interim detonator to ignite permon ~1 kg of ammonal-3 (ammonium nitrate, sugar, aluminum powder) in a plastic case (mayo bucket). To ignite ammonal we’ve used ~10 g triacetone triperoxide (TT) in a paper case (cylinder made of paper wrapped in duct tape). To place our detonator right in the middle of ammonal charge we’ve put a paper tube (a little wider than TT detonator) through the hole in the lid of a plastic bucket . This way two tasks are being accomplished: we can place ammonal in our container beforehand while isolating it from the external environment (it is hygroscopic). And secondly, we can place detonator with TT at the very last moment, mitigating risk. For detonation we’ve used the ignition device made of a lamp bulb. There was a backup initiator with an alarm clock on a mobile phone, but the ignition itself was conducted with a phone call. And also for an additional amplification of the blast we’ve placed 2 open 5-liter jugs full of an incendiary mixture near our igdanite charge – for a thermobaric effect due to the volumetric explosion of petrol fumes. From the downsides – we knew of a low brisance of igdanite, but hoped that if placed under the bridge pillar it might be enough to collapse it. As it turned out – it wasn’t. It should have been placed in a more closed volume. We think it’s important to note that this action was purposely carried out at night to mitigate risk for casual passersby – the bridge runs over the road, and far fewer vehicles are on the road at night, we’ve waited for such a moment when no one was there. We won’t publish the bridge’s location in hopes that it might eventually collapse during further use. However we call on all railway workers, who are against war, to sabotage military contracts and to refuse going to military facilities – stop being a cog in the war machine, ensuring its smooth uninterrupted work of killing people." Another revolutionary anarchist cell - Bunker of Radical - affirmed fire sabotage in Perm by their post from January 11:
+
+"(The city of Perm 57.99503414060602, 56.26955941851684 3rd floor windows overlooking the courtyard) As a result, a fire broke out in the administrative building of the Ministry of Defense of the Russian Federation. As a result of the action, papers valuable for the fascists were burned. The room where the personal files lay was burned, taking at least one thousand personal files with it. Our organization has penetrated to the very heart of the financing of the war and Russian fascism to do everything possible to stop senseless deaths. If we managed to penetrate into the very heart of fascism, then everyone will succeed! Say no to senseless cruelty and war! Do whatever it takes to stop it. We also remind you that the military institute of the RF is not digitized, so all the personal files that we burned are irretrievably lost. If you are a contractor, then now you are free from the shackles of fascism - now the state knows nothing about you. The action was carried out to stop the war with Ukraine and save the lives of both Ukrainian civilians and the lives of soldiers of the Armed Forces of the RF and the Armed Forces of Ukraine. The criminal authorities want to draw Us into complicity in war crimes. We are told that all Russians are already tainted with military blunts and therefore must defend the criminal regime. This is not true! We all have one way to stop the war and wring the neck of the real fascists, those who are sitting in the Kremlin. In the building of the Ministry of Defense of the Russian Federation, where the action of our organization was held, a brigade was on duty on the first floor, which was able to put out the fire, of course, not without the help of firefighters. Unfortunately, we cannot post photos from the action so as not to set up our fighters, but soon they should appear on the Internet."
+
+According to them, the incendiary device had a timed electric detonator and was made of thermite (25% aluminum and 75% iron oxide) with aluminum powder. Unfortunately, the building is located on the outskirts of the city, so we are unlikely to see photographic evidence - it was easy to capture the fire only by the military, who, for obvious reasons, are not interested in media coverage of the event.
+
+And another statement from the Bunker of Radical to make it easier to understand their motivation:
+
+"Remember all the torture by the state, remember everything it has done to suppress us. We fight against the war, against the government, armed with knowledge and a feeling that war is a crime against reason. Always our uprisings were suppressed with unusual cruelty, and the curs of the state, in the form of the police, intentionally broke the bones of everyone who was against. Later, the police themselves insisted that this was an order of the fascist Russian government, now any criticism in their direction leads to even greater victims. They humiliate us, kill, take away our lands and our wealth, destroy everything we do - our trade unions, organizations. The fascists like to destroy everything around, but it gives us strength to continue to fight. We are against any government, army, politics and state that has always infringed on our rights.
+
+Everyone should understand that sooner or later any state will turn into such a hotbed of fascism and terror as modern Russia. Therefore, the state will always infringe on the rights of people and ordinary workers. It should always be remembered that war is a crime against reason and wars are not ended by professional soldiers. The war is always ended by the workers - a locksmith on the one hand and a carpenter on the other. Patriotism is the enemy of the working people, like the state, like capitalism, and the sooner we understand this, the sooner the phrase will pop up in the heads of all people: The revolution changes everything".
+
+In addition, you are welcome to learn from this recent material how one Ukrainian hacker robbed Russian drug dealers and sent their money for humanitarian aid .
+
+And for a snack, in honor of the recent 105th anniversary, you can look at a historical piece about the takeover strikes at the factories of Kharkov and the role of anarchists in this , when it became the first capital of Ukraine.
+
+I edited this article to change the title to say "military targets" rather than "military objects", because in English, object normally implies something very small, like a pen or a box, not something substantial like a building or a bridge. I can see that you have edited it to revert to the original headline, which is fair enough, but I do believe that "target" is a much better word to use.
