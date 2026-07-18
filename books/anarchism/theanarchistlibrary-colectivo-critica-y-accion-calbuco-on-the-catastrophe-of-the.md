@@ -1,0 +1,52 @@
+---
+title: "On The Catastrophe Of The Salmon Farms And Maritime Devastation"
+author: "Calbuco, Colectivo Critica y Accion"
+date: "2025"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/colectivo-critica-y-accion-calbuco-on-the-catastrophe-of-the-salmon-farms-and-maritime-devastat"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Re-printed and annotated in Return Fire vol.4 (autumn 2016). To read the article referenced in this text, PDFs of Return Fire and related publications can be read, downloaded and printed by visiting returnfire.noblogs.org or emailing returnfire@riseup.net"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "colectivo-critica-y-accion-calbuco-on-the-catastrophe-of-the-salmon-farms-and-maritime-devastat.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/colectivo-critica-y-accion-calbuco-on-the-catastrophe-of-the-salmon-farms-and-maritime-devastat.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/colectivo-critica-y-accion-calbuco-on-the-catastrophe-of-the-salmon-farms-and-maritime-devastat)
+
+[ed. – This article is regarding the context which framed a wave of disorder around Chile during May 2016, starting with over 2,000 striking fishers on the Pacific island of Chiloé – joined by indigenous Mapuche (see Return Fire vol.3 pg59) living on the island – barricading access roads after a government ban on collecting or selling seafood. This is due to a large die-off along Chile’s coast, with many creatures washing up on the beaches since 2015 and a ‘Red Tide’ toxic algae bloom. People point the finger at the State-supported salmon farming industry and its toxins; towards the end of April, the President declared the coastal area of Los Lagos a disaster area (bringing it under the authority of the National Defense who can take command of the Armed Forces in that area, set up checkpoints and monitor transit into and out of the affected zone, sort out collection, storage and distribution of food items and give instructions to local officials). Many people nevertheless took to the streets, blockading main highways and roads in Valparaíso, Santiago, Concepción, Temuco, Valdivia, and Osorno. In Puerto Montt, over 10,000 people rioted, destroying government buildings and banks, and battling police by using molotovs well into the night. According to one researcher, the effects of the ocean contamination will be long-lasting and severe. “The salmon industry in five years has increased its production by 15 times within the Chiloé sea… they paved the sea with nutrients, [and the algae proliferated...] [W]e have an active red tide and a latent red tide being deposited in the sediment around the sea inside the Lakes Region and therefore this will never end; the red tide will never leave the sea of Chiloé, because when these conditions are met, cysts will appear and you’ll have red tide again...” A month later, a state-of-emergency was also declared along the Treasure Coast of Florida, U.S.A., after an “unprecedented” algae outbreak swamped miles of waterways and beaches with toxins noted to harm seagrasses, turtles, humans and other mammals. Fire to those who toxify our surroundings!]
+
+“ Ecosystems will mutate rapidly and radically thanks to human stupidity, expressed in buckets of genetic manipulation. Once a new agent or gene is released on an ecosystem, it cannot recuperate itself: the ecosystem mutates. The number of variables is infinite, impossible to predict, impossible to regulate and there is no turning back: once an ecosystem is modified it cannot go back to what it was. One mistake kills hundreds of species, and mutates many others…. And human beings do not live beyond the ecosystem.” Anti-Civilization Manifesto
+
+“ The last few catastrophes were not caused by ‘nature’, they were caused by Capitalist configuration of the space affected.” 8 Critical Hypothesis on the Latest Ecological Catastrophes in Chile
+
+Devastation and extraction have reached disproportionate levels of death and toxicity. The true and only face of Capital, the State, and their technocrats demonstrate the misery of their path of destruction.
+
+The exploitation of nature has always been a necessary condition for the accumulation of Capital and Power. All societal machinery (understood as a hierarchical relationship as a fundamental principle) functions through the exploitation of the earth, the sea, living beings and all which can be considered part of enriching its merchandise. The use of fossil fuels are an example of this, carbon emissions and whatever else allows them to make more weapons for their wars and generate new forms of control. This is not chauvinism speaking; it is the crude reality of a tentacled monster!
+
+In recent time, we have bourne witness to the arrogance of the salmon farms, the State, their authorities that endorse these farms, and their technocrats that sicken us with their justifications. These companies glorify themselves by claiming they provide jobs, doing nothing else than impose capitalist ways of life in areas where people still manage to live differently. It is here where they have left death in their path, where they install their machinery and cause social disaster in communities both in material dispossession, as well as with the natural surroundings.
+
+The same company (Marine Harvest) that introduced the salmon virus in so-called Chilean territory, now uses 5 times as many chemicals in the water than they did two years ago. The salmon are in a situation of enclosure and holocaust, introduced as objects in disgusting cages to the taste of citizens hungry for consumption. The salmon industry had been affected by “sea fleas,” bacteria, and viral sickness in situations of environmental collapse the Patagonian sea could not detain. The face of this agony is seen today in the Regions of Los Lagos and Aysén, with thousands of rotting salmon reaching the shores of the austral region after having been killed by the algae bloom by the very industry and services supported by the State.
+
+It isn’t a climate phenomenon which unleashed the Red Tide that caused the disaster. It isn’t just rising sea temperatures, the lack of winds, the high solar radiation. But mainly, it is also the eutrophication of the ocean from the stellar enrichment of nutrients generated by the Salmon farming industry, from companies such as SERNAPESCA and SUBPESCA in the Patagonian ocean, supported by the State, hiding behind the broader issue of climate change. The eutrophication of the ocean not only reflects the appearance of the “Red Tide” or algae blooms, but also the anaerobic (or suffocating) conditions in the ocean, due to the amount of organic material (or carbon) within the water that surpasses the capacity of the ecosystem to absorb, recycle or dispense of waste. An anaerobic condition is a situation in which aquatic life cannot survive, due to the low levels of oxygen dissolved in the water or sediment. The Salmon farming industry supports this condition perpetually, since every kilogram of salmon feed placed in the ocean is equal in nitrogen to the sewage waste of 15 people.
+
+Currently, there are 32 million kilograms of dead salmon because of the virus of capital, which were left in the sea, destroying everything in its path, generating a collapse of maritime species, as well as the social collapse of adjacent communities in all aspects. The death of these salmon allowed for the appearance of the Red Tide, which resulted in an organic mass that began emitting sulfuric acid that is highly contaminating and quite dangerous. The venom of Capital becomes concrete.
+
+These events demonstrate that the State along with the mega salmon farming industry, continue to use the ocean as an industrial wasteland, with the objective of lessening the financial costs of the corporate elite. These companies continue to pass on the costs of sanitary crisis to the marine environment, surrounding habitats and communities. The role of these techno-scientific State institutions, such as the Institute for Fishing Promotion (IFOP), have pointed out these catastrophes as having developed through “natural causes.” These include the growth of deadly algae in Cochamó and Reloncaví, the massive death of 10,000 sardines, anchovies, and smelts in the fishing town of Queule, the mass sickness of crustaceans in Cucao and Quetalmahue, and the massive Red Tide along the north shore of Aysén towards the Mansa Bay in Osorno. We should also add the mass sickness and death of 300 Sei whales on the coastline of Aysén, due to the consumption of toxic algae among other causes.
+
+Capital in its most concrete manifestation is toxic (in what it carries). The only problem of this catastrophe and all others is that of CAPITAL, its imposed way of life, the devastation and exploitation of habitats, their surroundings, human beings and all other living beings. This machinery cannot live without the State, which supports it through its laws and its repression. Law and Power that simply reproduces itself.
+
+Unto all of this, mobilizations throughout the entire southern region have developed, which have included fishermen, indigenous communities, and people in discontent. The point is to understand that the enemy of life are the usual culprits: The State, Capitalism, the authorities, the technocrats, those that impose a way of life. Only decentralized anarchic positions can negate all of these forms of power in practice. It is important to agitate and radicalize on the issues that matter most. We must deepen our analysis, which is not just an issue of mere bureaucracy. It is the inherent toxicity and devastation of Capital and the State that has caused a disaster wherever it has been imposed.
+
+Individuals and collectives must continue to agitate and move with our anti-authoritarian principles unto a new attack from Capital. We must struggle against all toxicity that seeks to turn the territory into Capital. These extraction industries, whether in mining, forestry, fishery or salmon all cause the same harm. They destroy the territory, they destroy the environment, they impoverish and sicken communities!
+
+To agitate towards insurrection and disobedience against the same old culprits!
+
+Where their power, their death machinery and their ideology does not live is where Anarchy lives!
