@@ -1,0 +1,44 @@
+---
+title: "Workers Control Building Industry James Lynch"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/workers-control-building-industry-james-lynch"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "James Lynch on UK builders&#039; guilds, and other attempts at workers&#039; control in the construction industry."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/workers-control-building-industry-james-lynch)
+
+James Lynch on UK builders' guilds, and other attempts at workers' control in the construction industry.
+
+What do building workers want? Like everyone else they want independence, security, and plenty to take home at the end of the week. All these depend on good times. You can be independent and secure so long as there are plenty of jobs, because someone always knows of another site with a better bonus. The fact remains that there is no other major industry so badly organised, few with such bad working conditions, or with so much uncertainty about how long a job will last. In spite of the Federation, there is little solidarity between trades and none between tradesmen and labourers. In the T.& G.W.U. there is an annual average of 84 per cent. lapsed membership and 85.7 per cent. new members among labourers who are signed up on the site and let their cards lapse when the job finishes. If ever there was an industry which needed a breath of fresh air in the unions and a new spirit of industrial solidarity it is ours.
+
+All kinds of attempts at workers' control have been tried out in building at one time or another and it saw the most advanced practical realisation of the guild socialist idea. Raymond Postgate has summed it up in one sentence with a sting in the tail. "Perhaps the most important achievement of the Guild was that it gave the workers of the building industry confidence and showed them that they were competent to run and control the industry, if only they could lay their hands on it."
+
+At the end of the first world war, when the slogan of homes for heroes was coined, the building workers seized the opportunity that the climate of opinion built up by the syndicalist and guild socialist movements offered. This was the time when the Sankey Commission was ready to support the miners' demand for workers' control of the mines, and the engineers were demanding it in the factories. Dr. Addison's Housing Act of 1919 made it possible for housing to be built with little capital, payment being made as the work proceeded. The building unions in Manchester formed a Building Guild under the influence of S. G. Hobson and in London, Malcolm Sparkes persuaded the operatives to form the London Guild of Builders. The movement spread and in no time there were 140 Guilds which joined forces in 1921 as the National Building Guild. The Guild was for legal purposes only, a limited company, which undertook centrally the work of finance, insurance and supply, the making of contracts being in the hands of Regional Councils, elected by the local guild committees and by the craft organisations of the region (including professional organisations of clerks, architects and engineers). Capital was borrowed at a fixed rate of interest, and full trade union rates paid during the currency of the contract "in sickness and in health, in good weather and bad" — something unheard of in those days. Surpluses were to be used for improvements, and development, not distributed to individuals. In cases when a job worked out cheaper than was expected, the saving on the contract price was handed back to the local authority employing the guild. Dr. Addison was sympathetic to the idea and so was Sir Raymond Unwin the famous architect who was chief architect to the Ministry of Health, and promised contracts if finance could be guaranteed. An overdraft was arranged with the C.W.S. bank and contracts for materials and joinery signed with the C.W.S. building department and loans were made by the Co-operative Insurance Society. Work worth more than two million pounds was taken in hand. The London Guild landed the £500,000 Walthamstow Contract and the Manchester Guild had contracts worth £1,428,918. By April 1922, in less than a year's actual work they had received £849,771 in cash and had spent £30,283 on plant.
+
+The guilds attracted the best men, and there was genuinely effective workers' control. The independent investigator, Ernest Selley, after examining the contracts on each site, concluded that
+
+(1) the Guilds have proved that they are organised on business-like lines and are able to carry out building operations in a workman-like manner; (2) the quality of the work produced is distinctly above the average; (3) The weight of the evidence goes to show that the output per man on Guild contracts is as good as that obtained by the best private contractors, and certainly higher than most. (Ten years after they were built, the estates at Manchester built by the guilds were shown to have cost the local authority least in maintenance and repair work).
+
+The end came as quickly as the beginning. The first of the post-war slumps came, the "Geddes Axe" was wielded by the government, housing policy changed, Sir Alfred Mond, later the ICI boss became Minister and determined to kill the guilds. The master builders' associations agreed among themselves to submit lower tenders and to share any loss from undercutting when tendering against the guilds. Richard Coppock (later Sir Richard of the NFBTO) remarked that "the guild eventually failed because of the power wielded by the banks, but it was not crushed before we had learned a valuable lesson in self-government in industry".
+
+In considering why the guild experiment was not tried again after the second world war, the most striking thing is that one cannot imagine a modern Minister of Health (Labour or Tory) nor his chief architect, nor the union leadership, and least of all the CWS bank sponsoring any such venture — so far have we moved from popular acceptance of the idea of workers' control, and so completely have the bureaucrats taken over from the innovators.
+
+But efforts have been made. Bro. Harry Law of the Battersea ASW sought to revive the guild idea in 1946 without much response. but by 1951 there were several productive co-operative building firms, affiliated to the CPR (Co-partner Builders, Co-partner Building Operatives, Northants Co-partner Builders). By 1960 they had all gone out of existence. Lack of capital, which helped to kill the old guilds, has killed the much more modest co-operative co-partnerships. What is the next step?
+
+It scarcely needs saying that under a capitalist system the worker is a commodity (labour) to be bought and sold at a price (wages) according to the total number requiring jobs (supply) and the number of jobs to be filled (demand). The worker's only capital is his capacity for work. And this is what he has to capitalise, by collective action. This is the whole basis of trade unionism — collective bargaining, and it is also the basis of the collective contract. There used of course to be gangs in the building trade run by "labour-only subcontractors" but not by the gang-members. I am told that the gang system as described by Reg Wright is worked under some contractors (Wimpey's, Higgs and Hill) but what I am thinking of is the sort of group contract in which the worker is not paid individually by the boss at all. The group undertakes the job and arranges everything else for itself, including the share-out. The late Professor G. D. H. Cole says in The Case for Industrial Partnership that "The effect would be to link the members of the working group together in a common enterprise under their joint auspices and control, and to emancipate them from an externally imposed discipline in respect of their method of getting the work done".
+
+I would certainly prefer to work this way; it would be a more genuine kind of workers' control than exists in any part of the industry today or seems likely to exist until the idea of worker's control permeates public opinion at least to the extent that it did at the time of the guild socialists. It would, if the gangs consisted of more than one trade, cut across the craft barriers and promote solidarity on an industrial basis. and once generally accepted it could be the lever for a wider extension of control. It is certainly more reasonable than either "mindless militancy" which collapses at the end of a job, or 'I'm all right Jack' apathy, and is more practical than trying to struggle along as undercapitalised would-be capitalists.
+
+JAMES LYNCH, born at Liverpool, 1918, is a carpenter and joiner (ASW). His interest in labour history arose from reading Robert Tressell's Ragged Trousered Philanthropists, a classic of the jobbing building trade.
