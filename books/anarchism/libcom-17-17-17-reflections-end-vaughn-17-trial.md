@@ -1,0 +1,32 @@
+---
+title: "17 17 17 Reflections End Vaughn 17 Trial"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/17-17-17-reflections-end-vaughn-17-trial"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Report from Dwayne &quot;BIM&quot; Staats of the Vaughn 17 who reflects on the end of the trial, lessons learned, and some of the biggest hurdles that needed to be overcome."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/17-17-17-reflections-end-vaughn-17-trial)
+
+Report from Dwayne "BIM" Staats of the Vaughn 17 who reflects on the end of the trial, lessons learned, and some of the biggest hurdles that needed to be overcome .
+
+On October 17th 2017, 17 prisoners were indicted for allegedly partaking in the uprising that occurred at James T. Vaughn Correction Center in Smyrna Delaware on February 1, 2017. This miscellany of individuals would eventually be given the moniker “Vaughn 17.”
+
+Contrary to our charge of “conspiracy,” prior to this case many of us had never interacted with one another before. As far as myself I only knew 3 of my co-defendants on a personal level. I believe this unfamiliarity exacerbated the tensions that arise while one is engaged in a struggle for life, freedom or truth. Ultimately our triumph hinged upon surmounting psychological barriers that were buttressed by our diverse array of ideologies, idiosyncrasies, experiences, maturity levels and ways of life. Out of all that, there still remained a sad but proven reality that weighed heavily on our minds. There’s 17 co-defendants — the odds are in favor of at least 4-6 opting to cooperate with authorities to secure some type of leniency for their cowardice. With that being the foremost concern, me and Jarreau “Ruk” Ayers approached individuals and recommended that they first consult with us, if they found themselves pondering thoughts of compromising. Being though the vast majority wasn’t privy to or knowledgeable of any specifics concerning the takeover, we would of provided them with details pertaining to our actions, so they wouldn’t concoct fabrications about anyone else. Figuratively speaking we’d accept being stabbed in the chest to present others from getting stabbed in the back. Only one person gave the proposal any consideration. More than anything he was frightened of the maliciousness of the deputy attorney generals, and felt vulnerable against the power they wield. Imagine going to sleep at night with 4 years remaining on your sentence, then morning comes and your greeted by 3 counts of murder, 3 counts of assault, 4 counts of kidnapping, 1 count of riot, 1 count of conspiracy. Internally a lot of my co-defendants were grappling with this abuse of discretion, but they never expressed any desire to seek a pseudo refuge in anticipation of the metaphorical slaughter that some thought was inevitable.
+
+During these preliminary stages it definitely appeared as though the prosecutors had everything rigged to ensure our guilt. The department of corruption aided their accomplice. By keeping us sequestered in living quarters conducive to the deterioration of one’s mind. Some of our adversaries disguised themselves as court appointed lawyers. The system “tried” to box us in on every level. For the first 8 or 9 months the only discovery (evidence) that “some” of us received was co-defendant statements, DNA analyses, and other reports that were deemed paltry. Any material critical to our defense specifically, information alluding to why we were charged was held under a protective seal by a judge’s order. The cumulative effect of these hinderances (tactics) provoked one of my codefendants to contemplate “throwing in the towel,” somehow he rationalized that pleading guilty to something he had no involvement with was a viable solution towards evading the barrage of mental intrusions. Their schematic design became so overwhelming that it nearly infringed upon his sanity. To a degree, all of us were on the verge of psychological exhaustion. Instead of mentally collapsing, it caused us to start making conscious efforts to morally support each other. This was around the time my motion to go pro se (represent myself) was granted. I filed a subsequent motion stating that I be issued a laptop and be given all the discovery discs that the lawyers were entitled to. My request was granted with the stipulation that I adhere to the rules and regulations of the protective order. Which basically meant that I share nothing with my co-defendants. “Yeah Aight!” Once I started receiving the material “we” began analyzing it. Simply saying that we immersed ourselves within this case would be an understatement. I never witnessed a group of individuals move with such a synchronized mind. “Due diligence” is why truly empowered our collective. After sifting through the discovery, which amounted to 7 boxes of documents and about 45 discs. There was no physical evidence, no surveillance footage, or forensic evidence. It all came down to our 17 against 41 lying snakes.
+
+The results: Me and Ruk was found guilty, for basically admitting to our levels of involvement. Deric Forney, Kevin Berry, Abednego Baynes, and Roman Shankaras were acquitted. John Bramble and Obadiah Miller had a hung jury on a few of the charges, but a retrial would not be pursued. Cory Smith, Luis Sierra (Abdul Haqq), Janiis Mathis, Robert Hernandez, Jonatan Rodriguez, Alejandro Rodriguez, Pedro Chairez and Lawrence Michaels all got their cases dismissed. R.I.P. to Kelly Gibbs who took a plea during jury deliberations of the first trial. He committed suicide the night the verdicts returned.
+
+This narration of events was shared to provide a fundamental basis to delineate another nuance of “Vaughn 17.” Like I mentioned, we were essentially strangers comprised of different races, affiliations, motivations etc. Some of my co-defendants had real beefs on the streets. We are a microcosm of the prison population, which reflects society as a whole. I just want to put emphasis on how our discrepancies became inconsequential after the true enemy was identified. If the 17 of us along with our comrades and supporters could unify to deliver a blow that caused the political landscape in Delaware to implode imagine what 1,700 or 17,000 strong can accomplish….
