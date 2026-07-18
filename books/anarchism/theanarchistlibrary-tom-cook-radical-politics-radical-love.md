@@ -1,0 +1,100 @@
+---
+title: "Radical Politics, Radical Love"
+author: "Tom Cook"
+date: "2012"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/tom-cook-radical-politics-radical-love"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The Life of Dr. Marie Equi"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "tom-cook-radical-politics-radical-love.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/tom-cook-radical-politics-radical-love.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/tom-cook-radical-politics-radical-love)
+
+Personally acquainted with many of America’s radicals in the first half of the Twentieth century, Portland physician and suffragist, Dr. Marie Equi was arrested with birth control advocate Margaret Sanger in 1916, and was sentenced to San Quentin Prison for her anti-war views in 1920. Yet it was only recently that her extraordinary life as an open lesbian has been acknowledged. This silence surrounding her affections ended in 1983 when historian Nancy Krieger, a University of Washington grad student, uncovered documents at the National Archives that revealed Equi’s rumored love affair with Portland resident Harriet Speckart.
+
+Marie Diana Equi was born in New Bedford, Massachusetts on April 7, 1872, the daughter of Italian and Irish parents. She spent her youth in Italy with her paternal grandfather, and while still a young woman suffered from a bout of tuberculosis, the deadly killer of its day, that sent many westward in search of a recuperative, dry climate.
+
+In 1893, Equi moved west to The Dalles, Oregon following her longtime friend, Bess Holcomb. Holcomb had accepted a teaching position, and the two friends lived together rather quietly in what historians refer to as a “Boston marriage.” That was until July 21, 1893 when a local newspaper, The Times-Mountaineer broke the following story of how Marie (identified as “Miss Aqua”), angered over a pay dispute between Bess and Bess’s employer, a Rev. Orson D. Taylor, took him to task by flogging him in public.
+
+“Considerable excitement prevailed on Washington Street near the noon hour today, and the blocks in the immediate vicinity of O. D. Taylor’s office were thronged by an anxious throng. Our reporter was not present, but learned from eye-witnesses that Miss Aqua, armed with a raw hide whip, paraded in front of Rev. O.D. Taylor’s real estate office, and threatened that gentleman with a horsewhipping if he appeared on the outside. He no doubt considered “discretion the better part of valor” and locked himself on the inside. She maintained her position on the sidewalk, so we are informed, for nearly an hour and a half, and during that time the gentleman kept himself barricaded behind a locked door. From information gleaned from parties who claimed to be acquainted with the circumstances, the grievance seems to be that Miss Holcomb — a member of the faculty of Wasco Independent Academy — in settlement for services last year, had been paid by Rev. O. D. Taylor, the president of the board of directors, $100 less than the amount he promised to pay her. Another version of the matter, and we presume the correct one, is that Rev. O. D. Taylor promised Miss Holcomb $100 individually, more than the amount allowed by the directors, and this he has refused to pay.
+
+Her personal friend and companion is Miss Aqua [sic], a spirited young lady, who says that she will not tamely submit to see Miss Holcomb cheated out of $100 of her salary, and that she will whip O. D. Taylor if it is the last act of her life. The sympathy of the crowd was with the young lady, and if she had horse-whipped the reverend gentleman the fine would have been subscribed within five minutes. Miss Holcomb is a scholarly and highly accomplished young lady, and is held in high estimation in this community. Miss Aqua is very much attached to her, and her friendship amounts to adoration.”
+
+Subsequent articles revealed that Equi had in fact, succeeded in her mission to avenge the wrong done to her companion. A competing newspaper, The Dalles Chronicle , reported that Equi,
+
+“...with flashing eyes, stepped into the private office of Mr. Taylor, armed with a horsewhip and demanded satisfaction. He claimed ignorance of the nature of the demand and shut the intruder out, who was also accompanied by Miss Holcomb.
+
+For the rest of about an hour, Miss Aquia [sic] walked up and down the streets oblivious of the presence of a hundred men who were enjoying the sensation and making all manner of remarks.”
+
+Simultaneously a warrant had been issued for Equi’s arrest, but was not served in time. At about two o’clock on that Friday afternoon, Equi met the Rev. Taylor at a place called William Mitchell’s Corner. According to The Chronicle article, “she began applying her lash, and Mr. Taylor turned and held her hands. She then commenced kicking him, and the crowd forced Mr. Taylor to relinquish her hold.” whereupon, “she rained blows thick and fast upon his back.”
+
+Taylor succeeded in running away, with Equi in hot pursuit only to be apprehended by the Sheriff, who promptly arrested her. She was held under bond of $250, but charges of assault and battery were dismissed.
+
+The Dalles Chronicle , which took a dim view of the sensational public display, insinuated that the relationship between the two women was not altogether wholesome. It noted that the two women,
+
+“...are friends of long standing. There has been an ardent affection between them since they were both school girls in Wellesley College...the singular infatuation between them, it is reported, has been the cause of Miss Holcomb’s almost total estrangement from her family. Her father is reputed to be wealthy, but refused to furnish a home to Miss Aguia [sic], at the solicitation of Miss Holcomb. Since then they have been constantly in each other’s society, and for over a year have been in The Dalles. Recently Miss Holcomb entered a homestead and the two have been living on it ever since, and have been much admired for their pluck. It is evident that both have a good share of that quality, though the manifestation of it on the street today cannot be seriously commended. However, she [Equi] is a queen today, and offers of financial backing are numerous.”
+
+The following day, a more sympathetic Times reporter interviewed the two women at their homestead, which newspaper accounts indicated was located “about two miles west of the city,” and “near Snipe’s Ranch.” Holcomb flatly denied the rumors of family estrangement reported in The Chronicle . The Times defended the couple in their edition, adding:
+
+“The ladies are not desirous of being made subjects of public criticism; but, as they have no male relatives west of the Rocky Mountains, are determined to protect themselves in the best manner possible. They are ladies in the fullest sense of the term; and demand consideration that such should receive from every gentleman...they desire to be left alone in their isolated home...and will remain in the future indissoluble friends which nothing can separate.”
+
+The reporter found them “very comfortably situated in their cosy little home,” adding that “Miss Equia [sic] had recovered from her excitement, and was in a very talkative mood.” The center table was “covered with beautiful bouquets of flowers,” which had been sent by admirers in the city, and some businessmen presented Marie with a dress pattern to replace the frock torn during the altercation.
+
+The Times account made light of the fact that Taylor, a Baptist minister, could be chastised by a young “brunette, of slight form and sanguine temperament,” and in frail health. Of Marie the newspaper remarked, “...her likes and dislikes are intense, and she would as quickly defend the reputation of a friend as she would her own. Of a jovial disposition, she is an entertaining conversationalist, and her language shows a nice and discriminating use of words.”
+
+It would seem more than a bit odd that a prominent minister should become the butt of jokes, and an unorthodox woman the heroine of this little episode in Marie Equi’s life, were it not for the fact that just three days following his flagellation at the hands of Equi, the Rev. O. D. Taylor was indicted by a Portland grand jury on charges of embezzling from scores of Wasco County investors in a shady real estate scheme.
+
+Despite public sympathy in The Dalles, the board of directors of the school refused to make good on Bess Holcomb’s salary. The citizens of the community in a characteristic gesture of frontier justice, raffled off the rawhide, and the proceeds amounting to over one hundred dollars, were given to the two young ladies from Wellesley College.
+
+A few years after the incident at The Dalles, Equi and Holcomb left for San Francisco, where Holcomb found work again as a teacher. Marie entered college, and eventually returned to Portland to be one of the first woman graduates from the University of Oregon Medical School in 1903.
+
+Her early medical labors in rural Oregon were hardly routine and demanded a great deal of self sacrifice, a trait that she exemplified when in 1906 after the San Francisco Earthquake, she helped to organize a team of Oregon physicians and nurses that journeyed to the beleaguered city. For her humanitarian work she was given a special commendation by the U.S. Army.
+
+That same year according to historian Nancy Krieger, author of “Queen of the Bolsheviks: The Hidden History of Dr. Marie Equi,” [ Radical America , Vol. 17:5], Dr. Equi met the young Harriet Speckart, daughter of Adolph and Henrietta Speckart. Harriet initially was hired as Equi’s medical assistant, and so began a relationship that was to last over twenty years. They shared apartments in the old Nortonia Hotel (now the Mark Spencer Hotel) for a few years, later moving to various apartment houses and hotels on the westside of Portland.
+
+Speckart was the niece of Olympia Brewing Co. founder, Leo Schmidt who in 1906 became aware of Speckart’s relationship with Equi, and hired a private detective to uncover information about Dr. Equi. Despite the Schmidt family’s attempts to break up the women’s friendship, Speckart remained loyal to Equi even when threatened with disinheritance from her family fortune.
+
+While residing and working out of the Oregon Hotel, the two became neighbors of another Portland physician, Dr. Alys Bixby Griff. Griff had been widowed, and set up practice with a young assistant by the name of Ruth Cohen, later made infamous as Dr. Ruth Barnett whose abortion clinic was shut down by the city in the 1950’s. Dr. Griff and Dr. Equi were two of only a handful of doctors in Portland who would perform abortions, and for years they served working women as well as many who were listed on the social register.
+
+Equi’s commitment to the struggles of working women intensified in 1913 when she joined the picket line at the Oregon Packing Co., then located at Southeast Eighth and Belmont streets. The owners of the company called on the city’s police to clear the sidewalks of the women strikers whom the Industrial Workers of the World (the Wobblies) had come to aid. Arrested with the workers, Dr. Equi was injured by a police officer while attending to one of the workers. The police brutality she witnessed that day moved her to espouse anarchy and the destruction of capitalism from that point on. Equi joined the I.W.W. movement (although she could not become a paid member of the organization by virtue of her profession), and quickly established herself as a beloved and respected figure in its ranks.
+
+In 1916, she was again arrested, this time with Margaret Sanger, when the noted birth control advocate appeared in Portland. Dr. Equi assisted Sanger in the writing of her pamphlets, and they became life-long friends, although there are indications that Marie’s affection for Margaret went further. In a letter dated, Oct. 20, 1916, she wrote to Sanger, “My sweet, sweet girl. I love you with an ecstasy and understanding of spirit that you alone have imparted to me thru the very brightness and flow of your intellect...my arms are around you. I kiss your sweet mouth in absolute surrender.”
+
+In her recent work on Sanger [ Woman of Valor: Margaret Sanger and the Birth Control Movement in America , Simon & Schuster, 1992], biographer Ellen Cheslen, noted, “years later on depositing this letter in her papers at Smith College, Margaret penciled in the following description of Marie: “a rebellious soul, generous kind, brave, but so radical in her thinking that she was almost an outcast. Upon arrival she captured every well known woman who comes to Portland. Her reputation is Lesbian, but to me she was like a crushed falcon which had braved the storm and winds of time and needed tenderness and love. I liked Marie always.”
+
+In 1915 Equi adopted an infant girl, and with Harriet raised the child. Years later as a student at Portland’s Lincoln High School, sixteen year old Mary Equi would make newspaper headlines as the youngest woman ever to fly an airplane solo in the Pacific Northwest. In a 1932 newspaper article, she remarked, “Math is my favorite subject,” and admitted that “she doesn’t crochet, ‘goodness, no!’ — but likes horseback riding, hiking, swimming and golf.” Mary called Harriet and Marie, her “ma and da.”
+
+That same year Harriet married I.W.W. member Tom Morgan only to divorce him suddenly two months later, citing “reasons of health” according to Equi researcher Sandy Polishuk [ The Radicalization of Marie Equi , 1971, unpublished manuscript at the Oregon Historical Society]. Morgan “complained bitterly to some fellow I.W.W. members about how ‘Doc stole his wife,’ writes Krieger. “The daughter of one of those members, Julia Ruutilla, later to become a friend of Equi’s, overheard this and asked her father what the word “lesbian” meant. Defending Equi staunchly, the father replied that anyone’s sexuality was the preference of the individual, and that “Dr. Equi was a wonderful woman and that this was quite well known in the labor world and anyone with any brains didn’t criticize it.”
+
+In fact, her lesbian loves were known to investigators from the U.S. Dept of Justice (now the F.B.I.) who spied on Equi’s personal life, and as a result became aware of her affair with Irish nationalist Kathleen O’Brennan and others. See “Report of Special Agent Bryon”.
+
+Marie’s sharp turn to the left in her political beliefs, more and more brought her at odds with the establishment of big business, politicians, and all those who were invested with the duties of maintaining the public order. In 1916 she had joined the American Union Against Militarism, and was asked to protest at a huge war preparedness parade in downtown Portland. During the rally, Equi unfurled at large banner reading, “PREPARE TO DIE, WORKINGMEN, J.P. MORGAN & CO. WANT PREPAREDNESS FOR PROFIT.” Her appearance touched off a minor riot among the crowd; the banner was torn from her hands, and she was forced to kiss the flag. This event along with other speeches she had delivered in Lowndsdale Square, and at the I.W.W. Hall, brought the attention of the police to her activities.
+
+On December 31, 1918, Marie Equi was found guilty of sedition (as were countless others opposing American involvement in one of Europe’s bloodiest wars) under a newly amended Espionage Act. The law “forbade criticism of the U.S. government, the constitution, the military, the flag, navy or uniform.” At her trial, Special Agent William Bryon of the Dept. of Justice, called her “an anarchist, a degenerate, and an abortionist.” At the end of the trial, the U.S. prosecutor, Barnett Goldstein, contemptuously referred to her as an “unsexed woman” in a thinly-veiled comment on her lesbianism. She demanded an apology, protesting that “a man born in Russia should sit in judgement of an American born woman.” During the next year and a half, her attorneys fought vainly to have her conviction overturned. Mary Equi in her later years would recall how she and her mother were spat upon in the streets of Portland during this period.
+
+In October 1920 she entered San Quentin prison to serve a three year term which was later commuted to a year and a half. “From what I heard, Dr. Equi was a terrible inmate, always rebelling against the rules,” mentioned her friend Ruth Barnett years later. “Dr. Griff and I took care of her patients for her while she was in the federal penitentiary. I remember that first Christmas she was there, she wrote me and asked me to buy Christmas presents for about twenty of the other women prisoners.”
+
+While in prison, Equi wrote a letter to a friend questioning her self-worth, and expressing her fears about being “queer.” In her friend’s reply she was advised not to “worry about her relationship with her ‘full-bosomed mate.’”
+
+“What you say about yourself being queer, well — I must convince you that you are not. It is a fact you have dared to do the unestablished thing, and therefore the unapproved, that you are looked upon as queer. So Marie D’Equi, be good, and take the advice of a friend; you are perfectly sane, though perhaps unusually out of the ordinary...continue to act, think, look as you have for years past, and somebody will be glad to see you unchanged when you get out.”
+
+During her incarceration in San Quentin prison, Equi’s personal correspondence was copied and read by agents of the United States Department of Justice. Copies of her letters can still be found to this day in her files which are now housed in the National Archives facility in College Park, Maryland. Of prime interest to the Department of Justice were efforts made by Equi’s friends to secure a pardon on her behalf. J. Edgar Hoover who was then Assistant Director of the Bureau of Investigation, made mention of this to a superior in a letter dated April 29, 1921, noting also that Equi was “associated with Elizabeth Gurley Flynn, Anita Whitney and Emma Goldman...and was a professional abortionist.”
+
+From 1928 to 1936, Elizabeth Gurley Flynn, the well-known I.W.W. agitator and communist, lived with Equi. Equi had nursed Flynn back to health a few years earlier following a heart attack while Flynn was on a speaking tour of the west coast on behalf of Saccho and Vanzetti.
+
+Also among these letters, we can document an extensive correspondence between Marie and Harriet during the period of Marie’s imprisonment. These letters poignantly reveal the emotional difficulty of Marie’s separation from her lover and child. The letters reveal Marie’s intense concern that the two of them be provided for during her absence, and that some degree of stability was attained for her little daughter’s childhood. Harriet had moved with Mary to Seaside, Oregon where they continued living even after Marie’s parole in 1921. Harriet died on May 15, 1927 at her home in Seaside, Oregon, and young Mary Equi eventually returned to live with her “da” at their residence, 1423 SW Hall street.
+
+Marie Equi’s life had its share of contradictions. For instance, her fiery denunciations of capitalism do not square with the fact that upon her death, she left an estate valued at over $100,000, much of it in industrial stockholdings. Historian Arthur Spencer, who was a boyhood friend of Equi’s grandson, recalls visiting at their home on Upper Hall street. He described Marie Equi as a “holy terror” even then in her old age, although her years of political activism had long since passed. Marie Equi died on July 13, 1952 in Portland’s Fairlawn Hospital.
+
+This essay was compiled based on the research of Sandy Polishuk, Nancy Krieger, and additional research on The Dalles incident by GLAPN researcher Tom Cook. Special thanks to Arthur Spencer for bringing our attention to Dr. Equi, and to photo librarian, Susan Seyl of the Oregon Historical Society for providing the stunning images from their collection, some of them never before published .
