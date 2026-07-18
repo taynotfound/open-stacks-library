@@ -1,0 +1,42 @@
+---
+title: "Politics Work"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/politics-work"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Translation of an article that appeared in Il Manifesto in 2008."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/politics-work)
+
+Translation of an article that appeared in Il Manifesto in 2008.
+
+It is time to engage in a new research project. Our theme is: work and politics. Yes, because it is a novelty to concern ourselves with this theme. It says a lot about the condition we find ourselves in. What until some time ago was an old conviction has today become an entirely new realisation: either the workers constitute a political force or they do not exist. And the political inexistence of the workers is of course the problem of the Left, but it is also the problem of society and the state, it is the real theme behind the crisis of civilization. If we don’t put it in these terms, we will not find the compass that we seek in order to orient ourselves in the open seas of world-capitalism, once again thrown into turmoil by affairs that are entirely its own.
+
+This is what it hurts to see today: that the class adversary is not in good shape, that it is unable to provide for the majority of its subalterns, and that nevertheless its problems are entirely relative to the relationships between its internal parts. At base, labour-power too was an internal part of capital, but when it took off the uniform of the producer of surplus-value and donned the outfit of the realiser of political value, it threatened, as we used to say, the constituted order, hinting at something other and beyond. Now instead capitalist contradictions are only ever settlings of accounts between sections of the dominant forces: financialisation against real economy, liberalisation versus regulation and vice versa, market and/or state, world distribution of energy resources and therefore pieces of the world against other pieces of the world, but still within a single thought of social relations: the bosses – whether private or public – rule, and the workers comply.
+
+Bringing the theme of work back on the political agenda. How? With whom? The answer to the last question seems obvious: with the workers themselves. Getting to know them again, these unknowns. Getting them to speak again, these mutes. Bringing the place of work back into the non-places of today’s politics. Empirical inquiries are not lacking. We are not starting from zero. Thankfully, the social sciences exist, data and numbers are not lacking, investigations have been carried out with regularity, the latest one by the metalworkers’ union, FIOM. What’s missing? A political interpretation: serious, lucid, realistic, non-ideological, non-conventional, non-electoralist.
+
+The famous transformations of work are like the equally famous transformations of capitalism: when everything has been said, nothing has changed. The storytellers of the social come and describe the state of affairs: the liquid instead of the solid, what melts into air rather than what sediments on the ground, the whole that must become flexible, the production that becomes molecular, the power that is everywhere and nowhere like the holy spirit, because it is micro and no longer macro, and then the immaterial, the cognitive, the politics that is bios, made to measure for the asocial individual – forget about women and men of flesh and bone who organise themselves for the struggle. With limitless patience we read and listen, careful not to let what we don’t know slip through our fingers.
+
+What is to be done about the exploitation of work? Do we put up with it, hiding it like dust under the carpet of good manners, or do we start once again to condemn it, showing that it is what objectively and materially unifies the current form of fragmented labour? Is it not true that today the social figure of the exploited brings together the worker in the great factory, the employee of the small service company, the precarious call-centre worker, the college graduate baby-sitter, the teacher or professor commuting while she awaits a permanent post, the labourer risking his life in one of the many thousands of subcontracted firms, the immigrant construction worker, the part-time researcher technician and the scandalously underpaid, or even not paid, contract lecturer, all the way to the self-employed worker filing his tax returns who, compared to rest, has the privilege of exploiting himself? We could go on and on. Asking what worker means after the working class is the same thing as wondering what the Left is after the workers’ movement. This is well and truly an epochal problem.
+
+If it is true that the political centrality of the mass-worker has been replaced by the political centrality of the mass-bourgeois, then a great anthropological question poses itself on the terrain of human labour. The ideological hegemony of the Right – your boss’s interest is your interest, and you should do things on your own and not with others – does not stop before the factory gates, just like it doesn’t wait in front of the entrance to the home, where the holy family dwells. It enters, penetrates, invades, conquers, seizing hold of the soul – if there is no body of collective forces that pushes it back, countering it with the reasons of an organised solidarity. The material condition of subaltern labour – whether dependent or autonomous, stable or precarious – must now face up to this politically unprecedented situation, that the middle classes no longer need to be a separate social stratum, because they have become a diffuse democratic mentality. This is an illusory veil which the presence of an alternative horizon, both credible and practicable, has the duty to rend asunder.
+
+But who today denounces the evils of society? A few precious experiences among social movements, some isolated scholarly gadflies, the odd papal homily, some praiseworthy grassroots philanthropy. What is lacking is the powerful voice of a subject that counts, and that makes its authoritativeness count, armed with consensus and thought. Work and politics is the point from which to begin once again to weave the interrupted thread of a new fabric of organisation. Around this point everything can be born, in terms of discourse and multiple experiences, but without it nothing will be born. It is first and foremost a political-cultural battle.
+
+We are working in the furrows of a great tradition. But this is only a temporary surrogate, while we await the return of the initiative into the hands of practical politics. Of course, we need to make workers speak, even through new forms of co-research. But we must also start speaking about workers again, with programmes and projects that concern them directly, existentially. And here the forms in which practical politics is currently organised on the Left do not work, they do not respond to the command that the theme of work and politics should trigger in the operational machine. The latest disheartening events tell us as much. The Partito Democratico spoke of something else, the Arcobaleno didn’t speak to anyone, and it will not suffice to cloister oneself in a generous heretical sect of the refounders of communism in order to resolve this problem.
+
+An alternative Left that for the time being closes ranks around the field of work is necessary, and we must therefore make it possible. But this too must be thought and practiced as a passage rather than a point of arrival. Once upon a time we used the formula ‘the world of labour’. Now we sometimes say ‘the world of labours’: not that much has changed when it comes to the fact that whatever world we’re dealing with, we need representatives and forms of representation adequate to it. To put it bluntly, so that everyone will understand, we need a great political force, a popular Left, rooted in the real country, with mass confidence – social before it is electoral – a mass party of working men and women, with the political pride to name the matter at hand in this way. Then, we might even lose some battles, but at least we’ll know that we’re there fighting a just war.
+
+Does anyone know the original source (i.e., the il Manifesto article) that this was translated from? I would like to cite this article by Tronti and I need the original Italian
