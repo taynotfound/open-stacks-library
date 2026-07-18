@@ -1,0 +1,32 @@
+---
+title: "Manager Strikes Back"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/manager-strikes-back"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/manager-strikes-back)
+
+The Manager Writes... "Hi, although I think you’re all wrong, I enjoyed your site lots. For sure I know what you mean about external managers they don’t have any idea and it’s terrible. See, I also know what you mean about how the job can be hard work, shit, yes you are all right there. It is a shit job. I know this because I worked up to my position through the ranks, I was a crew member for many years and I got my promotion the hard way, I worked my way through the ranks. I am a first assistant, I have been with the company for nine years, I know more about McDonalds, including the bad bits, than any of you. It is as I said, I liked your site, it made me laugh. But i want to explain to you why you are all wrong, why you have an argument that is actually crap.
+
+See, all of you crew members y ou all think that you are the ones that are doing all of the work. That is so not true. Most of you are retards, sorry but it is true, our lives are made a misery by you retards that can not turn up to work on time, can not follow simple instructions. Some of you come into the job and you have never done anything, you do not know how to sweep a floor. You have never done a days work. It is us managers who have to compensate for your inadequacies. See, I was a crew member and i was agood one. So now when i hear a retard crew member moaning about how they do all the work i know this is crap because if tey could do the work they would soon get promoted. You say you have worked for McDonalds for years and you are still crew members. I am sorry but that makes me think that you are also retards.
+
+You know there are lots of jobs outthere. You work for McDonalds because it is as good as the next job you could get. There is no point moaning that it is unfair because you know that McDonalds is not a charity and because you alos know that the opportunitues are there. How could McDonadls mak opportunities more? Answer me that. What should be done, you wnat everyone to earn more money well that is just childish. Think about it. You know McDonalds aims to be the worlds number one quick service family restaurant. To do this we need to pull our weight. You get paid what you are worth in the market. If McDonalds paid you more it would not be so competitive. It would go bust, you must be able to see that. Then what ? A lot of crewmembers have the decency to be thankful for their jobs they do not have the skills to be employed by other. They get what they are worth.
+
+See, maybe I get paid more than you but that is because I am worth more, sorry but I am. And sure, yesi would like to earn more money but what am i to do because i understand how competititive the industry is and how important it is that we control labour costs. And sure, this is my job to try and get some work out of you kids but if i do not do that then i am not worth anything and i am another retard moaning about how unfair it is. And do not dare say that I am a ‘lazy git’, i work so hard that last year i had a breakdown from the stress of my job. I work harde than any of you that is why i am worth more.
+
+It is like i said, you are funny but you do not understand teh hard realities of the busineness world and you should not work for McDonalds. You should try something else because you obviously do not want to make a success of you McDonalds career the opportunities are there if you wanted to. You do not want to work in the first place so you are just more retards. You should stop all this nonsense about ‘fuck shit up’ and stealing because that is just making things more difficult for people like me and i have a very difficult job and i agree that sometimes things ar eunfair but that is not my fault that is just the way things are and you are never going to change that. so yes, stop f@*$ing about and make something of your lives."
+
+Come on mate, open your fucking eyes. The “opportunities are there”, what opportunities? Opportunities to get on like you’ve done, to work so hard for an “unfair” system that you get stressed and have a “breakdown”? We’re worth more than that and so are you. Has it ever occurred to you that many crew members aren’t “retards” but rather see how the company exists to make money out of us, see how the system is “unfair” and do not want to co-operate in our own exploitation? You work your ass off to make other people rich, that’s not very clever. We’re certainly not suggesting that you’re a “lazy git” or that you get rich off our backs, that’s the big corporate dudes. You’re just a skivvy, a totally expendable slave you do fairly mindless robotic work and earn a fraction of the wealth that you produce. You are just like us and we encourage you to stop working so hard for them. Of course it’s difficult because if you stop giving shit to crew members you’re going to end up getting shit from your boss. So we recognise that it’s not your fault, but you must also recognise that we’re in different class positions and sometimes managers and crew will clash because it’s your job to ensure the McDonalds system keep functioning and it’s in our classes interest to rebel against the system. But crew and managers, we all suffer the daily humiliation of enslavement to the burger bosses pursuit of profit, we are all exploited. It would be nice if more of you guys realised this. McDonalds makes billions of dollars profit every year, we’ll need to do more to destroy their business than just get paid a bit more. But we don’t just want to bankrupt McDonalds, we want to abolish the whole system of employment. Like you say, bankrupting McDonalds would just mean another shit job with whoever took up their share of the market and we don’t want to spend our lives doing pointless things just because they make someone money, we don’t want to perpetuate the “unfair” system, we don’t want breakdowns because we are stressed and overworked. This requires all workers in all industries to start organising, our whole class has to stop taking shit. We’re going to stop fucking about and make something of our lives.
