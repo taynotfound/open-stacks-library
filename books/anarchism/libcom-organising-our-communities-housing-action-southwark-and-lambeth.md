@@ -1,0 +1,62 @@
+---
+title: "Organising Our Communities Housing Action Southwark And Lambeth"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/organising-our-communities-housing-action-southwark-and-lambeth"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by Housing Action Southwark &amp; Lambeth setting out their approach to organising. First published by Base Publication in 2015."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/organising-our-communities-housing-action-southwark-and-lambeth)
+
+An article by Housing Action Southwark & Lambeth setting out their approach to organising. First published by Base Publication in 2015 .
+
+Housing Action Southwark and Lambeth (HASL) have been organising together for two years on housing, benefits and other issues we face relating to poverty. Over time we have explored ways to make our organising more accessible and better addressed to our diverse needs. There are people in our group for whom English is not their first language, some are the sole carers for their children, some have mental or physical disabilities, or struggle with various other difficulties that living in poverty can entail.
+
+HASL is part of the London Coalition Against Poverty. When starting up we found their booklet ‘ Building Mutual Support and Organising in our Communities ’ to be a vital guide. We recommend that others read this and hope that some of our insights from our early years are also helpful. London Coalition Against Poverty was formed in 2007 in response to the mass mobilisations around the G8. The idea was to set out a way to do politics that is relevant to our daily lived experiences and allows us to take control over our lives.
+
+We’re certainly not the only ones engaging in mutual support and collective action to meet our basic needs. The last two years of the Coalition Government saw several new groups form who shared a community organising approach. These groups include London Campaign Against Police and State Violence, Anti-Raids Network, United Voices of the World, as well as growing numbers of localised housing action groups, including Focus E15 mums and Sweets Way Resists. Links are being built between our groups and we are inspired by the work they’re doing.
+
+Recently, there’s been a renewed focus on ways people can provide practical support, action and solidarity for survival. We hope some of the experiences we share here can contribute to this.
+
+Like many of the other successful housing campaigns and action groups that have emerged – Focus E15 mums, Our West Hendon, Guinness Trust Tenants – we know collective direct action is often the only way to get the housing and benefits that we need and deserve. LCAP too, when it started out in 2007 in Hackney, described their approach of direct action casework: ‘acting together, disruptively if necessary, is the only effective way to win improvements’. Hearing tales in south London of Hackney housing office pulling down the shutters when they saw Hackney Housing Group (made up mostly of women of colour) descending upon them yet again was one of the inspirations for setting up HASL.
+
+When approaching the housing office, council, landlords, or any other institution with our reasonable demands doesn’t work, we discuss a variety of direct action tactics that we can use to put pressure on them to get our basic needs met. Our direct action tactics have included buddying at the housing office, town hall occupations , eviction resistances, and communications blockades.
+
+We make sure that our actions are as accessible as possible to our members’ different needs. Our actions are usually local (so not involving travel costs or tiring long distances), finish before school ends or are in half term holidays to include children, and child-friendly with activities for children and people sharing childcare. They don’t require any specific skill, simply being there as part of the group is enough to make a difference.
+
+And they get results! From occupying the town hall to demand someone is housed that day , to stopping an eviction , we can see the direct impact of our collective action.
+
+One of our members described our group to her sister: “I call the group the danbang group – in my language, Hindi street language, that means ‘solid’, you are ‘the solid group’. It also means a daring person, who can do everything. If they are evicting people, they resist it, they make a group and stand outside and talk to them (the bailiffs and council) so they are not evicted onto the streets.”
+
+Another member describes the direct action we took together: “The group saved my family from another embarrassment of eviction from the bed and breakfast provided by social services. They stood by us, very early in the morning they were in the hotel, pressing all buttons they know that will be useful. Even to the extent of escalating it to Southwark town hall to see the big boss.”
+
+We meet twice a month to provide support, information, advice and to plan actions. In these meetings we also organise how the group is run, any campaigns we’re working on locally, and our participation in London or national events and actions. As well as attempting to solve (or at least deal with) our problems together, we know that wider change is needed to achieve justice. Otherwise we will continue to face these problems again and again. Organising our mutual support and action together is absolutely key to how we work. The importance of this has been affirmed by our experiences over the last two years when we have sometimes drifted away from this collective approach. This leads to problems like, for example, one member becoming like a caseworker which can put huge stress and pressure on that individual which will result in inferior advice compared to the far more effective and powerful collective support provided through our meetings.
+
+How does it work? Someone will come to a meeting with a problem and together we will work out some possible options for actions we could take, explain the processes of these, refer to previous similar cases and how these went, and share our anger, frustration, outrage, and empathy with the person in question. Doing this as a group allows us to check the courses of action we’ve discussed. We can draw from and build the collective knowledge and experience of the group and the problem itself becomes one that we can deal with as a group, rather than unsustainable, stressful, and alienating one-to-one (unpaid) casework. As well as taking collective ownership of our issues, discussing them in the group allows people to see directly that they are not alone, that others are going through similar problems and that the issue is systemic.
+
+We wanted to set out time we could spend together where, unlike in our meetings, housing didn’t have to be the main topic of conversation. We have celebrated HASL’s birthdays, Christmas, and in the last couple of months we’ve managed to organise (almost) monthly community meals or supper/lunch clubs . Through collecting donations from local businesses, we have cooked up large meals to eat together. We want to make and eat delicious, nutritious food together. As well as struggling for good housing, we know that low incomes mean that we can struggle to afford and find time to make good quality food. We want to politicise and challenge (food) poverty, but we also just want to hang out together. We also want to create a welcoming space for people interested in the group to meet us.
+
+We have regular training sessions so that we can learn and develop as a group. As well as empowering ourselves through learning housing law, we also conduct skill-sharing on things like how to be a buddy at the housing office. The more that people learn, the more the group’s capacity grows as more of us can volunteer for particular tasks. Our recent ‘how to be a buddy’ skill-share was organised to encourage more people to feel confident enough to volunteer for this vital role (having a buddy with you at the housing office can be the difference between being turned away with nowhere to go that evening and getting access to the housing you need). LCAP has supportive lawyers who have run training sessions on housing law, and LCAP members ourselves have designed and run training sessions looking at homelessness law and role-playing how to get what we need at housing offices. These workshops have been vital for people to learn the few rights that we do have, to better understand our personal situations and to build confidence. Our recent eviction process legal workshop was a great example of radical education. With many people currently going through this process, getting an understanding of the legal aspects of it becomes even more important. The complexities of housing law need to be de-mystified.
+
+Whilst we’re not as organised as Focus E15 and Sweets Way Resists who have regular stalls every Saturday afternoon to talk with people about housing and share information about their campaigns, we do hold information stalls regularly (though without a set day or time) outside housing offices and job centres. This way we can talk to people about their situations, hand out ‘know your rights’ leaflets and invite them to come to a meeting.
+
+We’ve also organised workshops to talk about HASL, what we do, and basic housing rights with local community groups including the wonderful Skills Network and English for Action. These workshops help to strengthen our links and gets us talking about how we can support each other.
+
+At the very beginning and even later on, you might have a meeting with yourself and two other people who wanted to set up the group. Or maybe you haven’t had a concrete win in a while. It can still be demoralising at times and we can still take it too personally when we’re ignored when handing out leaflets. It’s dispiriting for sure, but if you keep on leafleting and speaking with people about their housing issues, leaving posters and leaflets about, people will come along to meetings and want to be involved. There is a huge housing crisis, things are getting worse. Doing what you’re doing makes sense, even if it’s tiny, you’re still building important knowledge and infrastructure for when more people get involved.
+
+Setting out some of the lessons we’ve learnt probably makes it all look and sound easier than it is. Of course, all these lessons and suggestions have been learnt after failures, frustrations, and difficulties which still continue. Organising a local group, even with a decent amount of people involved, still leads to common problems including high stress when urgent situations arise, feeling personal responsibility for people’s situations and the urge to try and solve it, people using the group as a service and not returning to the group once their situation is resolved, and our group being socially cleansed (whilst we have helped secure housing for people, sometimes this has been far away from the group, meaning it is difficult for people, already with very little time and other pressures, to continue to be involved). Sometimes there isn’t an immediate answer or concrete action that we can take to deal with our situation (homelessness law means that councils only have a duty to provide temporary accommodation for people who meet a narrow set of criteria). And sometimes our direct action does not get the results we wanted, sometimes our occupations are ignored.
+
+Discussing what to do as a group about these issues can help resolve them or lessen their impact. LCAP groups from across London meet every three months or so to share our experiences between us, and often hearing how other groups have dealt with similar issues is helpful and comforting.
+
+Housing action groups are being set up and growing across London and beyond, linked together through the Radical Housing Network and the London Coalition Against Poverty. Other grassroots groups are providing mutual support and fighting against the vicious and serious attacks we face. We’re starting to build tighter links between our groups – with our issues overlapping and interweaving as many members of HASL have experienced and as the recent Reclaim Brixton day and targets (town hall, Foxtons, Job Centre, Barnardo’s – for their links in child detention – and the police station) show. Join your local group!
