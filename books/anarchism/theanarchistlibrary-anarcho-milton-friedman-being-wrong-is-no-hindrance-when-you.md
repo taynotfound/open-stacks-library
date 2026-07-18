@@ -1,0 +1,52 @@
+---
+title: "Milton Friedman: Being wrong is no hindrance when you empower the rich"
+author: "Iain McKay"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/anarcho-milton-friedman-being-wrong-is-no-hindrance-when-you-empower-the-rich"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An obituary for Milton Friedman. Being consistently wrong does not stop you being considered a great economist, as long as it is what the ruling elite wants to hear. Retrieved on 28th January 2021 from anarchism.pageabode.com"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "anarcho-milton-friedman-being-wrong-is-no-hindrance-when-you-empower-the-rich.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/anarcho-milton-friedman-being-wrong-is-no-hindrance-when-you-empower-the-rich.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anarcho-milton-friedman-being-wrong-is-no-hindrance-when-you-empower-the-rich)
+
+Milton Friedman, one of the economics guru who inspired Thatcherism has died at the age of 94. Needless to say, the praise for this supporter of capitalism was flowing. As would be expected – if your dogma favours the ruling class, being proven wrong is no hindrance.
+
+Friedman produced more than his fair share of pain and suffering in the world. His ideas inspired the policies of Reagan as well as Thatcher. His personal invention in Chile ensured that Pinochet placed his ideological followers into leading economic positions where they imposed his ideas onto a terrorised Chilean people. The ironic thing was, wherever his dogmas were applied the exact opposite occurred.
+
+For example, his asserted in “Capitalism and Freedom” that the more capitalist an economy, the more equal it was. When his policies were implemented, inequality has soared to record levels. His great claim was that “inflation is always and everywhere a monetary phenomenon,” caused by too much money chasing too few goods. Applying his economic dogmas proved beyond doubt that this was not the case. Friedman also gave the intellectual justification for bringing down the post-war Bretton Woods system of fixed exchange rates. He raised the notion in 1953, but was utterly wrong when he predicted that there would be little volatility under such a system (speculators would go out of business). We have also learned better since then.
+
+The same applies to his grand dogma, “Monetarism,” which failed spectacularly when applied in the UK, US and Chile. While few people are now aware of this ideological nonsense, it was once quite the fashion. Faced with stagflation (high unemployment and high inflation), government’s looked for answers and Friedman appeared to offer them. The Tories were at the forefront in taking up the Monetarist banner but the 1974–9 Labour government paid lip-service to them as well. For a short while, Monetarism looked set to supplant Keynesianism as the dominant economic philosophy of the industrial world. That this situation even arose in the first place shows how far economics is from a science.
+
+Sadly for Friedman, his Keynesian critics were proven right. Critics like Nicholas Kaldor accurately predicted the failure of Monetarism long before it was applied. The reason why there was a “debate” in the first place was because of the “Bastard” Keynesianism (to use Joan Robinson’s phrase) rampant in economics. This was a Keynes made safe for neo-classical economics by Hicks (who, decades later, admitted his mistake). By showing that Keynesian conclusions could not be drawn from neo-classical micro-economics, Friedman exposed the baselessness of the post-war neo-classical “Keynesian” synthesis consensus. However, rather than dump micro-economics the “science” retreated even more into the surreal world of neo-classicalism. Only in such an intellectual context could Friedman be taken seriously.
+
+As an ideologue for capitalism, Friedman sought to show that it was a stable system and sought to exempt capitalism from any systemic responsibility for recessions. He attempted to show that the Great Depression was not a failure of capitalism, but rather of the state. He argued that the monetary authorities in the US and Europe reduced liquidity in the system, thus making a bad situation worse. Sadly, as his critics pointed out, even his own figures did not back this claim up. Equally sadly, no one has bothered to tell his fans. For Friedman’s 90 th birthday in 2002, Ben Bernanke — then a Federal Reserve governor, now chairman of the US central bank — stated that “Regarding the Great Depression, you’re right. We did it. We’re very sorry.”
+
+Nice to know that people with such a firm grasp of economics and history are in such commanding positions! You would think that the application of his economic dogmas would have been a sufficient wake-up call. The Thatcher and Reagan governments tried to implement his ideas of controlling the supply of money in order to stamp out inflation. And failed miserably. The first Thatcher government saw over 20% inflation and the biggest slump since the 1930s. Reagan’s record was as bad. The massive unemployment that generated did break the back of the labour movement, and so inflation, but never once was the money supply controlled.
+
+Showing he has little grasp of economics and reality, John Blundell, head of the free-market think-tank, the Institute of Economic Affairs , said: “It was Milton who taught us that inflation is not caused by the weather or trade unions or anything like that. It is always and everywhere a disease of money.” As noted, inflation is no such disease. As for “trade unions” not be responsible for inflation, well, the NAIRU Friedman spawned by his “natural rate of unemployment” thesis says, in effect, just that. No government now tries to control the money supply. Today, inflation is fought by keeping some people unemployed – i.e. by weakening labour (“trade unions”). Such state intervention on behalf of the rich is, apparently, unworthy of note unlike, say, the welfare state.
+
+Friedman’s argument was that if governments tried to keep unemployment below its “natural rate” then inflation would increase as prices and wages chased each other upwards in an unending vicious spiral is mainstream. That left-wing Keynesians had warned of inflationary pressures when workers were not scared by unemployment in the 1940s was forgotten as the 1970s seemed to prove Friedman neo-classical explanation right. The “solution” to the problem was not, as he argued, controlling the money supply but by breaking the labour movement so that workers paid the costs. He did help, though, as the recession deepened when his ideology was applied and raising interest rates replaced the impossible task of controlling the money supply.
+
+According to his obituary by Charles Goodhart in the Guardian “as a natural liberal, Friedman tended to doubt whether the powerful could be trusted to increase the welfare of the people.” In reality, his ideas helped ensure that the powerful could reduce the welfare of the people by proving them with the tools and rhetoric required to do so. He used his “expertise” to bolster the wealthy and to present a worldview which does not value anything that does not have a price tag on it.
+
+He was awarded the (non-)Nobel Prize for Economics in 1976, which was particularly shocking given his visiting Pinochet’s murderous regime the previous year and having a one-to-one meeting with the dictator to sell his economic ideas. But then again, the Swedish Central Bank does have very right-wing tastes when awarding its prize. Hence this years reward to Phelps for his work on the NAIRU (Friedman had already had one and Marx was long dead and too accurate about capitalism).
+
+Chile, of course, exposed the authoritarian core of his ideology. His Chilean followers admitted that no democratic regime would have allowed them the “freedom” to impose their ideology so ruthlessly. For Friedman, Pinochet “has supported a fully free-market economy as a matter of principle” so showing that he clearly had no idea what a “free market” is — apparently it is compatible with workers fearing a visit from the secret police and ending up tortured and dead in a ditch. Unsurprisingly, he proclaimed Chile an “economic miracle” in spite of the soaring inequalities and poverty — just before its economy collapsed.
+
+Friedman defended himself by pointing to the ultimate fall of Pinochet. “Freer markets lead to free people,” he said and so ignored the heroic struggles of ordinary people who braved the “lassiez-faire” death squads by taking to the streets in protest repeatedly in the 1980s. And it would be churlish to note the post-Pinochet “democracy” created ensured that the right and the military held real power, regardless of the outcome of elections. In other words, Chile shows that unfree people are required to produce freer markets.
+
+But, then, as a right-wing “libertarian” Friedman had little idea of what freedom was. His policies always has the effect of increasing the power of the boss over his wage slaves. Which made his contrast (in Capitalism and Freedom ) between “central planning involving the use of coercion – the technique of the army or the modern totalitarian state” with “voluntary co-operation between individuals – the technique of the marketplace” as two distinct ways of co-ordinating the economic activity of large groups (“millions”) of people so ironic. The capitalist workplace is structured in a hierarchical way and is based on top-down “central planning.” Workers are paid to obey within a totalitarian structure in which “voluntary co-operation” between workers (i.e. joining a union) is subject to “the use of coercion” (the threat of being fired). But, then again, right-wingers like Friedman are not interested in genuine economic liberty but rather seek to bolster the power of the boss.
+
+Ultimately, while the lobotomised Keynesianism of post-war economics survived its namesake for at least three decades, Monetarism predeceased Friedman by nearly two. His ideas caused untold pain and suffering for millions and reduced “economy liberty” to little more than the freedom of choosing which master will exploit and oppress you. He helped create the worse recession since the 1930s, breaking the back of labour and ensuring the rich got richer. He will not be missed.
