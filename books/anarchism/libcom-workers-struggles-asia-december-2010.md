@@ -1,0 +1,82 @@
+---
+title: "Workers Struggles Asia December 2010"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/workers-struggles-asia-december-2010"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Summary and links to news stories of workers&#039; struggles around Asia (focusing on East Asia) during December 2010 and related resources. The most important stories appear on my Twitter feed as soon as I find them: http://twitter.com/spartacusnews."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/workers-struggles-asia-december-2010)
+
+Casual workers at a Hyundai factory in South Korea staging a sit-in strike. Summary and links to news stories of workers' struggles around Asia (focusing on East Asia) during December 2010 and related resources. The most important stories appear on my Twitter feed as soon as I find them: http://twitter.com/spartacusnews.
+
+This month has seen strikes in Bangladesh , Indonesia, South Korea , and Vietnam , while in the Philippines the president forced the cancellation of a strike by flight crew (although in the end they appear to have come out best for the moment. Days after the student fees demonstration in London, students in the Philippines were also protesting against budget cuts . Meanwhile in China there has been a teachers' protest , online anger at an activist's death (complete with homemade manga) and a report that people are losing faith in government.
+
+Please note that in a change from my previous practice, only the most important and interesting stories are posted on my Twitter feed, usually 1 to 5 stories every couple of days - they are highlighted in bold in the summary below. Extra coverage, analysis and less important stories I have kept for this summary so as not to crowd the feed.
+
+For analysis of the auto worker strikes in China this article isn't too bad, while those looking for something to watch might want to try India: MANY STRAWS MAKE A NEST: Proletarian Unrest in Delhi's Industrial Belt .
+
+If you missed it husunzi posted The Alternative Education of a Chinese Punk (an alternative translation is here: http://t.co/GIRlmJZ ), an insight into what it's like to be a punk in China. Something else that might be worth adding to the library is the online poem doing the rounds on the Chinese internet: “You, Us” .
+
+After reading that you may wonder how Chinese internet users bypass official censorship so you can check out China Digital Times' Grass-Mud Horse Lexicon , which documents the widespread use of homonyms and other idiosyncrasies of the Chinese language to encode online discussions of social issues and other sensitive subjects.
+
+An even more intriguing resource for libcom readers will be the China Strikes site (found by a poster on China Study Group ). This project aims to plot the times and locations of strikes reported around China. Although a lot more ambitious, does anyone think something similar could be done for strikes, protests, occupations and other events around the world since the onset of the current crisis?
+
+Finally, if you want a more unusual calendar for the coming year why not consider buying this one ? Produced by CIRA Japana , an anarchist documentation centre in Tokyo, it's themed around Japanese anarchists who lived through World War II.
+
+Bangladesh: Cloth dyed in blood China: The Alternative Education of a Chinese Punk
+
+WSWS: Workers Struggles: Asia, Australia and the Pacific 4th of December http://www.wsws.org/articles/2010/dec2010/wkrs-d04.shtml WSWS: Workers Struggles: Asia, Australia and the Pacific 11th of December http://t.co/S4scWXE WSWS: Workers Struggles: Asia, Australia and the Pacific 18th of December http://t.co/LWWUEfS WSWS: Workers Struggles: Asia, Australia and the Pacific 24th of December http://t.co/z29PDqK WSWS: Workers Struggles: Asia, Australia and the Pacific 31st of December http://t.co/qpQ26NG
+
+10: India: Lessons of the Stalinist CITU’s betrayal of the Foxconn and BYD strikes: http://www.wsws.org/articles/2010/dec2010/indi-d10.shtml 12: Bangladesh: Garment workers protest low pay http://t.co/AtCn3XM 12: Bangladesh: CEPZ erupts in violence, 3 killed http://t.co/eCVvjc6 12: Bangladesh: RMG workers go berserk http://t.co/rs75nCj 12: Bangladesh: One dead as Bangladeshi garment workers protest pay (Roundup) http://t.co/Y77pZ3a 12: Bangladesh: 1 dead as Bangladesh garment workers protest low pay http://t.co/HkSSnOC 13: Bangladesh: Six Korean firms hit by Bangladesh protests http://t.co/lDcDIc0 13: Bangladesh: Bangladesh cops kill three in pay protest http://t.co/96fqDYq 14: Bangladesh Labor Riot Reasons May Impact China http://t.co/n03TGPs 17 : Bangladesh: Factory fire and police killings fuel discontent among Bangladeshi garment workers http://t.co/dxVMc93
+
+Villagers injured during a protest against a land seizue in Boeung Kak
+
+November: Garment workers facing ruthless victimisation chinaworker.info/en/content/new… 3: Nearly 800 Cambodian garment workers fired over strike http://t.co/8zLmaPk 22: Thousands of poor people lose their homes to real estate development and plantation farming http://t.co/Vk2rIdV 23: Boeung Kak protest erupts http://t.co/3cqkFw0 26: Villagers block sugar firm http://t.co/Je6DZNy 29: Protest over giant land concession http://t.co/Xi7vY5C
+
+November: Zimbabwean workers protest over treatment by Chinese companies http://t.co/z6qg1gH November: Activist Beaten in Attack http://t.co/9HIAtvV November: Miners Shot in Yunnan; Miners Rescued in Sichuan http://t.co/eHGsBZy November: Migrant Families Complain about Educational Exclusion ... - http://bit.ly/eOISli November: Health worker’s nine-year petitioning ordeal ends in psychiatric hospital [http://www.clb.org.hk/en/node/100938] November: For China’s Women, More Opportunities, More Pitfalls « - http://bit.ly/ecHhME November: Latest Directives from the Ministry of Truth, November... - http://bit.ly/fSLxeT November: Guangdong ponders another increase in the minimum wage [http://www.clb.org.hk/en/node/100940] November: Once again, labour issues hot topic in domestic media [http://www.clb.org.hk/en/node/100941] November: The Cost of Coal in China « http://t.co/bJNCyV5 November: Wages, conditions improve as workers in China form unions http://t.co/TFL93DA 1: Mechanism to set delta wage floor urged [http://www.clb.org.hk/en/node/100943] 1: AIDS Patients Petition for Better Services « - http://bit.ly/gg32bP 3: China’s City Workers Prefer Rural Roots « - http://bit.ly/e4fFyc 3: Young Man in Detention Dies of “Suffocation by Quilt” « http://t.co/82HVHWm 3: Protest in Hong kong Against Chinese Mining in Tibet http://t.co/S5mHgx0 6: Latest Directives from the Ministry of Truth, November 29-December 6, 2010 « http://t.co/zWa12jg 8: Explosion at state-owned coal mine kills 26 [http://www.clb.org.hk/en/node/100945] 13: Forced labour reported in remote Xinjiang factory [http://www.clb.org.hk/en/node/100946] 14: Latest Directives From the Ministry of Truth, December 10, 2010 « http://t.co/Ay4WWIa 15: The glaring need for greater vigilance against labour trafficking in China http://t.co/x3UKUa5 15: Tips on Drinking Tea with Police « http://t.co/tvTZdfh 15: China mulls having courts rule on disputed forced demolitions to curtail local gov't powers http://t.co/Ja1iES1 16: Adding insult to injury: Workers denied justice and detained after self-mutilation protest http://t.co/KnwrZ0B 19: Neither Washington nor the Party State http://t.co/pFqwD3B 19: Class war in the new China http://t.co/RtjzVzv 19: HF Hung on class relations and the democracy movement in HK http://t.co/odlEvrY 19: Photo Collection: “The History of Forced Demolition in China” « http://t.co/mDx3AFY 19: WikiLeaks cable highlights fears in Beijing over social fragility http://t.co/NxnxwCN 19: Land seizures are the main cause of social unrest in China http://t.co/K4IKhOE 19: Deconstructing Modernization http://t.co/3gVAHFU 22: Finding the Facts About Mao’s Victims http://t.co/LbFwkYn 22: ‘Father’ of China’s Great Firewall Shouted Off Own Microblog http://t.co/YqFPrAG 22: Collective contract highlights problems of underpaid hospital workers in China http://t.co/kJY1WGL 23: Teachers Protest in Zhengzhou http://t.co/Mbtd2Gw 23: Teenage worker arrested after allegedly stabbing boss to death http://t.co/zoiC4ah 24: The Kids of Foxconn http://t.co/BvNw6A8 24: Prices Could Spark Unrest http://t.co/XvXB4sV 24: Stanley Lubman: China’s War on Dissent and Activism http://t.co/JYEJP4E 27: Auto Worker Strikes in China: What Did They Win? http://t.co/W1JPYYr 27: People losing faith in government http://t.co/eaIPwuU 27: Experts to file land seizure regulation proposal http://t.co/EQPy8QQ 27: A Cameroonian Journalist, Abused and Disabused in China http://t.co/Cl9koAC 27: UN concerned about China's food safety activists http://t.co/lqFPS7U 27: Behind the Li Gang Case, Part 1: Chen Family Forced to Drop Suit http://t.co/p2dV0no 28: Suspicious Death Ignites Fury in China http://t.co/ePsN8YZ 28: Anger Over Activist's Death http://t.co/6Pf1Xic 28: China Frees Father Zhao Lianhai Jailed for Milk Protest http://t.co/zt3K9Te 28: Milk Dad 'Out On Parole' http://t.co/i5qofeS 28: Beijing to increase municipal minimum wage, pensions and welfare benefits http://t.co/hkncemB 28: Chinese Use Internet to Show their Political Dissent http://t.co/Fd68AFZ 28: Behind the Li Gang Case, Part 2: Family Goes Silent, Legal Rumblings http://t.co/AtD1l3H 28: Beijing to increase municipal minimum wage, pensions and welfare benefits http://t.co/hkncemB 29: Season of Hardship Connects Struggling Workers in Two Worlds http://t.co/Aaf8Ysa 29: China’s New Netizens Voice Suspicions over Death of Village Chief http://t.co/ufGtGjs 29: Outcry grows over death of land rights campaigner in China http://t.co/TZ5iR59 29: Tiananmen Mother Held 74 Days http://t.co/DWyjKkb 29: 'Great Firewall' Extends Reach http://t.co/wnaAtby 30: Shanghai Pushing Gold to $1,600 Thwarts Fight to Shut Mines http://t.co/Kd7FVUc 30: Beijing warning on HK activism stirs outcry http://t.co/g3nvxJe 30: China To Go After Internet Phone Services http://t.co/NtlI7OC 30: Chinese Censorship Worsens in 2010 http://t.co/iZqzUU2
+
+8: Thousands of Workers PT Djarum Strike ( translated ) 13: http://www.thejakartapost.com/news/2010/12/02/detective-chief-beaten-labor-scuffle.html 13: Indonesian police suspects groups provoked students to rampage in Makassar riot http://t.co/ultsXpq 14: Hundreds of Plantation Workers Strike in Indragiri Hulu ( translated ) 14: Hundreds of demonstrators Forced Entry Rokan Hulu District Head Office ( translated 14: Why Student Protests in Britain Matter in Indonesia http://t.co/tw28UBH 19: Hundreds of PT Micro Garment Workers Demand Salary Increase ( translated ) 21: Thousands of residents of the rubber factory PT Bumi Nusa Makmur protested and demanded the immediate closure of the factory. Within a radius of 3 km it stinks. The demonstrators marched to the factory, threw rotten eggs and stones and burned tires. When trying to storm the factory, they clashed with the police. ([url=http://translate.google.com/translate?u=http%3A//berita.liputan6.com/daerah/201012/312353/Warga.Demo.Limbah.Pabrik.Karet&hl=en&langpair=auto|en&tbb=1&ie=UTF-8%5dtranslated]translated with Google translate from Indonesian) 22: Hundreds of PDAM Employees Hold Protest http://t.co/OZKTbVa 24: Outsourcing sees permanent jobs in formal sector drop to 35 percent http://t.co/Yqq8hXM 30: Torture seen as norm: Report http://t.co/IICMvLH
+
+19: ANA group pilots on domestic flights drop strike plan http://t.co/6YrTyDM 22: Big step forward for JAL - But union anger at job cuts could impede process http://t.co/VyByKL6
+
+12: New dam on Nam Theun River opens, environmentalists protest http://t.co/fdiii09
+
+5: Police fire tear gas on opposition protest http://t.co/nZB4aEW
+
+November: Students clash with cops, PSG in Baguio http://t.co/j8NW34z 8: PAL dispute deteriorating, Palace says http://t.co/IoCZDNr 9: 86% of PALEA members agree to strike http://t.co/0uim65Y 9: PAL says holiday bookings up by 10% as ground workers prepare to strike http://t.co/oK6TOmI 13: Students protesting budget cuts disrupt PNoy visit to technohub http://t.co/wH1HCMC 13: Aquino booed as students protest SUC budget cuts http://t.co/6BbGT0g 13: Filipino students protest cuts - UPI.com http://t.co/NbgoVE4 13: Aquino booed a second time by students protesting funding cuts http://t.co/emVV5BJ 13: Trike drivers cause chaos in Manila http://t.co/QpLWoQb 13: Another 'strike' looms, this time for Customs employees at NAIA http://t.co/UgkxKdL 13: Detained health worker rushed to hospital on 6th day of hunger strike http://t.co/ZlenB70 13: Cops should not lose cool during protests http://t.co/d6gxRH9 13: PAL workers' march against contractualisation http://t.co/UuOEIfG 13: Workers protest contract labour http://t.co/McrDg4u 13: PALEA threatens to stage protest actions anew http://t.co/qfWt81e 13: Back-channel efforts ongoing to avert PAL strike http://t.co/MVjn3tJ 13: PAL union votes to go on strike http://t.co/h338VMy 15: Aquino takes over PAL labor row; stops strike, layoffs http://t.co/tvJJoXS 17 : Workers protest contract labour http://t.co/wKUoHGY 22: Manila Standard Today -- 8 labor strikes mark peaceful 2010 http://t.co/zMz1Jg3 25: Philippine activists declare war against US coined counter-insurgency http://t.co/yOI2B8u 27: 40 workers ‘escape’ strikers on chopper to spend Christmas at home http://t.co/9aZho45 27: Philippine Airlines told to increase crew salary http://t.co/bieKFYy 27: Jubilant PAL attendants lift strike threat http://t.co/lchr7VV 27: FASAP drops strike plan after DOLE resolves retirement age issue http://t.co/RfQZS8r 27: Christmas treat: DOLE favors PAL flight crew in discrimination issue http://t.co/m0TJRS5 28: OFWs in Madagascar stage strike vs firm, seek repatriation http://t.co/bgV5Mxp
+
+November: Hyundai Motor stuck in temps’ strike http://t.co/p205gRr 9: UAW: Korean workers’ fight is our fight http://t.co/8l0bDzJ 10: Occupation of Korean Hyundai Plant Comes to a Close http://t.co/rxm4dPY 10: Bankers in action to protect themselves http://t.co/vGvmOfi 16: ‘Precarious’ autoworkers end heroic sit-down http://t.co/tKjAaPC 17 : Hyundai Workers in South Korea End Monthlong Strike http://t.co/0jlxVUB 19: `Just the first round' by `irregular workers' at Hyundai Motors http://t.co/iQQQGq0 19: 'We are not human machines'- migrant rights demo http://t.co/FwTwbQk 24: South Korea's First Nuclear Repository Goes Into Operation Despite Protest http://t.co/MS6syqe
+
+Sacked Japan Air Lines employees holding up ox dung at a protest against their illegal dismissal
+
+14: Hundreds clash over Taiwan petrochemical project http://t.co/Z86lSTc 15: : Brawl breaks out at Kuokuang protest - The China Post http://t.co/kr3lpTU 28: Sacked JAL flight attendants to protest on New Year's Day http://t.co/PAAgIzT 28: Former Japan Airlines employees stage protest http://t.co/vZlP7fv
+
+24: Thailand’s Civil servants allowed to form labour unions http://t.co/0fWcoAU 27: Farmers Threaten To Dump Paddy At Government House To Protest Falling Rice Price http://t.co/aminyP9
+
+27: 24,000 Vietnam workers strike at S.Korean plants http://t.co/SG4oHR6 29: Anger over Tet bonuses leads to strikes in FIEs http://t.co/eVFJ3TR
+
+it won't let me edit it again at the moment, so here's the link to the WSWS summary posted a bit after i posted this entry:
+
+WSWS: Workers Struggles: Asia, Australia and the Pacific 31st of December http://t.co/qpQ26NG
+
+Thanks for all this, as usual. And thanks for helping to publicize Many Straws Make a Nest. I started a thread about this here but it hasn't gotten much attention - probably not many people follow the "history & culture" forum.
+
+By the way, the Qian Yunhui cartoon says "Take a trip to Leqing!" It's said to be based on a poster for the film Let the Bullets Fly :
+
+Finally, thanks for the credit but it wasn't I who first translated and posted "Alternative Education of a Chinese Punk" here , that was ezapata, but I did revise the translation and post it on CSG .
+
+thanks for the translation, i could read 2 of the characters but one i don't know and the other is simplified so i wasn't sure. that film looks awesome!
+
+i saw your revision of the article on csg so assumed it was yours here too as i couldn't see another username there. cheers for the clarification anyway!
