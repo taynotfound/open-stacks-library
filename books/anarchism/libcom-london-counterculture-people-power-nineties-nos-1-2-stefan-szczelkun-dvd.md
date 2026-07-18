@@ -1,0 +1,38 @@
+---
+title: "London Counterculture People Power Nineties Nos 1 2 Stefan Szczelkun Dvd Review"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/london-counterculture-people-power-nineties-nos-1-2-stefan-szczelkun-dvd-review"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Review of Stefan Szczelkun’s documentation of grass-roots culture in these DVDs and an extraordinarily rich website."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/london-counterculture-people-power-nineties-nos-1-2-stefan-szczelkun-dvd-review)
+
+Review of Stefan Szczelkun’s documentation of grass-roots culture in these DVDs and an extraordinarily rich website.
+
+Documents of Dissentiment These skilfully shot and assembled video documents each contain two short films depicting important events and grass-roots protests and campaigns from the last decade. DVD 1 starts with a digital video record of “J18: the post modern revival of Stop the City, enacted on the streets of the City of London, 1999. The experience of one person with a camera at this historical and unique protest against global capital. The closest thing to being there yourself”. Mixing impressionistic still images with an evocative soundtrack and direct point-of-view edited footage as the day progresses, moments of celebration increasingly overlap scenes of confrontation with police, hinting at the darkening mood which characteristically accompanies carnival’s tendency to overflow the limits set for it by power. The second film, shot on Hi-8 and entitled ‘Memorials to Diana: spontaneous popular expressions of loss and treason in Hyde Park, September 1997’, is a contemplative forty minutes with Szczelkun’s camera roaming in a leisurely fashion among acres of floral tributes and scrawled doggerel dedicated to the maverick so-called ‘people’s princess’.
+
+DVD 2 includes a short edited Hi-8 video (shot with Thomas Zagrosek) at a South London eco-warrior camp in 1998/99, including on-site interviews with two of the protesters. This was a successful action against the development of a multiplex cinema on a wild corner of Crystal Palace park, showing how dedicated determination – especially given widespread local support and suitably imaginative tactics – is capable of warding off the depradations of capitalism in its ongoing global quest to enclose the commons for primitive accumulation. Then, ‘Reclaim the Streets and the Liverpool Dockers’ (April 1997) celebrates the first large-scale example of the spectacular demo technique which emerged in 1990s Britain from a resurgent class awareness among newly-politicised younger generations, allied with the traditionally radical communal militancy of this locked-out workforce in “the temporary occupation of urban areas by huge playful crowds – a kind of instant carnival that came out of the eco road protest movement”.
+
+Subjects of forthcoming DVDs include campaigns around disability activism and inclusive education, grass-roots film group Exploding Cinema, the Sharsted Street shared ownership self-build co-op, and archives from Kennington Park – along with a new series of digital video artworks by Szczelkun starting with Housework X, a project in which a plywood shed on wheels was dragged across South London in an exploration of second generation immigrant loss and relocation, continuing with an archive of self-produced t-shirts hinting at the creation of culture through the social production, negotiation and recognition of meaning and difference. This impressive breadth and depth of coverage shows the general significance of work such as the Redz Under Bedz project in supplementing the negligible inclusion in the existing historical record of self-produced representations of working-class experience, struggle and cultural expression – where the scant information that can be gleaned is typically framed within the agendas, tastes and structures of knowledge of middle-class disciplinary interests.
+
+Stefan’s website (www.stefan-szczelkun.org.uk) explicitly deals with these larger philosophical questions as well as containing a wealth of texts and images enlarging on some of the themes tackled in the DVDs – employing throughout his enjoyably down-to-earth practical utopianism which, combined with serious theoretical ambitions, always avoids patronisation or academic obfuscation. Of particular interest here is the fascinating short essay on Diana, which explores the ambivalent and contradictory significance of the strong feelings generated among ordinary people. This really ought to be included with its DVD – in fact both would benefit from extra material aimed at viewers unfamiliar with thinking seriously about the kind of collective action portrayed. The films do stand up by themselves as effective physical records, supplementing the memories of those involved and interested which might otherwise fade in these times of incessant mediated novelty trivia. However, their utility in encouraging the potential for future activism might be enhanced with carefully chosen text and images – within the DVDs and/or as printed inserts.
+
+The website is packed with various highly original and thought-provoking reviews and short essays on art and folk expression, discussions contrasting popular and high culture, taste and aesthetics, and a history of Working Press – a working-class writers and artists self-publishing group responsible for unique and valuable output which would otherwise never have reached the public domain. In line with the author’s emphases on grass-roots self-organisation and on the production of culture as well as its consumption and policing, there is also a comprehensive account (also submitted as a PhD thesis) of his own involvement in umpteen local artistic collectives in the 1980s and 1990s. And, contextualising these recent narratives with those from earlier in the twentieth century, there are links to his documentation of self-build shanty communities, including images of surviving examples at Shepperton-on-Thames, near Edinburgh, in the Tyne Valley, and on the Gower peninsula.
+
+The most substantial and important contribution to the site, however, is the revised version of his book ‘Conspiracy of Good Taste: Class Oppression and Culture’ (Working Press, 1993; with a new Conclusion added in 2001), laying bare the role of professional arbiters of artistic value in modern Western society – dictating from above acceptable forms of expression and lifestyle, thereby disallowing the creation of culture and the material lifeworld by ordinary people from the bottom-up, and consequently softening us up for the intimate government of everyday life. The British examples of William Morris and the Arts & Crafts proto-fascist purification of vernacular design, Cecil Sharp’s sad evisceratation of folk culture, and Clough Williams-Ellis’ bureaucratic wage-slave housing plantations illustrate the early tactics used – firstly to tame the rebellious dispositions perenially rooted in working-class culture; then as templates for the more sophisticated imposition of consumerism to short-circuit the re-emergence of its autonomy. Stefan Szczelkun’s multi-faceted deconstructions, reclamations, celebrations and exhortations to sociable human imagination represent a thoroughgoing and effective corrective to the inhuman consequences of class elitism and state prescription.
+
+DVD review published in Freedom , Vol. 67, No. 12, June 2006.
+
+www.variant.org.uk www.freedompress.org.uk www.tomjennings.pwp.blueyonder.co.uk
