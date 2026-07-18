@@ -1,0 +1,48 @@
+---
+title: "Some Clarifications Roberts Idea Falling Rate Profit"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/some-clarifications-roberts-idea-falling-rate-profit"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Roberts (in tandem with the likes of Carchedi and Maito) frequently makes decent critiques of the existing trends in the capitalist crisis. However, despite criticising others on the capitalist left for their neo-Keynesianism, he offers little more than the suggestion that nationalisation would solv"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/some-clarifications-roberts-idea-falling-rate-profit)
+
+Roberts (in tandem with the likes of Carchedi and Maito) frequently makes decent critiques of the existing trends in the capitalist crisis. However, despite criticising others on the capitalist left for their neo-Keynesianism, he offers little more than the suggestion that nationalisation would solve capital’s problems. The brief article here reveals a fairly fundamental error. (CWO)
+
+In a recent post entitled A world rate of profit: a new approach , the Marxist economist blogger, Michael Roberts, tried to validate Marx's theory of the fall in the rate of profit, which he rightly considers to be the most important law within the capitalist mode of production. It is a law which has already demonstrated capitalism’s most serious contradictions in the past but whose consequences are particularly obvious in today’s capitalism. It not only massively impedes the process of capital valorisation, but also has a negative impact on all the economic mechanisms of capitalism, leaving the system in a sort of permanent crisis.
+
+In the first part of his post he tries to demonstrate, with innovative statistical methods, the possibility of calculating the fall in the rate of profit on a global scale. In reality, his effort was initially confined to the G20, that is to the major capitalist countries such as the USA, Germany, Russia, China and Japan and some of the major developing countries. His promised aim is to extend the statistical investigation to less developed countries as well, to get an overall picture of the different speeds at which the rate of profit falls, thus arriving at an average of the various rates of profit on an international scale. A worthy effort, if he can pull it off. However, in the second half of his post he leaves himself open to criticism over what brings about the Marxist law of the fall in the rate of profit that has little to do with Marx. For example, Roberts, when explaining the relationship between the increase in the rate of surplus value (greater exploitation) and the change in the organic composition of capital – c/v, and not C/v as he mistakenly puts it, since we are talking about the ratio between constant capital (c), and the labour power employed (v) and not the total capital (C) – writes:
+
+"I shall look at decomposing the rate of profit into its key factors, namely the organic composition of capital and the rate of surplus value. This decomposition is important. It is one thing to show a falling rate of profit over time; it is another to show that this is caused by Marx’s law of the tendency for the rate of profit to fall. It could have other reasons."
+
+"If Marx’s law is correct, then it follows that when the rate of profit falls, the organic composition of capital (C/v) should be rising faster than the rate of exploitation (s/v). Under Marx’s law, a rising organic composition of capital is the tendential determining factor for the fall in the rate of profit and the rate of exploitation is the (main) counteracting factor to that. If the latter rises faster than the former, then the rate of profit rises – and there have been periods when that has happened. But over the secular long term, the rate of profit falls and that is because the organic composition of capital rises more than the rate of exploitation."
+
+"I shall look at decomposing the rate of profit into its key factors, namely the organic composition of capital and the rate of surplus value."
+
+He is right in seeing the need to break down all the factors that contribute to the manifestation of the law, but it is clearly insufficient when it indicates only the organic composition of capital and the rate of surplus value. Insufficient because it does not analyse the difference between the various types of surplus value, nor does it explain the link between these and the organic composition of capital. There is not just one surplus value. There is the absolute surplus value, the relative surplus value, and that relative surplus value consisting in the intensification of the production rhythms which substantially does not affect the organic composition. What surplus value is he talking about? And what consequences does he attribute to the various types of surplus value in relation to the increase in the organic composition of capital? In the first case, absolute surplus value (lengthening of working hours), has practically no impact on the rise in the organic composition of capital. In the second case, relative surplus value (the reduction of the labour necessary to replenish the worker 's wages) requires three conditions for it to be fully expressed:
+
+• an increase in the rate of relative surplus value; • the development of the productive forces; • major investments in constant capital and relative or absolute decrease in the workforce.
+
+An inevitable consequence is the modification of the organic composition of capital and the triggering of the fall in the rate of profit. This is the surplus value that must be taken into consideration and this is the relationship that links the increase in the rate of relative surplus value, to the change in the organic composition of capital and the fall in the rate of profit.
+
+Speaking indiscriminately of surplus value, understood as just the system of exploitation of labour power without making the necessary distinctions, is a serious error which, at its root, demonstrates a serious misunderstanding of Marxist method. For Roberts surplus value is synonymous with exploitation, so its rise can only be considered as a counter-tendency to the fall in the rate of profit. The fall in the rate of profit thus either occurs at the same time as a decrease in the rate of surplus value, or, as stated in his bogus quote from Marx,
+
+"Under Marx’s law, a rising organic composition of capital is the tendential determining factor for the fall in the rate of profit and the rate of exploitation is the (main) counteracting factor to that."
+
+Except that Marx never dreamed of attributing the role of counter-tendency to a general increase in exploitation. Apart from the fact that it is not clear why the organic composition increases without a factor determining it (relative surplus value or s) an increase in exploitation was not considered by Marx to be a counter-tendency. (Unless it is the absolute surplus value or the intensification of the production rhythms or of the relative s itself, in the short term and for the individual capitalist who temporarily acquires an advantage against competition on the basis of a technological innovation which is destined to disappear in the long run). When examining the differences between absolute s and relative s Marx argues exactly the opposite. The former leads to a counter-tendency to the law of the falling rate of profit because it increases exploitation but it does not change the organic composition. As for the second, he sees it as causing a modification in the organic composition and therefore of the fall in the rate of profit. Without excluding, of course, those situations where the increase in the rate of surplus value is greater than the modification of the organic composition that is put in place (as, for example, in the Eighties and Nineties with the microprocessor revolution). And finally, it should be remembered that Marx insists that the fall in the average rate of profit is determined not because the labour force is less exploited (by a decrease in the rate of surplus value), but because, in order to increase exploitation, capital has recourse to the relative s which, even as it increases the rate, triggers an increase in the organic composition which, in the long run, makes the triggering of the fall in the rate of profit inevitable. Conclusion of conclusions, the rate of profit falls not because the workforce is exploited less but because it is exploited more. Or as Marx put it,
+
+"Moreover, it has already been demonstrated — and this constitutes the real secret of the tendency of the rate of profit to fall — that the manipulations to produce relative surplus-value amount, on the whole, to transforming as much as possible of a certain quantity of labour into surplus-value, on the one hand, and employing as little labour as possible in proportion to the invested capital, on the other, so that the same reasons which permit raising the intensity of exploitation rule out exploiting the same quantity of labour as before by the same capital. These are the counteracting tendencies, which, while effecting a rise in the (relative – ed.) rate of surplus-value, also tend to decrease the mass of surplus-value, and hence the rate of profit produced by a certain capital." (Capital, Volume Three, Chapter XIV, marxists.org )
+
+Let's give to Caesar what belongs to Caesar and to Roberts what belongs to him, even if it does not belong to a Marxist analysis.
