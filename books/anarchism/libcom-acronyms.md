@@ -1,0 +1,22 @@
+---
+title: "Acronyms"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/acronyms"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/acronyms)
+
+The anarcho-syndicalist International is commonly referred to by one of several acronyms: IWA International Workers’ Association (English, used in this book) AIT Association Internationale des Travailleurs (French) Asociacion Internacional de los Trabajadores (Spanish) IAA Internationale Arbeiter-Assoziation (German) MAT Mezhdunarodnaya Assotsiatsiya Trudyashchikhsya (Russian) AAUD-E Allgemeine Arbeiter-Union Deutschlands-Einheits-organisation General Workers Union of Germany – Unitary Organization CCMA Comite Central de las Milicias Antifascistas de Cataluna Central Committee of Antifascist Militias of Catalonia CDS Comite de defense syndicaliste Committee of Syndicalist Defense CGL Confederazione Generale del Lavoro General Confederation of Labor CGT Confederation generale du travail General Confederation of Labour CGT Confederacao Geral do Trabalho General Confederation of Labour (Portguese) CGT Confederacion General de Trabajadores General Confederation of Workers (Mexican) CGT-SR Confederation generale du travail - syndicaliste revolutionnaire General Confederation of Labour - Revolutionary Syndicalist CGTU Confederation generale du travail unitaire - Unitary General Confederation of Labour CNT Confederacion Nacional del Trabajo National Confederation of Labour CNT-AIT Confederation nationale du travail National Confederation of Labour (French section of AIT) CNT-f Confederation nationale du travail National Confederation of Labour (CNT-Vignoles) COB Confederacao Operaria Brasileira Brazilian Workers Confederation COM Casa del Obrero Mundial House of the World Worker CORA Confederacion Obrera Regional Argentina Regional Workers’ Confederation of Argentina CPSU See “KPSS” CROM Confederacion Regional Obrera Mexicana Regional Confederation of Mexican Workers CSR Comites syndicalistes revolutionnaires Revolutionary Syndicalist Committees FAF Federation anarchiste francophone Francophone Anarchist Federation FAI Federacion Anarquista Iberica Iberian Anarchist Federation FAUD Freie Arbeiter Union Deutschlands Free Workers‘ Union of Germany FIJL Federacion Iberica de Juventudes Libertarias Iberian Federation of Libertarian Youth FOCH Federacion de Obreros de Chile Federation of Chilean Workers FORA Federacion Obrera Regional Argentina Regional Workers’ Federation of Argentina FORU Federacion Obrera Regional Uruguayo Regional Workers’ Federation of Uruguay FVdG Freie Vereinigung deutscher Gewerkschaften Free Association of German Trade Unions GCOM Gran Circulo de Obreros de Mexico Great Circle of Mexican Workers ISNTUC International Secretariat of the National Centers of Trade Unions IREAN Initsiativa revolyutsionnykh anarkhistov Initiative of Revolutionary Anarchists ISEL Industrial Syndicalist Education League IWW Industrial Workers of the World KAS Konfederatsiya anarkho-sindikalistov Confederation of Anarcho-syndicalists KPSS Kommunisticheskaya Partiya Sovetskogo Soyuza Communist Party of the Soviet Union KRAS Konfederatsiya revolyutsionnykh anarkho-sindikalistov Confederation of Revolutionary Anarcho-Syndicalists NAS Nationaal Arbeids-Secretariaat National Labour Secretariat NSV Nederlands Syndicalistisch Vakverbond Netherlands Syndicalist Trade Union Federation OBU One Big Union PCE Partido Comunista de Espana Communist Party of Spain POUM Partido Obrero de Unificacion Marxista Workers’ Party of Marxist Unification PSUC Partit Socialista Unificat de Catalunya Unified Socialist Party of Catalonia RKAS Rossiyskaya confederatsia anarcho-sindikalistov Russian Confederation of Anarcho-Syndicalists RILU Red International of Labour Unions (Profintern) SAC Sveriges Arbetares Centralorganisation Central Organisation of the Workers of Sweden UGT Union General de Trabajadores General Workers’ Union UON Uniao Operaria Nacional National Workers’ Union USI Unione Sindacale Italiana Italian Syndicalist Union VKPD Vereinigte Kommunistische Partei Deutschlands United Communist Party of Germany Archives: SAPMO Stiftung Archive der Parteien und Massenorganisationen der DDR (Berlin) IISG International Institute of Social History (Amsterdam) RGASPI Russian State Archive of Social and Political History (Moscow)
