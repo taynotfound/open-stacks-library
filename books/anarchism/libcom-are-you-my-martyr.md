@@ -1,0 +1,180 @@
+---
+title: "Are You My Martyr"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/are-you-my-martyr"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Comrade Motopu on the potential pitfalls when the Left looks to the Right for allies."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/are-you-my-martyr)
+
+Comrade Motopu on the potential pitfalls when the Left looks to the Right for allies.
+
+I travelled far and wide and unknown martyrs died What did you see there? I saw the one sided trials What did you see there? I saw the tears as they cried --Joy Division, “Wilderness”
+
+Jeff Sharlet’s essay collection The Undertow: Scenes From A Slow Civil War was mostly written during a drive in a rental car across the US. He was interacting, embedding, and talking with people at Christian evangelical events, MAGA rallies, a Men’s Rights convention, and various other far Right spaces. Sharlet has written a lot about Right wing extremism and Christian fundamentalists in the US, but when he thought about the MAGA movement he didn’t really consider them to be fascists. He changed his mind after reconsidering Trump’s personality, the glorification of violence and inclusion of paramilitary and street gangs, the movement’s assessment of the US as a decadent culture, and the embrace of white victimhood.
+
+The title essay of his book examines the tragic figure of Ashli Babbitt, whom Sharlet sees as embodying many of the fears, hopes, dreams and delusions of the American Right. He finds a lot of people who think of Babbitt as an angel, and many more who see her as a martyr. Defining martyr as “witness,” as in giving one’s life to attest to a larger truth, he asks “...what if she died as a witness not to fact but to dream?”
+
+Babbitt was the Air Force veteran killed in the January, 6th riot at the Washington D.C. Capitol as she attempted to climb through a broken window into the Speaker’s Lobby. Many of the rioters wanted to stop the certification of the January 6th election results and somehow keep Trump in office. She immediately became a martyr for the MAGA, Q anon, and fascist movements in the US and beyond.
+
+In discussions with preachers and televangelists, pop up church and Trump rally attendees, as well as people in small towns who invited him into their homes, Sharlet elicited heart felt responses on the state of politics in America. For me, this was the scariest thread of the book, the stunningly weird things many on the far Right believe.
+
+Just to give one example, Sharlet attends a Christian rally where Sovereign Citizen leader David Straight informs the audience that Hillary Clinton has already been executed by Trump. The Hillary you see now is all green-screen and technical trickery. According to Straight, Trump was accomplishing incredible things because he was actually still President of the other, real , US government. As Sharlet talked to people in the audience they seemed to take it all as factual.
+
+There are many on the Left who see potential allies in the far Right. Reactionary Right wing folks are often present in working class organizations, like unions. Though many hold bigoted views, the hope is that they learn more inclusive behavior in the fight, shoulder to shoulder with fellow workers of different ethnicities, nationalities, sexual and gender identities, etc. It’s not that Leftists can’t win over public opinion and give Right wingers reasons to warm up to them. People with different social and political beliefs do work together all the time for specific goals.
+
+But that’s not the same as tailoring our movements to be more inclusive to Right wing extremists and fascists based solely on their being working class. That is a mistake. At some point you have to admit there are actual fascists, racists, sexists, bigots, etc. who will not be won over to progressive or radical Left causes. Seems obvious, but the puzzle of gaining traction among the masses has caused many on the Left to lose their political compass. So much so that they begin to see secret radical Left positions on the far Right.
+
+There are many variations on “Left goes Right.” We’ve seen class reductionists jettison “social justice” issues, allegedly to appeal to meat and potatoes working class folks. Jettison core socialist and radical Left principles to create a big tent class-based organization. Forget Internationalism when we can settle for anti-immigrant unions in the name of “defending American jobs.” Forget racial equality, anti-racism, lgbtqi+ rights, reproductive rights, etc. Those issues are “too woke,” or devolve into “libtard” or “snowflake” fetishes that destroy class based organizing, we’re told.
+
+Lee Fang says people are being "reductive" if they can't see Tucker's white nationalist views on immigration make him a socialist.
+
+We’ve seen the Left fetishize blue collar workers to dismiss or mischaracterize “PMC” and other “aristocracy of labor” types as elites. Others do this by claiming that most workers don’t produce “value” (e.g. teachers) and therefore can’t be proletarians.
+
+We’ve recently seen “no war but the class war” used to deny people in Ukraine the right to defend themselves by whatever means necessary against capitalist dictator Putin’s invasion because doing so would be nationalism, at which point people have even invoked Rosa Luxemburg to run cover for Russian expansionism. The never ending torrent of Stalinist takes on the Russian invasion of Ukraine are indistinguishable from decades of rationalizations from groups like the International Action Center, ANSWER Coalition, and Code Pink running cover for Milosevic, Assad, Putin, Xi, and every other anti-working class regime so long as it is “anti-imperialist.”
+
+The kind of marches you used to break away from. Seems like some of the current online left didn't get the news.
+
+Hawaii videographer Karaokecomputer is a member of the "Ukrainians=Nazis" club. Welcome to the anti-imperialism of fools.
+
+These degradations of meaning are on display daily on social media, including posts by academics, media professionals, high profile youtubers, podcasters and social critics. Fascist rhetoric is often embraced or normalized by figures on the Left.
+
+Medea Benjamin has been an ANSWER Stalinist for as long as I can remember.
+
+The triangulation in these “Left” positions comes from precedents set during the Cold War. Noam Chomsky instructed us that the first duty of the activist is to work against what their own government does. There is a certain logic to that for those living “in the belly of the beast.” But the practice often leaves critiques of foreign capitalist regimes unspoken. Today that shows up as “Sure, Russia is invading, but they had no choice given how the NATO threat is expanding.”
+
+Cosmonaut Mag Chump in Chief Donald Parkinson has read over 20 million pages of Marx to develop his political line which is indistinguishable from the ANSWER Coalition's.
+
+So oppose NATO for Russia’s invasion. Triangulation means when tankies want to say Assad or Putin are somehow good, they do that by saying NATO is bad. If NATO imperialism created Putin’s invasion, that invasion must be defensive, hence anti-imperialist. The leadership of the Revolutionary Communist Party in Hawaii demands NATO stop the bombing in Ukraine.
+
+The Left sometimes does the same with the far Right. We can go back to the responses to the Oklahoma City bombing: Right wing nuts are bad, but they were made that way by FBI and state brutality against Americans.” Nazis bad, FBI worse, oppose the FBI. Notice that this is not the standard Left critique of the FBI as a repressive force protecting the smooth operation of the capitalist state. It is triangulation opening the door to saying that somehow the far Right is good, or at least just like the Left in their victimhood. A radical analysis would not give either side a free pass and would never suggest affinity with the far Right.
+
+Section II is a partial overview of the Right wing “martrys” and recent historical standoffs in the US. These are key moments that define the current victim identity of the far Right.
+
+We can trace the development of the far Right and white supremacist beliefs in the US back to the country’s founding and earlier. The unbroken history of US racism is well documented: the genocide of Native Americans, the Atlantic slave trade and the rise of the Southern plantocracy, anti-Chinese laws, the defeat of Reconstruction, Jim Crow, the homegrown Nazi movement during World War II, redlining and “urban renewal,” as well as the racism in working class and Left organizations, and countless other examples.
+
+It’s not that capitalism is a purely racial project, or that all whites are inherently racist, but that the US ruling class has always used racism to divide the working class. It’s important to remember also the moments of resistance, of white abolitionists, the flawed but important efforts at the Federal level in the Civil War and Reconstruction to end slavery and move toward equality, the support for the Civil Rights Movement and more recently of the BLM Movement by many whites and so on. There are examples of cross-ethnic class solidarity. The one I think of most is the union struggle on the docks and at the plantations in my home state of Hawaii that helped break the stranglehold of an Apartheid government in the mid 20th century.
+
+Many current threads of white supremacist and Right wing anti-government millenarianism started booming in the 1970s. These movements tended to see themselves as victims and losers of a race war. In that way they can be traced to the Southern “Lost Cause” rhetoric, but perhaps also seen as a reaction to post WWII developments. The rise of Civil Rights demands were threatening to white supremacy, and the end of the post-war economic boom put more stress on the average working person regardless of race (though non-whites were less the beneficiaries of that boom to begin with). Those white power formations of the 1970s onward tell us a lot about the dreams of people like Ashli Babbitt and about the creation of martyrs for the cause.
+
+At the same time I was reading Sharlet’s book I started watching a couple of shows. “Waco the Aftermath” (2023), led me to the first part of the series “Waco” (2018). These are fictionalized historical dramas, but looking at the relevant wikipedia pages, news articles from that time, as well as a few related books and articles, the main plot points seem accurate.
+
+“Waco” was based mostly on two books: Waco: A Survivor's Story by David Thibodeau, a Branch Davidian survivor, and Stalling for Time: My Life as an FBI Hostage Negotiator by Gary Noesner, who was the main negotiator at Waco and other standoffs. Judging by the tv series, both accounts are partly critical of Koresh while also sympathetic to the followers and why they held their beliefs. Noesner is portrayed as arguing vehemently for negotiation over psychological warfare or storming the compound. He is overridden by the hot headed militarized faction. “Waco the Aftermath” continues the story as events culminate in the Oklahoma City bombing.
+
+If anything, the first series is far too sympathetic to Koresh. It’s not that I oppose depicting how Branch Davidians saw themselves, it’s that Koresh’s child abuse, including marrying multiple “wives,” as young as 10 years old, and impregnating them upon their pubescence, is severely downplayed.
+
+“Waco the Aftermath” was even worse on this front. I worry the Branch Davidians come off as innocent peasants against a corrupt king, and McVeigh as their avenging angel carrying out a sublime act of retribution. I can’t help but hear Trump’s “good people on both sides” in my head as I think of the show.
+
+Watching these shows led me to the 2018 PBS “American Experience” documentary “Oklahoma City.” It provides a very useful timeline of the rise of domestic Right wing, Christian nationalist, and white supremacist terror in the US that preceded the Oklahoma City bombing. This documentary is my main source in the overview here.
+
+The documentary starts in Northern Idaho in the early 1980s where, in the previous decade, new white supremacist groups had formed. One of those was the Aryan Nations. They were led by Richard Butler who told his followers (many of whom are pictured in full Nazi uniforms with swastika armbands) that they had to destroy the allegedly Jewish run US government and get rid of all non-whites if they were ever to bring America back to normalcy. For Butler, that meant rewinding to the way things were before the, as he sees it, tragedy of the American Civil War of 1861-1865. A big concern was the alleged genetic mongrelization of the “white race.” The Aryan Nations wanted to establish America’s white Christian sovereignty.
+
+As US white supremacists got more organized in the 1980s, one group broke from Aryan Nations, which they saw as all talk and no action. This was “The Order” led by Neo-Nazi Bob Mathews and named after the white supremacist revolutionary group in the book The Turner Diaries . He was younger than Butler and more energized to carry out terror. The Order were the ones who killed liberal radio shock jock Alan Berg (on which Eric Bogosian’s “Talk Radio” was based). One of Berg’s assassins, David Lane, coined “the fourteen words” slogan of the modern white power movement. Bob Mathews wanted to start the white revolution and so he and his fellow radical Nazis started carrying out bank and armored car robberies to fund it. Mathews dropped his gun at an armored car robbery leading the FBI to his door. He was killed in a shootout with something like 75 Federal agents in December of 1984.
+
+Mathews, and many other US fascists were big fans of the aforementioned Turner Diaries , by William Pierce. It became a blueprint type document for most white power folks. The book starts with the US government trying to take people’s guns. It includes plot points about a fertilizer bomb, like the one Timothy McVeigh would later use, and storming the Washington DC capitol as Trump’s followers carried out on January 6th, 2021. The book’s Final Solution is the mass murder of all liberals, Jews, and non-whites.
+
+Moving into the 1990s, the next featured standoff involves Army veteran Randy Weaver. Weaver and his wife held Right wing Christian fundamentalist beliefs and were attending Aryan Nations events. At one of those meetings Randy was enlisted to modify guns by sawing them off to illegal specifications for the AN. He needed some income at that time and agreed to do it. It turns out this was coordinated by an undercover federal informant, meaning Weaver was entrapped. Around this time the Weaver family had moved to Ruby Ridge, where they were much closer to the Aryan Nations compound. Weaver faced firearms charges but he refused to show up for his court date and so the FBI went up to bring him in, leading to the 1992 standoff. Community members showed up to protest and the news footage shows many of them in full Nazi garb or screaming about saving the white race.
+
+Weaver’s wife and son were killed by the FBI in a shoot out that also left one agent dead. One of the main themes developed in the Waco dramas mentioned above is the militarization of government responses and the quick resort to deadly force. That left white nationalists, but also many other observers sickened and worried.
+
+The history of the FBI is unsavory to say the least. Cointelpro, targeting and spying on peace and environmental activists, dissidents, and Civil Rights leaders, murdering Black Panthers and Black community activists, and their general role in upholding the broader American system of white supremacy and capitalist nationalism means there are no “good guys” to root for in these standoffs with white supremacists.
+
+Having said that, there is obviously also no point in either romanticizing Christian nationalist and white nationalist groups as innocent victims and martyrs or downplaying their bigoted and violent politics to make them sympathetic to the Left.
+
+Shed no tears for the martyr dying Only in pain, suffering and death Can the martyr become what he's chosen to be No tears wasted No sorrow, no pity No, no crying, no loss
+
+The next point in the thread of standoffs and martyrs is Waco and the Branch Davidians. David Koresh had taken over their Mount Carmel complex. Under his leadership the group was hoarding weapons. From a description of the trial of Branch Davidians in the New York Times:
+
+He showed the jury charts listing hundreds of firearms found at the site, including 61 AK-47's, 13 12-gauge shotguns, 11 Belgian assault rifles, 2 .50-caliber rifles and what he described as "literally millions of rounds of ammunition."
+
+Most of the materials found were legal, Mr. Cadigan testified, but 48 weapons had been illegally modified to be fully automatic. These included 20 AK-47's, 2 MP-5's, 2 Mac-11's and 22 M-16's.
+
+Koresh had convinced the Branch Davidians that he was a messiah, not Jesus, but equally as important. He prophesied that he and his followers would be attacked by the state. This would signal the opening of the fifth of seven Biblical seals. This fifth seal has to do with the crying out of martyrs for God’s vengeance.
+
+When He opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the testimony which they held. And they cried with a loud voice, saying, ‘How long, O Lord, holy and true, until You judge and avenge our blood on those who dwell on the earth?’ Then a white robe was given to each of them; and it was said to them that they should rest a little while longer, until both the number of their fellow servants and their brethren, who would be killed as they were, was completed.
+
+Inside the Mount Carmel compound life was as rigidly controlled as any of the worst modern cults, despite most Davidians insistence that they were there of their own free will. David Koresh forbid sexual relationships for any of the male members, and took many of their wives as his own. He “married” girls in the compound, as young as 10 years old, and impregnated many of them upon their reaching puberty. He justified the celibacy rule for all men but himself by explaining that, as Messiah, he must take on the “burden” of fucking anyone he wished. He was actually releasing the other men from the spiritual distraction of sex. Riiight.
+
+While the final siege by the feds was brutal and stupid, the FBI and others worried that either Koresh had plans for a terrorist action or that he would kill his followers Jim Jones style, like the 1978 Guyana tragedy 15 years earlier. The Waco standoff lasted 51 days. According to the ATF website , 24 members were released (mostly children) before the final confrontation. The hot head militarized FBI agents won out against Gary Noesner’s attempts to prolong negotiations indefinitely until the situation could be peacefully resolved.
+
+There was a point at which Koresh agreed to surrender and let everyone out, but he claimed God told him not to and went back on the deal. He kept his core of followers and his 25 biological children with him inside the compound. On the day of the final attempted “rescue,” he told his followers to set fire to the compound. This information comes from audio evidence in the PBS “Oklahoma City” documentary. Kathleen Belew in her book Bring The War Home also cites FBI transcripts of conversations recorded via bugs inside the Branch Davidian compound indicating the fires were intentionally set by the group (Belew, 206).
+
+Eighty-two Branch Davidians died in the fires, including 28 children. It’s not wrong to see the mask off moment, and the grinning skull of the state as the Branch Davidians and their children melted to death or died of smoke inhalation inside. But it’s also important to see the way Koresh manufactured this tragedy, openly prophesied it into being, and then had his followers set the fires that fulfilled his prophecy.
+
+Trump kicked off his 2024 run at Waco, for no particular reason.
+
+Some survivor accounts recall joy and spiritual fulfillment for Branch Davidians in their daily lives but we also remember how they willingly surrendered their kids’ childhoods to Koresh to propagate the new master race. Another image reminds us that Koresh was probably never any kind of “lamb.” He was arrested with his followers in 1987 for a shootout with a rival prophet to determine who would control the compound. He had been violent since before he took control at Mount Carmel.
+
+This timeline of martyrs culminated in the last decade of the twentieth century in the high casualty terror event that the movement had dreamt of at least as far back as the publication of The Turner Diaries in 1978. Timothy McVeigh bombed the Oklahoma City Federal Building on April 19th, 1995 killing 168 people, 19 of whom were children. The blast injured and maimed 680 more.
+
+McVeigh served in Iraq in the 1990-91 Gulf War. There he became disillusioned with the US, which he started to see as a global bully. Counter to some narratives, he didn’t immediately go home after Iraq. He first tried out for the U.S. Army Rangers, an elite infantry group. This goes against the idea that he became morally opposed to US wars after the incident in which he killed two defenseless Iraqis as a sniper. He washed out of the Rangers and then he left the Army.
+
+Upon returning home, he had trouble finding steady work and resumed his interest in white supremacy and conspiracy theories. He had a consistent simmering resentment of non-whites: “McVeigh took the federal civil service exam to work as a U.S. marshal and scored high but was never hired; he blamed this and other career dead ends on equal opportunity laws, and said black people had put him out of a job” (Belew214).
+
+After watching news coverage of the Waco massacre he recruited two army buddies, Terry Nichols and Michael Fortier, into a plan to bomb a government building, just like in The Turner Diaries . All three of them liked the explicitly racist book about the Final Solution against all non-whites, liberals, and Leftists. They were following the story of the keystone racist white nationalist text. When McVeigh made his bomb, the main difference between his and the character Earl Turner’s was that McVeigh used much more powerful fuel, Nitro-Methane racing fuel, making his bomb many times more powerful than the one in the book.
+
+It turns out that McVeigh’s racism did not develop after his Gulf War trauma. He had joined a KKK chapter while stationed at Fort Riley, Kansas. While there he had already been sharing his copy of The Turner Diaries with fellow soldiers (Belew, 212). From Fort Riley he was deployed to Operation Desert Storm.
+
+McVeigh also sold copies of of The Turner Diaries when he returned stateside, on the gun show circuit in the lead up to his carrying out the Oklahoma City Bombing (Belew, 110). Excerpts from The Turner Diaries were found in his getaway car:
+
+There are a lot more examples of McVeigh’s ties to white supremacists:
+
+“McVeigh’s phone records would later reveal several different calls, placed before the bombing, to an Arizona representative of the National Alliance—Turner Diaries author William Pierce’s white separatist organization.” In the lead up to the bombing he “also met repeatedly with a Neo-Nazi activist, and met skinhead leader Johnny Bangerter.” Mcveigh had “ample and sustained connections” to the white supremacist Christian Identity compound at Elohim City which he later downplayed. (Belew, 214-216).
+
+McVeigh was no more a “lone wolf” than countless other Right wing murderers since. His actions were inspired by his revulsion at US state power, but this was entirely shaped by the extremist Right wing literature he read and networks he moved in, from the Aryan Nations and the Order, to the millenarian patriarchal cult of the Branch Davidians he obsessed over. Then as now, single actors are mobilized without direct orders from any leader. The white nationalist networks disseminate conspiracy theories, racist hate speech, and literature that eggs believers on to acts of terror. McVeigh’s actions brought the story of The Turner Diaries , the Bible of his movement, into existence.
+
+People have pointed out that toward the end of his life, McVeigh saw him self as similar to a modern day abolitionist: “In the letters to reporters Dan Herbeck and Lou Michel, authors of a book about McVeigh, he said he hopes he will be remembered as a freedom fighter akin to John Brown, the 1800s abolitionist.” Source:
+
+McVeigh never lashed out at the underpinning structure of US state violence. He sought to bring The Turner Diaries to life to cleanse the US of what he saw as degrading elements. The bombing was an effort to accelerate the collapse of government that could pave the way for the great social and racial cleansing that “Earl Turner” envisioned.
+
+Gore Vidal had a three year correspondence with McVeigh, and took at face value his statements that he was not a racist, that he only liked The Turner Diaries for the actions Earl Turner took tactically, not all the racist stuff. This sounds an awful lot like statements from groups like Patriot Prayer and the Proud Boys. “How can we be fascists when we have Black and brown members?” There are a couple of obvious responses. First, fascism has never been the exclusive property of whites. These include Franco’s Spain, Imperial Japans military ruling class, Pinochet’s Chilean regime, and others.
+
+As for McVeigh’s claim that he didn’t hate Blacks or other non-white groups, anyone who has ever been around fascist skinheads (for example, in and around punk scenes) knows that they can party with non-white people one minute and engage in white supremacist rhetoric and violence the next. And non-white people can also join or support groups that act on white nationalist principles. Plenty of bigoted Latinx, Black, and Asian people backed the brutal fascist street violence unleashed during the Trump Presidency and after. Those attacks targeted antifa, Leftists, lgbtqi+, trade unionists, immigrants, drag queens, and others. That shows how movements that grow out of white nationalist causes can attract a multi-ethnic coalition of bigotry so long as adherents buy a narrative that they’re the victims and are desperate for violent punitive action against scapegoats.
+
+McVeigh’s world view, choice of reading, who he associated with, his support networks, all fits a white nationalist profile. Denying being a racist, or invoking abolitionist heroes is also by now understood as a common tactic for the alt-Right, Boogaloo movement, weird contrarian faux Leftists, and other fascists. David Duke constantly denies he’s ever been a white supremacist, even when he was the Grand Wizard of the Ku Klux Klan. Source:
+
+Gore Vidal wrote a piece in Vanity Fair based on his correspondence with McVeigh that was published in August of 2001, two months after his execution by lethal injection. He knew that McVeigh was motivated in part out of his anger over the Waco massacre. Vidal characterizes the Branch Davidians as “a peaceful group of men, women, and children living and praying together in anticipation of the end of the world, which started to come their way on February 28, 1993.” He dismisses charges of child abuse against Koresh as a symptom of the uptight times and generated by sensationalist media. He compares the Waco Massacre to the 1890 Wounded Knee slaughter of Native Americans. You get the idea. Vidal uses McVeigh as a spring board to write a critique of US culture and history of state repression and violence. In the process, McVeigh becomes a wisened martyr who taught us about US government abuses against its own citizens.
+
+Similarly, in the Fall 2001 issue of Race Traitor, John Garvey wrote about McVeigh, wondering if his righteous anger might have been channeled in such a way to make him a modern John Brown. Garvey takes McVeigh at his word that he wasn’t a racist, and claims that he “felt no special animosity towards any of his fellow Americans other than those who worked for agencies he thought to be responsible for assaults against peoples' rights and freedoms (such as the FBI and the ATF).” But we know that McVeigh was immersed in white nationalist circles and got most of his “anti-government” ideology from them, with TheTurner Diaries as a huge influence.
+
+Garvey takes McVeigh’s anti-government sentiment and terrorism against Americans as evidence that he could have been persuaded to channel the anger into destroying the whiteness at the core of American exceptionalism and imperialism. Garvey wrote that ““Timothy McVeigh never claimed to be a race traitor but he does not appear to have been a white supremacist.” He really does though. You can’t live the life of a white nationalist without taking on those prejudices. The proof is McVeigh’s network of contacts and every move in the lead up to and actual bombing. Reading what Garvey wrote in 2001, it’s possible he didn’t know about all of McVeigh’s white power connections and influences.
+
+To Garvey, if you believe in the goodness of US wars (and I don’t) you have to “pay close attention to the deeds and political vision of Timothy McVeigh.” Maybe, but you need to start by acknowledging that McVeigh’s political vision was white supremacist.
+
+Garvey cites McVeigh’s justifications for the bombing, that mass casualties will make the US notice, and that “collateral damage” is the precedent set by the US in the first Gulf War, Vietnam and other wars. McVeigh called out the hypocrisy in the way the presence of a day care center at the Oklahoma City Federal Building was held up as a sign of his callousness while the US government always claimed that civilian structures in war zones were utilized to insulate the enemy: “Yet when the discussion shifts to Iraq, any day-care center in a government building instantly becomes ‘a shield.’ Think about that.”
+
+Here it seems to me the answer is simple. Targeting civilian structures is wrong whether it’s Timothy McVeigh or US imperialism doing it. We can pay attention to McVeigh without legitimizing his actions as somehow effective or righteous. If his goal was to teach the US what collateral damage felt like, he failed, given the 2001 invasion of Afghanistan and 2003 invasion of Iraq, which killed over a milion people, including countless civilians along with vital infrastructure needed for basic life.
+
+Similarly, we can see the 911 attack on the towering symbols of US finance and empire as predictable blowback but simultaneously as criminal, morally repugnant, and serving the interests of ruling class actors. There is no reason to sanitize Osama Bin Laden’s rational for 9-11 or pretend he was acting from a righteous position in defense of human rights and freedoms.
+
+Garvey gives some social economic context to humanize McVeigh. He grew up in the deindustrializing US economy of the 1970s and 80s and would never have the job security his parents did. He also points out that this lack of regular work experience meant McVeigh didn’t really develop a class consciousness, and awareness of the enemy being the boss and the problem the social relations of capital.
+
+Garvey traces McVeigh’s alleged turn toward the wrong path of action to his time in Iraq, specifically an incident where he kills two Iraqi soldiers from a distance beyond the range of their weapons to return fire. McVeigh later said he felt like he was on the side of the bully. Garvey marks McVeigh’s awakening when he suddenly realizes he was killing human beings, as the moment he lost faith in the US military mission. What he doesn’t say is that after that incident, McVeigh tried out for the elite Army Rangers.
+
+It was after failing to become a Ranger that he went back home. Garvey again talked about McVeigh’s limited prospects, even his time as a “salesman at a gun shop and gun shows,” along with a stint defending an abortion clinic from protesters as a security guard. The sense you get there is that McVeigh was pretty liberal actually. He came back disillusioned with the war, protected women’s rights for a while, but had a hard time. Garvey doesn’t mention the fact that McVeigh was cultivating ties with white nationalists, and that he was selling The Turner Diaries at those gun shows. He also skips or didn’t know the part where McVeigh was sharing The Turner Diaries with fellow soldiers before the incident in Iraq. The book is not mentioned in his article at all.
+
+Garvey wrote that “McVeigh came back from the Gulf War a different person” which is somewhat misleading. The war may have unleashed his capacity for deadly violence but it did not change his white nationalist world view. McVeigh was consistently embracing white nationalist anti-government narratives before, during, and after his time in Iraq, and he built on those beliefs via ties to white nationalists after he returned up until he carried out the bombing. His war experience did not push him off this trajectory.
+
+That should make us cautious about the pitfalls of portraying reactionary individuals or segments of the population as we want them to be and not as they actually live their lives. We may paint them as open vessels waiting to be filled with the desire for cross-ethnic solidarity along class lines, equality for all, etc. If only we could bring them in to the struggle against capital and imperialism, shoulder to shoulder with the diverse working class, they would change.
+
+It’s not that we shouldn’t keep the door open to all to join that struggle, but creating people in our own image, believing there is a switch waiting to be flipped to bring them to our side, that is more projection than class analysis. Some people are deeply committed to destroying movements for equality, radical democracy, and a post-capitalist world. They’re not waiting for our outstretched hand of solidarity unless it’s to cut it off.
+
+Garvey describes McVeigh’s travels across the US in the lead up to his bombing, writing “[h]e reminds me of John Brown and Huck Finn....” Finally, sad that McVeigh lacked the necessary radical Left support system to connect his anti-government feelings into an abolitionist framework, Garvey writes that the potential was there, that “[h]e might even have become the John Brown of our day.”
+
+But Timothy McVeigh could never be a modern John Brown. Both men turned on those assumed to be their natural allies (whites for Brown and Americans for McVeigh), and both carried out acts of terror, but the glaringly obvious difference is that McVeigh, steeped in the anti-Semitic, white nationalist Turner Diaries , and moving in a white supremacist network, had no interest in smiting racists and ending racial inequality. The reason he terrorized the US government with a white supremacist support network is because he was fine with enacting their vision. Maybe he could have become the next John Brown and maybe Pee Wee Herman could have become Rambo.
+
+Gore Vidal was more enamored with McVeigh as he was, though he also wished for the radical he could have been. He consistently used adjectives like “heroic” and “stoic” when describing McVeigh. Much of his essay focuses on how Americans are simply too backward to appreciate McVeigh’s sensitivity and depth. Like Garvey, he wishes McVeigh’s rebellious streak might have led him to a righteous cause:
+
+...he seems more and more to have stumbled into the wrong American era. Plainly, he needed a self-consuming cause to define him. The abolition of slavery or the preservation of the Union would have been more worthy of his life than anger at the excesses of our corrupt secret police. But he was stuck where he was and so he declared war on a government that he felt had declared war on its own people.
