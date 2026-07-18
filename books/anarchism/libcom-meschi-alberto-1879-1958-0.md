@@ -1,0 +1,24 @@
+---
+title: "Meschi Alberto 1879 1958 0"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/meschi-alberto-1879-1958-0"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Une biographie courte de Alberto Meschi, une des grandes figures de l’anarchisme italien, toujours commémoré avec ferveur à Carrara."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/meschi-alberto-1879-1958-0)
+
+Une biographie courte de Alberto Meschi, une des grandes figures de l’anarchisme italien, toujours commémoré avec ferveur à Carrara.
+
+Alberto Meschi est né dans la ville de Borgo San Donnino (Parma) le 27 mai 1879. Autodidacte, enfant il avait rejoint le mouvement des travailleuses de La Spenzia où il a travaillé comme maçon. À partir de 1899, il a écrit des articles politiques pour le journal Pro Coatti, pour le journal syndical L’Edizia, et pour le journal antimilitariste La Pace. En 1905, il avait pris la décision de déménager en Argentine où il y est resté pendant quatre ans, se mélangeant avec les anarchistes et les militantes anarcho-syndicalistes. Il a écrit pour différents journaux anarchistes, et a aidé à organiser un syndicat de marché local. En 1909, il avait été expulsé d’Argentine, et était retourné en Italie. Là-bas, il avait participé à l’écriture du journal anarchiste Il Libertario. Il avait été une des figures principales de la Camero del Lavoro (qui peut être vaguement comparé aux bourses du travail en France) entre 1919 et 1922 qui avaient dirigé les luttes des travailleuses de la région. A Camara, l’arrivée de Meschi puis son travail avec Ugo del Papa signifiait que le prolétariat local commençait à se remettre de la grève patronale de 1905, et des conséquences qu’elle avait eue jusqu’en 1910. Durant l’été 1911, une grève de deux semaines parmi les travailleuses des carrières a amenée à une amélioration des conditions. Une année plus tard, il y avait eu une grève générale par toutes les travailleuses de l’industrie du marbre, grève qui demandait un accès au droit à une pension. Au printemps 1913, les travailleuses de Carrara et de Versilia s’étaient rejointes pour gagner la journée de travail de huit heures. À la fin de la même année, et au début 1914, une grande bagarre contre une nouvelle grève patronale par les patrons avait eu lieu, qui pensaient que cela serait à nouveau un succès aussi grand qu’en 1905. Cette grève avait mené aux arrestations de Del Papa, Meschi et Riccardo Sacconi le 11 janvier 1914, mais la forte réaction du prolétariat à cela avait amené à leur libération le 31 janvier. Il y avait également eu la fin de la grève patronale, avec le prolétariat local qui était dans une forme bien meilleure que celle qui était la sienne neuf années plus tôt. La première guerre mondiale divisa le syndicat Unione Syndicalia Italiana (USI) l’organisation révolutionnaire syndicale, que Meschi avait aidé à créer. La minorité en faveur de la guerre avait été expulsée du syndicat ou l’avait quitté en septembre 1914, après que le passage d’une motion par Meschi y exprimait « sa confiance en les prolétariats de chaque pays pour retrouver en eux-mêmes l’esprit de classes solidaires et l’énergie révolutionnaire dont il est besoin pour prendre avantage sur l’affaiblissement inévitable des forces étatiques et de la crise générale causée par la guerre dans le but de se défaire des électeurs bourgeois et monarchistes qui ont cyniquement préparé la guerre depuis 50 ans. » Au début de la première guerre mondiale, il avait été conscrit pour servir sur le front, et avait fini par être fait prisonnier dans les Carpates. Il était retourné à Carrara à la fin de la guerre, il y avait rejoint l’USI, participant au conseil général du syndicat. Avec la répression fasciste, en 1922, Alberto avait été obligé de partir pour la France. À Paris, il avait fait partie des fondateurs de la Concentration Anarchiste, et de la ligue italienne des droits humains, il avait également été membre du groupe anarchiste Pietro Gori. Il avait fondé l’un des premiers journaux de l’exil, La Voce del Profugo, ainsi que le magazine Il Momento. En 1936, en Espagne, il avait combattu dans la Colonne Rosselli, jusqu’à ce que la république échoue. Il était alors retourné en France où il avait été interné dans un camp de concentration. À la fin de l’année 1943, après avoir réussi à s’échapper, il était alors retourné en Italie. À l’occasion de la libération, il était retourné à la Camera del Lavoro de Carrara, dans laquelle il était resté jusqu’en 1947. Pendant les 20 dernières années de sa vie, il avait été impliqué dans la publication du journal Il Cavatore (lea travailleuses des carrières), un journal des travailleuses libertaires. Il est mort à Carrara le 11 décembre 1958. Article original par Nick Heath, traduit en français par Rafaelle Bisbarre
