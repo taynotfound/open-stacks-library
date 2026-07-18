@@ -1,0 +1,40 @@
+---
+title: "Ready Revolution Cnt Defense Committees Barcelona 1933 1938 Book Review"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/ready-revolution-cnt-defense-committees-barcelona-1933-1938-book-review"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A review of Agustin Guillamon&#039;s &quot;Ready for Revolution&quot; on the Spanish anarchist defence committees, assessing its relevance to today&#039;s revolutionaries."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/ready-revolution-cnt-defense-committees-barcelona-1933-1938-book-review)
+
+A review of Agustin Guillamon's "Ready for Revolution" on the Spanish anarchist defence committees, assessing its relevance to today's revolutionaries.
+
+When I received Ready for Revolution from AK Press, my heart sank. The voluminous literature on the Spanish Revolution did not, I felt, need expansion. I placed it on my ‘to read’ pile, then thought little more of it until a chance conversation returned it to my mind. Despite my initial misgivings, I was pleased to be reminded of it, as I soon found this little volume to be one of the best books about revolution – let alone the Spanish Revolution – I have encountered. It may not have the immediacy of the action of Tom Barry’s Guerrilla Days in Ireland , nor the style of Orwell’s Homage to Catalonia : but what it does have, what makes it in my mind a very important book, are its revelations about the role and organization of the CNT’s Defence Committees in Barcelona. Narratives by protagonists like Barry, like Orwell, and like Arshinov are, in their way, excellent. They are necessary. They pass on the energy and emotions of a time when desires could easily become reality and the bounds of normal, workaday life were burst for thousands of men and women. But these works, the narratives of revolution, show the swan gliding on the water, not the frenetic movement beneath the surface which propels the bird. Revelations about this unseen motor, the organization which facilitates revolution, are rare, and frequently appear only many years after the events. This delay can mean that the context in which they occurred has been lost, and technology or social change prevents them being of other than historical interest.
+
+Ready for Revolution is not some worthy, dry, dusty academic tome destined to slumber unread on library shelves. When reading the book questions which remain important today are raised, questions which are still – or should still – be considered by anarchists and other revolutionaries in contemporary Britain. How does one prepare for revolution? Is it enough to rely on the spontaneity of the working class? Anti-fascist – or anti-state: which takes priority? These are large questions, and not ones to which there is any definitive answer. Yet the posing of questions like these, it seems to me, is a necessary first step for revolutionaries. The answers the CNT arrived at in the 1930s may help us now in our struggle for a better world.
+
+Lest this be seen as a panegyric for the book, it does have some shortcomings which I will run through before dealing in greater detail with its positive aspects. Much of the book deals with some quite detailed accounts of events in Barcelona. Yet there is no map of the city, which would greatly assist readers to follow the action. The footnoting is sporadic: for example, lengthy quotes on pages 140, 142 and 142-3 do not receive citations and there are many places in the book where it is unclear on what authority Guillamón is basing his statements. There are a number of typographical errors, which will hopefully be cleared up in future print-runs of the book. Most of these weaknesses can be corrected through the inclusion of source citations from the Spanish edition or from Guillamón’s manuscript.
+
+Yet against these weaknesses should be set the considerable strengths of the work. The Defence Committees have not, as far as I am aware, received any significant degree of attention. Guillamón’s contribution to the historiography of the Spanish Revolution in this book, then, is to rescue them from an obscurity to which they have unjustly been condemned. As well as retrieving many of the names of members of the Committees, Guillamón also highlights their role – not merely within the important and well-known events in Barcelona but also in the months preceding Mola and Franco’s rebellion. The CNT were very well aware of the need for preparation for revolution, noting that ‘One cannot just conjure up, as though through spontaneous generation, the necessary means to fight a war against a state that boasts experience, vast resources [in terms of armaments], and superior offensive and defensive capabilities’.[1] To allow them a fighting chance in October 1934 the CNT established secret committees in each barrio composed of six members – apparently the ideal number for a covert group – each with well-defined responsibilities based around liaison with other committees or obtaining information about specific people, places or resources. These committees later became the centres around which the mobilization of large numbers of men took place when civil war broke out in the summer of 1936. Although it would have been interesting to find out whether the sudden influx of men overwhelmed Defence Committees as a smaller enlargement overwhelmed the Provisional IRA following Bloody Sunday in 1972, the emergence of a coherent improvised anarchist fighting force shortly after the launch of the Army coup is testament to the efficiency with which the CNT’s committees had worked in the two preceding years.
+
+Over the course of the civil war the Committees saw themselves enlarged, taking on additional roles – seeing their remit increase to include supplies, for example – but throughout the period they remained CNT organizations. The lack of clear demarcation between the war effort overseen on a local level by the Defence Committees and the role of higher committees was a recipe for internecine conflict, to some extent distracting from the fight against Franco as other fronts opened up against other factions supposedly on the same side.
+
+A brief review cannot do justice to the complexities of the developing Spanish Revolution, in which the Defence Committees found themselves in friction with other elements of the CNT, the government of Catalonia, and socialist and Stalinist ‘comrades’ supposedly on the same side. Guillamón does a good job of guiding the reader through this very involved history and shedding light on how these factors affected the development of the Defence Committees and their associated bodies. The light shone on this hitherto shadowed aspect of the Spanish Revolution manages to explain the intricacies of the situation without being basic.
+
+Although Ready for Revolution is not as strong a book as I would have liked, it serves as at least an initial foray into a fascinating and very important area: working class preparation for insurrection and civil war. I feel that the importance of the Defence Committees for Barcelona is no less than their importance for us today, as we look for our own ways to organize for revolution. The Defence Committees, appropriate in their time and context, may not be our way forwards. Nonetheless, this book has given me an insight into why comrades like Albert Meltzer and Stuart Christie dedicated so much of their time into perpetuating the memory of the Spanish anarchists and the world they fought to win. I doubt Ready for Revolution will be the final word on the subject: but it sets out the parameters for future research.
+
+Ready for Revolution : The CNT Defense Committees in Barcelona, 1933-1938 by Agustín Guillamón. AK Press and Kate Sharpley Library: 2014. ISBN 9781849351423 £12.95/$14.95
+
+From KSL: Bulletin of the Kate Sharpley Library No. 78-79, September 2014 [Double issue] http://www.katesharpleylibrary.net/w0vvrq
