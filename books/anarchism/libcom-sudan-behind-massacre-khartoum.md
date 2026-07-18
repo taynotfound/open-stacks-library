@@ -1,0 +1,132 @@
+---
+title: "Sudan Behind Massacre Khartoum"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/sudan-behind-massacre-khartoum"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A text on the violence used by the Sudanese state against the revolutionary movement, showing the connections between Sudan and other states including the EU&#039;s border policy. Translated and adapted by Crimethinc from the original at the Sudanese-French project Sudfa. Content note for extreme vi"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/sudan-behind-massacre-khartoum)
+
+A text on the violence used by the Sudanese state against the revolutionary movement, showing the connections between Sudan and other states including the EU's border policy. Translated and adapted by Crimethinc from the original at the Sudanese-French project Sudfa . Content note for extreme violence including rape and murder.
+
+In December 2018, massive protests and unrest organized by labor organizations and neighborhood committees across Sudan toppled the dictator Omar Al-Bashir. Utilizing ancient Nubian imagery and mythology, as well as contemporary slogans and tactics, the revolutionaries expressed a diverse groundswell of rage in their efforts to escape the ethnic and religious conflicts of the past two decades . After Al-Bashir fled office, riots, blockades, and protests continued against the Transitional Military Council that seized control of the government, promising to coordinate elections in 2020. In early 2019, paramilitary groups associated with the Council began to carry out fierce attacks on student protests in Khartoum, culminating in a massacre on June 3 when they brutally evicted an occupation from Al-Qyada Square. In response, a general strike gripped much of Sudan from June 9 to 11. Some revolutionaries have pledged to continue their fight from in hiding despite the violence from these nomadic paramilitary groups.
+
+All around the world today, we see the same three-way conflicts. In the United States and the European Union, this takes the form of a contest between centrists like Emmanuel Macron and Hilary Clinton, far-right demagogues like Marine Le Pen and Donald Trump, and social movements for liberation. In North Africa and the Middle East, this often manifests as a struggle between dictators like Bashar al-Assad and Abdel Fattah el-Sisi, militant Islamist groups, and social movements seeking democracy and egalitarianism. We see our own struggle in the social movements in Sudan; we should learn all we can about the adversaries they are facing and the processes that produced them. Many believe that the governments of Saudi Arabia, Egypt, and the United Arab Emirates are implicated in encouraging the bloodbath with which the current rulers of Sudan sought to put an end to the social movement that toppled Al-Bashir and occupied Al-Qyada Square. This emphasizes the global stakes of the conflict. If the demonstrators are crushed in Sudan, that blow will resound throughout the Mideast and the world; if they survive and persist, they will give hope to millions more.
+
+The following text, translated and adapted from the Sudanese-French project Sudfa , explores the origins of the janjawids, the paramilitary force behind the massacre of June 3. In the process, it offers a chilling glimpse of how the border regimes we experience in the United States and European Union function on the other side of the global apparatus of repression, in the zones designated for resource extraction and the containment of the so-called surplus population. It also affords some insight into the conditions that produce the sort of mercenaries that can slaughter social movements; if we fail to address the needs of the disaffected and desperate populations displaced by war and neoliberal development, nationalists and other authoritarians will take advantage of them to advance their own agendas.
+
+Call for Solidarity with the Rebellious People of Sudan —A persuasive argument for why we should concern ourselves with the movement in Sudan and an array of informative resources
+
+New Histories for an Uncharted Future in Sudan —Some background on the protest movement
+
+The janjawids are literally “men on horses with guns.” This phrase appeared in the 1980s, when pan-Arab partisans, expelled from Chad by US- and France-backed forces, fled into western Sudan to rebuild their movement and pursue the development of a pan-Arab movement in the region . In 2003, at the beginning of the war in Darfur, when the Sudanese Liberation Army (SLA) advanced on several cities provoking a massive inter-ethnic insurgency against the security forces, Omar Al-Bashir’s government called on these Arab tribes to halt the progress of the rebels. To this end, he armed groups of men from these tribes to control the region and fight the rebel forces.
+
+The janjawids come from Arab tribes; many are from outside Sudan, mostly originating from Chad, Niger, and Mali. A recent video shows one of the participants explaining that he originally came from Chad, went to fight the war in Yemen, and is now at Khartoum to “liberate” the capital. Various testimonies from survivors of the massacre confirm this.
+
+The Sudanese people continue to call them “janjawids,” though this name is not recognized by the government. Their official name is “Rapid Support Forces” (RSF, or Rapid Aid Forces).
+
+Today, the government refuses to acknowledge that it was involved in the origin of the Rapid Support Forces. However, after 2008, it acknowledged the use of Rapid Support Forces in the “pacification” of the Darfur region , in order to “stop the chaos, protect the people, and protect the institutions.” In 2014, in a government effort to standardize these forces, they were attached to the powerful NISS (National Intelligence and Security Service). Thus they are officially a mobile paramilitary militia, associated with the national Security Service.
+
+This militia, predominantly coming from rural areas in the west of Sudan, has strong ties with Chad and the Sudanese government. For example, the Chadian president, Idriss Déby, married the daughter of Musa Hilal , the chief of the Janjawids at the time of the Darfur genocide in the 2000s.
+
+Musa Hilal directed the Border Intelligence Brigade in the North of Darfur , which is a special janjawid force mobilized at the border. In 2008, he was also the minister of Sudanese Federal Affairs. He is the symbol of the atrocities committed in Darfur and is sought for his crimes by the International Criminal Court. These forces were known to be “ready, rapid, brutal.”
+
+Ali Osman Taha was Vice President of Sudan from 2005 to 2013. He named Musa Hilal as the head of Janjawid forces , to recruit and command them.
+
+The Janjawids are from the Arab tribes of the region; for example, Musa Hilal comes from the Baggara tribe (an Arab tribe that raises cows, hence their name); Hemedti , a member of the Transitional Military Council tasked with overseeing new elections, comes from the Al-Abala, another Arab tribe that raises camels. Originally, the Janjawid forces were created at Al-Misteriha, a city situated in the North of Darfur.
+
+Burhan and Hemetti, “Generals of Blood”; the massacre at Al-Qyada Square.
+
+While he was director in Darfur of the Army in the Jebel Marra (Jebel Mountains), Burhan, the current chief of the Transitional Military Council , said, “I am the God of the Fur people, I have the right of life and death over them.”
+
+Since 2003, the Janjawids have killed and pillaged. There is no exact number, but Omar Al-Bashir is said by the UN to be responsible for the death of half a million people . The real numbers may be much higher. Other sources talk of three million displaced , and countless wounded.
+
+The Janjawids have used rape as a weapon of war , systematically assaulting women during their attacks on villages. They burn all the houses and farms, kill the men and children. Their mode of operation is known by everyone: they arrive on horses or in cars and raze a village in a few hours, with military planes and helicopters overseeing the operation. During these attacks, some survivors are able to flee, for example by following the Wadis (streams) and hiding in nearby camps. They are often recaptured by groups waiting further outside of the villages. The displaced people end up in camps throughout the whole country, and in huge shantytowns surrounding the cities, where the Security Services and the Janjawids continue to torment them.
+
+The principal victims of the Janjwids are the Fur population, as well as the Massalit, Zaghawa, and other darker-skinned tribes termed “African” or “non-Arab,” whose populations have been decimated and displaced. The Janjawids have been accused of genocide against these populations.
+
+At first, their income is said to have taken the form of direct salaries from the government. Ali Osman Taha once explained that he reserved a part of the government budget for the Rapid Support Forces.
+
+Along with other powerful government officials, Ali Osman Taha, Ahmed Harun, and Khalifa Kushayb (in the Jebel-Al Nuba and Blue Nile regions) are the three key figures in the financing of these forces. The RSF have depended financially and logistically on the government.
+
+Ahmed Harun, current mayor of Al-Obeid and former Interior Minister, helped finance the Janjawids . Since December 2018, he has threatened the demonstrators by telling them that the RSF is stronger than them and promising fierce repression. He has been accused of giving the order to the militias to kill, rape, and torture civilians and of being behind several attacks on villages and towns in the west of Darfur , notably the massacres of the Massalit population. He was also accused of forcing the displacement of 20,000 people in summer 2003 and of saying that “all the Fur children were rebels… all the Fur had become booty for the Janjawid.”
+
+One of the slogans of the recent demonstrations proclaims, “Ali Osman, you coward! Nafi Ali Nafi, you’re useless (ma nafi).” The demonstrators see those who lead and finance the Janjawids as wrongdoers who must be brought down like Al-Bashir.
+
+After 2010, when austerity measures reduced public spending and resources drastically, the Janjawids discovered other income sources, such as the gold mines in the Darfur region around Jebel Amir. They also obtained money in the Darfur War: for example, in the attacks on Tawila, Korma, and Kutum, they stole money and goods as well as the livestock and harvests of the wealthier inhabitants. They attacked places for economic aims as well as to carry out ethnic cleansing: certain Fur populations with land and livestock were easy and profitable targets.
+
+The Janjawids laid claim to land and houses, settling and occupying the zones they emptied. Leaders of the rebel movements (like the SLA) are fighting to evict those who settled in the homes of the massacred and displaced tribes. They denounce ethnic replacement (Arab tribes replacing Fur and Massalit tribes), which has impeded the return of non-Arab Sudanese tribes and creates a long-term pro-government bias in the region.
+
+Disguised under the name RSF and acknowledged as a paramilitary force, the Janjawids have also profited from the war in Yemen. Saudi Arabia pressured the Sudanese government to send troops to Yemen to participate in the war. Janjawid troops were consequently deployed in Yemen and received money and arms from the United Arab Emirates and Saudi Arabia . Thanks to their military involvement in the conflict since 2016, their influence and power in Sudan have greatly increased. They have become better organized and many young people have joined them, in particular young people from Arab tribes.
+
+The militia is able to recruit thanks to several factors, but chiefly because their salaries are relatively high and can offer a much-needed income stream for impoverished families. They recruit a large number of child soldiers by convincing families of this.
+
+The government has thus launched an effort to change the image of the RSF in the media . They named a spokesperson and have attempted to present these forces as a regular national armed force. To this end, the Janjawids were established in barracks and military camps in the big cities with the soldiers of the Army, for example in Nyala, Al-Fashir, and Zalingei. Upon returning from Yemen, members of the RSF said that children made up around 40% of the Sudanese troops. They often go on six-month missions, after which the men return to Sudan and participate in government missions. The children receive almost no training (about one and a half months of basic physical and arms training) before they are sent to the front line in Yemen to serve as human shields. The Rapid Support Forces have been responsible for the massacres of the Houthi population in Yemen, including arbitrary murders of civilians and children.
+
+Even if the RSF are comprised of several Arab communities, there is an internal hierarchy. They are dominated by the Rizeigat tribe. Those who are not from this tribe are sent first in the shipments to Yemen and receive the lowest posts, according the racist hierarchy used by the government. A large number of the chiefs of the RSF are Rizeigat.
+
+Mohammed Hamdan Dogolo, known as “Hemedti,” was recruited by the Sudanese government to direct the operations in the Nyala zone; his men, from the Arab tribe of the Rizeigat, were armed by Omar Al-Bashir. He was put in power after 2013. Deciding that Musa Hilal was demanding too much independence, the Al-Bashir regime replaced him with Hemedti.
+
+Russian and Belgian arms distributed to the government are reallocated to the militias. Several dozen Chinese-made tanks and bombers have been brought into Sudan since 2004 . China has built arms factories for the Sudanese government around the capital Khartoum. This factory produced the majority of the bullets and munitions used in the Darfur War and the repression of the demonstrators today. China is now the principal seller of arms to Sudan, providing the majority of tanks, planes, and trucks. These trucks were used to transport the inhabitants of Wadi Saleh to Darfur where they were subsequently shot.
+
+In Darfur, the Janjawids have encircled the refugee camps cities. They have raped women who left camp, notably women going to find wood; they capture the men who enter or exit the camps and cities in order to interrogate or threaten them. Acting as commandos, they also enter the camps, like the Kalma camp next to Nyala, or the Zam-Zam camp next to Al-Fashir, in search of men or arms, sowing terror during their raids. During demonstrations held by displaced people, they have killed dozens of people and arrested hundreds more. Some residents have disappeared during the night, taken to prison with the complicity of the Security Services.
+
+They have also attacked villages around the big cities like Al-Fashir, arriving via Land Cruisers and wearing brown clothing like members of the NISS and turbans that hide their faces. They are known to have perpetrated mass rapes of women in 2014 and 2015 in Tabi and Golo in Darfur, before murdering the victims and leaving them in mass graves. They have burnt thousands of villages; the ONU talks of 3000 villages “erased from the map,” though the numbers are surely higher.
+
+Another of their income sources is racketeering and extortion, including the taxes they demand on vehicles and convoys of displaced people on the route between Al-Fashir and Khartoum. If the vehicles or convoys refuse to pay, groups step in to attack them and steal the products and shipments on the trucks. Since this is the only route that connects the West to the capital, drivers have no choice but to comply.
+
+The European Union and its member states have made many partnership agreements with Sudan, notably the agreement called the “ Khartoum process ” in 2014, reinforced by a new 2015 agreement. In the context of Sudan’s economic crisis following the separation of South Sudan and the loss of essential oil revenues, European agencies help to regulate the border, a great boon to the regime in Khartoum. Equipment and revenue seized at the border is earmarked for the police and picked up by the Janjawids, who control the Libyan border as well. Hemedti has already said several times they he was simply implementing the European Union’s politics “ against human trafficking ,” thus pushing the EU to “compensate his efforts” by allocating even more resources.
+
+Even if the EU denies direct supporting the militias, several reports, such as Suliman Baldo’s English-language report, “Border Control from Hell,” shows that the computer hardware, vehicles, and other equipment provided by the EU are obtained by the RSF via their collaboration with the police and the Security Services. The EU relies on Sudanese police to reinforce the borders in the East and the North and to regulate the passage of Sudanese migrants, but also Eritreans, Ethiopians, and numerous other people . In 2015, the Valette Summit continued this process, calling for plans to “[prevent] irregular migration” and “traffic of human beings.” The RSF is the principal force mobilized at the borders, which the government uses to implement the political objectives of the EU, carrying out its acts of terror and chaos against the population and migrants. The Janjawids thus find themselves with a special budget, which strengthens their power.
+
+The Janjawids and the Manipulation of Ethnic Conflicts in the War
+
+According to the situation, the Janjawids have been sent throughout the country as a mobile force, notably in the regions of the Blue Nile, Jebel Al-Nuba, and Kordofan, where they have terrorized civilians and carried out looting, rape, massacres, and persecution. In Damazin in 2013 and in Kassala in 2018, all these regions’ civilians were accused due to their ethnic origin of supporting or participating in rebel forces like SLA (Sudan Liberation Army), SPLM (Sudan Popular Liberation Movement), or JEM (Justice and Equality Movement), according to the regions. For example, the inhabitants of Blue Nile are accused of belonging to the SPLM because SPLM chief Malik Agar comes from that region.
+
+The government has used the Janjawids to accentuate the division between the so-called “Arab” tribes and the so-called “African” tribes, a distinction that originated in the 1980s in local conflicts between farmers and nomads. This ethnic division has been politically manipulated by the government in order to legitimate and bolster its power.
+
+The mobilization of December 2018, which led to the fall of Al-Bashir, was the first time the Rapid Support Forces entered Khartoum in large numbers to repress the demonstrations and the occupation of Al-Qyada Plaza. The chief of the RSF, Hemedti, was named Vice President of the Military Council, presided over by Burhan.
+
+He remained rather quiet at first, and a segment of the Sudanese people remained optimistic given his nomination, since he was not well-known outside of the regions of the armed conflict. But in a few weeks, he revealed himself, ordering his forces to terrorize and disperse the demonstrators from Al-Qyada Plaza by force. Hemedti and his men have no link with the youth of the cities, especially the middle-class youth of Khartoum; most of his forces come from rural environments and don’t have much access to school. The gap can be seen in the recent attacks. For some of them, it was the first time they came to the city or saw Smartphones; photos were taken of them in the capital playing in the children’s parks and dancing and singing in the streets after the massacres.
+
+In May, certain isolated groups of the RSF attempted to evict the Plaza, but did not succeed due to the barricades and organization of the demonstrators. On May 13, they killed four demonstrators and wounded about thirty more with bullets. The demonstrators clearly identified the assailants as Janjawids. After these events, Burhan, the president of the Military Council, promised to “open an investigation” of the members of the RSF responsible for the murders. But the Security Forces then arbitrarily arrested six Darfurian soldiers, demanding they confess on national television and imprisoning them, even though some of them were not in the neighborhood of the attack when it happened. Many people angrily denounced this deception on social media networks.
+
+Several other attacks were led by RSF members around the entry points of the Plaza, especially around May 25; they killed many people and wounded and arrested others. The government officially acknowledged these attacks and justified them, saying that the “Colombia” location, at the back entrance of Khartoum University, was occupied by prostitutes and drug dealers.
+
+On June 3, the 29th day of Ramadan, columns of RSF vehicles entered the capital with Security Service cars and removed the recalcitrant police and military. They represented a convoy of more than 10,000 members sent to the capital from all the regions of Sudan.
+
+They began to shoot bullets into the crowd around 6 am, burning the tents in the Plaza and arresting demonstrators and throwing them into pickup trucks. They used the Khartoum University and mosque buildings to hold people for three days, beating and torturing them. Some died due to the horrible conditions of this detention. Some of the people who survived these three days of detention offered chilling testimony about the treatment they suffered.
+
+Many other people were killed or wounded by bullets; the health ministry has admitted to 61 deaths on June 3 , while credible sources report over 100 fatalities, including 19 children . The Janjawids raped dozens of women and attempted to rape dozens more. Videos were posted on social media networks. One photo circulated showing an armed man using his baton to display the underpants of women he had attacked like a trophy of war.
+
+According to people at Al-Qyada Plaza, some bodies were burnt there, others were thrown into the Nile . At the end of the week, bodies came to the surface of the water, and the demonstrators did all they could to recover the bodies and bury them. Altogether, more than 500 people were wounded among the inhabitants of Omdurman and Khartoum, including many beaten, struck down, and left for dead in the middle of the street. Those who tried to assist them under the hail of bullets were also coldly struck down.
+
+The RSF entered other neighborhoods in Khartoum and Omdurman, attacking civilians at random. They destroyed stores, pharmacies, and cars. Stray bullets killed some people in their houses.
+
+They entered hospitals, beating doctors and threatening them with death if they treated demonstrators, raping women and striking the wounded. They arrested the opposition, including Yasser Saïd Arman, leader of a branch of the SPLM. The members of the office of the Sudanese Professional Association have been in hiding since then.
+
+The day after the massacre, the Military Council announced the nullification of all the agreements and gains from the negotiations up to that point with the Sudanese Professional Association and suspended all further negotiations. They announced that there will be elections in 2020—and we already know the results if they are to be controlled by Burhan and Hemedti.
+
+The Sudanese continue to demonstrate, closing routes and roads, erecting barricades and burning tires; the capital is the scene of a civil war.
+
+By June 7, the official count had reached 111 deaths and more than 500 wounded. These people have no fear of ridicule. Hemedti gave a grotesque speech in which he proclaimed:
+
+“The Rapid Forces are not responsible for these events. Groups of civilians dressed like the Rapid Forces took their cars and attacked the demonstrators. I swear that our Forces haven’t killed anyone.”
+
+The Janjawids, under the name of the Rapid Support Forces, henceforth control the country. They are a powerful force, uncontrollable and bloodthirsty. After 20 years, the Janjawids are accustomed to using brutal force to massacre large numbers of people. This militia is financed by the Gulf countries and the European Union and poses the threat of imminent civil war in Sudan.
+
+“One would be hard put to find an early state that did not enlist nonstate peoples—sometimes wholesale—in their armies, to catch runaway slaves, and to repress revolts among their own restive populations. ‘Barbarian’ levies had as much to do with building states as with plundering them. By systematically replenishing the state’s manpower base by slaving and by protecting and expanding the state with its military services, the barbarians willingly dug their own grave.”
+
+- James C. Scott, Against the Grain: A Deep History of the Earliest States
