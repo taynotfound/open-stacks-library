@@ -1,0 +1,52 @@
+---
+title: "Revolts Myanmar"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/revolts-myanmar"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Since 1 January the streets of what used to be known as Burma have filled with demonstrations nearly every day. The straw that broke the camel’s back was the army’s coup which overthrew State Counsellor Aung San Suu Kyi, destroying her party (NLD) through the heavy repression meted out to the demons"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/revolts-myanmar)
+
+Since 1 January the streets of what used to be known as Burma have filled with demonstrations nearly every day. The straw that broke the camel’s back was the army’s coup which overthrew State Counsellor Aung San Suu Kyi, destroying her party (NLD) through the heavy repression meted out to the demonstrators demanding “liberty and democracy”.
+
+It is a script that has been played out many times in a country where the army has always dominated the political and economic scene. Aung San Suu Kyi was re-elected in the 14 December election, with a huge popular vote, although it was lower than in 2015. She tried to begin a democratisation process, but ran up against the power of the army, which has 25% of parliamentary seats constitutionally reserved for it. The top cadres of the army are the strongest economic and financial powers in the country, owning banks and industries, and administering the largest commercial networks. They would never have consented to Aung San Suu Kyi’s reforms even scratching the granite power of the military, even if the “democrat” and aspiring reformist had ever attacked the political system head on. She has always avoided taking action that would irritate the military caste, and, moreover, has always used the iron fist against the country’s ethnic and religious minorities. The outstanding example being all the acts of repression against the Muslim Rohingya minority, forced to flee or live in concentration camps.
+
+So, why has there been a coup? The Nobel Peace Prize winner has not behaved like a revolutionary, she hasn’t questioned Myanmar capitalism’s laws of capitalist misery, much less, used an iron arm against the military. Rather, she has taken up the “dirty work” of smashing Rohingya claims for autonomy or freedom of religion, and acted similarly on the Northern borders of the country. She has been weak with the strong, and strong with the weak, and although this attitude has diminished her personal credit she has maintained a sufficiently high approval rating.
+
+The reasons for the coup lay, as often happens in this area of the globe, in the ruling class’s fear that the street demonstrations singing the praises of democracy against the military dictatorship could spill over into something more radical. Moreover, the already precarious economic situation of Myanmar has dramatically worsened with the pandemic. It has few industries, and half its agriculture is rudimentary, with little foreign investment and a rigid financial structure, controlled by the military hierarchies. The pandemic has made the situation dramatically worse. GNP has suffered a decline of 30%, unemployment, which was already high, has reached socially troubling levels. Lacking investment and with low productivity, speculation and corruption are on the increase. What little indigenous capital there is, has fled abroad and pauperisation (data on which the government is careful to avoid publishing) is growing exponentially. According to the IMF, in Myanmar an alarming humanitarian and health crisis is being created, which has already caused hundreds of thousands of Myanma to emigrate to Bangladesh or Thailand. For the military elite, Aung San Suu Kyi was incapable of limiting the serious internal situation, and so they have put her under house arrest with feeble, or even laughable accusations, depriving her of the means to act at the critical moment. Meanwhile they confront the demonstrations which, by focussing on democratic demands, are diverting the masses from other potential economic and political demands which would give the military putschists much greater problems.
+
+However, we should add that, although very weak economically and engulfed by waves of political opposition to the putschist government, Myanmar’s strategic position means it is of interest to the most voracious internationalist imperialists.
+
+Straight after the military coup, the USA, still under the outgoing Trump administration, asked the UN to issue a resolution condemning and embargoing Myanmar, which was not passed because of the negative votes of Russia and China.
+
+What was at stake for the US was the control of the South China Sea, the island of Taiwan and the Gulf of Bengal, all in opposition to the Chinese. Russia, still under American embargo, fighting Washington over Nord Stream 2 and in all international strategic areas, did not miss the chance to put a spoke in the wheel of American imperialism.
+
+For China, on the other hand, Myanmar represents a pawn of primary importance. Beijing has three important objectives. The first is to complete the China-Myanmar Economic Corridor (CMEC) through which it can access the Indian Ocean, by-passing the Straits of Malacca which has always been controlled by the US Navy. The second is the possibility of exploiting Myanmar’s mineral resources and the third is that of keeping in balance its commercial and political relations with Myanmar, which is its primary commercial partner and the second country after Singapore in terms of investments. In addition, it is a strategic pawn for its new “Silk Road” project. This project, as we have had reason to criticise many times, aims to create a flow of exports through Asia to Europe, ranging from “traditional” primary commodities to hi-tech instruments, from the sale of arms to the export of capital, from electric cars to the most modern digging machines. In addition, Beijing wishes to try to impose the renminbi as a currency of exchange for its own goods and technologies, in the expectation that it will be capable of replacing other international currencies in the speculative harvesting of surplus value produced outside China, in the use of Chinese financial assets to attract foreign capital, and of being, definitely, the only imperialist power to confront the dollar and American imperialism.
+
+To do this, Beijing needs bases and political reference points along the Silk Road. As in the Middle Ages, when there were caravanserais along this route, today there needs to be military bases, accommodating countries, governments to support or corrupt, and wide networks of alliances to sustain it in every possible way, from the financial to the diplomatic.
+
+The alliances with Qatar and Iran, and the approaches to Saudi Arabia, should be seen in this light. In Asia, after Pakistan which is already under the “generous hand” of Beijing, the opportunity to draw even closer to Myanmar is presenting itself, in the shape of diplomatic defence against the embargo proposals of the US and its Western allies.
+
+This is why the military has decided that the coup would be the most secure way to rescue their own economic and political interests in the pandemic. They can “tolerate” the protests for democracy, insofar as they remain inside the system so long as they limit themselves to slogans and filing past the palaces of power. If they go further, repression will be unleashed, and the more virulent the protest the more severe it will be.
+
+This is why China immediately declared against the sanctioning of the military regime demanded by the US.
+
+This is why China immediately declared against the sanctioning of the Yangon military regime demanded by the US. Moreover, this year Myanmar is chairing the discussions between China and the Association of Southeast Asian Nations (ASEAN) over the strategic role of the control of the Mekong river, which springs in Tibet and empties into the South China Sea. Beijing has always exploited its stretch of the river through an excessive use of its waters, and the drawing of hydraulic power at the cost of the other countries on its banks. Then there is the diatribe over the occupation of the South China Sea by China, Taiwan, Vietnam, the Philippines, Brunei, Indonesia and Malaysia. Beijing wants 90% of the control of the Sea for itself and the possibility for construction of artificial islands for military purposes. Supporting the Myanma military dictatorship is an optimal opportunity to push these projects towards a resolution favourable to Beijing.
+
+From this umpteenth historical proof we can deduce that dictatorships and “democratic” regimes are two sides of the same coin, that their alternation depends on economic cycles, and the crises and social tensions they create.
+
+But, if these social antagonisms, even if determined and violent, don’t have tactics, strategy and practical organisation directed towards the alternative to the capitalist system, they are destined to be reabsorbed into the system which generated them, or be brutally repressed by the system itself. Not only that, but the factions of the bourgeoisie in civilian dress, who might possibly be substituted for the military, end up being hostages in imperialist feuds. Their political weakness means they become a tool of outside economic and financial domination.
+
+Since this is a capitalist world, profound crises, like the present pandemic, put the imperialist centres into ferocious competition. The strongest impose themselves on the weakest, and together place their proletarians in the strongest of chains. As far as possible, crises are managed by means of subjection and corruption, and when the space for this narrows, by local wars and proxy conflicts. It is vital to put an end to so much barbarism before this world becomes a mass of rubble and turns into the global butchers’ shop that is required for a subsequent phase of capitalist reconstruction. It is essential that, when it moves, the world of wage labour does not confine itself to struggling for democracy against fascism, to accepting the lesser evil as a victory to defend. What’s really necessary is a struggle against the capitalist system, the primary cause of all this — a struggle called the proletarian revolution for communism.
