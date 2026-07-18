@@ -1,0 +1,36 @@
+---
+title: "Ten Years Establishment State Kazakhstan"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/ten-years-establishment-state-kazakhstan"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A look at how capitalist restructuring has effected class struggle in Kazakhstan, following the collapse of the USSR."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/ten-years-establishment-state-kazakhstan)
+
+A look at how capitalist restructuring has effected class struggle in Kazakhstan, following the collapse of the USSR.
+
+“My children, soon I will have to join Karl Marx and Friedrich Engels. When I’m with them you’ll have to carry on my struggle.” (Ho Chi Minh to young partisans on death)
+
+More than 10 years passed since the establishment of the sovereign State of Kazakhstan and invasion of market economy into our lives. Taking a retrospective glance at this period it’s impossible not to notice obvious structural modifications in the class fabric of our society. Not only we speak of scientists working as night watch guards. We speak of huge proletarianization process getting hold of the vast majority of our people – it is clear that nearly everyone has mere biological survival on his/her agenda and the day after always reserves a chance of social degradation for you. Relations based on competition separate us not only from one another, but from ourselves. The most inert mass does not find anything better than nostalgia for Totalitarian State. More industrious youth takes on a vain chase for ghostly standards of well-being. Finally, thinking minority obtains truly tragic life experience, which often, far too often, ends abruptly and prematurely.
+
+Speaking of new class division we don’t mean only transformation of nameless nomenklatura into concrete tycoons and barons. Shutdown of many large enterprises and slow death of agriculture brought disintegration of classic industrial working class and lumpenization of peasants. Let us briefly catch a glimpse of a few examples of proletarian self-expression in the last year.
+
+Military industry plants are privatised in Uralsk. Privatisation entails not only moral, but sometimes physical extermination of workers. Thus one of them is employed at 3 such enterprises, he walks 15 km on foot each day from one to another, but still he can’t earn enough for his daughter’s education. Family problems make him publicly burn himself. After the funeral his comrades from the plant, guided by a young charismatic chairman of Trade Union Committee take a peaceful march on animat (municipal authority), where the young leader is delegated to negotiate with the State. We've got a few characteristic features in this case. Firstly, it is the crisis of a traditional capitalist «worker family», in which a man wins bread and other material needs with his industrial labour, whilst a woman and other dependants play passive role of responsibles for household. Nowadays such model becomes increasingly out of time and unable to survive and we can speak of proletarianization of family relations. Secondly, workers brought to despair by the hopelessness of their living conditions even at the moment of acute frustration can’t find anything better than appealing to authorities, who had doomed them to slow death when they are not required anymore in the production of surplus value -sometime elite plants, switching to production of kitchen utilities go to periphery of social life. Thirdly, this action of protest entrusted to the leadership of a single radical individual eventually limits itself by this individual and is not capable to bring about any positive results or develop into a series of general radical actions. The author of these lines was a witness to this march and he didn’t perceive anything, but sadness at the sight of that silent concentrated line of aged people. Not long before that at the local oil and gas condensate field a somewhat similar, although completely different in spirit action took place. Here there were 3 thousand general labour workers, who broke the windows in the canteen where they were locked for the time of governmental delegation visit, made the securities escape in horror, and surrounded the Prime-Minister’s echelon by an angry and swearing mob. In this case the action became known nation-wide and governmental commission was created to pacify the labour conflict, although those, who are familiar with the list of claims put forward by the Initiative Group, know that almost none of them were satisfied. A little while later a smaller action occurred at Tenghiz – the largest Caspian oil field, where around one hundred workers formed a picket in front of Turkish employer’s office. The essence of conflict was the same – unjustified import of foreign workforce, demands of salary increase, unhealthy working conditions. Generally, if we talk about the extracting industry workers we should be aware that it is one of the most privileged sections of our class, possessing stable (paid in time) salary and, even if temporary, job. However, they are the first ones to experience discrimination on the part of foreign capital upon themselves as well as flexibilization of labour relations. Their methods, though, are not always adequate and sometimes downright shocking. Thus, Aktobe workers employed at Zhanazhol oil field, разрабатываемом китайскими нефтяными комп developed by Chinese oil companies, in an identical situation… write an anonymous report to the State authorities.
+
+We received much more interesting information from Karaganda – the largest industrial centre of the country with the biggest concentration of industrial proletariat. Here, according to the source, for whose complete credibility though we can’t be fully responsible (trots, E.), class war took the most advanced form, when during a period of time there was acting workers’ council, formed according to industrial/territorial principle, consisting of delegates from a few various enterprises. The latest news from Karaganda say of a protest meeting at the metal processing complex «Ispat-Karmet», where 26 thousand workers are employed. Here a standard claim for salary increase was brought forth about a year ago, but, unfortunately, the initiative is fully in the hands of Trade Union Committee, that is, again the fate of the conflict depends on a few workers who have already been included into the problem-solving commission formed right away after the demo.
+
+Generally, we believe that in these circumstances any attempt to create a unified national workers movement on ideological basis is doomed to failure. However, existence of certain points of constant resistance and spontaneous protest actions can become a predecessor of widespread consciousness of proletarian possibilities on mass scale. Of course, we should be more aware that a huge number of people on the whole planet is in the same situation with more or less varying degree of living conditions. Forming of new human relations - in the first place in the sphere of the class excluded from life entirety - is still to come.
+
+Translation from article in Russian in 'Direct Action'. Taken from the Antagonism website.
