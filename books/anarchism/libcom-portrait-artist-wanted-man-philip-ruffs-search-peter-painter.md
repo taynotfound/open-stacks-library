@@ -1,0 +1,48 @@
+---
+title: "Portrait Artist Wanted Man Philip Ruffs Search Peter Painter"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/portrait-artist-wanted-man-philip-ruffs-search-peter-painter"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Review of a 2018 book telling the story behind the Siege of Sidney Street, and telling the story of Peter the Painter&#039;s life."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/portrait-artist-wanted-man-philip-ruffs-search-peter-painter)
+
+Review of a 2018 book telling the story behind the Siege of Sidney Street, and telling the story of Peter the Painter's life.
+
+Three London policemen are shot dead by anarchist burglars in December 1910. Two weeks later, two of the anarchists are tracked down but hold the police at bay with their Mausers, while Winston Churchill calls up soldiers, machine guns, artillery…. Add the mysterious Peter the Painter, ‘the one who got away’ and it’s hardly surprising that the Houndsditch murders and Siege of Sidney Street became the stuff of legend.
+
+Philip Ruff has been looking for the truth about Peter the Painter since 1986, off and on. When he started, there was still a Soviet Union and he had to interview the KGB (rather than the other way round) about the Latvian revolutionary movement. Over the years, Ruff has searched archives and tracked down relatives of those involved around the world. He’s had time to develop and drop two plausible but incorrect theories, before conclusively identifying Jānis Žāklis (Zhaklis) as Peter the Painter. In A Towering Flame he recounts Žāklis’s astonishing life before and after the tragic events in London. The tsarist secret police never made the connection between ‘the seditious draft dodger from Lutrini’ and the Latvian Scarlet Pimpernel he became.[p58] Now Ruff has unearthed the facts to tell the whole story.
+
+For all of his obsessive searching, Ruff isn’t possessive about his historical turf. Despite being a ‘retired anarchist’ he clearly respects copper-turned-historian Donald Rumbelow, who saved the police files on the Houndsditch case when they were put out for burning. That made this book possible, even if they must agree to disagree on key interpretations. Ruff’s desire to write social history, rather than just solve a murder mystery allows him to put events in a much broader (and more violent) context.
+
+The chain of events that would lead to Sidney Street began in 1905. The Russian empire was convulsed by revolts, and in Latvia the struggle was at its bitterest. ‘In the countryside, with political meetings outlawed, village churches became a natural focus of revolutionary agitation …. At one of these church demonstrations a local baron, incensed by the revolutionary speeches, pulled out a pistol and opened fire on the congregation. And when a socialist in the audience took the gun off him to stop him shooting anybody else, the man who disarmed the baron was arrested and received four years in prison where he died. The baron walked away scot-free.’ [p66-67] Ruff, in his account of revolt met with state terror, shows why the revolutionaries adopted such fierce resistance. The picture that stayed with me was Ruff’s pen portrait of one of Žāklis’s comrades: ‘into the room came the tall, skinny figure of Jēkabs Dubelšteins (Jēpis); twenty-three years old, poorly dressed in a flat cap, scarf and overcoat, into which his hands were thrust (the overcoat pockets had been cut away to allow him to keep both hands on the two heavy Mauser pistols he invariably carried slung beneath his coat).’ [p101-2] Žāklis was a central figure in this resistance, and led a group of fighters to break into Riga’s central prison to save two comrades from execution. As if that wasn’t enough, he also took part in the attack on the Riga headquarters of the secret police (containing 160 soldiers) to liberate six more.
+
+When the socialist movement ‘stepped back’ to try parliamentary tactics, Žāklis and his comrades broke with them and formed the Latvian anarchist movement. Ruff quotes an article by Žāklis from the summer of 1906, ‘summarised in the files of the Riga police department as, “a sarcastic attack on the Social Democratic idea of calling a meeting after the revolution to draw up the laws of a new society, and putting forward instead the anarchist idea of a society without laws (or private property, or private or state privileges, state power, etc.)”’ [p126] As well as the war of words with the socialists, the anarchists were also involved in a shooting war. Ruff describes a siege in Riga which could be the template for the one at Sidney Street: ‘While still firing his Mauser, [Kārlis] Krieviņš hung a red cloth from the window, like a banner, and the soldiers outside could hear the defiant anarchists inside singing revolutionary songs at the tops of their voices. When the police finally burst into the flat, the wounded Krieviņš shot himself. Anna Caune, already mortally wounded, was shot dead by the police where she lay.’ [p130]
+
+Even in exile in London, the Latvian anarchists took the same approach. Ruff reports their offer of ‘armed assistance to the strike committee at some London East End factory’ being turned down in 1909. They ‘had been conditioned by the workers’ struggle in Latvia to see the class war as literally just that: war . The inability (or refusal) to accept that different social conditions require different methods of struggle contributed in no small measure to the tragic outcome of the events that lay ahead of them.’ [p186]
+
+Reading about anarchism and political violence, I sometimes find myself thinking that revenge becomes tempting when you believe there’ll be no justice. In this case, the police got their revenge (three dead anarchists for three dead policemen) but were stymied by that very fact in trying to bring anyone else to book. Ruff points out that ‘it is doubtful whether all of the people acquitted would have been’ had all the evidence in police hands been used in the Houndsditch trial. ‘The judicial murders of Svars and Sokolov posed a problem of arithmetic for the court. The prosecution claimed that four men and a woman had been at Houndsditch. If the defendants were guilty as charged, then the men who died at Sidney Street must have been innocent. The political implications for Home Secretary Churchill were too catastrophic to contemplate.’ [p229-30] It’s hard not to agree that the prosecution ‘threw’ the trial in order to spare Churchill’s blushes. This also goes some way to explaining the notoriety of Peter the Painter. The London police had no further interest in him, but didn’t announce the fact, so feeding the legend.
+
+A Towering Flame has a large cast, from artists and political leaders-to-be to a KGB atom spy. At times, following the lives of those caught up in the London events gives us a Latvian history of the twentieth century: both Jēkabs Peterss (Jacob Peters), acquitted in 1911 and Žāklis’s old comrade Kristaps Salniņš (Christopher Salnin) went on to play major roles in the soviet regime after 1917. I was glad of the photo section as well as the list of principal characters (and their many aliases). After reading A Towering Flame you’ll end up knowing more Latvian words than you do now. Ruff has found two unpublished memoirs of Latvian revolutionaries in the Latvian National Archives. Both confirm that it was Žāklis who was known as Pēteris Mālderis , Peter the Painter. But mālderis isn’t ‘painter’ in the sense of painter and decorator, or portrait artist. Mālderis means ‘crude dauber’ ‘implying that he wasn’t a very good artist, or may have believed himself to be better than he was.’! [p24]
+
+In telling the story of Jānis Žāklis, the 1905 revolution in Latvia, and the anarchist movement it spawned, Ruff avoids the traps of simplistic celebration or condemnation. It’s a marvellous work of historical rediscovery. The story of how Ruff unearthed the truth about Peter the Painter is fascinating in itself. It could almost be done as an Ealing comedy: ‘The Englishman who came looking for dynamite, interviewed the KGB and ended up finding love’: Ruff describes his wife Irene Huls as his ‘secret weapon’ in his search. It’s fitting that this book, having been a bestseller in Latvia is now available in English. But there’s still a twist: this is a limited edition aimed at tempting a publisher into producing a regular UK edition. When will we see it in libraries?
+
+And what of Peter the Painter? The mystery man has kept some of his secrets, but Ruff has discovered the where and how of his last disappearance. The final words of the book reflect on Žāklis’s fate, but also show what Ruff has learned himself: ‘survival can demand as much bravery as the willingness to die for a noble cause’.
+
+A Towering Flame : The Life & Times of ‘Peter the Painter’ by Philip Ruff Riga: Dienas Gramata, 2018. Revised and updated from the 2012 edition (which was translated into Latvian). 350 pages. ISBN 9789934546563 €11 Available from https://www.janisroze.lv/en/gramatas/dailliteratura/memuarliteratura-biografiski-apraksti/towering-flame-a-the-life-times-of-peter-the-painter.html and also from https://www.valtersunrapa.lv/en/e-shop/gramata/49887/towering-flame
+
+Originally posted at https://www.katesharpleylibrary.net/6t1h62
+
+You might be well ahead of me here, but given the date, have you thought of asking the Anarchist Festival people to publicise it ? Contact email is [email protected]
