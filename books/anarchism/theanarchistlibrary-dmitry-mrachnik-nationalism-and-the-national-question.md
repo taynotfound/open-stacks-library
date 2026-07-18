@@ -1,0 +1,48 @@
+---
+title: "Nationalism and the National Question"
+author: "Denys Gorbach, Alexander Volodarsky, Dmitry Mrachnik"
+date: "2022"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/dmitry-mrachnik-nationalism-and-the-national-question"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 5th February 2022 from www.nihilist.li"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "dmitry-mrachnik-nationalism-and-the-national-question.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/dmitry-mrachnik-nationalism-and-the-national-question.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/dmitry-mrachnik-nationalism-and-the-national-question)
+
+Classic examples of the emergence of nations can be seen protesting the unification of a mass of social groups with the aim of eliminating the economic and political restrictions imposed by feudalism (the wars for independence in the South and North America, the Great French Revolution). Such political statements have transformed the class society of passive participation in a society of mass conscious and active political participation. Its ideology was firstly, civilian nationalism, as an excuse for a compromise between the classes of an emerging or already formed bourgeois society and the establishment of social and political emancipation to the level of bourgeois democracy, secondly, socio-economic development within the capitalist mode of production and lastly, the organization of society within the state with a professional bureaucratic apparatus. Thus, the civil nation can be described as an interclass alliance under the leadership of the bourgeoisie and exclusively in the conditions of capitalist relations, as a form of their socio-political existence.
+
+It should be noted that ethnocultural and even just linguistic unity in the formation of the nation plays an important part, but it is, by no means, paramount. Examples being of a Swiss nation made up of several compactly residing ethnic groups, or the antagonism of the nations of the former Yugoslavia, which sometimes has a purely confessional and political background, with actual cultural and linguistic homogeneity, is clearly demonstrated. A nation is a product of the development of capitalist production relations in a particular territory and the basic structural unit of the world capitalist economy. On the subjective plane, this is a product of socio-political action, that is, created (in many cases artificially, virtually from scratch, then to be used by the state, as in the case of Ukrainian and Russian nationalisms) at a certain historical moment, a community that relies on developing economic relations. National identity can not be measured and defined in any way, but ideological. In other words, a nation exists as long as its representatives coexist in a homogeneous socio-economic space, believe in a common goal, and support the actions that lead to it.
+
+Along with similar civil nationalism, there is ethnic nationalism, which is based on imaginary blood-soil or genetic affiliation. It consists of affirming the supreme value of the nation and its traditions, and, optionally, of the superiority of one ethnic group over others or the need to create a mono-ethnic society. Ethnicity, in spite of its pseudo scientific justification, in fact operates with fictitious categories and is a product of ideological efforts no less than civilian nationalism.
+
+Until now, there has been discrimination on the ethnic principle in the world, which has sometimes taken the form of outright mass violence. Often based on racist prejudices, the ideology of ethnic nationalism justifies this state of affairs. At a certain stage, racism in many ways justified the actions of the colonialists in Africa and Asia, it served as an instrument to justify the inhuman exploitation of the colonies, which guaranteed profits to the ruling class. It should be noted that at the same time, the European colonizers, implanting theories of racial superiority, built «civilized and progressive» civil nations at home, which, nevertheless, discriminated against ethnic minorities in the city before and continue to do so today.
+
+According to ideologues, ethnic nationalism and racism are primarily beneficial for representatives of that ethnic group or «race» that dominates. However, in fact, all the benefits go to the ruling class, which, thanks to aggressive nationalist or racist policies, strengthens its domination and eliminates political and economic competitors, while the working classes that make up the majority receive only the beautifully decorated chains of the new cult.
+
+We believe that ethno-cultural self-identification is our own business, and no one has the right to impose or prohibit it. To consider ourselves part of any tribe and people or not (as the case may be), to have appropriate cultural preferences or again not, in our opinion, is the inalienable right of every person. We certainly support this right and resolutely oppose any manifestations of national oppression. However, the successful overcoming of national oppression is possible only in the class area, with the overcoming of class oppression across the globe. Both on a local and global scale, the bourgeoisie is responsible for the oppression, and victory over it in one country is fraught with the intervention of the bourgeoisie from its neighbors. For this reason, the global solidarity of the exploited, free from both nationalism and mutual national oppression, is necessary.
+
+Thanks to such components as the class compromise, the state’s self-worth as a political form of society and the supreme arbiter, civil nationalism restrains the growth of class contradictions and directs public discontent in a direction beneficial to the bourgeoisie. That is, in fact the ideology of the bourgeoisie struggling to establish and strengthen its domination. In certain periods, the tasks of the bourgeoisie can coincide with the tasks of the proletariat, when they are compelled to confront more archaic classes. In the case of Ukraine, it was possible to talk about the opposition of the bourgeoisie to the ruling corrupt bureaucratic apparatus, which acquired particularly acute forms during Maidan. Such an approach makes it possible to call Maydan a likeness of the bourgeois revolution, with which a splash of low-level civilian nationalism was naturally associated.
+
+At the moment Ukraine is at the intersection of two nationalisms: Russian imperial and Ukrainian. Acting through an undeclared war — sending its military cadres, as well as supporting the reactionary forces in the east of Ukraine with money and weapons — the Russian leadership is trying to drag Ukraine into the zone of its exclusive political and economic interests. The elimination of Russian military aggression and the liberation of territories occupied by the military junta of the DPR-LPR is, first of all, in the interest of the Ukrainian bourgeoisie.
+
+Fanning the flames of war in the east of Ukraine, the Russian leadership first of all decides its own internal political tasks, demonstrating visually to its population what a massive anti-government protest can turn out. Almost literally reproducing the creation of the Holy Alliance in 1815, the Russian government is making efforts to create an international bloc aimed at preventing revolutions around the world. The Eurasian Union has similar goals, and the cooperation of the Russian leadership with the European ultra-right is directed to similar aims.
+
+Our goal is the formation of the proletariat as a revolutionary class, which is a prerequisite for an anarchist revolution both in Ukraine and in the world. The victory of Russian imperialism would destroy all the gains of the rights and freedoms of the Ukrainian workers, discard the class agenda and make any independent policy impossible.This is already happening today under the DPR-LNR regimes. The protracted conflict naturally leads to the militarization of society and, again, the creeping curtailment of these rights and freedoms in the territory controlled by the Ukrainian government. That is why Ukrainian revolutionary organizations should also be interested in the speedy cessation of Russia’s military aggression and its political influence. However, this does not mean that there is a need to support the Ukrainian bourgeoisie and its nationalist ideology. Uniting with the Ukrainian nationalists against the Russians, we would strengthen the weaker enemy in the fight against the stronger.
+
+Opposition to Ukraine’s civil nationalism is inevitable as the class struggle develops, because nationalism postulates the unity of the interests of the proletariat and the bourgeoisie. At the same time, opposition to ethnic nationalism and racism is a necessity for everyone, no matter their class, because they threaten not only the rights and freedoms of national minorities, but also the rights and freedoms of the majority, because such oppression always affects the position of the majority. At the moment in Ukraine, such nationalistic and racist forces have a low level of public sympathy (lower than that of the CPU to Maidan), but do not underestimate them.
+
+The same is true of Russian nationalism, which helps to impose a police dictatorship and obscurantism on both sides of the front.
+
+Against nationalism — the false unity of working people and exploiters! Against ethnicism and racism! Against imperial expansion! For the international solidarity of the working people and the social revolution!
