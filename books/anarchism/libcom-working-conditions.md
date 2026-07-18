@@ -1,0 +1,32 @@
+---
+title: "Working Conditions"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/working-conditions"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/working-conditions)
+
+Submitted by Django on July 11, 2011 There are around 3,500 to 4,000 workers employed in the factory, but their status differs significantly. Around 900 to 1,300 workers are permanent workers, around 800 to 1,000 trainees, around 400 apprentices and around 1,000 to 1,200 ‘temporary’ workers hired through contractors. In general, initially workers are hired as apprentice (generally after completing ITI course – technical college), then taken as temporary workers, and then promoted as trainee, and finally, but not necessarily they reach to the stage when they can get status of regular workers. Generally they are kept blocked at the stage of temporary workers and as trainees. In this way Maruti Suzuki more or less matches the general conditions in Gurgaon and Manesar, where around 70 to 80 per cent of the work-force is ‘temporary’.
+
+Wages differ according to contractual status. Permanent workers are paid between 13,000 and 17,000 Rs, trainees get between 8,000 and 10,000 Rs, temporary workers are paid around 6,500 Rs and apprentices around 3,000 Rs to 4,200 Rs. Compared to the automobile industry in the global North wages at Maruti Suzuki are obviously low. Having said this, the relative wage of a permanent worker at the Gurgaon plant (around 30,000 Rs / 500 Euro / 660 USD) will be higher than the wage of a temporary worker in car plants in Germany or France. Permanent workers at Manesar compared their wages to the wages of permanent workers at nearby Honda, Hero Honda or Maruti Gurgaon plant and voiced anger about the fact that they earn only half as much.
+
+“”We also want to earn more and live in a big house,” said Vinkendra Sharma, a protesting worker at the Manesar plant. Sharma, employed as a worker on the factor floor is originally from Panna district of Madhya Pradesh and earns Rs. 16,000 per month. According to him, not only does he have to contend with increasingly expensive food and lodging expenses, but has also to send money to his family. Ashok Kumar, another agitating worker, believes that formation of an independent union can take care of their rights and provide them a “better living standard that is missing so far”. “We cannot go to the washroom during any other time, and in case we do, we have to give an unconditional apology letter,” Manish Kumar said, a claim that was echoed by other workers. “We are giving our best to the company, but what are we getting in turn? The production capacity of Maruti has gone up from 10 lakh units in 2009-10 to 12.7 lakh units in 2010-11, but our salary has not gone up at all. Where is the incentive for hard work?” asked Ashok Kumar. Sandip Kumar, a 20-year-old contract labourer at the Manesar plant, said: “Our colleagues who worked at Suzuki’s plant in Japan told us that they get at least Rs. 40,000 for what we are doing.” According to 29-year old Rajesh (name changed on request) who has worked for three years with Maruti, the company’s compensation package for workers is flawed. His basic salary is Rs 4,000 and he gets an additional Rs 9,000 every month for attendance and production. Dharminder, one such contract labourer, has worked with Maruti for two years, attaching bumpers and other accessories on car faces. His Rs 6,400-a-month salary, he claims, has not improved.” (Livemint, 13th of June 2011)
+
+It is not only that wages are comparably low, they also come with fairly strict conditions attached. The basic salary for permanent workers and temporary workers is the minimum wage of around 5,000 Rs, the rest of the wage are ‘incentives’. If a worker is few minutes late, then his half day salary is cut. If a worker takes one day leave, he looses about 1,500 Rs to 2,000 Rs as salary cut in various forms of incentives and allowances. If a worker takes two day leave, he almost looses all the incentives. The fact that the company sees itself compelled to give two thirds of the wage ‘incentives’ hints at a ‘disciplinary problem’. Explaining the rationale, a Maruti official said that every “unplanned leave” by a worker, it costs the company heavily. “Each worker has been given a specific role in the production and supply chain. If they do not inform the supervisor well in advance, then production gets hampered severely,” he said. Most of the workers come from far away regions, they need ‘extra-holiday’ to see family and friends back home. “Nikhilesh Pandey, 25, a former worker at the Manesar plant who was at the factory gate to deliver lunch to his striking cousin, agreed that Maruti paid better than the others. “But we are not donkeys. We cannot work like slaves,” he said, adding that he worked at the factory for two years but quit when he was refused leave to attend to urgent business back home in Uttar Pradesh. “The problem is the immense pressure. They are extracting the work of 5,000 from half that number,” Pandey said. This means fewer breaks during shifts and no leave. “(Telegraph, 12th of June)
+
+Work at Maruti Suzuki is hard, which also pushes workers into ‘taking leave’. According to workers, the most serious problem is the intensity of work and the brutality of the way it is imposed on the workers. “We get a lunch break of exactly 30 minutes and a tea break of 5 minutes. The canteen is 400 meters away from the workplace. In those thirty minutes, we have to remove our safety clothes and goggles, run to the canteen, stand in so many different lines to pick up food, gulp down the food, go to the toilet, run back, put the goggles and safety clothes on again, and resume work. The lines are long because all the workers have break at the same time. If we are even one minute late, Rs 1000-1500 is deducted from our salary. Imagine that in the 5 minute tea break, we are supposed to have tea and snacks and restart work. There is no break allowed for visiting the toilet at any time. If a reliever does not come, a worker is forced to work a 16-hours shifts. Those workers who refuse to do over time are abused and insulted.” (Interview Mazdoor Ekta Lahar)
+
+These conditions form the background of the strike, they form the background of the general situation of workers in Gurgaon and beyond.
