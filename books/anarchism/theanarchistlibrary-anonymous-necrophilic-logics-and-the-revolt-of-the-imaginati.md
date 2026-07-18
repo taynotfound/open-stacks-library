@@ -1,0 +1,40 @@
+---
+title: "Necrophilic logics and the revolt of the imagination"
+author: "Anonymous"
+date: "2009"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/anonymous-necrophilic-logics-and-the-revolt-of-the-imagination"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on April 6th, 2009 from www.geocities.com"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "anonymous-necrophilic-logics-and-the-revolt-of-the-imagination.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/anonymous-necrophilic-logics-and-the-revolt-of-the-imagination.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anonymous-necrophilic-logics-and-the-revolt-of-the-imagination)
+
+A split between the rational and irrational is constructed by every rational system; each rationality creates a corresponding irrationality, that which does not fit inside of it. Therefore each rational system has inherent limits. To break out of a dominant rationality one must also be capable of conceiving of that which lies beyond the limits of that system. Rational systems can be useful tools but they can also become mental prisons.
+
+Some wish to reject all rational systems because they detest specific types of rationality, such as capitalist rationality. We live in a highly mechanized society where nearly everything has been ascribed a monetary value, where urban and rural spaces are ravaged by the needs of capital while human beings are left in arid lifeless environments drinking chemical laden drinks in cafes with subdued music. This leads some people crave the irrational: the chaotic. One can only listen to musak so long, before becoming filled with a desire to burn down the places that play fast music so that we will drink our drinks faster and leave. But it is not the irrational that can subvert capitalist rationality, capitalism also has its irrational side and, like all rational systems capital creates its own irrational limit. We can find a more powerful source of subversion in our minds’ imagination than in artificial splits created by the rationalities we wish to destroy. Imagination can show us well thought out ways burn down that Starbucks and not get caught. Imagination breaks out of habitual and necrophilic logics: imagination is anti-hegemonic.
+
+The surrealists experimented with imaginative flights outside of necrophilic logics. Alejo Carpentier was a Cuban novelist that was friends with the Surrealists while he lived in Paris in the 20s and 30s. His writing reflects a surrealist influence but he found the surreal in history and everyday life, specifically American life and history. Miguel Angel Asturias wrote fantastic versions of Mayan myths upon returning to Guatemala from Paris. The French surrealists and Latin American surrealist influenced writers attempted to break out of “Western” rationality in fundamentally different ways. The French surrealists emphasized the imagination of the subconscious whereas Carpentier and Asturias set the subconscious aside. These two writers looked to the indigenous and African cultures in their own countries and regions, to cultural logics which were less subsumed by the “Western” rationality the surrealists so criticized. Both Asturias and Carpentier were white, educated, city dwellers who were looking at these cultures from the outside and thus often romanticized them. Each culture’s logic leaves openings that other cultures close. This is most obvious in the case of moral logic; one culture restricts that which another condones. However, this method of subversion is inherently limited since it is merely replacing one code with another. These two writers looked to other cultures for openings, for opportunities closed by their own cultures.
+
+Carpentier thought that life contained realities that were much more shocking than the dreams of the surrealists. He looked away from the subconscious and found the marvelous real in the creative choices of human life. The ways in which the conscious imagination can subvert established rationalities are more willful and thus more powerful than what we can extract from the subconscious.
+
+In the novel The Kingdom of this World Carpentier tells us a story of the overthrow of the French rule in Haiti and its aftermath. He went to the archives in Haiti to research the novel yet the story is written with trajectories into the physically impossible. He shows us the rule of Henri-Cristophe (after the removal of the French) as deranged yet following political logic. His abuses of power are perpetrated by a deranged man who is mad yet upholds the state’s logic of repression and exploitation enough to function as a statesman. The state, like capitalism appears to be hyper-rational but is sometimes terrifyingly irrational. Carpentier’s conception of the marvelous real challenges the separation between the real and unreal as well as between the rational and irrational.
+
+Carpentier also uses fights of marvelous realism in which humans fly or turn into animals but he bases this in voodoo beliefs, it is indistinguishable whether he is saying that a man flew away when he was about to be executed or if people merely believed this to be true. He therefore describes the physically impossible as rational, as fitting within voodoo’s logic. The physical metamorphoses of Mackandal, an instigator of the insurrection, are accepted as normal by the characters. The novel is about the first anti-colonial insurrection that overthrew European rule in America, which was also a generalized slave revolt. The slaves find the insurrection more unbelievable than humans turning into animals. Voodoo was already generally accepted as having real power, while insurrection brought what was previously inconceivable. Property was temporarily effectively abolished and what had been the slave-owners’ assets became the loot of the slaves.
+
+After bathing their arms in the blood of the white man, the Negroes ran toward the big house, shouting death to the master, to the Governor, to God, and to all the Frenchmen in the world. But driven by a longstanding thirst, most of them rushed to the cellar looking for liquor. Pick blows demolished kegs of salt fish. Their staves sprung, casks began to gush wine, reddening the women’s skirts. Snatched up with shouts and shoves, the demijohns of brandy, the carboys of rum, were splintered against the wall Laughing and scuffling, the Negroes went sliding through pickled tomatoes, capers, herring roe, and marjoram on the brick floor, a slime thinned by a stream of rancid oil flowing from a skin bag. — Carpentier The Kingdom of this World.
+
+Revolt creates situations that are as outside of established reality as is magic. Revolt is marvelously real because it demands the impossible. Only willed imagination has the power to crush the conceptions and relations that perpetuate the status quo.
+
+Capitalist logic is necrophilic because it reduces life itself to a quantity. This logic brought to its extreme conclusion would result in the annihilation of life on this planet. The crudest examples of this reduction are the selling of forests or human organs for a price, more insidious is the reduction of time to a monetary value. Selling time for a number brings living death. Homogenous time brings abstractly equivalent moments; a flat expanse of seconds and minutes and hours spreads out in front of us. According to the clock every 5:33 PM is the same. The logics of law and morality creep their way into our heads restricting and repressing, but rationalization is never total, human desires and actions perpetually elude domestication and classification. There is always a tension between desire and the logics which constrain it, whether they be economic, political or moral. The revolt of the imagination rebels against necrophilic logics as well as their most obvious results, such as police and the state.
