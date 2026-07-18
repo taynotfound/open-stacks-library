@@ -1,0 +1,70 @@
+---
+title: "The Justice that Jena Demands"
+author: "Xochitl Bervera"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/xochitl-bervera-the-justice-that-jena-demands"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Xochitl Bervera is co-director of Families and Friends of Louisiana’s Incarcerated Children (www.fflic.org). Retrieved on March 14, 2019 from web.archive.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "xochitl-bervera-the-justice-that-jena-demands.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/xochitl-bervera-the-justice-that-jena-demands.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/xochitl-bervera-the-justice-that-jena-demands)
+
+Bring the Ruckus has been closely following the tense situation in Jena, Louisiana. We would like to share this important piece by Xochitl Bervera, an organizer for Families & Friends of Louisiana’s Incarcerated Children (FFLIC). Several members of Bring the Ruckus have worked with FFLIC, both from a distance and on the ground in Louisiana, including two members who were with FFLIC in Jena on July 30 th , the day Mychal Bell was originally scheduled to be sentenced.
+
+I want to tell you about Emmanuelle Narcisse. He was a tall, slim, handsome young man who was killed by a guard at the Bridge City Correctional Center for Youth — a Louisiana juvenile prison — in 2003. Apparently, he was “fussing” in line, talking back to a guard. The guard punched him in the face, one blow, and Emmanuelle went down backwards, slamming his head on the concrete. He took his last breath there behind the barbed wire of that state run facility. The guard was suspended with pay during the investigation. No indictment was ever filed against him.
+
+There is also Tobias Kingsley1, sentenced when he was 15 to two years in juvenile prison for sneaking into a hotel swimming pool (his first offense). Tobias endured physical and sexual abuse inside the prison. He said that guards traded sex with kids for drugs and cigarettes, and sometimes set kids up to fight one another, making cash bets on the winner. His mama said he was never the same after he came home. She said the nightmares, the violence, the paranoia persisted years after the private lawyers helped him come home early. His battles with addiction and depression are not yet over.
+
+And there is Shareef Cousin, who was tried as an adult and sent to death row in the state of Louisiana for a murder that he didn’t commit. Shareef spent from age 16 to age 26 behind bars, the majority of those years isolated in Angola’s Death Row, because an over zealous prosecutor didn’t care that the evidence didn’t really add up. After all, it was only a young Black man’s life on the line.
+
+These are young Black men who have encountered Louisiana’s criminal justice system who I know because their mothers have become proud members of Families and Friends of Louisiana’s Incarcerated Children (FFLIC), the organization I have worked for over the last 7 years. These stories are about young men who have experienced incredible injustice, not unlike the Jena 6, only the national spotlight has never shined on them.
+
+There are hundreds more. Thousands. Every day in the state of Louisiana (and in most states in this nation), injustices of epic proportions are taking place in our criminal and juvenile justice systems. We, those of us who live here, fight here, and organize here, know hundreds of families and young people — often our own — who’ve endured almost inconceivable levels of violence, abuse, neglect. And despite efforts to get someone, anyone to care and to act, these young people most often end up statistics in somebody’s dismal report, or an anecdote in an article just like this. Because people don’t care. Because these young people are not just poor, they are not just Black, they are criminals .
+
+So, Hallelujah! Almost overnight it seems, the nation is looking deep into the heart of Louisiana’s criminal justice system and seeing what we’ve been shouting about all these years! The racism, the blatant and unaccountable abuse of power masquerading as “justice.” The slavery-like, Jim Crow-like, Bush-era prejudice and exploitation that has been the bedrock of white supremacy here and all over the Deep South for decades. Young people of color and mothers across the country are rising up saying “We wont take it anymore! We demand justice!” The myth that the goal of the criminal justice system is protecting public safety is slowly unraveling as youth in Philadelphia, DC, Oakland and mothers in Chicago, Jackson, and Birmingham make that most important of realizations, “that could have been me ,” “that could have been my child.”
+
+Many are asking, “why now?” Why, of all the horrific incidents we’ve seen and exposed, is this the one that set off this fire of hope? Our young people have been shot and killed by police in every city in this nation, left to die of dehydration in local jails, railroaded by white juries and judges into serving 20, 30, 40 years in the prison plantations we call Angola, Parchment, and Sing Sing…
+
+Let me tell you what my heart tells me. What really matters is not why, but what we plan to do with this moment now that it has arrived. What will the leaders, the youth, the elders of our movement do now?
+
+Of course we must relentlessly and persistently demand justice for the Jena 6. But we must demand justice, not only in the form of dropping the charges against these specific youth, but in the systematic and thorough rooting out of racism from all wings of the criminal justice systems across the United States of America.
+
+Justice in Jena requires justice for all the others as well — for all those who have suffered (and some who have died) silently behind bars and for their families who have fought without benefit of TV cameras and news reporters. It requires understanding that we will not, we can not achieve racial justice in this country if we do not fight against the criminal justice system, not just in individual instances, but in its institutionalized, systemic form. If we do not understand this — and understand it deeply — then this newly discovered energy, this tidal wave of outrage, this beautiful, intergenerational protesting isn’t going to mean a damn thing past next week’s news.
+
+Justice in Jena requires all of us across the country to rise up against the racism and exploitation of the criminal justice system in all the places where we’ve come to see it and grown to accept it whether that’s allowing for an abysmal public defender office in your county or turning away when you see a police officer trample the rights, and perhaps the body, of a fellow citizen. We must cast off once and for all, the fundamental lie that the system has anything to do with criminals or justice or public safety. We must not back down, as so many movements have, when we are “crime-baited,” accused of defending rapists and murderers, accused of defending crime itself. We must not make excuses for some parts of the system while protesting others. Similar to opposing the war, the whole war, and not simply certain battles or certain strategies, we must oppose the system in its entirety. We must dismiss, once and for all, the urge to discuss what’s wrong with the system — what’s broken and needs to be fixed.
+
+There is nothing broken in this system. In fact, usually (when it is not disrupted by 50,000 protestors), it is quite efficient at doing precisely what it was created to do. In the Deep South, the criminal justice system as we know it was built after the abolition of slavery, as part of the terror machine which destroyed the briefly federally protected Reconstruction era. Without nuance or subtlety, the system was created by wealthy, land owning whites to keep Blacks “in line,” on the plantation, and working for next to nothing. Thanks to the Thirteenth Amendment which abolished slavery “except as a punishment for crime,” laws and codes were invented that criminalized the very existence of Black people, police were hired to “enforce” those laws, and courts were mandated to send these newly created “criminals” to jail, or better yet, to be leased out to the very plantation owners they had been “freed” from just months before. The “justice” that was once meted out by slave owners who were “masters” of their property, was now taken care of by the law. The word “slave” was replaced by the word “criminal.”
+
+And yet, even with this history known, the stigma of criminality has remained so strong that our own movements have turned their backs on this issue over the years. Too many of our movements today want to dismiss, minimize, or overlook the necessity for a racial justice movement to prioritize organizing around criminal justice. Too often, our members meet others — even those who should be allies — who hold the entrenched belief that if a child is in prison, he must be “bad,” he must have done something wrong. Even in progressive circles, organizations prefer to focus on the school children who need an education, the families who want affordable housing, the victims of street violence and drive-by shootings. These people are portrayed as “innocent” and deserving while currently and formerly incarcerated people are “guilty” — of something.
+
+Of course, it’s a false dichotomy. Everyone knows that the same communities, the same people, who are most impacted by violence, the lack of health care, education, and housing are those most brutally impacted by policing and prisons. But the idea of the dichotomy has been essential to maintaining the stigma which justifies the system. And it’s been a handy and effective tool to explain away a great deal of racial injustice in this country.
+
+In Jena, when asked about the incident which led to the arrests of the Jena 6, a white librarian confidently explained to the NPR reporter, “It’s not about race. It’s about crime.” Crime — the ultimate proxy for race, the ultimate justification for racism.
+
+I believe that this moment in history can be a pivotal one if we make it so. Up to 50,000 people marched in the streets of Jena yesterday — the majority of them Black, many were from the South. All were outraged by the blatant racism evidenced by the criminal justice system. This could be the beginning of the end for a system that should have been dismantled years ago.
+
+But what we fight for and how we fight will make all the difference. The most obvious principle is that we cannot fight for the system to expand — in any way. Asking for the white kids who hung the nooses to be charged, calling for Hate Crime Legislation — these “solutions” just strengthen the system and give the same players — the DA, the judge, the jury — more powers and more validation. If we understand that the system, at its core, is not designed to promote justice, then why would we ask for anything that expands its reach or powers? At the very least, we must only call for things which shrink the system – closing prisons, freeing prisoners, cutting correction budgets, eliminating the death penalty and Life Without Parole, prohibiting juvenile transfers, and implementing sentencing reform.
+
+We can also call for accountability from our elected officials. DAs and judges who perpetuate injustice, state representatives who are in bed with the corrections department and private prison companies — these people should not be allowed to hold office. They should be ousted whether by recall, regular elections, or public pressure to step down.
+
+But we can — and should — also call for the redirection of funds into a real public safety system. We must make it clear that the issue of public safety is fundamentally distinct from the issue of the criminal justice system. The only thing they have in common is rhetoric. Developing a public safety system which is prevention orientated, based on principles of restorative or transformative justice, prioritizes making the victim and community whole, and creatively resolving conflict is a powerful and noble goal and our communities should know more about these models and fight for them. A public safety system includes community based programs, quality education and the elimination of racism.
+
+The families of the Jena 6 are ahead of the crowd in the list of demands they have made public: 1) Drop (or fairly reduce) All Charges; 2) Reinstate School Credits; 3) No Juvenile Records; 4) Investigate “Noose” Incident of September 1, 2006; 5) Remove Reed Walters from the District Attorney’s Office; 6) Conduct Undoing Racism Workshops for Staff, Faculty, Administrators, Students, Parents and Community Members.
+
+These are good demands for Jena. What will you demand in your hometown or city?
+
+FFLIC is a membership based organization consisting primarily of mothers and grandmothers. These mothers and grandmothers have seen all sides of the farce known as the criminal justice system. They have been victims of sexual and physical violence who have either kept quiet or endured the humiliation and neglect of the DA’s office and the so-called victim’s advocates. They have been forced to call the police on their children when mental illness or addiction has made them violent and no other services exist. They have visited their children in prison and seen boot marks on their faces. They have walked home alone through dark streets in poor neighborhoods where there are no programs, no services, no activities to keep young men busy and hopeful. They have seen their children beat by police officers, by prison guards, sometimes even by judges and district attorneys.
+
+Standing on both sides of the system, these mothers will tell you that justice exists nowhere in the vicinity. It may sound radical, but its time we start listening to those who have been through it all and tear down the disgrace that is the U.S. criminal justice system.
