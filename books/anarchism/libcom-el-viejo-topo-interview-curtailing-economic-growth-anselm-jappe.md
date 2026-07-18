@@ -1,0 +1,52 @@
+---
+title: "El Viejo Topo Interview Curtailing Economic Growth Anselm Jappe"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/el-viejo-topo-interview-curtailing-economic-growth-anselm-jappe"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An interview with Anselm Jappe about &quot;curtailing economic growth&quot; (&quot;decrecimiento&quot; in Spanish), a tendency that is becoming increasingly popular in certain circles in Europe, which he characterizes as &quot;a reformism that wants to be authentically radical&quot; but which is doo"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/el-viejo-topo-interview-curtailing-economic-growth-anselm-jappe)
+
+An interview with Anselm Jappe about "curtailing economic growth" ("decrecimiento" in Spanish), a tendency that is becoming increasingly popular in certain circles in Europe, which he characterizes as "a reformism that wants to be authentically radical" but which is doomed to failure unless it challenges the logic of commodity production.
+
+From El Viejo Topo : Interview on “Curtailing Economic Growth” – Anselm Jappe
+
+El Viejo Topo (VT): To what do you attribute the “boom” in the discussion about curtailing economic growth?
+
+Anselm Jappe (AJ): Actually, the proportion of the public that is really aware of the discussion about curtailing economic growth is still quite small. It is growing, however. This reflects an increasing awareness of the most important developments of the last few decades: especially the evidence that capitalist development is dragging us towards an ecological catastrophe, and that a few new filters or some cars with lower emissions will not solve the problem. Even the idea that perpetual economic development is desirable has fallen under a vague suspicion; at the same time there is also dissatisfaction with those critiques of capitalism that only denounce it for its unfair distribution of wealth or even only for its excesses, such as wars and violations of “human rights”. This interest in the concept of curtailing economic growth is an expression of the widespread impression that the whole direction taken by our society is wrong, at least during the last few decades, and that we are confronted by a “crisis of civilization” affecting all its values, even at the level of everyday life (the cult of consumption, speed, technology, etc.).
+
+We are in the midst of a crisis that simultaneously affects the economy, the environment and our sources of energy, and the discussion about curtailing economic growth takes all these factors into consideration as they interact with one another instead of wishing to continue economic expansion with “green technologies”, as certain currents in the environmentalist movement have done, or proposing a different kind of regulation of industrial society, as some representatives of the critique that descends from Marxism have done.
+
+The idea of curtailing economic growth is also appealing because it proposes models of individual behavior that can be put into practice here and now, although it is not limited to these models, and because it rediscovers essential virtues like conviviality, generosity, voluntary simplicity, and gift-giving. But its attraction also resides in its friendly face, which makes one believe that radical change can be achieved by way of a generalized consensus, without undergoing conflicts or serious confrontations. It is a reformism that wants to be authentically radical.
+
+VT: Where do you stand with respect to the debates regarding the curtailment of economic growth? Are you convinced by their analyses and proposals?
+
+AJ: The theoretical discussions concerning curtailing economic growth certainly have the merit of seeking to break with the productivism and economism that have long constituted the shared basis of bourgeois society and its Marxist critique.
+
+A profound criticism of the capitalist way of life would generally appear to be more at home among the advocates of curtailing economic growth than it is, for example, among the supporters of neo-workerism, who still believe that the development of the productive forces (particularly in their electronic form) will lead to social emancipation. Those in favor of curtailing economic growth are trying to discover elements of a better society in the life of today—often elements that derive from the legacy of precapitalist societies, as exemplified by their view of gift-giving. Unlike other critics of capitalist society, they do not run the risk of betting that the continuing decomposition of all traditional forms of life and the onset of barbarism will supposedly prepare a miraculous rebirth (like, for example, the journal Tiqqun and its successors in France). The problem is that the theoreticians of curtailing economic growth get lost in vague assertions with regard to the causes of the dynamic of economic growth.
+
+In his critique of political economy, Marx had already demonstrated that the replacement of human labor power by the use of technology reduces the “value” represented in the commodity, which impels capitalism to engage in a constant expansion of production. The blind dynamism of capitalism is engendered by capitalism’s basic categories—abstract labor, value, the commodity, and money, which are by no means characteristic of every mode of production, but only of capitalism. Disregarding external limits, constituted by the exhaustion of its resources, the capitalist system contains from its origins an internal limit: the obligation to reduce—due to competition—the role of the living labor that simultaneously constitutes the only source of value. Over the last few decades this limit appears to have been reached, and the production of “real” value was to a large extent replaced by its simulation in the financial sphere. Furthermore, both the external and the internal limits of capitalism began to be fully manifested at the same time: around 1970. The obligation to expand is therefore coterminous with capitalism. Capitalism can only exist as a flight forward and as perpetual material expansion in order to compensate for the ongoing diminution in value. Thus, a real curtailment of growth is only possible at the expense of a complete break with commodity and money production. But the “anti-growth” movement generally shrinks from this implication, which may seem too “utopian” for them. Some have subscribed to the slogan: “get out of the economy”. But most remain within the framework of an “alternative economic science” and appear to believe that the tyranny of growth is only a kind of misunderstanding that could be systematically addressed by way of scientific forums that would hold debates concerning the optimal level of GDP.
+
+Many advocates of curtailing economic growth fall into the trap of traditional politics and want to participate in elections or petition their government representatives. Sometimes they even embrace a somewhat “snobbish” discourse, with which the rich bourgeoisie placate their guilty conscience by ostensibly salvaging vegetables that would otherwise be discarded at the market. And while the desire to avoid the right-left conflict might seem inevitable, one must not only ask why the “New Right” has shown so much interest in curtailing economic growth, but also take into consideration the risk of succumbing to an uncritical apology for “traditional” societies in the global South.
+
+To sum up, I would say that the discourse of the advocates of curtailing economic growth seems to me to be more promising than many other contemporary forms of social critique, but there is still a long way to go and above all they have to lose their illusions about the possibility of taming the capitalist beast with nothing but good will.
+
+VT: You have mentioned some weak points and some strong points of the theory of curtailing economic growth. But doesn’t the slogan “get out of the economy” testify to a certain ignorance concerning the difficulties involved in creating islands of reduced growth within capitalism? Other forms of contemporary social critique are aware of the contradictory processes underway in capitalist societies and of the importance of social struggles, an aspect that seems to be underestimated in the discourse associated with the idea of curtailing economic growth. Do you agree?
+
+AJ: There is a certain foolishness in believing that the curtailment of economic growth could become the official policy of the European Commission or anything like that. A “capitalism of reduced growth” would be a contradiction in terms, and would be just as impossible as an “ecological capitalism”. If the curtailment of economic growth is not to be reduced to going along with and justifying the “growing” impoverishment of society—and this risk is real: a rhetoric of frugality could guild the pill for the new poor (who may be compelled to dumpster-dive) and transform what is an imposition into a seeming choice—it will have to prepare for confrontations and conflict. But these confrontations will no longer coincide with the traditional ones that were informed by the “class struggle”. A necessary supersession of the productivist paradigm—and its corresponding ways of life—will encounter resistance in all social sectors. One aspect of the current “social struggles” throughout the world is essentially the struggle for access to capitalist wealth, without questioning the character of this alleged wealth. A Chinese or an Indian worker has a thousand reasons to demand a higher wage, but if he gets it he will probably buy a car and thus make his contribution to “growth” and its dire consequences on the ecological and social planes. We would hope that the struggles to improve the situation of the exploited and the oppressed develop hand in hand with efforts to overcome the social model based on excessive individual consumption. Certain peasants’ movements in the global South may be moving in this direction, especially if they recover certain aspects of traditional societies such as collective ownership of the land, or the existence of forms of individual self-esteem that are not related to the individual’s fate on the market.
+
+Originally published in Spanish as contribution to an open debate on curtailing economic growth in El Viejo Topo , No. 258-259, July 2009. See:
+
+http://www.decrecimiento.info/2009/09/entrevista-anselm-jappe.html
