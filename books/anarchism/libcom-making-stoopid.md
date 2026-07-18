@@ -1,0 +1,74 @@
+---
+title: "Making Stoopid"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/making-stoopid"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Mickey D&#039;s critique of the school system, for Processed World magazine."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/making-stoopid)
+
+Mickey D's critique of the school system, for Processed World magazine.
+
+Every young person is required by law to suffer the best hours of the day trapped in an ugly, overcrowded room, facing front and listening to a frustrated civil servant. The teacher probably knows that school is a waste of time but needs the paycheck and can't find work elsewhere. He or she answers to the principal who is subordinate to the superintendent who in turn is subordinate to the District. The alleged beneficiary of this process, the student, is at the bottom of a long chain of command, relegated within a hierarchy of classes and grades and tracks within grades. The student learns that he or she is an isolated object in an undifferentiated mass whose own intellectual, social, or sensual interests are irrelevant and disruptive. Schools indoctrinate that life is by necessity routine, impersonal and boring; that one's best interest is to shut up and conform; that spontaneity, creativity and free thought are to be regarded with suspicion and hostility. Gutlessness and apathy are rewarded while independent initiative is deterred by fear of failure and the prospect of punishment.
+
+Schools emphasize students' relationships with adult authorities while devaluing peer relationships. However, the crowding and rigid scheduling allow for little personal contact between students and teachers. Social contact between adults and children outside of the family is rare and suffused with sexual anxiety. A student gets individual attention only through being disobedient; by the time the school shrink or guidance counselor meets with the student, he or she's been written off as incorrigible.
+
+Even when the classroom isn't overcrowded, individual engagement with the lessons is undermined by the machine‑like structure of the learning process. Lessons are largely handed down by an invisible bureaucracy. Instruction is programmed to shape acceptable responses according to a predetermined goal — passing tests. The academic material itself is a kind of trivia with planned obsolescence, to be consumed and thrown away after its function is served.
+
+Schools serve the state and dominant institutional values by promoting myths about history, politics, science, and in fact, every subject they teach. Schools do their best to present a uniform worldview and exclude alternatives. To get any real education, one has to unlearn nearly everything school teaches in the first place! However, few people emerge from school with confidence intact in their own learning abilities. Fear of the hostile alien world outside of us diminishes our belief in our own feelings and experiences and induces chronic anxiety. Ultimately, many cling to the established worldview for some (false) security.
+
+School routines are even more important than the curriculum in inculcating obedience and conformity. Permission is required for the relief of bodily needs, accompanied by a hall pass. Attendance is mandatory for 12 years and constantly monitored. Ringing bells signal rigidly scheduled periods. The school grounds can't be left during the day, and the outside world is patrolled by truancy officers. School follows the student home as homework, preparing for a life of continuous work. Play is routinized under adult surveillance into recess and students are traumatized with gym class, which can easily mean pubescent military training at the hands of a sadist.
+
+School circumscribes the experience of being young, taking over many of the social functions of the extended family while serving as an agency of military and industrial recruitment. Extended schooling prolongs the process of socialization and training well into adulthood. “Maturity” is defined as accommodation to and acceptance of an irrational and destructive social order.
+
+Ubiquitous propaganda urges young people to stay in school, usually featuring media‑appointed role models like Magic Johnson or Spike Lee. An army of academic experts blame high drop‑out rates on backgrounds of poverty, cultural characteristics, family and emotional problems, etc. “No school, no job,” they warn. Middle‑class status and salaries come from diplomas; the remedy for poverty is more schooling. And that has become absurdly true! Even service jobs that take five minutes to learn require diplomas because schools certify punctuality and obedience. Successful schooling indicates tolerance for monotony and accommodation to the prevailing hierarchies of society.
+
+Education also serves as a warning to potential employers about “over‑qualification.” A B.A. from a liberal arts college indicates surplus education. This is a growing phenomenon in a society with less and less need for talent and ambition and more need for robotized service workers.
+
+Whatever learning occurs in schools is, at best, incidental to the aims and functions of the school system. Education does not create enthusiasm for learning, enrich our experience of growing up or give us confidence to exercise democratic initiative. It fosters cynicism and political withdrawal.
+
+The rise of public schooling beyond the sixth grade in the late 19th century coincided with the abolition of child labor from the factories, where they had done the most dangerous and arduous tasks. “Progressive” reformers saw that the long‑range requirements of industry demanded a technically literate workforce; even unskilled lathe operators needed to read blueprints and do fractions. Today literacy is less necessary for the maintenance of industrial production and the clerical system. Numerical control, cybernation, pictograms, telephones, dictaphones, etc. have rendered the printed word increasingly obsolete in sectors of the economy with high job growth, i.e. retail, food service, etc. Yet barebones literacy remains a justification for mandatory schooling.
+
+If children were taught basic language acquisition in the classroom it is doubtful anybody would be able to speak at all. Schools teach literacy by way of mechanical conditioning and repetition geared toward test‑passing — a sure technique for inhibiting free expression and understanding. No wonder so few emerge from school who enjoy reading; fewer still who value it as a means to enlightened critical reasoning. The content of the reading material of the great majority — best sellers, newspapers, news magazines — is intellectually comparable to the shit on TV and radio.
+
+Literacy is required so that people can distinguish between brand names and decipher headlines. It's possible that people would be less susceptible to propaganda campaigns if they weren't so literate; certainly the highest level of political indoctrination seems to occur among the highly literate readers of the New York Times and other “quality” media. Literacy should be a useful tool that can lend meaning to our imagination and experience — not a means of symbol manipulation for propagating top‑down decisions and advertisements.
+
+From the inception of the education experience, students are subjected to a battery of hastily timed true/false and multiple‑choice tests. Such tests devalue speculative thought, which requires leisurely reflection and the possibility of arriving at conclusions that negate the presuppositions of the test‑makers. The intense pressure for information retention and punishment for failure hardly encourage free thinking.
+
+Competitive testing and grading replicate the pressures of the job market. There are only a few prestigious jobs for the good test‑takers. For the weeded‑out majority, stupidity is a sensible reaction to the humiliation and embarrassment of the classroom. The deep‑seated anti‑intellectualism of American society surely has roots in the resentment and hostility to learning that school inculcates in its “failures.”
+
+Popular views of intellectual achievement as elitism helps perpetuate the monopolization of educational resources by the privileged. However, ignorance of geography, basic political rights, lack of foreign languages, history, etc. is just as prevalent at elite institutions like Harvard or Princeton as in the general population. Far from counteracting ignorance, institutionalized learning threatens to bring about a new reign of universal cretinization.
+
+Social reformers have long argued that education can solve all problems. After a decade of deterioration and neglect, hopes are high that a renewed commitment by the federal government to upgrading the schools will produce a workforce competitive with the U.S.'s main industrial rivals, Germany and Japan. This will supposedly curb the downward slide of living standards which is actually caused by the normal “healthy” expansion of the world market and capitalism. Mass education has been challenged at the level of public policy only by rightists of the William Bennett mentality who want to introduce free‑market mechanisms into the existing system as part of the general trend toward a two‑tiered society. But is the only alternative to privatization more useless training?
+
+The current school “crisis” is largely one of its own making. Crisis is omnipresent in modern society; it's a way by which a small class of managers and professionals defines a problem to legitimize their continued control and insure the need for their expertise. This is an effective method of nullifying citizen involvement. Without a radical reconception of the role of education in society, the remedy “more is better” will only waste more money and resources and further fuck us up. A more practical approach might be to just give the money to poor children directly rather than channeling it through a school system that wastes most of it on middle‑class bureaucrats.
+
+One of the great claims made of the American public education system is that it sometimes brings under its roofs the children of different backgrounds and classes. But even with a college diploma, a black graduate is unlikely to earn as much money as a white high school graduate. The myth of equality of opportunity through public schooling only impresses on people that their failure to rise beyond their parents' status is their own fault, for lack of intelligence or effort — not the system's failure.
+
+Education is a big business. University campuses occupy a lot of valuable real estate, and like any business, obey an imperative to constantly expand, often at the expense of surrounding communities. Universities consume billions of taxpayer dollars for research and development while foundations and endowments linked to large corporations determine the goals and methods of research. Schools are gigantic markets for building contractors, text‑book companies, computer sales, labor unions, testing services, giant sports industries, inept custodial fiefdoms, (putrid) food franchises, etc. In constantly seeking to maximize “efficiency” and streamlining costs, administrators standardize their products and go where the money is — usually war research.
+
+Before the GI Bill and the post‑war higher education boom, less than 50 percent of Americans graduated from high school, much less college. To an extent that is difficult to appreciate in our age of universal compulsory schooling, careers were learned by experience, self‑motivation, trial‑and‑error, and facing life head‑on. Not so long ago, for example, if one wanted to become a journalist, one hung around the local newspaper office and did errands, picking up the tools of the trade through immersion in the environment. Today, to get a foot in the door at a daily paper one must have a Master's degree in journalism — and the quality of journalism is more homogeneous and state‑controlled than ever before thanks to its professionalism.
+
+In its role as a credential factory, the university insulates intellectual work from public affairs. Academics go for patronage and status at the expense of hyperspecialization, abstraction and increasingly rarefied jargon. As Russell Jacoby has written: “Universities not only monopolize intellectual life, they bankrupt independent producers. In an economy of $3 trillion, the means of support for non‑academic intellectuals relentlessly shrinks. Circles of intellectuals which existed or subsisted outside the university...belong to the past. Today even painters, dancers and novelists are usually affiliated with academic institutions.”
+
+Schools are an essential component of the regimentation of the population to the national “needs” as defined by the profit system. Unqualified economic growth is axiomatic among the educated classes; to reject it is to operate outside the boundaries of permissable discourse as defined by academe, evidence of emotional or cultural backwardness.
+
+Our productive capacity should render scarcity obsolete, eliminating poverty and improving life. Instead, innovation is wastefully harnessed to the development of weapons and new commodities that become all‑pervasive while de‑skilling people, making their increasingly mechanized and bureaucratic environment less and less comprehensible. Education turns out more PhDs and more experts to reinforce our sense of powerlessness.
+
+The present school system produces some who find satisfying work, but the vast majority are forced to find their human self‑worth as consumers in a rat‑race of unnecessary toil devoted to destructive economic growth. The present school system obstructs our ability to participate in shaping the policies that affect our lives.
+
+No single institution, like the monolithic school system programmed by a National Education Association, can prepare everybody for a social role. The current system needs to be decentralized, emphasizing other possibilities of educating, appropriate to various abilities, conditions and communities. We need to make our whole environment more educative rather than ghettoizing the concept of education in the schools, which amounts to little more than a system of social engineering for the corporations and the state.
+
+“School” in Greek originally meant “serious leisure.” Young people went about the city of Athens meeting citizens and observing the different occupations and activities that took place. It would be infinitely better to let kids hang out and investigate society by themselves, especially if they have access to workplaces and homes where they could question the division of labor (manual vs. intellectual) and the distinction between work and play.
