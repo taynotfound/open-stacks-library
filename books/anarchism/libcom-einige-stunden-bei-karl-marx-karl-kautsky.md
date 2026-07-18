@@ -1,0 +1,120 @@
+---
+title: "Einige Stunden Bei Karl Marx Karl Kautsky"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/einige-stunden-bei-karl-marx-karl-kautsky"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "&#039;A few hours with Karl Marx&#039;, Arbeiter-Zeitung 12 March 1933. Kautsky recalls his visits at Marx&#039;s home."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/einige-stunden-bei-karl-marx-karl-kautsky)
+
+'A few hours with Karl Marx', Arbeiter-Zeitung 12 March 1933. Kautsky recalls his visits at Marx's home.
+
+Ich wurde aufgefordert, meinen perfönlichen Eindruck von Karl Marx wiederzugeben. Das kann man sehr wohl verlangen, bin ich doch unter den lebenden Sozialisten der einzige, der als Erwachsener — nicht als Kind, wie Jean Longuet — Marx gesehen hat. Doch habe ich es bisher stets abgelehnt, über meine Erinnerungen an Marx zu schreiben, weil meine Bekanntschaft mit ihm nur flüchtig war, ich wenig über seine Persönlichkeit zu sagen habe.
+
+Um in das Wesen eines Menschen einzu einzudringen, muß man ihn bei der Arbeit be beobachten ­ obachten beobachten — am besten mit ihm zusammen arbeiten —, und beim Ausruhen von der Arbeit, im Kreise seiner Familie, seiner Freunde. Und zwar nicht gelegentlich, sondern Jahre hindurch in den verschiedensten Situationen. Derartiges war Wilhelm Liebknecht und Paul Lafargue Marx gegenüber vergönnt. Wer Marx' Persönlichkeit kennenlernen will, dem rate ich, Liebknechts Schrift über Karl Marx und Lafargues Artikel über Marx in der „Neuen Zeit" (IX, 1, S. 10 fs., S. 37 ff.) zu lesen.
+
+Meine Begegnung mit Marx vollzog sich unter sehr ungünstigen Umständen. Als ich 1881 nach London kam, war Marx' Frau schon seit mehr als einem Jahre schwer erkrankt, an einem Leiden (Krebs), das als unheilbar erkannt war. Sie erlag ihm am 2. Dezember 1881. In den Monaten, die ich in London damals zubrachte — Ende März bis Ende Juni —, war aber auch Marx selbst erkrankt. Am 30. Juni schrieb er an seinen Freund Sorge, daß „ein länger als sechs Monate fortdauernder Husten, Erkältung, Halsleiden und Rheumatismus mir das Ausgehen ­nur selten erlauben und mich von Gesellschaft ­fernhalten".
+
+Das ergab keine heitere Stimmung im Hause Marx. Auf der andern Seite aber hatte ich selbst kurze Zeit vorher bei Marx und Engels manchen Anstoß erregt. Als meinen Führer zum Sozialismus hatte ich mir in Oesterreich Andreas Scheu ersehen, der allerdings seit 1874 in England lebte, mit dem ich aber eine rege Korrespondenz unterhielt. Von Oesterreich ­aus hatte man ihn bei Marx des Bakunismus verdächtigt, was sicher falsch war. Aber eine „anti-aütoritäre"' Ader hatte er und er ermunterte mich, als ich, der ich noch ein Suchender und Tastender war und Marx noch wenig verstand, ihm Albert Lange und Schäffle gleichsetzte. Ich stellte diesen sehr hoch in meinem Erstlingswerk über den „Einfluß der Volksvermehrung auf den­ Fortschritt der Gesellschaft" (fertiggestellt Frühjahr ­1878. wegen des Sozialistengesetzes erst Ende 1879 in Wien gedruckt). Es fanden sich dort kritische Bemerkungen gegen Marx, die natürlich kein Verbrechen waren, aber ein Fehler, weil unbegründet, wie ich allerdings erst später herausfand, als ich das Marxsche „Kapital" besser begriffen hatte. Seitdem ich aus eigener Erfahrung weiß, daß man leichter dazukommt, Marx zu kritisieren, als ihn zu verstehen, hat mir kein Marx-Vernichter mehr imponiert. Aber meine damalige Verständnislosigkeit förderte nicht mein Ansehen in Marx' Augen.
+
+Noch mehr aber schadete es mir, daß ich später — im Gegensatz zu Scheu, der mit Mosts Radikalismus weiterging als ich wollte — für Höchberg schrieb, dessen schwächliche Haltung unter dem Sozialisten-gesetz bei Marx wie Engels herbste Verurteilung ­hervorgerufen hatte. Auch ich lehnte diese Haltung ab, konnte aber trotzdem für Höchberg arbeiten, da mir völlige Freiheit zugesagt war, welche Zusage auch stets eingehalten wurde. Ich handelte daher in vollem Einklang mit Bebel. Aber das wußten die Londoner nicht.
+
+Im Dezember 1880 gingen freilich Bebel und Bernstein (Höchbergs Privatsekretär) nach London und brachten eine Versöhnung mit unseren grollenden Meistern zustande. Gewissermaßen als „Verbindungsoffizier" zwischen London und Zürich wurde ich nun nach London geschickt. Liebknecht sagte mir, daß er davon erfuhr, ich solle mich in acht nehmen, die beiden Alten seien nicht gut auf mich zu sprechen.
+
+Man kann sich denken, daß ich mit einigem Herzklopfen Marx' Stube betrat. Sie war ein geräumiges Gemach. Nicht nur in Bücherbrettern an den Wänden drängte sich eine Fülle von Büchern, sondern auch auf Tischen lagen ganze Berge. In einer Ecke stand der Abguß einer Jupiterbüste, die in Otricoli ausgegraben wurde. Kugelmann ­hatte die Büste 1868 Marx geschenkt, vielleicht wollte er scherzhafterwelse eine Aehnlichkeit des bärtigen Göttervaters mit feinem Freund Marx demonstrieren.
+
+Doch das, alles merkte und erfuhr ich erst später. Im Moment meines Eintretens beschäftigte ­mich nicht der Donnergott der Antike, sondern der Donnerer unserer Tage. Ich wurde von seinem Anblick angenehm enttäuscht. Da war nichts von dem verbissenen, finsteren Fanatismus zu finden, auch nichts von der kalten Herzlosigkeit, deren man ihn so oft beschuldigte.
+
+Wenige Monate vor mir hatte Hyndman Marx' Bekanntschaft gemacht. Er schreibt von ihm in seinen Erinnerungen („ The record of an adventurous life ", 1911, Seite 269):
+
+The first impression of Marx as I saw him was that of a powerful, shaggy, untamed old man, ready, not to say eager, to enter into conflict and rather suspicious himself of immediate attack.
+
+Wenn Hyndman so kriegerische Empfindungen ­bei Marx wachrief, so wirkte meine Schüchternheit ganz anders. Gewiß, auch mir fiel sofort die gewaltige Kraft und Hoheit des Mannes auf. Keine andre Persönlichkeit hat je schon beim ersten Anblick einen so tiefen Eindruck auf mich gemacht, wie Karl Marx. Wenn man zuerst einer berühmten ­Persönlichkeit ansichtig wird, ist man gewöhnlich enttäuscht. Erst bei näherem Verkehr merkt man die Bedeutung des Mannes oder der Frau. Ganz anders bei Marx und ähnlich auch bei Engels, doch bei diesem nicht in so hohem Grade.
+
+Die hohe Stirn, die forschenden Augen waren ehrfurchtgebietend, aber durchaus nicht einschüchternd. Weder finster noch steif empfing mich Marx, sondern mit einem freundlichen Lächeln, das mich fast väterlich anmutete. Die Beklommenheit, die ich gefühlt, schwand sofort.
+
+Ich hatte gefürchtet, es werde mir gehen wie dem jungen Heine bei seiner ­Zusammenkunft mit einem andern Olympier, mit Goethe. Dieser scheint ihn so unnahbar begrüßt ­zu haben, daß Heine, wie er selbst berichtet, nichts Besseres einfiel, als die süßen Pflaumen zu loben, die auf dem Wege von Jena nach Weimar zu finden seien.
+
+Da ging es mir besser. Wir fanden gleich ein Gesprächsthema — meine Mutter.
+
+Sie hatte in den letzten Jahren vor dem Sozialistengesetz für das Unterhaltungsblatt unserer Partei einige Romane geschrieben, die dort erschienen waren und viel Beifall gefunden hatten, und war dadurch sehr populär geworden. Auch in der Familie Marx hatte sie dadurch grotzes Ansehen gewonnen, weit mehr als ich. So wunderte es mich auch nicht, daß Marx gleich von meiner Mutter sprach.
+
+Ein weiteres Gesprächsthema ergab sich, als Marx mich fragte, auf welchen Gebieten ich jetzt tätig sei. Der Zufall wollte es, daß Höchberg mein Interesse im Jahre vorher auf Urgeschichte gelenkt hatte. Sie fesselte mich ungemein, mit Feuereifer warf ich mich auf dies Gebiet. Und nun stellte sich's heraus, daß gleichzeitig auch Marx sich urgeschichtlichen Problemen zugewendet hatte, ihm folgend auch Engels.
+
+Erst nach langen Auseinandersetzungen kamen wir auch auf das Gebiet der kapitalistischen Oekonomie. Da sagte ich Marx, daß wir Jüngeren nichts heißer ersehnten, als die baldige Vollendung des zweiten Bandes des „Kapital".
+
+„Ich auch", bemerkte Marx kurz, und, wie mir schien, nicht ohne Bitterkeit.
+
+Als ich dann später fragte, ob nicht die Zeit gekommen sei, an eine Ausgabe von Marx' sämtlichen Werken zu gehen, meinte er, sie müßten erst alle geschrieben sein. Weder er noch ich ahnten, daß sie tatsächlich bereits geschrieben seien, daß es ihm nicht vergönnt sei, sein „Kapital" zu vollenden.
+
+Rasch war mehr als eine Stunde in angeregter Unterredung vergangen. Als ich mich empfahl, lud mich Marx ein, bald wiederzukommen.
+
+Die kommunistische Presse hat ein Bruchstück ­eines Briefes veröffentlicht, in dem Marx seiner ältesten Tochter über meinen Besuch bei ihm berichtet. Danach hätte Marx mich übelwollend empfangen. Ich kenne weder den Urtext noch den Gesamtinhalt des Briefes, weiß daher nicht, ob er ein richtiges Bild des Marxschen Verhaltens mir ­gegenüber gibt. Aber wie Marx auch über mich damals gedacht haben mag, auf jeden Fall ließ er nicht das mindeste Uebelwollen merken. Ich verließ Marx sehr befriedigt.
+
+Und dies Gefühl verstärkte sich noch bei den nächsten Besuchen. Das erstemal hatte ich das Marxsche Haus um 4 Uhr nachmittags betreten. Er hatte mich aufgefordert, das nachstemal erst um 9 Uhr abends zu kommen. Die Tage gehörten seiner Arbeit, da wollte er nicht gestört sein. Um 6 Uhr abends gab es das Mittagessen, dann legte sich Marx in seinem Arbeitszimmer auf das dort befindliche ­Sofa und ruhte etwa zwei Stunden. Von 9 Uhr an empfing er dann seine Freunde oder sonstige Besuche. Die gleiche Stundeneinteilung hatte Engels.
+
+Bei meinem ersten Besuch hatte Marx das politische Gebiet vermieden, beim nächstemnal sprach er vornehmlich über die Politik der Partei in Deutschland. Er übte harte Kritik an manchem ihrer Führer, war hingegen voll des Lobes über die Haltung der deutschen Arbeiter. Und nicht minder hoch pries er August Bebel. Aber auch über Bernstein äußerte er sich sehr befriedigt, den er früher wegen seiner Verbindung mit Höchberg mit großem Mißtrauen betrachtet hatte. Seit Jänner redigierte Bernstein den Züricher „Sozialdemokrat", und die wenigen Wochen seiner Redaktion hatten genügt, Marx zur Ueberzeugung zu bringen, er sei der richtige Mann für den Posten, ein furchtloser Kämpfer, aber stets seiner Verantwortung ­bewußt, so daß er jede unnütze Provokation vermied. Er ließ stets die Tatsachen sprechen und vermied jede Phrase. Das lobte Marx an ihm.
+
+Noch öfter besuchte ich Marx. Auch seine Frau lernte ich kennen, sie empfing mich auf das liebenswürdigste mit heiterer Miene, die ihre schwere Krankheit Lügen zu strafen schien. Entweder wußte sie nichts von ihrer gefährlichen Lage oder sie war standhaft genug, sich nichts merken zu lassen.
+
+Bei meinen späteren Besuchen verhielt sich Marx nicht immer so friedfertig, wie bei dem ersten. Ich lernte auch Proben feiner ätzenden Kritik sowie Anwandlungen leidenschaftlicher ­Entrüstung kennen. Sie gälten nicht mir, mir gegenüber trat er nur als Lehrer auf.
+
+Als eigentlichen Donnergott habe ich ihn nie kennen gelernt. Er konnte furchtbar werden, wenn er mit Feigheit, Falschheit oder anmaßender Unwissenheit zu tun bekam. So versicherten mich seine Freunde. Doch konnte er wieder über menschliche Schwächen, wenn harmlos, und über komische Zwischenfälle, so herzlich und unermüdlich lachen, wie kein andrer. Auch das konnte ich leider nicht selbst an ihm beobachten, das verhinderte sein und namentlich seiner Frau körperlicher Zustand. Aber seine Töchter, wurden nicht müde, von seiner Lachlust zu erzählen sowie von seiner unendlichen Güte, nicht bloß gegen Familienmitglieder, sondern gegen alle Hilflosen, Schutzbedürftigen, gegen kleine Kinder, gegen Proletarier, gegen bedrängte ­Genossen.
+
+Diese Güte war der Urgrund seines Wesens, war die tiefste Ursache des Ungestüms, mit dem er sich in den Klassenkämpf des Proletariats stürzte, in dessen Dienst er den ganzen ungeheuren Reichtum seines Wissens, stellte, in dessen Dienst er sich aufrieb, so daß er uns vorzeitig entrissen wurde. Er war eine Kraftnatur, nicht nur moralisch, sondern auch physisch. Aber selbst seine eherne Natur erlag den Wirkungen der langen Emigrationszeit nach dem Zusammenbruch der Revolution von 1848, als nicht nur Hunger und Wohnungselend seine Gesundheit ­untergruben, sondern gleichzeitig auch ständige Ueberlastung, namentlich mit Nachtarbeit ­in gleichem Sinne wirkten. So brannte die Kerze an beiden Enden und kam zu vorzeitigem Erlöschen.
+
+Marx ist nicht auf den Barrikaden gefallen, aber doch für das Proletariat gestorben. Das haben freilich viele Tausende neben ihm auch getan. Aber keiner war in der Lage, in der Zeit seines Lebens dem Proletariat so viel zu geben, dessen Kräfte so zu vermehren, dessen Kampf zu einem so siegreichen zu gestalten, wie Karl Marx.
+
+http://anno.onb.ac.at/cgi-content/anno?aid=aze&datum=19330312&seite=6&zoom=33
+
+Some other articles in Arbeiter-Zeitung by Kautsky assembled at https://archive.org/details/KautskyInArbeiter-zeitung
+
+Another (different) article by Kautsky telling about his visits to Marx, was translated in English. (h/t to anarchopac )
+
+K. Kautsky, Aus den Frühzeit des Marxismus (Prague, 1935) pp. 45 ff
+
+pp. 153–6, Karl Marx: Interviews and Recollections (ed. David McLellan, 1981)
+
+Engels was certainly more imaginative and broader in his intellectual interests, though Marx's breadth, too, attained legendary dimen­sions. Marx was more critical and circumspect and so worked more slowly and with greater difficulty, whereas Engels worked with the greatest of ease. Engels himself said to me that his worst fault had been his hastiness. Marx had cured him of it. He would not let go of a thought until he had tested it rigorously from all sides and pursued all its roots and branches. Their political practice was as different as their research. It was particularly important here that, as far as I could tell from my experience, Marx understood the art of handling men better than Engels. And this art is extraordinarily important for success in practical politics.
+
+Neither seems to have been a very good judge of men. This is corroborated by the fact that Engels failed for so long to see through Edward Aveling, a bad lot who shared Eleanor's life and eventually destroyed her; indeed, for almost a decade he preferred him to all other English socialists, to the great detriment of the Marxist cause in England.
+
+However different Marx and Engels might have been in their natures, that had little to do with the contrasting atmosphere in the two houses in the year 1881. The quiet which ruled in the Marx house, in contrast to the liveliness at Engels's, stemmed above all from the fact that Frau Jenny Marx was already in the grip of the frightful disease which was to terminate her life in the same year that I made her acquaintance. She died on 2 December 1881. Of course, it would be a mistake to imagine that the form of her illness was such as to confine her to bed during my London stay. The condition of the patient was highly changeable ... and there was no talk of perma­nent illness. But illness was present, together with its pain and weakness that, in general, increased. Of necessity, this made the deepest of impressions on all the members of the family ....
+
+Considering that this was the situation in the Marx house, of which of course I had only an incomplete knowledge, I must consider it in fact as a high honour that Marx received me at all. At all events, Liebknecht had warned me that I would have a great deal of trouble with the Londoners; and party gossip has many stories of Marx's harsh venom. My heart was therefore beating fast when I entered Marx's room. I was also seized by the fear that I would make a fool of myself like the young Heine on meeting Goethe, to whom (as he himself relates) he could find nothing better to say than to praise the sweet plums that were to be found on the road from Jena to Weimar.
+
+Yet Marx did not receive me in any way as distantly as Goethe did his young colleague, who was then (1824) about as old as I in 1881. Marx's outward appearance inspired me with awe but was not intimidating. He received me with friendly laughter that struck me as almost paternal.
+
+To my surprise, the first subject of conversation that Marx raised was not theoretical or political but personal. He asked after my mother.
+
+She was then more widely respected than I in the German Party and in the Marx household. Encouraged by me and in my company she had made her way to socialism. Since 1876 she had begun to give expression to her opinions in novels .... Frau Marx was very enthusiastic about my mother and Marx himself spoke appreci­atively of her. ...
+
+A further subject of conversation between Marx and myself was provided by his question as to what subject I was then working on. I have already mentioned the remarkable circumstance that Marx and Engels had turned to the study of primitive history at the same time as Hochberg and then myself, and that it was occupying them then in 1881. Naturally this afforded matter for lively discussions.
+
+But whoever was talking to the author of Capital could not avoid speaking about this work. I permitted myself the remark that we younger ones were ardently awaiting the speedy appearance of the second volume of Capital.
+
+'Me too', Marx answered curtly. It seemed to me as though I had touched a raw spot there.
+
+When I then later asked him whether the time had not arrived to proceed to an edition of Marx's complete works, he said that they would first have to be completely written. Neither of us suspected that in fact they had come to an end.
+
+An hour quickly passed in animated dialogue. When I took my leave, Marx invited me to return soon ....
+
+Whatever Marx might have thought of me, he nowhere betrayed the slightest sign of ill-will. I left him highly satisfied. And this feeling grew even stronger with my subsequent visits. He was always alone when I spoke with him; only once were Schorlemmer and Tussy also with us.
+
+On my first visit Marx had avoided the field of politics. On the next occasion he chose to discuss the policies of the Party in Germany. He was severely critical of many of its leaders, but by contrast full of praise for the attitude of the German workers. And he praised August Bebel no less highly. But he also expressed himself very satisfied with Bernstein, in particular with Sozialdemokrat , of which he was the editor. Bernstein was the right man for the job, fearless but still conscious of his responsibilities and avoiding any provoc­ation that would make the struggle of the comrades in Germany more difficult. Marx also liked Bernstein's tendency to let facts speak for themselves and avoid empty phrases.
+
+Marx's behaviour in my later visit was not so calm as in the earlier ones. He demonstrated his capacity for caustic criticism and bursts of passionate indignation. Yet I have never known him to be a real god of thunder. Like Engels, he too could flare up frightfully when he came across cowardice, falsehood or black ignorance, so his friends assured me. And yet he could laugh as heartily as anyone else about harmless human weaknesses or comic events, and his wife no less. Unfortunately, I did not have the opportunity of observing this penchant for merriment. Their physical state would not permit it. Nevertheless, Frau Marx did once laugh aloud when talking to me - the only laugh I got to hear in the Marx house.
+
+I got to know the two Marx daughters and they were never tired of relating the often irrepressible merriment of their parents; and also the infinite kindness of their father, not only towards members of the family but also towards all the helpless and unprotected, small children, proletarians, and comrades in distress. This goodness was the foundation of his being; I too sensed it in my conversations with him and it made as strong an impression on me as the enormous compass of his knowledge and the sharpness of his mind. Even the few hours that I spent with Marx were sufficient to make me clearly conscious of the force of this mighty personality which overpowered at the same time as it enchanted.
