@@ -1,0 +1,110 @@
+---
+title: "Two Reviews Antonio Negris Marx Beyond Marx"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/two-reviews-antonio-negris-marx-beyond-marx"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Midnight Notes review Antonio Negri&#039;s book &quot;Marx beyond Marx&quot;, which concerns Karl Marx&#039;s Grundrisse. These two reviews are wittily (and dialectically?) interspersed in the original journal (see PDF). We have taken the liberty of presenting them here one after the other. A furthe"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/two-reviews-antonio-negris-marx-beyond-marx)
+
+Midnight Notes review Antonio Negri's book "Marx beyond Marx", which concerns Karl Marx's Grundrisse.
+
+These two reviews are wittily (and dialectically?) interspersed in the original journal (see PDF). We have taken the liberty of presenting them here one after the other.
+
+A further comment "End to Negri" from another Midnight Notes member that appears at the end of the journal has been included here for completeness.
+
+Marx beyond Marx, by Antonio Negri, 1984, Bergin & Garvey, Massachusetts Negri Beyond Marx by Guido Baldi Salutations-abuse, farewells-welcomes: inverses that mingle. This review of Marx Beyond Marx is a pair that touches as well. The book has a history of production. It is a transcription of lectures on the Grundrisse given by Negri in France in the Ecole Normale Superiore in 1978: 1978, a year after the Italian spring of 1977 and a year before April 7, 1979. Is it an end or a beginning? Toni spent 1968-78 Italy and, unlike in France, the class struggle had been far from dull. His flight to the Ecole Normale Superiore (a few steps ahead of the Italian police) was also a challenge, but a different one from the decade of the true Italian "miracle." For in France in 1978 he had to face Marx-and—defeat. Not that Marx himself did not mix well with exile, fear, poverty, humiliation and despair, for think: 1848-1858. A decade after a defeated revolution in Paris, Marx feverishly writes the Grundrisse in London. It is the book of minds still scheming at the bottom of the world.
+
+No wonder the Grundrisse is so compressed, so convoluted, so much the Finnegan's Wake of Marxism. For the prime requirement of Marx's task was: DON'T PANIC. And the best antidote to panic is "talk"...incantation even.
+
+First: tell yourself there's no easy way out. Second: remind yourself of how you got there. Third: look around and study everything from the bottom up. Fourth: do something or do nothing.
+
+The main problem with Negri qua Marx is this: Negri was in a tight spot in 1978 but he treats defeat the way he had handled any other turn in the movement's course. He does not recognize it and so displays all the virtues of consistency, and its vice.
+
+I am not interested in comparing Negri's Marx with any other Marx. If there is any comparison, it is between Negri's Marx and our present project. (Though I still read the Marx of 1858, and not only as an incantation: after all, the Grundrisse is Marx's Midnight Notes.)
+
+Perhaps Marx Beyond Marx is a labor-saving device: 190 pages of Negri (the lectures themselves) for 900 pages of Marx. Perhaps not less nor more difficult - but a short version can come in handy.
+
+Perhaps it is a mnemonic device for those who have read the Grundrisse but whose memory is failing. Negri has all the good quotes cut out and he himself is quite clever at coming up with summarizing phrases:
+
+There are dozens of these. If you can string 20 or so together, one can easily come up with a nice abstract of the Grundrisse .
+
+But it is too good a mnemotechnic, for in helping our memory it also helps us to forget what Marx "forgot". Marx in 1858 "forgets" 3/4 of the proletariat: the slaves and the women. Negri remembers on pages 65 and 183 that Marx forgot something , but he can't quite remember what and who he forgot. It would have been quite simple for Negri to mention these two sectors of the working class by name, if he had remembered. But he forgets to remember what Marx forgot so on page 65 we have Negri-esque gibberish while on page 183 we have gibberish and exasperated intellectual curses:
+
+In fact, the Marxist definition of productive labor is a reductive definition, which is linked to the socialist axiology of manual labor.
+
+Just why Negri chooses to get cross with Marx would not be clear to most readers. I'm not sure whether Negri is clear about it either, but he is worried about something though he does not want to say what it is. Why?
+
+Slaves and women. Those who are most separated from the locations of the highest and most intense syntheses of capital, science and class struggle. Those for whom the "explosion of the value form" appears as distant as a supernova in another galaxy. What do they have to do with the proletarian revolution if this revolution arises from capital hitting its productivity limits? Slaves and women were being exploited with neolithic technology at best, controlled with the social tools of primitive accumulation: fists, whips, chains and rape. What revolution could possibly lay in this? If, as Negri claims, revolutionary logic fissures capital's dialectic at the points of highest social productivity then these others are best forgotten for communist visions and revisions after the explosion. So one would presume from Negri's Marx. (Marx himself tells us he was inspired to write the Grundrisse by "the discovery of gold in California and Australia." Perhaps he should have paid more attention to Frederick Douglass and Sojourner Truth and John Brown.)
+
+For all of Negri's talk of fissures, cracks, breaks, gaps, splits and crevices, there is barely a word about working class division. Why not? The breakdown of the Italian movement, as with most proletarian movements, came from its inability to overcome its divisions: "guaranteed" vs. "precarious" workers, women vs. men, North vs. South, hi-tech workers vs. "rural idiots", etc. Negri qua Marx seems to assume, wrongly, a high level of working class homogeneity, while the famous "multiplicity" and "multilaterality" of the ever-more-powerful working class that he posits can in actuality be a sign of overwork. Thus many part-time workers, especially women, might in a 24-hour cycle pass through six or seven metamorphoses in the hierarchy of labor and end up more tired than before.
+
+Negri has his uses. His Marx can be used against cold-war nerds: Negri bristles with quotes to prove that Marx was not a "totalitarian." And he is useful against our "comrades" on the left who have often given so much pain. Try these Negri definition of socialism:
+
+Socialism is the highest form, the superior form of the economic rationality of capital, of the rationality of profit. It still thrives on the law of value… socialism keeps alive and generalizes the law of value. The abolition of work is the inverse mark of the law of value.
+
+They are quite neat, quite Marxist, and use Marxism against average Marxism. If you pull out these definitions and are accused of being anti-socialist, you can reply, "Of course, I'm a communist," and cite Negri's clever lines:
+
+Communism is in no case a product of capitalist development, it is its radical inversion... Communism is the destruction of capital in every sense of the term. It is non-work, it is the subjective, collective and proletarian planning of the suppression of exploitation. It is the positivity of a free constitution of subjectivity. All utopias become impossible.
+
+So goes Negri's use in the linguistic guerrilla war on the left...but:
+
+There is a "thinness" about all these formulae. They seem to want to give a verbal solution to a historical problem. Marx' idea of communism might be "excusably" schematic (it's almost purely logical), but should Negri's be? Negri is writing a century after the Paris Commune and with two decades of "communist practice" behind him. Is his wisdom expressed only by equations like "the theme of communism has melted into the theme of transition"? Not that they are wrong, but can they even begin to approach the simple observation of Che Gueverra's, when he pointed out that a good criterion for telling whether nations were having "communist relations" is that the prices they exchange at are radically different from those of the capitalist world market?
+
+Finally, perhaps Marx Beyond Marx is useful because it introduces a new and effective Marxian concept: self-valorization. But what is "self-valorization" and why should it be included in the "arsenal of revolutionary concepts" (sic)?
+
+Capital valorizes workers by paying them a wage for their labor power, but workers can't pay themselves a wage (unless one accepts the silly metaphysics of neo-classical economics). In the Marxian typology, value is a matter of exchange value or use-value. Therefore, self-valorization must arise as a use-value. Translating literally from the categories, it would be something like "using yourself to satisfy your need, want or desire" or "consuming yourself." But is "self-valorization" then just word-play? Not completely, since it is obviously trying to discuss the great moving forces of class struggle: the hatred of being bossed, the need to enjoy your life, the desire for palpable wealth now, etc. (Freedom, Pleasure,. Wealth Now): these are absolutely crucial matters for any revolutionary theory, for with them you touch on the raw powers that "make people move". And Negri does well by us in 1985 to remind us that even in the darkest period of working class defeat they are, if anything, more vital.
+
+But Negri's own discussion of the concept is simultaneously obscure, reified and elitist, or, as the leftists would say,"vanguardist". From his account, it arises from ''consumption" (135), it involves "auto-determination" (165) and becomes a "phase", perhaps the "final stage", of the class struggle.
+
+But who is self-valorizing? Those with the "variety, the multilaterality, the dynamism, the wealth" to counter capital's plan. What of those without these qualifications? They appear to be outside the "real" struggle, far from where the action is. Question: how do you acquire these qualities? Negri's answer: by being in touch with the most highly developed form of capital. It is with these self-valorizers that "the productive violence of the highest level of cooperation" is present and they take us to a point "beyond Marx".
+
+As a political hypothesis, this was disastrously wrong in 1978, perhaps it was an illusion of the Carter years'. The "rigidity of self-valorization" which Negri claimed would block "all operations that would make cuts or impose recessions" simply collapsed in 1979. Indeed, many Italian thinkers of "self-valorization" proved less than rigid before the state. This is understandable to us, but from Negri's pages it is "impossible behavior." This was not a singular lapse. In 1985 when we look at the world-wide class struggle and the proletarian rigidity to capital's plans, we don't see much of it in the domain of the highest socialization of capital. On the contrary, a brief, crude list would include South Africa, El Salvador, Chile, the Philippines, etc. This list is not in the spirit of a contest for militant laurels where the "damned of the earth" win, or to suggest that struggle will only now proceed there. It is merely to remind the reader that either "self-valorization" must have a wider and more concrete meaning, or it is a suspect concept.
+
+"Let the people everywhere take heart and hope, for the cross is bending, the midnight is passing, and joy cometh with the morning."
+
+I want to make clear that I agree with Guido Baldi's criticism of Negri for not emphasizing women and "third world" people in his "updating" of Marx. I too was amazed at p. 65 where Negri seems to be saying that he's learned something about unwaged reproduction work, but remains abstract.
+
+But Guido's discussion of Negri's concept of "self-valorization" reads the same way to me. It is from reading Midnight Notes that I came to understand that the class' motion consists of complementary poles, one of which is the actions of those who, lacking the wage as their lever of power, create new relations "appropriate to the working class on its way out of the capitalist era" ( Computer State Notes ). We know today that these relations can lead to more unwaged work - but whether this in fact occurs is a focus of the struggle!
+
+When women at Medgar Evers College create their own student-run bookstore and day care center and then use these new relations as bases of power to win state funding, is there am reason that we should not understand this process as Negri's self-valorization in action? In reading Marx Beyond Marx , I do not find evidence that such struggles are "beyond" Negri's vision. To me, these sorts of struggles are the only possible meaning (with an almost infinite variety of forms) of self-valorization: valorizing ourselves by putting use-value needs and desires, before exchange value in lived experience.
+
+Guido claims that since Negri's emphasis is on the most "productive or highly developed forms of capital" he must somehow be ignoring unwaged people. But here, as in Negri himself, the problem is not addressed as a specific one of strategy. Isn't it a necessary solution for the wageless to get their hands on the automated wealth they've helped produce? For example, many U.S. women of my generation have shattered housework as their main occupation and are now a "rigid" presence in the waged workforce. Yes, often more work. But is not this women's activity also motion toward obtaining some wealth and using it for some autonomy and so escape the fists and rapes of neolithic capitalist accumulation? Can we not find in this some coherent strategy, not just point out the defeat?
+
+And what of Asian women of this same generation who have refused to do all the shit work of the patriarchal family and have moved to the cities and work in the garment and electronics industry--where the third world left attacks them for their "bourgeois" interest in, for instance, fashion, and of whom the 'first world' left can only protest their (quite real) exploitation at the hands of the multinationals. Cannot we see here some "self-valorization" by these women?
+
+Guido knows full well that he has never been limited by Marx' verson of surplus value production, and we need not be limited by Negri's own musings on this "new and effective marxist concept." Can we not just acknowledge the concept and move on, and perhaps encourage others to meanwhile read Negri?
+
+A word should be said here on' old Karl. Marx said a great deal on slavery elsewhere besides the Grundrisse , and the Grundrisse itself contains quite a profound analysis of slavery and colonialism. For example, Marx speaks with glee of capital's helpless fury at the Jamaican free Blacks who only work as hard as they feel like. Yes, I agree the work would be enriched by more attention to John Brown, Sojourner Truth, Frederick Douglass, etc....tut so does Negri! Granted, he is frustrating in his abstract presentation and hampered by the fact that European theorists cannot write a sentence. But Negri a hundred times states his regret for that missing chapter on the wage and working class subjectivity which Marx meant to write. Further, Negri goes a long way towards constructing this section.
+
+As for Marx and women, while again I agree with Guido basically, he has forgotten the parts of Capital on domestic workers and women factory hands. As for housework, Silvia Federici and Nicole Cox of Wages for Housework pointed out a decade ago that Marx' oversight is not simply his sexism but the reality that women and children worked 14 hour days or more in both Manchester and Mississippi. The "nuclear" family did not exist and housework was not the defining activity of working class women 1 .
+
+All this said, my main concern is "defeat". Defeat, defeat, despair, humiliation - is Guido speaking of Marx and particularly Negri's perceptions of the situation, or his own? For some time now I've been uncomfortable with Midnight Notes ' recent dwelling on the idea of our defeat. Would it not be more precise to speak of having suffered some defeats but not an overall defeat? Guido seems so sure t hat Negri (in particular) refuses to acknowledge how bad things are and that is why he is writing on the potential for liberation and on working class strength. The very best part of Marx Beyond Marx , perhaps the only thing that makes it (as I think it is) worthwhile to struggle through its density and obscurity and actually read the damn thing cover to cover , is precisely that in its pages our power and capacity to transform the world, the idea of capital always in crisis , the imminence of communism - all these concepts and a sense of our power are deeply Imbedded in every sentence.
+
+For Negri, our political recomposition on a higher, more powerful level is an organic part of every defeat. This was why he turned to the Grundrisse in that alleged season of despair in Paris in 1978. For capital to defeat us in a limited way, it must also raise the stakes higher, whether by increasing the organic composition of capital or by developing the world market, that is by extending the contact with and the struggles against the highest levels of capital further around the globe. For Negri, this process is summarized as: struggle-communism-crisis-world market-communism. Negri's book is an exciting and powerful intervention.
+
+But is Negri (or, for that matter, my friends and I) deluded as Guido suggests? Remember the "Work/Energy Crisis and the Apocalypse"? ( Notes , Vol.2, #1) - it did not sound very defeated in 1980 either. Its last line read that the only way to confront the missiles is to demand bigger and juicier sausages.
+
+1978, eh? In 1980 the Black working class of Miami revolted. A year later the young Black, White and Asian marginal sectors in the cities of England exploded. Then, in July, 1980, Gdansk. Not so long later, the British miners shouted "Zulu" as their flying pickets charged police lines - did some of the "rigidity" of South African miners rub off on them? Recall when we used to speak of the "circulation of struggles"- is the language of defeat and despair so much preferable now?
+
+1980-81 was anything but a period of defeat unless you define defeat as anything except winning the world revolution. Federici wrote that just entering a factory is a defeat. True. But since billions of people do daily, and do in the heights of our struggles and the troughs, should we be overly concerned with our defeats? The 1950's in the U.S. was a bad time for the working class in many ways - the turning back of victories from the 1930's and 40's, the destruction, imprisonment, exile or marginalization of most every radical current. CLR James was part of that defeat - I think his Midnight Notes, Mariners, Renegades and Castaways , is a good antidote-to despair 2 . Poor James, defeated and exiled. But one will search Facing Reality, Modern Politics 3 or any of the other works of James and his comrades or any sign that they thought defeats were to be taken so seriously. They seem to have been under the impression that the working class’ leaps and offensives occur at the same time as our defeats. Poor CLR also "treats defeat the same way he handled any other turn in the movement's course” - that's precisely his best point. Can we not plan on a sunrise breakfast at midnight?
+
+Let me end with a bit more from Linton Kwesi Johnson. Before Brixton he wrote, "Fascists on the attack, nobody worried 'bout that." As Midnight Notes in its last issue warned that we, but not necessarily capital, are in crisis, LKJ at about the same time wrote, "From England to Poland, every step across the ocean, de ruling classes dem is in a mess, crisis is the order of the day..." He has written enough of suffering, death, tragedy and surely does not see the world through rose-colored glasses. In the 80's he could say, "It is no mystery, we're making history, it is no mystery, we're winning victory." Rather than dwell on defeat, check out LKJ, and read bolo'bolo too. And Guido - lighten up and remember to be realistic: demand the impossible.
+
+Methinks perhaps friend Bartleby exaggerates the "dwelling on defeat" of Midnight Notes. Yet, the issue is important. Has there been a defeat of the U.S. (last Notes ' discussion) or Italian working class? generally speaking, I think so. How do we deal with it? Ignore it? Dwell on it? Try to understand it? I suggest the latter, in the hopes of avoiding another. We've enough farces already.
+
+If I understand Guido (who is unavailable to respond to Bartelby), the point is this: Negri's ignoring slaves (third world) and women, his narrow definition of self-valorization, refusal to discuss the divisions in the class and his refusal to acknowledge defeat are all of a piece. If defeat in Italy was based on class divisions, and Negri will only treat of those class sections in touch with the "highest levels of capital, then in fact Negri cannot understand the defeat. The obverse makes this more clear: to assess the defeat means to understand the hierarchical divisions in the class, and to do this means one cannot ignore slaves and women, cannot conceptualize self-valorization only for a few sectors, and therefore must throw into crisis Negri's political structure. Capital is not only the "heights", for capital simultaneously 'underdevelops' as it 'develops’.
+
+Negri's challenge was to understand 'his' political project and why it was defeated. Instead he retreats a century, rehashes Marx without necessarily shedding Marx's limits, and does not come to grips with what he must in order to help us move beyond abstract belief in our victories to a new 'what to do?'
