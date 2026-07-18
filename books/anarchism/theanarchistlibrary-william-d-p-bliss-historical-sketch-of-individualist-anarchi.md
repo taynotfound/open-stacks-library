@@ -1,0 +1,58 @@
+---
+title: "Historical Sketch of Individualist Anarchism"
+author: "William D. P. Bliss"
+date: "2011"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/william-d-p-bliss-historical-sketch-of-individualist-anarchism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "This short piece on Individualist Anarchism appeared in The Encyclopaedia of Social Reform, Funk &amp; Wagnalls Co., New York &amp; London, 1897, edited by William Bliss. Retrieved on 1 March 2011 from www.panarchy.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "william-d-p-bliss-historical-sketch-of-individualist-anarchism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/william-d-p-bliss-historical-sketch-of-individualist-anarchism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/william-d-p-bliss-historical-sketch-of-individualist-anarchism)
+
+Philosophical anarchists usually regard Proudhon as the founder of their school of social science; but there were in America, although far less widely known, men entertaining anarchistic views before Proudhon’s time, We will, therefore, first notice the anarchist movement in America, and then consider it in other countries. America or at least the United States, with its early extreme individualism and fear of the State, was the fitting birth-place of anarchistic thought.
+
+Josiah Warren, a plain and only moderately educated New Englander, but of unusually independent and earnest spirit, was probably the first to enunciate precise anarchistic conceptions. He had become interested in the social views and plans of Robert Owen, at this time first taking root in the land; had joined the Owenite community at New Harmony; had carefully studied its principles and mused upon its failure, till finally, about 1828, he reached the conclusion that its principles were exactly the opposite of the true ones, and that, instead of the communistic idea of each working for all, as Owen taught, the true way to produce order, harmony, and wellbeing, was for each to live, in his own way, absolutely untrammeled by others, so far as he did not intrude upon the similar privileges of others. His thoughts took especially a financial turn, and he came to the conclusion that cost was the true limit of price; that usury and profit in all their forms were, therefore, economically wrong, and, moreover that they would disappear under perfectly free competition. He sought to put his ideas into practice, to actually test them before giving them to the world, and therefore started, and for two years successfully carried on, a store in Cincinnati, where cost was the limit of price, and where usury and profit were eliminated. Finding that he was doing a business of $ 150,000 a year, a large amount for Cincinnati in those days, he was convinced of the practicality and correctness of his idea, and therefore closed his business to devote his life to the propagation of his ideas.
+
+His main writings were True Civilization , a short work first published in 1846, and Equitable Commerce , in which he elaborated his ideas of cost as the limit of price. These books found at least a few thoughtful readers.
+
+Stephan Pearl Andrews declared at a later day that the True Civilization was the text and basis of all his own writings, and John Stuart Mill refers to Warren with expressions of deepest interest and respect.
+
+Others, however, were thinking in the same line. Lysander Spooner, who has but recently passed away, may be called the Nestor of anarchism of the extreme individualistic school. Commencing public life as a young lawyer in Worcester, Mass., he first showed strong analytic and argumentative powers in several pamphlets defending Deism against Christianity but soon passed more and more into sociological studies and controversy, coming to hold and defend extreme views as to individual sovereignty and the tyranny of the State. As early as 1844 he established a private mail between Boston and New York, and later extended it to Philadelphia and Baltimore, achieving success until at last compelled to stop, owing to petty and constant persecution and annoyance from the Government. From that time he devoted his great abilities to the promulgation of his ideas. During the antislavery contest he did good work as an abolitionist, and incorporated his views in The Unconstitutionality of Slavery .
+
+His legal acumen appears in his Trial by Jury , in which he reverts to the early and true meaning of the phrase a trial by one’s peers; and protests against the absurd and monstrous system (as he claims it to be) of ignorance and injustice now passing under that name. How far he carried his ideas appears in an unsigned monograph from his pen, entitled Revolution .
+
+Stephen Pearl Andrews was a disciple of Warren. As Warren especially studied economic questions, so Andrews studied the family and marriage. His Science of Society , published in 1850, is still considered by philosophical anarchists a classic on the subject. Warren himself declared it a better statement of his own ideas than he himself could write.
+
+We now come to the influence of Proudhon in America. Colonel William B. Greene, of Boston, being a follower of the great Frenchman. Colonel Greene’s book on Mutual Banking is one of the most acute and searching inquiries into the monetary problems to be found in the literature of the subject.
+
+Colonel Greene was a keen, logical thinker and a profound scholar. He was a remarkably witty speaker and writer and his book entitled Socialistic, Communistic, Mutualistic, and Financial Fragments , shows his power and versatility.
+
+E. H. Heywood, a writer on various subjects, was another disciple of Warren. He is the author of a number of very able pamphlets.
+
+Charles T. Fowler, also a disciple of Warren, was a Unitarian minister when he first fell under the influence of Warren. He studied Proudhon, and after leaving the church, devoted himself to the propaganda of anarchistic doctrines. He died a few years ago, leaving an admirable series of pamphlets on social and economic problems.
+
+These men, however, while holding essentially anarchist views and contributing, severally, to the development of anarchism in the United States, did not adopt the name anarchist, and did not really start the movement which has taken such definite shape under that distinctive denomination. The man who, assimilating and profiting by the teachings of Proudhon, Warren, Greene, and the American and English individualists, formulated a consistent and comprehensive anarchistic philosophy, and started the practical anarchistic movement, is Benjamin R. Tucker, the editor of Liberty , the organ of anarchism. Mr. Tucker was a young man, a student of the Massachusetts Institute of Technology, when he, becoming interested in social reform, sought the acquaintance of Warren and Greene. The latter called his attention to Proudhon’s What Is Property? and so impressed was he with the originality and value of that revolutionary (in an intellectual sense) and epoch-making work, that he set himself the task of translating it into English. No work has ever enjoyed the privilege of a more competent rendering into another language. The vigor and eloquence of Proudhon’s style was fully preserved in the translation, and to this is due a large share of then influence exerted by Proudhon’s work in America and England. A few years later Mr. Tucker started his paper, Liberty , which has been for more than a decade the recognized authority on anarchism. Mr. Tucker does not strictly follow Proudhon, any more than he strictly follows Warren. He rejects the inconsistencies of the former as he does the crudities of the latter. He may be said to have organized the various anarchistic ideas, economic, political, etc. into a coherent and systematic whole. Where Proudhon was vague and Warren inadequate, Mr. Tucker is clear logical, consistent, and scientific. Mr. Tucker has influenced a considerable number of able men in journalism and other professions, as well as some of the prominent men in the labor movement. We will only mention here the name of Dyer D. Lum, one of the leaders of the early Greenback movement, who died a few years ago. Mr. Lum, while sympathizing to some extent with the methods of revolutionary reformers, was for several years before his death a vigorous and scholarly champion of the economic and political ideas of anarchism.
+
+The growth of anarchism has not been rapid, and its history is not eventful or sensational. Its indirect influences, however, have wrought great changes in social science and in the intellectual attitude of sociologists and reformers.
+
+In Europe, the real history of philosophic anarchism begins with Proudhon. We study him here but in brief, in relation to the movement of anarchism. Born in 1809, after a bitter personal experience with poverty and ill-paid work, he published in 1840 his great work, What Is Property? Of this an admirer says: “He first with genius, and with learning and acumen rarely equaled, pleaded for absolute liberty of the individual and the doing away of all government. Property in its modern sense he showed to be not the product of individual labor on the part of the owner of property, but the product of the labor of others, taken from them by legalized wrongs or by aid of monopolies and class legislation created by the State. Hence the truth of his celebrated sentence, “Property is Theft”. The cure, he argued, was to do away with all government, and then each individual could retain that which he had produced, so that justice and order and wellbeing would be the result of liberty.
+
+The book exposed him to new persecution from the government and learned societies, which continued more or less to his death in 1865. He passed much of his life banished from France, in Belgium. Yet he was ever active and at times popular in France. He was elected in 1848 to the Constituent Assembly by 77,000 votes, which, together with his frequent imprisonments and banishments, as well as the suppression of books, shows his power and influence in his generation. Yet few followed him understandingly. Proudhon himself declared that even those who voted for him did not understand his views. He believed that in America (as seems to be the case) his thoughts would first take root. His principal writings besides the above named are:
+
+Proudhon was right; few followed him understandingly. The movement that sprang from his teachings has in the main, in Europe, been anarchistic communism, which is no more like philosophic anarchism than Proudhon was like Bakunin. The real followers of Proudhon and philosophical anarchism, in Europe, can almost be counted on one’s fingers, though their influence has been more marked than this might seem to indicate.
+
+In Germany Caspar Schmidt, better known under his ‘nom de plume’ of Max Stirner, laid what some regard as the ethical foundations of anarchism in his Der Einzige Und Sein Eigentum (1845). John Henry Mackay, a Scotchman by birth, but with a German mother, and brought up in Germany from boyhood, has developed philosophic anarchism in poems, a novel ( The Anarchists , translated into English, 1891), and other works.
+
+In England philosophic anarchism under this name has had scarcely any development at all; but perhaps this is only because so much of its individualism, of which there has been considerable development, has come so near to philosophic anarchism in such writers as Herbert Spencer, Auberon Herbert, Wordsworth Donisthorpe, Thomas Mackay, Frederick Millar and others.
