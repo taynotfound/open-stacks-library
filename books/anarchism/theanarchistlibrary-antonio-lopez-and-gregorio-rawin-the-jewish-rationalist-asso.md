@@ -1,0 +1,78 @@
+---
+title: "The Jewish Rationalist Association (AJR) [Yidishe Ratsionalistishe Gezelshaft] of Argentina"
+author: "Gregorio Rawin, Antonio López"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/antonio-lopez-and-gregorio-rawin-the-jewish-rationalist-association-ajr-yidishe-ratsion-en"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Anarchism and Judaism"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "antonio-lopez-and-gregorio-rawin-the-jewish-rationalist-association-ajr-yidishe-ratsion-en.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/antonio-lopez-and-gregorio-rawin-the-jewish-rationalist-association-ajr-yidishe-ratsion-en.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/antonio-lopez-and-gregorio-rawin-the-jewish-rationalist-association-ajr-yidishe-ratsion-en)
+
+The encounter between Jewish tradition and libertarian utopianism cannot be tackled without regard to the actual political and sociological conditions of the Jewish and European immigrants in their host nations. The Argentine case is typical of the blend of ideology and social context that gives rise to “Jewish anarchist” (i.e. to the “anarchist Jew”). As elsewhere in the world, the intersection was, over and above any personal motives that may have led an individual to anarchism, the product of a double exclusion — the exclusion of the proletarian plus exclusion as foreigner and Jew.
+
+Remember that the anarchism of the day was a good expression of the consciousness of the pariah who had nothing to lose but his chains in that, with no avenues for possible integration into the established system (either through the ballot box or through consumption), one either submitted or rebelled, was destroyed by that system or sought to destroy it.
+
+Right from the emergence of anarchism in Argentina at the end of the 19 th century, there were Jews — and it could scarcely have been otherwise — who joined it in their capacity as victims of exploitation and as rebels. But from 13 September 1916 onwards, such involvement took on a collective, “sociological” meaning through the emergence of a specifically Jewish body within the anarchist movement, which at the time was a vigorous mass movement with an organisational structure provided by the Federación Obrera Regional Argentina (FORA).
+
+Thanks to their organised presence as anarchist militants, these Jews, using Yiddish in lots of their publications, acquired a quite wide-ranging influence in immigrant circles, especially during the period between the liberal bourgeoisie’s taking over the Argentine government (through the Radical Party) and the 1950s and the years of Peronist populism, not forgetting the 1930 coup d’état of General Uriburu, a representative of a nationalistic, anti-worker backlash that spawned a series of military governments.
+
+Returning to 1916, that was the year that saw the foundation of the Jewish Rationalist Association (Asociación Racionalista Judía — AJR) [Yidishe Ratsionalistishe Gezelshaft], with the amalgamation of the Buscadores de la verdad (Truth Seekers) group with its Tolstoyan outlook and other groups that married an interest in things Yiddish to an interest in the debate between anarcho-syndicalists and individualists. Subsequently, they were joined also by the Agrupación David Edelstadt , whose ties were mainly to trade union circles.
+
+There had been a fore-runner of the AJR back in 1909, with the establishment of the Arbayter Farband (Jewish Workers’ Union), the aim of which was to set up rationalist schools modelled on the educational methods of Francisco Ferrer, murdered in Barcelona that year; later it called a Jewish cultural congress held in La Plata in 1915. The AJR also had as one of its underlying aims the establishment of a rationalist school free of all religious or state supervision, patterned after Ferrer’s Modern School. To this end it liaised closely with the European League for Rationalist Education, without actually affiliating to it. The education issue was regarded by anarchists as being vitally important, given the growing presence in the Argentinean proletariat of often illiterate Russian and Polish Jewish immigrants.
+
+At the beginning of the 20 th century, in keeping with the demographic-territorial policy of the Argentine oligarchy and in order to absorb the influx of immigrants arriving in Buenos Aires, the government offered arable land to anyone ready to settle in the interior outside of the urban areas in the throes of industrialisation. This led to the establishment of so-called “colonies” made up of Germans, French, Swiss and Jews from eastern and central Europe. Among the Jewish colonies we might cite the Mauricio colony in provincial Buenos Aires, the Narcisse Leven colony out on the pampas, Moisesville in Entre Rios and the Charata colony in the Chaco.
+
+Naum Kreichmar, in his testimony as published in Historias de vida de inmigrantes judios , published by the American Jewish Committee in 1985, recounts how, in the Narcisse Leven colony, where his family had settled after fleeing from pogroms in Bessarabia, a library was established in 1915; it ordered books published in New York by the Kropotkin Publishing Fund [Kropotkin Literatur Gezelshaft]. “In our colony”, he writes, “there were the Bursucks. They brought in all the publications of the Escuela Moderna as well as other important works and translations. For instance, although we were libertarian socialists, we had Marx in a Yiddish translation. The translator of these remarkable and splendid books was [J.A.] Meryson.”
+
+The school set up by the AJR, the Fraye Idische Shule , was the first Yiddish-language school in Argentina and it laid the groundwork for fresh educational projects by other leftwing and Zionist organisations thereafter. Another of the aims of the AJR was to spread anarchist thinking through the Jewish community, and to that end, it was reckoned, a newspaper of its own would be very useful. This led to the launch of Dos Fraye vort (Free Speech), the main editor of which was Ioine Gorodisky.
+
+The paper was not shy in attacking every segment of the Jewish community, levelling harsh criticisms at the Zionists and at the Argentine Jewish Mutual Association (AMIA), of which the AJR was not part. However, its most violent clashes were with the Zwi Migdal, a Jewish white slavery organisation.
+
+Higinio Chalcoff recalls (in an interview given in 1986): “We had fought against white slavery more than anybody else and booted them out of many places. They had their ‘plants’ inside the left, inside the Zionists and every other Jewish organisation and we used to go along to assemblies in order to beat them up, or would take up position at the doors of the theatres and bar them from entering.”
+
+The work of the AJR was not confined to setting up schools and publishing their newspaper. In order to broaden the scope of its activities it embraced a publication policy marked by the publication in Yiddish of the writings of anarchist thinkers and militants, starting with the translation of five pamphlets, including Jean Grave’s Bourgeois and Libertarian Education and Antich’s The Pedagogy of Francisco Ferrer; but there were also authors such as Martin Buber whose Shtegn fun utopie (Paths in Utopia) was published.
+
+In addition, Rudolf Rocker’s most important works were published in Yiddish: Eseyen (Essays), Bolshevizm un anarkhizm (Bolshevism and Anarchism), Di parlamentarishe tetigkayt in der arbayter bavegung. Soviets oder Diktatur (Parliamentary Action in the Workers’ Movement. Soviets or Dictatorship), Die Ratsionalizatsye fun der virtshaft un der arbeter klas (Economic Rationalisation and the Working Class) and Natsionalism un Kultur (Nationalism and Culture), as well as three volumes of his autobiography, less well-known but crucial to any understanding of half a century of anarchist movement history.
+
+In addition to books in Yiddish, some pamphlets were published in Spanish, like Zhitlovsky’s ¿Qué es la cultura laica judía? (What is Jewish Secular Culture?)
+
+For a time, the AJR also produced the newspaper Brot un ere (Bread and Honour) run by Leon Jazanovitch. It denounced the abuses of the Jewish Colonization Association (JCA), charging it with sponsoring a “philanthropic feudalism”. (Chalcoff has testified that the JCA refused land holding to persons with a reputation for being rebels.) Jazanovitch was later deported in 1910 on foot of the Residency Law expressly passed against the anarchists in 1902. When Jewish anarchists in the Charata colony set up their library in 1930, they named it the Leon Jazanovitch Library in his honour. Under the Peronist dictatorship when Dos Fraye vort was unable to publish (1947–1950), The AJR brought out Di Velt (The World) as its official mouthpiece.
+
+The Jewish working class presence in the Argentine anarchist movement was signalled also by the fact that, for a time, the anarchist daily La Protesta carried a regular section in Yiddish. Which does not mean that there was not a degree of ideological blurring, as indicated for example by Higinio Chalcoff’s view as reported by Javier Pelacoff: “Lots of us had an anarchist education filtered through religious education, in that we found in anarchism a broader vision of the humanism of the Jewish tradition. Our parents respected our libertarian choice. We were atheists, but not anti-religious. There being no strong [Jewish religious] institutional structure, we had no need to be anti-clerical the way other anarchist comrades were.” So the “rationalists” used to take part in a number of the Jewish community’s aid activities such as the Jewish Hospital and people’s mess-halls.
+
+Right from the outset, the members of the AJR took part in gatherings and congresses of the FORA which was an umbrella for all the anarchist unions and like-minded groups. They also had close ties to the tailors’ and hatmakers’ unions (the bulk of these being Jewish) and rather more fluid connections with the woodcutters’ union and the “amalgamated trades” unions, with which they produced co-editions, as well as with the FACA (Argentine Anarcho-Communist Federation) founded in 1935. [In the 1950s, the FACA changed its name to the Argentine Libertarian Federation or FLA.]
+
+The AJR also had close ties to the Biblioteca Popular ‘José Ingenieros’ set up by members of the Shoemakers’ Union in July 1935 and surviving to this day.
+
+AJR activities on an island in the Paraná river between 1926 and 1948 deserve a separate mention. A dozen militants formed a co-op and bought up around ten hectares of land given over to market gardening, fruit orchards and poplars. They produced, among other things, pickled cucumbers that one AJR member undertook to market in Buenos Aires. During their first year, some of the partners in the venture stayed in Buenos Aires to work in order to maintain the others working on the island whose agricultural efforts had yet to bring in any money. Later the island became a haven for those sought by General Uriburu’s dictatorship at the beginning of the 1930s. That dictatorship shot, jailed or deported many anarchist militants to their countries of origin, shutting down workers’ centres and banning publication of the daily La Protesta and other periodicals.
+
+Throughout the sometimes tragic history of the Argentinean proletariat, the Jews were faced, among other things, with the consequences of nativist anti-semitism which was not all that virulent but was always bubbling under and required only another wave of repression in order to bubble up to the surface again.
+
+In January 1919, during a strike at the Vasena steelworks, there was a clash between the strikers and a squadron of cavalry (despised by the people who referred to them as “Cossacks”). The FORA’s response was to call an open-ended strike that triggered a brutal backlash that has gone down on record as the Tragic Week. A number of authors have estimated the numbers killed by the police and army crackdown at between 700 and 2,000. The police and army, abetted by the Patriotic League (a xenophobic bourgeois organisation) particularly targeted the Jews (or those believed to be Jews), anarchists or not.
+
+AJR members were hit by other developments and harassment. The last big strikes in which they were actively involved were the strikes by the dockworkers’ and waterworks sectors of the FORA between 1955 and 1965.
+
+The issue of Zionism was hotly disputed among Jewish libertarians. Not only did they reject the creation of a Jewish state, but they also championed the use of Yiddish (rather than Hebrew) and instruction in Yiddish in the schools. Jewish anarchists also backed a kibbutz-based model of community settlement, one free of any state structure. Faced with the establishment of a Jewish state, the AJR opted for the “territorialist” policy that called for the establishment of a Jewish “homeland” as a cultural project with no political sovereignty (the same line was pushed by Steinberg, Lenin’s one-time commissar for Justice and a member of the Social Revolutionary Party during the Russian revolution).
+
+The history of the AJR (commonly known as the Racionalista ) concluded with an almost generation-based clash produced by a novel way of grappling with political issues.
+
+The younger generation, children of the founders and most active AJR members, joined more broadly-based organisations and jettisoned the idea of organising on the basis of their Jewishness, because they sought great social integration, albeit not without difficulty. In 1976 Gorodisky died and the last remaining AJR militants decided to sell off the AJR premises (on the corner of Humahuaca and Pringles) and to give the library (something over 2,000 books) to Tel Aviv University’s Department of Argentine Anarchist Studies.
+
+On 7 April 1982 Ahrne Thorne wrote from New York to Leizer (Lazaro) Milstein, of the AJR founders: “Dear comrade, I am only too well aware of the bitter taste of winding up a movement, a movement one has helped to build up and which one has loved and held in high regard, into which one has put so much effort and invested so many hopes. What you must have gone through with the recent liquidation of the Jewish Rationalist Association, I too have gone through, with the closure of Freie Arbeiter Stimme . Yet I reckon we should console ourselves with the thought that our work goes on through our comrades from Problemen in Israel. Besides, you know, as I do, that the good our movement has done will go down forever as a positive contribution to Jewish history and to the history of the anarchist movement.”
+
+The proceeds from the sale of the AJR’s premises were forwarded partly to Problemen , an anarchist paper published in Isarael in Yiddish, and partly to the Biblioteca Popular ‘José Ingenieros’. The latter set aside the money for publication of books under the Tupac imprint (in which the AJR had been a partner since the 1940s), its first publication being Jorge Solomonoff’s Ideologias del movimiento obrero y conflicto social.
+
+It would take too long to list all the members of the AJR. We shall confine ourselves here to mentioning only a few of the most active AJR members: Asne Ainstein, Iakob Birnboin, Iosl Bursuck, Meier Bursuck, Higinio Chalcoff, Jaike Chalcoff, Moishe Feldman, Golde Gorodisky, Ioine Gorodisky, Jaime Gurrevich, Leizer Milstein, Maxima Milstein, Oscar Milstein, Jaimke Niezna, Sarita Rabinovich, Gregorio Rawin and Z. Zulis.
