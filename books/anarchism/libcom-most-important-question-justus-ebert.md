@@ -1,0 +1,44 @@
+---
+title: "Most Important Question Justus Ebert"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/most-important-question-justus-ebert"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by Justus Ebert summarizing the principles of industrial unionism."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/most-important-question-justus-ebert)
+
+An article by Justus Ebert summarizing the principles of industrial unionism.
+
+THE question "What is industrial unionism?" may be said to be, in its essence, the most important of social questions. For industrial unionism is, in its final analysis, a method of social reconstruction. It is a means by which the basic activities of society may be continued when capitalism shall have been overthrown by its own failures and class conflicts. Industrial unionism seeks to inaugurate a system of industrial democracy in place of capitalist autocracy and control when capitalism shall have demonstrated its own impossibility. Industrial unionism is constructive unionism, taking the place of self-destructive capitalism.
+
+Industrial unionism is the highest development in unionism. It seeks to organize the worker according to industry, instead of trades, not only for the everyday conflict for more wages and less hours with employers, but also for the day surely coming when capitalism shall have outgrown its usefulness and must be supplanted by a system of greater stability and value to society as a whole. Industrial unionism is far-sighted unionism. It is social unionism.
+
+Industrial unionism not only seeks greater unity among the workers, but believes that the abolition of craft lines in industry compels such unity. It views industry, 1n0t as a collection of trades with separate interests but as a series of continuous activities that tend to a general standard and are more affected by general conditions that permit of general movements.
+
+In the metal and machine industry large subdivisions of labor, formerly called, trades, are now classified on a uniform hour pay basis, and have their wages determined in arbitration proceedings by the rise in the cost of living, instead of their craft skill as formerly. In the transportation industry, to cite still another instance, the four large brotherhoods combine together to wage the 8 hour fight and to secure wage classifications that are of a general character. It is this tendency to put hours and wages on a general basis that makes industrial unionism both possible and necessary, and that also makes of industrial unionism large scale unionism, instead of the petty scale unionism, required by the trades 50 years ago.
+
+Industrial unionism is alive not only to the general tendency to wipe out trade lines in industry, but also to the very close relation that exists between all industries. Industrial unionism, for instance, recognizes the close relationship that exists between the textile industry, in which the raw material for articles of wear is made, and the clothing industry, in which this raw material is made into the finished products. Industrial unionism recognizes the fact that these two industries practically form one whole industry, and organizes them accordingly. Industrial unionism embraces, accordingly, not only all the so-called trades in an industry, but all the industries engaged in the production and distribution of commodities. It is one big union of all industrial workers.
+
+Industrial unionism, further, recognizes not only the very close relationship that exists between industries, but so also the financial ties that bind them still more closely together. In the clothing industry, for instance, it recognizes that woolen trust capital is invested in large establishments, and governs it self accordingly. Industrial unionism is alive to the fact that such is the interrelationship of all industries that the capital invested in them must become interrelated, too. That capitalism is in fact, one big combination of capital and capitalists, because industry itself is one big combination of activities, created by man's necessity to feed, clothe and shelter himself, and not by the alleged superior ability of the capitalist class. And thus it comes that industrial union organizes all industries together in one big union just as capitalism binds them together in one big combination for capitalist profit. Industrial unionism is parallel unionism, growing out of capitalist combination and living side by side with it.
+
+Industrial unionism arises out of and is modelled after modern capitalism. Unlike trade unionism, it is not born of the capitalism of 50 years ago. Industrial unionism recognizes that capitalism is not only interindustrial, so to speak, but also international. That just as it binds industries together by means of machine processes and financial investments, so also does capitalism tend to bind nations together. Industrial unionism follows the same trend. It too is not only interindustrial but also international. Industrial unionism seeks to organize the industrial workers of the world just as capitalism seeks to exploit them. Industrial unionism is spreading wherever international capitalism exists. Like international capitalism industrial unionism knows no boundaries, color, race, creed or sex. As international capitalism knows only profit, industrial unionism knows only the industrial exploitation by which profit is possible. Industrial unionism organizes to make industrial exploitation an impossibility. And capitalism is its most valued assistant.
+
+Industrial unionism believes that industry, in its broadest economic sense, is the basis of society. We work in and are dependent for our very lives, art, culture, law and institutions of all kinds, on in- [here some text is missing from the original] dustry ceases, society closes. Every snow storm that ties up industry, every general strike, every shock of war, that paralizes and destroys industry, proves the depedence of all society on industry. President Wilson, when appealing to the A. F. of L. convention, declared that winning the war was impossible without the aid of labor. So that even international issues and the state depend on industry. Without industry, without the active cooperative labor of millions of men, women, and children, the state is unable to generate the force on which its very existence depends. Recognizing the dependence of society and the state on industry, industrial unionism urges the workers to organize industrially so that both society and the state may become so transformed as to lead to the greater freedom and progress of the race. Industrial unionism holds to the belief that he who controls industry, controls the means, not only by which peoples live, but also by which their interests and ideals are protected and advanced. To get control of industry for the benefit of mankind instead of capitalism is the object of industrial unionism.
+
+Industrial unionism is not merely unionism in the old sense of getting more wages, less hours and better conditions, but also in the sense of getting more social power and a more perfect social status for the workers. It is a means of solving social problems for the workers, and of making the workers themselves representative of a new society working for the good of all and the profit of none. Industrial unionism, through its social vision, tends to make the workers more intelligent in the grasp of conditions. It tends, in its practical outworkings, to make them more self-reliant and competent to run affairs for themselves instead of for others. Industrial unionism, in scope and plan, fits the workers for the cooperative management of society. Industrial unionism is industrial democracy in the making.
+
+Industrial unionism is the great foe of capitalist materialism, with its degradation and destruction of manhood. Industrial unionism is the social idealism of the workers operating through industrial means to insure their own free development, and through that development, their own liberation—the liberation of society, for the workers are society, in fact and numbers. The capitalists are a class, a useless, dangerous, parasitic minority that can be dispensed with. Industrial unionism is unionism of the workers according to industry and for the advancement and emancipation of society, through their own intelligence and efforts. Industrial unionism is non-bureaucratic. It is non-autocratic. It is non-capitalistic. Industrial unionism is industrial democracy, by, for and of the workers, first, last and all the time.
+
+Transcribed by J. D. Crutchfield. Taken from page no longer on iww.org but found on archive.org
