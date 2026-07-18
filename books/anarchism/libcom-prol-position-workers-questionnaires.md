@@ -1,0 +1,92 @@
+---
+title: "Prol Position Workers Questionnaires"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/prol-position-workers-questionnaires"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Questionnaires for workers used by Prol-Position to investigate working conditions and workers&#039; struggles."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/prol-position-workers-questionnaires)
+
+Questionnaires for workers used by Prol-Position to investigate working conditions and workers' struggles.
+
+Introduction We propose to use questionnaires for the exchange of experiences in the sphere of exploitation and in struggles in order to support the discussion among the (struggling) workers and to sharpen our view on the tendencies in the confrontations.
+
+We document the questionnaires we are using. We cannot discuss the same questions in all situations. So if you want to use the questionnaires you might have to adjust them to "your" situations.
+
+This is an invitation to a discussion on inquiry and intervention. Write down your experiences, critique... and send us your reports and interviews!
+
+"Interviews as part of revolutionary inquiry are not an interrogation of workers in order to collect facts. The questionnaire should be criticized and developed further together with the workers. Our aim is that the interview will become a discussion in which the daily myths of the capitalist production process are destroyed and the development of society is put into question. The inquiry will become part of the revolutionary process when it manages to support the debate on capitalism, class struggle and communism within the field of exploitation and when it becomes the beginning of political self-organizing itself!" [kolinko, questionnaire for call centre-workers, November 1999]
+
+Questions 1 - Facts + Overview Kolinko wrote this questionnaire for the call centre-inquiry. We have not changed it much, even though the interviews have shown that it is too long. It hast helped to formulate the important question more precisely, to understand the organisation of work, the machinery, the co-operation...
+
+For further projects of inquiry it has to be adjusted to the area (factory, construction, university, housework etc.). It can be a first step to collect facts and get an overview. Here it is:
+
+Company 1. Which company do you work for? 2. To what sector does the company belong? 3. To which bigger trust does the company belong? 4. What is produced there or what kind of services are offered? 5. What function does the call centre have in the company? 6. In which call centre department are you working? 7. What other call centre departments are there in the company? 8. When was the call centre set up? 9. Did the company get state subsidies? 10. How many people are working altogether at the location or for the company? 11. Is the call centre out-sourced or has it just been set up? 12. Were already existing call centre joined together? 13. What has changed through that, concerning work conditions? 14. Was the same work you are doing in the call centre done in other ways before? 15. Which work routines or technologies have changed through the set up of the call centre? 16. Why do you think does this call centre exists? 17. What explanation does the management give on the question of why the call centre exists?
+
+Region 18. Are there many call centre in your region? 19. What sectors do they operate in? 20. Why are they concentrated in your region? 21. What do managers or politicians say about this? 22. Is there a training scheme for call centre agents offered in your region? 23. Who offers these schemes? 24. Is the state employment office or social service agency putting pressure on people to work in call centre or take part in the training scheme?
+
+Workers 25. How many people work in the call centre? 26. How many are female, how many are male? 27. How many immigrants work there? 28. Where do they come from? 29. How many are part-time workers, how many are full-time? 30. Has the proportion of part-timers and full-timers changed? 31. What various working time models exist there? 32. In your opinion, what kind of people start working in call centre? 33. Why do they start working there? 34. Do you think people in the call centre come from similar backgrounds and get along well, or do they differ from each other very much?
+
+Job or profession 35. How long have you / the others worked there so far? 36. Did you / the others already work in other call centres? 37. Why did you / the others stop working there? 38. What did you / the others do or where did you work before that? 39. How did you find the call centre job? 40. Why did you / the others apply for the call centre job? 41. Do you / the others want to work there for a long time? 42. Do you want to have another job within the call centre? Which one and why?
+
+Qualification 43. What criteria did the management apply when hiring people? 44. What kind of job training or skill did you have before? 45. Does the management organise training to qualify workers? 46. How long does this training last? 47. What is taught or what have you learned there? 48. What do you think about the training now, where you are working? 49. Did you have the necessary skills before or did you learn them 'on the job', while working at the Call Centre? 50. In your opinion, which skills does a call centre worker need?
+
+Methods of working 51. When working on the telephone, which actions do you perform? 52. Who is giving you direct orders? 53. Apart from those, who has a position superior to you? 54. With which technical devices are you working? 55. Which functions do these devices have? 56. Can you operate the devices properly? 57. Do you like working with the devices? 58. What do you like about this work in general? 59. What do you dislike about it?
+
+Co-operation 60. Are you working together, co-operatively, with other workers? 61. In what way do you cooperate? 62. Do you have contact with other departments, branches or work sites? 63. Are these contacts important for the work? 64. How do you find the information you need to do your job? 65. Are you dealing with a call on you own or do you also put calls through to other departments?
+
+Problems with the organisation of work 66. What kind of problems come up frequently concerning the organisation of work? 67. Are there frequent failures of the technical equipment? 68. If so, when there are problems, how do you deal with them? 69. What role does co-operation with your colleagues have in this context? 70. What role do the managers and supervisors have? 71. Is it enough to follow the official work routines in order to manage the work, or do you also have to fulfil other functions as well? 72. Have you been given additional work since you began? 73. How did you react to that? 74. In your opinion, who is organizing the work? 75. Is the organization of the work sensible? 76. Why not? 77. Why are there managers and supervisors? 78. In your opinion, why are there so many workers in one office in call centre?
+
+Work intensity 79. How or what is determining the pace of work? 80. At what rhythm are you being called or are you calling up? 81. Is the rhythm of the calls and your work speed determined by the telephone equipment? 82. Is the rhythm of calls leaving you time for talking to colleagues about other things? 83. What do you talk with them about? 84. How do you manage to make the work easier or to have unofficial breaks? 85. Do you think the job is stressful? What exactly is stressful about it? 86. How do you feel after a working day?
+
+Control 87. Are you being controlled and how? 88. Who is controlling you? 89. Why are you being controlled? 90. Which criteria are being used in controlling you (amount of calls, duration, etc.)? 91. What happens if you are making serious mistakes or if you are not following orders? 92. Does that happen often? 93. Are you managing to get around the controls? 94. Does it happen that people do something wrong deliberately in order to have breaks or fool the supervisor?
+
+Wage 95. How much do you earn? 96. Does everybody earn the same? 97. Why not? 98. Is there a wage scale or are there wage groups? 99. What criteria are used to get a pay raise? 100. Does the wage depend on performance? 101. Are you getting additional payments for certain working hours (at night, on weekends...)? 102. How does management justify the wage differences? 103. What do your colleagues have to say concerning wages?
+
+Working hours 104. What does your contract say about your working hours? 105. Are you working overtime, special shifts, etc.? 106. How long does it take to get to work and back home? 107. What time does the Call Centre open and close daily and how long do people call up? 108. Is the Call Centre open on Saturday, Sunday and public holidays? 109. What kind of shift patterns exist (e.g., variable shifts or always on early / night shift etc.)? 110. How is the shift schedule made? 111. Do you have a say in the matter? 112. Are there work time accounts where you can (are forced to) accumulate working hours and take time off later? 113. When do you have breaks? 114. Do the workers have breaks together? 115. Do you have additional breaks due to the fact that you are working in front of computer screens? 116. How many days holiday do you have? 117. Are you satisfied with the working hours, the shift system etc.? 118. What is not satisfying to you about all that?
+
+Unions 119. Is there a negotiated collective agreement? 120. Does that cover only the location, the whole company or the sector? 121. What exactly is regulated there? 122. Who has signed it with management? 123. Is there a works council (official worker representation body on the company level)? 124. What is it doing? 125. Which union is active within the call centre? 126. What is it doing? 127. What do you / the other workers think about the union and/or the works council? 128. What do you expect of the union or the works council?
+
+Services 129. What exactly is your service? 130. Why is this service getting 'produced'? 131. Who has an interest in it? 132. What significance does friendliness, customer oriented service etc. have? 133. Do you consider your job as necessary for society? 134. What does the management have to say about that? 135. What do the other workers say about that?
+
+Conflicts 136. While working, do you talk a lot about the problems in the call centre? 137. What are you talking about exactly? 138. Are / were there conflicts among the workers? 139. What was the problem and what happened? 140. Are / were there any bigger conflicts with the management? 141. What happened exactly? 142. Will there be (more) conflicts around the situation on the job? 143. Have you already been threatened with out-sourcing or closure of the call centre? 144. What do you think about this threat?
+
+Discussion 145. What is the difference between work in a call centre and work in a factory, other offices or in a hospital? 146. In the future, will more people work under conditions similar to call centres? 147. Will there still be Call Centres in a few years? 148. What will change about the work conditions? 149. How do you imagine work and life will be in ten or twenty years? 150. Who will determine how the situation will be in ten or twenty years? 151. What do you think about the possibility of organising with other people for an improvement of the situation? 152. With whom would you organise? 153. What could you do to put through your demands? 154. What do you want to put through or change?
+
+Questionnaire 155. What do you think about this questionnaire? 156. How can it be improved?
+
+[i] Questions 2 - Discussion + Agitation [/i] During the call center inquiry kolinko did not have a questionnaire they could also use spontaneously for discussions at work. This is not about a prompt sheet so we don't forget a single question but rather about the way to contribute to the discussions. During the every day work routine we grind through the work process, the team-leaders newest changes in the seating arrangement get on our nerves, we find ourselves wedged between petty hassles and gossip... Meanwhile, we lose track and above all the openness and precision during discussions on conflicts and (possible) struggles. The questionnaire is also a support while confronting the workers with their behaviour, while searching for the break-up points and rebellious moments...
+
+1. What kinds of problems exist? (organization of work, sick leave rate, increase of work...) 2. What were the most recent actions of the bosses? (changes in the technology, redundancies...) 3. Why are they going ahead with that? (reduction of breaks, ensuring peace...) 4. How do the workers react? (discussion, ignorance, action...) 5. How have the conflicts between the workers changed (arguments...) 6. What have the unions and workers representatives done recently? (notice boards...) 7. What do the workers discuss regarding that? (interest, indifference, curiosity...) 8. What can the workers do themselves to change the situation? 9. What political discussions take place? (crisis, war, sick pay...)
+
+[i] Questions 3 - Struggles [/i] We have written this questionnaire for the exchange about struggles. The aim is to use it to either * write reports on struggles in which we take part ourselves, or (better!) to * ask comrades to interview us in order to provoke a discussion, or to * turn up at picket lines, blockades… to interview the people right there, or to * take the questions in order to write reports on other struggles with all the important information.
+
+Interviews and reports can then be circulated and used for further discussions. It is undeniably difficult to write a questionnaire that fits all situations. This one puts emphasis on the struggle in work places but if you want to use it at the university or in the neighbourhood, just change it a bit. Here it is:
+
+The person being interviewed 1. What's your job in the work place? 2. Do you have a position in the workers representation body (works council...) or the union? If yes, which?
+
+Background 3. What was the starting point of the struggle? (management measures…) 4. What happened just before this? (atmosphere amongst the workers, changes to the organisation of work…) 5. What other struggles happened earlier? (in the same company, in others, after state measures…) 6. What are the official demands? 7. Who has made them or put them forward?
+
+Conditions 8. Where exactly does the struggle take place? (company, department…) 9. How important is the company for the capitalist, the region…? 10. What kind of connections are there to other areas? (suppliers…) 11. Who is working in the company? (where are they from, which countries…) 12. What kinds of work contracts exist? (part time, temp work…) 13. How do peoples nationalities, work contracts etc. influence the struggle?
+
+Organising 14. Who took the initiative in the struggle? (workers, the union…) 15. How is the conflict spreading? (within the company and beyond…) 16. What kind of influence do single workers have on the struggle? (debates, assemblies…) 17. What are the proposals for the forms of struggle? (strikes, blockades…) 18. Who puts the suggestions forward? 19. Who gets their own way here and how? 20. Which kinds of attempts are made in order to include other people beyond the department or company? (rallies, demos…) 21. Are the means of production being used during the strike? (excavator, computer…) 22. What role do the relations among the workers, based on the work organisation, play? (cooperation, including with other departments…) 23. What kinds of attempts exist to undermine or disturb the struggle? (scabbing…) 24. What role do organisations from outside play? (unions, parties, supporters…) 25. What do these organisations do exactly? (money, leaflets, assemblies…) 26. What do the workers say about these organisations? 27. What kinds of organising have the workers tried out? (committees…) 28. What kinds of problems did they have with that?
+
+Effects 29. What are the effects of the struggle? (production stops, disturbance of the work in other areas…) 30. What do the workers have to say about the effects? (on other workers, clients, patients…) 31. What does the media say about the struggle? (newspapers, television…)
+
+The course of the struggle 32. How can the struggle develop further? (actions, extending the struggle…) 33. What is the mood of the workers? 34. What kind of conflicts are there between the workers? (different positions, divisions based on origin or gender…) 35. How do people deal with that? (discussions, arguments…) 36. How have the conflicts between each other changed during the course of the struggle? 37. What's the reaction of the bosses? (redundancies, lockouts, pressure…) 38. What do the workers say about that? 39. What kinds of attempts of mediation and negotiation are there? (strike committee, works council, union…) 40. Is the end of the struggle already in sight? 41. What will or has happen(ed) afterwards? (return to work, more bosses' measures, new struggles…)
+
+Assessment 42. What do the workers have to say about the experiences they are having? (strength, weaknesses…) 43. What can be done better or differently next time? 44. What connections do the workers see between their struggle and the general situation of society? 45. What connections do the workers see between struggles in other sectors? 46. Where should reports on the struggle be distributed so people can learn from it?
+
+Interviewer 47. How and where was the interview done or the report written? (place, sources of information…) 48. How do you see the experiences, strengths and weaknesses of the struggle? 49. How have you benefited from the interview or the writing of the report?
