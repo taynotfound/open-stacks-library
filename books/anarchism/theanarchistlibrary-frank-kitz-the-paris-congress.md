@@ -1,0 +1,68 @@
+---
+title: "The Paris Congress"
+author: "Frank Kitz"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/frank-kitz-the-paris-congress"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A Delegate’s Report"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "frank-kitz-the-paris-congress.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/frank-kitz-the-paris-congress.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/frank-kitz-the-paris-congress)
+
+The first proceeding after the verification of credentials was the calling over the list of delegates, most of whom answered the roll in French, German, and English. The only incident worthy of mention during this tedious process was the applause with which the names of Peter Lavroff (Russia), Cipriani (Italy), and that of Dr. Adler the Austrian delegate (now sentenced to four months’ imprisonment, to be undergone upon his return), and the Danish delegation, were greeted. These last had been sent at the last moment, the Danish Social-Democrats having altered their previous intention not to participate in the Congress. Several fresh adhesions during the sittings brought up the total of delegates to 407. The English representation, consisting of 21 at the outset of the business, was increased to 24 by the arrival of J. and R. Turner and F. Charles subsequently. The proportions of the English delegation from the Socialist League were : Council of two delegates ; and branches nine in all. It is worthy of remark that Greece, Norway, Bulgaria, Roumania, Finland, Portugal, and the Czechs were represented. Scotland may properly be said to have been represented by Messrs. Keir Hardie, Ayrshire Miners ; Ogilvy, Scottish Labour Association; Cunninghame Graham and Halliday. These, in conjunction with our comrade Wess of the Berner Street Club, were the other elements in the delegation from Britain.
+
+The best part of two days was wasted in a useless discussion promoted by the Italian and Flemish delegates in favour of a fusion with the other Congress, which ended as described in my fellow-delegate’s (Morris’s) report. The reports of various nations and trades consumed the time until Saturday morning, when the proposals in favour of international legislation, eight hours per day, regulation and inspection of factories, and other “ stepping stones “ were brought forward. The League delegates held a special meeting to discuss their attitude towards these proposals, and as there was a diversity of opinion as to the course we should pursue, it was left to the discretion of each delegate to vote as he pleased.
+
+The position occupied by myself, and some others of the delegates, in regard to the question of seeking the aid of Parliament for the reduction of the hours of labour, was that it should be achieved by strikes, combination, and by custom, for the reasons given in Merlino’s amendment : —
+
+“Considering that it is dangerous to foster amongst the masses the great superstition of the century, which consists in pretending to solve the great social problems by the ballot box and Acts of Parliament ; that it is on the contrary necessary to undermine and destroy the fetishes of legislation and legislators ; and that the offer of labour legislation officially made by the governments has only one aim, that of rehabilitating in the eyes of the masses Parliamentarism, now becoming utterly discredited, and to prolong its agonising life.”
+
+The reading of the reports occupied several hours, during which it was necessary to sit in a cramped position and listen to them in French and German before the English translation was reached. This made it a wearisome task, the irksomeness of which was increased by the several presidents and prominent members of the bureau, who took little or no trouble to secure order for the English translations. Many valuable portions of the reports and names of the speakers in several cases were inaudible to me on this account. Mrs. Aveling laboured hard and conscientiously at a very hard task, but had to solicit the aid of your delegates’ lungs to assist her in obtaining anything like silence for her explanations. I must say, as against the French character for courtesy, that the local Parisian delegates were as a group the most discourteous in this particular, and were several times rebuked from the platform for it.
+
+The portions of reports which I think most noteworthy are those of the Parisian Waiters, French Seamen, German Westphalian Miners, Berlin Women Workers, Swedish, Danish, and Austrian delegates. Comrade Clara Zetkin, of the Berlin Women Workers, roused the Congress to enthusiasm when she said that the capitalist had destroyed women’s place at home and forced her into the market as a producer, only to widen her ideas and create another enemy who would strive with energy for the overthrow of capitalist domination. She said that little thanks were due to the men for women’s awakening, for they have held that women’s place was at home as a domestic slave. The women would never return to that condition ; but, in opposition to the middle-class agitation for so-called Women’s Rights, which simply means to put women in antagonism to men and use them as competitors in the wage-market against them, they women Socialists, disregarding the question of sex in economics, would work with men on a basis of equality for the social revolution.
+
+Dr. Adler, Austria, in giving his report, stated that in Austria labour legislation was theoretically perfect. Regulation of factories and of child and female labour existed on paper, yet men, women, and children are overworked and the laws disregarded. In a speech full of satire he ridiculed this state of things, and said that for his participation in the tram strike of Vienna his paper, the Gleichheit, was suppressed and himself condemned to prison ; that in all Austria there are only fifteen inspectors to see to the enforcement of labour laws.
+
+The delegate of the Parisian Waiters’ stated that they had to work from 7 a.m. to 2 p.m., and often longer ; that they often had to pay the managers of the Bureau de Placement, or place farmers, 60 ft. to 100 fr. to secure a place, and then were frequently dismissed upon the smallest pretence, the employer and the bureau sharing in the plunder of the guarantee. They were obliged to be civil to all, and even when insulted to say “ Thank you.” Hitherto they had been counted as of no moment, but now that they are organised every other section of industry recognised them. They were heartily in sympathy with Socialism.
+
+The delegate of the German Miners’ recited how the miners had been treated by the authorities in their late revolt, and how many had been imprisoned for simply organising ; of their interview with the German Emperor, whom, by the way, he designated “the devil”; and said, in conclusion, that the upheaval had been made without Socialist influence against intolerable conditions, but henceforward the miners would work with socialistic aims.
+
+Sweden was obliged to seek a Swede resident in Paris as her representative, because just now there are four editors of Socialist papers in prison, and exceptional laws on the German and Austrian pattern are being passed against the Socialists.
+
+Bohemian Socialists were also under the same difficulties ; no combination was allowed, and just recently in one year 340 persons were arrested on suspicion, some condemned to one year of imprisonment for a paper that had ceased to exist, some to three or four months, and only 110 acquitted after being detained weeks without trial.
+
+The delegate of the French Seamen detailed the hardships his constituents underwent, tied up by the hands to the rigging or placed in dark cells, and overworked and half starved. He appealed to the Congress for its sympathy and aid on their behalf.
+
+Christensen, of Denmark, gave his report, and spoke of the rapid strides the movement was making in that country, and of the persecutions to which the Socialists were subjected.
+
+Ferroul (Deputy) asked to be allowed to speak, and having obtained permission he delivered a powerful speech against Parliamentarianism.
+
+The English report was given upon anti-Parliamentary lines by comrade Morris, and after a deal of pressure had been exercised upon the bureau. [1]
+
+Keir Hardie gave us a trades’ union report, at the conclusion of which he went out of his way to declare that no person in England believed in other than peaceful methods to achieve amelioration of conditions, a statement that was protested against by myself and other delegates. Hardie’s speech was carefully, very carefully, translated into German by Liebknecht, who in the course of it added oomments of his own to demonstrate the difference between Morris and Keir Hardie. [2]
+
+The subsequent sittings of the Congress were devoted to the factory legislation before mentioned, and a resolution sent in on behalf of the League by Morris was added, I believe, to the preamble of the first resolution.
+
+I then essayed my prentice hand in the belief that the wreckage caused by competition deserve as much attention as the organised workers, and therefore sent in the following resolution : —
+
+“ The Congress recognising that the monopoly of the means of life, viz., land and instruments of production, by landlords and capitalists is the cause of poverty and degradation amongst the masses, and seeing that the mass of unemployed caused by monopoly have only the choice of either starvation wages, brutal charity, theft, or rebellion, we view with disgust and horror the hypocrisy which establishes a code of morality and honesty, buttressed by religion, and yet condemns multitudes to pauperism, prostitution, and crime ; the Congress having for its aim and object the extinction of poverty by the abolition of monopoly, declares that the monopolists who enforce judicially penal law are themselves the greatest criminals, and whilst extending our sympathy to prisoner, prostitute, and pauper, made so by injustice, we strengthen our resolve to overthrow at the earliest moment the fraud called Modern Society.”
+
+Considerable trouble had to be taken to get it read to the Congress, after which it was, I believe, consigned to limbo. No attempt was made to translate it for the convenience of the delegates, nor put it upon the order of the day.
+
+In conclusion, I must say that the Congress was disappointing from a revolutionary standpoint, badly organised, and little more than a prelude to the Governmental one about to be held upon labour legislation. Discussion upon the anti-Parliamentary and Anarchical positions was barely tolerated, and ultimately, forcibly suppressed. Let me say that as a demonstration of Internationalism broadly, and not noticing details, the Congress was a success ; but my advice to English Socialists Is, in view of a convocation to another one to be held in the future, to insist upon organisation, such as the printing of the order of the day, proper translations, and above all, sound revolutionary doctrines in favour of all and not sections of the proletariat.
+
+[1] A note appeared in the September 14 issue of Commonweal as follows: We have received the first part of the official edition of the proceedings of the International (Marxist) Congress (23 pp., Imprimerie de la Resse, 1889), containing the appeal of the organising committee, the list of delegates, and a number of resolutions passed. Very little care has been taken, to make this publication a reliable historical document, for the lists of delegates swarm with misprints, omissions, and inconsequent arrangings. Two of the English delegates, F. Charles and J. Turner, are completely omitted ; on the other side we find an Austrian delegate, Mr. Altrohla n , who never existed, but the name of the town of Altrohla u , where H. Dietel came from, was made the name of a delegate ! William Morris’s and F. Kitz’s resolutions were not published as “ no space was left,” it is said, but will be published “ later on.”
+
+[2] Leibknecht’s reply was published in the next issue of Commonweal as follows: Sir, — In your number of the 10 th of this month, Mr. F. Kitz pays me the compliment of having “carefully, very carefully translated into German Keir Hardie’s speech.” Mr. Kitz is right. I did it “carefully, very carefully,” as I am always wont to do my duty. Since Mr. Kitz has omitted to mention it, I may add that I have translated Mr. Morris’s speech with exactly the same care and love ; and if Mr. Kitz had made a speech as interesting and as instructive as those of his two countrymen, I should have rendered him the same service. — Truly yours, W. Liebknecht. Borsdorf, near Leipzig, August 11.
