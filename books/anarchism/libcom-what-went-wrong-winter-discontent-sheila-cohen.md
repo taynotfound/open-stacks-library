@@ -1,0 +1,84 @@
+---
+title: "What Went Wrong Winter Discontent Sheila Cohen"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/what-went-wrong-winter-discontent-sheila-cohen"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Often portrayed as responsible for bringing down a Labour government and ‘letting in’ Thatcher’s Tories, the 1978-79 ‘Winter of Discontent’ remains a high point in the history of the class struggle in Britain."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/what-went-wrong-winter-discontent-sheila-cohen)
+
+Often portrayed as responsible for bringing down a Labour government and ‘letting in’ Thatcher’s Tories, the 1978-79 ‘Winter of Discontent’ remains a high point in the history of the class struggle in Britain.
+
+The Winter of Discontent (WoD) has not had a good press – either from the right or, less predictably, from the left. The most recent diatribe against this historic wave of struggle comes in a relatively recent publication whose author claims that “The Winter of Discontent marked the democratisation of greed…It was like the spirit of the Blitz in reverse”. A former Labour minister’s comment on the WoD that “it was as though every separate group in the country had no feeling and no sense of community, but was simply out to get for itself what it could” is used to illustrate “the callous spirit which characterise[d] the disputes”.
+
+This moralistic tone is sustained even by the openly revolutionary Paul Foot, who describes the strikes as “bloody-minded expressions of revenge and self-interest…”. The sense of sniffy distaste for what is seen as unacceptably “economistic” activity is reproduced in the argument by another left-wing writer, John Kelly, that “the strike wave [was] an example of an almost purely economistic and defensive militancy”. Poor old WoD; it just doesn’t come up to scratch.
+
+So what could be the explanation of the Winter’s lasting fame, its sustained role as a symbol of everything that the ruling class loves to hate? Readers may remember photos of the notorious piles of rubbish used in Tory election posters of the 1990s; even today, the WoD is routinely invoked to raise a spectre of industrial struggle that must, of course, never again be seen. 1978-9 must have done something to rile the ruling class.
+
+The Winter of Discontent was the longest and most comprehensive strike wave since 1926, with nearly 30 million working days lost embracing more than 4,500 industrial disputes. However, as suggested above, its analysis has always been riddled by mystifications and misconceptions. One such, very common, is that the WoD was a public sector strike – an assumption bolstered by the various urban near-myths of the dead being left unburied, rubbish piling up in the streets, etc. While these are not untrue, they are exaggerated – and in any case ignore the class basis for such supposedly “selfish” acts.
+
+The focus on public sector workers also ignores the fact that this was originally a private sector strike wave. As such, the focus on action by relatively low-paid public sector workers draws attention away from the roots of the strike wave in the determination of the 1974-79 Labour government to restore “economic stability” on the backs of the whole working class through years of (initially) union-backed pay restraint. As shown below, it was this, and not the need to curb “trade union power”, which let in Thatcher.
+
+By late 1978, British workers had already endured over four years of both voluntary and statutory incomes policy. Working-class incomes, which had risen in real terms during the late 1960s and early ’70s, began to see the beginning of the end of this improvement; statistics show that average earnings have never, despite ups and downs, returned to their peak levels in 1973.
+
+What began the decline? The British labour movement’s devotion to corporatist approaches to combating the evils of capitalism, expressed in this case through the “Social Contract” introduced as part of Labour’s early 1974 election package. While the Contract, immediately and accurately rechristianed the “Social Con-Trick”, contained impressive reforms such as price curbs, pension increases and pro-trade union legislation (yes, that kind does exist) this was on offer from the first only in return for what was at first widely promoted as “voluntary” pay restraint.
+
+It was hardly in accord with the times. Labour had come to office “in the wake of a tremendous wave of militant action…”: the new government could now “contain militancy only by running before it”. In part at least, the action expressed understandable outrage at the fact that Labour had inexplicably retained Heath’s “Phase Three” wage freeze, resentment over which triggered a wave of strikes by nurses, BBC staff, GE factory workers and many more.
+
+It was not until that supreme architect of left social-democracy, Jack Jones, blessed the Social Contract with the sacrament of the flat-rate £6 limit, prompting a chorus of praise for “equality of sacrifice” from the likes of Tony Benn and Barbara Castle, that the gut-level militancy of the early Social Contract years turned into some semblance of acceptance. Trade unionists bit the bullet, accepted their £6 increase across the board, and gave class struggle a breathing space. For almost a year after August 1975, when the policy was introduced, workers withheld their power; strikes fell to their lowest levels in a decade.
+
+It didn’t last, perhaps because the “reward” workers received for their year of sacrifice was to be – more pay restraint. When the government insisted on imposing a year-long 5% pay limit in mid 1976, the reaction was not long in coming. In early 1977 a strike by British Leyland toolmakers pointed to the increasing discontent of relatively “privileged” workers; not long afterwards, steel industry electricians, seafarers and Heathrow Airport workers were also on strike. The unrest was not unconnected to the fact that prices were now rising by 15 per cent and the purchasing power of the average worker had fallen by 7 per cent in the past two years.
+
+By the autumn, firefighters and power workers were on strike, and a hysterical flood of headlines – ‘Callaghan Warns of Winter Strikes’; ‘Lights Stay Off’; ‘Blackout Threat to Kidney Patients’ – gave some indication of what was to come. The mass of workers had clearly been prepared to continue with some notion of ‘equality of sacrifice’ to aid the survival of a Labour government – but only as long as it seemed to make any sense. And after mid 1976, it clearly was not. By late 1976 and early 1977, working-class militancy had burst from its restraints in a resurgence of resistance, and a legacy of bitterness, which culminated in the 1978–79 ‘Winter of Discontent’.
+
+The WoD, then, hardly fell out of a clear blue sky; rather, it was the culmination of a long series of strikes and struggles against drastic attacks on workers’ standards of living. Nor does its launch sustain the misconception that it was only weak and/or low-paid workers who took part. The first in the unbroken chain of disputes from late 1978 to mid 1979 was a 9-week strike over pay by Ford car workers which “drove a coach and horses” through Callaghan’s incomes policy with a 17% settlement. The “speedy and unprecedented degree of external support Ford workers received from the outset” was attributed by a convenor to widespread resentment of the pay policy.
+
+The ‘Ford effect’ was felt in a wave of strikes. Workers at British Oxygen won an 8% rise in October; 26,000 bakery workers, novices to industrial action, walked out in November and gained 14%. By December, oil tanker drivers from Esso, Shell and Texaco had begun strikes and overtime bans, while in early 1979 lorry drivers used flying pickets to spread their strike throughout the country.
+
+As the lorry drivers departed the industrial stage, however, on came the public sector workers in whose name the Winter of Discontent is normally commemorated. On 22 January a one-day strike brought out over a million public sector workers; from this time on a variety of groups began coming out on strike in pursuit of their own pay claims. School caretakers struck at the beginning of February, supported in many cases by teachers. Water workers broke through the pay code at the end of February with a 16% increase; on 23 February, civil service unions began national action for a substantial claim. The public workers’ struggle continued to stampede through almost every sector; picket lines appeared in front of hospitals, ambulance stations, refuse depots, schools, colleges and a host of other workplaces.
+
+The media barrage is well-known, with “Rats on the Rampage” a typical comment. Yet rather than coming to the strikers’ defence against this ideological barrage, much of the labour movement leadership seemed equally horrified by the sight of uncollected rubbish and other reminders of their members’ indispensability. TUC leader Len Murray was ‘near to despair: this was not trade unionism, this was “syndicalism”. Yet stentorian condemnations did nothing to stem the quasi-revolutionary dynamic. Not only ‘syndicalism’, but elements of dual power began to characterize the dispute: ‘Within a short time strike committees were deciding what moved in and out of many of the ports and factories… In some cases strike committees controlled the public services of whole cities’ .
+
+Thatcher herself records in her memoirs that ‘the Labour government had handed over the running of the country to local committees of trade unionists’; her fellow Tory James Prior complained that Britain was now being run by ‘little Soviets’ – local strike committees of lorry drivers, train drivers and other public sector groups beginning to come into the strike movement.
+
+Paul Foot’s account affirms the dynamic: “I still recall a sense of wonder and admiration at the way in which the transport drivers of Hull took control of their industry and ran it…in the best interests of the community. The ability – and the yearning – for democratic control was there in abundance”.
+
+As so often in disputes large and small, the action mobilised and built working-class participation and solidarity. Journalists reported that during their six-week strike “The impressive thing was how people who had never been on strike before manned the picket lines…they were totally at home with it, they accepted it. What comradeship there was!” FBU members turned up to the journalists’ picket lines with braziers, while pallets of fuel “fell out of the back” of a Royal Mail pantechnicon. Hardly the selfish sectionalism so disparaged by critics of the Winter.
+
+Yet the outcome of this mobilisation, this solidarity, was not the triumph of the ‘little Soviets’, but victory for the emissaries of neo-liberalism. On 3 May 1979, Labour surrendered to Thatcher and all that she stood for.
+
+This victory was by no means a foregone conclusion. During the election campaign itself, opinion polls varied sharply; two days before polling day, Labour was ahead 0.7 per cent.
+
+Yet the Tories won by 7 per cent, more than enough to authorize Thatcher’s mission to destroy social democracy.
+
+The conventional explanation for the loss was the electorate’s disgust with “trade union power” as symbolized in the industrial chaos of the Winter of Discontent. Yet the undoubted “unpopularity” of the strikes only accounted for about 1.5 to 2 per cent of the swing; the Tories’ policies on industrial relations were not even at the top of voters’ agendas. Nevertheless, almost the entire labour movement leadership took it for granted that it was “the unions” who had let in Thatcher. The question of what, or who, was lumped together in that formulation was not considered, any more than was the question of who held the “trade union power” she promised to vanquish.
+
+There was indeed a form of power in the land during the Winter of Discontent – workers’ power. It was shown only embryonically, but it was based not on ‘greed’, not on the Satanic motives with which the press embellished their tales of evil, but on the usual reasons – attacks by capital on workers’ lives which go beyond the bounds of the tolerable. As one post-mortem pointed out, those who blamed Labour’s defeat on ‘union intransigence’ might be hard put to it to explain “what it was that turned the social contracting trade union saints of 1975-78 into the demonic fiends about whom we read in the Daily Mail of last winter”.
+
+Those ‘demonic fiends’ did the only things that workers in struggle can do – they struck, they picketed, they stopped the movement of goods, they disrupted services. In that sense, these prosaic struggles of tanker drivers, gravediggers and dustmen also displayed the only power that workers can have; they withdrew their labour, with a force and to an extent that seriously challenged the organisation and structure of society. What they did not do was to display ‘trade union power’ in the monolithic, dictatorial way which the press, aided by politicians of right and left, sought to depict it.
+
+Like all upsurges of struggle, the Winter of Discontent was raw, imperfect, lacking in ideal politics and strategy. Yet what its critics fail to recognise is that this is the character of grass-roots worker struggle in all its “spontaneous” and grassroots glory. The potential indisputably posed by such “economistic” activity – what are workers to struggle over, if not the price of their labour-power? – is that of a challenge to the capitalist class and state, as the rulers of that state undoubtedly recognised.
+
+Labour lost in 1970 because of the class struggle, the Tories in '74 because of the class struggle, and Labour again in '79 because of the class struggle: elections are usually the rulers' choices of methods of trying to deal with the class struggle, by the different rulers or would be rulers adopting different tactics and manipulations. So the fact that Thatcher got in, in order to deal with the English disease (resistance to work, massive wage hikes, the general culture of resistance in the Uk at the time, etc.) is hardly a surprise: the Labour Party's method of getting shop stewards integrated into the negotiation machinery had been bypassed by the workers themselves, often against the wishes of the shop stewards, so that particular tactic had failed for the ruling class. The point is that "trade union" ideology, which had a margin of practical use developed over decades and decades of workers undermining capital accumulation and social control and, as an ideology, posed no barrier to the development of struggle in '78/'79, in the epoch of Thatcher became an obstacle to the necessity to overcome divisions. See "Now is the Winter of Our Discontent" for a really detailed look at this period.
+
+It's really interesting hearing about the dual power and self management, I've never heard anyone say that about the winter of discontent before. Does anyone know any more about how and where this happened? How prevalent was it?
+
+There's a good pamphlet on the winter of discontent, I'll try and find it and tell you the title
+
+During January 1979 Beach and his fellow T&G stewards organised such an effective city-wide blockade that the press dubbed Hull 'Stalingrad' and 'seige city'. For five weeks a T&G 'Dispensation Committee' - based at the union HQ - effectively controlled the economy of the city, dealing with all requests from businesses and farmers for permission to move goods and supplies in or out of the city; [...] ... explicit considerations of challenging the very existence of class society by developing a seizure and subversion of means of distribution and production never materialised. Surely the possibilities must have crossed some workers' minds and come up at points, e.g. during chats on picket line shifts, as the implication was there in the situation they had created - and it was explicitly pointed out by some bourgeois ideologues, with their media comments such as Tory MP James Prior complaining that Britain was being run by "little Soviets", many complaints of 'workers taking things into their own hands' etc. But it never became a conscious expression within the movement.
+
+From this perspective, the Winter of Discontent can perhaps be seen as a short-term working class victory that prepared the ground for the long-term defeat imposed on the working class by Thatcherism. "Those who make a revolution only half way dig their own graves." (Saint-Just). http://libcom.org/history/delightful-measures-changed-reflections-1978-79-winter-discontent
+
+What books did you use to write this? I really need a list of good books for this topic.
