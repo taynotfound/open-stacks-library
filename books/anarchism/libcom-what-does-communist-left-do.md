@@ -1,0 +1,62 @@
+---
+title: "What Does Communist Left Do"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/what-does-communist-left-do"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "What we will focus on in the following is how we understand the inseparable link between theory and practice and how that reflects on our activity."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/what-does-communist-left-do)
+
+What we will focus on in the following is how we understand the inseparable link between theory and practice and how that reflects on our activity.
+
+It’s fashionable nowadays to say that the Communist Left “does nothing”. This misconception – whether a consequence of reducing the historical experience of our tendency only to those currents that have adopted the wait-and-see approach 1 , or because of internet humour which has made the image of “leftcoms” synonymous with “armchairs” – should be addressed. Both online and in the real world, members of the CWO have been met with this accusation from leftist activists, anarchists and even groups like the Angry Workers for whom it's “unclear how the CWO relates to the working class around them.” In simple terms, it all boils down to one question: what is it exactly that we do?
+
+As anyone involved in the actual running of an organisation could confirm, it requires a lot of behind the scenes effort. The CWO has been in existence for nearly 45 years now. Books, pamphlets, bulletins, flyers and articles don’t get written and distributed by themselves. Political clarification and practical experiences of struggle don’t arrive from heaven. But, rather than the life of an organisation, what we will focus on in the following is how we understand the inseparable link between theory and practice and how that reflects on our activity.
+
+"An understanding of the nature of working class consciousness, the manner in which it arises and the way in which that consciousness becomes a material force in history, is the most important issue for defining the nature of revolutionary action." ( Class Consciousness and Revolutionary Organisation )
+
+Amongst the activist left it’s common to see revolutionary Marxist organisations as a talking shop, more interested in reading 19th century tomes than getting your hands dirty. It’s no secret that we are highly critical of headless chicken activism, which shifts from one “campaign” to another, latching on to the latest trends in academic discourse or tail ending this or that popular movement. But, and some may not be aware of this, this doesn’t mean we advocate endless reading groups and online discussions for the sake of intellectual point scoring as an alternative.
+
+Theory is a buzzword on the “left” of capital, but all it means is having a framework for understanding the realities of the society we live in, an understanding which can give us a modus operandi. This theory doesn’t consist of eternal principles to be invoked at every opportunity. Marxism (or historical materialism) is a method based on analysis and critique: nothing is sacred. Thus what tactics we adopt depend on the given situation. For example: we don’t reject trade unionism out of some ideological purity. Trade unions were never revolutionary but they emerged as a tool for workers to bargain over the price of our labour power. In the imperialist phase of capitalism however, these unions have been incorporated into the capitalist state as one more element for maintaining and preserving the current mode of production. And this is easily observable: in the 20th century it was the unions themselves, now legal institutions, which hand in hand with the state imposed austerity on the working class (by enforcing wage restraints, no-strike pledges, the union sacrée, sabotaging struggles, etc.). If we recognise workers' assemblies, agitation and strike committees to be the means to carry our struggles forward, it’s because:
+
+"It is a historically proven fact from the dawn of capitalism that the class creates its own organs to fight for its demands, even without the presence of the revolutionaries. However the same historical experience also shows the dominant ideological forms which might emerge from such spontaneous movements can be recuperated by capitalism. This explains why communists must be inside the struggle to give out propaganda, proposals, be an active part in the organs of self-organised struggle: the workers' assemblies, agitation and strike committees and on the picket line. In doing so they must always try to provide a communist political framework at the same time as supporting every initiative which tends to the development of the self-activity of those involved." ( Theses on the Role of Communists in the Economic Struggle of the Working Class )
+
+Class consciousness doesn’t arrive spontaneously, it’s a process of reflection on the experiences of working class struggle both today and in the past. The political organisation is an expression of that consciousness. Without this work of political education and self-clarification, which has to be an ongoing collective process, revolutionaries would not know how to swim against the tide in a society where all the dominant ideologies correspond to the needs of capitalism. Without a framework many an activist groups have fallen prey to ruling class ideologies concerning nationalism, parliamentarianism, or now the pandemic. Here we only need to consider Brexit, Corbynism, or the spirit of being “all in it together”. Having said that, a political organisation can be a great carrier of revolutionary theory, but, if it doesn’t root itself in the life of the class, its message, no matter how correct, will fall on deaf ears and it will not be able to play a role in the struggles to come. This is where practice comes in.
+
+"… the tenuous links between revolutionaries and the mass of the class have to be deepened and strengthened. The political organisation has to adopt means to maintain its contact with wider layers of workers who may not yet consider themselves revolutionary but do know that they want to fight capitalism." ( Class Consciousness and Revolutionary Organisation )
+
+Through our website and our publications we analyse, promote and bring attention to working class struggles from all around the world. On the ground, if and when possible, it's the duty of every CWO member to get involved in struggles in their workplace and community – but without ever becoming paid organisers, union representatives, or struggle consultants (we don’t want to reproduce the division of labour between revolutionaries as “service-providers” and workers as “service-users”). Where it’s significant, we will report and reflect on our involvement. Since the 2008 financial crash, it might be a leisure centre in Stocksbridge , teaching assistants in Durham , universities in the North East , or couriers in Liverpool . Then there are all the usual pickets, rallies, protests and meetings to which we regularly bring the internationalist message – encourage self-activity and promote political perspectives beyond the isolated struggle. And let's not forget that we are part of an internationalist organisation, the ICT, which intervenes on the same basis in other regions of the world (in Italy for instance, noteworthy examples include the factory strikes in Pomigliano and Bologna ).
+
+Inevitably, due to our size, these interventions are limited, and, due to the balance of class forces, most of these struggles end in defeat (but then our class remains defeated for as long as we remain wage slaves!). At a time like this, when the working class is only starting to revive its struggles, the aim of our interventions has to be:
+
+"• to gain experience (certainly not a secondary consideration); • to politically present ourselves as an organisation which has the working class and its struggles at heart; • to involve contacts and supporters, to bring them closer to our work; • to nourish sections with new militants and sympathisers; • when it really is possible, to start work that will lead to the construction of internationalist groups in the workplace or in the community; • to begin to root in the working class the consciousness of the need for communist revolution." ( Our Intervention Within the Working Class )
+
+The internationalist message may not always be given a hearing, but this should not cause us to give up or try to create artificial struggles out of thin air. When the opportunity shows itself, when our class begins to move, we need to know what to say to our fellow workers as that’s when anti-capitalist ideas begin to resonate. To add to the confusion already out there would be entirely counter-productive. This is why the CWO, and the ICT as a whole, organises around a common Platform , the product of a discussion among comrades spanning decades. It's why, apart from simply collating data on struggles, we continue to analyse how the capitalist mode of production and its imperialist rivalries operate. If you agree with what we say, get in touch and help us build an internationalist political organisation worth the name. In the process, you will hopefully see that we are not just a bunch of “armchairs”!
+
+To conclude, we repeat what we said during our participation in No War But the Class War (NWBCW) in the lead up to the 2003 Iraq War:
+
+"We recognise our central duty of safeguarding and developing Communist theory and practice but this is an impossible task if we remain isolated and introverted. Communists can only defend and enrich their programme and organisation by interacting with social reality. We need to recognise the actuality of developing forces and develop theory and practice to relate to those developments. This applies both to underlying developments in the world economy and to those elements who are caught up in all kinds of social movements and are receptive to the Communist programme." ( No War But the Class War – A Mobilising Slogan )
+
+Class consciousness arises only when proletarian struggles transcend political consciousness—whether expressed through trade unionism, parliamentary activity, or projects aimed at transforming the political form of the state. Proletarian class consciousness is a distinct form of awareness that elevates and reshapes its strategic objectives.
+
+Proletarian revolutionary movement does not emerge from political consciousness. Rather, it arises from a social consciousness forged through deepening economic crises and recurring class confrontations within a specific historical period.
+
+The experience of Iran illustrates this dynamic. Between 1999 and 2022, the proletariat engaged in continuous resistance. Yet it failed to develop effective means not to defend its rights, but to advance its struggle against the state itself. Political consciousness—in the form of the project to transform the state from a religious regime into a secular, democratic one—diverted and constrained proletarian consciousness. Traditional methods of struggle proved incapable of overcoming this impasse.
+
+More recently, however, the proletariat has begun confronting the state through new forms of action, including direct attacks symbolized by the use of fire. As a result, suppressing this movement became an urgent task for the international bourgeoisie. The American–Israeli–Iranian war was not only a response to the deepening economic crisis—already intensified by the crisis of raw materials and disruptions to trade routes through the Strait of Hormuz—but also an effort to contain the proletarian movement itself.
+
+This movement has emerged at the forefront of contemporary social struggles, posing a threat not only to the interests of the bourgeois state in Iran but also to the broader interests of the global bourgeois order. This movement also faced obstacles from nationalist and reformist currents, particularly the movement associated with Abdullah Öcalan in Türkiye and Syria, which sought to redirect the movement toward feminist slogans, thereby diverting it from its class-based trajectory.
+
+This topic certainly deserves a more detailed study. However, for the purposes of this discussion, we will confine ourselves to the points raised above, using them as a starting point for examining broader questions related to the global situation—across East and West, North and South.
