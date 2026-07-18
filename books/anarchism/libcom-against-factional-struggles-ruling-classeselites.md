@@ -1,0 +1,56 @@
+---
+title: "Against Factional Struggles Ruling Classeselites"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/against-factional-struggles-ruling-classeselites"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The polarization in the US following the Trump electoral victory is transformed to the ex-western bloc geography. The ruling classes&#039; inter class struggle reflects an underlying class struggle -- “uninterrupted, now hidden, now open fight ” (Marx) -- which is moving in a real-time speed and sur"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/against-factional-struggles-ruling-classeselites)
+
+Against factional struggles in ruling classes/elites The polarization in the US following the Trump electoral victory is transformed to the ex-western bloc geography. The ruling classes' inter class struggle reflects an underlying class struggle -- “uninterrupted, now hidden, now open fight ” (Marx) -- which is moving in a real-time speed and surely globally.
+
+The ramifications of the financial crisis and the banking collapse of 2008 will be felt for decades to come. The political economics of capitalist world has been suffering in terms of economic performances and profitability measurements since the general slow down trend with economic growth chart, in the early 1970s. Capitalism is an economic system that is inherently crisis-prone. The drive toward crisis is central to capitalism and to its continuity and expansionism or to its revolutionary end/change (Marxist argumentation and perspective).
+
+Almost half a century of continues crisis forced the capitalist system reshape and reorganize itself on all sociopolitical and economic levels; Series of world wide historic changes from collapse of the Bretton Woods monetary agreement to the collapse of the Eastern bloc, i.e. the end of Cold Cold War period, … meant to keep the cycle of capital accumulation as a basic system requirement for commodity production and business continuity.
+
+Thus, the economic crisis of 2008 in the center of capitalism, American state-capital composition, was continuity of what started in the capitalist world economy decades ago. However, it just manifested real historic decline in American state-capital dominance status in a real-time synergy. The deepening of crisis took forms in social upheavals like occupy street that brought to the front question of mass movement after decades of social silence. The occupy street movement, despite its lack of any radical or revolutionary perspective, proved the power of struggle and mass resistance against shuck waves of the state-run crisis management.
+
+American state-capital structure needed to reconsider its imperialist mode of operational action in the context of densifying crisis, in parallel with internal sociopolitical challenges, such Occupy street, unemployment issues, black life matters. The US's uncertainty for open militarist engagments made the NATO centric network's operations unable to lead the imperialist expeditions in the Middle East. The imperialist rivalry between the micro (Shia-Islamist states of Iran/Hezbollah… against Sunni-Islamist states of Saudi Arabia, Qatar, Turkey..) and the macro (Russia/China against the US and NATO members) powers launched a generalized war scenario for the region; Afghanistan, Iraq, Syria...
+
+A flaw in mechanism of systematized election box functioned in favor of a candidate who was not suppose to be elected by votes; Donald Trump. The flaw was that “one man one vote” election system apparently could override the direction and assumption designed in advance for outcome of the election procedure in a period political crisis; “one man one vote” election box mechanism without direct and brutal state machinery engagement in leading the “expected result “ functions not properly. The ruling class and political elite that was already divided on dealing the question of the US's political economics and its declining place in capitalist center, dived into deeper political crisis.
+
+The dynamic of capitalist order –crisis- forces American state-capital structures through, the visible gang of Trump, to move towards a new strategic line for “ American” politics locally and internationally. Trump and his gang in the White House modify the deep state political algorithms internally on issues like emigration crisis, labor cost (Health care reform) ..., and internationally on Issues like keeping or not keeping NATO structure, the US's imperialist position in the middle East, tactical approach to rival Russia while galvanizing tensions with main enemy and big creditor China.
+
+However, what is occurring in the US is happening in the rest of the ex western block: political crisis within the political elites and ruling classes breaks the old political configurations that were setup after the second world war; left - right political formations are not sufficient tolls any more to mange the inter political power struggles of the dominant classes for control of the society as a whole and working masses.
+
+The shock wave of political crisis within the ruling classes and political structures in the capitalist west transformed to the society and population. Sharing its own political crisis with masses and dividing the entire social fabric into two camps, at the moment, for and against Trump (racism/anti-racism, fascism /antifascism, Islamization/antiIslamization...) designed, first if possible to remove Trump and his gang and replace him with Clinton's gang and secondly resist the new political and military strategy. The coarse power of masses applied to achieve dirty political tasks of aggressive factional warfare among the capitalist gangs.
+
+Trump's political circus on Muslim ban was in line with re-configuration of the new military strategy with Islamist Iran, whose mini imperialist position took great leaps forward after the US's direct maneuver in the Middle East started by invasion of Iraq in 2003. The anti Trump section of capitalist order in the West (EU...) organized total state run propaganda setup ( media, Public services...) to manipulate masses for a political-ideological war against new American strategy that is basically targeting Islamist Iran's military/imperialist statues in the region.
+
+The protesting masses on the streets or participating in different action points with the leftist agenda against the right-wing Trump belong to the proletarian masses from a socioeconomic-all point of view. Confused through mass ideological warfare of the capitalist right and left, the proletarian community's real social being and political existence is basically determined by the antagonistic dynamism between capital and labor relationship: The community or class that constructs labor-source and surplus-labor in social reproduction process organized trough the generic capitalist mode of production.
+
+At the moment, a proletarian perspective as the only rational perspective against this historic crisis within the dominant class' hierarchy is completely absent. Contrary to any proletarian perspective, workers, students, unemployed... are trapped in the political field of ruling class' inter-class power struggles. The political and ideological elites succeed to transfer its own “identity” crisis into the population including working people; the identity politic, as ideological mechanism, is cutting/dividing the proletarian masses/community to pieces; races/gender/color- line/ethnicity/religion...
+
+The political convulsion around an axis of “anti Trump/ for Trump” thought within the ruling classes and its political elites, aims to divide the social fabric on the dummy question of democratic rules. The generic attempt is how deep American community and ex western block societies can be disrupted on both sides of Atlantic; Fascism/populism. But there is a more dangerous ideological thought behind this “new” line: Integration of proletarian population to two political camp. For or against Trump; factional fights within the ruling classes.
+
+In this context, any dangerous idea about white, black, brown... division and identification of the proletarian community facilitates only ruling class's dominant social place. Ironically, "Obama administration's " master fully transformed Martin Luther King, Jr." I Have A Dream" to a nightmare in racialization of American society, and influenced the rest of the western world and solidified an academic laboratory simulated artifact of “identity politics”, back from 1990s to a global political standard.
+
+It seems in harsh reality of crisis/capitalism management, the racialization (racism/antiracism) of entire political environment and its globalization operates as a fallback procedure for the political elites – particularly in ex western bloc- to deal with its own politia in an age of irresolvable socio-economic difficulties: The lack of any new political-ideological approach to contain the existing order. Re-alienation through dichotomy of group identity ( race, ethnicity, gender, religion...) and class line identity ( derived from Marxian labor-capital antagonism) artificially recompose social stratification in terms unifying antagonistic social classes or groups. A unification that is not antagonistic to structural hierarchy in social interaction that is built on “master” and “salve” relationship in a capital dominant commodity production environment.
+
+Populations' complete political alienation in a moment of ideological and political performance for election results is established in materially confronting an already separated political power; the state. Thus, proletariat's (simple and complex labor population) voting engagement for right or left of capitalist system, in this case Trump re-alienate them and the circle of separation from class identity completed: The galvanized political alienation in a ballot box atmosphere, paves the way for unconscious and false empowerment euphoria among participant masses.
+
+Political crisis: considering the context of urgency, the ideological machinery centered around racism/anti-racism (fascism/antifascism) is a set-up throughout the old "western block" to politically disarm workers and population against up coming sociopolitical and economic failures. It seems that the only existing and reliable political configuration – right-left political labor division - at the time of political crisis shatters the class unity of ruling classes and political elites to pieces, who is straining his eyes for a survival perspective.
+
+The generic Population compromising the labor source and surplus labor – marxian proletarian class - ”black”, “white”, “brown”, “yellow”... - can't find, under no circumstances, its class line interest and perspectives with ideological-political identities created through sections of ruling classes. Against the manipulative and destructive identity politics or race/religion ideologies – racism/antiracism/Islamism -, the class line identity remains the only historic and solid protection for working masses, the proletariat, in a time of war or peace, and in any other operational mode of capitalist system.
