@@ -1,0 +1,61 @@
+---
+title: "Design Constitution Rsfsr Yakov Sverdlov"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/design-constitution-rsfsr-yakov-sverdlov"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Translation of Sverdlov&#039;s speech, on the election of a Constitution Drafting Commission. Source: from the report on the meeting of the (All-Russian) Central Executive Committee, 1 April 1918."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Sverdlov О ВЫБОРАХ КОМИССИИ ДЛЯ РАЗРАБОТКИ КОНСТИТУЦИИ СОВЕТСКОЙ РЕСПУБЛИКИ.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/Sverdlov О ВЫБОРАХ КОМИССИИ ДЛЯ РАЗРАБОТКИ КОНСТИТУЦИИ СОВЕТСКОЙ РЕСПУБЛИКИ.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/design-constitution-rsfsr-yakov-sverdlov)
+
+Scheme of central soviet organs, composed by Sverdlov during the work of the Constitution Drafting Commission, April 1918. Translation of Sverdlov's speech, on the election of a Constitution Drafting Commission. Source: from the report on the meeting of the (All-Russian) Central Executive Committee, 1 April 1918.
+
+There is a 3 volume collection of Sverdlov's articles, speeches and letters: Я. М. Свердлов. Избранные произведения. Тт. I-III. Moscow 1957 - 1959. 396 pp. (vol. I), 330 pp. (vol. II), 274 pp. (vol. III).
+
+Only volume one ("Том 1", up to March 1917) can be found online. Examples of articles Sverdlov wrote: ' What is a workers' party? ', 'Mass exile (1906-1916)', 'The split in German Social Democracy', 'Essays on the history of the international workers' movement', ' The crash of capitalism ', and so on.
+
+Fortunately there is an older collection online (Избранные статьи и речи: 1917-1919, Leningrad 1939) in which the present document features.
+
+For a detailed overview of how the constitution was written, see this 2003 chapter by O.I. Chistjakov: Конституция РСФСР 1918 года . Basically it seems Sverdlov (as chair of the 15-member Constitution Drafting Commission) efficiently managed the process (taking three months).
+
+О ВЫБОРАХ КОМИССИИ ДЛЯ РАЗРАБОТКИ КОНСТИТУЦИИ СОВЕТСКОЙ РЕСПУБЛИКИ. Из доклада на заседании ВЦИК IV созыва, 1 апреля 1918 г.
+
+Already at the Second Congress of Soviets the question was raised about the design of a Soviet Constitution and some general provisions were adopted, regarding the establishment by the Second Congress of the body of the CEC [Central Executive Committee (of the Congress of Soviets)], on the one hand, and the Council of People's Commissars [Sovnarkom], on the other. Subsequently, at the Third Congress, the same question stood, but in the period between the Second and Third Congresses we had outlined a small scheme of the establishment of the CEC and Sovnarkom. Those comrades, who were in the CEC at the time, will remember that we exchanged [views] with the peasants and peasant executive committees. We had outlined a scheme, where it was stated, that the CEC may at any time request reports from representatives of Sovnarkom, as well as from the whole Sovnarkom: the CEC has full power to remove and replace the Sovnarkom in parts, as well as as a whole. There was made some distinction between the spheres of activity of Sovnarkom and the CEC. The general meaning [of which] is, that every decree, which carries principal significance, can pass through the CEC, and only decrees having no principle, no general significance, as a separate disposal, can proceed from Sovnarkom, and at the Third Congress some general framework of the Soviet constitution was outlined.
+
+At the Third Congress of Soviets it was stated that the supreme body is the Congress of Soviets, and between congresses – the CEC. Sovnarkom is [/can be] removed and elected by the CEC. A number of general guidelines was specified by the Third Congress of Soviets, but these common basic provisions could be sufficient for us only in the period when we had a common aggressive policy against our bourgeoisie in the period when one part of Russia battled another. Up to the Third Congress the fight with [Alexey] Kaledin was not finished.
+
+In addition, the fact should also be noted that similar issues [of policy] are resolved both in Sovnarkom, and in the CEC, depending on where these issues fall. In the CEC one seeks resolution of such issues, which Sovnarkom should resolve. Such issues the CEC should transfer to Sovnarkom. But this is not always done. If we find ourselves in a position, when we are competent to resolve some issue, we solve it. Sovnarkom does the same thing.
+
+A number of decrees Sovnarkom passes; unless there is protest by the CEC, the decree becomes law. It is necessary to more or less accurately distinguish between the organisational work and the activity of the plenum. This applies not only to the center, but relates in full measure also to the local councils. You, comrades who have worked in the local councils, know perfectly well how are entangled there the activities of the working body and the plenary [ie full] council. Hitherto, as long as we do not create any fixed position, in order to distinguish between the activities of the working body and the plenum of councils, we will be constantly confronted with the fact that the two institutions are homogeneous in their tasks, resolve issues both here and there, wherewith if both institutions resolve one and the same issue, that does not yet mean, that they resolve it in equal fashion. There may emerge conflicts, contradictions in resolving one or other practical issues. This is certainly not desirable.
+
+To eliminate such phenomena there must definitely be a more precisely fixed designed constitution.
+
+Finally, let us take such a question, as about the sphere of competence of the various organs of Soviet power. We have central Soviet authorities, regional authorities, local Soviet authorities, and it is necessary to precisely delineate the sphere of activities of these separate authorities – central, regional and local. Very often we can observe the phenomenon where a number of provinces are united in a region and create institutions, entirely similar, parallel to those which the central Soviet authorities created. Very often we can see that these institutions are carrying out competing work. Take, for example, the question of food, we see that there is a regional Soviet association, as for example the Ural Association, the Central Industrial Association, the Moscow one, currently singles out the Northern area as a region, a whole number of other areas create regional food agencies, regional Commissariats of food. Along with the existing Central Commissariat of food, which cares about the proper distribution of the consumer goods across the whole of Russia, keeps a record of the entire inventory in consumption stocks across the whole country, distributing them according to the general plan for the whole of Russia and sends its agents to those places, where they can get these or other consumer goods, the same work with respect to the regions is done by the regional Commissariats, and very often we get the following picture: in some places – in Siberia, as in the grain area, or in the south – there are agents, which were sent both by the central authority, as well as by regional authorities. Each of the agents attempts in opposition to others to buy for their region much larger number of products, than is possible to buy by others. The situation is absolutely intolerable. We need somehow to draw a distinction between the functions, activities, competencies of individual regional agencies. Only in this way we will create something whole. Having developed, fixed the exact position on the functions of individual organs of power, we destroy the confusion that exists in our work.
+
+There one has to point to the circumstance, that very often as a result of this state of affairs one expends a lot more energy, human energy, human material to carry out any work. There are, for example, a parallel number of institutions, that perform the same work, each of these institutions laments the lack of business-like, genuine workers in their institution; parallel with their's there is another institution, among which are heard the same cries on the lack of people, on the need to attract workers, and so on. But by uniting these institutions, we would be able to create a full-fledged institution, tightly knit, perhaps with enough workers. If only these parallel existing institutions merged into one general institution, that performs the same work, which a single institution should lead, if there were no other institutions, that in parallel do the same work, then we would get a huge saving. There should be a likewise strict delimitation of the sphere of activities, only in that manner is it possible to save human material. In addition, it is still necessary to point out another extremely important circumstance, that forces us to put now in a hasty fashion the question on the design of a constitution. We are all perfectly aware, that only thanks to the closest ties with the masses of workers and peasants we are able to carry out all the events, that we schedule: only insofar as we are able to select from the mass a sufficient amount of active, conscious workers, able to practically implement the scheduled events, insofar as we have a cadre of such comrades – can we say, that the matter is secure.
+
+But, in order to have such a trained cadre for business-like work, to govern the country comrades, we need to attract a much larger segment, than at present, into our work, into the matter of running the country, into the nationwide work. Therefore we have to pay attention to those comrades, to whom we entrust the design of the constitution, to that circumstance, that with the drafting of the constitution it is necessary to build Soviet power in such a way, that it not only would make it possible to work, but [also] to attract a much wider range of working people into the direct management of the country. This one can achieve only if we take as a general principle, as general provisions the following: each member of a council, each member of an executive committee, whether it be the CEC, or local authorities, should bear some particular Soviet work and be responsible for it.
+
+I recall that we, in the Bolshevik fraction, carried out these basics. Each member of the organisation, of the fraction bears party work, and outside active participation in bearing the obligations of party work can not be a member of the party, and we have a point in the statute, requiring each member to work in the party. The same principle should be taken with regard to a council and executive committee. Look what is done in the CEC. It is elected every three months. The main core [of members of the CEC] remains unchanged, but the composition of the CEC is changing. If we forced each member of the Executive Committee to take part in the direct work of managing the country, then we at every three months could release a cadre of workers into the field. Each member of the CEC, having carried out responsible work, arriving in the field, can, guided by the experience which he acquires in the course of three months, lead work in the most correct way, [and] on his return to the field can serve as a bridge between the local and central authorities.
+
+Creating a cadre of knowledgeable, smart workers, in practice adapted to the management of the country, will be a huge acquisition.
+
+These basic provisions should serve as material for the design of that constitution, that we need.
+
+With us the dispute does not arise, whether or not to design a constitution. Insofar as the decision of Third Congress was not removed by the Fourth Congress, insofar as the decision is binding for us and should be implemented, likewise was indicated a body, to draft the constitution. In this regard there cannot be a dispute... Maybe, we will not take any guidelines, but limit ourselves to an exchange of opinions, which will serve as material for the work of the [Constitution Drafting] Commission.
+
+Третье заседание ВЦИК, 1 апреля 1918 г. Протоколы заседаний ВЦИК. Стенотчет, стр. 66—70, ГИЗ, 1920 г.
