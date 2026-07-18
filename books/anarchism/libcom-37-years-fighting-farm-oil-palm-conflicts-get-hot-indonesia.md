@@ -1,0 +1,62 @@
+---
+title: "37 Years Fighting Farm Oil Palm Conflicts Get Hot Indonesia"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/37-years-fighting-farm-oil-palm-conflicts-get-hot-indonesia"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "In moments of occupation there is a temporary freedom when the company cannot operate, and the people have to decide how best to use that freedom."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/37-years-fighting-farm-oil-palm-conflicts-get-hot-indonesia)
+
+Where is everyone? Do they no longer believe it is possible to win? In moments of occupation there is a temporary freedom when the company cannot operate, and the people have to decide how best to use that freedom.
+
+Oil Palm: the ill-famed monoculture converts the islands of South East Asia into one big plantation, as commodity capitalism continues its troublesome advance over Indonesia and Malaysia's rural areas. The rainforests fall, to be replaced by oil-fields, as in distant capitals politicians with their eyes shut proclaim a new green biofuel, and the trees keep falling. Yet the effects of the industry are not limited to ecology. Where there is oil there is conflict, and that is true for the oil that grows on the ground just as much as for the oil that is mined from under it. In the Indonesian Province of North Sumatra, nearly every oil palm plantation is a zone of friction. The palm trees are all planted on stolen land, and farmers are desperately fighting to get their land back.
+
+Sunday, November 22 2009: Around 20 people are in the bamboo shelter they built, at the entrance to the oil palm plantation, at the edge of the land which they are trying to reclaim. This 525 hectares of land belongs to these people. They own the land title, and a Supreme Court ruling confirmed that the land does indeed belongs to them. Nevertheless, the discussion this afternoon is about the best way to continue with the occupation of the land. There is no time to waste. Tomorrow will have to be action day.
+
+It's a serious discussion because there are deadly dangers: over the last months the company has employed many armed thugs to work on their behalf, as well as police and military and any occupation could quickly become a bloodbath. And numbers are low - in the week since the first phase of occupation started, not all affected farmers have been active in their support. Since the last attempt to regain the land ended in eviction, it has taken a long time to build up motivation again. Where is everyone? Do they no longer believe it is possible to win?
+
+Already it has been ever such a long battle. It started back in 1972, in the grim early days of the Suharto dictatorship, when 525 hectares of land was stolen from the farmers who worked it and given over to one of the state-owned plantation companies, PTPN II. Their crops were destroyed, their homes burnt to the ground.
+
+The people complained, demanded compensation from PTPN II. They were offered a tiny amount, and then only if they would surrender to the company the right to work the land; otherwise they would be labelled as communists. They refused, of course, but that was effectively the end of the matter, because at that point in history there was nowhere to run once such a label had been conferred. General Suharto had come to power seven years before supported by the US and UK, and (apparently with the consent of those two western powers), proceeded directly to slaughter at least half a million members of the Indonesian Communist Party. His military government kept the population living in terror for the next few decades, that massacre an enduring threat looming over any who should contemplate resistance.
+
+Then in 1998 the economy collapsed, and the rebellion which had been itching to break out for a few years was finally ignited. The uprising quickly spread across the archipelago, and by and by Suharto had to go. In the wake of his fall from power new movements blossomed throughout Indonesia, as people everywhere seized the opportunity to readdress past injustices and ride the euphoric wave toward a different future. In North Sumatra, the many different communities that had been dispossessed from their land started trying to get them back. Twenty-eight years working for someone else in a factory or a plantation, or eking out a living selling things on the streets, had not diminished the desire to be a farmer once more. One of these communities was the rightful owners of the 525 hectares that had become known as Persil IV, in Deli Serdang regency.
+
+For the first several years the battle took place in the courts, but it got nowhere. Or more properly put, nowhere concrete, for despite winning a technical victory, the farmers did not get access to freely farm their land. It is true, the decision of the Indonesian Supreme Court did uphold the farmers' claim to land ownership. But when PTPN II appealed, the court also conceded the plants that they had sown on that land belonged to the company. By that point the whole area was under oil palm, the emerging new wonder crop that promised to transform the Indonesian economy.
+
+If the people own the land but the company owns the trees – who gets to farm the land? The answer will not surprise many: whoever can wield the most force. The company simply made a deal with the police, military and local mafia to work together and the farmers were denied access to their land once more. The crops they sowed between the palm trees, clearly within their legal rights according to the court's decisions, were ripped out of the ground.
+
+The cold war ended and new wars started, but the pattern of repression didn't change. Indonesia has not yet gone through a process of addressing the massacres and genocides of the Suharto New Order Regime – too many politicians and generals in power today were too deeply involved back then. So Indonesian state companies can continue with impunity to reap a profit from land stolen under the threat of mass murder. The violence of the present draws its authority from the violence of the past.
+
+In 2006 the farmers of Persil IV asked for support from students from nearby universities, and together with them made the decision to shift their focus away from the false hopes of the courtroom, where justice is handed out to those with money and power, and towards direct action instead. Land occupations had also taken place during the legal battle, but now it became the main strategy to recover the land. A new, less hierarchical organisation was formed, GerakanTani Persil IV Deli Serdang (Persil IV Farmers' Movement) and eight students opted to live in the community and on the occupied land, to support the struggle and as an attempt to deter aggression from authority.
+
+In 2007, people employed by PTPN II destroyed the crops that farmers had planted between the palm trees. A few months later their field office was also burnt down, in a moment when it was empty. Through such events the farmers began to lose patience and there were several instances of open confrontation.
+
+But it was this momentum allowed for a longer lasting occupation to take place towards the end of 2007 lasting into 2008. A wide range of crops were planted: cocoa, chilli, corn, cassava and rubber, and some oil palm trees were destroyed making a chaotically fertile liberated zone amidst the sterile rows of oil palm monoculture.
+
+In moments of occupation there is a temporary freedom when the company cannot operate, and the people have to decide how best to use that freedom. There was some disagreement on what to do with the oil palm fruit. Part of the community were in favour of harvesting the company's fruit, and selling it themselves. But another part of the community resisted this tendency. They fervently believed that stealing this fruit would only lead to dependency on the oil palm trees, and would therefore weaken the militancy of the resistance.
+
+This other camp believed that the way to beat PTPN II was to kill the palm trees. Various methods were tried – they experimented with lighting fires at the base of the palm trees, and this worked, but too slowly. Chainsaws are very loud, it draws too much attention to use them. In the end they reluctantly accept that using poison is the only viable way to kill trees in sufficient numbers, but they experiment to choose a poison that will not destroy the land after the trees are dead.
+
+The 2008 occupation was eventually evicted by over 100 company thugs, chasing away the people, burning their shacks once more and cutting down the plants. Since that time there has been a high level of intimidation to dissuade the people from trying anything new. Almost every night these thugs would drive along the local roads on motorbikes, dragging their swords along the road so that the loud scraping noise and a trail of red sparks would scare people.
+
+There have been several violent incidents in the course of the Persil IV struggle. In 2003 Pak Jali was severely injured on both arms in a clash. He had to remain in hospital for a month while his arms were filled with metal and even now his movement is limited. In 2006 there was another incident where police drove a tractor into a group of women who were trying to defend their land.
+
+These incidents are serious, but other villages fare even worse. In 2008, in the neighbouring village of Bintang Bulan, Adi Surianto was killed while being tortured by a policeman and company guard. PTPN II also controls the land there. Just a few months ago in Kecamatan Salapian, just the other side of Medan, a man was stabbed to death by a sword during a clash on a land occupation. I asked the local human rights NGO about other cases, they said that there were so many conflicts that it would be almost impossible to track all the cases of violence, but there were many. It is a war to be able to live as a farmer. Everybody knows the risks and still they fight.
+
+After more than a year without being able to maintain an occupation, spirits had been starting to dwindle. Many of the students had to return and finish their courses, and the level of repression on the land was continuously high. Those who still had energy had to struggle to convince the others that it was still worth fighting, but in the end people stuck with it. The day of the occupation phase II over 100 people showed up to take the land, and the company stayed away. But people now are not in the mood for prolonged struggle any more. This time they have to win, and people unanimously agree, the only way to do that is by militancy and killing the oil palm as fast as possible. There have been so many well-meaning attempts at advocacy, at courtroom battles, at peaceful occupations, but the only case nearby where farmers have successfully got their land back was when they went for all out war: faced the company down with long swords whilst cutting down the palm trees. It is a dangerous path to take, but the people of Persil IV see no other. They take the land, defend themselves with bows and arrows and destroy the trees as fast as possible.
+
+According to someone who works on land conflicts in a Medan-based NGO, in nearly every oil palm plantation in North Sumatra there is a community that has been dispossessed and in nearly every case that community is still struggling to get the land back again. Several land occupations are ongoing at any one time and there are heavily armed police, military and private thugs that defend the company's investments.
+
+Some of the problems associated with the rapid spread of oil palm are becoming increasingly well known outside of South East Asia, largely due to the actions of some large international NGOs which draw attention to the rapid destruction of the forests. They do also draw attention to human rights abuses, but what sometimes escapes attention by the time the story travels around the world is that these human rights abuses are in the context of popular struggles for land. People across North Sumatra decided back in 1998 to rise up and reclaim their land, and with much bravery and resilience are resisting to the present day. They run great risks, but consider it worthwhile in order to return to the relative security and autonomy of a farmer's life.
