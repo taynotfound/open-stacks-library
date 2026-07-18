@@ -1,0 +1,56 @@
+---
+title: "Why Prisons Are Built Schools Are Closed Down Arturo"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/why-prisons-are-built-schools-are-closed-down-arturo"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by Arturo of Facing Reality Collective about how austerity and mass incarceration are related."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/why-prisons-are-built-schools-are-closed-down-arturo)
+
+An article by Arturo of Facing Reality Collective about how austerity and mass incarceration are related.
+
+The crisis of the public education system is one of the many great disasters of American capitalism. In the city of Philadelphia, this disaster has reached an unprecedented level. Over the summer, the governor-appointed School Reform Commission (SRC) approved budget cuts that included the laying-off of 4,000 school workers and the closing of 23 public schools, disproportionately in black working class communities. Many schools across the city started the 2013-2014 school year on September 9th with half the staff and double the students they had last year. This means as many as 50 students per class, students sitting on the floor because there are not enough chairs, digging through garbage because there is not enough paper, no librarians, no ESL programs, and no guidance counselors.
+
+In a press conference in May, Thomas Knudsen, the Chief Recovery Officer for the SRC, declared that the SRC will “close 40 schools next year and an additional six every year thereafter until 2017.” The Philadelphia public school system will make history when it permanently closes all its doors in the coming years, and is fully replaced by the charter school system, which is privately operated, more profitable, and much more effective in controlling and disciplining students. School closures in cities like Philadelphia, Chicago and Detroit are not isolated cases. What is happening in these cities today is a sign of what will happen in many other cities through the U.S. tomorrow.
+
+The closures of the public schools must be understood within the context of the ongoing capitalist crisis. The capitalist system is periodically and systematically threatened by economic crises. Unable to prevent or fully control these inevitable crises, yet needing to hold onto power and preserve the capitalist system, the ruling class has to reorganize society as a whole. This is a reorganization of the means of production, but also of the institutions that reproduce capitalist social relations, such as schools, public assistance programs, prisons, etc. The ruling class reorganizes the capitalist system not simply just to reduce costs and maintain profits, but also, in order to control and discipline the workers and keep us all in line in the long run.
+
+As working class people, the concessions we have to make in times of economic crisis are never in the interests of society as whole, but only in the private interests of the capitalist class. In this current period of neoliberal reorganization, we are forced to make many concessions for the benefit of the capitalist class and its system. We are paying higher prices for goods and services, while our wages are cut, or we are simply laid off. We are paying higher taxes to the government, while government programs that we are forced to rely on are cut. In short, our standard of living is being driven down by the dismantling of the social-welfare state.
+
+In Europe, the policy of cutting social-welfare budgets during economic crises is known as austerity. Austerity policies have been gaining ground in the U.S. since the 1990s, and increased with the beginning of the recession in 2008. All over this country, food stamps and medicare programs are being cut, public sector jobs are being eliminated, and free public education is being shut down. As a reflex of the crisis and reorganization of the capitalist system, austerity is a way to discipline the working class, tie us to our subservient class position, and maintain the rate of profit.
+
+There is of course glaring inconsistency within the policies enacted in the name of austerity. While funding for public schools and social programs is drastically cut, there is still plenty of government money for prisons and police. Whereas 35 years ago pennies where spent on prisons, and millions were invested in public education, this is no longer the case. Instead of funding public schools and other parts of the social-welfare state, tax money increasingly goes to building new prisons and policing institutions. In Philadelphia alone, millions upon millions were recently spent to construct a Youth Jail at 48th and Haverford; $200 million is going into a new police roundhouse at 46th and Market; $9.5 million for a spy center in South Philly; and $400 million for a new prison in Montgomery County.
+
+Many people rightly point out the hypocrisy of closing 23 schools in order to “balance the budget,” while spending millions upon millions on the police state and the prison system. Yet few people give a historical explanation of why this incongruous application of austerity is taking place. If we cannot provide a historical and structural explanation, then we cannot develop an adequate strategy for fighting the school closures, the prisons, the police, and the capitalist system as a whole.
+
+To fully understand the disaster of public education and the rise of the prison-police state, we need to look at how the capitalist mode of production in the U.S. has changed since the public school system was first created. It is no coincidence that public schools were first established on a large scale in the late 19th century, when the U.S. economy was really starting to industrialize. Public schools were needed to train and prepare working class youth in the manual and intellectual skills necessary to enter the growing industrial labor force at that time. Yet more than mere technical training, public schools also functioned as a means of social reproduction and discipline. Public schools were a way to maintain a more productive working class by 1) legitimizing the emerging system of industrial production in the minds of those whose labor it depended on; and 2) diffusing class conflict between the workers and the capitalists (which, unlike today, was at a very high level in the late 19th century).
+
+However, little more than a century after the public school system was first established, American society has changed in fundamental ways. Industrial production for the most part disappeared as a result of the rise of automation in once-skilled fields, and the out-sourcing of millions of manufacturing jobs to cheaper labor markets in countries like China and Mexico. Because of this economic restructuring, most American workers no longer have high wage jobs—90% of the jobs created since 2009 have been part time and low wage. In contrast to the term “reorganizing,” the term “restructuring” is a more accurate description of the shift that has taken place in the mode of production and the international division of labor, not just the superstructure built upon it.
+
+Whereas thirty or even twenty years ago most working class youth could find jobs in the factories, today there are few jobs to be found. Those few jobs that do exist are mostly in the low-paying and unskilled service industry. This situation has resulted in increased poverty and instability in the working class, especially among young people. Today there is a large population of unemployed or semi-employed surplus workers with little to no use to the capitalist system. This is a big part of the reason behind the school closures.
+
+For the capitalist class and its state apparatus, the disappearance of a growing industrial labor-force has lessened the need for public schools (and other social-welfare institutions) to reproduce the next generation of workers. Instead, the capitalist class in Philadelphia, as in other cities, is increasingly funding the reproduction of the next generation of bosses, administrators, police, and other guardians of the capitalist system. The privately operated charter schools are much more effective than public schools in facilitating the development of this managerial class. As for working class youth in public schools (and even in charter schools), who are not destined to become future bosses—these youth are increasingly criminalized and stigmatized.
+
+The deep structural changes that have unfolded over the past few decades have contributed to the criminalization of the working class. The inevitable dismantling of the social welfare state can only intensify this criminalization. With lower wages, less jobs, and less public assistance, proletariats are forced to survive outside the law, in open antagonism with the state. The prison and policing systems have grown to absorb and contain this substratum of unemployed and barely employed workers. This is a big part of the reason why the prison population has increased tenfold since 1980. However, it must be strongly emphasized that the prison-police state has gained ground not in response to rising criminality, but in response to the social insecurity spawned by the restructuring of the capitalist system.
+
+This piece is hopefully the start of a much larger and more in-depth discussion. It has been argued, in very limited space, that the contraction of the social-welfare state, and the expansion of the prison-police state, are structural realities resulting from the inevitable crisis of capital, and the reorganization of the capitalist system. Moreover, the dismantling of the social-welfare state and the rise of the prison-police state serve to 1) reinforce the dominance of the ruling class; and 2) maintain the long term accumulation of capital.
+
+We cannot change these structural realities by defensively struggling to save the social-welfare state. Fighting for a return to the “golden age” of welfare capitalism is a hopeless battle. We should wholeheartedly participate in the struggles against the school closures, against the budget cuts, and against other parts of the capitalist restructuring process. However, our role in these struggles should be to organize a pole that can break with liberal hegemony, not reinforce it. We should make use of every victory possible, but we must also realize that the decimation of the social-welfare state, and the development of the prison-police state, will continue regardless. If we want to escape the disaster that the ruling class is imposing on us, the only way forward is to build the organizational base and political foundation for the overthrow of capitalist society and the building of a new world.
+
+Originally posted: October 17, 2013 at Facing Reality Collective
+
+great article, presumably creating alternate forms of social reproduction is urgent, what about the possibilities of creating an alternate political education system, presumably some of this is going on already
+
+what about an online version for secondary school kids for 14-18, which seems to be around the age they get filtered off into either managerial class potential or prison fodder
