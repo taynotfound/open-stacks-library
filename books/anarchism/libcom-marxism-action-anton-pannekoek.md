@@ -1,0 +1,47 @@
+---
+title: "Marxism Action Anton Pannekoek"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/marxism-action-anton-pannekoek"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "1915 call to action by left communist Anton Pannekoek."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Anton Pannekoek- Marxism as action.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/Anton Pannekoek- Marxism as action.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/marxism-action-anton-pannekoek)
+
+“Until now, the philosophers have only interpreted the world in various ways; the point, however, is to change it.” Karl Marx, Theses on Feuerbach
+
+Scientific theories do not emerge from the pure and dispassionate thoughts in men’s heads. These theories serve practice, and are established in order to clear the way for men’s essential practical tasks. They even arise as a result of practical needs, and change their form if the environment, society or needs change. For this reason, the same doctrine can assume completely different colorations over the course of time. What a great difference there is between the Christianity of the first centuries A.D., of the Middle Ages, of the various Protestant churches of the Reformation, and that of the free-thinking bourgeoisie of the 19th century.
+
+The same thing is true of Marxism. Despite being a straightforward scientific theory, it has nonetheless taken on diverse appearances, in accordance with the needs of successive epochs.
+
+Marxism was the theory of the end of capitalism. Marx, as he wrote in 1847 in the Communist Manifesto, called upon the proletarians of the whole capitalist world: “Proletarians of all countries, unite!” And he did more than call for unity, something which had already been done by many others for very different ends. He also contributed a theory to the proletarians which showed them their goal, which explained society to them and which gave them the certainty of the success of their endeavors. This theory was historical materialism.
+
+Historical materialism analyzes the activity of men in history on the basis of their material relations, and above all, their economic relations. Since men do not act unconsciously, but through the medium of thoughts, ideas and goals, the latter are always present in their actions, which is to say that these thoughts, ideas and goals do not emerge on their own, accidentally, but that they are the effect of those same social relations and needs. If an economic transformation is required, if the old conditions are outmoded, this always generates in the minds of men the consciousness of the impossibility of the permanence of the previous conditions and the will to change them; this will irresistibly clears the way by means of action and determines practice. For all these reasons, the proletariat not only needs to realize a better order; historical materialism gives the proletariat the certainty that such an order will come, since the development of the economy contributes to and makes possible its attainment. In this manner, socialism ceases to be a utopia and becomes a science.
+
+Some who reject this view, who did not understand this doctrine because it constituted a powerful denial of their extremely rigid opinions, accused it of fatalism and said that it reduced man to the level of a puppet with no will of his own. They were incorrect, as we have seen. But the fact that they had fallen prey to this error was, nonetheless, also partially the result of the particular characteristics assumed by Marxism during its early days. Marxism has two parts: man is a product of circumstances, but man in turn modifies those circumstances. Man is only the agent of economic needs; but these needs can only be changed thanks to his activity. Both parts are equally correct and important, and together they form a complete theory. But one or the other part must be emphasized according to the circumstances.
+
+During the era of harsh persecution after 1878, when everything seemed hopeless, when so many leaders deserted or were unfaithful to the cause, when the ranks of the fighters were severely decimated, when those who stood their ground were losing courage, then Marxism would not have given them the confidence in or the certainty of victory, or the determination they needed, if it had not stressed the fact that over the long term human efforts must yield before the power of economic destiny. Over the ensuing period it had to place a great deal of emphasis on the fact that great political changes would only be possible when economic development was sufficiently advanced. Allowing things to mature then had to be the theoretical solution, and this is why Marxism adopted the form of parliamentarism, against anarchism. Marxism thus served as a theory of the complete dependence of man in respect to economic relations during the years of its numerical weakness, providing the socialists with a secure guide for their tactics.
+
+Historical materialism therefore necessarily had to assume a powerful fatalistic accent, and this can be clearly seen in the spirit of the leaders and theoreticians of that era. To wait, to undertake propaganda in the meantime, to organize the growing proletarian masses, since the circumstances required this, was the tactic. And the theoretical works of that era, especially those by Kautsky, show us the predominant power which was conceded to economic relations in history.
+
+All of this was consciously undertaken during those years, even when the economic conditions became favorable for a stronger insurgency of the working classes. This may seem contradictory, but is quite understandable. When it became politically necessary to take up new tactical methods, to mobilize energetic action on behalf of important fundamental rights; when imperialism grew threatening with the approach of serious crises and the masses fought for the right to vote; when all these things took place, the leading circles of the Party became increasingly aware of the danger which these new tactics—which would be violently confronted by the forces of order—posed to their usual peaceful activities. Then they went into reverse, they made the masses retreat and opposed those who continued to advance. Kautsky put forth the theory that it was anti-Marxist to incite the proletariat to such actions, that only the anarchists and the syndicalists incited them in that manner, that the true Marxist must know that the circumstances have to mature on their own without being forced. It was in this way that, while the vast majority of the Party bureaucracy paralyzed all the Party’s living currents, and the Party’s tactics became frozen, its theoreticians defended the universally revolutionary doctrine of Marxism as a sterile fatalism. Why engage in action, which brings in its wake so many perils, if economic development itself must push us forward automatically and without any danger, if our strength will continually increase and if power will finally fall into our lap like a ripe fruit?
+
+The workers who accepted this sort of Marxism have never, up until the present day, done anything contrary to such theories. The enemies of social democracy were not so fatalistic as to allow things to mature of their own accord, until Germany’s economic development would by itself grant them the position they sought in world affairs. They knew that they would have to fight to achieve their goal, that without a struggle nothing can be gained, and for many years they seriously prosecuted this struggle. The proletariat let themselves be led, they let themselves be deceived by the artificial uproar and noise of the great electoral victory, and stayed the course.
+
+But now is the time to bring to the fore the other part of Marxism which has been so neglected; now, when the workers movement must find a new direction, in order to overcome the narrow views and the passivity of the old era, if it wants to overcome the crisis. Men must themselves make history, or else history will be made by others for them. Of course, they cannot build without taking the circumstances into account, but they build nonetheless. Man himself is the element which can actively shape history. In effect, the economy must condition him, but he must act. Without his action, nothing happens; and acting in the sense of changing society is something very different and much greater than depositing a vote in a ballot box every five years. A new world can by no means be built so easily. The human spirit is not just the product of economic relations, but is also the cause of change in those relations. Great changes in the mode of production (such as, for example, the passage from feudalism to capitalism, and from the latter to socialism) only take place when new needs influence man’s spirit, and lead him to a particular form of desired action; when this will to action becomes effective man changes society, for the purpose of making society meet his new needs. Marxism has taught us how our predecessors, by changing their world, were driven by social forces; now it teaches us that today’s men, driven by economic necessity, must get to work if they want to change the world.
+
+From Collective Action Notes. Originally published in Lichtstrahlen, 1915
