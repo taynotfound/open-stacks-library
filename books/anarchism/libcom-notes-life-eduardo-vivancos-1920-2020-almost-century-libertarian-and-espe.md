@@ -1,0 +1,46 @@
+---
+title: "Notes Life Eduardo Vivancos 1920 2020 Almost Century Libertarian And Esperanto Movements"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/notes-life-eduardo-vivancos-1920-2020-almost-century-libertarian-and-esperanto-movements"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A short piece on the life and impact of Eduardo Vivancos, Anarcho-syndicalist militant, civil war veteran and fervant Esperantist."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/notes-life-eduardo-vivancos-1920-2020-almost-century-libertarian-and-esperanto-movements)
+
+A short piece on the life and impact of Eduardo Vivancos, Anarcho-syndicalist militant, civil war veteran and fervant Esperantist.
+
+A version of this article first appeared in Liberte Ouviere un Journal Anarcho-syndicaliste
+
+Notes on the life of Eduardo Vivancos 1920-2020 Almost a century in the Libertarian and Esperanto movements
+
+“Paroli Esperanton estis iam esenca parto de anarkiismo.” (There was a time when speaking Esperanto was an essential part of being an anarchist.)
+
+On the 30th of December 2020 Eduardo Vivancos passed away at the age of 100. He leaves behind a family and nearly a century of dedication to a number of causes, from athletics, Anarchosyndicalism, and minority languages, especially Catalan and Esperanto. I think his life is worth remembering, and while in the Spanish speaking world his death was marked with numerous tributes and retrospectives, including a feature in Corredor a popular magazine dedicated to running, and a lot of friends mourned him in Esperanto texts, he is largely unknown in English. A short blog post I wrote to mark his passing is the first hit when his name is searched in English, though there was also an article in Fifth Estate #400 written in 2018 by his fellow Esperantist Xavier Alcade that serves as a short introduction. Personally speaking, Vivancos’s writing was some of the first I read in Esperanto that I could mostly understand that wasn’t written as a teaching tool, though Vivancos did dabble in that as well. I suppose I should credit Vivancos with pushing me from viewing the language as a hobby into something to be taken seriously.
+
+The son of Domingo Vivancos, Eduardo Vivancos was born into a working-class family in Barcelona on the 19th of September 1920. In 1934, shortly before his fourteenth birthday, Vivancos left elementary school and became an apprentice. In September of that year Vivancos had also enrolled in a worker’s school ( Escuela del Trabajo ) which held classes in the evenings. While at the school he mixed with a group of young workers who were members of the Iberian Federation of Libertarian Youth (FIJL) an organisation that he would join along with becoming a member of the Student Federation of Free Thinkers ( Federacion Estudiantil de Concienecias Libres ).
+
+A year later Vivancos would join the Confederacion Nacional del Trabajo (CNT), he would remain a member of the CNT for the rest of his life. In 1936 Vivancos looked forward to the People’s Olympiad that was being prepared in Barcelona as an alternative to the official Olympics that were being hosted in Berlin. The first piece of writing I read by Vivancos were his recollections of those days when he would go to the training grounds and practice and mingle with hundreds of foreigners from dozens of nations. The enthusiasm of the time made a big impact on him, unfortunately their preparations for the games coincided with the beginning of the bloody civil war and the appearance of Franco as a political leader. The games were not only called off at the last minute by news of the revolt of the Spanish army, but the preparations for the games had also been targetted by a campaign of fascist sabotage and intimidation.
+
+Whilst serving in the 26th division Vivancos was part of a small teaching and correspondence circle of Esperantists which included Gines Martinez the battalion commander. At the time most of the Spanish left and Libertarian movements had embraced Esperanto and were publishing Esperanto newspapers. From the Communist Party of Spain, to the Workers Party of Marxist Unification (POUM) the CNT and other Anarchist groups, and even the General Government of Catalunya, all were actively using the language to broadcast news to the outside world and establish contacts with sympathetic foreigners. In response to this the Esperanto movement was singled out for bloody persecution within Fascist zones. An example of this repression was the fate of the Esperanto club in Cordoba, the Fascist Falange party organised a firing squad and murdered its entire membership.
+
+Unfortunately, as we’re all aware, the war continued to go badly and the revolution continued to retreat, by February 1939 Vivancos along with thousands of other committed anti-fascists had to escape Spain to France. Vivancos did this on foot, crossing the Pyrenees in winter. While in France the Vivancos family were separated and sent to concentration camps that had been built by the French government to house Spanish refugees. He was moved from one camp to another over several years, at one point in 1940 he was billeted in the same barracks as the famous Catalan author and poet Jaume Grau Casas, the author of Catalan Anthology and many other works. The two communicated almost exclusively in Esperanto, if anything the incarceration and constant transferring seem to have boosted Eduardo Vivancos’s studies and teaching of the language.
+
+The Vivancos family were not reunited until after the Second World War in 1947, by that time Eduardo had met and fallen in love with fellow Spanish exile Ramona Comella, the two married in Paris on the 5th of December 1945, they had two children, Floreal (1947) and Talia (1948). While in Paris, Eduardo Vivancos joined the World Anational Association the Sennacieca Asocio Tutmonda or SAT, an organisation of left-wing Esperantists of many tendencies from around the world.
+
+Also in the aftermath of WWII the Spanish Libertarian movement began to reorganise itself and planned out strategies to resist the entrenched Franco dictatorship. As part of this process, the FIJL had decided to build an international federation for Anarchist youth. As part of this project Vivancos was made a delegate of the Spanish section. Unfortunately, this plan did not progress much further due to the global weakness of the Anarchist movement at that time. A more substantial attempt at international networking was the founding of two Esperanto language newspapers the Nigra Flago (Black Flag) and Senŝtatano (Without a State), Vivancos was a contributor to both and editor of Senŝtatano . This activity would bear some fruit, the correspondence service of Senŝtatano successfully exploited a relaxation in hostility to Esperanto by the Spanish government to send letters to Spain, this reconnected many exiles with family and friends still living under Franco. And the contact with foreign Libertarian minded Esperantists like the Chinese anarchist Lu Chen Bo and the Japanese anarchist Taiji Yamaga led to increased co-operation in many ways. In 1963 Eduardo Vivancos and Taiji Yamaga worked together to produce a Spanish translation of the famous Chinese philosopher Laozi’s Dao de Qing, it was titled “Libro del Camino y de la Virtud”, Book of the way and Virtue in English.
+
+In 1954 Vivancos emigrated to Toronto Canada and would remain a resident until his death in 2020. He maintained his commitment to his two life causes Esperanto and Anarchism and his opposition to Franco while living in Canada. He joined the Asociación Democrática Española Canadiense (ADEC), a group for anti-francoist Spanish migrants and exiles living in Canada. As a member, he attended demonstrations and organised meetings. Eduardo Vivancos would return to Spain in 1976 after a 37-year exile, when the Francoist regime crumbled and a stilted democratic transition was taking shape. He would make many visit to Spain and the Catalunya region throughout the remainder of his life. In 1986 he gave a lecture to the 59th Congress of SAT in San Cuget on the 5oth anniversary of the Spanish Civil War, the lecture drew heavily from his recollections of the atmosphere and conditions on the streets of Barcelona and the Spain in 1936.
+
+At the end of his life Eduardo Vivancos received many honours from SAT and the wider Esperanto community, and with nearly a hundred years of dedicated activity including on the front-lines on a mountain range it’s not hard to see why. But I also find his writing and the way he was able to use Esperanto to support the goals of international solidarity and libertarian resistance very inspiring too. I said at the start that Eduardo Vivancos is little known in the Anglosphere, I hope to correct this. In addition to writing up this short memorial, I am also translating his Esperanto texts in English and working on an English language wikipedia article to complement the already existing versions in Spanish, Catalan and Esperanto. By doing this, I hope others will learn of him and an be inspired.
