@@ -1,0 +1,68 @@
+---
+title: "Possibilities Are Found Struggle Outside Unions Interview Kampa Tillsammans"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/possibilities-are-found-struggle-outside-unions-interview-kampa-tillsammans"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Interview with Swedish communist group Kämpa tillsammans about &quot;faceless resistance&quot; and workplace organisation."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/possibilities-are-found-struggle-outside-unions-interview-kampa-tillsammans)
+
+Interview with Swedish communist group Kämpa tillsammans about "faceless resistance" and workplace organisation.
+
+M: What is Kämpa tillsammans? KT: We call ourselves a writing collective, where we have discussions together and a collective signature. What we are occupied with is class struggle theory. M: What made you start the group? Initially it was because we put together a pamphlet with texts from the autonomist movement in Western Europe. We called the pamphlet Kämpa tillsammans, but as a group we did not have a name. We weren't really a group, more like an editorial board. We were interviewed by the danish magazine Autonomi and they referred to us as Kämpa tillsammans. When we some time later felt the need to write something by and express ourselves, we used that name.
+
+M: What questions and discussions where you interested in when you started writing as a group? The first reason was to try to explain the crisis that occurred in Sweden in the beginning of the 90s. To understand it and then understand our place in the world, where there were possibilities and where there were no possibilities. When we wrote the pamphlet "Samma fiender, samma kamp" (Same enemies, same struggle) we suspected that struggles outside of the unions would increase, and it was in these struggles that we saw a future for radical worker struggle. However, we did not have sufficient experience of working life to conduct a deeper analysis. That came later.
+
+M: Why was it that you focused on the struggle outside the unions? It was connected more or less with where we were in life, that we were at the workplace. After being involved with struggles outside our immediate interests, like in single issue campaigns and such, I think that when we started jobs at workplaces where there where existing struggles we thought, "this is where it's happening". It was from there that the need for a lot of things came from.
+
+It was this struggle that we recognized would be of use at our workplace from day to day. That we focused on the struggle outside of the unions rested on the fact that we saw very few opportunities with working with the unions, even if we viewed them quite pragmatically. But it was the non-union struggle that functioned today. Some of us even tried to work from within the unions, because of our leftist activist background, but realized quite quickly that the possibilities for struggle there were quite poor, it was not productive.
+
+M: In one of your earlier texts you introduced the term "faceless resistance" to denote non-union struggle. Why did you choose this term and what do you mean by it? We wanted an expression or a term that tied together the various informal and immediate class struggle practices that existed: go-slow, sabotage, work-to-rule and theft. We wanted a term that tied together these cases and then we started using "faceless resistance", because the struggle is to a large extent invisible, it is not out in the open. Later on, people have developed it to include masked protests, we had that in mind ourselves, but never sad anything about it. We saw that there were parallels with militant street struggles in the workplace, that there were points of connection.
+
+M: In the text where you introduced faceless resistance you also started a form of workers investigation, where you describe daily life on your workplace and the informal struggles occurring. What was workers investigation all about? The point with workers investigation is partly to show to others that the struggles are there and existing, and show how they occur. But also to go beyond your own situation and put these struggles in a larger perspective. The analysis, which we actually conducted in "Same enemies, same struggle", is that what is happening in the workplaces is class struggle. Struggle is the natural condition, and not, like it is so often described in Sweden, the exception.
+
+The investigation is conducted while you are working, it is not something you just write about afterwards, to see possibilities and obstacles, see paths in the concrete struggle. A large part of the rational for the investigations is the break room discussions with our workmates.
+
+M: What were the reactions to the articles about faceless resistance and how were the workers investigations received? In the beginning it was very frustrating, something I've spotted when I look back at our contributions from that time, a whole lot of people did not understand what we meant. At the same time it was received relatively well by people that were also involved with an independent and direct workplace struggles, e.g.union militants inside both LO and SAC (the social democratic and anarcho-syndicalist unions), who directly saw the main arguments. Then it took awhile.
+
+There was a small boom here in Malmö locally when a lot of activists wrote their own workplace report and interviewed each other. Job-talk was something you sat and chatted to each other about at the pub. Gradually the term faceless resistance, which could have had another name, it is perhaps not the best name, and investigations have gained more of a foothold. Partly through what we have written, talked and lectured about, but also a lot by itself.
+
+We have heard that people have recognized themselves in the texts and had an "aha moment". It is quite similar, when we progressed in our internal discussions, to the aha moment we had about what class struggle entails and how it appears in the day to day struggle.
+
+M: There were two types of critique leveled against the term faceless resistance. The first type was directed at the description of what was seemingly an individual struggle, that this is just something you do as an individual and that the collective dimension was missing. That critique has by and large disappeared afterwards, as we have stressed that faceless resistance often is collective. And partly, it is the case that it is individual, and of course it can be just that. Extra visits to the toilet is perhaps a bit hard to be a collective action. But we have always stressed that you work slowly collectively. This has started to get through to people.
+
+M: The other type of critique is that this is all just a struggle on a micro level, the small, rather than on a macro level, the larger level. Instead of discussing large open conflicts, strikes and wage negotiations, you have looked at the small struggles around the coffee breaks and to slow down the pace of work. It is partly about, which perhaps was not made clear from the beginning, that this is a form of the politics of small steps. That workers together in the worker collective also create the worker collective. It is through the small struggles that you are certain to win that you get a shared experience of struggle in order to take on larger struggles. It is not just the experience gained, that collective struggles are formed out of nothing, without this has to be linked to that there already is a strong collective.
+
+The Indian group Kammunist Kranti did have a few interesting lines of thought, which inspired us. They wrote and told about how it developed when they were taking part in very big struggles, with tens of thousands involved, without recourse to the large and open conflict such as going on strike, that one instead stayed at work and did a go-slow. Their example shows that it works when even a lot of people are involved. They were also a refutation of the critique that faceless resistance is only possible to do among privileged workers, which is completely mad, because privileged workers have other tactics/means to use.
+
+M: In some of your later texts you have talked about how informal workplace collectives form and develop. But you have also looked at the other side, on the bosses discussions on various management theories. What can be learnt from such? Our latest texts have gone into further detail on how faceless resistance is organized and formed at the work places. But also how it is countered. We felt that it was not sufficient anymore to just describe how workplace resistance looked like and happened, that was just repeating ourselves.
+
+Workplace reports became after a while rather similar, the same thing was described over and over. So instead we tried to describe how it was that a worker collective was established and started. About the connection between that you are pushed together at work and just work together, it is the only reason you are together, and that it is there you learn to know each other, build trust and can take on larger struggles. It becomes very clear that it is a collective struggle. But it is not a spontaneous struggle, it is not about spontaneity. Faceless resistance is often very organized, and not at all especially spontaneous, I think.
+
+M: In your texts focus has been on workplace struggles. Have you discussed the struggles taking place outside of the workplaces. What collectives, needs and desires they express? No, we have a strong focus on the workplaces. We have ourselves been involved in other struggles in other ways. However, we have been hesitant to make conclusions and write about thing that we don´t feel we get a very good grip on.
+
+M: You were involved in starting the Vår Makt (Our Power) conferences in Malmo. What is the rationale for them? They are class struggle conferences where there have been quite diverse sometimes, class struggle and above and beyond else, workplace struggles. At the conferences everything from the implications of oil in the Middle East and urban architecture, to very concrete tracks and workshops with people working within the same trade/sector. I hope that the Vår Makt-meetings have set the mood and helped towards build what I see is the sensible focus now existing within parts of the left on workplace struggle. M: What kind of changes have happened, from the 90s single issue oriented activist-movement to today's movement? What is it that is different with today's discussions? Today it is more focused on people's needs, both in stuff like file sharing, fare-dodging and workplace related things like how get more leisure time, how you can get more out of work and how you can handle demands from the unemployment center better. The politics of today is more focused on our own needs. And it about you setting the agenda yourself, without just being upset over what happens all around the world.
+
+M: What was worth bringing with you from the activist-movement to the class struggle in our day to day life? The conflict perspective. When you come to a workplace, e.g., you assume from the beginning that the boss, management and the business is the enemy. Partly that and partly the anonymity. That you're not interested in any fair fight, you can draw parallels to people confronting nazis who never just fight one and one, without entering those fights that you can win and do the best to win them. Also a form of affinity group organizing, where you organize with your work mates. Where you see the need in a workplace to stick together fucking tight, solve problems internally and back each other up when conflicts arise to begin with. If the conflicts where chosen wisely can be discussed internally later.
+
+M: Self-investigations have now spread, faceless resistance has become an accepted concept within the non-union and extra-parliamentary left, and Vår Makt-conferences have started to spread to other places. What is the next step, in your opinion, to progress with these concepts and practices? I think making a few investigations now will show where the road ahead lies. Then there are a few problems with the building of a strong worker collective that we need to overcome.
+
+The first is how they at all should be founded, since a lot of people have jobs where there are very few people or you are even all on your own, such as truckers, au pairs or the unemployed. With the internet or other spaces to meet you can build strong workers' collectives even though the employed do not meet, where the first step is not taken in the organization of work, that you have to be brought together at the workplace. How is it possible under conditions like this to build strong workplace struggles?
+
+Secondly, when we have a workers' collective, how can we lead an offensive worker struggles even when we are not threatened (with closure for example). When there are militant struggles that a lot of people participate in, it is often workplaces are threatened in some way, threatened with closure or re-organization. And then it is often too late. That is one problem I see that we are facing.
+
+I also think that another problem is to have a worker collective that can be differentiated sometimes, you don't have to have one demand and one struggle, without having diversity, that you can support other peoples' activities. Such a worker collective needs be inclusive, and not succumb to those divisions that society enforce on us.
+
+The interview originally appeared on Motkraft.net , August 2006.
