@@ -1,0 +1,28 @@
+---
+title: "Why Theory"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/why-theory"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A contribution to the &quot;Reflections on J18&quot; collection."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/why-theory)
+
+Why bother theorising 1 ? As we rush headlong into another action (the June the 18th international day of action – J18), what's the need for theory? After all, for many people theory is just a load of "intellectual wank" or pointless "navel-gazing". (There is a scene in a Woody Allen film – possibly Annie Hall, where the character played by Allen is at a party surrounded by literati types, and he says "Did you hear that the Nazis are going to march in New Jersey"; pretentious party-goer replies "Oh yes I read the most devastating critique in the New York Times Review" "Review? What? We should be going down there with baseball bats or something!").
+
+However many others are also frustrated by the tendency of the "direct action movement" to lurch from action to action without any discussion on what is being done and why. As an older friend in the Valencian squatters' movement used to say, a movement which is incapable of creating its own theory will never get anywhere. (Arguably, the Valencian squatters' movement never got very far). This is the critical thing, it implies revolutionary theory must be created as a result of action, as well as being a precondition for it. "So what is to be done? For a start we can look for opportunities to intervene in radical situations to try and speed up the revolutionary process. To identify the real demand – the demand for real life: the one demand the Spectacle cannot meet…. The only way to develop a revolutionary theory is try and put it into practice" Theory which is divorced from practice degenerates into ideology, dogma: "We must start to build the world we want now – in our relationships, our interactions and interventions and in the way we conduct ourselves in our daily lives. Revolutionary theory is developed on the basis of lived experience. Its goal is the total supercession of the commodity spectacle. A revolutionary movement based on the development of a revolutionary theory is participatory. A movement based on an ideology is about as participatory as a painting-by-numbers kit. Revolutionary ideology is a mausoleum. We need to develop a living revolutionary theory. We start with our dreams and desires and try to put them into practice and to develop our theory, which in turn instructs our practice and we progress." (From a 56a Infoshop leaflet "Situationist Theory For Beginners")
+
+So why the rejection of theory? Because all too often it is divorced from reality, is reduced to mechanical ranting or a points-scoring exercise without any suggestion as to how intervene practically: "People who talk about revolution and class struggle without referring explicitly to everyday life, without understanding what is subversive about love and what is positive in the refusal of constraints, such people have a corpse in their mouth."
+
+The "direct action movement", something loosely referring to activists campaigning on a whole host of single issues including road protesters and other environmentalists, some peace activists, anti GMO activists, Reclaim The Streets, anti-oil campaigners etc etc, has not created a whole lot of its own theory (perhaps the odd article in a coffee-table book or Do or Die). Some innovation has been shown in the organisation of conferences (such as Earth First! gatherings and the direct action conferences in Brighton, where a mixture of small and large group formats have enabled some interesting discussions), but it's debatable whether the 'movement' has a much better understanding of itself and the problem of revolutionary change as a result. In recent times the slogan has often been heard "No Issue Is Single", and as the "direct action movement" gropes its way out of the fog of New Age mystification 2 ("it's a battle for hearts and minds in the struggle between good and evil, between us and the forces of darkness") and Deep Ecology towards developing a critique of capitalism (the J18 action proposal identifies global capitalism as being at the root of our common social and ecological problems), the lack of debate is a serious handicap. A few RTS activists bemoan the lack of critical debate at RTS meetings, which are ostensibly given over to organising actions (and yet insiders will tell you that the real organising happens outside the meetings). And one of the problems at gatherings and conferences is that they can appear unfocused, probably because in a way they are removed from action; the challenge then is to unite theory and action, or better said to create theory from action and for theory to inform action, so that the two react on eachother (to develop a praxis). This challenge for the groups involved in J18 will involve creating theories to make sense of their actions and interventions against global capitalism; questions such as what is capitalism? (and what is finance capital, which is described as the heart of the global economy in the J18 leaflets?), what is the relationship between the different movements involved? (eg some of the organising groups around the world are trade unions – so what role do trade unions play within capitalism?; some of the groups campaign for human rights and foreign debt reduction – what is the relationship between reform and revolution?); is the problem of capitalism one of class society? If not, what is it?
