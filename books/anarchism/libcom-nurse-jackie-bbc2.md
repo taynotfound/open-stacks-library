@@ -1,0 +1,24 @@
+---
+title: "Nurse Jackie Bbc2"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/nurse-jackie-bbc2"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A rare example of television fiction doing some outrageous justice to the modern work/life (im)balance"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/nurse-jackie-bbc2)
+
+A rare example of television fiction doing some outrageous justice to the modern work/life (im)balance
+
+Angel of Ambivalent Mercy. Television review – Tom Jennings This unique hospital drama from American cable channel Showtime revolves around the complex, conflict-strewn existence of an A&E head nurse (played by the incomparable Edie Falco). Jackie Peyton manages only tenuously to juggle the impossible emotional, social, physical and professional demands made on her thanks to an addiction originating from the medication of crippling backache. Drug dependence inevitably impinges on all aspects of getting through the day – and affords the show’s producers (themselves recovering addicts) ample opportunities to interject surreal plot devices and sequences musing on the combined madnesses of modern institutional operations infecting those charged with their smooth running. In twelve very short, alternately witty, warm, gritty, grotesque, caustic and cruel episodes per series, practically every hackneyed convention of health service soap operas is ridiculed and subverted – yielding a rich composite portrait of contemporary caring industry labour, life and love featuring a strong, independent, intelligent, socially-conscious woman, colleague, mother, wife and paramour. How rare is that? Nurse Jackie is no simplistic, romantic, wish-fulfilling, bleeding-heart heroine, however, and writers Liz Brixius, Evan Dunsky and Linda Wallem take pains to intimately weave her many admirable qualities into equally serious flaws. So, for example, blue-collar empathy with patients or staff suffering prejudicial treatment at the hands of a system only pretending to care means comprehensively circumventing explicit rules, norms and pretensions in order to achieve any half-decent results – effectively constituting generalised sabotage from management’s perspective. But, in the absence of collective checks and balances, official and unofficial skills and powers also serve dishonest, selfish, malicious and spiteful gratifications, with unpredictable consequences likely damaging herself and those close to her as well as the occasionally acceptable functioning of this social microcosm. The second series (on BBC2 between January-April) continues these tightrope walks over intermingling personal and public precipices – now emphasising the toll on Jackie’s husband and young daughters and correspondingly irreconcilable tensions with allies and adversaries on the ward. A chief pleasure here, along with surprisingly sophisticated emotional realism, is the unknowability of outcomes – every small righteous victory tinged with nihilism; each poignant setback charged with possibility; epic high comedy and tragedy infusing all mundane satisfactions. Although with limited appeal among those seeking infantile, narcissistic or cynical closure, this is some achievement in a genre traditionally trading rhetorics of complacent conformity surrounding sickness and mortality and how society organises itself to deal with such ineffable, universal, helpless agonies. Recent British efforts comparably question tired bourgeois fetishes for superior altruism among experts battling recalcitrant bodies, but all eventually surrender critique and imply the necessity of authoritarian rule over the chaos of humble lower orders. Channel 4’s No Angels and Green Wing (both 2004-6) overturned self-important middle-class rationalism, but respectively reinforced stereotypical working-class femininity or obliterated the experiences of other strata altogether. Whereas BBC4’s mordant geriatric unit mockumentary Getting On (2009-10; written by its three lead actors Jo Brand, Joanna Scanlan and Vicki Pepperdine) hilariously deconstructed New Public Management, finding irredeemable hopelessness everywhere. Unfortunately, despite venomously pinpointing neoliberal governance’s deployment of the death-drive of capitalism to poison public services, the unconscious logic of Armando Iannucci’s The Thick Of It (whose style it apes) prevails – that they, and their clients, should be abandoned to die. Give me a ‘Nurse Junkie’ any day. Series 1 and 2 of Nurse Jackie are available now on DVD. Series 3 will screen on BBC2 next year. Review first published in Freedom , Vol. 72, No. 13, July 2011. For other reviews and essays by Tom Jennings, see: www.variant.org.uk www.tomjennings.pwp.blueyonder.co.uk
