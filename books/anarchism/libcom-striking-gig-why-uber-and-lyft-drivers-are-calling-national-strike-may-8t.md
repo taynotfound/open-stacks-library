@@ -1,0 +1,62 @@
+---
+title: "Striking Gig Why Uber And Lyft Drivers Are Calling National Strike May 8Th"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/striking-gig-why-uber-and-lyft-drivers-are-calling-national-strike-may-8th"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "On May 8th, workers are organizing a national single day strike against rideshare firms like Uber and Lyft. They’re calling on app users to join them by refusing to request rides for the duration of the 24 hour action. Salvo investigates what set the stage for this clash, how gig workers in precario"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/striking-gig-why-uber-and-lyft-drivers-are-calling-national-strike-may-8th)
+
+On May 8th, workers are organizing a national single day strike against rideshare firms like Uber and Lyft. They’re calling on app users to join them by refusing to request rides for the duration of the 24 hour action. Salvo investigates what set the stage for this clash, how gig workers in precarious states of employment are organizing, and how we all may soon be in a similar position to them .
+
+Note for UK readers: Uber drivers organised through the IWGB will be striking and demonstrating in London, Birmingham, Nottingham and Glasgow on May 8th . The IWW Couriers Network are calling for Uber Eats workers to join them .
+
+Chances are high that you’ve hailed a car from one of the many app-based ‘rideshare’ services. In fact, some sources indicate that the total percentage of Americans who have caught a ride through services like Uber, Lyft, Lux, or their smaller competitors, has doubled in only three years — from a total share of 18% of the population in 2015, up to 43% in 2018.
+
+These services, which go by a variety of monikers, including ‘ridehailing’, ridesharing, or ‘transportation network’ — exist as part and parcel of a newly emerging form of workplace organization, one that seeks to supplant a mode of work that has existed since the industrial revolution, and with it, many of the gains and protections that workers have won for themselves over the last century and a half.
+
+As of now, no one quite knows where to mark the inception of the so-called ‘gig economy’. Many tie it directly to the rise of the aforementioned rideshare firms, most of which have their genesis as Silicon Valley startups emerging in the early 2010’s. Definitions of the gig economy vary as well, not only because there’s little agreement about what actually comprises it, but because its onset and growth have caught many by surprise.
+
+Companies which fall under the gig economy umbrella encompass much more than transit services, and are soon poised to extend beyond their “disruption” of the service industry. Don’t want to leave home for food? Use an app like Grubhub, Doordash, or Postmates to have someone grab takeout for you. Have some yard work you don’t want to do? Hire the lowest bidder on services like Taskrabbit, NeedTo, or CollegeLabor to do it for you. Want someone do to your grocery shopping for you? Instacart and AmazonFresh are at your beck and call. The list goes on. Though disparate in the types of services that they put on offer, networked gig firms like the ones mentioned above are united by a key characteristic: their relationship to their workers.
+
+Since first coming into existence, gig companies have vehemently asserted that those in their employ are independent contractors, rather than employees . Though the distinction might seem semantic, the central money making thesis of every gig firm, from Uber to Taskrabbit, hinges on this question. Federal, and most state labor law, have very specific requirements for employers based on which of the two categories they define their workers into. Without getting into the weeds with labor law here, suffice to say that companies who accept that their workers fall into the category of ‘employee’ are made to provide those workers with much greater protections, benefits, and rights.
+
+On the flipside, those workers whose employers are able to define them as independent contractors, are treated as if they are a separate business entity unto themselves, one which the employer is simply doing business with. This stark difference not only allows employers to circumvent and deny complaints of labor violations levied by their workers, but it also gives them carte blanche to entirely ignore basic labor standards...like ensuring that those working for them are paid the minimum wage.
+
+Here in California, battles over worker categorization have largely remained confined to the courts. In April of 2018, the California Supreme Court issued a ruling that provided more specific criteria for classifying workers as independent contractors . The decision, known as the Dynamex ruling, could have sweeping effects on gig economy workers. However, while the ruling opens the door for more legal challenges, it appears that its implementation will only happen passively. Workers seeking to benefit from the Dynamex ruling will still be required to take their cases to court in order argue that they are indeed employees of the companies that they work for. Moreover, the ruling only affects California, which contains only a portion of the 75 million workers participating the U.S. gig economy .
+
+But some gig workers aren’t content with waiting for the courts to rule on their behalf. Instead, they’re turning to militant self organization in order to win their demands and build their power.
+
+“They keep cutting the prices” Alex says, “I mean, it already wasn’t enough to begin with”. She’s a rideshare driver with four years of experience working for a variety of companies, including Uber and Lyft. Over the course of those four years she’s seen almost everything, from drunks puking in her backseat, to creepy customers flirting and trying to touch her while they’re speeding down the highway. Because her employers classify her as an independent contractor, she’s often been left with little recourse or remedy for many of the worst things she’s experienced on the job. “Well, I could rate them under three stars and not be matched with them as riders again, but you just never know who’s going to get into your car” she says.
+
+After college, Alex had been drawn to work at Whole Foods by a decent benefits package and a manageable schedule — she even liked that the company seemed to combine ethics with business. “I was kind of a true believer in the whole ‘conscious capitalism’ thing that they push, like I really bought it when I started working there. But towards the end I was completely burnt out and disillusioned”. Then came the layoff notice. “I was heartbroken, but it was an exhausting job, so I just kind of took the layoff when it came.” Alex bounced around for a while after leaving Whole Foods, mostly taking freelancing gigs as a graphic designer, often barely making ends meet, and sometimes not making it at all.
+
+Her husband had been working for Lyft on the side, and when she found out that they’d both get a bonus for him referring her to the service, she jumped at the chance. The deal was that she’d get a lump sum of $5,000 if she gave 1,000 rides in her first 90 days. “I basically had to work slightly more than full time to hit the mark”, she said, “but the incentives aren’t usually that big, so I went for it.” After reaching the requisite goal and receiving the bonus from Lyft, she signed on to work for Uber on the promise of a similar bonus. Things were good at first; it felt like she was making a decent paycheck and had at least some freedom to keep her own hours. But as she continued to work for both companies, she began to take notice of a small, but not insignificant, stream of issues.
+
+“I was putting thousands of miles on my car, which neither company compensates you for, and spending hundreds of dollars on gas every month, which they only half-cover”. She was spending money almost as fast as she was making it, all so she could stay on the road and continue working. Alex says that she finally began to realize that she’d been taken for a ride when she went to do her taxes after her first year as a driver. “They want to keep the image that they’re paying their workers good money, but they’re not.” she emphasized. In fact, when Alex finally sat down to balance her books, she realized that much of the time she hadn’t even been making minimum wage.
+
+Other rideshare drivers had come to the same realization as Alex, but were unsure what power they had to change anything. Unlike traditional work arrangements, there was no shopfloor to organize co-workers on, let alone any sort of precedent for gig worker organizing. In 2017, after Uber issued a policy which essentially amounted to a pay cut, pissed off workers took to a variety of driver-only forums, facebook groups, and whats-app threads to vent their long pent-up frustration. It’s on these platforms that a suggestion was made: what if drivers, especially those who frequented the extremely busy LAX airport pickup zone, coordinated to shut off their apps for a day? The idea quickly took root. On August 22nd, 2017, a group of Uber drivers refused to log into their apps. They congregated at the LAX pickup zone to call other drivers and riders respect their picket.
+
+It’s hard to know what sort of economic affect this limited action had on Uber’s bottomline, but that’s beside the point. This initial strike was designed for one thing: signal to other rideshare drivers that they weren’t alone in their consternation, and that by acting collectively, they had the potential to win huge concessions from the companies for which they were generating record profits. Only a few months later, the principal organizers of the strike launched Rideshare Drivers United , a first attempt at building a formal gig workers’ organization.
+
+Alex first came to be aware of Rideshare Drivers United, or RDU, after her husband saw an ad that the organization had sponsored on Facebook. Immediately she was excited by the prospect of joining with her fellow drivers to push back against the squeeze that they were feeling. So she reached out. When one of the organizers asked her why she was interested in joining, she gave a standard answer about wanting to improve wages and conditions — but she also spoke about what her experience at Whole Foods left her feeling: “Towards the end of my time at Whole Foods, I was thinking ‘this just sucks’...they kept cutting people’s benefits, and forcing more of my coworkers to go part time” she said, “I realized that I should have been pushing for a union there”. Alex resolved to not let the same thing happen this time around. This time she was going to fight.
+
+Earlier this year, Lyft made its stock market debut with a valuation of $24 billion dollars . Uber is poised to do the same , and while a specific date for its initial public offering (IPO) has yet to be announced, the company is seeking valuation north of $95 billion.
+
+In anticipation of Uber’s looming IPO, Rideshare Drivers United is calling for both rideshare workers and rideshare users to once again turn off their apps for a full 24 hours on May 8th. In coordination with similar rideshare workers’ organizations, actions will be taking place here in Los Angeles, as well as in San Diego, San Francisco, Chicago, Washington DC, New York, Boston, and Philadelphia. RDU is also in contact with rideshare workers in the UK who have committed to participating in solidarity demonstrations on the day of the action. You can read RDU’s strike statement in full: here . [edit: an updated list of the growing international action can be found here. ]
+
+If workers have any hope of resisting the impending further precaritization of labor in the U.S., we must start by organizing in the emerging sectors of economy that have demonstrated a vulnerability to capital’s efforts at changing the rules. Rideshare Drivers United and other organizations like Gig Workers Rising , and the Tech Workers Coalition , have begun doing exactly that. Let’s follow their lead.
+
+It was a lively rally at the Uber headquarters in San Francisco today as part of the global driver strike. About 300 of us moved off the sidewalk in front of Uber's building and into the street for almost an hour, blocking Market Street, San Francisco's main thoroughfare.
