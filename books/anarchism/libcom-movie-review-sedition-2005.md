@@ -1,0 +1,40 @@
+---
+title: "Movie Review Sedition 2005"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/movie-review-sedition-2005"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A 2013 review of a documentary about World War II conscientious objectors in Aotearoa/New Zealand."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/movie-review-sedition-2005)
+
+A 2013 review of a documentary about World War II conscientious objectors in Aotearoa/New Zealand.
+
+The dominant narrative on World War II has New Zealand standing alongside the mother country, in defence of freedom and democracy against evil dictatorships. While some have recoiled at the economic deprivation that prevailed and were shocked by the deaths of family members, few have questioned the rationale of the war itself. The documentary Sedition looks at the experiences and motivations of the extreme minority of people who did resist the war. This is done through a combination of archival footage and interviews with participants and academics.
+
+Sedition, a film made in 2005 by Russell Campbell of Vanguard Films, opens on a sombre note, with an anti-war quotation from Peter Fraser juxtaposed with slow-moving World War I footage showing the mass burial of soldiers. This is in itself a powerful combination of image and sound. However, its full significance may be lost on those viewers not versed in 20th century NZ history. This is soon clarified in the early portion of the documentary. We are made aware of the irony that Prime Minister Fraser and five of his Labour Party colleagues in power during World War II, had been imprisoned for their anti-militarism during the first world-wide conflict. The rest of the movie makes clear that Fraser and his apostates were harsher in implementing policies around conscription than counterparts in the rest of the empire. From an anarchist perspective, this is a powerful confirmation of the degeneration that can happen when supposed radicals seek to take over the state, rather than abolish it1.
+
+One of the first questions when considering the objectors is, what motivated them? Why would anyone take such a stand? The documentary answers this in its early stages. To head in the opposite direction from the vast majority and court strong sanctions require resolution and a strong underlying theory or ideology. The local war objectors were motivated by an amalgam of family history that included disillusioned ex-veterans, exposure to anti-war poets, a vaguely progressive socially/communally oriented perspective and most often, a commitment to a form of Christianity such as Methodism. However, religiously grounded objection was not the sole basis for opposition during the early phases of the war. The Communist Party was also hostile to the government’s war measures, though this policy shifted completely once the USSR entered the war. This early section outlining motivations occupies a brief portion of the running time of the movie. You might expect this brevity to weaken the objectors’ case or show a lack of analysis. In reality, it doesn’t have this effect. That’s partly because the immediacy and emotional impact afforded by a first-person account take you a long way in appreciating their views (though of course, you can still ultimately take a critical stance towards them). In addition, while the documentary includes academics, the target audience is the ‘average’ person who wants to get a broad overview of the topic, not fellow academics seeking to argue a multitude of arcane points.
+
+The bulk of the film charts the experiences of the resisters as the war proceeded. It would be ridiculous to compare what happened to them on equal terms to those imprisoned by the Nazis or Stalinists. Having said that, there is enough in what transpired, to concern anyone who takes the declared democratic pieties of the NZ state at face value. The homes of Christian pacifists who distributed clandestine newspapers were raided, the Jehovah’s Witnesses were banned as a ‘subversive organisation’, the paper of the Social Credit political movement was banned, peace candidates were denied radio time if they criticised official policies and other measures were undertaken that undermine claims the NZ state was fighting for freedom and democracy. As for the persistent resisters, historian David Grant makes clear there existed a defacto prison system one in which objectors could be confined ‘for the duration of the war’2. In effect, this was an open-ended sentence. By 1942, Emergency Regulations permitted a camp commandant to send somebody to an actual prison with no trial or right of appeal. The situation did not improve much even post-war. Ex-civil servants and teachers were denied applications for work. Those war objectors who applied for private sector positions faced unofficial discrimination. The scars of this certainly lingered on, as the testimony of surviving resisters makes clear.
+
+Sedition’s subject matter can be seen as of interest for historical reasons alone. However, it is lazy to not consider the resonance the government’s actions then, have for us now and in the future. Some might take refuge in smug kiwi exceptionalism. It could be tempting to compare ‘us’ favourably for example to the United States and its policies around Guantanamo Bay or the treatment of whistleblowers such as Bradley Manning or Edward Snowden. However, as liberal political scientist Rod Alley posits towards the end of the documentary Fraser began or passed on a tradition in New Zealand politics of using the powers of the state to bully, to intimidate, to cower dissent, which has run on after World War II Again, there are people who might admit to post-WWII examples, but ones that seem far enough away in time not to disturb us now. For example, the advocacy of peacetime conscription by the Labour government in 1949 or the draconian measures surrounding the waterfront dispute of 1951. This is also shallow or at least, insufficient. With armed cops terrorising kids on buses in the Ureweras, SAS actions in Afghanistan, the Search and Surveillance Act and the activities of the SIS and GCSB, there can be no doubt the contemporary NZ state has retained and strengthened its capacity to impose its will on the population, should a ‘domestic crisis’ or other pretext arise. There is a real continuity in the nature of the state, even if its most extreme behaviours are sometimes not immediately evident.
+
+In conclusion, this film does not have fancy computer graphics, realistic re-enactments, big star names or any other of the bells and whistles of modern documentary making. It is straight forward in its narrative drive and presentation. What it lacks in style, it makes up for in substance. Whether you agree with the stance the religiously motivated resisters took or their perspective on the war, this documentary is important viewing for anyone who cares about genuine freedom.
+
+1For a brief review of the activities of local anarchists in the World War I anti-militarist movement, see Sewing Freedom, Jared Davidson (2013)
+
+2Grant’s own work on the subject is worth checking out. See David Grant, Out In the Cold (1986)
+
+Another great book is “Till Human Voices Wake Us” by Ian Hamilton. Hamilton was an NZ anarchist who was mentioned a few times in the film. He was one of the most disruptive and disobedient prisoners. His book is an account of the camps and is a really angry bitter rant about prison and authoritarianism in NZ society. He published the book in Australia because he hated New Zealand so much he had to leave the country when he got out of prison. He knew Werner Droecher and Grenville Texidor (who both fought in Spain for the CNT before coming to NZ). The book is hard to find but well worth a read as it is the only full length first-hand account of the WW2 camps and prisons for conscientious objectors.
