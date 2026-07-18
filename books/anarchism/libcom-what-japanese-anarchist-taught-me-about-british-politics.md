@@ -1,0 +1,47 @@
+---
+title: "What Japanese Anarchist Taught Me About British Politics"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/what-japanese-anarchist-taught-me-about-british-politics"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "On the radicalism of Shūsui Kōtoku."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "What a Japanese Anarchist taught me about British politics.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/What a Japanese Anarchist taught me about British politics.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/what-japanese-anarchist-taught-me-about-british-politics)
+
+At the start of the 20th Century, Japan was in a state of technological, cultural and political acceleration. As a nation, it had been forced to open itself up to the outside world just 50 years beforehand, but it remained deeply conservative and authoritarian in many ways. Modern Britain is of course a vastly different context, but both share a deep-rooted deference to traditional power structures, often not shared by their neighbours (obvious from any time someone proposes abolishing the monarchy). The Japan of this era also had some degree of parliamentary democracy, though just like modern Britain, its representatives were largely pawns of the ruling class or powerless to achieve anything against the might of the establishment.
+
+But this did not mean that radical elements could not exist there any more then than they do now in British culture. As British anarchist John Crump put it, “because Japan was such a highly conformist society, so the reaction against conformity was all the more intense when it occurred”. It was in this small-scale, but fiery and radical context that Kotoku Shusui emerged as a thinker and writer. He is relatively unknown even among anarchists and the Japanese, but he fascinated me because of his writings on party politics, and the broader nature of political power.
+
+What is so interesting about Kotoku is that, because the movements and ideas he involved himself with were so new to Japan, he was essentially living through decades of ideological development in only a few years, while radicals rapidly worked out their goals and means of action. In fact, his political transformation was so drastic that he was the first Japanese translator of both Marx’s Communist Manifesto, and Kropotkin’s Conquest of Bread.
+
+He was first enticed by social democracy as a young, liberal journalist – believing that it was ultimately possible to reform society from the top down through parliamentary democracy. Indeed, he seems to have wanted to become a representative in the Diet (Parliament) in his early career (this reminded me slightly of my embarrassing wish to be an MP when I was about 15). Over this period, many of Kotoku’s fellow social democrats became so focused on being ‘pragmatic’ and appealing to the general public in an ‘acceptable’ way, that they simply accepted many of the harmful aspects of the imperialist capitalism of the day. Indeed, much of the Left were happy to support the war against Russia in 1904, which led to Kotoku resigning from the pro-war social democratic publication he wrote for, and becoming more radically communist (but still while supporting political parties). Kotoku’s disillusionment with social democracy was compounded by other social democrats’ lack of interest in abolishing the Emperor, in spite of his archaic, imperialist grip over Japanese society at the time.
+
+Thankfully most of the modern British socialist Left are anti-war (and many more are anti-monarchy), but this still reminded me of the Labour Party’s persistent support for increasing police numbers – in large part because they (correctly) didn’t expect the electorate would support abolition, but also out of a flawed but sincere belief that they were necessary to “keep the public safe”. Thus, even at the height of Corbyn’s leadership, one of the most basic anti-capitalist principles was simply not present. So, much as Kotoku did, I began to doubt the socialist Left’s ability or willingness to truly end capitalism solely through elections, due to the limits they began to place on their aspirations for society, although I was not yet fully disenchanted with the Party.
+
+Throughout that early period, the Japanese Left faced brutal repression by the Government, leading to Kotoku’s imprisonment for his journalism. While in prison, he became familiar with the works of Peter Kropotkin, and therefore increasingly disenchanted by social democracy – particularly its fixation with changing the leadership at the top, rather than society from the bottom up. In other words, alongside merely becoming more libertarian (and eventually an anarchist), he began to recognise the need for an all-encompassing workers’ movement. This idea perhaps became validated for him when he travelled to America, where he met many members of the early IWW (Industrial Workers of the World). Seeing their radical and often successful mobilisation of workers, he thus became more enthused by the idea of syndicalism (where unions are the predominant mode of organising and the embryo of a future society, as opposed to parties).
+
+Until recently, I myself had only been especially interested in the political party model of organising workers – i.e. we would simply band together into a big organisation that either takes power in elections or by force, installing a new leadership at the top. But, having seen the victory of more militant British trade unions like the UVW (United Voices of the World) for NHS cleaning staff, and the almost instant eradication of Corbyn’s influence in Labour after 2019, I became more convinced that entrenched workers’ power was more important than any number of votes. It’s not enough to simply tell people who to vote for – you can’t just have a movement led by bureaucrats on behalf of workers, you need a movement led by them too.
+
+On his return from America, Kotoku began arguing in favour of this more militant, union-based action – and thus against parliamentary politics, which he now recognised was not the route to socialism. Indeed, in his article “The Change in My Thought (On Universal Suffrage)”, he said “we must concentrate all our efforts not on parliamentary power but on developing the workers’ solidarity”, arguing that ultimately “It is not laws — but food and clothing” that the working class need. This emphasis on addressing direct material needs within the community struck a chord with me, since for 5 years I had witnessed Corbynites arguing to empower the working class in Parliament and on the doorstep, but not spending a single minute actually doing so (of course unions and mutual aid were laudable, but both were essentially separate from and secondary to the fanciful goal of parliamentary victory).
+
+Unfortunately for Kotoku and other Japanese radicals he began to inspire, their numbers were simply too small, allowing the Government to crack down brutally on all efforts to organise workers and spread propaganda. Strikes and unions were effectively outlawed and activists were under close surveillance. His dream of a great, revolutionary general strike was never realised and he was implicated in a fabricated plot to assassinate the Emperor. He was executed in 1911, and became a little-known but powerful anarchist martyr, a short but bright spark of inspiration in a society too often dismissed as uniform and compliant.
+
+I call him powerful because of what he represents to me (and must do to small numbers of others across the world) – the birth of a realisation that we do not need to rely on others to fight for us. He diagnosed correctly that power corrupts us when we take it alone, no matter how well-intentioned we are in trying to wield. I had a lot of love and respect for the Corbyn project at times, but Kotoku and others brought me to the realisation that it was only a project to change who was at the top of the pile. From then on, no matter how genuine the movement’s intentions were, it could not achieve its aims without corruption or sabotage. In our search for a better society, we can lose our way easily without grounding ourselves in selflessness and genuine solidarity. This is best maintained through true equality with our peers, rather than self-aggrandisement or an aspiration to leadership.
+
+Kotoku’s writings are often remarkably optimistic (sometimes rather naïve in their level of excitement for an imminent general strike that never happened), and it was a level of positivity I simply don’t encounter from the Left today. The repressive environment of his repeated imprisonment and constant surveillance would also have had a deep impact on his psyche – creating a strong desire for freedom (which he found to some extent amongst radicals in the US). This spirit is something many of us need to rediscover, even while excessive idealism has its dangers.
+
+Overall, Kotoku’s short but fascinating life, alongside his frankly small real world influence and his ugly murder by the state, brought home the crushing brutality and bleakness of the situation we still face on the Left. The odds are stacked against us, and all we can do is fight boldly for ourselves without leaders, without middlemen, and without the pessimism that leads so many to give up on their dream of a better world.
