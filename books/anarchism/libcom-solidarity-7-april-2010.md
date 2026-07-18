@@ -1,0 +1,35 @@
+---
+title: "Solidarity 7 April 2010"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/solidarity-7-april-2010"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The seventh issue of Solidarity, free newssheet of the Aotearoa Workers Solidarity Movement. Download the .pdf below (650KB), or visit the AWSM website to read the contents online. Contents: * Current attacks on the working class * Corporate Welfare - Alive and Well * Workers Suffer the Hardest Blow"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Solidarity Issue 7.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/Solidarity Issue 7.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/solidarity-7-april-2010)
+
+Solidarity #7 - April 2010 The seventh issue of Solidarity, free newssheet of the Aotearoa Workers Solidarity Movement. Download the .pdf below (650KB), or visit the AWSM website to read the contents online.
+
+* Current attacks on the working class * Corporate Welfare - Alive and Well * Workers Suffer the Hardest Blow in Chile * Upcoming public discussion evenings
+
+If you want to make sure you don’t miss an issue of Solidarity, you can subscribe to either the print or electronic version.
+
+To subscribe to the AWSM announcements list, put your email address in the form on the top right of each page on our website, http://www.awsm.org.nz .
+
+Subscribers will be sent .pdf copies of Solidarity each month, along with other publications produced by AWSM and ocasional information - we promise we won’t spam you with a ton of useless stuff though! The electronic copy is identical to the print version.
+
+Or, you can subscribe to the print edition to receive a copy of Solidarity in the post. $8 for 12 issues. Mail a cheque to AWSM, PO Box 6387, Wellington 6141, or contact us to organise an alternative method of payment.
