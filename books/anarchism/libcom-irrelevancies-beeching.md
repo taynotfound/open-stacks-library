@@ -1,0 +1,32 @@
+---
+title: "Irrelevancies Beeching"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/irrelevancies-beeching"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/irrelevancies-beeching)
+
+ON THE VERY FIRST DAY OF FLAMING JUNE this year, (remember it?), a daily journal which shall be nameless, but which boasts of holding up a mirror to life on a mass circulation basis, (“Tuckshop Annie may be a teacher”—“The army flies Barbara to love”), used up the whole of its precious middle pages, (except two three quarter columns advertising one of its women’s weeklies, and three squares of a daily strip), in adulation of Dr. Beeching and the success of his Plan. “His greatest achievement—halting the slide into the red”—“A twin track look at the British Railways “—(or at a one track mind?).
+
+This perturbative ballyhoo on Beeching impels one to seek for the reason behind it all, (apart from that of mass circulation). Has Dr. Beeching decided to use admas methods in appealing to the masses? (“I would like people to know that I didn’t set out to plan the future of British Railways in isolation from other forms of transport”). Can it be possible that the Institute of Directors, Aims of Industry, and the Road Haulage people, have combined to “persuade” this daily journal that “profitability” is the one key word to the future? (People who interfere with that sacred cow do not matter—the customer is not always right). But this mirror of life needed no persuading. It acclaimed the Beeching Plan, at its inception, as a “Great Plan”. It published a map with the main lines inked in heavily and the feed lines washed out. Hurrah. Profitability is the watchword. Ignore the added congestion on the roads. Dr. Beeching has told us that integrated road and rail traffic is a “governmental responsibility”. Now we can use our cars to get to the main line stations in time to catch the trains which will get us, in comfort and at speed, to our main line destinations on time. (Or may we, once in our cars, decide to travel all the way, door to door?) On this map, Skegness was out, Bournemouth was in. With Dr. Beeching’s flair for the blue pencil, shall we now be seeing unused Skegness posters overprinted, like grocers’ window stickers, “Bournemouth is so BRACING”?
+
+And what is this Beeching Plan? It is the result of a doctor of philosophy’s acceptance of the task of carrying out the Government’s proposal that the Railways should be “made to pay”, on their own. This proposition ignored the fact that the railways had already been sacrificed to a “free for all” ideology, by throwing their road haulage source of income to the wolves, who, insisting on their own “profitability”, repudiate their financial responsibility for tearing up the public roads, and incommoding other traffic. Was the good doctor not aware that the railways, even before nationalisation, had to be subsidised? Was he not aware that holders of converted railway shares are now grateful for being in receipt of a steady income? Was he not aware that the roads, and road and rail traffic, are supremely interdependent? But no, he shrugs off any responsibility for the roads, and decides to increase their burden of traffic by “pruning” the railways, perhaps relying on those very debatable statistics regarding the probable increase in road users. As a doctor of philosophy he is presumably trained in the humanities, so he brings out his surgeon’s scalpel and cuts out what he calls the “dead wood”. Is he not aware that he is pruning the roots that feed the tree? And root pruning is a delicate operation, not one for mass loppings which deny an already crippled tree its rightful sustenance. He lances here, he lances there, and the communities of Lancing and other places are killed. He should be grateful for the prunings so far resisted. For instance, the plan to cut out the Southport line—until someone discovered it would require another four hundred buses or so to cope with the traffic transferred to the roads. Alternative transport? Dr. Beeching must know this is a myth when he evades responsibility for roads originally designed for horse traffic.
+
+He claims that he has halted the slide into the red. How has he measured this? By using an elastic tape measure marked off in the financial symbols of £. s. d.—that continually fluctuating measure used by accountants to determine profitability, with no regard for economic or social costs? The saving or earning of pounds, shillings, and pence, does not mean a thing without its being translated into current economic and social values. These prunings may very well bring temporary profitability, but it will be at the expense of all the other interdependent concerns they have damaged, and the railway tree will eventually grow lopsided and denied its full usefulness in harmony with its surroundings.
+
+In these “twin track” pages of whitewash, there is also the boast that, “five hundred expresses a week now do their journeys at an average of 60 m.p.h.”. Has not Dr. Beeching heard of a train called the Silver Jubilee which, thirty years ago, did the run from Newcastle-onTyne to London, non-stop, travelling at 100 m.p.h. for long stretches? Business men in those days went to Town in a morning, conducted their business, and returned in the evening. Today, the expense account executive goes to the airport, (main line station, or all the way?), in his Bentley, stays two nights in London entertaining his “business associates”, (?), and charges the cost of the whole trip to the taxpayer.
+
+Profitability? In the economic and social sense, (what doth it profit a man?), YES, by all means, YES. In its accounting sense, (indiscriminate financial gain?), NO, definitely, NO. ––––––––––––––––––––––––––––––––––––––––––––––––––––– London buses are slower today than they were in 1914, Mr R. J. Mellish (Lab. Bermondsey) told the Minister of Transport, adding that roads in Central London were so congested that it was virtually impossible to run a scheduled service at all. Mr Marples had informed MPs that between 10 a.m. and 4 p.m. on weekdays, 1,434 buses per hour run through the Central London area, compared with 2,176 buses and tramcars in 1950 and 2,458 in 1938. THE GUARDIAN 16/5/1964
