@@ -1,0 +1,35 @@
+---
+title: "Cienfuegos Press Anarchist Review 4"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/cienfuegos-press-anarchist-review-4"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Issue number 4 of Cienfuegos Press anarchist review from early 1978."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Cienfuegos 4-compressed-part-1.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/2022-06/Cienfuegos 4-compressed-part-1.pdf"
+    hosted: false
+  - name: "Cienfuegos 4-compressed-part-2.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/2022-06/Cienfuegos 4-compressed-part-2.pdf"
+    hosted: false
+  - name: "Cienfuegos 4-compressed-part-3.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/2022-06/Cienfuegos 4-compressed-part-3.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/cienfuegos-press-anarchist-review-4)
+
+Issue number 4 of Cienfuegos Press anarchist review from early 1978.
+
+Taken with thanks from https://stuartchristie.maydayrooms.org/items/show/131
