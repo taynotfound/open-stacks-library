@@ -1,0 +1,24 @@
+---
+title: "Chronology Pre War Korean Anarchist Movement 2"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/chronology-pre-war-korean-anarchist-movement-2"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Second of a two part chronology published in the Japanese journal Libero International. Part 1 was published in issue no. 1."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/chronology-pre-war-korean-anarchist-movement-2)
+
+Second of a two part chronology published in the Japanese journal Libero International . Part 1 was published in issue no. 1.
+
+[table] [row][col] 1929.11.3 KOREA [/col] [col]KWANGJU STUDENTSINCIDENT: trouble involving rival Korean and Japanese school students in Kwangju develops into nationwide patriotic student movement; 54,000 students in 194 schools strike, creating anti-Japan movement which continues until March 1930.[/col][/row] [row][col] 1930.1 MANCHURIA [/col] [col]Anarchist organizer of Chong-yi Bu commune, Kim Joa-jin, murdered by communist agent.[/col][/row] [row][col] 1930.4 CHINA [/col] [col]League of Eastern Anarchists ( Tung-fang Wu-cheng-fu Chu-i-che Lien-meng ) reorganized as South China Korean Youth League ( Nan Hua Han-jen Ch'ing-nien Lien-meng ); principal members: Chong Hwa-am, Kim Ji-gang, Park Kee-seung, Lee Eul-kyu, Hwang Eung, Yoo Ja-myong, Park Kee-byeung, Ryu San-bang, Lee Yong-kyu, Kim Kwang-ju, An Kyong-kun.[/col][/row] [row][col] 1930.5.30 JAPAN [/col] [col]Anarchist Youth League ( Anãkisuto Seinen Remei ), Eastern Workers' Federation ( Tõhõ Rõdõ Dõmei ) formed in Osaka by Lee Mee-haek, Kim Yong-su.[/col][/row] [row][col] 1930.6 JAPAN [/col] [col]Black Flag Workers'League ( Kurohata Rõdõsha Remmei ) formed; Chung Chan-jin main figure.[/col][/row] [row][col] 1931.1 MANCHURIA [/col] [col]Korean People's Self-Governing Joint Council ( Han-jok Cha-ji Ryong-hap-hoe ) formed, chaired by anarchist Chong Shin-won.[/col][/row] [row][col] 1931.7.11 MANCHURIA [/col] [col]Leader of Korean anarchist partisans, Kim Jong-jin, murdered by communist agent; total of six Korean anarchists murdered in 1930 and 1931.[/col][/row] [row][col] 1931.7 KOREA [/col] [col]KOREAN ANARCHO-COMMUNIST LEAGUE ( Cho-sun Mu-chung-bu Kong-sanZu-ui-ja Ryong-myung ) INCIDENT: Japanese authorities clamp down on few anarchists remaining in Korea in attempt at 'final solution': Ryu Hwa-yong, Choi Kap-ryong, Lee Hong-kun, Kang Chang-gi, An Bong-yong, Cho Tsung-bok, Rin Tsung-hak, Kim Dae-hwan, others arrested.[/col][/row] [row][col] 1932.1.8 JAPAN [/col] [col]In front of the Imperial Palace's Sakurada Gate, Korean anarchist Lee Pang-chang hurls bomb at Japanese emperor's car returning from military review.[/col][/row] [row][col] 1932.4.29 CHINA [/col] [col]Korean anarchist Yun Pang-gil hurls bomb into Japanese emperor's official birthday celebrations in Hung-k'ou Park, Shanghai; General Shirakawa, several civil, military officials killed, hurt.[/col][/row] [row][col] 1933.3.15 CHINA [/col] [col]Assassination attempt in Shanghai on Japanese Minister to China Ariyoshi; 3 Korean anarchists, Paek Chung-kee, Won Sim-chang, Lee Gang-hyon arrested.[/col][/row] [row][col] 1933.3 KOREA [/col] [col]DAI-ICHI RO INCIDENT: police raid Chinese restaurant where reconstruction of anarchist movement in Korea is being discussed; anarchists Chae Yin-kok,0 Nam-gi, Choi Hak-ju, Lee Jung-kyu, Lee Eul-kyu, others, arrested.[/col][/row] [row][col] 1934.1.21 JAPAN [/col] [col]KOREAN GENERAL WORKERS' UNION ( CHOSEN IPPANRÕDÕ KUMIAI ) FORMED: Korean Casual Labourers' Union ( Chosen Jiyü RõdõshaKumiai ) reorganized; main figures Lee Kyu-uk, Lee Chong-mun, Lee Yun-hee, Lee Chong-shik, Chong Kwang-shin, An Heung-ok, 0 U-yong.[/col][/row] [row][col] 1934.5.1 JAPAN [/col] [col]While reactionary elements participate in National Foundation Day celebrations held same day, total of 289 Korean anarchists, 298 'Bolsheviks', jointly organize boisterous May Day rally.[/col][/row] [row][col] 1935.10.11 JAPAN [/col] [col]After Japanese universities decide to discontinue use of Korean language in teaching, Korean students, graduates in Japan resolve to launch opposition movement.[/col][/row] [row][col] 1935.11.4 JAPAN [/col] [col]JAPAN ANARCHO-COMMUNIST PARTY ( NIPPON MUSEIFU-KYÕSANSHUGI TÕ )INCIDENT: terrorist party formed in 1933; spies reveal its plans to the police, several Korean anarchists, Lee Dong-sun, Han Kuk-tang, Lee Chong-mun, Chin Rok-chul arrested.[/col][/row] [row][col] Autumn 1937 CHINA [/col] [col]KOREAN REVOLUTIONISTS' LEAGUE ( CH'AO-HSIEN KO-MING-CHE LIEN-MENG ) FORMED: Chong Hwa-am, Yoo Ja-myong, other Korean anarchists take part in broad anti-Japanese front following the full-scale invasion of China.[/col][/row] [/table]
