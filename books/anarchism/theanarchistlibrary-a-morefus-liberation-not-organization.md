@@ -1,0 +1,34 @@
+---
+title: "Liberation, not Organization"
+author: "A. Morefus"
+date: "2009"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/a-morefus-liberation-not-organization"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "from Back to Basics volume #2 — The PROBLEM of the Left Retrieved on October 5th, 2009 from www.greenanarchy.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "a-morefus-liberation-not-organization.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/a-morefus-liberation-not-organization.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/a-morefus-liberation-not-organization)
+
+I desire liberation, not organization. While most leftists would claim that the two go hand-in-hand, or at least that the second is necessary to achieve the first (and for some the second might even “wither away” sometime after “The Revolution”), to me, the two seem contradictory. I am not fighting for a world which is run better (more efficiently and more fairly), I am fighting for a world which doesn’t need running (one which is radically decentralized). Here lies the contradiction between the Left, and those fighting for autonomy and anarchy.
+
+If the politics of the left (including leftist-anarchists) could be distilled into one phrase, it might be “Social Justice” — a vague longing for a social system which ensures equality (socially and economically, although not necessarily politically) for everyone, and the political apparatus necessary to ensure/enforce their particular notion of what that would mean. But only by people controlling their own lives, and all decisions which pertain to them, will people ever be free. This should be a basic concept, at least for anarchists, but unfortunately for those still tied to a leftist mode of operation and thinking, it is not. In fact, this simple notion is attacked for being too “individualist” or “unrealistic”. I guess some people just think they know what is best, especially for the “lumpen” and “the masses.” They wish to plug everyone into an infrastructure which adheres to the “correct” ideology (a notion anarchists should reject at face value): as Michael Albert (Z Magazine) has said, the “good morality”. These notions of “the way” are an insult to independent thinking and openness, and stand in direct opposition to anarchy, and deserve only disdain.
+
+Only WE can fully understand what WE are fighting for, and our own interests and skills. We waste too much time trying to form affinity and artificial unity with those with whom there is very little meaningful agreement. Decentralized autonomous groups, making all of their own decisions, are the key to effectiveness and to staying motivated. Only when resistance comes from our hearts can we have any chance of fulfillment. I am not just “two arms for the revolution,” as some guilt-ridden, uncritical, and uninspired leftists and leftist-anarchists have proclaimed. I am not a foot soldier for a vanguard or an “oppressed people.” And, the last thing we need is more standardization, mechanization, and militaristic approaches...the logic which projects this whole system forward.
+
+I am fighting for my own liberation, and from this stems my support for my family, my community, others’ struggles, and the rest of life. Does this mean we cannot learn from others, share ideas, or join together in projects of resistance? Certainly not, but these junctures MUST be without coercion, manipulation, and domination. They should be seen as temporary and organic, and their continued connection cannot be at the expense of our autonomy. We need to prioritize the deep and meaningful relationships over the superficial and political ones. We must avoid the “lowest common denominator” approach to liberation, one which sums up our collective desires and struggles in vague catchwords like “freedom”, “equality”, and “justice”, or the “One Big Union” approach, which superficially embraces diversity, yet in reality, works to diminish all individuality and autonomy.
+
+Some anarchists, and all leftists, propose large monolithic federations, parties, and structures to “get shit done” and “hold people accountable.” We must reject this fetishization of organization and control. Our liberation should not be dependent on a political or economic structure — it should come from our own desires and willingness to fight for another world. A leftist-anarchist friend of mine wants to know how we hold people accountable when they continually “flake.” To which I respond, learn the patterns of those you work and live with, and know what you can depend on, and what you cannot. If they are continually unreliable, then don’t rely on them. It’s simple. It all comes down to bringing about a deeper understanding of one another, not some adjudication process to enforce agreements — that is how the state works. Even in regard to abusers, some would like established policies and rigid methods for dealing with people, but each scenario is different, and each victim and community demands a different outcome. It is taking the easy way out, when we attempt to programmatically apply a solution to a problem. Taking responsibility for a situation and working towards the most effective outcome takes time, energy, and commitment to one another, and while it may seem difficult at the time, in the end it is usually the most meaningful.
+
+Smaller groups are more able to make decisions which are relevant to the individuals involved, while large organizations require tremendous amounts of resources and bureaucracy just to perpetuate themselves. Constant decisions need to be made just to keep them “running,” and this will inevitably lead to representation and hierarchy. The further we are from any decision-making process, the more alienated we are from the decisions it makes. This is not a healthy model for taking control of our own lives, it is a model for being controlled. As anarchists, we need to take responsibility for our own decisions and their outcomes. This is not to say that we should only be concerned with decision-making on an individual level (although there are certainly decisions which only apply here), but also as small, decentralized communities. Here, decisions are made face-to-face, with each member of our family, band, or collective deeply entwined with one another and our environment — a bio-regional perspective which reflects how natural ecosystems function. We only need organizations and large structures if we want to keep most of the racket known as civilization going (including technology, production, the military, mass society, globalized reality, etc), but if we reject all of this, we can bring our lives back to a human scale, lives worth living.
