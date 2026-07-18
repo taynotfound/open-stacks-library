@@ -1,0 +1,38 @@
+---
+title: "Liberatory Education 101"
+author: "Lee Cicuta"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/lee-shevek-liberatory-education-101"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "https://dogsection.org/liberatory-education-101/"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "lee-shevek-liberatory-education-101.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/lee-shevek-liberatory-education-101.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/lee-shevek-liberatory-education-101)
+
+Radicalising people towards liberatory politics is a challenging, deeply rewarding, and vital component to building real political power towards liberation. It is also emotionally taxing, difficult to navigate, and often rife with conflict. I hope to offer some tools, tactics, and frameworks for engaging in this process with others in ways that can keep doors open for continued process, as well as protect the boundaries and energies of my fellow militants who engage in this work.
+
+First, attend to how you see yourself in the process of radicalizing others. Are you treating other people as vessels in which you can pour your “superior” knowledge into? If so, the radicalisation process, if it proceeds at all, is likely to be an unnecessarily arduous one. Liberatory education is a process of mutual growth and is fundamentally about modeling and building liberatory relationships with people: challenging them and letting them challenge you in turn. People will rightfully resist being “taught” by someone who claims to know their lives better than they do and has all the “answers” prepackaged for them. If we’re here to be a part of the process of liberation, then we have to be here to build up comrades. Learn from comrades. Grow with comrades. Don’t lock people into new forms of the same old cultish thinking because we live under the illusion that we know what’s “best” for them. Even in the (rare) situation in which someone takes what you say as truth or gospel, this is not the positive outcome it may seem. Most people have already learned how to parrot someone else’s political analysis without having one of their own, and that is not what liberation looks like. What we want, when we engage people in liberatory education, is to help them to think in new ways, to build their own analyses, not just mimic our own. We need to help them build their own political autonomy, not submit to the blanket will of another.
+
+Radicalising people also requires holding compassionate space for them in different parts of their process and communicating clear expectations for growth. If you don’t strike the right balance, you’ll either completely alienate people or entirely fail in challenging them to change. Important here is to recognise that holding space for someone in their process is not equivalent to allowing harmful behavior or beliefs go unchallenged. People don’t learn how to treat others better if they’re not given expectations for accountability. It is deeply important to hold compassionate, but firm, boundaries in this process. We’re not just out here trying to teach people economic theory, but, rather, a whole new way to relate to one another outside of domination and control. We will not make that possible if we’re not modeling and practicing those ways of being with one another that are both compassionate and boundaried. The “I understand why you came to believe that but here’s the flaw in that argument/why it’s harmful” method works wonders. Most people just want to know that you understand why they are where they are and can be open to new ideas once you show them that respect.
+
+Allow opportunities for people to save face. Most people involve their egos in their position. When you’ve communicated your message, know when to ease up and let the conversation change without making them admit “defeat.” It is often enough to have planted the seeds. That doesn’t mean the conversation is over, but people need breaks. They need to have an opportunity to sit and chew on new ideas and concepts. Check in on those seeds later and tend to them, there will certainly be opportunities to do so. Often, people will bring it up again themselves. Sometimes, they’ll act like they never actually disagreed. Let them, if you can, and be glad you can take the conversation further now. I say “let them” here because I think we tend to undervalue the benefits of letting people save face in this process. Sometimes it’s necessary to do otherwise, but most of the time it’s better to mark it as a personal win internally without lording our victory over them.
+
+Everyone has their in. Everyone is crushed in some way by this system, you just need to find it and leverage it to help reveal to them where their interests actually are. Get to know someone, build a relationship with them, and you will find they’re in. Does their boss suck? When they talk about it, commiserate and also throw light on why they suck. Yeah, their personality is trash but it’s trash because they get to profit off of others who do the labour for them. We could all do a better job just doing it together, couldn’t we?
+
+Avoid politically charged words whenever possible: anarchism, communism, socialism, etc. are all important terms that we should use and demystify for people, but at the beginning of the process they will almost certainly work against you. Be attentive to the connotations these words have for many people, due to the massive propaganda machine they’ve been put through their whole lives. There’s a time and place for those words, but it’s certainly not at “hello.” Find ways to talk about the concepts and values of anarchism without mentioning the word anarchism. If you have a hard time with this, take some time to read more introductory books on the subject, because those will help you find simpler language to use. Do not underestimate the value of reading/listening to a lot of theory/political books and podcasts that run through the basics. Even if you already know the basics, hearing the language used to explain them to those who don’t will help you do the same.
+
+Finally, recognise the difference between someone who is open to growth and someone who utterly refuses it. For the latter, you can leave the door open for change but don’t let yourself get pulled into pointless circular debates. Protect your energy. A key point to “holding compassionate boundaries” is recognising that you can only do this work with people who are willing and interested in engaging with it. You cannot force change in someone: you can only support it. For folks determined to continue to do harm, a compassionate boundary might mean cutting them off.
+
+Be compassionate to yourself in this process too. You’re not perfect, you’re still learning. If you get into a conversation with someone and you don’t know how to answer a question, that’s okay. Take it as a lesson on what you need to learn more about. Ultimately, there are no specific steps on exactly how to radicalise people, because everyone is different. This is why I speak to process, rather than giving a step-by-step how-to. Liberatory education is, ultimately, relationship building. Take your time, develop your own analysis, learn how to set and maintain compassionate boundaries and relational norms for change. Have patience. Some people are slow going, others pick it up right away, but regardless it is an amazing, fulfilling, and vital process to be a part of.
