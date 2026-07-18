@@ -1,0 +1,50 @@
+---
+title: "11 Half Time Summing"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/11-half-time-summing"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/11-half-time-summing)
+
+The late Fifties and early Sixties represent roughly a halfway house for my personal life, such as it was. For whatever interest it may afford, I have been persuaded I should write down a full account of my life to enable, among other matters, the background of the anarchist movement in this country in my lifetime, otherwise unrecorded or misreported, to be known. I tried to give a summing up in The Anarchists in London 1935-55 which was somewhat sketchy and uncritical (and had a totally irrelevant cover for which I was not responsible!) Since then an obscure byway of history has come to a crossroads, the roads dividing to one still neglected by historians but reaching in the right direction along the old straight path, the other fashionable and maybe now a main road leading in the wrong direction.
+
+In other words, there were entirely different philosophies referred to as anarchism. It took me a time to find there were two contradictory theories, one working class and revolutionary, the other an offshoot of liberalism. Now there are a great many variants, some dreamed up by the press or professors. When there were only two, some activist anarchists did not see it that way, and thought of the undoubted differences between the two conceptions as different degrees of commitment and action. They were doomed to frustration or else gave up the struggle in despair trying to reconcile the two.
+
+Outsiders who do not understand the difference think ‘the anarchists can never agree among themselves’, as if those calling themselves socialists or conservatives were all of one mind, or chuckle about personal differences as if that were all there were to it.
+
+The Anarchism I advocated from the start, and never varied from is that born of the class struggle, which was certainly taken into account by philosophers but came out of the working class. It had a proud fighting history in the struggle against Statism and every exploitative system. The capitalist press had characterised it as violent and esoteric plainly because it had given the bourgeoisie the shudders, both in the individual resistance that followed the crushing of the Paris commune and the syndicalist movement that came out of it.
+
+After the First World War, the press-invented cartoon image had been transferred to the Bolsheviks but had not stuck. Later it was handed back to the anarchists when, that is, the media deigned to notice them. During the Spanish War there was a conspiracy of silence, in the fifties a deliberate campaign of misrepresentation described nationalists and Marxists as ‘Anarchists’ but anarchists as nationalists or Marxists. There was a press directive to that effect which meant, for instance, the (still reputable, pre-Murdoch) Times reported that anarchist Puig Antich, executed by Franco, was a Catalan nationalist, and the Marxist Ulrike Meinhoff, killed by the German police, was an anarchist. In the early days of the Provos the press started to say the (Nationalist and to an extent Marxist) IRA were anarchists, but the Spanish anarchist resistance were described as nationalists or Marxists. The Italian Red Brigades, unquestionably Maoist, and Basque nationalists. were called anarchists. It made for an obscuring of genuine anarchism. When in a letter I caught Reuters out on this misinformation, their correspondent ‘explained’ that the Red Brigades were Marxist, but anarchist insofar as “they thought to obtain their aims through anarchy”! The retraction, puerile as it was, was not published anywhere.
+
+An entirely different philosophy purporting to be anarchist, though with more sophisticated ‘justification’, was of those rejecting the class struggle and the idea of revolution. While this philosophic “Anarchism” might preserve certain libertarian ideals like marble saints, and might or might not try to put distortions of them into practice, it does not believe anarchism to be possible, revolution desirable or class divisions to exist. It may confine itself to permanent protest, scholarly dissent or nonconformity, perhaps seeing this as the result of psychology or genes rather than class. It does not vote every four years or sometimes, daringly, does so in defiance of ‘dogma’.
+
+Though this conception had some strands in the past, and certainly has some in the future with the rise of the hippy movement, it came to us as part of the bourgeois-pacifist influx into protest during the war. It later produced in turn such absurd monstrosities as ‘capitalist anarchism’, ‘Catholic anarchism’, ‘non-violent anarchism’, purely intellectual exercises without goal, and hived off into situationism, the hippy culture, and fitted in with strands of the new student-orientated culture.
+
+Conscientious objection in WWII was no big deal in Britain (though not elsewhere). It entered into effective dialogue with the State, but nonetheless ‘advanced’ pacifists, beyond quakerism, believed standing aside was effective resistance. Sometimes a few months jail before ultimate recognition sufficed to make them regard themselves as heroes who felt themselves justly rewarded for their action by the then availability of comfortable homes which the lucky ones occupied for the rest of their lives, others until the first Rent Act.
+
+As many came from patriotically indoctrinated sections of the lower and upper middle classes, they needed emotional justification for this, provided by many philosophies, primarily Christianity but some offbeat varieties of socialism too. One of the minor ones was this bowdlerised version of anarchism which comprised two negatives, philosophic anarchism and pacifism.
+
+In the days when anarchism, in the English-speaking countries, had passed into oblivion, one could be excused from thinking that both these types formed ‘part of the movement’ if different ends of it. Now, when so much rubbish is invented by the press and professors as “Anarchism” (quite as much as ‘socialism’); some of which comes as a distortion of the real movement, and some of which comes out of logical extension of the phoney one, many may wonder whatever I saw in anarchism to devote a life to it. I can only hope this book comes as an answer.
+
+Considerable changes came about affecting our periphery which in turn had repercussions on the wider world. As the workers generally were abandoning the struggle, some in disgust, some in despair and many in hopes engendered by the new materialism, and the age level of revolutionary groups became older and content smaller, so a new socialistic quasi-libertarian movement was unexpectedly growing among the new generation we thought lost to the student culture.
+
+I did not notice the change of attitude of the students at its beginnings. At a meeting at St. Pancras Town Hall to discuss some proposed strike, I believe of bus drivers, someone mentioned something about the role students could play having been ignored. I pointed out that with modern traffic it was extremely unlikely that nowadays the students could get away with scabbing on transport workers as they did in 1926. My remarks were met with a chorus of disapproval from students in the hall. It was the first appreciation I had that they no longer felt that way, and that current undergraduates could hardly be expected to act as their predecessors did in 1926. Moreover, most of their parents were workers themselves.
+
+That the whole Campaign for Nuclear Disarmament and New Left period was a diversion from the class struggle remained an increasing conviction of mine no matter how libertarian sections of the studentariat appeared. It seems to me that it heralded the birth pangs of a new class that was moving into the scene, that liked to think of itself as meritocratic but was in fact bureaucratic, the mandarins and failed mandarins who wanted to come to class and often individual power, and as is usual with rising classes, use the classes below them to help them rise.
+
+The mandarins conquered the Labour Party left but drove the working class out of their own movement. The variegated Trotskyists and Maoists played on the rising mandarins who dominated academia and the media in the next generation. Colin Ward’s journal Anarchy (1961-70) seemed to attract the failed mandarins who postulated double negatives, linking a negative anarchism with pacifism, and postulating an impossibility (diluted anarchism without revolution) they did not believe capable of achievement themselves. As Anarchism was less demanding to write on than Marxism (you don’t have to deal with those boring economics) and less overcrowded a market, it became a matter for writers of University theses, “to win the applause of schoolboys and furnish matter for a prize essay”.
+
+The reasons for my growing frustration during these years can be understood, but I did stay in groups trying to get an act together. I must have spoken to hundreds of meetings all over the country, ranging from two or three to several hundreds. It was an uphill struggle but I suppose it compared with any lesser known party politician, and a good many successful ones, but any traceable result is hard to find. The only bitter consolation for my barren years in the political back o’ beyond from the end of war to the turbulent sixties was that my friends in the wider working-class movement, Joe Thomas being very much an example, found themselves in comparable ghost towns of the political wilderness. Elsewhere this had been achieved by armed might. Here, within a brief twenty years, the bland approach had the same effect. Though in the 1970s and on we were back in the wilderness again, I now feel more optimistic.
