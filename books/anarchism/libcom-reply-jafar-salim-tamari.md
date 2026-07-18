@@ -1,0 +1,46 @@
+---
+title: "Reply Jafar Salim Tamari"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/reply-jafar-salim-tamari"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Salim Tamari responds to Mohammed Ja&#039;far&#039;s article on the PLO and the Palestinian national liberation movement."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/reply-jafar-salim-tamari)
+
+Salim Tamari responds to Mohammed Ja'far's article on the PLO and the Palestinian national liberation movement.
+
+M. Ja'far's polemic (Discussion forum, Khamsin 5) against the main divergent tendencies within the PLO provides a sharp and illuminating exposition of the contradictions in the Palestine resistance, but his suggestions for the way out of the present crisis seem to me more incoherent than the positions he had set himself to demolish.
+
+Essentially he levels two main criticisms at the present leadership of the movement: one, that despite appearances, the rejectionists share the same class politics (or rather 'abstention from class politics') as the mainstream PLO. This is demonstrated in their implicit programmatic acceptance of the project for a secular democratic state, while rejecting the methods (diplomacy, etc) for achieving it. Second, he criticises the rejectionists for elevating a method of struggle, armed combat, to the status of an end in itself (pl19).
+
+While the PLO/Arafat line is seen as consistent with the creation of 'its own state as one more addition to the League of Arab states' (p121), the author criticises the rejectionists, correctly I believe, as lacking in political perspective. Their opposition to the creation of a 'ministate' is regarded as a post-1973 aberration rather than a central tenet of their position, as it is often presented. Ja'far regards the October 1973 war as providing the key moment in the present dilemma of the resistance: 'The role of the Palestinian organisations during October 1973 was completely marginal. A confusing situation was created, in which organisations whose sole and only reason for existence was the liberation of Palestine had achieved on this par- ticular front less than the normal bourgeois armies whose reasons for existence was defence of the interests of their respective ruling classes.' (p117).
+
+But what is the way out of the present impasses? Ja'far questions the idea of the PLO's legitimacy as the 'sole. . . representative of the Palestinian people' as leading to the paralysis of the 'organisational activity and independence of the revolutionary currents emerging at the base of the Palestinian organisations' (p122). He calls for a 'complete overhaul of all the traditional formulas and slogans (as) a prerequisite to the building of a genuinely new revolutionary organisation in the region.' This time however based on 'a new theoretical divide' - that of 'the reality of class politics in the region' (p123). But the writer does not seem to make up his mind whether the new organisation is to be Arab (ie inter-regional), or a new Palestinian 1organisation; and if the former, then what is the relationship between the Palestinians and the parent group. Moreover it strikes me as a call for the substitution of a 'bourgeois' programme (for a state) by a socialist slogan (for class politics). For just as the Palestinian state can be a fetish within the Palestinian movement, so can the call for class struggle by the left opposition.
+
+Underlying Ja'far's criticism of the PLO is the notion, very deep- rooted within the Arab left - and in substantial sections of the in- ternational left - that the Palestinian resistance is the advance guard and detonator of the 'Arab Revolution' (ie the coming, or 'almost coming' socialist explosion in the Arab East). Ja'far does not actually hold this position, but his preoccupation with 'class politics' brings his issue into question; and it is on this central dilemma, which permeates his whole critique, that I hope you will allow me to make the following comments.
+
+1) To act as a class force, as Ja'far demands (as opposed to a nationalist force) Palestinians living outside the occupied territories and Israel have two options: either to subordinate their struggle to the overall strategy of each particular revolutionary movement in each 'host' country where they have taken refuge, or to act as a surrogate proletariat (a vanguard) on behalf of the Arab left. It seems that Ja'far's disappointment with Palestinian failures (eg his critique of their policy of non-interference in Arab internal politics) in Lebanon and Jordan betrays a preference for this second conception. (In actual fact, however, while the PLO had a policy of non-interference, they followed a practice of intervention on the side of the left; but this is the pitfall of judging a movement by its pronouncements rather than its daily activity. Where the writer is correct, however, is in pointing to the persistent tendency of regionalism and sectariansim within the PLO as a whole). One consequence of this vanguardist conception of the PLO is to hold it responsible for the stagnation of the Arab left in general, and accountable for the failure of the left in each confront- ation with the Arab regimes that the Palestinians have encountered.
+
+2) With such a monumental task facing the Palestinians, we are compelled to seek the social base which establishes the PLO as a viable political force. In all the Arab countries where Palestinians have resided (with the exception of the Gulf states) this social base is marginal - consisting of a refugee population - as Ja'far himself has noted (p119). How can a declassed community then struggle along class lines? Perhaps through intervention in the occupied territories, or 'amongst the very large Palestinian population living outside the camps in Lebanon, Jordan and Kuwait'? (p119). But it is not clear how the non-refugee population in those three last countries (a very large proportion of whom is made up of professionals, state bureaucrats and small businessmen) will act in a more progressive manner than the refugee population. If anything they have shown themselves to be either upholders of the status quo (in Jordan), pawns in confessional politics (Lebanon), or money-grabbing careerists (Kuwait).
+
+3) Only in the occupied territories (and Israel) do Palestinians have a 'proper' (though dislocated) and differentiated class structure. But there all forms of class consciousness are being submerged by the realities of national oppression in the daily confrontation with the occupier. Economically, half the working class is integrated into the Israeli economy and finds itself in the dubious position of having to bite the hand that 'feeds' it by asking for separation. (Nevertheless it does bite, and it is separatist - all workers' unions in the West Bank and Gaza support the demand for a Palestinian state). Resistance in those territories is clearly being led, for those whose eyes can see, not by the working class, and least of all by the peasants, but by the urban petty bourgeoisie in all its varieties (shopkeepers, municipal councils, professionals, and of course students).
+
+4) It seems, therefore, that the writer is ignoring an important 'ideological divide' by seeing only the bourgeois character of the proposed state (a possibilibility which hardly needs stressing). Namely he ignores that a Palestinian state will provide the necessary prerequisite for the transformation of an essentially national conflict, based on national oppression, into one in which the conditions for class emancipation (on both the Arab and Jewish side) can obtain for the first time. This requires, from our point of view, that Palestinians have the opportunity to live in a stable community, in which their national culture and physical security can be protected; ie in a state of their own.
+
+It should be obvious that this project requires a prolonged and patient struggle against Israeli expansionism, and involves a careful strategy of unity and alliances with Arab progressive movements. But it also involves a reassessment of the 'vanguard role' allocated by the Arab left to the Palestinian revolution. Above all it requires a realistic perspective of what the Palestinians can do and of what they cannot do in the present balance of forces. It is totally unclear bow Ja'far can avoid confining himself to 'revolutionary' 'individuals and little grouplets' (pI22), while calling for the 'transcendence' of the PLO in the name of such an abstract socialist programme and class per- spective. This particular blind spot in his analysis tends to obscure an otherwise deep insight into the present dilemmas of the PLO.
+
+Fate (assisted by zionism) has led the Palestinians to playa dynamic and occasionally revolutionary role in Arab politics. Now that the Jordanian civil war and the Lebanese civil war are part of history - whose lessons have not been completely assimilated - should we insist that they are reassigned to become the cannon fodder for the realisation of the dreams of failed Arab revolutionaries?
+
+NOTE: M. Ja'far will reply to this letter in our next issue. Other readers are invited to join the debate.
