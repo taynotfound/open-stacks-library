@@ -1,0 +1,46 @@
+---
+title: "Mans Ambition Must Be Small"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/mans-ambition-must-be-small"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/mans-ambition-must-be-small)
+
+IT IS SAID THAT IN THE REMAINS OF POMPEII, devastated by a volcano, there remains an inscription written in chalk on the wall. It may be that after some future cataclysm (man-made) all that will remain of mankind is a short four letter worked chalked on a wall.
+
+The tendency to use chalk is generally confined to children, which must be mimicry of the teacher's chalking on the blackboard. The inscriptions of professed love; whether by wooer, wooed or an interested third party will never be known, such are the convolutions of infantile passions. PAUL LOVES JANET. HE KISSDE HER AT PLAYTIME: was this written (in a drawn picture-frame outside Parsons Green tube station) by Paul, Janet, or a jealous rival? The long lines along walls, following round corners, to finish with the single, vile, daring epithet FOOL! still has its charm, but where is the arrow of the "chalky chase"? Has hopscotch become more simple, or is it just that the sophisticated South does not play "Journey to London" with its compulsive patternings?
+
+The other site for graffiti is well-known as the English Protestant's confessional. It is an oft-quoted but obscure remark that one of the effects of the Education Act was to make the writing on the lavatory walls higher. This is a mere sneer at popular education, but the content and form of such contributions varies little. There was, at the Tate Gallery, a collection of nude studies (in the Gents') all labelled with the appropriate artist's name. Nevertheless, "A man's ambition must be small/To write his name on a shithouse wall."
+
+The groping assertion of the self by the infant who has just learnt that he exists, is the same blind impulse that makes the yahoo carve his name upon the ancient monument or the cultured Etonian carve his name on the desk. "If you would see my monuments look around" or in the American phrase KILROY WAS HERE. It is common to find in prisons (see Gate Fever) the same grasping
+
+JACK ROBINSON, born Birmingham 1913, left school at 14. Educated Winson Green, Shrewsbury and Wormwood Scrubs 1941-2. Has been rent-collector, factory worker, human guinea-pig, epileptic colony attendant. A second-hand bookseller by trade, he has worked with Freedom Bookshop since 1951. He is an editor of FREEDOM and compiles the column 'Out of this World' under one of his pseudonyms.
+
+for an identity that every day's experience of the institute seeks to erode away. Names and sentences are commonly pricked out on the floorboards, generally away from the eagle eye of the screws. The variant couplet "A man's ambition must be small/To write his name on a prison wall" is often found there too.
+
+On other occasions of infantile regression the cult of writing on the walls breaks out. Elections are no longer what they used to be, but SEND THE BLACKS BACK; JUDAIC NICKEL (on the Mint); BAN THE BOMB; KEEP THE BOMB; KEEP BRITAIN WHITE, or, short and simple: JEW FILM (on a poster for the King of Kings), and NIGS, equivocally and badly written, supply the artillery in a war of chalk and crayon. Worst of all are the slogans written in paint referring to past events: NO WAR, or ALL OUT — MAY DAY, that give permanence to the impermanent, like the odd long-dry WET PAINT or the note on Hungerford Bridge of an appointment with a painter that was kept (or missed) years ago. Political passions are such that these slogans, when chalked, rarely last. A VOTE FOR JOE SOAP remained in an Holborn Alley for years, but that may be just further proof of its obscurity, and hence impotence.
+
+Graffiti tends to be in the decline as an art-form, or even as literature. Mild outbreaks of paranoia —DETECTIVE FLEMING TO THE RIVER — made Holborn walls more interesting a few years ago, but it is only lately that a prolific, versatile and original talent has taken up the chalk to add a new dimension to the writings on the wall.
+
+The author is, of course, anonymous; it will take literary scholars some time to track him down. His canvas (as it were) is the London street walls from Fulham Broadway, with deviations down Brompton Road, Kings Road, Sloane Street, Piccadilly, Park Lane, and wide divergencies to Bedford Avenue, Orange Street, Hand Court, St. Giles Circus; and his work may have been authentic at Clapham Junction (this is the freshest piece discovered, a simple insertion of the dates 1914 and 1939 outside a cinema showing War of the Worlds — if Mr. Chalk has an obsession besides the pun, it is dates).
+
+This obsession with dates ranges from 1913 Chalk Farm to '1951' Sloane Street. No earlier dates have been discovered, but all this work is provisional as items are erased and probably much more material remains to be discovered.
+
+A provisional hypothesis is that Mr. Chalk is writing his biography (HIS-STORY in his own words) in a succession of brief comments written en passant upon walls. It may be that the buildings have definite associations with actual events, but this is a secret that only Mr. Chalk knows. As a child of our time (probably born 1913) he has known war, poverty, persecution, sickness, death; and his sermon on stone echoes the unhappy lot of man. Through it all he has retained a distinctive handwriting, a flair for puns and puzzles and a cynical contempt for institutions. One is reminded of the tortuous explorations of Leopold Bloom in Ulysses. The childish wonder at the tricks words play is reflected in OH-RANGE = GRATE Orange Street); 1914 A-RIVALL (probably birthdate of a brother or sister); 1914-1939 HAND-DEAD DOWN (Hand Court); 1945 WAR ENDEAD P.O.W. — WOW (this "dead" ending is his favourite pun); IN-JURY 1945 MINUS NEIN (outside a church); ARM(S) and ALM(S) reminding one of entries for a 'Bullets' competition. The obscurity of some of the puns, ASS-TUTE; Y CATHOLIC WHORE RINGS; or PEN = SPELL'S PEN takes some reflecting upon, but as with the Koans, as I believe they are called, handed down by the Zen masters, reflection may reveal some hidden truth in what seems nonsense. From twenty-eight inscriptions there are several absolutely incomprehensible ones, for example DEBTRYMENTELL or 9LOVER EXTENDED AND SHAKE (this may be the preliminaries to a boxing-match); DE-SAN(I), or BREAK HER WILL (in Park Lane). They range from the simple 1919 HERE (Brompton Hospital) to the complex C.I.D. written beneath a mosaic in St. Giles Circus. The description of the mosaic of a picture by C. P. Watts reads Time and Death walk hand in hand followed by Judgment who with hidden eyes (? erased in original) holds the scales. The word C.I.D is emphasised with an arrow pointing to the mosaic. Minor mysteries are the meaning of DARDANELLES 1918, or 1913 WAR? 1939 INTELLIGENCE? The minor pun 1933 AWK-WARD AUK BIRD (by Chelsea Football Ground) is probably pure jeu de mot, but 1918-1939 HIP-NOT-TISED is self-explanatory. The saga of Mr. Chalk is doubtless unfinished. Some may think his works the ravings of a madman, but never has such a medium been used to such self-satisfying effect. We may think his ambition puny but there is a coda to the verse:- A Man's ambition must be small To write his name upon a wall But smaller still are those who scrawl Their names in blood on history's wall.
+
+A year ago I wrote in THE OBSERVER about the homeless families in London. A fortnight later the BBC T.V. programme "Panorama" took up the story. Soon representatives of most newspapers were to be seen clamouring round the austere cast-iron gates of Newington Lodge, gates which were reputed to open only for ambulances and for taxis arriving to deposit the homeless with their suitcases and brown paper parcels. There was a national outcry. A year later I have been back to Newington Lodge to see what had come of this outcry. I found little changed. —JEREMY SANDFORD "London's Homeless Revisited", (Observer 23/9/62).
+
+In military schools the main purpose of camp life was evidently military drill, which we all disliked very much, but the dullness of which was occasionally relieved by making us take part in manoeuvres … With the coming of darkness, the booming of the guns, the rattling of the cavalry, we boys grew very much excited, and when Alexander ordered a charge our column charged straight upon him. Tightly packed in our ranks, with lowered bayonets, we must have had a menacing aspect; and I saw the Emperor, who was still on foot, clearing the way for the column in three formidable jumps. I understood then the meaning of a column which marches in serried ranks under the excitement of the music and the march itself. There stood before us the Emperor, our commander, whom we all venerated; but I felt that in this moving mass not one page or cadet would have moved an inch aside or stopped to make room for him. "Why should he be in our way?" the pages said afterwards. Boys, rifle in hand, are even more terrible in such cases than old soldiers.
