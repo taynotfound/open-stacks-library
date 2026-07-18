@@ -1,0 +1,72 @@
+---
+title: "Max Stirner: War-Lord of the Ego"
+author: "Benjamin De Casseres"
+date: "2023"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/benjamin-de-casseres-max-stirner-war-lord-of-the-ego"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Chapter 28 of De Casseres’ 1926 book Forty Immortals (pp.272–282). Retrieved 12/23/2023 from books.google.com"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "benjamin-de-casseres-max-stirner-war-lord-of-the-ego.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/benjamin-de-casseres-max-stirner-war-lord-of-the-ego.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/benjamin-de-casseres-max-stirner-war-lord-of-the-ego)
+
+In Ralph Waldo Emerson’s revolutionary essay, “Self-Reliance”—a passionate call to arms from a mighty brain on fire with the glorified vision of its own individualized destiny—occur, among other memorable sentences, these words: “Society is everywhere in conspiracy against the manhood of every one of its members. * * * The only right is what is after my constitution; the only wrong what is against it.” Walt Whitman and Henry David Thoreau uttered equally radical words. But no one of these men was an anarchist. They were too sane to take themselves literally. What they believed in was the spiritual evolution of the individual, a self-overcoming, a throttling of the ghosts in one’s own soul—the ghosts of fear and ignorance, the ghosts that within ourselves stand at the crossroads of every crisis demanding toll of our self-reliance.
+
+Self-emancipation must precede social emancipation. If you want to abolish a mass you must begin by reconstructing the units of that mass. Of course you can blow the mass up with gunpowder, but you blow up the units with it.
+
+If society everywhere conspires against the individual it is because the individual has not yet freed his mind of the fixed idea that he can do without a State. The fault comes back to each one of us. The State is not a thing; it is an organized instinct; one of the skins of evolution not yet sloughed off; a tool that has not yet completed its work in the hands of the World-Ego.
+
+The weaknesses of “society” are the shadows of our individual weaknesses. Its transgressions are the sum of all individual transgressions. Society is no better than the average between the best and the worst individuals living within its pale. Its crimes against the individual are in exact ratio to the crimes of individuals against one another.
+
+Organized society will exist so long as there is an instinct to organize among individuals. Emerson says let each one of us fit himself to do without society—just as we have outgrown the old monstrous theologies. The State will then drop off like a scab.
+
+Social workers today are fighting what they call “general ills.” There are no such things. There are only individual ills. Be yourself, emancipate yourself, abolish the State by learning to do without it—that is the message of Emerson, Whitman, Thoreau, Ibsen. The latter cried, “Away with the State!” And (clairvoyant thinker that he was) added as an afterthought—“Of course, I mean by spiritual means.” Nietzsche wrenched man out of his social socket and made him a beatified Cain. He was the poet of the Ego. Had he ever heard of Max Stirner, a war-lord of the Ego— the war-lord of the Ego?
+
+Stirner’s book, “The Ego and His Own,” is the last word in egoism; the last word in revolt. It is not the most dangerous book ever written because its philosophy is hopelessly impracticable. Ibsen and Emerson and Whitman are more dangerous in their teachings than Stirner.
+
+The latter has given us one of the most stimulating books ever written, a book that thrills, invites a man to himself; a book that lays all the sacred spooks and ultimately brings the reader around—Egoism makes strange bedfellows—to where the philosophy of the founder of Christianity left him: You shall leave all; the Kingdom of God is within you.
+
+Max Stirner makes the Ego of man God, and to serve it you shall leave the State, the home, the family, religion and everything that battens on the soul of man. After you have gotten rid of all these “earthly spooks” just what you should aspire toward is not clear, unless it be what Stirner calls man’s “Ownness,” a word that Kipling makes comprehensible in his famous injunction, “What you want go and take.”
+
+The individualism of Stirner is thus founded on the most rational idea in the world—the idea that only the individual is glorified, that only I matter—with the most irrational implications. Away with State, church and family!—they prevent my Ego from realizing itself. Crime is my business. Citizenship is slavery. Parents maim their children from the cradle. Society tickets me. Laws prevent me from getting my “own.” What I can do, that is right. Evil is failure. Success is the only righteousness. All regulation is emasculation. Only I am holy. The thing I can use is good; the thing that uses me is bad. Altruism is a sickness of the will.
+
+All this is not as dangerous as it sounds, for as a matter of fact all strong men—all men who do anything in life at all, all those who differentiate themselves from the mass—act on those principles--in one degree or another, generally unconsciously. Men never like to have their motives to action formulated. They even hate to formulate the matter secretly to themselves. And Stirner’s boldness merely consisted in putting what he thought into print.
+
+The Albany and Harrisburg legislatures are reeking with men who would no doubt suppress Stirner’s book if they ever heard of it—men who would long ago have known the book if it had been titled “Cash and His Own.” Stirner’s anarchy is purely analytic and idealistic. But at Albany and Harrisburg the brand of anarchy is intensely practical.
+
+And to Stirner’s individualism there is a rational, majestic, sublime side. His Ego is the hungry animal inside of us all, an animal that has got intelligence and imagination, it is true, but an animal nevertheless in that every movement of its psychic, physical and emotional nature is toward its own. Men will only marry and procreate, they will only pay taxes and support churches as long as they can be made to believe that they are getting something out of these things; they are good so long as the good gives them pleasure—that is, swells their own Ego. They are good and altruistic for the same reasons that they are bad and egotistic; they believe there is a gain somewhere to them.
+
+For at bottom when you tear away the rags and tatters of hypocrisy and the mouldy crusts of convention that cover the real palpitating core of a man what will you find? A being that adores itself and loves and worships only where it believes it is loved and benefited by that worship in return. Stirner asks, “What is good?” And he answers, “What I can use.”
+
+Man is a warrior. No matter how subtle and complex life becomes, no matter how highly “civilized” we boast of being, it is our own—our “ownness” Stirner calls it—that we are battling for. We, each of us, whether in a “state of nature” or a state of society, are fighting for the conservation of the Ego. Some of us believe that the marriage institution, children and the state help us to conserve that Ego; others believe that these adjuncts suppress it. It depends on the Ego. A business man, generally speaking, finds it aids him to subscribe to the common plan of life. A thinker like Herbert Spencer or Schopenhauer finds it does not. But both classes of men worship at the shrine of the same god—the Ego.
+
+Self was the first law; today, as ever, it is the first virtue.
+
+The Ego is a blood-smeared fact. Man once lived in a perpetual state of war; he brutally struck down whatever stood in his way—if he was not struck down first. Today we are still in a state of war, but for the same reason that we found it necessary to kill in the old time we find it necessary now to preserve. The Ego seeks it own through destruction and construction. There was a time when kindness and goodness and charity would have destroyed the race. Use was God; Use is still God. We the men and women of today, with top hats and lorgnettes and dinner pails and steam shovels, are not different in our aims from the cave-man and shaggy brute that peered out of the bramble. Scratch us and the old ghost walks again. We are still the victims of egomania. Our methods are different—that’s all.
+
+This warrior-instinct cannot die. It is our virtue. It is our sap and our virility. We are becoming masters now of the death-dealing forces in us and around us; we have disciplined the things that disciplined us. It is another mask for Ego. It is on these unquestionable truths that Max Stirner has reared his doctrine of Ego.
+
+Hence it follows that this announcer of Ego does not admit the idea of self-sacrifice into his scheme of life. And here again Stirner thinks boldly and clairvoyantly. For no doctrine has had more adherents and fewer sincere believers than the doctrine of self-sacrifice. Ego will not be sacrificed. It will lend, but will not vanish. Self-sacrifice should be the prerogative of power; as it is, it is most often the excuse that weakness makes for its inability to live for itself alone. Suppose the doctrine of self-sacrifice became universal. We should have the absurd spectacle of each person living for the good of some other person. That, of course, is unthinkable. Self-sacrifice must, in the very nature of things, be subterranean egoism. Stirner speaks of the “egoism of the stars.” It is a good example. Each star shines for itself; as an incidence of power it throws its radiance into space, giving light to the darkness, shedding warmth. But its giving is incidental. It exists first of all for itself. The good it causes comes out of its surplus. And self-sacrifice should be self-glorification. All gifts should he gifts of power, not a hand-out from duty. Everything is for me! cries Stirner. Even what he gives is still his. And there can be nothing to give unless one has cultivated his Ego before conferring the gift. Unless the gardener has given his time to raising the most beautiful plants how can his gift be worthy? Strangle your instincts, throttle your inner nature, stifle the soul’s cry for joy and power and its hunger for its “ownness”—and Nature will brand you a sloven in your very gait and secrete the venom of your secret spite in all your “gifts.”
+
+Stirner’s doctrine of the Ego leaves no room for the Socialistic state. He deals sledge-hammer blows at that fallacy. Socialism is to him, as it appeared to Herbert Spencer and Gustave Le Bon, another form of slavery. Socialism is only the popularizing of that old enemy, the State. The mantle has fallen from the shoulders of the old gods onto a newer being—the People. The Socialist believes that the State can do what the individual cannot do, forgetting that the State is no other thing than the people. As Stirner truly says, there is no such thing as a body; there are only bodies—that is, the State, like all abstractions, is a myth; there are only individuals with Egos. The Socialist believes there are individuals and a State. He makes a thing out of a word, galvanizes it into a semblance of life, sticks a crown on its head, puts a gilded wand in its hand, sits it on a throne of theories, and cries, “Behold the Deliverer of Man—the State, the People!” Always the slave of words—this poor bedeviled Man! Always there is a New Jerusalem—a lazy man’s Utopia. Once it was Paradise—now it is Socialism. It is only the latest illusion. There is no short cut to happiness. There is no hack stairs to the House of Life. What the individual cannot do for himself the State cannot do for him. Nothing degrades like dependence; nothing undermines a man like the certain guarantee of a living. The Ego must fight and bleed for its “own”—that makes the Ego godlike.
+
+Stirner foresaw this great Socialistic propaganda that is on us. He foresaw a slavery more terrible than that which ever prevailed in ancient times following the erection of the Socialistic State. By destroying the competitive system the principle of individuality, the profoundest principle in nature, would he sapped at the core. Men, always certain of life and the necessities, would lose the one supreme characteristic of their manhood—the ability to struggle and conquer. Under Socialism we should be ruled by a gigantic trust called the State or the People—all names for one thing. The Ego would be regulated as in mediaeval times, and on the same theory, the theory of tyrants—“public improvement.”
+
+What should a man he helped to do then? To make a better fight, to give a deadlier blow, to strike surer, to battle for the preservation of Ego. But he should be guaranteed nothing except death if he fails. What is injustice? The equal distribution of goods; guaranteeing life to those who cannot fight; preserving the weak at the expense of the strong. All men are born unequal. Socialism—the Social State, Stirner calls it—is confiscation of Ego. It is popular with those who have nothing.
+
+Whatever of great things has been done in the world has been done by the individual. The individual—not the State or the family—is Nature’s unit of value. All that makes for material or mental development has sprung from individual initiative, lashed by the thongs of pride and necessity. And wherever the State or the Church has attempted to regulate the individual and the activity of Ego decay has followed. The old autocracy reigned on the theory that one man should rule all men; the new autocracy is called Socialism; it merely reverses the scheme. It believes that all men should rule each man.
+
+Socialism abolishes the fear of danger in the Ego of the individual. She smashes his mainsprings, fear and courage. No man is born with a right to a living or anything else. He has only a right to what he can get and hold. Man’s only right is a competitive right. The State is always evil, asserts Stirner—and Socialism is merely another gag.
+
+Max Stirner’s dream of an emancipated Ego is futile, and his reasons for dreaming it were sublime. He imposes on our brains a sublime ideal of human development. It is like the North Star—a great light to steer by, but he who tries to reach it is mad, mad, mad.
