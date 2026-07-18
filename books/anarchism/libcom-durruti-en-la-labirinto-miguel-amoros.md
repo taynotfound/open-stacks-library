@@ -1,0 +1,30 @@
+---
+title: "Durruti En La Labirinto Miguel Amoros"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/durruti-en-la-labirinto-miguel-amoros"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Biografio pri la vivo de Buenaventura Durruti."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/durruti-en-la-labirinto-miguel-amoros)
+
+La historio de nia enlanda milito estas plena de demandoj, kies objektiva solvo estas neceso por kiuj luktas kontraŭ la detruo de la historia kono entreprenita de la potenco, ĉar la neniigo de la historia memoro asociita al la proletaro signifus la malaperigon de ĉiu revolucia perspektivo. La figuro de Durruti, kiel personigo de la anarkiisma proleta revolucio de 1936, koncentris multajn el tiuj demandoj, veraj vundoj de la liberecana movado, kiuj por ties propra profito konvenas teni malfermitajn por prifosi ilin. Se ili doloras, estas signo, ke ĝiaj ideoj postvivas. Tiuj ideoj estas senprezaj. Tiuj, kiuj klopodis vendi ilin, nur vendis sin mem. La anarkiismo aŭ estas radikala aŭ estas nenio. Tie lokiĝas la vera ortodokseco. Tamen, en la tempoj de la spektaklo kaj la kulturo de homamasoj, la pasinteco estas kvazaŭ moderna varo, konsumebla kiel ajna alia; kultura objekto por distro atingebla per kolekteblaj kajeroj, lumdiskegoj aŭ televidaj serioj. La bando de historiistoj de la universitato jam ne havas la taskon de falsado aŭ kaŝado de la pasinteco, kiel faradis la stalinistoj, sed ĝia aliigo en spektaklon. La unua paŝo de tiu preparo por la konsumo estis la muzeigo; la dua, la banaligo. Por la universitata bando, la historio estus grandega maŭzoleo el kadavroj, kiujn oni povas disŝiri kaj analizi, kiel oni farus kun la mumioj de Egiptujo. La distanco, kiu nin disigas de ili, devus esti tiel eksterordinara, ke nenion oni devas timi. La kadavrofaka vidpunkto certigas la malproksiman momenton de la forpaso kaj disfaldas gamon de elekteblaj hipotezoj. Tiu «plura» aspekto estas la marko de la varo; en la spektaklo malmulte gravas la moralaĵo. La pasinteco iĝas
+
+ujo de donitaĵoj per kiu oni konstruas ajnan intrigon. Ni tiam povas pasi de la historio al la romano pri privataj kaŝpolicanoj. Oni laboras por la forgeso, sed alie: se la stalinistaj historiistoj antaŭe uzis la estantecon por reskribi la pasintecon, la nuntempaj spertuloj kaj felietonistoj uzas la pasintecon por mistifiki la estantecon. La historio-spektaklo legitimas la superregadon kvazaŭ ĉi tiu ne rilatiĝis kun tiu; enbalzamigante kadavrojn, la povo volas montri sin, kiel la leĝa heredanto de la venkitoj kaj ne kiel la venkinto de la antaŭtago. Kiel bona uzurpanto, ĝi volas, ke oni ne sciu, ke ĝi estas ĵus alveninta, ke ĝia pasinteco estas freŝa, ke ĝi preskaŭ ne havas historion. Ke ĝi estas tie ĉar neniu decidiĝas forĵeti ĝin. Bona ekzemplo estis la «liberecana socialismo», kiun antaŭ jaroj surprize eldiris la tiama prezidanto*. La okulfrapa enmerkatigo de la Enlanda Milito respondas al tuta perdo de la historia senco en la homamasoj, malplenaj, brutigitaj kaj timigitaj. Tamen ĉi tiu perdo ne estas kompleta kaj sekve havas rimedon. La historio ankoraŭ ne apartenas al kiu ĝin manipulas. Durruti nur mortos se triumfas lia mitigo tiel, ke lia reala loko plu restos ne okupata. La vera senco de liaj vivo kaj morto estas bone reflektita en la linioj, kiujn al li dediĉis la verkisto kaj anarkiisto Rodolfo González Pacheco, kiu lin konis en Argentino kaj restadis en Hispanujo dum la revolucia enlanda milito:
+
+La anarkiismo antaŭ ĉio estas pozicio: la libera homo. Volante esti tia, li luktadas kontraŭ la medio, reala aŭ transtomba mondo, metafiziko aŭ antaŭjuĝo, kiuj lin neas aŭ subpremas. Lia doktrino, la anarkiisma komunismo, estas senco, ne kliŝo: ekbrilo de lia sango kaj ne sociologia afero nereala. Li estas kaj aktivas en ĝi kaj spertas ĝin, kaj tiu estas lia dramo: ke la impulso de lia vivo, potenca aŭ delikata, esprimante sin per lia
+
+agado, povas malkovri, por unuj, la malklarigitan bildon de sanktulo kaj, por aliaj, la implikiĝintan bildon de bandito. Ĉi tiu estas la homo, kiun ankoraŭ ne komprenis la historio, nek antaŭsentis la arto kaj antaŭ kies paŝo kraĉas aŭ al si faras krucojn la stultuloj (la ĵurnalistoj). De li, de lia malluma vojo, kiu, de tempo al tempo, lumigas lian malamon al la tirano aŭ lian amon al la popolo, scias kaj sentas neniu, kiu ne estu alia liberecano. Kiel Reclus, la mildulo, sciis pri Ravachol, la dinamitulo. Kaj ke ili lin ignoras ankaŭ ne gravas. Kaj multe malpli nun, kiam ideoj, sentoj kaj adjektivoj revenas al la instinktoj. Bona aŭ malbona, malnobla aŭ nobla, ili esprimas nenion. La burĝo, per sia cinikeco, hontigis honoron kaj malhonoron. Restis la vortoj; la ŝeloj de pulpo, kiu turnis sin internen, en la radikon de la speco. Pli bone! De tie ili morgaŭ revenos pli bongustaj kaj bonodoraj. Pli esencaj. Por ĉi tio estas ankaŭ la milito per la premitaj dentoj kaj la espero de la triumfo ĝis en la vermoj de niaj mortintoj. Durruti, sanktulo aŭ bandito, ne estas, neniam estis, la reala, nia Durruti. Tio estas karikaturo aŭ legendo: la du barokaj bildoj malantaŭ kiuj ĉiam estis, starigita en sia tragedio aŭ poemo, la batalanta bildo de la anarkiisto. Kaj nur ni vidas kaj perceptas ĉi tiun. Mortis la homo. Antaŭ lia nobla labortago, kiu ne havis pli da salajro ol tiu de lia malamo al la tirano kaj lia amo al la popolo, ni meditu momenton: Kio estis Durruti?... Kolego, kies malplenon oni devas kovri, kiel siatempe li kovris tiun de alia. Priplori lin estus priplori nin. Kaj nun ni estas en la horo ekagi; ke la sango kaj la larmoj renversis internen, en la radikon de la kuraĝo. Marŝ’! Antaŭen!1
+
+* Noto el tradukinto: temas pri José Luis Rodríguez Zapatero, tiama ĝenerala sekretario de la Hispana Laborista Socialista Partio kaj poste prezidanto de la hispana registaro 1 Rodolfo González Pacheco, «Durruti», Carteles II, Editorial Nosotros, Valencio, 1937.
