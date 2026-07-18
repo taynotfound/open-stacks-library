@@ -1,0 +1,56 @@
+---
+title: "How Iww Can Contribute Working Class Revolution"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/how-iww-can-contribute-working-class-revolution"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Phinneas Gage goes over some of the changes in capitalism and the development within the last 10 years of the IWW as an organization committed to organizing."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/how-iww-can-contribute-working-class-revolution)
+
+Phinneas Gage goes over some of the changes in capitalism and the development within the last 10 years of the IWW as an organization committed to organizing.
+
+The late 19th century and early 20th century were characterised by tremendous changes to the nature of industry. The rise of coast to coast rail lines, assembly line manufacturing, and the consolidation of Capital into monopolistic trusts came the stagnation of the conventional trade unions of the AFL and the Knights of Labour. Many unions in the late nineteenth century began groping for some kind of national organisation that could span the continent of North America and bring back the ability of workers to wage the class struggle effectively.
+
+It is against this backdrop that the development of the I.W.W. must be understood. A change in the production methods and a change in the organisation of Capital itself fuelled the development of this new organisation. In 1905 there was also world wide ferment, class struggle broke out in Russia and ran concurrently to a world wide strike wave that led over the next half decade to the formation of the CNT in Spain and the CGT in France as well as countless other radical union federations all over the world from Korea to Argentina to South Africa to China.
+
+The situation in North America was ripe for a type of workers organisation that not only broke the mold of what was established in the nineteenth century as a union but carried the struggle forward- a struggle beyond wages and working conditions. The goal of the IWW was to change the conditions that made negotiations with a capitalist necessary at all.The momentum was so strong that several existing unions separated from the mainstream labour movement and coalesced around the new I.W.W. The Western Federation of Miners along with several other unions saw a new hope in the IWW and joined the new movement- but after only a few years they left.
+
+It’s important to note that what eventually became the IWW’s strongest sections were organised completely from scratch. There was no previous presence in lumber or in the wheat fields, and their legendary strikes in the textile industry were actually largely on their way to happening already when the I.W.W. was called in to add muscle. Through these struggles they organised the system of job delegates, the tactic of striking on the job, and a culture of developing militants through struggle.
+
+While the belief in Industrial Unionism came from an abstract and intellectual understanding of the labour market of the times, the organising techniques and tactics developped were built out of struggles. The restructuring of capital into trusts required organisations that could cross sectional and geographic boundaries in order to win gains, but this restructuring also allowed for the development of new techniques of conducting the struggle.
+
+Small scale and innocuous sabotage can bring production to a total stand still on an assembly line. A union based on craft is meaningless when your ‘craft’ is turning a single screw on a piece of metal that moves down a conveyor belt. While the I.W.W. eventually went into decline, industrial unionism, and the tactics developped by the I.W.W. lived on.
+
+What gave the I.W.W. it’s dynamism was the fact that it offered something different to workers. While the initial impulse in the I.W.W. was to recruit socialist workers into its ranks this only led to nasty splits and internal quarreling. When the I.W.W. was at its strongest was when it organised workers as workers and built them into revolutionaries through struggle. Eventually the organisation succumbed to repression and internal splits and lived on as a shadow of its former self for several decades. The I.W.W. We Have Today. Since the late 1970’s Capitalism has undergone a massive makeover. Increasingly Capital has moved away from the national trusts and taken the next step of establishing free trade through organisations like the WTO, IMF and World Bank. Production has followed this trend through the development of just in time production, total quality management techniques and various schemes aimed at ‘employee engagement’. One could write books on the changes capitalism has undergone, from the collapse of the gold standard to Japanese management techniques, capitalism is a very different beast than it was forty years ago and the trade union movement has stayed the same.
+
+Also there has been a move away from the colossal workplaces of the early twentieth century. Today workers are broken up into smaller more manageable groups where possible and increasingly front line production is moved to places where the working class has a much harder time organising. The trade union movement of today, much like the trade union movement of 100 years ago is stagnating, density is falling and their bargaining power is declining.
+
+The template for unions in North America is the Auto Industry. This is with good cause, at it’s height Auto indirectly employed more people than any other industry on the continent. It had people in auto plants, mines, foundries, car lots, maintenance shops, rail lines and pretty much every other corner of industry. Also much of the legislation governing unions was written in response to strikes in the Automotive industry. The Rand formula, our current system of grievances and arbitrations, and the format of government sanctioned collective agreements all were determined by strikes in the Automotive industry that spanned from the 1930’s to the 1960’s.
+
+The problem is that most workplaces, unlike in 1949, do not look like Auto plants. The size of workplaces has shrunk considerably, as well most people in North America today work much farther down the production line. Also many people work in the few industries that cannot be moved somewhere cheaper, like mines, transportation or the service sector.It is not a coincidence that the decline of the automotive industry mirrors the decline of the labour movement. The two were Siamese twins for 75 years.
+
+If there is one thing that is clear it is that what was working before is not working now. The pattern of union organisation established by the Automotive industry, that is unions based on large workforces of unskilled workers in large workplaces cannot levy enough dues to service the staff in these workplaces. A perfect example is the CAW attempts to organise at Starbucks in Vancouver B.C.
+
+The union was killed by high turnover and an inability to gain a large enough foothold in the industry by organising store by store contracts. Staffers complained of worker apathy (read, little knowledge of and use for the grievance procedure or extended contract negotiations). After a few years the CAW packed up shop and declared the industry unorganisable.
+
+If one considers the circumstances in British Columbia the labour movement under it’s current model is about as big as it can get. They have 40% union density in the Greater Vancouver Area, almost to a number those workplaces are larger workplaces. The few workplaces that are larger than 100 people are either being looked at for unionisation, or have an ongoing campaign. The other 60% of workers are in workplaces that are not financially viable in order to be serviced by a contract. In other words the dues levied from these workplaces are not enough to pay for a union staffer to service the industry. Also the workplaces are too small and spread out to develop a steward base that can act under the direction of a local executive the way stewards can keep in touch with their executive any sort of large installation. It is not a coincidence that the places where the labour movement does try and branch out are traditional union strongholds- like McDonalds in Quebec and Ontario, Starbucks in B.C. or Wal Mart in Saskatchewan and Quebec.
+
+Since 1999 the I.W.W’s membership has remained pretty much the same, approximately 2000 people. If you were to look at numbers alone the organisation has remained largely the same. However, production quotas may be good for establishing quantity, but they are a bad judge of quality. The I.W.W. is more effective at producing ‘wobblies’ than it has been for over fifty years- that is producing revolutionary workers with the tools to act collectively on the job. We have more members active in organising campaigns than at any time since the 1970’s. We have several very public campaigns at Starbucks stores and several more that are not public, we have a very real and tanglible presence in the messenger industry, we have several social services shops in Portland Oregon, and we have an institutional memory in the construction industry across North America that cannot be measured. We have organising attempts in almost every industry imaginable, the shadow of the I.W.W. is cast across wildcat strikes and workplace disturbances across the economy- even if the figure that casts the shadow appears to be a small and marginal force when the light is turned on it.
+
+What is interesting is how this organising has changed the I.W.W. Compared to ten years ago the I.W.W. now has a functioning organising department that can fund organising, pool resources and helps run a union sponsored organiser training program. The I.W.W. also has succeeded at building as much of a presence the C.A.W. ever did in Starbucks. The difference between the two is that the I.W.W. did this without paid staff and without signing contracts.
+
+Like the I.W.W. of old there is a combination of an intellectual understanding of changed conditions, but also a collective knowledge that has been built through struggle and committed to memory. This has happened today through the Organising Department. Where we have made gains and the struggle has developed is where we have moved away from the format of contracts-grievances-arbitrations and services from the outside. Not unlike conventional unions where we have taken short cuts to get better concessions through bargaining we have had to deal with the same worker apathy.
+
+This organising model has come to be known as Solidarity Unionism. Prior to this name others called it direct unionism.The role the I.W.W.has historically played is the same role it can play today. It can develop working class consciousness through struggle. However, we will deny many workers this opportunity if we take short cuts, if we prioritise short term gains by sacrificing long term power. We will also become no different than the mainstream unions we criticise if we adopt their organising models. In revolution we are nothing if not the sum total of our actions.
