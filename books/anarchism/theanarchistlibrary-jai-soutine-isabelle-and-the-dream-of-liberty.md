@@ -1,0 +1,98 @@
+---
+title: "Isabelle and the Dream of Liberty"
+author: "Jai Soutine"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/jai-soutine-isabelle-and-the-dream-of-liberty"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in Eberhardt Press Review Issue #01 http://www.eberhardtpress.org/pdf/isabelle.pdf"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "jai-soutine-isabelle-and-the-dream-of-liberty.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/jai-soutine-isabelle-and-the-dream-of-liberty.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/jai-soutine-isabelle-and-the-dream-of-liberty)
+
+"No one ever lived more from day to day than I, or was more dependent upon chance," wrote Isabelle Eberhardt. Franticly suicidal with grief at her mother’s death, her father offers her a revolver; sleeping alone in a remote desert garden under the star-filled Saharan sky, she is joined by a native who surprises her with a profound, intense love that lasts the duration of her life; as she sits in a courtyard, a zealot tries to cleave her skull in two, the saber hits a clothesline overhead and is deflected. Such was the life of Isabelle Eberhardt.
+
+Isabelle was born in 1877, the daughter of Alexander Trophimovsky and Nathalie Eberhardt. Trophimovsky was hired to tutor the three children of Nathalie’s then current marriage. He was a friend of Bakunin, studied philosophy, knew Latin and Greek and was fluent in Turkish, Arabic, and German. Nathalie found conversations with this handsome man of Armenian descent to be a stimulating distraction from her otherwise dreary existence as wife to an officer of the Tzar’s Imperial Army. Trophimovsky revealed to Nathalie his covert rejection of Christianity and his tendencies towards nihilism. This was an era of clandestine meetings, plots and political assassinations. Dissidents were exiled to Siberia. During the 1860s, anarchy and nihilism were on innumerable lips throughout universities and intellectual circles. The couple fell in love and fled Russia together, Nathalie with children in tow and Trophimovsky leaving behind a wife and four children. They traveled around Europe rather haphazardly, finally settling down in a rural house on the outskirts of Geneva. It was at this home, the Villa Neuve, that Isabelle Eberhardt was to be born and spend her early years.
+
+Trophimovsky (or “Vava” as the children called him) was stern, demanding hard physical labor and isolation from the Swiss among whom they lived. Isabelle was to be the only child Nathalie and Trophimovsky would bear together, and he adored her in his own very curious way. He took charge of Isabelle’s education and urged her to wear male clothes, cut her hair short and work outdoors alongside her brothers. Isabelle became a surpassingly skilled equestrian and demanded to be taught classical Arabic in addition to her other language lessons. This unusual education enabled Isabelle to later explore Africa on entirely different terms than any other European of her times.
+
+Trophimovsky instilled a strong contempt for the values of the bourgeois society in all of the children. Isabelle’s older brother and closest friend, Augustin, made the company of a group of anarchists and revolutionaries in Geneva. This milieu consisted largely of dispossessed German, Russian and Eastern European immigrants who sought asylum in Switzerland. The tolerance of the Swiss was limited, and when subversive literature appeared, denouncing all forms of authority, repression ensued.
+
+It is unclear what lead to Augustin’s hasty departure from Villa Nueve: his political activities, entanglements with opium or his troublesome love affair. Whatever the reason, it devastated Isabelle. Her closest friend and confidant, the one she loved more than any other, had left in an unfortunate and desperate manner. He joined the Legion. For Isabelle, the Villa Nueve had become overwhelmingly lonely and restrictive. Vava was gloomy and embittered, while Isabelle’s mother was deep in grief at the loss of her son. Isabelle anchored her will and forced herself to study, paint, and most of all write, while dreaming only of escape.
+
+n the spring of 1897 Isabelle convinced her mother to leave the dreary Villa Nueve and move to Northern Africa with her. They moved to the small coastal French colony of Bône, Algeria. Both were quickly disgusted by the supremacist attitudes in the European quarter and installed themselves instead in a small house in the rue Bugeaud made of whitewashed, rammed earth with a flat roof, upon which they would sleep in the open air. The cacophonous Arab quarter better suited Isabelle’s tastes, where she would wander the narrow alleyways, following the unmistakable smell of kif into cellars and back-room cafés. Here she would lie about lazily, drink to excess, smoke kif and wrestle the young Spahis, taking one home for the night when she so desired. As women were not allowed to wander unaccompanied through the streets of Bône, it was not difficult for Isabelle to choose her style of dress. She was soon to be seen in the long white burnous and muslin turban worn by Algerian men. The Europeans were horrified by her choice of residence, by her dress and even more by her promiscuity and drug use. Though the Europeans were aghast, the Arabs were more tolerant. Occasionally, young unwed women in North Algeria would dress as men; this was an accepted custom. Isabelle continued to write and was eventually able to make a living as a writer and correspondent. Her writings consisted of observational sketches of local life and customs as well as short stories. “I write, in the same way as I love, because it is my destiny,” Isabelle states. These early works appear in Departures , a selection of her short stories, reportage and travel journals. Departures is translated and edited by Karim Hamdy and Laura Rice and includes an essay by Hamdy and two essays by Rice.
+
+n Laura Rice’s essay, “Eberhardt as Si Mahomoud: Translation or Transgression,”Rice describes Isabelle’s relationship to her “guise of maleness.” Eberhardt was not attempting to fool people into believing she was male; rather, she was adopting the signifiers that would allow her to engage in male-gendered activities. Not only male attire but the presentation of herself as a man allowed her to explore the Northern African countryside on horseback, frequent the local cafés and generally pursue the life of freedom and autonomy she desired. Rice goes on to note:
+
+But, given the strict, asymmetrical gender divisions which where signified by the clothes one wore, the work one did, and the places one traveled, it is little wonder that Eberhardt’s self-presentation – in her dress, her behavior, and her writing – led to considerable discussion of her motives and character.
+
+Isabelle gave practical reasons for dressing as an Arab man; it gave her access to a world she would otherwise be excluded from. She did not always “pass” as a man, nor did she try to. This did not stop the French from hurling accusations of fraud and deceit. It surely was Isabelle’s unusual upbringing that gave her the strength and confidence to reject the role of the boring, colonial French woman and live her life in the perilous sphere beyond gender. She simultaneously breached the walls of gender segregation in French and Islamic culture while breaking the colonizer’s rule of supremacy by identifying herself with the “uncivilized” Algerians.
+
+rench authorities did not fail to notice the threat her presence in North Africa posed to their mission civilisatrace . Nor did they fail to notice the potential asset she could be under the right circumstances. When she first arrived in Algeria, Isabelle took a radical stance against the colonization of North Africa, going as far as to attend an anti-colonization march that transformed into an insurrection. Laura Rice writes of the experience in her essay, “Eberhardt’s Journey from Anarchy to Complicity”:
+
+“When the students revolted against the French colonial authorities on the night of March 14, 1898, Eberhardt was among them . She later wrote : ‘My chest was pounding and my head spinning, deliciously... I saw [the khalifa of the Aissaouas zaouiya] in front of me brandishing a truncheon... At every moment it slashed into the surrounding police, cracking skulls and arms raised in self defense. [The khalifa] seemed transfigured: He seemed to me to have ineffable mystical beauty.’ Seeing a friend of hers, all bloodied, trying to fend off four policemen with a short Moorish dagger, Isabelle picked up a sword and went to help: ‘For the first time, I felt the savage intoxication of battle, bloody and primitive, of males, body to body, wild with anger, blinded by fury, drunk on blood and instinctive cruelty. I knew the coming voluptuousness of streaming blood, of atrocious brutality of action triumphing over thought’ (Kobak, Isabelle, 64).... It is not difficult to see several themes that would sketch out the boundaries of Eberhardt’s brief life — adherence to Islam, siding with the underdog, hatred of the vulgar colonial mentality, love of anarchy and battle, and an impulse to record it all in writing.”
+
+Shortly after her death, Victor Barrucand heavily edited and published her manuscripts. Though Barrucand was an anarchist, he thought it prudent to exclude passages condemning the French government’s colonial policies as well as that which might shock the sensibilities of his audience. Barrucand, editor of Les Nouvelles , a daily newspaper of Algiers, had previously commissioned Isabelle to write a series of articles. The edit has been seen by some to be a bitter betrayal by a man who once showed Isabelle true friendship. It wasn’t until a collection edited by Eglal Errera, an Egyptian anthropologist and writer, was released in 1987 that Eberhardt’s work became available in a less censored form.
+
+Isabelle’s overall relationship to French colonization is clearly one of animosity and resistance. However, when it served her needs, she would play the part of collaborator. Isabelle wrote a letter to the editor of La Petite Gironde , in an attempt to clear her name of allegations that she rode from tribe to tribe acting as an agitator, pitting the natives against their conquerors. The letter appears in The Oblivion Seekers , a highly recommended collection of short stories beautifully translated by Paul Bowels. In the letter she writes:
+
+“Wherever I go, whenever possible, I make a point of trying to give my native friends exact and reasonable ideas, explaining to them that French domination is far preferable to having the Turks here again, or for that matter, any foreigners. It is completely unjust to accuse me of anti-French activities.”
+
+It was on assignment for Les Nouvelles that Isabelle traveled to Southern Algeria to report troop movements. While in the Kenadsa she slept on floors in the Arab cafés and spent the evenings in the Legion canteen. It was here that she met Colonel Lyautey who was planning a campaign to bring southern Algeria and eastern Morocco under French rule. Despite obvious ideological differences, the two became fast friends, and in order to gain his needed permission to travel in the area Isabelle accepted a mission from Lyautey. She was to make contact with the Sidi Brahim ould Mohammed, the head of the Sufi monastery of Kenadsa who wielded great political influence over the locals. Lyautey would have no hope of subjugating the region without this man’s approval. Isabelle was charged with the task of making contact with and convincing him that French occupation was preferable to the current internecine skirmishes that plagued the region. She was a perfect candidate for such a mission because of her mastery of the language, her devotion to Islam and her membership in the Quadriya. The Quadriya was an ancient Sufi cult into which Isabelle had been previously initiated. Isabelle traveled by horseback to the monastery and soon found herself within its walls. She quickly fell ill after her arrival but managed between spells of fever to find audience with Sidi Brahim ould Mohammed. Some accounts suggest they spoke of spiritual matters, and her time at the monastery was spent in prayer, contemplation and writing. There is no evidence to suggest that Isabelle represented Lyautey’s cause in any way to Sidi Brahim ould Mohammed. Though she later wrote of the Colonel’s plans in pseudo-objective manner that was becoming her journalistic norm.
+
+Isabelle’s story “The Poll Tax” is an excerpt from Seven Years in the Life of a Woman: Isabelle Eberhardt, Letters and Journals , edited by Eglal Errera and translated by Roberto Bononno. In this selection, Eberhardt presents her experiences in straightforward manner, detailing the horrific brutalities of colonial rule. It is far from the journal passages of insurrection and revolt.
+
+I had come with the young caliph of Monastir, Si Labbi Chabet, to collect the overdue poll tax, the medjba, levied on rural Tunisians. Si Larbi never suspected that I was a woman; he called me brother Mahmoud, and for two months I traveled with him, helping him with the work.
+
+Everywhere we went, among the poor, ungovernable tribes, we were received with hostility. Only the red burnous of the spahis and the blue burnous of the deira had any effect on these half-starved hordes. Si Larbi’s compassion got the better of him, and we became ashamed of what we were doing — he out of duty and I out of curiosity — as if it were a crime. Yet, there were moments of genuine enjoyment, the names of those places evoke unforgettable memories for me.
+
+Leaving Moknine, the road, which was separated from the olive groves by bushes of hendi (prickly pears), continued, dusty and straight. The olive trees, tipped with silver along their crests, kept pace with it along its length, rising and falling like waves. A small, plain mosque of dull yellow, similar to the buildings in the South made of tob, a few houses of the same ocher color, ruins, scattered tombstones — this was the first village in Amira, Sid’Enn’eidja.
+
+In front of the mosque was a small courtyard where the weeds had run wild and, toward the back, a sort of vaulted alcove beside which a fig tree spread its wide, velvety leaves. Nearby was the well, deep and cold. We sat down on a mat. To speed things up, Si Larbi asked me to help him. I would be his clerk.
+
+The spahis and the deira brought the sheik before us, a tall old man with an eagle’s profile and wild eyes, accompanied by the elders of the tribe and their sons, tall and thin in their tattered sefseris. What a strange collection of faces, burned by the sun and wind, with a kind of savage dynamism, severe and withdrawn.
+
+In a whining voice, the sheik gave a series of long, complicated explanations. At each moment, cries broke out around him, loud and with the sudden vehemence of this violent race, which moves from dreams and silence to turmoil. All of them affirmed their poverty.
+
+“I am rouge-nu, Sidi.” (A Tunisian expression meaning fakir, poor.)
+
+With a gesture of noble resignation, the Bedouin raises his hand.
+
+In most cases, the man , resigned to his fate, steps aside and sits down with his head bent; at length, the spahis put him in chains. Tomorrow, one of the red horsemen will bring them all to Moknine and from there to the prison at Monastir, where they will work like slaves until they have repaid their debt.
+
+Those who happen to own anything — a small house, a camel, a few sheep — are allowed to go free, but the caliph will have these few possessions seized by the deira in order to sell them. And our hearts bleed with sorrow when the women, in tears, bring out the last goat, the last lamb, upon which they lavish a final embrace.
+
+Then, leading our dismal and submissive band of chained men, marching on foot between our horses, we move on.
+
+Chralel, called Ichrahil by the educated. A few houses scattered among the olive trees, which are more luxuriant than anywhere else. We set up our long, low nomad tent made of goatskin. Beneath their brilliant outfits, the spahis and the deira are moving about, lighting fires and requesting the diffa, the welcome meal that is, unfortunately, offered to us with great reluctance
+
+At dusk, Si Larbi, spahi Ahmed, and I stroll around the village for a while. We come across a young woman, alone, who is gathering prickly pears. Ahmed approaches her and says, “Give us some pears, little cat! And take out the needles so we don’t stick ourselves!”
+
+The Bedouin is very beautiful, very solemn. She stares at us, hostile and withdrawn, with her large dark eyes. “God’s curse on you! You come to take what is ours!” And she angrily empties her basket of prickly pears at our feet and leaves.
+
+The red horseman, with a feline smile, stretches out his arm to grab her, but we stop him. “Isn’t it enough that we arrest the poor old men, without going after the women?” the caliph says.
+
+And yet these men, dressed in brilliant colors, come from this same people, whose misery they understand, since they once shared in it. But the spahi is no longer a Bedouin, and, in all honesty, thinks he is greatly superior to his brothers of the tribe because he is a soldier.
+
+We spend another quarter of an hour talking to an indescribable little Negro boy we ran into on the road, who has us bursting with laughter at the unexpectedness of his repartees and his lively intelligence.
+
+Then, after dinner, indolently stretched out on our mats, we listen to the young men of Chralel sing. The people of the Sahel are excellent musicians, and the shepherds in these regions still compose perfectly rhymed songs, where words and melody are of equal beauty:
+
+Oh mother, mother, my friend! The world has lost its smile for me ever since they carried you to the cemetery.... Grief dwells in my heart and tears flow from my eyes like bitter streams.
+
+In this description of disenfranchise-ment, Isabelle maintains a critical eye, but she no longer seems to have the fire in her belly to join those fighting back. In order make her living as a writer, she allowed herself to be backed into the corner of journalism and had not yet found a way to fight out of it. Luckily, she died before seeing the Africa she loved become the Africa Lyautey envisioned. In the end, Isabelle proved to hold as many contradictions as the land she fell in love with, fought for and perished in.
+
+In 1904 Isabelle Eberhardt was washed away by a torrential flash flood in the town of Ain Sefra, Algeria. Her body was found crushed under a beam and buried in mud. At the time of her death she was toothless, destitute, addicted to kif, and suffered from syphilis and malaria. Although her life was characterized by controversy, she insisted on living it on her own terms, refusing to conform to convention. Isabelle’s time was short but not without intensity. She overflowed with creativity, debauchery, loneliness, mad love and deep spirituality. Eberhardt’s writing is that of a vagabond, wanderer spirit that lived a life outside the conventions of European society. She followed the long winding white road, alone under a desert sky, full of naiveté, and brought to us deeply felt prose. As Mackworth wrote,
+
+“Isabelle’s life was based on a fantastic dream of liberty. At least she had the courage to live that dream to the full, accepting the misery and degradation that its realization entailed and proudly accepting death.”
