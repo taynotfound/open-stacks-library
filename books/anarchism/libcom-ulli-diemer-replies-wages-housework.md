@@ -1,0 +1,40 @@
+---
+title: "Ulli Diemer Replies Wages Housework"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/ulli-diemer-replies-wages-housework"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A reply to a letter disputing an account on a conflict between two factions within an apartment complex headed towards co-operative ownership."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/ulli-diemer-replies-wages-housework)
+
+A reply to a letter disputing an account on a conflict between two factions within an apartment complex headed towards co-operative ownership.
+
+The reply from the "Tenant’s Voice" refers to my article as "a fine piece of fiction" and as "a cornucopia of inaccuracies and distortions". However, the reader will look in vain through the reply for any indication of just which facts in my article are supposed to be untrue or distorted, since the "Tenant’s Voice" addresses itself solely to my real and imagined conclusions rather than to the facts I cited to support them. I suggest that readers go back and compare the reply with my original article: they will find that the central facts I cited there are not challenged in the reply, but simply passed over in discreet silence.
+
+Where inaccuracies and distortions do appear, however, is in the reply from the "Tenants’s Voice". I will leave most of these for later refutation by the Bain majority; here I just want to take up a few items that specifically misrepresent key aspects of what I said.
+
+The reply states I advocate that tenants "form a disciplined corporate entity capable of dealing with government bureaucracies which provide the necessary capital" and ... "that tenants become their own landlord". "If you can’t beat them, join them, right Ulli?" they say. In fact, however, the quotation they cite has been blatantly taken out of context. It actually appears, as anyone can verify by checking the original article, as part of a discussion of the potential problems of co-ops, and is specifically made as a criticism. In the passage in question I state, among other things, that the Bain experience "does not necessarily mean that it is best to pursue the co-op route", that in a co-op "residents’ control is greatly restricted by the fact that urban land continues to be controlled by the forces of the capitalist market", and that "one of the main drawbacks of the process of becoming a co-operative as it took place at Bain was the way it channelled the energies of a significant number of active and politically aware residents into legal and bureaucratic activities". To tear part of one sentence out of that discussion, deliberately misrepresent it, use it to make it appear that I am an apologist for the very things I am drawing attention to and criticizing and use this as a pretext for launching into a long diatribe against my supposed views — views I have specifically rejected in the very passage the quote has been taken from — well, I think this kind of tactic speaks for itself.
+
+Elsewhere, they attribute to me the view that "tenants were at fault for being intested in ’putting more money in their pockets’ ", that "we should not care about money", and that "it is OK ... for workers in the factory to want more money, while here in the community, money becomes a ’vulgar’ thing". Nowhere did I say or imply anything of the sort. What I did say was: (a) that "residents were of course interested in paying as little rent as possible ... And they thought a co-op would be the best way of achieving that goal."; (b) that the Wages for Housework stance was "a short-sighted position even in its own terms, since most co-ops do have a better track record on rents"; (c) that if necessary residents were willing to make some short-term financial sacrifices in the expectation of benefitting financially in the long run, and that this was a valid decision, and; (d) that the Wages for Housework position is a "vulgar form of economic determinism" because it is based on the premise that people will only respond, and can only be organized around, issues that have to do with putting more money in their pockets.
+
+It is this last point that is the key to the elitism of Wages for Housework. They think they have discovered the key to the class struggle, and insist on fitting everything onto their Procrustean bed. (The Trotskyists have essentially the same approach with their fetishization of correct "transitional demands" and "correct slogans".) Let us be clear: there is no dispute at all about the importance and validity of economic demands, whether in the workplace or in the community. What is under dispute is Wages for Housework’s insistence that money is the only thing around which it is permissible to organize, their arrogant belief that working class people cannot be interested in anything except money, and their demonstrated determination to actually sabotage working-class struggles that refuse to stick to the narrow goals Wages for Housework has predetermined for them. In this respect, Wages for Housework appears as a degenerated version of Leninism. Where Lenin proclaimed that the working class could by its own efforts attain only a narrow economic consciousness, and added the corollary that it was the role of bourgeois intellectuals to bring socialist consciousnss to it from the outside, Wages for Housework accepts the original proposition but adds a new corollary: the theory that it is the role of middle-class radicals (born-again under the all-encompassing rubric of "housewife", which conveniently erases all class distinctions) to make sure that the working class does not transcend the supposed economistic limits of its consciousness.
+
+Where this thinking leads became rather clear at Bain: Those residents who share the objective of forming a co-op — the vast majority — are characterized as the enemy, even though they are far more representative of women, the poor, and the working class (the group Wages for Housework claims to represent) than the rent freeze group.
+
+The rent freeze group is played up because it is said to be led by women who are taking on "management" or "the co-op". (The terms are used interchangeably, and it is stated, quite falsely, that "the Co-op managers would become the proud owners of Bain Ave.") Never mind that the co-op consists of all residents, who all share ownership equally and that major decisions are made at face-to-face meeting anyone can attend: the residents, we are assured, are manipulated by the executive. Who is on the executive? Twelve people, nine of them women, three of them single mothers on social assistance. They pay the same rents as everybody else. Never mind, they are not representative. How did they get on the executive? Well, they were elected, but elections are just bourgeois democracy: Trudeau was elected, and he isn’t representative. But wasn’t the decision not to hold a rent freeze made at a well-attended meeting, after a great deal of leafletting, convassing, and face-to-face discussion, by a 120 to 16 vote? Yes, but the leafleting by the pro-co-op group massively defeated again in a referendum where 87 per cent of residents voted by secret ballot? Ah yes, but that’s voting, and that’s bourgeois democracy, and that doesn’t count, remember? The government shoud intervene to impose the will of the minority on the majority. (But isn’t the government itself the main example of bourgeois democracy? Never mind, let’s not go off on tangents...) Besides, the people who favour the co-op want (collective) ownership of their homes, so they can’t really be working class or poor, since we all know homeowners are bourgeois. Everybody knows only tenants are really working class, and even then only if they agree with Wages for Housework...
+
+Thinking like this can’t be argued against. But then maybe it doesn’t have to be.
+
+Published in Volume 2, Number 2 of The Red Menace, Spring 1978 .
