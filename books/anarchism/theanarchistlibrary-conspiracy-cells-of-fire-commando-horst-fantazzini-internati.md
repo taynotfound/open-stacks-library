@@ -1,0 +1,68 @@
+---
+title: "International Network of Action and Solidarity – Informal Anarchist Federation"
+author: "Conspiracy Cells Of Fire — Commando Horst Fantazzini"
+date: "2024"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/conspiracy-cells-of-fire-commando-horst-fantazzini-international-network-of-action-and-solidari"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "&lt;interarma.info/2011/01/05/ccf_int_net&gt;. Retrieved on 09/06/2024 from lib.anarhija.net."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "conspiracy-cells-of-fire-commando-horst-fantazzini-international-network-of-action-and-solidari.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/conspiracy-cells-of-fire-commando-horst-fantazzini-international-network-of-action-and-solidari.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/conspiracy-cells-of-fire-commando-horst-fantazzini-international-network-of-action-and-solidari)
+
+“Solidarity is a constant attack against the system and society, an act where the words fabrication, innocent, guilty, do not fit. Because as revolutionaries it is our duty to always be guilty for this system, always dangerous and always proud of our choices. We are not persecuted for our ideas, but because it seemed poor to us to not transubstantiate them into actions.”
+
+Real solidarity between revolutionary consciences and groups of comrades is what the dominators fear most, it is the idea of a prospect that makes the ground tremble under the feet of the scum that call us terrorists.
+
+Today we express our absolute solidarity to the comrades all over the world that have passed the threshold of prison without bowing their head, without kneeling, without regretting even one moment.
+
+This era suits Caesar since the masses are calling out “those who are about to die salute you.” However while the majority of the drowsing society watches the spectacle of its own death, mental and physical, there are still People, there are still situations of disobedience and revolt.
+
+It is one of the few times where almost simultaneously in most of the metropoli of Europe and not only, widespread mutinies are being expressed in London, Paris, Rome, Athens.
+
+In the face of the new challenges of our era with society being one endless correctional facility and fortress-Europe setting the foundations of the new European class that marginalizes and removes as unnecessary those who are not absorbed harmoniously into the productive machine (immigrant minorities, e.g. the Roma in France, unemployed, poor), we wish for our insubordination to go beyond the narrow geographic limits of Greece in order to meet and act jointly with groups of comrades from all over Europe and the entire world so we can join our fists against the wardens of our life.
+
+A while ago we published an international call of solidarity for the upcoming trial on January 17th of members and comrades of our organisation as well as other individuals. In a very short time signals and gestures of solidarity arrived from all areas of insubordination strengthening the wild joy to live and feel the authentic side of the revolution. In Greece the comrades of the incendiary group “warriors of revolutionary conscience” set fire to a car dealership calling for a solidarity campaign for the upcoming trial on January 17th and passing the baton to the Thessaloniki comrades that preformed a barrage of incendiary attacks. Simultaneously comrades from abroad responded immediately to the call out, from the statement of the group “the autonomous cells of the immediate revolution-Praxedis G.Guerero”, the placing of an explosive devise by ELF in Renaut in Mexico against the summit for climate change, the placing of a smoke bomb in Portland in a private bar for cops, the bomb attack of the Argentinian comrades on the Greek embassy, the stoning of the police station in Bristol, up to the well-targeted sending of explosive parcels from the brothers of Italian FAI- Revolutionary Cell Lambros Foundas.
+
+For the all reasons in the world and those that have already been mentioned, we consider that today more than ever it is desirable, but also feasible, to put together an international network of anarchist individuals and groups of comrades.
+
+We do not want to speak at great length on theoretical acrobatics and hypothetical estimates. A few years ago on 21/12/2003 the comrades of FAI published an open letter to the anarchist antiauthoritarian movement in the prospect of creating an international Informal Anarchist Federation. A gew years later, we as Conspiracy Cells of Fire consider that the basic values of the “letter” continue to be a constant wager in force and we are willing with all our strength to contribute to this direction. Using therefore the basic characteristics of the text of the comrades of FAI we are also putting in motion the proposal for an international anarchist network.
+
+What we propose is to compose an international network of groups of comrades, antiauthoritarian and chaotic, with horizontal structure, open to everyone that wants to act, individually or collectively, without politicianism so he can satisfy the desire for life here and now.
+
+Each one can with his comrades and friends create an autonomous cell of action, in which theoretical research coexists harmoniously with their corresponding practical application. Through the execution of actions, regardless of the material damage (from slogan writing and smashing of banks and luxury shops up to incendiary-explosive attacks and executions of representatives of the system) each cell with its proclamation will participate in a open dialogue within the network but also with the wider radical circle. The communication will be based on responsibility claims and the distribution of theories by the tools of counter-information that the anarchist movement possesses (publications, flyers, internet web pages, stickers, pamphlets, etc.). In this way all those situations (supposedly conspiratorial clusters in the amphitheatres, the oratories in the assemblies, the gossips in the cafes) that are “vulnerable” to the dominance of informal leaders or can be affected by a police snitch or traitor that through his leaks can make the whole organization or part of it fall like a paper castle, will be abolished.
+
+Through every responsibility claim it is possible to open a thematic for discussion (e.g. for the immigration issue), to organize an expedition of solidarity (e.g. for the trial of certain comrades) to publicize a situation (e.g. the conditions of confinement in the prisons) or even to simply declare the existence of hotbeds of mutiny against the system. As had been mentioned in the past by the comrades of F.A.I. “an expedition of struggle via actions and the following proclamations, will also be followed by the rest of the individuals or groups according to their times and their methods”. The actions of each group will be accompanied by their signature. Particularly in the international callouts the appropriate time frame should be given in order that the comrades from each country can assemble those elements necessary to help them act on the plan. Let;s not we forget that the kilometric distance will be covered, beyond certain personal contacts where and if it is judged necessary, through proclamations and texts of reflection, which must be especially instructive and informative. In this sector immediate translations by the groups themselves and other comrades certainly helps.
+
+Also in order to clarify things in our contribution to the creation-support of the Informal Anarchist Federation – International Network we want to stress that our proposal, also supporting the plan of the cells of F.A.I., is a proposal of practical theory. We are speaking of a network of direct action where our positions and values will be propagated simultaneously and will be judged through the actions of direct attack on the regime. By putting on the central axis of the Network – Federation revolutionary solidarity, we mean all those aggressive forms of action (posters, demos, slogans, events) as well as armed actions against the structures and individuals responsible for the confinement of the comrades. Surely our solidarity does not have any relation with technical – legal support. “Urban society offers enough lawyers, social-workers, priests so the revolutionaries have something else to deal with” (F.A.I – open letter to the anarchist – anti authoritarian movement)
+
+Finally we never forget who our enemy is in this war. We know that the official state will turn all its forces against the internal enemy. As we also know that the majority of society often conceals within it an informal, more conservative, more fascist, more inhuman state than the state itself. It is also a fact that certain social minorities are more anarchist than the official anarchist and more revolutionary than the professional revolutionaries.
+
+We declare our war with authority today calling friends and enemies to take sides “and we should know that it will not be a minority that will make the revolution, however well armed it might be, but on the other hand, we are determined not to put off our revolt to when everyone will be ready.”
+
+We therefore call again the comrades, friends and groups in Italy, Argentina, Mexico, U.S.A, England, Chile, Brazil, Spain, Germany, France, Belgium and anywhere mutiny bursts out to contribute with their moves so that we turn the trial of January 17th for the case of Revolutionary Organization Conspiracy Cells of Fire into a vaulting horse of attack against the structures of the system. Because we know that the trial will last a long time, let it be considered that all this period is a belligerent period and a good opportunity for new attacks…
+
+At the same time we send our revolutionary greetings causing noise and chaos in the concentration camps of the metropolises to the imprisoned hostages all over the world.
+
+Gabriel Pombo da Silva, Thomas Meyer Falk in Germany, Marco Camenisch, Luca Bernasconi, Constantino Ragusa, and Silvia Guerini in Switzerland, Jock Palfreeman in Bulgaria, Abraham Lopez, Adrian Magdaleno Gonzales, Braulio Arturo Duran Gonzales in Mexico, Marcelo Villaroel, Freddy Fuentevilla and in jailed for the “bomb case” in Chile, Jean Marc Rouillan in France.
+
+We know that behind the imprisonment of each one of our comrades a clear choice is being hit. For this we consider it important that individual calls and expeditions of solidarity promoting each case separately be organized by groups. It is necessary that we resist the counterfeiting of the Media that twists the cases of imprisoned comrades, they isolate them and finally conceal them so that they can pass into oblivion. The only way to break the wall of silence is through our actions to give words to the hostages whose possibility of being “free” has been taken away from them. We want to sabotage isolation, to propagate the separate case of each one, his thoughts, his choices, his struggles. These people are not names in a phonebook, they are COMRADES and they are not alone. We call the prisoners themselves and their close action groups to give the spark for new international hostilities through their speech and their actions. We as Conspiracy will be next to them in the common battle in order to stop the exploitation of person by person once and for all.
+
+“The struggle needs consistency, needs devotion. The struggle for individual freedom should be considered equal to the fight for collective freedom. But the mistake that many make is that they misunderstand these significances confusing consistency with boredom and (self) discipline with authority. The struggle however does not need dogmatic people ready to die for the “cause” without living fighting, without living with passion.”
+
+(The autonomous Cells of the Immediate Revolution – Praxedis G. Guerrerro)
+
+P.S. Horst Fantazzini was a bank robber in Italy who was “politicised” in prison and gave hard battles for his freedom and for the collective struggles of the prisoners. In his modest personality the political and the penal abolished segregation of words and they were transformed into substance. Horst was a revolutionary Person that fought the system and its wardens. He robbed banks, flirted with freedom between his escapes and never bowed his head to his executioners.
+
+In July 1973 in an escape attempt he “arrested” as hostages his two wardens and wounded another by shooting him with a pistol that he had managed to smuggle into the prison. He asked for his freedom and the snipers of the police gave him bullets, seriously injuring him. A while later the undisciplined Horst tries the leap for freedom again, but his fall wounding him in the legs, leads him to high security imprisonment. Horst wrote and his words were bullets against system. He wrote about freedom, unfairness, the struggle, the revolution. After a period of semi-freedom (worked as a warehouse worker and returned to prison at 10.00pm) he was arrested on December 19th 2001 with anarchist comrade Carlo Tesseri outside a bank, and charged with attempted robbery. On December 24th 2001 he is found dead in the baths of the prison from natural causes. Now the system cannot arrest him again. Because Horst Fantazzini is alive in our memory, in our conspiracies, in the difficult but beautiful struggle that we give in order to take back the authentic side of life. Horst is one of us.
