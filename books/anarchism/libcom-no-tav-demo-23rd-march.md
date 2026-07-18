@@ -1,0 +1,28 @@
+---
+title: "No Tav Demo 23Rd March"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/no-tav-demo-23rd-march"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "No-TAV activist have launched a demo for the 23rd of March. The demo will be the first public event of the movement since the last Italian&#039;s general elections, which completely reshaped the Italian Parliament. How will the newly elected Parliament members interact with the grassroots mobilizati"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/no-tav-demo-23rd-march)
+
+No-TAV activist have launched a demo for the 23rd of March. The demo will be the first public event of the movement since the last Italian's general elections, which completely reshaped the Italian Parliament. How will the newly elected Parliament members interact with the grassroots mobilization?
+
+This Saturday, 23 March 2013 , will be a busy day. Berlusconi has called for a demonstration in his support, in Bologna there will be a demonstration by migrants and others against CIE (centres for identification and deportation), and finally a massive NoTAV demonstration will cross the Susa Valley from Susa to Bussoleno. The name of the NoTAV march is highly symbolic: “Defend your future”. The NoTAV activists’ claims are still the same: that their struggle is not just about halting the construction of a railway, it’s also a proposal for a different way of managing common goods. And this can be taken as against the current way of developing the country which involves high public expenditure on, for example, F-35 fighter planes, big infrastructure projects and CIE without paying very much attention at all to public education and common goods. The claims are still the same but the political situation is very different. The demonstration was planned before the elections and some people then even suggested it should be held during the election days. The unexpected electoral result has given it high political value. The demonstration is being organised by the Comunità Montana Valsusa e Val Sangone , in association with the NoTAV movement . The Comunità Montana Valsusa e Val Sangone is a body which, since the early 1970s, has brought together councillors and mayors of a number of mountain villages to develop policy and manage work such as waste management, social services, tourism and, importantly, transportation and mobility. This body is made up of representatives of legally elected institutions, recognised by the Italian constitution. For many years mayors and regional councillors have taken part in NoTAV demonstrations but this Saturday, for the first time in 24 years, deputies and senators of the Italian parliament will actively support a demonstration. Both M5S and SEL (Sinistra Ecologia Libertà) members will take part and have declared their intention to undertake a “parliamentary inspection” of activity at the building site. It is expected that 76 out of M5S’ 162 deputies and senators together with 12 from SEL will attend. Grillo has said that the M5S will take part but will not condone any illegal act, and will report any to the police, in line with the principles of the M5S movement. The endorsement of the NoTAV demonstration by M5S has generated much discussion. On the one hand, many in the Susa Valley voted for M5S in the recent elections. In Venaus, a centre of NoTAV support, M5S received 58% of votes for the lower house (the Camera) and 47% for the Senate. M5S are receiving greater media attention than other parties also involved with this demonstration: SEL was mentioned above; Stefano Esposito, a Democratic Party representative and historically a TAV supporter will join the demonstration as an “observer”; Laura Puppato (Democratic Party) has also changed her mind, shifting from the party line that strongly supports TAV construction. Many people think, though, that this greater visibility of M5S cannot undermine the NoTAV movement’s core values of self-representation and independence. It began as an environmental movement and has grown to embrace social and political issues. Its strength lies in its wide involvement of every kind of social movement, from the most establishment to the controversial autonomist movement. Alberto Perino, one of the leaders and spokesperson of the NoTAV movement, keeps saying that the “TAV can be stopped only by people, parliament can only slow it down”. On the other hand, many believe that the involvement of M5S will serve to dilute the demonstration both symbolically (by weakening not the aim of preventing the building of the railway but rather the means – the open and inclusive attitude) and practically (by strengthening repressive police apparatus and helping to identify those who commit illegal acts, even if they are in support of a common good). A final sad remark comes from the spokesperson of police trade union SIULP: “In every democratic country the Parliament is the highest guarantor of the respect of rights. [...] That’s why we ask that the next NoTAV demonstration, where over 100 members of parliament will take part, should not need the police because of public order offences.”
+
+StrugglesInItaly are you one person or a collective or what? It seems you write about struggles in Italy 24/7!
+
+Yeah, StrugglesinItaly is a collective based in a few cities, mostly in Italy but also in other countries.. they've also started translating articles into other languages, like French, Spanish or Portuguese so if anyone who speaks those languages wants to get involved then they should definitely get in touch !
