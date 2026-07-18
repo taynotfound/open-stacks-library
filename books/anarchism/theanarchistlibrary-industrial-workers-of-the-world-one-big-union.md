@@ -1,0 +1,182 @@
+---
+title: "One Big Union"
+author: "Industrial Workers of the World, William E. Trautmann"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/industrial-workers-of-the-world-one-big-union"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 2020-04-09 from www.iww.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "industrial-workers-of-the-world-one-big-union.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/industrial-workers-of-the-world-one-big-union.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/industrial-workers-of-the-world-one-big-union)
+
+Industry—from converting of raw materials into the things people want to the providing of services people need—is the center and foundation of our social life. The capitalists who control the natural resources, and who control the equipment and facilities necessary to transform raw materials and to provide these services, form the smaller of the two classes in society. Workers who gather raw materials, transform materials into usable goods, and provide services society needs are the other, and much larger class.
+
+The interests of these two classes is opposed. The entire social life of the world is shaped by these facts.
+
+The capitalist class is anxious to stay in control and keep the privileges that come from having that power. To make that control secure, it seeks to gain or keep control of all social institutions. It wants the government to write and administer its laws. It wants the schools to teach respect and obedience to the privileged few. It wants the press, television and film to shape our thoughts and feelings to serve its interests. And where it cannot get rid of the organizations that labor has built, it wants to control them too.
+
+Capitalists are threatened with the loss of their control by two outstanding facts:
+
+Modern industrial development has made their activities unnecessary;
+
+The working class is able, once it so desires, to take control of industry and thus establish a much more efficient and satisfactory society.
+
+The original function of the capitalist was to provide funds and management. Today management is the job of a specially trained section of the class of managers, and funds are amply provided out of the various reserves taken from profits. The system of corporate administration that the capitalists have built up has made them unnecessary.
+
+The capitalist class to power in society as the result of long struggles against kings and feudal land owners. Kings and feudal land owners ran the world based on a agricultural social system where the ownership of land was the basis of power.
+
+With the help of the common people who did the fighting, capitalists won the fight against feudalism because new inventions, procedures, and discoveries had made feudalism outdated. The parliamentary bodies that had been created to raise funds for the feudal order had also established a more efficient system of government, and had made kings and lords as obsolete as capitalists are today.
+
+Historic voyages and discoveries, improvements in navigation, and the new factory system had all made the ownership of warehouses, ships and equipment more important than the ownership of land. The basis of society had shifted from the farm to the factory, and the control of society had shifted to those who control industry.
+
+The conservatives of feudal times warned that the advance of capitalism would be the end of civilization. They were wrong, and for all its flaws, capitalism was a progressive step forward. Whatever of the old order was serviceable to the new was kept and cultivated. What was destroyed was aspects of feudalism’s rule that obstructed progress.
+
+Under capitalism invention and industry flourished as never before. Our ways of producing and living have changed faster in the last two hundred years than in the previous two thousand. Each worker’s capacity to produce is at least a hundred times what it was when capitalism first took over from feudalism.
+
+However, because our standard of living has not kept pace with invention, and cannot keep pace with it as long as capitalists control industry, the possibilities of abundance and leisure are wasted in artificial created shortages, depressions and wars.
+
+Modern economic development has made the activities of the few who control industry unnecessary. It has also reduced the number of people in the capitalist class. The growth of large corporations requires either the closing of a large number of little businesses or their absorption as subsidiaries of larger corporate conglomerates.
+
+At the apex of this economic pyramid, sits the few, the wealthy, and the powerful. They are an oligarchy who exercise nearly unaccountable authority over the economic functioning of the world, and pursue their private interests at the expense of the vast majority of humanity, and often at the expense of the very ecological vitality of the Earth which sustains us all.
+
+In the face of little organized resistance, capitalists’ greed knows few limits. In the United States, recent statistics from the U.S. Census Bureau show that one fifth of the population receives nearly half of all aggregate income generated in a year. Between 1989 and 1996 the wealthiest five percent of the population in the United States experienced a ten percent rise in annual income while eighty percent of the population had negative income growth. In the last quarter of the twentieth century, the rich have gotten richer while working people’s incomes have stagnated or declined.
+
+In countries other than the United States, the controlling clique is often a considerably smaller proportion of the population. Capitalists of every country coordinate their activities to extract the greatest profit from the labor of working people everywhere.
+
+Through cartels and multinational corporations, a handful of people plan and control the economic life of the world. According the United Nations’ Human Development Report 1999, the world’s 200 richest people more than doubled their net worth between 1994 and 1998 to more than 1 trillion dollars. That was more than the combined income of 41 percent of the world’s people.
+
+In 1999 the assets of the top 3 billionaires were more than the combined GNP [Gross National Product] of all least developed nations and their 600 million people. Nearly 1.3 billion people lived on less than a dollar a day, and close to 1 billion could not meet their daily consumption requirements.
+
+The few people who control the world’s resources have many servants, but few friends. Only these few would have their privileges decreased if the control of industry were taken out of their hands. The rest of us would be much better off.
+
+Since the rise of capitalism, the working class has grown in many ways. It has grown in numbers until it includes almost everybody. It has grown in knowledge and ability. The worker of today has to understand and be able to do things that would have baffled the engineer and scientist of a century ago.
+
+In place of a class of illiterate serfs, we are a working class able to read and write. We have an extensive literature of our own. We discuss the news of the world daily. We have also grown in organized power through unions and coalitions. Every step the working class has taken in building unity and solidarity has been a trespass on what was previously the complete the exclusive control of owners of industry. Whenever it fought to reduce the hours it would work, to increase the pay it would take, or improve the safety and sanitary conditions on the job, it had to unite and fight to win.
+
+As a result, organized working class movements have been fought by the capitalist class as its mortal enemy, And by the logic of events, that is precisely what organized labor should be. Every step forward that we take strengthens our position as the logical successor of the capitalist class to exercise control of industry. And because there is no class beneath us, our triumph means the first classless society since civilization began, and the end of all the horror, cruelty, stupidity, and injustice that necessarily go with class society.
+
+One big question for today and tomorrow is this: How is industry to be controlled? It is not so much a question of who is to own industry. Managerial control is what counts, and it has largely become independent of the actual investors. Who is to say whether industry is to run or stand idle? Who is to decide what is to be produced and where that product is to go? Who is to decide what services are provided and to whom? These are the important questions.
+
+Should modern industry be controlled by a handful of business managers?
+
+It must be one of the three. The corporate managers through their banks, their control over directorships, and their enormous influence over public debate through the media they own seek to insure their complete control over the economic life of the world.
+
+But their control, by its very nature, strangles that economic life, for it does not pay to let the working class produce all that it is capable of producing. So either those in control of industry ally themselves with those in control of government to save themselves from democracy, or those in control of government extend their regulation over industry and its workers, as in the state controlled economies.
+
+The Industrial Workers of the World see nothing good in an economy that is controlled by corporate managers or by politicians. Instead they want economic democracy—industry run by its workers through direct democratic process free from hierarchy.
+
+The greatest problem facing humankind is not the much-discussed question of production and distribution. It is the problem of power. It never has been safe to let a few control the affairs of the many, and it never will be safe. The depressions, the wars, the various other ills of the modern world, have been possible only because there was already an unsafe concentration of power in the hands of the few. What happened did happen as the result of the will of these few, not of the will of the many.
+
+Under capitalism every invention that has increased our power to produce or destroy has increased the power of the few and decreased the power of the rest of us. Every improvement in communication has extended the empire of this minority.
+
+And every time we give more power to some one to try and remedy the resulting evils, we increase the problem that much further. And this holds true whether we allow that power to fall to the present managers of industry, their friends in government, or their friends in the undemocratic business unions. Consequently the only safe and logical choice is economic democracy—industry run by those who do the work using democratic procedures on a daily basis for the equal benefit of all.
+
+We can run industry and thereby solve the problem of power, for all the power that runs this world comes from our own efforts. Our class has only to stop doing what it is told to do and start doing what it collectively decides to do, to deprive its opposition of all the power they ever had and to acquire for itself all the power it will ever need.
+
+Management of industry by workers organized to do the job is not a mere dream. It is the historic trend. It is the pole toward which every forward move of labor has pointed, whether intended that way or not, but it cannot be achieved without deliberately planning for it. If that job is not done, the counter trend wins out—regimentation of everything either by all kinds of business, by all kinds of government, or most likely, by their unholy alliance, fascism.
+
+Industrial democracy is the answer to many problems. It can keep alive the democracy that cannot survive when practiced only on election day. It can free us from want and fear, waste and war. With modern production methods it can enable ordinary people to get all the material goods they can use, by working about as much as they want to.
+
+It can give us security and freedom, those two most desirable ends, neither of which is possible without the other, for a person driven by want cannot be free, and the puppet is never secure. It can make organized society a harmonious whole, intelligently working for the good of all—for it is only when the all of humankind can decide what is to be produced and what is to become of the product that it can know what it is doing.
+
+Industrial democracy can be built only by an organized working class that is aware as a class of what it wants and how to get it, rather than giving decision-making power to .friends of labor. in political parties or to controlling cliques and vanguards within its own ranks.
+
+It must provide the most efficient structure for carrying on our daily struggle for better conditions and better pay;
+
+It must provide a comprehensive and flexible solution to the issues regarding the production and distribution of goods in an equitable and ecologically sustainable manner by making possible the efficient management of modern industry by organized labor.
+
+Fortunately, but not by coincidence, the same type of organization best serves both purposes; for by organizing the way we work, so that we have the same relations in our unions as we have in the process of production, we are lined up so as to have the most strategic advantage in our everyday struggle, and the necessary coordination for assuming the responsibility for industrial production.
+
+How to organize right is thus the immediate question. It is with that question that we are concerned. In organizing, the I.W.W. uses to the facts of the future we want because how we organize will define what the future will be.
+
+All industry is interrelated, so much so that it could be said that there is really only one industry—the production of goods and services. Consider your coat and the processes necessary to its production. It required not only the labor and materials used directly in making it, but also the buildings and machinery where it was made. It required the production of the material and the dyes. It required the transportation and the planning for all the trips for all the materials in it, and for the machinery and buildings used in making them.
+
+The workers involved in all these processes could not have specialized in making cloth and dyes in building factories and textile machinery, in operating this equipment, in transporting goods, and the like, if other workers had not specialized in building houses for them, providing food for them, and offering the various other services they needed. In fact it is difficult to think of anything the workers do anywhere that does not have some connection with the production of a simple coat.
+
+But this work is not random chaos. It is subdivided and organized much as your own body is subdivided and organized. It divides first of all into six major departments:
+
+Corresponding to these major divisions are the six departments in which the industrial unions are grouped in the table at the end of this pamphlet. The advantages in practical union matters in providing these departments will be pointed out later on.
+
+Within the departments are the industries and their industrial unions. Because of the interrelations that bind all productive efforts together, it is impossible to mark off the disputed territory of each industry with indisputable precision. An industry, after all, is a social aggregate of workers, equipment, and processes only somewhat set apart from other workers by their close interrelations. Accordingly, the line separating the industrial unions should not be thought of as a way of keeping the workers apart, but as a better way of keeping them together.
+
+To organize the working class into structures corresponding to the facts of industry is the aim of the I.W.W.. As a system of classification for this rational industrial unionism, it uses a decimal method that provides ample opportunity for any changes and additions that new inventions and industrial processes may make advisable.
+
+It is much like the system used by libraries to number their books, so that no matter what book may ever be written about any subject, there is a logical number to assign it so that it will stand in its proper relation with all other books ever written or to be written on the same subject. Similarly there is a logical grouping for every worker in the One Big Union plan of the I.W.W.
+
+Without the coordination furnished by One Big Union, it would be impossible to provide a scheme of organization that would unite workers so that they could take whatever joint action various occasions might require. The interweaving of industrial relations makes that so. For instance, the steel industry requires iron miners, workers in lime quarries, in coal mines and coke ovens and the fuel oil industry, railway, road, and marine transport workers, as well as the workers at the furnaces and rolling mills. Often these workers furnishing materials are employees of the steel companies. But for other relations it is most convenient to have these coal miners organized with other coal miners, these transportation workers with other transport workers.
+
+For effective working-class solidarity it is necessary that workers be able to plan jointly with either their fellow workers in their own industries, or with their fellow workers to whom they furnish materials. Only with the sort of industrial unionism that adds up to One Big Union is this flexibility possible. The lines marking off the industrial are not barriers; they are universal joints.
+
+In the table is shown in general outline the arrangement of industrial unions currently used by the I.W.W.. In all instances workers on the same job are to be members of the same union, and by all workers is meant all wage and salary earners (except those what have the effective ability to hire and fire), each industrial union deciding for itself who is eligible and who is not.
+
+Workers cannot blindly imitate employer organizations, but we should find it instructive.
+
+Employers organize primarily as partnerships, corporations, etc..., on an industrial basis to take direct action on the job, to run it so as to get the most out of it. This means running us so that they get the most out of us. They even set up special departments to make sure they do run us that way.
+
+Workers have little or no reason to compete or quarrel with each other, but we often find ourselves competing against each other. Employers have many reasons to compete or quarrel with each other, yet they manage to cooperate. The chief secret for that is that they organize special bodies for special purposes, and don’t mix these purposes up. For example, they don’t split up their trade association or federation over their political differences.
+
+They have built many intricate financial organizations, including worldwide companies. Through these organizations the capitalists of even supposedly hostile nations work together. Many of their most critical undertakings depend on an unwritten mutual understanding of their collective interest. They make it hard for any employer who does not play along with them. And they have managed to keep on running the world although they have repeatedly made a mess of it.
+
+Somewhere in the One Big Union plan there is a logical place for every wage worker, so that all fellow workers can most effectively exercise their solidarity.
+
+A few notes should be added about the structure of the One Big Union. Some of the industrial unions may appear to have too wide a scope for convenience; rolling mills, building textile machinery, and watch-making may seem to be more than one union should include. But the system of classification used permits any subdivision within the union for the formation of any section for which there may be actual practical reasons. Further it should be remembered that all the workers on one job form their own job or shop branch, and in it decide all matters that relate exclusively to that particular job.
+
+Since some jobs include a considerable number of subordinate activities, the rule that all on the job belong in the same union requires that workers be in different industrial unions than their occupation might lead one to expect. For instance, in a hospital, besides nurses, doctors, technicians, interns, etc., there are laundry workers, cooks, electricians, and many other hands, all of whom are in the same industry, and therefore in the same industrial union of Health Service Workers (I.U. 610).
+
+If it were not for the One Big Union idea, such industrial organization might build some handicaps. The laundry workers in hospitals might want to meet with other laundry workers to establish standard conditions in all laundries. With One Big Union to which they all belong, they have all the facilities for doing so, and for electing any committees to carry out their decisions. Or drivers, if they work for a shop or a factory, belong in the job unit and industrial union of their fellow employees. Yet they may want to meet with other drivers to agree on a common policy in regard to loading, using helpers, or the like. One Big Union enables them to do that, too. In any job situation, apprentices, trainees, skilled and unskilled workers all have more in common with each other than with the boss. One Big Union welds them all together to fight the bosses with the combined strength of the work force.
+
+Industrial Union structure is designed to unite workers in the way that will be most convenient for us. With whom can we best bargain collectively? With whom are we most likely to go out on strike? Such questions as these are the practical ones that decide in what industrial union any group of workers should be placed. The kitchen crew on an oil rig, the mess department aboard ship, the staff of a factory canteen, all do the same sort of work as that done by the employees of a restaurant, but they can bargain more effectively if they are organized respectively with other oil workers, seamen, and factory workers.
+
+In distribution, these common sense rules must be applied. Where the workers involved distribute only one company’s products, as with many gasoline stations, it will be best to organize with the workers supplying the product. The workers in the oil fields and refineries will be in a better bargaining position if they can cut off the distribution of their product. Similarly the bargaining position of the gas station attendants is better with the backing of those other workers employed by the same company. Crews on oil tankers however may find it best to organize with other seamen, but they will not touch “hot oil” in oil worker’s strikes.
+
+But where there are no such close relations with production, distribution workers will be better off organized together whether they work in department stores, clothing shops, or whatever. In all these instances it should be plain that unless industrial unionism adds up to One Big Union the labor movement will be handicapped in providing the different types of coordination that varying circumstances require.
+
+One Big Union is the glue that holds the industrial departments together. Without it they would fall into a useless, disorganized confusion.
+
+The division between the industrial unions must not be considered as walls keeping workers apart but as devices to unite them more effectively. In the I.W.W. all members are directly members of the I.W.W. itself, with voice and vote directly on their own industrial union affairs. They also have free universal transfer from the industrial union covering their last job to the industrial union covering the job to which they move, but with no voice or vote on the affairs of other industrial unions.
+
+Our immediate job organization is the job or shop branch organizing the place where we work, and only those working on that job have any voice or vote on purely job issues. Each part is responsible for itself except that industrial unions must not adopt rules conflicting with the general constitution, and central and job branches must not adopt rules conflicting either with these or with the by-laws of their industrial union. The I.W.W. is not a federation or congress of industrial unions; it is One Big Union of the working class. The interrelationships of modern industry make any other structure inadequate for the needs of labor.
+
+The One Big Union structure further avoids disputes about jurisdiction over workers whose classification is made doubtful by the complexities of modern production processes. For instance, it is desirable that all in the metal mining industry be in one union. But we find for example, that magnesium is obtained by chemical processes from sea water, first making milk of magnesia, then magnesium; that aluminum is obtained by electrolysis from the clay bauxite.
+
+In a federation of industrial unions there would be grounds for argument in which union to put them. In One Big Union this is of no great consequence, and they can be organized in whatever way they find most convenient. Or again, if a concern making a general line of electrical equipment turns out radios as a sideline, all employees will be metal and machinery workers, while if another concern specializing in cabinet work of different types, also makes radios, these radio workers will be organized as furniture workers.
+
+Unions in allied industries constitute industrial departments. The advantages of such organization are especially obvious in the instance of transportation. Railways, bus companies, truck companies, airlines, all provide substitute methods of transportation. If workers in these various industries are organized to act together when the occasion arises for them to do so, they will have all power that it might almost be said that the destiny of the world is in their hands.
+
+Think how much suffering humankind might have been saved if organized transport workers had refused to load or carry goods to any warring nation or any nations whose transport workers would not follow the same policy. It would have been a good investment had the rest of organized labor assessed itself the small sum each it would have taken to repay these transport workers for any wages they lost in consequence of such a policy. In this way a great good could be accomplished with hardship to none.
+
+Or consider how similar arrangements could make it foolish to hire scabs by making it impossible for scab-made goods to be carried. If we workers stick together right, we cannot be beaten down.
+
+What is proposed here is the organization of the working class so that it can stick together in effective solidarity. Every union member who has talked about unionism to other workers is all too familiar with the complaint, “A union is all right, but the trouble is that workers won’t stick together.” We don’t believe that complaint.
+
+We don’t believe it because we have seen so often the efforts of workers to stick together, and seen those efforts shattered by faulty organization that stopped them from practicing solidarity. Things do substantially what they are built to do; the same stuff goes into making a typewriter or a sewing machine, and behaves differently because it is put together differently.
+
+The same workers can be in a loose federation of organizations formed to serve some special sets of interests, or they can be in One Big Union. If a union is designed to keep us separated, then it will not be a surprise to find that “Workers won’t stick together.” But if we are organized to stick, then stick we will and be strong in the fact that we can.
+
+Rational industrial unionism designed by the I.W.W. to meet the conditions of modern industry emphasizes these basic rules:
+
+All workers on the same job, regardless of trade, belong in the same job organization;
+
+All workers in the same industry belong in the same industrial union;
+
+All members of these industrial unions belong directly as members of the One Big Union of the working class;
+
+Any worker changing jobs is entitled to transfer free of charge to the industrial union covering the new employment—“once a union member, always a union member”;
+
+No part of the labor movement should accept any obligation to work on materials furnished by strikebreakers, or to furnish material for them, or to fill the orders that strikers were supposed to fill; or cross any picket line, or aid in any way to break the strike of any group of workers.
+
+Such is the form of organization the I.W.W. offers to make the working class invincible. Are you with us?
+
+The purpose of the I.W.W. is to establish democracy in our everyday life on the job, and in the economy as a whole. Its practical policies are directed toward that end, and are essential to its achievement. They are determined by two basic principles: solidarity, and democracy within the union. It is necessary to avoid any practices that will interfere with the unity of our class, and it is even more necessary to make sure that the union, instead of running its members, is run by them.
