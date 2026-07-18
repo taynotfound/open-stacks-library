@@ -1,0 +1,58 @@
+---
+title: "Tommy Sheridan Have We Right Condemn Black Sheep"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/tommy-sheridan-have-we-right-condemn-black-sheep"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Controversial article from Scottish Anarchist issue 2 in defence of Tommy Sheridan which includes some useful insights into the differences between Scottish Militant Labour and its counterpart in England. Several letters criticising this article appeared in issue 3."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/tommy-sheridan-have-we-right-condemn-black-sheep)
+
+Controversial article from Scottish Anarchist issue 2 in defence of Tommy Sheridan which includes some useful insights into the differences between Scottish Militant Labour and its counterpart in England. Several letters criticising this article appeared in issue 3.
+
+He has been jailed for refusing to pay fines, arising from the occupation and vandalising of Sheriff Officers premises.
+
+He has been arrested on numerous occasions, the most recent being during the attack on the 'Pollok Free State' camp against the M77 by police and Wimpey employees on the 22nd March.
+
+He is the first socialist outwith the Labour Party to achieve instant public recognition since the days of John McLean, and is a proven communicator, whether on TV or Radio, or in speaking with working class people.
+
+So why does he incur such wrath amongst anarchists and other revolutionaries?
+
+So, why is the Riot so important to the anarchists and why do anarchists south of the border know so little of Tommy Sheridan since that one glorious sunny day five years ago?
+
+The story of the riot is well documented in the Acab Press pamphlet, Poll Tax Riot, 10 hours that shook Trafalgar Square 1 . Militant members, the stewards of huge marches that day in Glasgow and London were appalled at what they saw as the degeneration of the massive London march, and the media's spotlight on the battle in the square at the expense of news featuring 100,000 demonstrating in London and 20,000 in Glasgow.
+
+Tommy Sheridan was flown down to appear at the end of the London rally and as the 'leader' of the All Britain Anti Poll Tax Federation was pitched into the controversy surrounding the police attack on demonstrators. Sheridan and Steve Nally, the Militant London activist who was the Secretary of 'the Fed.' were instructed by the Militant leadership, then led by Peter Taffe and the ailing Ted Grant that the riot was a 'godsend' to the Tories and would 'alienate' activists from the anti poll tax movement. The script was that "200 to 250 of these individuals intent on causing trouble" had sabotaged the march (Tommy Sheridan BBC 31-3-90).
+
+Urged by the 'consensus conspiracy' that passes for news coverage, Tommy declared "we condemn it totally" and both he and Nally came out with the statement that "our Federation is going to be conducting an internal inquiry to try and root out the troublemakers" (Sheridan, LWT News 1st April) "...which will go public and if necessary name names" (Nally, ITN 1st April).
+
+In the months to come there was uproar in the APTF, both at federation level and in the local Anti-poll tax groups. Dozens of houses in Hackney and elsewhere were raided by riot police. The media conducted their populist witch-hunt to identify the 'ringleaders'. Eventually the clamour died down. Instead of resistance to the poll tax disintegrating it was Thatcher's government which was rocked and a salutary lesson was learned as to 'who your friends were'. The so-called internal inquiry never got beyond the drawing board, such was the level of outrage that basic solidarity with the marchers attacked by the police, imprisoned and in some cases jailed, had been breached.
+
+A year later Militant Labour was formed in Scotland, most of their members having been expelled from their beloved Labour Party. Militant Labour elsewhere took longer to make an impact, which in Scotland, especially clydeside, was helped by Tommy Sheridan's second place to Labour in the Parliamentary Election of 1992, closely followed by his and another victory in the Pollok ward in the District Elections of the same year.
+
+In Scotland, the media spotlight has continued, as Tommy can always provide "rent a quote", especially during the protests against water privatisation and a continued guerrilla war against the dreaded Sheriff Officers. Recently the attention has dimmed, especially with the emergence of the eloquent Lynsey Keenan of Earth First connected to the M77 issue. Outside Glasgow, Scottish Militant Labour has not made much of an impact with the partial exception of Dundee, and the political arena is still dominated by Labour with the Scottish Nationalists trying to muscle in.
+
+Elsewhere in Britain, Militant has not achieved the impact or benefits from the organisational stranglehold on the late lamented anti poll tax movement, and they are just another trotskyite marginalised sect along with the SWP and all the others, too numerous and unworthy of mention.
+
+Recently in mid February, the Glasgow Anarchists were host to a visit by 20 comrades from Tyneside, kindred spirits from a similar working class city: Newcastle. As with previous sorties by English and Welsh anarchists north there is a culture shock, and this was shown in their reaction to Tommy Sheridan up on the platform in George Square at the start of the M77/ Criminal Justice Act Demo. It is hardly surprising that Tommy Sheridan is viewed in the same light as Nally and the other Militant Labour leaders. In 10 hours the quotes taken from videos of the Trafalgar Sq. riot is followed by the assertion that Militant is "an organisation that is opposed to the working class fighting back" . This may be true in England & Wales, Scottish anarchists reserve judgement on this subject. For Scottish Militant, it simply appears false.
+
+The reason being is that Militant strategy has changed considerably from their days as an entrist Tendency. It is certainly true that few anarchists can match the Militant members from Pollok and elsewhere for their dedication to direct action. Nor are they disarmed by the ethic of pacifism, with many arrests associated with 'fighting back' literally, or failing to respect the property of Sheriff Officers 2 and their sub-species. Part of this stems from their recuitment of young people from the housing schemes and the everyday common sense of direct action if you have nothing to lose. As mentioned Tommy Sheridan has led by example, even after elected to the Council, and faced a jail sentence and countless arrests.
+
+Of course the appeal of direct action to Scottish Militant Labour has to be understood. There have been examples in history where Communist Party members took part in such actions, and even the SWP at times have to show their 'mettle'. The difference is that Militant now places community struggles at the centre of their strategy, no longer giving it second billing to workplace disputes and confrontation is part of the way people can see through the role of Labourism, as defenders of the status quo.
+
+Even as far as 'controlling' actions, a level of sophistication appears to have been adopted. The Alliance Against the Criminal Justice Bill, rechristined the Defiance Alliance is a case in point. Unlike the front organisation character of the Scottish SWP's "Coalition", the Alliance involves ravers, animal libbers, anarchists and - especially Earth First. Such was the structureless nature of the Alliance, the Scottish Federation of Anarchists tried to bring up the formal structure of the organisation at the February Alliance conference. Yes, Militant are dominant, but such the poor record (outside demonstrations) of anarchist involvement it could be a case of - by default.
+
+This begs the question. We have a right to be lazy, but have we revelled in it for too long. Many anarchists drop out because they've 'done their bit', had their youthful rebellion, got wasted and waken up to the reality of exploitation from such a dreamstate, and in the process collective action goes out the window. We have lacked the sophistication to realise that politics isn't stuck in a mould, and that we have no right to patent direct action as our idea. Possibly, of course, Glasgow Militants are a special case, and the charismatic Tommy has skills rarely seen in the revolutionary mindset. No doubt, taken the longer view, old Bakunin will be proved right again. Lenin's teachings are still followed by Sheridan, down to his assertion in his recent book that there are working class anarcho-syndicalists who understand struggles and the majority are an infantile rabble prone to sectarianism and manipulation by the State, and he believes all English Anarchists belong to the latter camp!
+
+Our criticism of Militant will only stand up if we 3 have a voluntary commitment to meet the dedication that their Party demands. Anarchist strategy and organisation will have to develop - the formation of the Scottish Federation of Anarchists is a small step, but isn't enough. Questions will have to answered about who anarchism appeals to, why, and why we let ourselves be marginalised or out manoeuvred time & time again, by the State and by statist revolutionaries. Let's put aside the nonsensical assessment that Sheridan is scarred for life due to Trafalgar Square, respect his and Glasgow Militant's commitment to direct action, match it by our own and, after eating some 'humble pie', rediscover a purpose beyond 'playing hard to get' away from the theatre of demonstrations.
