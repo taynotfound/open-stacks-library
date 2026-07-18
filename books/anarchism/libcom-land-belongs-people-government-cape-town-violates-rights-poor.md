@@ -1,0 +1,58 @@
+---
+title: "Land Belongs People Government Cape Town Violates Rights Poor"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/land-belongs-people-government-cape-town-violates-rights-poor"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Carmen Ludwig on the struggle from Cape Town - appropriation from below and repression from above."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/land-belongs-people-government-cape-town-violates-rights-poor)
+
+Carmen Ludwig on the struggle from Cape Town - appropriation from below and repression from above.
+
+Even 17 years after the end of the apartheid regime the majority of South Africans are living in the world’s most unequal country and are still fighting a daily struggle for the realisation of their constitutional rights. In July, Carmen Ludwig took part in the World Congress of Education International in Cape Town, speaking to a number of activists and occupants of land in Mitchell’s Plain there.
+
+Apart from its postcard scenery, the city of Cape Town promotes itself with being the second-richest city and the second-largest centre of economic activity in South Africa. The City at the foot of Table Mountain has aimed to become a globally competitive city, with the highest standard in infrastructure to attract business. The living standards in the city are also portrayed as exceptionally well: Averagely, residents of Cape Town have access to the country’s best health, education and housing services – however only averagely.
+
+Whilst this is surely true for the inhabitants of the rich suburbs, it must sound like mockery to the ears of the inhabitants of the townships in and around Cape Town. Cape Town alone lacks about 400.000 houses and roughly half a million people have no access to basic sanitation. Corruption and self-enrichment of the political class also deny the poor their benefits in housing and infrastructure. Consequently social conflicts are on the rise, concerning goods and the delivery of services, such as water, electricity and living space, and concerning resistance against forced evictions, reminding of Apartheid times.[1]
+
+Autonomous and community-based movements, such as the Western Cape Anti-Eviction Campaign, the Mitchell's Plain Backyarder Association, the Mandela Park Backyarders and the shack dwellers movement Abahlali baseMjondolo are part of the poor people's struggles in Cape Town, based on self-organisation and the shared understanding, that the poor are the foundation and the intellectuals of their own struggles.[2]
+
+It isn’t merely the denial of public services but also ignorance and lack of respect, which increase anger and frustration in the poor communities. Colin Graham from Mitchell's Plain, who supports the land occupants, comments: "The politicians take us for idiots because we live in huts and haven't got proper homes. Why do they use us, think that we are uneducated, stupid people and make empty promises? Holding our babies for the newspaper and afterwards they send the law enforcement to tear down the home of the baby." [3]
+
+Shortly before the municipal elections in May 2011, the open toilet became a symbol for the violation of the poor’s human dignity and the arrogance of those in political power. In Makhaza in Khayelitsha more than a thousand toilet facilities were built by the government of Cape Town, without any sort of walls or barriers. The dwellers were forced to refrain from using the toilet or to use it in full view of the public. Only because of protests lasting months and in order of the High Court of Cape Town, the government agreed to provide appropriate walls and to include the inhabitants into the decision making process about further issues.
+
+In the substantiation the court ruled that the implementation of the human dignity as guaranteed by the constitution means simply "that human beings be treated as human beings" and the open toilets are a violation of this fundamental right. The procedures undergone by the government is also an expression of contempt towards the poor, who are expected to put up with these toilet facilities, as Mzonke Poni, chairman of Abahlali baseMjondolo Western Cape illustrates: "The City deals with the poor at a quantity scale and not at a quality level. This expresses itself in building open air toilets for the poor. Imagine building an open air toilet at the Cape Town beach promenade Sea Point and forcing tourists to bring blankets along to visually protect themselves. That would be an embarrassment. But if given to the poor, the City sees no problem. They say: we did deliver something; they didn't even have the toilets in the first place. That is an insult to the poor!"
+
+The protests of the marginalised are battles of dignity and participation. How can the city expect to know which kind of toilet facilities are suitable and appropriate better than the residents themselves? With the slogan "talk with us, not about us!", Abahlali baseMjondolo brings this all to a point. Instead of being confronted with a predetermined decision the residents want to be taken seriously as political subjects and also want to be included in decision processes. According to Mzonke Poni, "there is a lack of political will in terms of engaging with people directly. The people are not viewed as subjects, but instead as objects and passive recipients of service delivery by the City. And I have to say, it is very disappointing and frustrating to be treated that way in your own country.”
+
+The occupation of an unused field by homeless people and backyarders in Tafelsig, in the Township of Mitchell's Plain in Cape Town stands as an example for a variety of struggles of the poor countrywide. Ibrahim Abrahams is one of the occupants, trying to defy the Capetonian winter by living in covered holes in the ground or in tents for over 90 days now.
+
+"Before we used to stay in a house in a backyard with five, unemployed people," he explains. "Although I don't have a roof over my head, it is easier for me and my family here on the field. I no longer have to ask others, but can take my life in to my own hands. On this field I have won happiness and freedom. We just want for the city to leave the field to us, so we can build our own home."
+
+The state’s housing system is opaque and inconsistent, failing to provide for fair distributed housing facilities. Consequently, the hardship and desperation of the poor result in the occupations of land. "The people that are occupying this piece of land, people who despite the odds decide to go and sleep outside in the cold are not doing that by choice. The circumstances have forced them", comments Mzonke Poni and explains: "The waiting list is a disaster. We need a different system to distribute housing facilities. People who are living under pressurizing conditions need to be prioritized. The City merely refers to the waiting list. But in that case, the people must at least be allowed to live in peace, where they are and where they want to stay. The land belongs to the people!"
+
+The Democratic Alliance, the governing party in Cape Town responds to the occupations with police repression and the criminalisation of the poor, instead of providing the highest standard of infrastructure as mentioned on the city's homepage. To that effect the City declared a policy of zero tolerance and founded the Anti-Land Invasion Unit in 2009, a specialised police squad with the task of preventing land occupations. During evictions the police use water cannons and rubber bullets against the dwellers, like on May 15th during the first evictions in Tafelsig.[4] The Capetonian Anti-Land Invasion Unit also uses the tactic of daily harassment to force the occupants to abandon the field, as Peter Adams, on the waiting list for a house for 13 years, reports: "Thousands of people lived here in the beginning. Most people went back to where they used to live because they are afraid of the police repression. The law enforcement comes on a daily basis, they arrest us, take our covers. What are we supposed to sleep on? We are helpless and we can't fight them. Who are we that they just come and hit here? We also belong here in Cape Town."
+
+Who has the right to the City and access to what kind of living space is a disputed question in South Africa. Appropriating land encourages the development of communities from below, independent and self-organised. This process could be supported und used for a betterment of the life of the poor by the government. Mzonke Poni shares this view: "If a piece of land is not used, not earmarked for anything, people must be allowed to occupy that piece of land and to build their own structures. The city just needs to ensure that they are supportive of the people, to ensure that they don't build structures on wet area or that they don't build structures too close to each other for example. The government should merely ensure that the community they are creating themselves will be better and safer than the current informal settlements, because the problems with the informal settlements in the townships are over-population, lack of streets and the hazard of shack fires."
+
+On the 30th of August 2011 the High Court of Cape Town passed a sentence on the occupation and a verdict against the occupants' right to stay on the field in Tafelsig. The process was accompanied by protests of residents of Mitchell's Plain outside the court. With reference to the waiting list the judge approved of the City's eviction order and the occupants were told to leave the field until the 26th of September. The judge also launched an investigation to identify 'ringleaders' of the occupation and bring them to account. This is an attempt to segregate the poor peoples’ movement and to criminalize individuals with the intention to discourage and prevent people from occupying land in the future.
+
+The City has now offered occupants to move to Blikkiesdorp in Delft, which was primarily built as a temporary relocation area in 2007. It is regarded as an unsafe area and as an integral part of the City's strategy to evict 'unwanted' people and dispose them there.[5] This strategy, which aims at whisking people away from one Township settlement to the next - disregarding their right to participation, personal will and social relationships - is inhuman, sustains segregation and therefore no way to solve any problems. This is also applicable for political priorities, which are in accordance with the current free market policies in South Africa, focusing primarily on the strengthening of competitiveness and therefore maintaining commitment to the interests of business and of the - mainly white - rich people.
+
+Mzonke Poni describes the attitude of the government as follows: "Let us spend less time with the poor; one cannot solve their problems because they are too many and, their problems are too big. Let us spend millions and plant roses at upper suburbs of Cape Town so that when rich people drive they must smell roses and say that the city works for them. Go to Khayelitsha and give them the bucket system instead of toilet facilities, so when people drive there they must smell their shit. That is the reality."
+
+This reality results out of politics which consciously put up with the increase of the country's unequal wealth distribution and therefore the rise and continuation of social struggles in South Africa.
+
+This article was published in German in analyse & kritik , No. 564, on the 16th of October 2011
