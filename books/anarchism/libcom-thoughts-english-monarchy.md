@@ -1,0 +1,34 @@
+---
+title: "Thoughts English Monarchy"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/thoughts-english-monarchy"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/thoughts-english-monarchy)
+
+ANDREW KING, born 1940, educated at Stockport Grammar School and Oxford, describes himself as Catholic in religion and fringe-anarchist in politics. He is now training for the priesthood at the (Anglican) College of the Resurrection, Mirfield.
+
+IT HAS BECOME CUSTOMARY NOWADAYS to regard Royalty as at least something of a joke and at most an outmoded but harmless constitutional relic. In any event, no-one takes it very seriously; most people who are politically conscious have more urgent and interesting matters to discuss and tend to shrug their shoulders when the Monarchy is mentioned, as though it were of no great consequence.
+
+Nor is it, positively speaking. The Monarchy has no power, and little influence on the running of the country. Nevertheless, the present system is in many ways insidious and reactionary and, indeed, such that no anarchist or socialist can possibly tolerate.
+
+It seems desirable at this point to go briefly over the well-worn but compelling reasons for objecting to the present state of affairs. In the first place, Royalty is supposed to be politically neutral; in fact, it is and always has been firmly linked to the aristocracy, the establishment and the right wing. (Instances, both general and particular, can be multiplied: the latest is Princess Alexandra's decision to marry a man who is director of no fewer than fifty companies). A sense of almost religious awe surrounds the Royal family: the Queen's mother falls and injures a foot — immediately she is attended by two doctors, one certainly a lord and the other at least a baronet. This totem-pole atmosphere is developed to a quite extraordinary degree. It is common knowledge that thousands of people line streets for hours in pouring rain to catch the briefest glimpse of any Royal person; it is equally familiar that any railway station which is to be graced by a visitation is spring-cleaned and re-painted to an unprecedented extent at the last minute and that, as often as not, the signboard with the word gentlemen upon it is removed or covered over. Some of the more fantastic details are not so generally known. When the Queen visited an Oxford college a year or two ago, the preparations included the provision of a velvet lavatory seat-cover for her use …
+
+But it is unnecessary to elaborate — the point will be taken. A second, more serious objection is the economic one; the amount of public money spent on preserving this antique symbol is admittedly not large compared with that put into 'defence' but it is very consider-able when set alongside, say, pensions or education grants, The royal yacht, several large residences as well as Buckingham Palace (which itself requires about two hundred staff and still has paid soldiers on guard in front of it), half-a-dozen aircraft (often flown at the Duke of Edinburgh's private whim, greatly inconveniencing regular fliers) and all the other paraphernalia, not to mention annual allowances — these represent enormous sums which it is difficult to argue could not be better spent. After her baby is born, Princess Margaret is given a convalescent holiday in the West Indies (incidentally without the child) before returning to her residence, which the Government has had renovated at a cost of £70,000 — and so on.
+
+What is so monstrous is that the whole thing is a sham from beginning to end: the 'monarch' is in fact no such thing. The Church of England prays daily for our most gracious Queen and Governor in the full knowledge that she is nothing of the kind. In fact, there is no monarchy in this country, but people are deceived into thinking that there is, and, what is more, that it matters. It is sometimes argued the Queen is a useful figurehead on to which people's interests and emotions can be focussed — a criminally stupid attitude. Those who argue thus are in the first place denying the value of individuals as opposed to the mass and in the second place attempting to bluff the country as a whole, trying to divert its attention away from reality. And it works. How many of those crowding Whitehall for the pseudo-military ceremony of Trooping the Colour ever give a thought to the realities of the military situation sanctioned by this country today? How many of those listening to the Christmas day broadcast consider what lies behind the half-hearted clichés and tepidly complacent phrases? On Christmas day, 1962, the Queen spoke of the devotion of old countries like ours to well-tried ideals of toleration and justice, with no distinction of race or creed. Such words are their own indictment. The whole weary business of the ceremonial opening of Parliament ('My Prime Minister'), the absurd blasphemy of the Coronation service, the detaining of criminals 'during Her Majesty's pleasure' — can it really be justified or simply ignored with a clear conscience? 'Let it alone,' cry the cautious reformers; 'it's not important.' But it is important: for the terrible thing is that we are not free to ignore it. Every time we go to a cinema, a theatre or a concert we are required to pay homage to the status quo by standing whilst the National Anthem is played; it is forced upon us. If we had any choice, it would be a different matter. The Tory party is in power, but we didn't vote for them and we don't want them. We are free to oppose them and to voice our opinions. But we are not free to oppose Royalty, not free in the same sense, at all events; we can choose whether or not we attend a concert at which Land of Hope and Glory is to be played — we cannot choose but hear God Save the Queen.
+
+What can be done towards ridding ourselves of this artificial tyranny? It has been suggested that an anti-monarchist league should be formed, but this seems ill-advised in these days of reforming clubs and societies — it would be too narrow and inward-looking. Again, it is quite true that anarchists and socialists have indeed got more urgent things to attend to, though many of them do not seem to realise that if hydrogen-bombs and capital punishment are to be abolished, the Monarchy must be abolished too. Could there not be occasionally, large-scale protests in the form of group refusal to stand for the National Anthem, or picketing of Westminster on the day of the ceremonial opening of Parliament? Malcolm Muggeridge and Lord Altrincham have made their stand in the Press — how much more should we be prepared to show our feelings? 'My objection to the Royalty symbol,' John Osborne has said, 'is that it is dead, it is the gold-filling in a mouth full of decay.'
