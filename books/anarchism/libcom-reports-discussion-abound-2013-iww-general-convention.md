@@ -1,0 +1,34 @@
+---
+title: "Reports Discussion Abound 2013 Iww General Convention"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/reports-discussion-abound-2013-iww-general-convention"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An account by Mathieu Dube of the IWW&#039;s 2013 General Convention in Edmonton."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/reports-discussion-abound-2013-iww-general-convention)
+
+An account by Mathieu Dube of the IWW's 2013 General Convention in Edmonton.
+
+This year my fellow workers of the Pittsburgh General Membership Branch (GMB) entrusted me to be their delegate to the 2013 IWW General Convention that was held in Edmonton, Alberta, Canada on Labor Day weekend, Friday, Aug. 30 - Sunday, Sept. 1. I will share my experience of the proceedings in the following lines. I chose to focus on what displayed, in my opinion, the most interest for the union membership. I apologize for the voluntary omissions.
+
+The first thing that stood out was how well the Edmonton branch took care of the logistics. The transportation was slick to the Friday “meet-and-greet” that took place in the same building that the convention would be held the following days, the Queen Mary Park Community League Hall located in a park. There were literature and swag tables offering an extensive selection of political books. Beer and alcohol were sold as part of a benefit. This event gave the attendees a chance to get to know each other before getting to work on union business the following days. The billets were sent in advance and, as was the case for me, if your flight got canceled, the local organizers were able to roll with the punches and accommodate you without problems. The lodging was coordinated efficiently and provided by local members that were genuinely hospitable.
+
+Saturday morning started with the credentials verification to ensure that all of the delegates were eligible to perform their duty. All delegates were given a free copy of the new book published by Recomposition Blog, “Lines of Work: Stories of Jobs and Resistance,” as part of its official launch. The whole day was dedicated to reports from the union’s officers and standing committees. Our General Secretary-Treasurer (GST), FW Sam Green, ended his mandate by providing us with enlightening comments on the challenges that the union is facing according to him. Of these, I would mention the difficulty that our current structures have in dealing with our international growth. Indeed, and it is a good problem to have: from a membership largely based in North America, our union has grown quite a bit Europe at the turn of the century. This poses a few challenges, for instance, that General Headquarters (GHQ) acts as the de facto General Administration for the whole union but also as the specific administration for members in the United States. The report of the Organizational Training Committee (OTC) was very impressive. This committee is in the process of formalizing the curriculum of the Organizer Training. The trainers will also be trained, and their work evaluated, so that we can ensure quality across all trainings.
+
+The most contentious report was that of the Industrial Worker ’s editor since she, the General Executive Board (GEB), and the GST have come to a decision to distribute the paper digitally by default, unless the member asks to receive a hard copy. Many delegates had questions and the editor, the GST as well as members of the GEB had the occasion to address the opposition of certain members and elaborate on the reasons that motivated this decision. I believe this discussion clarified things. From my interpretation, the decision was made because of financial concerns (i.e. that the printing and shipping costs had increased too much in comparison to the revenues) but also because the board, the editor, and the GST felt that there was some waste in the sense that resources allocated to printing and distributing the paper were too high for the actual need. A lot of papers were left to rot at GHQ because of the fact that we need to print more than we distribute. Also, a lot of members read the PDF version already and throw the copy they receive straight into the recycling bin.
+
+On Sunday, we moved on to working on the motions. There were two sets of them, a few emergency motions and motions that had been submitted on time to be included officially in the agenda. The first official motion was a constitutional amendment made in the spirit of adjusting the language of the structures used in workplace organizing to reflect actual practices. The job branches, which have no specified rights or responsibilities in the current version of the constitution, would be removed to follow the organizational committee’s approach that is closer to our current methods. The merits of letting shops use the union logo were discussed at length. Some delegates argued that our revolutionary mindset should prevent us from helping companies make sales by having the union bug on their product, others contended that a lot of workers made purchasing decisions based on the fact that products or services were made by unionized workers. In the end the motion passed as it was written, including the possibility to use the union bug. The second official motion, also a constitutional amendment, was aimed at modifying how charges are handled at conventions. The purpose of the motion was twofold: first, to guarantee that the charges are dealt with as much fairness as possible, which implies allocating enough time to review them—which isn’t possible in two days; and second, to allow all delegates to participate in union business rather than spend valuable convention time serving on a charges committee. The motion basically calls for a committee to be formed to deal with the charges over a longer period of time, rather than have one committee formed by convention delegates—which would rush the charges process during the two days of the convention. Both these motions will be put on the ballot sent to all members so that they can vote on their addition to the constitution.
+
+The convention left me with a very positive impression about the state of our union. Everyone was extremely serious about the work that needed to be done. The civil discussions were always carried out with the aim of finding concrete solutions to issues rather than petty politicking. The ability of the Edmonton branch to run this convention in such an efficient way inspired me to continue to work hard at building our local branch so that we could one day do the same. If the delegates that were at this year’s convention are typical of our membership, our union has a great future.
