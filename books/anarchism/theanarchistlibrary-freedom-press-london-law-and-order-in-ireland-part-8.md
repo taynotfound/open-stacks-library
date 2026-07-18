@@ -1,0 +1,50 @@
+---
+title: "Law and Order in Ireland, Part 8"
+author: "Freedom Press"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/freedom-press-london-law-and-order-in-ireland-part-8"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Freedom: A Journal of Anarchist Socialism, Vol. 1, No. 9, online source RevoltLib.com, retrieved on April 12, 2020."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "freedom-press-london-law-and-order-in-ireland-part-8.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/freedom-press-london-law-and-order-in-ireland-part-8.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/freedom-press-london-law-and-order-in-ireland-part-8)
+
+THE news that a small body of Spaniards and Italians had taken possession of the fort of Smerwick on the Kerry coast brought the whole of England's force to bear upon that point. Famine forced the little garrison to surrender. The men were disarmed, and Captain (afterwards Sir) Walter Raleigh superintended the cutting of their throats. For this and similar services Raleigh was rewarded with 40,000 acres of land in county Cork, which he afterwards sold for a goodly sum to Richard, first Earl of Cork.
+
+The illustrious poet, Edmund Spenser, was present at the Smerwick butchery, but whether he took active part in it or was merely a critical spectator of it we know not. He, however, was presented by his patrons with a piece of land and a fine house, which was in a subsequent revolt burned down. One of his children was accidentally burned with it, and all the cultured class of England execrated this abominable act of Irish barbarity!
+
+If Spenser did no fighting he did some writing in the cause of his masters. The measure for subjugating Ireland as laid down by him outrivals in its heartlessness the policy prescribed by Machiavelli for the general use of princes. He advocated the systematic destruction of the crops and the creation of famine thereby, which would ensure pestilence. He protested that his means would be certain of success, "and that speedily, for although none of them should fall by the sword, nor be slain by the soldiers, yet thus being kept from manure and their cattle from running abroad, by this hard restraint they would quietly consume themselves and devour one another."
+
+This was the course pursued by the government. Munster was ravaged most thoroughly, and Spenser himself tells us of the effects upon the people. "They looked," he says, "like anatomies of death, they spoke like ghosts crying out of their graves. They did eat dead carrion where they did find them--yea, one another soon after, in as much as the very carcasses they spared not to scrape out of their graves." The rebels, according to another eye-witness, were brought to so low a condition that three children were seen eating the entrails of their dead mother, upon whose flesh they had fed many days, having roasted it by a slow fire."
+
+A third writer enumerates the amusements of the soldiery, after the suppression of the Desmond rebellion. They collected their chance prisoners and filled houses with them, which they then set on fire, driving back with their spears the, unhappy wretches who strove to escape from the flames. They tossed children from one to another on their spear-heads, excusing themselves when remonstrated with about this unnecessary cruelty by saying they feared the little victims might grow up to popish rebels. Women were to be seen hanging upon trees with the babes they had been suckling strangled in the mother's hair.
+
+Holinshed adds his testimony to the efficacy of Spenser's panacea. "Whoever did travel from one end of Munster to the other would not meet any man, woman, or child saving in towns or cities, and would not see any beasts. The harvest having been burned year after year, famine cleared the land of those who had escaped the sword."
+
+One would imagine the spirit of resistance must have been completely crushed by such a reign of terror. But Elizabeth had to face a revolt more formidable than any preceding ones. It was headed by Hugh O'Neil, a nephew of Shane's, who had been brought up in the English court, caressed by its queen, who fondly imagined the touch of her withered hands could win the loyalty of the young Irish chief. He was restored to his country and made Earl of Tyrone on the condition that he should introduce English laws and the shire system. But he no sooner found himself master of Ulster than he threw off the mask, and assumed an attitude of defiance. At first the rebels combated successfully, and the failure of the young Earl of Essex to cope with them was punished with a traitor's death. Lord Mountjoy took the work in hand, and in three years Ireland was declared pacified.
+
+It was the peace, however, of the grave. Her majesty was informed that there was little to reign over but ashes and carcasses.
+
+The various reports sent by the officers in command must have been highly gratifying to the English queen. "Touching my manner of proceeding, it is this," writes Sir William Pelham; "I give the rebels no breath to relieve themselves; but by one of your garrisons or the other they may be continually hunted. I keep them from their harvests and have taken great preys of cattle from them, by which it seemeth the poor people, that lived only upon labor and fed by their milch cows, are so distressed as they follow their goods to offer themselves with their wives and children, rather to be slain by the army than to suffer the famine that now beginneth to pinch them." Again famine was found to be the speediest and most effectual means of subjugation. Even in Leinster, where Leland says the peasantry had "lived long without molestation and had cultivated their lands and established an unusual regularity and plenty in their districts," the work of devastation was continued. The soldiers cut down the standing corn with their swords, and the Lord Deputy approved the work as being precautionary if not absolutely needful.
+
+So abominable was the condition of the people after this third revolt, that a captain in Her Majesty's service, one Thomas Lee, was impelled to draw up very carefully in 1594 a memorial for presentation to the Queen. In it he gives a detailed account of the cruelty exercised by the English governors. "The Irish," he says, "who have once offended, live they never so honestly afterwards, if they grow into wealth are sure to be out off by one indirect way or other." An anonymous or pretended accusation sufficed. Some were arraigned for having been merely "present at the killing of notorious well-known traitors by Her Majesty's Servitors," and being condemned as traitors lost their heads, their goods being appropriated by their judges. Others being declared traitors disappointed their accusers by confessing and voluntarily asking pardon, offering at the same time great service to the State, and "being pardoned they gave good sureties for their well behavior, and their being answerable at all times at assizes and sessions when they should be called," nevertheless, secret commissions were given for their murder. Individual instances of brutal injustice are quoted in the memorial. It tells of one Irishmen living peaceably and thriftily in one of her "Majesty's civil shires," whose landlord thirsting after his wealth entered into practice with the sheriff of the shire to dispatch this simple man and divide his goods between them." He was hanged without the mockery of a trial, his goods being divided beforehand. "This," says Lee, " and the like exemplary justice is ministered to your Majesty's poor subjects there."
+
+But the immediate matter that prompted this memorial was the following: An agreement had been entered into by Governor Sir Nicholas Malby with the Lords of Connaught and others for the protection of their people in return for certain rent and services to the Queen. The same year, 1577, the governor published a proclamation inviting these country people to a meeting, engaging at the same time for their security, and that no evil was intended. A large number, between three and four hundred, having assembled on the Rathmore, Mullaghmast, they were surrounded by several lines of English horse and foot, fully accoutered, under Colonel Cosbie, by whom they were attacked and cut to pieces, not a man of there escaping. "And this," Lee informed her Majesty, "hath been by the consent and practice of the Lord Deputy."
+
+How paltry such details must have seemed to the Queen, who had gloated over the items of the carnage committed in her name! Contrast with them the report of Ormonde, who states that in assisting to crush the third revolt lie had put to death "SS captains and leaders, with 1,547 notorious traitors and malefactors, and above 4,000 others." Four thousand others!
+
+Truly when princes dance to martial music 'tis the people pay the piper. If the miserable remnant of the nation uttered any prayer for mercy, or besought a respite from the pitiless scourge of sword and gallows, famine and pestilence, they were not hearkened to. Could mercy be expected from such a government? Even the squirearchy and bourgeoisie of England seemed permeated with the principles of Machiavelli, in witness of which we quote the following utterance in a Parliamentary debate on Ireland: "Should we exert ourselves in reducing this country to order and civility, it must soon acquire power, consequence, and riches. The inhabitants will thus be alienated from England, they will cast themselves into the arms of some foreign power, or perhaps erect themselves into a separate State. Let us rather connive at their disorders, for a weak and disordered people never can attempt to detach themselves from the Crown of England."
+
+This sentiment, though not expressed with such frank brutality, is really operating in the minds of those who have framed the Coercion Act of 1887.
