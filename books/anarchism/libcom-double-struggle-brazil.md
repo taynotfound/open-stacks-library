@@ -1,0 +1,54 @@
+---
+title: "Double Struggle Brazil"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/double-struggle-brazil"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Blog about the demonstrations and riots which have swept Brazil in the wake of an increase in the price of public transport."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/double-struggle-brazil)
+
+Blog about the demonstrations and riots which have swept Brazil in the wake of an increase in the price of public transport.
+
+While the world has been watching Turkey, another country is experiencing revolt. That country is Brazil. Just like Turkey, it is relatively succesful, economically speaking. Just like Turkey, the results of economic growth are divided very unequally. Just like in Turkey, a relatively small provocation is setting off a much biggen chain reaction. Unlike in Turkey, that provocation is a direct attack on living standards. But the anger exploding goes much deeper than that.
+
+Brazil has seen strong economic growth, although this is slowing. In 2010, the economy grew by 7,5 percent; in 2011, the IMF ‘s estimate is 2,7 percent. Short-term slowdown is supposed to be followed by stronger growth in 2013, although, with IMF statistics, you can never tell. However, the parallel with Turkey, also a strongly growing economy moving in to slowdon wn but not quite in recession, is striking. Economies like Turkey, Brazil are becoming quite an important force in the world economy. What happens there, matters. Better watch out, and better be prepared to extend the hand of solidarity.
+
+What happens there, is revolt. In Turkey it was defence of the Gezi park that provided the spark. In Brazil, it is the transport fares that drive people to the streets in anger . On 2 June, authorities in the metropolis of Sao Paolo brought the price of a single ticket from 1.40 dollar to 1.50 dollar. This comes in the context of an inflation of 15.5 percent. And it proved the proverbial last straw. There were demonstrations on four consecutive days in the city, from 10 June onwards. On 13 June, 5,000 people protested. “The demonstrators were mostly university students, but the authoritues said there were also groups of anarchists looking for a fight.” The idea that some students might be anarchists by conviction, that some anarchists go to college because they like to learn, apparently does not occur to either “authorities” or the BBC. And the ones most “looking for a fight” were above all the police themselves. They used teargas and rubber bullets against unarmed demonstrators of which, yes, some set fire to rubber and others attacked shops. That is what desperate people do if you make life even harder for them by rising prices of public amenities in a context of inflation. There were 55 people with injuries, and the number of arrestst exceeded 200. “Police say they seized petrol bombs, knives, and drugs.” Sure. And yes, police acted with professionalism”, according to the state governer. Obviously. Repression, after all, is is their profession.
+
+This was all reported on 14 June on the BBC website. The following day, the Guardian had more . Demonstrations in Sao Paolo, Rio de Janeiro, Porto Alegre and the capital Brasilia itself. 130 people temoprartily detained, at lest 100 demonstrators hurt, 12 police agents injured as well. Sometimes police attacked basically nonviolent crowds. Sometimes, demonstrators showed their anger by painting graffiti, smashing windows, setting garbage to flames etcetera. Police say they attacked because demontrators took another read thab permitted, and threw things at the police. Police charges were ferocious, with rubber bullets, tear gas, truncheons. Even the mayor of Sao Paolo admnits that police have not been following “protocols” and an investigation is being announced.
+
+Why the anger? There is the rise of subway and bus tickets. But there is more. “It’s about a society that is sick of corrupt politicians not making good on their promises to make improvements… We want decent education, healthcare and transportation. That’s what the fight is all about”, according to a 24 year old witness of the protest. It is the same story all over again: while economic growth is pushed, inequality grows. People protest, police attacks, and the revolt deepens and broadens. That is what we see happening in Brazil. If you want to see what the revolt and the repression looks like, check saladuprising.tumblr.com/ The name “salad uprising”, by the way, has in bizarre background: people took vinegar, usually used as salad dressing, to the demonstrations as an anti teargas measure. Police arrested them for that, because they say you can make weapons out of vinegar!
+
+There is more going on in Brazil than protest against price rises. There is revolt in the countryside as well. Brazil has built its neoliberal capitalist economy on the back of slavery, land robbery and downright genocide of the indigenous population. The struggle against colonialism and for indigenous liberation is continuing. In this struggle, communities clash with all kinds of resource exploitation and infrastructural projects that are building blocks of neoliberal development. In recent years, there have been actions against a giant dam building project at Belo Monte . This projects threatens to harm the lands and ecosystems on which indegenous communities make their living. There was an occupation of the building site on 28 May, not the first of its kind. There was a protest rally in the capital Brasilia against the project on 6 June.
+
+In the meantime, a shrill light is shed on a colonial genocidal past that is, sadly, continuing. An official report has come to light on the treatment of indigenous people by the state institution responsible for state-indigenous relations. It contains a chilling series of horror stories. Thirty villagers attacked from the air by dynamite; 2 of them survived. Smallpox, a deadly disease, spread on purpose to get rid of people. The list goes on, exceeding 1,000 crimes specifically mentioned, on a 7,000 page text. The report was submitted in 1967, but ‘disappeared’, as did many of the victims. Only this spring, it reappeared, a fate that was not granted tot the victims themselves. In the meantime, the military dictatorship has gone, but terror instigated by landowners and agricultural capitalists agains indigenous people and landless peasants is continuing. So, fortunately, is the resistance.
+
+Indigenous people are confronting an enemy that is not just colonial but neoliberal. They are attacked and murdered, because they are in the way of profitable export-oriented agriculture, and of the giant infrastructure needed to feed energy to the fastgrowing industry of Brazil. The same monster thate drive prices of subway and buses to unbearable heigts is driven ing the indigenous people from their lands. Demonstrating university students and occupying indigenous people are fighting different fights. But they are part of the same struggle, against a neoliberal state built on colonial foundations. Better watch out how that double struggle unfolds.
+
+Peter Storm This article was written for ROARmag.org, where you can find an illustrated and slightly edited version, under the title: “In Brazil, a dual struggle against neoliberalism” .
+
+Also, this clip from Brazilian TV has been doing the rounds on Facebook, pretty funny. Basically, this newsreader is ranting against the protests, and trying to get a phone in poll to say people are opposed to the violence. Let's just say it backfires a little: [youtube]IuL890rwNvo[/youtube]
+
+Comrades, We write in the name of the Anarchist Popular Union (UNIPA), the revolutionary organization of Brazil, to urge the international support and to do a denounce about the syndicates and syndicate centrals that are fulfilling a reactionary paper in front of the popular levant. The Brazil, since of June 17 live the true popular levant. The labors and students, the poor youth went to the streets to fight. Because of this we have a dead demonstrator and many wounded demonstrators. The police run over by demonstrators. Even with the use of firearms and four young boys shot, the demonstrates didn’t stop. The labors get on with the demonstrates without weapons against the police armed and armored cars. The hospital where the demonstrates took refuge was attacked with rubber bullets, gas bombs and pump moral effect. But we are ready to face this state repression. What we didn’t tolerate is the desertion and the betrayal of the syndicates centrals.
+
+However, the syndicates centrals are betraying the protests. Not only they didn’t take part with the streets combats but also are denouncing on the media the labors like vandals and criminals, these labors are resisting against the assault and abuse of authority. The CUT, the CSP-CONLUTAS, the CTB and the political parties are doing a public denounces of “radicals and anarchists” like criminals, preparing so the legitimation of the fascist state and its crackdown. The big corporations of media (newspapers, TV’s and radio) are urging the violence against the radicals. They speak about two sides: vandals and pacific demonstrates. These last ones would be who have the rights inside the democracy. The firsts would be common criminals. But those who are on the barricades can testify: the word that animate these youth is the resistance and the revolution.
+
+Right now the organizations and syndicates centrals are working to demobilize the protests. Incur themselves on the most infamous works.Comrades, it’s fundamental that the comrades know these events and that demonstrate your public solidary. Comrades it’s fundamental that the internationalist solidary is heard. We need that the Europe labors and world labors demonstrate your unrestricted support to whom resist on the streets, facing the death and the police brutality. We have been abandoned, betrayed and attacked by leaders that would be in the front line.
+
+1) Organize acts on the embassies and consulates of Brazil, in defense of the rights of resistance, denouncing that the labors that resist in Brazil didn’t are vandals, because they are recognized as legitimate fighters of the proletariat by the international organizations.
+
+2) Do a campaign of pression together the Brazilian and international press, denouncing the criminalization of the direct action movement in Brazil, to the liberty of the politics prisoners and withdrawal criminal processes. This internationalist support is urgent. We write from Brazil and direct by the barricades where we are on the front lines, facing the enemy and unfortunately too in our rear.
+
+Anarquism is fight! The people won! Anarchist Popular Union (UNIPA
