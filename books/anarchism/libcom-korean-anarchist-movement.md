@@ -1,0 +1,36 @@
+---
+title: "Korean Anarchist Movement"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/korean-anarchist-movement"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Let me first explain how I personally came to be involved with the anarchist movement in Korea. It&#039;s a story that goes back ten years."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/korean-anarchist-movement)
+
+Let me first explain how I personally came to be involved with the anarchist movement in Korea. It's a story that goes back ten years.
+
+There was a friend of mine then living in Osaka, an American anarchist named Frank Gould (Frank later disappeared in the Philipines, and is now believed to have been murdered by government agents), who was about to make the statutory trip over to Korea in order to renew his visa (something which foreigners on tourist visas had to do every 2 months). I had already received the names and addresses of some "old anarchists" still active in Korea from the secretary of the Japan Anarchist Federation. Most of them had been active in Japan together with Japanese anarchists before the war when Korea had still been a Japanese colony. I asked Frank to look them up, find out who was still alive, and to report on what they were doing,
+
+The report which Frank made on his return two weeks later went beyond my wildest dreams, and Frank himself was hopping with excitement. "Over in Korea they had a Makhno too! His name was Lee Nestor, and he was one of the most active of all the anarchists. In Manchuria too before the war, the Korean anarchists had their own army, led by Kim Chua-chin, a hero they called the "Anarchist General". In China the Korean anarchists took part in the Shanghai Labour University and helps build rural communes and a peasant militia in Fukien province Frank's report was an eye-opener, for we had had no idea that the Korean movement was so rich in its history.
+
+3 months later I hurried over to Korea to see for myself. In order to prepare for the trip I had consulted every avail able piece of written material on Korea in Japanese, but almost nowhere was there any mention of the anarchist movement there. In materials put together by the communists, the anarchists are dismissed as a faction of the nationalist movement, while in nationalist materials they are written out of the picture completely. In the course of this crash course in Korean history, I realized the immensity of the task at hand: it amounted to no less than digging out the history of the Korean anarchists from the heaped-up slanders of both the communists and the nationalists, and seeing that their history gets the recognition it so deserves.
+
+There are today some 650,000 Koreans still living in Japan, half of them born here since the war. Divided into communist and nationalist factions reflecting the political division on the Korean peninsula itself, none of the postwar generation have thus been told the true history of their country. There is a crying need for them to know the history of those who fought and shed their blood with the vision of building a new Korea which was truly free, one which had nothing in common with either of the regimes which control present-day Korea.
+
+My first surprise upon arriving in Korea was to find that, much as the anarchists there might be mainly "old" prewar veterans, many of them in their 70s, they had a solid organization, and were, moreover, very active. What surprised me even more, though, was to find 'that there already existed an 'Editorial Committee for the History of the Anarchist Movement in Korea'. It had gathered a considerable number of materials, and was well-advanced in the work of editing them. I had arrived right in the middle of the editing work. When I suddenly turned up to announce that "I wanted to write the unknown history of the Korean anarchists and publish it in Japan", the effect was to push them into a new burst of energy. Nevertheless, it was to be a further eight years before the book would be published in Korea. In the meantime I made several trips there, jotting down all the stories I could hear from the veterans I met, collecting all the documents I could lay my hands on, succeeding little by little in shedding the first rays of light onto an area of Far Eastern revolutionary history that was almost totally unknown in Japan.
+
+The book which finally emerged in Korea was truly a credit to the long years of work that had gone into it. 460 pages long, it bore the subtitle 'Part One: The National Liberation Struggle Period'. The sequel, to be called 'The Period of Constructing a Free Nation'. treats the period after 1945 and is scheduled for future publication. Initial responsibility for compiling Part One from the mass of documents that had been collected was undertaken by Choi Kap-ryong. Part Two was to have been the work of another veteran, Cho Han-yung, but Mr Cho tragically died when the work was only half-completed, and the task has presumably been taken over by the other comrades. Overall responsibility for composing and editing the final text, adding explanatory introductions and so on lay with yet another veteran, Ha Ki-rak. The principal contents of Part One are as follows: A. INTRODUCTION - Anarchist Movement in C19 Europe/Anarchist Movement in China/Anarchist Movement in Japan/Libertarian Elements in the Korean Tradition; B. HISTORY OF THE KOREAN ANARCHIST MOVEMENT: PART ONE, THE NATIONAL LIBERATION STRUGGLE: 1. The Embryo Period - Li He-yong in China/Shin Chae-ho and the Korean Revolutionary Manifesto/Pak Yul and Kaneko Fumiko; 2. The Organized Period - The Domestic Movement in Various Centres/The Korean Movement in Japan: the Emergence of Terrorism/After the 1923 Earthquake/The Black Friends' League; The Korean Movement in China: Korean Anarchists' League/Participation in the Chinese Movement/Tung Fang Anarchist League; 3. The Struggle Period - The Movement in China: Korean Youth League in South China/Bombing of the Japanese Ambassador/Elimination of Pro-Japanese Traitors/Wartime Construction Corps/Participation in the Provisional Govt/Korean Studies Institute and Shin Chae-ho Institute; The Movement at Home; The Movement in Japan: Black Friends' League and the 'Black Newspaper'/ The Movement in 1933/The Movement in 1933-34/The Movement and the Sino-Japanese War; PLUS: Index/Postscript.
+
+The English translation of this book by 'Nat Tyler will be based on the Japanese edition put together jointly by comrades Shirakawa , Kanda Esaka and myself, at the same time taking care to see that the text does not deviate significantly from the original Korean version. However, as you can see from the contents, much of the material in section A is already familiar to western readers, while other parts would require lengthy introductions to make them satisfying. In any case, it is quite beyond our capacities at the present time to produce a translation of the entire text. The English translation will thus be a partial one. Some sections will be omitted, others shortened or summarized. Still, we think that the end result will be worth waiting for. How soon it appears will depend on the energy of comrade Wat Tyler.
