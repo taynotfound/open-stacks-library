@@ -1,0 +1,70 @@
+---
+title: "Memorial Prison"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/memorial-prison"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "This document was written on May 24, 1979 from the &quot;Special Wing — G 8” of the Rebibbia jail in Rome by Mario Dalmaviva, Luciano Ferrari Bravo, Toni Negri, Oreste Scalzone, Emilio Vesce and Lauso Zagato. Footnotes were added by the Editors."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/memorial-prison)
+
+This document was written on May 24, 1979 from the "Special Wing — G 8” of the Rebibbia jail in Rome by Mario Dalmaviva, Luciano Ferrari Bravo, Toni Negri, Oreste Scalzone, Emilio Vesce and Lauso Zagato. Footnotes were added by the Editors.
+
+WHAT IS THE NATURE OF THIS TRIAL? The arrests and imprisonments put into effect against militants and intellectuals of the Left, starting April 7th 1979, have set in motion a political trial. This is not just a trial of ideas, a trial of certain intellectuals, but a judicial prosecution of an entire section of the political movement in Italy— of comrades belonging to the independent Left movement of Autonomy. These comrades in no way deny or conceal their record of political militancy in this movement.
+
+We are being tried for a decade of political struggle in Italy, from 1968 to 1979. With this prosecution, State power has spoken out loud and clear — a horrendous alibi for its incapacity to resolve the real underlying problems confronting Italian society in the crisis. This trial is aimed to outlaw the political movement of working class and proletariat autonomy.
+
+In order to succeed, State power has to state and prove that “the party of the new social strata of the proletariat” is the same thing as “the armed party” — i.e. the terrorist groups. They have to be made to appear as identical.
+
+All of us in the Movement know the motive behind this operation. The State “projects” onto these strata and onto the men and women who have lived the social struggles of the new proletariat, the accusation of being terrorists, “the armed party in Italy”, so that, by criminalizing the Movement, it can resolve its own inability to function. We are militants and intellectuals of the autonomous Left movement. In striking its blow at us, the State is attributing to us a power as “leaders”, a representative role, that we do not possess.
+
+THE RETROACTIVE CHARGES AGAINST “POTERE OPERAIO” (WORKER’S POWER). The first accusation against us all relates to having constituted and participated in Potere Operaio (1969-1973) 1 . Inasmuch as PO is taken by the prosecution to be the “original source” of armed terrorism— of having therefore been collectively responsible for the entire trajectory of armed struggle in Italy in recent years — its dissolution in 1973 is regarded as having been “ficticious”: it is alleged to have continued its existence as an armed conspiracy.
+
+A very important preliminary point needs to be made, regarding the consistency of this charge. It is true that all of those who are charged in this case, in one way or another, at different times and at different levels of activity, did participate in the experience of PO. This is a past “associative link" which we have no intention of denying — in fact we regard it, perhaps ingenuously, with pride. But thousands of other comrades also participated in this political experience. One might rightly ask by what criteria so few cards, from such a huge pack, eventually came out in the shuffle. One might think that the accused were the “political leadership” of the PO group. But this is not true — not all the accused played such a part in PO, and of those who did, not all are being charged. So the accusation of having participated in PO is not self-sufficient, is no basis in itself for the charge brought. This is the case (if for no other reason) because the PO was in its own time investigated on the grounds of being a “subversive organization”, and was in fact cleared.
+
+Hence there must be something more behind the charge and the selection of those accused. The allegation runs as follows: these individuals are those who having been comrades in PO, subsequently maintained “associative links of a subversive nature” aimed to direct, in one way or another, the armed struggle in Italy. But here the make-believe behind the accusation is even more astonishing.
+
+From the time that PO dissolved in 1973, some of those presently accused have had no political links whatsoever with the rest of the accused. Moreover, in some cases it has been years that some members of the accused have not seen each other! It must be admitted that for a “conspiratorial group” alleged to have been nothing less (in the case of 9 of us) than the “strategic leadership” of the Red Brigades, not to have met each other, even briefly, in all this time constitutes a strange kind of association! And it is not by chance that 6 weeks after the arrests, not one single piece of evidence has been brought to prove or indicate any such association between those charged, from 1973-4 up to the present day. The reason is simple — no such proof exists.
+
+THE VIOLATIONS OF PROCEDURE BY THE PROSECUTION. We shall take only a few examples of the legal procedure adopted by the prosecution in the “April 7th case”. This is only a summary of a few of the most flagrant abuses of due process that we — and we are not the first — have had to face. This is a list of points which are taken from a much fuller documentation of examples contained in the memorandum presented by our legal defence team.
+
+(A) Violations of the rights of defence in the phase of the preliminary investigations ordered by the examining judge. Failure to notify, in some cases, of proceedings against those being investigated, despite the fact that the prosecuting judge, Calogero, has admitted that this judicial inquiry has been going on over a period of two years before the arrests;
+
+(B) Arbitrary use of coercive powers: — Issue of arrest warrants either without legal grounds at all, or on “apparent” grounds, altered later, at will. — Use of preventive detention for ends other than those specified by law.
+
+(C) Arbitrary mode of imprisonment: — Unspecified reasons for differing prison treatment (solitary confinement, etc.) imposed on those detained. — Refusal to notify, for a period, the whereabouts of those detained, or to notify families of prison transfers, etc.
+
+(D) Arbitrary use of norms of territorial judicial competence (i.e. the division of judicial competence in the case, between Rome and Padova): — Abnormal unilateral decision on the part of prosecuting judge Calogero as to judicial competence (transferring part of the case to Rome) after the request for formalisation of proceedings (i.e. that they be brought before the competent judge in Padova) had been made. — Subsequent addition of the charge related to the via Fani (the Moro kidnapping) case, for the sole purpose of justifying transferral of the judicial competence in the case of some of those accused (to Rome), in order to bypass any potential conflict with the judges in Padova. This was after charges of “formation of armed bands” had already been brought in Padova. This relates to other precedents (e.g. in the Valpreda case) which involve the arbitrary transfer of proceedings to Rome — i.e. the informal, but no less real, use of this tactic in order to set up a “special tribunal” for political persecutions 2 .
+
+(E) Systematic violation of the rights of legal defence in this case; in the course of the committal hearings: — Violation of article 365 in the Procedural Code (“the judge must proceed to the formal ‘interrogation’ without delay”). — Systematic inversion of the burden of proof onto the defence. — Acquisition of “evidence” a long time after the warrants for custody and detention of the accused had already been made out. — Lack of any evidence, or precise accusations (to be proved or disproved) related to the charge of “subversive association”. The accusations are entirely “hypothetical-deductive”, of a “logical” and hence speculative nature. — Illegal retention of precise information, evidence etc., related to the prosecution charges, thus allowing a continuous fluidity, reformulation and alteration in the accusatory substance of the charges (e.g. request by judge Guasco for formalisation of the charges “pending” later specification of the actual crimes alleged to have been committed!). — Systematic and underhand violation of the confidential secrecy of the committal hearings by the prosecuting magistrates (use of insinuating “leaks”, informally passed to the Press and media throughout the proceedings — and often later dropped!).
+
+All the above points might appear secondary to anyone not experiencing them first hand! Yet they amount to a real illegality of the mode of the prosecution procedure in this case, a degradation of “due process”, by the systematic refusal to back or specify charges by precise accusation, hence ensuring an “open-ended” set of options in the committal process.
+
+The presumption of guilt based on deductive hypothesis has been the leitmotif in the prosecution procedure right from the start. It covered, from the word go, insurrection, leadership of the Red Brigades, and leadership of the armed struggle in general. In other words, the “generic” and the “particular” are conflated, strung together, to make us responsible, as a “collective plot”, for virtually all that has happened in Italy over the past ten years. This is the starting point — the initial thesis of the prosecution.
+
+Once this overall hypothesis of guilt is first established, any element of physical or mental/intellectual links that can be found (e.g. Padova University Institute; activities of an academic nature etc.; or similarities between documents — any Left revolutionary literature inevitably has some points of similarity) can then be construed as a “lead” or as “incriminating substance”. All such material can be reinterpreted, pieced together according to the initial deductive hypotheses, by a process of osmosis . Time and space become irrelevant. Documents or events over a period of ten years are flattened into the present, into a static “present-day" plot for “armed insurrection”. In Negri’s case, this process of osmosis during the committal hearings has amounted to a crude and arrogant distortion of texts taken out of context, a deliberately falsified reconstruction of his ideas, collapsing the past into the present.
+
+The method of the prosecution’s case has been the separation of selected elements and ideas from their overall context. This is done by arbitrary selection of individual phrases from a vast mass of published and entirely public writings or statements . Moreover, these are selected from a long time-span, often separated by years. This method of arbitrary separation and reconstruction or hypothetical links between ideas — and events — has been the basic norm in the construction of the prosecution’s case against us.
+
+CIVIL RIGHTS AND CLASS STRUGGLE. We wish to make an appeal for the widest possible solidarity with those 23 arrested on April 7th 1979 3 .
+
+The prosecution case against us is overtly political, and we are asking for political solidarity. We wish to emphasise that “political solidarity” does not mean “identifying” with our personal ideas or positions as such — it is correct, we think, to make this clear. To ask for political solidarity in our case is to appeal also to responsible democratic opinion, apart from the Left and communist movement, on the basis of recognizing what is at stake, in terms of the relationship between class forces in this type of political prosecution.
+
+In our case — quite apart from our own political situation — what is being tested or decided, is whether there is to be any further space, politically, for the broad movement that has developed in society, expressing the new needs of the proletariat today. Or, on the other hand, whether the forces in power, the effective “constitutional coalition” that governs Italy, is to become more rigid, and base its political pact on the destruction, criminalization and repression of the class movement in civil society.
+
+The choice is obviously not in our hands! But the prosecution and proceedings against us are an essential part of this project, a key test-case. We are fighting for an outcome on the side of the class movement, and it is on this that we base our calls for solidarity. Let it also be clear that we also insist on the defence of certain legal guarantees. This is not opportunism on our part, but relates directly to the struggle and the goals of the class movement itself. Both before, during and after the revolutionary process.
+
+This appeal to civil liberties and defence of legal “due process” is not in our case restricted to the mummified liberal tradition of civil rights (open to many abuses). We call for the guarantee of freedoms that are historically and dynamically constituted by the relation of class forces as it exists in all the industrialised countries today.
+
+We believe that in Italy, today, and in Europe, the political prosecution of the “Worker’s Autonomy” movement has a wider significance, which concerns the broadest possible sections of the class movement in all its various articulations. This is because it represents a specific attempt, an attempt with ominous implications, to “turn the clock back” historically to set up and formalise on a permanent basis a new level of State repression, aimed to attack and destroy the space for independent class politics; to attack the guarantees of rights to express theoretically and exercise in practice any alternative basis of power for the transformation of society; and to attack the spaces for the exercise of “counter-power” — all of which spaces have been fought for and won over the course of the last ten years.
