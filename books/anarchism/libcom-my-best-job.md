@@ -1,0 +1,46 @@
+---
+title: "My Best Job"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/my-best-job"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "tale of toil: research assistant, by kwazee wabbitt"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/my-best-job)
+
+The best job I ever lucked into was a ""work-study'' gig as the research assistant for an epidemiologist. My boss, Joel, was the typical absent-minded professor. In retrospect, I can see that he was a brilliant bio-statistician, but at the time I was more aware of his comically nurdy appearance and laudably relaxed management style.
+
+Joel was the junior member of a research duo investigating the environmental causes of cancer. The senior member, a suave and famous scientist, wrangled grants and handled PR. Joel, I suspect now, did all the actual research. He was an assistant professor in a tiny, newly formed department -- Environmental and Occupational Health Sciences -- at the state School of Public Health.
+
+I worked half-time, 20 hours a week, on a pay sheet I filled out myself (very generously). Joel really didn't mind how much I worked, or how many hours I claimed. He would give me a list of articles to hunt up, and as long I produced the data he was happy. His life was so disorganized that being able to delegate this arcane but vital task was a relief to him. At the time I considered myself to be getting a very cushy deal, but I realize now that I was, in fact, giving pretty good value. Tracking down medical research data is a tricky task. It's not easy to find someone who can penetrate the jargon and work for student wages. I enjoyed hanging out in the library and the challenge of digging up an obscure study or squeezing raw data out of a reluctant researcher. I also got along well with my co-workers, not easy for an oddball like me. Everyone in EOHS shared two characteristics: we were a) radicals and b) underpaid.
+
+Any serious look at the environmental causes of cancer quickly turns up a fact so obvious, so blatant, so patently true that it seems trite to pronounce it: industrial pollution is the major environmental cause of cancer. The huge corporations producing most of the carcinogenic waste pump millions into research obscuring this fact. However, Industry is rich and the Public is not. There was not a single person working at EOHS who couldn't get paid at least twice as much (for some, ten times as much) doing the identical job for ""the other side.'' Anyone who stayed was either an idealist/radical/environmentalist, not very serious about Advancing Their Career, or too wierd to hold a mainstream job. Most were all three.
+
+Joel was focused on his esoteric research. He wasn't insensitive to Advancing his Career, but he wasn't one of the (far more typical) academic careerists who research only what will get them tenure and promotions. He seemed content to let Sam, his collaborator, hog most of the glory. As a teacher he was unpopular. His stuff (advanced biostatistics) was far too arcane for most students to follow, even if he didn't speak in an unintelligible mumble, and he had no talent for intra- departmental power struggles. He depended on Sam's clout to shield him from hostile administrators and competitive colleagues.
+
+Sam, the department head, was the least oddball, most mainstream, and fastest advancing careerist in the outfit. He frequently spoke on TV, wrote environmental books, fished for the slippery but huge federal grants so vital to research, and fought the interdepartment battles. EOHS was his creation and power-base. His famous name went on the top of all the research proposals as ""principle investigator.'' This meant he got a personal percentage of the funds and top billing on any published studies.
+
+I think Sam was a sincere crusader, but he was no blind idealist. He always managed to profit personally from his "selfless'' crusading. When one of Sam's lab workers complained of unsafe working conditions (lack of adequate ventilation in a carcinogen lab), he was swiftly fired -- this in an outfit supposedly dedicated to defending worker safety! The rank-and-file ranged from mildly liberal Sierra Club types to committed radicals of various stripes. I ranked towards the bottom. At the time I was an openly gay revolutionary socialist, showing many early warning signs of Bad Attitude -- not exactly Fortune 500 material. Had I been interested in anything other than sex, drugs and the Revolution, I could have been using my position as a good "in'' to a lucrative career in biomedical research. But I wasn't, and to me it was just a high paying ($6 an hour -- good for a student in 1980), low hassle job.
+
+So we were a pretty counter-cultural crowd. There was a minimum of hierarchical bullshit, and we were all sincerely dedicated to the cause. Environmentalism was a popular and growing issue, and we were proud to be at its cutting edge. I don't think any of us ever dreamed, 12 years ago, that our work would be so completely ignored, and that Polluters would triumph so completely over Defenders of the Environment.
+
+That we were out-numbered and out-gunned was obvious. Every study we published was immediately challenged by literally dozens of big name researchers. It didn't seem to matter that they were directly funded by corporate polluters. Nor was the publication playing field level. The editors of the major journals were all members of the medical Good Old Boy network, and they instinctively took a dim view of radicals and environmentalists. We had a much harder time getting articles published than the industry apologists did.
+
+Finally, our work had little potential to "pay off'' in standard academic terms. Pleasing a major industry could easily result in millions of research dollars, a lucrative consulting career, and/or a Chair at a prestigious university. In fact, entire universities have been created/funded by Industry (e.g., Carnegie Institute). Our major source of funds, aside from federal grants, was unions. They were a natural counterbalance to business interests, at least in the matter of occupational risks. But they had nowhere near the money, and none of the academic clout, of the major corporations. They were David facing Goliath, and we were their sling. Even so, I naively hoped that Truth Will Out. Our case was so strong, our studies so clever, that I didn't see how they could fail to triumph. As I learned to search out flaws in research, I found that much of the opposition's work was blatantly faked (see "Sleazy Research Tricks" sidebar).
+
+But none of this seemed to matter. "Everything causes cancer!'' people would say, disregarding any specific lab report on carcinogens. What we called "Lifestyle'' theories of cancer were becoming increasingly popular -- studies "proving'' that high-fat diets, or smoking, or Bad Attitude were "responsible'' for cancer. And these lifestyle theories were quickly picked up and promoted by secondary interests -- the stop-smoking clinics, the weight and stress reduction programs, and various Power-of-Positive-Thinking scamsters.
+
+After all, our studies led to conclusions that nobody liked. The environment was becoming increasingly toxic, billions would have to be spent to clean it up, and dozens of profitable industries providing millions of jobs would have to be curtailed (or at least rendered less profitable). Where would one even start to remedy the situation? It's so much easier to start a low-fat diet than it is to save the environment!
+
+Ultimately, we depended on support, both moral and financial, from federal environmentalism to maintain this unequal stuggle. When Ronald Reagan was elected we were doomed. The Reagan administration, like Bush's after it, was slavishly dedicated to "Business'' interests. The Environmental Protection Agency was one of their first targets, and it was soon reduced to chaotic impotence. Funding for projects like ours was cut off as fast as possible. My layoff (along with many others) was announced within weeks of Reagan's victory. Within a year the entire operation had been shut down. Environmental & Occupational Health Sciences was soon cannibalized by its jealous sister departments. The rank-and- file dispersed. Some of the shrewder, less idealistic researchers found ways to market "environmental'' studies so they fit in with Lifestyle theories -- for example, researching the effects of "secondary'' cigarette smoke on non-smokers in the same room. Joel lost his academic appointment and moved to another state and I soon lost track of him. Sam alone is still at the School of Public Health, producing well-reasoned critiques of the ever-popular Lifestyle theories of cancer. Much of what made my job at EOHS so good was that I was working for a decent boss in a tolerant workplace. But the cards were stacked against us, Joel and me both. Mere competence is rarely enough. The Carter years were an anomaly, and EOHS a heavily protected environment, a kind of wildlife preserve for absent- minded professors and radicals. I only wish I'd fully appreciated it at the time.
