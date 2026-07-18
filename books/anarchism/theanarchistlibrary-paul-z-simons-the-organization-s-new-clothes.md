@@ -1,0 +1,50 @@
+---
+title: "The Organization's New Clothes"
+author: "Paul Z. Simons"
+date: "2018"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/paul-z-simons-the-organization-s-new-clothes"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "including The Birth of Domination, Gang Theory, Gang Fact, and The Philosophical Basis of Snarling"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "paul-z-simons-the-organization-s-new-clothes.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/paul-z-simons-the-organization-s-new-clothes.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/paul-z-simons-the-organization-s-new-clothes)
+
+Capital as a social mode of production realizes (the real) domination when it succeeds in replacing all the social and natural pre-suppositions by the correct forms of organization that mediate the submission of the whole of physical and social life to its real needs of valorization.
+
+Organizations are not socially organic nor are they particularly obvious. The rise of the organization is hinted at throughout history, yet its growth and proliferation as a form does not occur until the ascendancy of capital. These developments are not isolated. Organizations are a result of the dominant mode of production and the division of labour. Further, the so-called "revolutionary" organization is an unequivocal contradiction, inasmuch as the existence of such a group is negated and simultaneously recuperated by the system it seeks to destroy, namely capitalism.
+
+Though beyond the scope of this essay, the history of the organization would provide insight into its linkage with real domination. It is essential, however, to look at the birth of the organizational form. The moment of development for the proto-organization was a pregnant one. Contained within it were two devices that enabled the ascendancy of capital. The first, spatialization, is directly related to and a consequence of the second, the hierarchization of activity. The rise of the proto-organization, perhaps typified by the emergence of religion, required new physical and social forms to accommodate it.
+
+Spatialization, the division of space in order to facilitate separateness, was of primary importance to the organization in realizing its genesis. The displacement of an activity from tribal common areas may be seen as one of the first steps towards the extreme division of all space apparent in contemporary dominant culture. The process of spatialization came into its own during the mid-eighteenth century with the forced removal of the workplace from the cottage to the factory. The delineation and definition of space thus enabled the domestication and control of unruly working populations via the discipline of the factory. Perhaps more to the point, it still does. The Yoruba express this concept best, the phrase in Yoruba for "this country has become civilized:' translates literally to "this earth has lines on its face."
+
+The hierarchization of activity, the concept exemplified by the various ceremonies and rigors of the group as well as the historical development of the scribe (proto-bureaucrat) whose function is to record and "elevate" the activity of the organization above the day to day activity of leisure, food production, etc., is indicative of the role of the organization in the culture of domination. This tendency finds its logical conclusion in the designation of leadership in many groups under the title of General Secretary or vice versa. The control of "records" and "minutes" translates historically to the control of people.
+
+The modern organization is less an accumulation of its history than it is a denial of it. The condensation of capital into larger conglomerates made up of smaller and more disparate unconnected corporations has directly mirrored what the modern organization is. The mystification of capital as monolith is slowly losing it's resonance as ultra-centralized conglomerates degenerate into mechanisms for profit-extraction by elites. The mega-corporation is a trophy and a purse, nothing more. The eruption in the overnight courier services is no fluke. Capital is becoming more reliant upon external communication systems as a means of shoring up this increasingly fractured state. The concomitant ascendance of factory and middle management cliques reinforces the impression that twilight is near (there is a certain amount of irony that the midwives of capital may well become its pallbearers) . Currently the top-level executive is a snivelling bootlicker, the marketing specialist a beast of prey.
+
+In their essay (cited above), Collu and Camatte express this concept in the precise though shadowy terminology of the gang and its larger counterpart, the racket. The gang provides not only structure but the necessary mediation between capital and society. This process, which Collu and Camatte describe as "caricaturization" portrays the boss/leader (or his clique) as traditional individual(s) and the collective form (or business) as a community based upon common interest. These masks, apparent in all organizations, do not in fact obscure reality, they are reality, inasmuch as they hide what does not exist. The gang fulfills another purpose, it replaces human pre-suppositions between members with the presuppositions of capital, particularly the division of labour.
+
+The political gang varies only slightly, in that it absorbs the commodity into itself. The programme becomes at once producer and product with the ultimate aim of seduction (and of course in order to seduce successfully it must be "better" or "improved" in comparison to the manifestos of other groupings). The political gang puts forth positions in its newspapers, leaflets, and broadsides (usually concerning black, Hispanic, third world, or gay liberation) with the essential purpose of mediating the immediate. The ideologue asks us to see certain oppressions and to respond to them. This appeal always demands that the view and response to oppression be that of the accepted ideology. The gang, however, can only criticize the artifacts of capital, not what it is, nor how to extirpate it. To do so would raise the question of its own existence.
+
+At the moment of admission to the gang a process of binding begins. The novice becomes attached to and dependent on the gang by all the social presuppositions of capital. If s/he shows any capacity at all for a necessary skill, it is exploited and exchanged for recognition or, in extreme cases, absorption into the ruling clique. In the absence of a useful capacity, exchange occurs on the level of dissemination of the gang's viewpoint in return for lesser rewards (i.e., acceptance). It is important to be aware of the fact that ultra-left organizations–in their attempted rejection of this mechanism–only delay its implementation, not its impact.
+
+Theory is impoverished, if not negated, by the gang. The fact that certain members of any gang will be more capable of confronting theoretical questions, and–hence their authority in such matters will be relied upon, speaks directly to the dominant cultural valuation of the importance of belonging as opposed to knowing. This phenomenon of the organization is not new, the Scottish Rite of the Freemasons (circa 1680) is composed of thirty three levels of knowledge. Only by attaining the thirtythird level does the member come to know what the other thirty two levels (and the Masonic brotherhood as a whole) represent. Thus theory is removed from individual analysis, it becomes in a very real sense the property of the intellectual clique and as such is recuperated as ideology.
+
+The gang, particularly the self-proclaimed structureless gang, maintains "hygienic" mechanisms for the purging of individuals or sub-gangs whose activities or theory deviates from the accepted. The ultimate threat of the gang is exclusion. Politically this mechanism usually takes the form of rejection and embarrassment. If an individual refuses to leave after being denounced, it is only a question of time before psychological devaluation forces the final break. This "blackmail" is reflexive; not only does it eliminate the heretic, it also enforces adherence to orthodoxy.
+
+The gang in all its forms is characterized by a cyclic pattern. As old gangs lose members and die, new gangs are established and begin to define and separate themselves from the has-beens. This process points to the dependency of the gang upon recognition. The more that a gang appears in the limelight, the greater the possibility of disseminating its views and attracting new members. Thus the organization not only commodifies itself through its programme and activities, it valorizes humanity as consisting solely of potential converts. In this sense the traditional "boom and bust" cycles of capital relate to the unending "drama'' of new organizations being formed and old ones being interred.
+
+It really comes as no surprise that the organizational form is beginning to emerge not as a value neutral mechanism, which may be easily shaped and imprinted upon by individuals wishing to utilize it. Rather, the opposite is certainly true; any organization, even in the hands and under the auspices of the most dedicated revolutionaries, must eventually devolve into a device of domination and mediation. This is logical, because domination and mediation exist as the sole potentialities of the organization.
+
+The survival of capital is dependent upon the internalization of its assumptions by individuals. When these internalizations are recognized and refused, capital as dominant mode of production must die, because capital in its reified form will have died. To borrow a point from Poe, when the lunatics gain control of the asylum, the asylum will have finally achieved total control of the lunatics. Contrariwise, true revolutionaries (or lunatics) will in all likelihood set the whole rotting structure ablaze.
