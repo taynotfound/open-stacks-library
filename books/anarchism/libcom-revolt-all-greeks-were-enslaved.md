@@ -1,0 +1,74 @@
+---
+title: "Revolt All Greeks Were Enslaved"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/revolt-all-greeks-were-enslaved"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Sofia, Vasilis, Bill, Irini: The owners of a luxury boutique near Nomiki"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/revolt-all-greeks-were-enslaved)
+
+Sofia, Vasilis, Bill, Irini: The owners of a luxury boutique near Nomiki
+
+Vasilis : Before December, for many different reasons, it seemed that there was a lot of wrong-headedness in the government, but the majority of society was self-centred. Each person was focused on their own survival.
+
+Sofia : It’s not that Greek culture or the social context caused all this egoism. For many years the government and the economic system forced people to behave like this, to only pursue their self-interest. The system puts a knife to your throat and it seems that you don’t have any other choice but to run for your survival. You’re so trapped you become like a volcano inside.
+
+Irini : Before the revolt, all the Greeks were enslaved. Everyone was running the rat race, or almost everyone. I already knew some anarchists personally and I had the best opinion of them.
+
+Vasilis : I never realized what their active role in the social context of Greece was, even though I knew some anarchists personally. Possibly most of the people who entered the anarchist movement did so as a negation of society. I don’t think it was an intellectual process for them or a personal cultivation, but rather negativism. There was a big gap between what I was reading in the university about anarchist theory and the experiences I had with the anarchists in the centre of Athens.
+
+Bill : An educational process is essential to changing society. The authorities consciously mis-educate people to keep them submissive. If suddenly today society transforms the economy into an egalitarian system, perhaps everything would collapse in chaos. That’s why the cultural side of the anarchist movement is so important, not the violence. But I think most of the property destruction in December was caused by criminals.
+
+Sofia : Over the last few years I have made some new friends who are anarchists. Their opinions have influenced me, and now I believe that there is a very important role for anarchist movements in all societies, that it can be very beneficial during a period of abusive authority; or under a government that creates problems rather than solving them. I believe that anarchy cannot exist because societies are so huge and they surely need laws and rules and forms of control. The role of the anarchists is to express the voice of the voiceless, the anger of the people, to feel the social pulse, and to express criticism against the authorities. In a way I feel that the anarchists try to do what Jesus Christ expressed - I’m going to bring down the world in seven days and then in seven days I’m going to bring it back. And to do this you have to cultivate a very high consciousness. You have to be a saint to achieve this goal. It seems utopian.
+
+Vasilis : Now let’s talk about why we created this boutique here in the centre of Athens. I studied archaeology, but in the end I decided with Irini and Sofia to create this boutique to live like a simple man, to have a regular life. I don’t have capitalistic ambitions.
+
+Vasilis : It’s important to explain that we want to live a normal life.
+
+Vasilis : She’s a diva! Anyway this was before December. It’s important to mention that the biggest long time riots took place in front of our shop, on this corner, Solonos and Massalias.
+
+Irini : We met in the drama school, Sofia and I, and this shop was born out of our friendship. It is a creation of joy.
+
+Sofia : I studied business administration before going to drama school. The first step was our friendship, and that we love clothes. And of course we have to admit that our goal is to profit. Profit in order to survive. It's a job. But if we worked hard we had the chance to become our own bosses, and this helped us realize that we were assuming a major responsibility not only to ourselves but also to society. When you are your own boss it's up to you to sustain what you are doing through all the difficulties, through the economic crisis, to not let it fall apart.
+
+Bill : If you look at our stories you will see that each one of us worked two or three jobs and also had two or three identities - we had different aspects of our lives. Often when we speak about who we were. I choose from these three identities who I would like to be, not who I actually am. All this is a matter of surviving.
+
+Irini : I was in a hospital working as a nurse, that’s my night job, and I saw on TV that the cops had killed a fifteen-year-old in the centre of Athens. I was wondering why this happened and all the excuses that I found on the TV were that the boy shouted at them. And I was wondering if it was possible for the cops to kill someone for cursing at them.
+
+Vasilis : I was on a bus and I heard on the radio that a child died, killed by cops, and half of my mind said, so what? And the other half of my mind said, "If I don’t react, the prison of our lives will expand." I was feeling strange. My intuition told me that something was going to happen, but I didn’t know what.
+
+Bill : I was in the north of Greece, and I felt surprised when I found out, and hopeful in the same moment. Surprised that we had come to the point where a fifteen-year-old could be assassinated, and hopeful because I saw that in just half an hour in the middle of nowhere in northern Greece people were gathering and reacting to what had happened. I said to myself that society is still alive, it still has some sensitivity.
+
+Sofia : I was in my house, which is in the richest area of Athens. For me it was not a surprise, I was expecting it. Children are dying every day everywhere. The only thing that surprised me... it’s like when you hear about people dying from cancer, it’s just a disease. But when it comes into your house and someone from your family gets cancer, then you realize what cancer is. Likewise, when this assassination happened in our society and the revolt occurred here as a reaction, I felt that now we are one family. And in this way the reaction has meaning, it unites the society. So my first reaction was to call an anarchist girl I know and to ask her, what is going to happen? From the beginning I was expecting the reaction. But I could never imagine that all these thousands of people would appear from nowhere. I was expecting that only the anarchists would react. So my friend says that they are going to gather, and I said to her I’m coming down to the centre to switch off the lights of my shop because I knew that total chaos would ensue. Because of my personal links with some anarchists, I knew that total chaos was a certainty.
+
+On Sunday I called this friend again and I asked her what was happening. She told me not to come down to the centre alone, because everything was out of control in the whole city. So I just switched off the shop lights and went back to my house. On Monday people attacked the shop. At the same moment, I was 300 meters away in the demonstration. And that’s when our personal experience begins. It’s like schizophrenia.
+
+Sofia : In the demonstration, I felt that the police showed tolerance, like they felt guilty so they were waiting for the wave to pass over them. In the beginning the police were allowing the people to express their anger, and this led to many people from the demonstration starting to smash everything around. The police thought it would all end soon but it only snowballed. All kinds of banks and shops were being attacked. At the same time many of the demonstrators, faced with this uncontrollable situation, started to lose the unified meaning that brought all of them out in the street and they began to feel fear or alienation. I found myself happy because the cynicism and the smug security of the authorities had been shattered, but the social protection of the State was also broken down. The State could not protect anything. Everything collapsed. The entire market collapsed, as did this idea, this statue of the State as protector. On the one hand I felt happy because the State collapsed and became naked before the eyes of all the people but on the other hand I felt completely handicapped, because since the State couldn’t protect my shop, I couldn’t protect it either.I felt exposed and powerless.
+
+So at that point I started to feel like a hostage, because I wanted to be in the demonstration, to shout and watch the State collapse and see things change, but on the other hand I needed to protect my shop. It's like when the Palestinians in the '70s hijacked airplanes to defend their right to exist as a nation - suddenly I felt like I was inside this airplane and I agreed with the Palestinians but at the same moment my life was threatened, my livelihood was used as a tool for another cause, a cause I already agreed with. And I felt scared.
+
+Irini : When I first heard about the riots I felt perfectly enthusiastic and I really enjoyed it. If something good will appear through this burning, burn them all. But really all of it, burn everything, even my shop. And even the moment that my shop was smashed, I still continued to believe that it wasn't a problem, that it would be much better if they burned everything, all the big corporations, the banks, the parliament building, everything. So that nothing would remain. But this is not easy at all. People have to decide what will be burned and what won’t be, and they decide on the basis of what is accessible. So the big malls in the suburbs continued to function during these days because it was very difficult to attack them. They are far away and well protected. As a result, Capital benefited. I cannot believe that it was the anarchists who did all this. That’s why I continue to respect them.
+
+Vasilis : On Monday Sofia called me and said that our boutique had suffered serious damages, I was shocked. "What are you going to do?" Sofia asked me. I didn’t know. "Come here quickly, we have to protect the store! Are you coming?" I replied, "I don’t know, I need to think." At this time I was in bed, watching TV constantly like a statue without life or breath, without a goal, Our shop had only been open for two months. My dreams were dying. How could I react as a human being? As a member of society? Who was I? On Tuesday morning, I chose my role: I decided that this store was me and I would protect it in the same way I would protect my thoughts and ideas as a human being. Everybody assumes that to be the owner of a shop means to be a capitalist, but I wanted to avoid the capitalist idea of ownership.
+
+On Wednesday morning I was in the demonstration with a group of actors.We went to Syntagma, and then split up and I decided to come back to the shop. At Panepistimio, it was like the silence before the storm. And I saw a big mass of people running towards Nomiki, where our shop is. I realized that I had to run there myself, with this mass of people, because I couldn't explain to the police that I wasn’t one of them if I got caught alone, Inside the group I suddenly saw a friend of mine. We ran to the law school. All those thousands of people were trying to go inside the university I continued running to my shop. The girl started to shout at me, "Where are you going? They’ll arrest you! Come inside and protect yourself." And I said to her, "I’m going to my shop." Suddenly we found ourselves looking at each other and freezing. And in this moment I felt completely crazy because I didn’t know who I was.
+
+All the other nights we were here in the shop, protecting it. One night there was a huge fire on the corner, a barricade. One junky a real obvious heroin addict, came up slowly and put a wooden chair in the fire at the barricade. And then he shuffled up to me and Sofia and he asked us, "Hey you guys, l can I ask you something? Oh, no, no need." And we imagined that he wanted to ask us for money. He came back and said, "Okay, whatever I ’ll ask you. Maybe its possible to stay with you here in the university, together with you and your fellow students? Because I don’t have any other place to stay." And we told him, of course you can stay, go inside the university with all the others and stay with them. In a way I felt angry because I thought this person didn’t have any understanding, that he wasn't participating in what was happening. While I was thinking all this he was looking strangely at me. And he asked me, "Are you a cop?" And we said, "No way." He started to walk away down the middle of the road. Then he turned and asked, "Do I look like a junky?" And Sofia said, "No no, you underestimate yourself."
+
+Sofia : I was together in the demonstration with my anarchist friend. And there was one young boy holding a molotov. Some guy in his mid-thirties went up to him and told him not to hold the molotov with bare hands, better to use gloves. And the young boy said, "You can’t tell me what to do, I’m not a kid." And this made me think that the young people are full of rage, they are very suppressed, and all this was a revolt of the younger generation against the older generation. Then I felt a little sad. I thought that in the same moment that we can talk about global revolution, we are faced with a generation gap, with people just revolting against their parents. This struck me as immature. We continued walking and we saw an old woman on the corner carrying shopping bags, going to speak to some young people and tell them not to destroy everything mindlessly, not to destroy the National Library or things that were irrelevant to their struggle. And the young people didn’t shout at her, they just politely said: "Of course some people make mistakes. But you give as this advice standing outside the demonstration. Come inside the demonstration and with your knowledge you’ll help make it all better." My friend pointed out to me that these two generations met on the street and they spoke to each other, they changed each other. In the end people are not isolated in their private, distanced worlds; they share their opinions.
+
+Some days later the rioting stopped, but the important thing that remained is that the people met each other and they shared their opinions. In this strange way it looked like the ancient demos , the old direct democracy, where everyone met in the streets and shared ideas and opinions like the ancient Greeks.
+
+Vasilis : The story is continuing. Not the history, the story. You're very lucky to be writing this story because it's not the end, maybe it's the beginning.
