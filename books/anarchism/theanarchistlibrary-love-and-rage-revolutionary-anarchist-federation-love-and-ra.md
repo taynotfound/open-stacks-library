@@ -1,0 +1,52 @@
+---
+title: "Love and Rage Breaks Up"
+author: "Fire by Night Organizing Committee"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/love-and-rage-revolutionary-anarchist-federation-love-and-rage-breaks-up"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Fire by Night Organizing Committee Launched"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "love-and-rage-revolutionary-anarchist-federation-love-and-rage-breaks-up.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/love-and-rage-revolutionary-anarchist-federation-love-and-rage-breaks-up.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/love-and-rage-revolutionary-anarchist-federation-love-and-rage-breaks-up)
+
+After more than 8 years of hard work, the Love and Rage Revolutionary Anarchist Federation voted to dissolve itself during a brief conference at Hunter College in New York City on Saturday, May 23, 1998. Some participants in the conference spent the rest of the weekend laying the foundation for a new provisional organization, the Fire By Night Organizing Committee. Members of the another faction at the conference also announced their intention to launch a journal and a new organization. Neither of those projects has a name yet.
+
+Love and Rage started out as a continental anarchist newspaper at a conference in Chicago back in 1989. The founding group included individuals and members of anarchist collectives from across the US and Canada as well as an anarchist faction of the freshly-dissolved Trotskyist group Revolutionary Socialist League (RSL). Over the years, Love and Rage evolved from a loose network around the newspaper into a tighter organization. It became the Love and Rage Network in 1991 and the Love and Rage Revolutionary Anarchist Federation in 1993. This desire to build a serious and committed organization coupled with the involvement of the ex-RSL members made Love and Rage an object of continuous controversy within the anarchist scene. Despite these controversies, the reliable publication of the newspaper provided a valuable source of news and a forum for debate among anarchists and activists of many persuasions.
+
+The break-up of Love and Rage was preceded by a two-year-long debate within the organization around a number of issues that proved irreconcilable. In the course of this debate, the ex-RSL members and a few others active in the Anti-Racist Action Network (ARA) signed onto a document entitled “What We Believe” (WWB), which argued that all of the practical and theoretical problems that faced Love and Rage could be answered from “within anarchism.” Other members raised provocative questions (How do you defend the ideals of a new society without replicating elements of a state? How does a revolutionary relate to her or his communities as an organizer?) and often found that anarchist history and thought didn’t have satisfying answers. The WWB document and its backers offered vague and moralistic answers to such questions. Worse, WWB warned that this questioning was evidence of a covert plot to corrupt anarchism with Marxist thought.
+
+A second major issue was the theory of white skin privilege, which holds that the material and psychological privileges granted to white people in the US, and not just racist ideology, is the primary obstacle to multi-racial unity among oppressed people in this country. WWB described the privileges granted to whites as “petty and apparent” and some members of the WWB faction attacked the theory of white skin privilege. In opposition to this position, others argued that opposition to the system of white skin privileges was central to their politics and part of what attracted them to Love and Rage in the first place.
+
+A third major issue was practical work. Some of the WWB faction members had stopped doing any sort of mass organizing years ago. This was reflected in their politics. Some did political work locally which often wasn’t integrated into the Love and Rage Federation’s strategic working groups. A couple were doing good work building ARA, but had failed to fulfill responsibilities to the organization which they had taken on when the Love and Rage Coordinating Committee (CC) was moved to their area. The CC was the body responsible for the day-to-day decision-making of Love and Rage, but this CC never met after it was elected at the 1997 Love and Rage Conference.
+
+While this debate was taking place, two of the main Love and Rage locals broke down. The Minneapolis local became less and less active after several key members relocated to other cities and others came to see the organization as irrelevant to their work. The breakdown of the New York local came later and was more directly associated with the political divisions that finally split the organization.
+
+Although many sought to keep the debate over these issues civil and focused on the underlying political questions, a number of documents sunk into personal attacks and distortions of people’s actual political positions. It was in this context that many of the opponents of WWB decided that they could no longer remain in the same organization with the WWB faction. The degeneration of the debate combined with the organizational breakdown of the CC and several locals created a general demoralization that was followed by a rash of resignations from the organization, though these came primarily from members who had long been inactive.
+
+It was clear that the organization had come to an impasse. Opponents of WWB realized that it was necessary to support a resolution to disband the organization, in order to clear the way for launching a new organization on a firmer foundation of political unity and commitment to actual participation in mass struggles.
+
+This new organization took the name Fire By Night Organizing Committee from the Black spiritual “Go Down Moses” which refers to the use of “fire by night” to illuminate the route of the Underground Railway during slavery times. The name also reflects our desire to root our politics in the real traditions of struggle of the society we live in. In that spirit, we have decided to form a provisional committee that seeks to build an organization from the ground up with other groups and individuals we see as our political allies.
+
+Several members of the new group still identify as anarchists, and the organization is committed to anti-authoritarian politics and an anti-statist revolutionary strategy. But we have deliberately chosen not to identify as an anarchist organization to make clear our anti-sectarianism, our openness to a range of political influences, and our determination to create a new revolutionary politics more in tune with the conditions of the 21 st century. We look forward to continuing to work with all of our allies, both those who identify as anarchists and those who don’t.
+
+The Fire By Night Organizing Committee is currently composed of two local branches, one in New York City and one in the San Francisco Bay Area. A number of other groups and individuals have already expressed interest in affiliating or working closely with the new organization. We will continue our participation in student and poor peoples’ organizing efforts and we will carry out an intensive study and discussion process in order to clarify our basis for political unity. Fire By Night also plans to publish a critical evaluation of our experience in Love and Rage and a collection of documents from the debates that occurred over the past two years. There is a strong commitment on the part of its members that, in comparison to Love and Rage, the Fire By Night Organizing Committee will be more consistent in making sure that its members live up to expectations of membership that are appropriate to a serious revolutionary organization, and that we will be more serious about the development of our politics through study, discussion and ongoing critical reflection on our experiences in mass organizing work.
+
+The WWB faction has begun work on two projects. The first is a journal to be titled either “Liberty” or “Utopia” and to be produced by the ex-RSL members. The second is a call to form a “Fresh Revolutionary Anarchist Group,” “a federation of collectives united around firm anarchist/anti-authoritarian politics and outlook, oriented to the working classes and most oppressed, and active in building Anti-Racist Action as an anti-authoritarian mass movement.” Some members were unhappy with the lines along which the organization split and will not be part of any of the post-Love and Rage projects, nor will the small minority who actually did come to Marxist conclusions during the period of debate.
+
+The final conference started civilly with reports on the work and future plans of the people in the room followed by a unanimous vote to disband Love and Rage. This tone was only broken when the question of dividing up the resources of the organization came up, and it became clear that the debts of the organization were greater than its assets. As it currently stands, the Fire By Night Organizing Committee has been shouldered with all of the debts incurred by Love and Rage. Negotiations are under way to see if the other projects will contribute anything toward retiring Love and Rage’s debts.
+
+Members of Love and Rage expressed feelings ranging from deep sadness to profound relief at the disbanding of the organization. The burning question for members and non-members alike was what would happen to the newspaper, which was respected by many who never supported the organization that produced it. A final issue of the newspaper, which was almost ready to go to press at the time of the break-up conference, will be published [You’re reading it now!]. The Fire By Night Organizing Committee has decided not to create a new publication for at least six months, until we can determine whether or not sufficient support exists for it and whether or not it is a politically appropriate use of our limited resources. We all appreciate the value of the newspaper, not just to ourselves but to the larger movement, and will be distressed if we end out choosing not to resume publication (under a new name of course).
+
+The Fire By Night Organizing Committee can be contacted through the old Love and Rage Newspaper Office in New York at:
