@@ -1,0 +1,62 @@
+---
+title: "Chapter 45 New Rising Rendered Inevitable"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/chapter-45-new-rising-rendered-inevitable"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/chapter-45-new-rising-rendered-inevitable)
+
+Rising of May 31 — Significance of rising — Summary of situation — Convention and Dumouriez — Girondins vote arrest of Marat — People take his part — Character of Marat — He is acquitted — Famine in large towns — Extraordinary tax levied — Indignationof Girondins — Commission of Twelve appointed — Hébert and Varlet arrested — Isnard's threat — Sections demand expulsion of Girondins from Convention
+
+May 31 is one of the great dates of the Revolution, and quite as full of significance as July 14 and October 5, 1789, June 21, 1791, and August 10, 1792 — but, perhaps, the most tragic of them all. On this day the people of Paris rose for the third time, making its last effort to impress upon the Revolution a really popular character; and, to bring this about, it had to stand up — not against the King and the Court, but against the child of the Revolution itself — the National Convention — in order to eliminate from it the leaders of the Girondin party.
+
+June 21, 1791, the day of the King's arrest at Varennes, had brought one epoch to a close; the fall of the Girondins on May 31, 1793, was the close of another epoch. At the same time it became a symbol for all revolutions to come. Henceforth, for a long time to come, no revolution will be possible unless it culminates in its May 31. Either there will be in the revolution a day when the proletarians will separate themselves from the middle-class revolutionists, and will advance then to a point where the others will not be able to follow them without ceasing to be middle class; or this separation will not take place, and then there will be no revolution.
+
+This tragic situation is very clearly revealed in Brissot's pamphlet “To his Constituents,” dated May 26, which we have already mentioned. We cannot, in fact, read these pages without feeling that it is a question of life or death that is debated. Brissot was evidently hazarding his head in publishing this pamphlet, in which he implacably demanded that those whom he called the “anarchists” should be sent to the scaffold. After its appearance there remained but two issues: either the “anarchists” should let themselves be guillotined by the Girondins, which would open the door to the royalists; or else the Girondins should be expelled from the Convention, and in that case it was they who must perish.
+
+It is evident that the members of the “Mountain” did not decide with a light heart to appeal to an insurrection in order to compel the Convention to thrust out from its midst the chief leaders of the Right. For more than six months they had been trying to come to some agreement. Danton especially laboured to negotiate a compromise. Robespierre, for his part, worked to render the Girondins powerless “parliamentarily,” without resorting to force. Marat himself stifled his anger in order to avoid civil war. In this way they managed to delay the separation for several months. But at what a price! The Revolution was entirely stopped; nothing was being done to secure what had been already gained. It was living from hand to mouth.
+
+In the provinces, the old régime had maintained much of its strength. The privileged classes were lying in wait for the moment to recapture their wealth and position, to restore royalty and the feudal rights that the law had not yet abolished. The first serious check of the armies would have brought about the victorious return of the old régime. In the South, the South-West and the West of France, the mass of the people were with the priests, with the Pope, and through them with royalty. It is true that a great deal of the land taken from the clergy and the dispossessed nobles had already passed into the hands of the upper and lower middle classes, as well as to some extent to the peasants. The feudal dues were neither redeemed nor paid. But all that was merely provisional. And what if to-morrow the people, exhausted by poverty and famine, weary of the war, should retreat to their hovels and leave a free hand to the old régime? Would it not be triumphant everywhere in a few months?
+
+After Dumouriez' treachery the situation in the Convention became quite untenable. Feeling how deeply they were implicated by this treason of their favourite general, the Girondins redoubled the bitterness of their attacks against the “Mountain.” Accused of conniving with the traitor, they could only reply by flinging down a demand for the prosecution of Marat for the address the Jacobins had published on April 3, on hearing the news of Dumouriez' treachery, which Marat had signed as the president of the club for that week.
+
+Taking advantage of the absence of a great many members of the Convention — mostly members of the “Mountain” — who were acting as commissioners to the armies and in the departments at that time, the Girondins demanded of the Convention, on April 12, an order of prosecution against Marat, and then a warrant for his arrest, in order to send him in for trial before the criminal tribunal, for having advocated murder and pillage. The decree for his arrest was voted on April 13, by 220 voices against 92, out of 367 voters — seven being for an adjournment, and forty-eight abstaining from voting.
+
+The blow however failed. The people of the faubourgs loved Marat too much to allow him to be condemned. The poor felt that Marat was one of the people and never would betray them. And the more one studies the Revolution the more one knows what Marat did and what he said, the more one discovers how unmerited was his reputation as a sinister exterminator which the historians, admirers of the middle-class Girondins, have created for him. Nearly always, since the very first weeks of the Convocation of the States-General, and especially in critical moments, Marat saw more clearly and more justly than the others, clearer and better even than the two other great leaders of revolutionary opinion-Danton and Robespierre.
+
+From the day that Marat threw himself into the Revolution, he gave himself entirely to it, and lived in absolute poverty, driven continually into hiding while the others entered into power. Up to his death, in spite of the fever which racked him, Marat never changed his way of living. His door was always open to the men of the people. He thought that a dictatorship would help the Revolution through its difficulties, but he never thought of dictatorial powers for himself.
+
+Bloodthirsty as his language was with regard to the creatures of the Court — especially at the outset of the Revolution, when he said that if they did not strike off thousands of heads there would be nothing done and the Court would crush the Revolution — he always respected those who were devoted to the Revolution, even when they in their turn began to be an obstacle to the development of the movement. He saw from the outset that the Convention., having a strong Girondin party in its midst, would never be capable of accomplishing its mission, but he tried at first to avoid the elimination of the Girondin leaders by violence, and he only became its advocate and organiser when he saw that it was necessary to choose between the “Gironde” and the Revolution. If he had lived, it is probable that the Terror would not have assumed the ferocity imprinted on it by the members of the Committee of Public Safety. They would not have been allowed to use it to strike, on the one side, the advanced party — the Hébertists — and, on the other, the conciliators, such as Danton.[225]
+
+The more the people loved Marat, the more the middle-class members of the Convention detested him. This is why the Girondins, who wished to break down the “Mountain,” decided to begin with him: he would be defended less than any other Montagnard.
+
+But as soon as Paris learned that a writ was out for Marat's arrest, the excitement was immense. The insurrection would have broken out on April 14 if the “Mountain,” including Robespierre and Marat himself, had not preached calmness. Marat, who did not let himself be arrested at once, appeared before the tribunal on April 24, and was acquitted off-hand by the jury. He was then carried in triumph to the Convention, and from thence into the streets on the shoulders of the sans-culottes, under a cascade of flowers.
+
+The attempt of the Girondins had thus failed, and they understood at once that they never would recover from that blow. It was a “day of mourning” for them, as one of their newspapers said, and Brissot began to write his last pamphlet, “To his Constituents,” in which he did his best to arouse the passions of the well-to-do middle classes against the “anarchists.”
+
+Under these conditions, the Convention, whose sittings were becoming furious battles between the two parties, lost the people's respect: and the Commune of Paris took naturally the lead in the initiation of revolutionary measures.
+
+As the winter of 1793 advanced, famine in the large towns grew worse and worse. The municipalities found the greatest difficulty in the world in procuring bread, were it only a pound, or a quarter of a pound — four ounces — a day, for each inhabitant. To do that even, the municipalities, and especially that of Paris, had to run into the most frightful debt.
+
+The Commune of Paris then ordered a progressive income tax of twelve million livres to be levied on the rich, for the expenses of the war. An income of fifteen hundred livres for the head of each family, and a thousand livres for every other member, were considered as “necessary” and therefore freed from this taxation. But everything above this amount was treated as “superfluity,” and had to pay a progressive tax: thirty livres for a superfluity of two thousand livres; fifty livres on a superfluity of from two to three thousand livres; and so on, up to twenty thousand livres on a superfluity of fifty thousand livres.
+
+For sustaining the war in which France was engaged, in the midst of a Revolution and a famine, such an extraordinary tax, to be levied this special year only, was very modest, after all. It was only the large incomes which were touched by it, whereas a family of six persons who had an income of ten thousand livres would have paid less than one hundred livres. But the rich protested loudly, while Chaumette, the promoter of this tax, whom the Girondins wanted to attack after Marat, said justly: “Nothing will make me change my principles. Even with the knife at my neck I shall still declare, up to this day, the poor have done everything; it is time for the rich to take their turn. I shall declare that the selfish people, the young idlers, must be made useful, whether they like it or not, and some respite be procured for the useful and respectable worker.”
+
+If proofs were still necessary to show the impossibility of anything being done to save the Revolution, so long as the Girondins remained in the Convention, and the two parties continued to neutralise each other, these debates upon the loan would have given a striking demonstration of it.
+
+The Girondin, Isnard, who presided over the Convention during these days, an authoritarian in whom Thiers was foreshadowed — on his part added to the ferment by his threats. He threatened the Parisians, if they made any attack on the National representation, that Paris would be destroyed. “People would be searching soon on the banks of the Seine, to see if Paris had ever existed.” These stupid threats, which recalled only too well those of the Court in 1791, brought the popular indignation to its full height. On the 26th there was fighting in nearly every section. The insurrection became inevitable, and Robespierre, who until then had discouraged the rising, went to the Jacobins on the 26th to say that if need be he was ready to rise alone against the conspirators and traitors who sat in the Convention.
+
+Thirty-five sections of Paris out of thirty-eight had already asked the Convention to expel from its midst twenty-two Girondin representatives, whose names were given. The sections were now rising to compel the Convention to obey the will of the people of Paris.
