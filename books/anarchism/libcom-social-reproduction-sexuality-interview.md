@@ -1,0 +1,92 @@
+---
+title: "Social Reproduction Sexuality Interview"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/social-reproduction-sexuality-interview"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/social-reproduction-sexuality-interview)
+
+Submitted by vicent on February 17, 2016 Viewpoint: Why use a social reproduction frame to understand sexuality?
+
+Alan Sears: For me, the usefulness of the social reproduction frame to understanding sexuality grows out of the current situation of queer politics. On the one hand, we have won rights that I never could have imagined when I first came out in the 1970s. In Canada, we have basically won full legal equality, ranging from non-discrimination on the basis of sexual orientation to marriage and adoption rights. This is the outcome of powerful mobilizing. Some of the most exciting and defiant demonstrations I have ever been in were about queer struggles.
+
+Yet, we have fallen far short of the vision of sexual liberation. The policing of sexuality continues, we have only shifted the bounds a bit. Just look at the recent raid of the rentboy.com offices in New York, which seems to be a crackdown on sex workers and queer sex. Gender normativity continues to pervade every area of our lives, even if the permissible ideas of masculinity and femininity have expanded a bit and the idea of gender transition is more recognized. Queerness has become a brand, one that people with limited incomes can’t afford to buy. It is not only Pride marches, but queer spaces and visibility that are defined by commerce. These spaces also tend to be defined by whiteness, as the experiences, histories, and activism of people of color and Indigenous people has often been marginalized by a dominant version of lesbian and gay identity rooted in particular social locations in the Global North.
+
+I think the social reproduction frame helps us make sense of the contradictory gains that have been made, and therefore contributes to figuring out the next steps in sexual liberation. The crucial contribution is to show how sexuality and gender are nested in a whole set of relations of “life-making” organized around specific divisions of labor and hierarchies of dispossession. We can’t have real sexual liberation without addressing the ways our bodies and our lives are enmeshed in relations of work, household, and market, and regulated by the state.
+
+VP: Could you be a bit more specific and tell us what you mean when you say our sexuality is enmeshed in other social relations?
+
+AS: Sexuality is not separate from the rest of our lives. It is neither simply a biological drive nor a product of our minds. It is grounded in what we have to do to get by, the ways we use our bodies every day, the power relations that are present in every aspect of our lives. I think the social reproduction frame provides key tools to understand the ways sexuality is grounded in our everyday practices, and what that means for sexual liberation.
+
+Capitalism is the only form of class society where the subordinated class is free in the sense of owning their own bodies. Yet that freedom is completely constrained by lack of ownership and control over the key productive resources of society. To live, we need to sell our capacity to work, be in a relationship with someone who is employed, or attain a wage equivalent, for example, through social assistance, pensions, or some other commercial activity.
+
+Struggles around sexuality in capitalist societies are about navigating that contradiction between freedom and subordination, while sexual liberation requires actually overcoming that subordination. Let me give an example. Angela Davis argues that the sex-positivity in the music of Ma Rainey, Bessie Smith, and other African American women blues singers in the early twentieth century was connected to the fact that some sort of freedom in the realm of sexuality and personal relationships was one of the few real gains of emancipation from slavery. If you look at slavery in the Americas you see an ongoing history of sexual violence and the deliberate destruction of personal relationships built in to the regime of brutal coercion. It is not just that the system put slave owners in a position to rape, but that sexual coercion was part of the way they maintained their power.
+
+African Americans did not win real economic justice or freedom from racist assault or abuse by gaining emancipation from slavery in capitalist America. Black Lives Matter reminds us of how present racist violence is today, and the role that policing and prisons, along with a whole host of other institutions, play in that racism. Emancipation from slavery did bring significant and tangible changes in the area of sexuality and personal relationships – though of course limited by racist violence, economic injustice, and the regime of male dominance built into capitalist gender relations.
+
+I think a social reproduction approach helps us understand that contradiction. As members of the working class in capitalist societies, we own our own bodies, but are dispossessed of control over them. Rather than working directly to meet our wants and needs, we are forced to seek employment and/or engage in unpaid household caregiving labor to attain access to a wage. We do not control the work process or the product of our labor. A whole host of processes is loosed upon us to ensure subordination, ranging from schooling to prisons. We are thus alienated from our selves and each other. And that has a huge impact on our sexual being.
+
+VP: But aren’t you running the risk of turning social reproduction into a kind of theory of everything?
+
+AS: The social reproduction frame emerged specifically as a correction developed by Marxist-Feminists to the limited perspective on class and work advanced by the dominant streams of Marxism. Basically, this limited perspective meant that most Marxists located class formation in the realm of production, that is, wage labor in the paid workplace. Those holding this perspective basically ignored the role of the unpaid labor, mainly done by women in the household, to sustain the existing working class and raise the next generation.
+
+The social reproduction frame opens up our idea of class formation, to include a range of paid and unpaid labor processes organized through divisions of labor that are gendered, racialized, and sexualized. The weight of unpaid labor is disproportionately freighted onto the shoulders of women, but the precise configuration of paid and unpaid labor through which people sustain themselves varies tremendously over time and in different social locations.
+
+VP: You’re talking about gender and division of labor here, but it’s not clear how all this connects with sexuality.
+
+AS: To start with, I think a social reproduction focus on divisions of labor casts a new light on ideas of “heteronormativity” and “homonormativity.” “Heteronormative” is a term used to describe the dominant expectations for heterosexual lifestyles that set the tone for acceptable sexuality for all of society. Heteronormativity is a package that includes divisions of labor, gendered aspirations, leisure patterns, and practices of sexuality. Heteronormativity is not simply ideological, a set of cultural expectations, but is grounded in work practices organized through power relations. Heteronormativity changes over time, and in different social locations.
+
+Roderick Ferguson pointed out that heterosexual African Americans often lived in ways that did not fit with the dominant heteronormative patterns in the United States. For example, African American women tended to participate in wage labor at much higher rates than white women, often including burdensome physical labor that was otherwise not seen as “women’s work.” This has a huge impact on gendered expectations and household practices. We might add, the regime of mass imprisonment, especially disproportionate for African American and Indigenous men, creates non-heteronormative patterns as males are forcibly removed from their communities and detained in situations in which the fulfillment of heteronormative roles – as workers, partners, fathers – is simply impossible. So does the geographic dispersion that means a particular family may include very different households in a variety of countries, for example children raised by grandparents in the country of origin while the father is employed as a temporary migrant in another country and the mother as a paid domestic worker in a third country.
+
+Heteronormativity is not simply about conformism, but about social power, dislocation, racism, divisions of paid and unpaid labor, and the spatial organization of the global labor market. When we say, then, that winning equality rights have meant that lesbians and gays have imitated heteronormativity to create “homonormativity,” this is not simply a decision to assimilate rather than transgress. It is about what Johanna Brenner calls “survival strategies” in a set of social relations organized around dispossession, exploitation, and oppression.
+
+Homonormativity is not simply a choice, at the individual or political level. On the one hand, it is not even an option for some people – including many who are poor, racialized or trans, just as heteronormativity is not even an option for many who are racialized, Indigenous, or migrants as discussed above. On the other hand, many who might prefer to challenge homonormativity or heteronormativity may essentially be forced to conform by regimes of paid labor, unpaid labor, and state regulation. For example, the material pressures to marry in order to obtain migration status or access to benefits required for the well-being of household members (adults and/or children) might trump ideological concerns about inviting the state into our households.
+
+If we want to go beyond heteronormativity and homonormativity, then, it is not only about asserting queerness but about creating the social conditions in which people can thrive while pursuing the ways they really want to live in terms of gender and sexuality. Not getting fired, not being stripped of benefits or status, not getting raped, not getting beaten up on the streets, not being imprisoned or shot by cops. The social reproduction frame reminds us that the organization of paid and unpaid labor in workplaces, households, and through state regulation has a huge impact on what options we may have to pursue sexuality. Of course, we have agency and can make history in the realm of sexuality, but our ability to do so will necessarily be constrained by what is happening in these other realms of life.
+
+VP: Earlier you said that divisions of labor are not only gendered and racialized, but also sexualized. Could you explain what you mean by that?
+
+AS: Divisions of labor orient our lives around particular embodied practices. The labor processes that are most central to our daily routines are bound to have an impact on our experience of our bodies and our desires. A pro football linebacker, an assembly line worker in an auto plant, a department store make-up seller, and a day care worker use their bodies very differently on a daily basis. Carolyn Steedman wrote powerfully about a kind of erotic death she felt as an elementary school teacher touching and being touched by kids all day to the extent that she closed down other forms of contact.1
+
+If you look at the kind of work you are expected to do in paid and unpaid labor, in the household and in the place of employment, it creates a sense of your body that contributes to your own mapping of desire and the erotic. If you spend a lot of time using your body to soothe distressed infants, that is bound to create a different sense of touch, for example, than if you use it to flatten running backs from the opposing team. I am not suggesting for a second that this is the only factor shaping desire, but these practices necessarily play an important role.
+
+About 10 years ago there was a show called Queer Eye for the Straight Guy in which a team of gay men did aesthetic retrofits for straight men. So what does a queer eye in this sense have to do with same-sex desire? I think a social reproduction frame encourages us to think about why we might expect queer guys to know aesthetics and straight guys to be hopeless in that area. There are certainly specific areas of aesthetic and emotional labor that are disproportionately populated by gay men. Then there is the utter compulsory heterosexuality of the pro sports team. I think that real sexual liberation means taking on the coercive and hierarchical nature of divisions of labor in capitalist societies and understanding the impact the organization of work has on our sexual being.
+
+VP: Could you expand on that, the idea that sexual liberation requires a challenge to divisions of labor?
+
+AS: I guess what I am saying is that our abilities to experience sexual pleasure, to resist sexual coercion, to feel fulfilled and engage lovingly with others, are constrained and shaped by the ways we have to fit into specific roles determined by paid and unpaid work. At a most basic level, our work schedules, paid and unpaid, have a very direct impact on our sex lives simply by creating or limiting availability and by exhausting us or leaving us with a sense of accomplishment. At a more complex level, our sense of ourselves, including our bodies, is grounded in the work we do which hyperdevelops certain capacities and shuts down others.
+
+A doctor, a fashion photographer, a teacher, and a mother are likely to see very different things when we stand before them, given the focus they have learned to develop through their experiences of schooling, training and work inside or outside the home. They will touch differently and have different expectations for being touched. Yes, deliberate acts of queering can challenge the normative, but unless we get at the practices and power relations in which the normative is embedded we are going to be limited in how far our liberation project goes.
+
+I also think our sexualities are messed up by the way power works in capitalist societies. Consent and coercion are muddled by the contradiction between ownership of our bodies and the compulsion to sell our capacity to work (or do unpaid labor for someone who does so). Technically, workers consent to work at a capitalist enterprise, but the coercive power of the boss is massive. So do we really know what genuine consent grounded in control over our bodies and our lives actually looks like?
+
+In the legal sense, you can never consent if you are coerced. But in capitalist societies we naturalize the key coercive forces and take them for granted. You have to work because otherwise you won’t be able to eat – all of us find ourselves in this situation, so we freely sign the contract and do the job for however many hours a day. And in some cases that means showing up to work looking sexually attractive, even if that might not be said out loud. Is that consensual?
+
+It is so exciting and important to see some serious work challenging sexual violence, violence against women, and gendered harassment on campuses right now. I think a social reproduction frame might push us to ask questions about the way consent is understood in some of these campaigns. What are the coercive factors and power relations underlying consent that we are simply taking for granted, just as we accept the employment contract as consensual? The basic emphasis on full consent is crucial, but the model we tend to use is based on the autonomous rational actor who is free and informed. Actually, we are deeply enmeshed in power relations of gender, race, class, age, and bodily capacity in a society that is profoundly sex-negative. Those power relations have a huge influence on our sexual being and desires, and on our ability to voice consent or refusal.
+
+VP: You just said that this is a sex-negative society, but does that match the everyday reality of a society where sex is everywhere?
+
+AS: Yes, another interesting contradiction. The society where everything is sexualized, yet actual sexual activity is silenced and made invisible. Sexualized images are omnipresent, but partners often cannot even communicate their sexual desires to each other.
+
+The neoliberal phase of capitalism has intensified the sexualization of things, as relations of commodification enter into every aspect of our everyday lives. So we try to turn ourselves into things to be hot. We try to live up to the images – they set the standards. We process our bodies and turn them into products – training, shaving, dying, tattooing, surgically altering, dieting, wearing the right stuff. The raw unprocessed body – the one that smells like a human being – is seen as contemptible.
+
+So yes – we are negotiating sex-negativity paired with sexualization. Abortion rights, birth control, safety in social spaces and on the streets, places for young people to be sexually active – the things required for positive sexual experience, especially for women, are still walled off.
+
+VP: So what can we look forward to in the use of the social reproduction frame to understand sexuality?
+
+AS: I think this is an exciting moment where social reproduction theory is getting a whole lot of attention and being taken in new directions. This issue of Viewpoint is a valuable part of that. This has been driven in part by a frank recognition of the limitations of versions of Marxism that understood class too narrowly in terms of paid labor at the place of employment. It is also an important moment in sexual politics, as we grope towards a new vision of sexual liberation to take us beyond the polarization between equality rights and transgression.
+
+I think a social reproduction approach to sexuality can combine a broader sense of class formation and life-making in capitalist societies with a transformative queer politics. At the same time, there is a lot of work to be done, for example in thinking through the relationship between divisions of labor and sexualities. To develop this work will need a lot of discussion and debate, good historical and contemporary research and activist engagement.
