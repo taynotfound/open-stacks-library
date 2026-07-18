@@ -1,0 +1,44 @@
+---
+title: "Daniel Guerin And Libertarian Communism"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/daniel-guerin-and-libertarian-communism"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by Katya Pavlichenko on Daniel Guerin&#039;s ideas on the synthesis between Marxism and anarchism."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/daniel-guerin-and-libertarian-communism)
+
+Daniel Guerin in 1929 An article by Katya Pavlichenko on Daniel Guerin's ideas on the synthesis between Marxism and anarchism.
+
+Introduction Daniel Guerin has remained relatively unknown as a thinker and revolutionary, despite the enormous contributions that he made throughout the decades that he was active. As well as the spending his life as a dedicated revolutionary communist, Guerin was also an active participant in the anti-colonial movement and the gay liberation movement. Originally beginning his political career as an anti-Stalinist Marxist, and eventually gravitating towards Trotskyism, Guerin eventually moved away from authoritarianism after reading a collection of writings by Mikhail Bakunin. His anarchism grew to incorporate what he considered to be the best aspects of Stirner, Proudhon, Kropotkin, and Malatesta, though never without critiquing what he saw as the shortcomings of these thinkers. In the last decades of his life, he moved towards what he considered to be a synthesis of “old, fossilized anarchism” and “degenerate, authoritarian Marxism” into a political project which he called libertarian communism. The libertarian communist project that he set out to create is not without its own shortcomings, but nevertheless offers us a new way forward in the struggle against capital and the state.
+
+Fairly early in Daniel Guerin’s political development, he was drawn to what he referred to as “anti-Stalinist Marxism” in the context of the 1930s and 1940s, this meant Trotskyism. In fact, he met Leon Trotsky in 1933 and went on to become a member of the 4th international. However, after the war, Guerin found a collection of Bakunin’s works. After reading Bakunin, Guerin would go on to split from Trotskyism, and leave authoritarian socialism behind for the remainder of his life. He went on to read Stirner, Proudhon, Kropotkin, and Malatesta, and entered into what has been called his “classical anarchist phase”.
+
+To Guerin, Max Stirner was the father of anarchism. His writings on revolting against bourgeois society, the church, and morality itself, particularly resonated with Guerin as a closeted gay man. With Stirner as a foundational thinker, Guerin’s anarchism was one of visceral revolt against bourgeois society and the state. The anarchist, to Guerin, is one that frees themself from the shackles imposed upon them by society, and in doing so wages war against everything that the ruling class holds sacred. As such, the anarchist is also one who embraces all nonconformists, all outlaws, and all outcasts. Naturally, as Bakunin and other anarchist thinkers pointed out, the anarchist is one who wholeheartedly sympathizes with the plight of the lumpenproletariat, and does not cast them aside as many Marxists have historically done.
+
+However, anarchism also has a social and creative character, which is inseparable from its more negative and destructive characters. Because of this, Guerin praised Proudhon, and went as far as to call him the father of self-management. Though a pacifist and a reformer, Proudhon’s vision for workers’ self-management has had a profound influence on the entirety of the anarchist movement, carrying over into the class-struggle-based and revolutionary currents of anarchism. The modern anarchist movement seeks social revolution, that is to say, a process of social transformation in which all oppressive social relations are broken down and replaced by directly-democratic free associations in which the individual can truly blossom. This transformation, the anarchist movement argues, has to be the result of the spontaneous work of the masses themselves in a self-organized struggle against capital and the state. This is contrasted with the Marxist movement, which rejects the creative power of the masses in favor of vanguardism.
+
+In the later years of Guerin’s political life, he and his comrades diligently tried to synthesize what they considered to be the best aspects of the anarchist movement with what they considered to be the best aspects of the Marxist movement. This synthesis was originally called libertarian Marxism but eventually came to be called libertarian communism. To, Guerin, libertarian communism has its origins in the spontaneous action of the masses, and, based on his observations of the socialist movement in the 19th and 20th centuries, the reality that any truly social revolution would be a libertarian revolution.
+
+Because of the reality that libertarian ends can only be achieved by libertarian means, the libertarian communists have neither time nor sympathy for political parties which seek to co-opt the working-class movement. Any revolutionary action has to be the result of the self-organized action of the masses. Borrowing heavily from anarchism with respect to the role of the revolutionary organization, libertarian communists hold that the role of the organization is to aid in the working-class movement as rank-and-file members, never trying to wield authority over or co-opt the movement. Libertarian communists see electoral politics as a hindrance to the working class movement, and oppose it. Having transcended the limits placed upon them by electoralism and reformism, the libertarian communists are always directly struggling against capital, never falling into the traps set by bourgeois political parties, and always militantly educating, agitating, and organizing.
+
+Libertarian communists employ the methods of analysis developed by Marx, the dialectical method and historical materialism. To libertarian communists, the anarchist critique that historical materialism is deterministic and fatalistic does not hold up to scrutiny. Libertarian communists employ these methods as a guide to understand the world around them, and as a guide to action. After all, the development of productive forces may be the primary driver of history, but it is the masses which make history through their movement and their will.
+
+As with the role of the organization, libertarian communists are influenced by anarchism by their adoption of the principle of federalism. Libertarian communists, much like council communists, conceive of a dictatorship of the proletariat which is a confederation of workers’ councils. As such, libertarian communists do not believe in the establishment of a so-called workers’ state, and see any attempts to do so as a threat to social revolution.
+
+Because, to paraphrase Errico Malatesta, anarchists follow ideas and not men, the point of this article is not to praise Daniel Guerin and zealously uphold everything he ever said or did, but to elaborate on his answer to one of the biggest questions that continues to face the socialist movement: Marxism or anarchism? The point of this article is not to give a lesson on “left unity” or “non-sectarianism” but rather to explain the shortcomings of both Marxism and anarchism that Daniel Guerin saw, and how he transcended them. Many people on the left today may see shortcomings with anarchism or Marxism today, but, because they are more concerned with ideological labels and petty rivalries than truth, are too afraid to look to other schools of thought to find ways to work through these shortcomings. This is a mistake, it is conceited to believe that the ideological label one chooses to associate one’s self with has a monopoly on truth.
+
+In the end, history will prove Daniel Guerin right or wrong. As with the thinkers that he criticized while learning from, Daniel Guerin was also a fallible human being that can and did make errors in his work. In this respect, he should be treated by the anarchist movement how he treated those figures. That is to say, he should be read and learned from, but not worshipped like some infallible figure who could do no wrong. The most important lesson that can be learned from Daniel Guerin and his life is that one should think for themself and never be satisfied with the labels that society puts on them.
+
+Further Reading Anarchism: From Theory to Practice by Daniel Guerin Towards a Libertarian Communism by Daniel Guerin No Gods, No Masters: An Anthology of Anarchism by Daniel Guerin No Gods, No Masters: An Anthology of Anarchism by Daniel Guerin Marx and Bakunin by Anton Pannekoek For a Libertarian Communism by Daniel Guerin
