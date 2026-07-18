@@ -1,0 +1,98 @@
+---
+title: "Political and Economic Power in a Period of Social Transformation"
+author: "Tom Wetzel"
+date: "2024"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/tom-wetzel-political-and-economic-power-in-a-period-of-social-transformation"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 8 March 2024 from ideasandaction.info."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "tom-wetzel-political-and-economic-power-in-a-period-of-social-transformation.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/tom-wetzel-political-and-economic-power-in-a-period-of-social-transformation.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/tom-wetzel-political-and-economic-power-in-a-period-of-social-transformation)
+
+How does the working class liberate itself from being a subordinate and exploited class? This is where we need thinking about the overall strategy and our vision about new structures to replace the capitalist regime.
+
+The working class has to build its capacity to actually do this. This capacity is built through the more or less protracted process of class formation . This is the process through which the working class overcomes fatalism and internal divisions (as on lines of race or gender), and builds the confidence, organizational capacity and the aspiration for social change. This is the process through which the working class “forms” itself into a force that can effectively challenge the dominating classes for control of society. This is likely to require a kind of social movement alliance that brings together the grassroots worker organizations (such as unions) and social movement organizations that have emerged around the various other areas of struggle in a particular period — tenant unions, environmental justice organizations, and groups that emerge around racial and gender fault lines. And thus the agenda for change is going to reflect the various priorities of these movements.
+
+But what steps should this movement aim at in the transition to socialism? In fact it’s going to be essential for a consensus to emerge already within such a mass movement about the basic structural changes that we need to initiate.
+
+Syndicalists have always argued that a crucial initial task in the transition to a self-managed socialism is direct worker takeover of the workplaces — creating new democratic organizations through which workers can exercise direct power over the labor process. An impressive feature of the Spanish worker revolution in 1936–37 was the widespread expropriation of industries and collectivization of land in rural areas. Although the political events of that moment were not entirely predictable, the movement for worker control was not simply “spontaneous.” The militants of the unions in Spain had discussed for decades the need for workers to take over the industries and re-organize them under worker self-management. This was part of their revolutionary preparation.
+
+Our program for building socialism needs to address the major structural features of the capitalist regime that we want to replace — structural features that are at the root of the oppressive work regime, vast inequality, and ecological destruction inherent to capitalism. The system of class oppression is rooted in two institutional structures of class power which the movement must break. First, we need to get rid of the private ownership of the non-human means of production, which allows for vast extraction of profit to build the wealth of a tiny, super-rich elite who dominate society.
+
+But private ownership is not the only basis of oppressor class power. And here we need to learn from mistakes of the 20th century socialist movement. The 20th century saw major growth for a newly emergent dominating class — the bureaucratic control class, as I call it. The power of this class is based on their monopolization over the decision-making authority (and some related areas of expertise) in the corporations and state, via top-down bureaucratic hierarchies. The bureaucratic control class includes the managers who control workers day-to-day but also high-end professionals who work with the managerial regime such as corporate lawyers, and the people who run the state, such as professional politicians, prosecutors, judges, military brass. A worker’s liberation movement must have a program for eliminating the power of this class over the working class.
+
+There are several reasons why widespread expropriation and direct worker self-management of industry needs to be an immediate task in a period of fundamental conflict over the society’s future:
+
+To ensure that the needs and desires of the population are met in a period that may witness widespread disruption
+
+To begin the process of re-organizing industries to diminish their ecologically destructive effects and to make for a work environment that protects worker health and wellbeing.
+
+Workers will also need to bring the different facilities together into an industrial federation to do planning and coordination for an entire industry. Without a means to coordinated control and policy for an industry, worker groups controlling particular facilities might be pitted against each other in competition. Workers would be atomized and their social power diminished. In the situation where the capitalist facilities are taken over, different companies may have stronger or weaker competitive positions, and some workers may receive lower pay or experience worse conditions. A basic principle of industrial unionism is to fight to “take wages and conditions out of competition.” An advantage of coordination of the whole industry through an industrial federation is that it enables workers to achieve better conditions for the worse off. Moreover, splitting workers up into competing firms would atomize the working class, putting them in a weaker position in society.
+
+Another major task that the working class must take on in a period of social transformation is gaining political power — the power to decide the basic rules and structure of the society as a whole. This is necessary to make sure that no new class rides in to set itself up as a new oppressor class. To do this, the working class organizations that have taken over the various workplaces can organize election of revocable delegates from the workplace assemblies to worker congresses for the nearby region and also for the wider region where the revolutionary process is unfolding. This is building worker political from below.
+
+Here we may encounter a possible objection. We are used to thinking of a geographic basis for “democratic government” where people elect politicians to represent the people in a district, based on universal right to vote. Thus it might be thought that neighborhood assemblies and congresses of delegates from neighborhoods might be sufficient for a new government system.
+
+A revolutionary process that works to liberate the working class from subordination to the capitalist and bureaucratic control classes needs to break the power that the bureaucratic control class has wields over both production and the state. This process is likely to lead to major opposition from the people in these classes who lose power. The managers and top professionals whose power is threatened or removed are likely to oppose their loss of power. Moreover, they have the speaking and writing and organizing skills to build organizations and organize in neighborhood assemblies and congresses of neighborhood delegates to advance their class interests, and try to maintain a powerful role for their class. They can build “political parties” that push a program that would shift power to the high-end professionals and managers. Thus I think a purely geographic conception of socialist governance is likely to lead to managerialist bureaucracies set up to control workers in workplaces.
+
+To prevent this, there needs to be political power based on workers and their assemblies and organizations that control production. These are the organizations that set up and control the worker congresses.
+
+A central part of the state used to defend the interests of dominating classes are the police and military — the iron fist of the state. These institutions are set up to defend the capitalist regime and keep the masses in check. This means that the working class will need to replace them if they are gain control of the society. In both the Spanish and Russian revolutions this happened partly through a process where a large parts of the rank and file went over to side of the working class movement.
+
+A part of the governance system is the way that social self-defense is organized. There is the potential of foreign invasion — such as a force trying to restore capitalism. People are also going to want protection from individuals or gangs who act in predatory, anti-social or violent ways — commit assaults, or try to privatize public assets through theft. At the same time, there needs to be a fair process of finding out if a person accused of such crimes is actually guilty — based on evidence and activities of workers such as those in forensic labs. People want to be free of the insecurity from the threat of violence. Of course, in a society where a movement of the oppressed majority has gained power, the self-defense roles — such as policing — would need to be done differently than the kind of massively violent police and prison regime that exists in the USA at present. Since their origin in the early 19th century, police in the USA have been a central part of a racialized regime of class oppression. Thus policing needs to be completely rebuilt on a different basis.
+
+In the Spanish revolution, the struggle over political power played out as a fight over control of the social self-defense function. The civil war in Spain began when the union militias defeated the army in a large part of Spain with the backing of some sections of the military rank and file. The syndicalist CNT then built its own “proletarian army.” The officers (“chief delegate”) were elected in each militia column. The various smaller groups in the column elected delegates to a “war committee” — administrative committee for the column. The union organizations of the CNT set up a national defense committee to provide overall control of its army. This was a step in the direction of working class political power.
+
+A sizeable radical tendency in the CNT held that the unions need to “take power.” To do this in Catalonia would have meant overthrowing the regional state and electing a worker congress from the union and workplace assemblies — to chart a new course for the region and establish a system of democratic economic planning. They also supported direct election of proposed regional and national defense councils from the assemblies. These would provide overall direction for a unified worker militia — controlled by all the worker assemblies and mass organizations, not just the CNT.
+
+We can regard the worker congresses (and elected self-defense council) as forming the aspect of governance created by the mass worker organizations for working class political power and to protect against the potential for renewed subordination of workers in production. If the working class is to prevent some dominating class from emerging at the top when the smoke clears, the working class mass organizations must have direct control over the dominant armed power in society. If the bureaucratic control class were to gain control of the police and military functions, they would use this power to attack worker control of production.
+
+The idea that the worker mass democratic organizations need to gain control of the dominant armed power in society in a revolution is a long-standing syndicalist principle. Thus the 1922 principles of the syndicalist International Workers Association said:
+
+“Syndicalists do not forget that the decisive struggle between the Capitalism of to-day and the Free Communism of to-morrow, will not take place without serious collisions. They recognize violence, therefore, as a means of defense against the methods of violence of the ruling classes, in the struggle of the revolutionary people for the expropriation of the means of production and of the land. Just as this expropriation cannot be commenced and carried to a successful issue except by the revolutionary economic organization of the workers, so also the defense of the revolution should be in the hands of these economic organizations…”
+
+Of course it is true that many decisions about social production also affect other people apart from the workers in a particular industry. However, if workers do not control their own work activity and the workplaces, then some other class will — and thus the regime of class oppression will continue.
+
+Nonetheless, we recognize that various decisions about a workplace will impact people other than the workers in that workplace — consumers of goods or services, people in the region affected by the air or water emissions from that facility. This means that the worker organizations that self-manage the various industries will have to be socially accountable to the masses who they are producing the goods and services for, and accountable to the entire populace who share the ecological commons.
+
+A socialized economy requires that the worker-managed industries produce the goods and services that the masses of people want. How do we ensure effective accountability? A way to do this is to establish a significant scope in social planning for neighborhood assemblies and regional delegates from these community assemblies. This is what I call the dual governance model for a socialized economy. This means that we take seriously the idea of self-management for decision-making about the concerns that people have as consumers, users of public services, or as residents affected by environmental issues like pollution. With the dual governance model, we keep worker self-management of the industries but we add self-management rooted in assemblies of the residents in neighborhoods. This can be a basis for community self-management of planning for public goods and services, protection against pollution and other issues that affect people as consumers or residents in a region. This tells us that self-managed socialism would have a “division of powers” between worker-based organizations like the worker congresses and communal organizations such as neighborhood assemblies.
+
+How does this conception of worker political power differ from what Marxists often say? To see the difference it’s useful to look at John Molyneux’s pamphlet The Future Socialist Society . [1] Molyneux presents a democratic conception of socialism that seems to be similar to a syndicalist view. He also proposes that the old top-down police and military forces be replaced by a democratic worker’s militia:
+
+“The old capitalist armed forces and police will be disbanded — in essence they will already have been in a state of collapse for the revolution to have succeeded. They will be replaced with organizations of armed workers – workers’ militias. …Unless the revolution has to fight an all out civil war or invasion, service in the militia will be on a rota basis so as to train and involve the maximum number of workers in the armed defense of their power, and to ensure that the militia do not separate themselves off from the working class as a whole.
+
+The militia will also be in charge of everyday law and order — a task which, because of their roots in the community, they will perform far more effectively than the capitalist police. All officers in the militia will be elected…”
+
+Molyneux also sees the regional and national worker congresses as the basis of worker political power, although he calls them “worker councils”:
+
+“Workers’ councils are regional bodies of delegates elected from workplaces which in turn will send delegates to a national workers’ council…. The democracy of workers’ councils will be based on collective debate and discussion and on the ability of the electors… to control their representatives. The mechanism of this control will be very simple. If delegates do not represent the will of their electors they will simply be recalled and replaced by mass meetings in the workplaces…
+
+Different political parties, providing they accept the basic framework of the revolution, will operate freely within the councils, with the party which has the majority support from the workers forming the government. In all likelihood this will be the party which has led the revolution.”
+
+But what is this “government” that is separate from the worker congresses? In the Russian revolution the Council of People’s Commissars was “the government” but it simply took over the old tsarist state bureaucracies and was in practice not under the control of the soviet congress.
+
+Molyneux does recognize the crucial role of worker power to collectively manage the industries, although he calls it “worker control”:
+
+“Workers’ control of industry is essential. A working class that is unable to control its own workplaces will not be able to control its own state. If control of the new state industries is transferred to a privileged bureaucracy, as happened in Russia, then sooner or later this will come to exert a decisive influence in the society and class divisions will re-establish themselves.”
+
+But things get peculiar when he starts to talk about how socialization of the economy will occur:
+
+“The formal mechanism through which economic power will be established is…nationalization….. the progressive takeover of the main firms and industries. Small businesses employing only one or two workers can mostly be left to later. The immediate task is to gain control of the decisive levers of economic power, of the ‘commanding heights’…”
+
+I think we can see here that there is a central inconsistency here. The creation of the worker congresses is not likely to happen without a widespread organized worker movement in the various industries — with mass organizations like unions, and elected shop steward councils and worker meetings. But if there is this mass movement for worker power there in the workplaces, why can’t this movement begin the process of socialization of industry from below? In other words, why not have this grassroots worker movement take over the industries, and create their own democratic control of production?
+
+Under Molyneux’s conception there is an entity separate from the worker congresses called “the government” and this entity must seize control of the industries from above through “nationalization.” We can see the problem here right away. What is this “nationalization”? The usual idea of nationalization is where a state creates a corporate-style managerial command structure with workers subordinate to this control bureaucracy. When the Bolsheviks nationalized the Russian economy in 1918, they also set up a top-down statist form of central planning, and appointed managers from above to control workers. Thus Molyneux’s conception of the process of takeover of industry by a “government” through “nationalization” in practice is likely destroy any real worker control in industry. In fact it will set the stage for the emergence of the bureaucratic control class as the new oppressor class. This is why I say that his proposal is inconsistent.
+
+[1] https://www.marxists.org/history/etol/writers/molyneux/1987/future/index.html
