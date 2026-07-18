@@ -1,0 +1,129 @@
+---
+title: "1946 General Strike Rochester New York"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/1946-general-strike-rochester-new-york"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article about a general strike that happened in Rochester, NY over the AFL&#039;s efforts in organizing city workers."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "The 1946 General Strike of Rochester.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/The 1946 General Strike of Rochester.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/1946-general-strike-rochester-new-york)
+
+Mass demonstration at Washington Square Park An article about a general strike that happened in Rochester, NY over the AFL's efforts in organizing city workers.
+
+By midnight on Wednesday, May 15, l946, special messengers had delivered to the homes of 489 Rochester municipal workers copies of a letter from Public Works Commissioner August H. Wagener:
+
+This is to advise you that the position held by you in the Department of Public Works has been abolished by the City Manager and your services with the City of Rochester are terminated as of midnight, this date. This action is the result of a change of policy deemed necessary to protect public interest...
+
+It has become apparent that a number of city employees are determined to persist in tactics that... would lead not only to an exorbitant increase in the cost of important municipal services but to a dangerous crippling of services vital to public health, safety and welfare...
+
+What were the worker tactics which Cartwright claimed threatened Rochester's very existence? They had formed a union!
+
+Some months earlier, at the invitation of the organizing committee of the AFL Central Trades and Labor Council, the Federation of State, County and Municipal Workers had dispatched Adrian L. Mitten to organize Rochester's city workers. On December 9, l945 these workers held their first meeting. Organizing progressed rapidly and in early May meetings were held by over 200 water department and sewage disposal workers, school board employees, and city junk and cemetery employees. By May 10 they had formed FSCME Local 871 and elected Alphonse Rossi acting president. The City's response was to abolish these workers' jobs.
+
+In an editorial titled “Fascism Rides High,” the AFL's Labor News commented “Cartwright's Gestapo sallied forth at midnight to tell 489 workers they were fired for exercising their rights under a democracy. The heels of the 'dictator's' henchmen began to thump on the streets of Rochester.”
+
+Meanwhile, City Manager Cartwright had directed his commissioners to review all city personnel, with a view to making work adjustments. At the same time all city DPW equipment had been ordered off the streets and into the municipal garage at Dewey Avenue and Felix Street. Police leaves had been cancelled and security was increased at the garage.
+
+On Friday (May 17) the conflict intensified as the union posted pickets at every DPW station in Rochester, blocking both men and vehicles. City water works employees refused all morning to cross the picket lines. Rubbish collection in the city ceased. 61 ash wagon drivers who reported for work but refused to drive were fired on the spot; in solidarity 50 sewer gang members and a crew of 19 bridge maintenance workers walked off the job. With no driver a tanker was unable to deliver gasoline to firehouses and fuel for the city's fire engines had to be ferried in hand-filled 5-gallon cans. That afternoon the City Manager met with his Public Works and Commerce Commissioners to review the situation but made no report of their discussions.
+
+Meanwhile the struggle was generating great interest in Local 871 and organizer Mitten announced that he had now received 1,000 applications: "You are going to have a strong union in Rochester," he said, "just as strong as those now operating in Buffalo, Syracuse and Utica."
+
+Friday evening Presidents Anthony A. Capone of the AFL Central Trades and Labor Council and John H. Cooper of the CIO Council of Rochester and Vicinity called emergency meetings of their respective bodies. The result was an unprecedented unity between the two central labor councils including not only strong resolutions of support for the fired workers but appointment of a joint strategy committee including business agents from three AFL unions (Teamsters, Upholsterers, and Allied Printing Trades) and three CIO representatives (two from the Amalgamated Clothing Workers and one from the United Electrical Workers).
+
+At 3:45 AM on Saturday (May 18), while picketing in front of the DPW garage on Dewey Avenue, Mariano Pizzi, Assistant Business Representative of the Ice, Oil, Construction and Supply Drivers Local 398 was struck by a car driven by Public Works Commissioner Wagener; he was treated at General Hospital for a bruised left leg.
+
+Later that day the AFL-CIO joint strategy committee adopted a three-point plan that included establishing a welfare committee to aid the fired workers, holding a joint AFL-CIO demonstration, and conducting a city-wide campaign to inform the community of "the guilt of the administration in depriving taxpayers of their public services."
+
+That evening 40 of the fired workers who were war veterans demonstrated outside Eastman Theater, where an "I Am an American Day" program was being held. A riot alarm was called in when Anthony Capone and other demonstrators entered the theater to address the audience about the city firings. More than l00 of the audience left when Vice Mayor Van Lare denied Capone the floor. On Sunday (May 19) both sides rested. The City pledged not to move any vehicles and labor withdrew its pickets.
+
+On Monday (May 20) labor launched its plan to inform and mobilize the community, calling for a mass demonstration at Washington Square Park, initiating round-the-clock picketing, opening a 24-hour headquarters at 86 West Main Street, and organizing a house-to-house informational canvass.
+
+The struggle escalated sharply on Tuesday morning (May 21) with the arrest of picketing workers. At 7:30 AM police rounded up 54 pickets, even though they were on private property with the owner's permission across the street from the Dewey garage. They were charged with disorderly conduct, including heckling the police: one detective later testified that he "thought booing was a crime." Among those seized were Labor Council President Capone, Local 871 President Rossi, and FSCME organizer Mitten. Taken to City Jail, they were held until past noon before being arraigned. Bail, set at $100 for each picket ($500 for outside agitator Mitten) was posted by the Central Trades and Labor Council.
+
+During his hours in jail Capone noted that "this is a real battle:"
+
+It is a battle we must win — or organized labor will not be able to hold its head up in Rochester. The issue is very clear — it is: do or do not public workers have the right to organize in unions of their choice.
+
+And from Rochester's jail Capone and Mitten threatened a city-wide strike:
+
+There are between 60-65,000 union men and women in the area. There is only one answer to such a challenge — a sympathetic strike. We will ask such a strike. We will ask these union men and women in all walks of life to take a rest from their jobs.
+
+Labor Council President Capone argues with police before arrest.
+
+When pickets arrived at the Dewey Avenue garage the next morning (Wednesday, May 22) they found 200 uniformed police and 50 plainclothesmen drilling and parading in front of the plant. That day only 2 arrests were made. That afternoon City Manager Cartwright met with a group of clergy but rejected their plea that he negotiate with Local 871.
+
+Meanwhile, the arrest of Anthony Capone had outraged Rochester's teamsters. In addition to heading the Central Trades and Labor Council, Capone was business agent for Local 398. The Teamsters Joint Council agreed to recommend a general strike, when necessary, at that night's meeting of the Labor Council. Meeting at Carpenters Hall, Local 398 declared a "holiday " and that night most of the local's 650 members camped at the hall to prepare for mass picketing, passing the time watching movies and making speeches . At the same time 40,000 leaflets were readied announcing a mass protest meeting for 5 PM on Thursday at Washington Square Park.
+
+At 8 AM Thursday (May 23) 300 police marched out of the Dewey Avenue garage, surrounded the gas station lot where union pickets were assembled, and herded 208 of them to waiting patrol cars and squad wagons. This mass arrest, the largest in Rochester's history, netted not only workers on picket duty but a school teacher on her way to work, a passing plumber, and a dog belonging to one of the pickets.Again, those arrested were detained for several hours and again bail (set at $100 — twice the maximum fine for disorderly conduct) was paid by the Central Trades and Labor Council.
+
+That day ice deliveries were reduced 50% because many of the ice drivers had been arrested and jailed. Construction, gasoline, oil and feed deliveries to nearly 200 companies were affected by the teamsters' "holiday."
+
+Labor, clergy and civic leaders denounce City administration.
+
+At 5 PM, in sunny 83 degree weather, 5,000 people attended the mass meeting at Washington Square Park and heard a series of labor leaders, clergy of various denominations, and other civic leaders including the NAACP denounce the City administration, protest the firing of the workers, and condemn the mass arrests. The tenor of some of these remarks was captured by Labor News:
+
+Rochester took a long stride toward fascism ... when 208 trade unionists gathered near the city Department of Public Works plant at Dewey Avenue were seized by the police and carted off to the city jail. This brings the total of arrests to 264 persons.
+
+By Friday (May 24), although the City had been able to move some vehicles under police escort, trash collection had come to a virtual standstill. Seeking to counter the teamsters' boycott, the City gave the remaining collection and repair workers a three-day holiday, saying they deserved it for putting in so much overtime. The City also received the first bids from private contractors to do DPW work: flushing 45,500 miles of streets.
+
+The next day (Saturday, May 25) the Civil Liberties Union telegraphed Cartwright protesting the mass arrests and condemning the City's labor policies. That weekend saw Rochester's first Lilac Festival since the end of World War II and passed without further confrontation between the intransigent City administration and an increasingly militant labor community.
+
+Shortly after Rossi delivered this communication, business agents of the AFL's 72 locals met to discuss their tactics if the City rejected their demands. Picketing continued at all city garages, without police interference. That evening the strategy committee chair and the Labor Council president presented labor's side of the dispute on local radio. The 10 PM deadline passed without a response from Cartwright to Rossi or Capone: still unwilling to deal directly with the workers, Cartwright was negotiating with Governor Dewey's aides and state AFL officials in Albany. On the basis of these discussions Cartwright announced at 2:15 AM (Tuesday, May 28) that the dispute had been settled.
+
+The Democrat & Chronicle, rushing to put out the morning paper but failing to confirm with local labor leaders that the dispute had indeed been settled, ran its Tuesday edition under the banner headline, "CITY DISPUTE WITH UNIONS SETTLED AS GOVERNOR DEWEY INTERVENES." (This would not be that last headline mistakenly attributing victory to the governor!).
+
+At 3 AM the unions' joint strategy committee denied the reported settlement and an hour later authorized picketing at the city's bus garages, effectively shutting down public transportation. By 7 AM it was clear that many factories would not open including the entire clothing industry, shut down by 13,500 striking members of the Amalgamated Clothing Workers — a CIO union! Throughout the day pickets under the direction of AFL and CIO leaders were sent from a rallying point at Carpenters Hall to strategic points around the city. Both Gannett newspapers were shut down following the placing of pickets in front of their doors: the Times-Union did not appear on Tuesday evening, nor was the Democrat & Chronicle published Wednesday morning. The focus of activity shifted from the Powers building to labor headquarters on West Main Street to Carpenters Hall and from there to points around the city where pickets were needed.
+
+Taxi drivers refused to work. Movie houses closed when projectionists refused to cross picket lines. However, at the request of the joint strategy committee, union waitresses remained on the job as restaurants as well as hotels and food deliveries were exempted from the strike. Union barbers, whose business agent was a City Councilman, did not participate in the work stoppage. Restaurants and department stores were thronged with workers idled by the sympathy strike. The City made no effort this day to move vehicles or to collect trash; pickets were not interfered with and no arrests were made. While a few complained about being inconvenienced, most citizens accepted the strike with good humor.
+
+Local estimates put the number of persons out of work that day at 30,000 but this did not include those unable to work simply because they could find no transportation. While the federal Bureau of Labor Statistics later reported that Rochester's one-day general strike involved 20,000 workers the 50,000 claimed by local labor leaders may well have been accurate.
+
+Whatever the number, the strike compelled the City administration to deal with local labor. That evening state mediators, the Deputy State Industrial Commissioner and prominent Rochester religious leaders shuttled between the City Manager's office and Carpenters Hall and, by 2 AM (Wednesday, May 29) a settlement was reached.
+
+The Thursday (May 30) Democrat & Chronicle ran a photo of the men who settled the city-wide strike, showing key labor leaders and city officials meeting at City Hall. Labor News heralded the outcome: "1-Day General Strike ends as City unions win recognition." The joint labor strategy committee issued a statement summarizing the agreement:
+
+-recognition of city workers' right to organize a union and choose representatives to bargain with the city administration
+
+City services began to be restored including trash collection. That night organized labor kicked off the Memorial Day holiday with the largest Central Trades and Labor Council meeting ever held.
+
+Issues of the strike continued to play out over the following months. The City sought to have arrestees sign releases admitting to the charges against them and freeing the City and its officials from liability, but the Labor Council rebuffed this demand. By mid-June all disorderly conduct charges were dismissed in city court.
+
+City Manager Cartwright got off to a bad start with Local 871 by sending letters to all city employees telling them that they did not have to join the union and that he would handle their grievances for them whether or not they belonged to the union. Meanwhile City Council repealed an ordinance providing for the recognition of unions.
+
+Fred Burke was elected President of Local 871, replacing Rossi who became the union's business agent. By September Burke was in court seeking to compel city officials to deal with the union.
+
+Three arrestees pressed false charges against Rochester police chief Henry T. Copenhagen. In May 1947 Copenhagen was cleared, though one juror admitted that "probably the police chief overstepped his authority to some degree."
+
+Though Local 871 had to fight to win its first contract, organized labor had won the battle for the right of public workers to organize in unions of their choice. Labor was able to hold its head up in Rochester. However, it had taken a general strike to achieve this victory.
+
+The General Strike was not a common tactic for American labor. Indeed, as Central Trades and Labor Council President Capone noted:
+
+Few people in the American Federation of Labor favor the general strike as a weapon for achieving gains for working people. It has always been considered in labor circles as a similar weapon to the atom bomb —something too dangerous to be used except as a last resort. We [were] forced to use this weapon of last resort. Forced into a fight for life or death, labor had no alternative but to use the most powerful weapon possible. That weapon is the general strike.
+
+The decision to use such a weapon in Rochester in 1946 is only partly explained by the local "life or death" fight invoked by Capone. Much of the explanation is to be found in the condition of workers nationally and their response. 1946 saw the greatest strike wave in U.S. history: 4.6 million workers — 10% of the entire workforce — struck during the course of the year. There were 4,985 work stoppages resulting in the loss of 116 million days of labor; 31 of these strikes involved over 10,000 workers each and together accounted for nearly 3 million strikers. Entire industries were crippled or shut down by major strikes: communications (142,000 telephone workers); electrical manufacture (174,000 workers); meatpacking (93,000 workers); steel (750,000 workers); bituminous coal (340,000 miners in April and 335,000 in November); railroads (350,000 locomotive engineers and trainmen); shipping (142,000 licensed and 132,000 unlicensed maritime workers). During these strikes President Truman frequently intervened forcefully. Indeed, even as events leading to Rochester's general strike unfolded, the federal government seized the railroads (May 17) and the bituminous coalfields (May 21). One in a hundred strikes during 1946 involved sympathy strikes and, in addition to Rochester, there were general strikes in Hartford and Stamford (CT), Lancaster (PA), Houston (TX), Camden (NJ), and Oakland (CA).
+
+It is no coincidence that the greatest previous strike year was 1919— immediately following WWI. Conversion of the economy from war- to peace-time production and the reintegration of veterans into the workforce is always problematic. After WWII there was a crisis: between Spring 1945 and Winter 1946 the weekly wages of war workers fell 31% while those of non-war workers declined 10%. A government study released in May 1946 showed that "in most cases, wages during the first phase of reconversion were inadequate to maintain living standards permitted by earnings in the year preceding Pearl Harbor."
+
+In these conditions organized labor's war-time no-strike pledge, made in exchange for union security concessions, crippled most efforts to bargain for higher wages. Not surprisingly, 81% of the 1946 strikes were fought over wages and hours and many were forced on union leaders by the rank and file. Significantly, 40% of the strikes in 1946 won substantial gains for workers, while 22% resulted in partial gains.
+
+It is within the context of these larger struggles that we must understand the 1946 battle of Rochester labor and it is in the context of these many victories that we should celebrate the success of Rochester's general strike.
+
+For the local background of the strike and its day-to-day conduct I have relied on Labor News , Rochester's AFL-based labor journal, and the Democrat & Chronicle and the Times Union , both Gannett newspapers. For background on the 1945-46 strikewave I have consulted Jeremy Brecher's Strike (both original and revised editions), Joshua Freeman's Working Class New York (1999), and the U.S. Bureau of Labor Statistics Bulletin 878 (1946) and Bulletin 918 (1947). The images which illustrate this essay were made by Harold Lara, a local photographer hired by the Rochester Central Trades and Labor Council to document the unfolding story. (J.G.)
+
+Jonathan Garlock is a Rochester-based labor educator who has worked on publications such as the Rochester Labor History Map/Guide (2000), a video history and curriculum Struggle in Smugtown: Rochester’s Workers, Radicals and Reformers (2002) and a book, All These Years of Effort: 150 Years of Rochester’s Central Labor Councils (2005).
+
+A writer and labor historian, Dr. Garlock serves on the Executive Board of the Rochester Labor Council, chairing its Education Committee and coordinating work-based curriculum projects of the Rochester Education Alliance of Labor (REAL).
