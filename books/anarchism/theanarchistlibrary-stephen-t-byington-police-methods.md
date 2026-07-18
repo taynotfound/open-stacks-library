@@ -1,0 +1,26 @@
+---
+title: "Police Methods"
+author: "Stephen T. Byington"
+date: "2011"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/stephen-t-byington-police-methods"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Mother Earth 2, no. 8 (October 1907): 333–335. Retrieved on December 22, 2011 from libertarian-labyrinth.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "stephen-t-byington-police-methods.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/stephen-t-byington-police-methods.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/stephen-t-byington-police-methods)
+
+E. Armand, the editor of L’etre Nouvelle , writes to me from a Paris jail. He has been arrested on the charge of uttering counterfeit money. The evidence against him, aside from a probably malicious denunciation, is said to consist of one counterfeit coin, found by searching his room in his absence. What he feels worst over, however, is that all his books and papers have been seized. Apparently, he thinks it will be harder to get these back than to get acquitted on the charge of counterfeiting. I think so, too.
+
+It reminds me of the time when Alexander Horr was arrested in New York. Not being a habitual criminal, he did not know that the police would hold as evidence whatever they found in his pockets; so the police got everything that was in his pockets in the ordinary course of things, his keys, (part of which were not his own property, but belonged to the landlord, on whose premises the Freeland Central Association did its printing), his proof-sheets, and I don’t know what else. The Freeland concern had been doing a little typefounding, and Horr had in his pocket six or seven proofs of type sold — merely AAAAA and so on, BBBBB and so on, as type is sold, half a dozen wide galleys. I, as the firm’s business agent, in Horr’s absence, wanted to get hold of those proofs and measure the number of inches, so that I could make out a bill and collect the money. The police sergeant, to whom I applied in Fifth Street, was very willing to tell me that I couldn’t see those proofs, that I couldn’t even measure the number of inches, and that he and the police force did not desire to be told my opinion as to whether this was reasonable or not; but he was not gracious enough to tell me that I had come to the wrong office and that he had properly nothing to say about it, the goods being in Mulberry Street. I made up my mind later, that when next time a police sergeant used such recklessly over-bearing language to me across his desk, I would infer that he was irresponsible in the matter, and would ask him to direct me to the man who had really something to do with the business. When Horr was finally tried and sentenced, I heard that I could now get the goods; but his lawyers told me it would be more trouble than was worth while, unless there was something that I specially cared about. But I did want those proofs, and the key that belonged to the other man, and I went at the job. It took me half a day, for the Mulberry Street man had his red tape tied up good and tight; he would not give me the goods on the strength of my signature as Horr’s attorney. Backed by the exhibition of a power of attorney whose validity he acknowledged, — though he was legally bound to give them to me on those terms, or else I know less about a power of attorney than I think I do, — but insisted that either he must have my power of attorney to keep, or else I must bring an order for the delivery of the goods, signed by Horr’s own hand. I had to get into the Tombs — and out again — twice, outside of regular hours, before I could get the papers. One key I failed to get. It was one of the most elaborately designed keys I ever saw, the bit having narrow side-pieces that turned and ran back. The elaborateness and delicacy of the pattern struck the eye of the policeman in charge, and he declared it to be a “regular pick” that would open almost any door. He got another policeman by his side to agree with him that the thing was a skeleton key, and on this ground he refused to give it up. As I suppose most of my readers are no more familiar with skeleton keys than I was at that time, let me explain that a skeleton key is necessarily simple in pattern. When a key is elaborately designed, or has any bars of metal running in a way in which the metal of ordinary keys does not go, it proves that that key was made to fit a particular lock, and not for the work of a skeleton key. But these two policemen, speaking as experts in burglars’ tools, decided that this chamber-key of Horr’s was a skeleton key, and I had to leave it there. By the way, Horr was not imprisoned for burglary or theft, or for anything in which a skeleton key could be useful; and nothing in the evidence or the allegations had tended to cast upon him any suspicion of being dishonest to pick anybody’s lock. I wonder if it is the ordinary custom in France to seize a man’s library when you arrest him for counterfeiting. I strongly suspect that if Armand had kept clear of the Anarchist and anti-militarist agitation, he would never have been arrested as a counterfeiter; or, at the very least, that his library would have been spared.
