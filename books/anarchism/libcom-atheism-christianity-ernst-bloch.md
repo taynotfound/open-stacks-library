@@ -1,0 +1,29 @@
+---
+title: "Atheism Christianity Ernst Bloch"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/atheism-christianity-ernst-bloch"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: ""
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "ernst-bloch-atheism-in-christianity.compressed.pdf"
+    type: "PDF"
+    url: "https://files.libcom.org/files/ernst-bloch-atheism-in-christianity.compressed.pdf"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/atheism-christianity-ernst-bloch)
+
+In the 21st century, religion has come under determined attack from secular progressives in documentaries, opinion pieces and international bestsellers. Combative atheists have denounced faiths of every stripe, resulting in a crude intellectual polarization in which religious convictions and heritage must be rejected or accepted wholesale.
+
+In the long unavailable Atheism in Christianity , Ernst Bloch provides a way out from this either/or debate. He examines the origins of Christianity in an attempt to find its social roots, pursuing a detailed study of the Bible and its fascination for 'ordinary and unimportant' people. In the biblical promise of utopia and the scriptures' antagonism to authority, Bloch locates Christianity's appeal to the oppressed. Through a lyrical yet close and nuanced analysis, he explores the tensions within the Bible that promote atheism as a counter to the authoritarian metaphysical theism imposed by clerical exegesis. At the Bible's heart he finds a heretical core and the concealed message that, paradoxically, a good Christian must necessarily be a good atheist.
+
+This new edition includes an introduction by Peter Thompson, the Director of the Centre for Ernst Bloch Studies at the University of Sheffield.
