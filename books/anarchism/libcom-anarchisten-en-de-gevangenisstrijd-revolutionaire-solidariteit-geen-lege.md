@@ -1,0 +1,42 @@
+---
+title: "Anarchisten En De Gevangenisstrijd Revolutionaire Solidariteit Geen Lege Retoriek En"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/anarchisten-en-de-gevangenisstrijd-revolutionaire-solidariteit-geen-lege-retoriek-en"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Tekst van (toenmalig) anarchistische gevangene Mark Barnsley. Vertaald en verspreid door het Anarchist Black Cross - Gent, 1999. Nog altijd actueel."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/anarchisten-en-de-gevangenisstrijd-revolutionaire-solidariteit-geen-lege-retoriek-en)
+
+Tekst van (toenmalig) anarchistische gevangene Mark Barnsley. Vertaald en verspreid door het Anarchist Black Cross - Gent, 1999. Nog altijd actueel.
+
+Een tijdje geleden werd ik geïrriteerd door een bekend Anarchistisch tijdschrift dat gevangenen ondersteuningswerk gebruikte als een voorbeeld van "single-issue" politiek. Het kan zijn dat het om een louter gedachteloze commentaar ging, eerder dan iets anders, maar het feit dat het blijkbaar ongemerkt bleef, en vooral zonder kritiek, reflecteert de armoede van huidig anarchistisch denken met betrekking tot gevangenisstrijd, en de marginalisering van wat eens een centrale issue was voor revolutionairen in het algemeen, en voor anarchisten in het bijzonder. Hoewel het kan dat sommige anarchisten de gevangenisstrijd als enkel een andere deelstrijd zien, is de gevangenis voor een steeds groter aantal mensen uit de arbeidersklasse een centraal deel van hun leven.
+
+Het doel van het Britse juridische en penale systeem is het opsluiten van mensen uit de arbeidersklasse, iets wat het uitzonderlijk goed doet. Uit de middenklasse gaan zo goed als geen mensen naar de gevangenis, en in die zeer zeldzame gevallen dat dit wel gebeurt, krijgen zij kortere straffen en worden zij opmerkelijk anders behandeld dan mensen uit de arbeidersklasse. De middenklassen roepen graag op tot langere gevangenisstraffen en hardere gevangenisomstandigheden omdat zij heel goed weten dat de mogelijkheid dat zij, of hun vrienden en familie, ooit in de gevangenis belanden, zowat nihil is (kijk naar Billy Straw). Door hun (reële) klassenpositie zien diegenen die alle politieke bewegingen in dit land domineren (de middenklasse) de gevangenisstrijd als een marginale kwestie, en als gevolg worden de bewegingen die zij besmetten op hun beurt ervan weggehouden. Dit is heden ten dage zowel waar voor de Britse anarchistische beweging als voor links in het algemeen, en in de praktijk (hoe pijnlijk ook om dit te moeten horen) is de anarchistische beweging op dit vlak zelfs slechter af dan sommige andere.
+
+Hoe zij zich ook mogen voordoen, middenklasse pseudo-revolutionairen behouden nog steeds de meeste van de anti-arbeidersklasse vooroordelen van hun mamas en papas. Deze vooroordelen manifesteren zich op verschillende wijzen, inclusief hun houding tegenover gevangenen. Het is geen toeval dat de Britse linkse en anarchistische beweging zich over het algemeen veel comfortabeler voelde in het publiceren over gevangenen die ver van hun bed opgesloten waren zodat de kans klein was dat zij een dag voor hun deur zouden opdagen. Zij mogen anders beweren, maar de meeste middenklasse anarchisten blijken aangeboren vooroordelen te hebben als het erop aan komt te erkennen dat zovele rechterlijke dwalingen plaatsvinden in dit land, en weinigen geloven echt dat de Staat complotten smeedt tegen mensen, zeker niet als een direct gevolg van hun politiek activisme – dàt gebeurt enkel in andere landen.
+
+Op dit moment kan het zijn dat er weinig mensen zijn in dit land die de staat echt ziet als eenreële bedreiging (of op z’n minst een serieuze doorn in het oog), hetgeen eerder een nogal droevige reflectie is van de toestand van de revolutionaire politiek. Geloof me, als en wanneer anarchisten waardige opponenten worden van de Staat zullen ze merken dat zij meer dan bereid zal zijn haar rol te spelen. Vele arbeiders hebben dit maar al te goed ondervonden in het verleden, en waar omwille van hun klassenpositie de middenklasse pseudo-revolutionairen hiervan afgeschermd zijn, voelen arbeiders steeds meer de ijzeren hiel van de staat in hun gezicht. Gevangenschap wordt meer en meer een centraal deel van het leven van de arbeiders; weinigen van ons hebben geen broers, zusters, moeders, vaders, zonen, dochters, vrienden of geliefden in de gevangenis, en vaak voor minder dan niets. Straffen worden langer, en het wordt gemakkelijker en gemakkelijker voor de politie en de Procureur des Konings om mensen erin te luizen.
+
+De laatste jaren hebben we een golf van toenemende repressie gezien in de Britse gevangenissen, maar ondanks het feit dat vele aspecten van de politieke strijd zich zowat op een dieptepunt bevinden in dit land, blijft de strijd tegen onderdrukking in de Britse gevangenissen voortduren. Gevangenen verdienen steun in deze strijd. Geen enkele geïsoleerde groep of individuen kunnen winnen tegen een veel sterkere vijand, en hierbinnen zijn we zo geïsoleerd als maar kan zijn.
+
+Wanneer het over gevangenensteun gaat, geloven anarchisten teveel hun eigen propaganda, die over deze kwestie in het beste geval wensdenken is, en in het slechtse geval pure leugen. De waarheid doet pijn, maar feit is dat, onder anarchisten in dit land vandaag, solidariteit een eerder zeldzaam gegeven is. Ik maakte 20 jaar deel uit van de anarchistische beweging voor ik erin geluisd werd door de Staat, en toch kreeg ik de eerste 4 jaar van mijn gevangenschap niets meer dan wat beperkte steun van enkele individuele kameraden.
+
+Anarchisten zijn altijd goed geweest in het aanmoedigen van actief verzet in de Britse gevangenissen, toch zijn ze zelden in staat of bereid de solidariteit en financiële hulp te verlenen aan gevangenen die worden gebrutaliseerd en geïsoleerd omwille van hun verzet in de gevangenis. Dit weerspiegelt de houding van zogenaamd “revolutionair” links in het algemeen, stoer in slogans die oproepen voor strijdbaarheid en revolutie, maar geshockeerd en tekort schietend bij zelfs relatief kleine daden van verzet. Zoals middenklasse anarchisten zien zij ieder individu met een fles om hun woorden om te zetten in daden als gevaarlijke gekken. Het hoeft dan ook niet te verwonderen dat vele gevangenen (zoals de arbeidersklasse in het algemeen) politicos met wantrouwen of zelfs met verachting bekijken.
+
+Terwijl er her en der verteld wordt dat er nog nooit meer anarchisten zijn geweest in dit land, is het een feit dat de organisaties en structuren die traditioneel de beweging vormden, in duigen liggen, en de hele beweging lijkt in ideologische verwarring, met vele kameraden die zo beschaamd zijn over de staat der dingen dat zij er gewoon mee kappen. Zelfs het ABC, waarin vele anarchisten tijdelijk actief zijn, is gereduceerd tot een gering aantal van kleine groepen en individuen, met weinig cohesie of richting, en blijkbaar zonder de wil om de voor de hand liggende organisatorische problemen aan te pakken.
+
+De huidige verwarring in de solidariteitsbeweging voor gevangenen kon op geen slechter tijdstip komen voor degenen onder ons achter tralies, want we staan op een kritisch punt als het gaat over de Britse gevangenisstrijd. De gevechten die nu plaatsvinden zullen beslissend zijn voor de gevangenisomstandigheden van de komende jaren. In de gevangenissen willen de staatsmachten de concessies aan de menselijkheid die zij gedwongen werden te maken in de de jaren 80 wegnemen, en het gevangenenverzet eens en voor altijd de kop indrukken, terwijl buiten de Labour regering haar aanvallen op de arbeidersklasse escaleert door de erosie van burgerlijke vrijheden en de uitbouw van een nauwelijks verholen politiestaat, die meer mensen van ons dan ooit opsluit.
+
+De strijd achter de tralies is een intrinsiek deel van de bredere revolutionaire strijd, en gevangenen hebben organisaties nodig die in staat zijn concrete steun en revolutionaire solidariteit te bieden, geen lege retoriek. Als we serious zijn als revolutionairen moeten we een effectieve solidariteitsbeweging met gevangenen bouwen die coherent de groeiende staatsrepressie bestrijdt, en die in staat is effectief gevangenenverzet te helpen en zelfs in het offensief gaat ter ondersteuning ervan. In de woorden van de anarchistische gevangene Ojore N Lutalo, "Iedere beweging die haar politieke gevangenen niet steunt, is een nepbeweging."
