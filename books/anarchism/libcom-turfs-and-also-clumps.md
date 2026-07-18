@@ -1,0 +1,42 @@
+---
+title: "Turfs And Also Clumps"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/turfs-and-also-clumps"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Blog post on tensions around organizing campaigns encouraging or discouraging contact with the life of the larger organization"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/turfs-and-also-clumps)
+
+Blog post on tensions around organizing campaigns encouraging or discouraging contact with the life of the larger organization
+
+Hola, amigos. How you been? I know it's been a long time since I rapped at ya, but I’ve been busy drinking in the shower, reading Peanuts comics, and regretting my life choices. I was walking to work the other day, or maybe walking home, sometimes I can’t tell the difference, and it was like 95 degrees, 100something with the heat index, and as I trudged my sweaty slab of self along I thought about back when I used to ride to work in a beautiful air conditioned bus, which is also when I used to do IWW stuff on active basis and I remembered I had been meaning to write down some thoughts on getting turfy.
+
+Now, I’m aging into useless, or another kind of useless, so I don’t understand what it is that youngs these days see as so appealing about their spacephones and their Go Pokemon and their hub-a-dub music, so I also don’t have any sense that anything I say relates to the reality of current IWW organizing. Back in my day, though, sometimes people got turfy.
+
+What I mean is, sometimes organizers would get possessive about their people. See, at the time anyway the IWW consisted of multiple places and clumps of people. There’d be local branch meetings, official committees and projects of the local branches, organization-wide meetings, and official organization-wide committees and projects. Then there’d be informal stuff, people associating, hanging out. Often that and the official stuff melt into each other, blur around the edges. Then there’d be the activity in workplaces, which might have some kind of formal existence but usually didn’t. Any of the above clumps of stuff could get big enough to have smaller clumps inside it - a subgroup of a committee who agreed on stuff, etc.
+
+So, about getting turfy, see, what would sometimes happen is that a group of people organizing at work would have just a few people or one person who played a big role in making that organizing happen at any given moment, and the group would also have just a few people or one person who went to stuff and was connected to stuff in other organizational clumps. That’s generally an interesting question to ask in my opinion about people in the organization - one clump or two? Or three, or more... What I mean is, is somebody involved in or rooted in or at least in touch with only one area of organizational life (if so, if that area gets fucked up, then their organizational life as an individual also get massively fucked up), or does their life in the organization involving moving in/through more than one clump?
+
+Often in organizing most people are one-clumpers, and the organizing is their clump, and not all of them are super deeply embedded in that clump. In the organizing clump, there’s usually at least someone who is tied into at least one other clump. Some of the time that double-clumper will make demands or requests on the other IWW members they know in other clumps, to be like ‘help with the organizing’ or ‘build relationships with people in my organizing clump, to help make some more double-clumpers, i.e. people who are more connected to other areas of the life of the organization’.
+
+When that happens, it’s cool, but sometimes the person who asked the people from other wobclumps to get involved will also feel worried about who else from other clumps starts nosing around their clump. Or the otherclumpers invited over don’t follow the same vision of how to proceed as the person who made the initial ask. And sometimes there isn’t an initial ask at all, sometimes people involved in other clumps of the organization take it on themselves to try to make contact and get involved.
+
+All of this stuff can sometimes be a good move and sometimes not be. Ultimately good idea is as good idea does. Unfortunately the criteria of assessment are blurry - what’s good for an organizing campaign and what’s good for other areas of the life of the organization aren’t always the same, and likewise what’s good short term (and especially short term over here in this clump) vs what’s good long term (and especially long term over there in that clump) aren’t always the same. That can lead to friction .
+
+Anyway, turfy: turfy is when someone is like ‘these are my people.’ Sometimes that’s said pretty openly. Sometimes it’s not said openly, but is thought, or said privately. Sometimes it’s not said or thought consciously at all, but operates as an impulse. People committed to an organizing campaign can be like ‘stay away from our campaign.’ This can be the orientation generally to everyone who is from another clump. It can be the orientation toward some people, based on views or behavior or interpersonal stuff. It can come and go or be selective - being turfy in some ways, keeping control over informal contact and relationship building and decision making, say, but wanting contact in other ways, like funds and turnout at events.
+
+There are lots of reasons for getting turfy. They include enjoying being the most experienced person (relative to whatever sort of experience) involved in a specific campaign and so not liking input from people in another clump, being convinced that you’re right but not being sure you can win an argument about that if challenged, being worried that some view or behavior held by some other(s) will be a liability in the campaign and a liability the campaign can’t afford, being tired and exasperated and impatient and just wishing people would shut the fuck and listen for a fucking second instead of everything always having to be a god damn production all the time, worrying that people in the organizing you’re part of aren’t embedded deeply enough in the organizing and so that people from other clumps of organizational life might be competing for their time and energy in ways that your campaign can’t afford. I’m sure there are other reasons. I’ve laid out some negative ones, but I actually think being turfy is really normal and natural, and it’s not always a problem. Part of what makes it a difficult problem when it is a problem is it can be hard to tell when and if it’s a problem. And sometimes it’s not until it is.
+
+I don’t think there’s an answer to this in any direct way so much as it is or at least was a kind of tension built into the life of the organization. It can cause friction and disconnects and confusion. I think it’s better when it can be addressed directly, like ‘are you being turfy?’ ‘yes, stay away from those people’ or ‘no, I mean, I don’t think so’ ‘no you really are’ etc. I don’t have any clear guidelines for what to do about this. I’d say, if you feel turfy and think it’s a good idea, be turfy then, just be prepared for some negative effects of some kind, and keep in mind that in the longer term anyway people with relatively deep ties in more than one clump of organizational life tend to be more likely to stick around than people with either shallow ties or ties that are more or less exclusive to just one clump of the organization. If you’re dealing with someone who is being turfy, respect what they’re doing, or don’t. If you do and you don’t like something in that campaign then be prepared to see their organizing get fucked up and live with those consequences. If you don’t respect the turfiness, be prepared for the fact that you might fuck up their organizing, or that you may have some pretty serious interpersonal friction because of your differences in view. In general try to keep friction below the threshold of catching fire and burning people out or burning bridges between people. Beyond that, I dunno, do stuff when it’s a good idea, and don’t when it’s not, which of course is no help for the majority of times when it’s not clear what to do. Mostly I just wanted to say ‘I’ve noticed this turf thing happened.’ Alright, I’m out. Gotta clean my kitchen and fret about house hunting, maybe do a couple shots before my showerbeer. Keep on clumpin’ on.
