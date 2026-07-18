@@ -1,0 +1,40 @@
+---
+title: "Exarchia Solidarity Squats And All Spaces Struggle Assembly Announcement"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/exarchia-solidarity-squats-and-all-spaces-struggle-assembly-announcement"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The state and capital always attack the freedom of the social base, steal its labor and resources. In recent years we have experienced one of the most violent attacks through the massive impoverishment of people who are already oppressed and exploited. On the other hand, there has been widespread so"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/exarchia-solidarity-squats-and-all-spaces-struggle-assembly-announcement)
+
+Solidarity to squats and all spaces of struggle in Athens The state and capital always attack the freedom of the social base, steal its labor and resources. In recent years we have experienced one of the most violent attacks through the massive impoverishment of people who are already oppressed and exploited. On the other hand, there has been widespread social resistance and solidarity. People have created a variety of self-organized spaces such as housing infrastructure, social medical centers, community kitchens, open parks and public spaces which are just some of the main examples.
+
+The state and capital always attack the freedom of the social base, steal its labor and resources. In recent years we have experienced one of the most violent attacks through the massive impoverishment of people who are already oppressed and exploited. On the other hand, there has been widespread social resistance and solidarity. People have created a variety of self-organized spaces such as housing infrastructure, social medical centers, community kitchens, open parks and public spaces which are just some of the main examples. In spite of weaknesses and setbacks, with squats, political groups, base unions, squares and neighborhood assemblies, the movement has created a solid social territory that has gathered significant knowledge and experience, forming communities of struggle with strong social bonds, addressing society with criticism. On many occasions, the movement had to use violence to defend and expand the free spaces and territories from state and capitalist interests and fascist attacks. The movement has grown in diversity and vitality, despite the continued criminalization of solidarity and mobilization.
+
+In the context of this socio-class conflict, on Monday, 26/8, the state, armed with police forces, seized Exarchia and evacuated four squats. Two of them were refugees/migrants’ houses, Transito and Sp Trikoupi 17, where they captured 144 refugee migrants by uprooting them from their residences for a second time and isolating them in what they call detention centers. Intrusions-evicted were also carried out in an ongoing housing and political squat in Assimaki Fotila and the Gare squat where three arrests were made. The cops also invaded the comrades’ home from Gare.
+
+In addition to the squats and the movement itself, this repressive operation is aiming at migrants. They are one of the most oppressed parts of society since their very existence is considered illegal. In a state of illegality, there is no access to health and education while working conditions are exploitation and subjugation. The situation of exclusion, which often comes also from a section of society, leads them to violent and wild situations, which are then used by the state and racists to attack migrants. Many choose their self-organization and solidarity structures to survive and resist. Together with local and international solidarity they build communities and claim their visibility, posing a direct threat to political and economic power. The solidarity we are building is in contrast to the humanitarian aid of NGOs that victimize migrants and make money from their problems. Real solidarity is at odds with the humanitarianism of the state which is a simple cover-up of deaths at the borders and the murderous conditions at the concentration camps. Prisoners do not receive medical care but instead, suffer daily from diseases that lead to death. These concentration camps lack basic hygiene, people live with bed bugs and miserable food, constantly being beaten or raped to force them to flee the Greek and European territory or commit suicide. Transferring them from the squats they have chosen to live, undermines their dignity and self-determination, while the excuse that these camps are safer and healthier is one of the most vicious state lies, an absolute reversal of reality.
+
+As far as squats are concerned, all these years they have responded to a variety of needs and desires. They are free spaces where the social base re-creates their relationships without state control and economic exclusion, over-coming national, gender, and other systemic discrimination. They respond to basic needs such as housing, breaking out of rent coercion and wage exploitation. In times of migration, they have offered shelter to thousands of people by making spaces beyond the barbaric so-called ‘detention centers’ which are nothing more than concentration camps. The most important achievement is that people of different backgrounds were organized into squats and formed collective bodies to create projects that reflect the world of equality and freedom we desire. Squats in collaboration with the social and other grassroots forces defend neighborhoods and public spaces from the business and political interests of power.
+
+The political agenda of the “New Democracy” is a continuation of Syriza’s policy. It aims to transform the entire region into easily exploitable land for local and foreign capital. The result is the further exploitation and destruction of the environment and the aggressive gentrification of urban space that transforms neighborhoods — within cities — into tourist consumption areas, displacing residents and carrying out informal “social cleansing”. The militarization of public space and the imprisonment of those who are rising is of prime importance and requires the implementation of repression against migrants, workers, students, the unemployed, women, and queers. Some of the state’s first moves were to integrate the correctional system and the immigration ministry under police jurisdiction. At the same time, they hired 1,500 new people to the police force, expanding the state’s repressive army. They further criminalized the means of struggle and abolished university asylum in preparation for the new social class struggles. The struggles that Syriza assimilated and disintegrated paved the way for an even more capable totalitarian state that we saw with the rise of New Democracy.
+
+As a continuation of the resistance of all recent years, we call on people of struggle, the rebellious, the squatters, the collectives and individuals to step up their efforts for an open front against repression. With the primary aim of defending the squats and of a broader objective of defending all social achievements against the state and capital until they are overthrown. Strengthen social structures and create new ones, further escalate social, class and local struggles. Don’t let the struggle be assimilated by any regime of power. To crush the repressive forces, to break the media propaganda, to bring out the truth of the struggle of the oppressed.
+
+SOLIDARITY TO SQUATS AND ALL THE SPACES OF STRUGGLE COMMON STRUGGLES OF LOCALS AND MIGRANTS
+
+Open Assembly of affinity groups, international solidarity activists and migrants/refugees at Polytechnic University
+
+CALL OUT for actions FR. 30/8 – 05.00 ‘o clock in the morning: Mpoumpoulinas 42 / Organized Defense of the building FR. 30/8– 18.00 Polytechnic University/ Open Assembly for solidarity to Occupied Spaces of Exarchia SAT. 31/8– 12.00 Exarchia Square- DEMONSTRATION against the organized
