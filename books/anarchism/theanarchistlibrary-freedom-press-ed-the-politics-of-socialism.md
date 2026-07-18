@@ -1,0 +1,34 @@
+---
+title: "The Politics of Socialism"
+author: "Freedom Press"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/freedom-press-ed-the-politics-of-socialism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Freedom Press (ed.) Freedom: A Journal of Anarchist Socialism, Vol. 1, No. 12, online source RevoltLib.com, retrieved on May 1, 2020."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "freedom-press-ed-the-politics-of-socialism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/freedom-press-ed-the-politics-of-socialism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/freedom-press-ed-the-politics-of-socialism)
+
+ALL Socialists are convinced of the absolute and speedy necessity of Social Revolution, and are determined to bring about a change in the economic relations of men to one another which shall give all who do their best in working to supply the needs of the whole community, an equal chance of supplying their own needs, and render it impossible for a crew of willful idlers to live in luxury at the cost of their industrious fellows. We all desire to establish a manner of life among ourselves that shall tend naturally to keep us all on terms of economic equality, making it more easy for each one to work than to be idle, and to work for the common benefit, than to attempt to make a pile for himself. And we an convinced, we Socialists, that to do this effectually the people, the mass of the workers, must refuse any longer to recognize the right to monopolize property, now claimed by individuals, and assured to them by the armed force of the law. We are convinced that the workers must take possession for the common use of all the wealth now individually monopolized, which has been created by the common labor of all workers, with brains and hand; and that in future the wealth of the community must be held in common by all the members of the community, that we may have no return to the misery and exploitation which result from the monopoly of property to-day; and no doubt we all thin that this great change in our relations to one another with regard to wealth, must necessarily bring with it changes as great and as important in all our other social relationships.
+
+First and foremost it will destroy that most grinding of all tyrannies the rule of the poor by the rich. Now the public affairs being no longer administered by a class privileged on account of its riches-how are they to be administered?
+
+We have one and all of us Do hesitation in answering, By the people themselves. A beautiful phrase: but what do we mean by it? Democracy or Anarchism? Administration with authority or without it?
+
+We English people are very much given to managing our public and private affairs first, and inquiring (if we ever do inquire) on what principle we did it afterwards, and this has been exactly the case with the politics of English Socialism. Some English Socialists within Socialist society are democratic in their politics, and some Anarchist-and very often the Anarchists are loudest in proclaiming themselves Democrats. And does it matter you may say. So long as we have the thing what's in a name I Agreed as to the mere name. It does not matter--so long as we get clear about principles, but very often confusion of names means a read absence of clearness in thought.
+
+We all see this very plainly on the economic side of the question. We object for example to the bourgeois confusion of calling all land nationalizers Socialists--because we see very clearly that though the idea of Land Nationalization has been the thin end of the wedge for the idea of Socialism, and though the common ownership of the soil is a fundamental part of Socialism, mere land nationalization of the George type by itself would never deliver the mass of the workers from middle-class exploitation and it is a mere confusion of thought to give it that name. A confusion which may be a very real danger for the revolutionary movement, if not cleared up. A red herring across the track which will be skillfully used by the reactionaries to lead the less thoughtful and thorough-going malcontents off the scent. just exactly in the same way it is a real danger on the political side of the revolutionary movement for us revolutionists not to clear up among ourselves the real nature of our convictions and the sort of action into Which if we are true to ourselves, our principles must carry us. For, every want of clear-sightedness and thoroughness on our part affords an opportunity for the reactionary party, who as the movement grows more formidable are always on the look-out for chances to divert its energies from the straight path, to turn aside our claim for full mud complete equality and justice between man and man with a compromise-or an equivocation. There is not only the old, old story of economic justice for the people put off with some juggling bribe of a trifling reform in the machinery of government-not only that which the workers are beginning to see through; but there is the serious danger of mixing up the Socialistic propaganda with schemes of public administration and theories of politics which, while they profess to represent the best aspirations of the new social life, are nothing better than a compromise with the worst abuses of the past, the evil principle from which those abuses spring.
+
+And then remember the mingling of the idea of a compromise in politics with a new departure in economies does not merely serve to alienate thoughtful minds and weaken action now, but when the revolution breaks out (and none of us know how soon that may happen) a want of definite political ideas among Socialists will open a wide, door to the numbers of well-meaning reactionaries and self-interested political men of the old society who will join the new movement directly it is successful. They have a principle on which they have been accustomed to believe that public affairs must be managed-the old principle of authority, expressed in the old method of representative government--and if the people are not ready to put in practice some better principle of action and the new methods belonging to it, the political mistakes of' the revolution may--nay assuredly will-spoil its economic success. The conscious revolt against property which will shortly take place win fail of its full effect if the revolt against authority that accompanies it is not conscious too. If the political blunders of Socialists should weary the people with Socialism before it is fairly established among us and give the property holders a chance to recover some of the lost ground, they will not be slow to take it.
