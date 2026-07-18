@@ -1,0 +1,54 @@
+---
+title: "Take It Nanette Funk"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/take-it-nanette-funk"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article on squatting in Berlin in the early 1980s. Originally published in Sylvere Lotringer (ed) - Semiotext(e): The German Issue (1982)."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/take-it-nanette-funk)
+
+Originally published in Sylvere Lotringer (ed) - Semiotext(e): The German Issue (1982).
+
+Catalyzed by the squatter's movements in Zurich and Amsterdam, the West Berlin squatter's movement exploded December, 1980. Housing was the issue, style the content. A collective life style, housing for cultural space. A demand not to be met without sticks and stones, without steel and concrete, without cracking hard-nosed economic realities of speculator owned, speculator vacated, speculator controlled housing. What is this movement that forced the issue of housing into public discussion for the first time, led to extension of rent control laws, helped bring down the post-war Social Democratic party (SPD) Berlin government?
+
+Knowing that words count, squatters enlisted them into the struggle, calling themselves ”Instandbesetzers,” not “Hausbesetzers,“ through the art of 'zusammenhsngen', creating new words by combining the old, a long German linguistic tradition, a free space internal to the languae. “Instandsetzen“ (to put in order) “besetzen“ (to occupy) . Only by occupying, only by breaking the rules of private property was it possible to put in order what landlords and speculators had destroyed. In July, 1981, when Minister of Housing Rastemborski proclaimed the evacuation of eight houses by August 30, squatters planned a month long festival and 'zusammenhang' once again, calling it “Tu-Wat“ (Do-Something) in contrast to the “Tu-Nichts“ (Do-Nothing) the festival of a few years ago, a call signified not to the“leftists,“ but to the “Chaoten“ or freaks of Europe.
+
+Instandbesetzen is at once a battle about style and a place to have it, a battle no longer to live isolated lives, no longer to live alone in a little room with parents in authoritarian, arid, no-communication families. Instandbesetzen is a movement for a collective room of one's own, to live in houses with thirty or more people, go shopping in local outdoor markets, sit hours afterwards reading papers in Instandbesetzer cafes, back to building the walls, installing the toilet, hearing new music in the loft down the street in Kreuzberg, sitting around arguing about anarchism and politics.
+
+Housing was the issue, space the need, culture the content, but no culture without a Space to have it. Culture not as an IT, but a DOING, a LIVING. Doing can“t be done without a turf, but where's that turf when it's all been had, had by speculators who bought up the houses leaving them empty for years, had by the “worker's representative,“ Neue Heimat, real estate consortium of the unions owning 40% of the soon to be occupied houses? Take it, and count on those others who can't take it 一the Turkish immigrant worker in too precarious legal status to dare to act, the old woman kicked out of her cheap apartment, living in an old age home down the block, seeing her old apartment locked up, held up. Take it when there's lots of support from others knowing their apartments are on the speculators block, their neighborhoods in danger of destruction.
+
+Instandbesetzers took it in December, 1980, took it again and again, with fighting on the Kurfurstendamm, Berlin's Champs-Elysees, leaving broken glass on the street. Thousands took it, and the SPD post-war government didn't know what road to take 一 the high road of reasonable discourse,or the hard road to smash Instandbesetzers. Even Hans-Jochen Vogel, Helmut Schmidt's right-hand man, chief architect of Model Deutschland, flown in to salvage the situation, couldn't pull it off.
+
+Instandbesetzers a diverse group – though mainly of Germans, not only of Germans, though mainly of young people, not only of young people, of working class kids from the Markische Viertel, Berlin equivalent of sterile city projects, drop-outs from school, but also full-time Free University students taking classes with the generation of '68, of eco-freaks wanting to preserve the old “Berlin mixture“ of front houses, back houses, small ateliers with courtyards in the middle for public space, of self-conscious political types who speak the language of liberation and emancipation, and those who speak no political language at all. A band of outsiders wanting space, working class kids not wanting working class lives, dead end jobs, those for whom the phrase “no future“ was real, Instandbesetzers revealed a crack in the German-cum-American values 一hard work, performance principle, build a career, move upwards and onwards. Not a very 'nice' movement 一wearing “funny“ streaks of red down Mohican-like haircuts, breaking the law, having no jobs, wanting no jobs, outsiders the richly tufted West German Social Democratic welfare state couldn't appease and who didn't want to be appeased, outsiders the “rational planners“ hadn't planned for.
+
+Instandbesetzers took it, house after house, one hundred and sixty of them, in Kreuzberg, in Schineberg, Wedding, Charlottenburg, took it when the law, “Bauherren Model“ (“Landlord's model“) lopsidedly landed speculators subsidies up to 80% of renovation costs, including part of the rent as well; took it, when Neue Heimat,“protector of the workers, asked the police to kick out the children of workers occupying the houses; took it, when even Der Spiegel couldn't figure out who broke the law 一squatters making housing liveable or speculators barricading, shutting down housing for years. Instandbesetzers took it, according to squatter's rules, deciding which houses deserved to be occupied, and damn the law. Creating cultural centers 一the Kukuckcentrum, Spectrum Cafe, Bobby Sands Cafe, took it with the help of alternative mechanic collectives, printing collectives, plumbing collectives, took it with money collected from habitues of alternative cafes, with the help of “Patenschaften,“ literally “Godparent“ groups, support groups of teachers, union members, artists,doctors, lawyers who created a moat around occupied housing, keeping the alligators at bay, pledging to sleep in when police came.
+
+Squatters took it in the modern walled-in city held together by a wall, not a subway, a purposefully arbitrary, ugly, graffiti covered wall signifying permanent temporariness, a wall making a housing shortage a high pressure situation, making Berlin a city of no exit, a city of no suburbs because the suburbs would be in East Germany, a city where architects come to burrow below and not just up. Squatters took it, not for the book of Mao, Lenin or even Adorno and not for the third world, but to make a world in a Space threaded by images, words, sounds, and shaped to squatter's needs, on squatter's terms. Instandbesetzers fought not to change 'society' or to change the rules in prisons, schools and not for the long march through the institutions of the '68ers. In that battle Instandbesetzers knew who won. Their actions provoked institutional reactions 一union members complained about Neue Heimat's eagerness to evacuate squatters and its practice of renovating housing out of reach of its own union members; faculty at the Free University started teaching courses on the housing movement and giving lectures in occupied houses.
+
+Instandbesetzers did it out in the open, didn't negotiate it, did it American style, committing civil disobedience in the streets, showing that breaking rules made sense, not only in Berlin with three thousand but elsewhere in the “Rechtstaat,“ in Frankfurt with hundreds of thousands over the expansion of the airport runways to import nuclear warheads.
+
+BLACK TUESDAY, September 22, 1981, the police took it, Minister of the Interior Heinrich Lummer took it carrying out the evacuation of eight houses, attempting to break a style,a zone off limits to government rules. Police rushed crowds into oncoming traffic and on Potsdamerstrasse a bus driver ran down and killed Klaus Rattay, a working class youth on the move from one occupied house to another. Potsdamerstrasse, the street of men from Sri Lanka, flooding Berlin that summer, hanging out on street corners with nowhere to go; Potsdamerstrasse, the street of rundown stores and tired out prostitutes.
+
+The next twenty-four hours Berlin was a city at war, sirens wailing, evacuations the only topic of conversation, buses re-routed, police vans with squads of riot police everywhere. Evacuation as military affair.
+
+Instandbesetzers passively resisted in the houses, fought in the streets, set up a memorial with wreaths of flowers where Rattay was killed; parents brought their children to see it all.
+
+Public space and a space to live, a style to live, had already been a battle ground of Commune I, Commune II, the '68ers experiment in daily living spiked with fantasy and imagination. Instandbesetzers grew in the unorganized, sometimes unfriendly remnants of that alternative space, a space of bars, restaurants, bookstores, discos, a space for habitues, all counter culture types, living contentedly on unemployment insurance, not worrying about a career, much more absorbed in the next vacation in Italy or even California, the next escape from Berlin. A space where alternative values were dug in, legitimated, a space that made possible collective resistance.
+
+No accident that the Instandbesetzer's movement became so strong in Berlin, the escape hatch from the orderliness and wealth of West Germany, the haven for West German men escaping the army, in Berlin, the city West Germany struggles to keep alive, making it pallatable to all comers, incentives for all, but especially for Germans, even not so good Germans, in Berlin, the city where the “freaks” come.
+
+Post-evaucation... The SPD and Alternative List, planned a censure against Ministers Lummer and Rastemborski, but withdrew it. In Fall, 1981 new occupations were immediately evacuated. Winter, never easy in Berlin, is a time of tension, anxiety only inches below the surface, Instandbesetzers suspicious of agents everywhere, preparing for the police to act out again, and the authorities counting on the cold air of winter to freeze out the Instandbesetzers, unable to afford ovens and heat.
+
+The government now faces a dilemma. If it breaks the movement it will show that above ground resistance is impossible and only terrorism will do. If it loses the battle, it will mean that resistance can make a difference, a lesson that government doesn't want to teach in this time of Reagan hard-core nuclear penetration.
