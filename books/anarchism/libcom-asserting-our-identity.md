@@ -1,0 +1,22 @@
+---
+title: "Asserting Our Identity"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/asserting-our-identity"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Speech by Thomas Sankara in Harlem on culture."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/asserting-our-identity)
+
+Dear friends, thank you. Thank you for giving us the opportunity to present Burkina Faso. As our brother just explained so brilliantly, we have decided to change names. This comes at a time of rebirth for us. We wanted to kill off Upper Volta in order to allow Burkina Faso to be reborn. For us, the name of Upper Volta symbolizes colonization. We feel that we are no more interested in Upper Volta than we are in Lower Volta, Western Volta, or Eastern Volta. This exhibition allows us to present here to the world the real name we have chosen, Burkina Faso. This is a very big opportunity for us. You may ask us why we chose to start our exhibition off in Harlem. It’s because we feel that the fight we’re waging in Africa, primarily in Burkina Faso, is the same fight you're waging in Harlem. We feel that we in Africa must give our brothers in Harlem all the support they need so that their fight too becomes known. When people the world over learn that Harlem has become a living heart beating to the rhythm of Africa, then everyone will respect Harlem. Every African head of state who comes to New York should first stop in Harlem. Because we consider our White House to be in black Harlem. The exhibition you’ve come to see this evening has deep meaning for us. It conveys our entire past, and also our present. At the same time, this exhibition opens a door to our future. It constitutes a living link between us and our ancestors, us and our children. Every object you will see here expresses the pain of the African. In addition, every object expresses the struggle we are waging not only against natural scourge, but also against the enemies who have come to subjugate us. Every object here expresses the sources of energy on which we rely in the fight we’re waging. Whether they are in the style of our ancestors or in a modern style, we think our future is also portrayed and embodied in these objects of art. The magic concealed in these objects, in these masks, is perhaps the same magic that allowed others to have confidence in the future, to explore the heavens, and to send rockets to the moon. We want to be left free, free to give our culture and our magic their full meaning. It is, after all, a magical phenomenon to simply flip a switch and see light appear suddenly. If Jules Verne had been stopped in his tracks, certainly there would not be all these developments in space today. Our ancestors in Africa began a certain form of development. We don’t want those great African wise men to be denigrated. That’s why we've decided to create a research center on the Black man in Burkina Faso. In this center we'll be studying the Origins of the Black man. We’ll also be studying the evolution of his culture, African music throughout the entire world, the art of dress throughout the entire world, African culinary art throughout the entire world, and African languages throughout the entire world. In short, everything that enables us to assert our identity will be studied in this center. The research center will not be a closed place. We call on all Africans to come study at it. We call on Africans from Africa, we call on Africans from outside Africa, and we call on Africans from Harlem. Let everyone come participate on their own level for the development and fulfillment of the African. We hope this exhibition constitutes a kind of prelude to the gigantic task before us. Let’s see to it, dear brothers and comrades, that the coming generations don’t accuse us of sacrificing or silencing the Black man. I don’t want to take more of your time. Other subjects of art are expected to complete this exhibition, specifically, bronze objects, I believe, and I also hope to have the opportunity, perhaps tomorrow or the day after, to stop back here in Harlem and discuss this exhibition with you. I thank you for having allowed an African country, Burkina Faso, to make itself known. In the name of the people of Burkina Faso, and in the name of our brothers who are here in Harlem, I would like to declare this exhibition open. Thank you.
