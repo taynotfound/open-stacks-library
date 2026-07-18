@@ -1,0 +1,46 @@
+---
+title: "9 11 And Radical Islamism"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/9-11-and-radical-islamism"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Bin Laden, Taliban, ayatollahs and generally speaking radical Islamists are our enemies for the same reason that all States and religions are. However, we have to recognize that their bombing attacks provided them with a stronger aura of radicalism than the one they had before."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/9-11-and-radical-islamism)
+
+Bin Laden, Taliban, ayatollahs and generally speaking radical Islamists are our enemies for the same reason that all States and religions are. However, we have to recognize that their bombing attacks provided them with a stronger aura of radicalism than the one they had before.
+
+(…) Bin Laden, Taliban, ayatollahs and generally speaking radical Islamists are our enemies for the same reason that all States and religions are. However, we have to recognize that their bombing attacks provided them with a stronger aura of radicalism than the one they had before. If we disregard this it would prevent us to be able to understand what is taking place in the countries and zones of predominantly Muslim population and would be equivalent to not taking into account the capacity of these forces to channel and to eliminate the proletarian movement, as it happened in Iran in 1979. What is considered as right wing in the West is carrying out the function of the far left in this zone. What is considered as an archaism and defined by Social Democracy as a return to the past (even speaking about feudalism!) is a quite modern product of the development of capital in these regions and assumes a role of far left against the proletariat. So-called primitivism, as it is “observed” from the West, insofar as it appears as a criticism of progress, appears as an alternative in the eyes of a proletariat that could record in its flesh and blood that the progress of capitalism always affirmed itself against its life. It is the very development of the productive forces of capitalism that produces the modernity of “primitivism”, the attraction of the proletariat for more and more fashionable conceptions, that recommend to do the wheel of history turning upside-down, to put back the clock. And all these Western proletarians supposed to be “superior” should not laugh at this “primitivism”, while more and more and with good reason they are trying to escape hospitals and doctors in order to turn towards healers and to take herbal medicine as their grandparents did, while they are illusorily looking for a food that is not worse and worse, a food as the one that we ate a long time ago, without pesticide nor chemical, etc. In the West also, under other flags, there is a tendency developing, which believes in the myth of “looking back”, supported and fed by the tragedy that capital’s progress means for the majority of the human race. In fact this is one of the most modern tendencies of the capitalist catastrophe! Even though it develops as a resistance against progress, it is a genuine product of this last. The fact to ascribe it to the lack of development, to the supposed Taliban’s old-fashioned feudalism, this means to believe in the positive pole of progress showed by capitalism, this means to agree with how capital grasps itself, this means to subscribe to the dominant and bourgeois conception of progress. Capitalism will precisely die because its progress is always more opposing human needs, because an each time bigger part of mankind is fighting and will overtly fight against it.
+
+On the other hand, speeches of some radical Islamists can prove to be much more seriously anti-establishment than those of our Western Left Social Democrats. Instead of waving the flags of Western and Christian Social Democracy (i.e. more democracy, people’s or workers’ government, popular or grass-roots democracy, pacific struggles to get such or such right) and knowing the class struggle radicalism in the region, they don’t hesitate to make clear allusions to basic principles of the revolutionary program (i.e. abolition of money and borders, calls to direct action and violence, criticism of democracy, etc.) even though of course their function remains to consolidate the counterrevolution. And precisely, this radical speech corresponds to their perspective that is to play a role of last bastion against the revolution.
+
+There is no doubt that these forces channel (what those who are called in the West the left-wing forces cannot do in this region) a very important part of the world proletariat’s hate against its oppressors and transform it into a religious struggle, a democratic struggle, a struggle against such or such power. We never believed, as it has been said, that Bin Laden could play a similar role than that of Che Guevara. Not because one would be a left-winger and the other a right-winger, but because Bin Laden didn’t develop any universal project likely to be attractive for the proletariat of all countries. On the contrary, Bin Laden started from a religious claiming and the defense of a particular civilization against another. On the other hand and despite his critics, Che objectively stood up for the interests of an imperialist block (he never programmatically broke neither with Stalinism nor with Stalinist parties, as it is revealed by his absurd expectations concerning them before his death) (36) and proclaimed to be a part of the universal struggle for the revolution of the proletariat all over the world.
+
+Despite this, there is no doubt that Bin Laden and his armed gang played a very important counterrevolutionary role, giving substance to the official lines about the bombing attacks, lines that pushed the contradiction between imperialism and Islamic resistance and that encouraged to anti-terrorist versus Islamic imperialist war, framing the proletariat in a war that is not its own, in which it has everything to lose and nothing to win.
+
+It is obvious that we don’t refer only to the desperate situation in which the proletarians in Afghanistan are locked up, where one tries to send them to slaughter in the name of Islamism whereas they are taking a real hammering on bombs, missiles and massacres of imperialist allied forces. We don’t refer only to these proletarians in Afghanistan who objectively are caught in the crossfire, between two forces that hope to transform them into cannon fodder and that in both cases threaten them with death. We also want to emphasize that this situation is more and more to be found all over the world: Palestine, Pakistan, Chechnya, etc. Even more globally, this inter-bourgeois polarization implies the generalization of the militarist perspective of all States and the generalized repression of the world proletariat, which follows on from this.
+
+Bush and Bin Laden who were allied yesterday are nowadays blaming each other with reason for terrorism in the struggle for the same purpose: transforming class war into imperialist war.
+
+Our purpose stands unlike theirs: transforming the imperialist war into social revolution. Only the development of the current proletarian struggles against the bourgeoisie and States of all countries (as we saw, these struggles still appear under different or even heterogeneous shapes, what prevents our class to find its way around each of them), only their organization and their centralization will be able to develop the revolution against all current wars, against the terrorism of capital all over the world.
+
+Source: “Capitalism = Terrorism against mankind” published in Spanish in "Comunismo" No.48, February 2002 and in French in "Communisme" No.53, November 2002.
+
+Hansa Rostock & Osama bin Laden Seriously, WTF! German club Hansa Rostock have attracted a large amount of negative attention, as their fans displayed a hugely distasteful banner over weekend. On Saturday, on 9/11, Hansa Rostock drew 1-1 away at Aalen in the German third tier. In a crazy move, the Hansa fans unfurled an Osama bin Laden banner during the game. Robert Marien, Hansa’s president, has told Bild the Bin Laden banner was “an utterly tasteless and stupid gesture”.
+
+So why did it happen? According to an article on Goal.com’s Italian edition, Rostock was heavily bombed by the Americans during World War II “and this explains the hatred” from the locals towards the US. Whether you buy that is another question altogether. Hansa Rostock are set to be punished for the behaviour of their fans. It’s likely that they’ll have their fans banned from games in respect of the Bin Laden banner.
+
+http://www.101greatgoals.com/top-stories/disgusting-hansa-rostock-fans-displayed-osama-bin-laden-banner-911/
+
+Radical Islam is a misnomer. Al-Qaeda has close ties with the Saudi state and the Sunni Muslim bourgeoisie and acts in accordance with its interests. Radical Islam is radical like the Comintern was radical, i.e. it isn't. Osama Bin Laden was the inheritor of $25–30 million. He was a bourgeois and "radical Islam" is bourgeois.
