@@ -1,0 +1,56 @@
+---
+title: "The Incomparable Anarchist Frankie Moore"
+author: "Anonymous"
+date: "2024"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/the-transmetropolitan-review-the-incomparable-anarchist-frankie-moore"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published as the introduction ('Instead of a Biography', pp. i-iii) to a pamphlet reprint of issues #1-2 of the 1913 anarchist journal Why? at &lt;thetransmetropolitanreview.files.wordpress.com&gt; (PDF). Retrieved on 18 March 2024 from thetransmetropolitanreview.wordpress.com."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "the-transmetropolitan-review-the-incomparable-anarchist-frankie-moore.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/the-transmetropolitan-review-the-incomparable-anarchist-frankie-moore.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/the-transmetropolitan-review-the-incomparable-anarchist-frankie-moore)
+
+Like most anarchist women, we know very little about Frances Moore, or Frankie. She walked into history sometime around 1900, a single mother lost in the metropolis of Chicago. We know she was Irish, though not the date she was born, and if the contents of Why? are any indication, it’s possible she resorted to sex-work to feed her three daughters.
+
+The Chicago she lived in was the hellish nightmare described in The Jungle by Upton Sinclair, a toxic meat-grinder only alleviated by the goodness of people like Jane Addams, whose Hull House took in single mothers like Frankie and taught classes to young immigrant workers like Lucy Lang, one of Frankie’s future friends. In fact, Lucy and Frankie likely met in connection with an anarchist newspaper called Free Society . As it turned out, both of their future lovers were working on this periodical with the Isaak family, recently emigrated from San Francisco.
+
+Among this family of Ukrainian anarchists was an Italian, also from San Francisco, and his name was Enrico Travaglio. Sometime during 1900, Frankie decided she liked this printer’s devil and entered into a free union with him. Within the year, she likely met Emma Goldman, Hippolyte Havel, Julia Mechanic, and a host of other anarchists soon to be arrested in connection with President William McKinley’s assassination.
+
+After a Polish anarchist named Leon Czolgosz shot the President on September 6, 1901, our Frankie found herself in the middle of an assassination conspiracy, but rather than run for her life, she waited for Enrico to be released from jail. The police seem to have never suspected her existence, and once her lover was released, she and her daughters moved with him to rural Spring Valley, Illinois, then back to Chicago, then all the way across the continent to the port of San Francisco, arriving there in 1902.
+
+Again, we know almost nothing about Frankie’s life on the wild Barbary Coast, but we do know that she had three more daughters with Enrico, who resumed publishing his long running Secolo Nuovo . Their eldest daughter was Leah, born in 1903, and soon after her sister Iris was born, although these are the only names of the daughters history records. Aside from having children, all we know of Frankie’s activities in San Francisco comes from Emma Goldman, when she explains that Frankie was motherly and sweet when she played hostess to us in her respectable home . After parsing through Emma’s hyper-dimensional chronology, it becomes clear this respectable home could only have been in San Francisco, likely its Latin Quarter.
+
+We know nothing about this home, just that it housed six daughters before it burned to the ground in the Great Earthquake and Fire of 1906, leaving the family alive but homeless. They soon moved eastward to the delta town of Stockton where Enrico began publishing a paper called La Terra aimed at local farm workers, the majority of them immigrants. Once again, we know nothing of what Frankie did in Stockton during the three years that followed the earthquake, only that around 1909 her lover Enrico left her and their children to pursue a romance with one Juliette Verrell, another woman we know nothing about. As the saying went back then, free love for free lovers .
+
+This romance took Enrico to Portland, only this romance didn’t work out, and somehow or other he ended up in Tacoma around 1911. Most anarchist historians seem to agree that Frankie and the girls moved up north to be with him, specifically to the anarchist commune called Home, just south-west of Tacoma. What no one knows for certain is exactly when Frankie and the girls arrived in Home, but given all the facts, it’s likely they were in Washington State before Enrico settled in Tacoma, and that it was Frankie who drew Enrico to Home, not the other way around.
+
+One can only imagine their relationship, especially with six daughters, half of them now teenagers stuck on an anarchist commune in the middle of nowhere. They must have had a lot of time on their hands, especially with Frankie disappearing at random, but by 1910, the commune of Home was at the height of its population and glory, a place most children and teenagers would find to be perfect in every respect. In fact, historically, only one child of Home would truly ever complain about it. Unlike this single outlier, the Travaglio girls didn’t seem to care that their mother was a free woman , known to vanish into the woods for days on end.
+
+Shortly after arriving at Home, Frankie and her daughters posed for a group photo with the other communards. The photo was taken inside their Liberty Hall, a two-story behemoth built with their own hands, encompassing a print-works below and a schoolhouse above. The photo was taken up in the school, and in the lower right we can see a clump of dark haired girls positioned around each other like Russian dolls, unpacked but strewn in random order. It’s impossible to know exactly who they are, not yet at least, but that’s not the point.
+
+Above them, to the left, is a row of older women, encompassing the heart of the group, and among them is Lucy Lang, smiling like a loon. Somewhere to her left or right is her friend Frankie Moore, and its only from this photo that we can assume she had dark hair, because why wouldn’t Frankie be standing near Lucy, among a row of powerful anarchist women whose names history has cast into oblivion, and as you can see, all of these women have dark hair, but only one of them is standing just above the Russian dolls, her eyes fixed intently at the camera.
+
+Sometime in late 1910, our Frankie helped a dynamiter named David Caplan hide out on Bainbridge Island. He was charged with providing the dynamite which blew up the Los Angeles Times building that same year, and by January of 1911, Frankie and others from Home helped secure him a shack on five acres, only it was forty miles north on Bainbridge, so not really close at all. All we know of this time period in Frankie’s life comes from her future son-in-law Radium Lavene, who told the anarchist historian Paul Avrich that David Caplan was hiding on Bainbridge Island on the Sound, and Frankie (Frances) Moore was keeping house for him there . This went on for about a year, and when Caplan snuck into Home to see his wife and children, it was likely Frankie who guided him through the woods.
+
+Caplan and his family had gone to Chicago by the summer of 1912, leaving Frankie with time to do something other than tend a wanted dynamiter, so she began spending more time at the IWW print-shop in Tacoma on 1423 South Washington Street, a place run by a man named Sam Hammersmark and her sometimes-lover Enrico Travaglio. It’s possible that Frankie and Enrico rekindled their romance at this point, but who can say? Regardless, at some point towards the end of 1912, Frankie and Enrico decided to release an anarchist newspaper titled simply Why? , and when the first issue was released in January of 1913, the publisher was named Mrs. Frances Moore.
+
+If any event pulled her away from Why? , it was the return of David Caplan in the spring of 1913, shortly after Frankie passed the publishing over to Sam Hammersmark. It’s likely she took care of Caplan over the next few years as he posed as a barber in downtown Bainbridge by day and retiring to his five-acre chicken farm at night. He would remain there anonymously until a son of Home named Donald Vose sold him out the Burns Detective Agency in 1915, an act of betrayal which plunged the entire commune into a decline that ended with Home’s dissolution in 1919.
+
+We know from her son-in-law Raidum Levene that Frankie eventually parted with Enrico and her other lovers for good when she married one Bill Cotterell. According to a Home resident, Bill Cotterall owned one of the first teams of horses in the community and for years did most of the wood and draying for Homeites. Bill loved all the children and enjoyed making them happy. He would stop his team and lift the youngsters up on their backs and give them a ride…little wonder that there is a tender spot and a loving memory of Bill in the hearts many of the boys and girls of that generation. It appears that Frankie also had a soft spot for him, and she stayed with Bill until her death sometime in the 1920s or 1930s. Like everything about Frankie’s life, even her death is unclear.
+
+Frankie disappears from history after this, but not her eldest daughter. Leah Travaglio is the only one of her children that history remembers. First she marries her childhood sweetheart Radium Lavene, a local boy from Home, but this doesn’t last forever and she leaves him to marry Arthur E. Briggs, a lawyer, teacher, and radical leftist who served on the Los Angeles City Council from 1939 to 1941, during which time he was called a communist for defending people like gentle dynamiter Tom Mooney. Leah had a daughter with him (Mary) and Arthur died in 1969, shortly after Leah’s father Enrico Travaglio passed away.
+
+After marrying a race-car driver in 1960, Mary had three children, two of them twins (b. 1964), and according to this hot-rod enthusiast, she was the only woman who could keep him off the track, and they raised their family together until her untimely death in 1987. It appears Mary’s children had kids, making them Frankie and Enrico’s great-great children, all of whom are part of Generation Z. Aside from their great-grandmother Leah, history has no record of Frankie’s other daughters. In fact, it’s not even clear when or where Leah died, but last we know she was living in the Los Angeles area, just like her first husband Radium Lavene. He moved to Los Angeles at some point and passed away there in 1991, having been born in 1903, the same year as his first love Leah Travaglio. It’s unknown if they ever saw each other again in the shadows of Hollywood, just as there’s no record of what happened to that wild matriarch of their family, the incomparable anarchist Frankie Moore.
+
+We hope you have enough of an outline to see Frankie as a real person, an anarchist you might meet today, and the pamphlet before you comprises practically all of her works. While there are few names attached to these articles, we hope you can hear her voice in there, and we hope it’s loud.
