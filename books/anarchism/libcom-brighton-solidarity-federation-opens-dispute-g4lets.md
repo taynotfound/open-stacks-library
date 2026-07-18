@@ -1,0 +1,34 @@
+---
+title: "Brighton Solidarity Federation Opens Dispute G4Lets"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/brighton-solidarity-federation-opens-dispute-g4lets"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Brighton Solidarity Federation has started a dispute with the lettings agency G4Lets on Hythe Road in Fiveways. Two sets of tenants have been organising with SolFed regarding a number of issues with their tenancies. The first group of tenants had to live in mice-infested, unsafe accommodation for a "
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/brighton-solidarity-federation-opens-dispute-g4lets)
+
+Brighton Solidarity Federation has started a dispute with the lettings agency G4Lets on Hythe Road in Fiveways. Two sets of tenants have been organising with SolFed regarding a number of issues with their tenancies. The first group of tenants had to live in mice-infested, unsafe accommodation for a year, and then had £2000 illegitimately deducted from their deposit. The second group of tenants have had £1080 deducted from their deposit for similarly dubious reasons.
+
+Along with the tenants, Brighton SolFed wrote to G4Lets on Thursday 2nd November, explaining the issues and outlining options to resolve them. G4Lets initially responded to say that they would not be discussing the matter with SolFed. We replied and explained that the tenants were working in conjunction with the Brighton SolFed Housing Union, and that the dispute would commence if a reasonable offer to resolve the situation was not made by the one week deadline. G4Lets responded to say that they would ‘like to resolve the issues raised’, but no offer was forthcoming.
+
+Consequently, along with the tenants, Brighton SolFed has started a public dispute with G4Lets. This began with a well-attended picket outside the branch at 4pm on Thursday 9th November. This first action was met warmly by members of the public, many of whom offered their support and told us of their own issues losing money from their deposit because of the unscrupulous tactics of landlords and lettings agencies.
+
+With the support of Brighton SolFed, the tenants are demanding the return of the £2000 and £1080 withheld from their deposits. The first group of tenants are also demanding compensation for having to live in unsafe, mice-infested accommodation for a year, and the second group of tenants are demanding the refund of their agency fees for the stress this situation has caused. The first group of tenants are being charged for pest control and fire safety measures – both of which are the obligation of the landlord – whilst they were also troublingly left without a working fire alarm in the property after a fire safety incident caused by an unsafe cooker. Incredibly, these tenants are also being charged for the cleaning of a carpet which has been replaced, and which G4Lets and a contractor admitted, in an email chain sent to the tenants on 25th November 2016, was ‘beyond cleaning’ and should have been replaced before the start of the tenancy.
+
+Regarding the effect that these issues have had on them, one tenant commented that ‘the mice in the house and the general state of the house affected my mental health really badly throughout the time I was living there. I ended up with a really bad grade at the end of last year – I pretty much hit rock bottom and it became clear very quickly that it was us against the agency; they tried to pin the blame on us for anything and everything’. One of the other tenants remarked: ‘I think I speak for everyone in the tenancy when I say that we were treated pretty terribly throughout the time we were living in and after we let the house. We never caused G4 any trouble whatsoever. I think we all became distressed when we found out that we were losing a lot of our deposit, especially since some of our parents – including one tenant’s grandmother – came on their own accord to help clean. It was pretty blatantly obvious that we had thoroughly cleaned the entire property as much as we could. The bottom line is they stole from us and got away with it because they’re a company with a lot of money and contracts and we’re just a group of poor students – even poorer now because of the fact that we didn’t get enough of a deposit back to put a deposit down on another house in future. The extent to which they have gotten away with this is both extraordinary and at the same time not surprising. They also blamed everything on us, and by everything I mean problems with the house that either predated our move in two years ago or were simply imaginary. It’s clear that G4 don’t take responsibility for managing the wider and external factors that decrease a house’s living conditions that are out of our control, and are happy to lay the blame on their tenants. This action has made us all feel frustrated and essentially helpless’.
+
+The second group of tenants are being charged for decoration and wear and tear. This is in spite of the fact that these tenants had the property professionally painted prior to vacating it. The tenants and Brighton SolFed have also pointed out to G4Lets that deductions for wear and tear are illegitimate. In this case, G4Lets also exceeded the timeframe in which tenants should be informed about proposed deductions.
+
+So far, G4Lets have refused to make an offer, insisting that they will not deal with SolFed and that the tenants should pursue their grievance through alternative channels. The problem for G4Lets is that these tenants are supporting one another to fight back collectively with our solidarity. Moreover, SolFed does not hide disputes in administrative or judicial procedures. Our intention is to bring every dispute onto the streets. Not just because it is faster, cheaper and more effective, but also because it is the only way we can understand that each of us has the same problems. Through solidarity and direct action, ordinary people have the power to improve their lives. Three victories in the past three months has shown this – one group of tenants received £3900 in compensation from their landlord and letting agency after they lived in damp, infested accommodation for a year, as well as the full return of their deposit, as demanded by the campaign, meaning the total received was just over £6000. Another tenant won back the £510 that their landlord and letting agency deducted for cleaning and repairs, in spite of them having it professionally cleaned prior to leaving and there being no repairs to do, after a direct action campaign, and another tenant successfully organised with SolFed to force his landlord to replace his cooker after leaving him for a year and a half without one.
