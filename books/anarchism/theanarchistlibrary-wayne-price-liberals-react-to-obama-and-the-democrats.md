@@ -1,0 +1,52 @@
+---
+title: "Liberals React to Obama and the Democrats"
+author: "Wayne Price"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/wayne-price-liberals-react-to-obama-and-the-democrats"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Reading the Nation to see what the liberals are up to"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "wayne-price-liberals-react-to-obama-and-the-democrats.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/wayne-price-liberals-react-to-obama-and-the-democrats.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/wayne-price-liberals-react-to-obama-and-the-democrats)
+
+The Nation may be the leading U.S. liberal journal of opinion. I read it regularly, because I like some of the columnists, because it sometimes has informative articles, and because I find it useful for following the trends in liberal opinion. Recently it has been interesting for judging the reaction of liberals to Barack Obama’s incoming administration.
+
+The Democrats did nothing comparable to Bush, even though Bush’s election really was illegitimate. But the Democrats seemed to try to get along with Bush. Among other things, they voted for his war in Iraq. Even after most of them came to oppose the war (following popular opinion), they continued to vote for war spending, time after time (including Obama, who had originally opposed the war). They voted for expanding the police powers of the state. They declared that impeachment was “off the table,” despite the many ways the administration was breaking the law and the Constitution. This continued evenwhen the Democrats won a majority in both houses of Congress.
+
+Why are the Democrats so “spineless?” asked the liberals, in the pages of Nation and elsewhere. Why do they vote to confirm Bush’s nominations to courts or to administrative agencies? Why are they so cooperative with an administration which is both evil and incompetent? For eight years this complaint continued.
+
+One major role of the Democrats is to channel the .discontent of the working class, the poor, oppressed racial and national populations, angry women, and other oppositional forces (people concerned about war or the environment) into support for (a wing of) the system. This was done in the 19th century with angry farmers who had turned toward the Populist Party. This was done in the thirties when workers built unions and the Communists led them to support Roosevelt’s New Deal and then World War II. In the sixties the African-American movement was directed into the Democrats and away from Black Power radicalization. The student and antiwar rebellion was led into the Democrats by Gene McCarthy and Robert Kennedy, even though the Democrats had started and managed the Vietnam war.
+
+This time, the Democrats are making a preemptive turn to the left, to head off a mass movement which may develop in reaction to years of economic decay, continuing war, and political corruption. And so they offered us a Black presidential candidate who spoke vaguely but stirringly in progressive language (”progressive” is the vaguer term which has replaced “liberal,” now a term of opprobrium after years of right-wing attack).
+
+Once elected, President-elect Obama has set to work with a will to appoint an administration staff which will “hit the ground running” once he is inaugerated on Jan. 20th. To the delight of many conservatives, he has generally chosen people who .are, in the language of the day, “center-right”, rather than any kind of liberal. This is particularly true of his economics appointees, many of whom are among those responsible for the deregulation and bailout policies of the past. Similarly for his foreign policy and military appointments, of people who supported the Iraq war and agree with Obama on the need to expand the war in Afghanistan. And he continues to surround himself with politicians who are hawkish supporters of Israel.
+
+A typical example is Frances Fox Piven, who is well-known for her exposures of the way the system disenfrancises working class and poor people. In the Nation (12/1/08), she wrote, “Let’s face it: Barack Obama is not a visionary or even a movement leader. He...is a skillful politician. That means he will calculate whom he has to conciliate and whom he can ignore in realms dominated by big money contributors from Wall Street, powerful business lobbyists, and a Congress that includes conservative Blue Dog and Wall Street-oriented Democrats....If Obama was not the centrist and conciliator he is...he would not be the president-elect” (p. 21). Now they tell us! These points are not raised as an expose’ of Obama or as reasons for opposing him from the left, but as weary facts which the left should accept.
+
+However she did not conclude that we should passively accept Obama’s conciliation. Instead, she titles her article, “Obama Needs a Protest Movement,” a mass movement to push him to the left, so he will have to conciliate...us. “Sometimes...the ordinary people...become volitile and unruly, impatient with the same old promises and ruses...When that happens, their issues acquire a white-hot urgency, and politicians have to respond, because they are politicians....The disorder, stoppages and institutional breakdowns generated by this sort of collective action threaten politicians...” (same).
+
+So first we elect a politician, with excited support by the liberals. But it turns out that actually the politician does not really have such good politics after all. So we have to build a popular movement to threaten them so they will balance between the movement and the Wall Street big money contributors. After all, politicians have to respond to popular pressure, if threatened enough, right? The editor of the Nation, Katrina Vanden Heuvel, wrote an editorial, “Moving Obama” (12/15/08), “I think that we progressives need to be as clear-eyed, tough and pragmatic about Obama as he is about us” (p. 4).
+
+This concept assumes that politicians are neutral in class conflicts but will respond to (conciliate) whichever side provides the most pressure. But this underestimates the moral integrity of the politicians! They are not empty shells. They are bourgeois politicians, honestly committed to “the free market” (as they call capitalism) and the national state. They can and will make coniliatory compromises in order to draw dissident masses into the system, but they will not go beyond the limits of capitalism, no matter how much they are “threatened.” They may genuinely want the system to be fairer, but the system they support is capitalism and its state. Nor are the influences of the workers equal to that of the rich--which is why the rich are the ruling class (unless they are overturned altogether).
+
+Like other liberals, Piven compares Obama to F.D. Roosevelt (the Nation had a cover showing Obama dressed like F.D.R.). Roosevelt, they point out, originally ran on a conservative platform for a balanced budget. “But the rise of protest movements forced the new president and the Democratic Congress to become bold reformers” (same). So a new protest movement can supposedly “force” Obama and Congressional Democrats to make a new New Deal. Unfortunately, the last New Deal did not end the Great Depression, continued to support Southern segregation, and ended in a World War (which did end the Depression). Not really a good model, after all.
+
+Christopher Hayes, the Nation’s D.C. editor, has an article, “The Pragmatist” (12/29/08). He quotes Obama as saying that his national security team “share[s] my pragmatism about the use of power” and that he won’t “get bottled up in a lot of ideology and ‘Is this conservative or liberal?’” (p. 13). Hayes sees nothing wrong in Obama being “practical,” but explains that an ideology is necessary, in the sense of a set of principles. In truth, it is not possible for a politician to lack a worldview of some sort.
+
+Hayes refer to John Dewey, the greal liberal theoretician of pragmatism (which Dewey often prefered to call “instrumentalism,” the belief that ideas have value according to their use in dealing with reality, including moral values). Hayes recommends “Dewey’s pragmatism [because it] was reformist, not radical. He sought to ameliorate the excesses of early industrial capitalism, not to topple it” (p. 16). Hayes links this supposefly good pragmatism to Roosevelt’s New Deal. Unfortunately, he does not know that Dewey was a left-liberal who never voted for Roosevelt, whom he felt was unexperimentally and inflexibly committed to capitalism. As a believer in industrial democracy, Dewey was an admirer of British guild socialism (sort of a synthesis of social democracy and anarcho-syndicalism). And Deweyan pragmatism was seen as campatible with Marxism (by the early Sidney Hook) or with anarchism (by Paul Goodman). In any case, what they mean by pragmatism is a crude trial-and-error empiricism which has an implicit commitment not to go beyond the conventional bounds of capitalism.
+
+It is the function of organized liberalism to be the left cover of the Democratic Party, or, more generally, of capitalism. They criticize Obama (or whoever leads the Democrats) from the left, while still urging the mass movement to stay faithful to the Democrats and within the bounds of capitalism. They are completely sincere in doing this, which makes them more effective--and more dangerous.
+
+Sometimes the liberals may seem to go beyond the limits of capitalism, as in a Nation article by Andre’ Schiffrin, “Socialism is No Longer a Dirty Word” (12/29/08). But by “socialism” he means European-style social democracy, that is, gradualist, reformist, state socialism, with some government ownership (state capitalism) mixed-in with a capitalist economy. “Public ownership is not an all-inclusive dogma but one that has been applied pragmatically” (p. 21) in Europe. There’s that word again. What is not meant by "socialism" is a new society, with a cooperative economy which produces goods for use and not profit, with democratic planning from below, without a state or a market. Yet, faced with the disasters of economic collapse, war, nuclear proliferation, and ecological-energy catastrophe, such a totally new society may be the only practical (pragmatic) program.
