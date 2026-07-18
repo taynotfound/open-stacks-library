@@ -1,0 +1,68 @@
+---
+title: "Food Aid Racket"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/food-aid-racket"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A former international development worker outlines how the industry has nothing to do with meeting human needs."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/food-aid-racket)
+
+A former international development worker outlines how the industry has nothing to do with meeting human needs.
+
+From a speech delivered in March by Michael Maren to the Camel Breeders, a group of Cornell University graduate students from various disciplines who are preparing to work in international development. Maren worked for the Peace Corps, Catholic Relief Services, and the United States Agency for International Development between 1977 and 1982. He is now (1993) a journalist in New York City and travels frequently to Africa.
+
+As you prepare for and look forward to careers in international development, I am compelled to issue a warning. With the hindsight of someone who spent five years in the development business, I'm going to tell you that the development industry hurts people in the developing world. Its greatest success has been to provide good jobs for Westerners with graduate degrees from institutions like this one. I don't expect that any of you will take my advice and start looking for careers elsewhere. And I'm in no position to criticize you for going ahead and working in development even after you hear me out. You see, I had a pretty wonderful career in the aid business. I can't remember ever having more fun. In fact, I was having so much fun that I didn't want to stop, even after I realized that our programs were hurting the very people they were supposed to help.
+
+In 1980, when I was twenty-five years old, I was hired by Catholic Relief Services (CRS) to administer food-for-work programs--programs that feed people in exchange for their work on local development projects--in Kenya. I was given a beautiful garden apartment in a nice neighborhood in Nairobi, a brand-new Land Cruiser, a great office, and almost a million dollars in a U.S. Agency for International Development (AID) grant to oversee the programs. As I began the job, shiploads of U.S. government surplus rice were leaving a port in Texas and heading to Mombasa. Meanwhile, CRS notified the country's parish priests and government officials that this rice was available. All they had to do to receive it was fill out a one-page application describing their proposed project and specifying the number of "recipients"--the number of the project's workers who would receive sacks of rice in exchange for their labor. Thousands of applications were submitted.
+
+I took some of the U.S. AID money and customized the Land Cruiser, adding extra-large fuel tanks and a really nice stereo system, and then I set off across Kenya to inspect the proposed projects. It was a dream come true. I was driving absolutely free across one of the world's most beautiful landscapes. I was so awestruck by my own good luck that sometimes I'd stop in the middle of a huge empty wilderness, or beside a herd of giraffes or elephants, and just yelp with delight.
+
+I was having so much fun running around starting food-for-work projects--water projects, agriculture projects, forestry projects--that I completely overlooked the most obvious problem: I knew nothing about agriculture, forestry, road building, well digging, dam building, or any of the projects I was approving. But nobody seemed to care. Only once did anyone in authority at CRS ever go and look at a project. When I'd return to Nairobi every few weeks, my boss, who let me work completely unsupervised, had only one question: How many more recipients did you sign on? More recipients meant more government grant money, which meant we could buy more vehicles and hire more assistants.
+
+When I slowed down for a moment to consider what was happening, it became clear: aid distribution is just another big, private business that relies on government contracts. Private voluntary organizations (PVOs) such as CRS are paid by the U.S. government to give away surplus food produced by subsidized U.S. farmers. The more food CRS gave away, the more money they received from the government to administer the handouts. Since the securing of grant money is the primary goal, PVOs rarely meet a development project they don't like.
+
+Of all the aid programs, those involving food delivery are especially prized by PVOs because they generate income, are easy to administer, and are warmly received by the public. Yet most food aid has little to do with need and everything to do with getting rid of surplus food. Kenya was not a country facing starvation when I worked there. Many of the projects I started were in the rich agricultural land of the central and western parts of the country. In fact, around the world, only about 10 percent of food aid is targeted at emergency situations. PVOs publicize situations such as the one in Somalia in order to raise money from the public, but most of their work is done in areas where there is plenty to eat, because there are simply not enough starving people to absorb all of our surplus food. Also, it's easier to distribute large quantities of food in more developed areas.
+
+Harmless as this might at first sound, sending food to areas where there is already food creates serious problems. It decreases demand for locally produced commodities, subsidizes the production of cash crops, and fosters dependence among those who receive the aid. Since PVOs can only operate with the approval of the host government, they typically end up supporting the government leaders' political goals, rewarding the government's friends, punishing its enemies, and providing fodder for a vast system of political patronage.
+
+That's exactly what happened in Somalia, where the government and the generals had been playing games with food aid for more than a decade before the Marines arrived. I was working for U.S. AID in Somalia in 1981, when we started pumping food into that country. It was clear to many of us, even then, that the program was working to prop up a corrupt dictator and turn nomads into relief junkies. Refugees poured over the borders and into camps, where they were fed day after day, year after year, by PVOs, while little effort was made to break their growing dependence. In 1987 a World Food Program report stated that Somalia had actually produced a surplus of food that year, yet PVOs continue to distribute free food and collect U.S. government money for administering the delivery. Inevitably, indigenous food-distribution networks withered and died. The country's economy adapted to foreign aid--not to production. Meanwhile, the PVOs and corrupt government officials got fat and rich.
+
+No one questions private voluntary organizations. Not the U.S. government, which needs to get rid of the food and wants to keep its aid bureaucracy functioning. Not the host government, whose officials often profit from the aid racket. Not the public, which sees aid workers as so many Mother Teresas. And not the press--especially not the press--which has, in recent years, become an integral part of the aid system.
+
+The press's role in that system is to convey to the West the PVOs' view of Africa. And because the distribution of food aid is first and foremost a business, it is not surprising that the priorities of aid organizations dominate the West's image of the continent--an image of helpless nations in need of our support.
+
+This is not a new phenomenon. Aid workers are simply the latest in a series of recent western vanguards in Africa, each of whom put forward the image of Africa that best suited its own interests. The first Europeans to form a vanguard in Africa were the naturalists. Because of them, early European views of Africa emphasized the continent's natural history. Later, as missionaries began to outnumber explorers, Europe began to see the continent through the eyes of those who were out to save its soul. And as Europe developed political and mercantile interests in Africa, merchants and traders were at the vanguard. At that time, Europeans were concerned with turning Africans into loyal subjects, workers, producers, and citizens of empires. No one really worried about feeding them.
+
+Historically, the press has been willing to uncritically accept whatever image of Africa the western vanguard has been selling. In the case of the PVOs, the press has bought their line because reporters are as dependent on aid organizations as the organizations are on them. It would have been impossible, for example, for the press to cover Somalia without the assistance of PVOs. There's no Hertz counter at the Mogadishu airport, and no road maps available at gas stations. If a journalist arrives in Africa from Europe or the United States and needs to get to the interior of the country, PVOs are the only ticket. journalists sleep and eat with PVO workers. When they want history and facts and figures, they turn to the PVOs. In press coverage of Somalia or almost any other crisis in Africa, it is always the PVOs who are most often quoted and are regarded as the neutral and authoritative sources--as if they have no vested interest in anything but the truth.
+
+A typical example of the connection between journalism and the aid system is this analysis from a February 22, 1993, story about Africa in the New York Times:
+
+The greatest danger now to Mozambique's tranquillity, almost everyone agrees, is Mozambique's tranquillity.
+
+Lacking scenes of carnage and starvation to disturb Western television audiences, Mozambique is having trouble competing for attention with Somalia and the former Yugoslavia.
+
+The article goes on to quote numerous CARE officials whose primary concern is to raise more money to give more aid to Mozambique. The article never considers any alternatives to aid. No aid worker raises the possibility, for example, that Mozambique's economy might improve if the country focused on exporting goods. No one mentions that in the absence of carnage, Mozambique might be a good place to invest. No one is talking about creating permanent employment for Africans. The only discussion is about raising more money to send experts there and preserve the jobs of expatriates and create more jobs for graduate students from programs like this one. The people who are called upon to diagnose and comment on Africa's problems are the very people who stand to profit from the diagnoses.
+
+I know that you don't want to be part of this problem. You'll tell me that you can change all of this, that you want to work within the bureaucracy to reform the bureaucracy. But in a couple of years you're going to be in Ouagadougou or Gaborone making a very good salary. The years will pass and you'll find yourself with two kids in an expensive private school in New England, and you're going to have perfected skills that aren't very useful outside of the Third World. You're going to think about quitting, about raising hell, but you won't be able to. Because by then you, too, will have become part of the never-ending cycle of aid.
+
+This is a neoliberal free market critique of food aid programs
+
+A former aid worker and sometime libcom poster recommended it so I posted it up. I guess the critique is compatible with a neoliberal 'solution' ('don't distort markets with state handouts!' or something), but the aid industry is fucked and the substance of the critique - aid reflecting the interests of donors rather than any humanitarian concerns - seems broadly correct. I don't know anything about the author besides this piece.
+
+In my experience this article seems quite accurate. In Kathmandu I met field workers for western NGOs who lived in a Western NGO bubble. A newsletter for 'expats' advertised courses NGO high-ups could send their servants on to learn massage and Western cooking. I heard of NGO bosses who were living in mansions with cooks, gardeners etc. The NGO workers would meet at 'the American Club', a private exclusive institution in the middle of the city with large walled grounds where NGOers could play tennis, eat, drink and be served by dark skinned locals. The social life of the neo-colonials. Relative to decades of billion dollar aid packages the impact on local poverty has been minimal - 'aid' has often merely institutionalised it.
+
+If anyone knows any libertarian communist critiques please link them. Only other thing I can think of is a forthcoming academic book 'Spaces of Aid' by the late Lisa Smirl:
+
+Aid workers commonly bemoan that the spaces and experiences of working in 'the field' often sit uneasily with the goals they've signed up to - from visiting project sites in air-conditioned Land Cruisers while the intended beneficiaries walk barefoot through the heat to checking emails from within gated compounds while surrounding communities have no running water. While such observations might seem intuitive, to date no concerted academic or policy study has dealt with the impact of these factors on theory or policy. Spaces of Aid provides the first book-length analysis of what has colloquially been referred to as 'Aid Land', exploring in depth two high-profile case studies - the Aceh tsunami and Hurricane Katrina - in order to uncover a fascinating history of the material objects that have become an endemic, expected, yet unexamined part of the aid landscape.
