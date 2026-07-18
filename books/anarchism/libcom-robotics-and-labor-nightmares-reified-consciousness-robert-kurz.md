@@ -1,0 +1,40 @@
+---
+title: "Robotics And Labor Nightmares Reified Consciousness Robert Kurz"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/robotics-and-labor-nightmares-reified-consciousness-robert-kurz"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A short 2010 article by Robert Kurz, reflecting on the crisis of abstract labor in capitalism and the development of productivity through robotics and automation, considered in the context of the depletion of fossil fuels and the simultaneous economic-environmental crisis."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/robotics-and-labor-nightmares-reified-consciousness-robert-kurz)
+
+A short 2010 article by Robert Kurz, reflecting on the crisis of abstract labor in capitalism and the development of productivity through robotics and automation, considered in the context of the depletion of fossil fuels and the simultaneous economic-environmental crisis.
+
+Robotics and Labor: the Nightmares of Reified Consciousness – Robert Kurz
+
+The words, Robot and Arbeit (“labor”, in modern German) have the same etymological roots. Originally, arbeit was a term designating the activity of dependent laborers (slaves), or “speaking tools” ( instrumentum vocale ) (Aristotle) and, therefore, were equivalent with regard to the human suffering they reflected. Prepared by the Christian metaphysics of suffering with its (structurally masculine) “cult of abstract man” (Marx) this negative definition of labor was inverted by Protestantism, glorified and retranslated amidst the general transformation from the religious to the secular life. The new capitalist mode of production made sure that “Labor” would have a great future ahead of it. Labor, positive and universally valid, could only become the alienated production of “abstract wealth” (Marx). The term, Labor, was—but is no longer—the general definition of what “the” slave does, but now reflects the undifferentiated content of all production based on the expenditure of human energy as such: reified “abstract labor” (Marx) became the “substance” of money. But it was not transformed for enjoyment, but, in the form of capital, was itself transformed into an eternal imperative, in order to continuously transform a Thaler, a Dollar or a Euro, into two Thalers, two Dollars or two Euros. This “free” transformation transformed individuals into speaking tools, or robots, for this self-reproductive social purpose, in which Labor can only be the raw material of the commodity, and therefore of the totalitarian relation of the market. The reduction of individuals to abstract human machines for the combustion of energy, however, is not capitalism’s only energy source.
+
+It was not immaterial that the concept of Labor was also a concept of Physics during the 18th century, and involved a relation of the vector of energy and its overall action in organisms considered as a mechanical force. The social basis of this transformation of the concept of Labor that became current in the 18th century was the capitalist application of natural science. The machine of the market forces the individual capitalists to compete for social portions of the mass of realized money. And they can therefore only exist for and by means of the increase of the (and their) productive forces, under the condition sine qua non of the utilization of machinery and the concentration of productive units for control. These inert properties of the physical object, the Robot, nonetheless require, on an expanding scale, the propulsive force of non-human energy provided by fossil fuels. Capitalism has therefore become a Culture of Combustion in a double sense: it develops according to the rhythm of a dialectic of the utilization of Human and Fossil energy.
+
+Hegel had already discovered, in his early writings at Jena, that the power of the self-acting machine (Robotics) operated by feeding on fossil fuels and therefore made human labor redundant, although he did not proceed to investigate this problem with more precision. Marx showed that in the process of development of the productive forces the relative portion of capital invested in machinery constantly increased with respect to the portion of capital invested in human labor: the greater the productivity, the less the expenditure of human labor power per unit of capital and the greater the expenditure of fossil fuels. For a humanity that has reified itself as Worker, this gradual development has had a tendency to appear to it as a threat. In a work by Karel Çapek published in 1922, the scenario of a “revolt of the robots” was first depicted; a theme that has become a standard scenario of science fiction and is always re-emerging with new breakthroughs in microelectronics and computer technology.
+
+Not even the most sophisticated computer has more intelligent independent life than a skilled hand. But the fetishistic capitalist consciousness experiences its own tools as alien, with their own inspiration of autonomous power. In fact, capitalism is today approaching its own internal barrier (Marx) of the energy downfall of its double Culture of Combustion, whose components are moving in two opposite directions. The hypertrophy of competition imposed the condition that dead machinery cannot substantiate Abstract Wealth, because the latter is based exclusively on reified human labor power. By way of a technological unraveling of massive unemployment, underemployment and imposed precarious jobs, capital undermines its own substance, which appears, on the other hand, as a financial crisis and as a devaluation of money. Now, this historical tendential movement has been reached a critical point at the same time that the reserves of fossil energy are being rapidly exhausted, and we are facing an ecological or environmental catastrophe.
+
+Furthermore, the material form of the machine society is blind to all social and natural content. The consciousness of the capitalist was therefore represented in the fetishized form of the lifeless robot; today it takes the form of the cell phone and the Internet, and even in its effects on the individual’s interior life.
+
+On the one hand, the capitalist consciousness is aware of the option of a dead end ecological reductionism, in which all technologies would have to be overthrown one by one, and we would have to return to a “natural” economy of subsistence labor. On the other hand, it seeks a technological reductionism to utilize to overcome the crisis, in such a manner that computer programs are transformed into the Model of a complete alternative automation of each and every part, in which all problems and contradictions technologically dissolve without any economic limitations, and just like the solvent individuals (the non-“excluded”) in the tourist paradises, everything goes as smooth as honey. The two moments and results of the Culture of Combustion come face to face with each other.
+
+However, if the microelectronic productive forces lead all the way to the limits of capitalism, industrial production could collapse and “technological liberation” will be either globally abandoned or it will not be capable of autonomous expansion in a linear fashion. Both options are biased despite their appearance of opposition to, although in a still vague and inconsistent way, the great principles of “abstract labor” and “abstract wealth”. We need to overcome this dominant form of universal socialization, instead of once again being reduced to environmental or technological, and supposedly manageable, “models” of the reversal of course that they want to impose. A society of free and associated individuals who are really determined to take decisions regarding the use of common resources into their own hands can only be achieved beyond “abstract labor” and money (or their utopian substitutes).
+
+Source: http://euskalherria.indymedia.org/eu/2010/10/70558.shtml
