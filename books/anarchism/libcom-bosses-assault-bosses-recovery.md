@@ -1,0 +1,30 @@
+---
+title: "Bosses Assault Bosses Recovery"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/bosses-assault-bosses-recovery"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Klasbatalo leaflet for the dockworkers&#039; strike in Montreal."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/bosses-assault-bosses-recovery)
+
+Frantic are the Ministers, the CEOs and the media personalities to cry out that the Montreal Port workers threaten the economic “recovery”. They claim that everyday, the strike will cost 30 million dollars, which the “recovery” cannot manage. But neither the struggle of the Montreal port workers, nor the so-called “recovery”, should be viewed in isolation. That is, it must not be reduced to merely Montreal, nor the shipping industry or even to Canada. Rather, it is the expression of the long assault of the bosses all over the world against the condition of our class. From meatpackers in Alberta and South Dakota, who were subjected to the decades of degenerating workplace safety (which resulted in early and massive Covid outbreaks), to the nurses of Quebec, whose work schedule was being pushed to the breaking point even before the Covid pandemic, the so many gig delivery workers, and the temp manufacturing workers, forced to pick up “extra” hours with little to no job security in the face of rising rents.
+
+What does this international assault look like for the workers at the port of Montreal? Nineteen working days straight, being switched from the day to afternoon schedule on the boss’s whim, exhaustion and robbing the workers of any semblance of a family life. Is this the economic “recovery” the Ontario and Quebec labour ministers were crying about when they said: “for the sake of the economic recovery of Quebec, Ontario and all of Canada,” when begging Minister Tassi for “back to work” legislation? It was certainly for the desire to maintain the post-2008 economic “recovery” that Trudeau utilized “back to work” legislation in 2018 against postal workers with former Labour Minister Patty Hajdu, citing business going “bankrupt” without postal workers managing the increase in parcel packages, giving rise to a sharp upsurge in work related injuries. Now with Trudeau and his minister threatening to push “back to work” legislation against the Montreal port workers, the message is clear. Anything to squeeze a “recovery” out of the working class!
+
+If there is a lesson to take away from the nineteen-day strike in 2020, it is that the strength of our class must be found in the solidarity and collective resolve of the workers themselves. That is to say, not with the folly hope that just maybe, after seven months of a no-strike 'truce' between the union (Canadian Union of Public Employees) and the MEA (Maritime Employers Association), the bosses will now be interested in negotiating with the union. The bosses have had seven months to prepare state backing for an all-out attack. The dockworkers have remained isolated and trapped in the union cage. The seven months gave the bosses and the government time to draw up contingency plans, mapping ports and railways that could take on extra pressure and even writing up the “back to work” draft bill in March. And for what endgoal did the CUPE halt workers' struggle for that entire time period? A 'deal' that essentially caved entirely to the government and the bosses’ interests. With the CUPEs feet dragging, the bosses are ready to secure their “recovery”! Our strength is between coworkers, not lawyers at negotiating tables. It is after all the workers who go on strike, not the union. It is outrageous that when workers go on strike — i.e., when they sacrifice their pay, protest on picket lines, and risk the possibility of defeat, the unions simply use this as a bargaining chip to reach a 'deal'.
+
+If there is a lesson from so many strikes and struggles in the recent past, it is that isolation is a particular weakness. The bosses have found determination in the face of their crisis, willing to smash workers' action in one industry before moving on to the next. Such can be seen with the General Motors workers in Oshawa. Desperate in the face of the depths of their own economic crisis, GM was willing to shut down their Oshawa factory in order to reopen a year later with 90% of the new jobs at a lower ‘tier’, offering a third less of a wage as before, saving GM millions. What a “recovery”! A sinister tactic becoming all too common across the globe which the unions, quick to make any deal, cannot handle. In contrast to the so many isolated struggles of workers, the bosses know when it is time to join hand in hand, including against the workers at the port of Montreal. Canadian National Railway CEO, Jean-Jacques Ruest, has said they are preparing to take on extra shipping, a lesson learned by the bosses from the 2020 strike. And in the same year, Pierre Gratton, president of the Mining Association of Canada, was at the forefront, demanding Trudeau take decisive action against the workers. Today, after seven months of union negotiation which ended the 2020 strike, Trudeau and the bosses are prepared to do whatever is necessary for the “recovery”.
+
+What is needed is for struggles to move beyond sectors. To move beyond union confines. What is needed is class wide-solidarity and workers self-organization, and the recognition that the struggle decides, not the bosses and their laws. What is needed is the struggles of today giving birth to a world communist party capable of unifying our class for the decisive battle. Lessons can be taken from the South Dakota meatpackers, who last year defied Trump’s executive “back to work” order in the face of a Covid outbreak. What does “recovery” mean to the bosses and the ministers? Longer hours and less job security! Across the world this “recovery” threatens to hoist more misery upon our class. The pandemic and the crisis has shown the bosses have forfeited their ‘right to rule’! Workers of the World Unite!
