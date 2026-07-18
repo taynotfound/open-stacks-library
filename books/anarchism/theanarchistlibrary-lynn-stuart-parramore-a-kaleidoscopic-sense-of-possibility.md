@@ -1,0 +1,64 @@
+---
+title: "‘A Kaleidoscopic Sense of Possibility’"
+author: "David Graeber, Lynn Stuart Parramore"
+date: "2024"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/lynn-stuart-parramore-a-kaleidoscopic-sense-of-possibility"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Interview with David Graeber on Democracy in America"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "lynn-stuart-parramore-a-kaleidoscopic-sense-of-possibility.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/lynn-stuart-parramore-a-kaleidoscopic-sense-of-possibility.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/lynn-stuart-parramore-a-kaleidoscopic-sense-of-possibility)
+
+Editor’s note: We think we know what democracy is. But do we? Anthropologist David Graeber burst into national consciousness in 2011 with the Occupy movement he helped to spark. The author of Debt: The First 5,000 Years has written a daring book about democracy in America: its origins, its opponents, and its chances of happening today given the stranglehold of the wealthy on our economic and political systems. Part reflection on Occupy Wall Street, the first major stirring of democratic spirit in the living memory of many, and part journey through the questions and tensions surrounding an admittedly difficult concept, Graeber’s The Democracy Project: A History, A Crisis, A Movement is a welcome inquiry from an intriguing public intellectual. In the following interview, he discusses some of the major themes of the book.
+
+Lynn Parramore: How has the Occupy movement illustrated and shaped your notion of democracy? What changes sparked by Occupy can be seen now in our political and economic systems?
+
+David Graeber: I was first introduced to new forms of radical democracy in the global justice movement back in 2000, and that certainly transformed my own sense of political possibility. Most of us who were involved at the time felt we had finally come up with a powerful revolutionary formula: to begin to create institutions that could exist in a free society (that is, one that wasn’t based on systematic violence or the threat of violence to create order), to juxtapose that to the profoundly undemocratic structures of power that currently exist... Of course then came 911 and the war on terror, and the terms of engagement for American social movements changed dramatically. We felt we were nipped in the bud.
+
+Finally, in 2011, a new generation of young activists — helped out, certainly, by people like me from the last time around, but actually surprisingly few — managed to pull it off, briefly, on a mass scale. I think it’s thrown open an almost kaleidoscopic sense of possibility, from alternative banking systems and mutual aid projects to communal assemblies as a potential form of self-governance. We have no idea yet where it all might lead if the democratic culture we’re trying to build really does take root. The main thing Occupy did was to throw open the imagination, to get us to start thinking on a scale and grandeur appropriate to the times.
+
+LP: You note that democracy was contested during America’s founding. Who were the proponents of democracy and how did they manifest their views?
+
+DG: Actually, there were almost none. In the writings of the patriots and leaders of the revolution, word “democracy” was used almost interchangeably with “anarchy” or even “mob rule.” Everyone opposed it. By democracy, they meant, either rule through popular assemblies like in ancient Greece — which they saw a little during the big mobilizations they called out during the revolution — or by extension, any system where ordinary people held the power of governance themselves. So it wasn’t really contested among the political classes. They were uniformly opposed to it. You just have to read the opening remarks of the constitutional convention of 1789: it begins, ‘we have a problem. There’s far too much democracy in this country. State constitutions cannot contain it. We need to set up something stronger.’
+
+Still, it seems that ordinary people would use it sometimes, almost for shock value, the way some people in the 19 th century started calling themselves anarchists, or in the 20 th , queer. It’s very hard to reconstruct the history. For me, the most revealing record we have is a letter by one Gouverneur Morris, whose family basically owned the Bronx, describing his reaction at witnessing a mass meeting he and the other pro-independence politicians had called out in New York in 1774 to discuss a tax boycott — it ended up in a long debate over whether the new country should have a “democratic” constitution — the ordinary tradesmen and mechanics who attended seem to have actually used the word, and seem to have argued for it using all the classic allusions the gentry were used to employing. “The mob,” he wrote, “begin to think and reason!” He was horrified. We could try banning schoolteachers, he said, but that would never work. So he decided he wasn’t for independence after all.
+
+LP: You describe something called the “democratic unconscious” as a kind of shadow political idea that has been present in America since the beginning. What is it and why has it been associated with violence and criminality?
+
+DG: Well, when you say “associated” I think you have to ask, by whom? I think if you want to look at the ethos of individualism, egalitarianism, of democratic improvisation that does seem to mark the American spirit from early on, you have to got back to the very first settlers. It’s quite interesting. At first, the settlers called themselves Englishmen, Dutch, or Frenchmen, it was the Indians they referred to as “Americans.” They only really started calling themselves “Americans” when they started acting more like Indians. You see the Puritan fathers complaining about this all the time, how fathers are abandoning “severity” and acting like Indians, not beating their wives and children, talking back to their betters... And then of course there’s the presence of the frontier itself, and all the places just outside state control, where people often from very different backgrounds met and had to make something up in a hurry. I call them spaces of democratic improvisation. At first there were a lot of these, any many in surprising places. Some have suggested that one of the earliest really democratic institutions were pirate ships. Pirate captains mostly couldn’t give commands except during chase or battle; otherwise everything was decided by majority vote. But of course one can well imagine how the educated gentry viewed such spaces.
+
+LP: Why is the financialization of capitalism such a powerful anti-democratic force? Is any kind of capitalism compatible with democracy?
+
+DG: I suppose it depends on how you define either term. In the book, I make the argument that, if we see “democracy” as an ideal, a form of collective problem-solving rather than a battle of conflicting interests, then you can’t really reconcile that with vast inequalities of wealth. The founders were actually pretty perceptive on this — though their conclusion was that since they wanted to maintain vast inequalities of wealth, they didn’t like democracy.
+
+As for financialization, well, we tend to talk about that as if it’s all very abstract. More and more profits are derived not from making or selling anything, but pure speculation, as if these Wall Street types have figured out a way to whisk wealth into being simply by saying that it’s there. In fact what it really means is that financial interests collude with government — which they’ve basically completely bought out, at this point — to enforce policies that reduce more and more Americans into debt. The reason it’s so anti-democratic is that it changes the role of government itself, which is increasingly becoming merely the legal cover and muscle behind debt and rent extraction, for a very small group of the super-wealthy who play by a completely different set of rules. This in turn changes ordinary Americans’ basic perceptions of their relation to government and other key institutions of our society. Most people no longer see themselves as “middle class” precisely because they no longer feel those basic institutions are ultimately on their side.
+
+LP: Obama has just proposed to cut Social Security and Medicare as part of his budget. How does this action reflect your view of the people’s will and its reflection in our political system?
+
+DG: Well, clearly, it demonstrates that what people actually want has almost no bearing on what elected officials do. If it did we’d have single payer, which was supported by something like two thirds of the US public. In fact it wasn’t even considered. Now, all this is quite in keeping with the fact that government is becoming a mere extension of financial interests but what fascinates me is the compliance of the educated classes, and what pass for opinion-makers in this country. No one seems to see any of this as particularly scandalous. The media in particular seem to have abandoned any notion that “democracy” has anything to do with popular will; they see it as an institutional structure, a system of checks and balances, operating through laws — so if properly constituted authorities just change the laws, making most forms of bribery legal, for example, by relabeling it “lobbying” — then that’s not a threat to democracy, that somehow is democracy at work. This is why I think going back to that original history is so important.
+
+LP: You make the intriguing statement that in order to break out of the money and politics trap, the left ought to take its cue from the populist right. What do we need to understand from them?
+
+The one thing that really impressed me about Occupy was how so many of those who got involved, or even more of those who supported it from afar, were in the caring and helping professions. Which is not a huge percentage of our workforce: teachers, social service providers, medical workers... And that’s what they were saying too “if you want to do a job where you do good in the world, where you take care of others, they’ll put you in so much debt you won’t even be able to take care of your own family.” We need to start from that and think about what work is and why people do it, what an economy is even for, and the fact that a society that punishes people for trying to be decent human beings is profoundly inhuman.
+
+LP: You favor consensus democracy with collective deliberation and equal participation. How can that operate at a large scale? What’s wrong with majority voting with rights?
+
+DG: Majority voting tends to encourage maximizing the differences between people, rather than encouraging compromise, creative synthesis, seeking common ground, which is what consensus is designed to do. Majority voting also invariably needs some sort of coercive mechanisms of enforcement. Don’t get me wrong, nobody’s talking about absolute consensus, like they used to do, where just one person can block everything and there’s nothing you can do about it. Consensus is just a way to change proposals around until you get something the maximum number agree on, rather than our system, say, where practically 48–49 percent of voters each time always ends up crushed and defeated. And yes, when you get up to a larger scale, you can’t just rely on assemblies or spokescouncils. It does make sense to decentralize as much as possible. Consensus only works if you don’t have to ask for it unless you really have to. But as for scaling up: there are any number of possibilities.
+
+One I’ve been studying up on of late is sortition. Through much of Western history, it never occurred to anyone that elections had anything to do with democracy — they were considered aristocratic. The democratic way of choosing officials, if you had to do it, was lottery. Give people basic tests for sanity and competence and then let anyone who wants to throw in their name have an equal shot. I mean, how can we do much worse than a lot of the people we have now? Sortition would be more like jury duty, except non-compulsory. But there are all sorts of other possibilities.
+
+LP: Is democracy possible in America? If so, what might it look like ?
+
+DG: It’s possible anywhere. But it would take enormous changes in our economic and political assumptions. Myself, I’m less interested in mapping out a constitution for a truly democratic society than creating the institutions by which people can collectively decide for themselves what it might look like. The one resource in the world that’s absolutely not scarce at all is smart, creative, people with ideas we’d never have thought of. Solutions are out there. The problem is 99 percent of those people spend most of their lives being told to shut up.
