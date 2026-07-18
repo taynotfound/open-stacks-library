@@ -1,0 +1,56 @@
+---
+title: "Black Militancy Notes Underground"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/black-militancy-notes-underground"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A brief history by Rashad Shabazz of the Black Liberation Army, a Marxist-Leninist urban guerrilla group with roots in the Black Panther Party."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/black-militancy-notes-underground)
+
+A brief history by Rashad Shabazz of the Black Liberation Army, a Marxist-Leninist urban guerrilla group with roots in the Black Panther Party.
+
+If one were to examine, closely, the hegemonic discourses of black American history, one would be surprised to find a long history of militant armed struggle. Slave rebellions, urban "guerilla" insurgencies, rural defense leagues, are all part of a tapestry of black militant rebellion to subjugation. The most recent icon of black armed struggle, the Black Panther Party, is a linchpin in understanding the development of this phenomenon in the late 1960s, which saw its high point in the 1970s. But it was not the only organization that used or opening advocated the use of force against the state. Others did exist. They did not exist in the public or "aboveground" as the Panthers did between the years of 1966 and 1974. Other factions of the organization existed outside the public eye—clandestinely. Not coincidently, this history exists clandestinely. Clandestine is also a fitting way to describe some of the writers of this history. It is fitting because they, like the histories of armed struggle in U.S., don’t exist in the open, but they exist nonetheless.
+
+Many of those who (clandestinely) trace the historical trajectories of armed struggle are (or were) prisoners of the state. Assata Shakur, George Jackson, Kuwasi Balagoon, and Geronimo Ji Jaga Pratt, all participated in armed struggle. Branded by the state as criminals, underground black radicals, as well as white underground radicals were part of a network of militant "paramilitary" insurgencies. By several accounts this movement lasted from the late 1960’s until the beginning of the 1980’s. Today, imprisoned underground activists continue to write of this subjugated history from the cells that hold them.
+
+he birth of the Black Panther Party (BPP) in 1966 in Oakland, California, marked a significant transition away from the non-violent tactics of the Civil Rights Movement. Black women and men dressed in black leather jackets, sometimes armed, are the most popular and iconic images of the Party. The BPPs well know leadership including Huey Newton, Bobby Seale, and Kathleen Cleaver are also representative images. In many respects, they have and continue to play critical roles in tracing the historical trajectory of Black armed struggle. Thee BPP, although the public face of the black militant rebellion, was not the only organization committed to the tactic of armed struggle. In many respects, the Party, itself, had several faces. One of them being an "above-ground" organization that ran the day-to-day operations of the Party, protested, and organized Black communities. This is the public face of the Party. There is literature which suggests the BPP has another history, another form of organizing. This formation would exist as the clandestine wing; a wing that was committed to armed struggle.
+
+Recently, several re-readings and re-conceptualization of the BPP have made it abundantly clear that from the Party’s inception there existed another formation of the Party, "underground" armed paramilitary group committed to urban guerrilla campaigns. To the extent that there were competing personalities involved, the underground faction was more associated with Eldridge Cleaver. The tensions between Cleaver and Newton on the subject of armed struggle and the direction of the Party (Newton favored community-based organizing and building a strong public force, Cleaver did not share this vision), had strained, and by 1971 a full-on split was in place.
+
+The black underground movement, which was associated with Cleaver, was not by any means homogenous. Although Cleaver was an advocate for armed struggle, no one individual controlled it. They were ideologically unified, but autonomous in terms of their actions. They went by several names: the New World Liberation Front, New African Independence Movement, the Black Underground, National Black Liberation Front. However, it is know mostly by the name Black Liberation Army (BLA).
+
+In her memoirs, exiled BLA member Assata Shakur suggests that the BLA, though not a cohesive organization, is a "concept," an analysis, a people’s movement, and idea:
+
+The idea of the Black Liberation Army emerged from conditions in Black communities: conditions of poverty, indecent housing, massive unemployment, poor medical care, and inferior education. The idea came about because Black people are not free or equal in this country…The BLA arose because of the political, social, and economic oppression of Black people in this country. And where there is oppression there will be resistance.
+
+The clandestine nature of the BLA does not mean it was marginal or fringe. Nothing could be further from the truth, according to some, throughout the 1970’s — its highpoint of activity — the BLA was involved in numerous clandestine actions. Heavily influenced by Marxist-Leninist philosophies and Fanonian readings of the world situation, the black underground movement saw "revolutionary violence" against the state as a necessary response to what many deemed an imperialist nation fixed on exclusivity and racism. White radicals were also involved in clandestine activity, in many cases collaborating with black radicals. The best-known group of this era, the Weather Underground, actively participated on the side of black activists. Philosophically, Marx, Lenin and Fanon also influenced them.
+
+Many of those involved in the black underground were jailed for their activities. After the decimation of the BPP, the underground movement was left without aboveground assistance. Those brought to trail for their actions have been critical of the legal process. Many of them see it as nothing more than a means to maintain class and racial domination. This can also be said to be the case for several "aboveground" activists. In their most clearly articulated political and philosophical statement, "Message to the Black Movement: a political statement from the black underground", the BLA made their thoughts and ideas on revolution in North America public. They speak about numerous topics including the black bourgeoisie, Marx’s dialectical movement of history, law, and capitalist society. They write, "We must begin to determine our livers by creating community institutions of revolutionary justice outside the structure of capitalist law."
+
+When arrested for their activities they stood before the court and denounced the charges against them. Many of them like Kuwasi Balagoon and Ray Luc Levasseur (a white Canadian and member of a underground faction named the Sam Melville/Jonathan Jackson unit) used their opening statements to show why they thought the state had neither the moral or legal authority of hold them in violation. In the opening statement of his trial Levasseur states:
+
+In 21 years of political activity I’ve never done anything for personal gain or profit. Nothing. That his been part of my motivation and intent. The government wants to charge that bombing the office of the South African government is an act of racketeering? A bombing that was done in response to the massacre in South Africa and to support the struggle for freedom there. No, it’s an expression of the support for liberation. It is that simple.
+
+Trial statements were used in a similar fashion in several cases where underground activists were involved. These statements were used to voice opposition to court procedures, condemn state actions in places like South America and South Asia. They used their statement to educate, and to save their own lives. Although I speak of this phenomenon in terms of underground activists, it is also applicable to those in the public eye.
+
+Although they were tried as criminals, many have argued that the cases of those who "fight" as members of underground factions transcend the boundaries of domestic legal discourse. Prison intellectuals like Marilyn Buck maintain that domestic law is not applicable in cases of those involved in armed struggle with the state.
+
+It is from cells located across this country, the charting and unearthing of this history is done. It is an imprisoned history. The literature of incarcerated activists like Jalil Muntaqim, Marilyn Buck, and George Jackson is not only thought-provoking explication of the sordid uses of the prison system or mere polemics against the state. To read the literature of incarcerated activists in the black underground is to read the histories of the black underground movement. These histories are found in an assemblage of literature: opening trial statements, closing and sentence statements, personal letters, poetry, and paintings. They can be found in a myriad of dispatches from general population, secured housing unites, and death rows.
+
+We should not be surprised that the histories of armed struggle in the U.S. escape the purview of hegemonic discourse, particularly histories of black resistance. Armed struggle in the United States, particularly against the state is not supposed to happen, because, for all intents and purposes, the U.S. holds itself up as the bastion of democracy and freedom. It claims to be a symbol of prosperity, dignity, and technological superiority. Given these longstanding assumptions about the U.S. are increasingly coming into question by many around the world, what do we make of armed struggle? This question takes on a new meaning given the daily reality of Iraq. How should we think about it, as well as its history, and what does the legacy of armed struggle within the U.S. suggest about our current political situation?
+
+If nothing else, the histories of armed struggle in this country help us think more deeply about the gap between what is professed and what is practiced. As Shakur suggests, the black underground movement was born out of conditions of existence. For a generation of young activists, the reality of war, imperialism, racism and the growing fragility of democratic liberalism was too much to handle. Force became a means to wrestle with this tension. As the discourse of a "country torn" finds its way into mainstream political analyses (for many the deep divisions in this country are not a new political reality), we should reflect on the writings of political dissidents and radicals. We should recognize the diversity of political analysis that is very much alive. The histories of armed struggle, if taken seriously, provide us with a means to think more critically about the center, and complicate its claims of moral and political right.
+
+Rashad Shabazz is a doctoral student in the History of Consciousness program at UC Santa Cruz who works with Angela Davis on race, ideology and the prison industrial complex.
