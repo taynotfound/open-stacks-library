@@ -1,0 +1,68 @@
+---
+title: "A Grain as Big as a Hen's Egg"
+author: "Leo Tolstoy"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/leo-tolstoy-a-grain-as-big-as-a-hen-s-egg"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Translated by the Maudes. Original text from RevoltLib.com, 2021."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "leo-tolstoy-a-grain-as-big-as-a-hen-s-egg.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/leo-tolstoy-a-grain-as-big-as-a-hen-s-egg.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/leo-tolstoy-a-grain-as-big-as-a-hen-s-egg)
+
+One day some children found, in a ravine, a thing shaped like a grain of corn, with a groove down the middle, but as large as a hen's egg. A traveler passing by saw the thing, bought it from the children for a penny, and taking it to town sold it to the King as a curiosity.
+
+The King called together his wise men, and told them to find out what the thing was. The wise men pondered and pondered and could not make head or tail of it, till one day, when the thing was lying on a window-sill, a hen flew in and pecked at it till she made a hole in it, and then every one saw that it was a grain of corn. The wise men went to the King, and said:
+
+At this the King was much surprised; and he ordered the learned men to find out when and where such corn had grown. The learned men pondered again, and searched in their books, but could find nothing about it. So they returned to the King and said:
+
+'We can give you no answer. There is nothing about it in our books. You will have to ask the peasants; perhaps some of them may have heard from their fathers when and where grain grew to such a size.'
+
+So the King gave orders that some very old peasant should be brought before him; and his servants found such a man and brought him to the King. Old ​and bent, ashy pale and toothless, he just managed with the help of two crutches to totter into the King's presence.
+
+The King showed him the grain, but the old man could hardly see it; he took it, however, and felt it with his hands. The King questioned him, saying:
+
+'Can you tell us, old man, where such grain as this grew? Have you ever bought such corn, or sown such in your fields?'
+
+The old man was so deaf that he could hardly hear what the King said, and only understood with great difficulty.
+
+'No!' he answered at last, 'I never sowed nor reaped any like it in my fields, nor did I ever buy any such. When we bought corn, the grains were always as small as they are now. But you might ask my father. He may have heard where such grain grew.'
+
+So the King sent for the old man's father, and he was found and brought before the King. He came walking with one crutch. The King showed him the grain, and the old peasant, who was still able to see, took a good look at it. And the King asked him:
+
+'Can you not tell us, old man, where corn like this used to grow? Have you ever bought any like it, or sown any in your fields?'
+
+Though the old man was rather hard of hearing, he still heard better than his son had done.
+
+'No,' he said, 'I never sowed nor reaped any grain like this in my field. As to buying, I never bought any, for in my time money was not yet in use. Every one grew his own corn, and when there was any need we shared with one another. I do not know where corn like this grew. Ours was larger and yielded more flour than present-day grain, but I never saw any like this. I have, however, heard my father say that in his time the grain grew larger and yielded more flour than ours. You had better ask him.'
+
+So the King sent for this old man's father, and they found him too, and brought him before the King. ​He entered walking easily and without crutches: his eye was clear, his hearing good, and he spoke distinctly. The King showed him the grain, and the old grandfather looked at it, and turned it about in his hand.
+
+'It is long since I saw such a fine grain,' said he, and he bit a piece off and tasted it.
+
+'Tell me, grandfather,' said the King, 'when and where was such corn grown? Have you ever bought any like it, or sown any in your fields?'
+
+'Corn like this used to grow everywhere in my time. I lived on corn like this in my young days, and fed others on it. It was grain like this that we used to sow and reap and thrash.'
+
+'Tell me, grandfather, did you buy it anywhere, or did you grow it all yourself?'
+
+'In my time,' he answered, 'no one ever thought of such a sin as buying or selling bread; and we knew nothing of money. Each man had corn enough of his own.'
+
+'Then tell me, grandfather,' asked the King, 'where was your field, where did you grow corn like this?'
+
+'My field was God's earth. Wherever I plowed, there was my field. Land was free. It was a thing no man called his own. Labor was the only thing men called their own.'
+
+'Answer me two more questions,' said the King. 'The first is, Why did the earth bear such grain then, and has ceased to do so now? And the second is, Why your grandson walks with two crutches, your son with one, and you yourself with none? Your eyes are bright, your teeth sound, and your speech clear and pleasant to the ear. How have these things come about?'
+
+'These things are so, because men have ceased to live by their own labour, and have taken to depending on the labour of others. In the old time, men lived according to God's law. They had what was their own, and coveted not what others had produced.'
