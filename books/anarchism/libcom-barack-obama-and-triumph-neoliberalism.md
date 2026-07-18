@@ -1,0 +1,62 @@
+---
+title: "Barack Obama And Triumph Neoliberalism"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/barack-obama-and-triumph-neoliberalism"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Democratic Party icon Robert Rubin&#039;s evasion of prosecution for criminal activities related to the housing bubble represents a notable triumph in the history of neoliberalism."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/barack-obama-and-triumph-neoliberalism)
+
+Barack Obama with economic advisor Robert Rubin (right) Democratic Party icon Robert Rubin's evasion of prosecution for criminal activities related to the housing bubble represents a notable triumph in the history of neoliberalism.
+
+It is hard to remember now, but Enron was once a very widely respected company. After first revolutionizing the natural gas industry in the 1980s, the company had moved on to conduct a series of high profile forays into the worlds of retail energy servicing, broadband service, international energy development, and direct to home entertainment (all of which failed miserably). 1
+
+As it turns out, despite the widespread notoriety and respect the company garnered, it was pretty much insolvent by the end of the 90s. In order to maintain the illusion of growth Enron began to engage in increasingly desperate forms of accounting frauds to hide the company's losses. The success of these schemes was dependent on Enron’s stock price never going down, and when Enron suffered a slight blow to its share price in 2001, it didn’t take long for investors to see the company for the hollow shell that it was.
+
+CEO Ken Lay died from a heart attack after being found guilty on 10 counts of securities fraud. Top executive Jeff Skilling is currently serving out a 14-year prison sentence, CFO Andy Fastow served a 6-year sentence, and executive Cliff Baxter shot himself before even being indicted. A slew of others were convicted and given shorter sentences.
+
+Not content with just going after Enron, the government also targeted Enron’s accounting firm Arthur Anderson. At the time one of the country’s “Big Five” accounting firms, the government’s prosecutions completely destroyed it, leaving what are now called the “Big Four”.
+
+Managing to escape serious penalties for its involvement in the scandal was Citigroup. Citigroup helped Enron defraud its investors by designing intentionally complex structured finance transactions to help Enron keep its debts hidden from plain view. When Enron's share price began to falter, Citigroup board member and former Bill Clinton Treasury Secretary Robert Rubin made a phone call to the Bush administration’s Treasury Undersecretary to try and forestall a credit ratings downgrade. On top of its activities with Enron, Citigroup was also involved in the era’s other major accounting scandal at WorldCom . While raking in lucrative fees as a service provider to WorldCom, Citigroup provided false research on the company’s health to investors in order to help WorldCom boost its share price.
+
+The decision not to prosecute Citi (or JP Morgan Chase which was also caught up in the WorldCom scandal) was probably due to a Bush administration reticence to go after institutions central to the neoliberal project. The Bush administration already felt that it had gone too far by pursuing charges against Arthur Anderson, and Citigroup and JP Morgan Chase in many ways represented the face of the burgeoning financial industry. For their part, far from counting their blessings, Rubin and Citigroup (and JP Morgan Chase) would end up escaping from the fallout of the first bubble only to throw themselves headfirst into more illegal activities.
+
+Robert Rubin and Citigroup, indeed it is impossible to talk about one without talking about the other, are the unholy poster children of the modern Democratic Party. Originally created by the 1998 merger of the commercial bank Citicorp and the investment banking and insurance conglomerate Traveller’s Group, Citigroup was formed in defiance of the, already severely weakened, Glass-Steagall act. Passed into law in the wake of the Great Depression, Glass-Steagall was intended to promote stability in the banking industry by prohibiting commercial banks from merging with investment banks and using depositor credit as leverage in the stock market. Ironically, the law was passed in large part due to the rampant abuses of Citicorp, then operating under its previous name National City Bank of New York. 3
+
+Of course the irony of this was lost on then Treasury Secretary Robert Rubin. Rubin, along with Democratic Party hacks like future Hillary Clinton campaign manager John Podesta, made the push within the Clinton administration to repeal the Glass-Steagall act and allow the Citigroup merger to go through without difficulty. After Glass-Steagall was effectively repealed in 1999 by the Gramm-Leach-Bliley act, Rubin left the Treasury Department to take up a position on the board at Citigroup.
+
+Shortly after Rubin joined the company, Citigroup ran into trouble. By 2002, Citigroup had already been fined $215 million for its involvement in tricking low-income borrowers into taking overpriced mortgages and credit insurance. An additional fine was paid in 2004 for approving mortgages to homeowners without properly checking their credit history.
+
+The rush to approve mortgages for homeowners was tied to Citigroup’s investments in the growing housing bubble. What Citigroup, along with a number of other companies, would do was approve legions of mortgages through their mortgage subsidiaries, and then package the mortgages as investment vehicles known as Collateralized Debt Obligations (CDO).
+
+To give a somewhat simplified explanation of how this worked, say that one of Citigroup’s mortgage subsidiaries approved 100 mortgages. What happened next is that one of Citigroup’s investment banking subsidiaries took these mortgages and put them into one big package, a CDO. Investors were then invited to invest in the CDO and were guaranteed a portion of the payments that the 100 homeowners made on their mortgage. The only risk to investors was if homeowners in the package for some reason defaulted en masse, something considered to be statistically impossible. At the same time, Citigroup was also using depositor credit from its commercial banking arm to invest in CDOs at a furious pace. To make matters worse, and slightly more complicated, Rubin and Citigroup also pioneered something called the Structured Investment Vehicle (SIV), which essentially just let Citigroup double down on its CDO gambling through tax-free entities.
+
+As is now all too obvious, allowing banking/mortgage/investment company conglomerates to package and invest in this sort of investment vehicle was a recipe for disaster. First of all, it incentivized companies like Citigroup to have their mortgage subsidiaries approve/and or trick as many borrowers as possible into taking mortgages, regardless of the ability of the borrower to pay one year, or even 6 months down the line. Second of all, with unprecedented access to liquidity from its commercial banking arm, companies like Citigroup could (and still can) swing their weight around in the market at a level that investment banks could not. This forced traditional investment banks like Goldman Sachs and Lehman Brothers to leverage themselves to the hilt in order to compete with the commercial banks. 4 In fact, some government officials foresaw these possibilities back when Rubin was still Treasury Secretary, but he sabotaged their efforts to regulate these new markets.
+
+In the end, none of the possibilities for risk seemed to concern the highly esteemed capital markets expert at Citigroup. In 2005, Rubin helped lead the push on Citigroup’s board to base the company’s growth strategy on CDOs, mainly through the tax free SIVs.
+
+So what did Rubin and the Citi executives do when 2007 came around and homeowners actually did begin defaulting on their mortgages en masse? They did what Enron did when its assets started to be far outweighed by its liabilities, lie. According to the Financial Crisis Inquiry Commission (FCIC), Rubin and other top Citi executives told investors on a conference call that Citi’s total direct exposure to subprime mortgages (mortgages to low-income borrowers that defaulted en masse during the crisis) was $13 billion, when in fact it was $55 billion. The SEC claims Citi deliberately misrepresented its exposure to CDOs a total of four times in July and August of 2007.
+
+When it became clear that he could no longer keep his position at Citi, Rubin retired in 2009 having pocketed a total of $126 million during his time there, much of it tax free,. Of his absurd compensation, Rubin remarked , “I bet there's not a single year where I couldn't have gone somewhere else and made more.”
+
+In 2010 the FCIC recommended that the Justice Department consider bringing criminal charges against Rubin for his role in creating the crisis and for lying to investors about the status of Citigroup. Obama’s Justice Department, led by Attorney General Eric Holder, never followed up. The decision not to prosecute Rubin is not surprising when one considers that prior to running the Justice Department Holder was an attorney at the DC based corporate defense firm Covington & Burling whose clients included Citigroup , Bank of America, JP Morgan Chase, Wells Fargo, and Freddie Mac. 5 Appointed to head the Criminal Justice Division, was Lanny Breur, also of Covington & Burling. Breur stayed on as Division chief until 2013 when he left to rejoin Covington & Burling and represent Citi 6 again after it became embroiled in the LIBOR rate rigging scandal . On top of all this, appointed to head the Criminal Division’s Fraud Section was Davis Polk, who was a lawyer for none other than Arthur Anderson in the Enron scandal.
+
+Apart from a Justice Department full of corporate defense lawyers, the other major obstacle towards preventing any criminal prosecution of Citi was that any prosecution of Citigroup executives would have probably implicated quite a few high level Obama administration officials. As Matt Taibbi explains , to a staggering degree the Obama administration was dominated by Citigroup personnel and people directly connected to Rubin himself. Some highlights include Rubin’s son, Jamie Rubin, and senior counselor to Citigroup Michael Froman, who remained on the Citi payroll months after starting work as the head of Obama’s economic transition team.
+
+In addition to former Citi executives, two of Rubin’s protégés held key positions in the Obama administration. Heading the Treasury Department was Timothy Geithner, who considered Rubin his mentor while he was an undersecretary to Rubin in the Clinton administration, saying, “while Rubin enjoys an amazing amount of public respect and credibility, people who have worked with him know that he's substantially better than even that exalted perception.” Geithner was so close to Citigroup that Citi’s founding father Sanford Weill even offered the job of CEO to Geithner in 2007. Although he turned down the offer, Geithner would go on to make millions in the financial services industry as president of the private equity firm Warburg Pincus. In addition to Geithner, there was Larry Summers, head of the National Economic Council (NEC) and Obama’s top economic advisor during his first year in office. 7 A Rubin acolyte, Summers replaced Rubin at Treasury after Rubin left to take up the position with Citi. Summers became a consultant for Citi after leaving the NEC in 2010. Both Summers and Geithner have raked in millions in speaking fees from Citi and a host of other financial services companies.
+
+Of course it wouldn't truly be a Democratic Party corruption story without mentioning Hillary Clinton. A somewhat credible leak showed that if elected, Hillary Clinton planned to tap Facebook COO Sheryl Sandberg for Treasury Secretary. Sandberg worked under Summers at the Treasury Department during the Clinton administration and is currently an advisor on the board of the Hamilton Project, a free market think tank co-chaired by, drumroll please, Robert Rubin.
+
+This "Ken Lay" guy (pictured in the middle of the article) bears an uncanny resemblance to the late Pierre Boulez.
