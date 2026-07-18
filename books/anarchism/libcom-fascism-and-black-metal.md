@@ -1,0 +1,66 @@
+---
+title: "Fascism And Black Metal"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/fascism-and-black-metal"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Analysis of Fascist presence in black metal scenes in how to resist it."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/fascism-and-black-metal)
+
+Analysis of Fascist presence in black metal scenes in how to resist it.
+
+Black metal and grindcore are my favorite genres of music. For this reason I want black metal, as a community of fans and artists, to be protected from violent reactionaries. Unfortunately, over the decades black metal has been invaded by Fascists to the point where there is a particular name for black metal performed by said Fascists; National Socialist Black Metal (NSBM). For those who don't know; black metal is a kind of extreme metal music characterized by high pitched guitars, shrieking vocals, and dark aesthetic, which takes influence from punk and thrash metal. Black metal, along with other sub-genres like brutal death metal and grindcore, is about as extreme as you can get in terms of hard-rock and metal.
+
+As someone who has always gravitated to extreme music this genre's cold, inhospitable sound has particular appeal to me. Unfortunately, for one reason, or another, this sound and aesthetic has provided cover to certain groups of Fascists taking their politics into music. Some bands are open about their Fascism. Grand Belial's Key.1 and Goatmoon.2 have open Nazi themes in their music, the former being photographed with a modified Nazi flag at their shows. In the case of Drudkh; band members were formerly part of Hate Forest, an openly Fascist band.3 One of the most popular black metal acts, Burzum, is a solo project of one Varg Vikernes who has expressed openly antisemitic views.4
+
+In the case of Nargaroth, a currently one man black metal project, it's first album featured white supremacist lyrical themes which "Ash", the man behind it, tried to play off later; insisting that they had nothing to do with white supremacy. This same man has also been filmed performing a Nazi hail at a live show. 5 These are just the examples that stick out in my mind. Raw black metal, a bare bones form of the genre, has been frighteningly populated by NSBM acts.6 To make matters worse, a lot of people in the black metal "fandom" don't seem to care. In my experience the vast majority of fans openly listen to these projects regardless of their Fascist message, mission, and associations. Granted, it really doesn't matter what you listen to, at least on it's own. Most people probably listen to artists who have done things most of us would consider reprehensible. This doesn't necessarily further the political program of Fascism. However, the success and acclaim artists I have mentioned enjoy while their Fascist themes, views, and associations have been publicly known information, is troubling to say the least.
+
+I've seen YouTube videos where fans talk about vinyl albums they (at least presumably) paid for, while admitting that the views of the artist in question are completely repugnant. Apparently not noticing the glaring dilemma where they have financially supported an artist that they openly admit is reprehensible. It seems the predominant attitude is that the presence of Fascists in black metal is obvious, but that actually taking a stand against it isn't even considered. Luckily there have been those over the years who have taken such a stand.
+
+Enter Red and Anarchist Black Metal (RABM). This was and is black metal performed by artists with leftist and/or antifascist politics. It cropped up in direct response to the presence of Fascists in black metal. Bands include Iskra, Panopticon, Jarost Marksa, Operation Volkstod, and Anarchist Wolves (all of whom made and make excellent music in my opinion).6 Simply by creating black metal that was openly in defiance of the Fascist presence in black metal RABM artists took a huge step toward wresting the genre away from said Fascists. As long as there are openly antifascist artists within the genre then it can't be claimed by Fascists. This may be the most powerful method of fighting the Fascist presence in the "scene".
+
+By creating music that is openly antifascist we rest the image of black metal as a genre away from Fascism and make the scene itself that much more hostile to Fascist presence. In addition fans of black metal need to stop passively tolerating Fascism in their music. They need to stop acclaiming and promoting the music of Fascist and reactionary artists like Burzum and stop giving bands like Drudkh and Watain a pass for their associations with and involvement in Fascists and Fascist acts.7 Some will articulate the notion that this is just music. Who cares if artists use black metal to promote their vile political messages?? At the end of the day it's about music, not politics. What a simple world it would be if anything about this argument worked.
+
+Art can't be neatly separated from politics. Art is an interpretation of the world we live in. Even art dealing with pure fantasy (the band Immortal's lyrical themes which deal with a fictional world for example) is still using phenomena the artist experienced in the real world (myths, legends, concepts, ect.) to construct a fictional one. As long as Fascists can slip under the radar of a scene they can promote their politics within that scene. Fascism is a repressive ideology which argues and works for extreme subordination to social hierarchy against social change and social equality, whether these social hierarchies be racism, antisemitism, queerphobia, patriarchy, or the state itself.8
+
+Despite all the talk of "antifa" in the media, at large the actual reason for the modern antifascist movement is ignored. Antifa are painted as aggressors who want to attack anyone they perceive as a Fascist. In reality antifascist organizations and movements form because the people involved are marginalized identity groups who need some way to defend themselves from fascist attack. Many antifascists get involved in the organized work they do because they are queer people, women, black, Latino, Asian, indigenous, ect. people who are attacked by violent Fascists simply for existing. 9
+
+Then there is the issue of "free speech". In the completely phony mainstream dialogue on "antifa" it is often asserted that to prevent Fascists from expressing their views through organized opposition is somehow repression of the right to "free speech", and free expression. I've seen metalheads argue that racism and Fascism have a place in metal because it's important for racists and Fascists to be able to freely express their racism and Fascism. The point of antifascist "no-platforming" is not to bring the force of the state down to censor Fascist organizing, or open Fascist views. It is to use rank and file organization through direct action (direct organization to resist oppression) to sabotage Fascist political strategy. The argument that Fascists openly arguing and organizing for their ideas is their "right" to "free expression"ignores Fascism's violent methodology referred to above. It's extremely counter intuitive to view organizing for an authoritarian, hierarchical, and repressive social order as a form of "free expression". Fascists are only concerned with "free expression" in so far as they can use it to make the oppressive society they want to see a reality.10
+
+The take away here should be 1; Fascists have infiltrated black metal, 2; we need to fight this infiltration by making antifascist black metal as well as standing up to Fascists in the "scene" because 3; Fascism is a movement that seeks to oppress and subjugate. A side point is that black metal isn't just an edgy form of music for reactionary European white dudes. As I pointed out there has been a movement in black metal to counter the Fascist element and there is also plenty of non-politically themed black metal made by people who just want to create good music (our earlier point about the false assumption that politics and music can be separated not-withstanding). If you like black metal, enjoy, and put some thought into what you can do to oppose Fascism in our scene.
+
+Notes 1. https://www.metal-archives.com/bands/Grand_Belial%27s_Key/270 2. https://www.metal-archives.com/bands/Goatmoon/30403 3. https://www.metal-archives.com/bands/Hate_Forest/2234#band_tab_members 4.In the documentary "Until The Light Takes Us" Vikernes explains his opposition to Christianity, a position he says he holds because Christianity, he says, was created as a way for Jews to subjugate and eliminate pagans. 5. https://red-and-anarchist-black-metal.tumblr.com/post/161736735386/nargaroths-links-to-the-nsbmnazi-scene 6. https://www.youtube.com/watch?v=xHAhbSZ5UG8 7. http://exclaim.ca/music/article/watain_stand_for_black_metal_against_the_genres_nazi_flirtations 8.Why We Fight 1-2, Anti-Fascist News 9. https://www.haaretz.com/world-news/.premium-antifa-in-america-militant-anti-fascism-isn-t-terrorism-it-s-self-defense-1.7425726?fbclid=IwAR1WcwN1PxkC52JLp7o-d_5upjyycx1k8U7iskvnWgkmgr1i43hLt_VfYgI 10. https://libcom.org/blog/why-no-platform-still-relevant-trouble-liberal-anti-fascism-05012013
+
+Wot, no Black Flags Over Brooklyn plug? ;) Also, in the wake of the Dayton shooting, might be worth doing a followup on grind and misogyny at some point - the story of how black metal came to have such a strong nazi presence is a relatively straightforward one, but how grind, a genre literally founded by Crass fans who critiqued toxic masculinity * ended up having some tendencies that are even more misogynist than most of metal is a bit more puzzling.
+
+*admittedly, incomprensibly critiqued, but then that goes for all grind lyrics.
+
+Black Metal being misanthropic and full of edgelords should surprise no one. It's basically the founding principles behind the genre. Fascism has also been there since Varg at least. Saying that I can't remember fans being right wing or political back in the day. Growing up in northern Sweden in the nineties both hardcore punk and Black Metal was popular. There was some subcultural conflict but I can't say I remember the proper Black Metal people being involved to any large extent. They were mainly youth influenced by Raggar culture. Many would be Metal fans however.
+
+I've heard that the current Black Metal scene in Sweden has a growing fash problem. Band members have been on leaked right wing merch logs etc. Members of the scene has "spoken out" about the problems etc. but it's understandably easy to hide behind the 'its just a pose' argument. With all the lore about murders, violence and extreme behaviour it's hard to argue for it's members to be nice.
+
+[quote=R Totale]Wot, no Black Flags Over Brooklyn plug? ;) Also, in the wake of the Dayton shooting, might be worth doing a followup on grind and misogyny at some point - the story of how black metal came to have such a strong nazi presence is a relatively straightforward one, but how grind, a genre literally founded by Crass fans who critiqued toxic masculinity * ended up having some tendencies that are even more misogynist than most of metal is a bit more puzzling.
+
+Aside from the fash issue we need to establish the more important point that melodic black metal isn't ok!
+
+Aside from the fash issue we need to establish the more important point that melodic black metal isn't ok!
+
+I've been reading LibCom on & off for years and it's ironic my first post is about Black Metal! I love BM and NSBM is something that I find pretty repulsive in the scene, especially coming from a Hardcore Punk background but the existence of RABM has always provided a beacon of hope. It's hard to avoid some of the Nationalist bands out there, I do love some of Drudkhs work but I won't pay for it and Chelsea Wolfe did a fine cover of Burzums' 'Black Spell of Destruction' unaware of Vargs far right views. The whole bleak pagan old gods beauty of the land feel of BM unfortunately can be a good fit for nationalist BM bands. Calling out fans of these bands especially the ones who bleat on about Antifa on You Tube makes me feel better but I still dread finding out a band I like has too dodgy views and has to be dumped as has happened a few times. I'm very thankful for Blackened Crust bands like Martrydod who you can rely on to hate Nazis and play brilliant music. The point about Grindcore is a good one, it is misogynistic as hell and seems to me to be a bit of musical wanking competition these days - not a cul-de-sac I want to go down As for Symphonic and Melodic BM - naaah - the Phil Collins of BM!
+
+I'm very thankful for Blackened Crust bands like Martrydod who you can rely on to hate Nazis and play brilliant music.
+
+I do quite like Martyrdod but sometimes they veer dangerously close to being to melodic. I think i like in Extremis best.
+
+The lead singer of a successful swedish band, by some classified as black metal, worked my kids nursery between tours and studio sessions. My kid rated him as "her favourite" and "the kindest of the staff" ;) He didn't wear corpse paint at work however...
