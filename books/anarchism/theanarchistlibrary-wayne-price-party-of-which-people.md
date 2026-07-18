@@ -1,0 +1,46 @@
+---
+title: "Party of Which People?"
+author: "Wayne Price"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/wayne-price-party-of-which-people"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Review of Thomas Frank, Listen, Liberal: Or Whatever Happened to the Party of the People?"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "wayne-price-party-of-which-people.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/wayne-price-party-of-which-people.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/wayne-price-party-of-which-people)
+
+During this wretched election season of 2016, I have been looking for a nonacademic and readable book which gives a reasonable explanation of the current political situation. Thomas Frank is a left-liberal—he describes himself as “ a person of vivid pink sentiments. ” (29) In this book, however, he does not provide another report of the horrors of the right-wing movement which has culminated in the crazed, ignorant, candidacy of Donald J. Trump (which he had previously written). Instead, in this work he focuses on the weaknesses of the Democratic Party. “ Our current situation represents a failure of the Democratic Party as well. ” (8) He was the author of the popular book What’s the Matter with Kansas? which went over some of these issues. Of course, as a liberal, he does not consider replacing capitalism with cooperative, workers’ managed, industries, or replacing the bureaucratic-military state with a radically democratic, federation of workplace councils and neighborhood assemblies. But he is a good, and interesting, liberal.
+
+Frank’s main thesis is that the Democratic Party now represents “ the Ten Percent, the people at the apex of the country’s hierarchy of professional status. ” (16) “ The views of the modern-day Democratic Party reflect, in virtually every detail, the ideological idiosyncrasies of the professional-managerial class. ” (29) The lower ends of the professional-managerial class is, I would say, “middle class,” most of which is actually “white-collar” working class. These people work for a salary and take orders from bosses. But the upper end reaches into the One Percent. “ Certain lucky professionals in Silicon Valley happen to be our leading capitalists. And the gulf between professional hedge fund managers and the rich folks whose money they invest is small indeed….The top ranks of the professions are made up of highly affluent people. ” (24)
+
+In many ways, the top of the professional-managerial class is culturally liberal. Its members are against discrimination on the basis of race, religion, national origin, sexual orientation, and gender. However, “ on anything having to do with organized labor…they are downright conservative. ” (30) Their ethic is one of individual striving, winning in competition, being personally educated, and having talent. This view, Frank says, rejects the ethic of solidarity, mutual aid, and common struggle, which is at the heart of a working class and pro-union perspective. (One reason the professional liberals are so enthusiastic and uncritical about international free trade.)
+
+The ideology of the upper professional-managerial class focuses on more education and training as the main solution to social problems. “ This education talk is less a strategy for mitigating inequality than it is a way of rationalizing it….[It] remove[s] matters from the realm of, well, economics and…relocate[s] them to the provinces of personal striving and individual intelligence. ” (70) Supposedly it is not that some people have power over others but that some people just don’t have the talent, education, and willingness to work hard to “improve” themselves. Its mantra is the need to encourage “innovation” due to the initiative of entrepreneurs, inventors, and investors. “ Innovation liberalism is ‘a liberalism of the rich’….a more perfect meritocracy. ” (196) And yet there has been no wage improvement over decades even as productivity has been rising. “ The real problem was one of inadequate worker power, not inadequate worker smarts. ”(73)
+
+Frank reviews the history of the Democrats in power and out, from the late ‘60s on. Jimmy Carter, “ once in office, he broke with the New Deal tradition…cancelling public works projects and conspicuously snubbing organized labor. With the help of a Democratic Congress, he enacted the first of the era’s really big tax cuts for the rich and also the first of the really big deregulations….In 1980 he and Paul Volker, his hand-picked Fed chairman, put the country on an austerity diet that was particularly punishing to the ordinary working people…. ” (54) Similar policies were advocated by “ the budget-balancing Walter Mondale ” and “ the technocratic centrist Michael Dukakis. ” (55) When they lost elections, the Democratic leadership claimed that they had been “too liberal”!
+
+Now Hillary Clinton is running for office, claiming that she will carry on the successes of the Obama years and do even better. Frank summarizes her strongly pro-business history. He notes that “ she has made a great effort in the course of the last year to impress voters with her feelings for working people. But it’s hard, given her record, not to feel that this was only under pressure from primary opponents to her left. Absent such political force, Hillary tends to gravitate back to a version of feminism that is a straight synonym of ‘meritocracy,’ that is concerned almost exclusively with the struggle of professional women to rise as high as their talents will take them. No ceilings! ” (243) Her program—not her election rhetoric, but her actual program—has little to offer those women who are stuck on the floors of the giant corporations.
+
+At the July Democratic National Convention, delegates from across the country gathered. They included many young people and working class people who supported Bernie Sanders, who had identified as a “democratic socialist” advocating a “political revolution.” Meanwhile, wealthy donors congregated in suites to raise big bucks for their candidate, Hillary Clinton. “ Democratic donors congregated in a few reserved hotels and shuttled between private receptions with A-list elected officials….Center City Philadelphia evoked the world as it still often is: a stratified society with privilege and access determined by wealth. ” (NY Times, Confessore & Chozick, 7/29/2016; A1) This was the real convention.
+
+In this fine book, Thomas Frank offers little hope. “ Even if Democrats do succeed in winning the presidency in 2016 and the same old team gets to continue on into the future, it won’t save us….Their leadership faction has no intention of doing what the situation requires .” (255) Their elitist rejection of the working class will continue to make it difficult for them to effectively oppose the right wing. In the current election, Hillary Clinton has to work hard to stay barely ahead of Donald Trump, despite his crackpot policies and bizarre behavior.
+
+Frank’s liberalism leads him to misunderstand much that is going on. The Democratic Party was never a “Party of the People,” nor a “left” party, as he claims. It has always been a party of the ruling rich. In the New Deal, its aim was to save capitalism from itself, as the system collapsed and the working class rebelled. The New Deal did not end the Great Depression—it took World War Two, an inter-imperialist war, to end it. The working class became more quiescent during the post-war prosperity (built partially through a vast spending on armaments). The unions became conservatized and bureaucratic, tied into the Democrats. In the gigantic corporations and the state, there grew a large layer of middle-class professional-managerial personnel.
+
+Frank does not see a way out. “ There is little the rest of us can do, given the current legal arrangements of this country, to build a vital third-party movement or to revive organized labor, the one social movement that is committed by its nature to pushing back against the inequality trend .” (256) His only goal is to expose the limitations of the leadership of the Democratic Party.
+
+I agree that the leadership of the Democrats—or even an alternate leadership, such as Sanders offered—will not be enough to stop the continuing decline and decay of U.S. capitalism. Nor will the defeat of Trump end the right-wing threat. (Note similar phenomena happening in European politics, with different parties and personalities.)
+
+But I have not lost hope. I do not expect anything from “third-parties” but I see the beginnings of a revival of organized labor. And there are indications, even in the conservative United States, of an increasing radicalization and militancy among People of Color, youth, LGBT people, women, immigrants, and others who are dissatisfied with the raw deal they have been getting from all sections of the U.S. capitalist class, whether plutocrats or the upper professional-managers. A popular revolution to take away the wealth of the capitalists is not around the corner, nor inevitable at any time, but the possibilities are improving.
