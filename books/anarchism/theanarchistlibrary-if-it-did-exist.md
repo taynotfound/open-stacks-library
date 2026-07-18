@@ -1,0 +1,114 @@
+---
+title: "If it Did Exist"
+author: ""
+date: "2023"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/if-it-did-exist"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "in response to “Anarchist Film Doesn’t Exist'"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "if-it-did-exist.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/if-it-did-exist.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/if-it-did-exist)
+
+It has been brought to my attention that a scene from my movie What Color is Blue appeared in the “video zine” (whatever that means) for a zine called “Anarchist film Doesn’t Exist.” I have since both read and “watched” said zine and wanted to respond to the anonymous author’s positions on the existence or non-existence of “anarchist film”. Although I am absolutely not an academic researcher on the topic, I am not aware of too many pieces written on “anarchist film”, the main two that I am familiar with and have read are Jean Vigo and the Anarchist Eye and Arena One: On Anarchist Cinema. I have also had the misfortune of reading Nathan Jun’s Toward an Anarchist Film Theory:Reflections on the Politics of Cinema , available on theanarchistlibrary.org. A cursory internet search reveals there are at least two other books on the subject, “Anarchist Cinema” and “ The Anarchist Cinema” but I have yet to read either of these. That being said, I have never found too many useful examples of writings about where I see anarchy and cinema overlapping, and I have only seen a few examples of films that I would consider “anarchistic” (inb4 people bring up Daisies for the umpteenth time.)
+
+What I have found no shortage of, are film manifestos. Which brings us back to the text at hand. Anarchist Film Doesn’t Exist ( or AFDE for now on) is available as either a 13 minute video on anarchy.tube or a 2 page “zine” (essentially a transcript of the video, but which came first?) on theanarchistlibrary.org. AFDE reads more as another film manifesto, joining a long drawn out history of more than 130+ film manifestos (Note: as of 2023, modern cinema is only about 130 years old). That being said AFDE does make some interesting points in its drawn out, suburban-edgy way of writing that reeks of film school acceptance letters. Before responding to it’s content, I wanted to take the chance to distill some of its text down to something more similar to a Dogme 95-esque “Vow of Chastity.”
+
+I believe the essence of AFDE can be boiled down to this passage from the text:
+
+“I’m not interested in the anarchist who makes Cinema or Film. I’m much more interested in the anarchist event. Stealing, scamming and sharing equipment, subverting the traditional on-set structure, refusing the aesthetic and practice of money, and even eventually, telling stories that only our unique approach to moral or social code would tell.”
+
+From here and the rest of the text, I extrapolated the following list:
+
+Steal/Scam as much as you can. Equipment, stock footage, texts, locations, other films, etc.
+
+The intention isn’t “truth,” but in building of an anarchist mythology.
+
+Anonymity- less faces, less voices, consider replacing dialog with voiceless text.
+
+Less “acting”, actions happen off-camera, or we only see the aftermath of scenes/crimes.
+
+No intellectual property or ownership over a finished product
+
+Little to no Credits (For anonymity and because there is no crew to credit)
+
+No heavy moralities, good/bad, etc. “Anarchist video would often feature stories that feel morally reprehensible to people who are not anarchists.”
+
+No Conclusion, no satisfying ending “…anarchist videos never really wrap up, but instead tend to instigate a response.”
+
+Frankly I’m baffled by the decision to use footage from What Color is Blue over the description of “Here’s what I think anarchist film would look like if it DID exist…”
+
+In said film, I broke nearly every single one of these vows. Whilst I am still proud of What Color is Blue , the things I enjoy the most about it are the things that do align with the AFDE list. The security footage I stole from the internet, the subtler scenes that cut away from actors, (allowing their “non-professional performances” to shine), the desire to instigate a response etc. All this while the things I am not proud of in the movie (mainly in its execution) stemmed from the things I didn’t do from this list, mainly the amount of issues caused by trying to treat a group of unexperienced local anarchists/anti-authoritarians as employees, and thinking that paying them would and should give me power over them. I tried to find a common ground between the local Radical Queer Milieu™ and Professional Film Crew, but of course that didn’t work, because there is no common ground there.
+
+Strangely enough the negative experience making What Color is Blue is what led me to abandon crewed and budgeted projects, causing me to in-fact align with the AFDE list even more. In fact my subsequent piece it’s still today here was designed to be made by myself (more or less) for nearly zero budget. There exists a more complicated feature-length script that would have required more money/support, but in the end the 33 minute piece that came out of it is the best thing it could have been. It seems like the inspiration for the AFDE list may have came more from that piece rather than What Color is Blue, but I digress.
+
+This confusion over my inclusion and subsequent alignment with this “manifesto” is not all that I want to challenge. There is an equivocal temporality about “manifestos” that just doesn’t sit right with me.
+
+That is that manifestos are often released “before” the event. Manifestos are about proclamations of intent or motives, not descriptions of actions taken. Although I feel like I may have inadvertently inspired this manifesto, the thesis of AFDE is that Anarchist film in fact DOESN’T exist, though my style of “anarchist” cinema may be a possible expression similar to those in the future. But once again. This is Preemptive. It’s a hypothetical “May-be”. A description of an INTENT, not the description of an EVENT. I’m not saying I don’t love manifestos, either political or cinema (or political-cinema) related manifestos are some of my favorite things to read and collect. My work has been greatly inspired by many different movements and manifestos, many of which are collected together in Scott MacKenzie’s FILM MANIFESTOS AND GLOBAL CINEMA CULTURES :A Critical Anthology.
+
+But I want what comes after, what AFDE refers to as, “the anarchist event.”
+
+I want the work to be done. The event concluded. The cameras packed up. The evidence destroyed. All I want left afterwards is my favorite form of writing:
+
+A communique for an attack or action can come in different forms, short, lengthy, poetic, direct, etc. It can list things such as time, location, who was or wasn’t involved, what the target was and why it was selected, the tools and methodologies, and the politics or ideologies behind the attack.
+
+I am going to list a few of my methodologies to how I approach my pieces, my anarchist events. I will list how, when, and why I made some of these decisions, the inspiration for these decisions, and how or why they could be considered “anarchist.”
+
+What I am not going to do is to “complain” about the current “state of cinema.” Although I am a nihilist, I am an optimist, possibly even naively so. I only want to talk about the things that I’ve done that have excited me, and that I will continue to do in the future. To quote Lebbeus Woods,
+
+“To say that you are resisting something means that you have to spend a lot of time and energy saying what that something is, in order for your resistance to make sense. Too much energy flows in the wrong direction, and you usually end up strengthening the thing you want to resist.
+
+The following list has guided me in my actions as a Cinematographer/Video Maker. It is not a list to be kept sacred. If you follow it, this list will not make you a good filmmaker, because I can attest, that I am most definitely not a “good filmmaker”, in fact I’m barely a “filmmaker”, and I most definitely am not what most might consider “good.”
+
+An audience of +1 - Make movies for yourself, your closest friends, your partners, and MAYBE your milieu/scene (just be ready for disappointment). The only ways my movies get seen is that I show them to my friends and sometimes screen them at community spaces and infoshops. Those folks sometimes show them to folks they think they would like it, and so on. I no longer make my audience film festivals, distributers, critics, academics, etc. If those folks get to see it, good for them. But their eyes are no longer my primary target. Chantal Akerman talked about how uncomfortable she felt when she was forced into the “ghettos” of queer or feminist film festivals or screening series. “When people ask me if I am a feminist film-maker, I reply I am a woman and I also make films.” Throughout her career, she resisted categorization – structuralist, minimalist, feminist – yet finally admitted: “Maybe [the labels] are right, but they are never right enough .” Don’t make movies for them. I don’t make movies about what “it's like to be” a faggot or an anarchist, I just happen to be both and sometimes other faggots and anarchists like my little movies.
+
+Commitment to Closed Captions and Accessibility -Closed Captions are descriptions of both the sounds heard and dialog spoken in a movie. They are great for accessibility for both deaf/hard of hearing folks (like myself). For even better accessibility, combine captions with a Dyslexic-friendly font like OpenDyslexia or Arial. Captions also help non-native speakers of the language your movie is in since reading comprehension is often better than listening comprehension, aka it’s easier to read subtitles in a language you are somewhat familiar with than trying to listen to dialog in that language. Bonus points for making up for bad audio (often the Achilles heel of DIY cinema.) It’s also a great way to convey dialogue/information without the burdens of audio recordings and performances. Last but not least, it helps maintain the safety/anonymity of performers or co-conspirators by removing voice recordings (i.e. evidence) from the anarchist event.
+
+Cinematographic Purpose -Why does the thing I want to make work best as a video rather than a poem or a song or a zine or a painting. What about the specific ontological properties of image recording, manipulation, and editing make this undertaking worth it? I remember when I still worked as a Cinematographer, I once asked a director “Why he was making this movie? What does it do? Why does it need to be a movie?” He got so upset that he fired me.
+
+Lies, Grammatical Mistakes, and Jokes without Punchlines- as stated above, I am incredibly interested in the audio/visual medium and playing with it formalistically. Some favorite points of Harmony Korine’s Mistakist Manifesto: “Mistakes are good…There is no such thing as a true mistake, only a more modern rethinking…Grammar means more when words are misspelled and used incorrectly in the traditional sense of the word… Jokes without punchlines.” I’m an anarchist which means the following: I am hilarious, I love to break laws, and lying comes easy to me. Movies, even serious movies, can and should be funny. Break expectations, set up jokes that don’t pay off, and build a mythology in your “lies”. In 1933, Jean Vigo, possibly the earliest “anarchist filmmaker”, made a film Zero For Conduct (Zéro de Conduite). During the scene where the kids are revolting and taking over their school, a kid pulls the chair out from under a teacher about to sit down. However, the scene cuts away without ever showing the payoff, or referencing it ever again. Anarchy in practice. Jokes without Punchlines, crimes without evidence.
+
+Blurred Non/Fiction- Continuing on lying, obviously I have distanced myself from scripts and narratives over the last 5 years, mainly because of the immense emotional reactions I have had to non-fiction films/experimental “documentaries”. There is definitely something to playing with A/V form and structure and searching for the “truth”. But the truth isn’t a priority of mine. It is both safer, and more fun, to lie to a cop than to tell them the truth. “Movie Magic” used to mean something before everything was accepted as an “effect” or a trick, when it was a challenge to tell the difference between what was real and what wasn’t. Lie in your movies. Lie to your audience. Build a myth around the film. Is this a real communique or is it fake? Is this real security footage or a fabrication? Did you really get permission from your uncle to shoot in that store or did you sneak in and steal that too? Make a mythology. Then change it. And change it again. Tell people you’ve never seen a Tarkovsky film. Tell people you are Cis. It really doesn’t matter.
+
+Anti-Theater/Actor- After deprioritizing narrative/stories, I started deprioritizing characters and actors. Sometimes I show people on screen, but I often don’t show faces anymore or record voices. We are not on a stage. We are not selling a face. Anything that can be said powerfully by an actor can be shown as captions on a screen to the same or similar effect. Robert Bresson’s Notes on Cinematography : “No actors. (No directing of actors). No parts. (No learning of parts). No staging…Two types of film: those that employ the resources of the theater (actors, direction, etc.) and use the camera in order to reproduce; those that employ the resources of cinematography and use the camera to create…No marriage of theater and cinematography without both being exterminated. ”
+
+Single Credit Sheet - The first time I saw a feature with a single credit sheet was Blake William’s Prototype . I sat in a theater for more than an hour and then it just said “A film by Blake William”, and ended. I was floored and inspired. Additionally, for the last 10 years, I have forsaken the term Director, for the more apt title of “Cinematographer” (A concept extrapolated from Robert Bresson’s Notes on Cinematography.) But over the years, as I transitioned from political movie to -> anarchist event, I decided to no longer put my name in the credits of my flicks. Besides, now I make movies without cast or crew, so titles are even less important. So, no more credits. There is also an element of Opsec/Anonymity as well, but I am not naive enough to believe my videos can’t be traced back to me. Starting with it’s still today here , I have whittled the credits down to a single screen that just gives an email address to reach me at if people want to reach out. The notoriety and statement of ownership are no longer the goals of the credits, it is now an offer of dialog. Here is an e-mail where you can reach at least someone connected with this video you saw. Maybe you can send a compliment, hate mail, or an invitation for coffee. But if you want to know my name, you gotta e-mail me.
+
+Non-Anthropocentric Frames - I try to make frames (shots) that aren’t designed for human bodies, although sometimes people wander into and out of them. They may enter and exit at will, the freedom of osmosis from within and out of the frame/video. Scorsese says, “Cinema is a matter of what's in the frame and what's out” . Well “Anarchist Cinema” is a matter of the subject’s [human or non-human] autonomy to move through the frame as it'd like, or even not at all. The tighter the frame (higher focal length), the better this works. Tighter frames also help with emphasis on a subject/object, create a higher level of abstraction, and lean towards a more “poetic” cinema. “Close-ups are the pictures expressing the poetic sensibility of the director.” (Bela Balzas, Theory of Film ) Or as someone once wrote in response to it’s still today here , “Legibility is for managers and gurus.”
+
+Pedagogy not Didacticism - I make movies that mostly can only be enjoyed by people who believe the same things as me, that is, anarchist faggots. The things I say and show in my work are not to convince anyone to join our team (there is no team to join). I am not trying to change hearts and minds, I’m making the movies that I want to see about form, and time, and friendship, and confusion, and pain, and joy. I just happen to be an anarchist who does that, so it is told though anarchist means. However, I do like to throw in bits of pedagogy in my films by showing processes that myself and my friends may or may not do in our daily lives. (Doing graffiti, ways to destroy evidence, field stripping a gun, wheat pasting, making a mask out of a t-shirt, etc.) Its great subject matter, and if your lucky, the memory of how to do that will live in the brains of the visually-minded folks who watch your movie. You’d be amazed how many “facts” live in peoples brains because it is something they “saw in a movie.”
+
+Your Camera is a Weapon- This is a quote from a zine called In Defense of Smashing Cameras which was recently updated to In Defense of Smashing Live Streamer’s Cameras, but the full quote is “Your Camera is a Weapon, Friendly fire isn’t Acceptable” This is realized in two ways. 1. Are you making content that is continuing racism, transphobia, ablism, etc. Or does your piece actively combat that consciously or subconsciously. Does the piece have decolonization in mind? Even a goofy or campy video can maintain and weaponize “anarchist values.” Evan a goofy or campy video can re-affirm negative racists stereotypes, so be careful. 2. As stated, I don’t show a lot of faces in my flicks anymore. Although “representation” can feel affirming, its especially important (since we’re not using actors anymore) to hide the faces and voices of your friends, (who let’s assume are in the same scene[milieu] as you). Even a simple video can be used as evidence to show multiple people with similar political views know each other. The importance of this is two-fold if you are posting this video online or screening it publicly.
+
+Minimalism -Speaking of Anarchist Values™, my values in life reflect the values in my videos. My two main guiding value-sets are that I am an anarchist, and I am a minimalist. And so my videos are that of an anarchist minimalist (or anarchominimalist if you’ve read my writing on minimalism). I like to keep my pieces minimal, simple, clean, empty, and quiet because that is how I like to keep my life.
+
+Subjectivity and Spirituality- I have made a lot of different types of videos, Feature length Narratives, microfeatures, experimental shorts, music videos, propaganda, birthday cards, Jokes, etc. But I do still have this overwhelming desire to make things with weight. Maybe I haven’t fully killed the artist in my head yet, but, like all things I do, I want my effort to be useful or important. My life has been dramatically changed by videos and films. They have shaped my outlook on politics, love, selfhood, philosophy, form, etc. I relish the moments I get to be truly devastated by an “important” piece. Some of the best moments of my life are me crying alone in a movie theater. I strive to be able to offer that sensation to other people. When I am willing to give introductions at screenings, instead of saying “I hope you like it” I usually opt to say either “I hope this is useful to you” or “I hope it elucidates something in you” As stated previously, I’m not interested in trying to convince anyone of anything, I just want there to be a weight, or an affect to it. Or else, why bother? Remodernist Film Manifesto: “ Spiritual film is not about religion. It is cinema concerned with humanity and an understanding of the simple truths and moments of humanity.” or Nathan Dorsky’s Devotional Cinema: “The word "devotion," as I am using it, need not refer to the embodiment of a specific religious form. Rather, it is the opening or the interruption that allows us to experience, what is hidden, and to accept with our hearts our given situation. When film does this, when it subverts our absorption in the temporal and reveals the depths of our own reality, it opens us to a fuller sense of ourselves and our world. It is alive as a devotional form.”
+
+Above are some of the practices, ideologies, and inspirations I use while making what some might call “anarchist film”. I am not saying anarchist film DOES exist, I am just saying, like Chantal Akerman, that “I am an anarchist, and I make videos, and these are some of the ways that I do that.” My practices are informed by many beliefs and ideologies, anarchism not being the least of them.
+
+This zine, like my videos, is not meant to convince anyone of anything, but it is meant to lay out a practice developed over more than 15 years of writing, shooting, editing, and distributing my work.
+
+I have been practicing, living as, and studying anarchism a long time, and I have been making, watching, and studying film and film theory even longer than that.
+
+My cinematographic practices change and will continue to change, just as my anarchic practices have and will continue to change.
+
+“All modes of work exist to produce a single body of work. Each facet builds upon the other…You can never differentiate between the separate modes of creation…A completely unified aesthetic.”
+
+I wrote this zine just like I make my videos, with not only same practices, but also the same perfectionism, anxieties around imposter syndrome, lies, and attempts at myth making.
+
+I probably spent too long on it, and I should probably come to terms with the fact, that just like my video works, this too will only be consumed by a small, but passionate audience. And just like my videos, it will always be free to access online or in person.
+
+And so I will end this piece just like I end my videos. Thank you for reading it.
+
+"We propose that all film schools be blown up and all boring films never be made again.We propose that a sense of humor is an essential element,and that any film which doesn’t shock isn’t worth looking at. All values must be challenged. Nothing is sacred. Everything must be questioned and reassessed in order to free our minds from the faith of tradition. Intellectual growth demands that risks be taken and changes occur in political, sexual and aesthetic alignments no matter who disapproves…There will be blood, shame, pain and ecstasy, the likes of which no one has yet imagined. None shall emerge unscathed. Since there is no afterlife, the only hell is the hell of praying, obeying laws, and debasing yourself before authority figures, the only heaven is the heaven of sin, being rebellious, having fun, fucking, learning new things and breaking as many rules as you can."
