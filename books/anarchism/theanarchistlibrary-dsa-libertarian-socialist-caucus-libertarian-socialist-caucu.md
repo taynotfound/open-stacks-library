@@ -1,0 +1,60 @@
+---
+title: "Libertarian Socialist Caucus"
+author: "DSA Libertarian Socialist Caucus"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/dsa-libertarian-socialist-caucus-libertarian-socialist-caucus"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Founding Document"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "dsa-libertarian-socialist-caucus-libertarian-socialist-caucus.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/dsa-libertarian-socialist-caucus-libertarian-socialist-caucus.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/dsa-libertarian-socialist-caucus-libertarian-socialist-caucus)
+
+We are socialists because we reject an economic order based on private profit, alienated labor, gross inequalities of wealth and power, discrimination based on race and sex, and brutality and violence in defense of the status quo. We are socialists because we share a vision of a humane social order based on popular control of resources and production, economic planning, equitable distribution, feminism, racial equality and non-oppressive relationships. We are socialists because we are developing a concrete strategy for achieving that vision, for building a majority movement that will make democratic socialism a reality in America.
+
+The Libertarian Socialist Caucus is an organization of members of the Democratic Socialists of America who believe that libertarian socialist values are the fullest embodiment of this democratic socialist vision. We cherish DSA’s status as a multi-tendency mass socialist organization and wish to create a space within DSA to discuss and organize for the development of socialism beyond the state.
+
+We take libertarian socialism to encompass those parts of the socialist movement (including syndicalists, council communists, anarchists, cooperativists, and municipalists, among many others) which have historically seen the surest path to socialism as residing not in the seizure of state power by a political party, but rather in the creation of independent institutions in civil society that give the working class and ordinary people direct power over their lives. Thus they tend to advocate the creation of worker-owned firms, radical trade unions, workers’ and neighborhood councils, popular assemblies, credit unions and alternative banking systems, community land trusts, and other more directly democratic non-state institutions, and they tend to want to subordinate the power of socialist parties and socialist governments to these more decentralized grassroots formations.
+
+These tendencies have been present in popular struggles for social justice and human freedom throughout all of history—for example in the Paris Commune, the Ukrainian Free Territories, the Korean struggle in Shinmin against Japanese imperialism, Catalonia in the Spanish Civil War, Zapatismo in Chiapas, the Syrian and Rojavan Revolutions, and more—and it is these tendencies that we hope to bring to the center of the movement for an American democratic socialism.
+
+In keeping with DSA’s multi-tendency organization and commitment to internal democracy, LSC is not ideologically exclusive. Any DSA member who finds themselves within our broad ideological umbrella is welcome to join, and we look forward to internally debating and exploring the many perspectives on particular issues we all have developed through our unique experiences and reading. That said, we believe all members of the Caucus, regardless of their differing views, should adhere to three shared principles we see as inseparable from libertarian socialism:
+
+FREEDOM refers to the positive capacity of individuals for self- determination. We believe that the freedom enjoyed by individuals is an inalienable social good and can only be strengthened through solidarity and democracy.
+
+SOLIDARITY refers to the understanding that all oppressed people—both the economically exploited and the politically marginalized—share a common struggle towards a free and equal society. We aim to organize our movements accordingly, providing mutual aid and support to one another and deferring to the initiative of those most affected by decisions, on the principle that an injury to one is an injury to all.
+
+DEMOCRACY refers to collective decision-making free from hierarchy, domination, and coercion. Democracy is a social relation between free individuals that should not be reduced solely to institutions or elections. We believe that democracy is always a “work in progress” to be altered or improved by communities according to their needs.
+
+In accordance with these three fundamental values, the Libertarian Socialist Caucus is suspicious of centralized forms of governance and decision making that undermine freedom, solidarity, and democracy. Instead, we wish to promote the ability of individuals and communities to set their own priorities , both inside and outside the DSA.
+
+As a Caucus, we intend to engage in the following activities:
+
+Institution-Building : We work to construct directly democratic and cooperative institutions, such as worker cooperatives and neighborhood assemblies, in all areas of social, economic, and political life.
+
+Direct Action : We advocate taking direct confrontational steps toward freedom and equality for the oppressed rather than limiting ourselves to appeal to established authorities for political redress. We aim to engage our communities however we can in building strong collective civic resistance against systemic violence and exploitation.
+
+Mutual Aid : We provide material support to one another in times of need, within our communities and beyond—as much as possible, on the principle of “from each according to their abilities, to each according to their needs.” We believe the naturally cooperative and non-hierarchical behaviors which arise in times of crisis and ordinary life alike can form the basis for our society’s institutions.
+
+Internal Advocacy : We hope to use LSC branches as organizing hubs that try to move our DSA locals in the broader organization to establish working groups dedicated to (1.), (2.), and (3.)
+
+Education : We hope to create spaces where members can discuss, debate, and develop libertarian socialist ideas and practice.
+
+Each item listed above will approximately correspond to the organizational activities and structure of the LSC and its various local branches. These may include, but are not restricted to: committees or subcommittees devoted to such items that are focused on research, policy-formulation, communication strategies and operations, and outreach to related social movements, as well as lending libraries, reading groups, local mutual aid programs, and general assemblies.
+
+In the past, libertarian socialists have sought to bring about a democratic socialist society in which money, land, and capital are social goods that are owned and managed democratically by the people; workplaces are owned and managed cooperatively by their workers; neighborhoods and communities are governed democratically by councils, with political powers as decentralized and dispersed as possible; public and private institutions of repression, i.e. police and guard labor, are dismantled and their functions are assumed by democratic neighborhood and community councils; and the coercive institutions of the modern nation-state are made weak and irrelevant to the lives of ordinary people, so as to eventually be abolished altogether. They have also been at the forefront of the struggle to abolish all forms of hierarchy and domination, including imperialism, colonialism, racism, sexism, heteropatriarchy, ableism, speciesism, and more, as well as the struggles against nuclear war and the destruction of the ecology.
+
+Our particular vision of a libertarian socialist society—and the specific path we intend to take to get there—will emerge out of the discussions and activities of the Caucus itself. After all, the whole point of radical democracy is that it is an ongoing participatory process of deliberation, renegotiation, and collective self- determination. It is for the people themselves to decide what the world they wish to live in is to be, not some revolutionary elite. Our inability to describe the precise contours of the liberated society is rooted in the simple fact that democracy is inherently a work in progress, continually created and recreated by its participants.
+
+In short, wherever domination exists—of bosses over workers, of men over women and gender nonconformists, of states over subjects, of whites over people of color, of human society over the rest of the web of life—we seek to replace it with equality, cooperation, love, and mutual respect. Ours is a vision of total liberation, not just in some far-flung revolutionary future but here and now.
