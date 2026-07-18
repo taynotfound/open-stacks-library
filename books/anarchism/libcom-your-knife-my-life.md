@@ -1,0 +1,40 @@
+---
+title: "Your Knife My Life"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/library/your-knife-my-life"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "tale of toil by linda thomas"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/library/your-knife-my-life)
+
+Having been sick a lot as a child, I developed a great rapport with my doctor. We talked about everything, including sex, and because I was sexually active, I point blank asked my doctor for birth control when I was 14 years old. He gave it to me because he had expressed concern for my future. He was afraid that I might become trapped into teen motherhood.
+
+I became sexually active with my boyfriend just before I turned 14. He was angry because I didn't bleed a lot the "first time." He accused me of not being a virgin, which was true. I was raped, very brutally, when I was five years old, and subsequently sexually abused until my teens. I could not tell my boyfriend this. He was insanely jealous and violent, and I already felt that the abuse was somehow my fault. Of course he also came from a violent, abusive home. Our sex life became our whole life. We couldn't stay out of bed together—we did everything we could imagine, as often as possible. We both got burned out at a certain point—it was becoming obvious that "sex is not everything." We fought a lot. He beat me. I was living with him in his grandmother's house.
+
+I tried returning to my mother's house, but the violence there was much more literally life-threatening. I knew he would beat me, but I believed she would kill me. The last time I ever stayed in her house, she broke my bedroom door down with the poker (we had a coal stove), but when she rushed at me, my dog attacked her. He saved my life. When, in her lucid moments, I tried to ask her why she was the way she was, she told me I had it easy, that her father had beat her regularly with a horsewhip. She had scars on her back. She escaped into marriage. I escaped into sex.
+
+Until my boyfriend, whom I trusted blindly and totally, my sexual feelings were confused with pain and abuse. With him, I felt love and warmth—albeit tinged with antagonism, some contempt, and lots of fear. It had just the right tone of familiarity to be bearable and even comfortable. When he began to develop a fixation with knives (my mother's favorite weapon), and there was a bizarre accident where I was stabbed, I knew I had to leave. I was lucky. When I ran away, I ran to good people who protected me. Even though I graduated from that life of sexual abuse into prostitution, I was at least not on the streets. Most people who hear my story naturally assume I must hate and fear all men. Yet men themselves have helped to prevent this. I have known and experienced the worst they can offer, but also the best. For example, there was Ronnie Wiggins (how I wish he could read; I would love for him to read this). When I was in my early twenties I got a job as a receptionist in a massage parlor. I was trying to get out of the Life and even though Ronnie had pimped a little, he never even suggested that I go back into it. His pimp friends always teased him about that, and about how, when he was pimping, he hadn't bossed his women, or taken all their money. He was a "wimp pimp." He was just a kind man who really felt it when he hurt other people.
+
+One night at work, I was raped. This man had come in several times to talk and I never suspected a thing. He had a long knife with him. My heart felt like he had twisted it into me. He told me he was a "Black Muslim" and that he had twelve Muslim friends outside who were going to come in and "cut me into little pieces." When I went home to Ronnie, who is also a black man, he had a couple of friends over. I felt suddenly as though perhaps it was all a "Black Muslim" conspiracy—I was confused and frightened, even of Ronnie. He tried to talk to me, and then he began to make love to me. I was shocked. I thought he was getting off on what had happened to me, and it may be true that some element of that was present. But as he made love to me, he took hold of my arms, and looked into my face and repeated over and over—"It's ME, It's ME." My response to that gesture was to realize there is a distinction between man and rapist, and between black man and black man as rapist. Sure, I was raped by a brother. But I was also raped by my own brother—of the golden hair and green eyes. There were two striking similarities between them. They both had huge dicks, and they both wanted me to tell them it was "the best I'd ever had." Non-huge penises of the world, relax!
+
+As I reached my mid-twenties, the last stage of moving out of the Life found me briefly on stage at the Sutter Street Theatre—a "classy" joint. The stints there were for two weeks; pay was $500. I did not know that for the second week of appearance, I was supposed to work up a whole new show, and I couldn't afford a new costume, etc. The employers in these places are typically very "sympathetic" in a manipulative way. Had I explained to them that I didn't have the money to put together another show, I believe they would've offered to advance my pay. Then I would've had to use all or most of it to create a new show—therefore my goal of getting in and out with the whole $500 would have been defeated. Instead I told them I was burned out and would do my second week later on. I got a job at the Palace to try to get up the cash to finance my new show and have time to create one. The Palace Theatre, 55 Turk St., Tenderloin, San Francisco, was not nice. Men in the audience jerked off with wild abandon. The place was filthy and reeked of urine and semen.
+
+The Sutter Street owners found out I was at the Palace, and when I called them, they lambasted me for my disloyalty and told me I was blacklisted from then on. The only work I would be able to get was in joints like the Palace. I was devastated. There was nothing to do but go on. By this time, I felt I really had no sexuality except as the false seductress, and that role can only go so far in real life. The projectionist (a handsome, sensitive, loving man with little of the "animal challenge" in his character) and I developed a friendship which eventually evolved into a love affair. His way was very gentle, though reserved. In this atmosphere, I felt free to stretch myself once again into the arena of my own sexual being. I have in fact known many good men who have helped me a great deal. But mostly, I am aware that my own efforts and determination have propelled me towards a full life.
+
+It has been a very difficult struggle from cold to warm to human. Sometimes I still feel that I am going to die from the inside out. But I do finally believe there is a way out of the vicious cycle of violence, and the vicious cycle of sexual falseness. The feeling that it is "my fault" (typical self- blaming pattern in incest and sexual abuse) also is fading away. I do not belittle the pain that I and others (so many others—the secret silently kills—but to face it seems like instant death) have endured, but I do believe that the issue of blame must be properly placed. The archetypal concept of evil does not fit. I cannot say my mother was to blame. I cannot say her father was to blame. Nor can I lay the fault at the hands of social workers who promised me "this time..."
+
+Value is placed on things, and value judgments are passed on people. If he's dirty don't touch him. If she's sick don't go near. If it's pretty buy it. I have learned there is a personal escape from poverty and violence. But I don't know if there is an escape from the vicious cycle of the world system. The knife seems to have been planted too deep—the infection seems to have spread too far. Somebody call the doctor...and if that doctor isn't in, we can always get Dr. Feelgood on the line.
+
+Also check out “It's A Business Doing Pleasure With You” from Issue #7.
