@@ -1,0 +1,70 @@
+---
+title: "Free Society Karl Kautsky"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/free-society-karl-kautsky"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Kautsky imagines how society would look after the dissolution of the state by a comparison with life in the Indian village commune."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/free-society-karl-kautsky)
+
+Kautsky imagines how society would look after the dissolution of the state by a comparison with life in the Indian village commune.
+
+This article concludes the three-part series on the state ( part one , part two ). Kautsky at the time had written a long essay on India that remained unpublished. It was intended as a chapter of his first book Der Einfluss der Volksvermehrung auf den Fortschritt der Gesellschaft 1880. Later Kautsky still approvingly quoted it in his magnum opus on the materialist conception of history (1927) p. 86 and pp. 223–24 of volume 2 ( online in this file p. 999 and p. 1135). This might partly explain why he chose the method of a comparison with Indian village commune, besides the fact of its division of labour. Or conversely, this just goes to show that India played a great role in Kautsky's thinking about the abolition of the state.
+
+As soon as the class differences are eliminated, society stands again on the same basis, as it stood before class antagonisms developed, on that of the original tribe. Since alike produces alike, the same cause has as a result also the same effects, we can say that insofar as the relations of the socialist classless society correspond with those of the original classless society, they will generate also the same aspects.
+
+We therefore want to observe an original community more closely, and indeed we choose for comparison the one, which is most influenced by technical progress, which hence has to show the greatest similarity with a socialist free society: the Indian village commune.
+
+The Indian commune is among the original communities the one which has been exposed the longest to influences of civilisation, without succumbing to them. Whereas the German village commune quickly dissolved before the Roman influence, whereas the Russian village commune today already, after such short and insufficient acquaintance with West European civilisation is in dissolution, the Indian village commune has withstood for centuries a civilisation, which can measure itself with the Roman one, it has often until this day maintained itself against the excessive English influence. It is only thanks to it, that the Indians have not become Fellahs, it was it which preserved the Indian countrymen, despite the most unbridled despotism a certain degree of freedom and prosperity. The change of ministers, of kings, of dynasties did not effect them; pillage and carnage of the conquerors could for a moment weaken, but not dissolve them. Neither the Persians, nor Alexander of Macedonia, not the fanatical armies of the prophet, not the searing swarms of Mongolians were able to shake this bulwark of Indian freedom and Indian prosperity. First the Nordic 'culture-bearers', the English, managed to lay the seed of destruction in the original communism and therewith carry misery, distress and stupidity into the Indian people.
+
+The original common property of ground and soil certainly no longer existed everywhere, when the English set foot on Indian soil. Since then it retreated itself ever more to the unreachable places. But still Nearchus, the admiral of Alexander, the so called great, of Macedonia, reports, that the soil of India is not just common property, but also is collectively cultivated and the crop distributed. In some communes one has found this still recently. By and large however not only the collective cultivation of soil has vanished, but also the periodic partition of it, as we find in the time of Tacitus with the Germans , at present still in Russia and on Java . The fields have already become fixed property of the families, who however have to cultivate them according to determined rules. Pastures, forests and uncultivated land are today still common property, to which all commune members have collective right of usage.
+
+The executive of the village is either a sherrif, a Patel (potail), or a management board of five, called panch, who represent the commune towards the outside and have to attend after the village police. He is, just like all other functionaries, elected by the community, which from time to time assembles under a big tree, to undertake elections, settle disputes and protect their interests through decisions of the most various kinds. There are no disputes about competence there.
+
+Thus far the Indian village commune does not differ in anything from other original communities. But it has climbed a higher level of culture, than the others, and therefore it saw itself forced, to introduce the division of labour to the original communism. It accomplished this then also in the most fortunate manner.
+
+Firstly it of course looks after the body's natural necessities, above all, that agriculture, the most important line of business of the Indians, takes places. Besides the calculation-leader, who has to tabulate the business matters of the commune, we find two 'men of science', who, insofar as Indian science allows, have to manage agriculture. The one we will call an engineer. He has to survey the land to ensure that the water establishments are in order and are properly used, a matter, which in the face of the great droughts in India and the great amount of water, that rice cultivation demands, is of immense importance. 1 Besides the engineer there functions a man which we call a meteorologist. But with the naive views of the Indians it is not surprising that he is an astrologist, the calendar-Brahman, who has to ferret out the fortunate and unfortunate days for sowing, reaping, threshing and other important undertakings.
+
+Besides both these men of 'science' the commune has its manual labourers: the smith, the carpenter, the wheel maker, the potter.
+
+The commune ensures however also that besides the produce of rice growth there still are some other things to eat. Each one has its cowherd and many, namely in the past, moreover still a fisherman, a hunter and a fowler. Since the eight century B.C.E. admittedly the Brahmanist dietary laws forbid the consumption of meat, yet exceptions are allowed; the meat of birds of prey, some fish, the rhinoceros and crocodile may be eaten.
+
+Man desires however not only food and drinks, but also certainty. The dominion of private property outside the commune generates thieves and robbers. The tallier has to protect the village against them and to ensure the safe conduct of travelers until the next commune. For protection of harmful animals serves the snake killer. Who in spite of that has misfortune, is healed by the doctor of the village commune. For health meanwhile not only a doctor is required, but also cleanliness. A washer and a barber are there, to meet this desire.
+
+When man is saturated and secure, then further desires awake in him. He seeks to study the him surrounding world, to recognise its laws, he wants to known . Also this urge to knowledge the commune satisfies, of course in a manner proper to its cultural level. The original attempt, to explain the us surrounding world, is religion. The Indian is therefore content with a Brahman. Besides him he has however a school teacher for the adolescent youth. 2
+
+But with all this the village commune is still not satisfied. It provides its members with artistic pleasures, insofar as they are possible for its cultural level: opera, ballet and theater. The commune has a musician, a dance girl and a – poet, who partly himself makes poets for festivities, in particular however in the evening, after labour, has to recite the old epics and legends to the gathered commune. –
+
+Along the lines of this commune also the free society will be constituted. A government does not exist in the Indian commune. Also the village executive is just a simple official of the commune, who the other functionaries assign, not submit to. To each is specified his sphere of activity by the community, for whose fulfillment he is again responsible to it. Of an anarchy there is no trace. Just as every family is obliged to cultivate the to it assigned ground and soil according to the regulations of the commune, so also every functionary is obliged to administer his job conscientiously, as conscientious as today an official must administer. Merely the anarchistic arbitrariness of the government, to use the officials in the interest of the ruling classes for the suppression of the proletariat, falls away, and likewise the anarchistic arbitrariness of every property owner, to use and exploit 'his' people at will. Each has to work on his post in the interest of the whole and general.
+
+Thus far the relations of the Indian village commune and the socialist free society are the same. Thus far also the aspects resemble each other, which both generate.
+
+But the historical development has created relations, which are unknown to the Indian village commune, which however may not be ignored by the free society of the future. It would therefore be madness to want to set the latter entirely on the basis of the first.
+
+The community has to organise production. How entirely different as in the village commune however this organisation today must be arranged, in the face of the colossal development of modern technology. The division of labour is spread no longer on a few persons, not even a few communes, but over the entire nation, yes even over the entire sphere of nations, who belong to modern culture. If commodity production is removed and in its place is put the production of use values, then, as in the family or the Indian commune, also all labour branches must again be united, brought under a higher authority. This is not possible inside a commune or group, but only inside a bigger sphere. This bigger sphere is given to us by historical development, which has removed provincial closure, in the nation, with the indication of the coming unification of the nations on an even higher unity. Only on the national foundation , with elimination of national closure, can the free society organise production .
+
+And as with production, it is with art and science. The free society does not get by with one school teacher and one Brahman, the commune has however in particular, when the dualism of the city and countryside is vanished, not the means, to offer its members all aids of modern science, colleges, laboratories, observatories, medical and agricultural experimental stations, musea, libraries, etc. This can again only the nation . And only the nation can maintain art on the height which it has climbed, and to lead it further to perfection.
+
+It were absurd, to desire of the Indian commune, that it establish a business in the manner of Borsig 3 and deliver the hereto necessary machines and raw materials itself. It were absurd, to desire of it, that it would build railways to the neighbouring communes and keep them in operation; it were absurd to desire of it, to build a university with all the necessary aides, and a theater, as well as endow an art gallery in accordance to all requirements of modern art. Equally absurd as these demands however it is to set up the commune as the basis of the free society . Not the commune, but the nation will constitute this basis. Neither the individual, nor the communes will have to give at discretion so much of their freedom to the nation, as they seem necessary for their well-being, they will not constitute a 'free' federation with a modern contrat social 4 , but the nation will give the communes and individuals so much freedom, as it sees necessary for its well-being. Not the prosperity of the individual, not the prosperity of the commune, the prosperity of the nation will be the highest goal of the free society, to which everything else has to submit itself. Salus reipublicae suprema lex esto.
+
+The free society will be a federation of nations and not of groups or communes; whose production will be left neither to free choice nor to the spontaneous formation of groups, nor even to sheer force of social attraction; instead, production will be placed under the direction of a well-organised administration.
+
+The disposal of the state, the development of the free society is thus furthest from being a concession to the anarchists.
+
+'Die freie Gesellschaft' appeared in Der Sozialdemokrat, Nr. 1, 1882.
+
+(Edouard de) Warren in his L'Inde Anglaise II. 310: 'The English have not dug wells, have not constructed ponds, have not drawn canals, have not build bridges for the benefit of their Indian subjects. They have not build streets, except for the military. One does not only undertake anything new, but lets the old decay. With the ponds and the canals disappears also the culture and the population, the land becomes a desert. In a district of the Madras Presidency, in North Arcot, the number of pools ruined in one year was not less than 1100, after the district was under English authority for not longer than a quarter century'. How beneficial private property operates! 2 So long as the village commune existed intact, every village had a school. Now it has become different. The English do only extremely little for the education of children of the whites and Eurasians (mixed). For the education of the natives is taken care as good as nothing. In English India, which counts 200 million people, in 1858 166,742 children attended school! How barbaric and culture-hostile is communism! 3 A German mechanical engineering company. 4 Social contract. (see first article in this series) Karl Kautsky Comments Noa Rodman
+
+The original German texts of this series in one file: http://www.mediafire.com/view/xturvq8b30ljaj7/Kautsky_Staat_1881-82.pdf
