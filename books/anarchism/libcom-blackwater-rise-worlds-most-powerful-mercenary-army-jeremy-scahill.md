@@ -1,0 +1,31 @@
+---
+title: "Blackwater Rise Worlds Most Powerful Mercenary Army Jeremy Scahill"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/blackwater-rise-worlds-most-powerful-mercenary-army-jeremy-scahill"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Meet Blackwater USA, the powerful private army that the U.S. government has quietly hired to operate in international war zones and on American soil."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  - name: "Blackwater_ The Rise of the Wor - Scahill, Jeremy.epub"
+    type: "EPUB"
+    url: "https://files.libcom.org/files/Blackwater_ The Rise of the Wor - Scahill, Jeremy.epub"
+    hosted: false
+  - name: "Blackwater_ The Rise of the Wor - Scahill, Jeremy.mobi"
+    type: "MOBI"
+    url: "https://files.libcom.org/files/Blackwater_ The Rise of the Wor - Scahill, Jeremy.mobi"
+    hosted: false
+---
+
+[Read on libcom.org](https://libcom.org/article/blackwater-rise-worlds-most-powerful-mercenary-army-jeremy-scahill)
+
+Meet Blackwater USA, the powerful private army that the U.S. government has quietly hired to operate in international war zones and on American soil.
+
+With its own military base, a fleet of twenty aircraft, and twenty-thousand troops at the ready, Blackwater is the elite Praetorian Guard for the "global war on terror"-- yet most people have never heard of it. It was the moment the war turned: On March 31, 2004, four Americans were ambushed and burned near their jeeps by an angry mob in the Sunni stronghold of Falluja. Their charred corpses were hung from a bridge over the Euphrates River. The ensuing slaughter by U.S. troops would fuel the fierce Iraqi resistance that haunts occupation forces to this day. But these men were neither American military nor civilians. They were highly trained private soldiers sent to Iraq by a secretive mercenary company based in the wilderness of North Carolina. Blackwater: The Rise of the World's Most Powerful Mercenary Army is the unauthorized story of the epic rise of one of the most powerful and secretive forces to emerge from the U.S. military-industrial complex.
