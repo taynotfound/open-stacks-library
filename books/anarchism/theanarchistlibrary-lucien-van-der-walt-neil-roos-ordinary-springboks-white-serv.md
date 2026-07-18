@@ -1,0 +1,58 @@
+---
+title: "Neil Roos, Ordinary Springboks: white servicemen and social justice in South Africa, 1939–1961"
+author: "Lucien van der Walt"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/lucien-van-der-walt-neil-roos-ordinary-springboks-white-servicemen-and-social-justice-in-south"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in International Review of Social History, volume 51, part 3, pp. 501–504. Retrieved on 12th September 2021 from lucienvanderwalt.com"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "lucien-van-der-walt-neil-roos-ordinary-springboks-white-servicemen-and-social-justice-in-south.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/lucien-van-der-walt-neil-roos-ordinary-springboks-white-servicemen-and-social-justice-in-south.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/lucien-van-der-walt-neil-roos-ordinary-springboks-white-servicemen-and-social-justice-in-south)
+
+REVIEW: Roos, NEIL. Ordinary Springboks. White Servicemen and Social Justice in South Africa, 1939- 1961. Ashgate, Aldershot [etc.] 2005. xvi, 23 I pp. £45 .oo;
+
+A growing literature has drawn attention to the role of the state military in the political culture of South Africa’s white working class. Many of the key figures in the anarchist and syndicalist movement of the early twentieth century, like S.P. Bunting, Wilfred Harrison, and Tom Glynn were former soldiers [1] . Jeremy Krikler noted the impact of World War I on the strikers’ militias of the 1922 Rand Revolt, the ‘commandos’ [2] . Walking to the gallows in Pretoria in November 1922, strike leader Taffy Long called out “Are we downhearted?”, to which the other condemned called back, “No, we are not!”, a refrain common to British troops in the bloody trenches of Flanders.
+
+Rather less, however, is known about the impact of World War II – much of the literature has focused on domestic developments, like the rise of African unions in the wartime economy – and so Neil Roos’s elegant study fills a major gap. It is an important and fascinating social history, although Roos’s reliance on American “whiteness studies”, which tends to conflate white identities, in general, with the particular politics of racial privileges for whites, creates some problems, to which I return below.
+
+Between 200,000 and 260,000 white South African men volunteered from 1939, along with around 110,ooo white women and 8o,ooo people of colour (pp. 26–27). Volunteers were drawn from a broad spectrum of South Africa’s diverse nationalities, but the war issue was also deeply divisive. The Afrikaner nationalists, generally a right-wing populist movement, typically opposed support for the British Empire (some openly sympathized with fascism, pp. 23–27), while the multi-racial Communist Party of South Africa (CPSA) initially stressed the contradiction between “anti-fascist” rhetoric and South Africa’s segregated order. Yet poor whites, particularly Afrikaners, were disproportionately represented amongst recruits, a large pool of desperate men (pp. 30–34, 41–43). My own father, a poor white and Afrikaner nationalist, was one of many recruits whose nationalist convictions and class positions were at odds in this manner.
+
+Roos examines white men’s wartime experiences, and the politics, during and after the war, of bodies like the Springbok Legion of Soldiers, a “type of soldiers’ trade union” formed in 1941 that grew to 5 5,200, including a radical wing in which CPSA members were prominent (pp. 65 — 67, 72–76, 79 — So), through oral and archival resources. The central claim is that many white soldiers were radicalized, partly by Allied “anti-fascist” rhetoric, but that their claims for postwar social justice were ambiguous, shaped by a context where citizenship and identity were profoundly racialized. Within the military, only white men were allowed to bear arms and troops were strictly segregated, even in leisure (pp. 1–2,26- 27, 56–60), and a racialized worldview set the general “limits of political debate among whites”, with white protest movements typically centred on claims for white privilege against werkaffering , politely translated by Roos as “becoming black” (pp. 7, 10,22,42–43, 62–63, 195–202).
+
+The wide-ranging Army Education Scheme (AES), which aimed to “school white troops as citizens in a tradition of liberal paternalism, linked to long-standing concerns with controlling poor whites provided one space where soldiers articulated a vision of post-war ‘social justice’” (pp. 46–48, 50–54). Fears that the state would neglect ex-soldiers contributed to the founding of the Springbok Legion on a platform of patriotism, “social justice’, and “cooperation among races”; open to people of colour (it even calling for arming African troops), it was mainly a movement of the white rank-and-file (pp. 70–72, 76–92). Class was a key issue, and it built links with the South African Trades and Labour Council (SATLC), which comprised African industrial unions, racially mixed (“open”) unions, and racially exclusive craft unions.) Critical of Afrikaner nationalism for its fascist links, but also, increasingly disillusioned with Jan Smuts’s pro-war United Party government, the Springbok Legion declined in the postwar period (as did the SATLC, which suffered major schisms), soon coming under the control of its radical wing (pp. 87–90, 101–118). For Roos, “racialised anxieties around access to jobs and housing” by white men, largely unskilled and faced with (re-) entry into factories now dominated by cheap female and African labour in cities where African urbanization had exploded, played an important role in a larger shift away from the Legion’s progressive platform towards a “whites-only vision of “social justice” (pp. 12, 104–1 18, 196–197).
+
+Many felt Smuts betrayed their demands for “social justice”, and that they were disadvantaged relative [to] employees who stayed behind, and many doubted Smuts’s ability to meet their needs [3] : Roos indicates this played a role in the electoral victory of the Afrikaner nationalist movement in 1948 (pp. 113–127, 196–198). A significant number of ex-servicemen, however, followed the logic of “social justice’ through to its logical conclusions, forming the short-lived War Veterans’ Torch Commando to oppose the National Party’s (NP) apartheid policies; a few, typically linked to the CPSA, joined the national liberation struggles of the 1950s and 196os, playing an important ideological (and, later, military) role (pp. 130- 177).
+
+There can be little doubt that Roos’s book makes an extremely important contribution to South African social history, and that it fulfils its claims to move beyond the structuralism and economic determinism that dogged many earlier studies (pp. 3,201). It is also difficult to disagree with Roos’s stress on the importance of racial identities in South Africa, or his conclusion that the majority of white ex-servicemen did not, “for a moment”, challenge the “fundamental social arrangements of segregated society” (pp. 200–201).
+
+There are, of course, several areas where the work might have been strengthened. It would have been useful to set the radicalization of ordinary Springboks in the context of the larger upsurge in working-class politics within South Africa itself, including the important leftward shift of a large sector of the white working class. The war years saw a number of impressive and integrated strikes by SATLC-linked unions, falling wage gaps by gender and race, and the SATLC growing to 168,432 members in 1946, of which two thirds were in “open” unions, while 1946 saw the largest number of strikers out since 1920 [4] . The CPSA made real gains amongst whites, winning municipal seats for the first time, and become the major force amongst African workers; even the SA Labour Party, traditionally a bulwark of white-worker prejudice, veered sharply to the left on racial issues.
+
+While Roos tends to present the United Party as somewhat to the left of the NP,it is worth noting that Smuts’s repressive labour policies played an important role in alienating white workers: there are distinct parallels here with the disillusionment of ex-servicemen. In neither case did such alienation necessarily imply a surge of support for the NP – the SATLC majority openly opposed that party – but Roos proves somewhat elusive on the question of the extent of white ex-servicemen’s support for the Afrikaner nationalists.
+
+The complexities of white working-class consciousness and politics are not always evident in Roos’s account, I think, partly because of his heavy reliance on American writers like David Roediger, who tend to treat white identities as synonymous with white racism and the colour bar [5] . There is an ongoing. tension in Roos’s account between an essentialist notion of whiteness, along the lines set out by Roediger, and recognition that there are multiple versions of whiteness, and that white identity, as such, has no necessary link to a politics of racial privilege.
+
+At times, Roos speaks of the “the politics of whiteness” as synonymous with a “fundamental social contract of whiteness” based on the “privileges of whiteness”( pp. 11, 22, 125, 130, 159, 198–199). Thus, it is suggested that “In modern South Africa […l the taken-for-granted character of whiteness accounted for the pervasiveness of white racism” (p. 7), and that the rise of apartheid showed “the power of race” and the “benefits offered by whiteness” (pp. 126–127). Elsewhere, however, Roos speaks of “popular” whiteness and different “traditions of whiteness”, and characterizes racial identity as “an unstable and decentred complex” of meanings (pp. 3, 11, 199).
+
+These two usages are not easily reconciled. If white soldiers could incorporate “aspects of liberalism” and ideas of “social justice” “into their identity and politics” (p. 197), can it really be argued that the white radicals who supported national liberation struggles had gone “beyond the politics of whiteness” (p. 159), particularly as the national liberation movement of the 1950s was racially segregated, with the whites (including remnants of the Springbok Legion) forming a (self-consciously white) wing, the Congress of Democrats? If white identity was straightforwardly linked to a particular political position, it is not always easy to explain the “violence and terror” of massive street battles between (ex-)soldiers and Afrikaner nationalists throughout the 1940s, which Roos describes as a central feature of “white political culture” (p. 200).
+
+For all this, Roos’s study is a compelling and lucid account. A sign of the ongoing vitality of South African social history, it will prove of great interest to historians of labour, race, and militarism.
+
+[1] Lucien van der Walt, “Bakunin’s Heirs in South Africa: Race and Revolutionary Syndicalism from the IWW to the International Socialist League, 1910–21”, Politikon , 31 (2004), pp. 67–89.
+
+[2] Jeremy Krikler, “The Commandos: The Army of White Labour in South Africa,” Past and Present , 163 (199y), pp. 202–244.
+
+[3] Peter Alexander, Workers, War and the Origins of Apartheid: Labour and Politics in South Africa 1939–45 (Oxford [etc.], 2000), pp. I 2- I 5.
+
+[5] “It is not merely that whiteness is oppressive and false; it is that whiteness is nothing but oppressive and false”; David Roediger, Towards the Abolition of Whiteness: Essays on Race, Politics and Working Class History (London [etc.], 1994), p. 13, emphasis in original.
