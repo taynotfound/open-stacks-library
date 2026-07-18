@@ -1,0 +1,38 @@
+---
+title: "Green Market Agorism"
+author: "Logan Marie Glitterbomb"
+date: "2022"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/logan-marie-glitterbomb-green-market-agorism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "https://c4ss.org/content/51920"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "logan-marie-glitterbomb-green-market-agorism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/logan-marie-glitterbomb-green-market-agorism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/logan-marie-glitterbomb-green-market-agorism)
+
+Agorist theory has been enriched a lot since Samuel Edward Konkin III introduced the initial theory. Through the writings and work of visionaries such as Karl Hess, Ross Ulbricht, Satoshi Nakamoto, Defense Distributed, and Derrick Broze, we have seen agorism grow and expand in ways never thought possible both intellectually and in practice. And the practice will continue to grow and adapt as time goes on, circumstances change, new technologies emerge, etc., as it should.
+
+While Samuel Konkin focused specifically on the black and grey markets, Hess focused on localization, appropriate technology, and sustainability. Broze has expanded upon this in recent years, referring to the concepts of horizontal and vertical agorism. Horizontal agorism is the traditional illegalist Konkian agorism we all know and love. That includes tax strikes, drug dealing, sex work, gun running, contraband smuggling, hiding undocumented immigrants, etc. Vertical agorism is typically more focused on white and grey markets and includes things like farmers markets, worker cooperatives, environmental technology, grassroots labor organizing, etc.
+
+It is in the vertical agorist tradition that we tend to have the most concern for the environment. Karl Hess’ experiments into community sustainability led him to champion such things as aquaponics, rooftop gardening, basement fish farming, solar and wind power, community workshops, warehouses, share sheds, tool libraries, and more. Particularly expanding upon the last bit, the sharing economy has sprung up around the idea of sharing goods that would otherwise not be used to full capacity by an individual owner. Broze has emphasized the 7th generation principle and concepts such as zero waste living in his teachings on agorism and he promotes community gardening, permaculture, minimalism, and the like. With environmental devastation an increasing concern, this emphasis will become more and more necessary.
+
+Following the inspiration of Broze, if one is to look at agorism holistically, then we cannot just focus on the point of consumption but instead must focus on the entire cycle of a product’s life. As pointed out in The Story of Stuff, that chain goes from extraction to production to distribution and then consumption before finally ending with disposal. Through this holistic lens, we see that we must make the switch to a circular economy. Most agorists are already on this path of thinking in regards to food production, promoting local organic sustainable food production and distribution via home gardens, community gardens, guerrilla gardens, rooftop gardens, small farms, permaculture, farmers markets, CSAs, composting, and the like but, we as a movement need to think of the other products we consume in our lives.
+
+The old saying goes, “There’s no ethical consumption under capitalism,” and the truth is that in our current rigged market, we as consumers are largely and purposely kept uninformed about the products we consume. Agorism, specifically with an emphasis on localism, gives us a more effective alternative to ethical consumption. Buying local goods from your neighbors makes it somewhat easier to know the history of those goods thus making one a more informed consumer who can make more informed decisions. However, not all items can be found via a local source and even those local sources are often utilizing products in the production process. For instance, your local screen printer may do it themselves but they’re still printing on shirts they bought from some chain corporation that are made in sweatshops by child laborers from synthetic fibers and plant fibers grown and harvested by prison slaves and dyed with harmful synthetic dyes that run off into the nearby waters causing pollution and death of the local sea life. Even if they do manage to find sources which claim ethical grounds because of various aspects of their production (organic, fair trade, union-made, etc.) there are always other issues (wage theft, monocropping, lobbying). But there’s a solution to getting most everything you need that you can’t buy from an ethical producer without contributing a dime to these corporations.
+
+As agorists, we talk often talk of the white, black, grey, and red markets but there is one market that is surprisingly absent yet increasingly relevant to the conversation: green markets. Now by green market, I don’t mean cannabis, alternative energies, or deceptive greenwashed consumerism. Rather green markets include all white, grey, and black market transactions involving resold goods, meaning goods that have been previously owned, repaired, refurbished, and/or recycled. This includes thrift stores, clothing swaps, repair shops, fix-it fairs, the Right to Repair movement, used car parts, redistributing dumpstered goods in the vain of Food Not Bombs, and so much more.
+
+Repairing things, buying or trading with friends, buying from local thrift stores and flea markets, effective recycling programs, and reusing and repurposing items are all examples of green market agorism. Now granted, this still only focuses on the distribution, consumption, and sometimes disposal aspects of a product’s life while not directly addressing the extraction and production aspects, however getting your goods from the green market lowers demand for extraction and production of new goods. Scaling down our current modes of production in general is necessary for curbing environment damage and thus a move towards reducing, reusing, repairing, repurposing, and recycling is a must. Moving to green markets allows us a chance to analyze our consumption and realize how much we can rely on what is already available instead of needing to constantly produce. Of course there will always be items which one will need to buy new such as hygiene products and new technology but relying mostly on green market goods allows us to scale back the problem of the question of ethical extraction and production methods to a smaller more manageable level. Instead of having to focus on how to ethically produce every product, we only have to focus on how to ethically extract and produce necessities.
+
+All of the sudden these questions become easier to answer and we can begin focusing on how to produce those necessities. We can start making our own hygiene products from locally grown plant materials, 3D printing toothbrushes and combs using fiber made via scrap plastic and the open source machine designs from Precious Plastic, fighting for the labor rights of the miners of the precious metals that go into our those 3D printers and form worker collectives to assemble the parts, creating more effective recycling programs for the waste we still do create, and so much more. We can get extremely creative about it. But first, we must scale back the problem by scaling back our consumption of new items. We must become green market agorists.
