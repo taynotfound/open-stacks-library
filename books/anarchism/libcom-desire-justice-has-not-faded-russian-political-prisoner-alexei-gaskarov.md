@@ -1,0 +1,110 @@
+---
+title: "Desire Justice Has Not Faded Russian Political Prisoner Alexei Gaskarov"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/desire-justice-has-not-faded-russian-political-prisoner-alexei-gaskarov"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Russian political prisoner and anti-fascist activist ALEXEI GASKAROV looks back in this article at 15 years of anti-fascist activity in Russia"
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/desire-justice-has-not-faded-russian-political-prisoner-alexei-gaskarov)
+
+Alexei Gaskarov Russian political prisoner and anti-fascist activist ALEXEI GASKAROV looks back in this article at 15 years of anti-fascist activity in Russia
+
+Alexei Gaskarov was jailed on 18 August 2014 by the Zamoskvoretsky District Court in Moscow – together with Ilya Gushchin, Alexander Margolin, and Elena Kokhtareva – in the so-called second wave of the Bolotnaya Square case, brought against participants in the big protest demonstrations of 2011-12 in Moscow. (See defence committee site here .)
+
+It might be helpful to readers – including anti-fascists in other countries who don’t know Russia well – to put some of Gaskarov’s points in context.
+
+He explains how, in 1998-99, he witnessed skinhead gangs appearing on the streets and fascist ideas gaining popularity. That was a time of economic and political instability: in mid 1998 a banking crash caused a four-fold devaluation of the ruble, and, with social and labour protest mounting, several governments came and went in quick succession as the regime of president Boris Yeltsin shuddered.
+
+Gaskarov refers to the trial in 2014 of leaders of the Combat Organisation of Russian Nationalists (BORN), one of the most notorious neo-Nazi organisations. Two BORN members, Nikolai Tikhonov and Yevgenia Khasis, were jailed in 2011 for one of Russia’s most notorious fascist murders – the shooting in January 2009, in broad daylight in central Moscow, of human rights lawyer Stanislav Markelov and journalist Anastasia Baburova.
+
+Opposition journalists and anti-fascist activists have accumulated a considerable quantity of evidence about the links between BORN, other fascist groups, and Kremlin politicians.
+
+Gaskarov refers to “Maidan 2004” as an important turning point. This is a reference to the protests that erupted in Ukraine in response to ballot-rigging in favour of Viktor Yanukovich in the presidential election of 2004 (often referred to as the “Orange revolution”). The Kremlin responded to those events by stimulating the growth of forces in Russia itself on which it could rely.
+
+In Ukraine, “Maidan 2004” resulted in a re-run of the election. With international observers and a lower level of fraud, Yanukovich lost to Viktor Yushchenko. Straight after the “Orange revolution”, in January-February 2005, a wave of social protest broke out in Russia itself, aimed in particular against cuts in welfare benefits. The regime, nervous about the prospect of broader Ukraine-style movements in Russia itself, fostered the legal pro-Kremlin youth movement “Nashi” (“ours”), which has been used alongside illegal fascist groups to target oppositionists.
+
+In Ukraine, in a subsequent election in 2010, Yanukovich replaced Yushchenko – but was then overthrown by the Maidan movement of 2013-14. Gaskarov, writing about the Kremlin’s support for separatists in eastern Ukraine in 2014, argues that now, as in 2004, the Russian government’s attitude to Ukraine was motivated by a desire to “discredit the very idea of protest against an existing regime”. GL. Antifa: “We Were Able to Tell Good from Evil”
+
+There are different people in prison. The majority are not the same people we are used to interacting with on the outside. There are different sorts: junkies, criminals, and outright riffraff. But I still find myself thinking I had seen a number of these characters in the yard of my building back in the day. I have flashbacks when I encounter these people. So when you ask why my friends and I became antifascists, you have to imagine the environment we come from.
+
+I remember well what was happening on the streets in 1998–1999. The first skinheads and football hooligans had appeared, ethnically motivated killings were becoming more frequent, and rabidly fascist ideas were gaining popularity. A reality emerged that was invisible to the majority of people. With each passing year, the situation worsened, and the violence increased. We wanted to oppose it. We were able to tell good from evil. The neo-Nazi scene, on the contrary, attracted people not blessed with intellect, frankly. Most of them were up to nothing more than wasting their time on inciting racism and making fake videos of racist attacks. People like Artur Ryno and Pavel Skachevsky , the White Wolves , and other asinine teenagers bought into this.
+
+Society has paid no mind to the killings of migrants, because society is quite xenophobic itself. Its attention has been drawn when Russians square off against Russians, when neo-Nazis murder antifascists in stairwells. But, in fact, at least one hundred ethnically motivated murders occurred in 2008–2009, and this should have been cause for concern.
+
+I have tried as much as possible to follow the trial in the BORN case . It is complete nonsense that the accused are now pretending their actions were motivated by concern for the Russian people. This crazy fascism has nothing to do with defending ethnic Russians.
+
+The boneheads (neo-Nazi and white power skinheads) were a product of society as it existed then. Maybe if Russia had been a democratic country, as it is on paper, the right-wingers would have had the chance to realize themselves in the political arena. In fact, all they had was street politics. The question is whether all those murders would have been committed had they been able to register their own political parties officially.
+
+As we see from the testimony given at the trial by Nikita Tikhonov and Yevgenia Khasis , the neo-Nazis tried to get their own political party, but to create it they needed a combat organization. By creating BORN (the Combat Organisation of Russian Nationalists), they were hoping to force the regime’s hand, to show they were capable of violence, but that there would be no violence if they had legal means of pursuing their ends.
+
+The antifascists never had the goal of killing anyone. It was the neo-Nazis who first embarked on the path of violence, but this was because there was a certain political will for this. It is important to realize that, despite the street battles, until the mid 2000s the ultra-rightists did not see the antifascists as people whom they needed to shoot first. However, after Maidan 2004, the regime clearly tried to find support within society, including among potentially loyal young people. The nationalists were regarded as just such young people. There were lots of them, and they could be organised around football. This was when the first Russian Marches took place, and nationalists were allowed to set up semi-militarised training camps .
+
+The neo-Nazis were supposed to oppose the so-called threat of orange revolution , the people dissatisfied with the current regime. Antifascists and anarchists were then considered part of this threat. This was when the turning point occurred: it was now considered a priority to destroy us.
+
+Ilya Goryachev and Nikita Tikhonov, BORN’s ideologues, were apparently able to get the message to the presidential administration that they could confront left-liberals on the streets. And they would tell rank-and-file members of their gang that, for example, Pavel Skachevsky’s sister had been attacked by antifascists. This is complete nonsense: I know for a fact that antifascists Ilya Dzhaparidze and Koba Avalishvili didn’t do it. I don’t know whether Skachevsky’s sister was actually attacked at all. At the time, the website of DPNI (Movement against Illegal Immigration) was active, and it would publish information that was untrue, and simply meant to incite people. The fact remains that Dzhaparidze, who was murdered by the neo-Nazis, had nothing to do with this business. But the morons from BORN just believed it and did not even bother to verify the information. The same goes for why Ivan Khutorskoi was killed. It is, of course, complete rubbish that he broke the arms of underage nationalists. He might have talked to them and given them a slap upside the head, but no more than that.
+
+The people from the far-right groups are no nationalists, of course. We know that many of them have gone off to Kiev to fight with the Azov Battalion , for example. This is not the same segment of nationalists that protested on Bolotnaya Square, but the marginal part of the movement, which took advantage of the fact that young people often go into denial when they see society’s existing problems.
+
+I have the feeling that the BORN case, the case of neo-Nazis who sincerely believed they were defending the Russian people, has not taught anyone anything. We now see how this anti-Ukrainian hysteria has been whipped up. It is largely due to this hysteria that Russian citizens have been going off to Donbas to fight. They sincerely imagine they are going there to defend the interests of the Russian people. But in fact they have been hoodwinked. Like Vyacheslav Isayev and Mikhail Volkov, two of the defendants in the BORN trial.
+
+Ukraine and Television: “Discrediting the Very Idea of Protesting”
+
+Many people are too susceptible to television, to what they hear said on it. We have returned to 2004, when Maidan was a threat to the Russian regime. As then, our country’s authorities are trying to discredit the very idea of protesting against an existing regime.
+
+We all remember the invasion of Crimea by “polite people.” It is clear that Ukraine has the right to resist – not their own populace, of course, but the armed men who entered their country and occupied government buildings. They entered the country, occupied cities, cut off access to information from the outside world, and pumped people full of propaganda.
+
+Russia has done much to ignite chauvinist attitudes in eastern Ukraine, but neither have the Ukrainian authorities used all the means they have for negotiating. They should have introduced institutions of political competition and made their arguments with words. It would have been much better if they had tried to use democratic levers.
+
+I know what European integration is fraught with. In Ukraine, all the political forces got behind integration with Europe. And then Russia suddenly adopted an antiglobalist stance. Yet it was obvious that being in a customs union with Russia would not have brought Ukraine any benefits. It needed reforms: hence the decision to unite with Europe. I do not agree with this decision, but I understand the arguments in its favour. At any rate, the choice for European integration was democratic. It is also telling that Maidan did not go massive when integration was being discussed, but only after the police forcibly dispersed a student demonstration.
+
+I have much less access to information than people on the outside, but I believe the referendum in Crimea was held in such a way that it is impossible to say whether it was conducted properly or not. It is not possible to determine this right now, because even the current mood is largely shaped by propaganda that is broadcast in the absence of an alternative viewpoint. I cannot imagine holding a fair referendum at the moment, unless, perhaps, Ukrainian TV channels were allowed on the air there. The question is who, exactly, will bear responsibility for its having happened this way.
+
+Outcomes and Know-How: Why Be Involved in Russian Politics Today? The verdict in our case, the closure of independent media, and all the hypocrisy around events in eastern Ukraine point to the fact the Kremlin has adopted a policy of self-preservation. This entire authoritarian system has begun to rot, but there are things allowing it to remain afloat. That is why it has to nurture the oligarchic elite, cops, and FSB officers.
+
+This year has shown that banking on a majority consolidated at Ukraine’s expense, and shutting out the 20 per cent who are dissatisfied with current policies, is impossible without the loss of economic prosperity. Everyone has now been talking about restructuring our country’s resource-based economy. But why was this impossible to do over the past 15 years?
+
+You cannot constantly tighten the screws without the public welfare’s deteriorating. I have no illusions about violent revolution: however many people take to the streets and whatever it is they might oppose, there will always be more people from the security forces. So people have two ways of making an impact now: the first is going out and voicing their concerns, while is the second is quiet sabotage – leaving the country, not investing in anything. I know there are many people in business who are leaving because they cannot breathe here. The authorities can, of course, use the same scheme as they did on Bolotnaya Square, but that will trigger another outflow of people and capital; even more money will be taken out of the country. There will be fewer and fewer resources, but the salaries of the cops will still have to be paid. This, in turn, will lead to a split within the elite.
+
+The current power structure is similar, in some sense, to the structure of BORN: it is just as completely opaque. Because of this, complete morons can be wind up at any point in the decision-making chain. My sense is that the authorities will soon be forced to liberalise, to back off a bit. There will be breaks for businesses. For some, this will be enough to continue developing them. We will return to the old, slow path of growth. Maybe in some ways this is better than this crackdown and gradual slide into hell. They might stop dispersing opposition rallies or not jail Alexei Navalny, for example. The regime has many ways of avoiding a deplorable sequence of events.
+
+Ukraine has shown that this pro-government crowd, who occupy niche positions, can just up and disappear one fine day. A year ago, no one knew that there would be tours of Yanukovych’s residence . When this happens, the old system has to be replaced with something.
+
+The difference between federal and local politics in Russia is still not very great. This was shown well by the recent elections in my hometown of Zhukovsky, where local activists ran for city council and got half the votes, but in the end only two of them won seats.* This is not a good outcome. It has been impossible for activists to have an impact on anything. It did not work out when they wanted to defend a forest . The authorities shut down all such grassroots pressure campaigns.
+
+It is not the outcome that matters nowadays, however, but the process of being involved, because what remains is a community with experience of solving problems. That community is not going away. And if certain changes suddenly begin in the country, then it is certainly a good thing such communities will already be there at the local level and can be the basis of new institutions. Yes, many people are now demoralised, but the desire to get justice and resist thievery has not faded.
+
+I am certain that nothing would have changed had I not gone to the 6 May 2012 opposition protest on Bolotnaya Square, for example. No matter what I did, strange criminal charges would have been filed against me anyway. This is evident even from the news, where everything is presented in such a way that even popular TV presenters Tatyana Lazareva and Mikhail Shats , who were on the Opposition Coordinating Council [along with Gaskarov], are depicted as criminals.
+
+The point is not Bolotnaya specifically, but the fact that if you are involved in activism, criminal investigations will be opened against you. That rubbish with Navalny and the stolen picture is a specific story stemming from Bolotnaya Square. I did foresee that this might happen.
+
+I have no particular hopes for another amnesty. I have the sense the authorities might go for an amnesty for people convicted of economic crimes, because there is a theory that they could help improve the current economy, that the businessmen will one way or another add a fraction of a per cent to economic growth. The authorities could decide to do this. As for us, I have huge doubts. In prison, though, people always pin great hopes on amnesties. In reality, all the prisons are overcrowded: in violation of all European standards, there are two and half metres of living space per prisoner. And when Putin said, recently, that amnesties need not happen too often, he cannot but have known that practically no one got out under the first prisoner amnesty .
+
+You can survive in the pre-trial detention facility, of course. There are no rats running around in the cell or mouldy walls in here. And they take us out for a walk every day. True, the courtyard here is bare, and you cannot even see the trees. It is hard to keep track of the seasons: time flows differently on the inside. In short, they do not let you forget you are not at a health spa.
+
+In terms of building relationships, the experience I gained while jailed for two months in the case of the attack on the Khimki town hall has come in handy here. I am used to the fact that people come and go at the pre-trial detention facility. You come across different characters. Recently, there was a guy in here who had lived in the woods for two months. He had been working in construction when he got screwed out of his pay. He didn’t know what to do and went into the woods. He drank hawthorn berry tincture there and had become something like a vagrant. He was nicked for stealing a bike.
+
+I really want all political prisoners released as quickly as possible. And not only released, but released into a free country. I would like the space in which we all have to live to be freed up, to be less gloomy. This is my wish. That a thaw finally comes.
+
+Published in Russian on 29 December 2014 by Maria Klimova on MediaZona (a media project that monitors the Russian prison system). Thanks to the Russian Reader for this translation. Photo by Evgeny Feldman.
+
+Published in English on People & Nature , with this Afterword: I have published Alexei Gaskarov’s article for three reasons. First, support for political prisoners is part of the ABC of socialism as I understand it. Second, the article addresses issues vital for internationalists and anti-fascists everywhere. It shows how Russia’s paramilitary neo-Nazi organisations have grown not in a vacuum but in a dynamic relationship with the regime of Vladimir Putin. That regime is not itself fascist, according to most analytical approaches. But its authoritarian reflexes, its appeal to chauvinism, its alliance with the populist parliamentary right (such as Vladimir Zhirinovsky’s Liberal Democratic Party of Russia), its assaults on political dissidence and labour movements, and its murderous violence in Chechnya, all form part of the soil in which armed bands of fascist killers grow.
+
+Third, Gaskarov offers insightful commentary on the relationship between the Russian elite, the rise of fascism in Russia itself and the events in eastern Ukraine. He highlights on one hand the superficial character of Russian neo-Nazis’ nationalism, which has not deterred them from joining the Azov battalion (ultra right-wing fighters on the side of the Kyiv government). On the other hand, Gaskarov argues that the anti-Ukrainian hysteria whipped up by the Russian elite – motivated largely by its fear of the social movements it saw on Maidan in both 2004 and 2014 – underpins armed Russians’ support for the eastern Ukraine separatists.
+
+Gaskarov comments that Russia has done much to incite the chauvinist (i.e. separatist) mood in eastern Ukraine. In my view, the central element of that incitement is armed force: that of volunteers equipped with heavy weaponry, and, with almost no doubt, that of regular army units. (I don’t know whether the Russian army is fighting in Ukraine. But I’ve heard no other explanation for the large numbers of reports on social media – by relatives, campaigners and journalists – identifying serving soldiers who have been killed there. It’s not Gaskarov’s aim to discuss this fiercely contested issue: for one thing, he is in prison where, as he points out, he has “substantially less access to information” than people outside.)
+
+On 18 August 2014, Judge Natalya Susina at the Zamoskvoretsky district court found Gaskarov and three other defendants guilty of involvement in rioting (Article 212, Part 2 of the Russian Federal Criminal Code) and using violence against authorities (Article 318, Part 1). Gaskarov was sentenced to three and a half years in prison. On 27 November 2014, the Moscow City Court dismissed an appeal against the sentence filed by all four defendants. On 28 December 2014, Gaskarov was transferred from the pre-trial detention facility in Moscow to another prison (supporters do not yet know which one). More information from: “Free Alexey Gaskarov” campaign (English) News on the Bolotnaya case by the 6 May Committee in (English) Information on the Bolotnaya case blogged by Pavel Elizarov (English)
+
+* City council elections took place in Zhukovsky, a town of 105,000 residents 40 kilometres southeast of Moscow, on 14 September 2014, Russian general election day. Observers reported massive vote rigging, ballot box stuffing, and tampering with final vote tally reports by polling station officials. A month later, members of the Presidential Council on Civil Society and Human Rights brought the matter to Vladimir Putin’s attention. He promised to order the prosecutor’s office to investigate the election violations in Zhukovsky, but the outcome of the election has still not been officially challenged or amended.
