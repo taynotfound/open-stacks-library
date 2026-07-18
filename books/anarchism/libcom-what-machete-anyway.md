@@ -1,0 +1,60 @@
+---
+title: "What Machete Anyway"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/what-machete-anyway"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An article by John Cline on the weapon, agricultural tool, and symbol."
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/what-machete-anyway)
+
+An article by John Cline on the weapon, agricultural tool, and symbol.
+
+Debates in the U.S. about the right to carry weapons focus almost exclusively on firearms. But the machete bears an unusual character. It’s possible to conceive of it as a weapon, yes, but it’s also very much a tool—not altogether different from, say, a shovel. It’s possible that Wilson is just a stunted adolescent who never grew out of buying switchblades and throwing stars when the carnival comes to town, but the ease with which “tool” becomes “weapon” in the eyes of the law is remarkable. Tools are fine things for workers, but politics dictates that violence be concentrated in the hands of the State, and dispensed by its agents. The slipperiness between innocuous utensil and deadly device represents the risk of insurrection.
+
+When the radical International Longshore and Warehouse Union members marched in the days of American union leader Harry Bridges, they often carried the tool that symbolized their trade: a hook. Although containerization caused it to fall into disuse, the longshoremen’s hook helped grapple crates and barrels in the holds of cargo ships; its potential for weaponization should be clear to anybody who saw the horror film I Know What You Did Last Summer .
+
+Like the longshoreman’s hook, the machete has a special place in the labor history of Florida, where for three and a half centuries slaves and wageworkers cut sugarcane in the fields by hand. Indeed, machetes are unique to the extent that they have always been used for both purposes—and not just as a plot device in horror flicks, either.
+
+I’ve been around machetes all my life, though I didn’t always call them by that name. As a child in Illinois, I knew them as “corn knives,” flat-tipped variants from another era of farming. In the days before mechanical threshers, corn was stripped from the stalks and brought to a place where the husks were removed by “husking,” using a special tool called a “peg.” Afterwards, the corn was placed in a crib to dry before the ears were shelled, and corn knives were used to chop down the bare stalks, which in turn were either fed to livestock or plowed under to replenish the soil.
+
+By the time I encountered corn knives in the 1980s, they were already relics. The one I found was rusty and its handle pins loose, with a blade that had been filed down from its original shape to a wavy point. In my child’s mind, however, this thing was nothing less than a real sword , even if they littered the barns where I grew up.
+
+This fusion of tool and weapon cropped up again and again during my childhood. In the third grade, I encountered a word in a Hardy Boy’s book, Footprints Under the Window , which I’d never seen before: machete . I quickly realized from the descriptions that a machete was essentially the same thing as a “corn knife.” Much of the book’s action takes place on a fictional Spanish-speaking island called “Baredo.” Looking at the cover now, it’s hard not to notice that one of the villainous figures looks a lot like Fidel Castro, and one of his comrades wields a machete. It’s hard to say whether or not this moment of recognition is related, but in high school I fell hard for Che Guevara, whose Jon Lee Anderson-penned biography I read with great enthusiasm. In Anderson’s account, machetes are mostly weapons, but weapons clearly linked to the sugar plantations of Cuba; there’s even a picture of Guevara in his fatigues holding a machete in a cane field.
+
+Later, on a whim, my friend and I pooled our resources and bought a cheap machete made by Coghlan, the kind that comes in the distinctive green packaging. We didn’t have any real use for it, but it was sure fun to slice through mailboxes from a car window on beer-drunk Friday nights along rural roads. Once, when we’d ventured into East St. Louis in search of marijuana, we were accosted by a man on the street. Without thinking, my friend reached behind the seat and brandished the blade. I’m certainly not proud of this moment, but it does illustrate the machete’s ability to change quickly from a boy’s plaything to an instrument of violence.
+
+And then back again into a tool, and a cultural symbol. One of my areas of research is the calypso fad that briefly gripped the United States in the late ’50s. Its most famous example, Harry Belafonte’s smash 1956 single “Day-O (The Banana Boat Song),” is a song for and about the people who worked in the banana industry in Belafonte’s native Jamaica—where the machete was the primary tool for harvesting the fruit.
+
+But perhaps more than anything else in recent memory, it was a 2008 trip to Costa Rica that contributed the final component to my understanding of the machete as both a tool and a weapon. Near the center of San Jose stands a statue depicting the notorious American filibuster, William Walker, who controlled Nicaragua from 1855 to 1857. After a combined military force from Costa Rica, Honduras, Guatemala, and El Salvador defeated him, Walker was executed in Honduras in 1860. The memory of Walker in Central America is still strong enough to warrant this statue of him, being chased by four female figures representing the nations of the Allied Armies of Central America. One of the women wields a long knife as he cowers; it might be a sword, but it could be a machete. Not far away, I bought a souvenir blade emblazoned with the state seals of the five nations involved in Walker’s ouster. It was difficult to get past customs.
+
+A story like Walker’s illustrates why the machete so well captures the problem of the tool vs. the weapon. This simple object is imbued with enormous symbolic political power, because its practical value can never be isolated from its violent potential.
+
+Despite its political symbolism, there is no comprehensive history of the machete. In general, historians of knives agree that there were two major inputs in its development: the billhook and the falchion. The former is the English name for a tool long used in agriculture throughout Europe, the latter a short sword developed during the Middle Ages. Like most tools simple enough to be made by any blacksmith, few early examples survive—wherever they were used, they were also used up and discarded. When European countries began establishing colonies for agricultural production in the 16th century, tools like machetes were absolutely necessary, and they needed to serve multiple purposes: not only cutting sugarcane, but also as meat cleavers, axes, and, yes, weapons. Phill Niblock’s documentary, The Movement of People Working , even depicts laborers in Mexico and Peru using machetes to split cinder blocks. I actually learned how to do this myself on a recent trip to Guatemala: first you scratch a line in the concrete with the blade’s tip, then you chip a v-shaped score into the block on all sides, and finally you complete the process by bringing the full force of the machete down, splitting it in two.
+
+Despite its Spanish word origin, the first major industrial manufacturers of machetes were English and American. English machete makers did their briskest business in the regions under the Empire’s control: Jamaica, Trinidad and Tobago, Barbados, British Guiana, and Grenada. In these Anglophone countries, machetes are still called “cutlasses.” Meanwhile, U.S.-made machetes were destined for Hispanophone nations within the territory defined by the Monroe Doctrine. In these United Fruit-dominated nations a finely crafted machete was referred to simply as un Collins , after the name on the handle. On the isthmus—refuge of would-be cowboys and home to a much-abused indigenous workforce—a threat to “stick you all the way to the Collins” was not an idle one.
+
+t would be impossible to catalog all the uses of machetes a weapon since its development in the colonial period. However, one thing remains constant: those who use it as a tool in their daily lives are also the most likely to turn to it as a weapon, because it is often the only option available to the slave, the peasant, or the proletariat within the agricultural regions of the tropics. As such, its transformations from a utilitarian to a martial instrument were typically predicated on revolt: by the Brazilians during the War of the Ragamuffins in the 1830s, and by the Cubans in the 1890s, to just name two.
+
+At the same time, we shouldn’t to associate the machete solely with the fight against empire. It has also been used as an instrument of terror. Papa and Baby Doc Duvalier’s Tonton Macoutes, the fascistic paramilitary force who brutalized their fellow Haitians between the 1960s and the late 1980s, favored it. It also became a horrifying symbol of the Rwandan Genocide in the 1990s, where it was used to help eradicate as many as a million ethnic Tutsi people. The machete was preferred for this gruesome purpose because blades are considerably cheaper than bullets. I shudder to think about these young men who slaughtered their neighbors with the same knives they used in the fields, especially when I consider my own reckless experience in East St. Louis as a teenager.
+
+The Tonton Macoutes and the Rwandan Genocide are unbridled examples of evil, but the meanings of other symbolic uses of the machete are more a matter of perspective. The post-independence flag of Angola, for example, depicts a machete crossing a gear on a red and black field.
+
+This variation on the Soviet hammer-and-sickle offers a vexillological sign of the success of communist ideology against a capitalist, “democratic” one backed by U.S. military might. Closer to home, the “terrorist”-designated Boricua Popular Army ( Ejército Popular Boricua ) of Puerto Rico is known informally as the macheteros , a reference both to the history of sugar production on the island and a declaration of allegiance to the working class and their independence from the U.S.
+
+In 2010 Robert Rodriguez released his neo-exploitation flick Machete , starring Danny Trejo. In the film, the Chicano anti-hero enacts a popular revolt against the white-dominated economic and political power structure of the director’s native Texas. In its admittedly absurd climax, Trejo’s Machete raises his blade high in the air with his left hand, and the day laborers and dishwashers making up his rebellious army follow suit. While it’s foolish to assign coherent political meaning to Rodriguez’s film, it cannot be denied that the machete is a powerful symbol of violent, popular revolt, a tool/weapon freighted with centuries of significance.
+
+Ultimately, while we could just write off Jason T. Wilson’s arrest in Tampa as a curious anomaly. But within the context of contemporary politics this minor event points toward a larger and more pressing concern: as the old manual trades die away, what symbols do we have to convey a sense of collective identity as laborers within the machinery of capitalism? I think immediately of the much-hated laser printer in Mike Judge’s Office Space , brutally beaten to death by cubicle dwellers. But a printer cannot be transformed into an insurrectionary weapon, and so it remains just an object of displaced resentment.
+
+What contemporary object can be both a tool and a weapon, like the machete? Communication technologies like cell phones might serve as one candidate, especially in light of their application during the “Arab Spring.” But can the iPhone ever bear the same gravitas as the machete? Is silicon the new steel? Information has been a part of every arsenal, revolutionary or otherwise. Still, it’s hard to imagine driving a smartphone into a body “down to the Apple.”
