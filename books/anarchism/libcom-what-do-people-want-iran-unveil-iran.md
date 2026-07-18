@@ -1,0 +1,38 @@
+---
+title: "What Do People Want Iran Unveil Iran"
+author: "Main navigation"
+date: ""
+category: "anarchism"
+source: "https://libcom.org/article/what-do-people-want-iran-unveil-iran"
+source_name: "libcom.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Iran once again has become the scene of revolt, protest and bloodshed. Even though protests are nothing new in Iran; this time there is a marked difference in the protest movements occupying the streets of many cities and towns in Iran. As the mood, expression of revolt and the slogans have changed "
+tags:
+  - "en"
+  - "anarchism"
+  - "libcom"
+files:
+  []
+---
+
+[Read on libcom.org](https://libcom.org/article/what-do-people-want-iran-unveil-iran)
+
+Iran once again has become the scene of revolt, protest and bloodshed. Even though protests are nothing new in Iran; this time there is a marked difference in the protest movements occupying the streets of many cities and towns in Iran. As the mood, expression of revolt and the slogans have changed so has the narrative of the mainstream media in the west. Up to now anytime people took to the street, we heard the narrative that people in Iran do not want an overthrow, they just want some reforms in the regime. The state reformists took to the stage to give a skewed narrative of reality. This time the agenda has changed: They’re propagating a regime change. The narrative might have changed the aim is the same: To offer a self-serving interpretation of the protest movement and people’s aspiration.
+
+But what do the people want? The desire to topple this regime and to create a free, equal and prosperous society has a deep root in Iranian society. This regime from day one has faced fierce struggle from a sizeable section of the people. Only couple of weeks after coming to power the women’s rights movement came to the streets to oppose Khomeini’s mandate to enforce the Islamic veil on women. On 8 March 1979 in the midst of organization for 8 March meetings in Tehran thousands of women took to the street and demanded freedom and equality. In response to the calls by the regime for forceful imposition of the veil as an Islamic duty and an anti-western, anti-imperialist act, demonstrators shouted: Women’s freedom is neither Eastern nor Western, but universal. This slogan was significant as at the time so-called “anti-imperialism” was dominant among the populist left. The irony was that the Islamic regime was to the bone a western/imperialist product: A result of a regime change by the US and western governments to obstruct the left gaining prominence. The uprising for a better world was hijacked by the West and the Islamic regime in 1979.
+
+Once the society began to free itself from the traumatic murderous assault of the 80s, the wave of periodical protests started; among them a few large-scale ones, in 1999 when the so-called reformist president Khatami was in power a protest started by the students which was bloodily suppressed by the regime; in 2008 there was a large protest opposing the results of the presidential so-called election, many were arrested, shot dead or murdered under torture; and in December 2017 the new wave of national protest movement began which has been ongoing and have taken different forms from workers strike to street demonstrations and street riots. The current round of protests is much more radical and militant, it’s much more widespread, it’s all over the country and many more people are involved.
+
+However, the country has been in real turmoil for the past 4 years. There have been several mass protests which have taken the country by storm for a few days, took a step back only to emerge stronger. The slogan of death to the Islamic regime and its leader has been common in all these protests. There have been numerous workers’ strikes, some lasted months. Workers have attempted to create their general assemblies and workers councils; abolishing the regime-made organizations and trying to make their own organizations; many workers, teachers and pensioners protested in the streets. Two years ago in October there was a weeklong revolt that resulted in at least 1500 deaths according to the official figures, but the real number is much higher. Arrest of workers, teachers, students and political activists has been carried out by the regime.
+
+This protest movement is not only more widespread and militant, but the main slogan and the trigger point of protests are significant as well. The protests were triggered by the tragic death of a young woman at the hands of the security force for not observing the Islamic veil; therefore, the demand for women’s liberation, against the veil. Islamic veil is a fundamental symbol of Islam and Islamic regime. The current protest movement is aiming at one of the pillars of the regime. Beautiful scenes of burning the veil took place in different cities. Women participated in the protests without the veil. (Many women had stopped observing the veil and the regime had tried to escalate the attacks on unveiled women, therefore the death of Mahsa.) Demanding women’s liberation and abolishing the rule of the Islamic veil have important politico-ideological significance.
+
+Why does the veil have such a prominent place in the political scene in Iran? The veil is the banner of the Islamic regime and movement throughout the region. The veil is the symbol of Islam. The veil is both the tool and the symbol of women’s oppression under Islam. The gender/sexual relationship in Islam is its important characteristic. The relationship between women and man under Islam is like that of slave and slave-owner; thus the significance and prominence of the veil and gender apartheid in Islam. Therefore, the Islamic regime cannot accept any setback on the question of the veil. The Women’s liberation movement will not accept the veil and gender apartheid, so this war will go on until one side completely defeats the other. Women’s right movement as mentioned above was the first movement to take to the streets against the regime and it’s the first one to impose a defeat on the regime, be it short-lived. The hostility between this movement and the Islamic regime is deep and has a long history.
+
+What we are witnessing in Iran is the culmination of the women’s liberation movement and the total integration of it in the general socio-economic and political opposition to the Islamic regime. This is the first time in history that a movement for women’s freedom and equality has equally attracted men and women in large numbers with so much dedication and passion.
+
+Women’s liberation is an important part of the protest movement but it’s not the only demand. People have taken to the street to topple this regime. Death to the regime and its leader has echoed throughout the country. People have braved the streets and are fighting with the security police. The psychology of the society has transformed; fear has subsided; people feel empowered and are defiant. They have taken to the streets to overthrow this regime.
+
+It is of paramount importance that the international progressive and freedom loving people and organizations to support the movement and show solidarity with the people in Iran. We also need to be vigilant regarding the US and the West’s regime change plot. It seems that the regime change has moved to the top of US agenda. Particularly in the last few months in the climate of US warmongering efforts to impose a new world order US has openly defended a regime change and is planning for it. The threat of another regime change like the one in 1979 is real; the danger of the people’s movement for freedom, equality and prosperity to be once more hijacked by the US and Western power.
