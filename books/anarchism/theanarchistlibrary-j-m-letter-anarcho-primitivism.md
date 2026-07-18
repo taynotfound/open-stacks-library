@@ -1,0 +1,36 @@
+---
+title: "Letter: Anarcho-Primitivism"
+author: "Anarchist Federation, Anonymous"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/j-m-letter-anarcho-primitivism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in Organise! Issue 44 — Autumn/Winter 1996. Retrieved on May 13, 2013 from web.archive.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "j-m-letter-anarcho-primitivism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/j-m-letter-anarcho-primitivism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/j-m-letter-anarcho-primitivism)
+
+I wish to take issue with the two items concerning anarcho-primitivism in the Summer 1996 edition, namely the review of Bookchin’s Social Anarchism or Lifestyle Anarchism and the essay entitled Green Politics. I’m afraid to say that if these two pieces are representative of the ACF’s understanding of anarcho-primitivism, then they show either wilful ignorance or a desire to distort.
+
+To address points made in Green Politics first. I take great exception to the assertion that anarcho-primitivism is a “green current claiming to be anarchist” (16). Would you agree, then, that anarcho-communism is a libertarian current claiming to be anarchist? The prefix ‘anarcho-’ is not just an afterthought in either case but an integral part of the descriptive label. Personally, I would deny that anarcho-primitivism is a ‘green current’ at all. Certainly, there is a pronounced ecological dimension to anarcho-primitivism but this is one strand amongst many. Why privilege that one at the expense of others (e.g. its feminist, Situationist or zero-work dimensions)? The fact is that anarcho-primitivism did not emerge from a green context, but from a radical anti-authoritarian context, and is thus first and foremost an anarchist current. Anarcho-primitivism does not ‘claim’ to be anarchist, any more than the ACF ‘claim’ to be anarchist. Both tendencies are anarchist. There’s no room for debate there.
+
+The debate comes in when you attempt to define what you mean by ‘anarchist’. I would argue that we can discern two phases in anarchist history. The first, commonly known as classical anarchism, began in the early 19 th century with figures such as Godwin, Proudhon, Bakunin etc., and reached a climactic finale in the Spanish Revolution in the late 1930s. Woodcock and even Bookchin would agree with me so far. After that, and particularly from the 1960s onwards, anarchism has undergone a transformation which renders it largely unrecognisable (and certainly unpalatable) to adherents of moribund classical anarchism. In short, I would argue that just as feminist historians acknowledge a periodization which sees first wave feminism (c. 1840–1920) succeeded by a second wave from the 1960s onwards, so anarchists should recognise a first wave (or classical) anarchism succeeded by a second wave which as yet has no label, but which is characterised, not by the narrow focus on class, the State and capitalism, but by a project which questions the totality, which seeks the abolition of all forms of control, the context of which can (for short-hand purpose) be called civilisation. In this sense, I would characterise second-wave anarchism (with anarcho-primitivism as a case in point) as typified by a quantum leap beyond the limited concerns of classical anarchism. And from such a perspective, I think you would be hard pressed to deny that anarcho-primitivism falls squarely within this definition of ‘anarchism’.
+
+Bookchin misnames “social anarchism”. On the other hand, there are (among a few dead-weights heaved in to smear the others) representatives of second-wave anarchism- what Bookchin mistakenly calls “life-style anarchism”. The ACF, with its commitment to class struggle anarchism, places itself in the former camp (despite the fact that you acknowledge that Bookchin “has lost the view that the working class is the revolutionary subject of history”, a point reiterated in Green Politics, and yet surely this view is the key plank in your position?!). It’s a pity that your reviewer didn’t mention that Bookchin’s text also includes an essay entitled The Left That Was: A Personal Reflection, in which he gets all nostalgic about the historical Left, of which he sees (classical) anarchism as a component. Don’t we all now recognise that the left is just, in that quaint phrase used in this country, ‘Her Majesty’s Loyal Opposition’, loyal to the principles of power and authority, if not to any particular socio-economic system?
+
+I was heartened by the comments in both the review and Green Politics which indicate a certain engagement and even agreement with anarcho-primitive perspectives. However, comrades, beware being caught on the wrong side of the battlefield when the shit hits the fan. I hear on the grapevine that Bookchin will shortly come under attack from all kinds of angles. I wouldn’t hitch myself to his star, if I were you.
+
+To say that our focus on class, the state and capitalism is narrow is to show little comprehension of this society. All the old oppressions of hierarchy, militarism, sexism and racism are reinforced and aggravated by capitalism and the state. Of course we’re against all forms of control, but these forms are all defined by a statist, capitalist society. Yes, we did say that Bookchin no longer believed that the working class was the revolutionary subject of history. That’s not to say that we think that the working class is the messiah class. We don’t. We’ve stated this very clearly in our new Manifesto Beyond Resistance: a Revolutionary Manifesto for the Millennium. The working class is not historically destined to carry out a revolution. What we say is that the working class, which includes the vast majority of the world population, by the nature of its oppression and circumstances, must be the class to carry out a revolution if it is to be successful. That’s a big difference.
+
+No, “classical” anarchism has not been superseded by “second wave” anarchism. For a while, in particular in places like Britain, pacifists and gradualists , with no conception of class struggle or revolution, took over the ‘movement’. People like Woodcock were able to crow about the end of “classical anarchism” (although even he had to revise his opinions). Now, as circumstances within capitalist society change, class struggle anarchism is reasserting itself. You are very much mistaken if you think that what you call “classical” anarchism has given up the ghost. As to Bookchin, we don’t “hitch” ourselves to anyone’s “star”. We recognise what is valid in Bookchin’s thought, with no loss of critical faculties, and without giving in to hero worship. It seems that the attacks on Bookchin from the anarchoprimitivist camp are personalised and vitriolic (e.g. the substitution of “BookWorm” for “Bookchin” in the pages of Green Anarchist). We’re not intimidated by your warnings. We will continue to look at libertarian thinkers in a detached fashion, giving praise where praise is due and criticising where necessary.
