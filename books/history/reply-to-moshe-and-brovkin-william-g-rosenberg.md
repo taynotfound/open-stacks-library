@@ -22,10 +22,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/66c86a0b_RosenbergreplytoBoth.pdf"
     hosted: true
 ---
-# Reply to Moshe and Brovkin - William G Rosenberg
 
-Reply to Moshe and Brovkin William G Rosenberg
-
-PDF Format (210kb)
-
-[Read original on libcom.org](https://libcom.org/article/reply-moshe-and-brovkin-william-g-rosenberg)
+Reply to Moshe and Brovkin William G Rosenberg PDF Format (210kb) Printer-friendly version Russia Eastern Europe Russian Revolution 1917 PDF Comments
