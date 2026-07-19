@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/black-autonomy-vol-2-1-1996)
+
+Including: Lorenzo Komboa Ervin on Leninism vs anarchism, the racist roots of gun control, US Prisons: the cold war of the 1990s, Deacon Alexander charged under terrorism bill, Million Man March on Washington DC, Mumia Abu Jamal, Secret FISA court, etc.
