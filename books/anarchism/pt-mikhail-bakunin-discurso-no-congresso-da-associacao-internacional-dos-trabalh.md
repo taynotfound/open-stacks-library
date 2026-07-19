@@ -19,10 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on pt.anarchistlibraries.net](https://pt.anarchistlibraries.net/library/mikhail-bakunin-discurso-no-congresso-da-associacao-internacional-dos-trabalhadores)
-
-Congresso da Associação Internacional dos Trabalhadores, Suíça, 1868.
-
-Detesto a comunhão, porque é a negação da liberdade e porque não concebo a humanidade sem liberdade. Não sou comunista, porque o comunismo concentra e engole, em benefício do Estado, todas as forças da sociedade; porque conduz inevitavelmente à concepção da propriedade nas mãos do estado, enquanto eu proponho a abolição do estado, a extinção definitiva do princípio mesmo da autoridade e tutela, próprios do Estado, o qual, com o pretexto de moralizar e civilizar os homens, conseguiu até agora somente escravizá-los, persegui-los e corrompê-los.
-
-Quero que a sociedade e a propriedade coletiva ou social estejam organizadas de baixo para cima por meio da livre associação e não de cima para baixo mediante da autoridade, seja de que classe for. Proponho a abolição da propriedade pessoal recebida em herança, a qual não é senão uma instituição de Estado, uma conseqüência direta dos princípios do Estado. Eis aí senhores por que eu sou coletivista e não comunista.
+Congresso da Associação Internacional dos Trabalhadores, Suíça, 1868. Detesto a comunhão, porque é a negação da liberdade e porque não concebo a humanidade sem liberdade. Não sou comunista, porque o comunismo concentra e engole, em benefício do Estado, todas as forças da sociedade; porque conduz inevitavelmente à concepção da propriedade nas mãos do estado, enquanto eu proponho a abolição do estado, a extinção definitiva do princípio mesmo da autoridade e tutela, próprios do Estado, o qual, com o pretexto de moralizar e civilizar os homens, conseguiu até agora somente escravizá-los, persegui-los e corrompê-los. Quero que a sociedade e a propriedade coletiva ou social estejam organizadas de baixo para cima por meio da livre associação e não de cima para baixo mediante da autoridade, seja de que classe for. Proponho a abolição da propriedade pessoal recebida em herança, a qual não é senão uma instituição de Estado, uma conseqüência direta dos princípios do Estado. Eis aí senhores por que eu sou coletivista e não comunista.
