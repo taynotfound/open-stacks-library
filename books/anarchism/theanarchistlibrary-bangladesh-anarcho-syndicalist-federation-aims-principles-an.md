@@ -20,3 +20,163 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/bangladesh-anarcho-syndicalist-federation-aims-principles-and-statutes)
+
+The Anarcho-Syndicalist Federation is a libertarian workers movement organized according to anarcho-syndicalist principles. We aim to create a society based on liberty, mutual aid, federalism and self-management.
+
+We believe the working class and the employing class have nothing in common. Between these two classes a struggle must go on until the workers of the world organise as a class, take possession of the earth and the machinery of production and abolish the wage system.
+
+In the present we take an active part in the struggle for worker solidarity, shorter hours, immediate wage increases and improved working conditions. And we actively oppose all attacks on workers such as conscription of labour, strike breaking, drives for increased production and longer working hours, wage cuts or unemployment.
+
+We want worker/community self-education for complete self-management of production, distribution, social organisation and preservation of a healthy ecological environment. This will come about by worker/community expropriation of wealth and the creation of alternative economic systems.
+
+We are opposed to all economic and social monopoly. We do not seek the conquest of political power, but rather the total abolition of all state functions in the life of society. Hence we reject all parliamentary activity and other collaboration with legislative bodies. We believe in fighting organisations in the workplace and community, independent of, and opposed to all political parties and Trade Union bureaucracies.
+
+Our means of struggle include education and direct action. To ensure the full participation of all in both current struggle and the future self-management of society, we oppose centralism in our organisations. We organise on the basis of Libertarian Federalism that is from the bottom up without any hierarchy and with full freedom of initiative by both local and regional groups. All co-ordinating bodies of the Federation consist of recallable delegates with specific tasks determined by local assemblies.
+
+We see the world as our country, humanity as our family. We reject all political and national frontiers and aim to unmask the arbitrary violence of all governments.
+
+We oppose all attitudes and assumptions that are harmful and injurious to working class solidarity. We oppose all ideologies and institutions that stand in the way of equality and the right of people everywhere to control their own lives and their environment.
+
+This FEDERATION shall be known as the ‘Bangladesh Anarcho-Syndicalist Federation –(BASF) BASF starts it journey -1st May, 2014
+
+The BBASF is a federation of affiliates organised as either general membership affiliates of industrial association affiliates.
+
+All affiliates shall be know by a name of their own choosing either as general membership affiliates distinguished by locality or region, or as workers associations distinguished by type of industry. All affiliates shall be numbered by chronological order of affiliation with no number repeated.
+
+All affiliates have full freedom to initiate actions in their own name at local and industrial levels.
+
+All decisions are made after full debate by all members meeting in the duly constituted assembly of their affiliate.
+
+No organisational positions to have any executive powers. All delegated and other organisational positions to be elected and recallable at any time. The maximum term of tenure for all positions shall be one year.
+
+Membership of BASF affiliates shall be open to all workers, employed or not.
+
+No member of an BASF affiliate shall be: a. A paid official of a trade union or a craft union, or an office-bearer of a political party or religious organisation. b. Someone who has powers of hiring and firing in their occupation.
+
+All new members in agreement with the Basis for Federation and who agree to abide by the Organisational Agreements of the BBASF, join by paying dues to their nearest local Finance Delegate.
+
+All members shall have an equal voice and an equal part in decision-making within the Federation.
+
+Members shall organise themselves into general membership affiliates based on locality or region or workers associations based on type of industry. These affiliates are the main ongoing forum for debates and the major focus for agitation. No person shall be a member of more than one affiliate.
+
+To apply for affiliation a Local must meet the following conditions: a. Meet in assembly regularly, at once a month minimum. b. Have an elected Secretary and Treasurer. c. Make available a permanent and public postal and email address. d. Agree to pay Federation dues on an annual basis. e. Be sponsored by another affiliate on a provisional basis.
+
+To be accepted as an affiliate, the provisional affiliate must be accepted by all other BASF affiliates at an BASF Congress.
+
+No affiliate may have less than three members. Whenever an affiliate falls below that number, the remaining members shall return all funds and supplies to the BASF Secretariat.
+
+All affiliates shall receive the help and support of the organisation in times of hardship and trouble.
+
+Affiliates who choose the leave the BBASF are asked to notify the organisation through the Internal Bulletin.
+
+One or two members may establish initiatives in new geographic localities or industries as a precursor to the founding of new affiliates.
+
+Initiatives may be known by names of their own choosing while making it clear that they are an initiative. Initiatives may maintain separate contact addresses.
+
+All initiatives are accountable to the affiliate from which they originate.
+
+Affiliates may form regional or industrial Federations with other affiliates of the BASF in their region or industry.
+
+Regional and industrial Federations will determine their own structure, meeting times, activities and tasks, delegation processes and finances.
+
+At each Congress an affiliate will be chosen to be responsible for the function of BASF Secretariat, whose term shall run until the next Congress.
+
+The BASF Secretariat may at any time be recalled at an Extraordinary Congress. Such a recall to be initiated upon a proven intentional breach of duties as mandated by the BASF Statutes and Congress.
+
+In the event of an affiliate being unable, for whatever reason, to carry out the functions and duties of the BASF Secretariat, a replacement will be chosen on a provisional basis.
+
+The duties of the BASF Secretariat shall include: a. Responsible for the general BASF finances and to issue a yearly financial report. b. Co-ordinate communication between all BASF affiliates. c. The responsibility for maintaining close contacts with all the overseas organisations with which the BASF has friendly relations. d. The sending of regular reports of BASF activities to the International Workers Association Secretariat. e. Maintain the BASF website. f. The dispatch of special BASF communiques to overseas addresses as directed. g. The payment of international dues.
+
+Each affiliated Local shall elect a Local Secretary and a Finance Delegate, who can serve only one term at a time.
+
+All candidates for affiliate Secretary and Treasurer must have been financial members for 6 months prior to nomination, except in the case of new affiliates.
+
+Both the affiliate Secretary and the Treasurer may at any time be recalled. Such a recall to be initiated upon proven breach of duties as described in the Organisational Agreements.
+
+The duties of the affiliate Secretary shall include: a. The collection, and tabling in a duly constituted assembly, answering and filing of all mail electronic or otherwise, addressed to the affiliate. b. Responsibility for the taking and filing of minutes of meetings of affiliate assemblies.
+
+The duties of the Treasurer shall include: a. The collection of dues. b. Sending to the BASF Secretariat all Federation dues received. c. The issuing of a financial report each month to the assembly. d. The notification to members of dues owing.
+
+Any 3 or more BASF members, not necessarily in the same affiliate, may set up Special groups to pursue special areas of activity or concern not carried out by other groups of the organisation.
+
+The work of such Special Groups must be consistent with the Basis for Federation and the Organisational Agreements of the Anarcho-Syndicalist Federation.
+
+In order to operate as a Special group under the name of the BASF, those concerned must submit their aims, proposed activities and internal workings to the BASF Secretariat.
+
+A proposal for a new Special Group is accepted if all responding affiliates agree. No response implies abstention.
+
+All Special Groups must elect a Secretary responsible for correspondence.
+
+Non-BASF BASF members who are not hostile to the Federation may participate on an equal basis within the Special Group.
+
+0. All members shall pay monthly or annual dues. Dues for unwaged or low income members shall be set at a lower rate. The Dues rate to be set by each Congress.
+
+Locals may exempt persons in special need from paying their dues wholly or in part.
+
+All members shall be considered if their payment of dues has not lapsed for a period of six months. Non- financial members will not be eligible for any offices or mandated functions.
+
+At each Congress the proportional allocation of all funds collected shall be decided for the forthcoming period. Financial reports on all money collected and its allocation to be the responsibility of the BASF Secretariat.
+
+0. The BASF shall maintain a website. The BASF Secretariat shall be responsible for its maintenance.
+
+Affiliates and Special Groups may issue in their own name papers, pamphlets, websites and any other publications.
+
+The BASF shall produce letterheads and seals for use by the BASF Secretariat. The design of any letterheads issued by any affiliates must be such that it is clear they don’t represent the BASF as a whole.
+
+All publications shall clearly state who they are published by.
+
+Locals make decisions in their own name by methods of their own choosing in accordance with Article 2 of the Organisational Agreements.
+
+A Congress of the BASF shall be held in order to accept affiliates; choose the BASF Secretariat, set dues rates, initiate publications of the BASF, and make amendments to the Basis for Federation and Organisational Agreements of the BASF.
+
+Agenda items shall be proposed by affiliates at least 3 months in advance of Congress. Late agenda items to be dealt with in the order received, time allowing.
+
+Agendas, Congress materials, Reports and other relevant information shall be circulated to all affiliates by the BASF Secretariat at least 6 weeks prior to the Congress.
+
+That delegates to the BASF Congress have written authorisation of their delegate status from their affiliate Secretary and Treasurer. A Credentials Group has the responsibility to confirm the identity and status of delegates to Congress. In situations where people attending Congress have no written delegate authorisation, the Credentials Group may take reasonable steps to ascertain their status and may decide to give them delegate or observer status.
+
+Congress is open to all members. Only Congress delegates from affiliates may speak on behalf of those affiliates.
+
+Congress proceeds according to the order in which items appear on the agenda with the first item being applications of provisional affiliates. This procedure will be altered only if there is an urgent matter which requires consideration or action by Congress and a motion to alter the agenda is agreed to by a majority of affiliates.
+
+Congress shall attempt to make decisions by consensus. When decisions cannot be made by consensus a Resolution Group shall be chosen by Congress. The Resolution Group shall consist of at least 3 delegates. The Resolution Group shall draw up a synthesis of the various positions for further discussion at Congress.
+
+If consensus on the synthesis is not achieved, resolution shall be reached by simple majority on the basis of one vote per affiliate.
+
+All decisions and the full wording of resolutions to appear in the BASF Congress report to be distributed by the BASF Secretariat to all affiliates.
+
+All decisions to be ratified by affiliates in duly constituted meetings of their assemblies. Ratification is a recognition that correct procedure has been followed.
+
+If a decision, due to extenuating circumstances, must be made as quickly as possible, an Extraordinary Congress can be held.
+
+An Extraordinary Congress shall be called by the BASF Secretariat if requested by no less than two affiliates.
+
+An Extraordinary Congress is to be convened at the earliest possible opportunity after all affiliates have been informed of the issue, enabling them to call emergency meetings and choose delegates.
+
+Extraordinary Congress decision-making will be the same as Congress.
+
+If a decision needs to be made between Congresses and does not require an Extraordinary Congress the following procedure applies: a. An affiliate sends a numbered and dated proposal and reasons to the BASF Secretariat. b. The BASF Secretariat sends the proposal and reasons to all other affiliates and issues a report. c. The affiliates must answer within two months of receiving the proposal. d. The proposal is accepted if all responding affiliates agree. No response implies abstention.
+
+0. A Conference of the BASF is a non-decision-making event and can be called by any BASF affiliate or Special Group.
+
+Conferences are open to all members of BASF affiliates and accredited observers.
+
+Conferences can pass resolutions that are recommendations to Congress.
+
+Conferences shall be self-regulating regarding resolutions, structure, length of sessions and scope.
+
+0. Affiliates shall be responsible for the discipline of their members.
+
+Affiliates maintain the right to expel members found contravening the Basis for Federation and Organisational Agreements of the Anarcho-Syndicalist Federation.
+
+Reasons for expulsion must appear in the minutes of a duly constituted meeting (Notification of Expulsion).
+
+Members have 30 days from the Notification of Expulsion, to submit their case to a duly constituted meeting.
+
+Members who are found to owe 12 months dues shall cease to be members.
+
+Affiliates can only be disaffiliated by a Congress decision that they have contravened the Basis for Federation and Organisational Agreements.
+
+All members of a affiliates that have been disaffiliated may transfer their membership to another affiliate.
+
+0. The BASF shall be affiliated to the ASF Australian Section of the International Workers Association (IWA).
