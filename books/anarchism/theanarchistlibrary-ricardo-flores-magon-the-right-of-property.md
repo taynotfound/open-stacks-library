@@ -1,0 +1,42 @@
+---
+title: "The Right of Property"
+author: "Ricardo Flores Magón"
+date: "2012"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/ricardo-flores-magon-the-right-of-property"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Regeneracion, March 18, 1911. Retrieved on July 17, 2012 from www.theyliewedie.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "ricardo-flores-magon-the-right-of-property.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/ricardo-flores-magon-the-right-of-property.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/ricardo-flores-magon-the-right-of-property)
+
+Among all of the absurdities that man reveres, this is one of the greatest and one of the most revered.
+
+The right of property is ancient, as ancient as man’s stupidity and blindness; but just the antiquity of a right can not give it the “right” to survive. If it is an absurd right, it is necessary to abolish it without giving importance to its birth at the time when man covered his nakedness with the animal skins.
+
+The right of property is an absurd right because it had its origins in crime, fraud, and abuse of power. In the beginning, the individual’s right of territorial property did not exist. Land was worked in common, forests provided firewood to the hearths of all, harvests were distributed among the members of the community according to their needs. Examples of this nature can still be seen in some primitive tribes, and even in Mexico this custom thrived in indigenous communities in the era of Spanish domination, and lived until relatively recently, being the attempted act of despotism to take away the lands of those indigenous tribes, lands that they had cultivated in common for many centuries the cause of the Yaqui Wars in Sonora and of the Mayas in the Yucatan.
+
+The individual’s right of territorial property was born of the attempt of the first ambitious person that brought war on a neighboring tribe to commit it into the servitude, the land that the tribe cultivated in common coming under the power of the conqueror and his captains. Thus through the means of violence, through the means of force was born private, territorial property. Speculation, fraud, theft — more or less legal, but still theft — are other origins of private, territorial property. Then the first thieves having seized the land, they themselves created laws to defend what they called and still call in this century a “right”, that is, the right they gave themselves to use the lands that they had stolen and to enjoy the product of them without anyone bothering them. It is important to note that the displaced were not the ones to give those thieves the right of property; it was not the people of any country who gave the power to confiscate that resource, to which all humankind has the right. It was the thieves themselves, who protected by the force, wrote the law that would protect their crimes and hold in check the displaced from possible revenge.
+
+This so-called right has been passed from fathers to sons through inheritance, so that resources which should be common, have remained in the command of a social caste only with obvious prejudice of the rest of humanity whose members were born when land was already divided among the few shirkers.
+
+The origin of territorial property has been violence, through violence it is still maintained; since if someone wants to use a piece of land without the consent of the so-called owner, he must go to jail, taken into custody precisely by the henchmen that are maintained not by the landowners but by the common worker, although the contributions apparently come from the coffers of the rich, they are very skillful at finding ways to reimburse themselves by paying starving wages to the farmers and selling them articles of primary necessity at high prices. Then in that way then the people, with their work, maintain the henchmen that deprive them from taking what belongs to them.
+
+And if this is the origin of territorial property, if the right of property is nothing more than the legal consecration of crime, why lift arms to heaven when it is known that the Mexican Liberal Party works to expropriate the land that the rich monopolize, that is, the descendants of the thieves that had taken possession through crime, to turn it over to the natural owner, that is, the people, that is all the citizens of Mexico?
+
+Some Maderistas sympathize with the idea of turning the land over to the people; but conservatives in the end, they want the act to reflect a legal solemnity, that is, they want a congress to decree the expropriation. I have written much on this topic, and I am amazed that there are still those who cannot understand what I have said, because I presume that I have spoken with complete clarity. “No congress, I have said, would dare to decree the expropriation of land, because the Congressional seats will not go to the workers but to the bosses; they will not go to the uneducated and the poor, but to the intellectuals and the rich.” That is to say, in Congress the so-called ruling classes: the rich, intellectuals, scientists, professionals will be represented; but it would not permit any worker of pick and shovel, any unskilled laborer, any workman to sneak in and if through a true miracle any worker was to freely obtain the threshold of the dwelling-place of the law, how could he struggle against men practiced in the art of verbal debate? How could he have his ideas considered if he lacked the scientific knowledge that the bourgeois possessed in abundance? But one could say that the working people would send competent people to Congress to represent them. Throughout the world the so-called representatives of labor in the parliaments have been discredited. They are as much bourgeois as any other representative. What have the workers’ representatives of the English people done in the House of Commons? What objective gain have the workers’ representatives obtained in the French Parliament? In the German Parliament there are a large number of workers’ representatives and what have they accomplished in favor of the economic freedom of the workers? The Austrian-Hungarian Parliament is noted or the enlarged number of workers’ representatives that sit on its boards and nevertheless the problem of hunger in Austria-Hungary is unresolved, just as in any other country where there are no representatives of labor in Congress.
+
+There is, then, the need to let go of the illusion. The expropriation of the land possessed by the rich, should be realized during the present insurrection. We liberals will not be commiting a crime by turning over the land to the working people, because it belongs to them, the people; it is the land that their most distant ancestors lived on and watered with their sweat; the land that the Spaniards robbed by force from our Indian fathers; the land that those Spaniards gave as inheritance to their descendants, who are the ones that actually possess them. That land belongs to all Mexicans by natural law. Some of them might have bought it; but where did they get the money to make the purchase if not from the work of the Mexican unskilled workers and laborers? Others took that land denouncing it as wasteland; but if it was wasteland, it belongs to the people and no one had the right to give it to whomever offered a few dollars for it. Others might have acquired the land by taking advantage of their friendship with government men to obtain it without it costing them a cent if it were wasteland, or through judicial dealings if it belonged to an enemy of the dictatorship or a person of no influence or money. Others still acquired the land by giving loans with high interest to the small farmers that ended up compelled to leave the land in the hands of the Matatías [hired assasins], unable to pay the debt.
+
+Compañeros: All who hold the conviction that the action the Liberal Party is going to take is humanitarian, endeavor to convince those who still adore capital and revere this so-called right of property, that the Liberal Party is in the right, that their work will be a work of justice and that the Mexican people will be truly great when they can reap the benefits of land and liberty without obstacles.
