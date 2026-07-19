@@ -1,0 +1,28 @@
+---
+title: "Review: Witches, Witch-hunting, and Women"
+author: "Kimberly Croswell"
+date: "2024"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/kimberly-croswell-review-of-witches-witch-hunting-and-women"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in Anarchist Studies Volume 29, Number 1, pp. 126-127. Online at journals.lwbooks.co.uk/anarchiststudies. Retrieved on Jan 15 2024 from blog.pmpress.org."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "kimberly-croswell-review-of-witches-witch-hunting-and-women.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/kimberly-croswell-review-of-witches-witch-hunting-and-women.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/kimberly-croswell-review-of-witches-witch-hunting-and-women)
+
+Silvia Federici’s Witches, Witch-Hunting, and Women is an important feminist intervention in the history of Western capitalism that exposes the continuum between historical and contemporary cultures of misogyny. The book is divided into two parts. Part one outlines the growing interest in re-examining European witch-hunting as the phenomenon ‘that paved the way for the modern capitalist world’ (p12). Part two applies the history of witch-hunting to present-day systemic violence against women. Federici explains how capitalism’s war against women began in the sixteenth century, the early Renaissance, with the enactment of enclosure laws that enabled the wholesale destruction of communal property relations. The witch hunts emerged as social elites – landowning gentry, the church, and upwardly mobile bourgeoisie – sought to disempower women and expropriate land by weaponizing Christian mythology to identify women as the potential embodiment of evil. Far from rational, science-lead development, Federici argues that the shift to modern capitalist society required new superstitions and new fears to be instilled in the populace. Accusations of witchcraft was a terror tactic designed to not only destroy women’s economic and sexual independence, but also their communal support networks and social contributions as healers, midwives, and merchants. Women, as a result, were victimised by systemic impoverishment and targeted for resisting the destruction of their communal-oriented being. The ramifications spanned economic and social spheres, rippling into the present. Interestingly, Federici even addresses the linguistic influence of the witch-hunts, including the effemininisation of ‘gossip’, a word that has evolved from its original meaning of female fellowship – to signify disparaging idle chatter.
+
+In the second half of the book Federici reveals witch-hunting is not an isolated historical event: it constitutes a continuum into brutal new forms of violence against women spread by the growth of neoliberal globalisation. The worst atrocities are committed by contemporary patriarchies. They are tantamount to ‘feminicide’ and intensify at the cultural intersections of racism and capitalist economic restructuring. This manifests as disproportionately racialised murders of women in North America, a rise in ‘dowry murders’ in India, and the literal resurgence of witch-hunting among evangelists in multiple African nations. Federici’s argument is significant and far reaching, but in one instance it is diminished by her application of the label ‘Native American’ while referencing missing and murdered Indigenous women in Canada. This term is a colonial construct: the correct term, which should be adopted by scholars across Turtle Island, is ‘Indigenous’. Secondly, I would caution against assuming hypersexualised images of women are a source of violence against women, as women’s self-presentation as a sexual being is not the fundamental problem: the problem is rape-culture, and predatory masculine desire treating women’s bodies as a form of property. However, the strengths of this book far outweigh these criticisms. Not only does Federici detail women’s resistance to patriarchal oppression, she offers practical solutions to resolve the issues and hold governments, institutions, and movements accountable for the violence. For example, Federici questions why many feminists have not spoken out more loudly against contemporary witch-hunting practices in Africa. She blames a Western rational bias and a tendency towards political correctness that is loathe to portray non-White, non-Western cultures as irrational. As Federici demonstrates, irrationality has very little to do with the issue; the issue is expropriation masquerading as Christian righteousness. Federici’s work is uniquely constructive methodological critique of a truly radical cultural theorist.
+
+By identifying the materialist roots of systemic gender crimes and injustices, Federici takes the long view of the feminist struggle and situates it outside of identity politics’ representational limitations. She recognises the intersecting injustices visited upon women by patriarchal societies intent on dispossessing women of their homes and community functions in the name of greed and insecurity. This was fostered in the past in the course of mercantile economies’ evolution into full blown capitalism during the early Renaissance and appears again as communities endure neoliberal economic restructuring programs. The social impoverishment of women is an ongoing battle. This book outlines not only the horrors of misogyny, but also present-day strategies of resistance. Most importantly, it offers solutions to contemporary cultural, social, and economic challenges women face at the intersections of capitalism, racism, and patriarchy.
