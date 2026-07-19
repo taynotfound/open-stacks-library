@@ -30,10 +30,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/nationalism_and_culture_rocker_rudolf.epub"
     hosted: true
 ---
-# Nationalism and culture - Rudolf Rocker
 
-German anarcho-syndicalist Rudolf Rocker's classic text on nationalism and culture.
-
-From anarchosyndicalism.net and anarchyisorder.org
-
-[Read original on libcom.org](https://libcom.org/article/nationalism-and-culture-rudolf-rocker)
+nationalism_and_culture_rocker_rudolf.epub (811.26 KB) Nationalism and Culture - Rudolf Rocker.mobi (1.09 MB)
