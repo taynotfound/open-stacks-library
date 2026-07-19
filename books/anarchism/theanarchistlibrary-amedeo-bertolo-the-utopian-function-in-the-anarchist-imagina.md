@@ -1,0 +1,78 @@
+---
+title: "The Utopian Function in the Anarchist Imaginary"
+author: "Amedeo Bertolo"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/amedeo-bertolo-the-utopian-function-in-the-anarchist-imaginary"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A text presented at the seminar, “Les Incendiaires de l’Imaginaire”, Grenoble, March 19–21, 1998, and published in AA.VV., Les Incendiaires de l’Imaginaire, Atelier de Création Libetraire, Lyon, 2000 Retrieved on 17th May 2021 from autonomies.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "amedeo-bertolo-the-utopian-function-in-the-anarchist-imaginary.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/amedeo-bertolo-the-utopian-function-in-the-anarchist-imaginary.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/amedeo-bertolo-the-utopian-function-in-the-anarchist-imaginary)
+
+A profound transformation of fundamental social structures – a “revolution”, if we wish – also demands a profound transformation of psychological structures and, as with one or the other, these only occur under the pressure of a strong emotional charge, of a powerful and impassioned desire for change, present either in significant social agents (“vanguards” in the military-Marxist lexicon, “minoritarian agents” in the libertarian lexicon of 68), or in genuinely popular environments (the exploited, the dominated, the humiliated people …). For this, it is necessary for an imaginary, not only rationally lucid, but also emotionally rich, to be widely diffused and capable of inflaming spirits (not an imaginary to tepidly warm over nostalgia and alleviate frustrations), capable of becoming an incendiary imaginary. The utopian dimension is, I believe, essential for this subversive function of the imaginary. I will therefore speak of utopia and I will speak of it most predictably “in an anarchist sauce”.
+
+Preliminary to any critical reflection on utopia is its semantic definition: definition of terms, concepts and contents. In effect, as with so many other terms – “socialism”, “freedom”, “self-management”, “democracy” … – “utopia” is a word-box, into which can be put – and into which was – many things, some mutually coherent, others contradictory. Accordingly, the disagreement of judgements has not only to do with conflicting attitudes in the confrontation with the existing social order, that is, with the ideological presuppositions of those who expressed or express the judgement, but also with the multiplicity of meanings that can be attributed to the word “utopia”.
+
+I believe that, on the basis of Bloch’s and Mannheim’s reflections [1] , it is possible to schematically identify five basic meanings of utopia, of “no-where”:
+
+Impossible social order : what is not, never was and never will be;
+
+Tension of change : tension between what is and what we would like there to be;
+
+Model of a different society : desirable or frightening (in this last case, one speaks of dys topia);
+
+With respect to the first meaning, an antecedent distinction should be clearly present: between what is absolutely unrealisable and what is relatively unrealisable. This distinction between relative and absolute impossibility cannot obviously be left to the ideologues of the status quo that purposefully confuse the two impossibilities, transforming into “natural laws” behaviour that is culturally induced by specific social contexts. History demonstrates that everything which is relatively impossible can become possible, or better, real; not only our dreams, but also, woe is us, our nightmares.
+
+As regards the second meaning, it is evident that human action is impossible without an image of the future. And, precisely in the utopian dimension, it is very easy to see how the future, when imagined as radically different from the present, can determine individual and collective action, reflecting itself in the present in the form of expectations, programmes, a tension towards the new. Or, it may be no more than daydreaming, a sort of evasion. But, even in this case, is utopia utterly insignificant, if what the English poet Auden said is true that “man needs escape as he needs food and deep sleep”? However, the future – that is, the image of the future – is never insignificant, because the future is in the present – as is the past, the image of the past – and the present is determined by it. This is so obviously true that the dominant ideologies have always written and rewritten the past, as well as the future, in function of the present.
+
+Utopia, in contrast, can be said to tend to rewrite the present in function of the future, its future. There is no objective future, as there is no objective past: there are representations of the past and of the future which express diverse ideological relations with the present.
+
+The expectation of a better future social order is not however sufficient to define the specificity of the utopian tension (except perhaps in its millenarian variety). To the dimension of hope must be joined the dimension of desire, which is the dimension of creative intelligence, of intelligence capable of projecting a future. This is utopia as a model, as a mental experiment, as a project.
+
+All of the meanings of utopia, here quickly reviewed, except, of course, utopia as absolute impossibility, can, in my opinion, be considered as aspects of a single utopian function , a function defined by a strong emotional and intellectual tension directed at changing social structures; a function that is in itself dynamic , rupturing, even though the model that animates it is static. This is a function that is proper to anyone – individual, social group, movement – that cultivates the hope and desire for a radical transformation of society.
+
+At this time, the positive and necessary nexus between utopia and anarchism is already implicitly outlined. Anarchism expresses the hope and the desire for a social transformation so radical, so in contradiction with the existing order, for a future so different from the present, to the point that an extremely powerful utopian tension becomes possible. But this same extremely powerful utopian tension is also necessary to direct the social order and individual behaviour towards a change so exceptional that it implies a true and real qualitative jump, a true and real cultural mutation . This utopian tension is necessary to render possible the apparently impossible, to make the future and the no-where live here and now .
+
+“Be realistic, demand the impossible”: the slogan of the French May, only apparently absurd, expresses well the utopian tension that was at the origin of that 1968 revolt, which this year celebrates its 30 th anniversary, as it does every other social movement. And the other felicitous slogan, “It is forbidden to forbid”, revealed the strong libertarian element of that utopian tension.
+
+The utopian function is therefore central to anarchism. On the other hand, utopia only finds its fullest meaning, its most extreme and coherent meaning, in its anarchist incarnation. Only as anarchist is utopia not destined to enter, before or after, into contradiction with itself and only in this way can it, on the contrary, imagine itself as a permanent function.
+
+Why? Because the specificity of anarchism – and therefore of the anarchist utopia – resides in its axiological foundation, a foundation which makes of freedom its central value. This freedom is taken to its extreme implications and is inextricably tied to equality , solidarity and diversity which, together, constitute the aims and the social consequences of the same. From this fundamental and unrenounceable choice of freedom follows the guarantee of the impossibility of the anarchist utopia converting itself into an ideology in the sense that Mannheim gives to this term, that is, as a justification of what exists. Anarchism’s utopian tension is inexhaustible because the dimension of freedom is inexhaustible. The anarchist utopia cannot move from one closed system to another, even less become totalitarian, as, conversely, can occur with utopias that move within the spatial imaginary of domination.
+
+There cannot be an anarchist system as the destination – close or far – of humanity. There is, in the anarchist utopia, a space of freedom to explore, a space to experiment with an infinite number of social forms with anarchist tendencies, a space of freedom to conjugate, in infinite ways, equality and diversity.
+
+Finally, given that anarchism, in coherence with its choice of freedom, does not believe in historical determinism, in history’s necessary and progressive advance, but rather conceives of social change as a voluntary action, it a positive value to utopia as a model, or instead, as an open multiplicity of models. It is utopia as a project, where models are used as thought experiments, as instruments of critical knowledge of what exists … and of the non-existent which denies it; where a project is not a definitive and global plan, nor the “abuse of power over the future and over the masses”, nor a totalitarian dream of social engineers and “enlightened princes”, but an open, dynamic, experimental and collective creativity, where theory and practice act continually and together.
+
+The utopian function is therefore the anarchist utopia to the highest degree and it manifests itself as the subversive function of the social imaginary.
+
+With this I reaffirm the positivity of both utopia and the imaginary, two terms usually united by a negative, disdainful, meaning. In fact, both in language and in common sense opinion, as utopia is illusion, the imaginary is also unreal. The imaginary sick person is falsely sick; it is that person who believes that they are sick, without being so. But this is not quite the case; on the contrary. Psychosomatic medicine already encourages greater caution; it teaches that the distinction/opposition between the real and the imaginary is everything but defined. And, above all, here it is not a matter of the human body, nor of its physical organs, but of society and its cultural “organs”.
+
+Today, only a disingenuous and grossly materialistic social science can think of a distinction/opposition between the real and the imaginary. A society is not comprised of things, but of relations. Even the possibility of constituting itself into a social order is grounded in an ensemble of representations, values, norms, models of behaviour … in a word, in the imaginary. A social order is, before all else, a symbolic order. In this sense, therefore, the imaginary, far from being unreal, merges with social reality. Even the economy, which is frequently considered the material base of society, is made up not of things, but of relations between people and between people and things. And economic relations are based on the imaginary, no less than political relations … or erotic. The economic “structure” is not more “material” in the strict sense of the term than the judicial “super-structure”.
+
+Social reality exists because we ourselves represent it and how we ourselves represent it. One cannot say obviously that everything that is imaginary is real. However, one can say, I believe, that in the social field, all that is real is imaginary.
+
+Erich Maria Remarque affirms that “man lives 75% from fantasy and 25% from reality”. Robert Musil writes that “what is essential takes place in the imaginary and what is irrelevant in reality”. They are two literary and paradoxical ways of saying the same thing.
+
+To say that all that is, is imaginary, is in no way equivalent to saying, with Hegel, that all that is real is rational. It is completely different. As Eduardo Colombo wrote, “the rules, the traditions, the myths, the meanings that comprise the symbolic universe, that organise the imaginary representations of the world, do not all and simultaneously appear to the consciousness of the women and men who live them. On the contrary, they are largely unconscious”. [2] And the apparent rationality of the social imaginary is today based upon an abundant material that is not only unconscious, but also irrational. It is the unconscious State, [3] of which René Lourau speaks, that maintains the apparent rationality of the existing social order!
+
+In fact, the mother-father State gives form – as Lourau says – to our representations. It gives form to our social imaginary, legitimising hierarchical institutions and gregarious-authoritarian behaviour, and receiving from these in turn legitimacy, in a vicious, self-sustaining circle: the circle of domination. This circle can only be broken with a subversion of the social imaginary, with an anti-hierarchical cultural process, with a conscious struggle against the State unconsciousness.
+
+The spirit of revolt is not born of material conditions, even if these are terrible, much less amidst the relative well-being of the Western world. It is born rather of conditions lived as unacceptable, but lived precisely as such. Unacceptability is not an objective category. It is subjective. A miserable salary, a hovel for a home, … are not in themselves unacceptable. Hundreds of millions, billions, of men and women tolerated and tolerate this. What determines acceptability and unacceptability are expectations, values, fears, hopes, the representations of the imaginary, that is, the imaginary that an individual or a social group has of itself and of the world. The unbelievable docility with which millions of Jews allowed themselves to be taken to slaughter in the lager and millions of Russians in gulags , the unbelievable acceptance of the centuries old caste system by the lower castes, the unbelievable enthusiasm with which millions of men massacred themselves in so many wars, the unbelievable, thousands of years old, subordination of women to men … all of this is explained by the determining strength of the imaginary. If a Jew imagines her/himself as a victim, then s/he will allow her/himself to be victimised; if a woman imagines herself as inferior to a man, then she will consider it normal to be dominated; if a slave imagines her/himself as a slave, then s/he will feel the need for a master. If a worker imagines her/himself as a salaried labourer, then s/he can only aspire to “reasonable” improvements in her/his condition as salaried labourer and not to the “unreasonable” freedom and responsibility of self-management.
+
+The roots of domination are not in nature , but in culture; they are not in “things”, but in the imaginary. Consequently, the individual and collective revolt against domination is only possible if we think it possible , that is, if what the unconscious state and reasons of State dictate as impossible, we think possible, or still, it is only possible if the nowhere of the libertarian and egalitarian utopia negates the place of hierarchical ideology. This means to create new images of humanity and society and to spread the conviction that the imagination is imaginative activity and not the consumption of images, and that this is a task for each and everyone. As Bertrand Russell reminds us, citing Walter Bagehot’s work The English Constitution : “It is often said that men are ruled by their imaginations; but it would be truer to say that they are governed by the weakness of their imaginations.” [4]
+
+[1] E. Bloch, Spirito dell’utopia , La nuova Italia, 1980; K. Mannheim, Ideologia e Utopia , il Mulino, 1978.
+
+[2] Eduardo Colombo,”Dell’obbedienza. Il potere e la sua riproduzione”, Voluntà , nº 2, 1984, p. 94.
