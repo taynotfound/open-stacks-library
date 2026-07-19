@@ -19,12 +19,4 @@ files:
     hosted: true
 ---
 
-# Woman in the Nineteenth Century
-
-**Author:** Margaret Fuller  
-**Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/8642)  
-
-## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/woman-in-19th-century-fuller.epub)
-
-[Original source](https://www.gutenberg.org/ebooks/8642)
+For your e-reader or reading app — Kindle, Kobo, Apple Books, Calibre etc. There may be more files related to this item. Project Gutenberg eBooks are always free!
