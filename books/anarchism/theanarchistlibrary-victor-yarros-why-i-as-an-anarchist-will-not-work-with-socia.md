@@ -1,0 +1,52 @@
+---
+title: "Why I, as an Anarchist, Will Not Work with Socialists"
+author: "Victor Yarros"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/victor-yarros-why-i-as-an-anarchist-will-not-work-with-socialists"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Twentieth Century 4 no. 24 (June 12, 1890): 3–5. Retrieved on 2020-06-11 from www.libertarian-labyrinth.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "victor-yarros-why-i-as-an-anarchist-will-not-work-with-socialists.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/victor-yarros-why-i-as-an-anarchist-will-not-work-with-socialists.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/victor-yarros-why-i-as-an-anarchist-will-not-work-with-socialists)
+
+I find it exceedingly difficult to comply with the editor’s request for a comparatively brief statement of the reason “Why I, as an Anarchist, will not work with Nationalists, Socialists, and Single-taxers.” I doubt not that the editor realizes fully as well as I do the utter absurdity of the question; and if he has put it and has solicited an answer, it must be because the confusion in the mind of what we love to style “the public” is so dense that the most self-evident propositions need to be soberly and elaborately subjected to verification and demonstration in order to make them follow you.
+
+To begin with, my Anarchism, I trust, is not incompatible with my being a thinking and reasoning individual. And, as has been well said, we thinking individuals are bundles of ideas; and when these ideas meet in the arena of the world of letters battle ensues. As long as unanimity of judgment does not exist, such battle is natural and unavoidable. He who is not content to remain in blissful ignorance, but seeks to grasp and master the highest and loftiest truths knowable, will not and can not desist from frankly and emphatically expressing the highest truth he possesses, for in this alone he finds life and health. No one desires to hoard and monopolize ideas; on the contrary, every one is anxious to diffuse and share his thought. As the poet sang:
+
+If you divide suffering or dross, you may Diminish till it is consumed away; If you divide pleasure, and love, and thought, Each part exceeds the whole; and we know not How much, while any yet remains unshared, Of pleasure may be gained, of sorrow spared.
+
+It is clear, then, that if, as an Anarchist, I entertain certain views of social life and growth, and profess certain well-defined doctrines regarding conduct, it is as natural for me to desire and give publicity to the views and doctrines as it is for a bird to sing. Where the liberty of expression is denied, men readily die in the struggle to acquire it. Can it be asked of those who enjoy the opportunity of free utterance to voluntarily deprive themselves of this inestimable boon? They could not if they would, and would not if they could.
+
+But apart from this aspect of the matter, it is obvious that from the standpoint of utility such a course of action must be pronounced unjustifiable. All broadminded and earnest persons, whether Socialists, semi-Individualists, or Anarchists, are equally interested in discovering the most perfect and equitable solutions of the many problems now agitating mankind. In the absence of absolutely free and unreserved discussion, the progress of scientific knowledge is simply inconceivable. Hence it is to the interest of each to hear and know and comprehend all sides; he cannot consider his own opinion matured and formed until he has acquainted himself with all opinions held and advanced upon the subject engaging his attention. What would be the consequence of a general agreement to act upon the policy of concealing all exceptional and novel thoughts? Manifestly, universal ignorance. Indeed, so intensely do we realize the necessity of absolute truthfulness in this matter that we feel very indignant at every conspicuous thinker who falls under the suspicion of double dealing and time-serving hypocrisy. Just as, in ordinary commerce, general disregard of contracts and violation of promises would lead to the disruption of industrial society, so the practice of shutting out thoughts from the light of discussion would result in the dementalization (if I may so express myself) of men. I claim, therefore, that free competition in the realm of thought is a form of indirect and profitable cooperation—cooperation in the search and discovery of truth and knowledge. All thinking men, in this very important sense, work together.
+
+As to those dogmatic theorists and practical reformers who imagine or pretend to have a divinely-appointed mission in this world, who are intolerant and impatient, who noisily proclaim their right to enforce their own notions and reconstruct society by violent methods, of course cooperation with them is neither possible nor desirable. Between them and rational and sincere men there can be neither peace nor compromise.
+
+Doubtless at this point the indulgent reader will interrupt me, and beg to make something like the following remark: “I think I understand the drift of your reflections, and I assure you that nobody would ever dream of contradicting you. What you say is certainly true, but scarcely new. You insist that, so far as theoretical divergencies are concerned, no restrictions shall be placed upon controversy. You want the Socialists and other opponents to champion honestly and boldly their principles, and you meet them by such logic and facts as you can call to your aid. You emphasize the essential virtue of fairness; but are decidedly unwilling to sacrifice anything for the sake of what is called ‘working together,’ contending that it is vain and silly to clamor for peace when there is no peace, but intellectual war, disagreement, discord. Well, you are right. But we are principally interested in the practical work of reform. And you are to explain why you refuse to cooperate with your opponents in certain practical tasks.”
+
+Merely recording my objection to the insinuation that no one disputes the views I have expressed, and asserting that unfortunately a great many writers seem thoughtless enough to cry out against controversy, I proceed to discuss the practical aspect of the question: Why will I not work with Socialists and Single- taxers, with Prohibitionists and White Cross men (for they, too, wish to reform society)? Simply because I do not coincide in their theories. This is a sufficient answer to those who treat sociological subjects scientifically. They understand that practice without theory is as impossible in social affairs as in mechanical and chemical problems. One can work only in accordance with a theory, unless one is experimenting blindly. Unhappily (or happily, rather,) individuals are more and more determinedly protesting against being experimented and played upon by tyrannical and conceited rulers. You must convince them that you work in obedience to a scientifically established theory, and convert them to your views, or they will resist your attempts at practical application of your vague ideas at their expense. (I am of course aware that there are still people who glibly talk of beautiful and correct theories that are at the same time inapplicable, but with them I cannot stop to argue. They must first learn to think).
+
+Sociology, it is true, is still in its infancy; and there are no thoroughly-established laws and rules which one might with safety follow. But surely this is no reason for “working together” with those who do not share your views. This is a very strong reason, however, for — abstaining from practical “work.” This impatience, this hurry, this desire to be active, to do something, to be practical, has been the cause of an incalculable amount of mischief and misery. Now, the more deeply one thinks, the more industrially one studies the past and present, the less eager he is to act and work— except in the sense in which, according to Byron, “words are things.” Where the philosopher hesitates, the ignoramus rushes forward and — makes confusion worse confounded. It would seem that the admitted fact that we know so very little about the social organism, that even the highest authorities avow their limited information, should impress us with the risk and responsibility of positive action, especially when the action recommended by some is opposed by others at least equally competent and reliable. Granted that I am far from confident of the entire accuracy of my conclusions, is this a reason for working with those whose conclusions, to my mind , are more apparently false? I think I am right; I think my opponents are wrong; and I must act as I think right. But I am not very sure that I am altogether right, and that my opponents are altogether wrong; therefore I must cultivate the virtue of discretion more than that of valor. I must take no risks, and “do” as little as I can, opposing those whose passion for activity gets the better of their good sense, and who aim to regulate, manage, control, and rule without knowledge and skill. Let us all continue to learn and to teach. Our intentions with regard to the immediate reform of society may be excellent, but we can only intensify the evils of this “hell” with ignorant work. To sum up:
+
+My ideal is a totally different one from that of the Nationalists, alias Socialists; my methods are also different. Hence I cannot work with them.
+
+I do not admit the equity or the soundness of the Single-tax, and I do not approve the method by which it is sought to be materialized. Hence I cannot work with the Single-taxers.
+
+I have my own ideal; I have definite views respecting the mode of its gradual realization; and I follow my own lights.
+
+I may be mistaken. I do not think I am. My opponents think that I am , but have not yet succeeded in showing me that they are right. I think they are mistaken, but I have not convinced them that they err. It follows that we must all proceed cautiously and carefully and with a due sense of responsibility.
+
+After all, there is such a thing as the science of “how not to do it.” Would that our legislators that are and our legislators that would be understood it more than they do.
+
+Learn before you teach; know before you act; act at your own risk and cost; concede to all the same right; liberty is safer than forcible regulation.
