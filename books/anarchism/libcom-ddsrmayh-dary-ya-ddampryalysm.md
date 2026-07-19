@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/ddsrmayh-dary-ya-ddampryalysm)
+
+خاستگاه‌های اقتدارگرا و فاشیستیِ ایدئولوژی‌ ارتجاعی در دورۀ میان‌ دو ‌جنگ
