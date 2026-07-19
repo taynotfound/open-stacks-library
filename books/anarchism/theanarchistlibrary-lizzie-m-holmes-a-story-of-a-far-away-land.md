@@ -1,0 +1,76 @@
+---
+title: "A Story of a Far Away Land"
+author: "Lizzie M. Holmes"
+date: "2023"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/lizzie-m-holmes-a-story-of-a-far-away-land"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in The International Wood-Worker 15 no. 4 (April 1905): 98–101. Retrieved on 29th May 2023 from www.libertarian-labyrinth.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "lizzie-m-holmes-a-story-of-a-far-away-land.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/lizzie-m-holmes-a-story-of-a-far-away-land.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/lizzie-m-holmes-a-story-of-a-far-away-land)
+
+Once upon a time, a long way off, there was a rich and beautiful island in the midst of a warm sea. The island was quite populous, but everything grew or could be found, either in the sky, or the waters, or the depths of the ground—all that the people could need; precious metals and stones were found deep in the earth, fine forests clothed the hillsides, and bountiful harvests were reaped from cultivated soil. The climate was glorious, and the breezes were fresh and pure and full of life-giving elements. Nothing seemed lacking to complete the happiness and comfort of the inhabitants.
+
+But it seems they were not contented after all. The whole island was owned by a few men, even to the mines, and the springs and the forests. The owners were either old men who had first discovered the riches of the underground, or those who had bought out the first discoverers, or their children. These owners did not go into the bowels of the earth and dig up the precious metals for themselves. Those who had nothing were glad to go for them, working hard all day long and handing over great heaps of the precious metals and stones, for just enough to get something to eat, some sort of a shelter and clothes enough to cover them. When there were children and wives, they all fared very poorly indeed.
+
+But there were so many of the people who had nothing and whose only claim to a place in which to exist lay in the possibility of working for the owners of the island, that they vied with each other for the few opportunities existing; and always there were some who could not find a chance to work and they were often crowded into the sea, because they had no legal right anywhere else.
+
+Every few years a spell of depression and’ lack of work occurred. The reason given by the wise ones was, that too much had been produced. Too much food had been raised, too many houses built, too many boots and shoes and garments manufactured, too much good metal found, and too many luxuries produced. And so they said, the people must stop working until these things were used up. But as the people received nothing when not working, they had nothing to offer in exchange for the overplus goods which they themselves produced. And so, while the necessaries of
+
+life were piled up and rotting in warehouses, the people were hungry and naked and shelterless. It was a strange condition of affairs, and of course could only happen in some tar away land where the people knew no better—it could not be where people are civilized and enlightened as we are here.
+
+Some of the people were farmers, some artisans, some foresters and a great many of them were miners. But however hard they might work with their hands, they could get very little out of it. If by any kind of fortune any one could obtain a piece of ground, or a number of houses to let other people use for money, or was enabled to hire other laborers to work for him, or had money to lend other people for a price, he could accumulate wealth. But as long as he labored it was impossible for him to amass any amount of riches.
+
+Some of the workers at last clubbed together to secure a greater return for their labor; and in many instances they succeeded in helping themselves wonderfully. But always the idle throng hanging on to the outskirts of the islands, were ever ready to take their places if they refused to work for the purpose of gaining some concessions. And so they could not gain all they hoped to when they first combined.
+
+The men who worked beneath the ground, had a particularly hard lot, as their lives were continually in danger, and they were often -compelled to work in cramped positions, that hurt their health and to breathe noxious gases which poisoned their systems. But they were very poorly paid and had all they could do to raise their families in any kind of comfort. They resolved at last to make a demand for better conditions, better pay and fewer hours, and to cease work until their demands were complied with. The owners of the mines were astounded at such impudence and arrogantly told them to break up their organization, to keep their mouths shut and go to work. But the mine workers would not do this. Then the owners set out to get a lot of the idle men to come and work in their places. A great many of the idle men, badly as they needed wages for work, would not go when the mine owners bade them come, because they saw that the workers were right, and they would not interfere. But many of the idle men were very desperate and grasped any chance to get work. The original mine workers met them, argued with them, and convinced them that they were doing wrong by taking their places and induced a number to turn back. But quite a number went down into the mines and started to work. The most zealous tried to stop them by force as well as argument. And there was a great deal of excitement, confusion and disturbance; and besides, the awkward new workers, were continually meeting with dangerous accidents by their own clumsiness, injuring themselves and destroying property. The mine owners sent for the armed men of the islands who were kept for the purpose of “keeping the peace.” It was to be supposed that they would merely
+
+stop any fighting that might occur between the two factions, and guard property that it might not be wantonly destroyed. But instead of that they were placed absolutely at the disposal of the mine owners, and whatever violence they desired should be executed against the mine workers, they obediently performed.
+
+The mine workers who had ceased working, were well advised and organized. Knowing that their purchasing power was a large factor in the commerce of the island, they agreed not to buy of the mine owners or their sympathisers, but with such means as they possessed, they set up a store for themselves. It was quite a success, and all their frienda came and traded with them. This angered the mine owners and the business men of the place, more than anything else could have done. They had the power to do about anything they cared to do, for the soldiers were at their command. They concluded that the original workers and all their friends and sympathisers should leave the island. It did not matter that many of them owned homes there and that there was no other place to which they could be taken where they could live. They must go. And one day they made ready a lot of boats, supplied with soma spoiled canned beans and crackers, forced a large number of the men into the boats, and in the night sailed and rowed them as far as they could go and get back the next day. They took the oars and sails away from them and left them in mid ocean, without chart, compass, means of propelling their boats or food for any length of time. The women and children belonging to these exiled men were left without protectors or support, and no on* knew what would become of them.
+
+Then they thought all would go on as they wished; but their proceedings had aroused other sympathisers and a great deal of harsh criticism was indulged in. A number of philanthropic women went to the bereaved women and children with food and clothing. The leader of the fighting men put a stop to this and when some of the women refused to allow the poor creatures to starve, they were locked up. Others of the sympathisers procured boats and went in search of the exiled men and saved almost all of them. These things were considered “overt acts” and the fighting men resolved on more extreme measures to put down all rebellion.
+
+The leader of the struggling working men was thrown into jail, without any particular charge being made against him, and no trial was given him; he was simply held in bondage, through what the rulers called “military necessity,” and no plausible excuse was even offered. Another of the labor leaders was set upon and beaten almost to death one night; and other outrages committed against the rebellious workers. And these workers were remarkably patient, for though some deeds of violence occurred against the property of the mine owners and lives of their new workingmen, subsequent inquiries and trial failed to prove one of the arrested men guilty.
+
+The struggle was an intense one and lasted a long time. But the mine owners and their *friend> were victorious in the end, for they possessed power, riches and position, and these qualities overwhelmed empty stomachs and restricted actions. They managed to drive •very one who would not obey them implicity into the sea or to the other extreme of the island where nothing grew. They put all the men who would offer themselves back to work on worse terms than they had known before the struggle. Many sad stories might be told of the occurrences among the mines, of the sacrifices of heroic women and of the sufferings of patient children; of selfish, noble men who worked faithfully for the success of the cause, and who divided their last portions with needier brothers. But there is no time to tell of it all now, we must hasten on to the sequel.
+
+Of course the proceedings of the mine owners with their fighting men had cost a vast amount of money. They did not want to pay these enormous bills, and to get out of it they said the government of the island was under obligations to protect their property. The civil officers replied that there were doubts as to whether all this expense was necessary in order to protect their property, and declared they had no right to take the people’s money to pay for what they did not want and never asked for.
+
+So, this question became a political issue. It was soon time for the people to choose a chief officer over the island, and there was two factions. The mine owners and their friends nominated a man whom they could trust to pay their large indebtedness for them, and their opponents put up a man who, they believed, would try to do justice to all.
+
+There was a sacred tradition in the island that the voice of the majority of the people should be inviolate; it was a proud boast of the inhabitants that the people could always thus be heard. And so it was believed when the people had a chance to express their desires, the vexed problems would all be settled. And the result of the contest was awaited with a great deal of anxiety.
+
+It turned out that the majority of the people wanted the man opposed to the mine owners’ candidate, and in good time he was seated with the usual ceremonies.
+
+But the mine owners and other rich men were appalled. This would never do in the world for their plans, and they did not propose to put up with it. They put their heads together and concocted a scheme by which they could turn out the man whom the people had chosen, and put their own man into power.
+
+Accordingly they raised a great cry of “fraud!” and insisted that all the votes of the people be counted again. This was done and all the records were examined. It was found that some fraud and bribery had been used on both sides, but especially on the part of the rich mine owners. But the most was made of what could be found on the other side, and the law making body was formed of the rich men’s friends; from this body a committee was chosen to decide which side had really won. Its decision was to be unanswerable.
+
+Some of their own friends saw that the people’s vote had chosen the other man, so plainly that they would have nothing more to do with the matter. Some looked on with sarcastic smiles, some were very angry, but there was nothing to be done but await the result. With elaborate preparations, the committee went to work.
+
+There was a great amount of confusion in the business of voting and counting the votes, but try as they would the committee could not make it really appear that their candidate had received the most votes of the people. But they had been chosen for that very purpose and it would not do to fail. They proceeded to buy enough evidence to make the records look a little something as they wanted them to, and with a great deal of complicated maneuvering they managed to make it appear that their side had rightfully won.
+
+But the fraud was so palpable that they hardly had the cheek to try to seat the man they had decided should rule. They all knew it, and practically said to one another:
+
+“We just can’t afford to give up to the other side, though it seems impossible to cover up all traces of the fact that they won out. But there’s too much at stake. We’ve got to be in I Now, how would it do to declare our side the winner and have our man resign the next day; we can manage the next man in ranks as well as we can him, and maybe it’ll pacify the opposition, so they’ll give in without any more fuss. And it will save our man from having to look his victims in the face every time he has to do business with them.”
+
+The others thought it a fine idea. “We can’t give up the rulership no matter what is true. But it won’t look quite so badly for us if the rulership is taken away from both men and given to a stranger,” other members answered. Another one, who possessed yet something like a feeling of honor said:
+
+“But is the next man in order, little enough to take the office on such conditions?”
+
+And so the deed was done. The people looked on almost stupefied with amazement. Then it occurred to some of them that an old and sacred right had been stolen from theru and they wondered if they ought not to fight. A bold leader at just this juncture would have percipitated a cruel civil war. But the leader did not appear and presently wiser and cooler counsels prevailed. The workers would not be benefited by fighting each other over a ruler; whichever man had the position, they would only have to work hard and get little for it as they had done before. The most they could hope for anyway was a chance to toil. A complete change in the commercial and industrial affairs of the island must take place before they could nope for any real relief. And so, until times were ripe for a radical change, the people quietly submitted.
+
+Of course all this happened in some vague, far away land which does not possess the advantages of our twentieth century civilization. Such preposterous things could not of course occur in a free land where all are politically equal, and where honor is held sacred. But it all might happen among a mythical set of foreigners on some fictitious island in a day dream or something of the sort—not here in boasted free America.
