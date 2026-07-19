@@ -18,3 +18,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/mfhwm-waqy-shar-azady-w-brabry)
+
+این تجربه تاریخی و موضع مارکس را با شعار آزادری و برابری تحصیل کردگان امروز ما مقایسه کنید
