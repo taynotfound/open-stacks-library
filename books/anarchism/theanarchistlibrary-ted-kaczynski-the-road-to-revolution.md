@@ -1,0 +1,80 @@
+---
+title: "The Road to Revolution"
+author: "Ted Kaczynski"
+date: "2017"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/ted-kaczynski-the-road-to-revolution"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Transcribed by The Wild Will Project"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "ted-kaczynski-the-road-to-revolution.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/ted-kaczynski-the-road-to-revolution.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/ted-kaczynski-the-road-to-revolution)
+
+A great revolution is brewing. What this means is that the necessary preconditions for revolution are being created. Whether the revolution will become a reality will depend on the courage, determination, persistence, and effectiveness of revolutionaries.
+
+The necessary preconditions for revolution [2] are these: There must be a strong development of values that are inconsistent with the values of the dominant classes in society, and the realization of the new values must be impossible without a collapse of the existing structure of society.
+
+When these conditions are present, there arises an irreconcilable conflict between the new values and the values that are necessary for the maintenance of the existing structure. The tension between the two systems of values grows and can be resolved only through the eventual defeat of one of the two. If the new system of values is vigorous enough, it will prove victorious and the existing structure of society will be destroyed.
+
+This is the way in which the two greatest revolutions of modern times—the French and Russian Revolutions—came about. Just such a conflict of values is building up in our society today. If the conflict becomes sufficiently intense, it will lead to the greatest revolution that the world has ever seen.
+
+The central structure of modern society, the key element on which everything else depends, is technology. Technology is the principal factor determining the way in which modern people live and is the decisive force in modern history. This is the expressed opinion of various learned thinkers, [3] and I doubt that many serious historians could be found who would venture to disagree with it. However, you don’t have to rely on learned opinions to realize that technology is the decisive factor in the modern world. Just look around you and you can see it yourself. Despite the vast differences that formerly existed between the cultures of the various industrialized countries, all of these countries are now converging rapidly toward a common culture and a common way of life, and they are doing so because of their common technology.
+
+Because technology is the central structure of modern society—the structure on which everything else depends—the strong development of values totally inconsistent with the needs of the technological system would fulfill the preconditions for revolution. This kind of development is taking place right now.
+
+Fifty years ago, when I was a kid, warm approval or even enthusiasm for technology were almost universal. By 1962 I had become hostile toward technology myself, but I wouldn’t have dared to express that opinion openly, for in those days nearly everyone assumed that only a kook, or maybe a Bible-thumper from the backwoods of Mississippi, could oppose technology. I now know that even at that time there were a few thinkers who wrote critically about technology. But they were so rare and so little heard from that until I was almost 30 years old I never knew that anyone but myself opposed technological progress.
+
+Since then there has been a profound change in attitudes toward technology. Of course, most people in our society don’t have an attitude toward technology, because they never bother to think about technology as such. If the advertising industry teaches them to buy some new techno-gizmo, then they will buy it and play with it, but they won’t think about it. The change in attitudes toward technology has occurred among the minority of people who think seriously about the society in which they live.
+
+As far as I know, almost the only thinking people who remain enthusiastic about technology are those who stand to profit from it in some way, such as scientists, engineers, corporate executives and military men. A much larger number of people are cynical about modern society and have lost faith in its institutions. They no longer respect a political system in which the most despicable candidates can be successfully sold to the public through sophisticated propaganda techniques. They are contemptuous of an electronic entertainment industry that feeds us garbage. They know that schoolchildren are being drugged (with Ritalin, etc.) to keep them docile in the classroom, they know that species are becoming extinct at an abnormal rate, that environmental catastrophe is a very real possibility, and that technology is driving us all into the unknown at reckless speed, with consequences that may be utterly disastrous. But, because they have no hope that the technological juggernaut can be stopped, they have grown apathetic. They simply accept technological progress and its consequences as unavoidable evils, and they try not to think about the future.
+
+But at the same time there are growing numbers of people, especially young people, who are willing to face squarely the appalling character of what the technoindustrial system is doing to the world. They are prepared to reject the values of the technoindustrial system and replace them with opposing values. They are willing to dispense with the physical security and comfort, the Disney-like toys, and the easy solutions to all problems that technology provides. They don’t need the kind of status that comes from owning more and better material goods than one’s neighbor does. In place of these spiritually empty values they are ready to embrace a lifestyle of moderation that rejects the obscene level of consumption that characterizes the technoindustrial way of life; they are capable of opting for courage and independence in place of modern man’s cowardly servitude; and above all they are prepared to discard the technological ideal of human control over nature and replace it with reverence for the totality of all life on Earth—free and wild as it was created through hundreds of millions of years of evolution.
+
+How can we use this change of attitude to lay the foundation for a revolution?
+
+One of our tasks, obviously, is to help promote the growth of the new values and spread revolutionary ideas that will encourage active opposition to the technoindustrial system. But spreading ideas, by itself, is not very effective. Consider the response of a person who is exposed to revolutionary ideas. Let’s assume that she or he is a thoughtful person who is sickened on hearing or reading of the horrors that technology has in store for the world, but feels stimulated and hopeful on learning that better, richer, more fulfilling ways of life are possible. What happens next?
+
+Maybe nothing. In order to maintain an interest in revolutionary ideas, people have to have hope that those ideas will actually be put into effect, and they need to have an opportunity to participate personally in carrying out the ideas. If a person who has been exposed to revolutionary ideas is not offered anything practical that she can do against the techosystem, and if nothing significant is going on to keep her hope alive, she will probably lose interest. Additional exposures to the revolutionary message will have less and less effect on her the more times they are repeated, until eventually she becomes completely apathetic and refuses to think any further about the technology problem.
+
+In order to hold people’s interest, revolutionaries have to show them that things are happening—significant things—and they have to give people an opportunity to participate actively in working toward revolution. For this reason an effective revolutionary movement is necessary, a movement that is capable of making things happen, and that interested people can join or cooperate with so as to take an active part in preparing the way for revolution. Unless such a movement grows hand-in-hand with the spread of ideas, the ideas will prove relatively useless.
+
+For the present, therefore, the most important task of revolutionaries is to build an effective movement.
+
+The effectiveness of a revolutionary movement is not measured only by the number of people who belong to it. Far more important than the numerical strength of a movement are its cohesiveness, its determination, its commitment to a well-defined goal, its courage, and its stubborn persistence. Possessing these qualities, a surprisingly small number of people can outweigh the vacillating and uncommitted majority. For example, the Bolsheviks were never a numerically large party, yet it was they who determined the course that the Russian Revolution took. (I hasten to add that I am NOT an admirer of the Bolsheviks. To them, human beings were of value only as gears in the technological system. But that doesn’t mean we can’t learn lessons from the history of Bolshevism.)
+
+An effective revolutionary movement will not worry too much about public opinion. Of course, a revolutionary movement should not offend public opinion when it has no good reason to do so. But the movement should never sacrifice its integrity by compromising its basic principles in the face of public hostility. Catering to public opinion may bring short-term advantage, but in the long run the movement will have its best chance of success if it sticks to its principles through thick and thin, no matter how unpopular those principles may become, and if it is willing to go head-to-head against the system on the fundamental issues even when the odds are all against the movement. A movement that backs off or compromises when the going gets tough is likely to lose its cohesiveness or turn into a wishy-washy reform movement. Maintaining the cohesion and integrity of the movement, and proving its courage, are far more important than keeping the goodwill of the general public. The public is fickle, and its goodwill can turn to hostility and back again overnight.
+
+A revolutionary movement needs patience and persistence. It may have to wait several decades before the occasion for revolution arrives, and during those decades it has to occupy itself with preparing the way for revolution This was what the revolutionary movement in Russia did. Patience and persistence often payoff in the long run, even contrary to all expectation. History provides many examples of seemingly lost causes that won out in the end because of the stubborn persistence of their adherents, their refusal to accept defeat.
+
+On the other hand, the occasion for revolution may arrive unexpectedly, and a revolutionary movement has to be well prepared in advance to take advantage of the occasion when it does arrive. It is said that the Bolsheviks never expected to see a revolution in their own lifetimes, yet, because their movement was well constituted for decisive action at any time, they were able to make effective use of the unforeseen breakdown of the Tsarist regime and the ensuing chaos.
+
+Above all, a revolutionary movement must have courage. A revolution in the modern world will be no dinner party. It will be deadly and brutal. You can be sure that when the technoindustrial system begins to break down, the result will not be the sudden conversion of the entire human race into flower children. Instead, various groups will compete for power. If the opponents of technology prove toughest, they will be able to assure that the breakdown of the technosystem becomes complete and final. If other groups prove tougher, they may be able to salvage the technosystem and get it running again. Thus, an effective revolutionary movement must consist of people who are willing to pay the price that a real revolution demands: They must be ready to face disaster, suffering, and death.
+
+There already is a revolutionary movement of sorts, but it is of low effectiveness.
+
+First, the existing movement is of low effectiveness because it is not focused on a clear, definite goal. Instead, it has a hodgepodge of vaguely-defined goals such as an end to "domination," protection of the environment, and "justice" (whatever that means) for women, gays, and animals.
+
+Most of these goals are not even revolutionary ones. As was pointed out at the beginning of this article, a precondition for revolution is the development of values that can be realized only through the destruction of the existing structure of society. But, to take an example, feminist goals such as equal status for women and an end to rape and domestic abuse are perfectly compatible with the existing structure of society. In fact, realization of these goals would even make the technoindustrial system function more efficiently. The same applies to most other "activist" goals. Consequently, these goals are reformist.
+
+Among so many other goals, the one truly revolutionary goal—namely, the destruction of the technoindustrial system itself—tends to get lost in the shuffle. For revolution to become a reality, it is necessary that there should emerge a movement that has a distinct identify of its own, and is dedicated solely to eliminating the technosystem. It must not be distracted by reformist goals such as justice for this or that group.
+
+Second, the existing movement is of low effectiveness because too many of the people in the movement are there for the wrong reasons. For some of them, revolution is just a vague and indefinite hope rather than a real and practical goal. Some are concerned more with their own special grievances than with the overall problem of technological civilization. For others, revolution is only a kind of game that they play as an outlet for rebellious impulses. For still others, participation in the movement is an ego-trip. They compete for status, or they write "analyses" and "critiques" that serve more to feed their own vanity than to advance the revolutionary cause.
+
+To create an effective revolutionary movement it will be necessary to gather together people for whom revolution is not an abstract theory, a vague fantasy, a mere hope for the indefinite future, or a game played as an outlet for rebellious impulses, but a real, definite, and practical goal to be worked for in a practical way.
+
+[1] "Report on an Investigation of the Peasant Movement in Hunan," in Selected Readings from the Works of Mao Tsetung [=Zedong], Foreign Languages Press, Peking, 1971, page 30.
+
+[2] As used in this article, the term "revolution" means a radical and rapid collapse of the existing structure of a society, intentionally brought about from within the society rather than by some external factor, and contrary to the will of the dominant classes of the society. An armed rebellion, even one that overthrows a government, is not a revolution in this sense of the word unless it sweeps away the existing structure of the society in which the rebellion occurs.
+
+[3] Karl Marx maintained that the means of production constituted the decisive factor in determining the character of a society, but Marx lived in a time when the principal problem to which technology was applied was that of production. Because technology has so brilliantly solved the problem of production, production is no longer the decisive factor. More critical today are other problems to which technology is applied, such as processing of information and the regulation of human behavior (e.g., through propaganda). Thus Marx’s conception of the force determining the character of a society must be broadened to include all of technology and not just the technology of production. If Marx were alive today he would undoubtedly agree.
