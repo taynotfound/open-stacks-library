@@ -20,3 +20,39 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anarcho-dead-dogma-sketch-apologies-to-monty-python)
+
+R: Never mind that, my lad. I wish to complain about this ideology what I embraced not half an hour ago at this very conference.
+
+SWP: Oh yes, the, uh, the Russian Bolshevik… What’s, uh… wrong with it?
+
+R: I’ll tell you what’s wrong with it, my lad. Its dead, that’s what’s wrong with it!
+
+R: Look, matey, I know a dead ideology when I see one, I’m looking at one right now .
+
+SWP: No no, its not dead, its resting! Remarkable ideology the Russian Bolshevik, idn’it, ay? Beautiful rhetoric.
+
+‘Ello Mister Bolshevik! Do you know that Lenin and Trotsky advocated party dictatorship….
+
+Lenin and Trotsky eliminated workers democracy in the army and in the workplace. The Bolsheviks disbanded soviets with non-Bolshevik majorities. All before the start of the Civil War. Lenin and Trotsky both advocated party dictatorship. Moreover, they explicitly argued for it and against the idea of class dictatorship. This is your nine o’clock alarm call!
+
+SWP: Yeah, counter-revolution stunned it, just as it was about to implement socialism, workers’ power and democracy! The Russian Bolshevik stuns easily, comrade.
+
+R: Um ... now look … now look mate, I’ve definitely ‘ad enough of this. This ideology is definitely deceased and when I embraced it not ‘alf an hour ago, you assured me that its total lack of freedom and democracy in 1921 was due to it being tired and shagged out following a prolonged civil war, yet these events occurred before it started.
+
+R: PININ’ for 1917!?!?!?! What kind of talk is that? Look, why did it overthrow soviet democracy the moment it got rejected in the soviet elections in spring 1918? Why did it abolish by decree elected soldier committees in March 1918? Why did it reject workers’ self-management by factory committees and advocate one-man management with dictatorial powers in the spring of 1918?
+
+SWP: The Russian Bolshevik prefers centralised power! Only that is true democracy-local elections, soldier councils and factory committees don’t matter when you have a central government elected by the soviets. Remarkable ideology, id’nit, squire? Lovely rhetoric!
+
+R: Look, I took the liberty of examining that ideology when I got home, and I discovered that the only reason that it was still in power in 1921 was that it had imposed a one party dictatorship, repressed all worker dissent, crushed waves of strikes and protests and, finally, suppressed the Kronstadt revolt (which was demanding free soviet elections). Moreover, it justified party dictatorship and claimed it had to be used in every revolution.
+
+SWP: Well, o’course it had to do that! If it hadn’t crushed those popular movements then the Whites would have won and no more soviet power. Give it another chance and VOOM! Socialism!
+
+R: VOOM!?! Mate, this ideology wouldn’t go “voom” if you put four million volts through it! Soviet Power without soviet elections? Socialism without workers management of production? Secret Police? It is “childish nonsense” to draw a distinction between dictatorship by the party and by the class? (Lenin) The “dictatorship of the proletariat is at the same time the dictatorship of the Communist Party.”? (Zinoviev) The “revolutionary dictatorship of a proletarian party” is “an objective necessity”? (Trotsky) Its bleeding demised!
+
+R: Its not pining! Its passed on! This ideology is dead! It has long ceased to be revolutionary (if it ever was)! Its expired and become a dictatorship! It’s a stiff! Bereft of life, it rests in peace! Its analytical processes are now history! It shuffled away from the socialist movement, imposed party dictatorship, and justified it time and time again! This is an ex-socialist theory!
+
+SWP: Well, I had better ignore what you are saying and keep repeating the dogma.
+
+SWP: Sorry comrade, I’ve checked and your three minutes are up and we’re right out of time .
+
+R: Pray, does it talk about anarchism, the real socialism from below?
