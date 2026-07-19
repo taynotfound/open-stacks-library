@@ -1,0 +1,76 @@
+---
+title: "What is Man’s Destiny?"
+author: "Laurance Labadie"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/laurence-labadie-what-is-man-s-destiny"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Originally published in the Journal of Human Relations (Wilberforce, Ohio), Fourth Quarter, 1970, pp. 1152-1159. Reprinted in Laurance LaBadie: Selected Essays (Libertarian Broadsides), James J. Martin, ed., Ralph Myles Publisher, Inc., 1978. Retrieved 10/25/2021 from http://dwardmac.pitzer.edu/Anar"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "laurence-labadie-what-is-man-s-destiny.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/laurence-labadie-what-is-man-s-destiny.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/laurence-labadie-what-is-man-s-destiny)
+
+How did human kind get into its present condition, with groups of people called “nations” on the verge of slaughtering each other and making the earth unfit for organic life?
+
+Ages ago, during periods of absolute scarcity, when the means for survival happened to be insufficient for the needs of a whole community, if they distributed their supplies equally, no one would get enough and all would die. Under the circumstances, the continuity of life required that some must die so that others might live. How could such a decision be made?
+
+Suppose they found themselves with food enough for only half their number. Every individual want is to live; sell preservation is a primary urge. It is absurd to believe that some would deliberately choose to starve, to the advantage of others. They were faced with a biological urge, not a moral judgment. Quite naturally the situation gave rise to scramble. Those with the least scruples, physically more powerful, and more cunning survived. Robbery and coincidental murder were the factors deciding the issue. This must have happened within tribes.
+
+As robbery and murder unfortunately became necessary for the continuity of a tribe under conditions of scarcity, it became apparent that one tribe could rob and murder another tribe. Since men were more agile than women for such actions, a division of labor became the practice whereby the men did the fighting while the women did the work and cared for the young. Thus probably began the enslavement of women who in subsequent raids were captured instead of killed, and possibly polygamy arose as a way of life, with the stronger men holding a large entourage, and establishing rules that they would not steal each other’s women. If the men got killed off in battle the tribe probably converted to matriarchy.
+
+We may imagine times when in their haste in raids some of the invaded became maimed instead of killed, and were able again to acquire food. When this was observed, when it became evident that it was possible to rob them again, a great idea arose among predators, It was realized that it was not necessary to kill a man in order to acquire his goods; he could be enslaved and exploited. 1t was not only practical but humanitarian in that it promised a lease on life. The conquerors became the masters and the conquered the slaves. Predation became organized on a permanent basis, for man is a creature of habit.
+
+All through history invasion, conquest, subjugation, enslavement and exploitation has been the name of the game, and is the most salient factor in human relations even up to the present day. Government and the institution known as the State remains the relationship between conquerors and the conquered; and the relations between States during all eras of so-called Nationalism is essentially one of hostility between predators. Each governmental power tends to enlarge its domains and the number of people it can exploit. Their own “subjects” they mulet under the euphemism “taxation.” The State, every State, as an institution, is intrinsically the enemy of the people over which it can maintain jurisdiction. In the master-slave relationship which exists between them, the slaves become the pawns in the power moves between governments, Not only are these slaves victimized and robbed by the governments ruling over them, but their opportunities to make a livelihood are restricted, persons lives conscripted and possessions, energies, their time, their their respective between wars in the even and masters.
+
+Government is professed to be a protective apparatus; and politicians break their hearts assuring us of the solicitude they hold for us. But if we must be protected, it must be against something, perhaps quite rightly other governments. Thus the predatory institutions called the State mutually support each other. Anyway, if there were no enemy, it would be necessary to invent one. It is always the other guy who is the sonovabitch. And billions of people all over the world are thus implanted with fears, completely unaware that the real enemies to their peace and prosperity, to say nothing of their liberty, are the respective governments ruling over them. No “national” government will allow the suspicion that it (and by inference those apparently in power), are the real enemies of the people. That is why all governments can agree on one thing, that anarchists are promoters of disorder and chaos. This preposterous game has been virtually universal during all known history—it is today as virile and vicious as ever.
+
+That some of the real masters and beneficiaries of monopolistic privileges may not be the actual personnel of the law-making, jurisprudential, “law and order” enforcing bodies tends to blur the master-slave relationship. In some countries it is further blurred by the fact that the allotment of monopolistic privilege is impersonal, thus making it appear that opportunity is equalized, with the possibility of slaves becoming masters, and vice versa.
+
+No single individual can produce a great amount of harm in this world unless he could enlist or command a large number of people to do his bidding, which is the quintessence of authority. True, it is said that in union there is strength, but what does this prove? It applies to evildoing as well as good.
+
+When it comes to institutionalism, it is quite a different matter. For institutions have a logic and force independent of the persons who compose them. These forces, especially if established on a permanent basis, not only can not be “perfect” but may even effect consequences in direct opposition to that which had been originally intended. Thus arise what are called the contradictions in society. These particular contradictions could not or would not arise in a free or anarchic society.
+
+As for general populaces everywhere, concerned primarily with trying to scavenge a livelihood out of the cultures of which they are victims, they are more in the nature of funny putty to be molded by the unscrupulous predators who also seem to be a permanent element in every civilization known to man. It is evident that these criminal predators have been having the best of it as far as material benefits are concerned. As for the naive but heroic promulgators of the doctrine of “live and let live,” since they are always enemies of the Established Order, they are to be harassed and pilloried, nailed to the cross, forced to drink hemlock, or otherwise simply murdered.
+
+Violence is the only language understood by the minions of Established Order, and violence is the means of eliminating order of any sort, established or otherwise. It will be the means by which human kind will abolish itself. When has man ever invented a more efficient way of slaughtering people that he hasn’t used?
+
+As long as individuals place their faith in the hope that some thing external to themselves, be it God, or Devil, Man, Santa or Claus institutionalized abstractions, will save them, they will continue groveling around like chickens with their heads lopped off.
+
+Practically everywhere in the world, probably 80% of the land and natural resources are owned or controlled by only two percent of the population, while the issue of money and credit, the means by which cooperation is carried on, is in the control of a handful of men.
+
+This criminal state of affairs, which is not as much personal as institutional, is prevalent in every country in the world. It is not called “criminal” simply because those in power are the ones who make the definitions and the laws, and they who make the definitions and the laws, are not going to describe themselves or the institutions of which they are the obvious beneficiaries, as criminal. Such laws are carefully devised so as to harass and destroy the victims who protest or offer resistance, or who resort to whatever means may seem available in their attempt to stay alive. The schemes are self-supporting, for as Caesar is reputed to have said, “With money you can employ soldiers, and with soldiers extort money.”
+
+Neither are the hired flunkies called historians, social scientists, or civics teachers in the respective slave enclaves called “nations” going to, nor even be allowed, to say that the debilitating and degenerate Frankenstein monsters ruling over them are other than almost ideal, or that the personnel of these organized monopolies of the use of violence are other than noble and self-sacrificing individuals whose hearts bleed for the masses under their jurisdiction. Indeed, was there ever a politician trying to get into office who wasn’t wringing his hands in alarm, and deploring the lack of solicitude of the politician he aspired to replace? Millions of dollars are spent trying to elect persons into office, the salaries or stipends of which are but a small fraction of this amount. This might lead an objective observer to surmise that politicians can be bought by the gross, like bananas, by the highest bidder.
+
+The most astounding feature of the general political phenomenon is, that of the several billions of people populating the earth, there is perhaps not one in a million who has the wit to see through the hoax. Whether the State is considered a necessary evil or a positive good, it is usually thought to be a thing of permanence, like the law of gravitation. In the face of the fact it is completely preposterous to expect that the general battle for power between governments {(whose mere existence as mutual threats mutually support each other), could possibly eventuate in anything other than the mutual extermination of the human race.
+
+Humans are neither good nor bad, but are corrupted by intrinsically inadvisable and bad institutions. They are inadvertent victims of their blunders, especially the blunders of perpetuating actions which may have been life-promoting in a given historical happenstance but which today have become anti-life to such a degree as to threaten all life with annihilation.
+
+For thousands of years the interminable warfare between the organized gangs called governments have been carried on without making any appreciable dent on the general continuity of life. The obvious fact is that the means for slaughter and devastation have never until now been effective enough to complete the annihilation before sheer exhaustion brought an end to the conflicts. That minor hindrance has been overcome with a vengeance by the hired activities of scientists and technicians who are reputed to have contributed to a boondoggle that might stimulate sluggish economies and make certain people rich, meanwhile amassing a world overkill capacity of ten or more times in the attempt to achieve a balance of terror which, according to our protectors, is a sound basis for peace. In the words of the quipper, “How crazy can you get?”
+
+The whole U.S. economy has become something of a boondoggle. In the scramble for money, some persons create evils and dis-eases, thereby calling forth whole professions to ameliorate or “cure” the created evils. Politicians, priests, lawyers, psychotherapists, doctors, educators, cosmetics manufacturers, the judiciary, advertisers, etc., etc., in fact, practically all economic and pseudo-economic activities are cases in point.
+
+In case the reader of these lines feels that I haven’t made the case for annihilation and oblivion, I call attention to a phenomenon that seems to have been overlooked. In any economy which also has the feature of an inadequate market demand, there arises the problem of keeping the wheels of industry going and everybody busy. In such an insecure and distressful state of affairs, deceit becomes a “way of life.” Anything for a dollar: built-in obsolescence, shoddy goods, adulterated foods, worry and fret, and what not. The large segments of the populations become engaged as professionals, purporting to ameliorate the evils which they seem not to realize are caused, in the final analysis, by governmentalism. In making a living professing to remedy these evils, they inevitably come to have a vested interest in their existence, Governments and the military purport to protect the public from enemies, and if there were no enemies they would have to invent some, for the simple purpose of rationalizing their existence. Lawyers thrive on contention, and what can be more welcome than social turmoil, promising nice fees? Physicians thrive on human illness; what would they do if everyone should become healthy? The stress and strain of the rat race becomes a bonanza for a class of opportunists called psychologists and psychotherapists. Pulpit pounders and moralists for revenue thrive on sin and tears of hell, and they too must throw up hopes and fears for which they will offer surcease.
+
+The “health, education, and welfare” another boondoggle. First we manufacture people by legal monopolies in land, money tariff barriers to protect monopolies from taxing laborers to subsidize rich farmers and section of government is indigent and superfluous and idea patents, erecting foreign competition, and privileged manufacturers. Then we create “social workers,” etc., to care for them and thereby establish a self-aggravating and permanent institutionalized phenomenon.
+
+The invasion of Vietnam by the U.S. government is another boondoggle, which not only rationalizes the existence of a large military establishment, but also creates work for an exceedingly large war-materiel industry—or what Eisenhower called the military-industrial complex.
+
+The operative forces now in existence cause a general tendency in the nature of a one-way street, the more horrible because the process is hardly understood even by the people who ostensibly “manage” it.
+
+Everyone is taking in someone else’'s washing in a gigantic make-work project. There are at least a half dozen major forces now operative, all tending in the same direction, with very few countervailing influences—and that direction is oblivion. Death comes to everyone. What real difference does it make if it comes simultaneously instead of consecutively, as far as the individual is concerned?
+
+It is no longer a question of “choosing” a good or better system, but a question of whether life on earth will continue.
+
+Since the human race will not abolish governmentalism, governmentalism will abolish the human race.
