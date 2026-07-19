@@ -1,0 +1,56 @@
+---
+title: "Where to now Zimbabwe?"
+author: "Leroy Maisiri"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/leroy-maisiri-where-to-now-zimbabwe-1"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "An anarchist / syndicalist perspective after the dust has settled"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "leroy-maisiri-where-to-now-zimbabwe-1.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/leroy-maisiri-where-to-now-zimbabwe-1.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/leroy-maisiri-where-to-now-zimbabwe-1)
+
+It’s been around 100 days since the birth of a “new” Zimbabwe. It’s been around a 100 days since 37 years of authoritarian rule by Robert Mugabe – Head of State since 1980 – finally came to an end. Zimbabwe has a new President, Emmerson Mnangagwa, who gained power through a soft military coup against Mugabe, and his chosen successor, Grace Mugabe. And recently, Zimbabwe mourned the death of former Prime Minister of Zimbabwe, Morgan Tsvangirai: an opposition leader, he came from the trade unions, and spent most of his life fighting against Mugabe.
+
+But what has changed, and what we can we expect now? This paper argues against the notion that deep changes are taking place. The slight liberalizing of political life (shown, for example, by Mnangagwa paying tribute to Tsvangirai) and some promises of economic reform (good and bad) do matter. But the changes in the White House of Zimbabwe centre on removing one vicious state capitalist manager to make way for another, and will not bring liberation for the mass of the people.
+
+This replacement does not address the problems Zimbabwe faces: a ruthless ruling class, a predatory state, crisis-ridden capitalism and the power of imperialism. The issue is not around individuals: the system is the problem. This paper is anti-Mugabe and anti-Mnangagwa, but it is also anti- the state as a form of social organization. All states oppress the working class, peasantry and poor, and the state in Zimbabwe is just an extreme example. This paper holds the state of Zimbabwe guilty to the highest degree of restricting individual freedom and economic choices, of prohibiting a life worth living for ordinary citizens, and of promoting the interests of economic and political elites (the ruling class) at the cost of the masses. It rejects the notion that Mugabe was a champion of the poor and landless, and the claim that his ousting was a defeat for progressive forces. But it has no illusions in Mnangagwa.
+
+Anarchist theory helps provides us understand what is going on. It provides a holistic conceptualization of the state and its class. The anarchist approach explains how the state itself is not an instrument of democracy, but a pillar of the class system: it centralizes power and wealth, creating and giving space to minority rule and working with allied private capitalists. Changes in the personnel can affect policy and style, but not the system.
+
+This is exactly what happened to Zimbabwe: the Mugabe dynasty was thrown out, but ruling class power has not been removed. In fact, there has not even been a change in the political party in office. Mnangagwa and Mugabe are from the same party, Zimbabwe African National Union- Patriotic Front (ZANU-PF), which has ruled the country since 1980. The take-over was the result of splits in ZANU-PF’s ruling group, which tore itself down the middle over who would replace Robert Mugabe. This resulted in a shift of power dynamics. The change was not from below, but through Mnangagwa using his power in the army against Mugabe’s power in the bureaucracy and police.
+
+Robert Mugabe came into power in 1980, when the Zimbabwe African National Union (ZANU) won the first open elections. Mugabe took over the party a few years before, and the party maintained a choke-hold on the country ever since. The 1980s saw unions repressed and rival parties attacked: the massacres by the ZANU-controlled army in Matabeleland from 1983–1987 killed 20,000 helped crushed the rival Zimbabwe African People’s Union (ZAPU). ZAPU was forced to merge into ZANU, now renamed ZANU-PF. By the early 1990s, ZANU-PF ran a business empire, imposed neo-liberal policies and engaged in widespread corruption.
+
+Zimbabwe underwent massive political turmoil in the late 1990s. A lot of this was driven by unions, opposition groups and students fighting ZANU-PF repression and neo-liberalism. Ex-soldiers, frustrated by corruption in the pension system, and slow land reform were active. This was when Tsvangirai founded the opposition Movement for Democratic Change (MDC).
+
+However, the combination of systematic repression, opposition weakness (the MDC was consistently outmaneuvered by ZANU-PF), state propaganda, rigged elections, patronage and a controversial land reform programme allowed for ZANU-PF’s authoritarian nationalist government to keep power. Spontaneous land occupations had taken place for years: a desperate ZANU-PF, facing the MDC, hijacked the occupations, distributing the best land to its leadership and allies, and placing the rest under state control, to extract taxes and rent from small farmers – and trap them in patronage relations run by the party. Land reform also all but destroyed the section of the ruling class most opposed to ZANU-PF, the white capitalist farmers, who had replaced their earlier support for Mugabe with support for Tsvangirai.
+
+Zimbabwe went through a process of rewriting its history, as all history became a patriotic history of Robert Mugabe, a personality cult, in which anyone against the regime – workers, students, peasants, poor people, MDC – were cast as traitors and imperialist stooges. As funding from Mugabe’s previous allies – the British imperialist government – dried up over the land reforms, Mugabe found new allies, eager for African resources – the Chinese government, now embarking on a big imperialist push in Africa. This has required giving China concessions and opening the borders for cheap Chinese imports.
+
+In this situation, there has been major economic decline, with farming declining and local industry closing. Rather than end reliance on imperialism, ZANU-PF just traded imperialists. Very positive welfare and education reforms in the 1980s were gutted by neo-liberalism, then throttled by corruption and economic crisis, and massive unemployment – over 80% — saw large parts of the working class forced into the informal economy. The largest union in the 1990s was the farmworkers union; today it is gone, and the largest union is that of street traders.
+
+Survival for the section of the ruling based on the state is linked directly to the massive exploitation and repression of the working class, peasants and poor, who have been hammered over the last decades, consistently economically, socially and politically beaten.
+
+What this means is that the state is a core site for accumulation, and this means that fights for key offices and sections of the state are serious business. In Zimbabwe, the ruling class is now predominantly based on a largely black state elite, which has over time figured come to rely mainly on accumulating capital through state power. Losing office means losing access to wealth and power.
+
+The coup has been celebrated as bloodless and it was met with joy by the masses, who came out in their numbers. But the trigger was not the masses, but a fight between two ZANU-PF factions. The forces used in the coup were not people power, but the means of coercion controlled by the state – more precisely, by a powerful group in ZANU-PF, the generals around Mnangagwa. It was after all the military that put Mugabe under house arrest, that was the first to occupy the streets, that took over all national (state) broadcasting and a general (Mnangagwa) prescriptively issued out the new vision of Zimbabwe. And it was through the same means of coercion that ordinary citizens were robbed of a chance to actually run and reconstruct a Zimbabwe that is reflective of their struggle. Once the army was used to settle the question of who would succeed Mugabe, the ordinary citizens were displaced once again, told to return to their homes, and to wait, that their future was once again in the hands of the state elite. And the new leadership of ZANU-PF was not so new: Mnangagwa was a long-standing ZANU-PF leader, who played a central role in the Matabeleland massacres.
+
+ZANU-PF had, from the onset, used its control of means of coercion – the military and police – to consolidate the power of its leaders – who completely control the party apparatus – in order to hold state power, while using the means of administration – the state bureaucracy, including its control over land, licenses, education and media – to reconstruct Zimbabwe into ZANU-PF’s private property. This is not after Mugabe’s own image. This is not a simple matter: there were hard fights to prevent ZANU-PF losing control, and many of the measures that aid the ZANU-PF-centred state elite in accumulating wealth (like corruption and control over land) can cause serious economic problems. Generally speaking, ruling classes are based on economic elites (these days, normally private capitalists) and political elites (in the state), and these two sectors generally find common ground: in Zimbabwe, the crisis of the late 1990s saw the (black) political elite crush the (mainly white) economic elite; but the masses were always left out.
+
+This is the cycle of official politics: occupying and taking over the state apparatus to generate transformative change, rather than putting power and wealth in the hands of the masses, the povo .
+
+The ruling elite – in the old Rhodesia and then in Zimbabwe – has always been incapable of meeting popular needs. Decisions have been based on the benefits to the ruling class. The combination of an authoritarian reign, first under Ian Smith, then under Robert Mugabe, the power of the ruling class, the of coherent class analysis from the Left in Zimbabwe (which viewed the state as tool for revolutionary change), and the weaknesses of the unions allowed for Zimbabwe to be ZANU-PF’s foot stool.
+
+True and real freedom will never come through parliament, it will not come through military take- overs, nor will it come through an old men who take turns to spout out neo-liberal or ultra-nationalist rhetoric, while their hands are covered in blood. True freedom for Zimbabwe lies on mass action, which is the transformative engine to build real democratic stateless socialism based on self-management, freedom political tolerance and common property (anarchism). As long as there is a single Zimbabwean who goes without food, who cannot afford education, who has no access to housing or employment, dignity then our fight has not ended. What is needed is to break out of the Mnangagwa illusion, and beginning to concretely organize among the masses of the people, for freedom and justice, and to clearly understand that the state is a hierarchical, bureaucratic structure that helps create the tiny ruling class that oppresses us all. It can be resisted but not used.
