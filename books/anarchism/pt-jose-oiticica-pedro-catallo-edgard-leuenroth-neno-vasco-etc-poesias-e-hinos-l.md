@@ -20,3 +20,7 @@ files:
 ---
 
 [Read on pt.anarchistlibraries.net](https://pt.anarchistlibraries.net/library/jose-oiticica-pedro-catallo-edgard-leuenroth-neno-vasco-etc-poesias-e-hinos-libertarios)
+
+Proclamação às tropas de "choca" do exército "galinhas verdes"
+
+(Getúlio Vargas foi atirado ao chão e pisoteado por populares)
