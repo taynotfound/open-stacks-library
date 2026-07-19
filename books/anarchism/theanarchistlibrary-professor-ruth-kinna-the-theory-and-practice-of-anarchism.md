@@ -1,0 +1,54 @@
+---
+title: "The Theory and Practice of Anarchism"
+author: "Ruth Kinna"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/professor-ruth-kinna-the-theory-and-practice-of-anarchism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Ethical Record, Spring 2020, Vol 125/2."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "professor-ruth-kinna-the-theory-and-practice-of-anarchism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/professor-ruth-kinna-the-theory-and-practice-of-anarchism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/professor-ruth-kinna-the-theory-and-practice-of-anarchism)
+
+Anarchism routinely attracts a bad press. The actions of a handful of ‘propagandists of the deed’ shaped popular perceptions in the nineteenth century. Tales of these bombers and assassins were not just the stuff of cheap literature, they styled Joseph Conrad’s depictions of anarchists too. Conrad’s stories of intrigue and espionage may now be considered relics of Victorian culture, but when the Twin Towers were destroyed in Manhattan interest in anarchism soared; a slew of commentaries purporting to show the anarchist origins of Al-Qaeda violence followed. Less dramatic, but equally telling, was the ‘accusation’ recently put to members of Extinction Rebellion, that the movement was a front for anarchist activism.
+
+Anarchism emerged as a distinctive current in European socialism in the 1870s when a dispute between Michael Bakunin, a veteran of the 1848 revolutions, and Karl Marx, the eventual figurehead of international socialism, came to a head in the International Workingmen’s Association (First International). The intellectual origins of their argument could be traced to an earlier dispute between Marx and P-J Proudhon, author of What is Property? (1840) who coined the immoral phrase: ‘property is theft’. But the immediate cause of the rupture was Bakunin’s rejection of Marx’s proposal for the organisation of socialist parties. The scheme was still a twinkle in Marx’s eye, but Bakunin argued that it paved the way to the instigation of socialism through the capture of state power. The idea of taking power to end class rule was plain daft, Bakunin thought: more likely to result in corruption than transformation. And even if socialist representatives managed to resist the seductions of power, he thought Marx’s plan was wrongheaded because the state was not merely an instrument of class rule. It was a system of domination which necessarily divided rulers from ruled. The achievement of classlessness would leave this hierarchy intact. There would be an equality of sorts, but authority would remain.
+
+“The boundaries between socialists remained quite fluid for most of the late nineteenth and early twentieth century but two events – the Paris Commune of 1871 and the Haymarket Trial of 1887 – became focal points for anarchist organising, sparking the creation of a global network of libertarian socialist movements.”
+
+Calling themselves ‘anti-authoritarians’, the Bakuninists branded Marx and his followers ‘authoritarian’ socialists. By the end of the decade, the labels had changed. Anti-authoritarians became anarchists and Marxists organised as ‘social democrats’. This label stuck until Lenin re-branded social democrats ‘reformists’ and styled revolutionary socialism as ‘communism’.
+
+The boundaries between socialists remained quite fluid for most of the late nineteenth and early twentieth century but two events – the Paris Commune of 1871 and the Haymarket Trial of 1887 – became focal points for anarchist organising, sparking the creation of a global network of libertarian socialist movements. These two events also generated a public profile of the anarchist as outlaw and radicalised scores of activists designated by it. The Commune was established at the end of the Franco-Prussian war in response to the demand made by the newly declared national government to surrender the city’s guns. Refusing, Parisian workers pursued a counter-demand for self-government, holding out against the authorities for two months. The resistance ended in a bloodbath, the largest European massacre of the nineteenth century. Twenty-thousand Communards are thought to have been executed and hundreds more imprisoned or deported. They were not all anarchists, but the demonisation of Communards as revolutionaries who struggled for self-rule chimed with anti- authoritarian politics.
+
+The Haymarket Affair was a wholly anarchist event. Following the shooting of strikers involved in a campaign for the 8-hour day in May 1886, anarchists in Chicago organised a rally in the city’s Haymarket Square. The detonation of a bomb and the gunfire which followed in the panic left seven police officers dead. Police assumed that anarchists were responsible and eight high-profile activists were charged with conspiracy. There was no strong evidence to convict any of them and the irregularities of the trial were acknowledged in 1893 when the sentences were quashed. But this decision came too late for five of the defendants, four of whom had been hanged and one who had committed suicide while awaiting execution. Moreover, by this time, the Red Scare that Haymarket had ignited had also accelerated the creation of a libertarian socialist movement which characterised all government – liberal or autocratic – as tyranny.
+
+“The resistance ended in a bloodbath, the largest European massacre of the nineteenth century. Twenty-thousand Communards are thought to have been executed and hundreds more imprisoned or deported.”
+
+Anarchists described the situation of the property-less to chattel slavery. Lucy Parsons, a black anarchist who had been born a slave, argued that the American Civil War had been fought in vain: slavery had not been abolished it had merely been transformed. In theory, she was now a free woman, yet she was still dependant on the good-will of an employer-master for her survival. Tens of thousands of homeless, starving workers were in the same position.
+
+Anarchists identified similar relationships of dependency in the domestic sphere. Women were dominated by men just as workers were dominated by employers, though the effects were felt differently: rape in marriage, denial of rights over children, limited access to education and routine disbarment from participation in public life. And in international relations, too, European states dominated non-European people in the most brutal manner, by turns treating the indigenous population as children and non-human animals. Either way, ‘civilisation’ was said to depend on the enlightened masters’ rule.
+
+“Anarchists described the situation of the property-less to chattel slavery. Lucy Parsons, a black anarchist who had been born a slave, argued that the American Civil War had been fought in vain: slavery had not been abolished it had merely been transformed. In theory, she was now a free woman, yet she was still dependant on the good-will of an employer-master for her survival.”
+
+The violence of the Commune and in Haymarket convinced anarchists that the social transformations promised by eighteenth-century revolutionaries in Britain, America and France had failed to materialise. The new constitutional regimes that had been designed to replace autocracy had merely institutionalised new forms of oppression. Anarchists admitted that it was possible to imagine remedial change within these regimes – more liberal labour law and the feminisation of family law, for example. But they concluded that the attempt to legislate for equality would only result in the conservation of prevailing norms, encouraging permanent struggles for supremacy. Anarchy was the only solution.
+
+Anarchists defined themselves as anti-capitalist libertarian socialists. While they agreed with Marxists that the abolition of class advantage was a key condition for emancipation, Proudhon’s critique of property highlighted the folly of replacing private ownership with state ownership. All the instruments of repression would remain, now deployed to impose the party’s view of the general good on the proletariat. Anarchist socialism demanded that all the institutions of the state – parliament, judiciary, police, military — be abandoned along with the exclusive right to property. For most anarchists, this meant re-grounding decision making in local associations on the model of the Paris Commune, and building solidarity by federation ‘from the bottom up’ on the basis of economic equality.
+
+By the 1880s probably most anarchists identified as communists and called for all property to be held in common to prevent anyone from claiming ownership in perpetuity. Others advocated for property in use (as Proudhon had called it). Their proposal was to give individuals access rights to small plots of land, tools and to whatever they produced, facilitating exchange with others. Property would be held as a temporary possession not a permanent asset. Communists worried that this scheme still posed problems of accumulation and that it assumed a culture of competition, too. Some producers would be more efficient than others or have better raw materials or tools and would be able to enrich themselves. This would give them an incentive to protect their advantages and resurrect state systems to do so.
+
+From the individualist perspective, communism smacked of repressive conformity. Individuals, they feared, would be obliged to respect communal practices. Communists responded by arguing that their arrangements were based on ‘free agreement’. This meant that decisions would be made directly by members of associations according to flexible rules that could be adjusted to protect against domination. In other words, communists recognised that some were more powerful than others but believed that, in the absence of institutionalised authority, that unequal powers cancelled each other out. In anarchy, no-one was able permanently to impose their will on anybody else and everyone was restricted by the principle of non-domination.
+
+How has the disagreement been resolved? In practice, anarchists have adopted mixed methods. In the Spanish revolution (1936–39) agricultural collectives often treated town’s land and machinery as common while allowing individuals to keep some property for themselves.
+
+Professor Ruth Kinna is Lecturer in Politics at Loughborough University, UK. She is the co-editor of the journal Anarchist Studies and the author of The Beginner’s Guide to Anarchism (Oneworld, 2005/2009) and Kropotkin: Reviewing the Classical Anarchist Tradition (University of Edinburgh, 2016). Her research focuses on socialism and anarchism in 19 th century Britain.
