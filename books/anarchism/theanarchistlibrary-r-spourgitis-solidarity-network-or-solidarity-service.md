@@ -1,0 +1,64 @@
+---
+title: "Solidarity Network or Solidarity Service?"
+author: "R. Spourgítis"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/r-spourgitis-solidarity-network-or-solidarity-service"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "On the challenges of building a solidarity network"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "r-spourgitis-solidarity-network-or-solidarity-service.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/r-spourgitis-solidarity-network-or-solidarity-service.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/r-spourgitis-solidarity-network-or-solidarity-service)
+
+The Seattle Solidarity Network (SeaSol) is a “workers’ and tenants’ mutual support organization that fights for specific demands using collective direct action.” SeaSol has a dedication to direct action and emphasis on empowering workers and tenants, and they have a very high success rate. Given this, the “SeaSol Model” seems to embody an inspiring new mode of class struggle for the increasingly precarious—it is no wonder it has been exported all over the world and become a popular project for many, anarchists and other anti-capitalists in particular.
+
+The 2011 pamphlet “Build Your Own Solidarity Network,” written by SeaSol members Cold B and T Barnicle details SeaSol’s strategy for taking on fights well (the pamphlet is online at libcom.org ).
+
+In November 2010 a group of us in Iowa City, Iowa, began forming a solidarity network. Thinking strategically about what you can or cannot accomplish in a project, and the steps taken to get there, were not things I was used to when we started our own solidarity network. Building a solidarity network was part of an important shift in my politics. It meant going from issue-based activism and one-off campaigns or protests to direct action work on immediate economic demands at the point of exploitation. This work aligns with IWW practice. The descriptions of demand-delivery and section titled “Agitate – Educate – Organize” will be familiar to those who have been through the Organizer Training 101.
+
+The guide has nuts-and-bolts information about group-based tasking and organization, which many of us spend years learning the hard way. Granted, only reading about it falls short of doing it, but the importance of these lessons should not be understated. Seemingly small items like encouraging group members to take on key tasks, following up with them, and running efficient, well-moderated meetings are necessary to a functioning organization of any sort, and it is refreshing to see this plainly laid out.
+
+My experience building a solidarity network substantially differed from what was described by the SeaSol organizers in this pamphlet. There were difficulties we did not anticipate, and while we did not expect to adapt the model whole cloth to our area and be immediately successful, there were recurrent issues that hampered our ability to build fights from the network that the pamphlet does not address. I suspect that our experiences with this solidarity network model are not wholly unique and I hope that others will write more about their experiences with these types of projects so that we may refine our strategies and tactics. In Iowa City, we experienced tensions within the solidarity network model and these experiences are probably similar to others who have not had the successes with this model that Seattle has.
+
+“People wanting to know how SeaSol got started often ask whether we had funding, whether we had an office, or whether we had extensive legal knowledge. We had none of these things, and we didn’t need them.”
+
+It is a strength of the model that a solidarity network can begin with few existing resources. One thing the pamphlet stresses is that a key strategy to success is identifying what you can win, which is perhaps harder than it sounds and often requires a kind of resource. Specifically, it requires at least some legal knowledge of tenants’ and workers’ rights. In Iowa City, not having much familiarity with the specifics of our state and local law, particularly housing, quickly became a problem. We realized early that we needed to know if what people were contacting the solidarity network about could be built into a fight, and the law was a factor in this. Through online research we found relevant housing code and labor law to our area. We then produced a booklet that went into an on-call book of sorts, with a notepad for people’s information, and a list of area aid agencies.
+
+The vast majority of our calls were housing related—around 90–95 percent of them. It became apparent that the tenants contacting us were usually not experiencing illegal actions on the part of their landlords, such as refusal to renew leases, hiking rents with lease renewals, giving bad referrals or threatening to call the police for minor infractions. In our area these are legal actions, even as they are terribly exploitative and oppressive for these tenants. As the SeaSol model is based on being winnable, this meant not taking on these cases. The emphasis on taking on “winnable fights” in effect translated to fighting against illegal actions and it was rare that this was blatantly the case.
+
+“…the activists who started the project did not have to see ourselves as something separate from the group we wanted to organize. We were part of that group.”
+
+The solidarity network model seeks to embody the principle of “solidarity not charity.” The fact that we work together as fellow tenants and workers to put pressure on those bosses and landlords screwing us over, instead of mediating through official channels, is a powerful thing. In practice, I found this is somewhat misleading about the realities of this work. Contrary to the principle underlying the model, we often fell into a distinctively service-led approach. None of the organizers’ workplaces or housing situations were built into fights, and so instead of fighting where we live and work, we ended up trying to assist others to fight where they live and work. We encouraged those who contacted us to become involved in the network, but this was never sustained beyond a meeting or two. One lesson here may be that when an individual meets with a network devoted to resolving their grievance—even if this network has a combative class-struggle approach—he or she is not unfairly expecting specialists of some kind. If the network explains that it does not specialize in this particular grievance, that does not change what the individual is expecting from that network.
+
+This service role was exactly what most people who contacted us expected from us. It was notable that when we told contacts we want to follow their lead and described the demand delivery and escalating tactics approach, there was a sudden drop-off in interest. Although the authors of the SeaSol pamphlet say “people who have taken the initiative to contact us are more likely to be people who are prepared to play an active role in a campaign,” our experience was almost anything but this.
+
+There were a handful of people we met with who had very clear, winnable-sounding fights. In these instances, the individual either handled it themselves or went through another channel to resolve their grievance. There were also those who contacted us and we waited too long to respond. Sometimes, we followed up with them immediately and never heard back. Given the immediacy of their need and seriousness of the living situation, it was understandable that we were not always equipped to help, even in a charitable, service-led capacity.
+
+It should be pointed out that we were aware of these problems at the time. We worked on improving our response time. We did some of the things suggested in the guide, such as changing the wording on our flyers and flyering more consistently. Since we seemed to get many people in tough situations but which we couldn’t help, we changed them from saying “Problems with your landlord?” to “Stolen deposits or unmade repairs?” This did not have an appreciable difference in the type or volume of calls we would receive.
+
+Being that so many of the contacts were renting units in apartment complexes, something we discussed was the need to build collective action with committees of tenants from the apartments—much like described in the “Inside Organizing” section at the end of the guide. Unfortunately, we never connected with a single tenant willing or able to build such a committee, let alone a group of them. This is not to say those tenants are not out there, but they did not contact us.
+
+Our area is like many places in the United States, there are no tenants’ unions or associations. There is a Housing Authority directly complicit with the police and the major property management companies, and a handful of neighborhood associations devoted to immediate need programming and state social workers. As a result, there is little to no recourse for the injustices dealt to tenants. I have to wonder if such a lack of social services and mediation, as disempowering and meager as they are, differs from other places and led us to be expected as another service.
+
+Additionally, our immediate region is undergoing big changes in its racial composition. As gentrifying efforts have stepped up in major metro areas, recent years have seen an increase in Black and Latino residents in Iowa City (67 percent and 97 percent increases respectively between 2000–2010). There is a more complicated picture behind these demographic shifts and their causes and effects than I can do justice to in this brief review. Still, it is clear that for many new residents to the area that the structural racism of local power is felt from the police, schools, city services, and, of course, in housing.
+
+I illustrate this local context because nearly all of the few contacts we met with were Black women. Conversely, our solidarity network was made up of a majority male, entirely white grouping. This is not intended to lament our group’s dynamics or to advocate retreating into inaction based on white guilt, but it would be dishonest to omit such marked differences of race and gender between solidarity network members and our contacts. This fact comes to mind when the authors suggest door-knocking and more heavily flyering apartment complexes with known problem landlords. At times we did flyer specific areas, but taking that recommendation to its fullest extent in my opinion would have amounted to some of the worst kind of white radical paternalism. While efforts were made to include the women we met with in our organizing, these could have been stronger. However, an individual or two does not represent a community, and the divide of white radical activists and a majority people of color service community remain as a fact of this organizing experience.
+
+The Iowa City Solidarity Network operated for a little more than a year. In that time, we learned about our area and the reality of engaging local struggles to a depth unappreciated before. Occupy Iowa City emerged in late 2011 and our efforts shifted to that project. Given the frustrating and lackluster experience of the solidarity network, it was something we decided to close in December of that year.
+
+Reflecting on this model, I think there are aspects indicating more individualized service work than is appreciated, as the single individual with a legally legitimate grievance calls in for support and the solidarity network organizers act as specialists in struggle. There is more at work here than the SeaSol model, though. There are bigger issues with the project which span the anti-capitalist left: organizers lacking real connections to working-class communities—not forced or imaginary ones—the lack of a recent shared history of collectively fighting back, and the lack of a material support system for those willing to take risks in their jobs or living situations, to name a few.
+
+The SeaSol model may be useful in other places. IWW people considering a solidarity network may want to find out what services already exist for tenants and workers in their area to determine if they are prepared to handle people in crisis mode looking to them for service and if they are equipped to mobilize a number of people for a public showing of solidarity. Additional questions or criteria are probably needed for an IWW branch to consider it, such as if fights will come from their own membership or outside and if the latter how to handle people new to the IWW coming in for their workplace or housing grievance.
+
+At this stage of class struggle, different approaches in different places are worth trying and a solidarity network might be a useful one indeed.
