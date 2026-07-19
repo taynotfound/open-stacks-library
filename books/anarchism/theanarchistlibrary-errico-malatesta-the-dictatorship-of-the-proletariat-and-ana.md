@@ -20,3 +20,25 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/errico-malatesta-the-dictatorship-of-the-proletariat-and-anarchy)
+
+Upon the question that so occupies your mind, that of the dictatorship of the proletariat, it seems to me that we are fundamentally in accord.
+
+Upon this question it seems to me that there can be no doubt among anarchists, and in fact there was none prior to the Bolshevist revolution. Anarchy signifies non-government, and therefore for a greater reason non-dictatorship, which is an absolute government without control and without constitutional limitations.
+
+But when the Bolshevist revolution broke several of our friends confused that which was the revolution against the pre-existent government and that which was the new government that came to superimpose itself upon the revolution so as to split it and direct it to the particular ends of a party… and they came themselves very close to claiming to be bolshevists.
+
+Now, the bolshevists are simply marxists, who have honestly and coherently remained marxist, unlike their masters and models—the Guesdes, the Plekanoffs, the Hyndmans, the Scheidemanns, the Noskes, who finished as you know. We respect their sincerity, we admire their energy, but as we have not been in accord with them on the ground of theory, we cannot affiliate with them when from theory they pass to action.
+
+But perhaps the truth is simply this, that our Bolshevized friends intend with the expression “dictatorship of the proletariat” merely the revolutionary act of the workers in taking possession of the land and of the instruments of labor and trying to constitute a society for organizing a mode of life in which there would be no place for a class that exploited and oppressed the producers.
+
+Understood so the dictatorship of the proletariat would be the effective power of all the workers intent on breaking down capitalist society, and it would become anarchy immediately upon the cessation of reactionary resistance, and no one would attempt by force to make the masses obey him and work for him.
+
+And then our dissent would have to do only with words. Dictatorship of the proletariat should signify dictatorship of all which certainly does not mean dictatorship, as a government of all is no longer a government, in the authoritarian, historic, practical sense of the word.
+
+But the true partisans of the dictatorship of the proletariat do not understand the words so, as they have clearly shown in Russia. Obviously, the proletariat comes into it as the people comes into democratic regimes, that is to say, simply for the purpose of concealing the true essence of things. In reality one sees a dictatorship of a party, or rather of the heads of a party; and it is a true dictatorship, with its decrees, its penal laws, its executive agents and above all with its armed force that serves today also to defend the revolution for its external enemies, but that will serve tomorrow to impose upon the workers the will of the dictators, to arrest the revolution, consolidate the new interests and finally defend a new privileged class against the masses.
+
+Bonaparte also served to defend the French revolution against the European reaction, but in defending it he killed it. Lenin, Trotsky and their companions are certainly sincere revolutionaries—as they understand the revolution, and the will not betray it; but they prepare the governmental cadres that will serve those that will come, who will profit from the revolution and kill it. They will be the first victims of their method, and with them, I fear, will fall the revolution. And history will repeat itself; mutatis mutandis, it was the dictatorship of Robespierre that brought Robespierre to the guillotine and prepared the way for Napoleon.
+
+These are my general ideas upon things in Russia. Inasmuch as the news we get from Russia is too contradictory to base upon it a judgement, it is possible that many things that seem bad are the fruit of the situation, and that in the peculiar circumstances in Russia it was impossible to do otherwise than was done. It is better to wait, much more so in that whatever we might say would have no influence upon the developments in Russia, and might be ill interpreted in Italy and seem to echo the interested calumnies of the reaction.
+
+The important thing is what we must do. But there we go again, I am far away, and it is impossible for me to do my part…
