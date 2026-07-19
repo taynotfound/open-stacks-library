@@ -1,0 +1,44 @@
+---
+title: "Robert Anton Wilson"
+author: "Hakim Bey"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/peter-lamborn-wilson-robert-anton-wilson"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Author, The Illuminatus! Trilogy and Cosmic Trigger, Dies at 74"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "peter-lamborn-wilson-robert-anton-wilson.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/peter-lamborn-wilson-robert-anton-wilson.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/peter-lamborn-wilson-robert-anton-wilson)
+
+For all we knew, Robert Anton Wilson and I were related. On an intuitive basis–i.e., after several rounds of Jameson’s and Guinness–we decided we were cousins. Subsequently we came to believe ourselves connected to the Wilsons who play so murky a role in the “Montauk Mysteries” (Aleister Crowley, UFOs and Nazis in Long Island, time travel experiments gone awry, etc.). Our plan to co-edit a family anthology (including Colin, S. Clay, and Anthony Burgess, whose real name was Wilson) never materialized–although we did collaborate in editing Semiotext(e) SF , together with Rudy Rucker.
+
+There’s no doubt Bob was some sort of anarchist. His earliest interests and experiences (the School of Living, for example) involved connections with old-time American Philosophical or Individualist Anarchism of the Spooner/Tucker variety, and, in fact, this shared background formed the basis of our friendship.
+
+Bob was a Futurist and I am a Luddite, but after a long series of letters back and forth we agreed to disagree on the subject of technology, since neither of us wanted to put ideology in the place of camaraderie.
+
+We got too much enjoyment out of our shared interests: the Propaganda Due, Freemasonic Conspiracy, science fiction, “Irish Facts,” as Bob called his favorite Celtic paradoxes and tall tales, occult and lost history, pirates, strange science and Fortean phenomena, the Discordian Church (co-founded with anarcho-taoist Kerry Thornley of the “Universal Rent Strike,” rip.) — in which he appointed me Pope–because all Discordians are Popes. (But Bob was The Pope –also his title in the Church of the Sub-Genius.) Bob was one of the great pub talkers, probably a lot like Brendan Behan or Dylan Thomas (he somewhat resembled both of them physically).
+
+I’m proud to say I appear–under several guises, alter egos and noms de plume in one of Bob’s last books, Everything Is Under Control (1998), a sort of encyclopedia of his favorite conspiracies. Unlike some of his admirers, Bob never believed in any one conspiracy as more (or less) real than another. He simply took a chaote’s delight in humanity’s occasional talent for genuine mystery; and for him, Imagination was a form of reality. Was he playing or was he serious? Exactly.
+
+In later years, when he cut down on his grueling dada vaudeville speaking tours and retired to California, we lost touch because Bob decided to colonize the Internet and I decided not to. Our mutual friend Eddie Nix kept us linked with warm greetings back and forth. Eddie sent me print-outs of Bob’s most recent web-page, the Guns & Dope Party (“because that way we have a majority”)–one of his best stunts or japes.
+
+Founding a political party may not seem a doctrinaire anarchist sort of thing to do, but Bob was first and deepest a post-Nietzchean homo ludens, playful man, perpetrator of the lusus seriosus, the “serious joke.” In his best writing, the Illuminatis! books (starting in 1975, co-created with the late Bob Shea) for example, R.A.W. approached his idol James Joyce in sheer ludic intensity, and his other idol Flann O’Brien in number of laughs per page.
+
+Certainly his works belong to the literature of anarchy, like say Alfred Jarry’s or Oscar Wilde’s, if not to the literature of anarchism.
+
+Despite a good deal of suffering in life (his childhood polio and the long sickness of his wife Arlen; the murder of his daughter; and his dying broke), Bob always appeared cheerful, which is either very good advertising for Neuro-Linguistic Programming (a theory he developed with Tim Leary, but which I never quite understood), or else for the therapeutic virtues of cannabis. For instance, some years back a rumor was spread maliciously on the Internet that Bob was dead. Instead of getting annoyed, he had great fun doing the Reports-of-my-death-have-been-greatly-exaggerated routine.
+
+I see in R.A.W.’s Wikipedia obituary (sent to me by carrier pigeon from Fifth Estate’s southern HDQ)–an otherwise lackluster text–that Bob was equally amused the second and final time as well, telling his correspondents, “Please pardon my levity, I don’t see how to take death seriously. It seems absurd.”
+
+Poem & pomology — false etymology or proto-Indo-European ha-ha? The small-k kabbalist relishes a poemogranate from the garden in Grenada. N.E. Vavilov (later denounced by Lysenko, dies in Gulag) discovers Eden somewhere in Kazakhstan not far from the genetic epicenter of hemp. Noon blue apples. The Discordian Pope throws out the first ball of the season over the fence into the Hesperides or Tir na Nog the island of Irish Facts. Turn down gents your jiggers of Jameson’s.
