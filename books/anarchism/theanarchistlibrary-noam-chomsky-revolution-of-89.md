@@ -1,0 +1,62 @@
+---
+title: "Revolution of ’89"
+author: "Noam Chomsky"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/noam-chomsky-revolution-of-89"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From The Nation, January 29, 1990 Retrieved on 8th June 2021 from chomsky.info"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "noam-chomsky-revolution-of-89.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/noam-chomsky-revolution-of-89.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/noam-chomsky-revolution-of-89)
+
+Throughout modern history, popular forces motivated by radical democratic ideals have sought to combat structures of hierarchy and domination. Sometimes they succeed in expanding the realm of freedom and justice before being brought to heel. Often they are simply crushed.
+
+October 1917 provides an example with renewed relevance for today. The Bolshevik coup eliminated working-class and other popular organizations and imposed harsh state rule. The total destruction of nascent socialist elements has since been interpreted as a victory for socialism. For the West, the purpose was to defame socialism; for the Bolsheviks, to extract what gain they could from the moral force of the hopes they were demolishing. Authentic socialist ideals have been unable to withstand this two-pronged assault.
+
+The past decade in Central America illustrates the standard pattern. The proliferation of unions, peasant associations and other popular organizations threatened to provide the basis for democracy and social reform. This prospect elicited a violent response, with slaughter, torture and general misery, leaving societies “affected by terror and panic,” “collective intimidation and generalized fear” and “internalized acceptance of the terror,” in the words of the Salvadoran church. Early efforts in Nicaragua to direct resources to the poor majority led Washington to initiate economic and ideological warfare, and outright terrorism, to punish these transgressions by reducing life to the zero grade. Such actions are considered a success insofar as the challenge to U.S. power and privilege is rebuffed and the targets are properly chosen. Killing priests is not clever but peasant organizers, union leaders and human rights activists are fair game.
+
+Remarkably, recent events in Eastern Europe depart from the norm. As the fragile tyrannies collapse under a popular uprising, Moscow is not only refraining from intervention but even encouraging these developments alongside significant internal changes. The contrast to Central America and other U.S. domains could hardly be more dramatic.
+
+The striking asymmetry is highlighted by the U.S. reaction to Moscow’s moves. There is little thought that the United States might relax its grip over its own domains, or act to mitigate the horrors that prevail there. Rather, the question is how best to exploit the retraction of Soviet power to achieve U.S. designs. The test of Gorbachev’s “new thinking” is his willingness to withdraw support from those whom the United States seeks to crush. Only if Gorbachev permits us to have our way will he prove his good faith. As recent events in Panama reveal, the United States continues to claim the right to achieve its ends by violence, on pretexts so transparently absurd that refutation is hardly necessary.
+
+This pattern prevails worldwide. Thus in the Middle East, for almost twenty years Washington has blocked a broad international consensus on a diplomatic settlement of the Arab-Israeli conflict. In the current version, the official “peace process” is restricted to the Baker-Shamir-Peres plan, with its “basic premise” that there can be no “additional Palestinian state” between Israel and Jordan and no change in the status of the territories “other than in accordance with the basic guidelines of the [Israeli] Government,” which rules out any meaningful Palestinian rights. The New York Times observes that “with the exception of the United States, not one nation has endorsed the plan,” though Moscow is now trying to become a “team player,” abandoning its “policy of confrontation” and its “radical positions”–that is, its advocacy of a two-state settlement that recognizes the national rights of Israel and the Palestinians. In short, the world is out of step, and unless the Soviet Union becomes a “team player” by joining us off the spectrum of world opinion and adopting our rejectionist stance, it is plainly not serious about detente.
+
+The U.S. response to the events in Eastern Europe should be seen in a broader context. Since the 1950s both superpowers have been declining in their capacity to coerce and control. The Vietnam War, in particular, harmed the U.S. economy while benefiting its major rivals, Europe and Japan. As has long been observed, a new global order has been taking shape, with three major blocs: one dominated by the United States, another by Japan, and the third a European system dominated by Germany. Western Europe is reconstructing traditional quasi-colonial relations with the East, and Japan is likely to follow suit. Such developments could make the United States a second-class power. It is not surprising that the prospects arouse deep concern.
+
+In the mid-1940s, U.S. planners were ambivalent about unification of Europe. In the circumstances of the postwar world, it was feared that the Russians had the advantage in the political game; this advantage had to be canceled, with West Germany “walled off” from Soviet influence, in George Kennan’s phrase.
+
+Meanwhile, labor and other popular forces were undermined and the traditional order largely restored. The British Foreign Office favored the partition of Germany to bar Soviet influences, viewing “economic and ideological infiltration” from the East as “something very like aggression.” Eisenhower also regarded “Soviet political aggression” as the real danger, and saw NATO as a barrier against this threat.
+
+Stalin’s 1952 proposal to unify Germany with free elections was flatly rejected because of his condition that a reunited Germany not join a U.S.-run military alliance, a sine qua non for any Soviet leadership. Had this and later initiatives been pursued, there might have been no Berlin wall and no Soviet invasions of East Berlin, Budapest and Prague. Currently the United States looks askance at moves toward European integration that might strengthen its major rivals on the world scene while undermining the U.S. influence that results from East-West confrontation and the pact system.
+
+Detente raises further problems here. What John Kennedy called the “monolithic and ruthless conspiracy” has been regularly invoked to mobilize support for intervention abroad and state industrial management at home. Now these policies are jeopardized as the threat loses its credibility.
+
+The policies have deep institutional roots. The crucial planning document, N.S.C. 68, written just before the Korean War, warned of “a decline in economic activity of serious proportions” without a government stimulus through military spending. One function of the Pentagon system has been to insure that the public provides the costs of R&D and a state-guaranteed market for advanced industry while profits accrue to the private sector, a gift to the corporate manager. Thus, business has always been troubled by what The Wall Street Journal calls “the unsettling specter of peace,” and it grasps at the hope that a capital-intensive and high-tech military will still provide, as Gen. Edward Meyer assured, “a big business out there for industry.”
+
+Despite the inefficiency and costs, such devices will not be easy to replace. It has long been taken for granted that large-scale government intervention is essential to maintain private economic power, but nonmilitary forms, however feasible in narrow economic terms, have unwelcome side effects. They tend to interfere with managerial prerogatives. organize new constituencies, redistribute income and in other ways foster democracy and reform, thus conflicting with the basic goals of social policy designed by the privileged. Military Keynesianism has none of those defects.
+
+The “economic miracles” of the First World depart still further from pure capitalist principles, notably Japan and the “Four Tigers” on its periphery (South Korea, Taiwan, Singapore and Hong Kong), with economies coordinated by the state and industrial-financial conglomerates. Their successes are hardly a tribute to capitalism or democracy. Here, the sectors that remain competitive are those that feed from the public trough: high-tech industry and capital-intensive agriculture, as well as pharmaceuticals and others. Free enterprise is a suitable theme for rousing oratory, but only so long as the handout from Washington is secure. To be sure, capitalist doctrines will do just fine for the former colonies–and now, it is hoped, Eastern Europe–to facilitate their own exploitation.
+
+As for democratic forms, at best they are limited under the constraints imposed by private command of resources and investment decisions, and in recent years the lack of substantive content has become a virtual cliche.
+
+The United States sought to construct a global system in which other industrial powers pursue “regional interests” within the overall framework of order managed from Washington, as Henry Kissinger admonished the European allies. Meanwhile the Third World is to “fulfill its function” as a market and source of raw materials and cheap labor. Every effort will be made to direct Eastern Europe on the same course. High-level planning documents frankly identify the major threat to U.S. interests as “nationalistic regimes” that are responsive to popular pressures rather than the needs of investors. These concerns underlie persistent U.S. subversion and intervention on the pretext of Soviet threats, the correlation between U.S. aid and human rights violations and the extreme hostility to democracy unless power remains securely in the hands of business, oligarchy and military elements that respect U.S. priorities. Gorbachev’s initiatives provide only the occasion for tactical adjustments; policy and its roots are unchallenged, and virtually excluded from discussion within the ideological system.
+
+With the decline of U.S. power and the diversification of the international order, however, traditional goals become more difficult to achieve. Further problems arise from internal dissidence and the loss of the Soviet threat as an instrument of population control. It is natural that the U.S. reaction to Gorbachev’s moves and the European accommodation to them should be halting and uncertain.
+
+Since the latter days of the Indochina war, U.S. elites have undertaken intensive efforts to increase corporate profits, weaken unions and the welfare system, temper the “crisis of democracy” by restoring public apathy, and strengthen state-corporate linkages. They have also sought to solidify the U.S.-controlled bloc, incorporating Canada and viable sectors of Latin America while maintaining traditional domains elsewhere. But the world is increasingly out of control as well as out of step.
+
+Soviet military expenditures began to level off in the mid-1970s — contrary to what was claimed to justify the Carter-Reagan military buildup and attack on social programs–and are declining as Gorbachev attempts to rescue the stagnant command economy. While Reagan Administration militancy may have hindered these developments, it did not stop them, and by the mid-1980s Washington was compelled to reduce its aggressiveness, hysterical rhetoric and military growth as the costs of Reaganite economic mismanagement became unacceptable. Fortuitously, both superpowers, for independent reasons, are on a path away from confrontation.
+
+With Bolshevism disintegrating, capitalism long abandoned and state capitalist democracy in decline, there are prospects for the revival of libertarian socialist and radical democratic ideals that had languished, including popular control of the workplace and investment decisions, and, correspondingly, the entrenchment of political democracy as constraints imposed by private power are reduced. These and other emerging possibilities are still remote, but are no less exciting than the dramatic events unfolding in Eastern Europe.
