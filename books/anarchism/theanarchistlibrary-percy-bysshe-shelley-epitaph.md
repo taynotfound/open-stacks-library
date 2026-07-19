@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/percy-bysshe-shelley-epitaph)
+These are two friends whose lives were undivided; So let their memory be, now they have glided Under the grave; let not their bones be parted, For their two hearts in life were single-hearted.
