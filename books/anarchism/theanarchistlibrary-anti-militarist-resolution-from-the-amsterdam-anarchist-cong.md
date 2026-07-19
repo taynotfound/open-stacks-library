@@ -20,3 +20,13 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anti-militarist-resolution-from-the-amsterdam-anarchist-congress-of-1907)
+
+Anarchists, wanting the full liberation of humanity and complete freedom of the individual are, naturally, essentially, declared enemies of any kind of armed force in the hands of the State: army, gendarmery, police, magistrature.
+
+They compel their comrades—and in general all men who aspire to freedom, to fight according to the circumstances and their own temperament, and with all means, from individual revolt, to isolated or collective refusal of military service, to passive and active disobedience and the military strike—for the radical destruction of the instruments of domination.
+
+They express the hope that all people involved will respond to any declaration of war with insurrection.
+
+They declare that they think anarchists will provide the example.
+
+(This motion that bears the signatures of Malatesta, Marmande, Thonar, Cornélissen, Ramus and Domela Nieuwenhuis, is approved without discussion.)
