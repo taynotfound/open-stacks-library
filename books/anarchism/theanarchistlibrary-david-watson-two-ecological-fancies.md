@@ -1,0 +1,52 @@
+---
+title: "Two Ecological Fancies"
+author: "David Watson"
+date: "2010"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/david-watson-two-ecological-fancies"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Fifth Estate #360, Spring 2003"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "david-watson-two-ecological-fancies.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/david-watson-two-ecological-fancies.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/david-watson-two-ecological-fancies)
+
+Only later did some say that the first of what were to be many miraculous births was presaged in signs. Only much later did a long list of the omens appear. Some could not resist applying the veneer of old myths to circumstances that seemed entirely novel. Someone had reported a two-headed comet, but that was predictable. It had been done before. Different indeed and widely reported was the experience of being awakened from troubled sleep to the sound of a woman laughing, laughing, saying, “Oh my children, my beautiful children!”
+
+The first birth made local, then national and international news. A young woman claiming to be a virgin (a claim no one believed, of course), gave birth to a California condor chick. Various government agencies stepped in, and the chick was placed with foster parents in a condor nest. It proved a perfect condor, right down to the DNA. Fundamentalist Christians protested, demanding that such freakish manifestations be aborted before it was too late, but most people thought it a creation of the tabloids or a government conspiracy to use the population in genetic engineering experiments. Some blamed radical environmental terrorists. The young woman did tell of a series of dreams in which an old woman, perhaps an Indian, had visited her and told her to prepare to “receive the blessing.” She admitted remembering having sex at one time or another beforehand, but could not recall any details except to insist that the father was most definitely not a condor.
+
+Soon followed a flood of such births, of rare and not so rare ani-mals, even of creatures known to be extinct. Repeats came in from remote precincts — miraculous (some thought monstrous) births of nearly extinct lemurs, humpback whales, quetzals, rhinos, wood-land bison, passenger pigeons, dodos, even a snow leopard born in Tibet at the exact place and time when the next Dalai Lama was to reappear according to certain adepts.
+
+But that was not all. While women birthed animals, men began birthing plants, usually after a nervous attack while walking outside, where the plants would take root. A man would suddenly fall ill, trembling in spasms of pain, expel the plant, fall into exhausted sleep, then awake in the shade of a redwood or mahagony, a sandal-wood or teak tree that had emerged as a seedling. A sneeze might also discharge several rare insects.
+
+By then few human births were occurring, and those were considered highly unusual. Scientists speculated that these children were in fact Neanderthals, not modern humans, while others argued that they were a type not previously encountered. Such speculation lasted less than a generation before science itself began to die out along with religion. None of the old responses made any sense, and people were beginning to take the changes for granted, practicing a metaphysical discipline based on laughter and dancing. The new human babies seemed to speak a common, completely unintelligi-ble language among themselves, and even appeared to communi-cate without speech at all, and with plants and animals.
+
+Even the air was changing, becoming sweet and thick, heady and narcotic. Those who lived through the change found themselves frequently giddy, sexually aroused, overcome by an invasive sense of awe at simple things like doing the dishes or sitting under a tree. They stopped going to work. Armies, governments, corporations dissolved. When a few holdouts tried to set off a nuclear conflagra-tion to stop the inevitable, nothing happened. Even minerals were changing, and by now uranium had turned into a kind of obsidian, like the slag that comes out of blast furnaces. People collected it for its strange shapes and luster.
+
+Earthquakes finally toppled most of the landmarks that made the world recognizable to the late twentieth century. The last pre-transformation generation would gape in wonder at the pterodactyls roosting on the roof of what was once the White House. Not long after, that last generation was gone and none of the words were the same for anything.
+
+It started when the carrots refused to germinate. They’d had enough. If they had had tools, say, drills and hammers, they would have laid them down. One might imagine their abandoned chisels and mallets left on the elaborate scaffolding around the precariously tall, swaying, irregular, auger-like cathedral of what was to become a mature carrot; the fine lattice work of the leafy pinnacle unfinished and flapping like the torn rigging on a scuttled sail-ing ship; the incomplete wiring around the foundations in the dusty soil. One might imagine the tiny orange rivets growing along a narrow, shallow furrow made by the gardener’s fingers, each displaying a minuscule, feathery green handkerchief to wave at the watering can as it made its rounds, each fine linen spray containing its maintenance instructions for the growing vessel. But the seeds left there curled up and petrified like dead fleas buried in a tiny trench. Not because the rain had washed them away, or because they were too dry or too soggy, too shal-low or too deep. The conditions were appropriate. Of this the gardener could be sure.
+
+One might also imagine the carrot proletarians leaning back (if they could lean back) and folding their wise, gnarled hands into sinewy arms (if they had hands and arms), declaring, “No more.” But of course carrots make themselves without tools and scaffolding, in a kind of Moebian caprice, making themselves out of what appears to be nothing, like rabbits pulling themselves out of a hat without the hat. They work quite mysteriously, under cover, a secret guild. Now you don’t see them, now you do. A seed grows a hair like a polliwog’s tail, or the tail of a comet or galaxy. After a while the gardener will tear it from the ground and deliver it to the chop-ping block — if the deer haven’t gotten to it first.
+
+Not this time though. They never opened their shutters, never came out of their shadowy hovels. No carrots the first year. It would be almost possible to imagine them behind closed doors, drinking their home-made grog, kicking off the wooden clogs for which sab-otage has been named, and dancing to a carroty music of their own making. The mute refusal of the carrots — no leaflets, no broadcasts, no communiques, no congresses — sent shock waves through the garden. Quite soon afterward the other rows joined the mutiny. First the beans, after growing opulent in their foliage, and after producing flowers insouciantly and dazzlingly seductive, bore no fruit. It was a wanton gesture bordering on vindictiveness. The manic blossoms made the bees swoon. The beans might have been as hallucinogenic as peyote if they had come on, but they didn’t. But that was the year, or so the gardener was told, that the cactuses, too, produced no buttons.
+
+The following year the beans didn’t germinate at all. Like the car-rots, they simply boycotted the event. The row lay there, indifferent to sun and rain, like slightly raised scar tissue. One could imagine getting down on all fours and placing an ear against the ground to hear what might be going on there behind the locked door of the beans’ renunciation. But there would only be a capacious silence, as if the beans, turned inward after that year of sterile profligacy, were meditating on cushions. They were not going to answer that door. They, too, might themselves be listening at another locked door.
+
+It was only a matter of time before the corn and the squash and the chilies, lonely without the beans, all followed suit. They, too, put on a startling display one year before giving up the ghost the next. One had to suspect what was coming as one gazed on a row of beautiful, deep green corn, tall and lusty and almost blue as a tropical sea, tassling lasciviously and then bearing no issue. The gardener must have gazed across the corn with the despair of a thirsty wanderer who realizes that the desert oasis is nothing but a mirage.
+
+Finally, all the crops joined the strike. Replacement seeds — new and supposedly improved strains from distant laboratories-were trucked in as a situation one might first consider an irritant became a question of consternation, growing unease, a sense of peril and outright cataclysm. But the seeds fared poorly. Some germinated only to be mowed down by obscure plagues. One hardy little tomato plant would catch a blister or blight start to sniffle, and overnight all would be struck down with a biblical violence. The engineered seeds were too perfect, too uniform, too docile. One might imagine them smiling identically in the conditioned optimism, all of them properly inoculated, all unblemished, all sporting the same smartly creased and starched jump suits, all shouldering their tools, all blissfully daydreaming to the same piped-in music. But then would come a ripple in the smooth surface of things, and brutish, muscular insects would arrive, scarred and hirsute; or sly viruses would infiltrate the crowd like pickpockets; and the manufactured seeds and plants would grow even more pale than they were made, wither and crumple all at once.
+
+Gradually it became clear that whatever it was the carrots had initiated was now more than a limited refusal. Rather, an entirely new regime had emerged, and qualitatively different conditions were now in place. Leaving the tools hanging in their storage shed, hoses coiled and the granary empty, the gardener moved on, actually becoming the tattered, hungry beggar that had been a flickering apparition in a dream that season when the carrots began, obscurely and tentatively, to turn everything upside down.
+
+Emblem of that shadowy vagrant disappearing on the horizon only the scarecrow remained, its weathered frock flapping exhausted in the gentle wind, a twisted, wiry arm pointing away at nothing.
