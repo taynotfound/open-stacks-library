@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/intercom-4-1984)
+
+4th issue of this Ultra-Left Review, published in the UK in January 1984. This issue was produced by London Workers Group.
