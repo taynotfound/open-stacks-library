@@ -1,0 +1,64 @@
+---
+title: "Worker Management of the Barcelona Public Transit System, 1936-1939"
+author: "Tom Wetzel"
+date: "2024"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/tom-wetzel-worker-management-of-the-barcelona-public-transit-system-1936-1939"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 2 March 2024 from workerscontrol.net."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "tom-wetzel-worker-management-of-the-barcelona-public-transit-system-1936-1939.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/tom-wetzel-worker-management-of-the-barcelona-public-transit-system-1936-1939.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/tom-wetzel-worker-management-of-the-barcelona-public-transit-system-1936-1939)
+
+The history of worker management of Barcelona's transit system during the revolution and civil war is an illustration of the ability of workers to directly manage the industries where they work.
+
+In the years leading up to the revolution in Spain in 1936 there had been bitter struggles of the workers...such as the long but defeated streetcar strike in 1935. A number of leading activists in that strike were sent to prison. With the victory of the liberals and social-democrats in Spain's national elections in February 1936, imprisoned unionists were freed, and the workers on the Barcelona transit system began rebuilding their union, which was to play an important role in the city during the revolutionary events of 1936.
+
+In Barcelona in 1936 the main part of the transit system was a large streetcar system, operated by Barcelona Tramways (Tranvias de Barcelona), a company owned mainly by Belgian investors. The streetcar company operated 60 routes that criss-crossed the city and ran into the nearby suburbs. Of the 7,000 workers for this company in 1936, 6,500 belonged to the Transport Union of the National Confederation of Labor, known by its Spanish initials as the CNT. The CNT was a libertarian syndicalist labor organization. The Transport Union was a highly democratic organization, run through worker assemblies (general meetings) and councils of elected shop stewards (delegados). Being syndicalist means that the union was part of a revolutionary social movement that aimed to have the workers take over direct, collective management of the industries, replacing the bosses and the capitalist investors, and creating an economy based on ownership of industry by the whole society.
+
+In response to the mass mobilization and strikes of the Spanish workers, the heads of Spain's army, with direct support of the country's capitalist elite, attempted to overthrow the liberal government, beginning July 19 1936, so as to crush the country's radical labor movement. Union defense groups fought back with the support of much of the rank and file of the police, defeating the army in two thirds of the country initially. The worker unions then formed their own "People's Army" to fight the fascist Spanish army. In the days following the defeat of the army in Barcelona, the unions moved to expropriate most of the country's industry and new organizations of direct worker management were created.
+
+The workers of the Transport Union participated in the fighting. They seized an armored car that the company used to haul streetcar fares and deployed it as an armored car in the fighting with the army.
+
+On July 20th an armed group from the CNT transport union discovered that the top management of Barcelona Tramways had fled. A mass meeting of the transit workers was held the following day and the assembly voted overwhelmingly to expropriate the transit companies in the name of the people. Three private bus companies, two funiculars, and the Metropolitan Railway (subway) were taken over along with the streetcar company.
+
+The streetcar system had been badly mauled in the street fighting — tracks were damaged, overhead wires were knocked down in places, equipment boxes were shot up, and streetcar tracks were blocked by barricades. Working night and day, the transit workers got the streetcar network working within five days. Over time the streetcars were repainted in the diagonally divided red and black paint scheme of the syndicalist movement (photo below). Prior to July 19th, equipment boxes of the electric power company in the middle of streets made it necessary for Barcelona streetcars to negotiate tight curves around them; this had been a source of derailments. After the union takeover, the workers arranged with the worker-run public utility federation to relocate the electric power equipment so that the tracks could be straightened out. Under private management, the private electric utility had built power boxes in the middle of the street and streetcar tracks were curved around them. Workers arranged to move these power boxes to the sidewalk. On a number of lines center line poles in the street had been used for suspension of the overhead wire and these were replaced with crossspans from poles on the sidewalk, as this was considered safer.
+
+The various modes — buses, subway, streetcars — were separate union "sections", as were the repair depots. These all were managed through elected committees, answerable to assemblies of the workers. An engineer was elected to each administrative committee, to facilitate consultation between manual workers and engineers. There was an overall assembly for decisions that affected the transit-system as a whole. There was no top manager or executive director. A 7-member elected worker committee was responsible for overall coordination.
+
+Barcelona Tramways had operated with a fare zone system which meant that it cost more for people in the outer working class suburbs to get into the city center. The worker-run transit operation switched to a flat fare throughout the metropolitan area, to equalize fare costs to riders. Despite this lowering of the fare, the worker-run transit system operated at a profit. A sizeable part of this profit was donated to the anti-fascist war effort. Workers also donated their time on Sundays to work in factories set up in transit system workshops to make munitions for the People's Army.
+
+A large amount of French and American machine tools were purchased, to make the transit operation largely self-sufficient in spare parts. This included an automated American machine tool that could make multiple copies of identical parts — the only machine of its kind in Spain. A furnace for melting down used bearings was acquired. The new equipment meant that the system had an enhanced ability to build its own streetcars. Before the revolution, the private company had only made about 2 percent of the repairs through its own workshops and were set up only to deal with the most urgent repairs. But within a year under workers management, the workshops were manufacturing 98 percent of the parts used. They were able to do this and still make a profit, despite a 150 percent increase in prices of raw materials.
+
+The CNT transport union entered into an arrangement with the new CNT health workers union to ensure free medical care for transit workers and their families. The health workers union was set up to take over the hospitals and create a network of free clinics as part of a new socialized health care system in Spain, created on the initiative of people working in health care. The agreement between the public transit collective and the health care federation involved direct payments for services for workers and their families. This included access to a health clinic that had previously only been available to the rich.
+
+Due to war-time restrictions on automobile travel and increased employment in war industries, ridership increased by 62 percent the first year on the worker-managed transit network. It was not possible to obtain new streetcars. To accommodate the increased ridership, the workers redesigned the layout of the maintenance facility, to reduce the downtime for streetcars during routine maintenance. A number of junked streetcars were rebuilt and put back into service. New, light-weight cars were built for the two funiculars.
+
+In September-October 1936 there was an intense political fight between the syndicalists and the Communists over the worker-managed industries. The syndicalists wanted to create a socialized, democratically coordinated economy "from below," managed through worker and neighborhood assemblies, with plans developed for whole regions through congresses of delegates. The Communists were interested in rebuilding the power of the traditional bureaucratic state...with an aim to eventual state takeover of the economy. Thus the Communists were opposed to the syndicalists' plan for direct worker management of the economy, and aimed to create roadblocks. In this they were aided by the professional, small business and managerial classes who saw their class privileges slipping away. As the result of a major political struggle, the Generalitat — the regional government in Catalonia — issued a collectivization decree in October 1936 that required the expropriated industries to be re-organized as worker cooperatives.
+
+After the passage of this decree, the transit network, which was being managed by the union, was re-organized as the United Public Service Collective, formally separate from the CNT union. In some sections of the collective where there was a UGT union — as on the subway. The UGT was a social-democratic union federation — more bureaucratic than the CNT, and allied with the Socialist and Communist parties. In sections of the collective where the UGT union had a presence, the UGT elected its own delegates to the administrative committees.
+
+Before July 19th, the peones (track laborers) were the lowest paid workers and the skilled workers made 50 percent more. After the seizure of the industry, all workers other than the skilled workers received the same pay, and the skilled workers (such as machinists) received only 6 percent more. The workers volunteered on Sundays in workshops set up by the transit union to build war materials for the labor militia fighting the Spanish army. Also, showers and washup facilities were installed in all the workshops and depots...something that had never been done before.
+
+Issues of worker discipline were dealt with by the worker assemblies. There were a few cases of workers showing up drunk for work. In these cases typically the worker would be suspended for a time and the man's pay would be handed over to his wife (if he was married).
+
+Because of recruitment of workers to the "People's Army" fighting the fascist military, the worker-managed transit system also had to contend with a labor shortage. This led to a decision to hire women for the first time to do work on the transit system. But this soon led to another problem for the libertarian syndicalist movement, not only in public transit but in other industries as well.
+
+The Anti-fascist Women’s Association (Asociación de Mujeres Anti-fascistas — AMA) was organizing among the women working in industry. The AMA was a “transmission belt” of the Communist Party. With the AMA gaining influence in industries, the syndicalist activists of the CNT feared that women would be recruited to the UGT unions. This would also bolster the influence of the Communists in industry. The libertarian CNT unions could be pushed aside.
+
+To counter this, the local unions of the CNT opened their union halls to Mujeres Libres (Free Women). During the revolution and civil war Mujeres Libres organized over 20,000 poor and working class women to be actively engaged in social issues and struggles and participate as the equals of men in unions and other organizations.
+
+The unions provided space for child care centers, women’s study groups, and literacy classes and apprenticeship programs for women. In collectivized factories, work would be stopped to allow activists from Mujeres Libres to give presentations. An industry where Mujeres Libres had a strong presence was public transit. Pura Pérez was a member of Mujeres Libres who was one of the first women to drive streetcars in Barcelona. According to Pérez, the men of the CNT transport union took women on “as apprentices, mechanics, and drivers, and really taught us what to do.” The CNT compañeros, Pérez recalled, “really got a kick out of” the amazed looks on the faces of passengers when they realized that a woman was at the controls of the streetcar. By the end of the civil war women were a very large part of the workforce on the Barcelona transit system.
+
+Martha A. Ackelsberg, Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women
