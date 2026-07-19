@@ -17,8 +17,4 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/loren-goldner-memorial-discussion-family-friends-and-comrades)
-
-Audio of a discussion from the Insurgent Notes memorial issue for Loren Goldner, July 2024.
-
-Available here: http://insurgentnotes.com/wp-content/uploads/2024/08/Loren-Goldner-Memorial-Discussion-2024-06-01.mp3
+Audio of a discussion from the Insurgent Notes memorial issue for Loren Goldner, July 2024. Available here: http://insurgentnotes.com/wp-content/uploads/2024/08/Loren-Goldner-Memorial-Discussion-2024-06-01.mp3 NB: Discussion commences 06:12 Printer-friendly version Loren Goldner Comments
