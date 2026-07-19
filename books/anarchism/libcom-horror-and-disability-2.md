@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/horror-and-disability-2)
+
+Continued from first zine but with more of a focus on the trope of associating evil with neurodivergence.
