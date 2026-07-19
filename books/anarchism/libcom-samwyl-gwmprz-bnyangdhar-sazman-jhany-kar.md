@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/samwyl-gwmprz-bnyangdhar-sazman-jhany-kar)
+
+ساموئل گومپرز کارگری که به طبقه خود خیانت کرد و در طول حیات خود خدمات بزرگی به بورژوازی ارائه نمود
