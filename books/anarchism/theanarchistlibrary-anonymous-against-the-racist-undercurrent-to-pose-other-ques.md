@@ -20,3 +20,39 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anonymous-against-the-racist-undercurrent-to-pose-other-questions)
+
+The racist undercurrent filters through our everyday life. Those who have a migration background will be abundantly confronted with it. Whether from the cops, politicians, authorities or passers-by. Racism is structural and a technique of governing, it concerns all of us.
+
+All – but especially the well-paid managers and bosses – profit through the low-cost production in inhumane, foreign factories and through the sale of weapons and military technologies, also to dictatorships. At the same time prejudices are stirred up against people who come here and at whose expense we have for a long time lived.
+
+While politics and science cause flight, politicians present themselves as supposedly worried about the well-being of refugees. On the other side they implement criteria to categorize people and select some as “good commodities” and return others as “defect commodities”. Detention camps, increased control and border surveillance keeps the system on course.
+
+We refuse to accept these manufactured borders and categories.
+
+By using racism as an outlet of frustration for the exploited, it actually pits against each other those who have to toil everyday for some arsehole, or who have to bear their portion of sadism at the office.
+
+Racism turns us away from searching the reasons for our problems in oppressive social relations. Simplistic enmities serve to enforce laws that aim to ensure the most unconditional exploitation and social insecurity of precarious workers, especially migrants. The fear of impoverishment and destruction of our alleged securities has to be redirected, because otherwise they could turn into anger. An anger that obviously should be directed against politics, companies, persons and structures that promote our exploitation and control.
+
+To encounter people as individuals, without prejudice, can mean to find accomplices. To fight shared problems; the exploitation and the exploiting authorities.
+
+The questions of the politicians and their ballots don’t interest us, because they contain the acceptance of their rule. Why not make a totally different starting point for our desires, instead of a reality full of fear, competition, hate and envy?
+
+Do we want a society, that controls, isolates, exploits, alienates, criminalizes and humiliates people?
+
+Surrounded by commodities, lifestyles and new technologies, in a continuous digital noise, such questions seem to be smothered in the mental vacuum of everyday life. As if one does not want us to dare to pose ourselves the question of the appropriation and self-determination of our lives.
+
+For a life of solidarity and self-determination, without papers and property!
+
+Our questions are based on a liberatory and anti-authoritarian sensibility, on self-organized solidarity: nobody should be locked up, controlled and exploited. Everyone should be free to organize their lives themselves, instead of putting it into the hands of domination.
+
+However, this requires a permanent rupture with this normality and its constraints. The everyday revolt against all authority, wherever it is, is a matter of self-determination. Our determination can only be a declaration of war on the existent.
+
+I decide whether I look away or intervene in controls and surveillance because they restrict us all.
+
+I decide whether I accept ownership or steal, redistribute and share to expropriate those who have more than they need.
+
+I decide whether to categorize people or simply get to know them to live relationships on an equal footing.
+
+I decide to attack exploitation together, to make our lives our own.
+
+Unleash the rage against all authorities – Nazis, deportation structures, rulers, war profiteers, capitalist and dominating structures!
