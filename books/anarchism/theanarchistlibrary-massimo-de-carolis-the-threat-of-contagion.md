@@ -1,0 +1,36 @@
+---
+title: "The Threat of Contagion"
+author: "Massimo De Carolis"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/massimo-de-carolis-the-threat-of-contagion"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Translated by Ill Will Editions. Retrieved on 2020-03-26 from ill-will-editions.tumblr.com"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "massimo-de-carolis-the-threat-of-contagion.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/massimo-de-carolis-the-threat-of-contagion.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/massimo-de-carolis-the-threat-of-contagion)
+
+Now that the media storm over the Coronavirus is beginning to calm down, allowing at least some reasonably certain data to emerge, and whilst the entire national territory is subjected to a regime of exception never before experienced, we may perhaps venture some remarks on the interweaving of the biological and political in the current emergency, without fear of mixing the two levels and thus contributing to the general confusion.
+
+The first data that does not seem to be controversial is the exponential rate of increase of hospitalizations and deaths, which are doubling every two or three days. The epidemic contagion is not an illusion but a real fact, which could saturate the capacity of our hospital system within a couple of weeks, with dramatic social consequences in regions such as Campania or Sicily where the assault on health facilities is already a frequent phenomenon, for much more futile causes.
+
+What is more reassuring, though not entirely certain, is the number of people who have contracted the virus with mild symptoms, which may be much higher than the current figures. In short, it is possible that the virus is less lethal than anticipated, and that the “peak” of infection reduction is closer than we might fear, as confirmed by the positive data from China. It is therefore to be hoped that the epidemic will eventually die away without first reaping millions of deaths in Spain or Asia.
+
+Obviously, such hopes are bolstered by the greater efficiency of health care technologies and systems, as compared to the past. It is more difficult, however, to measure the actual usefulness of the policy measures adopted. The impression, however, is that they are inspired by a principle that is not without common sense. In the abstract, if, in the next three weeks, no one in Italy ever came close to anyone else (if, absurdly enough, wives and husbands stopped sleeping together, parents no longer caressed their children and doctors did not approach patients), the contagion would become impossible and the emergency would disappear. Government measures seem to aim to get as close as possible to this ideal. Their aim is, if not to cancel social life, at least to suspend it until further notice, channelling communication into the remote mechanisms of social networks and smart working. Right or wrong, this reasoning appears to be shared by the vast majority of the population, who are adapting to the new rules with surprising zeal. Perhaps not everyone goes so far as to consider “criminal” and “irresponsible” any young people who, despite everything, might gather to celebrate a birthday, or the elderly who insist on having a coffee at a cafe. But certainly, at the moment, obedience to the rules is reinforced by the social disapproval that severely affects offenders. Demanding a mitigation or even a revocation of measures would, therefore, at the moment, be a futile and unpopular exercise, especially as no one seems to have alternative solutions. The fact remains, however, that these are disturbing measures, which pulverize the social bond and impose on the entire population a regime of solitude and police control all too similar to the darkest experiences of the recent political past. The crucial question, therefore, is whether this is really and only a simple parenthesis, or whether we are witnessing a dress rehearsal of what could become the ordinary state of life in society in the near future.
+
+Such suspicions are justified by the fact that the destruction of social ties and obsessive control in the name of “public health” certainly does not originate with the coronavirus. For at least a century, modern social mechanisms have tended to generate a society based on isolation, in which the spontaneity of social life is perceived as a hindrance or even a threat to the stability of the system. The point is that, in the past, the productive system could not do without bodies, voices and hands working together: it could limit and control promiscuity but not eliminate it completely. Today, however, we can, thanks to the wonders of technology. As paradoxical as it may sound, for the first time the machine that reproduces society is able to completely rid itself of that all-too-human sociality, without paying all that high of a price. How can we guarantee, then, that it is not preparing itself for this step?
+
+In order to avoid misunderstandings, let’s make it clear right away that in no case will a conspiracy, a Spectre, or some more or less hidden personification of Power dissolve our doubt. Social phenomena do not have a director [ regia ], but are the result of an indeterminate number of independent forces and drives. There are no puppeteers, but only puppets that push the theatre, each in his own way, with more or less force, in one direction or another, often in spite of their own conscious intentions. When the epidemic is over, there will certainly be a festive return to sociality, which no democratic government will dream of banning. What is certain, however, is that many companies will decide that the use of smart working is basically convenient, and they will ask employees not to dismantle the emergency workstations that are best suited in the bedroom. Many well-meaning people will notice that the closure of nightlife venues is an advantage for public safety, as long as it does not harm the interests of restaurateurs and tourism. And certainly many National “identitarian” political forces will remind us that contagions, in general, are particularly prevalent among tramps and immigrants (although unfortunately not in this case) and that public health requires inflexible hygiene. More generally, we will all discover that, in the final analysis, there is no social life that does not involve a risk of contagion, just as there is no organic life that does not risk illness and death. And so we will find ourselves faced with a basic political question: to what extent are we willing to jeopardize, albeit in a minimal form, our biological security in order to have dinner with a friend, to hug a child or simply to chat with the brash people who are out late in the streets? At what point can our social happiness be prioritized over the protection of our health? And is our political existence more important than our biological survival?
+
+It’s a good thing that the coronavirus forces us from one day to the next to ask ourselves similar questions, because the answer we will give in practice (and not only in speech) could determine the structure of our future society.
