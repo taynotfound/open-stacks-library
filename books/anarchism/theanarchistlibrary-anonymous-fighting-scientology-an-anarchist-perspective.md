@@ -20,3 +20,41 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anonymous-fighting-scientology-an-anarchist-perspective)
+
+A number of arguments are raised against campaigning against Scientology, some of which are summed up here (found through Digg).
+
+One common argument against anti-Scientology campaigning is “freedom of belief.” Under this argument, to campaign against any one religion is de facto bigotry and should be rejected. This analysis, however, is extremely superficial. Those Scientologists who do not work within the Church — the Free Zoners, in other words — have not been the target of nearly the same amount of attention, in spite of holding nearly identical beliefs. Why? They do not behave in the same way.
+
+The infamous South Park episode targeting Scientology was both a blessing and a curse. On the one hand, it exposed the core Scientology beliefs for what they are — poorly written science fiction with a bit of pseudopsychology thrown in for good measure. It may be possible that some people who would otherwise have joined the Church will have seen this and become skeptical in general. On the other hand, however, it reduced the problems with Scientology down to it being a scam to make money by selling people religion — putting things in much more favourable terms for the church, in that the complaint becomes about what they believe, rather than what the church has done and continues to do.
+
+This is not an issue of belief, it is an issue of action. The Church’s history in this regard is well known, but just as a summary:
+
+Operation Freakout, an escalating plan of harassment against a woman who wrote a book critical of the church intended to result in her being sectioned.
+
+Operation Snow White, an attempt by Church of Scientology officials to have negative records about individuals and the organisation as a whole purged from government records.
+
+Extremely aggressive attack techniques against enemies and heretics, including regular harassment.
+
+Abuse of the law to attack splinter groups and suppress dissent and criticism, especially over the Internet.
+
+The Wikipedia article on Scientology controversies gives a fairly good introduction; sadly it doesn’t even begin to cover the problems caused by this organisation.
+
+On the realm of actions, another regular complaint against taking action against the Church is that it is only one such organisation among many. This does bear noting — pretty much any religious (or non-religious) organisation of appropriate size or age is going to have its problems. Why, then, “single out” Scientology?
+
+The first is, quite simply, that it’s easier. Scientology, while it has a worryingly high profile, has a relatively low number of members. It’s a young movement that has yet to take serious root. Taking on an organisation of this type has certain advantages over an older, larger institution tied in with history and politics and all the complications they bring.
+
+Secondly, I would argue that the Church of Scientology is, if not “worse” in some objective sense, markedly different from other institutions such as the Vatican. While no-one can deny the bloody legacy of Christendom, it is largely a concept of the past. The more recent history of the Catholic Church has seen its share of scandal (such as the child sex abuse controversy) and been rightly met with condemnation. The greatest condemnation in this was not simply that the abuse was happening in individual cases (which could, if not be excused, at least not be used to tar the entirety of the church), but that church officials higher up were aware of the situation and actively trying to cover it up. It is this that marks the difference between the odd “bad apple” and a rotten barrel.
+
+With the Church of Scientology, most, if not all, of the controversies associated with it have occured on an official level, and thus cannnot be dismissed as simply a few individual churches here and there going wrong. Orders for harassment, orders singling out targets, Freakout, Snow White, the lawsuits that have bankrupted people time and again — all of these were planned and carries out at the highest levels with involvement down the chain as appropriate.
+
+Another complaint against targeting the CoS is that by using certain tactics the attacker is “no better than them.” This is reductionist idiocy that analyses actions only in terms of the action itself and not its outcome and should be ignored.
+
+Free expression. Much of the information we have about the Church of Scientology, its beliefs, practices, and internal memoranda (including the Fair Game policy) comes from documents released anonymously via the Internet. Some of its members left the church as a result of websites such as Operation Clambake. In response, the Church of Scientology has repeatedly attempted to censor the Internet — from an attempt to have a Scientology discussion group removed from Usenet to their intimidation of Google to have Operation Clambake removed from results, to the multiple lawsuits against websites hosting anti-Scientology materials (see www.chillingeffects.org — search for Scientology). For every step forward the CoS makes in its attempts at intimidation and censorship, a precedent is set for the rest of us.
+
+Protection for the vulnerable. Some of the Church’s actions are directly aimed at people who are vulnerable, specifically Narconon (drug counseling) and Criminon (criminal rehabilitation). The methods they use are based on Hubbard’s writings and both organisations are staffed by Scientologists. Their treatment, however, has no history of effectiveness and is believed by many to do more harm than good, as well as acting as a front for recruitment to the church.
+
+They are trying to gain influence. The Church has been trying to get close to police in London, through giving gifts of large amounts of money to individual cops and other activities. Similarly they have attempted to get their materials taught in school, and in some cases succeeded. Their activities in Clearwater, Florida, known as Project Normandy, read as the plan of an organisation seeking to completely take over a town. Their aims, however, are much wider.
+
+They are a sinister destructive cult. This, more than anything else, needs to be kept clear. The activities of the Church of Scientology from its inception to the present day have been calculated to sap money and energy from those who put their faith in it.
+
+This is not a matter of freedom of religion. It is a matter of freedom.
