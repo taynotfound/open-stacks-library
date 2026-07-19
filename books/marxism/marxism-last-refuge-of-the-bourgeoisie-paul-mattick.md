@@ -18,8 +18,5 @@ images:
 links: []
 files: []
 ---
-# Marxism: Last refuge of the bourgeoisie? - Paul Mattick
 
-Extracts of Paul Mattick's book on Marxism.
-
-[Read original on libcom.org](https://libcom.org/library/marxism-last-refuge-bourgeoisie-paul-mattick)
+Extracts of Paul Mattick's book on Marxism. Printer-friendly version Marxism Paul Mattick state socialism Comments There is much else of value There is much else of value in this book. I would particularly recomend the last short chapter entitled 'Marxism:Yesterday, Today, and Tomorrow', written in 1978 it still has much relevance today in a number of discussion threads on libcom in it's inclusion of some pertinent comments on 'academic marxism' and the relation between 'objective' and 'subjective' conditions favouring a potential rupture with capitalism. I'm still trying to find an on-line version to link here but if anyone else can trace it that would be great.
