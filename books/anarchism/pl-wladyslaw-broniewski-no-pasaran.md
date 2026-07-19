@@ -20,3 +20,5 @@ files:
 ---
 
 [Read on pl.anarchistlibraries.net](https://pl.anarchistlibraries.net/library/wladyslaw-broniewski-no-pasaran)
+
+w krwi umaczanym palcem po ścianie wypisywali: " No pasaran! ".
