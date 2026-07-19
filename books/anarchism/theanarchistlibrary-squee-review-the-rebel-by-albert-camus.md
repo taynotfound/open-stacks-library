@@ -1,0 +1,44 @@
+---
+title: "Review: The Rebel by Albert Camus"
+author: "Squee"
+date: "2019"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/squee-review-the-rebel-by-albert-camus"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "AJODA book reviews section Retrieved on September 23, 2019 from https://cyberdandy.org/the-rebel-by-albert-camus-reviewed-by-squee/"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "squee-review-the-rebel-by-albert-camus.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/squee-review-the-rebel-by-albert-camus.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/squee-review-the-rebel-by-albert-camus)
+
+In 1951, Albert Camus had already dealt thoroughly with the questions of nihilism, rebellion, revolutionary politics, and anarchism. It may surprise many anarchists that this existentialist philosopher (mostly known for his novel The Stranger) was quite familiar with anarchism and was himself a frequent supporter of anarchists. As such, he fits the fellow traveler category and, with his book The Rebel, continues to be a relevant challenge to anarchists today. More context as to the nature of Camus’ relationship with his anarchist contemporaries can be found here: http://libcom.org/library/albert-camus-anarchists.
+
+To summarize, Camus is someone who not only openly supported anarchist-syndicalist organizing, but was excommunicated by the existentialists for criticizing their Marxist tendencies. He provided material and ideological aid to anarchists and received their support in return. When Franco had sentenced anarchists to death in Spain, Camus organized a speech, covertly inviting Andre Breton by networking with anarchist-syndicalist and prisoner support organizers. When a French anarchist was brought up on charges of subversion for producing an anti-militarist poster in 1954, Camus spoke at the trail as a character witness. He consistently published his writing in anarchist papers and shamelessly discusses anarchism in his more public works.
+
+The content of The Rebel primarily focuses on the individual’s struggle to find meaning in a world that becomes inherently meaningless without a God, which he refers to as the Absurd. He performs his analysis using examples of individuals and groups who were coming to grips with the metaphysical, historical, and aesthetic situations resulting from nihilism. He leads each inquiry into the matter by asking if it is possible for the individual to rebel without rationally attempting to justify murder and other so-called crimes, by which he means harming others.
+
+What Camus is further asking with this question is whether or not it is possible to move coherently from the rebellion of a subordinate to a social-political ethics without betraying what he identifies as the principle and initial choices involved with rebellion: the affirmation of human dignity despite death as a potential consequence. Reasoning that this makes the value of human dignity a value which transcends the individual — since they are willing to die in order to affirm it — rebellion for Camus has a universal quality that ought to lead to solidarity with others in revolt. From there, what he wants to demonstrate is that rational attempts to justify murder or crime (or to justify the irrationality of one’s desires) can only contradict these initial principles, since it would violate that universal and transcendent value of human dignity.
+
+The text is divided into five main subsections: the Rebel, Metaphysical Rebellion, Historical Rebellion, Rebellion and Art, and Thoughts at the Meridian. The first defines what exactly Camus means by rebellion. The second deals with those whose rebellion is limited to the imagination (or, metaphysics): poets, philosophers, and others who are rebellious in thought more than in action. The third expands the points made in the previous subsection, but demonstrates how these can be made in the context of (mostly revolutionary) politics. The fourth section carries this into the world of aesthetics. Thoughts at the Meridian, though short, is where Camus outlines the moral limits to rebellion that he finds acceptable, using syndicalist trade-union organizing as a primary example of coherent rebellion. A wide range of figures are scrutinized, both real and mythological: Prometheus, Cain, De Sade, Baudelaire, Stirner, Nietzsche, Marx, Bakunin, and many others.
+
+Murder and crime are still highly debated topics among anarchists; sometimes in the controversies around tactics and violence, sometimes in outlining a coherent moral opposition to the State and its supporters. Many of the arguments still seen today are embodied in Camus’ exemplary characters and situations: summarized, analyzed, and judged inadequate. The questions of nihilism, which for some have become major questions in their theoretical approach to anarchism, are subject to a more thorough inspection than in any other anarchist text I have read.
+
+For fans of Max Stirner and Egoism generally, The Rebel offers a perspective that is somewhat unheard of. Camus argues that with Stirner “Individualism reaches a climax;” and, that along with all the nihilist rebels, it ultimately leads to a kind of collective suicide. This is not argued on the basis of orderlessness, it is argued on the basis of Stirner’s own vision for the Unique. Camus quotes Stirner, “You [the German nation] will be struck down. Soon your sister nations will follow you; when all of them have gone your way, humanity will be buried, and on its tomb I, sole master of myself at last, I, heir to all the human race, will shout with laughter.” Camus wants to surpass this vision of individual triumph, he wants to learn how to live in the desert which is created after subjecting the world to an Egoist critique.
+
+To investigate the potentials for living in such a situation, Nietzsche and the Surrealists are used to conclude the book’s section, Metaphysical Rebellion. Camus refers to the rebellious path taken by Stirner and Nietzsche as “Absolute Affirmation.” If Stirner affirms only the Unique, Nietzsche goes further and constructs a philosophy based on affirming everything. While it is unclear if Camus considers this an improvement upon Stirner’s thinking, he credits Nietzsche with accurately diagnosing the illnesses of modernity as nihilism. Regardless, Camus concludes that Nietzsche’s Will-to-Power still leads to the same wall of collective suicide as Stirner’s Unique.
+
+The section Metaphysical Rebellion ends in transition from the thinkers who acted less to the thinkers who acted more: the Surrealists provide the vehicle for this transition and offer a space for Camus to present his concluding arguments in their metaphysical form before demonstrating them in their historical form. It is here that Camus’ fear can be felt as he discusses Surrealist affirmation of the irrational murders and suicides its members authored. What he wants to show is that when the most Egoist conclusions are acted upon, they found actions that are worthy of as much condemnation as those that are rebelled against. While Camus will later demonstrate this causal chain at the collective level with Nazism and Marxism, it is clear what he is searching for when he is contemplating this at the Individual level: a principle of moderation.
+
+Moderation is discussed in the final sections of The Rebel to clarify its place in Camus’ philosophy. In analyzing the nature of the rebellious act, Camus concludes that moderation is already present in restricting the rebel from themselves becoming another ruler. It is found in the realms of metaphysical, historical, and aesthetic rebellion when the initial value of human dignity that transcends the individual is adhered to. More interesting for us, moderation is the connection that ties Camus to the anarchists. What Camus reveres in the anarchist is the simultaneous embrace of individualism and the moderation inherent in the praxis of trade-unionism (and presumably more broadly in prefigurative politics). His philosophy is anti-Revolutionary and pro-Insurrectionary; it is anti-Collectivist and pro-Individualist. Camus is an accomplice in revolt against the Western tradition. This is the result of his refusal to negate the conditions which found and moderate rebellion, the Absurd condition that we each face individually, but together.
+
+Overall, reading through this work has value even beyond Camus’ arguments. It is a comprehensive history of modern rebellion, a framework for considering a range of contemporary questions, a reference book for other interesting authors, and an excellent demonstration of clear and rigorous writing.
