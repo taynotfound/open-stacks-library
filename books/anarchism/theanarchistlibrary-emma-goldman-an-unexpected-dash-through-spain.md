@@ -1,0 +1,64 @@
+---
+title: "An Unexpected Dash Through Spain"
+author: "Emma Goldman"
+date: "2009"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/emma-goldman-an-unexpected-dash-through-spain"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in The Road to Freedom (New York). Part I, Vol. 5, no. 8, April, 1929. Part II, Vol. 5, no. 9, May 1929 Retrieved on March 15th, 2009 from sunsite.berkeley.edu. Proofread online source RevoltLib.com, retrieved on July 5, 2020."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "emma-goldman-an-unexpected-dash-through-spain.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/emma-goldman-an-unexpected-dash-through-spain.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/emma-goldman-an-unexpected-dash-through-spain)
+
+Sitting tucked away in quiet St. Tropez, at work on my autobiography, I was as far from the thought of a trip to Spain as if I had been living in Tokio, Shanghai or Kamchatka. I did plan a rest away from my book during the Christmas holidays. One needs a break, even in the most ideal love life, and the process of reliving and writing one’s past is anything but ideal. Au contraire, as we say in France! It is very painful, with much of the bitter and nothing of the sweet that love represents. Writing strenuously for five months entitled me to a rest; even my enemies couldn’t grudge me that. And what other city in Europe is so enticing as Paris, even if the winter weather is rotten? It was Paris, then, for a month.
+
+No one ever quite completely escapes the power of suggestion, at least if the suggestors are good friends and interested in one’s development and morals, and when the suggestion holds out a trip through Spain. It is not often that a lady of questionable age is offered the chaperonship of two gentlemen friends — one very young, the other very handsome. As is the habit of my sex, I changed my mind — and Paris for Spain.
+
+It was a mad rush. In nineteen days, of which considerable time was spent in trains and buses, and thirty-six hours in Tangier, we visited ten cities — ‘dashed through’ would express it more accurately. Alas, there was hardly time to get one’s breath, let alone to really get close to the heart of a stern and aloof country like Spain. One could but skim the surface.
+
+I confess even our own comrades failed to convince me how it was possible for one man to destroy not only the revolutionary labor movement but every educational, literary and cultural attempt of a liberal nature as well. Not a trace is left of Ferrer’s great work! Of course there is the church and the king — there is the army, although the recent uprising in some of the garrisons would prove that all is not pro-Rivera even there — and there is a terrifically large police force. The question is, when have these sinister forces not been in Spain? They have always done their deadly work. Their existence is not of recent date, therefore they could not be taken as the only explanation for the dictatorship.
+
+It seems to me that there is a deeper cause for the crushing political situation in Spain — a cause not only in Spain, but one of universal magnitude. It is the hydra-headed monster Reaction, the child of the war, born from its womb and nourished by its blood. This reaction exists in all ranks, the masses and the workers not excluded. There is no use closing our eyes to a world phenomena, and it is foolish to put all the blame on one class, the ruling party. The slaves no less than their masters are now prostrate before the monster Dictatorship. If proofs were wanted, Italy and Spain are living examples.
+
+In these two countries revolutionary ideas have not been grafted on the people by a handful of the intelligentsia, as in Russia for instance. Here they have had their roots in the life and activities of the mass itself. One would have expected them to resist the onslaught of the dictatorship, yet they did nothing of the kind. True, the conscious minority has retained its revolutionary fibre, and is now filling the prisons. But the fact that Mussolini and Rivera could swing themselves so easily into the saddle and continue to hold the reins for so long shows that revolutionary ideals must have been frail plants that they could have been quickly uprooted.
+
+Yes, the Church of Spain is all-powerful. One does not have to be there long to see that. Its force was brought home by the remark of a cultured old Jew, a man who has lived in Spain for fifty years. He said it was impossible to talk confidentially to any Spaniard, because the latter would report what was said to his wife, who would in turn confess it to her priest. Or, as a Spanish churchman expressed himself: “We do not care if we have the men, so long as we can influence the women.” What he failed to say was that the church in Spain can count on the women because the men want them to continue in an abject and ignorant state.
+
+It seems unbelievable in our time of woman’s progress to find such an antiquated attitude towards women as that display [?] Spanish men. From our own comrades and from people in quite different camps I learned that Spain is today what other countries were fifty years ago. The place of woman is still only in the home — her function only the breeding of children. I had occasion to verify both. Going into a café with the young wife of an American correspondent was like running the gauntlet. There was hardly a man in the packed place, who did not rise and stare at the phenomenon of two women (one by no means in her teens) daring to enter a café without a male escort. On the other hand it was nothing unusual to see women with troops of children, no more than a year apart promenading in the streets. With women still in such a condition, they would naturally represent the bulwark of the church. Ignorance and submission have ever been the strongest support of the priesthood.
+
+The most stirring experience of my trip, outside of the art treasures I saw, was my meeting with our beautiful comrades, F. U. and his wife and daughter, and the Louise Michel of Spain, Therese Claramoun. These people are among the last surviving victims of the horrors of Montjuich. Seeing and talking with these dear comrades brought to life again the crime of Canovas del Castilla, prime minister of Spain, who was responsible for the reinstatement of the Inquisition in 1897. An the thought of Angiolillo came back to me, in his simple and heroic greatness. It was he who gave his life in return for taking that of Canovas.
+
+Never in my wildest fancy did I ever think I would be so close to any of the victims whose cause I had pleaded so earnestly thirty-two years ago. And now I was in their house, at their table, enjoying their sweet hospitality. It seemed like a dream.
+
+I was moved most deeply by Therese, now sixty-five years of age. More than half of her life she had been active in our movement, she had spent many years in prison and in exile. But her spirit was like a white flame; nothing but death will extinguish its fires. With remarkable clarity she related some of the incidents of the terrible period in Montjuich — the tortures innocent men were submitted to — the anguish of those, who though not tortured themselves, could still do nothing for their comrades. She spoke of one of the victims who had to be supported in court, his poor body battered and burned by the henchmen of Canovas. Over the judges bench hung the image of Jesus. The deep-set, suffering eyes of the prisoner looked searchingly at the Christly figure, then his voice rang out: “O Christian God, what was your agony compared with that your followers have made me suffer!” He was one of the five who were shot, after endless days and nights of torture.
+
+Therese looked shrunken in her armchair, in a cold room, wrapped in blankets, her hands and her legs partly paralyzed. But when she rose to take us to the door she became an imposing figure, still the fighter, yet with infinite charm and graciousness. I came away from this remarkable woman, both inspired and saddened. She is of the old, heroic guard, which is slowly dying out. [1] And where is the young generation to take its place?
+
+The U’s have been in the forefront of our movement since 1886 and have lost none of their energy and enthusiasm. They are sustained by their daughter Frederica, being among the very few whose children are imbued with the ideals of their parents. But Frederica is more than that — she is an independent thinker, whose Anarchism is not a mere echo of her parents, but something very powerful which fills her life.
+
+The home of our dear comrades is a real commune. Living with them on equal footing are two young girls, daughters of comrades who are serving long sentences in prison. The father of one of these is Mateo Morales.
+
+Propaganda under the dictatorship is made impossible, yet the U.’s have an extensive publishing house and get out a tremendous amount of educational books, many of them translations. Besides this they also publish a considerable lot of fiction, among which Frederica’s own novels have an important place.
+
+With this young and ardent comrade I went out to that terrible fortress, Montjuich Prison. As we climbed the high hill Frederica told me that road was called Calvary, for along this road innumerable prisoners, chains on their wrists and ankles were made to drag their weary bodies in the night to their living grave. Montjuich, reared on a high rock, one side facing the sea, looked singularly like Schlusselburg, the tomb of the brave fighters against Czarism. One thorough thing the Russian Revolution has certainly done — it has completely demolished Schlusselburg. Montjuich still awaits a similar doom. It is to be hoped that if ever the Revolution comes to Spain it will go farther than the Russian one has gone — that it will demolish all prisons, and establish real freedom.
+
+The comrades I saw in Madrid seemed to be in a more harassed position. One had only recently come out of prison and is under constant police surveillance, being obliged to report to the police department every week. The other lives with a wife and six children in three small rooms in great poverty. They are never secure from the police. Fearing that my presence in their quarters might only add to their danger I did not tarry long.
+
+To write of my impressions of the art of Spain, would be entirely too presumptuous after so brief a visit. Each city is rich enough in art treasures to need months of study. The Mosque in Cordova alone — the most typically Spanish city — could be seen an endless number of times — it is so overwhelming in its beauty and grandeur. The Moorish palaces in Seville, the city itself, the cathedral — Granada, with its marvelous specimens of Moorish art — how could one hope to get anything but a jumble of impressions and how could one say anything about them? Then Toledo — one could spend weeks there. The house of the great master El Greco, and his paintings, would alone be worth spending the whole time in seeing — the two synagogues, with much of the old carving in Hebrew letters still intact! When the Moors were conquered and driven out the Jew shared their fate as they had shared their glory, for under the Moors the Jews were a free people, a great force in the land. After the conquest the Church turned one of the synagogues into a house of prostitution, then into a church. The last two have often gone together. Now the synagogues are empty and stand like sentinels of a great past.
+
+In Madrid there is the Prado, the most wonderful museum I have ever seen, containing the richest collection of painting in the world. I was only able to spend four hours there, when one painting of Velasquez alone would require much more than that to appreciate its beauty and the mastery of its technique.
+
+All in all, it was a mad venture to go to Spain for two weeks, yet I would not have missed it for anything. To be able to lift even a corner of the veil of a strange and fascinating world already helps to enlarge one’s horizon. The tragedy is that so few people have neither the means nor the will to get out of their own narrow confines. Neither are they reckless enough to go in quest of new worlds and new beauties. But if one is as young as I, and fortunate enough to find two such charming male escorts, it is not difficult to make a dashing and adventurous trip, even these favorable auspices brought me to Paris dazed and weary. Now, however, I am back in quiet St. Tropez, with my face sternly set against pleasure, determined to resume the writing of my autobiography.
+
+[1] The comrades in Barcelona attend to the simple wants of our beloved Therese.
