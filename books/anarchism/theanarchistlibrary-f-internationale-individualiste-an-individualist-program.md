@@ -20,3 +20,7 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/f-internationale-individualiste-an-individualist-program)
+
+Suppression of every military, multitudinist or employers’ institution.
+
+Abolition of every dividing line, boundary marker or border post.
