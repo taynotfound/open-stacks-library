@@ -21,8 +21,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/77a74020_BrovkinreplytoRosenberg.pdf"
     hosted: true
 ---
-# Politics, Not Economics Was the Key - Vladimir Brovkin
 
-Politics, Not Economics Was the Key Vladimir Brovkin PDF Format (262kb)
-
-[Read original on libcom.org](https://libcom.org/article/politics-not-economics-was-key-vladimir-brovkin)
+Politics, Not Economics Was the Key Vladimir Brovkin PDF Format (262kb) Printer-friendly version Russia Eastern Europe Russian Revolution 1917 Comments
