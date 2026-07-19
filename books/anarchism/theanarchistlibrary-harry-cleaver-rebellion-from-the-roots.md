@@ -1,0 +1,44 @@
+---
+title: "Rebellion from the Roots"
+author: "Harry Cleaver"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/harry-cleaver-rebellion-from-the-roots"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "A Review"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "harry-cleaver-rebellion-from-the-roots.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/harry-cleaver-rebellion-from-the-roots.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/harry-cleaver-rebellion-from-the-roots)
+
+Ross’ book is a fairly lengthy but quite readable and sympathetic account of the Zapatista uprising from Jan. 1, 1994 until the conclusion of the Mexican elections on Aug. 21, 1994. It is a journalistic account, not a scholarly one. There are no footnotes and few references. While much of the book contains his own on-site reporting, Ross intersperses his observations of events and interviews of Zapatistas with chunks of history and descriptions of activities outside Chiapas, e.g. Salinas’ reaction to news of the uprising, demonstrations in Mexico City. Although the history is useful and the accounts of events he did not directly observe seem fairly accurate, both appear cobbled together from diverse and obscure sources, and often are not easily verifiable. The journalistic approach of trying to make everything dramatic by conjuring up detailed descriptions of unobserved events, attitudes, and behaviors leaves the reader wondering about how much of such material is real and how much has been crafted for effect.
+
+Nevertheless, the book provides both a vivid account of the uprising, including some of the fighting, and some useful background to the Zapatista rebellion. Not only does Ross, at various points in the text, sketch the history of campesino revolt from the resistance to conquest right through to the present, but he also provides some vivid history of exploitation and politics in Chiapas, and tries to reconstruct the genesis of the Zapatista movement itself.
+
+Toward the beginning of the book he examines the evidence of the pre-January-1 st activities of the Zapatistas, and that of the government’s knowledge of their existence. In general his interpretation agrees with the view that the government had plenty of evidence that guerrillas were organizing in the mountains, but muted its reactions out of fear of derailing the push for the North American Free Trade Agreement. Faced with a tri-national opposition that linked a wide variety of social activists, the last thing the Salinas administration wanted was public recognition of brewing popular revolt against its policies.
+
+Toward the end of the book, Ross pieces together evidence that the handful of ladino outsiders, including Subcommander Marcos, came to Chiapas out of more-or-less Maoist grassroots organizing experience elsewhere in México. Ross traces the development of such organizing in the north of México, e.g. Adolfo Orive’s “PolÃtica Popular” movement, that developed into “Tierra y Libertad” in Monterrey and elsewhere. He quotes the testimony of a Jesuit in Proceso to the effect that Bishop Ruiz””a central figure in the political turmoil and peace negotiations in Chiapas””had visited the north, seen the activities of Tierra y Libertad, and invited its activists to the South. Such testimony, of course, tends to support the rabid accusations of the right in Chiapas that the Zapatistas were organized by the church””accusations denied by both church and Zapatistas. Although Ross suggests that the Jesuit’s testimony must be taken with a grain of salt, given religious competition in Chiapas, his own reconstruction of the origins of the Zapatistas relies heavily upon it.
+
+That reconstruction suggests that the PolÃtica Popular militants did come south and did set about building movements among the campesinos, movements that included groups such as the Union of Ejidos and the Union of Unions and ARIC (The Rural Association of Collective Interest). Such efforts, Ross asserts, provided “the organizational sea” from which the Zapatistas eventually emerged. The larger “sea,” he also recognizes, included all other efforts at grassroots organization, including those by a wide variety of churches in Chiapas.
+
+Although he can find no evidence that Marcos came to Chiapas as a member of the PolÃtica Popular””indeed, according to historian Pedro Moctezuma, Marcos’ arrival in 1983 was two years after the PP stopped sending groups””the fact that Marcos himself has said that he came as one of a dozen is taken by Ross as giving credence to Moctezuma’s conjecture that Marcos’ group “was recruited from a successor formation.” With so little hard evidence, such conjectures remain highly speculative.
+
+Unfortunately, the limits to Ross’ account of the Zapatistas’ origins reappear in his accounts of their internal organization, one of the most interesting things about them. He duly notes their rejection of traditional Marxist-Leninist approaches both to organization, i.e., the party of professional revolutionaries to lead the masses, and to power, i.e., the seizure of state power. At the same time he repeats, as others have done, their own descriptions of the democratic character of their decision making.
+
+While what Ross takes as their Maoist roots in organizations such as Tierra y Libertad included a penchant for democratic assemblies where all could be heard, they consider that their political practice came to be permeated and reshaped by their experience in the even more democratic indigenous communities. Ross: “The communal assembly is the supreme and ultimate arbiter of EZLN direction. Each communal assembly selects its own officers: a ‘responsible’ to secure the communal safe house, education and health commissioners who meet regionally, and delegates to one of the four Clandestine Revolutionary Indigenous Committees or CCRI’s, each of the four Zapatista language groups having their own...Eleven delegates are chosen to sit on the ruling CCRI-General Command...” Or, “The war itself was voted and the vote taken in classic Zapatista fashion, family by family and settlement by settlement.”
+
+All this sounds great, at least to those who have abandoned top-down organization in favor of bottom-up politics. However, Ross’ story fails to provide any kind of independent evidence about the actuality of these processes. There is no on-the-spot reporting of such consultations in action. Nor is there any testimony by either students of Chiapaneco society, e.g., anthropologists, or by non-Zapatista campesinos of their experiences within such decision making. The problem is not just John Ross. Nowhere in the spate of studies that have been written in response to the Zapatista uprising have I yet found better information or deeper insight into these issues. Even the seven essays on the rebellion by eight anthropologists featured in the special Spring issue of Cultural Survival Quarterly failed to discuss these issues.
+
+The attractiveness of the Zapatista movement lies, of course, in more than its internal democratic organization. Or even in its demands for the generalization of that democracy to society as a whole. The ability of its spokespeople, especially but not uniquely Marcos, to articulate the pains and desires of Mexico’s people of the earth with eloquence, and sometimes humor, has clearly had wide appeal. Ross’ book gives a sampling of those traits. The movement’s demands for political and cultural autonomy against the centralized power of the Mexican state and multi-national capital has also appealed to far more than indigenous peoples. Here again Ross provides at least a sketch. The Zapatista demand for land redistribution (against the current capitalist push for enclosure) and its refusal of capitalist development (against neoliberalism)””central aspects of the demand for autonomy””are notes that have vibrated strongly throughout what Guillermo Bonfil has called “México Profundo”, Deep or Heartland México. Ross’ historical accounts provide a vivid portrayal of the history of dispossession that has produced these attitudes.
+
+All in all, Ross has narrated a lively account of the uprising and pulled together enough historical material to help the non-specialist place the Zapatistas within the background of exploitation and resistance out of which they arose. Those who have followed press reports and cyberspace discussions closely since the beginning of the rebellion will find little new””a few nuggets here and there””but for those who have only recently become curious about what all the fuss is about, Rebellion from the Roots will provide an entertaining and insightful introduction to an exciting but complex series of events and ideas whose influence is still spreading.
