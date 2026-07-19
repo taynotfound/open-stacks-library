@@ -19,12 +19,4 @@ files:
     hosted: true
 ---
 
-# The Communist Manifesto
-
-**Author:** Karl Marx & Friedrich Engels  
-**Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/61)  
-
-## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/communist-manifesto-marx-engels.epub)
-
-[Original source](https://www.gutenberg.org/ebooks/61)
+For your e-reader or reading app — Kindle, Kobo, Apple Books, Calibre etc. There may be more files related to this item. Project Gutenberg eBooks are always free!
