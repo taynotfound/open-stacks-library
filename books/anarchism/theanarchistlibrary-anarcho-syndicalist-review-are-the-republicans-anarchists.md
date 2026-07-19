@@ -20,3 +20,5 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anarcho-syndicalist-review-are-the-republicans-anarchists)
+
+That brings us to rules, especially rules that are “fair and transparent.” As you told us during the last election, many of us ordinary citizens have come to suspect “the system is rigged.” I thought you were right about that one. The electoral system is rigged. The political system is rigged. Certainly the economic system is rigged, which is why so many of us are either out of work or just struggling to get by.
