@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/percy-bysshe-shelley-a-roman-s-chamber)
+I In the cave which wild weeds cover Wait for thine aethereal lover; For the pallid moon is waning, O'er the spiral cypress hanging And the moon no cloud is staining. II It was once a Roman's chamber, Where he kept his darkest revels. And the wild weeds twine and clamber; It was then a chasm for devils.
