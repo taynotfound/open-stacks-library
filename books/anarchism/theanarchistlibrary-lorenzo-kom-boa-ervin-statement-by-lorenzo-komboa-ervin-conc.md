@@ -1,0 +1,60 @@
+---
+title: "Statement by Lorenzo Komboa Ervin concerning the newly formed Anarchist Black Cross Network"
+author: "Lorenzo Kom’boa Ervin"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/lorenzo-kom-boa-ervin-statement-by-lorenzo-komboa-ervin-concerning-the-newly-formed-anarchist-b"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Read at the 2002 Anarchist Black Cross Network Conference in Texas."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "lorenzo-kom-boa-ervin-statement-by-lorenzo-komboa-ervin-concerning-the-newly-formed-anarchist-b.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/lorenzo-kom-boa-ervin-statement-by-lorenzo-komboa-ervin-concerning-the-newly-formed-anarchist-b.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/lorenzo-kom-boa-ervin-statement-by-lorenzo-komboa-ervin-concerning-the-newly-formed-anarchist-b)
+
+Recently, the Anarchist Black Cross Network held its founding conference in Austin, Texas (July 27–29, 2002.) I was in attendance, was a keynote speaker, and spoke to many of the 150 or so delegates at workshops, and different stages of the conference, when it recessed.
+
+So that there is no misunderstanding by anyone, I want to clarify my status in relation to the ABCN. I cannot function as a member of the group at this time, but I do want to service as an organization Mentor, because that is the best way I can help the group. It is also important that I maintain my neutrality around the internal politics of ABC movements generally, and cannot do that as a formal ABCN member. I do not want to see sectarianism become any worse in our movement, or serve as a distraction by folks wanting me to join this or that ABC tendency. The situation in Spain a few years ago let me know just how serious a problem this can become.
+
+Coming in, I made it clear that I was only interested in the creation of a broader based Anarchist Black Cross as a viable movement in the United States, and saw the ABCN as a large part of that. I pointed out that I still supported the entire international ABC movement, even tendencies like the ABC Federation, that the leadership of this ABCN group might be opposed to. In fact, I would like to see a United Prison Front of both ABCN, ABCF, Critical Resistance, and all of the contemporary groups supporting prisoners and fighting racism, as well as Black/POC, women, Queer and other liberation groups, but of course that has to be your decision.
+
+My sentiments have not changed, so only part of the reasons for this letter is to clarify my status. I support the ABC movement now the same as I always have, from back in the day when I was a prisoner myself serving life imprisonment during the 1970s-1980s; but I am interested in ABCN only so far that it carries out its mission in dealing with racism, the mass imprisonment of the poor and peoples of color, as well as supporting prisoners inside generally, with material aid and political support. I believe that is the way to advance Anarchist politics and the prison struggle in this period. This is not the 1970’s when there was still a revolutionary movement in this country on the outside, and a mass prison support movement already existed in the prisons and in the streets.
+
+In fact, I remember the original Black Panther Party not only had a Prisoner Commissary Program, but also had buses for transportation in many states to transport family members to the prisons, free legal aid for prisoners, and a prison survival program for those released on parole. So, the ABC-F’s War-chest or the proposed Revolutonary Prisoners’ Fund are nothing new, but the Panthers understood that the material aid campaign had to be just a part of a political campaign against he prisons and the capitalist state. When George Jackson became Panther Field Marshall, he understood that there had to be a United Front for political Prisoners, and the prison struggle had to be part of a broad front for social change allied with the then unfolding revolutionary struggle of women, Blacks, Xicanos and other groups oppressed by this capitalist society. So material and campaigns themselves are nothing new, and cannot be the reason of the existence of an ABC movement. It must connect with the masses of people.
+
+During the conference, I openly expressed my point of view that since the majority of prisoners in the U.S. prison system are now Black, Brown, Asian or Native American, then this new movement must reflect that fact in both its membership and mission, if it is to have any credibility as something more than yet another white Left tendency running away from these issues. The idea of a movement made up of white radicals on the outside just charitably helping peoples of color on the inside has always been a source of controversy. The question for me is whether real attempts will be made by this newly formed ABCN to connect with the families and communities of these prisoners of color, as well as poor working class communities generally, and make them a part of the ABC campaign. That will tell me how serious this group is.
+
+For me, I realized that this would require drastic and serious commitment by any ABC movement at the outset to ensure that the organization adopts a new focus. I was disturbed that during the deliberative stage of the conference, nobody even saw the necessity of raising the issue, that is nobody but myself. I expected someone to talk about a People of Color committee to recruit and organize. But no matter, it has been raised, now it must be implemented!
+
+But to be effective: the newly formed People of Color organizing Committee(?) needs to know where it is going, before it can then give guidance to the entire organization. Therefore, I want to make these points:
+
+The POC body must be on par with every other deliberative body, and POC must be given a strong voice in all ABCN policies, and not be a mere token effort. The ABCN leadership must be challenged by this POC body to live up to its mission and to make the movement inclusive to all. As for the POC committee itself, it should have a majority of members who actually are POC, but there is no requirement of an absolute majority.
+
+The communities of color for the ABCN leadership and membership could be a major base of support. The POC body of ABCN should be a pole of attraction to not only bring peoples of color into the organization, but to insure that they have an equal voice in all matters of substance in the organization. This body should be consulted and made part of any leadership. This recruitment has to be absolutely supported by the entire groups, and not be minimized in importance.
+
+Working with the leadership and mass membership of ABCN, which can develop out of the work of the conference, can connect them with a number of oppressed communities in Texas and other states. Clearly the ABCN must not just repeat the work of the ABCF, and its mistakes in ignoring these matters, even if it is critical of other ABCF policies. It must deal with racism and the right-wing offensive of this period itself. The trans of political imprisonment of mass of people, based on race, class, and genocidal terror should be the basis of a new mass movement, not just traditional Anarchist politics.
+
+The POC committee is the one body that has to raise the issues of shaping the ABCN organization as an anti-racist movement to challenge the government over its drug war and its mass imprisonment of youth of color. Again, this cannot be minimized or emphasized enough. Frankly, I have always believed that it is a minimal program just to provide for the material needs of prisoners alone, while huge numbers of people are forced into prison and the death chambers. We must deal with the political reasons they are in prison in the first place, and oppose a racist death penalty. Mumia Abu Jamal is just a symbol of the racist death penalty. We must call for an immediate national moratorium on the death penalty. Shaka Sankofa’s recent legal murder in Texas should tell us that we must organize in the streets to build a mass movement of poor and working class peoples, or Mumia is ultimately doomed. A movement of white radicals alone is neither desirable nor sustainable.
+
+Two million people are in the U.S. prison system today, with a huge number coming from communities of color (50% or more.) The state of Texas incarcerates Blacks at a rate 7 times that of whites and has Chicanos/Mexicanos jailed as high as 20% of the state prison population. Similarly, 40% of the entire Black male and youth population in California is in prison; also 55% of the prison population of Pennsylvania is Black, though only constituting 10% of that state’s population. Similar statistics are to be found all over the country showing that racial minorities are incarcerated at a rate of 10–15 times that of whites This is clearly a new racism and a result of fascist social control, but we don’t have any evidence that the Anarchist Black Cross movement understands this or is responding in any way to such a reality. It continues to see itself as a support group which has a limited role of sending $20 a month, even though millions are now being incarcerated at an unprecedented rate. We cannot send aid to such a huge number, so we must tackle the root causes.
+
+To have any relevance at all, the POC committee must be sure that ABCN leadership raises issues of fighting police brutality, police racial profiling, racist vigilantism, poverty, and other evils, and that they fight this in a revolutionary movement, not as a reformist group afraid to challenge the state on such matters.
+
+I think that each on of the ABC chapters should have someone who handles the work of outreach to communities of color, and helps design policies for that chapter. If there is no one working on the local level, then this critical work simply will not be done.
+
+The ABCN must fight for prison abolition as a goal, even while it fights for a moratorium on further prison construction and for redistribution of the money stolen from the school systems, hospitals, and other social sectors which have been de-funded to pay for prisons. We must oppose this mass incarceration and theft of money for social spending into prison construction.
+
+I think that the ABCN must be willing to become part of mass coalitions around these issues, even while building its own politics and movement. For years, anarchists and their movements have been too white, middle class and self-absorbed, only willing to give lip service about racial justice, class-based unity, and a truly liberatory movement inclusive of all and their demands. Anarchism has been a white rights movement, and this must change. I believe that what we want the ABCN and the entire Anarchist movement to be is a grassroots, multiracial movement for justice. So, for the ABCN, this is both an opportunity as well as a challenge.
+
+In my opinion, it is a good thing that the ABCN has had its founding conference, but that it must now be serious and committed enough to break new ground for the ABC movement. We must popularize Anarchist politics and organizing on a mass scale, so that poor and working class people can relate to it, not just middle class, college trained whites.
+
+I have made constructive criticisms here, but offered them in good faith. In skeleton form, there is also a plan which others can build on. I am not sure if the ABCN leadership or the membership wants me to continue to work with this POC body, if I am not a full member or in response to my critical support. I offer my services nonetheless. you will have to decide what you want to do. I am not personally seeking to lead this movement. I am available for help, but I want to see things done right, and it is not a “given” that they will be. I wish you great success from hereon out, but you must make it real!
