@@ -20,3 +20,45 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anonymous-anarchafeminist-manifesto)
+
+All over the world most women have no rights whatsoever to decide upon important matters which concern their lives. Women suffer from oppressions of two kinds: 1) the general social oppression of the people, and 2) secondly sexism — oppression and discrimination because of their sex.
+
+Ideological oppression, brainwash by certain cultural traditions, religion, advertising and propaganda. Manipulation with concepts and play upon women’s feelings and susceptibilities. Widespread patriarchal and authoritarian attitudes and capitalistic mentality in all areas.
+
+State oppression, hierarchical forms of organization with command lines downwards from the top in most interpersonal relations, also in the so-called private life.
+
+Economic exploitation and repression, as a consumer and a worker in the home and in low-salary women’s jobs.
+
+Violence, under the auspices of the society as well as in the private sphere — indirectly when there is coercion because of lack of alternatives and direct physical violence.
+
+Lack of organization, tyranny of the structurelessness which pulverizes responsibility and creates weakness and inactivity.
+
+These factors work together and contribute simultaneously to sustain each other in a vicious circle. There is no panacea to break the circle, but it isn’t unbreakable.
+
+Anarcha-feminism is a matter of consciousness. The consciousness which puts guardians off work. The principles of a liberating society thus stand perfectly clear to us.
+
+Anarcha-feminism means women’s independence and freedom on an equal footing with men. A social organization and a social life where no-one is superior or inferior to anyone and everybody is coordinate, women as well as men. This goes for all levels of social life, also the private sphere.
+
+Anarcha-feminism implies that women themselves decide and take care of their own matters, individually in personal matters, and together with other women in matters which concern several women. In matters which concern both sexes essentially and concretely women and men shall decide on an equal footing.
+
+Women must have self-decision over their own bodies, and all matters concerning contraception and childbirth are to be decided upon by women themselves.
+
+It must be fought both individually and collectively against male domination, attitudes of ownership and control over women, against repressive laws and for women’s economic and social autonomy and independence.
+
+Crisis centers, day care centers, study and discussion groups, women’s culture activities etc. must be established, and be run under womens’s own direction.
+
+The traditional patriarchal nuclear family should be replaced by free associations between men and women based on equal right to decide for both parts and with respect for the individual person’s autonomy and integrity.
+
+Sex-stereotyping in education, media and at the place of work must be abolished. Radical sharing of the work by the sexes in ordinary jobs, domestic life and education is a suitable mean.
+
+The structure of working life must be radically changed, with more part-time work and flat organized cooperation at home as well as in society. The difference between men’s work and women’s work must be abolished. Nursing and taking care of the children must concern men just as much as women.
+
+Female power and female prime ministers will neither lead the majority of women to their ends nor abolish oppression. Marxist and bourgeoisie feminists are misleading the fight for women’s liberation. For most women it is not going to be any feminism without anarchism. In other words, anarcha-feminism does not stand for female power or female prime ministers, it stands for organization without power and without prime ministers.
+
+The double oppression of women demands a double fight and double organizing: on the one hand in feminist federations, on the other hand in the organizations of anarchists. The anarcha-feminists form a junction in this double organizing.
+
+A serious anarchism must also be feminist otherwise it is a question of patriarchal half-anarchism and not real anarchism. It is the task of the anarcha-feminists to secure the feminist feature in anarchism. There will be no anarchism without feminism.
+
+An essential point in anarcha-feminism is that the changes must begin today, not tomorrow or after the revolution. The revolution shall be permanent. We must start today by seeing through the oppression in the daily life and do something to break the pattern here and now.
+
+We must act autonomously, without delegating to any leaders the right to decide what we wish and what we shall do: we must make decisions all by ourselves in personal matters, together with other women in pure female matters, and together with the male fellows in common matters.
