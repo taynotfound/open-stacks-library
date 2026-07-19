@@ -20,3 +20,13 @@ files:
 ---
 
 [Read on pl.anarchistlibraries.net](https://pl.anarchistlibraries.net/library/pladmin-teksty-intro)
+
+Są tu obecne inne tendencje, które zazwyczaj nazywa się "postlewicowymi", a do tej kategorii trafiły te teksty, które trudno przyporządkować do którejkolwiek z nich, a są raczej mają po prostu ogólną perspektywę postlewicową
+
+Emma Goldman, Anarchizm: Co to właściwie oznacza? (w Anarchizm i inne eseje )
+
+Guy Debord, Społeczeństwo spektaklu oraz Rozważania o społeczeństwie spektaklu
+
+Emma Goldman, Prawa wyborcze dla kobiet (w Anarchizm i inne eseje )
+
+Emma Goldman, Małżeństwo i miłość (w Anarchizm i inne eseje )
