@@ -20,3 +20,25 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/federation-of-anarchist-communists-of-bulgaria-bulgarian-anarchism-under-leninism)
+
+After five centuries of slavery under Turkish rule, the freedom-loving people liberated themselves seventy years ago. And for some sixty years since the founding of our movement the Bulgarian anarchists have known nothing but persecution, prisons, concentration camps and executions. Today they are living the most terrible tragedy in their history.
+
+The Russians, once again our «liberators», have insured the conquest of the red dictatorship and the terrible enslavement of the peasants and workers of Bulgaria. Though they have withdrawn their troops to the other bank of the Danube as the peace treaty provides, the Russians are still near at hand and comprise the solid mainstay and rearguard of Dimitroff’s fifth column.
+
+Surrounded to the north and west by Rumanian and Yugoslav fifth columns, the Bulgarian people realize they are not strong enough to overthrow their oppressors.
+
+Disheartened they have withdrawn into their traditional passive resistance. Few peoples are their equal in clear understanding of the world political situation, and (especially since Tito’s opening of the «iron curtain») they are waiting patiently to see what the future will bring. Our people know that in their struggle for freedom they are faced with not only the Bulgarian Communists (of whom they are not afraid) armed to the teeth by Russia, but also with the whole Russian empire. Being realists, they are perfectly aware that their strength is unequal and that the time for decisive action has not yet come. This is the logic behind their tactic of waiting and readiness.
+
+Persecutions are growing steadily, and in truth it requires a great deal of courage for the masses to express their opposition and resistance openly. Not only are elementary liberties non-existent but (what is much more serious) the possibility of survival is threatened. The first mortal blow fell on the Argentian Union. They and the Socialists are targets of persecution. Against us, the anarchists, persecution has never relented, and we are now the worst off. They are letting us die of hunger, slowly but surely.
+
+Comrades not yet in concentration Camps find themselves out of a Job and unable to get work anywhere. Independent .small trading, the crafts and agriculture that still make survival possible, are being liquidated and will disappear completely; soon it will be impossible to eat. Only one possibility remains: to bow one’s head and hold out one’s hand to the Stalinist state and its businesses and jobs. But the state gives work. only to its lackeys, to those who can Bell themselves.
+
+In spite of our restraint, expressed even in our illegal press, the Bolshevik’s hatred and jealousy has no limits. They see that to us, firm and unyielding, the eyes of desperate men and women are turned while all their militarist and fascist opponents have given in and joined them. And they know that at the critical moment in their rule all brave and valiant men, regardless of political ideas, will come with us.
+
+The truth is, the anarchists are the only group in Bulgaria who have not bowed down. In the concentration camps they alone have refused steadfastly to sign the oath of loyalty to the Fatherland Front. Among the blacklisted workers and the many expelled university students, the anarchists are the only ones who do not beg for mercy. Of all the opposition groups, the anarchists alone still refuse to join the government’s single party. Their brave clear-cut stand gives the people courage and compels respect even from opponents. The anarchists are a center of attention everywhere. The masses believe solely, unhesitatingly, in them; sometimes even unwillingly, they express admiration for the anarchists heroic stand. In this tragic moment this is the only strength, the only resource, of the Bulgarian anarchists.
+
+What does the future hold for us? It is difficult to judge. While fools put hope for salvation in a war, and wait impatiently and eagerly for it, we have not allowed ourselves to lose our ideological equilibrium or our clear perspective that war will be avoided. At the crucial moment in the conflict between the Anglo-American bloc and Russia, the latter will back down, and its political surrenders will cause the downfall of Stalinism in Russia and in our own country. We are more convinced of this than many Western European and American comrades because we see at first hand the incomparable weakness of Russia against the monstrous material power, and even moral advantages, of Anglo-Yankee imperialism.
+
+It not, then death. And if war is the outcome, world disaster.
+
+Whatever comes, the comrades of other countries who are extending a fraternal hand to us can be sure that Bulgarian anarchists know how to die for their ideal and for the freedom of the people — with pride and dignity, with their eyes fixed on a more just future for human tiy — that they will not disgrace their name, the name and pride of their people, the name and aspirations of world anarchism.
