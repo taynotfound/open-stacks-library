@@ -21,3 +21,7 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/latest-rebel-worker-may-june-2026)
+
+Latest Rebel Worker Paper of the Anarcho-Syndicalist Network Vol.44 No.1 (242) May - June 2026 www.rebelworker.org
+
+Contents: Iran War p.2; NSW Railway News p.3; Sydney Buses News p.5; Victorian Railway News p.7; Britain Today p. 9; Spanish Labour News p. 11; Book Review Corner: Capital's Grave: Neo Feudalism & The New Class Struggle & Saragossa Bound: A chronicle of the Durruti Column p.13; Ukraine: Crisis & War p.18; News & Notes p.19
