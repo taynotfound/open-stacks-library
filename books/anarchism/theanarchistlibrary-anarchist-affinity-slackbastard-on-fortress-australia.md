@@ -1,0 +1,62 @@
+---
+title: "Slackbastard on Fortress Australia"
+author: "Andy Fleming, Collective Action"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/anarchist-affinity-slackbastard-on-fortress-australia"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in The Platform Issue 2. Retrieved on January 18, 2021 from web.archive.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "anarchist-affinity-slackbastard-on-fortress-australia.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/anarchist-affinity-slackbastard-on-fortress-australia.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anarchist-affinity-slackbastard-on-fortress-australia)
+
+Andy Fleming is a Melbourne based writer, anarchist and creator of the prominent antifascist blog Slackbastard. We sat down with Andy to talk about nationalism, borders and the political functions of mandatory detention.
+
+I want to discuss mandatory detention, but I want to dig below the usual moral repugnance and discuss a few means and ends. I once had an experience with some University of Sydney Labor Club kids who simply would not believe that it was the ALP in 1992 who built much of the infrastructure of the contemporary border regime. Whilst I found the ignorance quite shocking at the time, I now wonder if it was at least partially informed by their inability to comprehend why Labor would have felt it necessary to introduce mandatory detention. Was it prescient political triangulation, pre-empting the rise of Hanson/Howard rhetoric, or is this too simplistic? What other functions does mandatory detention serve?
+
+At the time, the Minister responsible, Gerry Hand, stated that:
+
+“I believe it is crucial that all persons who come to Australia without prior authorisation not be released into the community. Their release would undermine the Government’s strategy for determining their refugee claims or entry claims. Indeed, I believe it is vital to Australia that this be prevented as far as possible. The Government is determined that a clear signal be sent that migration to Australia may not be achieved by simply arriving in this country and expecting to be allowed into the community.”
+
+As I understand it, the precise reasons why Labor elected to establish the system when it did remain a little obscure. That is, critics questioned the need for such a system to be established at all, and noted that there appeared to be no pressing reason to do so. To more fully answer the question would require an examination of Labor thinking on the matter at the time: something I’ve not explored myself. I suspect that the answer may be found by locating the policy within a broader framework; that is, the transformation of Labor party politics under the Hawke-Keating (1983–1996) governments. In this regard, I think there is both continuity and disjunction with previous policy. Otherwise, I believe state controls over transnational labour movement and capital flows play a key role in arriving at a better understanding of Australian government policy during this period. In which context, Angela Mitropoulos’s essay on ‘The Exhaustion of Australian Social Democracy’ is I think a useful treatment.
+
+Transnational labour and capital is a crucial part of this discussion, but this is something you hear almost nothing of in the contemporary refugee campaign. Why do you think that is? Does the scapegoating of refugees and asylum seekers merely provide political cover for the expansion of policies that exploit migrant labour and depress wages? Can you sketch out the connection between the two?
+
+To begin with, I’d suggest that many if not most of those involved in ‘the contemporary refugee campaign’ – a concept which requires some unpacking – are motivated by humanitarian concerns rather than, say, mobilised on the basis of an analysis of the capital/labour distinction and its application in a local (Australian) context. In other words, with some exceptions, most attention is being given to that category of persons known as asylum seekers or refugees, and to activities which seek to support their efforts to settle in Australia.
+
+The distinction between the ‘good’ refugee and the ‘bad’ refugee (or migrant worker) is often expressed in economic terms: those fleeing persecution in another country have nominal rights to do so while those seeking to migrate to Australia simply in order to improve their economic or social status are regarded as illegitimate. Determinations regarding the nature of cross-border movement of labour – and thus the shape of the local labour market – are the result of calculations made by government and state. The international legal treaties to which the Australian state is a party provide a framework for these determinations; often ignored in practice, and subject to international condemnation as a result – to little, if any obvious effect. The chief task of the state is to control these population flows in the interests of the elite institutions which dominate the economy.
+
+I’m not convinced that the scapegoating of refugees and asylum seekers is simply about providing political cover for attacks upon working conditions: here a distinction should be made between support and function. To begin with, it seems to me that this kind of scapegoating relies for its effectiveness – its popular appeal – upon long-standing racist tropes and xenophobic sentiment. Popular support for the policy of mandatory detention and the construction of a Fortress Australia is just as often expressed in non-economic or ‘cultural’ terms and it’s these concerns which seem to generate the most excitement among supporters, while the actual function of such policies are broader and more extensive.
+
+Punitive forms of state discipline – such as welfare quarantining or extended waiting times for access to social security programs – are programs that are ‘piloted’ on already oppressed and marginalised groups (e.g. the introduction of the ‘basics card’ in Indigenous communities) a long time before they are rolled out to the broader population. Is it fair to argue that a normalisation of the prison system, particularly the component of it under for-profit control, is also an intended consequence of the spectacle of mandatory detention? What else might fall into this category?
+
+‘The degree of civilization in a society can be judged by entering its prisons.’ ~ Dostoevsky, The House of the Dead
+
+It’s certainly the case that punitive policies of this sort are invariably imposed upon, at first, the most marginalised populations – for obvious reasons. The same may be said of the industry which has developed around ‘border protection’, though in this case the Australian state is pioneering managerial techniques which are then exported and developed in international as opposed to domestic markets.
+
+The privatisation of the prison industry dates from roughly the same time as the introduction of mandatory detention under Labor (in 1992) and may be regarded as forming one part of a broader social transformation often referred to as ‘neoliberalism’. An account of the development of neoliberalism in Australia and elsewhere in the world, rooted by some in popular challenges to austerity in the so-called Third World in the 1960s and 1970s, is a larger topic. In any case, the privatisation/ corporatisation of prison systems has obvious benefits to the state. Not the least of which is rendering conditions (and the systemic abuses) inside prisons that much more obscure to the general public. As defence, the state often invokes some concept of “efficiency”; a loaded term which, like many others in popular discourse, requires translation into English before being of any use. Broadly speaking, these and similar measures are governed by institutional political and economic considerations; of creating entrenched and systematic forms of social control which are both effective and, as far as possible, profitable, with the social costs being borne by the general population.
+
+There is, to my mind, a close link between Australia’s unreconciled colonial identity and the resonance of anti-immigrant rhetoric with ‘ordinary’ Australians. Though the language has changed from the language of the white Australia policy (we now deploy the navy to turn boats back out of apparent concern for the lives of the people aboard), access to Australia and Australian-ness is as zealously defended as ever. How do we, especially those of us who continue to benefit from the privileges inherent in ‘being’ Australian, begin to challenge these myths?
+
+It’s likely the case that popular anxieties over immigration are informed by some lurking sense of historical injustice. That is, the Australian nation is understood as being an especially precarious ‘imagined community’, one whose foundation is the theft and murder of non-Whites (Indigenous peoples) by Whites (British Empire), whose geographical situation is Asia, not Europe, and which is subject to continual attacks upon its sovereignty by both outsiders and domestic elements. A brief survey of both far right literature and important segments of the popular media on the subject reveals a good deal of evidence to support this thesis. As to how to combat such ideas and practices, I think Ken Knabb provides a useful (if somewhat lengthy) guide in the following:
+
+“It’s often said that a stateless society might work if everyone were angels, but due to the perversity of human nature some hierarchy is necessary to keep people in line. It would be truer to say that if everyone were angels the present system might work tolerably well (bureaucrats would function honestly, capitalists would refrain from socially harmful ventures even if they were profitable). It is precisely because people are not angels that it’s necessary to eliminate the setup that enables some of them to become very efficient devils. Lock a hundred people in a small room with only one air hole and they will claw each other to death to get to it. Let them out and they may manifest a rather different nature. As one of the May 1968 graffiti put it, “Man is neither Rousseau’s noble savage nor the Church’s depraved sinner. He is violent when oppressed, gentle when free.”
+
+Others contend that, whatever the ultimate causes may be, people are now so screwed up that they need to be psychologically or spiritually healed before they can even conceive of creating a liberated society. In his later years Wilhelm Reich came to feel that an “emotional plague” was so firmly embedded in the population that it would take generations of healthily raised children before people would become capable of a libertarian social transformation; and that meanwhile one should avoid confronting the system head-on since this would stir up a hornet’s nest of ignorant popular reaction.
+
+Irrational popular tendencies do sometimes call for discretion. But powerful though they may be, they are not irresistible forces. They contain their own contradictions. Clinging to some absolute authority is not necessarily a sign of faith in authority; it may be a desperate attempt to overcome one’s increasing doubts (the convulsive tightening of a slipping grip). People who join gangs or reactionary groups, or who get caught up in religious cults or patriotic hysteria, are also seeking a sense of liberation, connection, purpose, participation, empowerment. As Reich himself showed, fascism gives a particularly vigorous and dramatic expression to these basic aspirations, which is why it often has a deeper appeal than the vacillations, compromises and hypocrisies of liberalism and leftism.
+
+In the long run the only way to defeat reaction is to present more forthright expressions of these aspirations, and more authentic opportunities to fulfil them. When basic issues are forced into the open, irrationalities that flourished under the cover of psychological repression tend to be weakened, like disease germs exposed to sunlight and fresh air. In any case, even if we don’t prevail, there is at least some satisfaction in fighting for what we really believe, rather than being defeated in a posture of hesitancy and hypocrisy.
+
+Andy writes about politics for outlets such as New Matilda and Overland. He also keeps a close watch on the ‘master race’ on his blog slackbastard.anarchobase.com
