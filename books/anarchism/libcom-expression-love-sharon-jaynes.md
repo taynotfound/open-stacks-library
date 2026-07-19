@@ -17,6 +17,4 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/expression-love-sharon-jaynes)
-
-From the Insurgent Notes memorial issue for Loren Goldner, July 2024.
+From the Insurgent Notes memorial issue for Loren Goldner, July 2024. Loren was my lover and my best friend. I miss him every day. Printer-friendly version Comments
