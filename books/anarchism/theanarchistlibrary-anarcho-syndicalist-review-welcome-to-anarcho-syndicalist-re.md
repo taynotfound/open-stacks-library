@@ -1,0 +1,38 @@
+---
+title: "Welcome to Anarcho-Syndicalist Review"
+author: "Anarcho-Syndicalist Review"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/anarcho-syndicalist-review-welcome-to-anarcho-syndicalist-review"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Anarcho-Syndicalist Review #25 Retrieved on 28th January 2021 from syndicalist.us"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "anarcho-syndicalist-review-welcome-to-anarcho-syndicalist-review.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/anarcho-syndicalist-review-welcome-to-anarcho-syndicalist-review.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/anarcho-syndicalist-review-welcome-to-anarcho-syndicalist-review)
+
+Welcome to the first issue of the Anarcho-Syndicalist Review , continuing the Libertarian Labor Review. Founded by the late Sam Dolgoff (1902–1990) and three members of the present editorial collective, LLR began twice-yearly publication in 1986. The name change reflects our desire to avoid confusion with the laissez-faire capitalist Libertarian Party in the U.S., none of whose values we share, and to more clearly communicate our political tradition. The move to quarterly publication (February, May, August and November) reflects an increase in the amount of decent copy coming our way (but with additional material still needed, especially from overseas), along with a felt need for more timely analysis of current events. Other changes include a new format, a larger print run, and the gradual addition of corresponding editors to allow broader coverage. At $15 a year for four issues, including first-class postage, the subscription price remains a bargain, and is possible because with the exception of our (union) printer, no one involved in the publication is paid, and because we continue to receive much-needed and appreciated donations from our readers, acknowledged in each issue.
+
+ASR remains a forum for non-sectarian, critical – and we hope, informed and constructive – discussion of anarcho-syndicalist theory and practice. We are not affiliated with, sponsored by, or the mouth-piece of, any organization. Our outlook is internationalist. We stand in solidarity with working people everywhere, and in particular with those who, rejecting both state capitalism and state socialism as proven threats to the health of people and planet alike, seek peace and justice for themselves and their fellow workers through international labor solidarity. At the local level, we support efforts by working people to improve the quality of our daily lives through education, mutual aid, direct action, and above all organizing – ultimately seeking to take control of our workplaces and communities in a world without bosses.
+
+ASR welcomes articles, interviews, news items, and reviews — and readers’ responses to all of them – which examine significant moments in our movement’s history, propose and analyze libertarian solutions to wage slavery and other aspects of economic exploitation, and offer radical alternatives.
+
+State capitalists and state socialists alike have done their best to write anarcho-syndicalist achievements out of history for most of this century. As a result, the immense, unstoppable power available to – and on numerous past occasions, successfully exercised by – working people organized in industrial unions is hard for many to appreciate today. It must be a responsibility of ASR to show how transport workers, education workers, agricultural workers, computer workers, construction workers, healthcare workers, and so on, acting together, can bring the current exploitative, dog-eat-dog system grinding to a halt, starting it up again in a form that replaces war with peace, competition with cooperation, scarcity with plenty, oppression with freedom, hatred with mutual understanding and respect. Without such mass-based syndicalist organizations, life in egalitarian, anarchist communities will remain but a dream for the many, and a realistic option only for the relatively privileged few – those able and willing to retreat to tiny anarchist enclaves amidst a sea of “free market” misery.
+
+Pushed for concrete examples of our theories at work, anarcho-syndicalists typically point with pride to past successes of large revolutionary industrial unions in Europe and North America. Unfortunately, however, the notorious corruption endemic in so many (although not all) craft, or trade, unions, including their handsomely paid leaders’ frequent collaboration with the very governments and employers who oppress their members, plus the anti-union socialization experienced on a daily basis through state schooling and the corporate-owned mass media, have together conspired to make “union” a dirty word for many of the very people who need one most. Fundamental differences between trade/craft unions and industrial unions are unknown to them, as are the mechanisms by which unions can be made wholly accountable to the rank and file. One of our crucial missions is to help educate people in these areas.
+
+Disagreements exist, even among anarchists, as to whether such “reformist” activities as taking part in the work of “business” unions, utilization of state-sanctioned legal remedies for unfair labor practices, or even participation in the state-sanctioned party political process, is ever justifiable, and if so, when and how? ASR will not shrink from discussion of such issues, and welcomes contributions on them from readers. The interview with Noam Chomsky in this issue (#25) explicitly focuses on several of them, and #26 will include commentaries from some members of the Editorial Collective, as well as, it is hoped, from readers.
+
+Nor will ASR evade critical re-examination of anarcho-syndicalist theory and practice in general. What does anarcho-syndicalism have to offer for the third millennium as a vision of the kind of sustainable, cooperative society in which we would like to live and in which we would like future generations to be able to choose to live, and what does it offer as a means of getting from here to there? What are the fundamental principles, strategies and goals of anarcho-syndicalism, and of revolutionary industrial unionism in general? Which of those principles, strategies and goals are unique, and which shared by anarchists and/or by working people of any stripe? Which, if any, are in need of modification in light of changed, and rapidly changing, economic, social, and environmental conditions, when applied in agricultural, service, or manufacturing sectors, when adopted by men or women, by workers of differing religious beliefs or cultural practices, in urban or rural settings, or in first or third world societies? And to what extent are the practices of the current international revolutionary union movement congruent with those principles, strategies and goals?
+
+In the years to come, we hope you will join us as we explore these and other issues, both as readers and writers, and importantly, too, as subscribers. Copies of ASR sold through bookstores barely cover the costs of printing them. If those copies were placed there by our paid bulk distributors, we actually lose money on each copy (though, of course, less than if they go unsold altogether). So if you like what you read in ASR, please consider taking out a regular subscription, and perhaps buying one for a friend, and if you have access, recommending it to your friendly neighborhood librarian.
