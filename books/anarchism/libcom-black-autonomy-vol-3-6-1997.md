@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/black-autonomy-vol-3-6-1997)
+
+October 1997 issue of Black Autonomy, including: Seattle Copwatch, boycott racist Australia by Lorenzo Komboa Ervin, the class war against youth by Mumia Abu Jamal, prisoners, San Francisco Black Liberation Radio, etc.
