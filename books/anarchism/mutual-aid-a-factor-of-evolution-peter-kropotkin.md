@@ -20,12 +20,4 @@ files:
     hosted: true
 ---
 
-# Mutual Aid: A Factor of Evolution
-
-**Author:** Peter Kropotkin  
-**Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/4341)  
-
-## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/mutual-aid-kropotkin.epub)
-
-[Original source](https://www.gutenberg.org/ebooks/4341)
+For your e-reader or reading app — Kindle, Kobo, Apple Books, Calibre etc. There may be more files related to this item. Project Gutenberg eBooks are always free!
