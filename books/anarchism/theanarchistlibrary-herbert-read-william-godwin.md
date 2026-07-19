@@ -1,0 +1,42 @@
+---
+title: "William Godwin"
+author: "Herbert Read"
+date: "2011"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/herbert-read-william-godwin"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 20 February 2011 from dwardmac.pitzer.edu"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "herbert-read-william-godwin.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/herbert-read-william-godwin.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/herbert-read-william-godwin)
+
+In the history of English poetry, no name is more secure than that of Shelley: he ranks with the greatest — with Spenser, Shakespeare, Milton and Wordsworth, and the years only add to the depth of our appreciation of his genius. But Shelley’s name is indissociably linked with another name — the name of a man to whom he owed not only his philosophy of life, but even his personal happiness, for he ran away with the philosopher’s daughter. This philosopher was William Godwin, and in his day no man was more famous. His fame rested on one book, though he wrote many others, and this book, Political Justice , was not only what we would now call a “best-seller”, but, if we take account of the effect it had, a political event of the first importance.
+
+An Enquiry Concerning the Principles of Political Justice and Its Influence on General Virtue and Happiness , to give it its full title, was first published in February 1793, in two volumes. It had been written at a time when the French Revolution still seemed to premise a new arm of liberty and happiness — when, in Wolrdsworth’s words, Europe
+
+was thrilled with joy, France standing on the top of golden hours. And human nature seeming born again.
+
+Not only Shelly, but all the great figures of our Romantic Movement came under the spell of this book, and sought the intellectual companionship of its author. Coleridge, Charles Lamb, Southey, De Quincey were for a time Godwin’s disciples. Wordsworth told a young student to burn his books on chemistry and read Godwin on necessity.
+
+Coleridge and Southey decided to put Godwin’s principles into practice, and evolved a scheme for a community, called a Pantisocracy, which they hoped to establish in America. So grand was the influence of this book that it became a subject of grave anxiety to the government, and the possibility of taking proceedings against Godwin was discussed by the Cabinet, and only dismissed because, as Pitt remarked, a book which was priced at three guineas could not have much effect because only the propertied classes could afford to buy it.
+
+Pitt, of course, was wrong. Not even three guineas — a considerable sum in those days — can prevent new and original ideas from being absorbed by minds which are open to fertilization, and minds had been forcibly [?] open by the fall of the Bastille and subsequent events in France. The influence of Godwin was for a time widespread and decisive, but the tide was running against him. The Reign of Terror had broken out in France and everywhere, and especially in England, first emotional revulsion, and then intellectual reaction, set in. Southey and Wordsworth deserted Godwin. Coleridge, though retaining his immense respect for Godwin’s intellect, became critical and decidedly opposed to most of Godwin’s ideas. It was left to the next generation — a generation born in the years of Revolution — to take up Godwin’s ideas with sympathy and courage, and to make them the inspiration of their lives. In particular, it was left to the poet Shelley, who was born only a year before the publication of Political Justice , and who did not meet Godwin until 1811, by which time he was almost forgotten by the public at large.
+
+Godwin’s influence on Shelley was absolute. When Shelley, at the age of 18, first wrote to Godwin, seeking his acquaintance, he said: “The name of Godwin has been accustomed to excite in us feelings of reverence and admiration. I have been accustomed to consider him as a luminary too dazzling for the darkness which surrounds him, and from the earliest period of my knowledge of his principles, I have ardently desired to share in the footing of intimacy that intellect which I have delighted to contemplate in its emanations.” In a second letter he was more specific. “It is now a period of more than two years since first I saw your inestimable book on Political Justice : it opened to my mind fresh and more extensive views; it materially influenced my character, and I rose from its perusal a wiser and better man. I was no longer the votary of romance; till then I had existed in an ideal world — now I found that in this universe of ours was enough to excite the interest of the heart, enough to employ the discussions of reason; I beheld, in short, that I had duties to perform”.
+
+By “duties to perform” Shelley meant direct revolutionary action, and he set off to Ireland to conduct a campaign for Catholic Emancipation — with poor results. The real influence of Godwin was to be reflected in the poetic works of Shelley, [unreadable handwritten insert]. No philosophy was ever so entirely taken over and transmuted into the finer texture of poetry as Godwin’s by Shelley. Shelley absorbed Godwin’s principles not merely as an influence, but rather as a complete mental furniture, and though Shelley, as he developed, was to owe more and more to Plato, it was never to the detriment of his original master. Shelley reconciled what he took from Plato with what he retained from Godwin and what he retained from Godwin was the whole system of Political Justice — “the first moral system”, as he defined it, “explicitly founded upon the doctrine of the negativeness of right; and the positiveness of duties — an obscure feling [sic] of which has been the basis of all the political liberty and private virtue in the world”.
+
+Though Political Justice has been neglected for more than a century and it is now impossible to obtain the book in its country of origin, it remains one of the great classics of political thought, comparable to Rousseau’s Contract Social and Marx’s Capital or De Tocqueville’s Democracy in America . It expresses, more eloquently than any other work of its kind, certain truths about men and society which have been ignored for a century and a half. In spite of his rationalism, which he inherited from the Age of Enlightenment, and because he had his deeper intuitions, Godwin realized that any society compatible with human happiness must be a living body, a natural growth; he realized that opposed to this idea of society was a rational concept, the State, which if allowed to exercise its authority in defiance of natural laws and limitations, could only lead to the enslavement of the human mind. If the authoritarian State is now omnipotent over the greater part of the world, and if people are now more enslaved and oppressed than they were a century ago, it is because the truths expressed by Godwin have been neglected. They were to some extent embodied in the social reforms initiated in England by Robert Owen, from which the co-operative and trade union movements sprang and many of his ideas were to be reaffirmed by political philosophers like Proudhon, Elisée Reclus and Kropotkin, but since 1870 a different conception of socialism or communism has prevailed, and the principles for which Godwin stood have been obscured, in my opinion only temporarily, by the principles which we associate with the name of Karl Marx.
+
+I would like to have given you a more detailed account of Godwin’s ideas, and I would like to have given you a fuller demonstration of the way in which Shelley gave these ideas a poetic form. But these tasks are beyond the scope of a short talk, and I can only recommend you to explore the subject further in the excellent study of Godwin which George Woodcock has just written. George Woodcock is one of our younger poets, and the editor of a literary review called Now . This is his first venture into the field of biography and criticism, and the generous welcome which it has received in the English press is a tribute, not only to Mr Woodcock’s literary gifts, but also to the vitality of Godwin’s ideas, and to the renewed interest in them which is now manifest among the younger generation in England.
