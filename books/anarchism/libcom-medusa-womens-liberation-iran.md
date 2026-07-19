@@ -21,3 +21,7 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/medusa-womens-liberation-iran)
+
+This is the archive of Medusa by "Women's Liberation - Iran".
+
+The authors come from Worker-Communist Party of Iran tradition, an Iranian left-communist or Marxist tradition.
