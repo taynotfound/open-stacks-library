@@ -20,3 +20,31 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/federazione-dei-comunisti-anarchici-2nd-national-fdca-workshop-on-anarchist-communist-work-in-t)
+
+Capitalist exploitation of the territory continues inexorably to affect our cities and towns; speculative environmental and infrastructural exploitation continues all along the neuronal network and also in the surrounding areas.
+
+The housing emergency, environmental degradation and the destruction of the countryside as a result of the action of privatized companies and business cartels, militarism, the plunder of the soil and public resources, all contribute to the profound changes that are taking place in the relationship between our pace of life and the use of the territory, between the financial autonomy of workers, citizens and inhabitants and the opportunity to gain access to collective goods and services that are increasingly being privatized, monetized and removed from the collective control of society.
+
+The lower our power of acquisition together with the consequent rise in indebtedness of workers and their families, the more inaccessible our rights, our services and our plans for a better life become, unless we are prepared to pay the cost in sacrifices and financial blackmail.
+
+This attack on our living conditions, this collective impoverishment, can only be successful if it is part of a general cultural and political impoverishment designed to break up our collective interests, to pulverize the will to participate and to exalt individualism to the detriment of solidarity.
+
+Thus, we are subjected to non-stop, often racist, media campaigns preaching the need for extra security, an attempt to place the blame for social unease on certain sectors of the populace, immigrants in particular, with the aim of keeping the poor fighting amongst themselves.
+
+This offensive on the part of capitalism is made all the easier by the fact that the institutional left, torn by its identity crisis and its allegiance both to the opposition and to the government, is both unprepared and opportunistic. This is only partially countered for by the movements that in most cases begin on a local level but often manage to ally themselves with other movements to such an extent as to make an impact on a national level.
+
+But the social opposition nonetheless shows a surprising capacity for action, both in the cities — where unease is more evident — and in those parts of the country where the growing misery is still hidden to some extent. It is based on demands for the satisfaction of material needs and for rights such as the right to housing, to healthcare and essential services for everyone, immigrants included. It demonstrates an often dogged persistence in seeking satisfaction of basic needs by means of patient work that aims to reconvert individual rights into collective rights, which are not restricted to any one social group and which go beyond simply demanding handouts.
+
+The defence of the territory and its natural resources from the mad dictates of capitalism, at the risk of simply defending the status quo, is evidence of growing concern for the welfare of our common assets and an increasing rejection of the “development” that is currently being foisted on us, one which does not guarantee the health of all, concerned only with creating profit for the few.
+
+All this must be backed up with cultural and political work that can combat the growing rise of the Right and its undertones of racist, sexist and separatist violence that could all too easily smother common sense and create barriers between workers of various origins. Anti-fascism must not be restricted to the few official moments and events where it has been confined by the State: it must take on a new political urgency in an ongoing struggle against authoritarianism, a struggle which in order to be successful must be carried out by as wide and as united a front as possible. Of equal importance is the defence of the secular society and the rejection of religious, cultural and national identities, the development of places where greater freedom can be enjoyed and where collective decisions can help re-build a social fabric characterized by freedom, solidarity and mutual aid.
+
+On the face of it these may all seem to be different areas, but in reality they are simply different aspects of the same battle, a battle which seeks to win back our class autonomy and stimulate libertarian planning for the future, the only alternative to the fratricidal barbarity which we are being dragged into by capitalism through the use of division, repression and bombardment from the mass media.
+
+Therefore, our work as FdCA militants and the work of all anarchist and libertarian militants should there be aimed at:
+
+seeking to identify and amplify the anti-capitalist and class nature of many of the struggles within the community, to point out the class nature of the policies for exploiting and managing the territory being enacted by all the various powers, to develop alternative forms of managing the territory based on establishing and satisfying real needs, with the direct involvement in the planning of those it concerns;
+
+seeking to guarantee the horizontal, grassroots nature of the movements, counteracting the influence of lobbies and the tendency to delegate which only lead to new leaderships and to exchanging one set of political leaders for a new set of politicians that have used the movements as a springboard for their political careers;
+
+seeking to federate the struggles, the self-managed structures and the movements, to seek out new alliances which ensure the greatest possible initiative from the grassroots.
