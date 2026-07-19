@@ -93,3 +93,13 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/careless-talk-newsletter)
+
+Online archive of publications by this early 1980s revolutionary anarchist / libertarian communist newsletter from Newcastle-under-Lyme and Stoke on Trent.
+
+Careless Talk was preceded by the "Libertarians Living in The Potteries*" group. Some examples of their work are included, as are a number of Careless Talk leaflets.
+
+Careless Talk contributed to the Ultra-Left Review Intercom and was heavily involved in the North West Anarchist Federation.
+
+Some members of Careless Talk went on to join the Manchester based Wildcat group, whilst another offshoot was Stafford Anarchists.
+
+*"The Potteries" refers to the industrial area of Stoke-on-Trent in Staffordshire, England. This region became the heart of British ceramics production in the early 18th century, largely due to the local availability of clay, coal, and lead.
