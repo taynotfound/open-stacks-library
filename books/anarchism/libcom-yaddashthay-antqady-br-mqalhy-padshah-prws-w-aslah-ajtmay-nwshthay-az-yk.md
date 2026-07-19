@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/yaddashthay-antqady-br-mqalhy-padshah-prws-w-aslah-ajtmay-nwshthay-az-yk-prwsy-fwrwirts)
+
+یادداشت‌های انتقادی بر مقالۀ «پادشاه پروس و اصلاح اجتماعی؛ نوشته‌ای از یک پروسی» (فوروِرتس!، شمارۀ ۶۰) منتشرشده در نشریۀ فوروِرتس!، شمارۀ ۶۳، ۷ اوت ۱۸۴۴
