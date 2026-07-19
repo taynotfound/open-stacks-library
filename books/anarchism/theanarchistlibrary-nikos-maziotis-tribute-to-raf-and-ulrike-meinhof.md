@@ -1,0 +1,26 @@
+---
+title: "Tribute to RAF and Ulrike Meinhof"
+author: "Revolutionary Struggle, Nikos Maziotis"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/nikos-maziotis-tribute-to-raf-and-ulrike-meinhof"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "https://rotehilfech.noblogs.org/post/2014/09/29/nikos-maziotis-tribute-to-raf-and-ulrike-meinhof/"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "nikos-maziotis-tribute-to-raf-and-ulrike-meinhof.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/nikos-maziotis-tribute-to-raf-and-ulrike-meinhof.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/nikos-maziotis-tribute-to-raf-and-ulrike-meinhof)
+
+On the 7 th of October, 80 years will have gone past since the birth of the Revolutionary Ulrike Meinhof, one of the founding members of the guerrilla group RAF. Meinhof, like RAF have gained a place in the pantheon of the history of the revolutionary movement for the liberation of mankind from the evils of oppression and exploitation. They have left an indelible mark in history; they are the benchmark for generations of rebels and fighters. Just as RAF was inspired by the anti-imperialist and anti-colonial struggles of the peoples of the third world, such as the Vietnamese and the Tupamaros, so did RAF become a source of inspiration and reference for generations of rebels and certainly for several in my generation. Revolutionaries such as Meinhof made ​​choices that led them to risk everything, to risk their lives and their freedom in the fight, as have all those who have chosen the path of the guerrilla struggle. Many of them were killed in armed clashes against the dogs of the state, died in hunger strikes in prison or killed in prisons. Ulrike Meinhof like Andreas Baader, Gudrun Ensslin, Jan-Carl Raspe were murdered while they were prisoners in the prisons of Stammheim, paying the price of those who chose the way of the guerrilla struggle. The same price was paid by Puig Antich, Agustin Rueda, Oriol Solé, Mara Cagol, Anna Maria Ludman, Lorenzo Betassa, Riccardo Dura, Piero Panciarelli, Christos Kassimis, Christos Tsoutsouvis, Thomas Weissbecker, Georg von Rauch, Mario Galesi and, Lambros Foundas. The list of those who died in the battlefield is anyway endless. The price was paid by those who as prisoners died on hunger strike like Holger Meins and the Sigurd Debus , members of the IRA or the communist militants in Turkey in the year 2000 hunger strike. The price was paid by those who spent many years in prison and remained unrepentant to the end, like Joëlle Aubron, Prospero Gallinari or the Lebanese rebel Ibrahim Abdullah who remains in French prison since 1984. Whoever chose to be a rebel and fight by means of armed struggle and guerrilla war knows that the road to human liberation from the chains of capital, imperialism and the state is not strewn with flowers, but paved with death, with blood, bullets, with violence, jail, isolation and everything that is generously offered by our enemy. Ulrike Meinhof is among those who are a shining example that stood consistent until the end. Meinhof, like so many other comrades who joined the ranks of the insurgency broke the established roles of sexist society that wants women to be subordinate or submissive underdogs to men and imposed their position as worthy and equal fighters who fought with gun in hand.
+
+We, in Revolutionary Struggle believe that the best homage to comrades who gave their lives in the struggle is the continuation of the same struggle in which they fell fighting. Today, more than 40 years after the founding of the RAF and in completely different conditions; in the conditions of the global capitalist crisis — the longest in the history of capitalism so far — the lack of armed action in the cities of the developed capitalist territory of Europe and the USA is more apparent than ever. Today in the conditions of global capitalism contrary to the view of the 70s that the front of the imperialist war is in the Third World countries such as Vietnam and the rear is in the territory of Europe where the American war machine is refueled, today the front and rear of the social and class war are in the same area, in that of ​​the European Union and the USA. It is here where decisions are made for the savage attack of transnational capital against the people on the pretext of the debt crisis, where the greatest social robbery is orchestrated, the largest redistribution of wealth from the bottom to the top of the social hierarchy. That is, in Germany, in Frankfurt where the headquarters of the European Central Bank are, in Paris where the International Monetary Fund has an annex, in Brussels where the seat of the European Union is. Today, in Europe and in the cities of developed capitalism, the armed struggle is more necessary than ever. To destroy the European Union’s capital, it is necessary to undermine a system that is experiencing the greatest crisis in its history. The struggle today is led by the example of all those who in earlier times gave their lives or endured prison and remained unrepentant.
