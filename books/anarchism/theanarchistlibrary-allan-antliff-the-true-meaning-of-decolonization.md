@@ -1,0 +1,44 @@
+---
+title: "The True Meaning of Decolonization"
+author: "Allan Antliff"
+date: "2023"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/allan-antliff-the-true-meaning-of-decolonization"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "This is a preface to Anarchist Studies Volume 28 (2020) Issue 1, giving some context to the cover image. Retrieved on 2023-12-18 from &lt;journals.lwbooks.co.uk/anarchiststudies/vol-27-issue-2/article-9355&gt;"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "allan-antliff-the-true-meaning-of-decolonization.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/allan-antliff-the-true-meaning-of-decolonization.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/allan-antliff-the-true-meaning-of-decolonization)
+
+Indigenous sovereigntist-anarchist Gord Hill’s (Kwakwa̱ka̱ʼwakw Nation) illustration, Wolf and Bear Defenders , celebrates resistance to oil and gas pipeline development being forced through Indigenous territories by the government of Canada and the province of British Columbia. In 2009, members of the Unist’ot’en (C’ihlts’ehkhyu/Big Frog Clan) of the Wet’suwet’en Nation initiated a process of cultural renewal that involved the assertion of sovereignty over their traditional territory (see map). They began work on a homestead complex (2010) and, later (2015), a healing centre, situated directly in the path of planned pipelines. They also called on Indigenous and non-Indigenous activists to support their assertion of sovereignty. Since 2010, I and other anarchists have been involved in a series of initiatives inspired by their struggle, guided by the protocols and directives of the Unist’ot’en. Hereditary Chiefs who lead the Five Clans of the Wet’suwet’en Nation (C’ihlts’ehkhyu/Big Frog Clan; Gidumt’en/Wolf and Bear Clan; Laksilyu/Small Frog Clan; Laksaumshu/Fire Weed Clan; Tsauy/Beaver Clan) have also joined the resistance and taken a stand, in the first instance, against a 6.6 billion CAD scheme to build a pipeline (‘Coastal GasLink’, owned by TransCanada corporation) through Wet’suwet’en territory to transport fracked gas to a new export facility on the West Coast of Canada.
+
+It is important to underline that Wet’suwet’en resistance is founded on the exercise of traditional law and structures of self-governance, as opposed to the‘Band Council’ system created by the Canadian government. Band Councils are composed of elected councillors who manage small parcels of land known as ‘reserves’ which were created by the Canadian government to facilitate colonialisation. Indigenous peoples across Canada whose territories have been occupied by settlers and subject to legal chicanery (Nation to Nation treaties which the Canadian government has repeatedly broken), now live on these reserves, which receive funding through the Federal Government’s Ministry of Indigenous Affairs. However Indigenous peoples throughout ‘British Columbia’ never signed away their lands to the Canadian government through a treaty process or relinquished adhering to their traditional laws and modes of self-governance. First and foremost, the Wet’suwet’en are reasserting rightful sovereignty over territory that has never been ceded to any State entity.
+
+Tensions rose in Wet’suwet’en territory after pipeline construction began in 2018. Members of the Gidumt’en Clan established an Access Checkpoint on aroad to the Unist’ot’en’s homestead/healing centre to help enforce Wet’suwet’en sovereignty as the Royal Canadian Mounted Police (RCMP) engaged in non-stop harassment through drone surveillance, police patrols, helicopter fly-bys, and other measures. On 7 January 2019, after Coastal GasLink/TransCanada received an interim court injunction against obstructions to pipeline development, the RCMP moved in. A paramilitary squad with instructions to ‘use as much violence toward the gate as you want’ (including ‘lethal’ force), assaulted the Gidumt’en Assess Checkpoint and arrested fourteen land defenders. [1] Outrage and protests erupted across Canada and beyond as Indigenous and non-Indigenous peoples mobilised. Simultaneously, Wet’suwet’en Hereditary Chiefs intervened and negotiated a cessation of further RCMP assaults. Having gained agreement, they issued this statement on 16 January 2019:
+
+On January 7, in support of a fracked gas pipeline, a military scale assault of RCMP armed with assault weapons aggressively forced entry at the Gitdumt’en checkpoint and forcibly removed unarmed Wet’suwet’en members from their land. The Wet’suet’en Hereditary Chiefs quelled the one-sided violence under duress to ensure the protection of the Unist’ot’en community with a temporary truce … ‘Our rights to these lands have never been extinguished, the assumed and presumed jurisdiction of the provincial and federal governments is misleading and false’, said Chief Na’Moks of the Wet’suwet’en ‘ … support from our neighbours and allies around the world proves the Wet’suwet’en do not stand alone. Our rights to water, air and land are not only Indigenous rights but human rights’. The Wet’suwet’en Hereditary Chiefs have maintained their use and occupancy of their lands and hereditary governance system for thousands of years. Wet’suwet’en Hereditary Chiefs are the Title Holdersand maintain authority and jurisdiction to make decisions on unceded lands. The 22,000 square km of Wet’suwet’en Territory is divided into five clans and thirteen house groups. Each clan within the Wet’suwet’en Nation has full jurisdiction under their law to control their territory. Chief Kloum Kuhnstated, ‘The five clans of the Wet’suwet’en will never support the CoastalGaslink (CGL) project and remain opposed to any pipelines on our traditional lands. There is no legitimate agreement with CGL as reported in the media,and we stand behind the Unist’ot’en and Gitdumt’en. Under Anuc niwh’it’en, Wet’suwet’en rule of law, all five clans of the Wet’suwet’en have unanimously opposed all pipeline proposals and given no authority to Coastal Gaslink/TransCanada to do work on Wet’suwet’en lands’. [2]
+
+Resistance is on-going and determined, despite RCMP harassment and attempts by Coastal Gaslink to push forward with the backing of the Canadian and British Columbian governments. [3] On New Year’s Eve (31 December 2019) a British Columbia Supreme Court judge issued a permanent injunction prohibiting any interference with pipeline construction and authorising the RCMP to enforce the decision. The Wet’suwet’en then issued an eviction order expelling all CoastalGasLink/TransCanada employees from their traditional territory, effective immediately. Workers were given one-time access to close down a worksite of residences and offices before being supervised out by members of the Wet’suwet’en. On 13 January 2020 the RCMP responded by setting up a 27 kilometre ‘exclusion zone’ with checkpoints blocking media, Wet’suwet’en people, and food supplies from getting into the Unist’ot’en’s homestead/healing centre. 4 Rallies, blockades, occupations and other disruptions flared up across Canada and the RCMP were forced to ease restrictions, though the checkpoints remained in place.5 Wet’suwet’en Hereditary Chiefs once again (on 30 January 2020) initiated negotiations. On 6 February 2020, the RCMP renewed their assaults.
+
+Gord Hill has argued liberation for Indigenous peoples’ demands resisting the socio-economic system on which ‘control and exploitation are based’. [6] Additionally, asserting sovereignty over territory is foundational for renewing Indigenous cultures and modes of self-governance. Hence the Nation State must also be dismantled. [7] This, he concludes, is the true meaning of ‘decolonization’. [8] The Wet’suwet’en’s fight to defend their sovereignty and the ecological well-being of their territory for future generations is a powerful example of decolonization in action. [9] Expand the circle. Becoming accomplices [10] in such endeavours is imperative for non-Indigenous peoples if humanity is ever to liberate itself from the State-capitalist industrial juggernaut that is destroying the planet.
+
+[1] Jaskiran Dhillon and Will Parish, ‘Exclusive: Canada police prepared to shoot Indigenous activists, documents show’, The Guardian (20 December 2019), www.theguardian.com
+
+[2] ‘Hereditary Leaders from Across BC Stand Behind Wet’suwet’en and the Assertion of Their Traditional Laws’, www.wetsuweten.com
+
+[3] The film ‘Invasion’ (2019) is a great introduction to the Wet’suwet’en’s struggle, unistoten.camp
+
+[6] Gord Hill, Colonization and Decolonization: A Manual for Indigenous Liberation in the 21 st Century (Vancouver: Warrior Publications, 2006), p20.
+
+[10] ‘Accomplices, Not Allies: Abolishing the Ally Industrial Complex’, (Indigenous Action Media, 2014), warriorpublications.wordpress.com
