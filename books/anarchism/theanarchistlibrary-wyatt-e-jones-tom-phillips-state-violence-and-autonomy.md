@@ -1,0 +1,46 @@
+---
+title: "Tom Phillips: State Violence and Autonomy"
+author: "Wyatt E Jones"
+date: "2025"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/wyatt-e-jones-tom-phillips-state-violence-and-autonomy"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "The Polar Blast. &lt;thepolarblast.wordpress.com/2025/09/08/tom-phillips-state-violence-and-autonomy&gt;"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "wyatt-e-jones-tom-phillips-state-violence-and-autonomy.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/wyatt-e-jones-tom-phillips-state-violence-and-autonomy.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/wyatt-e-jones-tom-phillips-state-violence-and-autonomy)
+
+In early September 2025, the long and tangled saga of Tom Phillips came to a violent conclusion on a quiet road in rural Waikato. After nearly four years of living as a fugitive in the bush with his three children, Phillips was shot dead by police following an attempted burglary that spiralled into armed confrontation. One of his children was recovered at the scene and placed into state care. Two remain missing, their fate uncertain. What began in 2021 as a custody dispute that saw a father disappear with his children has ended with gunfire, death, and three young lives marked by trauma.
+
+For many, the Phillips case has been a spectacle: a father on the run, the mystery of his children’s wellbeing, and the occasional sightings that lent the saga a mythic quality. Yet stripped of the sensationalism, the story reveals the raw edges of life in Aotearoa: the isolation of rural poverty, the brittleness of state welfare systems, the coercive logic of policing, and the absence of strong communal networks that might have transformed a crisis into something other than tragedy. For anarcho-communists, it offers a sobering reminder of how the state manages non-conformity not with dialogue but with criminalisation, and how its failures weigh most heavily on children and the vulnerable.
+
+Phillips first disappeared with his three children in December 2021. They were gone for weeks before re-emerging, reportedly having been camping. What could have been an opportunity for understanding – why a man might flee with his children into the bush, what pressures led him to reject ordinary social life – was instead treated by the state as a matter for prosecution. Charges were laid, court dates scheduled, and when Phillips failed to appear he vanished again, this time for good. From that moment, the family were transformed from people in crisis into fugitives. The criminal frame foreclosed other ways of seeing: a father struggling with custody, a family searching for space outside suffocating social pressures, or simply people in need of solidarity.
+
+The years that followed were marked by sporadic glimpses of the Phillips family. Reports surfaced of them living off-grid in makeshift shelters. Farmers and locals occasionally saw signs of their presence. Footage eventually emerged of Phillips and at least one of the children breaking into rural stores, desperate for supplies. He was accused of armed robberies, and the state placed a large bounty on his capture, framing him as a danger rather than a parent. Meanwhile, concerns about the children’s welfare mounted and rightly so, as they were deprived of education, healthcare, and contact with their wider whānau. But the state’s answer to those concerns was not to build trust or create non-coercive pathways for the family’s return. Instead, it escalated the hunt, with police armed and primed for confrontation.
+
+By 2025, the inevitable happened. A burglary, a pursuit, a shoot-out, and death. A police officer critically wounded, a father killed, and children left in the wreckage. The violence of the end was not a break from the state’s approach but its logical conclusion. When families resist the prescribed order of custody, schooling, and wage-bound existence, the state has no vocabulary other than enforcement. And when enforcement fails, the rifle is never far away.
+
+It would be easy to frame Phillips simply as a criminal, a reckless father who endangered his children. There is truth in this: taking children into the wilderness for years, cut off from medical care and social support, is undeniably harmful. Yet this moral judgment cannot be separated from the conditions that made such a choice conceivable. Rural isolation in Aotearoa is marked by poverty, limited services, and the steady retreat of communal structures. In many small towns, the state appears only as a policing presence, while schools, clinics, and social services are gutted by austerity. Families under pressure are offered little more than bureaucratic assessments and threats of removal. To choose the bush over the system is extreme, but it is not incomprehensible when the system itself offers only alienation.
+
+The Phillips children, more than anyone, bear the scars of this conflict between state and parent. Their lives became a battleground between a father determined to raise them outside the law and a state determined to retrieve them at any cost. In this sense, the children were never truly the concern of either side. For the father, they were extensions of his rebellion. For the state, they were symbols of defiance to be corrected. Their wellbeing was subordinated to the spectacle of pursuit and the stubbornness of autonomy. In a society rooted in mutual aid, this would never have happened. A community would have recognised the crisis early, drawn close, and provided support that did not rely on police raids or exile in the bush. But in the individualised landscape of neoliberal New Zealand, solidarity has been hollowed out, leaving only the cold mechanics of custody courts and the violence of enforcement.
+
+For anarcho-communists, the Phillips case is not about defending a single man’s choices but about exposing the poverty of state solutions. It reveals how the nuclear family, already strained by the pressures of capital and gendered expectations, collapses entirely when the only available responses are legalistic and coercive. It demonstrates how rural communities, stripped of resources, cannot sustain their own systems of care and are instead forced into the role of informants or bystanders. And it underscores the futility of believing that children’s rights can be upheld by a state that sees them as wards to be managed rather than as human beings embedded in communities.
+
+The tragedy also demands that we look at the police themselves. The shooting of Phillips and the wounding of an officer are framed by the state as proof of police bravery and danger. Yet the very presence of armed police in this conflict was not inevitable. It was the consequence of years of treating Phillips as an outlaw rather than as a man in crisis. Had there been genuine attempts at negotiation, mediated by community structures and rooted in compassion, the confrontation of September 2025 would never have happened. Instead, a climate of siege was created, in which Phillips was cornered and the police prepared for violence. Violence, in such circumstances, becomes not an accident but a near certainty.
+
+What lessons should anarchists draw from this? First, that autonomy without solidarity can easily collapse into desperation. Phillips’ attempt to raise his children outside state control was doomed not because autonomy itself is impossible, but because it was pursued in isolation. Without collective support, without a network of mutual aid, autonomy becomes survivalism, a grim endurance rather than a flourishing alternative. Second, that the state will always frame non-conformity as criminality. Any attempt to live beyond its reach, whether by withdrawing into the bush or building radical collectives in the city, is met with surveillance, coercion, and when necessary, bullets. Third, that our task is not to romanticise fugitives, but to build resilient structures of solidarity that make such flights unnecessary.
+
+The Phillips case should therefore be remembered not as the tale of a renegade father, but as a failure of society to care for its own. It is a reminder that communities must be capable of addressing family crises without defaulting to the machinery of courts and cops. It is a warning that when solidarity is absent, individuals will make desperate and destructive choices. And it is a call to build the kind of networks that could have sheltered the Phillips children in compassion rather than leaving them hidden in the bush.
+
+We should mourn the dead, and we should mourn the wasted years of three young lives. But mourning alone is not enough. Out of this tragedy, anarcho-communists must argue for a different vision: one where communities are empowered to support families in crisis, where children are raised in collective networks of care, and where autonomy is sustained by solidarity rather than pursued in isolation. Only in such a society could a story like that of Tom Phillips unfold differently, not as a grim spectacle ending in police gunfire, but as a difficult chapter resolved through compassion, dialogue, and the strength of community.
