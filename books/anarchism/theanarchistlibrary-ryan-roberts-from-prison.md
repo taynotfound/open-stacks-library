@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/ryan-roberts-from-prison)
+The 11th of June is the International day of solidarity with long term Anarchist prisoners. On this day we make a call for solidarity and to keep the light of revolution alive. Mutual support, care and unity are our strengths to bring down capitalism and keep our communities organised. Prison solidarity is not just a day or a week in the calendar, it’s every day, every hour, and every minute counts. Bring prison solidarity into your everyday life. Write letters to your friends in prison. You don’t know anyone? Choose some local and international names and start to write to them. Prisons are built to isolate people, break that wall and don’t let anyone be forgotten. We’re in this together, fighting the same unfair rotten system. No one left behind. No one is free until we’re all free. (A) Write to Ryan here: Ryan Roberts A5155EM HMP Lowdham Grange, Old Epperstone Road, Lowdham, Nottingham, NG14 7DA
