@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/workers-solidarity-movement-computer-users-foil-fascists)
+On the internet white supremacists recently initiated a ballot to set up a discussion group called rec.music.white power. They planed to use this group to identify and recruit young people into local fascist groups. These groups are created by a ballot in which anyone with an e-mail account can vote. Despite a widespread campaign which had the support of many right-wingers and threats to those who opposed them this fascist initiative was defeated by over 33,000 votes to 592.
