@@ -1,0 +1,58 @@
+---
+title: "Review, Two New Books on Spanish Anarchism"
+author: "Jeff Stein"
+date: "2016"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/jeff-stein-review-two-new-books-on-spanish-anarchism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "scanned from original Scanned from Anarcho-Syndicalist Review 68, Fall, 2016, page 22"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "jeff-stein-review-two-new-books-on-spanish-anarchism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/jeff-stein-review-two-new-books-on-spanish-anarchism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/jeff-stein-review-two-new-books-on-spanish-anarchism)
+
+Chris Ealham, Living Anarchism: José Peirats and the Spanish Anarcho-Syndicalist Movement . AK Press, 2015, 336 pp., $20, paper.
+
+Jason Garner, Goals and Means: Anarchism, Syndicalism, and Internationalism in the Origins of the Federación Anarquista Ibérica . AK Press, 2016, 384 pp., $19.
+
+AK Press has brought out two good books on the Spanish Anarchist movement. The first, Living Anarchism , I found an easier and more enjoyable read. José Peirats, as portrayed by the author, is a sympathetic figure. Born into a working class family in Valencia, Peirats joined the CNT at the age of 14 when he began working as a brickmaker after his family moved to Barcelona. Peirats, like many in the CNT, was an autodidact, a self-taught working class intellectual who also took advantage of anarchist schools and cultural activities to learn economics, history, literature, drama and science. In 1928 he helped start a newspaper, El Boletin del Ladrillero , for members of the CNT brick worker's union. This was during the period when the CNT was rebuilding after it had been driven underground for nearly a decade by the dictatorship of Primo de Rivera.
+
+Whether it was criticism from the ranks or pressure from the CNT leadership that caused it, Peirats was not prepared when the "anarcho-bolsheviks" of the Nosotros group made an about-face in 1934. The CNT and Nosotros withheld support from a general strike in Catalonia. The general strike was called in support of Catalan regional autonomy that was under attack by the newly elected right-wing government in Madrid, but the CNT was reluctant to support what they saw as a strike that would mainly benefit the political parties. It was during this strike that the so-called 'Asturian Commune" was declared and an uprising broke out in the northwest of Spain. For two weeks an alliance of the Asturian CNT, UGT and Communists fought the Guardia Civil and military, and, in a foreshadowing of things to come, a detachment of Moorish colonial troops.
+
+"When the army took control of Barcelona [to end the general strike in the east], Ascaso, one of the Nosotros insurrectionists, took the unprecedented step of speaking on military radio to order an end to the general strike in Catalonia, even though it had not been called by the CNT." (79)
+
+Peirats resigned his position on Solidaridad Obrera , the CNT newspaper. Peirats took a dissident position against a rising bureaucratic trend, not only in the CNT but also in the FAI. He also resigned from the FAI which he saw as increasingly coming under the control of Diego Abad de Santillán, the exiled Argentinian anarchist. Peirats was joined in his anti-bureaucratic position by Balius (who would later organize the "Friends of Durutti," the opposition CNT organization that was to play a role in the May 1937 revolt). Both men objected to the shifting political line the two organizations were following, and the way these positions were being sprung upon the union ranks with little or no discussion.
+
+"As Peirats later explained: '[We considered] the revolution as a phenomenon [requiring] popular participation...Channeling a revolution did not mean imposing proprietary rights over it. And it could not be made by audacious minorities.'" (83)
+
+When Peirats arrived in Toulouse, France, the headquarters of the MLE-CNT (Spanish Anarchist Movement and CNT in exile), he was struck by the incredible bureaucratization the movement had undergone in his absence. Whereas the CNT in Spain had only one paid officer, in exile there were seven paid officers in spite of the fact that the union was less than one twentieth the size.
+
+The FIJL youth organization had four paid employees, and the union's newspaper had nine paid staff. Peirats traced this explosion in bureaucracy to the fact that a number of leaders had become financially dependent on the movement, and that the bulk of the movement's money was being provided by Laureano Cerrada. Cerrada had been a fighter in the anti-Nazi resistance and had been given Franco's printing plates recovered by Italian anarchists during the collapse of the Mussolini regime. After the war Cerreda was funding the FAI and CNT by forging Spanish currency, and indirectly controlling the organizations. Peirats called Cerrada the "King Midas of the Montseny-Esgleas clique." (Federica Montseny and her husband, Germinal Esgleas, dominated the MLE-CNT and turned a blind eye to Cerrada's criminal activities in return for his financial support.)
+
+The control of the MLE-CNT bureaucracy, particularly the activities of Federica Montseny and Esgleas, helps explain why the exiled movement went through a series of splits and expulsions of longtime union members. Montseny had been a government minister during the Spanish Civil War, but adopted an ultra-orthodox position in exile. Peirats had some success fighting Montseny and her minions when he first arrived. He was elected CNT secretary over Esgleas and made a clandestine trip into Spain to link up with the remnants of the union that was working in the underground. Peirats denounced "anarcho-banditry" bank robbery and other criminal activities for the corrupting influence it had on the movement.
+
+Unfortunately for the organization, Peirats refused to serve long in the secretary position. He accepted an offer the following year to write a history of the CNT during the Spanish Revolution and War, and was offered a small stipend to support him in the meantime. When the stipend was exhausted, he agreed to serve another term as CNT secretary in return for additional funds to complete the history. During his second term he had a confrontation with Cerrada that nearly ended in a gunfight.
+
+In early 1951 Peirats was arrested and accused of receiving six million francs from an armed robbery. A gang of ex-guerilla fighters had been involved in a series of armed robberies in France. The "anarchists" involved had been expelled from the Lyons FAI for using their comrades to support their efforts but were actually just criminals who kept their stolen loot for themselves. To get even with the movement for insulting them, the gang had planted some buried weapons in the courtyard of a nearby CNT office, which the French police had discovered. The Cold War was in full force and the French "socialist" Interior Minister was anxious to please Franco, who was now France's anti-Communist ally. The police hoped to implicate the CNT so France could outlaw the exiled Spanish anarchist movement. Peirats was offered leniency if he would admit CNT involvement, but refused. Peirats served a five-month term in prison until a campaign waged by supporters (including Albert Camus) managed to get his release. During his prison stay, Peirats continued to work on his history of the CNT. He also was amused to find out that he was in the same prison as the one occupied by Peter Kropotkin seventy years before.
+
+After he was released from prison, Peirats took a hiatus from organizational work to complete his three-volume history of the CNT, for which he was called "the Herodotus of the CNT."
+
+"The aim of La CNT en la revolución española was simple: 'Given the wave of books already published on the civil war in which we are ignored or slandered,' Peirats sought to produce a book that would demonstrate that, as well as a civil war in Spain, there was a social revolution and that this unknown revolution was carried out by anarchists in the face of opposition and hostility of those inside and outside their movement." (154)
+
+In the concluding chapters, Chris Ealham describes how Peirats and the other exiles had their hopes dashed. The CNT was not able to take advantage of the possibilities after Franco's death. There was too much of a generation gap to overcome, and the authorities had no intention of allowing the CNT to take root. Ealham describes the impact of the La Scala affair, in which an agent provocateur planted a bomb at a restaurant the CNT was organizing and the police used it as a pretext for clamping down on the young organizers. Afterwards followed the Moncloa Pact under which strike action was curtailed and the new labor laws imposed on the labor movement in a throw-back union domestication strategy similar to the alliance between the UGT and Primo de Rivera.
+
+It is these closing chapters where I took exception to Ealham's remarks. He suggests the CNT should have tried to take over the CCOO (Worker Commissions). I doubt this would have made any difference. The Communist Party was already very active in these groups and it would not have been as easy as Ealham makes out. Nor do I agree that the CNT should have borrowed from the council communists or the Situationists, having seen for myself how ineffective these groups were here in the States. Anarcho-syndicalism needs to adopt new strategies for subverting labor domestication strategies of the capitalist governments, that maintain union organization instead of waiting for workers to somehow "spontaneously" create worker councils. I suspect that wildcat strikes are not as "spontaneous" as the Situationists or councilists imagine but are the product of worker affinity groups and rank-and-file union dissidents. They only appear spontaneous to outside observers.
+
+What I found frustrating is the way Garner describes factions within the anarcho-syndicalist movement as though they are persons. For example he refers to the "anarcho-bolsheviks" without clearly identifying who he means. I assume he means the Nosotros group, but it would be useful for his readers to say who he is talking about. I think the term is somewhat misleading for readers unfamiliar with the actual ideas and actions of the group, which could in no way be confused with those of Lenin and Trotsky. What critics of Durruti and Ascaso meant by the term was their tendency to instigate insurrections and strikes in the name of the CNT or FAI without consulting the ranks of the organization. One could just as well claim they were acting like Bakuninists, since Bakunin advocated that anarchists should try to instigate revolution without accepting official positions, so that they would not somehow impose their leadership on the new society.
+
+This has always been a contradictory or paradoxical part of Bakunin's thinking. How do the workers maintain self-management in the new society, if they cannot maintain it in their unions before the revolution? I hope that someday Jason Garner will come out with a second edition in which he names who was in the factions he describes and provides details of why he includes them in one faction or another. Until then I recommend using his book as a general reference, but taking his conclusions with a grain of salt unless the reader knows enough of the historical background to understand who he is writing about.
