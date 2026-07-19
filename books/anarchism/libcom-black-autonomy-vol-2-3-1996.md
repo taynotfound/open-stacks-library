@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/black-autonomy-vol-2-3-1996)
+
+May 1996 issue of Black Autonomy, including: Organizer: Organize Thyself by Lorenzo Komboa Ervin, police brutality in the US, white leftist missionaries, the truth of the black middle class, Farrakhan and slavery in the Sudan, prisoners, letters, etc.
