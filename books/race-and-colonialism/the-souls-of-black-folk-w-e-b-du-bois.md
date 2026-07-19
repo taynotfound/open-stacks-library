@@ -20,12 +20,4 @@ files:
     hosted: true
 ---
 
-# The Souls of Black Folk
-
-**Author:** W.E.B. Du Bois  
-**Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/408)  
-
-## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/souls-of-black-folk-dubois.epub)
-
-[Original source](https://www.gutenberg.org/ebooks/408)
+For your e-reader or reading app — Kindle, Kobo, Apple Books, Calibre etc. There may be more files related to this item. Project Gutenberg eBooks are always free!
