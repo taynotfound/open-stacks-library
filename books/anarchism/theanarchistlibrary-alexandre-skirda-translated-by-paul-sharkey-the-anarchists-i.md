@@ -1,0 +1,30 @@
+---
+title: "The Anarchists in Paris, May-June 1968"
+author: "Alexandre Skirda"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/alexandre-skirda-translated-by-paul-sharkey-the-anarchists-in-paris-may-june-1968"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Those who were there and those who were not"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "alexandre-skirda-translated-by-paul-sharkey-the-anarchists-in-paris-may-june-1968.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/alexandre-skirda-translated-by-paul-sharkey-the-anarchists-in-paris-may-june-1968.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/alexandre-skirda-translated-by-paul-sharkey-the-anarchists-in-paris-may-june-1968)
+
+For a start, we need to clear up some terminological confusion: in those days, there were groups mostly made up of students or young people, professing libertarian or like-minded beliefs: to wit, the Anarchist Federation which, on the very night of 10 May 1968 was holding its annual gala at the Mutalite hall, with Leo Ferre top of the bill; other anarchist groups such as Noir et Rouge which had turned into a non-group type of group on the Nanterre campus, its members having signed up with the 22 March Movement (along with Dany Cohn-Bendit and Jean-Pierre Duteuil) , and then there was the UGAC (Union of Anarchist-Communist Groups), the Anarcho-syndicalist Union (UAS), the French CNT (CNT-F) plus a sprinkling of non-aligned individuals and groups such as, say, Gaston Leval and his Cahiers de l’Humanisme libertaire circle. Most of the Parisian members of these organisations were there, almost as if they had arranged to meet up that evening; some 300 to 400 of them in all, out of the several thousand demonstrators. To these we should add a not inconsiderable number of members of surrealist, Lettrist, Situationist and ultra-left groups (the so-called “revolutionary Marxists”) who were also there at that fateful hour. Besides these and among those who were not there and who were not participants that famous night there were the very people who described themselves as “leftists”, i.e. who stood to the left of the Communist Party and used rabble-rousing tactics to seduce its supposed working class clientele, meaning every possible variant of Trotksyists and Maoists, The media mistakenly applied the term “leftist” to those involved in May. By contrast, it was these very “leftists”, nothing but hijackers, not to say “carrion-eaters”, who claimed the credit. Despite the stubborn facts of the matter, for they were completely side-tracked and baffled by the situation. To their mind, the students were just petits bourgeois, the younger generation as a whole of no importance and so they paid scant heed, having tunnel vision about “the workers”, the majority of whom could not have cared less. And again its was these “leftists” who pushed the anti-imperialist campaign against the US war in Vietnam, whereas libertarians had, for the most part, recovered from Third World-ism, chastened by trends in post-independence Algeria and they had no illusions left about African dictatorships spawned by decolonisation nor about Castro-Guevarism, a Stalinist caricature of a revolution which had done away with the libertarian participants who had helped it succeed.
+
+So there was a clear dividing line and indeed acute hostility between these two schools of thought. The former had mobilised on behalf of anti-Francoist struggles in Spain and anti-capitalist struggles in France and across the globe, including those targeting the state capitalism of the so-called “socialist” Eastern bloc. And here we should remember how the anti-totalitarian uprisings in East Berlin in 1953 and of the Hungarian workers’ councils in 1956, crushed by Moscow’s tanks, had been pronounced “fascist” and “reactionary” by the communists and their loyal following (many a future Trotskyist and Maoist among them). And this at a time when Stalin’s crimes had just been exposed a little while before at the 20th congress of the CPSU in 1956, by the very same Khrushchev who went on to mow down the rebels in Budapest. The mask was off now and many had quit the “progressive camp” which in their view had become the despicable embodiment of a totalitarian dictatorship wherein falsehood was king. For all that, there were still “leftists” around who would sing the praises of the Marxist-leninist dinosaurs and kowtow to their Vietnamese or Castro-Guevarist disciples.
+
+The student unrest over the past several weeks had finally crystallised in a determination to kick over the traces, not only on the part of committed students but by the young generally. And when Dany Cohn-Bendit that evening used a megaphone to spread the watchword (probably the only thing for which he deserves credit, the man being otherwise “hard to stick”) “Take over the Latin Quarter” since the police had “taken over the Sorbonne”, this was well received and a number of demonstrators immediately set to work; using the stems of road signs (snapped by rocking them backwards and forwards) as pick-axes, they set about digging up the cobbles from the streets located between the Place Edmond Rostand (across from the Luxembourg Gardens), the Rues Soufflot, Gay-Lussac, Saint-Jacques, Claude Bernard and the backstreets around the Pantheon up as far as the Contrescarpe and the Rue Mouffetard.
+
+Remarkably, what few leftwing or “leftist” students there were on hand tried to talk them out of lifting the cobbles and building barricades, cursing the builders as “provocateurs”. They were promptly seen off: a number of these “calming influences” were hotly advised to go back to their prayer-stalls at the Centre Richelieu (situated on the corner of the Place de la Sorbonne and the Boulevard Saint-Michel, it was at that time the main stronghold of the Catholic students and since replaced by a second hand clothes store).
