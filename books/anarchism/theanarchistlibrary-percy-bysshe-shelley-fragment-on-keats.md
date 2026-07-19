@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/percy-bysshe-shelley-fragment-on-keats)
+'Here lieth One whose name was writ on water. But, ere the breath that could erase it blew, Death, in remorse for that fell slaughter, Death, the immortalizing winter, flew Athwart the stream,—and time's printless torrent grew A scroll of crystal, blazoning the name Of Adonais!
