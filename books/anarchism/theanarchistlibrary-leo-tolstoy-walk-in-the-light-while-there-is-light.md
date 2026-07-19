@@ -1,0 +1,182 @@
+---
+title: "Walk in the Light While There is Light"
+author: "Leo Tolstoy"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/leo-tolstoy-walk-in-the-light-while-there-is-light"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Original text from RevoltLib.com, 2021."
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "leo-tolstoy-walk-in-the-light-while-there-is-light.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/leo-tolstoy-walk-in-the-light-while-there-is-light.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/leo-tolstoy-walk-in-the-light-while-there-is-light)
+
+It was in the reign of the Roman Emperor Trajan, a century after the birth of Christ. It was at the time when the disciples of Christ's disciples were still living, and the Christians faithfully observed the laws of the Master as it is related in the Acts :
+
+And the multitude of them that believed were of one heart and of one soul ; neither said any of them that aught of the things which he possessed was his own ; but they had all things common. And with great power gave the Apostles witness of the resurrection of the Lord Jesus ; and great grace was upon them all. Neither was there any among them that lacked; for as many as were possessors of lands or houses sold them and brought the prices of the things that were sold and laid them down at the Apostles' feet; and distribution was made unto every man according as he had need. (Acts iv. 32-35.)
+
+In these early times, a rich Syrian tradesman named Juvenal, a dealer in precious stones, was living in the province of Cilicia, in the city of Tarsus. He was of poor and simple origin ; but, by dint of hard work and skill in his art, he had accumulated property and won the respect of his fellow-citizens. He had traveled widely in different lands ; and though he was not a literate man, he had seen and learned much, and the city people regarded him highly for his intellect and his probity.
+
+He held to the pagan faith of Rome, which was pro- fessed by all respectable people of the Roman Empire, that faith burdened with ceremonies which the em- perors since the days of Augustus had so strenuously inculcated, and which the reigning Emperor Trajan so strictly maintained.
+
+The province of Cilicia was far from Rome, but it was administered by a Roman proconsul, and every- thing that took place in Rome found its echo in Cilicia, and the rulers were mimic emperors.
+
+Juvenal remembered all that had been told him in his childhood about the actions of Nero in Rome. As time went on, he had "seen how one emperor after another perished ; and, like a clever man, he came to the conclusion that there was nothing sacred about the Roman religion, but that it was all the work of human hands. The senselessness of all the life which went on around him, especially that in Rome, where his business often took him, bewildered him. He had his doubts, he could not comprehend everything; and he attributed this to his lack of cultivation.
+
+He was married, and four children had been born to him ; but three had died young, and only one, a son named Julius, survived. Juvenal lavished on this son Julius all his affection and all his care. He especially wished so to educate his son that he might not be tortured by such doubts regarding life as had bewil- dered him. When Julius had passed the age of fif- teen, his father entrusted his education to a philosopher who had settled in their city and devoted himself to the instruction of youth. Juvenal entrusted him to this philosopher, together with a comrade of his, Pamphil- ius, the son of a former slave whom Juvenal had freed.
+
+The two boys were of the same age, both handsome, and good friends. They studied diligently, and both of them were of good morals. Julius distinguished himself more in the study of the poets and in mathematics ; Pamphilius, in the study of philosophy.
+
+About a year before the completion of their course of study, Pamphilius, coming to school one day, ex-
+
+plained to the teacher that his widowed mother was going to the city of Daphne, and that he would be obliged to give up his studies.
+
+The teacher was sorry to lose a pupil who had re- flected credit on him ; Juvenal also was sorry, but sorriest of all was Julius. But in spite of all their entreaties that he should stay and finish his studies, Pamphilius remained obdurate, and after thanking his friends for their love toward him and their solicitude for him, he took his departure.
+
+Two years passed : Julius completed his studies ; and during all that time he did not once see his friend.
+
+One day, however, he met him in the street, invited him home, and began to ask him how and where he lived.
+
+Pamphilius told him he still lived in the same place with his mother.
+
+"We do not live alone," said he, "but many friends live with us, and we have all things in common."
+
+" In such a way that none of us considers anything his private property."
+
+" Is it possible ! " cried Julius. " Why, I have been told that Christians kill children and eat them. Can it be that you take part in doing such things ? "
+
+" Come and see," replied Pamphilius. " We do noth- ing of the sort ; we live simply, trying to do nothing wrong."
+
+" But how can you live, if you have no property of your own ? "
+
+"We support each other. If we give our brethren our labors, then they give us theirs."
+
+" But if your brethren take your labors and don't reciprocate, then what ? "
+
+"We don't have such persons," said Pamphilius; " such persons prefer to live luxuriously, and they don't join us; life among us is simple, and without luxury."
+
+" But are there not many lazy ones who would delight in being fed for nothing? "
+
+"Yes, there are some such, and we willingly receive them. Not long ago a man of that character came to us a runaway slave ; at first, it is true, he was lazy, and led a bad life, but soon he changed his life, and has now become one of the good brethren."
+
+" Well, there are some such. The old man Cyril says that we must treat such as if they were the very best of the brethren, and love them all the more."
+
+" But how can you give all men whatever they ask of you ? " asked Julius. " If my father gave all persons whatever they asked him for, very soon he wouldn't have anything left."
+
+" I don't know," replied Pamphilius. " We always have enough left for our necessities. Even if it came about that we had nothing to eat or nothing to wear, then we ask the others and they give to us. Yes, it sometimes happens so. Only once did I ever have to go to bed without my supper, and that was because I was very tired and did not feel like going to ask any of the brethren."
+
+" I don't know how you do," said Julius, " only what my father says : if he didn't have his own property, and if he gave to every one who asked him, he would die of starvation."
+
+" We don't ! Come and see. We live, and not only do not lack, but we have even more than we need."
+
+" This is the way of it : We all profess one law, but our powers of fulfilling it vary in each individual ; some have greater, some have less. One has already made great improvement in the good life, while another has only just begun in it. At the head of us all stands Christ, with His life, and we all try to imitate Him, and in this only we see our well-being. Certain of us, like the old man Cyril and his wife Pelagia, are our leaders ;
+
+others stand next to them, and still others in a third rank, but all of us are traveling along the same path. Those in advance are already near to the law of Christ, self-renunciation, and they are willing to lose their life in order to save it. These need nothing ; they have no regret for themselves, and to those that ask they give their last possession according to the law of Christ. There are others, feebler, who cannot give all they have, who have some pity on themselves, who grow weak if they don't have their usual dress and food, and cannot give everything away. Then there are others still weaker such as have only just started on the path; these still live in the old way, keeping much for them- selves and giving away only what is superfluous. Even these that linger in the rear give aid to those in the van. Moreover, all of us are entangled by our relationships with pagans. One man's father is a pagan and has a property, and gives to his son. The son gives to those that ask, but the father still continues to provide. The mother of another is a pagan, and has pity on her son, and helps him. A third has heathen children, while a mother is a Christian, and the children obey her, give to her, and beg her not to give her possessions away, while she, out of love to them, takes what they give her. and gives to others. Then, again, a fourth will have a pagan wife, and a fifth a pagan husband. Thus all are per- plexed, and those in the van would be glad to give their all, but they cannot. In this way the feeble in faith are confirmed, and thus much of the superfluous is collected together."
+
+" Well, if this is so, then it means you fail to observe the teaching of Christ, and only pretend to observe it. For if you don't give away your all, then there is no dis- tinction between us and you. In my mind, if you are going to be a Christian, then you must fulfill the whole law; give everything away and remain a beggar."
+
+"We do not wish to set an example. And I don't advise you to join us and renounce your present life for a mere display ; we act as we do, not for show, but as a part of our religion."
+
+" Why, it means that salvation from the evils of the world, from death, is to be found only in life according to the teaching of Christ. And it makes no difference to us what men say about us. We are not doing this in the eyes of men, but because in this alone do we see life and welfare."
+
+" It is impossible not to live for self," said Julius. " The gods instilled in us our instinct to love ourselves better than others and to seek happiness for ourselves. And you do the same thing. You confess that some of you have pity on yourselves ; more and more they will look out for their own pleasures, and be ever more will- ing to give up your faith and do just what we are doing."
+
+"No," replied Pamphilius; "our brethren will go in another path and will never weaken, but will become more and more confirmed in it : just as a fire will never go out when wood is added to it. In this is our faith."
+
+" Our faith is this : that we understand life as Christ has interpreted it to us."
+
+"Christ uttered some such parable as this : Certain vine-dressers cultivated a vineyard, and they were obliged to pay tribute to the owner of the vineyard. We are the vine-dressers who live in the world and have to pay tribute to God and fulfill His will. But those that held to the worldly faith fancied that the vineyard was theirs, that they had nothing to pay for it, but only to enjoy the fruits of it. The Lord of the vineyard sent a messenger to these men to receive His tribute, but they drove him away. The Lord of the vineyard sent His Son after the tribute, but they killed Him, thinking that after that no one would interfere with them. This is the belief of the world, whereby all men live who do not acknowledge that life is given
+
+only for God's service. But Christ has taught us hovs false is the worldly belief that it would be better for man if he drove out of the vineyard the Master's mes- senger and His Son and avoided paying tribute, for He showed us that we must either pay tribute or be ex- pelled from the vineyard. He taught us that all pleasures which we call pleasures eating, drinking, amusements cannot be pleasures if our life is devoted to them, that they are pleasures only when we seek another, the fulfillment of the will of God ; that only then these are pleasures, as a present reward following the ful- filment of the will of God. To wish to have pleasure without the labor of fulfilling the will of God, to sepa- rate pleasure from work, is the same as to tear off the stalks of flowers and plant them without seeds. We have this belief, and therefore we cannot seek for de- ception in place of truth. Our faith consists in this: that the welfare of life is not in its pleasures, but in the fulfillment of the will of God without a thought of its pleasures, or hoping for them. And thus we live, and the longer we live the more we see that pleasure and well-being, like a wheel behind the shafts, follow on the fulfillment of the will of God. Our Lord has said : Come unto me all ye that labor and are heavy laden, and I zvill give you rest ! Take my yoke upon you and learn of me, for I am meek and lowly in heart ; and ye shall find rest unto your souls, for my yoke is easy and my burden is light"
+
+Julius listened, and his heart was stirred within him ; but what Pamphilius said was not clear to him : at one moment it seemed to him that Pamphilius was deceiving him, but when he looked into his friend's kindly eyes and remembered his goodness, it seemed to him that Pamphilius was deceiving himself.
+
+Pamphilius invited Julius to visit him so as to examine into the life they led, and if it pleased him to remain and live with them.
+
+And Julius promised, but he did not go to Pamphilius ; and being drawn into his own life, he forgot about him.
+
+JULIUS' father was rich, and as he loved his only son and was proud of him, he never stinted him for money. Julius lived the life of rich young men ; in idleness, luxury, and dissipated amusements, which have always been, and are still, the same, wine, gambling, and fast women.
+
+But the pleasures to which Julius gave himself up kept demanding more and more money, and after a time he found he had not enough. Once he asked for more than his father generally gave him. His father gave it to him, but accompanied it with a rebuke. The son, conscious that he was to blame, and yet unwilling to acknowledge his fault, became angry, behaved rudely to his father, as those that are aware of their guilt, and are unwilling to confess it, are apt to do.
+
+The money he obtained from his father was very quickly spent, and moreover, about the same time Julius and a companion happened to get into a drunken quar- rel, and killed a man. The prefect of the city heard about it, and was desirous of subjecting Julius to pun- ishment, but his father succeeded in bringing about his pardon. At this time, Julius, by his irregular life, re- quired still more money. He borrowed it of a boon companion and agreed to repay it. Moreover his mis- tress asked him to give her a present ; she desired a pearl necklace, and he knew that if he did not accede to her request, she would throw him over and take up with a rich man, who had already for some time been trying to entice her away from Julius.
+
+Julius went to his mother and told her he had got to have some money ; that if he did not succeed in raising as much as he needed, he should kill himself. For the fact that he had got into such a scrape he blamed his father, not himself. He said :
+
+" My father has accustomed me to a luxurious life, and then he began to blame me for wanting money. If at first he had given me what I needed without scolding,
+
+then with what he gave me afterwards I should have regulated my life, and should not have needed much ; but as he has always given me too little, I have had to apply to usurers, and they have extorted from me everything I had, and so nothing is left for me to live on, as a rich young man should, and I am put to shame before my companions ; and yet my father can't seem to understand this at all. He has forgotten that he was young once himself. He got me into this position, and now, if he does not give me what I ask for, I shall kill myself."
+
+The mother, who spoiled her son, went to his father. The father called the young man, and began to upbraid both him and his mother. The son answered the father rudely. The father struck him. The son seized his father's arm. The father called to his slaves and ordered them to take the young man and lock him up.
+
+When he was left alone, Julius cursed his father and the day he was born. His own death or his father's presented itself before him as the only way of escape from the position in which he found himself.
+
+Julius' mother suffered more than he did. She did not comprehend who was really to blame in all this. She felt nothing but pity for her beloved child. She went to her husband and begged him to forgive the youth, but he refused to listen to her, and began to reproach her for having spoiled her son ; she blamed him, and the upshot of it was the husband beat his wife. But the wife made no account of the beating. She went to the son and persuaded him to go and beg his father's forgiveness and yield to his wishes. She promised him, if he would do so, she would give him the money he needed, and not let his father know.
+
+The son consented, and then the mother went to her husband and urged him to pardon the young man. The father for a long time stormed at his wife and son, but at last decided to pardon him, but only on the condition that he should abandon his dissipated life and marry a rich tradesman's daughter, whose father wished her to enter into an engagement with him.
+
+" He shall have money from me and his wife's dowry," said the young man's father, "and then let him enter upon a regular life. If he will agree to fulfill my wishes I will pardon him. But otherwise I will give him noth- ing, and at his first offense I will deliver him over into the hands of the prefect."
+
+Julius agreed to everything, and was released. He promised to marry and to abandon his wicked ways, but he had no intention of doing so ; and life at home now became a perfect hell for him : his father did not speak to him, and was quarreling about him with his mother, who wept.
+
+On the next day his mother called him to her room and secretly gave him a precious stone which she had got from her husband.
+
+" Go, sell it ; not here, but in another city, and with the money do what you need, and I will manage to con- ceal the loss for a time, and if it is discovered I will blame it on one of the slaves."
+
+Julius' heart was touched by his mother's words. He was horror-struck at what she had done; and he left home, but did not take the precious stone with him. He himself did not know where or wherefore he was going. He kept going on and on, away from the city, feeling the necessity of remaining alone, and thinking over all that had happened to him and was before him. As he kept going farther and farther away, he came entirely beyond the city limits and entered a grove sacred to the goddess Diana. Coming to a solitary spot, he began to think.
+
+The first thought that occurred to him was to ask help of the goddess. But he no longer believed in his gods, and so he knew that no help was to be expected from them. But if no help came from them, then who would help him ? As he thought over his position, it seemed to him too terrible. His soul was all confusion and gloom. But there was help for it. He had to appeal to his conscience, and he began to examine into his life and his acts. And both seemed to him wicked, and, more than all, stupid. Why was he tormenting
+
+himself so? He had few pleasures, and many trials and tribulations !
+
+The principal thing was that he felt himself all alone. Hitherto he had had a beloved mother, a father; he certainly had friends ; now he had no one. No one loved him. He was a burden to every one. He had succeeded in bringing trouble into all their lives : he had caused his mother to quarrel with his father ; he had wasted his father's substance, gathered with so much labor all his life long; he had been a dangerous and disagreeable rival to his friends. There could be no doubt about it, all would find it a relief if he were dead.
+
+As he reviewed his life, he remembered Pamphilius, and his last meeting with him, and how Pamphilius had invited him to come there, to the Christians. And it occurred to him not to return home, but to go straight to the Christians, and remain with them.
+
+" But was his position so desperate ? " he asked him- self and again he proceeded to review what had hap- pened, and again he was horror-struck because no one seemed to love him, and he loved no one. His mother, father, friends, did not love him, and must wish he were dead ; but whom did he himself love ? His friends ? He was conscious that he did not love any one. All were rivals of his, all were pitiless toward him, now that he was in disgrace. " His father ? " he asked himself, and horror seized him when at this question he looked into his heart. Not only did he not love him, but he hated him for his stinginess, for the affront he had put on him. He hated him, and, moreover, he saw plainly that for his own happiness his father's death was essential.
+
+" Yes," Julius asked to himself, " and supposing I knew that no one would see it or ever find it out, what would I do if I could with one blow, once and for all, deprive him of life and set myself free ? "
+
+He replied to this question, and was horror-struck at himself.
+
+" My mother ? Yes, I pity her, but I do not love her ; it makes no difference to me what happens to her all
+
+beast beaten and tracked to its lair, and the only distinc- tion is that I am able, if I choose, to quit this false, wicked life ; I can do what the wild beast cannot I can kill myself. I hate my father, there is no one I love .... neither my mother, nor my friends but how about Pamphilius ? "
+
+And again he remembered his one friend. He began to recall the last interview, and their conversation, and Pamphilius' words, how, according to their teaching, Christ had said : Come imto me all ye that labor and are heavy laden, and I will give you rest. Can that be true ?
+
+As he went on with his thoughts and recollections, he recalled Pamphilius' sweet, joyous, passionless face, and he felt inclined to believe in what Pamphilius said.
+
+" What am I, in reality ? " he asked himself. " Who am I ? A man seeking well-being. I have sought for it in animal pleasures, and have not found it. And all living beings, like myself, also failed to find it. All are evil, and suffer. If any man is always happy, it is be- cause he is seeking for nothing. He says that there are many such, and that all men will be such if they obey their Master's teachings. What if this is the truth ? Whether it is the truth or not, it attracts rne to it, and I am going."
+
+Thus said Julius to himself, and he left the grove re- solved never again to return home, and he bent his steps to the town where the Christians lived.
+
+JULIUS went on boldly and cheerfully, and the farther he went and the more vividly he represented to himself the life of the Christians, remembering all to himself that Pamphilius had said, the more joyous he became in spirit.
+
+The sun was already descending toward the west, and he felt the need of rest, when he fell in with a man who was resting and taking his nooning. This man was of middle age, and had an intellectual face. He was sitting and eating olives and cakes. When he saw Julius, he smiled and said :
+
+" How are you, young man ? The way is still long. Sit down and rest."
+
+" To the Christians," said Julius ; and he gave a truth- ful account of his life and his decision.
+
+The stranger listened attentively, and though he asked him about certain details, he did not express his opinion ; but when Julius had finished, the stranger stowed away in his wallet the remains of his luncheon, arranged his attire, and said :
+
+" Young man, do not carry out your intention ; you are making a mistake. I know life, and you do not. I know the Christians, and you do not know them. Listen, and I will explain your whole life and your ideas ; and when you hear me you shall adopt the decision that seems to you the wiser. You are young, rich, handsome, strong ; your passions are boiling in you. You wish to find a quiet refuge in which your passions would not dis- turb you, and you would not suffer from their conse- quences ; and it seems to you that you might find such a refuge among the Christians.
+
+" There is no such place, my dear young man, because what troubles you is not peculiar to Cilicia or to Rome, but to yourself. In the quiet of a village solitude the same passions will torment you only a hundred times more violently. The fraud of the Christians, or their mistake for I don't care to judge them consists simply in this, that they don't wish to understand the nature of man. The only person who can perfectly carry out their teachings is an old man who has outlived all his passions. A man in his prime, or a youth like you who has not yet learned life or himself, cannot submit to their law, because this law has for its basis, not the
+
+nature of man, but an idle philosophy. If you go to them, you will suffer what you suffer now, only in a far higher degree. Now, your passions entice you along false paths; but having once made a mistake in your direction, you can rectify it. Now, you still have the sat- isfaction of passion freed in other words of life.
+
+" But, in their midst, controlling your passions by main force, you will make precisely the same mistakes, if not worse ones ; and, besides that suffering, you will also have the incessant anguish of the unsatisfied human longings. Let the water out of a dam, and it will irri- gate the soil and the meadows, and quench the thirst of animals ; but if you keep it back it will tear away the earth and trickle away in mud. It is the same with the passions. The teachings of the Christians beyond those doctrines from which they get consolation, and which I will not speak of their teachings, I say, for life, consist in the following : They do not recognize violence, they do not recognize war or courts of justice, they do not recognize private property, they do not rec- ognize the sciences, the arts, or anything which makes life cheerful and pleasant.
+
+" All this would be good if all men were such as they describe their teacher to have been. But you see this is not so, and cannot be. Men are bad, and given over to their passions. It is this play of passions, and the colli- sions resulting from them, that keep men in those condi- tions of life in which they live. The barbarians know no restraint, and one savage, for the satisfaction of his own desires, would destroy the whole world, if all men sub- mitted as these Christians submit. If the gods lodged in the human heart the sentiments of anger, of ven- geance, even of evil against evil-doers, they must have done it because these sentiments are necessary for the life of men. The Christians teach that these feelings are wicked, and that men would be happy if they did not have them ; there would be no murders, no punishments, no want. That is true ; but one might as well take the position that men ought to refrain from eating for the sake of their happiness. In reality, it would put an end
