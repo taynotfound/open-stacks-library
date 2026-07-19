@@ -1,0 +1,38 @@
+---
+title: "Review: The Great Leveler, by Walter Scheidel"
+author: "Collective Action"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/collective-action-review-the-great-leveler-by-walter-scheidel"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Inequality and Violence in History"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "collective-action-review-the-great-leveler-by-walter-scheidel.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/collective-action-review-the-great-leveler-by-walter-scheidel.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/collective-action-review-the-great-leveler-by-walter-scheidel)
+
+Walter Scheidel’s 2017 book ‘The Great Leveler’ is a compelling and very well researched piece of ‘grand history’, looking at the history of inequality from hunter-gatherer societies to the present day. Its central argument is that since the development of farming and the state 10,000 odd years ago, inequality slowly rises in times of peace and stability, and only ever falls in bursts of extreme violence and destruction. The ‘four horsemen’ of reductions in inequality or ‘leveling’, are state-collapse, plague, revolution and mass-mobilisation warfare. Anyone who sees inequality as a social evil needs to seriously engage with the points made in this book.
+
+Schiedel starts by noting that early, hunter-gatherer societies were deeply egalitarian, and had cultures that discouraged the accumulation of power and wealth. As surpluses began to grow, mostly due to agriculture and newly domesticated animals, so too did the relative power of small groups of individuals. This process took thousands of years, as our egalitarian impulses were stripped away, and humans themselves became domesticated. There is much in this story that is familiar to anarchists: states began as predators, effectively groups of bandits that controlled territory; social hierarchy and permanent settlement were forced onto hunter-gatherers rather than being willingly embraced. The basic story, however, is that as states developed and entrenched, they used their power to enrich elites at the expense of everybody else. Times of stability and peace allowed this process to continue uninterrupted.
+
+The first horseman, state collapse, was when the structures of early predator states fell apart. These resulted in ‘leveling’ not because ‘the people’ rose up and took what was theirs, rather, in circumstances where everyone lost everything, the rich had more to lose, which reduced inequality just by reducing the wealth of the elite. Plague also reduced inequality, by killing enough people to cause a labour shortage, driving up the price of labour relative to the price of land (until capitalism, land was the main form of elite wealth). The black death, in particular, lowered inequality so drastically that it did permanent damage to feudal institutions. The leveling caused by both state collapse and plague was slowly reversed as states rebuilt themselves and populations rebounded, and by the 18 th century inequality was above what it had been before the black death.
+
+The other two horsemen are different to the previous ones in that they are both beasts of the last 200 years, products of the social changes wrought by capitalism. The first, transformative revolution, is the one leftists are most likely to be interested in. That it takes violence to bring down elites is perhaps obvious, however, the revolutions described in this book are not ones we should endorse. The two main examples considered are China and Russia, both scenes of immense butchery and brutality of a kind that no one except Stalinist sociopaths would want to see repeated. Other 20 th century revolutions, such as those in Vietnam and Cuba, saw far less violence, but also saw less of a reduction in inequality. Due to the short-lived nature of Anarchist control in Spain, there isn’t sufficient data to analyse inequality in 1936–37.
+
+The final horseman considered is mass mobilisation warfare, although really this refers to a single event: the global bloodbath of 1914–1945. The means by which inequality was reduced was less the massive destruction of capital that took place (although this was part of it), and more that because the war required the mobilisation of the resources of entire countries, maintaining social support for the war effort required reducing the wealth of the rich the most. Progressive taxation, in particular, massively distributed wealth downwards and provided the basis for the post-war welfare state. Scheidel argues that after 1945, the tax rates on the wealthiest started falling, and although inequality trended downwards until the 1970s (much more slowly than the 6 years of WWII), this was largely due to the leftover social consequences of the wars.
+
+The second two horsemen, products of the modern world in which we live, are of far greater interest to progressives. The fascinating thing about the inequality reductions caused by the war was that in a sense, it was not violence itself that reduced inequality, but the social solidarity created by the war. This is why America, which saw almost no violence in its territory, still had a large reduction in inequality. This would suggest, in turn, that while war is a common reason for the mobilisation of the resources of an entire nation, it needn’t be the only one that could reduce inequality. The discussion of revolution, in turn, included one of the most frustrating elements of the book, which was when ‘threats of violence’ were substituted in for actual violence as a cause of leveling in discussions of land reform in South and Central America.
+
+As every leftist knows, the threat of violence is central to maintaining property relations and the wealth of elites. People do not simply allow the rich to take all of the land, it is their control of the army and, more recently, the police (police are products of the modern world), that facilitate their accumulation. Naturally, they will not hand this wealth over willingly. This means that if we wish to achieve a better world without excessive bloodshed, it is going to have to be because we command overwhelming superiority of force, and so use the threat of violence, rather than the thing itself, to bring about anarchism. While the author claims to only be investigating the facts of history, not arguing for any political position, the questions you ask are always going to involve value judgements. In particular, Scheidel asks about the role of violence in bringing down inequality, but not the role the kind of systemic, regularised and invisibilized violence that characterises periods of ‘peace and stability’. In making this omission, Scheidel leaves us with the impression that while trying to reduce inequality may be a noble aim, it is likely to do more harm than good, because surely we would rather have an unequal society than a society characterised by mass violence. What this obscures is that unequal societies are, by definition, societies characterised by mass violence, just not the kind of concentrated and chaotic violence he documents in this book.
+
+Still, none of the great leveling events Scheidel examines are ones that leftists today should wish to repeat. This means that we need to be imaginative, careful and smart in how we think about bringing down capitalism and breaking the power of the ruling class. This cannot be done without a revolution, and revolutions necessarily involve violence. The question is how we make sure that most of the violence remains a threat, and not a reality.
