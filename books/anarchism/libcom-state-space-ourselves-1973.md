@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/state-space-ourselves-1973)
+
+A pro-situ group's exploration of systems theory and dialectical mathematics.
