@@ -1,0 +1,64 @@
+---
+title: "Relationship Anarchy is not Post-Polyamory"
+author: "R. Foxtale"
+date: "2023"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/r-foxtale-relationship-anarchy-is-not-post-polyamory"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on December 14, 2022 from https://unquietpirate.wordpress.com/2015/11/03/relationship-anarchy-is-not-post-polyamory/"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "r-foxtale-relationship-anarchy-is-not-post-polyamory.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/r-foxtale-relationship-anarchy-is-not-post-polyamory.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/r-foxtale-relationship-anarchy-is-not-post-polyamory)
+
+This morning, my friend Free linked an article on Twitter titled “The Mass Exodus of Polyamorous People Towards Relationship Anarchy.” Free is a very thoughtful non-monogamist but I was immediately skeptical. I’ve certainly seen a trend in polyamory, especially over the past eight years or so, away from hierarchical relationships and towards more intersectionality, inclusivity, and fluidity about what kinds of relationships matter. What I have not seen, however, is a noticeable community-wide shift towards an anarchic politic of intimacy — or any politic of intimacy, at all, really. Polyamorists, by and large, still seem pretty grounded in a progressive liberal ideal of “You do you, and I’ll do me, but the way I’m doing me doesn’t include dating anybody who has a One Penis Policy.” Sure, there’s always a little lunatic fringe within the poly community who see our relationships as a radical political commitment, but I haven’t seen any evidence of a “mass exodus” towards that position.
+
+But I went ahead and read the article, because maybe things are different in Sweden. The author describes — here and in other posts such as “Relationship Anarchy is not Polyamory” — some core tenets of relationship anarchy well. For example, that sex is not the only valid form of intimate connection, and that people ought to be free to configure each of their relationships on a case-by-case basis. But her main point with this piece seems to be that “many previously self-defined ‘polyamorous’ folk like me, are adopting the term ‘relationship anarchist’ instead” because the media has tainted the term “polyamory” with objectification, slut-shaming, drama, and a salacious hyperfocus on sexuality that doesn’t jive with most peoples’ actual relationship experiences.
+
+And I actually believe she’s right about that. I have seen a lot of people in polyamorous communities describing themselves as “relationship anarchists” lately because they don’t like what “polyamory” implies. I get that. We need evolving language and, hell, “relationship anarchy” sounds cool. But I think it’s step in the wrong direction for most polyamorous folks — basically, because “relationship anarchy” already means something, and I don’t think it’s what they think it means.
+
+So, of course, I wrote my friend an epic Twitter essay explaining why:
+
+Okay, so…I’ve seen this in a couple of places now, and here’s my concern with it: I grok the need for language besides “poly” to describe multi-partner relationships. “Poly” describes a very specific style of negotiated non-monogamy, has a lot of cultural baggage, and isn’t for everybody. That said, Relationship Anarchy isn’t a catch-all. It also describes a specific philosophy of intimacy.
+
+An important aspect of that philosophy — one I that think poly or “post-poly” folks tend to find discomfiting or simply ignore — is that Relationship Anarchy rejects all arguments for policing the behavior of one’s intimate partners. ALL of them. What this means in practice is not only No “Agreements” in our own relationships, but also no participation in policing the rules/agreements/contracts of other peoples’ relationships. In other words, Relationship Anarchists are not necessarily anti-cheating.
+
+In fact, in one of the earliest essays on Relationship Anarchy, the author explicitly describes “stealing kisses” from monogamous people in front of their jealous lovers’ “terrified eyes” as a form of direct action. This was very hard for me to swallow as a baby Relationship Anarchist, because as a poly person I’d centered so much of my identity and public persona around an image of myself as being a Safe Person ™, devoted to open communication and respect for all relationship agreements. And, in general, the poly community has done a shit ton of work to convince ourselves and monogamists that we aren’t a threat. That just ’cause I love differently doesn’t mean I’m going to steal your partner.
+
+But as a Relationship Anarchist, I very well might steal your partner, because I believe the idea partners can be “stolen” is not only nonsense, but oppressive nonsense. Which is not to say that I make a point of going around trying to seduce people out of their relationship contracts. Much like, as a political anarchist, I don’t go around blowing up mailboxes or destroying government property for hell of it. But that’s not because I think there’s something wrong with doing so. (I have an anarchist friend who made it his mission throughout college to go around town with giant bolt cutters, snapping the heads off of parking meters, and I think that’s awesome and hilarious.)
+
+I don’t usually encourage people to cheat, but that’s because it’s not a priority for me in terms of relationship activism, and because I do have enough experience being “cheated with” that I know the consequences in terms of drama and social disintegration are not usually worth it to me, personally. But that’s other peoples’ preferred tactic and I think that’s legit.
+
+Point is: Relationship Anarchy isn’t just “non-hierarchical polyamory.” It’s not even “customize your own relationships outside the bounds of amatonormativity.” Relationship Anarchy is a politic and, as both politic and practice, it’s actively anti-monogamy, anti-marriage, and anti-contracts/rules/policing. In a certain way, Relationship Anarchy is exactly what the Poly Movement has spent the last couple of decades trying to convince people it's NOT.
+
+And for good reason, I think. Not everybody wants their relationships to be radical political acts, and they shouldn’t have to be. That’s part of what, as a relationship anarchist, I’m fighting for: to open up space for folks to love however they love, and not have to always be fighting tooth and nail to do so.
+
+But ID’ing as a relationship anarchist is a very political act, and I don’t think we should be encouraging poly folks who are just looking for a less loaded way to say they’re poly to adopt the RA label. Because they might not really understand exactly what they’re signing up for and they might not be very happy with some actions they find other RAs undertaking in the Relationship Anarchist name.
+
+I’ve written about this before, at some length, in hard-to-navigate Tumblr conversational format. Here’s a small excerpt illustrating some common ways polyamorous community has begun talking about “relationship anarchism” as opposed to what I understand it to mean:
+
+I was actually at a poly meetup in a major city recently, and a newbie asked someone what the difference was between “Non-Hierarchical Polyamory” and “Relationship Anarchy.” A seasoned older poly dude answered that they were basically two different labels for the same thing: dating multiple people but not explicitly having “Primaries” or “Secondaries”. To which a cute young poly queer kid responded that, actually, non-hierarchical poly still tends involve differentiation between romantic/sexual and non-romantic/sexual relationships whereas relationship anarchy is more about defining each individual relationship on its own terms, and not necessarily lumping them into categories like “friends,” “lovers,” “life-partners,” etc.
+
+Older poly dude was kind of nodding along indulgently to this, when I chimed in and added that “Relationship Anarchy” is actually a framework that was originally developed by anarchists, not by polyamorists, and that its primary focus is ultimately on not making relationship agreements e.g. on not laying down explicit rules and expectations for any of the interpersonal relationships in your life. At this, older poly dude started to look really uncomfortable, younger poly queer kid looked really excited, poly queer kid’s until-now quiet boyfriend squeaked, “Oh wow, that sounds really scary!” and poly queer kid turned to comfort him with, “Yeah…yeah, that really doesn’t sound like something I’d be ready for, um, yet.”
+
+What I didn’t ultimately get into at this meeting (because I was a guest and I wasn’t really looking to start shit, just pique interest) is that relationship anarchy, in its original anarchic formulations, encourages us not only to jettison coercive mechanisms of control from our own relationships, but also to not be complicit in supporting coercive mechanisms of control in other relationships.
+
+And some expansion on the reasons why polyamorous community, rightly qua survival mechanism, often avoids or rejects some of the more radical/anarchic avenues of non-monogamy:
+
+I believe the suggestions here, the invocation not only to jettison rules from your own relationships but to encourage those who are in rule-bound relationships to “cheat” with you, will still be anathema to almost all poly people, even the most “radical” non-hierarchical types. I know they make me itchy; even though, politically, I see the wisdom in them, on a personal level it has always made me uncomfortable when someone wanted to (or did) cheat on their partner with me. It’s certainly not something I’ve gloried in — although I know many people (including some people who identify as monogamous) do. And I think this actually goes back to the earliest thing I said about conflict avoidance and being apolitical. As a young poly person, especially as an attractive teen poly woman, I was plagued by the idea that being poly made me a “slut” and a “homewrecker” who “didn’t care about peoples’ feelings” and that my female friends couldn’t trust their boyfriends around me because I “didn’t respect monogamy.” In response, I overcompensated by becoming extremely harsh on anybody who ever cheated for any reason, making it clear that being poly didn’t make me a cheater, that it made me more honest not less, and that I was “safe” for my monogamous friends to be around because I respected their relationship agreements even MORE as a result of being polyamorous. My fixation on supporting monogamous peoples’ monogamy became a defense mechanism against the backlash I got for being polyamorous.
+
+And I think this happens on a larger cultural scale, as well. The thing is — regardless of whether you’re an anarchist who’s actively rejecting monogamy for political reasons or you’re somebody who’s just having relationships and doesn’t give a shit about being monogamous so you’re not prioritizing it, whatever — the sheer existence of functional, happy, satisfying, non-monogamous intimacy is threatening to monogamous culture, which claims that happy, satisfying, functional intimacy is only available within monogamy.
+
+As a non-monogamous person of any stripe, your existence is always and already a threat. And so poly communities (who ha-aate conflict) are very much about trying to do and talk about non-monogamy in ways that are comparatively non-threatening to monogamists. […A] lot of poly relationship rhetoric is geared toward making monogamous people feel safe, and toward mitigating the kind of (sometimes literally murderous) backlash that comes from monogamous people against anyone who makes them feel insecure in their ownership of their partners.
+
+Ultimately, I don’t see anything major in the post-poly strains coming out of the polyamorous community that strikes me as significantly more anarchic — more actively directed towards the disruption (not just rejection) of institutional norms — than polyamory has ever been. Relationship anarchy has been around for a long, long time, so I don’t think it makes sense to categorize it as “post” anything. It is not just a different way of doing intimacy; it’s an integration of your relationship politics with your politics regarding the police, the government, and other oppressive systems. I do think that inclusive, fluid, open, intersectional, complex, loving community networks are lovely and I’m so excited to see more of them. They can exist, in part, because relationship anarchists of the past blew some shit up. (Conceptually and interpersonally, as it were.) But I don’t think they’re inherently political. Anarchism must be.
