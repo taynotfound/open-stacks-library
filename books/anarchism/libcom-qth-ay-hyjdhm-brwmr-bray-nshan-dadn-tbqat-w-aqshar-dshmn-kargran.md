@@ -18,3 +18,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/qth-ay-hyjdhm-brwmr-bray-nshan-dadn-tbqat-w-aqshar-dshmn-kargran)
+
+قطعه ای هیجدهم برومر برای نشان دادن طبقات و اقشار دشمن کارگران
