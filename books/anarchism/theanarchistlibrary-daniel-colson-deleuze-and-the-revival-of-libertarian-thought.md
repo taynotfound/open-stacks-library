@@ -20,3 +20,29 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/daniel-colson-deleuze-and-the-revival-of-libertarian-thought)
+
+An introduction to what needs to be clarified and explored further.
+
+It seems that we now have a somewhat better understanding of the novelty of the libertarian movement’s revival. Anarchism was dead or dying in the very places where it had once enjoyed a certain strength. With May 1968, it found a new lease on life among young people, which had symbolic value and then served as a catalyst for various movements such as the women’s liberation movement, autonomist movements, neo-rural and environmentalist movements, the questioning of family and romantic life, and even the labor movement itself—long mired in the trap of authoritarianism—which is rediscovering the concept of self-management.
+
+The hopes that arose more than 30 years ago may seem trivial, but they represent an achievement and a promise, the most important of which may lie in the realm of thought and philosophy—an observation that may seem rather optimistic.
+
+Anarchist thought in the strict sense has fallen far short of its own expectations, at least as far as the movement we have known for the past thirty years is concerned. Just as the current revival goes beyond historical anarchism, so too is this thought not reducible to anarchist thought in the strict sense—or rather, to what it has become over time.
+
+Deleuze is not an anarchist in the conventional sense of the word or in terms of political affiliation. He refers to it only very rarely, notably through his references to Artaud and in A Thousand Plateaus , where he highlights the radical difference between anarchism and socialism and, more curiously, its connections to Eastern thought.
+
+But the point is not to focus on these signs of recognition, but rather on the originality of their thinking and the unique qualities that enable us to develop these theories.
+
+Two possible mistakes: reducing this philosopher to a purely external anarchist reference in order to co-opt him; or viewing this philosophy as something new. This temptation can be found in the old anarchist journal Les oeillets rouges , one of the few attempts to recognize his interest in libertarian thought.
+
+The ideological, symbolic anarchist—often reduced to a few slogans—is frequently disconnected from the movement’s history. Deleuze’s paradox is that the radical novelty of his thought is rooted in the past; it is a reappropriation of that past. Going beyond the most common representations of anarchism, his thought reconnects with the libertarian movement in a far richer way.
+
+Deleuze’s thought allows us to reconnect with the original ideas of the anarchist movement. We must not fixate on the great figures of the past. These references are all too often mythological. The problem for the anarchist is not being too faithful to the past, but rather reducing it to a mere point of reference. There are excuses for this, given the movement’s turbulent history and the difficulty of accessing texts—for example, Bakunin’s truncated writings or Proudhon’s hard-to-find works. With a few exceptions, the anarchist movement specifically stopped reading Proudhon and Bakunin fairly early on, as early as the interwar period.
+
+This inability is, as is often the case, ambiguous. The libertarian movement lacked the state and institutional resources needed to transform anarchist texts into canonical and dogmatic ones. It could hardly turn itself into a church, but rather into chapels. It is far from certain that the founding texts lend themselves to a dogmatic treatment; this was possible with Marx, despite Rubel, but less so with a Stirner or a Bakunin and their endless digressions. Proudhon’s work also lends itself to contradictions.
+
+The neglect of anarchism’s original inspiration was itself a product of its era, an era ushered in by the massacres of World War I and continued by Stalinism and Nazism. Only a certain way of life and practice could breathe new life into certain texts.
+
+To understand the nature of Deleuze’s relationship with anarchism is to rediscover the light of time, what it renders possible. As with Spinoza, Nietzsche, or Bakunin, nature cannot be reduced either to the realm of the living or to the entirety of the physical world. For them, nature is being, the totality of what is, which they oppose to any form of idealism or transcendence. Opposed to any aspiration toward another world that would exist as another world already there, it is a monism and an absolute immanentism: everything is given and everything is possible. Possibilities play out in the way human beings can make use of them.
+
+A second aspect of Deleuze’s thought, which lies at the heart of the libertarian project and approach, defines anarchy as unity—a single, unified whole—“a strange unity that can only be described in terms of the multiple.” Anarchy, as a conception of the multiple, has over time lost its problematic meaning and has been transformed into a vague political model: the absence of government. It can regain its original strength through the affirmation of the multiple, of the multiplicity of beings, and of their capacity to compose a world without hierarchy or domination.
