@@ -1,0 +1,50 @@
+---
+title: "What the Prison-Abolition Movement Wants"
+author: "Kim Kelly"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/kim-kelly-what-the-prison-abolition-movement-wants"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Kim Kelly is an anarchist coloumnist for Teen Vogue. Retrieved on 2020-04-14 from www.teenvogue.com"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "kim-kelly-what-the-prison-abolition-movement-wants.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/kim-kelly-what-the-prison-abolition-movement-wants.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/kim-kelly-what-the-prison-abolition-movement-wants)
+
+Why do we take prison for granted? Esteemed American author, activist, and professor Angela Davis posed the question in her 2003 treatise Are Prisons Obsolete? , a work that encouraged readers to interrogate their understanding of the U.S. prison system. Davis, an abolitionist, rejected the idea of stopping at reform, arguing that focusing on making small improvements inside the walls decenters the larger goal of decarceration, the process of freeing people from institutions like prisons and detention centers.
+
+“Prison abolitionists are dismissed as utopians and idealists whose ideas are at best unrealistic and impracticable, and, at worst, mystifying and foolish,” Davis wrote. “This is a measure of how difficult it is to envision a social order that does not rely on the threat of sequestering people in dreadful places designed to separate them from their communities and families. The prison is considered so ‘natural’ that it is extremely hard to imagine life without it.”
+
+Sixteen years later, society at large is still struggling to provide an answer to her query, or to meaningfully address the plague of mass incarceration, even as conversations around criminal justice reform and abolishing the death penalty have picked up steam in the political arena. However, prison abolitionists — those fellow “utopians” and “idealists” Davis mentioned — have not only been able to imagine a world without cages, but have spent decades working to bring that vision closer to reality, in places as far-flung as Washington’s Walla Walla State Penitentiary and New York City’s notorious Rikers Island. So what does it actually mean to envision that kind of world?
+
+Prison abolition is at its core an ideological and political organizing project that seeks to not only tear down existing prisons and jails, but to create an equitable society which addresses the core problems that lead to incarceration, thereby rendering imprisonment — itself a form of punitive torture — obsolete. Its proponents view restorative justice and community investment as more humane, equitable means of addressing social ills and reducing violence. They seek to end the criminalization and persecution of marginalized communities, particularly those living in poverty. As Ava DuVernay’s 2016 documentary on prison slavery, 13 th , laid out with wrenching precision, the U.S. criminal justice system was crafted from the beginning as an instrument of racist terror (it’s no surprise that DuVernay identifies as a prison abolitionist herself), whereas the abolition movement operates from an explicitly intersectional, racial-justice-focused perspective.
+
+The movement has been around for decades, and came to prominence in California in the 1990s with the founding of the Critical Resistance project, a national anti-prison organization with an abolitionist focus that was cofounded by Davis and professor Ruth Wilson Gilmore. An influential model laid out by the Prison Research Education Action Project in a 1976 pamphlet highlighted three pillars of abolition: moratorium (a ceasing of construction on new prisons), decarceration, and excarceration (diverting people away from situations that may bring them into contact with law enforcement and the prospect of prison). Examples of excarceration can include decriminalizing drug use, decriminalizing sex work, or effectively combating houselessness.
+
+Prison abolition differs from the prison-reform movement in that its focus is on overhauling the entire system, not making improvements to existing structures — though some abolitionists incorporate elements of reform into their work as a form of harm reduction for the people who are currently in prison. Prison abolitionists call for dismantling the police (and Immigration and Customs Enforcement), and redistributing the resources used to fund them back into housing, health, and economic opportunities for underserved communities who suffer most from systemic inequality and deprivation.
+
+They also point toward the U.S. capitalist economic system as a major cause of the conditions that have led to the current crisis of mass incarceration. “Capitalism has to go,” abolitionist and educator Mariame Kaba told MSNBC’s Chris Hayes. “It has to be abolished. We live within a system that’s got all these other ‘isms,’ and we’re gonna have to uproot those. So we’re doing work every single day to set the conditions for the possibility of that alternate vision of a world without prisons, policing, and surveillance.”
+
+Critics of prison abolition often ask, “Then what will happen to the murderers and rapists?” But as proponents of this project are quick to point out, the current system already fails to address that problem and consistently fails to provide opportunities for rehabilitation to those imprisoned within it. Restorative justice and transformative justice processes can offer additional answers and are an important part of the conversation, but some abolitionists prefer to look at the bigger picture. Instead of focusing on the hypothetical question of what should be done with the perpetrators of violent crimes, they ask how communities can address the underlying issues negatively impacting people’s lives and build a world in which people don’t feel driven to make bad decisions in desperate moments.
+
+“When people tell me, ’What are we going to do with all the rapists?’ I’m like, ’What are we doing with them now?’” Kaba told Hayes. “They live everywhere. They’re in your community, they’re on TV being outed every single day.... You think that that system is doing a deterrent thing that it’s actually not doing.”
+
+Gilmore, a renowned geography professor who has been involved in the prison-abolitionist cause for over three decades, sees it as a long game. Her long-term strategy has included advocating for public policy changes, halting states’ plans to build new prisons, and calling for them to close existing facilities. In her estimation, shared in a joint piece with formerly incarcerated writer and activist James Kilgore, “Everyone who says it’s unrealistic to demand more willfully ignores the fact that to use law enforcement, as the U.S. does, to manage the fallout from cutbacks in social services and the upward rush in income and wealth is breathtakingly expensive, while it cheapens human life.”
+
+Part of that issue lies in cuts to the social safety net, specifically in the area of mental health care, and the gradual shift toward prisons functioning as mental health facilities. As Gilmore wrote, “Jail expansion has been chugging along largely because law enforcement continues to absorb social welfare work — mental and physical health, education, family unification. To imagine a world without prisons and jails is to imagine a world in which social welfare is a right, not a luxury.”
+
+New York City’s ongoing No New Jails campaign is an example of prison-abolitionist organizing at work. In 2017, when the city announced that it would finally be closing the blighted Rikers Island jail complex after decades of pressure from activists, media, and human rights groups, the move was seen as a victory. But in October 2019, the New York City Council voted to allocate $8 billion to build four new jails across four of the five boroughs. The decision was met with fierce opposition from local prison abolitionists, who had launched the No New Jails campaign in response to the initial 2018 announcement of the plan. The city line is that the new jails will be part of a shift toward a more “humane” version of its criminal justice system; abolitionists countered that there is no such thing as a “humane” prison. No New Jails was organized around the principle that “there is no need to build any more jails [in New York City], and that the billions of dollars budgeted for new jails should be redirected instead to community-based resources that will support permanent decarceration”; its members have kept up a presence at hearings and council meetings. That community resistance continues, but for now, Rikers has already begun moving people incarcerated in the institution’s Eric M. Taylor Center to different facilities, one of two jails the city plans to close by March 2020 as part of the larger plan to shut Rikers down.
+
+The island jail is only one example (though, in the interest of full disclosure, it is a personal one for me — one of my close friends is currently incarcerated there). The number of prisons, detention centers, and jails — and those confined within them — continues to climb, and abolitionists continue to have their work cut out for them. According to the Prison Policy Initiative, as of 2019 the U.S. criminal justice system “holds almost 2.3 million people in 1,719 state prisons, 109 federal prisons, 1,772 juvenile correctional facilities, 3,163 local jails, and 80 Indian Country jails, as well as in military prisons, immigration detention facilities, civil commitment centers, state psychiatric hospitals, and prisons in the U.S. territories.”
+
+There is still so much work to be done to address the evils of the U.S. criminal justice system and liberate those who have suffered its abuses, but prison abolitionists are used to demanding the impossible — and will continue fighting tooth and nail until every cage is empty.
