@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/james-joyce-chamber-music)
+       I        II        III        IV        V        VI        VII        VIII        IX        X        XI        XII        XIII        XIV        XV        XVI        XVII        XVIII        XIX        XX        XXI        XXII        XXIII        XXIV        XXV        XXVI        XXVII        XXVIII        XXIX        XXX        XXXI        XXXII        XXXIII        XXXIV        XXXV        XXXVI
