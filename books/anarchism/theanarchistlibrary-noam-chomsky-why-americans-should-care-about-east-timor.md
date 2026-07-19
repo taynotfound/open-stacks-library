@@ -1,0 +1,58 @@
+---
+title: "Why Americans Should Care about East Timor"
+author: "Noam Chomsky"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/noam-chomsky-why-americans-should-care-about-east-timor"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Published in Mother Jones. Retrieved on 19th June 2021 from chomsky.info"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "noam-chomsky-why-americans-should-care-about-east-timor.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/noam-chomsky-why-americans-should-care-about-east-timor.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/noam-chomsky-why-americans-should-care-about-east-timor)
+
+There are three good reasons why Americans should care about East Timor. First, since the Indonesian invasion of December 1975, East Timor has been the site of some of the worst atrocities of the modern era — atrocities which are mounting again right now. Second, the US government has played a decisive role in escalating these atrocities and can easily act to mitigate or terminate them. It is not necessary to bomb Jakarta or impose economic sanctions. Throughout, it would have sufficed for Washington to withdraw support and to inform its Indonesian client that the game was over. That remains true as the situation reaches a crucial turning point — the third reason.
+
+President Clinton needs no instructions on how to proceed. In May 1998, Secretary of State Madeleine Albright called upon Indonesian President Suharto to resign and provide for “a democratic transition.” A few hours later, Suharto transferred authority to his handpicked vice president. Though not simple cause and effect, the events illustrate the relations that prevail. Ending the torture in East Timor would have been no more difficult than dismissing Indonesia’s dictator in May 1998.
+
+Not long before, the Clinton administration welcomed Suharto as “our kind of guy,” following the precedent established in 1965 when the general took power, presiding over army-led massacres that wiped out the country’s only mass-based political party (the PKI, a popularly supported communist party) and devastated its popular base in “one of the worst mass murders of the 20 th century.” According to a CIA report, these massacres were comparable to those of Hitler, Stalin, and Mao; hundreds of thousands were killed, most of them landless peasants. The achievement was greeted with unrestrained euphoria in the West. The “staggering mass slaughter” was “a gleam of light in Asia,” according to two commentaries in The New York Times, both typical of the general western media reaction. Corporations flocked to what many called Suharto’s “paradise for investors,” impeded only by the rapacity of the ruling family. For more than 20 years, Suharto was hailed in the media as a “moderate” who is “at heart benign,” even as he compiled a record of murder, terror, and corruption that has few counterparts in postwar history.
+
+Suharto remained a darling of the West until he committed his first errors: losing control and hesitating to implement harsh International Monetary Fund (IMF) prescriptions. Then came the call from Washington for “a democratic transition” — but not for allowing the people of East Timor to enjoy the right of self-determination that has been validated by the UN Security Council and the World Court.
+
+In 1975, Suharto invaded East Timor, then being taken over by its own population after the collapse of the Portuguese empire. The United States and Australia knew the invasion was coming and effectively authorized it. Australian Ambassador Richard Woolcott, in memos later leaked to the press, recommended the “pragmatic” course of “Kissingerian realism,” because it might be possible to make a better deal on Timor’s oil reserves with Indonesia than with an independent East Timor. At the time, the Indonesian army relied on the United States for 90 percent of its arms, which were restricted by the terms of the agreement for use only in “self-defense.” Pursuing the same doctrine of “Kissingerian realism,” Washington simultaneously stepped up the flow of arms while declaring an arms suspension, and the public was kept in the dark.
+
+The UN Security Council ordered Indonesia to withdraw, but to no avail. Its failure was explained by then-UN Ambassador Daniel Patrick Moynihan. In his memoirs, he took pride in having rendered the UN “utterly ineffective in whatever measures it undertook” because “[t]he United States wished things to turn out as they did” and “worked to bring this about.” As for how “things turned out,” Moynihan comments that, within a few months, 60,000 Timorese had been killed, “almost the proportion of casualties experienced by the Soviet Union during the Second World War.”
+
+The massacre continued, peaking in 1978 with the help of new arms provided by the Carter administration. The toll to date is estimated at about 200,000, the worst slaughter relative to population since the Holocaust. By 1978, the United States was joined by Britain, France, and others eager to gain what they could from the slaughter. Protest in the West was minuscule. Little was even reported. US press coverage, which had been high in the context of concerns over the fall of the Portuguese empire, declined to practically nothing in 1978.
+
+In 1989, Australia signed a treaty with Indonesia to exploit the oil of “the Indonesian Province of East Timor” — a region sober realists tell us is not economically viable, and therefore cannot be granted the right of self-determination. The Timor Gap treaty was put into effect immediately after the army murdered several hundred more Timorese at a graveyard commemoration of a recent army assassination. Western oil companies joined in the robbery, eliciting no comment.
+
+After 25 terrible years, steps are finally being taken that might bring the horrors to an end. Indonesia agreed to permit a referendum in August 1999 in which the Timorese were to be permitted to choose “autonomy” within Indonesia or independence from it. It is taken for granted that if the vote is minimally free, pro-independence forces will win. The occupying Indonesian army (TNI) moved at once to prevent this outcome. The method was simple: Paramilitary forces were organized to terrorize the population while TNI adopted a stance of “plausible deniability,” which quickly collapsed in the presence of foreign observers who could see firsthand that TNI was arming and guiding the killers.
+
+The militias are credibly reported to be under the direction of Kopassus, the dreaded Indonesian special forces modeled on the US Green Berets and “legendary for their cruelty,” as the prominent Indonesia scholar Benedict Anderson observes. He adds that in East Timor, “Kopassus became the pioneer and exemplar for every kind of atrocity,” including systematic rapes, tortures, and executions, and organization of hooded gangsters. Concurring, Australia’s veteran Asia correspondent David Jenkins notes that this “crack special forces unit [had] been training regularly with US and Australian forces until their behavior became too much of an embarrassment for their foreign friends.” Congress did bar US training of the killers and torturers under IMET, but the Clinton Administration found ways to evade the laws, leading to much irritation in Congress but little broader notice. Now, congressional constraints may be more effective, but without the kind of inquiry that is rarely undertaken in the case of US-backed terror, one cannot be confident.
+
+Jenkins’s conclusion that Kopassus remains “as active as ever in East Timor” is verified by close observers. “Many of these army officers attended courses in the United States under the now-suspended International Military Education and Training (IMET) program,” he writes. Their tactics resemble the US Phoenix program in South Vietnam, which killed tens of thousands of peasants and much of the indigenous South Vietnamese leadership, as well as “the tactics employed by the Contras” in Nicaragua, following lessons taught by their CIA mentors that it should be unnecessary to review. The state terrorists “are not simply going after the most radical pro-independence people but going after the moderates, the people who have influence in their community.”
+
+‘It’s Phoenix’ … notes a well-placed source in Jakarta,” Jenkins writes. That source adds that the aim is “‘to terrorize everyone’ — the NGOs, the [Red Cross], the UN, the journalists.”
+
+The goal is being pursued with no little success. Since April, the Indonesian-run militias have been conducting a wave of atrocities and murder, killing hundreds of people — many in churches to which they fled for shelter — burning down towns, driving tens of thousands into concentration camps or the mountains, where, it is reported, thousands have been virtually enslaved to harvest coffee crops. “They call them ‘internally displaced persons,’” an Australian nun and aid worker said, “but they are hostages to the militias. They have been told that if they vote for independence, they will be killed.” The number of the displaced is estimated at 50,000 or more.
+
+Health conditions are abysmal. One of the few doctors in the territory, American volunteer Dan Murphy, reported that 50 to 100 Timorese are dying daily from curable diseases while Indonesia “has a deliberate policy not to allow medical supplies into East Timor.” In the Australian media, he has detailed atrocious crimes from his personal experience, and Australian journalists and aid workers have compiled a shocking record.
+
+The referendum has been delayed twice by the UN because of the terror, which has even targeted UN offices and UN convoys carrying sick people for treatment. Citing diplomatic, church, and militia sources, the Australian press reports “that hundreds of modern assault rifles, grenades, and mortars are being stockpiled, ready for use if the autonomy option is rejected at the ballot box,” and warns that the TNI-run militias may be planning a violent takeover of much of the territory if, despite the terror, the popular will is expressed.
+
+Murphy and others report that TNI has been emboldened by the lack of interest in the West. “A senior US diplomat summarized the issue neatly: ‘East Timor is Australia’s Haiti’” — in other words, it’s not a problem for the United States, which helped create and sustain the humanitarian disaster in East Timor and could readily end it. (Those who know the truth about the United States in Haiti will fully appreciate the cynicism.)
+
+Reporting on the terror from the scene, Nobel Laureate Bishop Carlos Ximenes Belo called for “an international military force” to protect the population from Indonesian terror and permit the referendum to proceed. Nothing doing. The “international community” — meaning Western powers — prefers that the Indonesian army provide “security.” A small number of unarmed UN monitors have been authorized — but subsequently delayed — by the Clinton administration.
+
+The picture in the past few months is particularly ugly against the background of the self-righteous posturing in the “enlightened states.” But it simply illustrates, once again, what should be obvious: Nothing substantial has changed, either in the actions of the powerful or the performance of their flatterers. The Timorese are “unworthy victims.” No power interest is served by attending to their suffering or taking even simple steps to end it. Without a significant popular reaction, the long-familiar story will continue, in East Timor and throughout the world.
