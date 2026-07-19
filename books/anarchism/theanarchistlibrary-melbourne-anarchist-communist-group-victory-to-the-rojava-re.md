@@ -1,0 +1,36 @@
+---
+title: "Victory to the Rojava Revolution!"
+author: "Melbourne Anarchist Communist Group"
+date: "2021"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/melbourne-anarchist-communist-group-victory-to-the-rojava-revolution"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Leaflet distributed today at a rally and march in Melbourne in solidarity to the Kurdish struggle. Retrieved on 12th October 2021 from anarkismo.net"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "melbourne-anarchist-communist-group-victory-to-the-rojava-revolution.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/melbourne-anarchist-communist-group-victory-to-the-rojava-revolution.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/melbourne-anarchist-communist-group-victory-to-the-rojava-revolution)
+
+The siege of Kobanê continues, with the murderous cutthroats of Da’esh (a.k.a. ISIS) not relenting in their attempts to crush all resistance to their vicious and reactionary movement. The heroic women and men of the YPG-YPJ forces are putting up an implacable defence, despite being outnumbered and outgunned by Da’esh. The United States imperialists have supplied small quantities of weapons to Kobanê (even if some of them have fallen into the hands of Da’esh!) and have staged some air strikes on Da’esh positions. Meanwhile, the increasingly authoritarian regime of Recep Erdoğan in Turkey shows which side he is on by keeping the border sealed against assistance and reinforcements for Kobanê. Now the US has announced it will send “reinforcements” from the peshmerga of the reactionary Kurdish Regional Government, quislings of Erdoğan – with the obvious purpose of crushing the Rojava Revolution. With friends like this, who needs enemies?
+
+Da’esh is not an anti-imperialist force, but is rather Frankenstein’s monster. US imperialism spent decades from the 1940s onwards fostering reactionary Islamist organisations to undermine working class, progressive and anti-imperialist movements. This culminated in its financing, arming and training the most fanatical jihadis it could find to fight against the USSR in Afghanistan from 1979 to 1989. Since then, many of the jihadis have turned against their erstwhile masters, while descending into ever more extreme reactionary politics. Da’esh has a mad dream of establishing a global Caliphate. This is, of course, impossible to achieve, but Western imperialists could help it spill a lot of blood along the way.
+
+For decades, Western imperialist powers (especially the US, Britain and France) have dominated West Asia. They have backed the most reactionary and violent regimes, have repeately invaded the region and have sponsored Israel. Any force which strikes blows against the imperialists will therefore gain support from many local people. While we cry no tears for dead jihadis, we must warn that imperialist intervention turns Da’esh into a hydra. For every jihadi that US or other imperialist forces kills, another two or more are recruited. It cannot be otherwise, because imperialism is justly hated across the region. If US imperialism maintains its military intervention, it could eventually strengthen Da’esh to the point where it overthrows the Jordanian monarchy and/or the House of Saud. If the Kurds survive this, it will be no thanks to Uncle Sam.
+
+Rojava Revolution stands out as a progressive beacon to all humanity, emerging from amongst the imperialist domination, bloodthirsty tyrants and religious reaction holding sway across West Asia. Taking advantage of the withdrawal of most of the butcher Assad’s forces from the West Kurdistan, the Kurds have established a Democratic Self Administration in the largest canton in Rojava and have been defending all the cantons with the People’s Defence Units (YPG) and Women’s Defence Units (YPJ). Both the heroism of the YPG-YPJ and the commitment of the PYD and other progressive forces to the liberation of women have, quite deservedly, gained the admiration of the world. At the heart of the Rojava Revolution is democratic confederalism, which offers a solution to the national problem, not only in Kurdistan, but everywhere. Instead of constructing capitalist nation States, which can only ever oppress those within their borders and enslave national minorities, democratic confederalism relies on autonomy for all, down to the smallest local level. And it is democratic confederalism that is the secret to reconstructing West Asia and the world along progressive and humane lines.
+
+What, then, is the road forward? Da’esh is the immediate enemy against which the Kurds are defending themselves. This Frankenstein’s monster must be slain, but it can only be done by the region’s workers and oppressed masses themselves. Imperialist intervention will only strengthen the monster. The solution is the unity of workers in struggle against jihadi reaction and against all the oppressors and their flunkies. Workers, united, can draw the oppressed masses in behind them and confront the US and other Western imperialists, Russia, the butcher Assad, the Turkish chauvinist Erdoğan and his AKP, Erdoğan’s quislings in the KDP and PUK, the Gulf monarchies, the mullahs of Iran, the Shi’ite sectarians of Iraq and, last but not least, the Zionist war machine in Israel. This is a formidable list of enemies, but each of them is hated passionately by those they oppress. The people of West Kurdistan and their supporters need to recognise that the Rojava Revolution, to its present point, has been made possible by a set of circumstances that cannot be replicated elsewhere. Assad had withdrawn his forces from Rojava in order to address greater dangers closer to home, No other government will give a revolution that space, so the only road forward is class struggle.
+
+It is class struggle that can unite workers across national and sectarian divides and draw in the oppressed masses behind them. The struggle against Da’esh is necessarily military at this point, because the right to use reasonable force in self defence is inalienable. Fundamental change of power relations, though, can only occur when workers take their workplaces away from their employers. It is the workers, and only the workers, who can change the world.
+
+There are two paths that the Rojava Revolution can take. One leads to certain defeat, while the other gives it a chance of surviving and flourishing. The PYD can become a pawn of imperialism, or it can be spark for a revolution which ends oppression altogether and establishes democratic confederalism. The PYD, of course, has the right to obtain arms from wherever necessary, even from the imperialists, but that is conditional on no concessions being made on points of principle. If the PYD sells its soul to the imperialists by allowing itself to be used against Arabs who resist imperialism, or takes a backward step in its revolutionary democratic confederalism, all the reactionary forces in West Asia will be able to turn the masses against the Kurds once more. The Rojava Revolution will then die – perhaps even at the hands of the PYD itself. If the PYD takes the course of class struggle, the Rojava Revolution has a fighting chance.
