@@ -20,6 +20,4 @@ files:
     hosted: false
 ---
 
-[Read on libcom.org](https://libcom.org/article/intercom-4-1984)
-
-4th issue of this Ultra-Left Review, published in the UK in January 1984. This issue was produced by London Workers Group.
+London Workers Group Tampa Workers' Affinity Group L'Insecurite Sociale Wildcat (UK) Communist Bulletin Group Richard Essex
