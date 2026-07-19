@@ -20,3 +20,11 @@ files:
 ---
 
 [Read on pl.anarchistlibraries.net](https://pl.anarchistlibraries.net/library/lista-kontaktow)
+
+Poniżej znajduje się lista grup/samo-identyfikujących się jednostek, które tworzą bibliotekę i zdecydowały się na zaanonsowanie swojej obecności.
+
+Teoria post-lewicowa i postanarchistyczna, nihilizm/insurekcja, poganizm, okultyzm, Tiqqun/Invisible Committee, myśl inspirowana twórczością Maxa Stirnera
+
+myśl lewicowa, myśl socjalistyczna, socjalizm wolnościowy, socjalizm bezpaństwowy, anarchizm, historia anarchizmu, literatura anarchistyczna, tłumaczenia, filozofia
+
+Grupa na facebooku: https://www.facebook.com/groups/696915897164823/
