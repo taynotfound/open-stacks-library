@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/rifki-syarani-fachry-burning-ideas)
+       BURNING IDEAS        POSTULATE        ABHINAYA CILPACASTRA        THEN HE DIE WITH        EMPTY HOUSE 2018–2020 2019–2020 2014–2020 2019–2020 2020 Rifki Syarani Fachry , a poet and visual artist born in Ciamis, West Java-INA. Her first book of poetry, Hantu adalah Kenangan (Kentja Press, 2018). Currently pursuing a Masters education at the University of Indonesia.
