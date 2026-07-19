@@ -21,3 +21,5 @@ files:
 ---
 
 [Read on libcom.org](https://libcom.org/article/anqlab-shkst-w-dm-twsh-nzry-rwsyh-trkyh-aspanya-bwlywy-fsl-swwm-gdhshth-w-ayndh-anqlab)
+
+انقلاب، شکست و عدم توسعه نظری روسیه، ترکیه، اسپانیا، بولیوی فصل سوّم: گذشته و آینده انقلاب اسپانیا
