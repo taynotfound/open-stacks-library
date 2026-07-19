@@ -1,0 +1,44 @@
+---
+title: "Why pacifists aren’t as bad as Peter Gelderloos says they are"
+author: "Sherbu Kteer"
+date: "2020"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/sherbu-kteer-why-pacifists-aren-t-as-bad-as-peter-gelderloos-says-they-are"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on 21st September 2020 from https://libcom.org/blog/why-pacifists-arent-bad-peter-gederloos-says-they-are-09012019"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "sherbu-kteer-why-pacifists-aren-t-as-bad-as-peter-gelderloos-says-they-are.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/sherbu-kteer-why-pacifists-aren-t-as-bad-as-peter-gelderloos-says-they-are.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/sherbu-kteer-why-pacifists-aren-t-as-bad-as-peter-gelderloos-says-they-are)
+
+Peter Gelderloos’ book How Nonviolence Protects the State has reached a level of cult popularity that few radical books reach. Radicals of all stripes have embraced it, and found it connected with them on some significant level. It’s got hundreds of positive reviews on Goodreads and Amazon, an interview with Gelderloos about it has around 15000 views on YouTube (relatively high for an anarchist work) and it has been posted dozens of times on Twitter, Reddit and Facebook.
+
+For all its popularity, there is a noticeable lack of pacifist or nonviolent responses to it; I can only find one published – a critical review, How nonviolence is misrepresented, by Brian Martin, published in Gandhi Marg. Though I’m not a pacifist – I believe that in certain circumstances, violent action is entirely just – I do feel some sympathy for the position, and I feel that the doctrine is more reasonable than Gelderloos insists.
+
+The most striking element of Gelderloos’ book is his complete lack of engagement with pacifist or nonviolent literature. The vast majority of his claims about pacifists are not actually argued for with evidence. There are countless examples. Under the heading ‘Nonviolence is ineffective’, Gelderloos claims that “the pacifist position requires that success must be attributable to pacifist tactics and pacifist tactics alone”. This claim, that would be contested by many pacifists, is unexplained, and is deployed in the context of an argument (well, probably more like a plain statement) that pacifists manipulate and whitewash history. Gelderloos backs this up with one citation; an anecdote about a pacifist at an anarchist conference he once attended. This is not very rigorous, but Gelderloos’ book is filled with alleged examples of why pacifists are the great evil that really just amount to “someone said something stupid on an e-mail list”. This is about on the same level as “anarchism is bad, because an anarchist on a Facebook told me that having an iPhone is bourgeois”.
+
+There’s a lot of strawmen in this book, strawmen who could have disappeared had Gelderloos actually conducted serious research and read authors he didn’t already agree with. Virtually all of his claims about pacifists are not backed up, from “the typical pacifist is quite clearly white and middle class”, to “[pacifism] ignores that violence is already here”, to the particularly lurid “nonviolence implies that it is better for someone to be raped than to pull the mechanical pencil out of her pocket and plunge it into her assailant’s jugular”. The total argumentation given for that particular claim is a bracketed note suggesting that pacifists think this is bad “because doing so would supposedly contribute to some cycle of violence and encourage future rapes”. “Supposedly”? What pacifist has ever said anything like this? Is this supposed to be a logical conclusion of pacifist premises? How? Who on earth is it that would make a claim like this? Virtually every pacifist would admit outright that violence conducted in direct self-defense is justifiable. I don’t think any of them would say that it is better that somebody gets raped.
+
+Gelderloos’ argumentation is sloppy. One of the central arguments of his book is that nonviolence is ineffective, because nonviolent campaigns in the past only succeeded because of violent actions that were undertaken at the same time – for example, Gandhi’s pacifist struggles only allowed India to achieve independence because there were militants like Bhagat Singh and Chandrasekhar Azad violently confronting British imperialism. This argument is potentially interesting and would be worth making a note of were it not undercut by his claim in the very next paragraph that pacifism protects the state because the independence movement in India failed.
+
+Another particularly interesting example of Gelderloos’ sloppiness appears when he seems to discover that not all pacifists believe the same thing. He quotes the pacifist David Dellinger’s criticism of pacifists at the time for their tendency to “line up, in moments of conflict, with the status quo”. He uses this quote to argue that pacifists are racist because they line up with the status quo in moments of conflict. Huh? Surely Dellinger’s thoughts here should cause one to rethink the claim (made “only after careful consideration”) that pacifists are racists. I mean, Gelderloos himself notes that Dellinger thought pacifists must at times “become reluctant allies or critical supporters of those who resort to violence”.
+
+Gelderloos entirely ignores the debates within nonviolent activism and pacifism. Radicals like A.J. Muste are ignored, except when he is used to show that pacifism is racist because the “teachers” of it are predominantly white (side note – I wonder if Gelderloos thinks that anarchism is racist, because the main teachers of it like Bakunin, Goldman, Kropotkin, Bonanno, Galleani, et cetera are white). It’s a pity because if Gelderloos had actually done his job and looked into these things, he would have found that criticism of pacifists by pacifists is entirely commonplace. A good historical overview can be found in chapter six of Andrew Cornell’s Unruly Equality: U.S. Anarchism in the Twentieth Century . Muste himself argued that it is “ludicrous, and perhaps hypocritical” that we should concern ourselves with “the ten percent of violence employed by the rebels against oppression” instead of “the violence on which the present system is based” (page 160 of American Power and the New Mandarins , by Noam Chomsky).
+
+Gelderloos’ grasp on historical research is poor. His account of Gandhi’s 1922 decision to cease the non-cooperation movement campaign (in response to the Chauri Chaura incident) relies on exactly one source: an email exchange he had with “Professor Gopal K.”. It is not explained what this email actually said, who “Gopal K.” is, or where he teaches – a Google search for “professor Gopal K” reveals dozens of potential matches – but Gelderloos considers it satisfactory enough to use in a published book.
+
+Another example of Gelderloos’ poor historical writing could be his claim that SNCC leader John Lewis’ speech at the 1963 March on Washington was “censored to take out threads of armed struggle”. This is outright false. It is totally true that Lewis was forced to modify his speech by march organisers like M.L.K., Bayard Rustin and A. Phillip Randolph, but there’s absolutely no evidence to suggest that it was edited to remove threats of armed struggle. The unedited draft of Lewis’ speech is publicly available for all to check themselves.
+
+Lewis’ draft includes no threats of violence. On the contrary, it includes explicitly nonviolent phrases. Lewis speaks of the demands of “the nonviolent revolution”. His rhetoric is fiery, but at no point does he threaten violence or even suggest it. He outright says that “we shall pursue or own scorched earth policy and burn Jim Crow to the ground – non-violently”. I don’t know if Gelderloos is outright lying or if he’s just a bad researcher, but either way, his claim should not be included in any decent book.
+
+It’s a pity really, because there needs to be much more discussion about the relationship between violence and anarchism. As I said, I am not a pacifist, and think violence is perfectly justifiable in quite a lot of circumstances. I’m the last person to condemn someone for, say, fighting a strikebreaker. It’s just that Gelderloos’ book helps nobody. I can only imagine so many people love this book because it flatters their pre-existing opinions. There are much better anarchist arguments against pacifism out there; I think the best can be found in the essays of Malatesta. People interested in critical engagement with pacifism and nonviolence would be best to seek those out, instead of turning to Gelderloos’ lousy polemic.
