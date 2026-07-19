@@ -1,0 +1,40 @@
+---
+title: "Whatever You Do, Get Away with It"
+author: "Jason McQuinn"
+date: "2011"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/jason-mcquinn-whatever-you-do-get-away-with-it"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "From Social Anarchism #25, 1998 Retrieved on 10 February 2011 from www.socialanarchism.org"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "jason-mcquinn-whatever-you-do-get-away-with-it.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/jason-mcquinn-whatever-you-do-get-away-with-it.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/jason-mcquinn-whatever-you-do-get-away-with-it)
+
+What should anarchists be doing? Those who want to spend time and energy advancing anarchic knowledge, values and goals might first do well to question just about everything they take for granted about anarchy & anarchism past and present. Many, if not most, of the easy answers to questions about what is to be done have proven to be less than effective or even counterproductive. Now, with the ongoing collapse of the international left, and with it the disintegration of anarcho-leftism as well, it is long past time to reexamine the practical and conceptual roots of anarchist resistance and reconstruction. The abolition of illusions can free the way for creative activity.
+
+However, this type of questioning requires the conscious cultivation of open-mindedness and an almost systematic skepticism. While these qualities aren’t entirely absent within the anarchist milieu, they aren’t as widespread as could be hoped in a radical milieu which overtly begins by challenging one of the biggest and most powerful of social myths — that of the necessity for the existence of the nation-state.
+
+Here are some of the major areas where the type of questioning I have in mind needs to be pursued. Each of these areas has already had some share of critical re-investigation by anarchists & others in recent years. But much more remains to be done before a new, self-critical consensus is forged in each of these areas which will allow them to be integrated into a new whole, a clearer, more sensible and larger vision of anarchy than has generally been imagined within the historical anarchist movement.
+
+Capitalism, Wage-Labor, Commodity Exchange: The basic analysis of the modern economic juggernaut needs to be renewed. Without an understanding of the structure of economic relationships within the worldwide system of capitalism, anarchist dreams will remain impotent. This will include new assaults on the ideologies of Work and Consumption. A world without “workers” and “consumers” must be imagined, without illusions about co-operatives, self-management or workers’ control being any sort of genuine alternative within capitalist economies. Too many anarchists have yet to reach this understanding, especially the oxymoronic “anarcho-capitalists” and “libertarian capitalists,” but also leftist anarchists whose goals are usually limited to self-contradictory versions of anarcho-social democracy or anarcho-syndicalism.
+
+Leftism, Unions, Identity Politics, Single-Issue Politics: The critique of the left as the left-wing of capital, while widespread within anarchist circles, probably remains a minority critique. The critique of unions & syndicalism may be a bit more prevalent, but still needs to be pressed. While the related critique of organizationalism per se (and compulsory roles) has barely been started. Identity politics has made inroads within the anarchist milieu which are too rarely criticized. The predominant extent to which multiculturalism serves as a capitalist marketing strategy is not appreciated by most anarchists. Identity politics and single-issue groups have made some definite contributions to the anarchist milieu (especially feminism & ecology), but their ultimate value will require shedding misguided attempts to subsume the more basic anarchist critiques of alienation and hierarchical power under their own narrower, ideological agendas.
+
+Ideology, Religion, Mass Media, Spectacle: The critique of the mass organization and mobilization of people around abstract ideals, images and projections has always been a fertile area for anarchist practice. However, this practice has usually been limited to partial critiques of particular ideologies or classes of ideologies and religions. The next step demands the development of an understanding of the complicity of all ideology and religion (including anarchism & primitive religions) in the maintenance of social alienation. The mass media is the primary modern purveyor of ideological, religious and spectacular consciousness, however educational institutions, churches, political & professional organizations, and the arts remain strong contributors. While pseudo-radical ideologies (leftism, environmentalism, reformist feminism, etc.) need many more major challenges to their efforts to recuperate social discontent that they continue to successfully channel back into support for capital and state.
+
+Technology, Industrial Production, Professionalization, Economic Development: The anarchist critiques of technology and industrialism have been historically sporadic as more and more radicals were all too easily seduced — convinced to ignore their misgivings and confer their uncritical assent — by the ideologies of technological progress and industrial development. Technology and industrial production are never, as the pervasive myth portrays, just neutral tools amenable to control from below for human goals as easily as from above. As this has become clearer there is less and less excuse for anarchists to resist fundamental questioning of the roles technology and industrial production play in the maintenance of capitalism and social hierarchy. Currently, the process of industrialization is consolidating its colonization of the human world on two fronts: the relatively intangible sphere of human health, consciousness and culture through their professionalization and commoditization, and the formerly overlooked margins of the “Third World” through international “development” strategies.
+
+Civilization, Progress, Science, Enlightenment Rationalism: If the process of civilization is conceived as consonant with the self-domestication of humanity, it is clear that the roots of social alienation and hierarchy remain much deeper than analyses trapped within the assumptions of the modern era. A convincing critique of civilization remains to be developed, though a beginning has been made in the last twenty years, and traditions of resistance have been maintained in many non-industrialized societies from which we can learn much. Although Enlightenment rationalism has made highly important contributions to human knowledge, it is also a major component of modern social alienation. The fetishization of technological & industrial progress as well as scientific reductionism find their ultimate fulfillment in ideologies of historical progress and an autonomous science which stem from Enlightenment rationalism. A major goal of radicals in the coming years will be a convincing critique of civilization and the Enlightenment rationalism in which we find ourselves immersed that preserves what is of value in these turns.
+
+Individual anarchists will continue to follow their own instincts and whims regarding what to read, how seriously to investigate different areas, and where to press their criticisms and practice. The general eclipse of genuine radicalism since the 1940s and ’50s has had two major effects. It has cut us off from recent traditions of resistance from which we still have much to learn. But it has also diminished the hold of even the most tenacious mistakes of those traditions, allowing us a relative freedom to reexamine previous eras and marginal movements for clues to what is wrong with society and where we might still have a chance to go. Let’s use that freedom wisely.
