@@ -1,0 +1,60 @@
+---
+title: "Why Anarchism?"
+author: "Trym"
+date: "2025"
+category: "anarchism"
+source: "https://theanarchistlibrary.org/library/trym-why-anarchism"
+source_name: "theanarchistlibrary.org"
+page_type: book
+mirror_state: none
+language: "en"
+description: "Retrieved on May 26, 2025 from https://kristenunderjord.wordpress.com/2019/02/11/trym-varfor-anarkism/"
+tags:
+  - "english"
+  - "anarchism"
+files:
+  - name: "trym-why-anarchism.epub"
+    type: "EPUB"
+    url: "https://theanarchistlibrary.org/library/trym-why-anarchism.epub"
+    hosted: false
+---
+
+[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/trym-why-anarchism)
+
+The Christian underground project has flirted with anarchism from the beginning. More recently, explicitly anarchist perspectives have taken up more space, since this is closer to us who write. For example, I do not stand for a kind of anarchism but for Anarchism, but why and how do I reconcile that with my Christian faith?
+
+The word anarchy evokes images of chaos and unrest. First and foremost, I think of stone-throwing men in black masks. Although it is part of how anarchism expresses itself, it is only a small part of what the anarchist ideological tradition is, which also includes art and cultural creation, social work and what anarchists described as Dorothy Day as building a new society in the shell of the old. But why use a term that is perceived so negatively, and why should the anarchist ideological tradition in particular be more compatible with Christian faith than, say, conservatism, social democracy or the liberal norm of representative democracy?
+
+The word anarchy means without a ruler. Among anarchists there are different views on what this means, but the common trend is that people should build societies based on mutual help instead of societies built on hierarchies of dominance. Here there is already an exciting parallel to Jesus’ teaching. Jesus prescribes an order for the Christian community (Matthew 20:24–28). The cross is the model for the social hierarchy a Christian should work for.
+
+“You know that the rulers lord it over their peoples, and the great ones exercise authority over them. But it is not so among you. Whoever wants to be great among you must be your servant, and whoever wants to be first among you must be your slave. For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”
+
+A good 101 explanation of what anarchism is that I often use can be found here: https://anarkism.info/…/vad-ar-anarkism-en-introduktion/ My perspective is closer to this than Christian anarchists like Jaques Ellull or Vernard Eller. Here the perspectives between different Christian anarchists differ precisely on the question of whether Christian anarchism is an anarchism-like ideology or Anarchism, but inspired by Christian faith. In this text from 2010, Anton gives an explanation of Christian anarchism. However, what they have in common is a theologically inspired distancing from the State and the capitalist economic order because these orders conflict with God’s plan for creation.
+
+Theologians like Ellull or Eller are more appropriate reading than what I could have written about a Christian anarchist theology, precisely because I am not a theologian. But a biblical inspiration is important for my anarchist politics and Christian faith.
+
+The Bible seems to have an ambivalent attitude towards wealth and power. Wealth is described as a blessing and certain powerful people are described as outstanding servants of God. However, a subversive and power-critical trend is visible throughout the biblical tradition. A very exciting text is that in 1 Samuel 8:1–21. During the time of the judges, Israel has no kings. Instead, judges are called by God when necessary, otherwise the Israelites govern themselves. When the judge Samuel is starting to get old, the people want a king. Samuel disapproves of this but God says (v6 & 9):
+
+“Let the people have their will. It is not you they reject but me: they do not want me to be their king.”
+
+“Do their will, but warn them first, let them know what rights their king will have.”
+
+“These rights,” he said, “will belong to the king who will reign over you. He will take your sons to be his chariots and horses, or to run before his chariots. He will appoint some to be commanders of thousands or fifties. Some will plow his fields and harvest his crops, and others will be his armor-bearers and charioteers. He will appoint your daughters to be his confectioners, his cooks, and his bakers. He will take your best fields, your vineyards, and your olive groves and give them to his officials. He will take a tenth of your grain and your new wine to give to his officials and officials. He will take your servants, your best oxen and donkeys, and he will take a tenth of your flocks. You yourselves will be his slaves. When this happens, you will cry out to the Lord for the king you have chosen for yourself, but he will not answer you.” But the people refused to listen to Samuel. “No,” they cried out, “we want a king, so that we may be like all the other nations, a king to judge us, go out before us, and fight our battles.”
+
+Anarchism criticizes all exercise of power that occurs at someone else’s expense. A distinction can be made between “power over” and “power together with”. This means that anarchism is incompatible with power systems that are based on dominance such as racism, patriarchy, ableism or homo- and transphobia. Anarchism, on the other hand, is compatible with organization and activity that enables equal participation for all participants and everyone affected by the initiative. Christians try to live in imitation of Jesus and believe in the power of God. Jesus conveys an image of God’s power as something fundamentally different from how power is exercised in society. Society’s exercise of power is sometimes described in the Bible as something good, sometimes as a necessary evil and sometimes as something downright demonic. In Ephesians 6:12, Paul describes the rulers of this world as something other than people of flesh and blood, as a demonic force.
+
+This criticism of society’s exercise of power also has parallels within anarchism. Many anarchists view jointly financed healthcare, social care and education positively. Even though we can be critical of the way in which it is exercised, it is positive when good social forces are financed with common resources. At the same time, there is criticism of the oppression and the atrocities that the State stands for. Such an attitude towards the State as both good and bad at the same time is close to the ambivalence of the Bible in its description of worldly power.
+
+Anarchism is also anti-capitalist. The anarchism of so-called anarcho-capitalists misses the fact that capital also implies power and the power structure that arises between those who own the means of production and those who have no choice but to sell their most valuable time to an employer. Christianity has a long tradition of criticizing wealth and hoarding wealth. Anarchists would also be no strangers to seeing a large amount of resources as a good thing, but unlike other ideological perspectives, anarchists want people to have access to resources and power over how they are managed to an equal extent. In this way, both Christians and anarchists can see wealth as a blessing.
+
+However, the Bible warns that wealth easily corrupts when only one person has power over it. Not even the wisest man in the Bible, King Solomon, can resist corruption. In the early churches, it is described how wealth was managed jointly (Acts 4:32–38) and can be an inspiring example for both Christians and anarchists. The Bible also describes different types of leadership and a division of power between different functions. Since God works in all people’s lives in different ways, it is not reasonable for us as Christians to see a single individual as God’s mouthpiece in the world and hierarchically subordinate ourselves to him. Instead, we should strive to give all church members the opportunity to influence on as equal terms as possible. Feminist theory about meeting technology can be an example of how this can be done.
+
+Many anarchists distinguish between power over the means of production, owning capital and owning personal property. So anarchists don’t want to take away the charm bracelet you inherited from your grandfather, but point out that the factory you inherited was actually paid for by the time sacrificed by the workers who worked there, and those who built the railways to transport the materials there, and those who took care of the workers as children and cooked their food. Power over the means of production should therefore belong to everyone.
+
+Christians have always struggled with the interpretation of Jesus’ sermons (Matthew 5–7 or Luke 6:17–49). Christian anarchist and author Leo Tolstoy describes in his book “The Kingdom of God is Within You” how many theologians try to find explanations that mean that the Sermon on the Mount should not be interpreted literally, and that a literal interpretation would imply a kind of anarchism. The reason for this is the Sermon on the Mount’s strong rejection of violence and the contradiction between this and the state’s use of violence. Many Christian anarchists have therefore embraced pacifism or a radical non-violent ideology. Here is another parallel between anarchism and central themes in the Christian faith. Anarchism is an ideology critical of violence that believes that the violence the state calls a necessary evil is actually an expression of the power relations that the state institution consists of. I (currently) and some other Christian anarchists think that it is not possible to escape violence in a capitalist society and that the least violent thing would be to overthrow the state, even if that would require a certain amount of violence. Of course, it is desirable to primarily use non-violent strategies.
+
+Anarchist is said to have originally been a nickname for Proudhonists (many anarchists are, however, very critical of Proudhon’s theories) or libertarian socialists within the socialist cooperation organization International. Anarchists, however, have adopted the nickname and are fighting to retain the right to the content the word is filled with, despite scaremongering from various news media. So even if there are parallels between Christian faith and anarchism, why is it necessary or desirable to use the term anarchism when many people are afraid of it?
+
+First of all, words matter. Language is political, and therefore it is important to fight for ownership of concepts that mean something to you. If we were to abandon words as soon as they became controversial, it would be difficult to really take our opinions seriously. Words like feminist, gay or Christian would also need to be abandoned as soon as they could be considered a greater burden to the cause they stand for than what they contribute. Of course, there is a limit where a name may need to be abandoned, but only the person using a word to describe their position can decide when that happens. In the case of Christian anarchism, it would be great to have contexts that can organize and fight to fill it with content and history. “If you are” reading “this, then YOU are part of the resistance”, DM if you want to join in organizing that type of context.
+
+Secondly, it is about honesty. If I participate in a context, I need to explain what I stand for. Entering a context without explaining my intentions becomes a form of entrism (this can have its place, e.g. in the workplace) but most of the time I want to be honest with those I choose to collaborate with (e.g. my union comrades). Explaining that I am an anarchist then becomes a convenient way to explain why I want to be part of a context and what my intentions are. As long as there is no concept that better describes what I want to do and what I stand for, I will continue to use the word Anarchist.
