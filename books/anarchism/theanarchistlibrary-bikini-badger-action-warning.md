@@ -20,3 +20,27 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/bikini-badger-action-warning)
+
+The Badger-Two Medicine. Anyone in the Wild Rockies probably has heard of it and some of its issues. It is 115,000 roadless acres of Forest Service controlled critical habitat and biological corridor between Glacier National Park and the Bob Marshall Wilderness complex. It is also part of the overthrust belt, an area where ancient rock overlays more recent geologic formations. This ancient rock holds some small promise of satiating our culture’s overbearing slave-master, oil and gas addiction, and is now critically threatened.
+
+Besides critical wolf, Grizzly, and ungulate habitat, the Badger is significant to other original habitants of this wild country, the Blackfeet Indian Nation. The Blackfeet hold treaty rights to the area which at one time was part of the reservation. One of these rights is access for religious practices. The Badger is a sacred place for traditional Native American religion; a place of vision quests, and a reconnection to a badly ravaged culture.
+
+To the blind eyes of the DC bigwigs calling for unbridled resource extraction, the Badger is a foreign nation inhabited by wolves, grizzly, and other remnant native cultures. Except this one is within US borders, and “easy pickin’s.” Now that the US of A’s policy towards foreign nations recalcitrant to yield oil and gas resources has been clarified recently, it should come as no shock that the Badger is slated for full field oil and gas exploration as early as July 15,1991. The Freddies are firmly committed to gutting the Badger with exploratory drilling and 20-plus miles of new road.
+
+Propped up by the new energy crisis of the Persian Gulf war they view themselves as having a clear mandate to ravage the Badger for the slim possibility of a two week supply of natural gas. This despite overwhelming public opposition to the proposal, and non-mitigatable habitat damage.
+
+I feel words failing me. I cannot seem to express my (along with many others) determination that this special, sacred area must not be violated. And that it will only come to pass over my dead or incarcerated body. Many feel the same.
+
+This is not the return of Redwood Summer, nor another day of something or another. There are no scenarios to create, no heightened awareness or sentiment to create, for the most part it already exists. This will be committed and hardcore defense. We will be there. The only question is, will you?
+
+The expected appeals and litigation may delay the need for field defense (they might even win), but they could be ready to roll up the Badger by July 15, 1991. If you’re interested, contact WREF! and we’ll send you all the info and details you can stomach.
+
+Chief Floyd Heavy Runner of the Brave Dogs Society, a warrior society of the Blackfeet Nation, blasted federal officials for destroying Blackfeet cultural traditions in proposed plans to lease oil and gas exploration in the Badger-Two Medicine area adjoining the Blackfect Reservation.
+
+Heavy Runner accused Forest Service officials of deliberately destroying sacred sites and Blackfeet cultural rituals to promote development in the mountains along the Rocky Mountain Front that join Glacier National Park and the Bob Marshall Wilderness. In a letter to Lewis & Clark National Forest Supervisor Dale Gorman, Heavy Runner said” the United States has determined that the original Blackfeet culture can be sacrificed to oil and gas interests. Our use of the Badger for religious purposes exceeds 300 years.” Citing the oral traditions of his tribe and a photograph of White Calf’s band performing a Sun Dance in the area prior to World War I, Heavy Runner said “I find it unfortunate that officials of the United States can lie to the Congress and lie to the public...the Forest Service has resisted all of our efforts to force a genuine cultural impact statement over the course of the past year...”
+
+Heavy Runner accused Gorman of making false statements. “Despite the fact that we provided irrefutable evidence to Mr. Gorman personally, that the area has historic use, Mr. Gorman has denied to the press that there is evidence of historic use.”
+
+The issue is a vital one, affecting how Forest Service policy must implement the laws regarding the National Register of Historic Places. Heavy Runner said, “According to the Forest Service, they have only towards the end of 1990 discovered the existence of the National Register “106” process providing for protection to areas such as the Badger.” Quoting internal documents to the contrary, he also produced letters indicating the Forest Service’s awareness of the implication of the law as early as September 1989. “Hence, our own report and correspondences are not published in the Final Environmental Impact Statement..”
+
+The Forest Service had recently announced delaying the final draft of the EIS pending examining its compliance to the National Register of Historic Places. The final EIS is now available, however, from: Dale Gorman, Forest Supervisor, Lewis & Clark National Forest, Box 869, Great Falls, MT 59403.
