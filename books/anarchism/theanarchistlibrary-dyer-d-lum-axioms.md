@@ -20,3 +20,9 @@ files:
 ---
 
 [Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/dyer-d-lum-axioms)
+
+Whatever is material is formed of matter and governed by natural laws.
+
+If capable of producing the governing power, she is capable of producing whatever exists,
+
+In consequence of every thing being material and subject to matter. V. IX.
