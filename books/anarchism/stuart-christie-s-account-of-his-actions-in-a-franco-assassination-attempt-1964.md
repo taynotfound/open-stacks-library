@@ -21,6 +21,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c287a95772f867bf.jpg"
 links: []
 files: []
+files:
+  - name: "stuart-christie-s-account-of-his-actions-in-a-franco-assassi.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/stuart-christie-s-account-of-his-actions-in-a-franco-assassi.pdf"
+    hosted: true
 ---
 # Stuart Christie's account of his actions in a Franco assassination attempt, 1964
 
