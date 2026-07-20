@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: venezuela-and-the-u201cbolivarian-revolution-u201d-beacon-of-hope-or-smoke-and-m.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/venezuela-and-the-u201cbolivarian-revolution-u201d-beacon-of-hope-or-smoke-and-m.epub
+    hosted: true
 ---
 
 # Venezuela and the “Bolivarian Revolution”: Beacon of hope or smoke and mirrors?
