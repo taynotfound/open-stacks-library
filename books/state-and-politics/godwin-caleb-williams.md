@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: caleb-williams.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/caleb-williams.epub
+    hosted: true
 ---
 
 # Caleb Williams
