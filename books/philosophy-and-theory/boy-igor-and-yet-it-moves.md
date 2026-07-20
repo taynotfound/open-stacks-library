@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: and-yet-it-moves.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/and-yet-it-moves.epub
+    hosted: true
 ---
 
 # And Yet It Moves
