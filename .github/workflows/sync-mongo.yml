@@ -1,0 +1,164 @@
+name: Sync to MongoDB
+
+on:
+  push:
+    branches: [main]
+    paths: ['books/**']
+
+jobs:
+  sync:
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Install deps
+        run: pip install pymongo dnspython
+
+      - name: Sync changed books
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        run: |
+          python3 << 'EOF'
+          import os
+          import re
+          import subprocess
+          from pathlib import Path
+          from pymongo import MongoClient, UpdateOne
+
+          # ── 1. Get changed files from the push ──────────────────────────────────
+          result = subprocess.run(
+              ["git", "diff-tree", "--no-commit-id", "-r", "--name-only", "HEAD"],
+              capture_output=True, text=True, check=True
+          )
+          changed_files = result.stdout.strip().splitlines()
+
+          # ── 2. Filter to books/**/*.md ───────────────────────────────────────────
+          book_files = [
+              f for f in changed_files
+              if re.match(r"^books/.+\.md$", f) and Path(f).exists()
+          ]
+
+          if not book_files:
+              print("No book .md files changed — nothing to sync.")
+              exit(0)
+
+          print(f"Found {len(book_files)} changed book file(s): {book_files}")
+
+          # ── 3. Frontmatter parser ────────────────────────────────────────────────
+          def parse_list_field(raw: str) -> list:
+              """Parse a YAML-ish list value, either inline [a, b] or blank (returns [])."""
+              raw = raw.strip()
+              if raw.startswith("[") and raw.endswith("]"):
+                  inner = raw[1:-1]
+                  return [item.strip().strip('"').strip("'") for item in inner.split(",") if item.strip()]
+              if raw:
+                  return [raw.strip().strip('"').strip("'")]
+              return []
+
+          def parse_frontmatter(filepath: str) -> dict:
+              text = Path(filepath).read_text(encoding="utf-8", errors="replace")
+
+              # Split frontmatter from body
+              fm_match = re.match(r"^---\s*\n(.*?)\n---\s*\n?(.*)", text, re.DOTALL)
+              if fm_match:
+                  fm_raw = fm_match.group(1)
+                  body   = fm_match.group(2).strip()
+              else:
+                  fm_raw = ""
+                  body   = text.strip()
+
+              # Parse individual frontmatter lines
+              fm: dict = {}
+              for line in fm_raw.splitlines():
+                  kv = re.match(r"^(\w[\w\-]*):\s*(.*)", line)
+                  if kv:
+                      fm[kv.group(1).lower()] = kv.group(2).strip()
+
+              # ── scalar fields ──────────────────────────────────────────────────
+              def scalar(key, default=None):
+                  val = fm.get(key, "").strip().strip('"').strip("'")
+                  return val if val else default
+
+              title      = scalar("title")
+              author     = scalar("author")
+              category   = scalar("category")
+              added      = scalar("added")
+              source     = scalar("source")
+              source_name = scalar("sourcename") or scalar("source_name")
+              language   = scalar("language", "en")
+              desc       = scalar("desc") or scalar("description")
+              cover      = scalar("cover")
+
+              # ── list fields ────────────────────────────────────────────────────
+              tags   = parse_list_field(fm.get("tags",   ""))
+              files  = parse_list_field(fm.get("files",  ""))
+              images = parse_list_field(fm.get("images", ""))
+              links  = parse_list_field(fm.get("links",  ""))
+
+              # ── slug: from frontmatter or filename stem ─────────────────────
+              slug = scalar("slug") or Path(filepath).stem
+
+              # ── hasBody ────────────────────────────────────────────────────
+              has_body = len(body) > 40
+
+              doc = {
+                  "slug":       slug,
+                  "title":      title,
+                  "author":     author,
+                  "category":   category,
+                  "tags":       tags,
+                  "files":      files,
+                  "images":     images,
+                  "links":      links,
+                  "added":      added,
+                  "source":     source,
+                  "sourceName": source_name,
+                  "language":   language,
+                  "desc":       desc,
+                  "cover":      cover,
+                  "hasBody":    has_body,
+                  "_filepath":  filepath,
+              }
+
+              # Drop None values to keep documents tidy
+              doc = {k: v for k, v in doc.items() if v is not None and v != ""}
+
+              return doc
+
+          # ── 4. Connect to MongoDB and upsert ────────────────────────────────────
+          mongo_uri = os.environ["MONGODB_URI"]
+          client    = MongoClient(mongo_uri, serverSelectionTimeoutMS=10000)
+          db        = client["open-stacks"]
+          collection = db["books"]
+
+          ops = []
+          for filepath in book_files:
+              try:
+                  doc = parse_frontmatter(filepath)
+                  slug = doc["slug"]
+                  ops.append(
+                      UpdateOne(
+                          {"slug": slug},
+                          {"$set": doc},
+                          upsert=True
+                      )
+                  )
+              except Exception as e:
+                  print(f"  ⚠️  Skipping {filepath}: {e}")
+
+          # ── 5. Execute bulk write and report ────────────────────────────────────
+          if ops:
+              result = collection.bulk_write(ops, ordered=False)
+              upserted = result.upserted_count
+              modified = result.modified_count
+              print(f"✅ Sync complete — {upserted} inserted, {modified} updated "
+                    f"({upserted + modified} total out of {len(ops)} files processed).")
+          else:
+              print("No valid documents to upsert.")
+
+          client.close()
+          EOF
