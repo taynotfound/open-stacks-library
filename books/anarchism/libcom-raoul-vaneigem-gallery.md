@@ -17,6 +17,4 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/raoul-vaneigem-gallery)
-
-A small selection of photographs of a 26 years old Raoul Vaneigem, taken in late 1960.
+A small selection of photographs of a 26 years old Raoul Vaneigem, taken in late 1960. Raoul Vaneigem Comments
