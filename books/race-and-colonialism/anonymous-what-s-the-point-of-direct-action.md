@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: what-u2019s-the-point-of-direct-action.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/what-u2019s-the-point-of-direct-action.epub
+    hosted: true
 ---
 
 # What’s the point of direct action?
