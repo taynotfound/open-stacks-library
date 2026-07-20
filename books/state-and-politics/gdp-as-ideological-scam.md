@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: gdp-as-ideological-scam.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/gdp-as-ideological-scam.epub
+    hosted: true
 ---
 
 # GDP as Ideological Scam
