@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f2a853150926115d.jpg"
 links: []
 files: []
+files:
+  - name: "marx-at-the-millennium-cyril-smith.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/marx-at-the-millennium-cyril-smith.pdf"
+    hosted: true
 ---
 # Marx at the Millennium - Cyril Smith
 
