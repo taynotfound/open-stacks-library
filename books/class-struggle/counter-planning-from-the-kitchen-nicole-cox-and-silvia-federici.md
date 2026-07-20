@@ -23,6 +23,11 @@ links:
   - url: "https://caringlabor.wordpress.com/2010/10/20/nicole-cox-and-silvia-federici-counter-planning-from-the-kitchen/ "
     text: "Caring Labour - an Archive"
 files: []
+files:
+  - name: "counter-planning-from-the-kitchen-nicole-cox-and-silvia-fede.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/counter-planning-from-the-kitchen-nicole-cox-and-silvia-fede.pdf"
+    hosted: true
 ---
 # Counter-Planning from the Kitchen - Nicole Cox and Silvia Federici
 
