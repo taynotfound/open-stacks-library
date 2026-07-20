@@ -21,6 +21,11 @@ links:
   - url: "https://membres.multimania.fr/anarchives/site/syndic/aftertherevolution.htm "
     text: "http://membres.multimania.fr/anarchives/site/syndic/aftertherevolution.htm"
 files: []
+files:
+  - name: "after-the-revolution-economic-reconstruction-in-spain-diego-.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/after-the-revolution-economic-reconstruction-in-spain-diego-.pdf"
+    hosted: true
 ---
 # After the Revolution: Economic Reconstruction in Spain - Diego Abad de Santillán
 
