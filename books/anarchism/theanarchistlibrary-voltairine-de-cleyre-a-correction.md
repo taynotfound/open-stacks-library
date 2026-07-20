@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/voltairine-de-cleyre-a-correction)
+Owing to a perhaps natural misunderstanding, it was stated in the American report to the Amsterdam Congress that I am a worker in the cause of Anarchist Communism. The report should have said Anarchism, simply, as I am not now, and never have been at any time, a Communist. I was for several years an individualist, but becoming convinced that a number of the fundamental propositions of individualistic economy would result in the destruction of equal liberty, I relinquished those beliefs. In doing so, however, I did not accept the proposed economy of Communism, which in some respects would entail the same result, destruction of equal freedom; always, of course, in my opinion, which I very willingly admit should not be weighed by others as of equal value with the opinions of those who make economy a thorough study, but which must, nevertheless, remain supreme with me. I am an Anarchist, simply, without economic label attached.
