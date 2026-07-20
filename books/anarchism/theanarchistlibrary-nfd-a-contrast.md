@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/nfd-a-contrast)
+DEAR EDITOR,--I beg to call your attention to pages 2 and 5 of the Pall Mall Gazette of October 22nd. On page 2, Mr. Samuel Laing gives an account of an Irishman and his family, seven in all, managing to exist on food that cost "2 1/2d. per day." Page 5 contains a statement taken down from the lips of a Mr. Cross, that he had just been to the Zoo to see the newly imported gorilla, and found that the keepers were tempting the brute's delicate appetite with a 15s. pine-apple "and the finest English hothouse grapes were to follow." But for the moralizing influence of Mr. Morris's play, which I witnessed last Saturday evening, I would suggest the feeding of the lions and tigers through the winter with selections from the Zoological Society and the London Corporation.--Yours disgustedly, N. F. D.
