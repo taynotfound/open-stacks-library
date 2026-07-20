@@ -23,6 +23,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: mutual-aid.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/mutual-aid.epub
+    hosted: true
 ---
 
 # Mutual Aid
