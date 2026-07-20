@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchism-the-state-and-the-praxis-of-contemporary-antisystemic-social-movements.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-the-state-and-the-praxis-of-contemporary-antisystemic-social-movements.epub
+    hosted: true
 ---
 
 # Anarchism, the State and the Praxis of Contemporary Antisystemic Social Movements
