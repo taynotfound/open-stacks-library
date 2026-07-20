@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-six.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-six.epub
+    hosted: true
 ---
 
 # The Six
