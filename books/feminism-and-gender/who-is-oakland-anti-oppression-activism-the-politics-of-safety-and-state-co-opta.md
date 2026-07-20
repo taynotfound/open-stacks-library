@@ -24,6 +24,11 @@ links:
   - url: "https://escalatingidentity.wordpress.com/2012/04/30/who-is-oakland-anti-oppression-politics-decolonization-and-the-state/ "
     text: "Escalating Identity"
 files: []
+files:
+  - name: "who-is-oakland-anti-oppression-activism-the-politics-of-safe.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/who-is-oakland-anti-oppression-activism-the-politics-of-safe.pdf"
+    hosted: true
 ---
 # Who is Oakland: anti-oppression activism, the politics of safety, and state co-optation
 
