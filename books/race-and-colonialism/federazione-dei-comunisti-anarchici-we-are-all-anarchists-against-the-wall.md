@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: we-are-all-anarchists-against-the-wall.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/we-are-all-anarchists-against-the-wall.epub
+    hosted: true
 ---
 
 # We Are All Anarchists Against The Wall
