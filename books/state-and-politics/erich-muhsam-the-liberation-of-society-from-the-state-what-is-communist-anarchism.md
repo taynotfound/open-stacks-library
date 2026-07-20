@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-liberation-of-society-from-the-state-what-is-communist-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-liberation-of-society-from-the-state-what-is-communist-anarchism.epub
+    hosted: true
 ---
 
 # The Liberation of Society from the State: What is Communist Anarchism?
