@@ -21,6 +21,11 @@ links:
   - url: "https://www.library.arizona.edu/exhibits/bisbee/docs/020.html "
     text: "The Bisbee Deportation of 1917: A University of Arizona Web Exhibit"
 files: []
+files:
+  - name: "the-advancing-proletariat-abner-e-woodruff.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-advancing-proletariat-abner-e-woodruff.pdf"
+    hosted: true
 ---
 # The advancing proletariat - Abner E. Woodruff
 
