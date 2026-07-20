@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-   Introdução    ANARQUIA E COMUNISMO CIENTIFICO – Nikolai Bukharin    CAPÍTULO I    CAPÍTULO II    CAPÍTULO III    ANARQUIA E COMUNISMO “CIENTIFICO” – Luigi Fabbri    CAPÍTULO I – A Fraseologia Burguesa do Comunismo “Cientifico”    CAPÍTULO II – O Estado e a centralização da produção    CAPÍTULO III – A Ditadura “Provisória” e o Estado    CAPÍTULO IV – Anarquia e Comunismo    CAPÍTULO V – A Revolução Russa e os Anarquistas Qual era o propósito de que Nicolai Bukharin – “o mais forte teórico do partido”, como definido por Lênin – propusesse escrever o breve mas denso texto sobre “anarquia e comunismo científico”? Na Rússia dos anos 1920, a situação social era como Bukharin escreveu: ruína econômica e decadência da produção e psicologia proletária saudável; tudo isso “tende a degradar o proletariado às condições de plebes irregulares e cria um terreno mais ou menos favorável a tendência anarquista” . Bukharin, ao dizer isso, quer colocar um limite ideológico a essas “tendências” e faz isso traçando “a linha que separa o comunismo científico marxista das doutrinas anarquistas” . Portanto, este foi um trabalho de divulgação e propaganda dirigido às massas (o panfleto de Bukharin teve uma enorme difusão não apenas na Rússia, mas também em vários países europeus). É isso que caracteriza essas páginas e as torna particularmente interessantes. Além disso, são uma síntese pequena, mas eficaz, do pensamento marxista sobre as questões fundamentais do papel do Estado proletário, a “ditadura do proletariado” e a organização da produção. A interpretação, e não a “representação” que Bukharin oferece das “doutrinas anarquistas”, responde aos propósitos que o teórico marxista propõe: a anarquia não é apenas delineada, mas também explicitamente definida como “ o produto da dissolução da sociedade capitalista” , antes, os resíduos produzidos pelo regime bárbaro do capital. Daí a resposta de Luigi Fabbri. Sua escrita é firme e clara, baseada na realidade e não admite, no mínimo, propaganda retórica e política. Mostra um perfil das “doutrinas anarquistas” completamente diferentes daquele delineado pelo marxista russo. Os dois textos, aqui publicados em conjunto e pela primeira vez em espanhol, mais de meio século depois da sua primeira edição, constituem um animado debate ideológico, um estimulante “discurso a duas vozes”, cuja utilidade é inegável para compreender as divergências básicas, ainda insuperáveis, entre os socialistas autoritários e os comunistas libertários. Os textos que fecham o livro pertencem a Rudolf Rocker I , conhecido em todo o mundo como um dos estudiosos mais profundos e expositivo fecundo e inigualável do ideário anarquista, que em uma breve jornada histórica nos define com mão de mestre as ideias libertárias, o que e o porquê de suas profundas discrepâncias com o comunismo autoritário. As ideias expressas nestas poucas páginas nos dizem claramente sobre esses problemas, tornando-se assim um complemento ideal para as ideias de Luigi Fabbri, e uma obrigação para aqueles que gostam de aprofundar a busca da verdade e da mudança social. * A decadência econômica, o declínio da produção, inegavelmente acompanha o declínio da boa psicologia proletária; e tudo isso – tendendo a degradar o proletário às condições de plebeus irregulares e transformando elementos de trabalho ativos singulares já em indivíduos desclassificados – cria um terreno mais ou menos favorável às tendências anarquistas. A tudo isto, devemos acrescentar que os sociais-democratas nublou e confundiu o problema da anarquia, adulterando Marx. Consequentemente, acreditamos que é necessário traçar a linha que separa o comunismo científico marxista das doutrinas anarquistas. Vamos começar com o “objetivo final” nosso e dos anarquistas. De acordo com a maneira atual de expor esse problema, o comunismo e o socialismo pressupõem a conservação do Estado, enquanto a “anarquia” elimina o Estado. “Defensores” do Estado e “adversários” do Estado: geralmente é o “contraste” en…
+Introdução
+
+ANARQUIA E COMUNISMO CIENTIFICO – Nikolai Bukharin
+
+CAPÍTULO I
+
+CAPÍTULO II
+
+CAPÍTULO III
+
+ANARQUIA E COMUNISMO “CIENTIFICO” – Luigi Fabbri
+
+CAPÍTULO I – A Fraseologia Burguesa do Comunismo “Cientifico”
+
+CAPÍTULO II – O Estado e a centralização da produção
+
+CAPÍTULO III – A Ditadura “Provisória” e o Estado
+
+CAPÍTULO IV – Anarquia e Comunismo
+
+CAPÍTULO V – A Revolução Russa e os Anarquistas
+
+Qual era o propósito de que Nicolai Bukharin – “o mais forte teórico do partido”, como definido por Lênin – propusesse escrever o breve mas denso texto sobre “anarquia e comunismo científico”?
+
+Na Rússia dos anos 1920, a situação social era como Bukharin escreveu: ruína econômica e decadência da produção e psicologia proletária saudável; tudo isso “tende a degradar o proletariado às condições de plebes irregulares e cria um terreno mais ou menos favorável a tendência anarquista”.
+
+Bukharin, ao dizer isso, quer colocar um limite ideológico a essas “tendências” e faz isso traçando “a linha que separa o comunismo científico marxista das doutrinas anarquistas”. Portanto, este foi um trabalho de divulgação e propaganda dirigido às massas (o panfleto de Bukharin teve uma enorme difusão não apenas na Rússia, mas também em vários países europeus). É isso que caracteriza essas páginas e as torna particularmente interessantes. Além disso, são uma síntese pequena, mas eficaz, do pensamento marxista sobre as questões fundamentais do papel do Estado proletário, a “ditadura do proletariado” e a organização da produção. A interpretação, e não a “representação” que Bukharin oferece das “doutrinas anarquistas”, responde aos propósitos que o teórico marxista propõe: a anarquia não é apenas delineada, mas também explicitamente definida como “o produto da dissolução da sociedade capitalista”, antes, os resíduos produzidos pelo regime bárbaro do capital.
+
+Daí a resposta de Luigi Fabbri. Sua escrita é firme e clara, baseada na realidade e não admite, no mínimo, propaganda retórica e política. Mostra um perfil das “doutrinas anarquistas” completamente diferentes daquele delineado pelo marxista russo.
+
+Os dois textos, aqui publicados em conjunto e pela primeira vez em espanhol, mais de meio século depois da sua primeira edição, constituem um animado debate ideológico, um estimulante “discurso a duas vozes”, cuja utilidade é inegável para compreender as divergências básicas, ainda insuperáveis, entre os socialistas autoritários e os comunistas libertários.
+
+Os textos que fecham o livro pertencem a Rudolf RockerI, conhecido em todo o mundo como um dos estudiosos mais profundos e expositivo fecundo e inigualável do ideário anarquista, que em uma breve jornada histórica nos define com mão de mestre as ideias libertárias, o que e o porquê de suas profundas discrepâncias com o comunismo autoritário. As ideias expressas nestas poucas páginas nos dizem claramente sobre esses problemas, tornando-se assim um complemento ideal para as ideias de Luigi Fabbri, e uma obrigação para aqueles que gostam de aprofundar a busca da verdade e da mudança social.
+
+*
+
+A decadência econômica, o declínio da produção, inegavelmente acompanha o declínio da boa psicologia proletária; e tudo isso – tendendo a degradar o proletário às condições de plebeus irregulares e transformando elementos de trabalho ativos singulares já em indivíduos desclassificados – cria um terreno mais ou menos favorável às tendências anarquistas. A tudo isto, devemos acrescentar que os sociais-democratas nublou e confundiu o problema da anarquia, adulterando Marx. Consequentemente, acreditamos que é necessário traçar a linha que separa o comunismo científico marxista das doutrinas anarquistas.
+
+Vamos começar com o “objetivo final” nosso e dos anarquistas. De acordo com a maneira atual de expor esse problema, o comunismo e o socialismo pressupõem a conservação do Estado, enquanto a “anarquia” elimina o Estado. “Defensores” do Estado e “adversários” do Estado: geralmente é o “contraste” entre marxistas e anar…
