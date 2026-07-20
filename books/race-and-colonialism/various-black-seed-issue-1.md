@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: black-seed-issue-1.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/black-seed-issue-1.epub
+    hosted: true
 ---
 
 # Black Seed Issue 1
