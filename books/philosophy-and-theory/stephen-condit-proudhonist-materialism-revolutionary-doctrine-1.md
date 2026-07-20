@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: proudhonist-materialism-revolutionary-doctrine.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/proudhonist-materialism-revolutionary-doctrine.epub
+    hosted: true
 ---
 
 # Proudhonist Materialism & Revolutionary Doctrine
