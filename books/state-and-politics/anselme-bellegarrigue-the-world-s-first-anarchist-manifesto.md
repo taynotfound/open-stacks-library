@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchy-a-journal-of-order.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchy-a-journal-of-order.epub
+    hosted: true
 ---
 
 # Anarchy, a Journal of Order
