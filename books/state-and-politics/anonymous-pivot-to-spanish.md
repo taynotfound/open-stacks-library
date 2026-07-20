@@ -22,6 +22,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: pivot-to-spanish.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/pivot-to-spanish.epub
+    hosted: true
 ---
 
 # Pivot to Spanish
