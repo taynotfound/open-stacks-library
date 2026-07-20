@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: emergence-and-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/emergence-and-anarchism.epub
+    hosted: true
 ---
 
 # Emergence and Anarchism
