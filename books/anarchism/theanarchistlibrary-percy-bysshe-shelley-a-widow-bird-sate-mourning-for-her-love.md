@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/percy-bysshe-shelley-a-widow-bird-sate-mourning-for-her-love)
+A widow bird sate mourning for her Love Upon a wintry bough; The frozen wind crept on above, The freezing stream below. There was no leaf upon the forest bare, No flower upon the ground, And little motion in the air Except the mill-wheel's sound.
