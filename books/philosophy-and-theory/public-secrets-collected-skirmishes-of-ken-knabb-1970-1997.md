@@ -47,6 +47,11 @@ links:
   - url: "https://www.bopsecrets.org/SI/blindmen81.htm "
     text: "appendix in the Situationist International Anthology"
 files: []
+files:
+  - name: "public-secrets-collected-skirmishes-of-ken-knabb-1970-1997.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/public-secrets-collected-skirmishes-of-ken-knabb-1970-1997.pdf"
+    hosted: true
 ---
 # Public Secrets: Collected Skirmishes of Ken Knabb, 1970-1997
 
