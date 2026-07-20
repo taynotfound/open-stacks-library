@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: objections-to-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/objections-to-anarchism.epub
+    hosted: true
 ---
 
 # Objections to Anarchism
