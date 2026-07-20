@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchist-antimilitarism-and-myths-about-the-war-in-ukraine.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchist-antimilitarism-and-myths-about-the-war-in-ukraine.epub
+    hosted: true
 ---
 
 # Anarchist Antimilitarism and Myths About the War in Ukraine
