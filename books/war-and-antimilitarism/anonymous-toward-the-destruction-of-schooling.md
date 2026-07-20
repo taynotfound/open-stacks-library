@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: toward-the-destruction-of-schooling.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/toward-the-destruction-of-schooling.epub
+    hosted: true
 ---
 
 # Toward the Destruction of Schooling
