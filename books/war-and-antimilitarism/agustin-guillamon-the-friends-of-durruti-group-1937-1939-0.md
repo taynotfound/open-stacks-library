@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-friends-of-durruti-group-1937-u20131939.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-friends-of-durruti-group-1937-u20131939.epub
+    hosted: true
 ---
 
 # The Friends of Durruti Group: 1937–1939
