@@ -17,7 +17,14 @@ files:
   - name: "A short history of the police strikes of 1918-1919.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/A short history of the police strikes of 1918-1919.pdf"
-    hosted: false
+    hosted: false  - name: "short-history-police-strikes-1918-1919-ken-weller.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/short-history-police-strikes-1918-1919-ken-weller.pdf"
+    hosted: true
+  - name: "short-history-police-strikes-1918-1919-ken-weller.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/short-history-police-strikes-1918-1919-ken-weller.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/short-history-police-strikes-1918-1919-ken-weller)
