@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: an-irish-anarchist-in-africa.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/an-irish-anarchist-in-africa.epub
+    hosted: true
 ---
 
 # An Irish anarchist in Africa
