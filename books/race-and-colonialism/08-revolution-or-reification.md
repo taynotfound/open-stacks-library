@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: revolution-or-reification.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/revolution-or-reification.epub
+    hosted: true
 ---
 
 # Revolution or Reification?
