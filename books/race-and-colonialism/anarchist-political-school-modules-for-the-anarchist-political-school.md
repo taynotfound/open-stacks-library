@@ -24,6 +24,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: modules-for-the-anarchist-political-school.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/modules-for-the-anarchist-political-school.epub
+    hosted: true
 ---
 
 # Modules for the Anarchist Political School
