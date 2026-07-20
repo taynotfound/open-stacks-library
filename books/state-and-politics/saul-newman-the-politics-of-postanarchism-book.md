@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-politics-of-postanarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-politics-of-postanarchism.epub
+    hosted: true
 ---
 
 # The Politics of Postanarchism
