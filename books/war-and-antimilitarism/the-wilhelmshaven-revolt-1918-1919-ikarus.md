@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/1298adf076d2e2d8.jpg"
 links: []
 files: []
+files:
+  - name: "the-wilhelmshaven-revolt-1918-1919-ikarus.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-wilhelmshaven-revolt-1918-1919-ikarus.pdf"
+    hosted: true
 ---
 # The Wilhelmshaven revolt, 1918-1919 - Ikarus
 
