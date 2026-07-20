@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: tolstoy-on-shakespeare.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/tolstoy-on-shakespeare.epub
+    hosted: true
 ---
 
 # Tolstoy on Shakespeare
