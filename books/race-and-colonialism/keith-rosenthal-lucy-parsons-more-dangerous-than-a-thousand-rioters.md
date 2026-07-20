@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: lucy-parsons-u201cmore-dangerous-than-a-thousand-rioters-u201d.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/lucy-parsons-u201cmore-dangerous-than-a-thousand-rioters-u201d.epub
+    hosted: true
 ---
 
 # Lucy Parsons: “More Dangerous Than a Thousand Rioters”
