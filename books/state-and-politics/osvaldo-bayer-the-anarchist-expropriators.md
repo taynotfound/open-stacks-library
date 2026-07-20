@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-anarchist-expropriators.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-anarchist-expropriators.epub
+    hosted: true
 ---
 
 # The Anarchist Expropriators
