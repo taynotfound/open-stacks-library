@@ -17,7 +17,14 @@ files:
   - name: "2-sex-work-and-sex-work-2ed.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/2-sex-work-and-sex-work-2ed.pdf"
-    hosted: false
+    hosted: false  - name: "sex-work-and-sex-work-red-and-black-leeds.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sex-work-and-sex-work-red-and-black-leeds.pdf"
+    hosted: true
+  - name: "sex-work-and-sex-work-red-and-black-leeds.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sex-work-and-sex-work-red-and-black-leeds.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/sex-work-and-sex-work-red-and-black-leeds)
