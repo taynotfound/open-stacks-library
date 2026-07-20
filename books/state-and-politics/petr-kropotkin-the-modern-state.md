@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-modern-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-modern-state.epub
+    hosted: true
 ---
 
 # The Modern State
