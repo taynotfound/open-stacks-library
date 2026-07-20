@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/20c39bb3efa681ff.jpg"
 links: []
 files: []
+files:
+  - name: "agrarian-collectives-during-the-spanish-civil-war-michael-se.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/agrarian-collectives-during-the-spanish-civil-war-michael-se.pdf"
+    hosted: true
 ---
 # Agrarian Collectives during the Spanish Civil War - Michael Seidman
 
