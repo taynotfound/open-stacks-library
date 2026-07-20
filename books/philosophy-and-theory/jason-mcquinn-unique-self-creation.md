@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: clarifying-the-unique-and-its-self-creation.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/clarifying-the-unique-and-its-self-creation.epub
+    hosted: true
 ---
 
 # Clarifying the Unique and Its Self-Creation
