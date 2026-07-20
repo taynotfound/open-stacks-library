@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/0db912099ba63813.jpg"
 links: []
 files: []
+files:
+  - name: "autonomia-post-political-politics.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/autonomia-post-political-politics.pdf"
+    hosted: true
 ---
 # Autonomia: Post-Political Politics
 
