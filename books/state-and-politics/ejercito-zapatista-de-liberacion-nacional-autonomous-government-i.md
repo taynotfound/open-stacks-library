@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: autonomous-government-i.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/autonomous-government-i.epub
+    hosted: true
 ---
 
 # Autonomous Government I
