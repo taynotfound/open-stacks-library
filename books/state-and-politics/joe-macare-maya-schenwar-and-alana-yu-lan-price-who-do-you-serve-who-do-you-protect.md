@@ -22,6 +22,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: who-do-you-serve-who-do-you-protect.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/who-do-you-serve-who-do-you-protect.epub
+    hosted: true
 ---
 
 # Who Do You Serve, Who Do You Protect?
