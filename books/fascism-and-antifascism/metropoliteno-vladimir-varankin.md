@@ -235,6 +235,11 @@ links:
   - url: "http://www.esperanto.mv.ru/Varankin/metro12.html#_kolhxozo"
     text: "Kolĥoz"
 files: []
+files:
+  - name: "metropoliteno-vladimir-varankin.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/metropoliteno-vladimir-varankin.pdf"
+    hosted: true
 ---
 # Metropoliteno - Vladimir Varankin
 
