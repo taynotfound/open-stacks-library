@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b492d8d95727c167.jpg"
 links: []
 files: []
+files:
+  - name: "imperialism-the-world-war-and-social-democracy-herman-gorter.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/imperialism-the-world-war-and-social-democracy-herman-gorter.pdf"
+    hosted: true
 ---
 # Imperialism, the world war and social democracy - Herman Gorter
 
