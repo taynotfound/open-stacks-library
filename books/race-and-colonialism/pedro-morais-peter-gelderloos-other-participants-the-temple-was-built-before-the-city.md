@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: u2018the-temple-was-built-before-the-city-u2019.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/u2018the-temple-was-built-before-the-city-u2019.epub
+    hosted: true
 ---
 
 # ‘The Temple Was Built Before the City’
