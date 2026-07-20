@@ -19,4 +19,64 @@ files:
     hosted: false
 ---
 
-   A PLATAFORMA ORGANIZACIONAL DA UNIÃO GERAL DOS ANARQUISTAS (PROJETO)      INTRODUÇÃO      PARTE GERAL        I. A LUTA DE CLASSES, SEU PAPEL E SEU SIGNIFICADO        II. A NECESSIDADE DE UMA REVOLUÇÃO SOCIAL VIOLENTA        III. O ANARQUISMO E O COMUNISMO ANARQUISTA      O anarquismo não é produto de criações ou de práticas individuais.        IV. A NEGAÇÃO DA DEMOCRACIA        V. A NEGAÇÃO DO ESTADO E DO PODER        VI. O PAPEL DAS MASSAS E O PAPEL DOS ANARQUISTAS NA LUTA SOCIAL E NA REVOLUÇÃO SOCIAL        [VII.] O PERÍODO DE TRANSIÇÃO        [VIII.] ANARQUISMO E SINDICALISMO      PARTE CONSTRUTIVA        O PROBLEMA DO PRIMEIRO DIA DA REVOLUÇÃO SOCIAL        A PRODUÇÃO        O ABASTECIMENTO (pro)        A TERRA        A DEFESA DA REVOLUÇÃO      PARTE ORGANIZACIONAL        OS PRINCÍPIOS DA ORGANIZAÇÃO ANARQUISTA          1. Unidade ideológica          2. Unidade tática ou método coletivo de ação          3. Responsabilidade coletiva          4. Federalismo NOTA SOBRE A TRADUÇÃO Felipe Corrêa Em 2016 comemoram-se 90 anos da primeira publicação da chamada Plataforma, que é aqui apresentada, neste momento, numa nova tradução ao português. “A Plataforma Organizacional da União Geral dos Anarquistas” foi publicada originalmente na França, em 1926, na revista Dielo Truda [1] , pelo Grupo de Anarquistas Russos no Estrangeiro, do qual participavam Nestor Ivánovitch Makhno, Piotr Andreyevich Arshinov, Ida Mett (pseudônimo de Ida Gilman), Jean Walecki (pseudônimo de Isaak Gurfinkiel) e Maxime Ranko (pseudônimo de Benjamin Goldberg). Difundido no Brasil pelo menos desde o fim dos anos 1990, este documento teve sua tradução ao português realizada pela Federação Anarquista Gaúcha (FAG), foi publicado pela editora Luta Libertária no livro Anarquia e Organização, de Nestor Makhno, em 2001, e também disponibilizado na internet. Como em outros países, a Plataforma exerceu e continua a exercer influência considerável em parte relevante da militância anarquista brasileira. Esta tradução, assim como uma versão alternativa que surgiu posteriormente [2] , tomou por base os documentos derivados da primeira tradução do russo ao francês realizada por Volin [Vsevolod Mikhaïlovitch Eichenbaum], um franco opositor da Plataforma, logo após sua publicação. Conforme aponta Alexandre Skirda no livro Autonomie Individuelle et Force Collective: les anarchistes et l’organization de Proudhon à nos jours (Paris: A.S., 1987, pp. 245-246): “Lembremos que a primeira tradução [da Plataforma] efetuada por Volin foi contestada por ser ‘ruim e desajeitada’, não tendo o tradutor ‘tomado cuidado de adaptar a terminologia, as frases, ao espírito do movimento francês’.” [ Le Libertaire 106, 15/04/1927] Skirda, que é também tradutor russo, continua: “Procuramos saber a que podiam aplicar-se essas censuras e encontramos, com efeito, vários termos conscientemente deformados: napravlenie , que significa tanto ‘direção’ como ‘orientação’, foi sistematicamente empregado no primeiro sentido; idem para o termo rukovodstvo , que significa ‘conduta’, e o verbo que nele originou-se, ‘conduzir, guiar, administrar, dirigir’, foi também sistematicamente traduzido como ‘dirigir’. O caso é ainda mais flagrante na última frase da Plataforma, zastrelchtchik , que significa ‘instigador’, foi traduzido como ‘vanguarda’. Foi assim que, por leves pinceladas, o sentido profundo do texto pôde ser alterado.” Baseado em tal crítica, Skirda apresentou neste livro, no fim dos anos 1980, um conjunto de anexos, em meio ao qual se encontra uma nova tradução da Plataforma, que buscou solucionar estes problemas e, nas palavras citadas, “adaptar a terminologia, as frases, ao espírito do movimento francês”. Esta tradução, sem dúvida, possui a enorme virtude de ser a precursora de todas as retraduções que têm sido feitas, mas ela também não está isenta de problemas. Dentre eles, o maior parece ser uma excessiva liberdade do tradutor para adaptar trechos e termos, fugindo bastante daquilo que se encontra…
+A PLATAFORMA ORGANIZACIONAL DA UNIÃO GERAL DOS ANARQUISTAS (PROJETO)
+
+INTRODUÇÃO
+
+PARTE GERAL
+
+I. A LUTA DE CLASSES, SEU PAPEL E SEU SIGNIFICADO
+
+II. A NECESSIDADE DE UMA REVOLUÇÃO SOCIAL VIOLENTA
+
+III. O ANARQUISMO E O COMUNISMO ANARQUISTA
+
+O anarquismo não é produto de criações ou de práticas individuais.
+
+IV. A NEGAÇÃO DA DEMOCRACIA
+
+V. A NEGAÇÃO DO ESTADO E DO PODER
+
+VI. O PAPEL DAS MASSAS E O PAPEL DOS ANARQUISTAS NA LUTA SOCIAL E NA REVOLUÇÃO SOCIAL
+
+[VII.] O PERÍODO DE TRANSIÇÃO
+
+[VIII.] ANARQUISMO E SINDICALISMO
+
+PARTE CONSTRUTIVA
+
+O PROBLEMA DO PRIMEIRO DIA DA REVOLUÇÃO SOCIAL
+
+A PRODUÇÃO
+
+O ABASTECIMENTO (pro)
+
+A TERRA
+
+A DEFESA DA REVOLUÇÃO
+
+PARTE ORGANIZACIONAL
+
+OS PRINCÍPIOS DA ORGANIZAÇÃO ANARQUISTA
+
+1. Unidade ideológica
+
+2. Unidade tática ou método coletivo de ação
+
+3. Responsabilidade coletiva
+
+4. Federalismo
+
+NOTA SOBRE A TRADUÇÃO
+
+Felipe Corrêa
+
+Em 2016 comemoram-se 90 anos da primeira publicação da chamada Plataforma, que é aqui apresentada, neste momento, numa nova tradução ao português. “A Plataforma Organizacional da União Geral dos Anarquistas” foi publicada originalmente na França, em 1926, na revista Dielo Truda [1], pelo Grupo de Anarquistas Russos no Estrangeiro, do qual participavam Nestor Ivánovitch Makhno, Piotr Andreyevich Arshinov, Ida Mett (pseudônimo de Ida Gilman), Jean Walecki (pseudônimo de Isaak Gurfinkiel) e Maxime Ranko (pseudônimo de Benjamin Goldberg).
+
+Difundido no Brasil pelo menos desde o fim dos anos 1990, este documento teve sua tradução ao português realizada pela Federação Anarquista Gaúcha (FAG), foi publicado pela editora Luta Libertária no livro Anarquia e Organização, de Nestor Makhno, em 2001, e também disponibilizado na internet. Como em outros países, a Plataforma exerceu e continua a exercer influência considerável em parte relevante da militância anarquista brasileira.
+
+Esta tradução, assim como uma versão alternativa que surgiu posteriormente [2] , tomou por base os documentos derivados da primeira tradução do russo ao francês realizada por Volin [Vsevolod Mikhaïlovitch Eichenbaum], um franco opositor da Plataforma, logo após sua publicação.
+
+Conforme aponta Alexandre Skirda no livro Autonomie Individuelle et Force Collective: les anarchistes et l’organization de Proudhon à nos jours (Paris: A.S., 1987, pp. 245-246): “Lembremos que a primeira tradução [da Plataforma] efetuada por Volin foi contestada por ser ‘ruim e desajeitada’, não tendo o tradutor ‘tomado cuidado de adaptar a terminologia, as frases, ao espírito do movimento francês’.” [Le Libertaire 106, 15/04/1927] Skirda, que é também tradutor russo, continua: “Procuramos saber a que podiam aplicar-se essas censuras e encontramos, com efeito, vários termos conscientemente deformados: napravlenie, que significa tanto ‘direção’ como ‘orientação’, foi sistematicamente empregado no primeiro sentido; idem para o termo rukovodstvo, que significa ‘conduta’, e o verbo que nele originou-se, ‘conduzir, guiar, administrar, dirigir’, foi também sistematicamente traduzido como ‘dirigir’. O caso é ainda mais flagrante na última frase da Plataforma, zastrelchtchik, que significa ‘instigador’, foi traduzido como ‘vanguarda’. Foi assim que, por leves pinceladas, o sentido profundo do texto pôde ser alterado.”
+
+Baseado em tal crítica, Skirda apresentou neste livro, no fim dos anos 1980, um conjunto de anexos, em meio ao qual se encontra uma nova tradução da Plataforma, que buscou solucionar estes problemas e, nas palavras citadas, “adaptar a terminologia, as frases, ao espírito do movimento francês”. Esta tradução, sem dúvida, possui a enorme virtude de ser a precursora de todas as retraduções que têm sido feitas, mas ela também não está isenta de problemas. Dentre eles, o maior parece ser uma excessiva liberdade do tradutor para adaptar trechos e termos, fugindo bastante daquilo que se encontra no original. Por exemplo, a palavra “libertário” e suas derivações, que não existem no original, aparecem inúmeras vezes nesta tradução.…
