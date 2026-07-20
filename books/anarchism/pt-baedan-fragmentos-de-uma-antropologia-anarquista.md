@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-   baedan    Fragmentos de uma Antropologia Anarquista        O Ritual        A Máscara Preta        A Sangria        O Início do Fogo        A narrativa Nesta época, como em todas as outras, existem aqueles que estão desesperadamente do lado do caos, da imprevisibilidade, do acaso. Que nada desejam senão deliciar-se com o nada e buscar diversão no desdobramento do cosmos. Mas nisso eles são impedidos e desviados por tantos emissários e pregadores de um mundo onde tudo tem que ser—e é—exatamente como é. Um mundo que insiste no trabalho árduo servido com um sorriso, um mundo de recompensa e punição, de escolhas justas e de escolhas erradas. Um mundo cujos males exigem reparação, no qual a porta está sempre aberta para fazer algo a respeito de qualquer coisa e no qual todos devem encontrar o seu lugar. Um mundo que, dizem, é este. Em seus piores dias, os anarquistas acreditam que os pregadores devem estar certos, tão numerosos são seus rebanhos. Sem dúvida seria mais fácil se acabasse aqui, mas como nada acaba, eles começam, como que motivados, a questionar novamente o mundo da ordem. Encontrando-se inexplicavelmente resistentes e enredados em uma teia cada vez mais profunda e intrincada, eles realizam seus rituais. Os bandos anarquistas são secretos ao extremo e, ao que tudo indica, não admitem a existência desses rituais nem para eles próprios. No entanto, pode-se observar certos ritos cruciais para a coerência, moral e mitologia dos bandos anarquistas. O ritual, para os anarquistas, ultrapassa a mera repetição da forma. A repetição é um dos aspectos do ritual e possui várias facetas próprias. Por um lado, existe a questão da sobrevivência. A questão da sobrevivência pode ser altamente obscurecida, mas nunca está ausente, e os rituais são desenvolvidos não apenas para garantir a sobrevivência de seus praticantes, mas também para sua própria resistência. Quando se repetem, passam adiante e, quando se repetem, lembram o passado. Assim, outra faceta da repetição é estimular a memória, de modo que se veja os próprios gestos em seu lugar dentro de uma longa corrente. A corrente liga o praticante - ao gesto, ao passado, ao futuro - apenas para se desvincular. Há um ponto nos movimentos em que é preciso reconhecê-los como metáforas, como paródias, nem acidentais nem como um fim em si mesmos. Eles dizem que as formas se dissolvem nas bordas, onde a pessoa não está olhando diretamente, e ondulam para dentro e para fora de si mesmas. Gestos que se corroem porque devem corroer a forma habitual de percepção do praticante. Para o anarquista, um ritual não é um exercício de adesão. É uma iniciação, certamente. Mas, em vez de ser uma forma de entrar no grupo, é exatamente o oposto—uma saída. Viver em sociedade é usar uma máscara, mais ou menos adequada, e encontrar uma variedade de rostos, mais ou menos familiares. A máscara preta é o símbolo mais visível do anarquista. Sua existência é conhecida pelo novato antes mesmo de ser contatado, mas seu simbolismo ritual é desconhecido para ele até sua iniciação. No momento da iniciação, um momento não reconhecido até que aconteça, o novato se encontra sozinho com uma bolsa. Ele se encontrou aqui por um caminho estranho e esquecido, uma série de manobras sutis e gestos memoráveis. Na verdade, ele foi trazido aqui, levado por uma sensação inabalável de desconforto com o jogo social. Esse desconforto se manifesta de várias maneiras: falando sobre tal, fazendo diferente, fazendo errado, às vezes recusando-se a fazer. E essas pequenas recusas, com o desprezo que ganham da maioria e o interesse que despertam nos outros, atraem-no para um bando. A banda tem seus próprios jogos sociais, seus maus modos e modas invertidas, suas paródias de normas sociais. É quando ele se cansa disso, quando contempla com um senso semelhante de cinismo o macrocosmo e o microcosmo; o verso, inverso, reverso e perverso; os súditos leais e a oposição leal; é então que ele sai da empresa e se encontra sozinho. Sozinho, se descon…
+baedan
+
+Fragmentos de uma Antropologia Anarquista
+
+O Ritual
+
+A Máscara Preta
+
+A Sangria
+
+O Início do Fogo
+
+A narrativa
+
+Nesta época, como em todas as outras, existem aqueles que estão desesperadamente do lado do caos, da imprevisibilidade, do acaso. Que nada desejam senão deliciar-se com o nada e buscar diversão no desdobramento do cosmos.
+
+Mas nisso eles são impedidos e desviados por tantos emissários e pregadores de um mundo onde tudo tem que ser—e é—exatamente como é. Um mundo que insiste no trabalho árduo servido com um sorriso, um mundo de recompensa e punição, de escolhas justas e de escolhas erradas. Um mundo cujos males exigem reparação, no qual a porta está sempre aberta para fazer algo a respeito de qualquer coisa e no qual todos devem encontrar o seu lugar. Um mundo que, dizem, é este.
+
+Em seus piores dias, os anarquistas acreditam que os pregadores devem estar certos, tão numerosos são seus rebanhos. Sem dúvida seria mais fácil se acabasse aqui, mas como nada acaba, eles começam, como que motivados, a questionar novamente o mundo da ordem.
+
+Encontrando-se inexplicavelmente resistentes e enredados em uma teia cada vez mais profunda e intrincada, eles realizam seus rituais. Os bandos anarquistas são secretos ao extremo e, ao que tudo indica, não admitem a existência desses rituais nem para eles próprios. No entanto, pode-se observar certos ritos cruciais para a coerência, moral e mitologia dos bandos anarquistas.
+
+O ritual, para os anarquistas, ultrapassa a mera repetição da forma. A repetição é um dos aspectos do ritual e possui várias facetas próprias. Por um lado, existe a questão da sobrevivência. A questão da sobrevivência pode ser altamente obscurecida, mas nunca está ausente, e os rituais são desenvolvidos não apenas para garantir a sobrevivência de seus praticantes, mas também para sua própria resistência. Quando se repetem, passam adiante e, quando se repetem, lembram o passado. Assim, outra faceta da repetição é estimular a memória, de modo que se veja os próprios gestos em seu lugar dentro de uma longa corrente.
+
+A corrente liga o praticante - ao gesto, ao passado, ao futuro - apenas para se desvincular. Há um ponto nos movimentos em que é preciso reconhecê-los como metáforas, como paródias, nem acidentais nem como um fim em si mesmos. Eles dizem que as formas se dissolvem nas bordas, onde a pessoa não está olhando diretamente, e ondulam para dentro e para fora de si mesmas. Gestos que se corroem porque devem corroer a forma habitual de percepção do praticante.
+
+Para o anarquista, um ritual não é um exercício de adesão. É uma iniciação, certamente. Mas, em vez de ser uma forma de entrar no grupo, é exatamente o oposto—uma saída.
+
+Viver em sociedade é usar uma máscara,
+
+mais ou menos adequada,
+
+e encontrar uma variedade de rostos,
+
+mais ou menos familiares.
+
+A máscara preta é o símbolo mais visível do anarquista. Sua existência é conhecida pelo novato antes mesmo de ser contatado, mas seu simbolismo ritual é desconhecido para ele até sua iniciação.
+
+No momento da iniciação, um momento não reconhecido até que aconteça, o novato se encontra sozinho com uma bolsa. Ele se encontrou aqui por um caminho estranho e esquecido, uma série de manobras sutis e gestos memoráveis. Na verdade, ele foi trazido aqui, levado por uma sensação inabalável de desconforto com o jogo social. Esse desconforto se manifesta de várias maneiras: falando sobre tal, fazendo diferente, fazendo errado, às vezes recusando-se a fazer. E essas pequenas recusas, com o desprezo que ganham da maioria e o interesse que despertam nos outros, atraem-no para um bando. A banda tem seus próprios jogos sociais, seus maus modos e modas invertidas, suas paródias de normas sociais. É quando ele se cansa disso, quando contempla com um senso semelhante de cinismo o macrocosmo e o microcosmo; o verso, inverso, reverso e perverso; os súditos leais e a oposição leal; é então que ele sai da empresa e se encontra sozinho. Sozinho, se desconsiderarmos a bolsa.
+
+O…
