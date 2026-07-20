@@ -19,4 +19,46 @@ files:
     hosted: false
 ---
 
-       1. Nowa definicja seksu jest bardziej inkluzywna        2. Takie podejście redukuje presję        3. Rozszerzenie definicji seksu zmieniło moje nastawienie do dawania i brania        4. Zmiana perspektywy sprawiła, że nie myślę o sobie jako puszczalskiej        5. Moja nowa perspektywa pozwoliła mi lepiej postrzegać moich partnerów „Wczoraj uprawiałam seks” – brzmiał sms, który wysłałam do znajomej osoby, wzbogacony emotikonką klaszczącą w dłonie i przybijającą piątkę. Chwilę później przyszła odpowiedz: Jak duży był? Umieram z ciekawości. Moja odpowiedz? Emot wzruszający ramionami. Ponieważ nie miałam na myśli tego samego co mój znajomy, kiedy napisałam „seks”. Wiem natomiast, do czego się odniósł. Do definicji, której też byłam uczona. Pewnie dlatego głos w mojej głowie podpowiadał: Nie, nie uprawiałaś seksu, to tylko penetracja palcami, nie kłam. Drugi głos, ten autokrytyczny, wtórował: A potem poszłaś spać, bo jesteś EGOISTKĄ i jesteś NUDNA. W tym rzecz właśnie. Ostatnio przyglądałam się ponownie swojej definicji „seksu” – by kwestionować pomysł, jakoby różne praktyki seksualne wymagały, by opisując je, zawsze dodawać na wstępie „tylko”. Kiedy miałam 10 lat ze słownika dowiedziałam się, czym jest seks. Definicja była podobna do tej, którą dziś wypluwa google: Aktywność seksualna, oparta na konkretnym akcie seksualnym. Akt seksualny z kolei to „kontakt między osobami, uwzględniający penetrację, w szczególności wkładanie penisa mężczyzny w stanie erekcji do waginy kobiety, zwykle zakończony orgazmem i wytryskiem spermy”. No więc takiego rozumienia seksu byłam nauczona. I zajęło mi godziny rozmów, by się go oduczyć. Wiadomo, to nie tylko słownik. Ten sam przekaz słyszałam wokół, głośno i dobitnie: seks to wkładanie penisa do waginy (ale już nie otaczanie penisa waginą, to penis zawsze był aktywną częścią). Kiedy dziewczyny w szkole rozmawiały o seksie, dotyczyło to właśnie penetracji. Odpowiedzi pozytywne były istotne dużo bardziej, niż seks oralny czy manualny. Poradniki, które skrycie czytałam, zachęcały dziewczyny to poczekania z seksem, a przez seks rozumiały właśnie zbliżenie „penis w waginie”. Niewiele mówiły o innych formach. Więc kiedy wylądowałam w szkole średniej i miałam wiele możliwości romansowania, podjęłam decyzję, że seks bez prawdziwej relacji to zbyt wiele. Wobec czego robiłam wszystko inne, pozostając dziewicą do momentu, w którym znajdę właściwą osobę, kochaną przeze mnie dostatecznie, by pozbyć się dziewictwa. Byłam pomysłowa, a raz nawet odczułam dumę z powodu bycia dziewicą do 20 roku życia. Dziś już tak tego nie widzę, w dziewictwo nie wierzę zupełnie i uważam, że w rzeczywistości uprawiałam seks znacznie wcześniej. Wracam więc do pytania mojego przyjaciela. Założył, jak wiele z nas, że w każdym seksie istotny jest penis. I cipka. Ale przecież nie musi. Dziś uważam, że seksem jest wszystko, co sprawia mi przyjemność. I może to być definiowane jakkolwiek i kiedykolwiek. Nie musi chodzić o dotykanie poniżej pasa. Nie musi być nawet osobiście, w towarzystwie drugiej osoby. To taki rodzaj połączenia z kimś, które odczuwam jako seksualne. Każda osoba ma prawo dowolnie definiować seks, jasna sprawa. Poniżej kilka powodów, dzięki którym moja osobista definicja seksu pozwoliła mi pozbyć się toksycznych przekazów, jakie miałam zinternalizowane wcześniej. Pierwsze wyzwanie dla dotychczasowego rozumienia zjawiska pochodzi od społeczności LGBTQIA+. Problemem jest opisywanie seksu jako czegoś, co dzieje się miedzy penisem a waginą, bo to z kolei oznacza, że osoby z penisami mają seks z osobami z waginami, i odwrotnie. I tym samym odbiera prawo istnienia seksu osób LGBTQIA+, podobnie jak osobom cis, które nie decydują się na penetrację pochwy penisem. Dla przykładu: niektóre osoby z cipkami wolą penetrację palcami czy pobudzanie ustami, niekoniecznie zaś penisem. Wykluczenie ich z tradycyjnej definicji seksu może być odczytywane jako seksistowskie, bo faworyzuje tych, którzy najłatwiej osiągają przyjemność z p…
+1. Nowa definicja seksu jest bardziej inkluzywna
+
+2. Takie podejście redukuje presję
+
+3. Rozszerzenie definicji seksu zmieniło moje nastawienie do dawania i brania
+
+4. Zmiana perspektywy sprawiła, że nie myślę o sobie jako puszczalskiej
+
+5. Moja nowa perspektywa pozwoliła mi lepiej postrzegać moich partnerów
+
+„Wczoraj uprawiałam seks” – brzmiał sms, który wysłałam do znajomej osoby, wzbogacony emotikonką klaszczącą w dłonie i przybijającą piątkę.
+
+Chwilę później przyszła odpowiedz: Jak duży był? Umieram z ciekawości.
+
+Moja odpowiedz? Emot wzruszający ramionami.
+
+Ponieważ nie miałam na myśli tego samego co mój znajomy, kiedy napisałam „seks”. Wiem natomiast, do czego się odniósł. Do definicji, której też byłam uczona. Pewnie dlatego głos w mojej głowie podpowiadał: Nie, nie uprawiałaś seksu, to tylko penetracja palcami, nie kłam. Drugi głos, ten autokrytyczny, wtórował: A potem poszłaś spać, bo jesteś EGOISTKĄ i jesteś NUDNA.
+
+W tym rzecz właśnie. Ostatnio przyglądałam się ponownie swojej definicji „seksu” – by kwestionować pomysł, jakoby różne praktyki seksualne wymagały, by opisując je, zawsze dodawać na wstępie „tylko”.
+
+Kiedy miałam 10 lat ze słownika dowiedziałam się, czym jest seks. Definicja była podobna do tej, którą dziś wypluwa google: Aktywność seksualna, oparta na konkretnym akcie seksualnym. Akt seksualny z kolei to „kontakt między osobami, uwzględniający penetrację, w szczególności wkładanie penisa mężczyzny w stanie erekcji do waginy kobiety, zwykle zakończony orgazmem i wytryskiem spermy”.
+
+No więc takiego rozumienia seksu byłam nauczona. I zajęło mi godziny rozmów, by się go oduczyć.
+
+Wiadomo, to nie tylko słownik. Ten sam przekaz słyszałam wokół, głośno i dobitnie: seks to wkładanie penisa do waginy (ale już nie otaczanie penisa waginą, to penis zawsze był aktywną częścią).
+
+Kiedy dziewczyny w szkole rozmawiały o seksie, dotyczyło to właśnie penetracji. Odpowiedzi pozytywne były istotne dużo bardziej, niż seks oralny czy manualny. Poradniki, które skrycie czytałam, zachęcały dziewczyny to poczekania z seksem, a przez seks rozumiały właśnie zbliżenie „penis w waginie”. Niewiele mówiły o innych formach.
+
+Więc kiedy wylądowałam w szkole średniej i miałam wiele możliwości romansowania, podjęłam decyzję, że seks bez prawdziwej relacji to zbyt wiele. Wobec czego robiłam wszystko inne, pozostając dziewicą do momentu, w którym znajdę właściwą osobę, kochaną przeze mnie dostatecznie, by pozbyć się dziewictwa.
+
+Byłam pomysłowa, a raz nawet odczułam dumę z powodu bycia dziewicą do 20 roku życia. Dziś już tak tego nie widzę, w dziewictwo nie wierzę zupełnie i uważam, że w rzeczywistości uprawiałam seks znacznie wcześniej.
+
+Wracam więc do pytania mojego przyjaciela. Założył, jak wiele z nas, że w każdym seksie istotny jest penis. I cipka. Ale przecież nie musi.
+
+Dziś uważam, że seksem jest wszystko, co sprawia mi przyjemność. I może to być definiowane jakkolwiek i kiedykolwiek. Nie musi chodzić o dotykanie poniżej pasa. Nie musi być nawet osobiście, w towarzystwie drugiej osoby. To taki rodzaj połączenia z kimś, które odczuwam jako seksualne.
+
+Każda osoba ma prawo dowolnie definiować seks, jasna sprawa. Poniżej kilka powodów, dzięki którym moja osobista definicja seksu pozwoliła mi pozbyć się toksycznych przekazów, jakie miałam zinternalizowane wcześniej.
+
+Pierwsze wyzwanie dla dotychczasowego rozumienia zjawiska pochodzi od społeczności LGBTQIA+. Problemem jest opisywanie seksu jako czegoś, co dzieje się miedzy penisem a waginą, bo to z kolei oznacza, że osoby z penisami mają seks z osobami z waginami, i odwrotnie.
+
+I tym samym odbiera prawo istnienia seksu osób LGBTQIA+, podobnie jak osobom cis, które nie decydują się na penetrację pochwy penisem.
+
+Dla przykładu: niektóre osoby z cipkami wolą penetrację palcami czy pobudzanie ustami, niekoniecznie zaś penisem. Wykluczenie ich z tradycyjnej definicji seksu może być odczytywane jako seksistowskie, bo faworyzuje tych, którzy najłatwiej osiągają przyjemność z penetrowania pe…
