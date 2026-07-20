@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: a-hell-of-a-mistress-the-beautiful-idea.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a-hell-of-a-mistress-the-beautiful-idea.epub
+    hosted: true
 ---
 
 # A Hell of a Mistress, the Beautiful Idea
