@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: immigrants-against-the-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/immigrants-against-the-state.epub
+    hosted: true
 ---
 
 # Immigrants against the State
