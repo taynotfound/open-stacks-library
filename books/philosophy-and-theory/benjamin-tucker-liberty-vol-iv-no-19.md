@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: liberty-vol-iv-no-19.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/liberty-vol-iv-no-19.epub
+    hosted: true
 ---
 
 # Liberty Vol. IV. No. 19.
