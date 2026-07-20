@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/356a3e78c5e21176.jpg"
 links: []
 files: []
+files:
+  - name: "the-right-to-be-lazy-paul-lafargue.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-right-to-be-lazy-paul-lafargue.pdf"
+    hosted: true
 ---
 # The right to be lazy - Paul Lafargue
 
