@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-anarchist-revelation.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-anarchist-revelation.epub
+    hosted: true
 ---
 
 # The Anarchist Revelation
