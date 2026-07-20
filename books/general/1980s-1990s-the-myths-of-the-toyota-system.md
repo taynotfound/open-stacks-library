@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/617542ec5d66a94d.jpg"
 links: []
 files: []
+files:
+  - name: "1980s-1990s-the-myths-of-the-toyota-system.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/1980s-1990s-the-myths-of-the-toyota-system.pdf"
+    hosted: true
 ---
 # 1980s-1990s: The Myths of the Toyota System
 
