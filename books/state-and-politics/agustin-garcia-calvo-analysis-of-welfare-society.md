@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: analysis-of-welfare-society.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/analysis-of-welfare-society.epub
+    hosted: true
 ---
 
 # Analysis of Welfare Society
