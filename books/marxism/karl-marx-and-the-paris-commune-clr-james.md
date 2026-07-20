@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/9ffb6531cd5c97c4.jpg"
 links: []
 files: []
+files:
+  - name: "karl-marx-and-the-paris-commune-clr-james.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/karl-marx-and-the-paris-commune-clr-james.pdf"
+    hosted: true
 ---
 # Karl Marx and the Paris Commune - CLR James
 
