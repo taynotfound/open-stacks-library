@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cfa1fb40b4f49901.jpg"
 links: []
 files: []
+files:
+  - name: "1926-the-social-general-strike-why-1926-failed-tom-brown.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/1926-the-social-general-strike-why-1926-failed-tom-brown.pdf"
+    hosted: true
 ---
 # 1926: The social general strike - why 1926 failed - Tom Brown
 
