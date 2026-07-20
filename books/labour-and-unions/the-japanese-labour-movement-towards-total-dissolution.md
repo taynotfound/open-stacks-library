@@ -21,10 +21,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bfc971d5_TheJapaneseLaborMovementTowardsTotalDissolution.pdf"
     hosted: true
 ---
-# The Japanese Labour Movement - Towards Total Dissolution?
 
-The Japanese Labour Movement - Towards Total Dissolution? Watanabe Ben
-
-Presented in PDF format (1mb).
-
-[Read original on libcom.org](https://libcom.org/article/japanese-labour-movement-towards-total-dissolution)
+The Japanese Labour Movement - Towards Total Dissolution? Watanabe Ben Presented in PDF format (1mb). Printer-friendly version Japan Asia PDF Comments
