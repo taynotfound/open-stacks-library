@@ -23,6 +23,11 @@ links:
   - url: "https://www.flickr.com/photos/musaeum/342814649/sizes/o/in/set-72157594454732283/ "
     text: "http://www.flickr.com/photos/musaeum/342814649/sizes/o/in/set-72157594454732283/"
 files: []
+files:
+  - name: "stop-the-city-1983-4-documentation-and-attitudes-to-policing.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/stop-the-city-1983-4-documentation-and-attitudes-to-policing.pdf"
+    hosted: true
 ---
 # Stop The City 1983/4 - Documentation and Attitudes To Policing
 
