@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: whiteness-is-a-war-measure.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/whiteness-is-a-war-measure.epub
+    hosted: true
 ---
 
 # Whiteness is a War Measure
