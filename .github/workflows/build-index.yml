@@ -8,24 +8,10 @@ on:
       - "build_index.py"
   workflow_dispatch:
 
-# Skip if commit message contains [skip ci]
 jobs:
-  check-skip:
-    runs-on: ubuntu-latest
-    outputs:
-      skip: ${{ steps.check.outputs.skip }}
-    steps:
-      - id: check
-        run: |
-          if echo "${{ github.event.head_commit.message }}" | grep -q '\[skip ci\]'; then
-            echo "skip=true" >> $GITHUB_OUTPUT
-          else
-            echo "skip=false" >> $GITHUB_OUTPUT
-          fi
-
   build:
-    needs: check-skip
-    if: needs.check-skip.outputs.skip != 'true'
+    # Skip commits made by this workflow itself
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -35,13 +21,13 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build index
+      - name: Build index + chunks
         run: python3 build_index.py
 
       - name: Commit updated index
         run: |
           git config user.name "taynotfound"
           git config user.email "marztayron@gmail.com"
-          git add index.json feed.xml opds.xml search-index.json
+          git add index.json index-*.json index-meta.json feed.xml opds.xml search-index.json
           git diff --cached --quiet || git commit -m "chore: rebuild index [skip ci]"
           git push
