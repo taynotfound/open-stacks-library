@@ -19,8 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/f-internationale-individualiste-an-individualist-program)
-
-Suppression of every military, multitudinist or employers’ institution.
-
-Abolition of every dividing line, boundary marker or border post.
+Abolition of all tribute: rent, income, tithe or tax. Suppression of every military, multitudinist or employers’ institution. Abolition of every dividing line, boundary marker or border post. One single universal language. Denial of every title. General education for all. Life guaranteed to all children, vieillards ou inaptes. Those who want to eat, let them work.
