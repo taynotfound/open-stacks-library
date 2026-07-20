@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4db608f22496a247.png"
 links: []
 files: []
+files:
+  - name: "bash-the-fash-anti-fascist-recollections-1984-1993-k-bullstr.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bash-the-fash-anti-fascist-recollections-1984-1993-k-bullstr.pdf"
+    hosted: true
 ---
 # Bash the fash: anti-fascist recollections, 1984-1993 - K Bullstreet
 
