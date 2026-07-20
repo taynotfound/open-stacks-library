@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: on-terrorism-and-the-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/on-terrorism-and-the-state.epub
+    hosted: true
 ---
 
 # On Terrorism and the State
