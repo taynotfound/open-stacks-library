@@ -17,7 +17,14 @@ files:
   - name: "Issue 3_Shift magazine.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/Issue 3_Shift magazine.pdf"
-    hosted: false
+    hosted: false  - name: "shift-03.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shift-03.pdf"
+    hosted: true
+  - name: "shift-03.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shift-03.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/shift-03)
