@@ -19,10 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on pl.anarchistlibraries.net](https://pl.anarchistlibraries.net/library/piekna-idea)
-
-Anarchia – pragniemy jej. Jest to Piękna Idea. Jest to całkowicie niepraktyczna idea, że możemy i musimy naciskać by być w pełni na wolności. Oczywiście od dominacji, ale też od prozainczności i moralności. Jest to id względem superego społeczeństwa i jego zawstydzania, uczących lęku upokorzeń oraz samozaprogramowanych ograniczeń.
-
-Anarchia to akt zaufania — skok w nieznane — i całkowicie racjonalna propozycja. To wybuch oraz proste rzeczy, które robimy nieświadomie. Jest to coś, co poprzedza cywilizację i nie może być oswojone przez miasta, rządy, giełdę lub politykę.
-
-Anarchia to anarchia, jest to zarówno organizacja (w całkowicie innym kierunku niż te, które obecnie działają na szeroką skalę), jak i chaos. Jest ona, kiedy każde z nas jest wstanie powodować swoje życie i sposoby, w jakie nawiązujemy relacje z innymi, od intymnych do tych bardziej odległych.
+Anarchia – pragniemy jej. Jest to Piękna Idea. Jest to całkowicie niepraktyczna idea, że możemy i musimy naciskać by być w pełni na wolności. Oczywiście od dominacji, ale też od prozainczności i moralności. Jest to id względem superego społeczeństwa i jego zawstydzania, uczących lęku upokorzeń oraz samozaprogramowanych ograniczeń. Anarchia to akt zaufania — skok w nieznane — i całkowicie racjonalna propozycja. To wybuch oraz proste rzeczy, które robimy nieświadomie. Jest to coś, co poprzedza cywilizację i nie może być oswojone przez miasta, rządy, giełdę lub politykę. Anarchia to anarchia, jest to zarówno organizacja (w całkowicie innym kierunku niż te, które obecnie działają na szeroką skalę), jak i chaos. Jest ona, kiedy każde z nas jest wstanie powodować swoje życie i sposoby, w jakie nawiązujemy relacje z innymi, od intymnych do tych bardziej odległych.
