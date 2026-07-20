@@ -19,26 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on pt.anarchistlibraries.net](https://pt.anarchistlibraries.net/library/ff-lugar-de-classes)
-
-pessoas livres, libertárias e “libertinas”, pois aqueles nos invejam...
-
-diante da ira dos fanáticos fundamentalistas que vos servem...
-
-não me ofereçam nem um pedaço do lugar ao sol que destes aos avarentos,
-
-cuja mesquinharia destes não comprará sequer um lugar no céu...
-
-não me deem mais do que os pobres necessitam, nem menos do que preciso
-
-e que a indigestão seja o prêmio dos indiferentes e gulosos insatisfeitos...
-
-de capitais, desejo somente o pecado da luxúria, realizando fantasias,
-
-em vez de crer na irreal e fantasiosa crença dos crentes em vossas existências...
-
-tais como vós e tantos outros seres que reprimem e escravizam povos...
-
-prometo não seguir vossa cartilha, redigida em tempos imemoriais
-
-a partir da cabeça de homens com sete vezes setecentos pecados capitais...
+Lug Ⓐ r de Cl Ⓐ sses! Poesias Libertárias F.F. outubro de 2025 XXIIIFVFXXV-I Lugar de Classes O Povo vive numa puta ilusão! O Rico? Mansão. ⒻⒻ Ⓐ XXIFVFXX-I Pátria amarga Patriotas Tolos Idiotas Todos ⒻⒻ Ⓐ XXIIFXIIFXXXI-I Insânia Ⓐ Utopia é a sabedoria dos loucos. E só os doidos podemos mudar este insano mundo. ⒻⒻ Ⓐ XXIIFVFX-I G.U.E.R.R.A. contra as formas de poder? guerra guerra contra a opressão guerra contra todo o preconceito? guerra guerra contra a repressão guerra contra todas as mazelas? guerra guerra contra a discriminação guerra batalhar nossa própria guerra? guerra lutar contra toda guerra guerra combater os senhores da guerra? guerra derrubar todo autoritarismo guerra rebelião guerra salvação guerra libertação guerra redenção guerra ⒻⒻ Ⓐ XXIIFXIIFXXX-I Sextou Esperar a sexta-feira é um sintoma mundial. Porque o mundo, imundo, - de segunda a quinta-feira – é uma miséria descomunal. Um mundo onde o labor só faz sentido para quem enriquece às custas da dor de servos modernos, cujas mentes ficaram estéreis e que não veem razão em suas vidas: miseráveis de vagas alegrias débeis. ⒻⒻ Ⓐ XXIVFIFV-II Batalha Mental Embora nem sempre Eu seja consenso Nem sempre contenha Quase nunca bom senso Acendo um incenso Invento uma senda Ascendo ao intento Incerta a contenda Incendeio o momento Molotovs ao vento... ⒻⒻ Ⓐ XXIIFXIIFXXX-III Procuram-se Calopsitas Liberdade não é algo que te dão. Liberdade é algo que se busca e se conquista. Senão não é liberdade não. Socialismo libertário, o socialismo anarquista, nunca será ilusão. Mesmo que lhe podem as asas, fuja e faça outros lugares de casa. Não te farão livre de graça. Evite a desgraça de ficar e ver sua vida perecer, esmaecer até se apagar. Não se apegue a um dono, a um poder, trono, autoridade. Entenda uma parada: Seja livre! Nem que seja na base da porrada! Fujam calopsitas! Fujam dos parasitas! ⒻⒻ Ⓐ XXIIIFVIIFXXIII AI de nós A precarização de toda forma de trabalho é sintoma estrutural do declínio do capitalismo ao longo dos tempos. E é cíclico. A nova onda é artificial e vai subjugar toda forma de Inteligência laboral. Quem se informa não se deforma. "AI" de quem não se adequar... ⒻⒻ Ⓐ XXVFVIFXXI-I Voar Se peno não penso, Se peço não posso, Se pago não pego, Se passo não presto, Se pássaro: não pouso... O quanto penso? peno; E quando posso? peço; O quanto pego? pago; E quando presto? passo; Enquanto pássaro: voo... Não peno; penso! Não peço; posso! Não pago; pego! Não passo; presto! Pássaro: ouso... ⒻⒻ Ⓐ XXIVFIXFXII-I A Luz Nossa de Cada Dia nos Dai Hoje Acabou a luz: Escuridão! Há falta de Luz: Que solidão! E a Luz interior, Onde é que está? Acabou a água: A torneira secou! Há falta d’água, A lágrima brotou! E a Alma Interior, Onde estará? Acabou a energia: No fio condutor! Há falta de Energia: Em todas as Residências! Em todas as Existências... Como ter Energia Interior? No calor a mata evaporou: Há florestas incendiadas! O céu todo acinzentou De fumaça em tantas queimadas! O Sol, mesmo rubro, queimou: E nosso Calor Interior? Habitações estão caras, Há lixos nas calçadas! As cidades, imundas, As pastagens inabitadas! Há os sem-teto pelas ruas, Não há casas no Interior? A luz enfim voltou: Mas veio outro apagão! A resistência queimou: Hoje é Banho-de-Água-Fria! Que bom que está quente! E a Resistência Interior? A luz que faltou É aquela Luz Ao mesmo tempo Onipresente, branca e vazia, Para olhos sem lentes, Para Olhares sem Prisma! A Lua veio, A Lua nunca falta: A Cheia de Luz ou a Nova obscura! Minguante, Crescente, tantas fases! A Lua sempre brilha inteira, Ainda que vejamos só metade! Há zilhões de Estrelas no Céu: Mais que grãos de areia na Terra! Hodiernamente, sob véu não transparente De negrume, fuligem, poeira, poluição... Além deste, há Mundos perdidos no Cosmos, Mas onde haverá, de fato, Vida Inteligente? ⒻⒻ Ⓐ XXVFIXFXVII-III A obra: da criação ao caos é na dor que surge a criatividade é na dor que padeço de ansiedade é na dor que aparento ter mais idade é na dor dessa so…
