@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/abdf16b3e628f305.png"
 links: []
 files: []
+files:
+  - name: "up-against-the-wall-motherfucker-anthology.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/up-against-the-wall-motherfucker-anthology.pdf"
+    hosted: true
 ---
 # Up Against The Wall Motherfucker anthology
 
