@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-abolition-of-work-and-other-essays.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-abolition-of-work-and-other-essays.epub
+    hosted: true
 ---
 
 # The Abolition of Work and Other Essays
