@@ -23,6 +23,11 @@ links:
   - url: "https://advancethestruggle.wordpress.com/2010/08/20/introducing-%E2%80%9Cthe-magical-blue-pamphlet%E2%80%9D/ "
     text: "Advance the Struggle: Bay Area Radical Perspectives"
 files: []
+files:
+  - name: "marx-s-capital-and-today-s-global-crisis-raya-dunavevskaya.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/marx-s-capital-and-today-s-global-crisis-raya-dunavevskaya.pdf"
+    hosted: true
 ---
 # Marx’s Capital and Today’s Global Crisis - Raya Dunavevskaya
 
