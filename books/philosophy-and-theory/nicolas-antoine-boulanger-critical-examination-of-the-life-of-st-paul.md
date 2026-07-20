@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: critical-examination-of-the-life-of-st-paul.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/critical-examination-of-the-life-of-st-paul.epub
+    hosted: true
 ---
 
 # Critical Examination of the Life of St. Paul
