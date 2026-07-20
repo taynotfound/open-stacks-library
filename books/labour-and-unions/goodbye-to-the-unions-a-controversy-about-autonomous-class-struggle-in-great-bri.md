@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/87fcfc2f21532e4e.jpg"
 links: []
 files: []
+files:
+  - name: "goodbye-to-the-unions-a-controversy-about-autonomous-class-s.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/goodbye-to-the-unions-a-controversy-about-autonomous-class-s.pdf"
+    hosted: true
 ---
 # Goodbye to the Unions! - A Controversy About Autonomous Class Struggle in Great Britain
 
