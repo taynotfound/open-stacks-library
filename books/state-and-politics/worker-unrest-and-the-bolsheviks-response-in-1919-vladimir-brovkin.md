@@ -25,8 +25,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/9a0d7220_WorkersUnrestBolshevikResponsebrovkin.pdf"
     hosted: true
 ---
-# Worker Unrest and the Bolsheviks' Response in 1919 - Vladimir Brovkin
 
-Worker Unrest and the Bolsheviks' Response in 1919 Vladimir Brovkin PDF Format
-
-[Read original on libcom.org](https://libcom.org/article/worker-unrest-and-bolsheviks-response-1919-vladimir-brovkin)
+Yiddish translation of Berkman's 'The Kronstadt Revolt' Worker Unrest and the Bolsheviks' Response in 1919 Vladimir Brovkin PDF Format Printer-friendly version Russia 1910s state socialism USSR Eastern Europe Bolsheviks Russian Revolution 1917 Comments
