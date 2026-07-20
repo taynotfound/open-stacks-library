@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: having-little-being-much-a-chronicle-of-fredy-perlman-u2019s-fifty-years.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/having-little-being-much-a-chronicle-of-fredy-perlman-u2019s-fifty-years.epub
+    hosted: true
 ---
 
 # Having Little, Being Much: A Chronicle of Fredy Perlman’s Fifty Years
