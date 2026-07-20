@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: rebel-alliances.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/rebel-alliances.epub
+    hosted: true
 ---
 
 # Rebel Alliances
