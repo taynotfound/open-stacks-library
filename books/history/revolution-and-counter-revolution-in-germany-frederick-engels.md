@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/724c006fa5fc1b2f.jpg"
 links: []
 files: []
+files:
+  - name: "revolution-and-counter-revolution-in-germany-frederick-engel.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/revolution-and-counter-revolution-in-germany-frederick-engel.epub"
+    hosted: true
 ---
 # Revolution and counter-revolution in Germany - Frederick Engels
 
