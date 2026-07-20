@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchism-and-the-black-revolution.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-and-the-black-revolution.epub
+    hosted: true
 ---
 
 # Anarchism and the Black Revolution
