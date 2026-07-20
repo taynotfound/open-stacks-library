@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: insurrectionalist-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/insurrectionalist-anarchism.epub
+    hosted: true
 ---
 
 # Insurrectionalist Anarchism
