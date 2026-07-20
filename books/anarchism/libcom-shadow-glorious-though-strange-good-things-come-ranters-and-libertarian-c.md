@@ -17,7 +17,14 @@ files:
   - name: "A shadow of glorious (though strange) good things to come The Ranters and libertarian communism in the English civil war.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/A shadow of glorious (though strange) good things to come The Ranters and libertarian communism in the English civil war.pdf"
-    hosted: false
+    hosted: false  - name: "shadow-glorious-though-strange-good-things-come-ranters-and-.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shadow-glorious-though-strange-good-things-come-ranters-and-.pdf"
+    hosted: true
+  - name: "shadow-glorious-though-strange-good-things-come-ranters-and-.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shadow-glorious-though-strange-good-things-come-ranters-and-.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/shadow-glorious-though-strange-good-things-come-ranters-and-libertarian-communism-english)
