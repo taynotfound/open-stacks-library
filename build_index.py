@@ -176,15 +176,15 @@ for f in md_files:
     linked_only = bool(re.search(r'true', meta.get("linked_only", ""), re.I))
     has_body = len(body) > 40
     # Attach byte sizes to hosted files (so the frontend can show "12.4 MB").
-    for fl in meta["files"]:
+    for fl in meta.get("files", []):
         if fl.get("hosted"):
             fl["size"] = file_size(fl)
-    hosted_files = [x for x in meta["files"] if x.get("hosted")]
+    hosted_files = [x for x in meta.get("files", []) if x.get("hosted")]
     if linked_only:
         state = "none"
     elif has_body or hosted_files:
         state = "full"
-    elif meta["files"]:
+    elif meta.get("files"):
         state = "partial"
     else:
         state = "none"
