@@ -24,6 +24,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: community-democracy-and-mutual-aid.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/community-democracy-and-mutual-aid.epub
+    hosted: true
 ---
 
 # Community, Democracy, and Mutual Aid
