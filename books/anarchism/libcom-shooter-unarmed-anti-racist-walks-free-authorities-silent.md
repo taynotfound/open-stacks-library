@@ -17,7 +17,14 @@ files:
   - name: "gdc14-2017-01-25-seattlepr21.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/gdc14-2017-01-25-seattlepr21.pdf"
-    hosted: false
+    hosted: false  - name: "shooter-unarmed-anti-racist-walks-free-authorities-silent.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shooter-unarmed-anti-racist-walks-free-authorities-silent.pdf"
+    hosted: true
+  - name: "shooter-unarmed-anti-racist-walks-free-authorities-silent.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shooter-unarmed-anti-racist-walks-free-authorities-silent.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/shooter-unarmed-anti-racist-walks-free-authorities-silent)
