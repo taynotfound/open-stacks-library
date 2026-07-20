@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: ethics-and-revolution.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/ethics-and-revolution.epub
+    hosted: true
 ---
 
 # Ethics and Revolution
