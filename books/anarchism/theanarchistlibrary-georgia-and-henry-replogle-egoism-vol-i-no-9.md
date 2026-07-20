@@ -19,4 +19,40 @@ files:
     hosted: false
 ---
 
-     Pointers.      Love and Summer.      Is Faith Alone, Enough.      Editorial Slashes.      The Philosophy of Egoism.        VII.      GOVERNMENT.      Managerial Experience.      EGOISM’S PRINCIPLES AND PURPOSE. EGOISM’s unusually late appearance this time is net due to financial shakiness, but to the reverse; its manager has been working for pay, and it is in high spirits. In the “Twentieth Century” of January 1, Victor Yarros answers a Nationalist critic who undertakes the reason on the social problem. Having prepared himself with a false position for Individualists this Nationalist made the feat possible, and exposed himself to the blade of Mr. Yarros’s logic. We have received four numbers of the “Herald of Anarchy,” published by A. Tarn, in London. It is the only Anarchist paper published in England, and is heavy and generalizing. It would be about right for Herbert Spencer to read. To us it is fully as interesting as the old Boston “Index” used to be. Those who wish to encourage it financially should address the editor at 27 St. John’s Hill Grove, London, S. W. Benj. R. Tucker published on the 10 th of this month the first English translation of Count Tolstoi’s latest work, “The Fruits of Culture.” This book, like “The Kreutzer Sonata,” has never been published in Russia. It is a twofold satire on “culture” and Spiritualism. The follies of the so-called “cultured” classes are exhibited in a humorous picture of their fashions, “fads,” and mental freaks, and the story hinges upon the effect of Modern Spiritualism on an aristocratic family in Russia. It sometimes occurs that we know things tee seen. This was true in regard to EGOISM claiming the siring of J. Wm. Lloyd’s poems lately published in its columns. Mr. Lloyd hunts these out of a pile of them that have been written during years past, and before EGOISM. The sentiment of the subjective meed of the two concluding stanzas of the present one is not in harmony with that of the publishers in the role of witnesses, but the rest we greatly admire and heart indorse. After several months’ suspension “Fair Play” reaches us, transformed into a 24-page monthly, magazine form. One would not recognize it by its form, but the name, the same excellent motto, the “plumb-line penographs,” and above all the editorial productions peculiar to the only E. C. Walker, constitute “Fair Play” with the exception of the name and piquant paragraphs of Lillian Harman, its other former editor. This we regret, as so few women are connected with Individualistic radical work, at which she succeeded so well. “Fair Play” is $1.00 per year, and published at 718 4 th street, Sioux City, Iowa. ( Inspired by Solomon’s Song .) J. WM. LLOYD. W. S. BELL is going East next April, to be gone six months, lecturing in Utah, Colorado, Nebraska, Kansas, Illinois, Indiana, Ohio, New York, Pennsylvania, New Jersey, and probably Massachusetts. His address is Box 109, Oakland, California. WE have read “My Uncle Benjamin,” Benjamin R. Tucker’s latest translation from the French. It is a great book—too great we fear to sell as the “Rag Picker” did. It is the production of an intelligent victim of institution oppression who necessarily suffered more than he enjoyed. The splitting pangs of his intense pessimism are seasoned with ridiculing thrusts at the vanity of wealth. The characters are not made to “come out” in school girl ideal, but tumble along like real life, mostly at the mercy of other elements than human desire. The facts are not manufactured and put up in doses ready to take fer building up a philosophy made to order, but are painters which lead to unmistakable conclusions. The writer in his pessimistic or pathetic moods may exaggerate, but he does it in a way that implies the exaggeration, while it illuminates the point with electric intensity. Under the reign of a king, democracy is the writer’s social ideal, and he often declares a blind devotion to abstract society, but his searching portrayal of the Ego…
+Pointers.
+
+Love and Summer.
+
+Is Faith Alone, Enough.
+
+Editorial Slashes.
+
+The Philosophy of Egoism.
+
+VII.
+
+GOVERNMENT.
+
+Managerial Experience.
+
+EGOISM’S PRINCIPLES AND PURPOSE.
+
+EGOISM’s unusually late appearance this time is net due to financial shakiness, but to the reverse; its manager has been working for pay, and it is in high spirits.
+
+In the “Twentieth Century” of January 1, Victor Yarros answers a Nationalist critic who undertakes the reason on the social problem. Having prepared himself with a false position for Individualists this Nationalist made the feat possible, and exposed himself to the blade of Mr. Yarros’s logic.
+
+We have received four numbers of the “Herald of Anarchy,” published by A. Tarn, in London. It is the only Anarchist paper published in England, and is heavy and generalizing. It would be about right for Herbert Spencer to read. To us it is fully as interesting as the old Boston “Index” used to be. Those who wish to encourage it financially should address the editor at 27 St. John’s Hill Grove, London, S. W.
+
+Benj. R. Tucker published on the 10th of this month the first English translation of Count Tolstoi’s latest work, “The Fruits of Culture.” This book, like “The Kreutzer Sonata,” has never been published in Russia. It is a twofold satire on “culture” and Spiritualism. The follies of the so-called “cultured” classes are exhibited in a humorous picture of their fashions, “fads,” and mental freaks, and the story hinges upon the effect of Modern Spiritualism on an aristocratic family in Russia.
+
+It sometimes occurs that we know things tee seen. This was true in regard to EGOISM claiming the siring of J. Wm. Lloyd’s poems lately published in its columns. Mr. Lloyd hunts these out of a pile of them that have been written during years past, and before EGOISM. The sentiment of the subjective meed of the two concluding stanzas of the present one is not in harmony with that of the publishers in the role of witnesses, but the rest we greatly admire and heart indorse.
+
+After several months’ suspension “Fair Play” reaches us, transformed into a 24-page monthly, magazine form. One would not recognize it by its form, but the name, the same excellent motto, the “plumb-line penographs,” and above all the editorial productions peculiar to the only E. C. Walker, constitute “Fair Play” with the exception of the name and piquant paragraphs of Lillian Harman, its other former editor. This we regret, as so few women are connected with Individualistic radical work, at which she succeeded so well. “Fair Play” is $1.00 per year, and published at 718 4th street, Sioux City, Iowa.
+
+(Inspired by Solomon’s Song.)
+
+J. WM. LLOYD.
+
+W. S. BELL is going East next April, to be gone six months, lecturing in Utah, Colorado, Nebraska, Kansas, Illinois, Indiana, Ohio, New York, Pennsylvania, New Jersey, and probably Massachusetts. His address is Box 109, Oakland, California.
+
+WE have read “My Uncle Benjamin,” Benjamin R. Tucker’s latest translation from the French. It is a great book—too great we fear to sell as the “Rag Picker” did. It is the production of an intelligent victim of institution oppression who necessarily suffered more than he enjoyed. The splitting pangs of his intense pessimism are seasoned with ridiculing thrusts at the vanity of wealth. The characters are not made to “come out” in school girl ideal, but tumble along like real life, mostly at the mercy of other elements than human desire. The facts are not manufactured and put up in doses ready to take fer building up a philosophy made to order, but are painters which lead to unmistakable conclusions. The writer in his pessimistic or pathetic moods may exaggerate, but he does it in a way that implies the exaggeration, while it illuminates the point with electric intensity. Under the reign of a king, democracy is the writer’s social ideal, and he often declares a blind devotion to abstract society, but his searching portrayal of the Egoistic motive, which so clearly de…
