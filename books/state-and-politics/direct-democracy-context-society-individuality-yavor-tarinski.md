@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/4ebd8413c5decac8.jpg"
 links: []
 files: []
+files:
+  - name: "direct-democracy-context-society-individuality-yavor-tarinsk.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/direct-democracy-context-society-individuality-yavor-tarinsk.pdf"
+    hosted: true
 ---
 # Direct Democracy: Context, Society, Individuality - Yavor Tarinski
 
