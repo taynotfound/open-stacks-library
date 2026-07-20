@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: against-parliament-for-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/against-parliament-for-anarchism.epub
+    hosted: true
 ---
 
 # Against Parliament, For Anarchism
