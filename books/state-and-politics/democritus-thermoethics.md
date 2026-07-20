@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: thermoethics.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/thermoethics.epub
+    hosted: true
 ---
 
 # Thermoethics
