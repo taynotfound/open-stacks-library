@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/886acc77474c2b5d.png"
 links: []
 files: []
+files:
+  - name: "communization-and-its-discontents-contestation-critique-and-.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/communization-and-its-discontents-contestation-critique-and-.pdf"
+    hosted: true
 ---
 # Communization and its discontents: Contestation, critique, and contemporary struggles
 
