@@ -17,7 +17,14 @@ files:
   - name: "Sewing Freedom_ Philip Josephs, - Davidson, Jared.mobi"
     type: "MOBI"
     url: "https://files.libcom.org/files/Sewing Freedom_ Philip Josephs, - Davidson, Jared.mobi"
-    hosted: false
+    hosted: false  - name: "sewing-freedom-philip-josephs-transnationalism-early-new-zea.mobi"
+    type: "MOBI"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sewing-freedom-philip-josephs-transnationalism-early-new-zea.mobi"
+    hosted: true
+  - name: "sewing-freedom-philip-josephs-transnationalism-early-new-zea.mobi"
+    type: "MOBI"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sewing-freedom-philip-josephs-transnationalism-early-new-zea.mobi"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/sewing-freedom-philip-josephs-transnationalism-early-new-zealand-anarchism-jared-davidson)
