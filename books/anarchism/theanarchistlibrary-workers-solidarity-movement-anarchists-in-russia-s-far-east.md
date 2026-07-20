@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/workers-solidarity-movement-anarchists-in-russia-s-far-east)
+In Khabarousk, in far eastern Russia, some people have to walk to work because they can’t afford the massively increased bus & train fares. Anarchists have been organising a non-payment campaign. They have also set up their own pirate radio station, club and a free university.
