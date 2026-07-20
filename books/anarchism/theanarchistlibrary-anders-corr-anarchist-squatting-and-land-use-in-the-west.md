@@ -19,4 +19,88 @@ files:
     hosted: false
 ---
 
-     Introduction      Critique of Land and Housing Ownership        Eviction        Cultural Destruction        Unemployment        Poverty        Inefficient Production        Environmental Degradation      Government and the Origins of Land Ownership        Violence Secures Title to Land        Land Ownership as Government      Anarchist Critique of Competing Ideologies Regarding Land        Socialism        Georgism        Land Reform      Envisioning Anarchist Land Tenure        Anarchist Land Tenure in History        Distribution by Equity and Use        Individuals, Collectivity, and the Redefinition of Property        Resolution of Conflicting Needs        Efficiency of Production        Gender and Race        Eco-Anarchists and Land Use        Change      Anarchist Land and Housing Direct Action        personal change and education        Occupation and Expropriation      Rent Strike        Theft        Sabotage        Violence        Insurrection        Solidarity and Coalition        Land Ownership as Fiction      Works Cited        Periodicals        Discard        Forced Acquisition of Labor        Produce to the Laborer ‘Squats’ are growing as a form of resistance within the anarchist community. In many North American and in most major cities of Europe, anarchists see squatting as a practical way of subverting current dominative constructs of real estate while at the same time creating a space for the growth of community forms which prefigure the sought-for anarchist utopia. This current activity continues an anarchist project against spatial property, that is, the commodification of land and housing, over the last several centuries which have included anarcho-agrarian occupations of land, agrarian uprisings, and rent strikes. The basic societal construct which anarchist squatting challenges is the ownership of land. Land is the ground upon which we walk, the element from which our food grows, and the object for which generations of anarchists have struggled and died. Land is essential to survival, for every moment that we live we rely on its presence. A 1985 Green Anarchist editorial indicates the importance which anarchists place on the reorganization of dominative land tenure: The land is the source of all wealth, the source of all freedom and we want back the land. Without land we are condemned to the servility of employment to earn the necessities of our life; we are condemned to Blind Obedience legally implicit in all job contracts; without land our small caring communities are destroyed; without land we can never be self-sufficient; without land we must doff our caps to the landowners and bosses. Without land there can be no freedom. (8) From the seventeenth century Diggers to squatters in New York City today, land has occupied a central position in anarchist ideology and praxis. In Noam Chomsky’s recent film Manufacturing Consent , for example, he mentions the need for a movement that challenges the distribution of resources, pointing to feminist and civil rights movement which has made strong social change. An important area which is not sufficiently addressed, according to Chomsky, is the distribution of natural resources. The number of anarchists who have concentrated on land tenure are many. Most of Joshua K. Ingalls’ (1816–1898) anarchist activity in North America revolved around land and Charles Fowlers’ (1851–1889) Kansas City paper The Sun committed a significant proportion of its space to the inequitable distribution of land (Reichert 509–512). Several anarchist books and journal issues are solely devoted to land issues, squatting, or housing. George Woodcock’s New Life to the Land , written in World War II England, calls for autarchy in the production of food, saying that this would contradict the domestic food deficit needed to balance industrial capitalist exports of manufactured goods. Revolutionary societies, he maintains, must be self-sufficient in that they will be faced with economic boyc…
+Introduction
+
+Critique of Land and Housing Ownership
+
+Eviction
+
+Cultural Destruction
+
+Unemployment
+
+Poverty
+
+Inefficient Production
+
+Environmental Degradation
+
+Government and the Origins of Land Ownership
+
+Violence Secures Title to Land
+
+Land Ownership as Government
+
+Anarchist Critique of Competing Ideologies Regarding Land
+
+Socialism
+
+Georgism
+
+Land Reform
+
+Envisioning Anarchist Land Tenure
+
+Anarchist Land Tenure in History
+
+Distribution by Equity and Use
+
+Individuals, Collectivity, and the Redefinition of Property
+
+Resolution of Conflicting Needs
+
+Efficiency of Production
+
+Gender and Race
+
+Eco-Anarchists and Land Use
+
+Change
+
+Anarchist Land and Housing Direct Action
+
+personal change and education
+
+Occupation and Expropriation
+
+Rent Strike
+
+Theft
+
+Sabotage
+
+Violence
+
+Insurrection
+
+Solidarity and Coalition
+
+Land Ownership as Fiction
+
+Works Cited
+
+Periodicals
+
+Discard
+
+Forced Acquisition of Labor
+
+Produce to the Laborer
+
+‘Squats’ are growing as a form of resistance within the anarchist community. In many North American and in most major cities of Europe, anarchists see squatting as a practical way of subverting current dominative constructs of real estate while at the same time creating a space for the growth of community forms which prefigure the sought-for anarchist utopia. This current activity continues an anarchist project against spatial property, that is, the commodification of land and housing, over the last several centuries which have included anarcho-agrarian occupations of land, agrarian uprisings, and rent strikes.
+
+The basic societal construct which anarchist squatting challenges is the ownership of land. Land is the ground upon which we walk, the element from which our food grows, and the object for which generations of anarchists have struggled and died. Land is essential to survival, for every moment that we live we rely on its presence. A 1985 Green Anarchist editorial indicates the importance which anarchists place on the reorganization of dominative land tenure:
+
+The land is the source of all wealth, the source of all freedom and we want back the land. Without land we are condemned to the servility of employment to earn the necessities of our life; we are condemned to Blind Obedience legally implicit in all job contracts; without land our small caring communities are destroyed; without land we can never be self-sufficient; without land we must doff our caps to the landowners and bosses. Without land there can be no freedom. (8)
+
+From the seventeenth century Diggers to squatters in New York City today, land has occupied a central position in anarchist ideology and praxis. In Noam Chomsky’s recent film Manufacturing Consent, for example, he mentions the need for a movement that challenges the distribution of resources, pointing to feminist and civil rights movement which has made strong social change. An important area which is not sufficiently addressed, according to Chomsky, is the distribution of natural resources. The number of anarchists who have concentrated on land tenure are many. Most of Joshua K. Ingalls’ (1816–1898) anarchist activity in North America revolved around land and Charles Fowlers’ (1851–1889) Kansas City paper The Sun committed a significant proportion of its space to the inequitable distribution of land (Reichert 509–512). Several anarchist books and journal issues are solely devoted to land issues, squatting, or housing. George Woodcock’s New Life to the Land, written in World War II England, calls for autarchy in the production of food, saying that this would contradict the domestic food deficit needed to balance industrial capitalist exports of manufactured goods. Revolutionary societies, he maintains, must be self-sufficient in that they will be faced with economic boycott by remaining capitalist powers, a theory born out by the economic blockades of Cuba and Nicaragua by the United States. He goes on to outline a system of federated agricultural collectives doubtless patterned on S…
