@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: what-every-person-should-know-about-war.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/what-every-person-should-know-about-war.epub
+    hosted: true
 ---
 
 # What Every Person Should Know About War
