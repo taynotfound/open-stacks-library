@@ -19,4 +19,54 @@ files:
     hosted: false
 ---
 
-       Co to oznacza „ruch robotniczy”?        Narodziny anarchosyndykalizmu i Unii Wolnych Robotników Niemiec        Formowanie anarchosyndykalizmu po I Wojnie Światowej        Alternatywa wobec autorytarnego komunizmu: Unia Wolnych Robotników Niemiec (FAUD)          Różnice pomiędzy scentralizowanymi związkami a FAUD          Przyczyny spadku członkostwa w FAUD          Skutki spadku liczebności          Napięcia i konflikty w FAUD        Anarchosyndykalizm poza miejscem pracy          Proletariackie towarzystwo wolnomyślicieli          Przyjaciele „wolnej książki”        Organizacje pomocowe          Stowarzyszenie na rzecz kontroli urodzeń i higieny seksualnej (RvfG)          „Schwarzen Scharen” (Czarny Szwadron)          Ruch bezrobotnych        Organizacje pomocnicze          Anarchosyndykalistyczna młodzież Niemiec (SAJD)          Syndykalistyczna organizacja kobiet (SFB)        Zmierzch FAUD Syndykalizm, a ściślej rzecz ujmując anarchosyndykalizm, bywa ruchem zapominanym. W związku z tym, ten choć nieco powierzchowny i ogólny zarys, powinien pokazać, iż nie zawsze ruch syndykalistyczny był małym, zapominanym i nieznanym ruchem. Pomimo tego celem pracy nie jest kompleksowe zbadanie oraz opisanie wszelkich aspektów anarchizmu syndykalistycznego w Niemczech, lecz jedynie ich zarysowanie w celu wzbudzeniu ciekawości i zainteresowania czytelników. Pierwszą rzeczą, której uczy nas studiowanie historii ruchu robotniczego w Niemczech i w innych państwach jest to, że pracownicy organizowali się głównie w tzw. „partiach robotniczych” (autor dokonał tutaj pewnego uproszczenia uznając niemiecki model afiliowanych organizacji, w tym związków, przez partie polityczne za model uniwersalny i dominujący na świecie – przyp. tłumacza). W przypadku Niemiec, proletariat zrzeszał się przede wszystkim w SPD (Socjaldemokracja) oraz KPD (Komunistyczna Partia Niemiec). Dopiero po głębszej analizie dostrzec możemy również mniejsze siły robotnicze, takie jak: USPD (Niezależna Socjaldemokratyczna Partia Niemiec), CP, KAPD (Niemiecka Komunistyczna Partia Robotnicza), etc. Naturalnie to definicja pojęcia „ruchu robotniczego” wysuwa się na pierwszy plan w analizie tych partii politycznych. Jednakże bliższa obserwacja ukazuje nam to, że niejednokrotnie organizacje te mają niewiele wspólnego z ruchem w najprawdziwszym tego słowa znaczeniu i skupiają się one głównie na kierowaniu i dyscyplinowaniu uczestników ruchu robotniczego w interesie państwa bądź kapitału. W przeciwieństwie do nich patrzymy na idee „ruchu robotniczego” jako na coś co rozwija się w sposób organiczny i naturalny a nie na zamówienie prawodawstwa bądź kierownictwa partii politycznych. Czyli na produkt zorganizowanych pracowników najemnych, w pełni świadomych własnych celów i zadań a także unikających scentralizowanej organizacji. Dlatego nasza energia nie jest marnowana na sekciarskie konflikty „wielkich przywódców”. Korzenie „Unii Wolnych Robotników Niemiec” tkwią w niemieckiej socjaldemokracji (SPD) powstałej w czasach kaiserowskich. Scentralizowane struktury partii były niezwykle mocno podatne na prawne restrykcje wprowadzone przez kanclerza Otto von Bismarcka w postaci „ustawy antysocjalistycznej”. Po jej uchyleniu rósł sceptycyzm a wręcz sprzeciw wśród niektórych członków partii, nazywanych „localists” [1] , wobec podtrzymywania tego scentralizowanego modelu organizacji partii. Była to co prawda frakcja mniejszościowa acz ciesząca się sporą popularnością w Berlinie. Wśród rozłamowców dominowali marksiści, którzy wzmocnili swoje separatystyczne korzenie po 1891 roku kiedy SPD uchwaliło rewizjonistyczny program erfrudzki. Rok później Generalna Komisja SPD zorganizowała kongres w Halberstadt, na którym pojawiły się żądania wykluczenia owej frakcji co wkrótce doprowadziło do zreorganizowania „Wolnego Związku Niemieckich Związków Zawodowych” (FVDG), zdominowanego głównie przez „localist” a w latach późniejszych przez syndykalistów. W późniejszych miesiącach partia podejmowała wysiłki …
+Co to oznacza „ruch robotniczy”?
+
+Narodziny anarchosyndykalizmu i Unii Wolnych Robotników Niemiec
+
+Formowanie anarchosyndykalizmu po I Wojnie Światowej
+
+Alternatywa wobec autorytarnego komunizmu: Unia Wolnych Robotników Niemiec (FAUD)
+
+Różnice pomiędzy scentralizowanymi związkami a FAUD
+
+Przyczyny spadku członkostwa w FAUD
+
+Skutki spadku liczebności
+
+Napięcia i konflikty w FAUD
+
+Anarchosyndykalizm poza miejscem pracy
+
+Proletariackie towarzystwo wolnomyślicieli
+
+Przyjaciele „wolnej książki”
+
+Organizacje pomocowe
+
+Stowarzyszenie na rzecz kontroli urodzeń i higieny seksualnej (RvfG)
+
+„Schwarzen Scharen” (Czarny Szwadron)
+
+Ruch bezrobotnych
+
+Organizacje pomocnicze
+
+Anarchosyndykalistyczna młodzież Niemiec (SAJD)
+
+Syndykalistyczna organizacja kobiet (SFB)
+
+Zmierzch FAUD
+
+Syndykalizm, a ściślej rzecz ujmując anarchosyndykalizm, bywa ruchem zapominanym. W związku z tym, ten choć nieco powierzchowny i ogólny zarys, powinien pokazać, iż nie zawsze ruch syndykalistyczny był małym, zapominanym i nieznanym ruchem. Pomimo tego celem pracy nie jest kompleksowe zbadanie oraz opisanie wszelkich aspektów anarchizmu syndykalistycznego w Niemczech, lecz jedynie ich zarysowanie w celu wzbudzeniu ciekawości i zainteresowania czytelników.
+
+Pierwszą rzeczą, której uczy nas studiowanie historii ruchu robotniczego w Niemczech i w innych państwach jest to, że pracownicy organizowali się głównie w tzw. „partiach robotniczych” (autor dokonał tutaj pewnego uproszczenia uznając niemiecki model afiliowanych organizacji, w tym związków, przez partie polityczne za model uniwersalny i dominujący na świecie – przyp. tłumacza). W przypadku Niemiec, proletariat zrzeszał się przede wszystkim w SPD (Socjaldemokracja) oraz KPD (Komunistyczna Partia Niemiec). Dopiero po głębszej analizie dostrzec możemy również mniejsze siły robotnicze, takie jak: USPD (Niezależna Socjaldemokratyczna Partia Niemiec), CP, KAPD (Niemiecka Komunistyczna Partia Robotnicza), etc.
+
+Naturalnie to definicja pojęcia „ruchu robotniczego” wysuwa się na pierwszy plan w analizie tych partii politycznych. Jednakże bliższa obserwacja ukazuje nam to, że niejednokrotnie organizacje te mają niewiele wspólnego z ruchem w najprawdziwszym tego słowa znaczeniu i skupiają się one głównie na kierowaniu i dyscyplinowaniu uczestników ruchu robotniczego w interesie państwa bądź kapitału.
+
+W przeciwieństwie do nich patrzymy na idee „ruchu robotniczego” jako na coś co rozwija się w sposób organiczny i naturalny a nie na zamówienie prawodawstwa bądź kierownictwa partii politycznych. Czyli na produkt zorganizowanych pracowników najemnych, w pełni świadomych własnych celów i zadań a także unikających scentralizowanej organizacji. Dlatego nasza energia nie jest marnowana na sekciarskie konflikty „wielkich przywódców”.
+
+Korzenie „Unii Wolnych Robotników Niemiec” tkwią w niemieckiej socjaldemokracji (SPD) powstałej w czasach kaiserowskich. Scentralizowane struktury partii były niezwykle mocno podatne na prawne restrykcje wprowadzone przez kanclerza Otto von Bismarcka w postaci „ustawy antysocjalistycznej”. Po jej uchyleniu rósł sceptycyzm a wręcz sprzeciw wśród niektórych członków partii, nazywanych „localists”[1], wobec podtrzymywania tego scentralizowanego modelu organizacji partii. Była to co prawda frakcja mniejszościowa acz ciesząca się sporą popularnością w Berlinie.
+
+Wśród rozłamowców dominowali marksiści, którzy wzmocnili swoje separatystyczne korzenie po 1891 roku kiedy SPD uchwaliło rewizjonistyczny program erfrudzki. Rok później Generalna Komisja SPD zorganizowała kongres w Halberstadt, na którym pojawiły się żądania wykluczenia owej frakcji co wkrótce doprowadziło do zreorganizowania „Wolnego Związku Niemieckich Związków Zawodowych” (FVDG), zdominowanego głównie przez „localist” a w latach późniejszych przez syndykalistów.
+
+W późniejszych miesiącach partia podejmowała wysiłki mające na celu ponowne przyłączenie i zintegrowanie grupy wywrotowców z partią, lecz w obliczu klęski w 1902 roku kierownictwo parti…
