@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-     Pirackie utopie      Czekając na rewolucję      Psychotopologia życia codziennego      Sieć i Internet      «Poszliśmy do Croatan»      Muzyka jako zasada organizująca      Wola Mocy jako znikanie      Mysie dziury w Babilonie informacji      Suplement A: Lingiwstyka chaosu      Suplement B: Hedonika stosowana      Suplement C: Cytaty uzupełniające Tym razem przychodzę jednak jako zwycięski Dionizos, który chce na ziemi uczynić święto... Nie mam zbyt wiele czasu... — Fryderyk Nietzsche, wyjątek z ostatniego „szalonego” listu do Cosimy Wagner XVIII-wieczni piraci i korsarze stworzyli „sieć informacyjna”), która objęła całą kulę ziemską; była prymitywna, służyła wyłącznie ciemnym interesom, a jednak funkcjonowała, że aż miło. Obsługiwała rozproszone, mocno oddalone od siebie wyspy-kryjówki, gdzie statki mogły zaopatrywać się w wodę i prowiant i gdzie wymieniano łupy na towary luksusowe oraz artykuły pierwszej potrzeby. Na niektórych z tych wysp powstawały „celowo zaprojektowane wspólnoty”, minispołeczności, które z założenia żyły poza prawem, zdecydowane podtrzymywać taki stan rzeczy, bo nagrodą było krótkie wprawdzie, ale za to wesołe życie. Kilka lat temu przejrzałem mnóstwo materiałów o piractwie w nadziei, że znajdę jakieś opracowanie o tych enklawach, okazało się jednak, że żaden z historyków nie uznał ich za warte analizy. (Na ten temat wypowiadał się William Burroughs, a także nieżyjący już anarchista brytyjski Larry Law, nikt jednak nie przeprowadził systematycznych badań). Sięgnąłem więc do tekstów źródłowych i skonstruowałem własną teorię — niektóre z jej aspektów omawiam w poniższym eseju. Osady te nazwałem Pirackimi Utopiami [1] . Bruce Sterling, jeden z głównych przedstawicieli cyberpunkowej science fiction, opublikował niedawno romans historyczny osadzony w najbliższej przyszłości, oparty na założeniu, że rozpad systemów społecznych będzie prowadził do zdecentralizowanej proliferacji eksperymentów w codziennym życiu: gigantyczne korporacje robotnicze, niezależne enklawy, których głównym celem jest „piractwo danych”, enklawy zielono-socjal-demokratów, enklawy funkcjonujące pod hasłem Zero Work, anarchistyczne strefy wyzwolone itd. Gospodarka informacją, która wspiera tę różnorodność, nosi nazwę Sieci; te enklawy (a także tytuł powieści) to Islands in the Net [Wyspy Sieci]. Średniowieczni asasyni ufundowali Państwo — sieć górskich ustroni i zamków oddalonych od siebie o tysiące mil, strategicznie niedostępnych dla wszelkich agresorów i połączonych obiegiem informacji dostarczanych przez tajnych agentów. Owemu Państwu, będącemu w stanie wojny z wszelkimi rządami, przyświecał jeden tylko cel: zdobywanie wiedzy. W obliczu osiągnięć współczesnej technologii, której szczytowym dziełem są satelity szpiegowskie, tego typu autonomia to romantyczne marzenie. Nie ma już żadnych pirackich wysp! W przyszłości ta sama technologia — wolna od wszelkiej kontroli politycznej — umożliwi istnienie całego świata autonomicznych stref. Na razie jednak taka koncepcja funkcjonuje wyłącznie w domenie science fiction i pozostaje wciąż czystą spekulacją. Czyżby nam, którzy żyjemy teraz, nie było pisane doświadczyć tego, czym jest autonomia, czyżbyśmy nigdy nie mieli stanąć, choćby tylko na chwilę, na skrawku ziemi, którym rządzi wyłącznie wolność? Czyżbyśmy dali się zredukować do samej nostalgii za przeszłością, względnie do nostalgii za przyszłością? Czy naprawdę musimy czekać, aż cały świat uwolni się od kontroli politycznej, zanim choć jedno z nas będzie mogło powiedzieć, że wie, co to wolność? W tym miejscu połączone siły logiki i emocji obalają taką supozycję. Rozsądek podpowiada, że nie można walczyć z tym, czego się nie zna, a serce burzy się na widok świata, który tylko naszemu pokoleniu narzuca podobną niesprawiedliwość. Powiedzieć: „Nie będę wolny, dopóki wszyscy ludzie (albo wszystkie istoty czujące) nie będą wolne”, to zwyczajnie zakopać się w jakimś nirwanowym stuporze, to zrzec się naszego człowieczeństwa, to powiedzieć, że …
+Pirackie utopie
+
+Czekając na rewolucję
+
+Psychotopologia życia codziennego
+
+Sieć i Internet
+
+«Poszliśmy do Croatan»
+
+Muzyka jako zasada organizująca
+
+Wola Mocy jako znikanie
+
+Mysie dziury w Babilonie informacji
+
+Suplement A: Lingiwstyka chaosu
+
+Suplement B: Hedonika stosowana
+
+Suplement C: Cytaty uzupełniające
+
+Tym razem przychodzę jednak jako zwycięski Dionizos, który chce na ziemi uczynić święto... Nie mam zbyt wiele czasu...
+
+— Fryderyk Nietzsche, wyjątek z ostatniego „szalonego” listu do Cosimy Wagner
+
+XVIII-wieczni piraci i korsarze stworzyli „sieć informacyjna”), która objęła całą kulę ziemską; była prymitywna, służyła wyłącznie ciemnym interesom, a jednak funkcjonowała, że aż miło. Obsługiwała rozproszone, mocno oddalone od siebie wyspy-kryjówki, gdzie statki mogły zaopatrywać się w wodę i prowiant i gdzie wymieniano łupy na towary luksusowe oraz artykuły pierwszej potrzeby. Na niektórych z tych wysp powstawały „celowo zaprojektowane wspólnoty”, minispołeczności, które z założenia żyły poza prawem, zdecydowane podtrzymywać taki stan rzeczy, bo nagrodą było krótkie wprawdzie, ale za to wesołe życie.
+
+Kilka lat temu przejrzałem mnóstwo materiałów o piractwie w nadziei, że znajdę jakieś opracowanie o tych enklawach, okazało się jednak, że żaden z historyków nie uznał ich za warte analizy. (Na ten temat wypowiadał się William Burroughs, a także nieżyjący już anarchista brytyjski Larry Law, nikt jednak nie przeprowadził systematycznych badań). Sięgnąłem więc do tekstów źródłowych i skonstruowałem własną teorię — niektóre z jej aspektów omawiam w poniższym eseju. Osady te nazwałem Pirackimi Utopiami[1].
+
+Bruce Sterling, jeden z głównych przedstawicieli cyberpunkowej science fiction, opublikował niedawno romans historyczny osadzony w najbliższej przyszłości, oparty na założeniu, że rozpad systemów społecznych będzie prowadził do zdecentralizowanej proliferacji eksperymentów w codziennym życiu: gigantyczne korporacje robotnicze, niezależne enklawy, których głównym celem jest „piractwo danych”, enklawy zielono-socjal-demokratów, enklawy funkcjonujące pod hasłem Zero Work, anarchistyczne strefy wyzwolone itd. Gospodarka informacją, która wspiera tę różnorodność, nosi nazwę Sieci; te enklawy (a także tytuł powieści) to Islands in the Net [Wyspy Sieci].
+
+Średniowieczni asasyni ufundowali Państwo — sieć górskich ustroni i zamków oddalonych od siebie o tysiące mil, strategicznie niedostępnych dla wszelkich agresorów i połączonych obiegiem informacji dostarczanych przez tajnych agentów. Owemu Państwu, będącemu w stanie wojny z wszelkimi rządami, przyświecał jeden tylko cel: zdobywanie wiedzy. W obliczu osiągnięć współczesnej technologii, której szczytowym dziełem są satelity szpiegowskie, tego typu autonomia to romantyczne marzenie. Nie ma już żadnych pirackich wysp! W przyszłości ta sama technologia — wolna od wszelkiej kontroli politycznej — umożliwi istnienie całego świata autonomicznych stref. Na razie jednak taka koncepcja funkcjonuje wyłącznie w domenie science fiction i pozostaje wciąż czystą spekulacją.
+
+Czyżby nam, którzy żyjemy teraz, nie było pisane doświadczyć tego, czym jest autonomia, czyżbyśmy nigdy nie mieli stanąć, choćby tylko na chwilę, na skrawku ziemi, którym rządzi wyłącznie wolność? Czyżbyśmy dali się zredukować do samej nostalgii za przeszłością, względnie do nostalgii za przyszłością? Czy naprawdę musimy czekać, aż cały świat uwolni się od kontroli politycznej, zanim choć jedno z nas będzie mogło powiedzieć, że wie, co to wolność? W tym miejscu połączone siły logiki i emocji obalają taką supozycję. Rozsądek podpowiada, że nie można walczyć z tym, czego się nie zna, a serce burzy się na widok świata, który tylko naszemu pokoleniu narzuca podobną niesprawiedliwość.
+
+Powiedzieć: „Nie będę wolny, dopóki wszyscy ludzie (albo wszystkie istoty czujące) nie będą wolne”, to zwyczajnie zakopać się w jakimś nirwanowym stuporze, to zrzec się naszego człowieczeństwa, to powiedzieć, że wszyscy jesteśmy loserami.
+
+Wierzę, że …
