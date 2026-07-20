@@ -25,6 +25,11 @@ links:
   - url: "https://library.fes.de/cgi-bin/courage.pl?id=07.00918&dok=198104&f=198104_004&l=198104_009&c=198104_004 "
     text: "Frauen Besetzer Hausen"
 files: []
+files:
+  - name: "squatting-in-west-berlin-hooligan-press.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/squatting-in-west-berlin-hooligan-press.pdf"
+    hosted: true
 ---
 # Squatting In West Berlin - Hooligan Press
 
