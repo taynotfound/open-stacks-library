@@ -23,6 +23,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anticolonial-separatism-in-the-neoliberal-era.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anticolonial-separatism-in-the-neoliberal-era.epub
+    hosted: true
 ---
 
 # Anticolonial Separatism in the Neoliberal Era
