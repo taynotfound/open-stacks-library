@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/8cd8480d04a48d80.jpg"
 links: []
 files: []
+files:
+  - name: "revolutionary-self-theory-a-beginners-manual-larry-law.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/revolutionary-self-theory-a-beginners-manual-larry-law.pdf"
+    hosted: true
 ---
 # Revolutionary self-theory: A beginners' manual - Larry Law
 
