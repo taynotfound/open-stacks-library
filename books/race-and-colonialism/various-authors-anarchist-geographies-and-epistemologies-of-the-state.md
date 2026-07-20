@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchist-geographies-and-epistemologies-of-the-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchist-geographies-and-epistemologies-of-the-state.epub
+    hosted: true
 ---
 
 # Anarchist Geographies and Epistemologies of the State
