@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-christian-teaching.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-christian-teaching.epub
+    hosted: true
 ---
 
 # The Christian Teaching
