@@ -24,6 +24,11 @@ links:
   - url: "http://www.red-star-research.org.uk/rpm/rpm.html"
     text: "Revolutions Per Minute"
 files: []
+files:
+  - name: "fascists-and-police-routed-the-battle-of-cable-street-reg-we.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fascists-and-police-routed-the-battle-of-cable-street-reg-we.pdf"
+    hosted: true
 ---
 # Fascists and police routed: the battle of Cable Street - Reg Weston
 
