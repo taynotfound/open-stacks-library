@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: on-the-phenomenology-of-giant-puppets.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/on-the-phenomenology-of-giant-puppets.epub
+    hosted: true
 ---
 
 # On the Phenomenology of Giant Puppets
