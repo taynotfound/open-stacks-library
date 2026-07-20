@@ -17,7 +17,14 @@ files:
   - name: "The shoot-out at Rue Grange aux Belles, 1924.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/The shoot-out at Rue Grange aux Belles, 1924.pdf"
-    hosted: false
+    hosted: false  - name: "shoot-out-rue-grange-aux-belles-1924.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shoot-out-rue-grange-aux-belles-1924.pdf"
+    hosted: true
+  - name: "shoot-out-rue-grange-aux-belles-1924.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shoot-out-rue-grange-aux-belles-1924.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/shoot-out-rue-grange-aux-belles-1924)
