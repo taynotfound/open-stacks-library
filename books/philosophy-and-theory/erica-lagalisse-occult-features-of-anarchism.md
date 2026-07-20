@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: occult-features-of-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/occult-features-of-anarchism.epub
+    hosted: true
 ---
 
 # Occult Features of Anarchism
