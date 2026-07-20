@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-philosophy-of-egoism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-philosophy-of-egoism.epub
+    hosted: true
 ---
 
 # The Philosophy of Egoism
