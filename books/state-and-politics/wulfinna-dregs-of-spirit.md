@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: dregs-of-spirit.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/dregs-of-spirit.epub
+    hosted: true
 ---
 
 # Dregs of Spirit
