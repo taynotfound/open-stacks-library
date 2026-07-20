@@ -19,4 +19,62 @@ files:
     hosted: false
 ---
 
-Klasyczna lewicowa definicja państwa określa go jako narzędzie represji w dłoniach klasy uprzywilejowanej. Przy pomocy policji, sądów, więzień, wojska utrzymuje „konsensus” burżuazyjny, rozbija ruchy protestu podważające fundamenty hierarchicznej struktury. Państwo jest ujmowane w tej tradycji jako bezpośrednio represyjne, zbrojne ramie panowania kapitału. Późniejsza „reforma” definicji, czy też jej dookreślenie, rozszerza ją o ideologiczne aparaty, które internalizują system w jednostkach. Nauczają odpowiednich zachowań i wartości, sposoby przemawiania i poruszania, maskując tym samym nagą represyjność państwa. Skolonizowawszy umysły klas podporządkowanych, państwo coraz rzadziej musi używać nagiej przemocy. Wystarczą oceny w szkole... Rozszerzenie definicji nie czyni poprzedniej, nazwijmy to klasycznie lewicową perspektywą, czy też za Althusserem „opisową teorią”, nieaktualną, lecz ją wzbogaca. Naga represja policyjnej pałki jest wciąż istotnym elementem, podobnie jak ukryta represja ławek szkolnych, programów telewizyjnych i Gazety Wyborczej. Wzbogacenie definicji nie tyle czyni represyjne ujmowanie państwa za teorie passe, lecz tłumaczy maskowanie nagiej represyjności, samego państwa, prawdy o nim. Liberalna ideologia ujmuje państwo jako instytucję, która reprezentuje interesy całego społeczeństwa, stara się harmonizować poszczególne, indywidualne interesy tak, by realizacja ich nie wchodziła w konflikt z interesami innych ludzi. Nie ograniczała wolności innego. Samo w sobie państwo jest neutralne, nie faworyzuje żadnej z grup czy też jednostek. Będące wytworem umowy społecznej interweniuje jedynie w przypadku naruszaniu podstawowych zasad, czy gdy jednostka, grupa postępuje nierozumnie. Policja wychodzi na ulicę w celu obrony obiektywnych zasad, rozumu, czy woli powszechnej. Jedyne co policja robi, według klasycznych ideologów umowy społecznej, to zmusza zbuntowaną jednostkę do wolności, naucza ją zasad rozumu,wobec których protest jest szaleństwem. Policjant jest tutaj lekarzem i nauczycielem, obrońcą rozumowego, obiektywnego porządku i woli powszechnej, interesu społecznego. Tym co w liberalnej koncepcji umowy społecznej zostaje zapomniane, pominięte, to fakt na który między innymi wskazują feministki, mianowicie, że umowa została podpisana (o ile została) przez mężczyzn. I to mężczyzn z klas uprzywilejowanych. Robotnicy i kobiety zostali pierwotnie wykluczeni ze struktury społeczeństwa obywatelskiego. Od początku narodzin radykalnej teorii lewicowej wskazywano, że uznanie państwa za instytucję neutralną, mającą harmonizować partykularne interesy, jest narracją ideologiczną. Klasy uprzywilejowane, stwierdzają myśliciele, prezentują swoje partykularne interesy, jako interesy uniwersalne. Historycznie wytworzony porządek społeczny prezentowany jest jako porządek odwieczny i naturalny. Przy pomocy aparatów ideologicznych maskują własną prawdę o partykularności interesów, historyczności własnego bytu. W tej, radykalnie lewicowej perspektywie, policja nie ma na celu ochrony społeczeństwa przed aspołecznymi jednostkami, lecz utrzymywać stabilność hierarchicznego systemu. Pacyfikować klasy i grupy występujące przeciwko dominacji i niesprawiedliwości, żywioły podwalające same fundamenty umowy społecznej bogatych braci. Wszelkie odwołania do porządku, są ideologicznym uzasadnieniem nagiej przemocy, występującej w interesie Coca- Coli i NATO. Jakie teoretyczne i praktyczne skutki ma ujęcie funkcji policji w perspektywie radykalnie lewicowej? Przede wszystkim powinniśmy sobie uzmysłowić, że nie ma czegoś takiego jak przekroczenie uprawnień przez policję, czy też „nadużycia” wobec ruchów antysystemowch. Coś takiego może występować jedynie wobec jednostek, które spotykają się z gwałtami, znieważaniem okradaniem... „spontaniczną” przemocą fizyczną czy psychiczną, której nie da się wytłumaczyć funkcją stabilizująca niesprawiedliwy porządek społeczny. Jeśli chodzi o działaczy społecznych, to na miłe traktowanie przez policję mogą liczy…
+Klasyczna lewicowa definicja państwa określa go jako narzędzie represji w dłoniach klasy
+uprzywilejowanej. Przy pomocy policji, sądów, więzień, wojska utrzymuje „konsensus”
+burżuazyjny, rozbija ruchy protestu podważające fundamenty hierarchicznej struktury.
+Państwo jest ujmowane w tej tradycji jako bezpośrednio represyjne, zbrojne ramie panowania
+kapitału. Późniejsza „reforma” definicji, czy też jej dookreślenie, rozszerza ją o ideologiczne
+aparaty, które internalizują system w jednostkach. Nauczają odpowiednich zachowań i
+wartości, sposoby przemawiania i poruszania, maskując tym samym nagą represyjność
+państwa. Skolonizowawszy umysły klas podporządkowanych, państwo coraz rzadziej musi
+używać nagiej przemocy. Wystarczą oceny w szkole...
+
+Rozszerzenie definicji nie czyni poprzedniej, nazwijmy to klasycznie lewicową perspektywą,
+czy też za Althusserem „opisową teorią”, nieaktualną, lecz ją wzbogaca. Naga represja
+policyjnej pałki jest wciąż istotnym elementem, podobnie jak ukryta represja ławek szkolnych,
+programów telewizyjnych i Gazety Wyborczej. Wzbogacenie definicji nie tyle czyni represyjne
+ujmowanie państwa za teorie passe, lecz tłumaczy maskowanie nagiej represyjności, samego
+państwa, prawdy o nim.
+
+Liberalna ideologia ujmuje państwo jako instytucję, która reprezentuje interesy całego
+społeczeństwa, stara się harmonizować poszczególne, indywidualne interesy tak, by
+realizacja ich nie wchodziła w konflikt z interesami innych ludzi. Nie ograniczała wolności
+innego. Samo w sobie państwo jest neutralne, nie faworyzuje żadnej z grup czy też jednostek.
+Będące wytworem umowy społecznej interweniuje jedynie w przypadku naruszaniu
+podstawowych zasad, czy gdy jednostka, grupa postępuje nierozumnie. Policja wychodzi na
+ulicę w celu obrony obiektywnych zasad, rozumu, czy woli powszechnej. Jedyne co policja
+robi, według klasycznych ideologów umowy społecznej, to zmusza zbuntowaną jednostkę do
+wolności, naucza ją zasad rozumu,wobec których protest jest szaleństwem. Policjant jest tutaj
+lekarzem i nauczycielem, obrońcą rozumowego, obiektywnego porządku i woli powszechnej,
+interesu społecznego.
+
+Tym co w liberalnej koncepcji umowy społecznej zostaje zapomniane, pominięte, to fakt na
+który między innymi wskazują feministki, mianowicie, że umowa została podpisana (o ile
+została) przez mężczyzn. I to mężczyzn z klas uprzywilejowanych. Robotnicy i kobiety zostali
+pierwotnie wykluczeni ze struktury społeczeństwa obywatelskiego.
+
+Od początku narodzin radykalnej teorii lewicowej wskazywano, że uznanie państwa za
+instytucję neutralną, mającą harmonizować partykularne interesy, jest narracją ideologiczną.
+Klasy uprzywilejowane, stwierdzają myśliciele, prezentują swoje partykularne interesy, jako
+interesy uniwersalne. Historycznie wytworzony porządek społeczny prezentowany jest jako
+porządek odwieczny i naturalny. Przy pomocy aparatów ideologicznych maskują własną
+prawdę o partykularności interesów, historyczności własnego bytu.
+
+W tej, radykalnie lewicowej perspektywie, policja nie ma na celu ochrony społeczeństwa
+przed aspołecznymi jednostkami, lecz utrzymywać stabilność hierarchicznego systemu.
+Pacyfikować klasy i grupy występujące przeciwko dominacji i niesprawiedliwości, żywioły
+podwalające same fundamenty umowy społecznej bogatych braci. Wszelkie odwołania do
+porządku, są ideologicznym uzasadnieniem nagiej przemocy, występującej w interesie Coca-
+Coli i NATO.
+
+Jakie teoretyczne i praktyczne skutki ma ujęcie funkcji policji w perspektywie radykalnie
+lewicowej?
+
+Przede wszystkim powinniśmy sobie uzmysłowić, że nie ma czegoś takiego jak przekroczenie
+uprawnień przez policję, czy też „nadużycia” wobec ruchów antysystemowch. Coś takiego
+może występować jedynie wobec jednostek, które spotykają się z gwałtami, znieważaniem okradaniem... „spontaniczną”
+przemocą fizyczną czy psychiczną, której nie da się
+wytłumaczyć funkcją stabilizująca niesprawiedliwy
+porządek społeczny. Jeśli chodzi o działaczy
+społecznych, to na miłe traktowanie przez policję
+mog…
