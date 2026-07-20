@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: african-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/african-anarchism.epub
+    hosted: true
 ---
 
 # African Anarchism
