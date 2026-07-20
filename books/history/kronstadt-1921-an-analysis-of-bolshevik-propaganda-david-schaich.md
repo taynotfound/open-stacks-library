@@ -21,6 +21,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/3fdb5246c7a70ae8.jpg"
 links: []
 files: []
+files:
+  - name: "kronstadt-1921-an-analysis-of-bolshevik-propaganda-david-sch.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/kronstadt-1921-an-analysis-of-bolshevik-propaganda-david-sch.pdf"
+    hosted: true
 ---
 # Kronstadt 1921: An analysis of Bolshevik propaganda - David Schaich
 
