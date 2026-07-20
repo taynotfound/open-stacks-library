@@ -20,6 +20,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/28a898cfd56d4e9c.jpg"
 links: []
 files: []
+files:
+  - name: "mortar-volume-1.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/mortar-volume-1.pdf"
+    hosted: true
 ---
 # Mortar volume 1
 
