@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/288cb8f73aae99e7.jpg"
 links: []
 files: []
+files:
+  - name: "wars-and-capitalism-kropotkin.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/wars-and-capitalism-kropotkin.pdf"
+    hosted: true
 ---
 # Wars and Capitalism - Kropotkin
 
