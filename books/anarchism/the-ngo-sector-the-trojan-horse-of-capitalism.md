@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e823d9410bed5618.jpg"
 links: []
 files: []
+files:
+  - name: "the-ngo-sector-the-trojan-horse-of-capitalism.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-ngo-sector-the-trojan-horse-of-capitalism.pdf"
+    hosted: true
 ---
 # The NGO sector: The Trojan horse of capitalism
 
