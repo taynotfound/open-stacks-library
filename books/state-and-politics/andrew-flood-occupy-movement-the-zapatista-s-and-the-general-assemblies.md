@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: occupy-movement-the-zapatista-u2019s-and-the-general-assemblies.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/occupy-movement-the-zapatista-u2019s-and-the-general-assemblies.epub
+    hosted: true
 ---
 
 # Occupy Movement, the Zapatista’s and the General Assemblies
