@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: liberty-vol-v-no-1.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/liberty-vol-v-no-1.epub
+    hosted: true
 ---
 
 # Liberty Vol. V. No. 1.
