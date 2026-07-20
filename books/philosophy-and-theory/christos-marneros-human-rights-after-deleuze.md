@@ -22,6 +22,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: human-rights-after-deleuze.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/human-rights-after-deleuze.epub
+    hosted: true
 ---
 
 # Human Rights After Deleuze
