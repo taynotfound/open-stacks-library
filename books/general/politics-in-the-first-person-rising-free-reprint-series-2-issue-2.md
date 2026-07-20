@@ -20,6 +20,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/33ea5550fcb557a0.png"
 links: []
 files: []
+files:
+  - name: "politics-in-the-first-person-rising-free-reprint-series-2-is.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/politics-in-the-first-person-rising-free-reprint-series-2-is.pdf"
+    hosted: true
 ---
 # Politics in the First Person - Rising Free reprint series 2 issue 2
 
