@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchism-and-chinese-political-culture.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-and-chinese-political-culture.epub
+    hosted: true
 ---
 
 # Anarchism and Chinese Political Culture
