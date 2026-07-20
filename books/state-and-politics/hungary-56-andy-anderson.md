@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f82bd220af3c6772.jpg"
 links: []
 files: []
+files:
+  - name: "hungary-56-andy-anderson.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/hungary-56-andy-anderson.epub"
+    hosted: true
 ---
 # Hungary '56 - Andy Anderson
 
