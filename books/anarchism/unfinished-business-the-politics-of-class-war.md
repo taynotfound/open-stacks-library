@@ -34,6 +34,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/947c737e4f110d4f.jpg"
 links: []
 files: []
+files:
+  - name: "unfinished-business-the-politics-of-class-war.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/unfinished-business-the-politics-of-class-war.pdf"
+    hosted: true
 ---
 # Unfinished Business - The politics of Class War
 
