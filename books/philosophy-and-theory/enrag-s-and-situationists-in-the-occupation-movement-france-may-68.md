@@ -19,6 +19,11 @@ links:
   - url: "https://www.cddc.vt.edu/sionline/si/enrages.html "
     text: "the Situationist International Online archive"
 files: []
+files:
+  - name: "enrag-s-and-situationists-in-the-occupation-movement-france-.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/enrag-s-and-situationists-in-the-occupation-movement-france-.pdf"
+    hosted: true
 ---
 # Enragés and Situationists in the occupation movement, France, May ’68
 
