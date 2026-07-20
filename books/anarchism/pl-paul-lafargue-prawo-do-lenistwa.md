@@ -19,4 +19,74 @@ files:
     hosted: false
 ---
 
-       Wstęp        Rozdział I - Nieszczęsny dogmat        Rozdział II - Błogosławieństwo pracy        Rozdział III - Konsekwencje nadprodukcji        Rozdział IV - Nowe piosenki do nowej muzyki        Dodatek W 1849 roku na posiedzeniu Komisji Oświaty Publicznej Thiers oświadczył: „Chcę, by duchowieństwo na nowo miało potężny wpływ na oświatę, ponieważ liczę nań, że będzie rozpowszechniało tę piękną filozofię, która naucza, iż człowiek istnieje na tej ziemi, by cierpieć, nie zaś tę, która, na odwrót, wzywa, by używał życia”. W ten sposób Thiers, uosobienie drapieżnego egoizmu i ciasnej inteligencji burżuazji, sformułował jej moralność. Burżuazja w czasach, gdy walczyła przeciwko szlachcie popieranej przez duchowieństwo, głosiła wolność badań i ateizm. Ale gdy zwyciężyła, zmieniła ton i sposób działania. Dziś chce uczynić z religii podporę swej ekonomicznej i politycznej władzy. W XV i XVI stuleciu radośnie sięgnęła po pogańskie tradycje i gloryfikowała sprawy ciała i jego namiętności, potępiane przez chrześcijaństwo. W naszych czasach, obsypana wszelkimi dobrami i rozkoszami, wypiera się swych myślicieli: Rabelais'ów i Diderotów, i zaleca wstrzemięźliwość robotnikom. Moralność kapitalistyczna, żałosna parodia moralności chrześcijańskiej, rzuca klątwę na cielesne sprawy ludzi pracy. Jej ideałem jest redukcja potrzeb wytwórcy do najskrajniejszego minimum, zniweczenie jego radości i namiętności i skazanie go na pełnienie roli maszyny pracującej bez przerwy i zmiłowania. Zadaniem rewolucyjnych socjalistów jest wznowienie walki, którą toczyli burżuazyjni filozofowie i pamfleciści. Ich obowiązkiem jest zwalczanie moralnych i społecznych teorii kapitalizmu, usunięcie ze świadomości klasy, powołanej do dokonania przemian, przesądów zaszczepionych jej przez klasę panującą i rzucenie w twarz wszystkim obłudnym moralistom, że ziemia nie będzie padołem łez dla robotników, że w przyszłym społeczeństwie komunistycznym, które stworzymy („w miarę możności – pokojowo, jeśli nie – to przemocą”), namiętności ludzkie, „ponieważ są z natury dobre, trzeba będzie tylko o tyle hamować, by nie czyniono z nich złego użytku” [1] . Osiągnie się ten cel przez zrównoważenie namiętności i harmonijny rozwój organizmu ludzkiego. Gdyż „rasa ludzka – jak stwierdza dr Beddoe – osiągnie swój maksymalny stopień energii i mocy moralnej wtedy, gdy zapewni się jej najwyższy stopień rozwoju fizycznego” [2] . Podobnie myślał i wielki przyrodnik Karol Darwin [3] . * Refutacja Prawa do pracy, ponownie wydana z kilkoma dodatkowymi przypisami, ukazała się w Egalité w 1880 roku. P. L. Więzienie Sainte-Pélagie, 1883 „Pozwólcie nam być leniwymi we wszystkim, z wyjątkiem w kochaniu i w piciu, z wyjątkiem w byciu leniwymi” Lessing Dziwaczne szaleństwo ogarnęło klasę robotniczą krajów o rozwiniętej cywilizacji kapitalistycznej. To szaleństwo pociąga za sobą osobiste i społeczne niedole, torturujące od dwóch wieków zmęczoną ludzkość. Tym szaleństwem jest miłość do pracy, wściekła namiętność pracy aż do wyczerpania sił witalnych osobnika i jego potomstwa. Zamiast przeciwstawić się temu zboczeniu umysłowemu, kapłani, ekonomiści i moraliści uczynili z pracy przedmiot najwyższego kultu. Ślepi i ograniczeni ludzie pragnęli okazać się mądrzejsi od swego Boga; słabi i godni pogardy ludzie zapragnęli zrehabilitować to, co ich Bóg potępił. Ja, który nie jestem ani wyznawcą religii chrześcijańskiej, ani ekonomistą, ani moralistą, apeluję od ich sądu do sądu ich Boga; protestuję przeciwko ich religijnej, ekonomicznej czy wolnomyślnej moralności i powołuję się na straszne skutki pracy w społeczeństwie kapitalistycznym. Praca w społeczeństwie kapitalistycznym jest przyczyną niedorozwoju umysłowego i fizycznego. Porównajcie konia pełnej krwi ze stajen Rothschilda, obrządzanego przez czeladź dworską, z ciężkim bydlęciem z farmy normandzkiej, które uprawia ziemię, taszczy nawóz i zwozi zboże do stodoły. Przypatrzcie się szlachetnemu dzikusowi, którego misjonarze handlu i handlarze religii jeszc…
+Wstęp
+
+Rozdział I - Nieszczęsny dogmat
+
+Rozdział II - Błogosławieństwo pracy
+
+Rozdział III - Konsekwencje nadprodukcji
+
+Rozdział IV - Nowe piosenki do nowej muzyki
+
+Dodatek
+
+W 1849 roku na posiedzeniu Komisji Oświaty Publicznej Thiers oświadczył: „Chcę, by
+duchowieństwo na nowo miało potężny wpływ na oświatę, ponieważ liczę nań, że będzie rozpowszechniało
+tę piękną filozofię, która naucza, iż człowiek istnieje na tej ziemi, by cierpieć, nie zaś tę, która, na odwrót,
+wzywa, by używał życia”. W ten sposób Thiers, uosobienie drapieżnego egoizmu i ciasnej inteligencji
+burżuazji, sformułował jej moralność.
+
+Burżuazja w czasach, gdy walczyła przeciwko szlachcie popieranej przez duchowieństwo, głosiła
+wolność badań i ateizm. Ale gdy zwyciężyła, zmieniła ton i sposób działania. Dziś chce uczynić z religii
+podporę swej ekonomicznej i politycznej władzy. W XV i XVI stuleciu radośnie sięgnęła po pogańskie
+tradycje i gloryfikowała sprawy ciała i jego namiętności, potępiane przez chrześcijaństwo. W naszych
+czasach, obsypana wszelkimi dobrami i rozkoszami, wypiera się swych myślicieli: Rabelais'ów i
+Diderotów, i zaleca wstrzemięźliwość robotnikom. Moralność kapitalistyczna, żałosna parodia moralności
+chrześcijańskiej, rzuca klątwę na cielesne sprawy ludzi pracy. Jej ideałem jest redukcja potrzeb wytwórcy
+do najskrajniejszego minimum, zniweczenie jego radości i namiętności i skazanie go na pełnienie roli
+maszyny pracującej bez przerwy i zmiłowania.
+
+Zadaniem rewolucyjnych socjalistów jest wznowienie walki, którą toczyli burżuazyjni filozofowie i
+pamfleciści. Ich obowiązkiem jest zwalczanie moralnych i społecznych teorii kapitalizmu, usunięcie ze
+świadomości klasy, powołanej do dokonania przemian, przesądów zaszczepionych jej przez klasę panującą
+i rzucenie w twarz wszystkim obłudnym moralistom, że ziemia nie będzie padołem łez dla robotników, że w
+przyszłym społeczeństwie komunistycznym, które stworzymy („w miarę możności – pokojowo, jeśli nie –
+to przemocą”), namiętności ludzkie, „ponieważ są z natury dobre, trzeba będzie tylko o tyle hamować, by
+nie czyniono z nich złego użytku”[1]. Osiągnie się ten cel przez zrównoważenie namiętności i harmonijny
+rozwój organizmu ludzkiego. Gdyż „rasa ludzka – jak stwierdza dr Beddoe – osiągnie swój maksymalny
+stopień energii i mocy moralnej wtedy, gdy zapewni się jej najwyższy stopień rozwoju fizycznego”[2].
+
+Podobnie myślał i wielki przyrodnik Karol Darwin[3].
+
+*
+
+Refutacja Prawa do pracy, ponownie wydana z kilkoma dodatkowymi przypisami, ukazała się w
+Egalité w 1880 roku.
+
+P. L.
+
+Więzienie Sainte-Pélagie, 1883
+
+„Pozwólcie nam być leniwymi we wszystkim,
+
+z wyjątkiem w kochaniu i w piciu,
+
+z wyjątkiem w byciu leniwymi”
+
+Lessing
+
+Dziwaczne szaleństwo ogarnęło klasę robotniczą krajów o rozwiniętej cywilizacji kapitalistycznej.
+To szaleństwo pociąga za sobą osobiste i społeczne niedole, torturujące od dwóch wieków zmęczoną
+ludzkość. Tym szaleństwem jest miłość do pracy, wściekła namiętność pracy aż do wyczerpania sił witalnych osobnika i jego potomstwa. Zamiast przeciwstawić się temu zboczeniu umysłowemu, kapłani,
+ekonomiści i moraliści uczynili z pracy przedmiot najwyższego kultu. Ślepi i ograniczeni ludzie pragnęli
+okazać się mądrzejsi od swego Boga; słabi i godni pogardy ludzie zapragnęli zrehabilitować to, co ich Bóg
+potępił. Ja, który nie jestem ani wyznawcą religii chrześcijańskiej, ani ekonomistą, ani moralistą, apeluję od
+ich sądu do sądu ich Boga; protestuję przeciwko ich religijnej, ekonomicznej czy wolnomyślnej moralności
+i powołuję się na straszne skutki pracy w społeczeństwie kapitalistycznym.
+
+Praca w społeczeństwie kapitalistycznym jest przyczyną niedorozwoju umysłowego i fizycznego.
+Porównajcie konia pełnej krwi ze stajen Rothschilda, obrządzanego przez czeladź dworską, z ciężkim
+bydlęciem z farmy normandzkiej, które uprawia ziemię, taszczy nawóz i zwozi zboże do stodoły.
+Przypatrzcie się szlachetnemu dzikusowi, którego misjonarze handlu i handlarze religii jeszcze nie
+zdeprawowali chrześcij…

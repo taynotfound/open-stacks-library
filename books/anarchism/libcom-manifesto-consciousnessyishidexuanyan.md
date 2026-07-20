@@ -20,9 +20,9 @@ files:
     hosted: false
 ---
 
-[Read on libcom.org](https://libcom.org/article/manifesto-consciousnessyishidexuanyan)
+Preface to the Third Edition of The Manifesto of Consciousness
 
-Preface to the Third Edition of The Manifesto of Consciousness (May 29, 2026)
+(May 29, 2026)
 
 Only half a month has passed since the finalization of the first edition of this book. During this period, through continuous deduction and reflection on the issues raised in the text, I have identified several fundamental flaws.
 
@@ -37,3 +37,7 @@ These problems have emerged gradually in subsequent deductions. As is often the 
 The completed line of inquiry is elaborated in another work. For the redefinition of "consciousness as labor power"—where "conscious labor" is redefined as the deployment, in the mental sphere, of the ensemble of physical and intellectual capacities in the Marxist sense, and "consciousness as labor power" is defined as a qualitatively distinct form of special labor power differentiated from it—as well as the systematic deduction of the limits of capital and the operational logic of communism on this basis, please refer to my new book From the Array of No-Thing to the Governance of Some-Thing: Consciousness as Labor Power and the End of Capital (2026), DOI: https://doi.org/10.5281/zenodo.20417028
 
 As an early record of the evolution of my thinking, this book retains documentary value, but it does not represent a mature formulation of these issues.
+
+Zhang Haoxiang
+
+May 29, 2026

@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-     APRESENTAÇÃO      ANTONIO CLEYTON FERREIRA SILVA      LUTA TRANS E ANARQUISMO QUEER: ROMPENDO OS DOGMAS (TRANS)FEMINISTAS PARA A LIBERAÇÃO TOTAL        O GÊNERO E O SEXO COMO CONSTRUÇÕES SOCIAIS        RUMO À ABOLIÇÃO DO GÊNERO        ANEXO: A PSEUDO-ABOLIÇÃO DE GÊNERO DO FEMINISMO RADICAL      BARTÔ HAVILÁH      “COMBINAMOS DE NÃO MORRER, PRECISÁVAMOS TAMBÉM QUE ELES TIVESSEM COMBINADO DE NÃO NOS MATAR”: NOTAS SOBRE A VIOLÊNCIA TOTAL CISHETEROSSEXUAL        OBLITERAÇÃO MOLECULAR: NOS LEVAM, E ÀS VEZES DE MANEIRA IMPERCEPTÍVEL        GUERRA ONTOLÓGICA E VIOLÊNCIA QUE SE AUTOPRESSUPÕE        MENOS REPRESENTAÇÃO, MAIS ABOLIÇÃO      LUTE COMO UM BOYCETA      SISTEMA, SAÚDE E FABRICAÇÃO DE CORPOS      CURA CIS      LAÇOS DE SANGUE Dedicamos essa edição à memória de Cássia Siqueira Figueiredo. A capa da edição homenageia sua obra “Dias”, lançada em 2015, que pode ser encontrada em seu perfil na plataforma “BandCamp”. “ Vivemos em um mundo desagradável, onde não apenas as pessoas, mas os poderes estabelecidos têm interesse em nos comunicar afetos tristes. A tristeza, os afetos tristes são todos aqueles que diminuem nossa potência de agir. Os poderes estabelecidos têm necessidade de nossas tristezas para fazer de nós escravos. O tirano, o padre, os tomadores de almas, têm necessidade de nos persuadir que a vida é dura e pesada. Os poderes têm menos necessidade de nos reprimir do que de nos angustiar, ou, como diz Virilio, de administrar e organizar nossos pequenos terrores íntimos. A longa lamentação universal sobre a vida: a falta-de-ser que é a vida... Por mais que se diga "dancemos", não se fica alegre. Por mais que se diga "que infelicidade a morte", teria sido preciso viver para ter alguma coisa a perder. Os doentes, tanto da alma quanto do corpo, não nos largarão, vampiros, enquanto não nos tiverem comunicado sua neurose e sua angústia, sua castração bem-amada, o ressentimento contra a vida, o imundo contágio. Tudo é caso de sangue. Não é fácil ser um homem livre: fugir da peste, organizar encontros, aumentar a potência de agir, afetar-se de alegria, multiplicar os afetos que exprimem ou envolvem um máximo de afirmação. Fazer do corpo uma potência que não se reduz ao organismo, fazer do pensamento uma potência que não se reduz à consciência.” Trecho de Deleuze em “Diálogos”, páginas 50 e 51. Tradução de Eloisa Araújo Ribeiro. Publicado pela editora Escuta em 1998. “À revelia do mundo, eu as convoco a viver apesar de tudo. Na radicalidade do impossível. Aqui, onde todas as portas estão fechadas, e por isso mesmo somos levadas a conhecer o mapa das brechas. Aqui, onde a noite infinita já não nos assusta, porque nossos olhares comungam com o escuro e com a indefinição das formas. Aqui, onde apenas morremos quando precisamos recriar nossos corpos e vidas. Aqui, onde os cálculos da política falham em atualizar suas totalizações. Aqui, onde não somos a promessa, mas o milagre. Aqui, onde não nos cabe salvar o mundo, o Brasil ou o que quer que seja. Onde nossas vidas impossíveis se manifestam umas nas outras e manifestam, com sua dissonância, dimensões e modalidades de mundo que nos recusamos a entregar ao poder. Aqui. Aqui ainda.” Trecho de Jota Mombaça, em “Ñ Ṽ NOS MATAR AGORA”, página 14. Publicado pela editora Cobogó em 2021. com bastante satisfação, apresentamos a primeira edição da revista trans-libertária ! organizar essa revista é uma empreitada, uma iniciativa que corresponde a sentimentos tanto de entusiasmo como de aflição. nosso contato com o que se pode entender por perspectivas trans-anarquistas não é recente, embora algumas nomenclaturas nos pareçam quase inéditas. como escrevemos na apresentação do acervo trans-anarquista , onde essa edição fica hospedada, podemos entender perspectivas trans-anarquistas como um conjunto de movimentos libertários, trans, cuir/queer e transfeministas contrários às normatividades institucionais da modernidade e que se movimentam de modo transversal em relação às diferentes formas de …
+APRESENTAÇÃO
+
+ANTONIO CLEYTON FERREIRA SILVA
+
+LUTA TRANS E ANARQUISMO QUEER: ROMPENDO OS DOGMAS (TRANS)FEMINISTAS PARA A LIBERAÇÃO TOTAL
+
+O GÊNERO E O SEXO COMO CONSTRUÇÕES SOCIAIS
+
+RUMO À ABOLIÇÃO DO GÊNERO
+
+ANEXO: A PSEUDO-ABOLIÇÃO DE GÊNERO DO FEMINISMO RADICAL
+
+BARTÔ HAVILÁH
+
+“COMBINAMOS DE NÃO MORRER, PRECISÁVAMOS TAMBÉM QUE ELES TIVESSEM COMBINADO DE NÃO NOS MATAR”: NOTAS SOBRE A VIOLÊNCIA TOTAL CISHETEROSSEXUAL
+
+OBLITERAÇÃO MOLECULAR: NOS LEVAM, E ÀS VEZES DE MANEIRA IMPERCEPTÍVEL
+
+GUERRA ONTOLÓGICA E VIOLÊNCIA QUE SE AUTOPRESSUPÕE
+
+MENOS REPRESENTAÇÃO, MAIS ABOLIÇÃO
+
+LUTE COMO UM BOYCETA
+
+SISTEMA, SAÚDE E FABRICAÇÃO DE CORPOS
+
+CURA CIS
+
+LAÇOS DE SANGUE
+
+Dedicamos essa edição à memória de
+
+Cássia Siqueira Figueiredo.
+
+A capa da edição homenageia sua obra “Dias”, lançada em 2015, que pode ser encontrada em seu perfil na plataforma “BandCamp”.
+
+
+
+“Vivemos em um mundo desagradável, onde não apenas as pessoas, mas os poderes estabelecidos têm interesse em nos comunicar afetos tristes. A tristeza, os afetos tristes são todos aqueles que diminuem nossa potência de agir. Os poderes estabelecidos têm necessidade de nossas tristezas para fazer de nós escravos. O tirano, o padre, os tomadores de almas, têm necessidade de nos persuadir que a vida é dura e pesada. Os poderes têm menos necessidade de nos reprimir do que de nos angustiar, ou, como diz Virilio, de administrar e organizar nossos pequenos terrores íntimos. A longa lamentação universal sobre a vida: a falta-de-ser que é a vida... Por mais que se diga "dancemos", não se fica alegre. Por mais que se diga "que infelicidade a morte", teria sido preciso viver para ter alguma coisa a perder. Os doentes, tanto da alma quanto do corpo, não nos largarão, vampiros, enquanto não nos tiverem comunicado sua neurose e sua angústia, sua castração bem-amada, o ressentimento contra a vida, o imundo contágio. Tudo é caso de sangue. Não é fácil ser um homem livre: fugir da peste, organizar encontros, aumentar a potência de agir, afetar-se de alegria, multiplicar os afetos que exprimem ou envolvem um máximo de afirmação. Fazer do corpo uma potência que não se reduz ao organismo, fazer do pensamento uma potência que não se reduz à consciência.”
+
+Trecho de Deleuze em “Diálogos”, páginas 50 e 51. Tradução de Eloisa Araújo Ribeiro. Publicado pela editora Escuta em 1998.
+
+“À revelia do mundo, eu as convoco a viver apesar de tudo. Na radicalidade do impossível. Aqui, onde todas as portas estão fechadas, e por isso mesmo somos levadas a conhecer o mapa das brechas. Aqui, onde a noite infinita já não nos assusta, porque nossos olhares comungam com o escuro e com a indefinição das formas. Aqui, onde apenas morremos quando precisamos recriar nossos corpos e vidas. Aqui, onde os cálculos da política falham em atualizar suas totalizações. Aqui, onde não somos a promessa, mas o milagre. Aqui, onde não nos cabe salvar o mundo, o Brasil ou o que quer que seja. Onde nossas vidas impossíveis se manifestam umas nas outras e manifestam, com sua dissonância, dimensões e modalidades de mundo que nos recusamos a entregar ao poder. Aqui. Aqui ainda.”
+
+Trecho de Jota Mombaça, em “Ñ Ṽ NOS MATAR AGORA”, página 14. Publicado pela editora Cobogó em 2021.
+
+com bastante satisfação, apresentamos a primeira edição da revista trans-libertária!
+
+organizar essa revista é uma empreitada, uma iniciativa que corresponde a sentimentos tanto de entusiasmo como de aflição. nosso contato com o que se pode entender por perspectivas trans-anarquistas não é recente, embora algumas nomenclaturas nos pareçam quase inéditas. como escrevemos na apresentação do acervo trans-anarquista, onde essa edição fica hospedada, podemos entender perspectivas trans-anarquistas como um conjunto de movimentos libertários, trans, cuir/queer e transfeministas contrários às normatividades institucionais da modernidade e que se movimentam de modo transversal em relação às diferentes formas de violência que atravessam diferentes grupos. é uma definição basta…

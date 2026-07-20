@@ -19,4 +19,260 @@ files:
     hosted: false
 ---
 
-     Original Solidarity Introduction      The Russian Revolution      1917        February        February 27        March        March 10        April 2        April 7        April 23        April 23        May 1917        May 17        May 20        May 29        May 30–June 5        June 16        June 20–28        June–July        July 26–August 3        August 7–12        August 3        August 11        August 25        August 28        September        September 10        September 14        September 26        October 1        October 10        October 13        October 17–22        October 25        October 26        November 3        November 9        November 14        November 28        November 28        December 5        December (early):        December        December 13        December 20        December 23      1918        January 6        January 7–14        January 15–21        January 23–31        February        March 3        March 6–8        March 14–18        March        March 26        March 30        April 3        April 11–12        April 20        April 28        May        May 5        May 24–June 4        May 25        June 28        July 4–10        August        August 25–September l        August 1918        September 28        October        November 6–9        November 25–December 1        December        December      1919        January 16–25        March 2–7        April        June        October        December 2–4        December 5–9        December 16        December 27      1920        January        January 12        January 10–21        February        March        March 29–April 4        April        April 6–15        June–July        July        August        Early September        September 22 25        October        November 2–6        November 14        November        November 8–9        December 2        December 7        December 22–29        December 30      1921        January 13        January 14        January 16        January 21        January 24        January 25        February        March 17        March 8–16      Epilogue        May 1921        May 17–25      Conclusion This pamphlet has two aims. It seeks to contribute new factual material to the current discussion on ‘workers’ control’. And it attempts a new kind of analysis of the fate of the Russian Revolution. The two objectives, as will be shown, are inter-related. Workers’ Control ‘Workers’ control’ is again being talked about. Nationalisation (whether of the Western or Eastern variety) and the rule of the ‘Party of the working class’ (whether of the Eastern or Western variety) have manifestly failed. They have not satisfied the hopes and expectations of ordinary people — or given them any real say in determining the conditions under which they live. This has created new interest in the subject of ‘workers’ control’ and in ideas which, in a different context, were common currency at the beginning of the century. Today people as different as Young Liberals and Labour ‘lefts’, tired trade union officials and ‘Trotskyists’ of one kind or another — not to mention anarcho-syndicalists and ‘libertarian Marxists’ — all talk about ‘workers’ control’. This suggests one of two things. Either these people have common objectives — which seems unlikely — or the words serve to mask as much as they convey. We hope to dispel some of the confusion by recalling how, at a critical stage of history, the advocates of different conceptions of ‘workers’ control’ confronted one another and by showing who won, why they won, and what the consequences were to be. This return to the historical roots of the controversy is not motivated by an addiction to archivism or by a partiality for the esoteric. The revolutionary movement in Britain — unlike that in several European countries — has never been much concerned with theory, preferring on the whole an empirical, ‘suck-it-and-see’ kind of approach. This may at times have helped it a…
+Original Solidarity Introduction
+
+The Russian Revolution
+
+1917
+
+February
+
+February 27
+
+March
+
+March 10
+
+April 2
+
+April 7
+
+April 23
+
+April 23
+
+May 1917
+
+May 17
+
+May 20
+
+May 29
+
+May 30–June 5
+
+June 16
+
+June 20–28
+
+June–July
+
+July 26–August 3
+
+August 7–12
+
+August 3
+
+August 11
+
+August 25
+
+August 28
+
+September
+
+September 10
+
+September 14
+
+September 26
+
+October 1
+
+October 10
+
+October 13
+
+October 17–22
+
+October 25
+
+October 26
+
+November 3
+
+November 9
+
+November 14
+
+November 28
+
+November 28
+
+December 5
+
+December (early):
+
+December
+
+December 13
+
+December 20
+
+December 23
+
+1918
+
+January 6
+
+January 7–14
+
+January 15–21
+
+January 23–31
+
+February
+
+March 3
+
+March 6–8
+
+March 14–18
+
+March
+
+March 26
+
+March 30
+
+April 3
+
+April 11–12
+
+April 20
+
+April 28
+
+May
+
+May 5
+
+May 24–June 4
+
+May 25
+
+June 28
+
+July 4–10
+
+August
+
+August 25–September l
+
+August 1918
+
+September 28
+
+October
+
+November 6–9
+
+November 25–December 1
+
+December
+
+December
+
+1919
+
+January 16–25
+
+March 2–7
+
+April
+
+June
+
+October
+
+December 2–4
+
+December 5–9
+
+December 16
+
+December 27
+
+1920
+
+January
+
+January 12
+
+January 10–21
+
+February
+
+March
+
+March 29–April 4
+
+April
+
+April 6–15
+
+June–July
+
+July
+
+August
+
+Early September
+
+September 22 25
+
+October
+
+November 2–6
+
+November 14
+
+November
+
+November 8–9
+
+December 2
+
+December 7
+
+December 22–29
+
+December 30
+
+1921
+
+January 13
+
+January 14
+
+January 16
+
+January 21
+
+January 24
+
+January 25
+
+February
+
+March 17
+
+March 8–16
+
+Epilogue
+
+May 1921
+
+May 17–25
+
+Conclusion
+
+This pamphlet has two aims. It seeks to contribute new factual material to the current discussion on ‘workers’ control’. And it attempts a new kind of analysis of the fate of the Russian Revolution. The two objectives, as will be shown, are inter-related.
+
+Workers’ Control ‘Workers’ control’ is again being talked about. Nationalisation (whether of the Western or Eastern variety) and the rule of the ‘Party of the working class’ (whether of the Eastern or Western variety) have manifestly failed. They have not satisfied the hopes and expectations of ordinary people — or given them any real say in determining the conditions under which they live. This has created new interest in the subject of ‘workers’ control’ and in ideas which, in a different context, were common currency at the beginning of the century.
+
+Today people as different as Young Liberals and Labour ‘lefts’, tired trade union officials and ‘Trotskyists’ of one kind or another — not to mention anarcho-syndicalists and ‘libertarian Marxists’ — all talk about ‘workers’ control’. This suggests one of two things. Either these people have common objectives — which seems unlikely — or the words serve to mask as much as they convey. We hope to dispel some of the confusion by recalling how, at a critical stage of history, the advocates of different conceptions of ‘workers’ control’ confronted one another and by showing who won, why they won, and what the consequences were to be.
+
+This return to the historical roots of the controversy is not motivated by an addiction to archivism or by a partiality for the esoteric. The revolutionary movement in Britain — unlike that in several European countries — has never been much concerned with theory, preferring on the whole an empirical, ‘suck-it-and-see’ kind of approach. This may at times have helped it avoid becoming bogged down in the swamps of metaphysical speculation but the overhead costs — in terms of clarity and consistency, have been heavy. Without a clear understanding of objectives and of the forces (including ideological forces) impeding advance — in short without a sense of history — the revolutionary struggle tends to become ‘all movement and no direction’. Without clear perspectives, revolutionaries tend to fall into traps — or be diverted into blind alleys — which. with a little knowledge of their own past, they could easily have avoided.
+
+The confusion about workers’ control (at least in Britain) is partly terminological. In the British movement (and to a lesser extent in the English language) a cl…

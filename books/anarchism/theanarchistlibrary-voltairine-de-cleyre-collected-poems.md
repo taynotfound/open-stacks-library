@@ -19,4 +19,236 @@ files:
     hosted: false
 ---
 
-     And Thou Too      The Hurricane      At the Grave in Waldheim      Ut Sementem Feceris, Ita Metes      The Dirge of the Sea      I Am      Love’s Ghost      Life or Death      The Toast of Despair      Mary Wollstone Craft      John P. Altgeld      In Memoriam      The Feast of Vultures      The Suicide’s Defense      Germinal      Santa Agueda      The Road Builders      Ave Et Vale      Marsh-Bloom      “Light Upon Waldheim”      Written — in — Red The moonlight rolls down like a river, The silence streams out like a sea; And far where the eastern winds quiver, My farewell goes floating to thee. Like night, when the sunset is fading And starbeams troop up in the skies, Through a cold, dark and lonely forever Gleams the light of the poet eyes. And sometimes when I am weary, When the path is thorny and Wild, I’ll look back to the Eyes in the twilight, Back to the eyes that smiled. And pray that a wreath like a rainbow May slip from the beautiful past, And Crown me again with the sweet, strong love And keep me, and hold me fast. For the way is not strown with petal soft, It is covered with hearts that weep, And the wounds I tread touch a deeper source Than you think it mine to keep. Down the years I shall move without you, Yet ever must feel the blow That caused me a deeper pain to give Than you will ever know. For the tears that dropped on my hands that night ‘Neath the mystical shining moon, Were a sacred dew, consecrated there, On the rose-altered heart of June. And the heart that beat against mine like a bird That is fluttering, wounded sore, With it’s nest all broken, deserted, torn, Will beat there forevermore. But the world moves on, and the piteous Earth Still groans in the monster pain; And the star that leads me points onward yet, Though the red drops fall like rain! Ah, not to a blaze of light I go, Nor shouts of a triumph train; I go down to kiss the dregs of woe, And drink up the Cup of Pain. And whether a scaffold or crucifix waits ‘Neath the light of my silver star, I know and I care not: I only know I shall pause not though it be far. Though a crucified life or an agonized death, Though long, or quick and sharp, I am firmly wrought in the endless thread Of Destiny’s woof and warp. And I do not shrink, though a wave of pain Sobs over me now and then, As I think of those “saddest of all sad words,” The pitiful “might have been.” “It might have been” — it is not to be; And the tones of your “swan’s farewell” Ring sadly, solemnly deep to me Like the voice of a sobbing bell. Ay, gather your petals and take them back To the dead heart under the dew; And crown it again with the red love bloom, For the dead are always true. But go not “back to the sediment” In the slime of the moaning sea, For a better world belongs to you, And a better friend to me. — St. Johns, Michigan, 1888 “We are the birds of the coming storm.” — August Spies The tide is out, the wind blows off the shore; Bare burn the white sands in the scorching sun; The sea complains, but its great voice is low. Bitter thy woes, O People, And the burden Hardly to be borne! Wearily grows, O People, All the aching Of thy pierced heart, bruised and torn! But yet thy time is not, And low thy moaning. Desert thy sands! Not yeat is thy breath hot, Vengefully blowing; It wafts o’er lifted hands. The tide has turned; the vane veers slowly round; Slow clouds are sweeping o’er the blinding light; White crests curl on the sea — its voice grows deep. Angry thy heart, O People! And its bleeding Fire-tipped with rising hate! Thy clasped hands part, O People, For thy praying Warmed not the desolate! God did not hear thy moan: Now it is swelling To a great drowning cry; A dark wind-cloud, a groan, Now backward veering From that deaf sky! The tide flows in, the wind roars from the depths, The whirled-White sand heaps with the foam-white waves; Thundering the sea rolls o’er its shell-crunched wall! Strong is thy rage, O People, In its fury Hurling thy tyrants down! Thow met…
+And Thou Too
+
+The Hurricane
+
+At the Grave in Waldheim
+
+Ut Sementem Feceris, Ita Metes
+
+The Dirge of the Sea
+
+I Am
+
+Love’s Ghost
+
+Life or Death
+
+The Toast of Despair
+
+Mary Wollstone Craft
+
+John P. Altgeld
+
+In Memoriam
+
+The Feast of Vultures
+
+The Suicide’s Defense
+
+Germinal
+
+Santa Agueda
+
+The Road Builders
+
+Ave Et Vale
+
+Marsh-Bloom
+
+“Light Upon Waldheim”
+
+Written — in — Red
+
+The moonlight rolls down like a river, 
+
+The silence streams out like a sea; 
+
+And far where the eastern winds quiver, 
+
+My farewell goes floating to thee.
+
+Like night, when the sunset is fading 
+
+And starbeams troop up in the skies, 
+
+Through a cold, dark and lonely forever 
+
+Gleams the light of the poet eyes.
+
+And sometimes when I am weary, 
+
+When the path is thorny and Wild, 
+
+I’ll look back to the Eyes in the twilight, 
+
+Back to the eyes that smiled.
+
+And pray that a wreath like a rainbow 
+
+May slip from the beautiful past, 
+
+And Crown me again with the sweet, strong love 
+
+And keep me, and hold me fast.
+
+For the way is not strown with petal soft, 
+
+It is covered with hearts that weep, 
+
+And the wounds I tread touch a deeper source 
+
+Than you think it mine to keep.
+
+Down the years I shall move without you, 
+
+Yet ever must feel the blow 
+
+That caused me a deeper pain to give 
+
+Than you will ever know.
+
+For the tears that dropped on my hands that night 
+
+‘Neath the mystical shining moon, 
+
+Were a sacred dew, consecrated there, 
+
+On the rose-altered heart of June.
+
+And the heart that beat against mine like a bird 
+
+That is fluttering, wounded sore, 
+
+With it’s nest all broken, deserted, torn, 
+
+Will beat there forevermore.
+
+But the world moves on, and the piteous Earth 
+
+Still groans in the monster pain; 
+
+And the star that leads me points onward yet, 
+
+Though the red drops fall like rain!
+
+Ah, not to a blaze of light I go, 
+
+Nor shouts of a triumph train; 
+
+I go down to kiss the dregs of woe, 
+
+And drink up the Cup of Pain.
+
+And whether a scaffold or crucifix waits 
+
+‘Neath the light of my silver star, 
+
+I know and I care not: I only know 
+
+I shall pause not though it be far.
+
+Though a crucified life or an agonized death, 
+
+Though long, or quick and sharp, 
+
+I am firmly wrought in the endless thread 
+
+Of Destiny’s woof and warp.
+
+And I do not shrink, though a wave of pain 
+
+Sobs over me now and then, 
+
+As I think of those “saddest of all sad words,” 
+
+The pitiful “might have been.”
+
+“It might have been” — it is not to be; 
+
+And the tones of your “swan’s farewell” 
+
+Ring sadly, solemnly deep to me 
+
+Like the voice of a sobbing bell.
+
+Ay, gather your petals and take them back 
+
+To the dead heart under the dew; 
+
+And crown it again with the red love bloom, 
+
+For the dead are always true.
+
+But go not “back to the sediment” 
+
+In the slime of the moaning sea, 
+
+For a better world belongs to you, 
+
+And a better friend to me. 
+
+— St. Johns, Michigan, 1888
+
+“We are the birds of the coming storm.” — August Spies
+
+The tide is out, the wind blows off the shore; 
+
+Bare burn the white sands in the scorching sun; 
+
+The sea complains, but its great voice is low.
+
+Bitter thy woes, O People, 
+
+And the burden 
+
+Hardly to be borne! 
+
+Wearily grows, O People, 
+
+All the aching 
+
+Of thy pierced heart, bruised and torn! 
+
+But yet thy time is not, 
+
+And low thy moaning. 
+
+Desert thy sands! 
+
+Not yeat is thy breath hot, Vengefully blowing; 
+
+It wafts o’er lifted hands.
+
+The tide has turned; the vane veers slowly round; 
+
+Slow clouds are sweeping o’er the blinding light; 
+
+White crests curl on the sea — its voice grows deep.
+
+Angry thy heart, O People! 
+
+And its bleeding 
+
+Fire-tipped with rising hate! 
+
+Thy clasped hands part, O People, 
+
+For thy praying Warmed not the desolate! 
+
+God did not hear thy moan: 
+
+Now it is swelling 
+
+To a great drowning cry; 
+
+A dark wind-cloud, a groan, Now backward veering 
+
+From that deaf sky!
+
+The tide flows in, the wind roars from the depths, 
+
+The whirled-White sand heaps with the foam-white waves; 
+
+Thundering the sea rolls o’er its shell-crunch…

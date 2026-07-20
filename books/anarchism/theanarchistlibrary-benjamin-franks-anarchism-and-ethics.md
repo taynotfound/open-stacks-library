@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Abstract        Introduction        Three Areas of Ethics        Anarchism and Normative Ethics          Anarchism and Virtue Theory          Anarchism and Consequentialism          Anarchism and Deontology          Anarchism and Casuistry        (Re)constructing an Anarchist Ethic        Challenges: Post-Left and Postanarchist        Example of Practice-Based Approaches        Conclusion This chapter defends the centrality of ethics to anarchist theory and practice. It starts by describing some of the main meta-ethical and normative positions associated with different constellations of anarchism and postanarchism. It then explains and argues for an anti-hierarchical virtue approach as being the most productive and consistent with the main anarchist ideological constellations (socialist anarchisms), its key classical proponents and contemporary practitioners. It demonstrates that this practice-based virtue approach is consistent with anarchism’s wider materialist philosophical commitments—including its critiques of universal values—and micropolitical orientation. This chapter explores and critically evaluates post-left and postanarchist critical rejections of ethical analysis, which uses Max Stirner’s radical egoism as a basis. It goes on to argue that as these critics increasingly engage with material problems significant areas of convergence develop between them and social anarchisms. The chapter further illustrates the pertinence of the revolutionary Aristotelian virtue approach by providing examples of anarchist practices that are rich in virtues and showing that anarchist virtue theory provides a strong basis for dealing with some standardly contentious questions, such as defending freedom of speech or supporting anti-fascist interventions against discriminatory and oppressive speech acts. Anarchism is often distinguished from other revolutionary traditions by the priority it gives to moral evaluation [1] rather than, for instance, the largely economic analyses associated with orthodox Marxism. [2] The importance of ethics, especially with regard to everyday decisions, is because the main forms of anarchism have tended to emphasise the micropolitical. [3] Other revolutionary traditions, by contrast, tend to focus on the macropolitical (decisions, policies and institutional norms at the international and state level) and consider the micropolitical as important only insofar as they change or support the former. Because anarchism concentrates on everyday activities and contestation and repositioning of power relations of civil society, there has been a rich tradition of anarchist writings concerning social activities that offer practical guidance on, critiques of and alternatives to: Anti-social activity, crime and punishment Food production Housing Personal and sexual relations Schooling Media Social research These topics cross over with practical questions of organisation: identifying and applying the principles for effective, anti-hierarchical and mutually satisfying forms of social interaction in order to achieve wider benevolent, egalitarian goals. [4] It is within practical activities that questions about individual choices and collective decisions arise, not just about how to perform the activity but whether it is worth performing at all and the erroneous moral thinking that sustains the more unnecessary and/or detrimental. [5] As such this chapter defends the centrality of ethics to anarchist theory and practice. It then argues that a particular form of moral analysis—anti-hierarchical virtue theory—is the most consistent with the main anarchist constellations (socialist anarchisms) whether espoused by classical anarchist (pre-1940) theorists or contemporary anarchist activists and advocates. This is not to argue that all anarchists are explicitly or inherently virtue theorists—indeed, as will be shown, different sub-categories of anarchism are partly identifiable through their distinctive ethical frameworks—…
+Abstract
+
+Introduction
+
+Three Areas of Ethics
+
+Anarchism and Normative Ethics
+
+Anarchism and Virtue Theory
+
+Anarchism and Consequentialism
+
+Anarchism and Deontology
+
+Anarchism and Casuistry
+
+(Re)constructing an Anarchist Ethic
+
+Challenges: Post-Left and Postanarchist
+
+Example of Practice-Based Approaches
+
+Conclusion
+
+This chapter defends the centrality of ethics to anarchist theory and practice. It starts by describing some of the main meta-ethical and normative positions associated with different constellations of anarchism and postanarchism. It then explains and argues for an anti-hierarchical virtue approach as being the most productive and consistent with the main anarchist ideological constellations (socialist anarchisms), its key classical proponents and contemporary practitioners. It demonstrates that this practice-based virtue approach is consistent with anarchism’s wider materialist philosophical commitments—including its critiques of universal values—and micropolitical orientation. This chapter explores and critically evaluates post-left and postanarchist critical rejections of ethical analysis, which uses Max Stirner’s radical egoism as a basis. It goes on to argue that as these critics increasingly engage with material problems significant areas of convergence develop between them and social anarchisms. The chapter further illustrates the pertinence of the revolutionary Aristotelian virtue approach by providing examples of anarchist practices that are rich in virtues and showing that anarchist virtue theory provides a strong basis for dealing with some standardly contentious questions, such as defending freedom of speech or supporting anti-fascist interventions against discriminatory and oppressive speech acts.
+
+Anarchism is often distinguished from other revolutionary traditions by the priority it gives to moral evaluation[1] rather than, for instance, the largely economic analyses associated with orthodox Marxism.[2] The importance of ethics, especially with regard to everyday decisions, is because the main forms of anarchism have tended to emphasise the micropolitical.[3] Other revolutionary traditions, by contrast, tend to focus on the macropolitical (decisions, policies and institutional norms at the international and state level) and consider the micropolitical as important only insofar as they change or support the former. Because anarchism concentrates on everyday activities and contestation and repositioning of power relations of civil society, there has been a rich tradition of anarchist writings concerning social activities that offer practical guidance on, critiques of and alternatives to:
+
+Anti-social activity, crime and punishment
+
+Food production
+
+Housing
+
+Personal and sexual relations
+
+Schooling
+
+Media
+
+Social research
+
+These topics cross over with practical questions of organisation: identifying and applying the principles for effective, anti-hierarchical and mutually satisfying forms of social interaction in order to achieve wider benevolent, egalitarian goals.[4]
+
+It is within practical activities that questions about individual choices and collective decisions arise, not just about how to perform the activity but whether it is worth performing at all and the erroneous moral thinking that sustains the more unnecessary and/or detrimental.[5] As such this chapter defends the centrality of ethics to anarchist theory and practice. It then argues that a particular form of moral analysis—anti-hierarchical virtue theory—is the most consistent with the main anarchist constellations (socialist anarchisms) whether espoused by classical anarchist (pre-1940) theorists or contemporary anarchist activists and advocates. This is not to argue that all anarchists are explicitly or inherently virtue theorists—indeed, as will be shown, different sub-categories of anarchism are partly identifiable through their distinctive ethical frameworks—but that virtue theory provides the best fit with core analytic principles,…

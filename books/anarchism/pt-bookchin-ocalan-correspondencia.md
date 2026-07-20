@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       Reimar Heider, Intermediário de Öcalan, para Murray Bookchin e Janet Biehl        Murray Bookchin para Reimar Heider        Reimar Heider e Oliver Kontny para Murray Bookchin        Murray Bookchin para Reimar Heider        Reimar Heider e Uta Schneiderbanger para Murray Bookchin e Janet Biehl        Janet Biehl para Reimar Heider e Uta Schneiderbanger 6 de Abril de 2004 Caros amigos, por favor deixem-me apresentar: Meu nome é Reimar Heider, e eu sou um dos tradutores alemães dos livros de Abdullah Öcalan, prisioneiro político e o mais influente pensador e politico Curdo. Öcalan tem estado em confinamento solitário pelos últimos cinco anos. Durante esse tempo ele leu as traduções turcas de alguns dos livros de Murray Bookchin, especialmente “ The Ecology of Freedom ” e “ Towards an Ecological Society ” que os influenciaram profundamente. Ele reconstruiu sua estratégia politica em torno da visão de uma “sociedade democrática ecológica”, e desenvolveu um modelo para construir uma sociedade civil no Curdistão e no Oriente Médio. Ele tem recomendado os livros de Bookchin para cada prefeito em todas as cidades curdas e queria que todos os lessem. Eu não sei se o Sr. Bookchin está informado sobre isso, mas eu tenho certeza que ele se encantará ao escutar sobre. Seus livros, especialmente “ The Ecology of Freedom ”, são lidos e muito discutidos agora na Turquia e no Curdistão (Eu mesmo li “ The Ecology of Freedom ” em turco e alemão e dei um seminário sobre). Lamento que ainda não haja disponíveis as traduções em inglês dos últimos livros de Öcalan. Eu gostaria muito de demostrar a você a influencia do Sr. Bookchin e outros livros sobre ele. Mas se algum de vocês compreende alemão eu posso enviar a vocês algumas paginas de seu ultimo livro. Infelizmente eu não fui capaz de encontrar o e-mail do Sr. Bookchin. Eu estou certo de que você pode me ajudar com isso se ele tiver um. Se não, eu espero que você possa encaminhar a ele minhas mais calorosas saudações. Eu gostaria muito de poder entrar em contato com ele. Obrigado por sua ajuda, Reimar Heider 11 de Abril de 2004 Caro Reimar Heider, Obrigado por sua carta eletrônica de 6 de Abril. Você deve saber que eu sou homem bastante idoso (83 anos) que é virtualmente incapaz de andar por causa da osteoartrite e problemas no coração. Eu te digo isso para explicar porque eu geralmente atraso a responder as cartas, especialmente e-mails. Eu também devo alertar você de que pessoas que professam falar em meu nome, não necessariamente falam por mim – exceto por minha companheira, Janet Biehl, a qual eu divido meu endereço de e-mail e com quem eu moro. (Por favor anote o endereço de e-mail dela) Como a maioria dos Americanos, infelizmente, eu conheço muito pouco sobre o PKK e Abdullah Öcalan, embora eu me lembre das noticias de sua prisão anos atrás. Graças a nossa imprensa paroquial, os americanos são mal informados sobre os assuntos curdos. (Mesmo os Curdos Iraquianos são muito negligenciados por nossos correspondentes de guerra). Eu aprendi apenas poucos dias atrás que o Sr. Öcalan tem estado sob sentença de morte há cinco anos e atualmente está em confinamento solitário. Eu sinceramente espero que ele esteja lidando com sua situação. Nós estamos, entretanto, familiarizados com a língua alemã, então você não precisa se preocupar se nós iremos entender a literatura que vocês nos enviou nessa língua. Me envie o que você quiser, embora eu serei obrigado a responder em Inglês. O problema que eu enfrento em escrever rápido é somente uma questão de minha saúde debilitada e os problemas médicos. Você também deve saber que embora eu fundei o Instituto para uma Ecologia Social, junto a Dan Chodorkoff [5] , há uns 30 anos atrás em Vermont, a escola desde então se tornou muito diversificada e não reflete consistentemente as minhas visões. Parte de sua equipe se direcionou para visões anarquistas que eu considero juvenil e uniformizada, com a qual eu não tenho simpatia. Eu digo isso para pedir a você…
+Reimar Heider, Intermediário de Öcalan, para Murray Bookchin e Janet Biehl
+
+Murray Bookchin para Reimar Heider
+
+Reimar Heider e Oliver Kontny para Murray Bookchin
+
+Murray Bookchin para Reimar Heider
+
+Reimar Heider e Uta Schneiderbanger para Murray Bookchin e Janet Biehl
+
+Janet Biehl para Reimar Heider e Uta Schneiderbanger
+
+6 de Abril de 2004
+
+Caros amigos,
+
+por favor deixem-me apresentar: Meu nome é Reimar Heider, e eu sou um dos tradutores alemães dos livros de Abdullah Öcalan, prisioneiro político e o mais influente pensador e politico Curdo.
+
+Öcalan tem estado em confinamento solitário pelos últimos cinco anos. Durante esse tempo ele leu as traduções turcas de alguns dos livros de Murray Bookchin, especialmente “The Ecology of Freedom” e “Towards an Ecological Society” que os influenciaram profundamente. Ele reconstruiu sua estratégia politica em torno da visão de uma “sociedade democrática ecológica”, e desenvolveu um modelo para construir uma sociedade civil no Curdistão e no Oriente Médio. Ele tem recomendado os livros de Bookchin para cada prefeito em todas as cidades curdas e queria que todos os lessem.
+
+Eu não sei se o Sr. Bookchin está informado sobre isso, mas eu tenho certeza que ele se encantará ao escutar sobre. Seus livros, especialmente “The Ecology of Freedom”, são lidos e muito discutidos agora na Turquia e no Curdistão (Eu mesmo li “The Ecology of Freedom” em turco e alemão e dei um seminário sobre).
+
+Lamento que ainda não haja disponíveis as traduções em inglês dos últimos livros de Öcalan. Eu gostaria muito de demostrar a você a influencia do Sr. Bookchin e outros livros sobre ele. Mas se algum de vocês compreende alemão eu posso enviar a vocês algumas paginas de seu ultimo livro.
+
+Infelizmente eu não fui capaz de encontrar o e-mail do Sr. Bookchin. Eu estou certo de que você pode me ajudar com isso se ele tiver um. Se não, eu espero que você possa encaminhar a ele minhas mais calorosas saudações. Eu gostaria muito de poder entrar em contato com ele.
+
+Obrigado por sua ajuda,
+
+Reimar Heider
+
+11 de Abril de 2004
+
+Caro Reimar Heider,
+
+Obrigado por sua carta eletrônica de 6 de Abril. Você deve saber que eu sou homem bastante idoso (83 anos) que é virtualmente incapaz de andar por causa da osteoartrite e problemas no coração. Eu te digo isso para explicar porque eu geralmente atraso a responder as cartas, especialmente e-mails. Eu também devo alertar você de que pessoas que professam falar em meu nome, não necessariamente falam por mim – exceto por minha companheira, Janet Biehl, a qual eu divido meu endereço de e-mail e com quem eu moro. (Por favor anote o endereço de e-mail dela)
+
+Como a maioria dos Americanos, infelizmente, eu conheço muito pouco sobre o PKK e Abdullah Öcalan, embora eu me lembre das noticias de sua prisão anos atrás. Graças a nossa imprensa paroquial, os americanos são mal informados sobre os assuntos curdos. (Mesmo os Curdos Iraquianos são muito negligenciados por nossos correspondentes de guerra). Eu aprendi apenas poucos dias atrás que o Sr. Öcalan tem estado sob sentença de morte há cinco anos e atualmente está em confinamento solitário. Eu sinceramente espero que ele esteja lidando com sua situação.
+
+Nós estamos, entretanto, familiarizados com a língua alemã, então você não precisa se preocupar se nós iremos entender a literatura que vocês nos enviou nessa língua. Me envie o que você quiser, embora eu serei obrigado a responder em Inglês. O problema que eu enfrento em escrever rápido é somente uma questão de minha saúde debilitada e os problemas médicos.
+
+Você também deve saber que embora eu fundei o Instituto para uma Ecologia Social, junto a Dan Chodorkoff[5], há uns 30 anos atrás em Vermont, a escola desde então se tornou muito diversificada e não reflete consistentemente as minhas visões. Parte de sua equipe se direcionou para visões anarquistas que eu considero juvenil e uniformizada, com a qual eu não tenho simpatia. Eu digo isso para pedir a você que escreva diretamente a mim p…

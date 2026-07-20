@@ -19,4 +19,164 @@ files:
     hosted: false
 ---
 
-A history of anarchism and Korea from the Anarchist Publishing Committee from Daegu, Korea, 1986, transcribed by Champion Ruby. With some minor corrections for spelling and grammar.      1. Prologue        A. People’s Struggle for Self-Liberation- Until the Dawn of the Modern Age        B. Realism Movement as an Ideology of Farmer’s Revolution        C. The Peasant Revolutionary War      2. Korean Anarchists struggle against Japanese Imperialism        a. The Korean Revolution Manifesto        b. The High Treason Case        2. Organising Period        a. Kiho Province 1. Prologue A. People’s Struggle for Self-Liberation- Until the Dawn of the Modern Age In the course of developing from the primitive family society to the tribal society and further to the union of tribal societies, there emerged the three ancient kingdoms; the Kokuryo dynasty (37-668), the Baekje dynasty (346-660) and the Silla dynasty (356-935). Before the modern age, land was the major means of production. Once a group of conquerors with a king at their summit had formed a ruling class, they would put the land under their control and establish a system that was exploitative of the farmers. This was the so-called state. Seen from this point of view, the successive kingdoms, such as the United Silla dynasty (676-935), the Koryo dynasty (935-1392) and the Lee dynasty (1392-1910) were not heterogeneous in essence. Throughout the rule of the dynasties, there had been intermittent outbursts of revolt from the farmers whenever the exploitation became unbearable. This not only vitally wounded the dynasties, but also the ability of the farmers of support themselves. A vicious circle occurred whenever a dynasty was replaced with another. Let us take for example the foundation of the Lee dynasty. Upon the establishment of the dynasty, the new regime confiscated all the large private farms owned by Koryo dynasty dignitaries and re-divided them among the new civil and military bureaucratic classes. Farmlands in the country were re-divided among royal families, bureaucrats, distinguished subjects, provincial powerful families and offices and public organisations in central and provincial areas. The farmers cultivating the lands were forced to pay a land tax of more than half their products to the owners and authorities. Therefore, although the owners of the lands and the tax collectors had changed, the situation for the farmers remained the same. In addition, the centralistic bureaucratic system of the Lee dynasty had divided the people into castes such as the Yang-ban (aristocrats of civil and military), the middle class, ordinary class and lower class, in order to limit their social position and wealth from birth. This caste system was supported by the Neo-Confucian ideology. At the end of the Lee dynasty, the tax-free lands of various officials gradually increased, while the taxable lands decreased less and less. To make the situation worse, officials of various ranks collected several kinds of arbitrary taxes for the private avarice, while the provincial officials imposed a tax called the To-kyeol, which imposed extra rates on top of existing taxes, such as the ‘wasteland tax’ on uncultivated lands. They charged one pil (a bundle of clothes) of military cloth for one adult man. The average exchange rate of the cloth to rice was one pil to 6 du (=0.496 English bushels ) of rice, which was a higher rate per unit than the land tax of 4 du. Furthermore, in the case of a family with two grown men (father and sun for example), the amount of cloth amounted to 12 du, and in the case of three men, as much as 18 du, making the tax too heavy a burden for farmers. Unable to bear the burden of over-taxation, many farmers had to abandon their lands to become drifting people. In this case, their relatives or neighbours were forced to pay the tax for these drifters. There was a relief system of cereals lent to the poor, but this system resulted in officially managed usury to exploit …
+A history of anarchism and Korea from the Anarchist Publishing Committee from Daegu, Korea, 1986, transcribed by Champion Ruby. With some minor corrections for spelling and grammar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Prologue
+
+A. People’s Struggle for Self-Liberation- Until the Dawn of the Modern Age
+
+B. Realism Movement as an Ideology of Farmer’s Revolution
+
+C. The Peasant Revolutionary War
+
+2. Korean Anarchists struggle against Japanese Imperialism
+
+a. The Korean Revolution Manifesto
+
+b. The High Treason Case
+
+2. Organising Period
+
+a. Kiho Province
+
+In the course of developing from the primitive family society to the tribal society and further to the union of tribal societies, there emerged the three ancient kingdoms; the Kokuryo dynasty (37-668), the Baekje dynasty (346-660) and the Silla dynasty (356-935).
+
+Before the modern age, land was the major means of production. Once a group of conquerors with a king at their summit had formed a ruling class, they would put the land under their control and establish a system that was exploitative of the farmers. This was the so-called state.
+
+Seen from this point of view, the successive kingdoms, such as the United Silla dynasty (676-935), the Koryo dynasty (935-1392) and the Lee dynasty (1392-1910) were not heterogeneous in essence. Throughout the rule of the dynasties, there had been intermittent outbursts of revolt from the farmers whenever the exploitation became unbearable. This not only vitally wounded the dynasties, but also the ability of the farmers of support themselves.
+
+A vicious circle occurred whenever a dynasty was replaced with another.
+
+Let us take for example the foundation of the Lee dynasty. Upon the establishment of the dynasty, the new regime confiscated all the large private farms owned by Koryo dynasty dignitaries and re-divided them among the new civil and military bureaucratic classes.
+
+Farmlands in the country were re-divided among royal families, bureaucrats, distinguished subjects, provincial powerful families and offices and public organisations in central and provincial areas. The farmers cultivating the lands were forced to pay a land tax of more than half their products to the owners and authorities. Therefore, although the owners of the lands and the tax collectors had changed, the situation for the farmers remained the same. In addition, the centralistic bureaucratic system of the Lee dynasty had divided the people into castes such as the Yang-ban (aristocrats of civil and military), the middle class, ordinary class and lower class, in order to limit their social position and wealth from birth. This caste system was supported by the Neo-Confucian ideology.
+
+At the end of the Lee dynasty, the tax-free lands of various officials gradually increased, while the taxable lands decreased less and less. To make the situation worse, officials of various ranks collected several kinds of arbitrary taxes for the private avarice, while the provincial officials imposed a tax called the To-kyeol, which imposed extra rates on top of existing taxes, such as the ‘wasteland tax’ on uncultivated lands. They charged one pil (a bundle of clothes) of military cloth for one adult man. The average exchange rate of the cloth to rice was one pil to 6 du (=0.496 English bushels ) of rice, which was a higher rate per unit than the land tax of 4 du. Furthermore, in the case of a family with two grown men (father and sun for example), the amount of cloth amounted to 12 du, and in the case of three men, as much as 18 du, making the tax too heavy a burden for farmers.
+
+Unable to bear the burden of over-taxation, many farmers had to abandon their lands to become drifting people. In this case, their relatives or neighbours were forced to pay the tax for these drifters. There was a relief system of cereals lent to the poor, but this system resulted in officially managed usury to exploit the…

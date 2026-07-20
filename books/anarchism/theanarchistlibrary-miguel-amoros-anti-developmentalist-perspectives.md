@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-     1. On Lucrative Horrors and Combative Identities      2. The Voice of His Master – The Spatial Restructuring of Capitalist Society and Its Consequences      3. The Cunning Art of Destroying Cities – On the Totalitarian Tendency of the Urban Phenomenon      4. Urbi et Orbi – Principles of Anti-Developmentalism        1        2        3        4        5        6        7        8      5. The Territory Has Been Absorbed by the City – The City Must Be Absorbed by the Territory      6. Defense of the Territory or Co-Management of Its Destruction? Text compiled from notes for talks given on May 9, 2009 at the Ateneo Libertario of Sabadell and on May 21, 2009 at the Ateneu Llibertari of Casc Antic (Barcelona). Published as a pamphlet by Desorden (Valencia). Economic growth provokes such devastation that modern capitalist society is characterized more by what it destroys than by what it creates. None of its achievements can compare with the destruction caused by its necessities. This means something quite obvious, that is, that the thirst for profits that leads the productive system, and ultimately the way of life that it entails, results in an avalanche of harm for the population, from health risks (pollution is responsible for one fourth of all illnesses) to environmental destruction. This devastation has reached such heights that the contrast between private interests and public harm has become clear to even the most dull-witted elements. This is when the centers of power speak of the environmental or territorial conflict, of the culture of refusal or of interactive government. Labor problems have long since ceased to be the main concern of our rulers, as is demonstrated by the fact that more than 40% of the workers earn less than 1,000 euros a month, and this is due to the fact that, under the threat of precariousness and exclusion, the mechanisms of control and integration function perfectly. This is not the case in other domains, since the failure of political environmentalism allowed the social question, which had been expelled from the urban neighborhoods and factories, to reemerge in the misnamed environmental struggles, and particularly in the defense of territory, without the moderating influence and dispersion of “participatory democracy”. Nonetheless, this emergency has not been so overwhelming that it has produced a phenomenon of generalized consciousness, and the struggles still have a long way to go. It is therefore not the danger of a social movement born from the defense of the territory that has sowed such anxiety among our leaders, but the fact that developmentalism, based primarily on real estate speculation, has unleashed a financial crisis from which they expect to extricate themselves by way of a new paradigm: the “green” economy, or “sustainable” development. Developmentalist “sustainability”, however, requires a degree of popular collaboration that in other times was not judged to be necessary by the arbitrary regime that ruled in the past. Thus, if the advocates of a way of life that is respectful of nature always clashed with the paternalistic and authoritarian ways of the government, since the latter had inherited the technical personnel, the programs and the procedures of the dictatorial past, and above all, because the plans of the developers and financiers whom it served did not permit any obstacles, now that the impact of the real estate bubble, climate change, the hole in the ozone layer and a foreseeable shortage of fossil fuels has launched a new “green” cycle with an expectation of vast profits, a more dialogue-centered modus operandi is apparently in order. Hence the relative attention given to local groups and civil society coalitions, especially the more moderate and accommodating ones. The interests of the ruling class are now less oriented towards “seashores” and golf courses than to renewable energy, hybrid vehicles, recycling and environmentally-friendly architecture, but since the co…
+1. On Lucrative Horrors and Combative Identities
+
+2. The Voice of His Master – The Spatial Restructuring of Capitalist Society and Its Consequences
+
+3. The Cunning Art of Destroying Cities – On the Totalitarian Tendency of the Urban Phenomenon
+
+4. Urbi et Orbi – Principles of Anti-Developmentalism
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+5. The Territory Has Been Absorbed by the City – The City Must Be Absorbed by the Territory
+
+6. Defense of the Territory or Co-Management of Its Destruction?
+
+Text compiled from notes for talks given on May 9, 2009 at the Ateneo Libertario of Sabadell and on May 21, 2009 at the Ateneu Llibertari of Casc Antic (Barcelona). Published as a pamphlet by Desorden (Valencia).
+
+Economic growth provokes such devastation that modern capitalist society is characterized more by what it destroys than by what it creates.
+
+None of its achievements can compare with the destruction caused by its necessities. This means something quite obvious, that is, that the thirst for profits that leads the productive system, and ultimately the way of life that it entails, results in an avalanche of harm for the population, from health risks (pollution is responsible for one fourth of all illnesses) to environmental destruction.
+
+This devastation has reached such heights that the contrast between private interests and public harm has become clear to even the most dull-witted elements. This is when the centers of power speak of the environmental or territorial conflict, of the culture of refusal or of interactive government. Labor problems have long since ceased to be the main concern of our rulers, as is demonstrated by the fact that more than 40% of the workers earn less than 1,000 euros a month, and this is due to the fact that, under the threat of precariousness and exclusion, the mechanisms of control and integration function perfectly. This is not the case in other domains, since the failure of political environmentalism allowed the social question, which had been expelled from the urban neighborhoods and factories, to reemerge in the misnamed environmental struggles, and particularly in the defense of territory, without the moderating influence and dispersion of “participatory democracy”.
+
+Nonetheless, this emergency has not been so overwhelming that it has produced a phenomenon of generalized consciousness, and the struggles still have a long way to go.
+
+It is therefore not the danger of a social movement born from the defense of the territory that has sowed such anxiety among our leaders, but the fact that developmentalism, based primarily on real estate speculation, has unleashed a financial crisis from which they expect to extricate themselves by way of a new paradigm: the “green” economy, or “sustainable” development.
+
+Developmentalist “sustainability”, however, requires a degree of popular collaboration that in other times was not judged to be necessary by the arbitrary regime that ruled in the past. Thus, if the advocates of a way of life that is respectful of nature always clashed with the paternalistic and authoritarian ways of the government, since the latter had inherited the technical personnel, the programs and the procedures of the dictatorial past, and above all, because the plans of the developers and financiers whom it served did not permit any obstacles, now that the impact of the real estate bubble, climate change, the hole in the ozone layer and a foreseeable shortage of fossil fuels has launched a new “green” cycle with an expectation of vast profits, a more dialogue-centered modus operandi is apparently in order. Hence the relative attention given to local groups and civil society coalitions, especially the more moderate and accommodating ones. The interests of the ruling class are now less oriented towards “seashores” and golf courses than to renewable energy, hybrid vehicles, recycling and environmentally-friendly architecture, but since the construction of gigantic infrastructure projects, GMO farming and en…

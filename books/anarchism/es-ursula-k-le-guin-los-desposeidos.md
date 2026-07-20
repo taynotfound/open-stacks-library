@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-     Capítulo 1      Capítulo 2      Capítulo 3      Capítulo 4      Capítulo 5      Capítulo 6      Capítulo 7      Capítulo 8      Capítulo 9      Capítulo 10      Capítulo 11      Capítulo 12      Capítulo 13 Había un muro. No parecía importante. Era un muro de piedras sin pulir, unidas por una tosca argamasa. Un adulto podía mirar por encima de él, y hasta un niño podía escalarlo. Allí donde atravesaba la carretera, en lugar de tener un portón degeneraba en mera geometría, una línea, una idea de frontera. Pero la idea era real. Era importante. A lo largo de siete generaciones no había habido en el mundo nada más importante que aquel muro. Al igual que todos los muros era ambiguo, bifacético, Lo que había dentro, o fuera de él, dependía del lado en que uno se encontraba. Visto desde uno de los lados, el muro cercaba un campo baldío de sesenta acres llamado el Puerto de Anarres. En el campo había un par de grandes grúas de puente, una pista para cohetes, tres almacenes, un cobertizo para camiones y un dormitorio: un edificio de aspecto sólido, sucio de hollín y sombrío; no tenía jardines ni niños. Bastaba mirarlo para saber que allí no vivía nadie, y que no estaba previsto que alguien se quedara allí mucho tiempo: en realidad era un sitio de cuarentena. El muro encerraba no sólo el campo de aterrizaje sino también las naves que descendían del espacio, y los hombres que llegaban a bordo de las naves, y los mundos de los que provenían, y el resto del universo. Encerraba el universo, dejando fuera a Anarres, libre. Si se lo miraba desde el otro lado, el muro contenía a Anarres: el planeta entero estaba encerrado en él, un vasto campo-prisión, aislado de los otros mundos y los otros hombres, en cuarentena. Un gentío se acercaba por el camino al campo de aterrizaje, y a la altura en que la carretera cruzaba al otro lado del muro se desbandaba en grupos de merodeadores. La gente solía ir allí desde la cercana ciudad de Abbenay con la esperanza de ver una nave del espacio, o sólo el muro. Al fin y al cabo, aquél era el único muro-frontera en el mundo conocido. En ningún otro sitio podrían ver un letrero que dijese Entrada Prohibida. Los adolescentes, en particular, se sentían atraídos por él. Se encaramaban, se sentaban en lo alto del muro. Acaso hubiera una cuadrilla descargando cajas de los vagones, frente a los depósitos. Hasta podía haber un carguero en la pista. Los cargueros descendían sólo ocho veces al año, sin avisar a nadie excepto a los síndicos que trabajaban en el Puerto, y entonces, si los espectadores tenían la suerte de ver uno, al principio se alborotaban. Pero ellos estaban aquí, de este lado, y allá, lejos, en el otro extremo del campo, se posaba la nave: una torre negra y rechoncha en medio de un confuso ir y venir de grúas móviles. De pronto, una mujer se separaba de una de las cuadrillas que trabajaban junto a los almacenes y decía: —Vamos a cerrar por hoy, hermanos. Llevaba el brazal de Defensa, algo que se veía tan pocas veces como una nave del espacio, y esto causaba no poca conmoción. Pero el tono, aunque benévolo, parecía terminante. La mujer era la capataz de la cuadrilla, y si intentaran provocarla, los síndicos la respaldarían. De todos modos, no había nada digno de verse. Los extraños, los hombres de otro mundo, permanecían ocultos en la nave. No había espectáculo. También para la cuadrilla de Defensa solía ser monótono el espectáculo. A veces la capataz deseaba que alguien intentase siquiera cruzar al otro lado del muro, que un tripulante extraño saltase de improviso de la nave, que algún chiquillo de Abbenay se escurriese a hurtadillas para examinar más de cerca el carguero. Pero eso no ocurría nunca. Nunca ocurría nada. Y cuando algo ocurrió la tomó desprevenida. El capitán del carguero Alerta le dijo: —¿Anda detrás de mi nave esa gentuza? La capataz miró y vio que en efecto había un verdadero gentío alrededor del portón, cien personas o más: merodeando en pequeños grupos, como en las estaciones de…
+Capítulo 1
+
+Capítulo 2
+
+Capítulo 3
+
+Capítulo 4
+
+Capítulo 5
+
+Capítulo 6
+
+Capítulo 7
+
+Capítulo 8
+
+Capítulo 9
+
+Capítulo 10
+
+Capítulo 11
+
+Capítulo 12
+
+Capítulo 13
+
+Había un muro. No parecía importante. Era un muro de piedras sin pulir, unidas por una tosca argamasa. Un adulto podía mirar por encima de él, y hasta un niño podía escalarlo. Allí donde atravesaba la carretera, en lugar de tener un portón degeneraba en mera geometría, una línea, una idea de frontera. Pero la idea era real. Era importante. A lo largo de siete generaciones no había habido en el mundo nada más importante que aquel muro.
+
+Al igual que todos los muros era ambiguo, bifacético, Lo que había dentro, o fuera de él, dependía del lado en que uno se encontraba.
+
+Visto desde uno de los lados, el muro cercaba un campo baldío de sesenta acres llamado el Puerto de Anarres. En el campo había un par de grandes grúas de puente, una pista para cohetes, tres almacenes, un cobertizo para camiones y un dormitorio: un edificio de aspecto sólido, sucio de hollín y sombrío; no tenía jardines ni niños. Bastaba mirarlo para saber que allí no vivía nadie, y que no estaba previsto que alguien se quedara allí mucho tiempo: en realidad era un sitio de cuarentena. El muro encerraba no sólo el campo de aterrizaje sino también las naves que descendían del espacio, y los hombres que llegaban a bordo de las naves, y los mundos de los que provenían, y el resto del universo. Encerraba el universo, dejando fuera a Anarres, libre.
+
+Si se lo miraba desde el otro lado, el muro contenía a Anarres: el planeta entero estaba encerrado en él, un vasto campo-prisión, aislado de los otros mundos y los otros hombres, en cuarentena.
+
+Un gentío se acercaba por el camino al campo de aterrizaje, y a la altura en que la carretera cruzaba al otro lado del muro se desbandaba en grupos de merodeadores.
+
+La gente solía ir allí desde la cercana ciudad de Abbenay con la esperanza de ver una nave del espacio, o sólo el muro. Al fin y al cabo, aquél era el único muro-frontera en el mundo conocido. En ningún otro sitio podrían ver un letrero que dijese Entrada Prohibida. Los adolescentes, en particular, se sentían atraídos por él. Se encaramaban, se sentaban en lo alto del muro. Acaso hubiera una cuadrilla descargando cajas de los vagones, frente a los depósitos. Hasta podía haber un carguero en la pista. Los cargueros descendían sólo ocho veces al año, sin avisar a nadie excepto a los síndicos que trabajaban en el Puerto, y entonces, si los espectadores tenían la suerte de ver uno, al principio se alborotaban. Pero ellos estaban aquí, de este lado, y allá, lejos, en el otro extremo del campo, se posaba la nave: una torre negra y rechoncha en medio de un confuso ir y venir de grúas móviles. De pronto, una mujer se separaba de una de las cuadrillas que trabajaban junto a los almacenes y decía:
+
+—Vamos a cerrar por hoy, hermanos.
+
+Llevaba el brazal de Defensa, algo que se veía tan pocas veces como una nave del espacio, y esto causaba no poca conmoción. Pero el tono, aunque benévolo, parecía terminante. La mujer era la capataz de la cuadrilla, y si intentaran provocarla, los síndicos la respaldarían. De todos modos, no había nada digno de verse. Los extraños, los hombres de otro mundo, permanecían ocultos en la nave. No había espectáculo.
+
+También para la cuadrilla de Defensa solía ser monótono el espectáculo. A veces la capataz deseaba que alguien intentase siquiera cruzar al otro lado del muro, que un tripulante extraño saltase de improviso de la nave, que algún chiquillo de Abbenay se escurriese a hurtadillas para examinar más de cerca el carguero. Pero eso no ocurría nunca. Nunca ocurría nada. Y cuando algo ocurrió la tomó desprevenida.
+
+El capitán del carguero Alerta le dijo:
+
+—¿Anda detrás de mi nave esa gentuza?
+
+La capataz miró y vio que en efecto había un verdadero gentío alrededor del portón, cien personas o más: merodeando en pequeños grupos, como en las estaciones de los trenes de víveres durante la hambrun…

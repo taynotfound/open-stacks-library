@@ -19,4 +19,46 @@ files:
     hosted: false
 ---
 
-     Foreword      Chapter 1      Chapter 2      Chapter 3      Chapter 4      Chapter 5      Chapter 6 This edition of Rudolf Rocker’s book fundamentally seeks to: End the myth, based on actual events, that Anarchism as a political theory opposes any form of organization; Provide knowledge of the general history of a period in German Anarchism. We chose this essay because the author’s participation in the German anarchist movement allows him to treat it with a critical view. Furthermore his militancy in the international anarchist forum establishes credibility in his analysis of the organization subject. As this work was written in the 1920’s, it falls on us to try to modernize his main ideas, which are: In the plan of the international theoretical-practical development, the classical anarchist authors, Pierre-Joseph Proudhon, Mikhail Bakunin and Piotr Kropotkin, don’t establish any anti-organization theory. In the plan for the development of the German anarchist movement, the lack of anarchist political preparation from certain militant sector annulled the completed comprehension of the specifically anarchist objectives giving way to the words anarchism, anarchist and anarchy, being gradually distanced from their original meaning. Reaching the extreme of being interpreted in the same way as the bourgeoisie interprets them. In the “discovery” by J. Mackay of the writings of Johan Gaspar Schmidt (better known as Max Stirner), the level of inconsistencies that these incentivized in a sector of both the German and international anarchist movement, culminated in the absolute denial of any organizational intentions. Over the first point there’s a lot to take, but that does not correspond to the objectives to which we proposed ourselves since the organizational alternatives provided by the classical and non-classical writers are numerous. On the other hand, it’s necessary to raise a critic of Rocker’s analysis of the disorganization of the German anarchist movement. He exposes the reality of the views and actions of certain groups who continually refused to organize themselves in the bosom of the German Anarchist Federation, but fails to indicate, situate and explain when, where and why the aforementioned federation originated. That is, he doesn’t explain which needs it was responding to, if it was effectively an organism or simply a… cadaver. Of the parties involved in the supposed conflict, federation and anti-federation groups, he puts to judgment the attitude of the anti-federation group. But does not tackle, and from here comes our critic, the theoretical and practical positions of the members of the federation. Summarizing, according to Rocker, the responsibility for anarchism not progressing in the time falls on the hostile attitude of the supposed anti-organization. When in reality, and if we see this objectively, that responsibility should be put on the G.A.F., since it was the Federation who was directly interested in organizing the diverse anarchist groups. As such the responsibility fell solely to the Federation to seek a way to achieve this, and not to the anti-organizers. On the second point, we think that this problem is much more pronounced now than it was then. Several causes have generated and, in our opinion, the most important ones are: The lack of spreading, at a general level, of the anarchist alternatives and approaches through books, pamphlets, periodicals, magazines, comics, etc. As a consequence, there’s a shutting off of the groups from the outside which brings about stagnation both at a cultural and political level, in turn leading to a lack of imagination, investigation, creation, analysis and opinion. From that the most astonishing monster of ideology resulted, fanaticism. This is antagonic to the anarchist plans. Fanaticism and Anarchism are diametrically opposed poles. The lack of appreciation among the adherents of anarchism of their own work and that of other anarchists, all the while any outside a…
+Foreword
+
+Chapter 1
+
+Chapter 2
+
+Chapter 3
+
+Chapter 4
+
+Chapter 5
+
+Chapter 6
+
+This edition of Rudolf Rocker’s book fundamentally seeks to:
+
+End the myth, based on actual events, that Anarchism as a political theory opposes any form of organization;
+
+Provide knowledge of the general history of a period in German Anarchism.
+
+We chose this essay because the author’s participation in the German anarchist movement allows him to treat it with a critical view. Furthermore his militancy in the international anarchist forum establishes credibility in his analysis of the organization subject.
+
+As this work was written in the 1920’s, it falls on us to try to modernize his main ideas, which are:
+
+In the plan of the international theoretical-practical development, the classical anarchist authors, Pierre-Joseph Proudhon, Mikhail Bakunin and Piotr Kropotkin, don’t establish any anti-organization theory.
+
+In the plan for the development of the German anarchist movement, the lack of anarchist political preparation from certain militant sector annulled the completed comprehension of the specifically anarchist objectives giving way to the words anarchism, anarchist and anarchy, being gradually distanced from their original meaning. Reaching the extreme of being interpreted in the same way as the bourgeoisie interprets them.
+
+In the “discovery” by J. Mackay of the writings of Johan Gaspar Schmidt (better known as Max Stirner), the level of inconsistencies that these incentivized in a sector of both the German and international anarchist movement, culminated in the absolute denial of any organizational intentions.
+
+Over the first point there’s a lot to take, but that does not correspond to the objectives to which we proposed ourselves since the organizational alternatives provided by the classical and non-classical writers are numerous.
+
+On the other hand, it’s necessary to raise a critic of Rocker’s analysis of the disorganization of the German anarchist movement. He exposes the reality of the views and actions of certain groups who continually refused to organize themselves in the bosom of the German Anarchist Federation, but fails to indicate, situate and explain when, where and why the aforementioned federation originated. That is, he doesn’t explain which needs it was responding to, if it was effectively an organism or simply a… cadaver. Of the parties involved in the supposed conflict, federation and anti-federation groups, he puts to judgment the attitude of the anti-federation group. But does not tackle, and from here comes our critic, the theoretical and practical positions of the members of the federation.
+
+Summarizing, according to Rocker, the responsibility for anarchism not progressing in the time falls on the hostile attitude of the supposed anti-organization. When in reality, and if we see this objectively, that responsibility should be put on the G.A.F., since it was the Federation who was directly interested in organizing the diverse anarchist groups. As such the responsibility fell solely to the Federation to seek a way to achieve this, and not to the anti-organizers.
+
+On the second point, we think that this problem is much more pronounced now than it was then. Several causes have generated and, in our opinion, the most important ones are:
+
+The lack of spreading, at a general level, of the anarchist alternatives and approaches through books, pamphlets, periodicals, magazines, comics, etc.
+
+As a consequence, there’s a shutting off of the groups from the outside which brings about stagnation both at a cultural and political level, in turn leading to a lack of imagination, investigation, creation, analysis and opinion. From that the most astonishing monster of ideology resulted, fanaticism. This is antagonic to the anarchist plans. Fanaticism and Anarchism are diametrically opposed poles.
+
+The lack of appreciation among the adherents of anarchism of their own work and that of other anarchists, all the while any outside action or decla…

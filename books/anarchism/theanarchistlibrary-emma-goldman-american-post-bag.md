@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-Saint-Louis (Missouri) Mon Vieux Peinard, Anarchist ideas are making headway in the United States and if they have not spread more quickly it is because English-language propagandists have so far been too few and far between. We would need lots of comrades of the calibre of Emma Goldmann who is presently making blessed propaganda wheresoever she goes. This comrade does not know the meaning of tired! Scarcely has she been released from Blackwell Island prison in New York, after serving two years, [1] than she throws herself back into propaganda. She had been sentenced for letting her tongue run away with her unduly: at a workers’ rally she had spoken too violently … and just to prove that freedom of speech no more exists in “America the free” than in the slick monarchies and republics in Europe, she was scooped. Emma Goldmann is of Russian extraction and Jewish parentage but she has long since renounced all religion and declared herself an atheist. Tall, well-made, something like thirty five years old, she cuts a fine figure on the rostrum: she has a ringing voice, is given to gesticulation and speaks English and German alike with ease and eloquence. Also, she has enjoyed swelling success in the propaganda tour she has just made around the cities of the American continent. Emma Goldmann’s immediate objective is to whip up widespread agitation on behalf of comrade Bergmann [Alexander Berkman] who is serving 25 years’ hard labour for having attempted in 1892 to blow the brains out of the martinet Frick, the manager of Carnegie’s steelworks. The exploiter Carnegie, the seventy-fold millionaire demon-crat who poses as a philanthropist was trying at the time to tighten the screws on the proles in his Homestead convict colonies, in Pennsylvania state. Since these good fellows would have none of it, this swine Carnegie mustered a gang of Pinkertons, volunteer police in the hire of their capitalist pay-master and unleashed them on Homestead. The moment they arrived, these Pinkertons worked wonders: they shot down the unarmed strikers and felled lots of them. At which point, exasperated by the crimes of Carnegie and Frick, Bergmann tried to blow the brains out of one of the instigators of these craven actions. Since when the poor fellow has been banged up! And Emma Goldmann has rolled up her sleeves to secure his release. Not that this means that in her talks Bergmann is all she has to talk about. In her most recent tour – which was also designed to revive memories of the execution of the Chicago anarchists – she spoke along general propaganda lines. Lucy Parsons, wife of Albert Parsons, one of the Chicago murder victims, accompanied her. She too is a belter of a propagandist! Since her husband’s death she has not let up in her railing against the capitalist and government camp and reminding these nincompoops that they murdered an innocent man. In addition to her clear and brilliant presentation of our ideas, Emma Goldmann never misses a chance to bait the police and there is not a meeting where she does not lay into the scum – which has the advantage of leaving the plain-clothed cops, plentiful at her meetings, to laugh on the other side of their faces. Moreover, mon vieux Peinard , so that comrades may get some idea of the oratory of Emma Goldmann, let me offer you as best I can a summary of one of the talks [2] she gave in Saint-Louis to a packed hall and to frenzied applause from the public: “In their utter ignorance, the masses have no knowledge of the reason for their existence. “What is mankind’s raison d’etre if not to enjoy the beauties and splendours of nature? “But do human beings know such enjoyment? If the answer is yes, they ought to be satisfied and happy – and if it is no, they have been robbed of their legitimate inheritance and are entitled to reclaim it. “The latter is the true state of affairs: so, are men making their claim? “Few of them dare! Only a few have that audacity – the anarchists! And these are despised, h…
+Saint-Louis (Missouri)
+
+Mon Vieux Peinard,
+
+Anarchist ideas are making headway in the United States and if they have not spread more quickly it is because English-language propagandists have so far been too few and far between.
+
+We would need lots of comrades of the calibre of Emma Goldmann who is presently making blessed propaganda wheresoever she goes.
+
+This comrade does not know the meaning of tired! Scarcely has she been released from Blackwell Island prison in New York, after serving two years,[1] than she throws herself back into propaganda. She had been sentenced for letting her tongue run away with her unduly: at a workers’ rally she had spoken too violently … and just to prove that freedom of speech no more exists in “America the free” than in the slick monarchies and republics in Europe, she was scooped.
+
+Emma Goldmann is of Russian extraction and Jewish parentage but she has long since renounced all religion and declared herself an atheist.
+
+Tall, well-made, something like thirty five years old, she cuts a fine figure on the rostrum: she has a ringing voice, is given to gesticulation and speaks English and German alike with ease and eloquence. Also, she has enjoyed swelling success in the propaganda tour she has just made around the cities of the American continent.
+
+Emma Goldmann’s immediate objective is to whip up widespread agitation on behalf of comrade Bergmann [Alexander Berkman] who is serving 25 years’ hard labour for having attempted in 1892 to blow the brains out of the martinet Frick, the manager of Carnegie’s steelworks.
+
+The exploiter Carnegie, the seventy-fold millionaire demon-crat who poses as a philanthropist was trying at the time to tighten the screws on the proles in his Homestead convict colonies, in Pennsylvania state. Since these good fellows would have none of it, this swine Carnegie mustered a gang of Pinkertons, volunteer police in the hire of their capitalist pay-master and unleashed them on Homestead. The moment they arrived, these Pinkertons worked wonders: they shot down the unarmed strikers and felled lots of them.
+
+At which point, exasperated by the crimes of Carnegie and Frick, Bergmann tried to blow the brains out of one of the instigators of these craven actions.
+
+Since when the poor fellow has been banged up!
+
+And Emma Goldmann has rolled up her sleeves to secure his release.
+
+Not that this means that in her talks Bergmann is all she has to talk about. In her most recent tour – which was also designed to revive memories of the execution of the Chicago anarchists – she spoke along general propaganda lines. Lucy Parsons, wife of Albert Parsons, one of the Chicago murder victims, accompanied her. She too is a belter of a propagandist! Since her husband’s death she has not let up in her railing against the capitalist and government camp and reminding these nincompoops that they murdered an innocent man.
+
+In addition to her clear and brilliant presentation of our ideas, Emma Goldmann never misses a chance to bait the police and there is not a meeting where she does not lay into the scum – which has the advantage of leaving the plain-clothed cops, plentiful at her meetings, to laugh on the other side of their faces.
+
+Moreover, mon vieux Peinard, so that comrades may get some idea of the oratory of Emma Goldmann, let me offer you as best I can a summary of one of the talks [2] she gave in Saint-Louis to a packed hall and to frenzied applause from the public:
+
+“In their utter ignorance, the masses have no knowledge of the reason for their existence.
+
+“What is mankind’s raison d’etre if not to enjoy the beauties and splendours of nature?
+
+“But do human beings know such enjoyment? If the answer is yes, they ought to be satisfied and happy – and if it is no, they have been robbed of their legitimate inheritance and are entitled to reclaim it.
+
+“The latter is the true state of affairs: so, are men making their claim?
+
+“Few of them dare! Only a few have that audacity – the anarchists! And thes…

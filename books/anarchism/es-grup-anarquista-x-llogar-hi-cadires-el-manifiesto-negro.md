@@ -19,4 +19,58 @@ files:
     hosted: false
 ---
 
-       Introducción          Lo que no es este manifiesto          Lo que sí es este manifiesto        Breve análisis de la situación actual          La defensa de los servicios públicos. Anarquistas de estado?        Planteamientos anarquistas para una economía más racional          La solidaridad          La diversidad          La equidad          La autogestión          La eficiencia        El anarcosindicalismo          La vigencia de las huelgas y la necesidad de unir esfuerzos        La salud democrática        Educarse: pilar fundamental para una sociedad libre        El hecho nacional contra el estado        Ecologismo « El anarquismo puede ser considerado como procediendo de la hipótesis que hay una tarea negativa que tiene que ser cumplida... el anarquismo nos puede decir lo que tenemos que desaprender para ser libres, pero no nos puede decir como utilizar esta libertad: el anarquismo no impone ningún tipo de vida sobre nosotros, nos reta a hacer una vida digna, para liberarnos de todos los vestigios de la autoridad del poder, de la autoridad política ». David Wieck No es una sandez de quien no tiene los pies en el suelo. Somos conscientes de la correlación de fuerzas existente en la sociedad actual, y del mismo modo somos conscientes de las dificultades que hay en mayor o menor grado para poder aplicar cada uno de los posicionamientos que a continuación iremos exponiendo. Aún así, a pesar de las dificultades a que nos enfrentamos, estas no son bastante grandes para ser una excusa válida para quedarse inactivo. Y menos cuando el ideario anarquista está teniendo un crecimiento importante en varias partes del mundo. Es una herramienta. Una herramienta útil para la transformación social desde posicionamientos anarquistas. Para contribuir desde la Garrotxa a aportar un granito de arena más para lograr una sociedad entre iguales y libre. Este manifiesto no pretende fijar unas bases dogmáticas ni mucho menos. Como buen manifiesto anarquista que es, aspira a no parar las acciones revolucionarias, cuestionando permanentemente los objetivos conseguidos y las opiniones emitidas. Si la revolución se para, la revolución se muere. Intentaremos exponer teoría y práctica. Es por eso que encontrarás propuestas que se están llevando a cabo en este mismo instante o que son realizables a corto, medio y largo plazo. Es un manifiesto que tocará aspectos que nos parecen interesantes, pero estos no son todos los aspectos de la vida cotidiana o de la sociedad futura sobre los que el anarquismo tiene o ha tenido cosas a decir, y es por eso que para profundizar más en detalle en lo que exponemos, y en lo que plantea el ideario anarquista en aspectos que nosotros no tocaremos, te recomendamos visitar la web de la Biblioteca Social de Olot: http://www.bsolot.info/ Está por ver el grado de eficiencia de este manifiesto, pero lo que está claro, es que no es ni pretende ser un objeto inerme. Noam Chomsky, en su «Indignados. En el epicentro del capitalismo mundial» [1] , define la raíz de la problemática que ha causado la crisis actual desde la perspectiva de los EE.UU., que como podemos comprobar a continuación, es extrapolable a la situación que nos encontramos en Cataluña actualmente, puesto que por los mismos periodos, el mundo de las finanzas actuó del mismo modo más o menos por todas partes: « En la raíz de este acontecimiento [la crisis económica o sistémica] se encuentra un gran cambio ocurrido en la economía y que empezó a tener lugar en la década de 1970. Fue más intenso con Reagan y con Thacher en Inglaterra, y de allí en adelante. (...) hubo un cambio en la dirección hacia el incremento del papel de las finanzas en la sociedad. Martin Wolf, uno de los grandes comentaristas financieros, escribió recientemente que los sistemas financieros están acabando con los mercados actuales del mismo modo que la larva destruye a su anfitrión. Es uno de los economistas más respetados del mundo y no es un radical. Pero este es el efecto que ha provocad…
+Introducción
+
+Lo que no es este manifiesto
+
+Lo que sí es este manifiesto
+
+Breve análisis de la situación actual
+
+La defensa de los servicios públicos. Anarquistas de estado?
+
+Planteamientos anarquistas para una economía más racional
+
+La solidaridad
+
+La diversidad
+
+La equidad
+
+La autogestión
+
+La eficiencia
+
+El anarcosindicalismo
+
+La vigencia de las huelgas y la necesidad de unir esfuerzos
+
+La salud democrática
+
+Educarse: pilar fundamental para una sociedad libre
+
+El hecho nacional contra el estado
+
+Ecologismo
+
+«El anarquismo puede ser considerado como procediendo de la hipótesis que hay una tarea negativa que tiene que ser cumplida... el anarquismo nos puede decir lo que tenemos que desaprender para ser libres, pero no nos puede decir como utilizar esta libertad: el anarquismo no impone ningún tipo de vida sobre nosotros, nos reta a hacer una vida digna, para liberarnos de todos los vestigios de la autoridad del poder, de la autoridad política».
+
+David Wieck
+
+No es una sandez de quien no tiene los pies en el suelo. Somos conscientes de la correlación de fuerzas existente en la sociedad actual, y del mismo modo somos conscientes de las dificultades que hay en mayor o menor grado para poder aplicar cada uno de los posicionamientos que a continuación iremos exponiendo. Aún así, a pesar de las dificultades a que nos enfrentamos, estas no son bastante grandes para ser una excusa válida para quedarse inactivo. Y menos cuando el ideario anarquista está teniendo un crecimiento importante en varias partes del mundo.
+
+Es una herramienta. Una herramienta útil para la transformación social desde posicionamientos anarquistas. Para contribuir desde la Garrotxa a aportar un granito de arena más para lograr una sociedad entre iguales y libre.
+
+Este manifiesto no pretende fijar unas bases dogmáticas ni mucho menos. Como buen manifiesto anarquista que es, aspira a no parar las acciones revolucionarias, cuestionando permanentemente los objetivos conseguidos y las opiniones emitidas. Si la revolución se para, la revolución se muere.
+
+Intentaremos exponer teoría y práctica. Es por eso que encontrarás propuestas que se están llevando a cabo en este mismo instante o que son realizables a corto, medio y largo plazo.
+
+Es un manifiesto que tocará aspectos que nos parecen interesantes, pero estos no son todos los aspectos de la vida cotidiana o de la sociedad futura sobre los que el anarquismo tiene o ha tenido cosas a decir, y es por eso que para profundizar más en detalle en lo que exponemos, y en lo que plantea el ideario anarquista en aspectos que nosotros no tocaremos, te recomendamos visitar la web de la Biblioteca Social de Olot:
+
+http://www.bsolot.info/
+
+Está por ver el grado de eficiencia de este manifiesto, pero lo que está claro, es que no es ni pretende ser un objeto inerme.
+
+Noam Chomsky, en su «Indignados. En el epicentro del capitalismo mundial»[1], define la raíz de la problemática que ha causado la crisis actual desde la perspectiva de los EE.UU., que como podemos comprobar a continuación, es extrapolable a la situación que nos encontramos en Cataluña actualmente, puesto que por los mismos periodos, el mundo de las finanzas actuó del mismo modo más o menos por todas partes:
+
+«En la raíz de este acontecimiento [la crisis económica o sistémica] se encuentra un gran cambio ocurrido en la economía y que empezó a tener lugar en la década de 1970. Fue más intenso con Reagan y con Thacher en Inglaterra, y de allí en adelante. (...) hubo un cambio en la dirección hacia el incremento del papel de las finanzas en la sociedad. Martin Wolf, uno de los grandes comentaristas financieros, escribió recientemente que los sistemas financieros están acabando con los mercados actuales del mismo modo que la larva destruye a su anfitrión. Es uno de los economistas más respetados del mundo y no es un radical. Pero este es el efecto que ha provocado el sistema financiero. Al mismo tiempo tenemos la decisión de las corporaciones de llevar al extranjero la produc…

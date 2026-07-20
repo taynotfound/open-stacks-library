@@ -19,4 +19,40 @@ files:
     hosted: false
 ---
 
-       The Emancipation of Woman        Religious Matters        Education        Right to Combine        Political liberty and universal suffrage        Government        Punishment and War        The Republicans, Costa, and Us The greatest discovery of this century was made by the International when it proclaimed that the economic question is fundamental in Sociology, and that other matters—political, religious, etc.,—are merely its reflections, perhaps even the shadows it casts. Indeed, in the past, lacking this key, all political problems (in the broadest sense, encompassing everything related to the existence of society) were insoluble, indeed, unfathomable. In Greece, for instance, in order to deliver the greatest well-being to the people, they sought the best government, or “the government of the most.” But in the end, it turned out that government is always government by the few and not by the best either but by scoundrels —whether monarchist, aristocratic, or democratic, it was still despotic or, to use a modern term, the business of the haves. Rome came closer to the truth, when it looked for the phoenix of social well-being in equality of circumstance for all citizens of the State . The agrarian laws that were proclaimed twenty-seven centuries ago from atop the Campidoglio, plus the social and slave wars show that there was some vague inkling of the truth: that economic circumstances are the real yardstick of the civil and political status of a man or a class. But having an inkling is one thing and understanding and announcing it is quite another; the first being a glimmer and the other a light. The vagueness of the idea was mirrored in the vagueness of the set of demands that went by the name of “primitive Christianity”; and the weak sunbeams were soon swallowed up by the darkness of the Middle Ages. There, too, the struggles for political power flared up: the economic question resurfaced timidly in the Communes, but fed into petty internecine strife and was not the banner of widespread social upheaval. Democracies, aristocracies, tyrannies—here again we have the terms designed to solve the enigma. And centuries more of experience, right up until our own day, up until the French revolution, up until 1860, up until almost today, have borne out the principle that: all established governments, founded as they are upon inequalities of circumstances, are despotic and monopolise the national wealth; that the political question cannot be resolved, nor any other issue of interest to society , unless there is a resolution of the economic question . This truth is the big advance on the present century and the compendium, the quintessence of theoretical and practical socialism, the key to the resolution of all the problems that tax our brains and torment our hearts; it has burst forth from three sources simultaneously: from the workers’ painful experiences of the freest forms of government; from study of the relations between Capital and Labor, which is to say, Economics; and finally from the brand new positive approach of the Social Sciences. Therefore it represents the hinge of Science and modern history; it had brought a far-reaching revolution of ideas, and lays the groundwork for a no less grandiose one in the realm of facts. Let us get used to expressing all social problems that may crop up as the economic question and reducing them to this formula: Economic inequality is the source of all moral, intellectual, political, etc. inequalities. In other words, let us try to talk with precision , for, as Condorcet says, Science is a well-made language, and we shall be on the right road. We offer a few examples: Woman’s emancipation is a topic that has been debated over and over again to the point of exhaustion, seriously and for a laugh, with varying degrees of success, albeit with no outcome, not even a theoretical one. Some argue that woman is born inferior to man, like the slave to the master; others want to see her become…
+The Emancipation of Woman
+
+Religious Matters
+
+Education
+
+Right to Combine
+
+Political liberty and universal suffrage
+
+Government
+
+Punishment and War
+
+The Republicans, Costa, and Us
+
+The greatest discovery of this century was made by the International when it proclaimed that the economic question is fundamental in Sociology, and that other matters—political, religious, etc.,—are merely its reflections, perhaps even the shadows it casts.
+
+Indeed, in the past, lacking this key, all political problems (in the broadest sense, encompassing everything related to the existence of society) were insoluble, indeed, unfathomable.
+
+In Greece, for instance, in order to deliver the greatest well-being to the people, they sought the best government, or “the government of the most.” But in the end, it turned out that government is always government by the few and not by the best either but by scoundrels—whether monarchist, aristocratic, or democratic, it was still despotic or, to use a modern term, the business of the haves.
+
+Rome came closer to the truth, when it looked for the phoenix of social well-being in equality of circumstance for all citizens of the State. The agrarian laws that were proclaimed twenty-seven centuries ago from atop the Campidoglio, plus the social and slave wars show that there was some vague inkling of the truth: that economic circumstances are the real yardstick of the civil and political status of a man or a class. But having an inkling is one thing and understanding and announcing it is quite another; the first being a glimmer and the other a light. The vagueness of the idea was mirrored in the vagueness of the set of demands that went by the name of “primitive Christianity”; and the weak sunbeams were soon swallowed up by the darkness of the Middle Ages.
+
+There, too, the struggles for political power flared up: the economic question resurfaced timidly in the Communes, but fed into petty internecine strife and was not the banner of widespread social upheaval. Democracies, aristocracies, tyrannies—here again we have the terms designed to solve the enigma. And centuries more of experience, right up until our own day, up until the French revolution, up until 1860, up until almost today, have borne out the principle that: all established governments, founded as they are upon inequalities of circumstances, are despotic and monopolise the national wealth; that the political question cannot be resolved, nor any other issue of interest to society, unless there is a resolution of the economic question.
+
+This truth is the big advance on the present century and the compendium, the quintessence of theoretical and practical socialism, the key to the resolution of all the problems that tax our brains and torment our hearts; it has burst forth from three sources simultaneously: from the workers’ painful experiences of the freest forms of government; from study of the relations between Capital and Labor, which is to say, Economics; and finally from the brand new positive approach of the Social Sciences. Therefore it represents the hinge of Science and modern history; it had brought a far-reaching revolution of ideas, and lays the groundwork for a no less grandiose one in the realm of facts.
+
+Let us get used to expressing all social problems that may crop up as the economic question and reducing them to this formula:
+
+Economic inequality is the source of all moral, intellectual, political, etc. inequalities.
+
+In other words, let us try to talk with precision, for, as Condorcet says, Science is a well-made language, and we shall be on the right road.
+
+We offer a few examples:
+
+Woman’s emancipation is a topic that has been debated over and over again to the point of exhaustion, seriously and for a laugh, with varying degrees of success, albeit with no outcome, not even a theoretical one. Some argue that woman is born inferior to man, like the slave to the master; others want to see her become his equal. Physiology, history, anthropolo…

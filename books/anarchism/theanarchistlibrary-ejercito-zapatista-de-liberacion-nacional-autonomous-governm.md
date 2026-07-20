@@ -19,4 +19,174 @@ files:
     hosted: false
 ---
 
-   Caracol I: Mother of the Caracoles, Sea of Our Dreams      History of Autonomous Government        Lorena (Promoter in the Three Areas. MAREZ San Pedro de Michoacán)        Doroteo (Former member of the Junta de Buen Gobierno. MAREZ Libertad de los Pueblos Mayas)        Questions      Roles of Autonomous Government        Fanny (Member of the Junta de Buen Gobierno)        Questions      Duties of Autonomous Government        Tony (Member of the Municipal Council. MAREZ Tierra y Libertad)        Rosy (Member of the Junta de Buen Gobierno. MAREZ San Pedro de Michoacán)        Questions      Rights of Autonomous Authorities        Jimmy (Former Member of the Autonomous Council. MAREZ San Pedro de Michoacán)      Obligations of Autonomous Government        Doroteo (Former Member of the Junta de Buen Gobierno. MAREZ Libertad de los Pueblos Mayas)    Caracol II: Resistance and Rebellion For Humanity      Introduction        Esaú (Former Member of the Junta de Buen Gobierno. MAREZ San Juan de la Libertad)        Questions      Government of Three Levels        Rosalinda (Former Member of the Junta de Buen Gobierno. MAREZ San Juan Apóstol Cancuc)        Questions      Explanation of How the Traditional and Autonomous Authorities are Chosen in Zona Altos        Gonzalo (Former Judge)      Relationship with Other Organizations        Patricia (Former Member of the Junta de Buen Gobierno. MAREZ Magdalena de la Paz)      Territoriality        Alfredo (Former Member of the Junta de Buen Gobierno. MAREZ San Pedro Polhó)        Questions      Duties of Autonomous Governments        Víctor (Former Member of the Junta de Buen Gobierno. MAREZ San Juan Apóstol Cancuc)        Abraham (Member of the Junta de Buen Gobierno. MAREZ San Juan de la Libertad)      Organization of Autonomous Government        Marta (MAREZ San Juan de la Libertad)        Susana (MAREZ San Juan Apóstol Cancuc)        Questions    Caracol III: Resistance Toward a New Dawn      Introduction        Gabriel (Former Member of the Autonomous Council. MAREZ Francisco Villa)      Formation of the First Autonomous Authorities        Pedro Marín (Former Member of the Junta de Buen Gobierno. MAREZ Francisco Gómez)        Griselda (Former Member of the Autonomous Council. MAREZ Francisco Gómez)        Rebeca (Former Member of the Junta de Buen Gobierno. MAREZ San Manuel)        Artemio (Former Member of the Autonomous Council. MAREZ Ricardo Flores Magón)        Questions          Ceferino (Former Member of the Junta de Buen Gobierno. MAREZ Ricardo Flores Magón)          Felipe (Former Member of the Autonomous Council. MAREZ San Manuel)      Work of the Junta de Buen Gobierno        Cornelio (Former Member of the Junta de Buen Gobierno. MAREZ Francisco Gómez)        Artemio (Former Member of the Autonomous Council. MAREZ Ricardo Flores Magón)        Ceferino (Former Member of the Junta de Buen Gobierno. MAREZ Ricardo Flores Magón)        Questions    Caracol IV: Whirlwind of Our Words      Creation of Autonomous Government        Gerónimo (Former Member of the Junta de Buen Gobierno. MAREZ Lucio Cabañas)        Questions      Territoriality        Another Compañero      Relationship with Other Social Organizations        Johana (Former Member of the Junta de Buen Gobierno. MAREZ 17 de Noviembre)      Roles of the Junta de Buen Gobierno        Fermín (Former Member of the Junta de Buen Gobierno. MAREZ Comandanta Ramona)        Questions      Participation of Women        Jessica (Member of the Autonomous Council. MAREZ 17 de Noviembre)      Elaboration of Projects for the Development of the Municipalities, Regions, and Towns        Questions      Role of the Vigilance Commission        Questions    Caracol V: Which Speaks for Everyone      Formation of the Junta de Buen Gobierno        Valentín (Former Member of the Autonomous Council. MAREZ Vicente Guerrero)        Ana (Education Former. MAREZ El Trabajo)        Alex (Member of the Junta de Buen Gobierno. Region Jacinto Canek)     …
+Caracol I: Mother of the Caracoles, Sea of Our Dreams
+
+History of Autonomous Government
+
+Lorena (Promoter in the Three Areas. MAREZ San Pedro de Michoacán)
+
+Doroteo (Former member of the Junta de Buen Gobierno. MAREZ Libertad de los Pueblos Mayas)
+
+Questions
+
+Roles of Autonomous Government
+
+Fanny (Member of the Junta de Buen Gobierno)
+
+Questions
+
+Duties of Autonomous Government
+
+Tony (Member of the Municipal Council. MAREZ Tierra y Libertad)
+
+Rosy (Member of the Junta de Buen Gobierno. MAREZ San Pedro de Michoacán)
+
+Questions
+
+Rights of Autonomous Authorities
+
+Jimmy (Former Member of the Autonomous Council. MAREZ San Pedro de Michoacán)
+
+Obligations of Autonomous Government
+
+Doroteo (Former Member of the Junta de Buen Gobierno. MAREZ Libertad de los Pueblos Mayas)
+
+Caracol II: Resistance and Rebellion For Humanity
+
+Introduction
+
+Esaú (Former Member of the Junta de Buen Gobierno. MAREZ San Juan de la Libertad)
+
+Questions
+
+Government of Three Levels
+
+Rosalinda (Former Member of the Junta de Buen Gobierno. MAREZ San Juan Apóstol Cancuc)
+
+Questions
+
+Explanation of How the Traditional and Autonomous Authorities are Chosen in Zona Altos
+
+Gonzalo (Former Judge)
+
+Relationship with Other Organizations
+
+Patricia (Former Member of the Junta de Buen Gobierno. MAREZ Magdalena de la Paz)
+
+Territoriality
+
+Alfredo (Former Member of the Junta de Buen Gobierno. MAREZ San Pedro Polhó)
+
+Questions
+
+Duties of Autonomous Governments
+
+Víctor (Former Member of the Junta de Buen Gobierno. MAREZ San Juan Apóstol Cancuc)
+
+Abraham (Member of the Junta de Buen Gobierno. MAREZ San Juan de la Libertad)
+
+Organization of Autonomous Government
+
+Marta (MAREZ San Juan de la Libertad)
+
+Susana (MAREZ San Juan Apóstol Cancuc)
+
+Questions
+
+Caracol III: Resistance Toward a New Dawn
+
+Introduction
+
+Gabriel (Former Member of the Autonomous Council. MAREZ Francisco Villa)
+
+Formation of the First Autonomous Authorities
+
+Pedro Marín (Former Member of the Junta de Buen Gobierno. MAREZ Francisco Gómez)
+
+Griselda (Former Member of the Autonomous Council. MAREZ Francisco Gómez)
+
+Rebeca (Former Member of the Junta de Buen Gobierno. MAREZ San Manuel)
+
+Artemio (Former Member of the Autonomous Council. MAREZ Ricardo Flores Magón)
+
+Questions
+
+Ceferino (Former Member of the Junta de Buen Gobierno. MAREZ Ricardo Flores Magón)
+
+Felipe (Former Member of the Autonomous Council. MAREZ San Manuel)
+
+Work of the Junta de Buen Gobierno
+
+Cornelio (Former Member of the Junta de Buen Gobierno. MAREZ Francisco Gómez)
+
+Artemio (Former Member of the Autonomous Council. MAREZ Ricardo Flores Magón)
+
+Ceferino (Former Member of the Junta de Buen Gobierno. MAREZ Ricardo Flores Magón)
+
+Questions
+
+Caracol IV: Whirlwind of Our Words
+
+Creation of Autonomous Government
+
+Gerónimo (Former Member of the Junta de Buen Gobierno. MAREZ Lucio Cabañas)
+
+Questions
+
+Territoriality
+
+Another Compañero
+
+Relationship with Other Social Organizations
+
+Johana (Former Member of the Junta de Buen Gobierno. MAREZ 17 de Noviembre)
+
+Roles of the Junta de Buen Gobierno
+
+Fermín (Former Member of the Junta de Buen Gobierno. MAREZ Comandanta Ramona)
+
+Questions
+
+Participation of Women
+
+Jessica (Member of the Autonomous Council. MAREZ 17 de Noviembre)
+
+Elaboration of Projects for the Development of the Municipalities, Regions, and Towns
+
+Questions
+
+Role of the Vigilance Commission
+
+Questions
+
+Caracol V: Which Speaks for Everyone
+
+Formation of the Junta de Buen Gobierno
+
+Valentín (Former Member of the Autonomous Council. MAREZ Vicente Guerrero)
+
+Ana (Education Former. MAREZ El Trabajo)
+
+Alex (Member of the Junta de Buen Gobierno. Region Jacinto Canek)
+
+Questions
+
+Relationship with National and International Social Organizations
+
+Gerardo (Junta de Buen Gobierno Delegate. Region of Felipe Ángeles)
+
+Questions
+
+Territoriality
+
+Adamari (Member of the Autonomous Council. MAREZ Rubén Jaramillo)
+
+Questions
+
+Roles of the Autonomous Council
+
+Salomón (Member of the Autonomous Council. MAREZ Benito Juárez)
+
+Questions
+
+Role of the Delegates of the Ju…

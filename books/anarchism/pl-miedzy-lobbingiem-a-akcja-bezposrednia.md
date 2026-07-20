@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Wstęp          Przypisy        O obywatelskim nieposłuszeństwie i demokracji bezpośredniej. Uwagi teoretyczne. Rafał Pankowski          Wybrana bibliografia        Obywatelskie nieposłuszeństwo w świetle wartości. Ryszard Skrzypiec        Wizja społeczeństwa obywatelskiego w teorii walki bez użycia przemocy. Piotr Frączak          Cechy konstytutywne działania bez przemocy          Wizja społeczeństwa obywatelskiego          Wizja społeczeństwa bez przemocy          Zakończenie          Przypisy        Obywatelskie nieposłuszeństwo w świetle kontrolnych i innowacyjnych zadań trzeciego sektora. Tomasz Schimanek          Kilka słów o sektorze          Zmiana jako wyzwanie          Przypisy        Informacje nt. autorów Organizacje pozarządowe działają w ramach obowiązującego w demokratycznym państwie prawa, wpływając, w ramach demokratycznych procedur, na jego doskonalenie. (z Karty Zasad Działania Organizacji Pozarządowych) Stosunek państwo - obywatel to jedna z podstawowych kategorii w teoriach społeczeństwa obywatelskiego. W państwach autokratycznych czy totalitarnych społeczeństwo walczy z państwem o swoje prawa. Doświadczenia polskie sprzed 1989 roku są tu dobrym przykładem. Sytuacja zmienia się zasadniczo w państwach demokratycznych, gdzie swobody obywatelskie zostały zapisane w formie praw. W tym przypadku pojawia się swoista ambiwalencją w podejściu do prawa. Z jednej strony prawo broni swobód obywatelskich, z drugiej zaś - ogranicza działania obywateli. Władysław Stróżewski przedstawia ten dylemat w formie konfliktu dwóch etyk, w którym etyka obywatelska jest etyką powinności, etyką obowiązku. Do jej istoty należy uznanie i przestrzeganie prawa. Państwo oparte na prawie musi wymagać respektowania tegoż prawa, a cnoty obywatelskie konstytuują się dzięki poczuciu lojalności i obowiązków wobec państwa (s.52). Z drugiej strony etyka obywatela mówi, że obywatel ma prawo, a nawet więcej: obowiązek do zmiany praw, które uznał za niesłuszne, ma prawo zgłaszania nowych i poprawek do starych. Oto prawo i obowiązek obywatela, konstytuujące jego etykę, jako nie tylko przedmiotu, ale i podmiotu prawa. Podmiotu w sensie tego, kto bierze odpowiedzialność za obowiązywalność takiego a nie innego prawa. Etyka obywatelska to etyka obowiązku, etyka obywatela to etyka odpowiedzialności. (Stróżewski 1993 s.57). Niejednoznaczny stosunek obywateli do obowiązującego prawa doskonale oddaje idea pomocniczości państwa, gdzie społeczeństwo samo, w miarę możliwości, zaspokaja swoje potrzeby. Idea pomocniczości nie da się pogodzić z petryfikacją i sakralizacją praw, niezależnie od tego, czy chodzi o prawa-wierzytelności, czy prawa-wolności. Pojęcie prawa nabytego, które oznacza dużo więcej, niż to wskazuje sam termin, wyraża tę tendencję do "unieruchomienia" prawa, gdy tylko jego nabycie zostanie uznane. (...) Myśl kierująca się zasadą pomocniczości uważa, że dobro poprzedza prawo, inspiruje je, wskazuje realizacje możliwe i konieczne, nawet jeśli w danej epoce przeważają, stworzone na jej podobieństwo, prądy myślowe, które prawo uznają za punkt odniesienia dla dobra. Prawa czerpią swą moc z wymogów zawsze wątpliwych, bo jedynie wytyczających jak gdyby niewprawną ręką kontury godności w konkretnym czasie i miejscu. Mogą być nadużywane i mogą rodzić przewrotne skutki i dlatego powinny okresowo podlegać rewizji z punktu widzenia kryteriów nadrzędnych (Millon-Delsol 1995 s.76-77). Chociaż publikowane poniżej teksty odwołują się w gruncie rzeczy do doświadczeń zachodnich nie oznacza, że brak nam polskich doświadczeń. Jest to raczej wynikiem braku teoretycznych refleksji dotyczących tego aspektu naszej historii. Przecież już w opracowanych w 1573 roku artykułach henrycjańskich (tej swoistej konstytucji wyprzedzającej o ponad wiek idee konstytucjonalizmu jako formy ograniczania władzy królewskiej) zostało zagwarantowane prawo do wypowiedzenia posłuszeństwa przez poddanych w wypadku naruszenia przez władcę ich praw. Wiele takich, czasem wątpliwych, a…
+Wstęp
+
+Przypisy
+
+O obywatelskim nieposłuszeństwie i demokracji bezpośredniej. Uwagi teoretyczne. Rafał Pankowski
+
+Wybrana bibliografia
+
+Obywatelskie nieposłuszeństwo w świetle wartości. Ryszard Skrzypiec
+
+Wizja społeczeństwa obywatelskiego w teorii walki bez użycia przemocy. Piotr Frączak
+
+Cechy konstytutywne działania bez przemocy
+
+Wizja społeczeństwa obywatelskiego
+
+Wizja społeczeństwa bez przemocy
+
+Zakończenie
+
+Przypisy
+
+Obywatelskie nieposłuszeństwo w świetle kontrolnych i innowacyjnych zadań trzeciego sektora. Tomasz Schimanek
+
+Kilka słów o sektorze
+
+Zmiana jako wyzwanie
+
+Przypisy
+
+Informacje nt. autorów
+
+Organizacje pozarządowe działają w ramach obowiązującego w demokratycznym państwie prawa, wpływając, w ramach demokratycznych procedur, na jego doskonalenie.
+
+(z Karty Zasad Działania Organizacji Pozarządowych)
+
+Stosunek państwo - obywatel to jedna z podstawowych kategorii w teoriach społeczeństwa obywatelskiego. W państwach autokratycznych czy totalitarnych społeczeństwo walczy z państwem o swoje prawa. Doświadczenia polskie sprzed 1989 roku są tu dobrym przykładem. Sytuacja zmienia się zasadniczo w państwach demokratycznych, gdzie swobody obywatelskie zostały zapisane w formie praw.
+
+W tym przypadku pojawia się swoista ambiwalencją w podejściu do prawa. Z jednej strony prawo broni swobód obywatelskich, z drugiej zaś - ogranicza działania obywateli. Władysław Stróżewski przedstawia ten dylemat w formie konfliktu dwóch etyk, w którym etyka obywatelska jest etyką powinności, etyką obowiązku. Do jej istoty należy uznanie i przestrzeganie prawa. Państwo oparte na prawie musi wymagać respektowania tegoż prawa, a cnoty obywatelskie konstytuują się dzięki poczuciu lojalności i obowiązków wobec państwa (s.52). Z drugiej strony etyka obywatela mówi, że obywatel ma prawo, a nawet więcej: obowiązek do zmiany praw, które uznał za niesłuszne, ma prawo zgłaszania nowych i poprawek do starych. Oto prawo i obowiązek obywatela, konstytuujące jego etykę, jako nie tylko przedmiotu, ale i podmiotu prawa. Podmiotu w sensie tego, kto bierze odpowiedzialność za obowiązywalność takiego a nie innego prawa. Etyka obywatelska to etyka obowiązku, etyka obywatela to etyka odpowiedzialności. (Stróżewski 1993 s.57).
+
+Niejednoznaczny stosunek obywateli do obowiązującego prawa doskonale oddaje idea pomocniczości państwa, gdzie społeczeństwo samo, w miarę możliwości, zaspokaja swoje potrzeby. Idea pomocniczości nie da się pogodzić z petryfikacją i sakralizacją praw, niezależnie od tego, czy chodzi o prawa-wierzytelności, czy prawa-wolności. Pojęcie prawa nabytego, które oznacza dużo więcej, niż to wskazuje sam termin, wyraża tę tendencję do "unieruchomienia" prawa, gdy tylko jego nabycie zostanie uznane. (...) Myśl kierująca się zasadą pomocniczości uważa, że dobro poprzedza prawo, inspiruje je, wskazuje realizacje możliwe i konieczne, nawet jeśli w danej epoce przeważają, stworzone na jej podobieństwo, prądy myślowe, które prawo uznają za punkt odniesienia dla dobra. Prawa czerpią swą moc z wymogów zawsze wątpliwych, bo jedynie wytyczających jak gdyby niewprawną ręką kontury godności w konkretnym czasie i miejscu. Mogą być nadużywane i mogą rodzić przewrotne skutki i dlatego powinny okresowo podlegać rewizji z punktu widzenia kryteriów nadrzędnych (Millon-Delsol 1995 s.76-77).
+
+Chociaż publikowane poniżej teksty odwołują się w gruncie rzeczy do doświadczeń zachodnich nie oznacza, że brak nam polskich doświadczeń. Jest to raczej wynikiem braku teoretycznych refleksji dotyczących tego aspektu naszej historii. Przecież już w opracowanych w 1573 roku artykułach henrycjańskich (tej swoistej konstytucji wyprzedzającej o ponad wiek idee konstytucjonalizmu jako formy ograniczania władzy królewskiej) zostało zagwarantowane prawo do wypowiedzenia posłuszeństwa przez poddanych w wypadku naruszenia przez władcę ich praw.
+
+Wiele takich, czasem wątpliwych, ale zawsze zapomnianych sukcesów, można doszukać się w tradycji I Rzeczpospolitej czy czasów walk narodowowyzwo…

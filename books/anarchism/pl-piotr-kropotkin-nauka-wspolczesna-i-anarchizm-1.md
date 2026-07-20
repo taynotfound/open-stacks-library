@@ -19,4 +19,40 @@ files:
     hosted: false
 ---
 
-     ROZDZIAŁ I. Pochodzenie anarchizmu.      ROZDZIAŁ II. Ruch umysłowy wieku XVIII.      ROZDZIAŁ III. Reakcja na początku wieku XIX.      ROZDZIAŁ IV. Filozofia pozytywna Comte'a.      ROZDZIAŁ V. Obudzenie się w latach 1856 – 1862.      ROZDZIAŁ VI. Spencera próba filozofii syntetycznej.      ROZDZIAŁ VII. Znaczenie ustawodawstwa w życiu społecznym.      ROZDZIAŁ VIII. Stanowisko anarchizmu w nauce współczesnej.      ROZDZIAŁ IX. Ideał anarchistyczny i rewolucje dotychczasowe.      ROZDZIAŁ X. Kilka wskaźników teoretycznych anarchizmu.      ROZDZIAŁ XI. Taktyka anarchizmu      ROZDZIAŁ XII. Zakończenie      Przypiski. Anarchizm nie jest wytworem nauki lub jakiejś szkoły filozoficznej. Naukom społecznym daleko jeszcze do ścisłości, jaką posiada fizyka i chemia. I jeżeli mimo to meteorologia nie jest dotąd w stanie ściśle nam określić, jaka będzie pogoda w ciągu jednego miesiąca lub nawet jednego tygodnia, więc czyż można wymagać, by całkiem młode nauki społeczne, zajmujące się zjawiskami nierównie bardziej skomplikowanymi niż wiatr i deszcze, mogły same przez się przepowiedzieć jakiekolwiek wypadki i przeobrażenia w społeczeństwie? Nie należy też zapominać, że mężowie nauki są takimi samymi ludźmi jak wszyscy inni, że większość spośród nich należy do klasy posiadającej i odznacza się wynikającymi stąd uprzedzeniami klasowymi, i w końcu, że wielu z nich pozostaje do rządu w pewnym stosunku zależności. Jest więc rzeczą jasną, że uniwersytety nie mogły się stać kolebką anarchizmu. Podobnie jak socjalizm w ogóle i jak każdy inny ruch społeczny, wyłonił się anarchizm z ludu i tak długo tylko zachowa swą siłę żywotną i moc twórczą, jak długo będzie z ludem zespolony. Od dawien dawna ujawniały się w społeczeństwie ludzkim dwa prądy, nawzajem się zwalczające. Po jednej stronie były masy, lud, który stworzył w postaci obyczajów cały szereg urządzeń, umożliwiających dopiero współżycie społeczne, odnoszących się do przestrzegania pokoju, uśmierzania sporów i wspierania dążeń ogólnych. „Plemię” dzikich, wspólnota wioskowa, cechy rzemieślnicze, wolne miasta średniowieczne, podstawy prawa międzynarodowego, utwierdzone już w owych wczesnych epokach, te i inne jeszcze urządzenia nie wyrosły spod pióra prawodawcy, lecz wykwitły z siły twórczej ludu. Po drugiej stronie istnieli zawsze i wszędzie czarodzieje, prorocy, zaklinacze chmur, cudotwórcy, kapłani, znawcy zwyczajów dawnych i wodzowie hord wojowniczych, którzy usiłowali zyskać wśród ludu uznanie swego autorytetu i przez udzielanie sobie wzajemnego poparcia starali się lud opanować, uciskać i w jarzmie utrzymać. Jest jasne, że anarchizm jest tworem pierwszego prądu, że jest wyrazem siły twórczej mas, tych mas, które były twórcami instytucji prawa zwyczajowego dla obrony przed zakusami żądnej władzy mniejszości. Z jednej strony za pomocą tej siły twórczej i działalności konstrukcyjnej ludu i z drugiej strony za pomocą nauki współczesnej i techniki usiłuje anarchizm stworzyć takie urządzenia, które dają gwarancję wolnego rozwoju społeczeństwa, – w przeciwieństwie do tych, którzy nadzieje swe pokładają w ustawodawstwie, tj. wytworze rządzących mniejszości. W tym znaczeniu zawsze istnieli anarchiści i wyznawcy państwa. Dalej można w dziejach następujące uczynić spostrzeżenie: instytucje nawet najlepsze, nawet takie, które stworzono pierwotnie dla przestrzegania równości, pokoju i pomocy wzajemnej, z biegiem czasu starzały się i kamieniały. Zatracały swe znaczenie pierwotne, stawały się narzędziami władzy mniejszości ambitnej i w końcu były tylko zaporą w dalszym pochodzie rozwojowym społeczeństwa. Od tej chwili poczynał się stale bunt mniej lub więcej odosobnionych jednostek. Lecz, podczas gdy pewna kategoria tych niezadowolonych usiłowała zrzucić jarzmo dawnych urządzeń (plemienia, wspólnoty wioskowej, cechu) tylko po to, by samemu stanąć poza i ponad tymi instytucjami, by swych bliźnich uciskać i na ich koszt się wzbogacić, inna kategoria dążyła do zmiany tych urządzeń, które stały się ka…
+ROZDZIAŁ I. Pochodzenie anarchizmu.
+
+ROZDZIAŁ II. Ruch umysłowy wieku XVIII.
+
+ROZDZIAŁ III. Reakcja na początku wieku XIX.
+
+ROZDZIAŁ IV. Filozofia pozytywna Comte'a.
+
+ROZDZIAŁ V. Obudzenie się w latach 1856 – 1862.
+
+ROZDZIAŁ VI. Spencera próba filozofii syntetycznej.
+
+ROZDZIAŁ VII. Znaczenie ustawodawstwa w życiu społecznym.
+
+ROZDZIAŁ VIII. Stanowisko anarchizmu w nauce współczesnej.
+
+ROZDZIAŁ IX. Ideał anarchistyczny i rewolucje dotychczasowe.
+
+ROZDZIAŁ X. Kilka wskaźników teoretycznych anarchizmu.
+
+ROZDZIAŁ XI. Taktyka anarchizmu
+
+ROZDZIAŁ XII. Zakończenie
+
+Przypiski.
+
+Anarchizm nie jest wytworem nauki lub jakiejś szkoły filozoficznej. Naukom społecznym daleko jeszcze do ścisłości, jaką posiada fizyka i chemia. I jeżeli mimo to meteorologia nie jest dotąd w stanie ściśle nam określić, jaka będzie pogoda w ciągu jednego miesiąca lub nawet jednego tygodnia, więc czyż można wymagać, by całkiem młode nauki społeczne, zajmujące się zjawiskami nierównie bardziej skomplikowanymi niż wiatr i deszcze, mogły same przez się przepowiedzieć jakiekolwiek wypadki i przeobrażenia w społeczeństwie? Nie należy też zapominać, że mężowie nauki są takimi samymi ludźmi jak wszyscy inni, że większość spośród nich należy do klasy posiadającej i odznacza się wynikającymi stąd uprzedzeniami klasowymi, i w końcu, że wielu z nich pozostaje do rządu w pewnym stosunku zależności. Jest więc rzeczą jasną, że uniwersytety nie mogły się stać kolebką anarchizmu.
+
+Podobnie jak socjalizm w ogóle i jak każdy inny ruch społeczny, wyłonił się anarchizm z ludu i tak długo tylko zachowa swą siłę żywotną i moc twórczą, jak długo będzie z ludem zespolony.
+
+Od dawien dawna ujawniały się w społeczeństwie ludzkim dwa prądy, nawzajem się zwalczające. Po jednej stronie były masy, lud, który stworzył w postaci obyczajów cały szereg urządzeń, umożliwiających dopiero współżycie społeczne, odnoszących się do przestrzegania pokoju, uśmierzania sporów i wspierania dążeń ogólnych. „Plemię” dzikich, wspólnota wioskowa, cechy rzemieślnicze, wolne miasta średniowieczne, podstawy prawa międzynarodowego, utwierdzone już w owych wczesnych epokach, te i inne jeszcze urządzenia nie wyrosły spod pióra prawodawcy, lecz wykwitły z siły twórczej ludu.
+
+Po drugiej stronie istnieli zawsze i wszędzie czarodzieje, prorocy, zaklinacze chmur, cudotwórcy, kapłani, znawcy zwyczajów dawnych i wodzowie hord wojowniczych, którzy usiłowali zyskać wśród ludu uznanie swego autorytetu i przez udzielanie sobie wzajemnego poparcia starali się lud opanować, uciskać i w jarzmie utrzymać.
+
+Jest jasne, że anarchizm jest tworem pierwszego prądu, że jest wyrazem siły twórczej mas, tych mas, które były twórcami instytucji prawa zwyczajowego dla obrony przed zakusami żądnej władzy mniejszości. Z jednej strony za pomocą tej siły twórczej i działalności konstrukcyjnej ludu i z drugiej strony za pomocą nauki współczesnej i techniki usiłuje anarchizm stworzyć takie urządzenia, które dają gwarancję wolnego rozwoju społeczeństwa, – w przeciwieństwie do tych, którzy nadzieje swe pokładają w ustawodawstwie, tj. wytworze rządzących mniejszości. W tym znaczeniu zawsze istnieli anarchiści i wyznawcy państwa.
+
+Dalej można w dziejach następujące uczynić spostrzeżenie: instytucje nawet najlepsze, nawet takie, które stworzono pierwotnie dla przestrzegania równości, pokoju i pomocy wzajemnej, z biegiem czasu starzały się i kamieniały. Zatracały swe znaczenie pierwotne, stawały się narzędziami władzy mniejszości ambitnej i w końcu były tylko zaporą w dalszym pochodzie rozwojowym społeczeństwa. Od tej chwili poczynał się stale bunt mniej lub więcej odosobnionych jednostek. Lecz, podczas gdy pewna kategoria tych niezadowolonych usiłowała zrzucić jarzmo dawnych urządzeń (plemienia, wspólnoty wioskowej, cechu) tylko po to, by samemu stanąć poza i ponad tymi instytucjami, by swych bliźnich uciskać i na ich koszt się wzbogacić, inna kategoria dążyła do zmiany tych urządzeń, które stały się kajdanami postępu, jedynie ze względu na dobro og…

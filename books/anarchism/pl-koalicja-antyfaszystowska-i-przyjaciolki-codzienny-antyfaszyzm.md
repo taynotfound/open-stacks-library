@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       Twórz wrażliwą, wspierającą społeczność        Edukuj się i otwórz na innych        Załóż lokalną grupę        Przejmuj przestrzeń        Blokuj faszystowskie konferencje, koncerty, spotkania        Rzuć hajsem        Twórz własne treści        Dziel się informacjami        Korzystaj z bezpiecznych kanałów komunikacji        Kupuj od kooperatyw i spółdzielni        Wstąp do związku zawodowego        Mów o swoich poglądach Faszyzm oznacza ścisłą hierarchię i dyskryminację wszystkich tych, którzy i które nie pasują do fantazji o monolitycznej rasie i narodzie. Antyfaszyzm to walka o równość i reakcja na dyskryminację. Jest zarówno agendą polityczną, jak i codzienną postawą. Oznacza aktywne wspieranie wykluczanych grup, takich jak migrantki i migranci, osoby z niepełnosprawnością, kobiety, osoby w kryzysie bezdomności, pracownice i pracownicy, czy osoby nieheteronormatywne (LGBT+). Jak to robić? Zacznij od najbliższych! Upewnij się, że osoby z Twojego otoczenia wiedzą, że wspierasz je w walce z wykluczeniem, że nie są same. Daj znać znajomym, że osoby queerowe mogą się przed Tobą czuć się bezpiecznie ze swoją tożsamością, że lokatorka zagrożona utratą dachu nad głową może liczyć na Twoje wsparcie, że nie dyskryminujesz innych z powodu niskich zarobków i nie powielasz neoliberalnych stereotypów. Pamiętaj, że bycie sojusznikiem osób wykluczanych to przede wszystkim słuchanie ich potrzeb i wzmacnianie ICH głosu. Nie uznawaj, że wiesz lepiej, czego potrzeba osobom, których doświadczenia życiowe są inne od Twoich. Ale nie proś kobiet, aby udowadniały ci, że nierówności płacowe istnieją, osób queer o tłumaczenie się ze swojej niebinarności, migrantek/ów o udowadnianie, że ich życie jest zagrożone, nie dawaj bezdomnym wykładów o zaradności. Internet pełen jest rzetelnych artykułów opartych na badaniach naukowych, które mogą być Twoim punktem wyjścia, a czasem wystarczy po prostu odrobina empatii. Pokaż, że wychodzisz z inicjatywą i nie czekasz, aż ktoś Cię obsłuży. Nie wychodź z paternalistycznych pozycji wszechwiedzącego nauczyciela, ale rozmawiaj jak równy z równym i wyciągaj wnioski z rozmowy. Jeśli masz znajomych myślących i czujących podobnie, spróbujcie regularnie się spotykać. Pomyślcie, co możecie zrobić tu i teraz. Nie w każdym mieście jest przestrzeń na otwartą działalność polityczną czy organizowanie debat. Możesz jednak przeprowadzać zbiórki darów i benefity na rzecz ośrodków dla uchodźców, domów samotnej matki, noclegowni czy domów dziecka. W niektórych polskich miastach działa też inicjatywa „Jedzenie zamiast bomb”, wydająca posiłki osobom potrzebującym, promując tym samym pomoc wzajemną i sprzeciw wobec militaryzmu. Zdejmuj, zamalowuj, zasłaniaj, zaklejaj nienawistne treści w przestrzeni publicznej. Klej wlepki oraz plakaty, rozdawaj ulotki i biuletyny, rób graffiti o przekazie antyfaszystowskim. Sprej możesz kupić w pierwszym lepszym sklepie, a wlepki przygotować sam/a (na papierze samoprzylepnym lub w lokalnej drukarni) albo zamówić przez internet. Możesz to robić na wiele sposobów. Zaczynając od informowania lokalu, w którym wydarzenie się odbywa, o tym, kto je organizuje, poprzez wywieranie nacisku nagłaśnianiem powyższej sytuacji (pisz do lokalnych i krajowych mediów, spróbuj skontaktować się z NGOsami lub innymi organizacjami), aż po bezpośrednie, fizyczne uniemożliwienie zrealizowania imprezy. Wspieraj istniejące zrzutki, jednak pamiętaj, że nie każde działanie może być finansowane przez crowdfunding. Antyfaszystowskie zbiórki często są zawieszane lub zamykane w wyniku wielokrotnych zgłoszeń. Odezwij się do grupy, której działania popierasz, zaproponuj opłacenie zamówienia na wlepki, wydruk ulotek itp. Może znasz się na grafice i możesz zaprojektować plakat? Albo świetnie radzisz sobie ze słowem pisanym, masz dużą wiedzę (np. historyczną) i chcesz przygotować własne ulotki, albo wesprzeć swoim tekstem, któryś z kolektywów? Skontaktuj się z wybraną grupą i zaoferuj swoją pomoc. Korzystaj z wolnościowych porta…
+Twórz wrażliwą, wspierającą społeczność
+
+Edukuj się i otwórz na innych
+
+Załóż lokalną grupę
+
+Przejmuj przestrzeń
+
+Blokuj faszystowskie konferencje, koncerty, spotkania
+
+Rzuć hajsem
+
+Twórz własne treści
+
+Dziel się informacjami
+
+Korzystaj z bezpiecznych kanałów komunikacji
+
+Kupuj od kooperatyw i spółdzielni
+
+Wstąp do związku zawodowego
+
+Mów o swoich poglądach
+
+Faszyzm oznacza ścisłą hierarchię i dyskryminację wszystkich tych, którzy i które nie pasują do fantazji o monolitycznej rasie i narodzie. Antyfaszyzm to walka o równość i reakcja na dyskryminację. Jest zarówno agendą polityczną, jak i codzienną postawą. Oznacza aktywne wspieranie wykluczanych grup, takich jak migrantki i migranci, osoby z niepełnosprawnością, kobiety, osoby w kryzysie bezdomności, pracownice i pracownicy, czy osoby nieheteronormatywne (LGBT+). Jak to robić?
+
+Zacznij od najbliższych! Upewnij się, że osoby z Twojego otoczenia wiedzą, że wspierasz je w walce z wykluczeniem, że nie są same. Daj znać znajomym, że osoby queerowe mogą się przed Tobą czuć się bezpiecznie ze swoją tożsamością, że lokatorka zagrożona utratą dachu nad głową może liczyć na Twoje wsparcie, że nie dyskryminujesz innych z powodu niskich zarobków i nie powielasz neoliberalnych stereotypów. Pamiętaj, że bycie sojusznikiem osób wykluczanych to przede wszystkim słuchanie ich potrzeb i wzmacnianie ICH głosu. Nie uznawaj, że wiesz lepiej, czego potrzeba osobom, których doświadczenia życiowe są inne od Twoich.
+
+Ale nie proś kobiet, aby udowadniały ci, że nierówności płacowe istnieją, osób queer o tłumaczenie się ze swojej niebinarności, migrantek/ów o udowadnianie, że ich życie jest zagrożone, nie dawaj bezdomnym wykładów o zaradności. Internet pełen jest rzetelnych artykułów opartych na badaniach naukowych, które mogą być Twoim punktem wyjścia, a czasem wystarczy po prostu odrobina empatii. Pokaż, że wychodzisz z inicjatywą i nie czekasz, aż ktoś Cię obsłuży. Nie wychodź z paternalistycznych pozycji wszechwiedzącego nauczyciela, ale rozmawiaj jak równy z równym i wyciągaj wnioski z rozmowy.
+
+Jeśli masz znajomych myślących i czujących podobnie, spróbujcie regularnie się spotykać. Pomyślcie, co możecie zrobić tu i teraz. Nie w każdym mieście jest przestrzeń na otwartą działalność polityczną czy organizowanie debat. Możesz jednak przeprowadzać zbiórki darów i benefity na rzecz ośrodków dla uchodźców, domów samotnej matki, noclegowni czy domów dziecka. W niektórych polskich miastach działa też inicjatywa „Jedzenie zamiast bomb”, wydająca posiłki osobom potrzebującym, promując tym samym pomoc wzajemną i sprzeciw wobec militaryzmu.
+
+Zdejmuj, zamalowuj, zasłaniaj, zaklejaj nienawistne treści w przestrzeni publicznej. Klej wlepki oraz plakaty, rozdawaj ulotki i biuletyny, rób graffiti o przekazie antyfaszystowskim. Sprej możesz kupić w pierwszym lepszym sklepie, a wlepki przygotować sam/a (na papierze samoprzylepnym lub w lokalnej drukarni) albo zamówić przez internet.
+
+Możesz to robić na wiele sposobów. Zaczynając od informowania lokalu, w którym wydarzenie się odbywa, o tym, kto je organizuje, poprzez wywieranie nacisku nagłaśnianiem powyższej sytuacji (pisz do lokalnych i krajowych mediów, spróbuj skontaktować się z NGOsami lub innymi organizacjami), aż po bezpośrednie, fizyczne uniemożliwienie zrealizowania imprezy.
+
+Wspieraj istniejące zrzutki, jednak pamiętaj, że nie każde działanie może być finansowane przez crowdfunding. Antyfaszystowskie zbiórki często są zawieszane lub zamykane w wyniku wielokrotnych zgłoszeń. Odezwij się do grupy, której działania popierasz, zaproponuj opłacenie zamówienia na wlepki, wydruk ulotek itp.
+
+Może znasz się na grafice i możesz zaprojektować plakat? Albo świetnie radzisz sobie ze słowem pisanym, masz dużą wiedzę (np. historyczną) i chcesz przygotować własne ulotki, albo wesprzeć swoim tekstem, któryś z kolektywów? Skontaktuj się z wybraną grupą i zaoferuj swoją pomoc.
+
+Korzystaj z wolnościowych portali informacyjnych, takich jak szmer.info. Udostępniaj treści, kt…

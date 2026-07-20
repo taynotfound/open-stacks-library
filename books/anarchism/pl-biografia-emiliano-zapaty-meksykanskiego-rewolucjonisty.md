@@ -19,4 +19,50 @@ files:
     hosted: false
 ---
 
-       Wczesne życie        Rewolucja w celu obalenia Porfirio Díaz        W przeciwieństwie do Francisco I. Madero        W przeciwieństwie do Huerty        Zapata w konflikcie Carranza / Villa        Soldaderas        Śmierć        Dziedzictwo        Źródła Emiliano Zapata (8 sierpnia 1879 - 10 kwietnia 1919) był sołtysem, rolnikiem i jeźdźcem, który stał się ważnym przywódcą rewolucji meksykańskiej (1910-1920). Odegrał kluczową rolę w obaleniu skorumpowanej dyktatury Porfirio Díaza w 1911 r. I połączył siły z innymi rewolucyjnymi generałami, aby pokonać Victoriano Huertę w 1914 r. Zapata dowodził potężną armią, ale rzadko wypierał się, woląc pozostać na swoim terytorium w Morelos. Zapata był idealistą, a jego nacisk na reformę rolną stał się jednym z filarów rewolucji. Został zamordowany w 1919 roku. Szybkie fakty Znany : jeden z przywódców rewolucji meksykańskiej Urodzony : 8 sierpnia 1879 w Anenecuilco w Meksyku Rodzice : Gabriel Zapata, Cleofas Jertrudiz Salazar Zmarł : 10 kwietnia 1919 w Chinameca, San Miguel w Meksyku Edukacja : Podstawowe wykształcenie od swojego nauczyciela Emilio Vara Małżonek: Josefa Espejo Dzieci : Paulina Ana María Zapata Portillo (z żoną), Carlota Zapata Sánchez, Diego Zapata Piñeiro, Elena Zapata Alfaro, Felipe Zapata Espejo, Gabriel Zapata Sáenz, Gabriel Zapata Vázquez, Guadalupe Zapata Alfaro, Josefa Zapata Espejo, Juan Zapata Alfaro, Luis Eugenio Zapata Sáenz, Margarita Zapata Sáenz, María Luisa Zapata Zúñiga, Mateo Zapata, Nicolás Zapata Alfaro, Ponciano Zapata Alfaro (wszyscy nielegalni) Godny uwagi cytat : „Lepiej jest umrzeć na nogach niż żyć na kolanach”. Przed rewolucją Zapata był młodym chłopem, jak wielu innych w swoim rodzinnym stanie Morelos. Jego rodzina była dość zamożna w tym sensie, że mieli własną ziemię i nie byli peonami zadłużonymi (w zasadzie niewolnikami) na jednej z dużych plantacji trzciny cukrowej. Zapata był dandysem i znanym jeźdźcem oraz torreadorem. W 1909 r. Został wybrany na burmistrza małego miasteczka Anenecuilco i zaczął bronić ziemi swoich sąsiadów przed chciwymi właścicielami ziemskimi. Kiedy zawiódł go system prawny, zebrał uzbrojonych chłopów i zaczął siłą odzyskiwać skradzioną ziemię. W 1910 roku prezydent Porfirio Díaz miał pełne ręce roboty z Francisco Madero , który wystąpił przeciwko niemu w wyborach krajowych. Díaz wygrał, fałszując wyniki, a Madero został zmuszony do wygnania. Z bezpieczeństwa w Stanach Zjednoczonych Madero wezwał do rewolucji. Na północy na jego wezwanie odpowiedzieli Pascual Orozco i Pancho Villa , którzy wkrótce wysłali w pole duże armie. Na południu Zapata widział w tym okazję do zmiany. Założył też armię i zaczął walczyć z siłami federalnymi w południowych stanach. Kiedy Zapata schwytał Cuautlę w maju 1911 roku, Díaz wiedział, że jego czas się skończył i udał się na wygnanie. Sojusz między Zapatą i Madero nie trwał długo. Madero tak naprawdę nie wierzył w reformę rolną, a to było wszystkim, o co dbał Zapata. Kiedy obietnice Madero nie spełniły się, Zapata wyszedł na pole walki ze swoim dawnym sojusznikiem. W listopadzie 1911 roku napisał swój słynny Plan Ayala , w którym Madero ogłosił zdrajcę, nazwał Pascuala Orozco głową Rewolucji i nakreślił plan prawdziwej reformy rolnej. Zapata walczył z siłami federalnymi na południu iw pobliżu Mexico City. Zanim zdążył obalić Madero, generał Victoriano Huerta pobił go w lutym 1913 r., Nakazując aresztowanie i wykonanie Madero. Jeśli był ktoś, kogo Zapata nienawidził bardziej niż Díaza i Madero, to był to Victoriano Huerta - zgorzkniały, gwałtowny alkoholik, który był odpowiedzialny za wiele okrucieństw w południowym Meksyku, próbując zakończyć bunt. Zapata nie był sam. Na północy Pancho Villa, która wspierała Madero, natychmiast wyszła na boisko przeciwko Huercie. Dołączyło do niego dwóch przybyszów do rewolucji, Venustiano Carranza i Alvaro Obregón , którzy zgromadzili duże armie odpowiednio w Coahuila i Sonora. Razem wykonali krótką pracę Huerty, który zrezygnował i uciekł w czerwcu 19…
+Wczesne życie
+
+Rewolucja w celu obalenia Porfirio Díaz
+
+W przeciwieństwie do Francisco I. Madero
+
+W przeciwieństwie do Huerty
+
+Zapata w konflikcie Carranza / Villa
+
+Soldaderas
+
+Śmierć
+
+Dziedzictwo
+
+Źródła
+
+Emiliano Zapata (8 sierpnia 1879 - 10 kwietnia 1919) był sołtysem, rolnikiem i jeźdźcem, który stał się ważnym przywódcą rewolucji meksykańskiej (1910-1920). Odegrał kluczową rolę w obaleniu skorumpowanej dyktatury Porfirio Díaza w 1911 r. I połączył siły z innymi rewolucyjnymi generałami, aby pokonać Victoriano Huertę w 1914 r. Zapata dowodził potężną armią, ale rzadko wypierał się, woląc pozostać na swoim terytorium w Morelos. Zapata był idealistą, a jego nacisk na reformę rolną stał się jednym z filarów rewolucji. Został zamordowany w 1919 roku.
+
+Szybkie fakty
+
+Znany : jeden z przywódców rewolucji meksykańskiej
+
+Urodzony : 8 sierpnia 1879 w Anenecuilco w Meksyku
+
+Rodzice : Gabriel Zapata, Cleofas Jertrudiz Salazar
+
+Zmarł : 10 kwietnia 1919 w Chinameca, San Miguel w Meksyku
+
+Edukacja : Podstawowe wykształcenie od swojego nauczyciela Emilio Vara
+
+Małżonek: Josefa Espejo
+
+Dzieci : Paulina Ana María Zapata Portillo (z żoną), Carlota Zapata Sánchez, Diego Zapata Piñeiro, Elena Zapata Alfaro, Felipe Zapata Espejo, Gabriel Zapata Sáenz, Gabriel Zapata Vázquez, Guadalupe Zapata Alfaro, Josefa Zapata Espejo, Juan Zapata Alfaro, Luis Eugenio Zapata Sáenz, Margarita Zapata Sáenz, María Luisa Zapata Zúñiga, Mateo Zapata, Nicolás Zapata Alfaro, Ponciano Zapata Alfaro (wszyscy nielegalni)
+
+Godny uwagi cytat : „Lepiej jest umrzeć na nogach niż żyć na kolanach”.
+
+Przed rewolucją Zapata był młodym chłopem, jak wielu innych w swoim rodzinnym stanie Morelos. Jego rodzina była dość zamożna w tym sensie, że mieli własną ziemię i nie byli peonami zadłużonymi (w zasadzie niewolnikami) na jednej z dużych plantacji trzciny cukrowej.
+
+Zapata był dandysem i znanym jeźdźcem oraz torreadorem. W 1909 r. Został wybrany na burmistrza małego miasteczka Anenecuilco i zaczął bronić ziemi swoich sąsiadów przed chciwymi właścicielami ziemskimi. Kiedy zawiódł go system prawny, zebrał uzbrojonych chłopów i zaczął siłą odzyskiwać skradzioną ziemię.
+
+W 1910 roku prezydent Porfirio Díaz miał pełne ręce roboty z Francisco Madero , który wystąpił przeciwko niemu w wyborach krajowych. Díaz wygrał, fałszując wyniki, a Madero został zmuszony do wygnania. Z bezpieczeństwa w Stanach Zjednoczonych Madero wezwał do rewolucji. Na północy na jego wezwanie odpowiedzieli Pascual Orozco i Pancho Villa , którzy wkrótce wysłali w pole duże armie. Na południu Zapata widział w tym okazję do zmiany. Założył też armię i zaczął walczyć z siłami federalnymi w południowych stanach. Kiedy Zapata schwytał Cuautlę w maju 1911 roku, Díaz wiedział, że jego czas się skończył i udał się na wygnanie.
+
+Sojusz między Zapatą i Madero nie trwał długo. Madero tak naprawdę nie wierzył w reformę rolną, a to było wszystkim, o co dbał Zapata. Kiedy obietnice Madero nie spełniły się, Zapata wyszedł na pole walki ze swoim dawnym sojusznikiem. W listopadzie 1911 roku napisał swój słynny Plan Ayala , w którym Madero ogłosił zdrajcę, nazwał Pascuala Orozco głową Rewolucji i nakreślił plan prawdziwej reformy rolnej. Zapata walczył z siłami federalnymi na południu iw pobliżu Mexico City. Zanim zdążył obalić Madero, generał Victoriano Huerta pobił go w lutym 1913 r., Nakazując aresztowanie i wykonanie Madero.
+
+Jeśli był ktoś, kogo Zapata nienawidził bardziej niż Díaza i Madero, to był to Victoriano Huerta - zgorzkniały, gwałtowny alkoholik, który był odpowiedzialny za wiele okrucieństw w południowym Meksyku, próbując zakończyć bunt. Zapata nie był sam. Na północy Pancho Villa, która wspierała Madero, natychmiast wyszła na boisko przeciwko Huercie. Dołączyło do niego dwóch przybyszów do rewolucji, Venustiano Carranza i Alvaro Obregón , którzy zgromadzili duże armie odpowiednio w Coahuila i Sonora. Razem wykonali krótką pracę Huerty, który zrezygnował i uciekł w czerwcu 1914 roku po wielokrotnych stratach milita…

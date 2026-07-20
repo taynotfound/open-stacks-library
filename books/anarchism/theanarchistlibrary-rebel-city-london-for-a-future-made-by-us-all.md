@@ -19,4 +19,128 @@ files:
     hosted: false
 ---
 
-       1. Introduction        2. The state we are in      What is anarchism?        3. So what is anarchism?        4. But isn’t anarchism all about chaos and disorder?        5. So Anarchists believe in democracy?        6. What is self-organisation/non-hierarchical organisation and why is it important to anarchism?        7. What have anarchists done for society?        8. What’s the difference between anarchism and socialism?      What would an anarchist society look like?        9. How would anarchists organise locally, nationally, globally to get things done?        10. Oh! So there wouldn’t be countries then? Indeed not!        11. Will people/communities be able to keep national or cultural identities and customs?        12. How do you run large industries like power and food distribution without bosses?        13. How would people be housed?        14. How would an effective healthcare system be run under anarchism?        15. But how would you deal with people in mental health crises who may be a danger to themselves or others? Would treatment be compulsory?        16. How would you deal with antisocial behaviour, bullying and crime to keep people safe?        17 What about murderers, rapists and paedophiles?        18. So you would get rid of prisons and the police then? How would that work?        19. How do we distribute resources fairly?        20. Would there be money in an anarchist society?        21. Without money, how would we trade and exchange goods and services?        22. Without money, what would motivate people to work, or encourage creativity and innovation?        23. Would people be able to have property?        24. What would stop individuals/groups taking or hoarding resources?        25. What if no one wanted to do unpleasant tasks?        26. So what about people who don’t want to work at all?        27. What about people who aren’t able to speak for themselves, because of age, illness or disability?        28. What about identity politics? What if different groups feel their rights are in conflict? How would conflict and discord be dealt with?        29. Do anarchists believe in free speech?        30. Would religion have a place in an anarchist society?        31. Would children and young people have a say in deciding how society is run?        32. How would education work?        33. How would you deal with the climate and environmental crises?        34. Would anarchists ban scientific research and technology development?        35. Would we still have nuclear families in an anarchist society?        36. Would drugs be allowed? What about alcohol and tobacco?        37. Would media/social media be regulated?        38. What will happen to fashion, art, music, culture, entertainment, fun?      How do we get from here to there?        39. But don’t we need political parties and leaders to be able to make changes?        40. Shouldn’t reform what we have rather than changing everything?        41. What is this direct action you lot talk about?        42. Would a revolution be violent? Wouldn’t governments suppress any attempts at real change with force?        43. How do we know a revolution won’t end in chaos and destruction?        44. Why would anyone support some sort of revolution when the outcome is unknown?        45. What would happen to people who opposed an anarchist revolution?        46. Isn’t it “human nature” to compete with others to get the best for us and our families?        47. Don’t most people want an easy life and are happy for others to make decisions?        48. How do we get the rich to give up their wealth?        49. What about power? How do we get them to share that?        50. Does the revolution need to happen globally or can it happen on a smaller scale?        51. Can we really change things?        52. So ask yourself, what kind of future do I want to see for myself and the world?      Glossary      Further Reading        Reading list This booklet has been put to…
+1. Introduction
+
+2. The state we are in
+
+What is anarchism?
+
+3. So what is anarchism?
+
+4. But isn’t anarchism all about chaos and disorder?
+
+5. So Anarchists believe in democracy?
+
+6. What is self-organisation/non-hierarchical organisation and why is it important to anarchism?
+
+7. What have anarchists done for society?
+
+8. What’s the difference between anarchism and socialism?
+
+What would an anarchist society look like?
+
+9. How would anarchists organise locally, nationally, globally to get things done?
+
+10. Oh! So there wouldn’t be countries then?
+Indeed not!
+
+11. Will people/communities be able to keep national or cultural identities and customs?
+
+12. How do you run large industries like power and food distribution without bosses?
+
+13. How would people be housed?
+
+14. How would an effective healthcare system be run under anarchism?
+
+15. But how would you deal with people in mental health crises who may be a danger to themselves or others? Would treatment be compulsory?
+
+16. How would you deal with antisocial behaviour, bullying and crime to keep people safe?
+
+17 What about murderers, rapists and paedophiles?
+
+18. So you would get rid of prisons and the police then? How would that work?
+
+19. How do we distribute resources fairly?
+
+20. Would there be money in an anarchist society?
+
+21. Without money, how would we trade and exchange goods and services?
+
+22. Without money, what would motivate people to work, or encourage creativity and innovation?
+
+23. Would people be able to have property?
+
+24. What would stop individuals/groups taking or hoarding resources?
+
+25. What if no one wanted to do unpleasant tasks?
+
+26. So what about people who don’t want to work at all?
+
+27. What about people who aren’t able to speak for themselves, because of age, illness or disability?
+
+28. What about identity politics? What if different groups feel their rights are in conflict? How would conflict and discord be dealt with?
+
+29. Do anarchists believe in free speech?
+
+30. Would religion have a place in an anarchist society?
+
+31. Would children and young people have a say in deciding how society is run?
+
+32. How would education work?
+
+33. How would you deal with the climate and environmental crises?
+
+34. Would anarchists ban scientific research and technology development?
+
+35. Would we still have nuclear families in an anarchist society?
+
+36. Would drugs be allowed? What about alcohol and tobacco?
+
+37. Would media/social media be regulated?
+
+38. What will happen to fashion, art, music, culture, entertainment, fun?
+
+How do we get from here to there?
+
+39. But don’t we need political parties and leaders to be able to make changes?
+
+40. Shouldn’t reform what we have rather than changing everything?
+
+41. What is this direct action you lot talk about?
+
+42. Would a revolution be violent? Wouldn’t governments suppress any attempts at real change with force?
+
+43. How do we know a revolution won’t end in chaos and destruction?
+
+44. Why would anyone support some sort of revolution when the outcome is unknown?
+
+45. What would happen to people who opposed an anarchist revolution?
+
+46. Isn’t it “human nature” to compete with others to get the best for us and our families?
+
+47. Don’t most people want an easy life and are happy for others to make decisions?
+
+48. How do we get the rich to give up their wealth?
+
+49. What about power? How do we get them to share that?
+
+50. Does the revolution need to happen globally or can it happen on a smaller scale?
+
+51. Can we really change things?
+
+52. So ask yourself, what kind of future do I want to see for myself and the world?
+
+Glossary
+
+Further Reading
+
+Reading list
+
+This booklet has been put together
+by Rebel City, a London-based
+anarchist group.
+We publish newsletters and pamphlets on community
+organisation and anarchism and we visit schools and colleges to talk to young people about our ideas.
+
+During discussions with students many questions arise so we
+decided to compile a booklet answering some of those questions. Answers…
