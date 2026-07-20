@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7576bdca4776d1b9.jpg"
 links: []
 files: []
+files:
+  - name: "the-friends-of-durruti-group-1937-39-agustin-guilam-n.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-friends-of-durruti-group-1937-39-agustin-guilam-n.pdf"
+    hosted: true
 ---
 # The Friends of Durruti Group: 1937-39 - Agustin Guilamòn
 
