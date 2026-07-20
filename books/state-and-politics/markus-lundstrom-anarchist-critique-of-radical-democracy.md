@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchist-critique-of-radical-democracy.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchist-critique-of-radical-democracy.epub
+    hosted: true
 ---
 
 # Anarchist Critique of Radical Democracy
