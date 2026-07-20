@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: i-am-not-a-man-i-am-dynamite.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/i-am-not-a-man-i-am-dynamite.epub
+    hosted: true
 ---
 
 # I Am Not A Man, I Am Dynamite!
