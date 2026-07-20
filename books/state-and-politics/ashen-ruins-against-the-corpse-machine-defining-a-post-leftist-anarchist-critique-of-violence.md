@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: against-the-corpse-machine-defining-a-post-leftist-anarchist-critique-of-violenc.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/against-the-corpse-machine-defining-a-post-leftist-anarchist-critique-of-violenc.epub
+    hosted: true
 ---
 
 # Against the Corpse Machine: Defining A Post-Leftist Anarchist Critique of Violence
