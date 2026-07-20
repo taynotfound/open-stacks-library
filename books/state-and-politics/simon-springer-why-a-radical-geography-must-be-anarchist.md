@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: why-a-radical-geography-must-be-anarchist.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/why-a-radical-geography-must-be-anarchist.epub
+    hosted: true
 ---
 
 # Why a Radical Geography Must be Anarchist
