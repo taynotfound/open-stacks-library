@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: myths-about-anarchism-democracy-and-decision-making.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/myths-about-anarchism-democracy-and-decision-making.epub
+    hosted: true
 ---
 
 # Myths About Anarchism, Democracy, and Decision-Making
