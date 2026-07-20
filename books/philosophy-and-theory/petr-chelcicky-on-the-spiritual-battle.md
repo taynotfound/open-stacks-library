@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: on-the-spiritual-battle.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/on-the-spiritual-battle.epub
+    hosted: true
 ---
 
 # On The Spiritual Battle
