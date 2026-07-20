@@ -19,18 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on pl.anarchistlibraries.net](https://pl.anarchistlibraries.net/library/alfredo-m-bonanno-dlaczego-jestesmy-insurekcyjnymi-anarchist-k-ami)
-
-Ponieważ uważamy, że jest możliwe przyczynienie się do rozwoju walk, które spontanicznie pojawiają się wszędzie, przekształcając je w masowe insurekcje — czyli rzeczywiste rewolucje.
-
-Ponieważ chcemy zniszczyć kapitalistyczny porządek świata, który jest przydatny jedynie dla menadżerów dominacji klasowej.
-
-Ponieważ opowiadamy się za natychmiastowym, destrukcyjnym atakiem przeciwko strukturom, jednostkom i organizacjom kapitału, państwu i wszelkim formom ucisku.
-
-Ponieważ konstruktywnie krytykujemy wszystkich tych, którzy znajdują się w sytuacjach kompromisu z władzą, wierząc, że walka rewolucyjna jest obecnie niemożliwa.
-
-Ponieważ zamiast czekania, zdecydowałyśmy przystąpić do działania, nawet jeśli jeszcze nie nadszedł czas.
-
-Ponieważ chcemy położyć kres temu stanowi rzeczy od razu, a nie czekać, aż warunki pozwolą na jego przemianę.
-
-Oto kilka z powodów, dla których jesteśmy anarchistkami, rewolucjonistkami i insurekcjonistkami.
+Ponieważ uważamy, że jest możliwe przyczynienie się do rozwoju walk, które spontanicznie pojawiają się wszędzie, przekształcając je w masowe insurekcje — czyli rzeczywiste rewolucje. Ponieważ chcemy zniszczyć kapitalistyczny porządek świata, który jest przydatny jedynie dla menadżerów dominacji klasowej. Ponieważ opowiadamy się za natychmiastowym, destrukcyjnym atakiem przeciwko strukturom, jednostkom i organizacjom kapitału, państwu i wszelkim formom ucisku. Ponieważ konstruktywnie krytykujemy wszystkich tych, którzy znajdują się w sytuacjach kompromisu z władzą, wierząc, że walka rewolucyjna jest obecnie niemożliwa. Ponieważ zamiast czekania, zdecydowałyśmy przystąpić do działania, nawet jeśli jeszcze nie nadszedł czas. Ponieważ chcemy położyć kres temu stanowi rzeczy od razu, a nie czekać, aż warunki pozwolą na jego przemianę. Oto kilka z powodów, dla których jesteśmy anarchistkami, rewolucjonistkami i insurekcjonistkami.
