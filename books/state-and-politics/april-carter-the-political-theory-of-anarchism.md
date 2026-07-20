@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-political-theory-of-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-political-theory-of-anarchism.epub
+    hosted: true
 ---
 
 # The Political Theory of Anarchism
