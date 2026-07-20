@@ -24,6 +24,11 @@ links:
   - url: "https://creativecommons.org/licenses/by-nc-sa/3.0/ "
     text: "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
 files: []
+files:
+  - name: "organize-to-strike-fight-to-win-quebec-s-2012-student-strike.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/organize-to-strike-fight-to-win-quebec-s-2012-student-strike.pdf"
+    hosted: true
 ---
 # Organize to strike, fight to win! Quebec's 2012 student strike
 
