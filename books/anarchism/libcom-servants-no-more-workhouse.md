@@ -17,7 +17,14 @@ files:
   - name: "servants-no-more.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/servants-no-more.pdf"
-    hosted: false
+    hosted: false  - name: "servants-no-more-workhouse.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/servants-no-more-workhouse.pdf"
+    hosted: true
+  - name: "servants-no-more-workhouse.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/servants-no-more-workhouse.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/servants-no-more-workhouse)
