@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/efecfabe7656c567.jpg"
 links: []
 files: []
+files:
+  - name: "june-1953-proletarian-uprising-in-east-germany.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/june-1953-proletarian-uprising-in-east-germany.pdf"
+    hosted: true
 ---
 # June 1953 - Proletarian uprising in East Germany
 
