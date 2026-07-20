@@ -24,6 +24,11 @@ links:
   - url: "http://katesharpleylibrary.net"
     text: "Kate Sharpley Library"
 files: []
+files:
+  - name: "jaime-balius-and-the-friends-of-durruti.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/jaime-balius-and-the-friends-of-durruti.pdf"
+    hosted: true
 ---
 # Jaime Balius and The Friends of Durruti
 
