@@ -17,7 +17,14 @@ files:
   - name: "Shays rebellion, 1786.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/Shays rebellion, 1786.pdf"
-    hosted: false
+    hosted: false  - name: "shays-rebellion-1786.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shays-rebellion-1786.pdf"
+    hosted: true
+  - name: "shays-rebellion-1786.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shays-rebellion-1786.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/shays-rebellion-1786)
