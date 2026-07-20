@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/14abb89dad3b68b4.jpg"
 links: []
 files: []
+files:
+  - name: "the-pink-triangle-the-nazi-war-against-homosexuals.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-pink-triangle-the-nazi-war-against-homosexuals.pdf"
+    hosted: true
 ---
 # The pink triangle: the Nazi war against homosexuals
 
