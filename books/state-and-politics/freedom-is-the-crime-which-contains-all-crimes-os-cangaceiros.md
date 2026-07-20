@@ -24,6 +24,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ffab8df55f03413f.png"
 links: []
 files: []
+files:
+  - name: "freedom-is-the-crime-which-contains-all-crimes-os-cangaceiro.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/freedom-is-the-crime-which-contains-all-crimes-os-cangaceiro.pdf"
+    hosted: true
 ---
 # Freedom is the crime which contains all crimes - Os Cangaceiros
 
