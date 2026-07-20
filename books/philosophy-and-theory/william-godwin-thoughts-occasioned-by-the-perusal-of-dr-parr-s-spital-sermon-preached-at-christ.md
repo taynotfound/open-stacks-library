@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: thoughts-occasioned-by-the-perusal-of-dr-parr-u2019s-spital-sermon-preached-at-c.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/thoughts-occasioned-by-the-perusal-of-dr-parr-u2019s-spital-sermon-preached-at-c.epub
+    hosted: true
 ---
 
 # Thoughts Occasioned By The Perusal Of Dr. Parr’s Spital Sermon, Preached At Christ Church, April 15, 1800
