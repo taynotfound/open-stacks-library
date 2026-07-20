@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: rocking-the-cradle-of-liberty.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/rocking-the-cradle-of-liberty.epub
+    hosted: true
 ---
 
 # Rocking The Cradle of Liberty
