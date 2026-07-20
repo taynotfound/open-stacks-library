@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-law-of-freedom-in-a-platform.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-law-of-freedom-in-a-platform.epub
+    hosted: true
 ---
 
 # The Law of Freedom in a Platform
