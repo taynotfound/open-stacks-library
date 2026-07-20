@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-genealogy-of-morals.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-genealogy-of-morals.epub
+    hosted: true
 ---
 
 # The Genealogy of Morals
