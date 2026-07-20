@@ -16,6 +16,5 @@ images:
 links: []
 files: []
 ---
-# Chapter 13; Miner Conflicts - Major Contradictions
 
-[Read original on libcom.org](https://libcom.org/library/chapter-13-miner-conflicts-major-contradictions)
+Printer-friendly version BM Combustion Comments Dear Libcom admin, For the Dear Libcom admin, For the reasons stated here - http://dialectical-delinquents.com/articles/uncategorised/aufhebengate/x/ - in the second part "Please remove all articles by me from your utterly compromised site" (also, ironically, still available on your site here: https://libcom.org/forums/general/please-remove-all-articles-me-your-utterly-compromised-site-08102017 ) - please remove this text from your utterly compromised site. Since you long ago agreed to remove from your site all the other texts written or translated exclusively by me (ie not including ones co-written with someone else), I trust you'll do this. It was an oversight on my part not to have realised that this text was still on your site. Yours sincerely - Sam Fanto
