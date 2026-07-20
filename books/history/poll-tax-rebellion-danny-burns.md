@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5500e970f8e569f6.jpg"
 links: []
 files: []
+files:
+  - name: "poll-tax-rebellion-danny-burns.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/poll-tax-rebellion-danny-burns.pdf"
+    hosted: true
 ---
 # Poll Tax Rebellion - Danny Burns
 
