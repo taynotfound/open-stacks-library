@@ -49,7 +49,14 @@ files:
   - name: "Sic 2.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/2024-08/Sic 2.pdf"
-    hosted: false
+    hosted: false  - name: "sic-ii.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sic-ii.pdf"
+    hosted: true
+  - name: "sic-ii.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sic-ii.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/sic-ii)
