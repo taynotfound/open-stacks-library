@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/5e4782851024ed16.jpg"
 links: []
 files: []
+files:
+  - name: "sabotage-emile-pouget.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sabotage-emile-pouget.pdf"
+    hosted: true
 ---
 # Sabotage - Emile Pouget
 
