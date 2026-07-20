@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: fringe-benefits.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fringe-benefits.epub
+    hosted: true
 ---
 
 # Fringe Benefits
