@@ -209,7 +209,14 @@ files:
   - name: "Sennaciulo_1925_n59_nov12.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/Sennaciulo_1925_n59_nov12.pdf"
-    hosted: false
+    hosted: false  - name: "sennaciulo-oficiala-organo-de-sennacieca-asocio-tutmonda.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sennaciulo-oficiala-organo-de-sennacieca-asocio-tutmonda.pdf"
+    hosted: true
+  - name: "sennaciulo-oficiala-organo-de-sennacieca-asocio-tutmonda.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sennaciulo-oficiala-organo-de-sennacieca-asocio-tutmonda.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/sennaciulo-oficiala-organo-de-sennacieca-asocio-tutmonda)
