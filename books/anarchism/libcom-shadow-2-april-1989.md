@@ -17,7 +17,14 @@ files:
   - name: "TheShadow-2-April-1989.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/2024-07/TheShadow-2-April-1989.pdf"
-    hosted: false
+    hosted: false  - name: "shadow-2-april-1989.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shadow-2-april-1989.pdf"
+    hosted: true
+  - name: "shadow-2-april-1989.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/shadow-2-april-1989.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/shadow-2-april-1989)
