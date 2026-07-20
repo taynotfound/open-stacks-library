@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: illyria-street-commune.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/illyria-street-commune.epub
+    hosted: true
 ---
 
 # Illyria Street Commune
