@@ -19,4 +19,24 @@ files:
     hosted: false
 ---
 
-Poema: um elogio à lentidão Um caracol é um grande revolucionário – lento, pero avanzo – Um caracol não tem pressa para o fim Não conta o tempo no relógio Vive na eternidade Mais do que nós, sabe que o universo levou bilhões de anos para ser o que é hoje, e ainda assim não está concluído Assim como o caracol, o universo disse: “lento, pero avanzo”
+Poema: um elogio à lentidão
+
+Um caracol é um grande revolucionário
+
+– lento, pero avanzo –
+
+Um caracol não tem pressa para o fim
+
+Não conta o tempo no relógio
+
+Vive na eternidade
+
+Mais do que nós, sabe que o universo
+
+levou bilhões de anos para ser o que é hoje,
+
+e ainda assim não está concluído
+
+Assim como o caracol, o universo disse:
+
+“lento, pero avanzo”

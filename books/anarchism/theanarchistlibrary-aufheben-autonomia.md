@@ -19,4 +19,138 @@ files:
     hosted: false
 ---
 
-     Introduction: Autonomia      From Operaismo to Autonomist Marxism        1. Promise and limits of an ‘autonomist’ class analysis          1.1 Classical Workerism          1.2. Workerism beyond workers          1.3 Cleaver’s account of the working class          1.4 Autonomy as basis or function of working class composition?        2. Beyond leftism?        3. Negotiating the ‘law of value’        4. Grasping retreat          4.1 Confronting the evidence of decomposition          4.2 Escaping the harness?        5. A political reading of Capital: From 20 yards of linen to the self-reduction of prices in one easy step      The Arcane of Reproductive Production        Introduction        1. The quest for value        2. The subsumption of society by capital and class antagonism        3. The dialectic of capital as despotism and bourgeois freedom        4. Consequences of the undialectical conception of capital as ‘just imposition of work’        5. The nature of labour power        6. Invisible value          The reality of ‘invisible value’          The real issue hidden by the theory of invisible value        Conclusions      Keep on Smiling — Questions on Immaterial Labour        Introduction: a colourful necklace        1 Immaterial labour and a new theory for the ‘new era’          1.1 Immaterial labour and the millennial theories          1.2 Immaterial labour, and the contradictions of capital          1.3 Immaterial labour and subjectivity          1.4 Immaterial labour and viability of revolution — self-management          1.5 Immaterial labour and a reassuring new world          1.6 Immaterial labour, and the new movements        2. The origin of immaterial labour as class struggle          2.1 Immaterial labour as the result of subjectivity and class struggle — myth and reality          2.3 A class struggle analysis of the ideology of weightless design          2.4 An answer to traditional Marxism — and to Negri and Hardt          2.5 A class struggle analysis of the origin of immaterial labour as the creation of communication and affects          2.6 Technological determinism or autonomous subjectivity?        3. Immaterial labour and capital as objectification          3.1. Production as inherent in the practices of labour          3.2 It’s capital: this is why it does not need the capitalist          3.3 It’s capital: this is why it needs the capitalist          3.4 Subjectivity and the invisible hand of... immaterial labour        4. Immaterial labour and the mind of capital          4.1 The contradictions of immaterial production as the contradictions of capital          4.2 The ontological inversion          4.3 Who shares the mind of capital?          4.4 The subjective side of real subsumption          4.5 Hatred as contradiction of capital          4.6 Negri and Hardt’s conception of immaterial labour as ‘abstract labour’ and the contradictions of capital          4.7 An outdated theory?        5. Immaterial labour and the heart of capital          5.1. ‘Immaterial production of communication and affects and subversion          5.2. Immaterial production of communication and affects and real subsumption          5.3. Immaterial production of communication and affects and the ontological inversion          5.4. Post-Fordism and the ontological inversion          5.5. Immaterial production of networks of social relations and alternative networks          5.6. How subversive is immaterial production and what does this actually mean?          5.7. Immaterial production as the apology for the ontological inversion        Conclusion: a bad string makes a bad necklace          New old categories for the ‘new’ era          A new fetishism of production for the ‘new’ era          A new paleo-Marxism for the ‘new’ era          Objectivism and subjectivism for the ‘new’ era          The silver linings of capital: optimism and pessimism for the ‘new’ era          A ‘new’ religion for a ‘new’ era: the doctrine of Neg…
+Introduction: Autonomia
+
+From Operaismo to Autonomist Marxism
+
+1. Promise and limits of an ‘autonomist’ class analysis
+
+1.1 Classical Workerism
+
+1.2. Workerism beyond workers
+
+1.3 Cleaver’s account of the working class
+
+1.4 Autonomy as basis or function of working class composition?
+
+2. Beyond leftism?
+
+3. Negotiating the ‘law of value’
+
+4. Grasping retreat
+
+4.1 Confronting the evidence of decomposition
+
+4.2 Escaping the harness?
+
+5. A political reading of Capital: From 20 yards of linen to the self-reduction of prices in one easy step
+
+The Arcane of Reproductive Production
+
+Introduction
+
+1. The quest for value
+
+2. The subsumption of society by capital and class antagonism
+
+3. The dialectic of capital as despotism and bourgeois freedom
+
+4. Consequences of the undialectical conception of capital as ‘just imposition of work’
+
+5. The nature of labour power
+
+6. Invisible value
+
+The reality of ‘invisible value’
+
+The real issue hidden by the theory of invisible value
+
+Conclusions
+
+Keep on Smiling — Questions on Immaterial Labour
+
+Introduction: a colourful necklace
+
+1 Immaterial labour and a new theory for the ‘new era’
+
+1.1 Immaterial labour and the millennial theories
+
+1.2 Immaterial labour, and the contradictions of capital
+
+1.3 Immaterial labour and subjectivity
+
+1.4 Immaterial labour and viability of revolution — self-management
+
+1.5 Immaterial labour and a reassuring new world
+
+1.6 Immaterial labour, and the new movements
+
+2. The origin of immaterial labour as class struggle
+
+2.1 Immaterial labour as the result of subjectivity and class struggle — myth and reality
+
+2.3 A class struggle analysis of the ideology of weightless design
+
+2.4 An answer to traditional Marxism — and to Negri and Hardt
+
+2.5 A class struggle analysis of the origin of immaterial labour as the creation of communication and affects
+
+2.6 Technological determinism or autonomous subjectivity?
+
+3. Immaterial labour and capital as objectification
+
+3.1. Production as inherent in the practices of labour
+
+3.2 It’s capital: this is why it does not need the capitalist
+
+3.3 It’s capital: this is why it needs the capitalist
+
+3.4 Subjectivity and the invisible hand of... immaterial labour
+
+4. Immaterial labour and the mind of capital
+
+4.1 The contradictions of immaterial production as the contradictions of capital
+
+4.2 The ontological inversion
+
+4.3 Who shares the mind of capital?
+
+4.4 The subjective side of real subsumption
+
+4.5 Hatred as contradiction of capital
+
+4.6 Negri and Hardt’s conception of immaterial labour as ‘abstract labour’ and the contradictions of capital
+
+4.7 An outdated theory?
+
+5. Immaterial labour and the heart of capital
+
+5.1. ‘Immaterial production of communication and affects and subversion
+
+5.2. Immaterial production of communication and affects and real subsumption
+
+5.3. Immaterial production of communication and affects and the ontological inversion
+
+5.4. Post-Fordism and the ontological inversion
+
+5.5. Immaterial production of networks of social relations and alternative networks
+
+5.6. How subversive is immaterial production and what does this actually mean?
+
+5.7. Immaterial production as the apology for the ontological inversion
+
+Conclusion: a bad string makes a bad necklace
+
+New old categories for the ‘new’ era
+
+A new fetishism of production for the ‘new’ era
+
+A new paleo-Marxism for the ‘new’ era
+
+Objectivism and subjectivism for the ‘new’ era
+
+The silver linings of capital: optimism and pessimism for the ‘new’ era
+
+A ‘new’ religion for a ‘new’ era: the doctrine of Negative Reality Inversion
+
+Whether we have liked it or not, Aufheben has often been pigeon-holed as an Autonomist Marxist magazine. It is certainly true that Autonomism had been a defining influence and inspiration for those of us who launched Aufheben in 1992. It was not so much the lucidity of the prose, the rigour of the logic or even the empirical robustness of the arguments contained in the autonomist writings which had been translated into English over the previous decade …

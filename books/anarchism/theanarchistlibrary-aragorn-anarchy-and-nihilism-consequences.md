@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Introduction to Consequences      Chapter 1: Consequences — On revolutionary despair      Chapter 2: Nihilism and Science        How is inquiry limited?        What form should our skepticism take?        Skepticism ascends!        Conclusion      Chapter 3: Now is the time (and yet we wait)!      Chapter 4: When all Dictionaries are burned, will we start over? This is the second in a series of pamphlets that draw connections between the tradition of the political nihilist tendency of 19 th century Czarist Russia and current anarchist thought. As Nihilism, Anarchy, and the 21 st Century (the first pamphlet in the series) begged the question of what relevance nihilism has to anarchy it could be argued that these essays beg the opposite question. What does anarchy have to offer nihilism? That the range of anarchists includes the clowns from protest alley, micrometer-toting specialists of oppression-identification, and Marxists who wear black flags isn’t a condemnation of anarchist ideas but is a significant reason for pause. In that pause we have to challenge our assumptions about anarchy. What do we really share with others in the big-tent (or should it be called a circus tent) of anarchism? These essays are increasingly specific. Perhaps this will give more people a toe-hold so that they scale their own heights. At the end of these essays there is a specific invitation. There have been several opportunities for me to speak on nihilism over the past two years. What has been surprising in that time hasn’t been the apparent antagonism but the quiet interest and excitement. It is still unclear how this interest is going to materialize into a discrete practice, but I won’t be alone in answering that question. Aragorn! PO Box 3920, Berkeley CA 94703 A nihilist is a person who does not bow down to any authority, who does not accept any principle on faith, however much that principle may be revered. Arkady There is not a liberating vision for humanity. Every so-called revolutionary at best fails and at worst establishes yet another fiefdom. The rhetoric of liberation makes for great bedtime stories, keeps starry-eyed dreamers warm at night, and should be seen for exactly what it is. Charlatans either believe that they speak for the oppressed and that the weight of their opinion is greater because they summon the power of representation, or that they are the first ones to come up with the ideas that they have. The idea of a singular, recursive, or iterative approach to positive social change works better in a classroom than in lived experience. The kind of social science that results from these explorations resembles a secular monotheism. As an organization of society, or a modeling of the transformation of society, apocalypse has a long track record and it is entirely reactionary. This is to say that whether called an insurrection, a revolution, a singularity, or a collapse, a similar thing is intended: more of the same. Is the quiet misery of daily life preferable to a reactionary rupture? The lesson of the German Revolution (1918–1919) is the lesson of historical Anarchism: glorious failure. Whether it is France, Spain, Germany, or Russia the story of social revolution has not been one of triumph. Instead, and at best, it has been a set of stories about moments worth living. How many lives are we willing to sacrifice for our moment? Shall we stack them for barricades? Fill the trenches with them after the tanks roll in? Use their blood to write the history books that tell of our glorious time? Nechayev did not tell us how to be good people. His concept of an army, or even a secret society, of revolutionary supermen is laughable, but perhaps the reason for laughter isn’t immediately clear. Lenin was clear how much the Catechism influenced his thought. It was The Prince for the revolutionary set. The Catechism provides a moral roadmap, an action plan that has demonstrable results. List your human targets in order of their crime…
+Introduction to Consequences
+
+Chapter 1: Consequences — On revolutionary despair
+
+Chapter 2: Nihilism and Science
+
+How is inquiry limited?
+
+What form should our skepticism take?
+
+Skepticism ascends!
+
+Conclusion
+
+Chapter 3: Now is the time (and yet we wait)!
+
+Chapter 4: When all Dictionaries are burned, will we start over?
+
+This is the second in a series of pamphlets that draw connections between the tradition of the political nihilist tendency of 19th century Czarist Russia and current anarchist thought.
+
+As Nihilism, Anarchy, and the 21st Century (the first pamphlet in the series) begged the question of what relevance nihilism has to anarchy it could be argued that these essays beg the opposite question. What does anarchy have to offer nihilism?
+
+That the range of anarchists includes the clowns from protest alley, micrometer-toting specialists of oppression-identification, and Marxists who wear black flags isn’t a condemnation of anarchist ideas but is a significant reason for pause. In that pause we have to challenge our assumptions about anarchy. What do we really share with others in the big-tent (or should it be called a circus tent) of anarchism?
+
+These essays are increasingly specific. Perhaps this will give more people a toe-hold so that they scale their own heights. At the end of these essays there is a specific invitation.
+
+There have been several opportunities for me to speak on nihilism over the past two years. What has been surprising in that time hasn’t been the apparent antagonism but the quiet interest and excitement. It is still unclear how this interest is going to materialize into a discrete practice, but I won’t be alone in answering that question.
+
+Aragorn!
+
+PO Box 3920, Berkeley CA 94703
+
+A nihilist is a person who does not bow down to any authority, who does not accept any principle on faith, however much that principle may be revered.
+
+Arkady
+
+There is not a liberating vision for humanity. Every so-called revolutionary at best fails and at worst establishes yet another fiefdom. The rhetoric of liberation makes for great bedtime stories, keeps starry-eyed dreamers warm at night, and should be seen for exactly what it is. Charlatans either believe that they speak for the oppressed and that the weight of their opinion is greater because they summon the power of representation, or that they are the first ones to come up with the ideas that they have.
+
+The idea of a singular, recursive, or iterative approach to positive social change works better in a classroom than in lived experience. The kind of social science that results from these explorations resembles a secular monotheism. As an organization of society, or a modeling of the transformation of society, apocalypse has a long track record and it is entirely reactionary. This is to say that whether called an insurrection, a revolution, a singularity, or a collapse, a similar thing is intended: more of the same.
+
+Is the quiet misery of daily life preferable to a reactionary rupture? The lesson of the German Revolution (1918–1919) is the lesson of historical Anarchism: glorious failure. Whether it is France, Spain, Germany, or Russia the story of social revolution has not been one of triumph. Instead, and at best, it has been a set of stories about moments worth living.
+
+How many lives are we willing to sacrifice for our moment? Shall we stack them for barricades? Fill the trenches with them after the tanks roll in? Use their blood to write the history books that tell of our glorious time?
+
+Nechayev did not tell us how to be good people. His concept of an army, or even a secret society, of revolutionary supermen is laughable, but perhaps the reason for laughter isn’t immediately clear. Lenin was clear how much the Catechism influenced his thought. It was The Prince for the revolutionary set. The Catechism provides a moral roadmap, an action plan that has demonstrable results. List your human targets in order of their crimes, harden yourself, and eliminate t…

@@ -19,4 +19,66 @@ files:
     hosted: false
 ---
 
-     I      II      III      IV      V      VI      VII      VIII      IX      X      XI Ta broszura przeznaczona jest dla ludzi niezadowolonych ze swojego życia. Jeśli jesteś zadowolona ze swojej obecnej egzystencji, nie mamy z tobą żadnego problemu. Jeśli jednak jesteś zmęczony czekaniem na zmianę swojego życia... Zmęczona czekaniem na autentyczną wspólnotę, miłość i przygodę... Zmęczone czekaniem na koniec pieniądza i przymusowej pracy... Zmęczony poszukiwaniem nowych rozrywek dla zabicia czasu... Zmęczona czekaniem na bujną, bogatą egzystencję... Zmęczone czekaniem na sytuację, w której będziesz mogło zrealizować wszystkie swoje pragnienia... Zmęczony czekaniem na koniec wszelkich autorytetów, alienacji, ideologii i moralności... ...to sądzimy, że to, co poniżej, może ci się całkiem przydać. Jedną z wielkich tajemnic naszych nieszczęsnych, ale potencjalnie wspaniałych czasów jest to, że myślenie może być przyjemnością. To jest podręcznik do konstruowania własnej samoteorii. Konstruowanie własnej samoteorii to rewolucyjna przyjemność, przyjemność konstruowania samoteorii rewolucji. Budowanie swojej samoteorii jest destrukcyjną/konstruktywną przyjemnością, ponieważ budujesz teorię praktyki destrukcyjnej/konstruktywnej transformacji tego społeczeństwa. Samoteoria jest teorią przygody. Jest równie erotyczna i zabawna jak autentyczna rewolucja. Wyobcowanie, odczuwane w wyniku myślenia za nas przez ideologie naszych czasów, może prowadzić do poszukiwania przyjemnego odrzucenia tej obcości: myślenia dla siebie. Jest to przyjemność uczynienia swojego umysłu własnym. Samoteoria to korpus myśli krytycznej, który konstruujesz na swój własny użytek. Konstruujesz ją i używasz, gdy analizujesz, dlaczego twoje życie jest takie, jakie jest, dlaczego świat jest taki, jaki jest (A „myślenie” i „odczuwanie” są nierozłączne, ponieważ myśl pochodzi z subiektywnego, emocjonalnego doświadczenia). Budujesz swoją samoteorię, gdy rozwijasz teorię praktyki – teorię tego, jak uzyskać to, czego pragniesz w swoim życiu. Teoria będzie albo teorią praktyczną – teorią rewolucyjnej praktyki – albo nie będzie niczym... niczym poza akwarium idei, kontemplacyjną interpretacją świata. Sfera ideałów to wieczna poczekalnia niezrealizowanych pragnień. Ci, którzy zakładają (zazwyczaj nieświadomie) niemożność realizacji swoich życiowych pragnień, a tym samym walki o siebie, kończą zwykle walcząc zamiast tego o ideał lub sprawę (czyli iluzję samodziałania lub samopraktyki). Ci, którzy wiedzą, że jest to akceptacja alienacji, wiedzą teraz, że wszystkie ideały i przyczyny są ideologiami. Jeśli tylko system idei jest skonstruowany z abstrakcją w centrum – przypisując ci rolę lub obowiązki dla jej dobra – system ten jest ideologią. Ideologia jest systemem fałszywej świadomości, w którym nie funkcjonujesz już jako podmiot w relacji do świata. Różne formy ideologii są zbudowane wokół różnych abstrakcji, ale wszystkie służą interesom klasy dominującej (lub aspirującej do dominacji), dając ci poczucie celu w twoim poświęceniu, cierpieniu i poddaniu. Ideologia religijna jest najstarszym przykładem, fantastyczna projekcja zwana 'Bogiem' jest najwyższym podmiotem kosmosu, działającym na każdą istotę ludzką jako 'Jego' poddanego. W „naukowych” i „demokratycznych” ideologiach burżuazyjnej przedsiębiorczości inwestycje kapitałowe są „produktywnym” podmiotem kierującym historią świata – „niewidzialną ręką” kierującą rozwojem ludzkości. Burżuazja musiała zaatakować i osłabić niegdysiejszą władzę ideologii religijnej. Obnażyła mistyfikację świata religijnego w swoim technologicznym śledztwie, rozszerzając sferę rzeczy i metod, z których mogła czerpać zyski. Różne odmiany leninizmu to ideologie „rewolucyjne”, w których ich Partia jest prawowitym podmiotem dyktującym historię świata, prowadząc swój obiekt – proletariat – do celu, jakim jest zastąpienie aparatu burżuazyjnego aparatem leninowskim. Codziennie można dostrzec wiele innych form dominujących ideologii. Powstanie nowych relig…
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+X
+
+XI
+
+Ta broszura przeznaczona jest dla ludzi niezadowolonych ze swojego życia. Jeśli jesteś zadowolona ze swojej obecnej egzystencji, nie mamy z tobą żadnego problemu. Jeśli jednak jesteś zmęczony czekaniem na zmianę swojego życia...
+
+Zmęczona czekaniem na autentyczną wspólnotę, miłość i przygodę...
+
+Zmęczone czekaniem na koniec pieniądza i przymusowej pracy...
+
+Zmęczony poszukiwaniem nowych rozrywek dla zabicia czasu...
+
+Zmęczona czekaniem na bujną, bogatą egzystencję...
+
+Zmęczone czekaniem na sytuację, w której będziesz mogło zrealizować wszystkie swoje pragnienia...
+
+Zmęczony czekaniem na koniec wszelkich autorytetów, alienacji, ideologii i moralności...
+
+...to sądzimy, że to, co poniżej, może ci się całkiem przydać.
+
+Jedną z wielkich tajemnic naszych nieszczęsnych, ale potencjalnie wspaniałych czasów jest to, że myślenie może być przyjemnością. To jest podręcznik do konstruowania własnej samoteorii. Konstruowanie własnej samoteorii to rewolucyjna przyjemność, przyjemność konstruowania samoteorii rewolucji.
+
+Budowanie swojej samoteorii jest destrukcyjną/konstruktywną przyjemnością, ponieważ budujesz teorię praktyki destrukcyjnej/konstruktywnej transformacji tego społeczeństwa.
+
+Samoteoria jest teorią przygody. Jest równie erotyczna i zabawna jak autentyczna rewolucja.
+
+Wyobcowanie, odczuwane w wyniku myślenia za nas przez ideologie naszych czasów, może prowadzić do poszukiwania przyjemnego odrzucenia tej obcości: myślenia dla siebie. Jest to przyjemność uczynienia swojego umysłu własnym.
+
+Samoteoria to korpus myśli krytycznej, który konstruujesz na swój własny użytek. Konstruujesz ją i używasz, gdy analizujesz, dlaczego twoje życie jest takie, jakie jest, dlaczego świat jest taki, jaki jest (A „myślenie” i „odczuwanie” są nierozłączne, ponieważ myśl pochodzi z subiektywnego, emocjonalnego doświadczenia). Budujesz swoją samoteorię, gdy rozwijasz teorię praktyki – teorię tego, jak uzyskać to, czego pragniesz w swoim życiu.
+
+Teoria będzie albo teorią praktyczną – teorią rewolucyjnej praktyki – albo nie będzie niczym... niczym poza akwarium idei, kontemplacyjną interpretacją świata. Sfera ideałów to wieczna poczekalnia niezrealizowanych pragnień.
+
+Ci, którzy zakładają (zazwyczaj nieświadomie) niemożność realizacji swoich życiowych pragnień, a tym samym walki o siebie, kończą zwykle walcząc zamiast tego o ideał lub sprawę (czyli iluzję samodziałania lub samopraktyki). Ci, którzy wiedzą, że jest to akceptacja alienacji, wiedzą teraz, że wszystkie ideały i przyczyny są ideologiami.
+
+Jeśli tylko system idei jest skonstruowany z abstrakcją w centrum – przypisując ci rolę lub obowiązki dla jej dobra – system ten jest ideologią. Ideologia jest systemem fałszywej świadomości, w którym nie funkcjonujesz już jako podmiot w relacji do świata.
+
+Różne formy ideologii są zbudowane wokół różnych abstrakcji, ale wszystkie służą interesom klasy dominującej (lub aspirującej do dominacji), dając ci poczucie celu w twoim poświęceniu, cierpieniu i poddaniu.
+
+Ideologia religijna jest najstarszym przykładem, fantastyczna projekcja zwana 'Bogiem' jest najwyższym podmiotem kosmosu, działającym na każdą istotę ludzką jako 'Jego' poddanego.
+
+W „naukowych” i „demokratycznych” ideologiach burżuazyjnej przedsiębiorczości inwestycje kapitałowe są „produktywnym” podmiotem kierującym historią świata – „niewidzialną ręką” kierującą rozwojem ludzkości. Burżuazja musiała zaatakować i osłabić niegdysiejszą władzę ideologii religijnej. Obnażyła mistyfikację świata religijnego w swoim technologicznym śledztwie, rozszerzając sferę rzeczy i metod, z których mogła czerpać zyski.
+
+Różne odmiany leninizmu to ideologie „rewolucyjne”, w których ich Partia jest prawowitym podmiotem dyktującym historię świata, prowadząc swój obiekt – proletariat – do celu, jakim jest zastąpienie aparatu burżuazyjnego aparatem leninowskim.
+
+Codziennie można dostrzec wiele innych form dominujących ideologii. Powstanie nowych religiomistycyzmów służy domi…

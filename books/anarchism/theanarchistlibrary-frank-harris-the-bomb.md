@@ -19,4 +19,56 @@ files:
     hosted: false
 ---
 
-     An Introduction by John Dos Passos      Foreword to the First American Edition (1909)      Afterword to the Second American Edition (1920)      Chapter I      Chapter II      Chapter III      Chapter IV      Chapter V      Chapter VI      Chapter VII      Chapter VIII      Chapter IX      Chapter X      Chapter XI      Chapter XII      Chapter XIII      Chapter XIV (1963) Frank Harris was an objectionable little man. He was sallow as a gypsy. He had bat ears, dark hair with a crinkle in it that grew low on the forehead, and a truculent mustache. People remarked on the richness of his bass voice. His charm was great, particularly for the opposite sex. He had the gift of gab to a sublime degree and a streak of deep scoundrelism that was the ruin of him. A natural storyteller, tall tales so permeated his private life that his biographers were hard put to it to disentangle any facts at all from the web of fiction he spun about himself. Particularly in the twenties, when he was editing Pearson’s Magazine in New York, there used to be considerable journalistic searching for “the real Frank Harris.” One wonders now if such a creature ever existed. He wrote some good short stories. He might have developed into a first-rate novelist if he hadn’t been such a damn liar. Though at times he named Brighton, England, as his birthplace, amid other variants of his curriculum vitae , it seems likely that he first saw the light at Galway on the West Coast of Ireland, on St. Valentine’s Day in 1856, and that he was christened James Thomas Harris. His parents were Plymouth Brethren, of the most fundamentalist of Protestant sects, and were probably Welsh. His mother died when he was very small. His father was a seafaring man who had managed to work his way up in the Royal Navy from ship’s boy to lieutenant in command of a revenue cutter, no mean feat in those days. The father was always at sea. The children lived higgledy-piggledy, shifting from one small school to another as they followed their father’s ports of call. Ireland was in a state of barely suppressed revolt. These were the days of the Fenian “troubles.” Harris, who had been a great reader of Captain Marryat, told in later life of his bitter disappointment that his father failed to get him into the Royal Navy when he was fourteen. He always blamed his father for that. Little Jim Harris was obviously a bright youngster, a voracious reader with a retentive memory. His father, who wanted to do what he thought best for the boy, sent him to a classical English school, which he hated with an eternal hatred. With ten pounds he managed to wangle there as a prize for scholastic attainments he ran away to Liverpool and bought himself steerage passage to America. He must have reached New York in the early seventies. German and Irish immigrants poured off every ship. The country was in a state of intermittent boom and bust. Some greenhorns starved. Others made fortunes. Everybody talked big. Harris became enormously Americanized. He decided his name was Frank. Like a Horatio Alger hero he started out shining shoes. Then he worked as a sandhog in the pressurized caissons they used in building the piers for Roebling’s Brooklyn Bridge. He saw a man die of the bends and went back to shining shoes. His story was that a gentleman whose shoes he was shining heard him quote some Latin and was so impressed that he offered him a job as night clerk in a Chicago hotel. If we can believe Frank Harris he was managing the entire hotel by the time he was seventeen. Some Texas cattlemen put up at his hostelry and induced him to go west with them to make his fortune. He was physically husky, and as he told the tale, with an ever-increasing abundance of detail, a great man with the ladies. He learned to ride in Texas and sopped up sagas of Indian-fighting and cattle-rustling across the Rio Grande. He was developing a flair for writing. His first articles came out in frontier newspapers. Two of his brothers seem t…
+An Introduction by John Dos Passos
+
+Foreword to the First American Edition (1909)
+
+Afterword to the Second American Edition (1920)
+
+Chapter I
+
+Chapter II
+
+Chapter III
+
+Chapter IV
+
+Chapter V
+
+Chapter VI
+
+Chapter VII
+
+Chapter VIII
+
+Chapter IX
+
+Chapter X
+
+Chapter XI
+
+Chapter XII
+
+Chapter XIII
+
+Chapter XIV
+
+(1963)
+
+Frank Harris was an objectionable little man. He was sallow as a gypsy. He had bat ears, dark hair with a crinkle in it that grew low on the forehead, and a truculent mustache. People remarked on the richness of his bass voice. His charm was great, particularly for the opposite sex. He had the gift of gab to a sublime degree and a streak of deep scoundrelism that was the ruin of him.
+
+A natural storyteller, tall tales so permeated his private life that his biographers were hard put to it to disentangle any facts at all from the web of fiction he spun about himself. Particularly in the twenties, when he was editing Pearson’s Magazine in New York, there used to be considerable journalistic searching for “the real Frank Harris.” One wonders now if such a creature ever existed. He wrote some good short stories. He might have developed into a first-rate novelist if he hadn’t been such a damn liar.
+
+Though at times he named Brighton, England, as his birthplace, amid other variants of his curriculum vitae, it seems likely that he first saw the light at Galway on the West Coast of Ireland, on St. Valentine’s Day in 1856, and that he was christened James Thomas Harris. His parents were Plymouth Brethren, of the most fundamentalist of Protestant sects, and were probably Welsh. His mother died when he was very small. His father was a seafaring man who had managed to work his way up in the Royal Navy from ship’s boy to lieutenant in command of a revenue cutter, no mean feat in those days.
+
+The father was always at sea. The children lived higgledy-piggledy, shifting from one small school to another as they followed their father’s ports of call. Ireland was in a state of barely suppressed revolt. These were the days of the Fenian “troubles.” Harris, who had been a great reader of Captain Marryat, told in later life of his bitter disappointment that his father failed to get him into the Royal Navy when he was fourteen. He always blamed his father for that.
+
+Little Jim Harris was obviously a bright youngster, a voracious reader with a retentive memory. His father, who wanted to do what he thought best for the boy, sent him to a classical English school, which he hated with an eternal hatred. With ten pounds he managed to wangle there as a prize for scholastic attainments he ran away to Liverpool and bought himself steerage passage to America.
+
+He must have reached New York in the early seventies. German and Irish immigrants poured off every ship. The country was in a state of intermittent boom and bust. Some greenhorns starved. Others made fortunes. Everybody talked big.
+
+Harris became enormously Americanized. He decided his name was Frank. Like a Horatio Alger hero he started out shining shoes. Then he worked as a sandhog in the pressurized caissons they used in building the piers for Roebling’s Brooklyn Bridge. He saw a man die of the bends and went back to shining shoes.
+
+His story was that a gentleman whose shoes he was shining heard him quote some Latin and was so impressed that he offered him a job as night clerk in a Chicago hotel. If we can believe Frank Harris he was managing the entire hotel by the time he was seventeen. Some Texas cattlemen put up at his hostelry and induced him to go west with them to make his fortune.
+
+He was physically husky, and as he told the tale, with an ever-increasing abundance of detail, a great man with the ladies. He learned to ride in Texas and sopped up sagas of Indian-fighting and cattle-rustling across the Rio Grande. He was developing a flair for writing. His first articles came out in frontier newspapers. Two of his brothers seem to have settled in Lawrence, Kansas, and at some point he stu…

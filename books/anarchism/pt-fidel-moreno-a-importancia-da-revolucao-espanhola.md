@@ -19,4 +19,40 @@ files:
     hosted: false
 ---
 
-   A Importância da Revolução Espanhola    O Primeiro Ensaio Urbano Ecológico Igualitarista na Catalunha    A Experiência Espanhola    Faz 50 anos    A Experiência de Bujaraloz Este folheto é dedicado a todas as pessoas que em sua vida puderam realizar a revolução pela qual tanto lutaram. Desde os grandes nomes da militância libertária: Monteseny, Garcia Oliver, Durruti, Santillán... até os anônimos militantes da CNT e do resto do Movimento Libertário tem sua homenagem com estas páginas. Não pode ser extenso como queríamos, nem com todos os textos pré-selecionados. Acreditamos que o interessado da Revolução Espanhola de 36 à 39 do século XX poderá encontrar uma enorme fonte de exemplos que uma vez por todas termine com a imagem de uma UTOPIA anarquista e veja a realidade que ocorreu em nossa terra. A revolução não é uma coisa do passado, nem um bonito sonho. Quando o ser humano se encaminha a ela não faz com o animo de destruir, mas por uma construção do mundo novo que nos espera em cada momento. A geração de homens e mulheres que a realizaram não merecem o esquecimento. O grupo editor (TEA-FAI). Setembro de 96 Fidel Moreno A morte não só trás dor e lágrimas por aqueles que não foram, também deixa com o corpo começa a apodrecer, a certeza de que a vida é única e irrepetível. Ao ser consciente, um homem, da fronteira que delimitam e definem sua existência, sua vida não será mais uma sucessão de anedotas no tempo, será um viver de experiências com a intensidade do momento que talvez seja o último. Diante da ameaça de um possível triunfo do levantamento de 18 de Julho, o trabalhadores das cidades e dos campos reagiram, com mais ou menos exito dependendo do lugar, coletivizando a terra e as fábricas na intenção de acabar com a injustiça social que haviam sofrido até então e que prometia agravar-se se o fascismo chegasse a triunfar na Espanha. Durou pouco, mas o suficiente para saber que não é somente necessário, mas com possível. Ser conscientes da oportunidade de ter nascido nos leva a nível coletivo em buscar formas que permitam o livre desenvolvimento de todos. A anarquia, para mim, é isso, uma organização social que soluciona os problemas materiais da espécie de maneira justa e permite assim ao indivíduo desenvolver espiritualmente. Matizaria também que só a organização autogestionária impregna de nobreza o espirito do ser humano, pois nestas circunstâncias no lugar de desenvolver a competitividade, por exemplo, desenvolveria a solidariedade e o apoio mútuo. Isto do que falamos supõe uma autêntica revolução e se deu em 36: homens e mulheres foram por um momento donos de sua vida, deixando de estar nas mãos de outros socialmente diferentes que os empregavam e empregam para um benefício que nem sequer lhes devolve felicidade. Lastimável que esse vampiros acabaram com o intento vital revolucionário de desviar a história de sua fúnebre caminho. Pela vida e anarquia ante a morte e a injustiça! Eduardo Masjuan As condições excepcionais surgidas a partir do golpe militar de Julho de 1936, aceleram o processo revolucionário que ao largo do período republicano burgues o movimento anarquista havia impulsionado mediante o não pagamento de rendas sobre a terra, de taxas urbanas, greves revolucionárias dos trabalhadores, ocupações de fazendas. Na Catalunha, a partir desse momento, o movimento anarquista, que majoritariamente, é quem sufoca a intentona golpista, reorienta de acordo com as expectativas revolucionárias de transformação social existentes, o Plano Urbanístico Regional de 32. Por ele se inicia o estudo das bases e condições requeridas para planificação regional, a reconstrução urbana e o uso do espaço e do território a partir dos critérios científicos naturais da época. Assim começado por confeccionar o regulamento do que devia constituir o primeiro inventário dos recursos do solo e do subsolo catalão, ao mesmo tempo se elaborou um verdadeiro plano de educação comunal urbano e rural, um plano de higiene urbano, e do debate com o…
+A Importância da Revolução Espanhola
+
+O Primeiro Ensaio Urbano Ecológico Igualitarista na Catalunha
+
+A Experiência Espanhola
+
+Faz 50 anos
+
+A Experiência de Bujaraloz
+
+Este folheto é dedicado a todas as pessoas que em sua vida puderam realizar a revolução pela qual tanto lutaram.
+
+Desde os grandes nomes da militância libertária: Monteseny, Garcia Oliver, Durruti, Santillán... até os anônimos militantes da CNT e do resto do Movimento Libertário tem sua homenagem com estas páginas.
+
+Não pode ser extenso como queríamos, nem com todos os textos pré-selecionados. Acreditamos que o interessado da Revolução Espanhola de 36 à 39 do século XX poderá encontrar uma enorme fonte de exemplos que uma vez por todas termine com a imagem de uma UTOPIA anarquista e veja a realidade que ocorreu em nossa terra.
+
+A revolução não é uma coisa do passado, nem um bonito sonho. Quando o ser humano se encaminha a ela não faz com o animo de destruir, mas por uma construção do mundo novo que nos espera em cada momento. A geração de homens e mulheres que a realizaram não merecem o esquecimento.
+
+O grupo editor (TEA-FAI). Setembro de 96
+
+Fidel Moreno
+
+A morte não só trás dor e lágrimas por aqueles que não foram, também deixa com o corpo começa a apodrecer, a certeza de que a vida é única e irrepetível. Ao ser consciente, um homem, da fronteira que delimitam e definem sua existência, sua vida não será mais uma sucessão de anedotas no tempo, será um viver de experiências com a intensidade do momento que talvez seja o último.
+
+Diante da ameaça de um possível triunfo do levantamento de 18 de Julho, o trabalhadores das cidades e dos campos reagiram, com mais ou menos exito dependendo do lugar, coletivizando a terra e as fábricas na intenção de acabar com a injustiça social que haviam sofrido até então e que prometia agravar-se se o fascismo chegasse a triunfar na Espanha. Durou pouco, mas o suficiente para saber que não é somente necessário, mas com possível.
+
+Ser conscientes da oportunidade de ter nascido nos leva a nível coletivo em buscar formas que permitam o livre desenvolvimento de todos. A anarquia, para mim, é isso, uma organização social que soluciona os problemas materiais da espécie de maneira justa e permite assim ao indivíduo desenvolver espiritualmente. Matizaria também que só a organização autogestionária impregna de nobreza o espirito do ser humano, pois nestas circunstâncias no lugar de desenvolver a competitividade, por exemplo, desenvolveria a solidariedade e o apoio mútuo.
+
+Isto do que falamos supõe uma autêntica revolução e se deu em 36: homens e mulheres foram por um momento donos de sua vida, deixando de estar nas mãos de outros socialmente diferentes que os empregavam e empregam para um benefício que nem sequer lhes devolve felicidade. Lastimável que esse vampiros acabaram com o intento vital revolucionário de desviar a história de sua fúnebre caminho. Pela vida e anarquia ante a morte e a injustiça!
+
+Eduardo Masjuan
+
+As condições excepcionais surgidas a partir do golpe militar de Julho de 1936, aceleram o processo revolucionário que ao largo do período republicano burgues o movimento anarquista havia impulsionado mediante o não pagamento de rendas sobre a terra, de taxas urbanas, greves revolucionárias dos trabalhadores, ocupações de fazendas.
+
+Na Catalunha, a partir desse momento, o movimento anarquista, que majoritariamente, é quem sufoca a intentona golpista, reorienta de acordo com as expectativas revolucionárias de transformação social existentes, o Plano Urbanístico Regional de 32. Por ele se inicia o estudo das bases e condições requeridas para planificação regional, a reconstrução urbana e o uso do espaço e do território a partir dos critérios científicos naturais da época.
+
+Assim começado por confeccionar o regulamento do que devia constituir o primeiro inventário dos recursos do solo e do subsolo catalão, ao mesmo tempo se elaborou um verdadeiro plano de educação comunal urbano e rural, um plano de higiene urbano, e do debate co…

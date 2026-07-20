@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       I, Suspect        Camera 1        Cameras 2 and 3        Conspiracy of One        Disaster Relief: Cameras 4, 5, and 6        Location, Location, Location        Future Primitive        Cameras 7 and 8        Bart and Lisa Hit the Streets: Camera 9        Camover Lab          Springfield Under Siege: Cameras 10, 11, 12 and 13        Think Global, Smash Local        Unfinished Business: Cameras 19, 20, 21 and 22        Reconnaissance Since cameras became mobile enough to take pictures of people without their consent, punching photographers has become the great American pastime. From celebrities hounded by paparazzi to civilians who resent news teams invading their privacy and demonstrators who don’t want to be profiled, everybody loves swinging on a person shoving a camera in their face. But what about when the person shoving the camera in your face isn’t there—it’s just the camera and you? Every time I turn a corner and see a camera pointed at me, in my mind I can’t help but hear the word “Gotcha!” Even at our most innocent, it’s hard not to feel like a suspect. Indeed, to the security professional who sees the world through a surveillance camera, everyone is a suspect. These thoughts had been running through my mind the day that I stum-bled upon a Youtube video entitled “Camover 2013.” I watched Germans running all over their city, tearing down security cameras, smashing security cameras, painting security cameras. They said it was a new game and challenged others to join in. “I’m glad somebody’s doing that,” I thought to myself, and went to bed. Weeks later, I was out with a friend scouting spots for banner drops and generally exploring the less-traveled altitudes of Springfield. As we came to the edge of a roof overlooking the main strip of downtown, we saw that we were not alone. Also looking over the edge of the building was a security camera, wires leading into a hole in the wall to God-knows-where. My friend commented on the camera, but I shrugged it off and changed the subject, deciding that if I was going to come back for it, I should probably not let on. Every Sunday, my friends gather to watch Itchy and Scratchy. I really couldn’t care less about the show, so when Sunday came, I said I had to clean my room, slipped out, and went back to my house. There I put on an old windbreaker that somebody had left there ages ago, black cotton gloves, a baseball cap, and some dark blue jeans. I grabbed a canvas shopping bag and put into it some wire cutters I’d taken from the supply closet at work earlier that week. I rode my bike to a spot a couple blocks from the target, parked it there, and approached on foot, hood up and hat pulled low to avoid other security cameras. I climbed up the fire escape onto the air conditioner and finally to the roof. I crept up behind the camera, grabbed it with both hands, twisted it from its bracket, and snipped the wire with my clippers. Having never done this before, I wasn’t sure if some silent alarm was going off or if somebody watching a screen somewhere had just had their creep-fest interrupted, so I hastily shoved the camera and clippers in my bag and retreated to my bike. When I got home, I was wired on adrenaline. I knew I was going to do this again next weekend and I knew exactly which camera it would be. My job is right next door to a green yuppie cafe that has been cashing in on the local foods trend of the past few years. The owners are doing pretty well for themselves; the only thing holding them back from their Eco-topia is that they are located beside the Krusty Burger where a lot of black youth hang out, so they’ve plastered the outside with security cameras. One of those cameras points straight at the spot where I take smoke breaks out back. Every day, it stares at me as I smoke and try not to stare back at it. The only glitch in my plan was that this camera was with others that all essentially watched each other. I had to get to the roof, but the only way I could see t…
+I, Suspect
+
+Camera 1
+
+Cameras 2 and 3
+
+Conspiracy of One
+
+Disaster Relief: Cameras 4, 5, and 6
+
+Location, Location, Location
+
+Future Primitive
+
+Cameras 7 and 8
+
+Bart and Lisa Hit the Streets: Camera 9
+
+Camover Lab
+
+Springfield Under Siege: Cameras 10, 11, 12 and 13
+
+Think Global, Smash Local
+
+Unfinished Business: Cameras 19, 20, 21 and 22
+
+Reconnaissance
+
+Since cameras became mobile enough to take pictures of people without their consent, punching photographers has become the great American pastime. From celebrities hounded by paparazzi to civilians who resent news teams invading their privacy and demonstrators who don’t want to be profiled, everybody loves swinging on a person shoving a camera in their face.
+
+But what about when the person shoving the camera in your face isn’t there—it’s just the camera and you? Every time I turn a corner and see a camera pointed at me, in my mind I can’t help but hear the word “Gotcha!” Even at our most innocent, it’s hard not to feel like a suspect. Indeed, to the security professional who sees the world through a surveillance camera, everyone is a suspect.
+
+These thoughts had been running through my mind the day that I stum-bled upon a Youtube video entitled “Camover 2013.” I watched Germans running all over their city, tearing down security cameras, smashing security cameras, painting security cameras. They said it was a new game and challenged others to join in. “I’m glad somebody’s doing that,” I thought to myself, and went to bed.
+
+Weeks later, I was out with a friend scouting spots for banner drops and generally exploring the less-traveled altitudes of Springfield. As we came to the edge of a roof overlooking the main strip of downtown, we saw that we were not alone. Also looking over the edge of the building was a security camera, wires leading into a hole in the wall to God-knows-where. My friend commented on the camera, but I shrugged it off and changed the subject, deciding that if I was going to come back for it, I should probably not let on.
+
+Every Sunday, my friends gather to watch Itchy and Scratchy. I really couldn’t care less about the show, so when Sunday came, I said I had to clean my room, slipped out, and went back to my house. There I put on an old windbreaker that somebody had left there ages ago, black cotton gloves, a baseball cap, and some dark blue jeans. I grabbed a canvas shopping bag and put into it some wire cutters I’d taken from the supply closet at work earlier that week. I rode my bike to a spot a couple blocks from the target, parked it there, and approached on foot, hood up and hat pulled low to avoid other security cameras.
+
+I climbed up the fire escape onto the air conditioner and finally to the roof. I crept up behind the camera, grabbed it with both hands, twisted it from its bracket, and snipped the wire with my clippers. Having never done this before, I wasn’t sure if some silent alarm was going off or if somebody watching a screen somewhere had just had their creep-fest interrupted, so I hastily shoved the camera and clippers in my bag and retreated to my bike.
+
+When I got home, I was wired on adrenaline. I knew I was going to do this again next weekend and I knew exactly which camera it would be.
+
+My job is right next door to a green yuppie cafe that has been cashing in on the local foods trend of the past few years. The owners are doing pretty well for themselves; the only thing holding them back from their Eco-topia is that they are located beside the Krusty Burger where a lot of black youth hang out, so they’ve plastered the outside with security cameras. One of those cameras points straight at the spot where I take smoke breaks out back. Every day, it stares at me as I smoke and try not to stare back at it.
+
+The only glitch in my plan was that this camera was with others that all essentially watched each other. I had to get to the roof, but the only way I could see to get up there was directly below the camera I wanted. I spent all week playin…

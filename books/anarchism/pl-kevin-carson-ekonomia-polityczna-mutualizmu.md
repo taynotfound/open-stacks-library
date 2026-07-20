@@ -19,4 +19,120 @@ files:
     hosted: false
 ---
 
-       Dedykacja        Wstęp    Część I – Podstawy teoretyczne: teoria wartości      Rozdział 1. Marginalistyczny atak na klasyczną ekonomię polityczną: ocena i kontratak        A. Sformułowanie klasycznej laborystycznej teorii wartości        B. „Wulgarna ekonomia polityczna”, marginalizm i kwestia motywacji ideologicznej        C. Marginaliści versus Ricardo        D. Wyjątki od zasady kosztu: kontrargumenty klasyków        E. Stopień ogólności i paradygmaty        F. Synteza Marshallowska        G. Rothbard contra synteza Marshallowska      Rozdział 2. Teoria laborystyczna w wydaniu subiektywistycznym      Rozdział 3. Preferencja czasowa a laborystyczna teoria wartości    Część II – Kapitalizm i państwo: przeszłość, teraźniejszość, przyszłość        Wstęp do Części II. Wyzysk i środki polityczne      Rozdział 4. Pierwotna akumulacja i powstanie kapitalizmu        Wstęp        A. Wywłaszczenie w Starym Świecie        B. Akt pierwokupu w społeczeństwach osiadłych        C. Polityczne represje i społeczna kontrola nad rewolucją przemysłową        D. Kolonializm i niewolnictwo; merkantylizm i powstanie „światowego rynku”        Wniosek: „Świat, którzy utraciliśmy” – i który odzyskamy        Aneks: O „konieczności” pierwotnej akumulacji      Rozdział 5. Państwo i kapitalizm w erze „laissez-faire”        A. Wielka czwórka Tuckera: monopol ziemski        B. Wielka czwórka Tuckera: monopol pieniężny        C. Wielka czwórka Tuckera: patenty        D. Wielka czwórka Tuckera: cła        E. Subsydia transportowe      Rozdział 6. Powstanie kapitalizmu monopolistycznego        Wstęp        A. Liberalny korporacjonizm, regulowana kartelizacja i państwo permanentnej wojny        B. Teoria elit władzy        C. Kapitał monopolistyczny i dodatkowy dochód        D. Socjalizacja kosztów jako forma kartelizacji      Rozdział 7. Kapitalizm monopolistyczny i imperializm        Wstęp: Reakcja elit na kryzys (z dygresją na temat błędnej dystrybucji dochodu)        A. „Imperializm otwartych drzwi” w latach trzydziestych        B. System Bretton Woods: kulminacja imperium otwartych drzwi        C. Uzależniony od eksportu kapitalizm monopolistyczny (z dygresją na temat ekonomii skali)      Rozdział 8. Tendencja do kryzysu        Wprowadzenie        A. Kryzys akumulacji        B. Kryzys fiskalny i kryzys niedoinwestowania        C. Kryzys legitymacji        D. Neoliberalna reakcja i polityczne represje        E. Wewnętrzne ograniczenia efektywności neoliberalnej reakcji        F. Neokonserwatyzm jako próba obrony przed kryzysem legitymizacji        G. Szkoła frankfurcka: faszyzm i porzucenie prawa wartości        H. Globalny kryzys polityczny imperializmu    Część III – Praktyka      Rozdział 9. Cele i środki        A. Podstawowe zasady        B. Droga do celu Podjąłem się krytyki prawa wartości pracy z całą surowością, na którą doktryna tak jednoznacznie fałszywa zdała mi się zasługiwać. Być może mojej krytyce można wiele zarzucić. Niemniej jednak, jedną rzecz uważam za pewną: w przyszłości uczciwi naukowcy dążący do odkrycia prawdy nie będą zadowalać się zwykłym stwierdzeniem słuszności prawa wartości, jak dotychczas się to działo. W przyszłości, każdy, kto myśli wyznawać to prawo, będzie musiał wpierw pokazać to, co jego poprzednicy pominęli – dowód, który można potraktować z powagą. Nie cytaty z autorytetów; nie zwykłe słowa sprzeciwu i dogmatyczne frazesy; lecz dowód, który szczerze i systematycznie wyjaśnia sedno sprawy. Na takim gruncie nikt nie będzie bardziej chętny i gotowy niż ja, aby podjąć dalszą dyskusję. - Eugen von Böhm-Bawerk , Capital and Interest str. 389. Mojej matce, Ruth Emmie Rickert, bez której miłości i wsparcia nigdy by mi się nie udało napisać tej książki. W połowie dziewiętnastego wieku istniała w Ameryce, obok innych odmian, żywa i aktywna, lokalna szkoła anarchizmu, znana jako anarchoindywidualizm. Jak większość pozostałych współczesnych jej form socjalizmu, bazowała na radykalnej interpretacji Ricardowskiej ekonomii. An…
+Dedykacja
+
+Wstęp
+
+Część I – Podstawy teoretyczne: teoria wartości
+
+Rozdział 1. Marginalistyczny atak na klasyczną ekonomię polityczną: ocena i kontratak
+
+A. Sformułowanie klasycznej laborystycznej teorii wartości
+
+B. „Wulgarna ekonomia polityczna”, marginalizm i kwestia motywacji ideologicznej
+
+C. Marginaliści versus Ricardo
+
+D. Wyjątki od zasady kosztu: kontrargumenty klasyków
+
+E. Stopień ogólności i paradygmaty
+
+F. Synteza Marshallowska
+
+G. Rothbard contra synteza Marshallowska
+
+Rozdział 2. Teoria laborystyczna w wydaniu subiektywistycznym
+
+Rozdział 3. Preferencja czasowa a laborystyczna teoria wartości
+
+Część II – Kapitalizm i państwo: przeszłość, teraźniejszość, przyszłość
+
+Wstęp do Części II. Wyzysk i środki polityczne
+
+Rozdział 4. Pierwotna akumulacja i powstanie kapitalizmu
+
+Wstęp
+
+A. Wywłaszczenie w Starym Świecie
+
+B. Akt pierwokupu w społeczeństwach osiadłych
+
+C. Polityczne represje i społeczna kontrola nad rewolucją przemysłową
+
+D. Kolonializm i niewolnictwo; merkantylizm i powstanie „światowego rynku”
+
+Wniosek: „Świat, którzy utraciliśmy” – i który odzyskamy
+
+Aneks: O „konieczności” pierwotnej akumulacji
+
+Rozdział 5. Państwo i kapitalizm w erze „laissez-faire”
+
+A. Wielka czwórka Tuckera: monopol ziemski
+
+B. Wielka czwórka Tuckera: monopol pieniężny
+
+C. Wielka czwórka Tuckera: patenty
+
+D. Wielka czwórka Tuckera: cła
+
+E. Subsydia transportowe
+
+Rozdział 6. Powstanie kapitalizmu monopolistycznego
+
+Wstęp
+
+A. Liberalny korporacjonizm, regulowana kartelizacja i państwo permanentnej wojny
+
+B. Teoria elit władzy
+
+C. Kapitał monopolistyczny i dodatkowy dochód
+
+D. Socjalizacja kosztów jako forma kartelizacji
+
+Rozdział 7. Kapitalizm monopolistyczny i imperializm
+
+Wstęp: Reakcja elit na kryzys (z dygresją na temat błędnej dystrybucji dochodu)
+
+A. „Imperializm otwartych drzwi” w latach trzydziestych
+
+B. System Bretton Woods: kulminacja imperium otwartych drzwi
+
+C. Uzależniony od eksportu kapitalizm monopolistyczny (z dygresją na temat ekonomii skali)
+
+Rozdział 8. Tendencja do kryzysu
+
+Wprowadzenie
+
+A. Kryzys akumulacji
+
+B. Kryzys fiskalny i kryzys niedoinwestowania
+
+C. Kryzys legitymacji
+
+D. Neoliberalna reakcja i polityczne represje
+
+E. Wewnętrzne ograniczenia efektywności neoliberalnej reakcji
+
+F. Neokonserwatyzm jako próba obrony przed kryzysem legitymizacji
+
+G. Szkoła frankfurcka: faszyzm i porzucenie prawa wartości
+
+H. Globalny kryzys polityczny imperializmu
+
+Część III – Praktyka
+
+Rozdział 9. Cele i środki
+
+A. Podstawowe zasady
+
+B. Droga do celu
+
+Podjąłem się krytyki prawa wartości pracy z całą surowością, na którą doktryna tak jednoznacznie fałszywa zdała mi się zasługiwać. Być może mojej krytyce można wiele zarzucić. Niemniej jednak, jedną rzecz uważam za pewną: w przyszłości uczciwi naukowcy dążący do odkrycia prawdy nie będą zadowalać się zwykłym stwierdzeniem słuszności prawa wartości, jak dotychczas się to działo.
+
+W przyszłości, każdy, kto myśli wyznawać to prawo, będzie musiał wpierw pokazać to, co jego poprzednicy pominęli – dowód, który można potraktować z powagą. Nie cytaty z autorytetów; nie zwykłe słowa sprzeciwu i dogmatyczne frazesy; lecz dowód, który szczerze i systematycznie wyjaśnia sedno sprawy. Na takim gruncie nikt nie będzie bardziej chętny i gotowy niż ja, aby podjąć dalszą dyskusję.
+
+- Eugen von Böhm-Bawerk, Capital and Interest str. 389.
+
+Mojej matce, Ruth Emmie Rickert, bez której miłości i wsparcia nigdy by mi się nie udało napisać tej książki.
+
+W połowie dziewiętnastego wieku istniała w Ameryce, obok innych odmian, żywa i aktywna, lokalna szkoła anarchizmu, znana jako anarchoindywidualizm. Jak większość pozostałych współczesnych jej form socjalizmu, bazowała na radykalnej interpretacji Ricardowskiej ekonomii. Anarchoindywidualizm Josiaha Warrena, Benjamina Tuckera i Lysandera Spoonera był zarówno ruchem socjalistycznym, jak i jednym z prądów klasycznego liberalizmu. W pełni zgadzał się z resztą ruchu socjalistycznego, że praca była źródłem wartości wymiennej oraz że robotnikom przysługiwało prawo …

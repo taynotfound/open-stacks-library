@@ -19,4 +19,145 @@ files:
     hosted: false
 ---
 
-       Dedication        Acknowledgments      Introduction        Scholarly Context and Background        The Roots of Radical Activism        Sources and Methods        Rites of Conversion and Protest        A Reader’s Map      Chapter 1: Freedom and Insurrection Around a Fire      Chapter 2: At the Turn of the Millennium        Intersecting Paths        Regarding the Nonhuman: A Brief History of Environmentalism and Animal Rights in the United States        Misfits and Rebels        Post–world War Ii Antecedents of Twenty-first-century Radical Activism        Religious Radicalism        “our Enemies and Theirs Are One and the Same”        The New Anarchism in Practice        Youth Movements and American Religion Since the 1960s      Chapter 3: Childhood Landscapes of Wonder and Awe        Inner Histories        Landscapes of Childhood Memory        Wonder and the Activist Self        Kith and Kin        Memory and Devotion        The Enclosure of Children        Nature as Refuge and Abode of Gods and Spirits        Memory and Mourning        Corporate Youth Culture and the Gods of Nature        Wild Places in Their Hearts      Chapter 4: Into the Forest        Place Making and the Emotional Lives of Young Activists        The Meanings of Forests        Going Feral        The Forest as Home and Place of Belonging        Circles of Kinship        Rites of Identification and Mimicry        Ruptural Performances        Strategies of Intimacy and Opposition      Chapter 5: “liberation’s Crusade Has Begun”        The New Watershed of Human–nonhuman Animal Relationships        A “symbiotic Relationship”: Radical Animal Liberation and American Hardcore        “bhajans for the 90s”        Utopian Saboteurs        Heterotopias: Subcultural Spaces        The “tipping Point”: Conversion Stories      Chapter 6: Circles of Community, Strategies of Inclusion        Welcome Home        Primitive Skills and the Primal Past        Wayfaring and Homecoming        Earth First or Antioppression?        Decolonizing the Movement        Softening and Sharpening the Bounds of Inclusion      Chapter 7: Rites of Grief and Mourning        Perpetual Mourning        How Protests Make Loss and Grief Visible        Mourning the Intimate Dead and Distant Extinctions        Earth Warriors        Every Tool in the Toolbox        Martyrs and Fallen Warriors        Loyalty and Betrayal        Apocalyptic Thinking and the Seeds of Contingent Hope        Primal Future      Conclusion        After-lives      Bibliography For my children, Dasa Grey Schill, Jonah Paul Schill, and Clara Bergamini, with all my love This book has been over ten years in the writing and many people have helped it along the way. I owe much to the many activists who took time to speak with me or shared their stories by mail from prison. I am particularly grateful to Jeffrey Luers, Rod Coronado, Peter Young, and Chelsea Gerlach for the letters they wrote that set me along certain paths I never would have taken without their insights. Thanks to Nettle and Darryl Cherney for hanging out with me for hours and telling me about their lives. The Earth First! Journal and its many editors over the years of my research had a profound effect on this project. The artists included in EF!J and the authors of letters, articles, pleas, complaints, reportbacks, and poems shaped my understanding of activism and confirmed much of what I saw and heard during fieldwork. Many other activists generously tolerated being interviewed, taught me medic and climbing skills, accompanied me to gatherings, told me about their childhoods, shared meals with me, and welcomed me into their communities. This book would not have been possible without their hard work and passionate dedication to the lives of other species. Much appreciation goes to Max Lieberman for fieldwork assistance and his thoughtful perspectives on a number of thorny issues. Eric Schmidt at the University of California Press was positive and encouraging …
+Dedication
+
+Acknowledgments
+
+Introduction
+
+Scholarly Context and Background
+
+The Roots of Radical Activism
+
+Sources and Methods
+
+Rites of Conversion and Protest
+
+A Reader’s Map
+
+Chapter 1: Freedom and Insurrection Around a Fire
+
+Chapter 2: At the Turn of the Millennium
+
+Intersecting Paths
+
+Regarding the Nonhuman: A Brief History of Environmentalism and Animal Rights in the United States
+
+Misfits and Rebels
+
+Post–world War Ii Antecedents of Twenty-first-century Radical Activism
+
+Religious Radicalism
+
+“our Enemies and Theirs Are One and the Same”
+
+The New Anarchism in Practice
+
+Youth Movements and American Religion Since the 1960s
+
+Chapter 3: Childhood Landscapes of Wonder and Awe
+
+Inner Histories
+
+Landscapes of Childhood Memory
+
+Wonder and the Activist Self
+
+Kith and Kin
+
+Memory and Devotion
+
+The Enclosure of Children
+
+Nature as Refuge and Abode of Gods and Spirits
+
+Memory and Mourning
+
+Corporate Youth Culture and the Gods of Nature
+
+Wild Places in Their Hearts
+
+Chapter 4: Into the Forest
+
+Place Making and the Emotional Lives of Young Activists
+
+The Meanings of Forests
+
+Going Feral
+
+The Forest as Home and Place of Belonging
+
+Circles of Kinship
+
+Rites of Identification and Mimicry
+
+Ruptural Performances
+
+Strategies of Intimacy and Opposition
+
+Chapter 5: “liberation’s Crusade Has Begun”
+
+The New Watershed of Human–nonhuman Animal Relationships
+
+A “symbiotic Relationship”: Radical Animal Liberation and American Hardcore
+
+“bhajans for the 90s”
+
+Utopian Saboteurs
+
+Heterotopias: Subcultural Spaces
+
+The “tipping Point”: Conversion Stories
+
+Chapter 6: Circles of Community, Strategies of Inclusion
+
+Welcome Home
+
+Primitive Skills and the Primal Past
+
+Wayfaring and Homecoming
+
+Earth First or Antioppression?
+
+Decolonizing the Movement
+
+Softening and Sharpening the Bounds of Inclusion
+
+Chapter 7: Rites of Grief and Mourning
+
+Perpetual Mourning
+
+How Protests Make Loss and Grief Visible
+
+Mourning the Intimate Dead and Distant Extinctions
+
+Earth Warriors
+
+Every Tool in the Toolbox
+
+Martyrs and Fallen Warriors
+
+Loyalty and Betrayal
+
+Apocalyptic Thinking and the Seeds of Contingent Hope
+
+Primal Future
+
+Conclusion
+
+After-lives
+
+Bibliography
+
+For my children, Dasa Grey Schill, Jonah Paul Schill,
+and Clara Bergamini, with all my love
+
+This book has been over ten years in the writing and many people have helped it along the way.
+
+I owe much to the many activists who took time to speak with me or shared their stories by mail from prison. I am particularly grateful to Jeffrey Luers, Rod Coronado, Peter Young, and Chelsea Gerlach for the letters they wrote that set me along certain paths I never would have taken without their insights. Thanks to Nettle and Darryl Cherney for hanging out with me for hours and telling me about their lives. The Earth First! Journal and its many editors over the years of my research had a profound effect on this project. The artists included in EF!J and the authors of letters, articles, pleas, complaints, reportbacks, and poems shaped my understanding of activism and confirmed much of what I saw and heard during fieldwork. Many other activists generously tolerated being interviewed, taught me medic and climbing skills, accompanied me to gatherings, told me about their childhoods, shared meals with me, and welcomed me into their communities. This book would not have been possible without their hard work and passionate dedication to the lives of other species.
+
+Much appreciation goes to Max Lieberman for fieldwork assistance and his thoughtful perspectives on a number of thorny issues.
+
+Eric Schmidt at the University of California Press was positive and encouraging towards this project from the moment I first mentioned it. Thanks to Maeve Cornell-Taylor, Kate Hoffman, and others at the press who worked on the book during various phases of its production.
+
+California State University Chico provided me with several leaves that supported the initial phases of research for this book. The Department of Comparative Religion and Hu…

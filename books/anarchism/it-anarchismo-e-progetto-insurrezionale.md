@@ -19,4 +19,70 @@ files:
     hosted: false
 ---
 
-       Nota introduttiva alla seconda edizione        Nota editoriale        Nota introduttiva alla prima edizione        Circolare di convocazione del convegno        Relazione introduttiva della Redazione di Milano        Intervento di A.        Primo intervento di M.        Intervento di Alfredo        Relazione di “Tracce”          La cultura del bordo. Antagonismo e forme di comunicazione differenti        Primo intervento di P. L.        Intervento di C.        Relazione di C.        Interveto di A.        Secondo intervento di M.        Intervento di M.        Secondo intervento di P. L.        Intervento di G.        Intervento di D.        Intervento di A.        Intervento di J.        Lettera dal Campo di Novara        Terzo intervento di P. L. Poco meno di trent’anni non sono pochi e la rivista che dette il nome a quel Convegno milanese del 13 ottobre 1985 non esiste più. Esistono invece i compagni presenti quel giorno a Milano, a discutere e a scambiarsi, forse per la prima volta, i fondamenti di un’analisi che ancora oggi rimane incognita o, se non proprio incognita, ricca di aspetti non chiariti e di equivoci più o meno volontari. I miei nuovi lettori, e ve ne sono di talmente “nuovi” da imbarazzare la mia presunzione di prefattore, sono pregati di notare che la parola “insurrezionalista” si trova, in queste pagine, citata tre volte. Due volte per riferirsi a una presunta scelta teorica malatestiana di alcuni anarchici che al di là della soglia della propria biblioteca non hanno che vani ricordi di antiche scaramucce più o meno goliardiche, e una sola volta per parlare propriamente delle tesi relative al progetto insurrezionale. Non è una questione terminologica, ma al contrario si tratta di un problema importante. Tutti oggi, in tutto il mondo (non è una iperbole) parlano di “insurrezionalisti” e di “insurrezionalismo”, quasi mai di “progetto insurrezionale”, e questa etichetta è di origine prettamente giornalistica. Alla fine io stesso mi sono dovuto arrendere e ho pubblicato un libro che porta precisamente il titolo: Anarchismo insurrezionalista . Mi permetto di suggerire la lettura di un passo di Kropotkin (cito a memoria) contenuto nel libro Parole di un ribelle , riguardante il problema dei nichilisti russi dei suoi tempi (seconda metà dell’Ottocento). Costoro erano tutt’altro che contenti dell’etichetta ricevuta, non ne condividevano l’estremismo verbale e non erano d’accordo con il concetto sottaciuto di “nulla”, che non apparteneva alla loro filosofia di vita. Ma non potevano fare niente, la potenza (di già all’epoca) del meccanismo giornalistico era tale che ogni tentativo di critica, o di correzione, era e restò vano. Pensate ai giorni nostri, se decidessimo di rispondere al concetto universalmente accettato di “insurrezionalismo”, per quanto riguarda le nostre posizioni teoriche. Fare una distinzione, per altro necessaria, tra “progetto insurrezionale” e “insurrezionalismo”, con tutto quel che segue, resterebbe lettera morta. Lasciamo perdere. Pensiamo che la lettura di questo libretto possa ancora essere utile. Si tratta dei primi passi teorici (e pratici, ma questo è un altro problema). Il discorso che oggi facciamo non è molto diverso. Gutta cavat lapidem. O, almeno, così ci sembra. Trieste, 23 aprile 2014 Alfredo M. Bonanno Si è scelta la soluzione di non riportare i nomi dei relatori ma di indicare solo le iniziali. A distanza di tanto tempo pensiamo sia la cosa migliore. Se qualcuno volesse togliersi la curiosità, si procuri la prima edizione del presente libro (Catania 1986). Il nome dell’estensore della Nota introduttiva alla seconda edizione , lo stesso della Nota introduttiva alla prima edizione è invece lasciato per esteso. Mancano di Alfredo M. Bonanno: “Per un’analisi di un periodo di superamento. Dalle illusioni post-industriali alle illusioni post-rivoluzionarie” che si trova pubblicato in Anarchismo insurrezionalista , seconda ed., Trieste 2009, pp. 42-75, ad esclusione dei paragrafi:…
+Nota introduttiva alla seconda edizione
+
+Nota editoriale
+
+Nota introduttiva alla prima edizione
+
+Circolare di convocazione del convegno
+
+Relazione introduttiva della Redazione di Milano
+
+Intervento di A.
+
+Primo intervento di M.
+
+Intervento di Alfredo
+
+Relazione di “Tracce”
+
+La cultura del bordo. Antagonismo e forme di comunicazione differenti
+
+Primo intervento di P. L.
+
+Intervento di C.
+
+Relazione di C.
+
+Interveto di A.
+
+Secondo intervento di M.
+
+Intervento di M.
+
+Secondo intervento di P. L.
+
+Intervento di G.
+
+Intervento di D.
+
+Intervento di A.
+
+Intervento di J.
+
+Lettera dal Campo di Novara
+
+Terzo intervento di P. L.
+
+Poco meno di trent’anni non sono pochi e la rivista che dette il nome a quel Convegno milanese del 13 ottobre 1985 non esiste più. Esistono invece i compagni presenti quel giorno a Milano, a discutere e a scambiarsi, forse per la prima volta, i fondamenti di un’analisi che ancora oggi rimane incognita o, se non proprio incognita, ricca di aspetti non chiariti e di equivoci più o meno volontari.
+
+I miei nuovi lettori, e ve ne sono di talmente “nuovi” da imbarazzare la mia presunzione di prefattore, sono pregati di notare che la parola “insurrezionalista” si trova, in queste pagine, citata tre volte. Due volte per riferirsi a una presunta scelta teorica malatestiana di alcuni anarchici che al di là della soglia della propria biblioteca non hanno che vani ricordi di antiche scaramucce più o meno goliardiche, e una sola volta per parlare propriamente delle tesi relative al progetto insurrezionale. Non è una questione terminologica, ma al contrario si tratta di un problema importante.
+
+Tutti oggi, in tutto il mondo (non è una iperbole) parlano di “insurrezionalisti” e di “insurrezionalismo”, quasi mai di “progetto insurrezionale”, e questa etichetta è di origine prettamente giornalistica. Alla fine io stesso mi sono dovuto arrendere e ho pubblicato un libro che porta precisamente il titolo: Anarchismo insurrezionalista.
+
+Mi permetto di suggerire la lettura di un passo di Kropotkin (cito a memoria) contenuto nel libro Parole di un ribelle, riguardante il problema dei nichilisti russi dei suoi tempi (seconda metà dell’Ottocento). Costoro erano tutt’altro che contenti dell’etichetta ricevuta, non ne condividevano l’estremismo verbale e non erano d’accordo con il concetto sottaciuto di “nulla”, che non apparteneva alla loro filosofia di vita. Ma non potevano fare niente, la potenza (di già all’epoca) del meccanismo giornalistico era tale che ogni tentativo di critica, o di correzione, era e restò vano. Pensate ai giorni nostri, se decidessimo di rispondere al concetto universalmente accettato di “insurrezionalismo”, per quanto riguarda le nostre posizioni teoriche. Fare una distinzione, per altro necessaria, tra “progetto insurrezionale” e “insurrezionalismo”, con tutto quel che segue, resterebbe lettera morta.
+
+Lasciamo perdere.
+
+Pensiamo che la lettura di questo libretto possa ancora essere utile. Si tratta dei primi passi teorici (e pratici, ma questo è un altro problema). Il discorso che oggi facciamo non è molto diverso.
+
+Gutta cavat lapidem. O, almeno, così ci sembra.
+
+Trieste, 23 aprile 2014
+
+Alfredo M. Bonanno
+
+Si è scelta la soluzione di non riportare i nomi dei relatori ma di indicare solo le iniziali. A distanza di tanto tempo pensiamo sia la cosa migliore. Se qualcuno volesse togliersi la curiosità, si procuri la prima edizione del presente libro (Catania 1986).
+
+Il nome dell’estensore della Nota introduttiva alla seconda edizione, lo stesso della Nota introduttiva alla prima edizione è invece lasciato per esteso. Mancano di Alfredo M. Bonanno: “Per un’analisi di un periodo di superamento. Dalle illusioni post-industriali alle illusioni post-rivoluzionarie” che si trova pubblicato in Anarchismo insurrezionalista, seconda ed., Trieste 2009, pp. 42-75, ad esclusione dei paragrafi: “Le chiacchiere della rivoluzione”, “Niente da fare con l’insurrezione”, “La delegittimazione” che si trovano pubblicati in Chi ha pa…

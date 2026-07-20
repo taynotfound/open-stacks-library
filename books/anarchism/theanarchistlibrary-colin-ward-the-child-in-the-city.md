@@ -19,4 +19,104 @@ files:
     hosted: false
 ---
 
-     Synopsis      Foreword      Part 1: At Home in the City        1. Paradise Lost?        2. Happy Habitat Revisited        3. How the Child Sees the City        4. Antiquarians, Explorers, Neophiliacs        5. Privacy and Isolation        6. Adrift in the City        7. A Suburban Afternoon      Part 2: Using the City        8. Colonising Small Spaces        9. Adapting the Imposed Environment        10. Play as Protest and Exploration        11. The Specialist City        12. Traffic and the Child        13. Wheels in the Street        14. Filling the Shelves of the Supermarket      Part 3: City Wise        15. The Girl in the Background        16. At School in the Alien City        17. The City as Resource        18. Town Child as Country Child        19. Four Exemplary Enterprises        20. In the Sandbox of the City      Notes and Sources        Introduction        Chapter 1: Paradise lost?        Chapter 2: Happy habitat revisited        Chapter 3: How the child sees the city        Chapter 4 Antiquarians, explorers, neophiliacs        Chapter 5: Privacy and isolation        Chapter 6: Adrift in the city        Chapter 7: A suburban afternoon        Chapter 9: Adapting the imposed environment        Chapter 10 Play as protest and exploration        Chapter 11: The specialist city        Chapter 12: Traffic and the child        Chapter 13: Wheels in the street        Chapter 14: Filling the shelves in the supermarket        Chapter 15: The girl in the background        Chapter 16: At school in the alien city        Chapter 17 The city as resource        Chapter 18 Town child as country child        Chapter 19: Four exemplary enterprises        Chapter 20: In the sandbox of the city How can the link between city and child be made more fruitful and enjoyable for both the child and the city? At a time when a significant proportion of the city’s children are at war with their environment, the question raised by this book becomes ever more urgent for teachers and parents, citizens and policy makers. Through an enormously rich range of reference and reminiscence it explores the very feel of growing up in the city and evokes the great variety of ways in which the city child has used the street in the past and still does today. Rooted in the experience of British cities, it nevertheless gives a world-wide panorama of urban childhood, and asks why some children show endless ingenuity in exploiting what the city offers, while others are isolated and predatory. The book is enhanced by some two hundred photographs by Ann Golzen and others, most of them taken especially for this volume. Colin Ward is Editor of the Bulletin of Environmental Education and education officer for the Town and Country Planning Association in London. He is holder of a Leverhulme Fellowship for the interpretation of the built environment, and is Director of the Schools’ Council’s ‘Art and the Built Environment’ project. Colin Ward is coauthor of Streetwork: the Exploding School, and editor of two books, Vandalism and British School Buildings. He is also the author of Tenants Take Over. This book is an attempt to explore the relationship between children and their urban environment. It asks whether it is true, as very many people believe it to be true, that something has been lost in this relationship, and it speculates about the ways in which the link between city and child can be made more fruitful and enjoyable for both the child and the city. But the title, and perhaps the very concept, are open to criticism because they imply that it is possible to speak in general terms about either children or cities. We need to be reminded, as Margaret Mead never fails to remind us, that “It’s a good thing to think about the child as long as you remember that the child doesn’t exist. Only children exist. Every time we lump them together we lose something.” It is not just a matter of the enormous differences between individuals. Every child is in a different state …
+Synopsis
+
+Foreword
+
+Part 1: At Home in the City
+
+1. Paradise Lost?
+
+2. Happy Habitat Revisited
+
+3. How the Child Sees the City
+
+4. Antiquarians, Explorers, Neophiliacs
+
+5. Privacy and Isolation
+
+6. Adrift in the City
+
+7. A Suburban Afternoon
+
+Part 2: Using the City
+
+8. Colonising Small Spaces
+
+9. Adapting the Imposed Environment
+
+10. Play as Protest and Exploration
+
+11. The Specialist City
+
+12. Traffic and the Child
+
+13. Wheels in the Street
+
+14. Filling the Shelves of the Supermarket
+
+Part 3: City Wise
+
+15. The Girl in the Background
+
+16. At School in the Alien City
+
+17. The City as Resource
+
+18. Town Child as Country Child
+
+19. Four Exemplary Enterprises
+
+20. In the Sandbox of the City
+
+Notes and Sources
+
+Introduction
+
+Chapter 1: Paradise lost?
+
+Chapter 2: Happy habitat revisited
+
+Chapter 3: How the child sees the city
+
+Chapter 4 Antiquarians, explorers, neophiliacs
+
+Chapter 5: Privacy and isolation
+
+Chapter 6: Adrift in the city
+
+Chapter 7: A suburban afternoon
+
+Chapter 9: Adapting the imposed environment
+
+Chapter 10 Play as protest and exploration
+
+Chapter 11: The specialist city
+
+Chapter 12: Traffic and the child
+
+Chapter 13: Wheels in the street
+
+Chapter 14: Filling the shelves in the supermarket
+
+Chapter 15: The girl in the background
+
+Chapter 16: At school in the alien city
+
+Chapter 17 The city as resource
+
+Chapter 18 Town child as country child
+
+Chapter 19: Four exemplary enterprises
+
+Chapter 20: In the sandbox of the city
+
+How can the link between city and child be made more fruitful and enjoyable for both the child and the city?
+
+At a time when a significant proportion of the city’s children are at war with their environment, the question raised by this book becomes ever more urgent for teachers and parents, citizens and policy makers. Through an enormously rich range of reference and reminiscence it explores the very feel of growing up in the city and evokes the great variety of ways in which the city child has used the street in the past and still does today. Rooted in the experience of British cities, it nevertheless gives a world-wide panorama of urban childhood, and asks why some children show endless ingenuity in exploiting what the city offers, while others are isolated and predatory. The book is enhanced by some two hundred photographs by Ann Golzen and others, most of them taken especially for this volume.
+
+Colin Ward is Editor of the Bulletin of Environmental Education and education officer for the Town and Country Planning Association in London. He is holder of a Leverhulme Fellowship for the interpretation of the built environment, and is Director of the Schools’ Council’s ‘Art and the Built Environment’ project. Colin Ward is coauthor of Streetwork: the Exploding School, and editor of two books, Vandalism and British School Buildings. He is also the author of Tenants Take Over.
+
+This book is an attempt to explore the relationship between children and their urban environment. It asks whether it is true, as very many people believe it to be true, that something has been lost in this relationship, and it speculates about the ways in which the link between city and child can be made more fruitful and enjoyable for both the child and the city.
+
+But the title, and perhaps the very concept, are open to criticism because they imply that it is possible to speak in general terms about either children or cities. We need to be reminded, as Margaret Mead never fails to remind us, that “It’s a good thing to think about the child as long as you remember that the child doesn’t exist. Only children exist. Every time we lump them together we lose something.” It is not just a matter of the enormous differences between individuals. Every child is in a different state of being or becoming. The legal definition of childhood varies from one place to another, and according to the kind of right or obligation we are discussing. In Britain a whole series of laws, or rather a random accumulation of laws, grants rights or imposes d…

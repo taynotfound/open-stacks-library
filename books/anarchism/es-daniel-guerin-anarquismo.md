@@ -19,4 +19,98 @@ files:
     hosted: false
 ---
 
-       Prefacio      Las Ideas-Fuerza del Anarquismo        Cuestión de Vocablos        Una Rebeldía Visceral          La Aversión por el Estado          Contra la Democracia Burguesa          Crítica del Socialismo «Autoritario»          Las fuentes de Energía: El Individuo          Las Fuentes de Energía: Las Masas        En Busca de la Sociedad Futura          El Anarquismo no es Utópico          Necesidad de la Organización          La Autogestión          Las Bases del Intercambio          La Competencia          Unidad y Planificación          Sindicalismo Obrero          Las Comunas          Un Término Litigioso: «Estado»          El Problema de la Administración de los Servicios Públicos          Federalismo          Internacionalismo          Descolonización      El Anarquismo en la Práctica Revolucionaria        De 1880 a 1914          El Anarquismo se Aísla del Movimiento Obrero          Los Socialdemócratas Vituperan a los Anarquistas          Los Anarquistas en los Sindicatos        El Anarquismo en la Revolución Rusa          Una Revolución Libertaria          Una Revolución «Autoritaria»          El Papel de los Anarquistas          La Majnovchina          Kronstadt          El Anarquismo Muerto y Revivido        El Anarquismo en los Consejos de Fábrica Italianos        El Anarquismo en la Revolución Española: El Espejismo Soviético          La Tradición Anarquista en España          Bagaje doctrinario          Una Revolución «Apolítica»          Los Anarquistas en el Gobierno          Los Triunfos de la Autogestión          La Autogestión Socavada        A Manera de Conclusión          Bibliografía sumaria El anarquismo ha sido, en los últimos tiempos, objeto de renovado interés. Se le han consagrado obras, monografías y antologías. Pero es dudoso que este esfuerzo sea siempre verdaderamente útil. Resulta difícil trazar los rasgos del anarquismo. Los maestros de dicha corriente muy rara vez condensaron sus ideas en tratados sistemáticos. Y cuando intentaron hacerlo, se limitaron a escribir pequeños folletos de propaganda y divulgación que sólo dan una muy incompleta noción del tema. Además, existen varias clases de anarquismo y grandes variaciones en el pensamiento de cada uno de los libertarios más ilustres. El libertario rechaza todo lo que sea autoridad, da absoluta prioridad al juicio individual; por eso «hace profesión de antidogmatismo». «No nos transformemos en jefes de una nueva religión» — escribió Proudhon a Marx — «aunque esta religión sea la de la lógica y la razón». Los puntos de vista de los libertarios son más diversos, más fluidos, más difíciles de aprehender que los de los socialistas «autoritarios», cuyas iglesias rivales tratan, al menos, de imponer cánones a sus celosos partidarios. Poco antes de caer bajo la guillotina, el terrorista Émile Henry le explicaba, en una carta, al director de la cárcel: «No crea usted que la Anarquía es un dogma, una doctrina invulnerable, indiscutible, venerada por sus adeptos como el Corán por los musulmanes. No, la libertad absoluta que reivindicamos hace evolucionar continuamente nuestras ideas, las eleva hacia nuevos horizontes (de acuerdo con la capacidad de los distintos individuos) y las saca de los estrechos límites de toda reglamentación, de toda codificación. No somos ‘creyentes’». Y el condenado a muerte rechaza la «ciega fe» de los marxistas franceses de su tiempo, «que creen en una cosa sólo porque Guesde dijo que había que creer en ella, y tienen un catecismo cuyas palabras aceptan sin discusión, porque, de lo contrario, cometerían sacrilegio». En realidad, pese a la variedad y a la riqueza del pensamiento anarquista, pese a sus contradicciones, pese a sus disputas doctrinarias que, por otra parte, giran demasiado a menudo en torno de problemas que no son tales, nos encontramos ante un conjunto de conceptos asaz homogéneo. Sin duda existen, por lo menos a primera vista, importantes divergencias entre el individualismo anarquista de Stirner (1806-1…
+Prefacio
+
+Las Ideas-Fuerza del Anarquismo
+
+Cuestión de Vocablos
+
+Una Rebeldía Visceral
+
+La Aversión por el Estado
+
+Contra la Democracia Burguesa
+
+Crítica del Socialismo «Autoritario»
+
+Las fuentes de Energía: El Individuo
+
+Las Fuentes de Energía: Las Masas
+
+En Busca de la Sociedad Futura
+
+El Anarquismo no es Utópico
+
+Necesidad de la Organización
+
+La Autogestión
+
+Las Bases del Intercambio
+
+La Competencia
+
+Unidad y Planificación
+
+Sindicalismo Obrero
+
+Las Comunas
+
+Un Término Litigioso: «Estado»
+
+El Problema de la Administración de los Servicios Públicos
+
+Federalismo
+
+Internacionalismo
+
+Descolonización
+
+El Anarquismo en la Práctica Revolucionaria
+
+De 1880 a 1914
+
+El Anarquismo se Aísla del Movimiento Obrero
+
+Los Socialdemócratas Vituperan a los Anarquistas
+
+Los Anarquistas en los Sindicatos
+
+El Anarquismo en la Revolución Rusa
+
+Una Revolución Libertaria
+
+Una Revolución «Autoritaria»
+
+El Papel de los Anarquistas
+
+La Majnovchina
+
+Kronstadt
+
+El Anarquismo Muerto y Revivido
+
+El Anarquismo en los Consejos de Fábrica Italianos
+
+El Anarquismo en la Revolución Española: El Espejismo Soviético
+
+La Tradición Anarquista en España
+
+Bagaje doctrinario
+
+Una Revolución «Apolítica»
+
+Los Anarquistas en el Gobierno
+
+Los Triunfos de la Autogestión
+
+La Autogestión Socavada
+
+A Manera de Conclusión
+
+Bibliografía sumaria
+
+El anarquismo ha sido, en los últimos tiempos, objeto de renovado interés. Se le han consagrado obras, monografías y antologías. Pero es dudoso que este esfuerzo sea siempre verdaderamente útil. Resulta difícil trazar los rasgos del anarquismo. Los maestros de dicha corriente muy rara vez condensaron sus ideas en tratados sistemáticos. Y cuando intentaron hacerlo, se limitaron a escribir pequeños folletos de propaganda y divulgación que sólo dan una muy incompleta noción del tema. Además, existen varias clases de anarquismo y grandes variaciones en el pensamiento de cada uno de los libertarios más ilustres.
+
+El libertario rechaza todo lo que sea autoridad, da absoluta prioridad al juicio individual; por eso «hace profesión de antidogmatismo». «No nos transformemos en jefes de una nueva religión» — escribió Proudhon a Marx — «aunque esta religión sea la de la lógica y la razón». Los puntos de vista de los libertarios son más diversos, más fluidos, más difíciles de aprehender que los de los socialistas «autoritarios», cuyas iglesias rivales tratan, al menos, de imponer cánones a sus celosos partidarios. Poco antes de caer bajo la guillotina, el terrorista Émile Henry le explicaba, en una carta, al director de la cárcel: «No crea usted que la Anarquía es un dogma, una doctrina invulnerable, indiscutible, venerada por sus adeptos como el Corán por los musulmanes. No, la libertad absoluta que reivindicamos hace evolucionar continuamente nuestras ideas, las eleva hacia nuevos horizontes (de acuerdo con la capacidad de los distintos individuos) y las saca de los estrechos límites de toda reglamentación, de toda codificación. No somos ‘creyentes’». Y el condenado a muerte rechaza la «ciega fe» de los marxistas franceses de su tiempo, «que creen en una cosa sólo porque Guesde dijo que había que creer en ella, y tienen un catecismo cuyas palabras aceptan sin discusión, porque, de lo contrario, cometerían sacrilegio».
+
+En realidad, pese a la variedad y a la riqueza del pensamiento anarquista, pese a sus contradicciones, pese a sus disputas doctrinarias que, por otra parte, giran demasiado a menudo en torno de problemas que no son tales, nos encontramos ante un conjunto de conceptos asaz homogéneo. Sin duda existen, por lo menos a primera vista, importantes divergencias entre el individualismo anarquista de Stirner (1806-1856) y el anarquismo societario. Mas, si vamos al fondo de las cosas, comprobaremos que los partidarios de la libertad total y los de la organización social no se hallan tan distanciados entre sí como ellos mismos se imaginan y como puede creerse de primera intención. El anarquista societario es también individualista. Y el anarqu…

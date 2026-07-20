@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Foreword        Economic Determinism        The Critique        Economic Determinism: The Role of the Proletariat        Nature of the State        The State and Production        The Class Struggle        Marx on Capitalism: The Dialectical Falsification of History        Conclusion From the original: The author has meant this pamphlet to be provocative, The Soil of Liberty staff is not in complete agreement with everything in the pamphlet but felt it should be printed. We welcome comments for future magazine issues of Soil of Liberty . This pamphlet is the second published by Soil of Liberty . The first, “The Relevance of Anarchism to Modern Society”, is also by Sam Dolgoff and is available for 55¢, including postage. Bulk rates are available. Sam has been active in the anarchist movement since the 1920s and presently lives in New York City. Soil of Liberty also has a book service and a catalog will soon be available. Magazine subscriptions are $3 -$4 a-year. Address is on the back cover. This summation is written in response to young people seeking clarification of the main issues involved in the classic controversy between Marxists and anarchists. The subject matter is arranged in the form of extracts from relevant sources. The anarchists as well as the marxists speak for themselves in quotations culled from their works. Since the non-anarchist critique of Marxism has taken a libertarian direction, we have also included extracts from such writings. Our critique excludes forgotten earlier writings disavowed by Marx and Engels and deals only with their mature works. In his preface to Marx’s Critique of Political Economy, Engels revealed that he and Marx had “…abandoned the manuscript of The Ger*ma*n Ideology [1846] to the gnawing criticism of the mice…” A Russian visitor, Alexis Vodin, who interviewed Engels in 1893, wrote that Engels “was very embarrassed when I expressed interest in Marx and Engels’ earlier writings…” (see David Mclellan, Marx Before Marxism , 1970, p. 208) Only in 1927 was an edition of the earlier writings published by the Marx-Engels Institute in Moscow. Passages marked in [brackets] are mine. Those marked in (parentheses) are the writer’s. References are also marked in (parentheses). Marxism is based upon the theory of Economic Determinism (or its equivalent terms – Historical Materialism, Dialectical Materialism, Materialistic Conception of History, Scientific Socialism, etc.). Economic Determinism constitutes the essence of Marxism. It is defined by Engels in this famous passage from his introduction to Marx’s Critique of Political Economy: “…all past history was the history of class struggles… these warring classes of society are always the products of the conditions of production and exchange, in a word, of the economic condition of the time; [Engels’ emphasis] therefore the economic structure of society always forms the real basis from which, in the last analysis, is to be explained, the whole superstructure of legal and political institutions [the state] as well as the religious, philosophical, and other conceptions of each historical period.. .all moral theories are the product, in the last analysis, of the economic stage which society reached at that particular epoch… with the same certainty, can we deduce the social revolution from the existing social conditions and the principles of political economy… now, a materialist conception of history has been propounded and the way found to explain man’s consciousness by his being, instead of his being by his consciousness…” [Marx formulates this more concisely] “..,it is not the consciousness of men that determines their existence – but their social existence which determines their consciousness…” ( Critique of Political Economy) “…the course of history is governed by inner laws operating in spite of the consciously desired aims of individuals. ..” (Engels, Ludwig Feurbach, p. 48, emphasis added) Over a century ago Bakunin anticipated much the…
+Foreword
+
+Economic Determinism
+
+The Critique
+
+Economic Determinism: The Role of the Proletariat
+
+Nature of the State
+
+The State and Production
+
+The Class Struggle
+
+Marx on Capitalism: The Dialectical Falsification of History
+
+Conclusion
+
+From the original:
+
+The author has meant this pamphlet to be provocative, The Soil of Liberty staff is not in complete agreement with everything in the pamphlet but felt it should be printed. We welcome comments for future magazine issues of Soil of Liberty.
+
+This pamphlet is the second published by Soil of Liberty. The first, “The Relevance of Anarchism to Modern Society”, is also by Sam Dolgoff and is available for 55¢, including postage. Bulk rates are available.
+
+Sam has been active in the anarchist movement since the 1920s and presently lives in New York City.
+
+Soil of Liberty also has a book service and a catalog will soon be available. Magazine subscriptions are $3 -$4 a-year. Address is on the back cover.
+
+This summation is written in response to young people seeking clarification of the main issues involved in the classic controversy between Marxists and anarchists. The subject matter is arranged in the form of extracts from relevant sources. The anarchists as well as the marxists speak for themselves in quotations culled from their works. Since the non-anarchist critique of Marxism has taken a libertarian direction, we have also included extracts from such writings.
+
+Our critique excludes forgotten earlier writings disavowed by Marx and Engels and deals only with their mature works. In his preface to Marx’s Critique of Political Economy, Engels revealed that he and Marx had “…abandoned the manuscript of The Ger*ma*n Ideology [1846] to the gnawing criticism of the mice…” A Russian visitor, Alexis Vodin, who interviewed Engels in 1893, wrote that Engels “was very embarrassed when I expressed interest in Marx and Engels’ earlier writings…” (see David Mclellan, Marx Before Marxism, 1970, p. 208) Only in 1927 was an edition of the earlier writings published by the Marx-Engels Institute in Moscow.
+
+Passages marked in [brackets] are mine. Those marked in (parentheses) are the writer’s. References are also marked in (parentheses).
+
+Marxism is based upon the theory of Economic Determinism (or its equivalent terms – Historical Materialism, Dialectical Materialism, Materialistic Conception of History, Scientific Socialism, etc.). Economic Determinism constitutes the essence of Marxism. It is defined by Engels in this famous passage from his introduction to Marx’s Critique of Political Economy:
+
+“…all past history was the history of class struggles… these warring classes of society are always the products of the conditions of production and exchange, in a word, of the economic condition of the time; [Engels’ emphasis] therefore the economic structure of society always forms the real basis from which, in the last analysis, is to be explained, the whole superstructure of legal and political institutions [the state] as well as the religious, philosophical, and other conceptions of each historical period.. .all moral theories are the product, in the last analysis, of the economic stage which society reached at that particular epoch… with the same certainty, can we deduce the social revolution from the existing social conditions and the principles of political economy… now, a materialist conception of history has been propounded and the way found to explain man’s consciousness by his being, instead of his being by his consciousness…”
+
+[Marx formulates this more concisely]
+
+“..,it is not the consciousness of men that determines their existence – but their social existence which determines their consciousness…” (Critique of Political Economy)
+
+“…the course of history is governed by inner laws operating in spite of the consciously desired aims of individuals...” (Engels, Ludwig Feurbach, p. 48, emphasis added)
+
+Over a century ago Bakunin anticipated much the same arguments against Marx’s theory of Econo…

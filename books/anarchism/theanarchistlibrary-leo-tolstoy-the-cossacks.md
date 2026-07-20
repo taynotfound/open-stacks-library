@@ -19,4 +19,102 @@ files:
     hosted: false
 ---
 
-     Chapter I      Chapter II      Chapter III      Chapter IV      Chapter V      Chapter VI      Chapter VII      Chapter VIII      Chapter IX      Chapter X      Chapter XI      Chapter XII      Chapter XIII      Chapter XIV      Chapter XV      Chapter XVI      Chapter XVII      Chapter XVIII      Chapter XIX      Chapter XX      Chapter XXI      Chapter XXII      Chapter XXIII      Chapter XXIV      Chapter XXV      Chapter XXVI      Chapter XXVII      Chapter XXVIII      Chapter XXIX      Chapter XXX      Chapter XXXI      Chapter XXXII      Chapter XXXIII      Chapter XXXIV      Chapter XXXV      Chapter XXXVI      Chapter XXXVII      Chapter XXXVIII      Chapter XXXIX      Chapter XL      Chapter XLI      Chapter XLII All is quiet in Moscow. The squeak of wheels is seldom heard in the snow-covered street. There are no lights left in the windows and the street lamps have been extinguished. Only the sound of bells, borne over the city from the church towers, suggests the approach of morning. The streets are deserted. At rare intervals a night-cabman’s sledge kneads up the snow and sand in the street as the driver makes his way to another corner where he falls asleep while waiting for a fare. An old woman passes by on her way to church, where a few wax candles burn with a red light reflected on the gilt mountings of the icons. Workmen are already getting up after the long winter night and going to their work—but for the gentlefolk it is still evening. From a window in Chevalier’s Restaurant a light—illegal at that hour—is still to be seen through a chink in the shutter. At the entrance a carriage, a sledge, and a cabman’s sledge, stand close together with their backs to the curbstone. A three-horse sledge from the post-station is there also. A yard-porter muffled up and pinched with cold is sheltering behind the corner of the house. ‘And what’s the good of all this jawing?’ thinks the footman who sits in the hall weary and haggard. ‘This always happens when I’m on duty.’ From the adjoining room are heard the voices of three young men, sitting there at a table on which are wine and the remains of supper. One, a rather plain, thin, neat little man, sits looking with tired kindly eyes at his friend, who is about to start on a journey. Another, a tall man, lies on a sofa beside a table on which are empty bottles, and plays with his watch-key. A third, wearing a short, fur-lined coat, is pacing up and down the room stopping now and then to crack an almond between his strong, rather thick, but well-tended fingers. He keeps smiling at something and his face and eyes are all aglow. He speaks warmly and gesticulates, but evidently does not find the words he wants and those that occur to him seem to him inadequate to express what has risen to his heart. ‘Now I can speak out fully,’ said the traveller. ‘I don’t want to defend myself, but I should like you at least to understand me as I understand myself, and not look at the matter superficially. You say I have treated her badly,’ he continued, addressing the man with the kindly eyes who was watching him. ‘Yes, you are to blame,’ said the latter, and his look seemed to express still more kindliness and weariness. ‘I know why you say that,’ rejoined the one who was leaving. ‘To be loved is in your opinion as great a happiness as to love, and if a man obtains it, it is enough for his whole life.’ ‘Yes, quite enough, my dear fellow, more than enough!’ confirmed the plain little man, opening and shutting his eyes. ‘But why shouldn’t the man love too?’ said the traveller thoughtfully, looking at his friend with something like pity. ‘Why shouldn’t one love? Because love doesn’t come ... No, to be beloved is a misfortune. It is a misfortune to feel guilty because you do not give something you cannot give. O my God!’ he added, with a gesture of his arm. ‘If it all happened reasonably, and not all topsy-turvy—not in our way but in a way of its own! Why, it’s as if I had stolen that love! You…
+Chapter I
+
+Chapter II
+
+Chapter III
+
+Chapter IV
+
+Chapter V
+
+Chapter VI
+
+Chapter VII
+
+Chapter VIII
+
+Chapter IX
+
+Chapter X
+
+Chapter XI
+
+Chapter XII
+
+Chapter XIII
+
+Chapter XIV
+
+Chapter XV
+
+Chapter XVI
+
+Chapter XVII
+
+Chapter XVIII
+
+Chapter XIX
+
+Chapter XX
+
+Chapter XXI
+
+Chapter XXII
+
+Chapter XXIII
+
+Chapter XXIV
+
+Chapter XXV
+
+Chapter XXVI
+
+Chapter XXVII
+
+Chapter XXVIII
+
+Chapter XXIX
+
+Chapter XXX
+
+Chapter XXXI
+
+Chapter XXXII
+
+Chapter XXXIII
+
+Chapter XXXIV
+
+Chapter XXXV
+
+Chapter XXXVI
+
+Chapter XXXVII
+
+Chapter XXXVIII
+
+Chapter XXXIX
+
+Chapter XL
+
+Chapter XLI
+
+Chapter XLII
+
+All is quiet in Moscow. The squeak of wheels is seldom heard in the snow-covered street. There are no lights left in the windows and the street lamps have been extinguished. Only the sound of bells, borne over the city from the church towers, suggests the approach of morning. The streets are deserted. At rare intervals a night-cabman’s sledge kneads up the snow and sand in the street as the driver makes his way to another corner where he falls asleep while waiting for a fare. An old woman passes by on her way to church, where a few wax candles burn with a red light reflected on the gilt mountings of the icons. Workmen are already getting up after the long winter night and going to their work—but for the gentlefolk it is still evening.
+
+From a window in Chevalier’s Restaurant a light—illegal at that hour—is still to be seen through a chink in the shutter. At the entrance a carriage, a sledge, and a cabman’s sledge, stand close together with their backs to the curbstone. A three-horse sledge from the post-station is there also. A yard-porter muffled up and pinched with cold is sheltering behind the corner of the house.
+
+‘And what’s the good of all this jawing?’ thinks the footman who sits in the hall weary and haggard. ‘This always happens when I’m on duty.’ From the adjoining room are heard the voices of three young men, sitting there at a table on which are wine and the remains of supper. One, a rather plain, thin, neat little man, sits looking with tired kindly eyes at his friend, who is about to start on a journey. Another, a tall man, lies on a sofa beside a table on which are empty bottles, and plays with his watch-key. A third, wearing a short, fur-lined coat, is pacing up and down the room stopping now and then to crack an almond between his strong, rather thick, but well-tended fingers. He keeps smiling at something and his face and eyes are all aglow. He speaks warmly and gesticulates, but evidently does not find the words he wants and those that occur to him seem to him inadequate to express what has risen to his heart.
+
+‘Now I can speak out fully,’ said the traveller. ‘I don’t want to defend myself, but I should like you at least to understand me as I understand myself, and not look at the matter superficially. You say I have treated her badly,’ he continued, addressing the man with the kindly eyes who was watching him.
+
+‘Yes, you are to blame,’ said the latter, and his look seemed to express still more kindliness and weariness.
+
+‘I know why you say that,’ rejoined the one who was leaving. ‘To be loved is in your opinion as great a happiness as to love, and if a man obtains it, it is enough for his whole life.’
+
+‘Yes, quite enough, my dear fellow, more than enough!’ confirmed the plain little man, opening and shutting his eyes.
+
+‘But why shouldn’t the man love too?’ said the traveller thoughtfully, looking at his friend with something like pity. ‘Why shouldn’t one love? Because love doesn’t come ... No, to be beloved is a misfortune. It is a misfortune to feel guilty because you do not give something you cannot give. O my God!’ he added, with a gesture of his arm. ‘If it all happened reasonably, and not all topsy-turvy—not in our way but in a way of its own! Why, it’s as if I had stolen that love! You think so too, don’t deny it. You must think so. But will you believe it, of all the horrid and stupid things I have found time to do in my life—and there are ma…
