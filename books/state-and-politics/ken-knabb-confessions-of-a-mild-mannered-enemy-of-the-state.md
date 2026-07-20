@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: confessions-of-a-mild-mannered-enemy-of-the-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/confessions-of-a-mild-mannered-enemy-of-the-state.epub
+    hosted: true
 ---
 
 # Confessions of a Mild-Mannered Enemy of the State
