@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/78da4efb1548975a.jpg"
 links: []
 files: []
+files:
+  - name: "pyrate-captain-mission-larry-law.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/pyrate-captain-mission-larry-law.pdf"
+    hosted: true
 ---
 # Pyrate Captain Mission - Larry Law
 
