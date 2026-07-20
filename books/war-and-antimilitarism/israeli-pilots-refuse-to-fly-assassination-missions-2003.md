@@ -21,6 +21,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/7c5b2e6cdc8b42ae.jpg"
 links: []
 files: []
+files:
+  - name: "israeli-pilots-refuse-to-fly-assassination-missions-2003.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/israeli-pilots-refuse-to-fly-assassination-missions-2003.pdf"
+    hosted: true
 ---
 # Israeli pilots refuse to fly assassination missions, 2003
 
