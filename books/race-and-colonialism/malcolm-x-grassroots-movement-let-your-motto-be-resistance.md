@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: let-your-motto-be-resistance.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/let-your-motto-be-resistance.epub
+    hosted: true
 ---
 
 # Let Your Motto Be Resistance
