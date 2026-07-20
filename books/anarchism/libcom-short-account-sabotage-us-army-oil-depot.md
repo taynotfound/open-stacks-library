@@ -17,7 +17,14 @@ files:
   - name: "A short account of sabotage at a US army oil depot.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/A short account of sabotage at a US army oil depot.pdf"
-    hosted: false
+    hosted: false  - name: "short-account-sabotage-us-army-oil-depot.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/short-account-sabotage-us-army-oil-depot.pdf"
+    hosted: true
+  - name: "short-account-sabotage-us-army-oil-depot.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/short-account-sabotage-us-army-oil-depot.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/short-account-sabotage-us-army-oil-depot)
