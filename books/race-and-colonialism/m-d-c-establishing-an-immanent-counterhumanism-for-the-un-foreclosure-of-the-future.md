@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: establishing-an-immanent-counterhumanism-for-the-un-foreclosure-of-the-future.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/establishing-an-immanent-counterhumanism-for-the-un-foreclosure-of-the-future.epub
+    hosted: true
 ---
 
 # Establishing an immanent counterhumanism for the un-foreclosure of the future
