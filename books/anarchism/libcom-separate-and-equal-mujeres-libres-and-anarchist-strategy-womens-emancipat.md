@@ -17,7 +17,14 @@ files:
   - name: "seperate and equal.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/seperate and equal.pdf"
-    hosted: false
+    hosted: false  - name: "separate-and-equal-mujeres-libres-and-anarchist-strategy-wom.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/separate-and-equal-mujeres-libres-and-anarchist-strategy-wom.pdf"
+    hosted: true
+  - name: "separate-and-equal-mujeres-libres-and-anarchist-strategy-wom.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/separate-and-equal-mujeres-libres-and-anarchist-strategy-wom.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/separate-and-equal-mujeres-libres-and-anarchist-strategy-womens-emancipation)
