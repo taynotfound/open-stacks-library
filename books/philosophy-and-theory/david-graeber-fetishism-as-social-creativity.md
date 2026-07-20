@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: fetishism-as-social-creativity.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fetishism-as-social-creativity.epub
+    hosted: true
 ---
 
 # Fetishism as social creativity
