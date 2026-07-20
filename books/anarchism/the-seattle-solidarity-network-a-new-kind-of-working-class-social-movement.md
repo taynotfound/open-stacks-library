@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6568d63aabf516c2.jpg"
 links: []
 files: []
+files:
+  - name: "the-seattle-solidarity-network-a-new-kind-of-working-class-s.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-seattle-solidarity-network-a-new-kind-of-working-class-s.pdf"
+    hosted: true
 ---
 # The Seattle Solidarity Network: a new kind of working class social movement
 
