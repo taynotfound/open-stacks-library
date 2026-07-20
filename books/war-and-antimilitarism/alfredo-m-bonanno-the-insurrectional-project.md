@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-insurrectional-project.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-insurrectional-project.epub
+    hosted: true
 ---
 
 # The Insurrectional Project
