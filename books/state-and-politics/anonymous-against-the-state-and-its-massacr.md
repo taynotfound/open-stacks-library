@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: against-the-state-and-its-massacres.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/against-the-state-and-its-massacres.epub
+    hosted: true
 ---
 
 # Against the State and its massacres
