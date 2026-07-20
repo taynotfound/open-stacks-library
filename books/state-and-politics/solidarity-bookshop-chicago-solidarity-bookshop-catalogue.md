@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: solidarity-bookshop-catalogue.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/solidarity-bookshop-catalogue.epub
+    hosted: true
 ---
 
 # Solidarity Bookshop Catalogue
