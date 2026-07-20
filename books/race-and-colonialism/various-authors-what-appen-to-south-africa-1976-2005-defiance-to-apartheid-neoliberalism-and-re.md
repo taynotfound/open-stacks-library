@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: what-u2019appen-to-south-africa-1976-u20132005-defiance-to-apartheid-neoliberali.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/what-u2019appen-to-south-africa-1976-u20132005-defiance-to-apartheid-neoliberali.epub
+    hosted: true
 ---
 
 # What ’Appen to South Africa? 1976–2005. Defiance to Apartheid, Neoliberalism, and Recuperators of Defiance
