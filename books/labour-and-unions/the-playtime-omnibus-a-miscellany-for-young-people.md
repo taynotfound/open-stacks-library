@@ -20,6 +20,11 @@ links:
   - url: "https://hackneyhistory.wordpress.com/2011/07/05/workers-playtime-on-the-death-of-colin-roach-and-community-policing-1983/ "
     text: "The Radical History of Hackney"
 files: []
+files:
+  - name: "the-playtime-omnibus-a-miscellany-for-young-people.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-playtime-omnibus-a-miscellany-for-young-people.pdf"
+    hosted: true
 ---
 # The Playtime omnibus: A miscellany for young people
 
