@@ -22,10 +22,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/65dcc390_CommuneStateMoscow1918Sakwa.pdf"
     hosted: true
 ---
-# The Commune State in Moscow in 1918 - Richard Sakwa
 
-The Commune State in Russia in 1918 Richard Sakwa
-
-PDF Format (764kb)
-
-[Read original on libcom.org](https://libcom.org/article/commune-state-moscow-1918-richard-sakwa)
+The Commune State in Russia in 1918 Richard Sakwa PDF Format (764kb) Printer-friendly version Russia Eastern Europe Russian Revolution 1917 PDF Comments
