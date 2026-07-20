@@ -2,7 +2,7 @@ name: Build index
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - "books/**"
       - "build_index.py"
