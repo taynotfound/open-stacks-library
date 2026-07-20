@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: liberty-vol-ii-no-23.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/liberty-vol-ii-no-23.epub
+    hosted: true
 ---
 
 # Liberty Vol. II. No. 23.
