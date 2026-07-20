@@ -19,4 +19,120 @@ files:
     hosted: false
 ---
 
-   Part 1: Preamble      CHAPTER I: THE IDEAL      CHAPTER II: THE MEN AND THE STRUGGLES      CHAPTER III: MATERIALS FOR A REVOLUTION      CHAPTER IV: A REVOLUTIONARY SITUATION    Part 2: Agrarian socialisation      CHAPTER V: THE ARAGON FEDERATION OF COLLECTIVES        1. Graus        2. Fraga        3. Binefar        4. Andorra (Teruel)        5. Alcorisa        6. Mas de las Matas        7. Esplus      CHAPTER VI: COLLECTIVES IN THE LEVANTE        General Characteristics        1. Carcagente        2. Jativa        3. Other Methods of Operation      CHAPTER VII: THE COLLECTIVES OF CASTILE      CHAPTER VIII: COLLECTIVIST BOOK-KEEPING      CHAPTER IX: LIBERTARIAN DEMOCRACY      CHAPTER X: THE CHARTERS        STATUTES OF THE WORKERS' FREE COLLECTIVE OF TAMARITE DE LITERA        ASSETS OF THE COLLECTIVE        RIGHTS AND DUTIES OF THE COLLECTIVE        RULES FOR THE COLLECTIVE OF SALAS ALTAS        TEXT OF THE COLLECTIVIST RESOLUTION OF ALBALATE DE CINCA    Part 3: Industry and public services      CHAPTER XI: INDUSTRIAL ACHIEVEMENTS        Syndicalisations in Alcoy      CHAPTER XII: ACHIEVEMENTS IN THE PUBLIC SECTOR        1. Water, Gas and Electricity in Catalonia        2. The Barcelona Tramways        3. The Means of Transport        4. The Socialisation of Medicine    Part 4: Towns and isolated achievements      CHAPTER XIII: TOWN COLLECTIVISATIONS        1. Elda and the S.I.C.E.P.        2. Granollers        3. Hospitalet del Llobregat        4. Rubi        5. Castellon de la Plana        6. Socialisation in Alicante      CHAPTER XIV: ISOLATED ACHIEVEMENTS        1. The Boot and Shoemakers of Lerida        2. The Valencia Flour Mills        3. The Chocolate Cooperative of Torrente        4. The Agrarian Groups in Tarrasa    Part 5: Parties and government      CHAPTER XV: POLITICAL COLLABORATION      CHAPTER XVI: LIBERTARIANS AND REPUBLICANS      CHAPTER XVII: THE INTERNAL COUNTER-REVOLUTION    Part 6: Final reflections      CHAPTER XVIII: FINAL REFLECTIONS "Now I can die, I have seen my ideal realised." This was said to me in one of the Levante collectives, if my memory servers me well, by one of the men who had struggled throughout their lives for the triumph of social justice, human liberty and brotherhood. His idea was libertarian communism, or anarchy. But the use of this work carried with it the risk in all languages of distorting in people's minds what the great savant and humanist, Elise» Reclus, defined as the "noblest conception of order." More especially because very often, and it was the case in France, the anarchists seems to have done their utmost to agree with their enemies, and to justify to negative and nihilistic interpretation which one already finds in such and such and order or edict of Philip the Fair in France. It is therefore to betray the meaning of what the old militant, who had struggled to long and had suffered so much, and who probably was shot by one of Franco's firing squads, was saying to me, thus to stick to the simple expression of a word so widely interpreted. Let us therefore look into the matter more deeply. In his pamphlet "El Ideal Anarquista," Ricardo Mella, who was the most genuine and original thinker of Spanish anarchism, gave the following definition of this ideal: "liberty as the basis, equality as the means, fraternity as the ends." Let us bear this well in mind: the ultimate goal, the crowning glory was fraternity, in which freedom would be at the same time both a basis and a consequence, for can there be fraternity without liberty; but equally can one deprive one's brother of liberty? Besides, these concepts had not penetrated in Spain with the much debated and debatable word anarchy. In his Book El Proletariado Militante, to which one must constantly return, Anselmo Lorenzo, who after Mella was the most qualified thinker among Spanish anarchists, recounts how these ideas had been revealed to him, first by reading some of Proudhon's books before 1870, among them De La Capacit…
+Part 1: Preamble
+
+CHAPTER I: THE IDEAL
+
+CHAPTER II: THE MEN AND THE STRUGGLES
+
+CHAPTER III: MATERIALS FOR A REVOLUTION
+
+CHAPTER IV: A REVOLUTIONARY SITUATION
+
+Part 2: Agrarian socialisation
+
+CHAPTER V: THE ARAGON FEDERATION OF COLLECTIVES
+
+1. Graus
+
+2. Fraga
+
+3. Binefar
+
+4. Andorra (Teruel)
+
+5. Alcorisa
+
+6. Mas de las Matas
+
+7. Esplus
+
+CHAPTER VI: COLLECTIVES IN THE LEVANTE
+
+General Characteristics
+
+1. Carcagente
+
+2. Jativa
+
+3. Other Methods of Operation
+
+CHAPTER VII: THE COLLECTIVES OF CASTILE
+
+CHAPTER VIII: COLLECTIVIST BOOK-KEEPING
+
+CHAPTER IX: LIBERTARIAN DEMOCRACY
+
+CHAPTER X: THE CHARTERS
+
+STATUTES OF THE WORKERS' FREE COLLECTIVE OF TAMARITE DE LITERA
+
+ASSETS OF THE COLLECTIVE
+
+RIGHTS AND DUTIES OF THE COLLECTIVE
+
+RULES FOR THE COLLECTIVE OF SALAS ALTAS
+
+TEXT OF THE COLLECTIVIST RESOLUTION OF ALBALATE DE CINCA
+
+Part 3: Industry and public services
+
+CHAPTER XI: INDUSTRIAL ACHIEVEMENTS
+
+Syndicalisations in Alcoy
+
+CHAPTER XII: ACHIEVEMENTS IN THE PUBLIC SECTOR
+
+1. Water, Gas and Electricity in Catalonia
+
+2. The Barcelona Tramways
+
+3. The Means of Transport
+
+4. The Socialisation of Medicine
+
+Part 4: Towns and isolated achievements
+
+CHAPTER XIII: TOWN COLLECTIVISATIONS
+
+1. Elda and the S.I.C.E.P.
+
+2. Granollers
+
+3. Hospitalet del Llobregat
+
+4. Rubi
+
+5. Castellon de la Plana
+
+6. Socialisation in Alicante
+
+CHAPTER XIV: ISOLATED ACHIEVEMENTS
+
+1. The Boot and Shoemakers of Lerida
+
+2. The Valencia Flour Mills
+
+3. The Chocolate Cooperative of Torrente
+
+4. The Agrarian Groups in Tarrasa
+
+Part 5: Parties and government
+
+CHAPTER XV: POLITICAL COLLABORATION
+
+CHAPTER XVI: LIBERTARIANS AND REPUBLICANS
+
+CHAPTER XVII: THE INTERNAL COUNTER-REVOLUTION
+
+Part 6: Final reflections
+
+CHAPTER XVIII: FINAL REFLECTIONS
+
+"Now I can die, I have seen my ideal realised." This was said to me in one of the Levante collectives, if my memory servers me well, by one of the men who had struggled throughout their lives for the triumph of social justice, human liberty and brotherhood.
+
+His idea was libertarian communism, or anarchy. But the use of this work carried with it the risk in all languages of distorting in people's minds what the great savant and humanist, Elise» Reclus, defined as the "noblest conception of order." More especially because very often, and it was the case in France, the anarchists seems to have done their utmost to agree with their enemies, and to justify to negative and nihilistic interpretation which one already finds in such and such and order or edict of Philip the Fair in France. It is therefore to betray the meaning of what the old militant, who had struggled to long and had suffered so much, and who probably was shot by one of Franco's firing squads, was saying to me, thus to stick to the simple expression of a word so widely interpreted. Let us therefore look into the matter more deeply.
+
+In his pamphlet "El Ideal Anarquista," Ricardo Mella, who was the most genuine and original thinker of Spanish anarchism, gave the following definition of this ideal: "liberty as the basis, equality as the means, fraternity as the ends." Let us bear this well in mind: the ultimate goal, the crowning glory was fraternity, in which freedom would be at the same time both a basis and a consequence, for can there be fraternity without liberty; but equally can one deprive one's brother of liberty?
+
+Besides, these concepts had not penetrated in Spain with the much debated and debatable word anarchy. In his Book El Proletariado Militante, to which one must constantly return, Anselmo Lorenzo, who after Mella was the most qualified thinker among Spanish anarchists, recounts how these ideas had been revealed to him, first by reading some of Proudhon's books before 1870, among them De La Capacit» Politique des Classes OuvriÃ€res which had been translated by Pi y Margall. [1] These books, and the articles published by Pi y Margall himself in his journal La Discusion had been demonstrated to him the reality of the social problem, whereas other men were strugg…
