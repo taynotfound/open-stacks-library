@@ -20,6 +20,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/99de7c4d49b54616.jpg"
 links: []
 files: []
+files:
+  - name: "invergordon-mutineer-len-wincott.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/invergordon-mutineer-len-wincott.pdf"
+    hosted: true
 ---
 # Invergordon Mutineer - Len Wincott
 
