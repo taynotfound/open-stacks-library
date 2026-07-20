@@ -22,6 +22,10 @@ files:
     type: EPUB
     url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/saint-tantalus.epub
     hosted: true
+  - name: saint-tantalus.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/saint-tantalus.epub
+    hosted: true
 ---
 
 # Saint Tantalus
