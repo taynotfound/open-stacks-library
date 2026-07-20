@@ -19,4 +19,78 @@ files:
     hosted: false
 ---
 
-I used to think that anarchism was “just” a political philosophy. I was wrong. It is much, much more than that. By political philosophy, I mean a way of thinking about politics, institutions and decision-making. How people arbitrate their business with one another, theories of government – or self-government – or the abolition of all hierarchy. I liked to boil down anarchism into a few pithy phrases like, “anarchism is about no one having power over anyone else.” I was not wrong. Anarchism is indeed about all of these things. It is indeed a political philosophy. It is indeed about how people take decisions together and manage their affairs collectively. But I thought this was its philosophy in toto, that there was nothing more to it. It was a way of thinking that was separate from our interior realities. It is an external philosophy, above all about how we behave towards one another. These ideas take you far in analysing the current political and economic situation and working out how to reform it and replace it. In place of a top-down system of government, we need a system where decisions are made by the mass, including everyone with a stake. In place of an economic system controlled by the few with massive wealth, we need one where shares are equal, both in terms of wealth but also in terms of agency – where everyone gets a say over the economic affairs that affect them, whether in the workplace or society at large. The individual and society are at the heart of this idea. Individuals must be free to act as they please, but always taking into account the needs of others – a fair and equal negotiation (this isn’t the most purely libertarian form of anarchism, of course, more socialist libertarianism). But who is that individual and how do they think? Anarchists are sceptical of formal religion, seeing it as another form of social control where agency is denied the individual in favour of a rigid orthodoxy enforced hierarchically – most often by men. The claim that god exists is seen as a veil, used to conceal many human wrongs and injustices, excused as a universal salve and explanation. Anarchism rejects religion: no gods, no masters. Thus, I had been sceptical of those who sometimes called themselves spiritual anarchists. What is spiritualism but another kind of religion that confuses and misleads us from our earthly realities? I saw what can loosely be called spiritualism as narcissistic and selfish, with its focus on the individual soul and its needs and expression. Some of those I saw talking of spiritualism retreated from the battleground of society into drugs and other forms of refuge, both physical and mental. The battle is in our cities and streets, here and now, I argued crossly. But those same ‘spiritualists’ claimed to me that there could not be revolution of the whole of society without revolutionising the way that individuals think within it. You couldn’t expect that society would adopt practices of equality, respect and inclusion unless we ourselves were transformed from the rationalism and analytic thinking that sees everything as structure or transaction. The interior needed to be reformed too. You couldn’t have revolution in one without revolution in the other. I have come to think that they might be right. At the heart of all anarchism is how we treat other people. Anarchism demands that this treatment is always respectful and egalitarian: no one can coerce another, whether by overt means or subtle. My kind of anarchism demands that we treat others as they wish, not as we wish (which is, by the way, an explicit rejection of the so-called ‘golden rule’, under which we treat others as we would wish to be treated. Instead we must attend to what they say they want, not what we think they want). We must give up all notions of domination, of influence and getting others to do what we want. We must give up all power. I once worked in government. I was agog with power, convinced that I worked among an elite few who…
+I
+used to think that anarchism was “just” a political philosophy.
+I was wrong. It is much, much more than that.
+
+By political philosophy, I mean a way of thinking about
+politics, institutions and decision-making. How people arbitrate
+their business with one another, theories of government
+– or self-government – or the abolition of all hierarchy.
+I liked to boil down anarchism into a few pithy phrases like,
+“anarchism is about no one having power over anyone else.”
+
+I was not wrong. Anarchism is indeed about all of these things.
+It is indeed a political philosophy. It is indeed about how people
+take decisions together and manage their affairs collectively.
+But I thought this was its philosophy in toto, that there was
+nothing more to it. It was a way of thinking that was separate
+from our interior realities. It is an external philosophy, above all
+about how we behave towards one another.
+
+These ideas take you far in analysing the current political and
+economic situation and working out how to reform it and replace
+it. In place of a top-down system of government, we need a system
+where decisions are made by the mass, including everyone with
+a stake. In place of an economic system controlled by the few
+with massive wealth, we need one where shares are equal, both
+in terms of wealth but also in terms of agency – where everyone
+gets a say over the economic affairs that affect them, whether in
+the workplace or society at large. The individual and society are
+at the heart of this idea. Individuals must be free to act as they
+please, but always taking into account the needs of others – a fair
+and equal negotiation (this isn’t the most purely libertarian form
+of anarchism, of course, more socialist libertarianism).
+
+But who is that individual and how do they think? Anarchists
+are sceptical of formal religion, seeing it as another form of
+social control where agency is denied the individual in favour of
+a rigid orthodoxy enforced hierarchically – most often by men.
+The claim that god exists is seen as a veil, used to conceal many
+human wrongs and injustices, excused as a universal salve and
+explanation. Anarchism rejects religion: no gods, no masters.
+
+Thus, I had been sceptical of those who sometimes called
+themselves spiritual anarchists. What is spiritualism but
+another kind of religion that confuses and misleads us from our
+earthly realities? I saw what can loosely be called spiritualism
+as narcissistic and selfish, with its focus on the individual soul
+and its needs and expression. Some of those I saw talking of
+spiritualism retreated from the battleground of society into
+drugs and other forms of refuge, both physical and mental. The
+battle is in our cities and streets, here and now, I argued crossly.
+
+But those same ‘spiritualists’ claimed to me that there could not
+be revolution of the whole of society without revolutionising the
+way that individuals think within it. You couldn’t expect that
+society would adopt practices of equality, respect and inclusion
+unless we ourselves were transformed from the rationalism and
+analytic thinking that sees everything as structure or transaction.
+The interior needed to be reformed too. You couldn’t have
+revolution in one without revolution in the other.
+
+I have come to think that they might be right.
+
+At the heart of all anarchism is how we treat other people.
+Anarchism demands that this treatment is always respectful and
+egalitarian: no one can coerce another, whether by overt means
+or subtle. My kind of anarchism demands that we treat others
+as they wish, not as we wish (which is, by the way, an explicit
+rejection of the so-called ‘golden rule’, under which we treat
+others as we would wish to be treated. Instead we must attend to
+what they say they want, not what we think they want). We must
+give up all notions of domination, of influence and getting others
+to do what we want. We must give up all power.
+
+I once worked in government. I was agog with power, convinced
+that I worked among an elit…

@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-     I - O QUE É A ANARQUIA?      II - COMO CHEGAR À ANARQUIA?      III - COMO NOS TORNAMOS DIGNOS DA ANARQUIA? A publicação deste panfleto, de acordo com uma nota do grupo editorial, surgiu "para responder à pergunta que vários camaradas nos fizeram: Como educarei meus filhos?" e é dedicada aos pais e professores "para que, em casa e na escola, propaguem as sãs doutrinas de uma educação onde se elimine todo fanatismo e se busque libertar a infância da terrível opressão que recai sobre ela". Coletivo de Cultura Popular El Ortiba www.elortiba.org José Antonio Emmanuel A Anarquia Explicada às Crianças Título original: A Anarquia Explicada às Crianças José Antonio Emmanuel, 1931 Para os Filhos do Proletariado Espanhol "… Frágeis e pequenas, as crianças são, por isso mesmo, sagradas…" ELISEO RECLUS N. B. P. Este panfleto foi escrito para responder à pergunta que vários camaradas nos fizeram: "Como educarei meus filhos?" Uma pergunta que já esperávamos e à qual respondemos com base na Razão e na Ciência. Dedicado aos filhos do proletariado espanhol, esperamos que estas páginas - modestamente escritas - orientem a educação de nossa infância em uma direção verdadeiramente renovadora. Dirigimo-nos aos pais e aos professores para que, em casa e na escola, difundam as sãs doutrinas de uma educação onde todo fanatismo seja banido e se busque libertar a infância da nefasta opressão que recai sobre ela. Devido às culpas de uns e de outros, a educação ficou estagnada em um marasmo de servidão, da qual deve emergir redimida e revigorada. Que estas breves páginas sirvam de estímulo a todos. O GRUPO EDITOR ANARQUIA, queridas crianças, é a doutrina que, não se conformando com a organização que tem sido impressa na humanidade desde os tempos em que a sociedade começou a ser criada, busca estabelecer uma constituição para a vida com base nos princípios sagrados do amor universal e da solidariedade humana. Sua missão é pôr fim à desigualdade que prevalece entre os seres, dividindo-os em pobres e ricos, explorados e exploradores, escravos e dominadores. Ela deseja que a vida seja como deve ser: a livre expressão das faculdades, a espontaneidade das ações, a libertação final ao destruir as causas que impedem que a sociedade se baseie na mais plena liberdade e na mais absoluta independência. Entre as causas que a Anarquia busca destruir, considerando-as prejudiciais ao livre desenvolvimento do indivíduo e da coletividade, posso listar as seguintes, para que nunca se esqueçam de que, ao combatê-las, trabalhamos pelo bem-estar de todos. O MILITARISMO é a força armada que aqueles que se apossaram da vida usam para impor suas injustiças e solidificar suas maldades. Essa força não recua diante do crime; ela arma seres contra seres e os lança contra aqueles que, como vocês, como seus pais, seus irmãos, fizeram do trabalho uma virtude. Quando nos rebelamos contra esse modo de agir, quando nos levantamos contra a injustiça que é cometida conosco, eles caem sobre nós. Não satisfeitos em querer nos destruir, provocam guerras, dizimam a humanidade, e os crimes se acumulam no caminho que percorremos. A anarquia opõe a essa brutalidade a Paz. O anarquista não deseja a guerra, se opõe à guerra, anseia pela paz, porque esta é o ponto fundamental de sua doutrina salvadora. Ele considera todos os seres como irmãos; não quer fronteiras que nos separem, mas corações que se unam em um único amor: a emancipação total e absoluta dos seres humanos. As armas do anarquismo são o livro, o trabalho, a palavra. Com essas armas, ele combate a força organizada do militarismo, e com elas triunfará sobre os carniceiros e devoradores de homens. Com o livro, o trabalho e a palavra, ele chama a todos, fazendo-os ver que sobre a força bruta se ergue a força da ideia, cujo triunfo final não pode ser questionado. O CLERICALISMO é a farsa com a qual os usurpadores da vida cercaram-se para demonstrar que suas imposições, tiranias e opressões são justas e agradáveis a um "deus" que criaram …
+I - O QUE É A ANARQUIA?
+
+II - COMO CHEGAR À ANARQUIA?
+
+III - COMO NOS TORNAMOS DIGNOS DA ANARQUIA?
+
+A publicação deste panfleto, de acordo com uma nota do grupo editorial, surgiu "para responder à pergunta que vários camaradas nos fizeram: Como educarei meus filhos?" e é dedicada aos pais e professores "para que, em casa e na escola, propaguem as sãs doutrinas de uma educação onde se elimine todo fanatismo e se busque libertar a infância da terrível opressão que recai sobre ela".
+
+Coletivo de Cultura Popular El Ortiba
+
+www.elortiba.org
+
+José Antonio Emmanuel
+
+A Anarquia Explicada às Crianças
+
+Título original: A Anarquia Explicada às Crianças
+
+José Antonio Emmanuel, 1931
+
+Para os Filhos do Proletariado Espanhol
+
+"… Frágeis e pequenas, as crianças são, por isso mesmo, sagradas…"
+
+ELISEO RECLUS
+
+N. B. P.
+
+Este panfleto foi escrito para responder à pergunta que vários camaradas nos fizeram: "Como educarei meus filhos?" Uma pergunta que já esperávamos e à qual respondemos com base na Razão e na Ciência.
+
+Dedicado aos filhos do proletariado espanhol, esperamos que estas páginas - modestamente escritas - orientem a educação de nossa infância em uma direção verdadeiramente renovadora.
+
+Dirigimo-nos aos pais e aos professores para que, em casa e na escola, difundam as sãs doutrinas de uma educação onde todo fanatismo seja banido e se busque libertar a infância da nefasta opressão que recai sobre ela.
+
+Devido às culpas de uns e de outros, a educação ficou estagnada em um marasmo de servidão, da qual deve emergir redimida e revigorada. Que estas breves páginas sirvam de estímulo a todos.
+
+O GRUPO EDITOR
+
+ANARQUIA, queridas crianças, é a doutrina que, não se conformando com a organização que tem sido impressa na humanidade desde os tempos em que a sociedade começou a ser criada, busca estabelecer uma constituição para a vida com base nos princípios sagrados do amor universal e da solidariedade humana.
+
+Sua missão é pôr fim à desigualdade que prevalece entre os seres, dividindo-os em pobres e ricos, explorados e exploradores, escravos e dominadores. Ela deseja que a vida seja como deve ser: a livre expressão das faculdades, a espontaneidade das ações, a libertação final ao destruir as causas que impedem que a sociedade se baseie na mais plena liberdade e na mais absoluta independência.
+
+Entre as causas que a Anarquia busca destruir, considerando-as prejudiciais ao livre desenvolvimento do indivíduo e da coletividade, posso listar as seguintes, para que nunca se esqueçam de que, ao combatê-las, trabalhamos pelo bem-estar de todos.
+
+O MILITARISMO é a força armada que aqueles que se apossaram da vida usam para impor suas injustiças e solidificar suas maldades. Essa força não recua diante do crime; ela arma seres contra seres e os lança contra aqueles que, como vocês, como seus pais, seus irmãos, fizeram do trabalho uma virtude. Quando nos rebelamos contra esse modo de agir, quando nos levantamos contra a injustiça que é cometida conosco, eles caem sobre nós. Não satisfeitos em querer nos destruir, provocam guerras, dizimam a humanidade, e os crimes se acumulam no caminho que percorremos.
+
+A anarquia opõe a essa brutalidade a Paz. O anarquista não deseja a guerra, se opõe à guerra, anseia pela paz, porque esta é o ponto fundamental de sua doutrina salvadora. Ele considera todos os seres como irmãos; não quer fronteiras que nos separem, mas corações que se unam em um único amor: a emancipação total e absoluta dos seres humanos. As armas do anarquismo são o livro, o trabalho, a palavra. Com essas armas, ele combate a força organizada do militarismo, e com elas triunfará sobre os carniceiros e devoradores de homens. Com o livro, o trabalho e a palavra, ele chama a todos, fazendo-os ver que sobre a força bruta se ergue a força da ideia, cujo triunfo final não pode ser questionado.
+
+O CLERICALISMO é a farsa com a qual os usurpadores da vida cercaram-se para demonstrar que suas imposições, tiranias e opressões são justas e agradáveis a um "deus" que…

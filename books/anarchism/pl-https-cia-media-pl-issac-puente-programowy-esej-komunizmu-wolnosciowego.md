@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-       Zniesienie własności        Zniesienie państwa        Wszelka suwerenność rodzi się w zgromadzeniu        Obowiązek pracy        Zniesienie płac        Dystrybucja        Wymiana        Federacje        Organizacja gospodarki        Autonomia lokalna        Uprawa ziemi        Uprzemysłowienie i mechanizacja        Przestępstwa        Kwestia armii        Edukacja        Ciężary nie zwalniają od pracy Dążność ta jest charakterystyczna dla wszystkich szkół socjalistycznych i jest koniecznym warunkiem do tego, by jakiś rząd nosił miano komunistycznego. Opiera się ona na naturalnym prawie każdego człowieka - prawie do życia. Opiera się ona na rozumowaniu tak prostym jak np. to: człowiek jako wytwór natury nie może nią motywować prawa do posiadania majątku. Tylko jeden rodzaj własności jest dopuszczalny: ten, który wymuszają nasze potrzeby. Dlatego mamy prawo posiadać tylko to, czego potrzebujemy i będziemy potrzebować. Wszystko co bierzemy niepotrzebnie, zabierając innym, stanowi grabież i bezprawne przywłaszczenie. Jeżeli nie mamy prawa wykorzystywać przyrody, to tak samo nie mamy prawa wykorzystywać tego co zostało wytworzone przez człowieka. Nikt nie może dążyć do wyprodukowania czegoś swoim własnym wysiłkiem. Wszystko jest owocem współpracy będącej udziałem wielu ludzi. Prawo do posiadania majątku prywatnego jest więc przywilejem niesprawiedliwym i obrzydliwym, który jest przyczyną zróżnicowania majątkowego. Wszystkie prądy socjalistyczne uznają tę dążność, mimo że różnią się poglądami na sposób jej osiągnięcia. Socjaliści uczestnicząc w rządach nie odważyli się nigdy wyjaśnić swych zobowiązań programowych. Komuniści w Rosji nadal tolerują własność prywatną. Obie tendencje marksistowskie zamierzają osiągnąć własność ogólnospołeczną wprowadzając ją stopniowo w ustawodawstwie i oddając władzę państwu. W przeciwieństwie do nich my, anarchiści, nie uznajemy innej drogi osiągnięcia własności ogólnospołecznej jak tylko w prosty i skuteczny sposób, czyli przez usunięcie prawodawstwa, nawet jeśli ją popiera, oraz usunięcie siły (uosobionej w Państwie), nawet jeśli jest środkiem do jej osiągnięcia. W posiadanie społeczne wejdziemy nagle i wszyscy. Instytucja państwa z jego warstwami rządzącymi i rządzonymi, z jego zorganizowaną przemocą i organami kierowniczymi jest strukturą sztuczną i pasożytniczą, która może być wykorzeniona bez niszczenia produkcji i życia ekonomicznego. Ponadto państwo stanowi zaprzeczenie wolności, tak osobistej jak i zbiorowej, i komunizm nie stanie się wolnościowy, jeśli zachowa jakiekolwiek pozostałości tej bezużytecznej i fatalnej instytucji. Społeczeństwo utrzymuje się dzięki pędowi ku wspólnocie, który jest właściwy każdemu człowiekowi, oraz zgodności i zaletom jakie przynosi ze sobą komunizm. Człowiek mający władzę nad innymi staje się twardy i nieczuły. Wielokrotnie zwiększa się w nim okrucieństwo i zło. To właśnie na ołtarzu państwa skupiły się największe zbrodnie w historii i powstały wszystkie przykłady ludzkiego barbarzyństwa. Państwo usiłuje utrzymać człowieka w stanie niewolniczym, aby zrezygnował na zawsze z tego co utracił, aby znosił niesprawiedliwość i aby tolerował wszelki despotyzm. Wykształca w ludziach służalczość i brak odwagi, który uwłacza ludzkiej godności. Nowe społeczeństwo powinno przygotować się do wolnego życia, zwiększając zmysł buntowniczości wobec ludzkiego autorytetu oraz wszelkich zalążków tyranii. Zebrania zainteresowanych osób będą zawsze niezbędne. Suma wyobrażeń, poglądów i woli zebranych na zgromadzeniu (związkowym lub lokalnym) pozwoli rozwiązać każdy stojący przed wspólnotą problem. Zawsze wyrażać będzie wolę większości, bez względu na jednomyślność lub jej brak. Nie trzeba narzucać stałych norm ani określonych wzorów. Ustawodawstwo nie jest konieczne, ponieważ zawsze można uznać co trzeba zrobić. Zwolnione od niego są dzieci, starcy i chorzy - decyduje o tym zgromadzenie. Kto nie chce pracować i współpracować z ogółem, ten nie może korzystać z owoców wspólnej pr…
+Zniesienie własności
+
+Zniesienie państwa
+
+Wszelka suwerenność rodzi się w zgromadzeniu
+
+Obowiązek pracy
+
+Zniesienie płac
+
+Dystrybucja
+
+Wymiana
+
+Federacje
+
+Organizacja gospodarki
+
+Autonomia lokalna
+
+Uprawa ziemi
+
+Uprzemysłowienie i mechanizacja
+
+Przestępstwa
+
+Kwestia armii
+
+Edukacja
+
+Ciężary nie zwalniają od pracy
+
+Dążność ta jest charakterystyczna dla wszystkich szkół socjalistycznych i jest koniecznym warunkiem do tego, by jakiś rząd nosił miano komunistycznego. Opiera się ona na naturalnym prawie każdego człowieka - prawie do życia. Opiera się ona na rozumowaniu tak prostym jak np. to: człowiek jako wytwór natury nie może nią motywować prawa do posiadania majątku. Tylko jeden rodzaj własności jest dopuszczalny: ten, który wymuszają nasze potrzeby. Dlatego mamy prawo posiadać tylko to, czego potrzebujemy i będziemy potrzebować. Wszystko co bierzemy niepotrzebnie, zabierając innym, stanowi grabież i bezprawne przywłaszczenie.
+
+Jeżeli nie mamy prawa wykorzystywać przyrody, to tak samo nie mamy prawa wykorzystywać tego co zostało wytworzone przez człowieka. Nikt nie może dążyć do wyprodukowania czegoś swoim własnym wysiłkiem. Wszystko jest owocem współpracy będącej udziałem wielu ludzi. Prawo do posiadania majątku prywatnego jest więc przywilejem niesprawiedliwym i obrzydliwym, który jest przyczyną zróżnicowania majątkowego. Wszystkie prądy socjalistyczne uznają tę dążność, mimo że różnią się poglądami na sposób jej osiągnięcia. Socjaliści uczestnicząc w rządach nie odważyli się nigdy wyjaśnić swych zobowiązań programowych. Komuniści w Rosji nadal tolerują własność prywatną. Obie tendencje marksistowskie zamierzają osiągnąć własność ogólnospołeczną wprowadzając ją stopniowo w ustawodawstwie i oddając władzę państwu. W przeciwieństwie do nich my, anarchiści, nie uznajemy innej drogi osiągnięcia własności ogólnospołecznej jak tylko w prosty i skuteczny sposób, czyli przez usunięcie prawodawstwa, nawet jeśli ją popiera, oraz usunięcie siły (uosobionej w Państwie), nawet jeśli jest środkiem do jej osiągnięcia. W posiadanie społeczne wejdziemy nagle i wszyscy.
+
+Instytucja państwa z jego warstwami rządzącymi i rządzonymi, z jego zorganizowaną przemocą i organami kierowniczymi jest strukturą sztuczną i pasożytniczą, która może być wykorzeniona bez niszczenia produkcji i życia ekonomicznego. Ponadto państwo stanowi zaprzeczenie wolności, tak osobistej jak i zbiorowej, i komunizm nie stanie się wolnościowy, jeśli zachowa jakiekolwiek pozostałości tej bezużytecznej i fatalnej instytucji.
+
+Społeczeństwo utrzymuje się dzięki pędowi ku wspólnocie, który jest właściwy każdemu człowiekowi, oraz zgodności i zaletom jakie przynosi ze sobą komunizm. Człowiek mający władzę nad innymi staje się twardy i nieczuły. Wielokrotnie zwiększa się w nim okrucieństwo i zło. To właśnie na ołtarzu państwa skupiły się największe zbrodnie w historii i powstały wszystkie przykłady ludzkiego barbarzyństwa.
+
+Państwo usiłuje utrzymać człowieka w stanie niewolniczym, aby zrezygnował na zawsze z tego co utracił, aby znosił niesprawiedliwość i aby tolerował wszelki despotyzm. Wykształca w ludziach służalczość i brak odwagi, który uwłacza ludzkiej godności.
+
+Nowe społeczeństwo powinno przygotować się do wolnego życia, zwiększając zmysł buntowniczości wobec ludzkiego autorytetu oraz wszelkich zalążków tyranii.
+
+Zebrania zainteresowanych osób będą zawsze niezbędne. Suma wyobrażeń, poglądów i woli zebranych na zgromadzeniu (związkowym lub lokalnym) pozwoli rozwiązać każdy stojący przed wspólnotą problem. Zawsze wyrażać będzie wolę większości, bez względu na jednomyślność lub jej brak.
+
+Nie trzeba narzucać stałych norm ani określonych wzorów. Ustawodawstwo nie jest konieczne, ponieważ zawsze można uznać co trzeba zrobić.
+
+Zwolnione od niego są dzieci, starcy i chorzy - decyduje o tym zgromadzenie. Kto nie chce pracować i współpracować z ogółem, ten nie może korzystać z owoców wspólnej pracy. Ze swej strony wspólnota zajmie się współdziałaniem gospodarczym, aby uniemożliwić …

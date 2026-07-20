@@ -19,4 +19,51 @@ files:
     hosted: false
 ---
 
-     Before the Big Change by Peter Gelderloos      Migraton, borders and climate change: a ‘no borders’ perspective      Class, Labour and Climate Change      “Overpopulation”: letting capitalism off the hook        The overpopulation argument        The feminist dimension        Malthus        Neo-Malthusianism        Earth First?      The future is not what it used to be      Forget Shorter Showers: Why personal change does not equal political change by Derrick Jensen      Six Arguments against Alternative Industrialism by Mikko Virtanen      20 Theses against green capitalism      Are We Anywhere?: The (post)politics of climate change by Ben Lear        The post-politics of climate change The apocalypse looms like a dark tempest on the horizon. Things are serious now. If we are to get through this Crisis we have to forget all old grudges and past wrongs, leave behind all dissent and rebellious activity, and gather in support of our leaders. “Come,” they smile at us in the green-shimmering full-page advertisements from a future where new technology and new markets have saved the planet, “only together can we solve this”. But wait a minute... Their proposal for how we are to be saved from ruin seems sickeningly familiar. Haven’t we heard all this before? What is it they are hiding? What is it they are trying to distract us from? As the faith in the proposed future crumbles, an increasingly clear line is becoming visible between those that believe that a solution is possible within the capitalist system, and those that don’t. While the world is shaken by crises, a growing number of people on the earth can be found on the side of those doubting the current structures of power and capital. When this zine goes to press, preparations are in full swing on both sides for the next big event in this drama: The 15 th Conference Of the Parties of the UN’s Framework Convention on Climate Change, better known as the COP15. The crowd preparing to oppose the summit is a diverse bunch. The Climate Crisis seems to have opened the possibility of uniting a broad range of struggles against capitalism: from indigenous peoples to workers unions, from the landless to the european autonomous, from climate campers to youth from the suburbs of the metropolis, from anti-industrialists to anarcho-syndicalists. Just as big is the scope of the strategies, tactics and dreams. The radical class struggle movements have just recently started to join in. In spite of the division between them and the environmental oriented movements, it´s getting more and more clear that whoever wants to have any influence on the upcoming development of the future needs to start addressing the topic. By putting together this zine, we wanted to look for the connections: What common interests can we find faced with the “Climate Crisis”? How can it be understood in the context of the Capitalist system? How will the changes to the climate and the proposals at the COP15 influence our fighting and living conditions in the future? And the inevitable question: How can the devastation be stopped? Some of these articles were written specifically for this zine, while others have been printed elsewhere. Some authors are well known, others wish to remain nameless. We hope that you find the following texts thought-provoking and inspiring. See you in the streets! Love, The COP 15 zine crew. October, 2009 Cop15zine@riseup.net It is a testament to the horror, the boundless horror of capitalism, that after decades of its triumph, of changelessness, of the end of history, of a famine of other possible futures even in the minds of children, that those of us alive today who will see this world change forever cannot count ourselves lucky. We stand at the brink, and all the petty squabbles, all political programs and narrow affinities fall into insignificance. The estimate vary as to exactly when we reach the point of no return, it could be 2015, it could be 2020, but climate scientists have reached…
+Before the Big Change by Peter Gelderloos
+
+Migraton, borders and climate change: a ‘no borders’ perspective
+
+Class, Labour and Climate Change
+
+“Overpopulation”: letting capitalism off the hook
+
+The overpopulation argument
+
+The feminist dimension
+
+Malthus
+
+Neo-Malthusianism
+
+Earth First?
+
+The future is not what it used to be
+
+Forget Shorter Showers: Why personal change does not equal political change by Derrick Jensen
+
+Six Arguments against Alternative Industrialism by Mikko Virtanen
+
+20 Theses against green capitalism
+
+Are We Anywhere?: The (post)politics of climate change by Ben Lear
+
+The post-politics of climate change
+
+The apocalypse looms like a dark tempest on the horizon. Things are serious now. If we are to get through this Crisis we have to forget all old grudges and past wrongs, leave behind all dissent and rebellious activity, and gather in support of our leaders. “Come,” they smile at us in the green-shimmering full-page advertisements from a future where new technology and new markets have saved the planet, “only together can we solve this”.
+
+But wait a minute... Their proposal for how we are to be saved from ruin seems sickeningly familiar. Haven’t we heard all this before? What is it they are hiding? What is it they are trying to distract us from?
+
+As the faith in the proposed future crumbles, an increasingly clear line is becoming visible between those that believe that a solution is possible within the capitalist system, and those that don’t. While the world is shaken by crises, a growing number of people on the earth can be found on the side of those doubting the current structures of power and capital. When this zine goes to press, preparations are in full swing on both sides for the next big event in this drama: The 15th Conference Of the Parties of the UN’s Framework Convention on Climate Change, better known as the COP15.
+
+The crowd preparing to oppose the summit is a diverse bunch. The Climate Crisis seems to have opened the possibility of uniting a broad range of struggles against capitalism: from indigenous peoples to workers unions, from the landless to the european autonomous, from climate campers to youth from the suburbs of the metropolis, from anti-industrialists to anarcho-syndicalists. Just as big is the scope of the strategies, tactics and dreams.
+
+The radical class struggle movements have just recently started to join in. In spite of the division between them and the environmental oriented movements, it´s getting more and more clear that whoever wants to have any influence on the upcoming development of the future needs to start addressing the topic.
+
+By putting together this zine, we wanted to look for the connections: What common interests can we find faced with the “Climate Crisis”? How can it be understood in the context of the Capitalist system? How will the changes to the climate and the proposals at the COP15 influence our fighting and living conditions in the future? And the inevitable question: How can the devastation be stopped?
+
+Some of these articles were written specifically for this zine, while others have been printed elsewhere. Some authors are well known, others wish to remain nameless. We hope that you find the following texts thought-provoking and inspiring. See you in the streets!
+
+Love, The COP 15 zine crew. October, 2009
+Cop15zine@riseup.net
+
+It is a testament to the horror, the boundless horror of capitalism, that after decades of its triumph, of changelessness, of the end of history, of a famine of other possible futures even in the minds of children, that those of us alive today who will see this world change forever cannot count ourselves lucky. We stand at the brink, and all the petty squabbles, all political programs and narrow affinities fall into insignificance. The estimate vary as to exactly when we reach the point of no return, it could be 2015, it could be 2020, but climate scientists have reached a consensus that since the Industrial Revolution humans (I would…

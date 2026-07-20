@@ -19,4 +19,40 @@ files:
     hosted: false
 ---
 
-   Como Sobreviver a Protestos Anti-Policiais      Se Preparando      Médico!      Passe de Imprensa      Proteções Legais      Risco Aceitável      Shane Burley Shane Burley 14 de Agosto, 2020 Por volta das 21h45 do dia 1º de agosto, os manifestantes em Portland, Oregon, ouviram um aviso familiar: “Este evento foi declarado uma assembléia ilegal”, disse a polícia em seu sistema de alto-falantes. “O não cumprimento desta ordem legal pode sujeitá-lo à prisão e ao uso da força, incluindo munições de controle de multidão.” Esta foi a 65ª noite de protestos contínuos em Portland, que começaram depois do assassinato de George Floyd pela polícia em Minneapolis.A resposta da polícia em Portland tem sido notavelmente agressiva, principalmente contra jornalistas, que são rotineiramente atacados pela polícia noite após noite. Quando os oficiais federais entraram na cidade sob as ordens de Trump, ostensivamente para proteger os prédios federais, a multidão de protesto só aumentou à medida que um nível chocante de violência policial refletia os problemas que os ativistas estavam tentando destacar. Alguns dias antes, os policiais federais haviam sido retirados, levando as pessoas a se perguntarem se isso significava que a violência contra os manifestantes diminuiria. Mas sem provocação aparente em 1º de agosto, a tropa de choque se alinhou em frente à multidão no gabinete do xerife do condado de Multnomah e atacou, espancando manifestantes e espalhando spray de pimenta. Zippy Lomax, uma jornalista independente que documentou os protestos nos últimos dois meses, tentou seguir a ordem de dispersão saindo em seu carro, mas foi impedida pela polícia. “Então eles cortaram meus pneus e quebraram minha janela. Depois de já ter parado de me mover. Eu estava claramente em conformidade”, disse ela. O vídeo confirma isso, e a polícia argumenta que ela se recusou a se dispersar e bloqueou a área. Nas duas horas seguintes, manifestantes e repórteres foram perseguidos pelas ruas, jogados no chão e empurrados por trás por não terem corrido rápido o suficiente. Lesões devido à violência policial se tornaram parte normal de um protesto que está atraindo dezenas de milhares de pessoas às ruas de Portland. Embora esta cidade da Costa Oeste tenha recebido muita atenção da mídia, protestos de solidariedade e eventos Black Lives Matter estão acontecendo em todo o país, com reações semelhantes das autoridades policiais. A abordagem de Trump à fiscalização federal tornou essas situações ainda mais voláteis. Agora, jornalistas e manifestantes estão perguntando o que podem fazer para se manter seguros enquanto se dirigem para as ruas por uma das questões políticas mais controversas de suas vidas. “A imprensa sempre tem que estar à frente da ação, [os fotógrafos] muitas vezes têm que estar literalmente entre as ‘linhas de batalha’ – e por isso temos que estar procurando por coisas vindas de ambos os lados”, diz Zach Roberts, um fotojornalista que cobre os protestos em Minneapolis, Washington, DC e Richmond, Virgínia. “É por isso que não importa qual proteção para a cabeça você obtenha, ela [ deve ] ter uma proteção que cubra bem a parte de trás da sua cabeça.” Em 12 de julho, Donavan LaBella estava protestando sem violência em frente ao Centro de Justiça de Portland quando oficiais federais dispararam uma munição em sua cabeça, quebrando seu crânio e mandando-o para o hospital com uma lesão cerebral traumática. Os vídeos chocantes de LaBella caindo no chão com sangue escorrendo de sua cabeça refletiam o padrão geral de extrema violência policial. Muitos manifestantes estão se protegendo com bicicleta ou capacetes esportivos, mas isso pode não ser suficiente. Capacetes de “colisão”, que são frequentemente usados durante escaladas, podem ser atingidos por estilhaços e golpes de objetos contundentes como cassetetes. Embora sejam relativamente baratos (geralmente menos de US $ 100), eles podem não fornecer proteção suficiente para um ataque direto de uma munição policia…
+Como Sobreviver a Protestos Anti-Policiais
+
+Se Preparando
+
+Médico!
+
+Passe de Imprensa
+
+Proteções Legais
+
+Risco Aceitável
+
+Shane Burley
+
+Shane Burley
+
+14 de Agosto, 2020
+
+Por volta das 21h45 do dia 1º de agosto, os manifestantes em Portland, Oregon, ouviram um aviso familiar: “Este evento foi declarado uma assembléia ilegal”, disse a polícia em seu sistema de alto-falantes. “O não cumprimento desta ordem legal pode sujeitá-lo à prisão e ao uso da força, incluindo munições de controle de multidão.”
+
+Esta foi a 65ª noite de protestos contínuos em Portland, que começaram depois do assassinato de George Floyd pela polícia em Minneapolis.A resposta da polícia em Portland tem sido notavelmente agressiva, principalmente contra jornalistas, que são rotineiramente atacados pela polícia noite após noite. Quando os oficiais federais entraram na cidade sob as ordens de Trump, ostensivamente para proteger os prédios federais, a multidão de protesto só aumentou à medida que um nível chocante de violência policial refletia os problemas que os ativistas estavam tentando destacar.
+
+Alguns dias antes, os policiais federais haviam sido retirados, levando as pessoas a se perguntarem se isso significava que a violência contra os manifestantes diminuiria. Mas sem provocação aparente em 1º de agosto, a tropa de choque se alinhou em frente à multidão no gabinete do xerife do condado de Multnomah e atacou, espancando manifestantes e espalhando spray de pimenta.
+
+Zippy Lomax, uma jornalista independente que documentou os protestos nos últimos dois meses, tentou seguir a ordem de dispersão saindo em seu carro, mas foi impedida pela polícia.
+
+“Então eles cortaram meus pneus e quebraram minha janela. Depois de já ter parado de me mover. Eu estava claramente em conformidade”, disse ela. O vídeo confirma isso, e a polícia argumenta que ela se recusou a se dispersar e bloqueou a área. Nas duas horas seguintes, manifestantes e repórteres foram perseguidos pelas ruas, jogados no chão e empurrados por trás por não terem corrido rápido o suficiente.
+
+Lesões devido à violência policial se tornaram parte normal de um protesto que está atraindo dezenas de milhares de pessoas às ruas de Portland. Embora esta cidade da Costa Oeste tenha recebido muita atenção da mídia, protestos de solidariedade e eventos Black Lives Matter estão acontecendo em todo o país, com reações semelhantes das autoridades policiais. A abordagem de Trump à fiscalização federal tornou essas situações ainda mais voláteis.
+
+Agora, jornalistas e manifestantes estão perguntando o que podem fazer para se manter seguros enquanto se dirigem para as ruas por uma das questões políticas mais controversas de suas vidas.
+
+“A imprensa sempre tem que estar à frente da ação, [os fotógrafos] muitas vezes têm que estar literalmente entre as ‘linhas de batalha’ – e por isso temos que estar procurando por coisas vindas de ambos os lados”, diz Zach Roberts, um fotojornalista que cobre os protestos em Minneapolis, Washington, DC e Richmond, Virgínia. “É por isso que não importa qual proteção para a cabeça você obtenha, ela [deve] ter uma proteção que cubra bem a parte de trás da sua cabeça.”
+
+Em 12 de julho, Donavan LaBella estava protestando sem violência em frente ao Centro de Justiça de Portland quando oficiais federais dispararam uma munição em sua cabeça, quebrando seu crânio e mandando-o para o hospital com uma lesão cerebral traumática. Os vídeos chocantes de LaBella caindo no chão com sangue escorrendo de sua cabeça refletiam o padrão geral de extrema violência policial.
+
+Muitos manifestantes estão se protegendo com bicicleta ou capacetes esportivos, mas isso pode não ser suficiente. Capacetes de “colisão”, que são frequentemente usados durante escaladas, podem ser atingidos por estilhaços e golpes de objetos contundentes como cassetetes. Embora sejam relativamente baratos (geralmente menos de US $ 100), eles podem não fornecer proteção suficiente para um ataque direto de uma munição policial. Em vez disso, …

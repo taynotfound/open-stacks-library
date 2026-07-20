@@ -19,4 +19,102 @@ files:
     hosted: false
 ---
 
-       Preface      Chapter 1. The Log of the Transport “Buford”      Chapter 2: On Soviet Soil      Chapter 3. In Petrograd      Chapter 4. Moscow      Chapter 5. The Guest House      Chapter 6. Tchicherin and Karakhan      Chapter 7. The Market      Chapter 8. In the Moskkommune      Chapter 9. The Club on the Tverskaya      Chapter 10. A Visit to Peter Kropotkin      Chapter 11. Bolshevik Activities      Chapter 12. Sights and Views      Chapter 13. Lenin      Chapter 14. On the Latvian Border        I        II        III        IV      Chapter 15. Back in Petrograd      Chapter 16. Rest Homes for Workers      Chapter 17. The First of May      Chapter 18. The British Labor Mission      Chapter 19. The Spirit of Fanaticism      Chapter 20. Other People      Chapter 21. En Route to the Ukraina      Chapter 22. First Days in Kharkov      Chapter 23. In Soviet Institutions      Chapter 24. Yossif the Emigrant      Chapter 25. Nestor Makhno      Chapter 26. Prison and Concentration Camp      Chapter 27. Further South      Chapter 28. Fastov the Pogromed      Chapter 29. Kiev      Chapter 30. In Various Walks      Chapter 31. The Tcheka      Chapter 32. Odessa: Life and Vision      Chapter 33. Dark People      Chapter 34. A Bolshevik Trial      Chapter 35. Returning to Petrograd      Chapter 36. In the Far North      Chapter 37. Early Days of 1921      Chapter 38. Kronstadt      Chapter 39. Last Links in the Chain Revolution breaks the social forms grown too narrow for man. It bursts the molds which constrict him the more solidified they become, and the more Life ever striving forward leaves them. In this dynamic process the Russian Revolution has gone further than any previous revolution. The abolition of the established — politically and economically, socially and ethically — the attempt to replace it with something different, is the reflex of man’s changed needs, of the awakened consciousness of the people. Back of revolution are the millions of living humans who embody its inner spirit, who feel, think, and have their being in it. To them revolution is not a mere change of externals: it implies the complete dislocation of life, the shattering of dominant traditions, the annulment of accepted standards. The habitual, measured step of existence is interrupted, accustomed criterions become inoperative, former precedents are void. Existence is forced into uncharted channels; every action demands self-reliance; every detail calls for new, independent decision. The typical, the familiar, have disappeared; dissolved is the coherence and interrelation of the parts that formerly constituted one whole. New values are to be created. This inner life of revolution, which is its sole meaning, has almost entirely been neglected by writers on the Russian Revolution. Many books have been published about that tremendous social upheaval, but seldom do they strike its true keynote. They treat of the fall and rise of institutions, of the new State and its structure, of constitutions and laws — of the exclusively external manifestations, which nearly make one forget the living millions who continue to exist, to be, under all changing conditions. Justly Taine said that in studying the French Revolution he found statistics and data, official documents and edicts least illuminative of the real character of the period. Its significant expression, its deeper sense, he discovered in the lives, thoughts, and feelings of the people, in their personal reactions as portrayed in the memoirs, journals, and letters of contemporaries. The present work is compiled from the Diary which I kept during my two years’ stay in Russia. It is the chronicle of an intense experience, of impressions and observations noted down day by day, in different parts of the country, among various walks of life. Most of the names are deleted, for the obvious reason of protecting the persons in question. So far as I know it is the only journal kept in Russia during those momentous yea…
+Preface
+
+Chapter 1. The Log of the Transport “Buford”
+
+Chapter 2: On Soviet Soil
+
+Chapter 3. In Petrograd
+
+Chapter 4. Moscow
+
+Chapter 5. The Guest House
+
+Chapter 6. Tchicherin and Karakhan
+
+Chapter 7. The Market
+
+Chapter 8. In the Moskkommune
+
+Chapter 9. The Club on the Tverskaya
+
+Chapter 10. A Visit to Peter Kropotkin
+
+Chapter 11. Bolshevik Activities
+
+Chapter 12. Sights and Views
+
+Chapter 13. Lenin
+
+Chapter 14. On the Latvian Border
+
+I
+
+II
+
+III
+
+IV
+
+Chapter 15. Back in Petrograd
+
+Chapter 16. Rest Homes for Workers
+
+Chapter 17. The First of May
+
+Chapter 18. The British Labor Mission
+
+Chapter 19. The Spirit of Fanaticism
+
+Chapter 20. Other People
+
+Chapter 21. En Route to the Ukraina
+
+Chapter 22. First Days in Kharkov
+
+Chapter 23. In Soviet Institutions
+
+Chapter 24. Yossif the Emigrant
+
+Chapter 25. Nestor Makhno
+
+Chapter 26. Prison and Concentration Camp
+
+Chapter 27. Further South
+
+Chapter 28. Fastov the Pogromed
+
+Chapter 29. Kiev
+
+Chapter 30. In Various Walks
+
+Chapter 31. The Tcheka
+
+Chapter 32. Odessa: Life and Vision
+
+Chapter 33. Dark People
+
+Chapter 34. A Bolshevik Trial
+
+Chapter 35. Returning to Petrograd
+
+Chapter 36. In the Far North
+
+Chapter 37. Early Days of 1921
+
+Chapter 38. Kronstadt
+
+Chapter 39. Last Links in the Chain
+
+Revolution breaks the social forms grown too narrow for man. It bursts the molds which constrict him the more solidified they become, and the more Life ever striving forward leaves them. In this dynamic process the Russian Revolution has gone further than any previous revolution.
+
+The abolition of the established — politically and economically, socially and ethically — the attempt to replace it with something different, is the reflex of man’s changed needs, of the awakened consciousness of the people. Back of revolution are the millions of living humans who embody its inner spirit, who feel, think, and have their being in it. To them revolution is not a mere change of externals: it implies the complete dislocation of life, the shattering of dominant traditions, the annulment of accepted standards. The habitual, measured step of existence is interrupted, accustomed criterions become inoperative, former precedents are void. Existence is forced into uncharted channels; every action demands self-reliance; every detail calls for new, independent decision. The typical, the familiar, have disappeared; dissolved is the coherence and interrelation of the parts that formerly constituted one whole. New values are to be created.
+
+This inner life of revolution, which is its sole meaning, has almost entirely been neglected by writers on the Russian Revolution. Many books have been published about that tremendous social upheaval, but seldom do they strike its true keynote. They treat of the fall and rise of institutions, of the new State and its structure, of constitutions and laws — of the exclusively external manifestations, which nearly make one forget the living millions who continue to exist, to be, under all changing conditions.
+
+Justly Taine said that in studying the French Revolution he found statistics and data, official documents and edicts least illuminative of the real character of the period. Its significant expression, its deeper sense, he discovered in the lives, thoughts, and feelings of the people, in their personal reactions as portrayed in the memoirs, journals, and letters of contemporaries.
+
+The present work is compiled from the Diary which I kept during my two years’ stay in Russia. It is the chronicle of an intense experience, of impressions and observations noted down day by day, in different parts of the country, among various walks of life. Most of the names are deleted, for the obvious reason of protecting the persons in question.
+
+So far as I know it is the only journal kept in Russia during those momentous years (1920–1922). It was a rather difficult task, as those familiar with Russian conditions will understand. But long practice in such matters — keeping memoranda even in prison — ena…

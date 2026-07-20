@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-       Abstract        Introduction        Anarchism and the Researcher: Conceptualizing Anarchist Methodology          Axiology          Ontology          Epistemology          Social Position        Anarchism and Research: Tracing The Possibility Space of Anarchist Method          Collaborative action and design research          Discourse-shaping          Iconoclasm of the oppressor within        Conclusion        Acknowledgements        References A large swath of research in mathematics education claims to serve an equity agenda. However, too often this research is conducted atheoretically, failing to disrupt the worldviews that produce injustice and oppression, for both the researcher and the reader. Responding to this commonplace divergence of intent and impact, we propose a methodological approach that anchors research and praxis in a sociopolitical foundation of anarchism. We seek cohesion of theory and practice by consciously demanding that values common to the equity agenda—cooperation, mutual aid, and freedom from hierarchy—provide explicit grounding for method and methodology. Whenever we call something mathematics education research, we either reify existing lines along which something is included or excluded from the foam of mathematics education research, or we perturb them. We can blow additional air into bubbles that exist, we can reach in with our fingers and pop them, or we can blow—and hope—that a new bubble will emerge. The beauty of it all is that we cannot be sure what will happen. We can, however, be sure that things can change. Mathematics education research has not, and does not currently, have a fixed definition. Mathematics education research does not have a fixed, and proper, object of study. And it should not. (Dubbs, 2021, p. 165) Mathematics education is not a monolith with a singular identity. Instead, mathematics education is an amorphous collection of bubbles—conversations are raised or dropped; motivations expressed, rescinded, or revised; new conversants join a conversation while others leave, or perhaps just daydream for a time… Mathematics education is froth and foam, and we may at any moment shatter or breath new life into its constituent transience (Dubbs, 2021). At the same time, mathematics education research is commonly atheoretical, a term we use here to reference the commonplace disconnect (or lack of conscious interrogation) between researcher worldview and researcher methods(Stinson, 2020; Walter & Andersen, 2013). Framed in Dubbs’ metaphor, researchers do not always know which bubbles they are growing, and which they are dissipating. The purpose of this manuscript is thus twofold: To breathe new life into a bubble still not often explicitly explored in mathematics education (Bowers & Lawler, 2020), and to do so in a way that might give readers lost in the translucence an opportunity to notice and explore aspects of their own worldview that might previously have operated below the level of consciousness. Thus, in this text we explore the methodology—the combined worldview and method—of anarchist mathematics education. In so doing, we aim to contribute to the reflective awareness of ourselves and others regarding the bubble(s) that comprise anarchic methodology, as well as offer a counterpoint from which those of different perspectives might consciously notice aspects of their own worldview and its interrelationship or conflict with their methods (Wheatley, 2005). In the end, considerations of ontology, epistemology, ethics, values, subjective and ideological grounds, and so on—that is, the researcher’s worldview—should precede not follow theoretical and methodological considerations. Explicitly and critically interrogating one’s worldview should be the starting point of any research project. (Stinson, 2020, p. 13) We also noted that students and scholars (often of European descent), on hearing us present our work, would ask how our methodology differed from theirs. In response, …
+Abstract
+
+Introduction
+
+Anarchism and the Researcher: Conceptualizing Anarchist Methodology
+
+Axiology
+
+Ontology
+
+Epistemology
+
+Social Position
+
+Anarchism and Research: Tracing The Possibility Space of Anarchist Method
+
+Collaborative action and design research
+
+Discourse-shaping
+
+Iconoclasm of the oppressor within
+
+Conclusion
+
+Acknowledgements
+
+References
+
+A large swath of research in mathematics education claims to serve an equity agenda. However, too often this research is conducted atheoretically, failing to disrupt the worldviews that produce injustice and oppression, for both the researcher and the reader. Responding to this commonplace divergence of intent and impact, we propose a methodological approach that anchors research and praxis in a sociopolitical foundation of anarchism. We seek cohesion of theory and practice by consciously demanding that values common to the equity agenda—cooperation, mutual aid, and freedom from hierarchy—provide explicit grounding for method and methodology.
+
+Whenever we call something mathematics education research, we either reify existing lines along which something is included or excluded from the foam of mathematics education research, or we perturb them. We can blow additional air into bubbles that exist, we can reach in with our fingers and pop them, or we can blow—and hope—that a new bubble will emerge. The beauty of it all is that we cannot be sure what will happen. We can, however, be sure that things can change. Mathematics education research has not, and does not currently, have a fixed definition. Mathematics education research does not have a fixed, and proper, object of study. And it should not. (Dubbs, 2021, p. 165)
+
+Mathematics education is not a monolith with a singular identity. Instead, mathematics education is an amorphous collection of bubbles—conversations are raised or dropped; motivations expressed, rescinded, or revised; new conversants join a conversation while others leave, or perhaps just daydream for a time… Mathematics education is froth and foam, and we may at any moment shatter or breath new life into its constituent transience (Dubbs, 2021). At the same time, mathematics education research is commonly atheoretical, a term we use here to reference the commonplace disconnect (or lack of conscious interrogation) between researcher worldview and researchermethods(Stinson, 2020; Walter & Andersen, 2013). Framed in Dubbs’ metaphor, researchers do not always know which bubbles they are growing, and which they are dissipating.
+
+The purpose of this manuscript is thus twofold: To breathe new life into a bubble still not often explicitly explored in mathematics education (Bowers & Lawler, 2020), and to do so in a way that might give readers lost in the translucence an opportunity to notice and explore aspects of their own worldview that might previously have operated below the level of consciousness. Thus, in this text we explore the methodology—the combined worldview and method—of anarchist mathematics education. In so doing, we aim to contribute to the reflective awareness of ourselves and others regarding the bubble(s) that comprise anarchic methodology, as well as offer a counterpoint from which those of different perspectives might consciously notice aspects of their own worldview and its interrelationship or conflict with their methods (Wheatley, 2005).
+
+In the end, considerations of ontology, epistemology, ethics, values, subjective and ideological grounds, and so on—that is, the researcher’s worldview—should precede not follow theoretical and methodological considerations. Explicitly and critically interrogating one’s worldview should be the starting point of any research project. (Stinson, 2020, p. 13)
+
+We also noted that students and scholars (often of European descent), on hearing us present our work, would ask how our methodology differed from theirs. In response, we asked them to articulate exactly which aspects of standard quantitative methodologies they …

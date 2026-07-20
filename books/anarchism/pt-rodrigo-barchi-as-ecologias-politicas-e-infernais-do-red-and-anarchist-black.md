@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-   As ecologias políticas e infernais do Red and Anarchist Black Metal    Os ruídos das ecologias    A presença das ecologias nas origens da música extrema    O Black Metal e a Cascadia: ecologias satânicas    Ecologias da vida… ecologias de morte    Bibliografia Rodrigo Barchi [1] Para citar esse artigo utilize o artigo original publicado na Revista ClimaCom: BARCHI, Rodrigo. As ecologias políticas e infernais do Red and Anarchist Black Metal. ClimaCom – Ecologias Radicais [Online], Campinas, ano 5, n. 11, abr. 2018. Disponível em: http://climacom.mudancasclimaticas.net.br/as-ecologias-politicas-e-infernais-do-red-and-anarchist-black-metal-2/ Expecting half with nothing to find Like a lighthouse, a wild nothing moved to an empty place Tended embers of life fires, envelop, something wide and moral It takes and leaves, flicker, heavy, growing, leeched (God Alone – do conjunto RABM Altar of Plagues) “This forest is my home”, she said quietly, /”I feel best when I’m among trees. Open country seems alien to me. Our chimp ancestors had the right idea. Among trees you’re safe, you can be free”. This with a mysterious smile. (Ecotopia – Ernest Callenbach) Há várias ecologias que gritam. Em seus berros, elas rompem, recusam, indisciplinam, fluem, invertem, anarquizam e infernam… São ecologias, pois apesar de seus discursos monstruosos, anormais, caóticos e insubordinados, elas lutam para se manter vivas, para dinamizar sua constante produção dos dissensos, dos múltiplos, das legiões diabólicas que desprezam as univocidades e homogeneizações dos sentidos da vida. Brigam e vociferam em suas potências e vitalidades que são constantemente assediadas e ameaçadas pelos agentes das utopias castradoras das possibilidades férteis e desviantes no pensamento. Se para a criação do pensamento é preciso perverter/inverter/reverter o ideal ascético do platonismo ocidental (DELEUZE, 2006a; 2006b) e as especificidades hierarquizantes e excludentes das profundidades disciplinares, potencializar a ecologia como criadora de novas relações vitais exige perverte-la (BARCHI, 2016). E ao extremo. A ecologia como maquiagem da destruição, auxiliar das predações desenfreadas e genocidas das cosmovisões não padronizáveis, é uma ecologia de morte e, portanto, refuta a si própria. Submetê-la aos “bons modos” das sociedades contemporâneas – negativamente autofágicas – e condicioná-la aos horrores dos micro e macrofascismos ascendentes é destituí-la de tudo aquilo que a tornou, um dia, uma rebelde revolucionária no pensamento. Como romper com a lógica das ecologias higienistas, puristas e pastorais, cujo salvacionismo repete os equívocos de escolher entre os bons e os maus, de hierarquizar saberes, de divinizar certas práticas “ecologicamente corretas”, que na verdade não fazem quase que diferença nenhuma perante o holocausto, passado, presente e porvir? Este texto busca, junto aos conjuntos de um estilo que é conhecido como Red and Anarchist Black Metal , discutir a possibilidade de se pensar em ecologias infernais. Diabólicas no sentido de perverter o pensamento, de dividir as alianças niilistas entre céu e terra, e anarquizar as ordens restritivas dos pseudo paraísos transcendentais. O texto aborda alguns indícios da presença da ecologia na música extrema, mais especificamente o a música Metal dos anos 80. Apresenta também as origens do estilo Black Metal, e sua dissidência cascadiana, para depois abordar os discursos e perspectivas ecológicas dessa vertente. O diabo se transformou em uma figura evidente da resistência infernal a partir dos anos 1980, de maneira veemente e amplamente difundida pelo globo na (anti)música e no visual das bandas de heavy metal e suas vertentes mais brutais, a partir dos anos oitenta. Apesar de bandas como Black Sabbath, Judas Priest e Led Zepellin, nos anos 1970, constantemente flertarem com a temática satânica em algumas letras, o diabo se tornou explícito e aberto com primeiro disco da banda britânica Venom, intitulado Welcome to …
+As ecologias políticas e infernais do Red and Anarchist Black Metal
+
+Os ruídos das ecologias
+
+A presença das ecologias nas origens da música extrema
+
+O Black Metal e a Cascadia: ecologias satânicas
+
+Ecologias da vida… ecologias de morte
+
+Bibliografia
+
+Rodrigo Barchi [1]
+
+Para citar esse artigo utilize o artigo original publicado na Revista ClimaCom:
+
+BARCHI, Rodrigo. As ecologias políticas e infernais do Red and Anarchist Black Metal. ClimaCom – Ecologias Radicais [Online], Campinas, ano 5, n. 11, abr. 2018. Disponível em: http://climacom.mudancasclimaticas.net.br/as-ecologias-politicas-e-infernais-do-red-and-anarchist-black-metal-2/
+
+Expecting half with nothing to find
+
+Like a lighthouse, a wild nothing moved to an empty place
+
+Tended embers of life fires, envelop, something wide and moral
+
+It takes and leaves, flicker, heavy, growing, leeched
+
+(God Alone – do conjunto RABM Altar of Plagues)
+
+“This forest is my home”, she said quietly, /”I feel best when I’m among trees.
+
+Open country seems alien to me. Our chimp ancestors had the right idea.
+
+Among trees you’re safe, you can be free”. This with a mysterious smile.
+
+(Ecotopia – Ernest Callenbach)
+
+Há várias ecologias que gritam. Em seus berros, elas rompem, recusam, indisciplinam, fluem, invertem, anarquizam e infernam… São ecologias, pois apesar de seus discursos monstruosos, anormais, caóticos e insubordinados, elas lutam para se manter vivas, para dinamizar sua constante produção dos dissensos, dos múltiplos, das legiões diabólicas que desprezam as univocidades e homogeneizações dos sentidos da vida. Brigam e vociferam em suas potências e vitalidades que são constantemente assediadas e ameaçadas pelos agentes das utopias castradoras das possibilidades férteis e desviantes no pensamento.
+
+Se para a criação do pensamento é preciso perverter/inverter/reverter o ideal ascético do platonismo ocidental (DELEUZE, 2006a; 2006b) e as especificidades hierarquizantes e excludentes das profundidades disciplinares, potencializar a ecologia como criadora de novas relações vitais exige perverte-la (BARCHI, 2016). E ao extremo. A ecologia como maquiagem da destruição, auxiliar das predações desenfreadas e genocidas das cosmovisões não padronizáveis, é uma ecologia de morte e, portanto, refuta a si própria. Submetê-la aos “bons modos” das sociedades contemporâneas – negativamente autofágicas – e condicioná-la aos horrores dos micro e macrofascismos ascendentes é destituí-la de tudo aquilo que a tornou, um dia, uma rebelde revolucionária no pensamento.
+
+Como romper com a lógica das ecologias higienistas, puristas e pastorais, cujo salvacionismo repete os equívocos de escolher entre os bons e os maus, de hierarquizar saberes, de divinizar certas práticas “ecologicamente corretas”, que na verdade não fazem quase que diferença nenhuma perante o holocausto, passado, presente e porvir?
+
+Este texto busca, junto aos conjuntos de um estilo que é conhecido como Red and Anarchist Black Metal, discutir a possibilidade de se pensar em ecologias infernais. Diabólicas no sentido de perverter o pensamento, de dividir as alianças niilistas entre céu e terra, e anarquizar as ordens restritivas dos pseudo paraísos transcendentais. O texto aborda alguns indícios da presença da ecologia na música extrema, mais especificamente o a música Metal dos anos 80. Apresenta também as origens do estilo Black Metal, e sua dissidência cascadiana, para depois abordar os discursos e perspectivas ecológicas dessa vertente.
+
+O diabo se transformou em uma figura evidente da resistência infernal a partir dos anos 1980, de maneira veemente e amplamente difundida pelo globo na (anti)música e no visual das bandas de heavy metal e suas vertentes mais brutais, a partir dos anos oitenta. Apesar de bandas como Black Sabbath, Judas Priest e Led Zepellin, nos anos 1970, constantemente flertarem com a temática satânica em algumas letras, o diabo se tornou explícito e aberto com primeiro disco da banda britânica Venom, intitulado Welcome …

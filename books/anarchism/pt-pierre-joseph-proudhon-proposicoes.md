@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-1. Existe entre os homens uma tendência ou atração que os impele a agrupar-se e a agir em prol dos seus maiores interesses e do alcance mais completo da sua liberdade, coletiva e em massa. 2. Dessa tendência no grupo resulta, para a massa humana, um novo e incalculável poder, que pode ser considerado como a força própria e única da Sociedade, vulgarmente conhecida como Soberania do Povo. 3. Essa força se manifesta em todos os trabalhos que exigem uma energia desproporcional aos meios do indivíduo; nas grandes oficinas e fábricas, nos exércitos, mas especialmente na organização política do Governo. 4. A importância dessa força é tal que podemos afirmar com ousadia, sem medo de sermos refutades, como o facto mais distinto da história das nações, é que não há civilização para os povos, nem progresso, nem moralidade para os indivíduos, nenhuma liberdade ou bem-estar, além do exercício legítimo e da aplicação racional dessa força. 5. A realeza é a simbolização da força social: as utopias socialistas são sua mitologia. 6. A força social é propriedade de todos: tende a dividi-la igualmente entre todos. 7. As garantias de liberdade e do bem-estar, a estabilidade dos Estados, a ordem das nações dependem do número de Governantes, dos que partilham a força social. 8. A ordem social será perfeita, o equilíbrio incontestável e a estabilidade absoluta se todos aqueles que contribuem para a formação da força colectiva forem, ao mesmo tempo e na proporção das suas faculdades, participantes da força social, partes constituintes dos soberanos. . 9. Ora, a prática governamental está longe de ter atingido esse grau de perfeição: nunca vimos um exemplo em que o número de governadores fosse apenas metade mais um dos indivíduos que contribuem para a força colectiva: essa proposição chegou a parecer absurda para todos os publicitários. 10. A força social tem sido constantemente usurpada do lucro de um pequeno número contra a maioria, entregue aos caprichos de um partido e, mais frequentemente ainda, de um indivíduo. 11. Essa alienação do poder coletivo constitui, ipso facto, o organismo político denominado monárquico; dá origem a dinastias, aristocracias, nobrezas, patriarcados, burguesias e, por outro lado, servos, escravos, hilotas, párias e proletários. 12. A democracia é o protesto do povo oprimido contra a alienação da força social. A impotência desse protesto, provocada pelo desconhecimento dos factos, pela ideologia política e pela verborragia. A impotência da democracia vem do fato de que ela sempre quis fazer com que o organismo governamental, como a tirania o criou, servisse à emancipação do povo, mas não conseguiu criar a si mesma uma propriedade nele. A verdadeira causa da alienação da força social é a pobreza, original, [ ] orgânica ou fortuita, da maioria do povo. 14. Na verdade, se estudarmos a história, veremos que em geral, quando deduzidas todas as diferenças, o gozo dos benefícios criados pela força social é, para cada indivíduo, em proporção direta à sua fortuna. 15. Como resultado, a pobreza, causa primeira dessa alienação, é agravada e por ela, e que aqui os dois termos Alienação da força social e Pobreza são reciprocamente causa e efeito um do outro. 16. Analogia e correlação entre Propriedade e Governo. Para que o exercício e o gozo da força colectiva sejam irrepreensíveis, o poder público para o qual todos contribuem deve ser possuído por todos, como a alma, a indústria, o comércio e o conhecimento. 17. Assim o problema da Emancipação do povo é duplo: a. Criar nas massas deserdadas um património real, eficaz, útil, susceptível de apropriação e, no entanto, inalienável. b. Dar ao povo, a cada cidadão, a sua soberania efectiva, completa, inalienável, susceptível de distribuição e ao mesmo tempo protegida de toda usurpação. 17. Novamente – Para fazer isso, para estudar o ascetismo, organismo absolutista, e em vez de querer empregá-lo ao serviço do povo, desorganizá-lo e criar um que seja o contrapeso do primeiro. 18. A Soberania…
+1. Existe entre os homens uma tendência ou atração que os impele a agrupar-se e a agir em prol dos seus maiores interesses e do alcance mais completo da sua liberdade, coletiva e em massa.
+
+2. Dessa tendência no grupo resulta, para a massa humana, um novo e incalculável poder, que pode ser considerado como a força própria e única da Sociedade, vulgarmente conhecida como Soberania do Povo.
+
+3. Essa força se manifesta em todos os trabalhos que exigem uma energia desproporcional aos meios do indivíduo; nas grandes oficinas e fábricas, nos exércitos, mas especialmente na organização política do Governo.
+
+4. A importância dessa força é tal que podemos afirmar com ousadia, sem medo de sermos refutades, como o facto mais distinto da história das nações, é que não há civilização para os povos, nem progresso, nem moralidade para os indivíduos, nenhuma liberdade ou bem-estar, além do exercício legítimo e da aplicação racional dessa força.
+
+5. A realeza é a simbolização da força social: as utopias socialistas são sua mitologia.
+
+6. A força social é propriedade de todos: tende a dividi-la igualmente entre todos.
+
+7. As garantias de liberdade e do bem-estar, a estabilidade dos Estados, a ordem das nações dependem do número de Governantes, dos que partilham a força social.
+
+8. A ordem social será perfeita, o equilíbrio incontestável e a estabilidade absoluta se todos aqueles que contribuem para a formação da força colectiva forem, ao mesmo tempo e na proporção das suas faculdades, participantes da força social, partes constituintes dos soberanos. .
+
+9. Ora, a prática governamental está longe de ter atingido esse grau de perfeição: nunca vimos um exemplo em que o número de governadores fosse apenas metade mais um dos indivíduos que contribuem para a força colectiva: essa proposição chegou a parecer absurda para todos os publicitários.
+
+10. A força social tem sido constantemente usurpada do lucro de um pequeno número contra a maioria, entregue aos caprichos de um partido e, mais frequentemente ainda, de um indivíduo.
+
+11. Essa alienação do poder coletivo constitui, ipso facto, o organismo político denominado monárquico; dá origem a dinastias, aristocracias, nobrezas, patriarcados, burguesias e, por outro lado, servos, escravos, hilotas, párias e proletários.
+
+12. A democracia é o protesto do povo oprimido contra a alienação da força social. A impotência desse protesto, provocada pelo desconhecimento dos factos, pela ideologia política e pela verborragia.
+
+A impotência da democracia vem do fato de que ela sempre quis fazer com que o organismo governamental, como a tirania o criou, servisse à emancipação do povo, mas não conseguiu criar a si mesma uma propriedade nele.
+
+A verdadeira causa da alienação da força social é a pobreza, original, [ ] orgânica ou fortuita, da maioria do povo.
+
+14. Na verdade, se estudarmos a história, veremos que em geral, quando deduzidas todas as diferenças, o gozo dos benefícios criados pela força social é, para cada indivíduo, em proporção direta à sua fortuna.
+
+15. Como resultado, a pobreza, causa primeira dessa alienação, é agravada e por ela, e que aqui os dois termos Alienação da força social e Pobreza são reciprocamente causa e efeito um do outro.
+
+16. Analogia e correlação entre Propriedade e Governo. Para que o exercício e o gozo da força colectiva sejam irrepreensíveis, o poder público para o qual todos contribuem deve ser possuído por todos, como a alma, a indústria, o comércio e o conhecimento.
+
+17. Assim o problema da Emancipação do povo é duplo:
+
+a. Criar nas massas deserdadas um património real, eficaz, útil, susceptível de apropriação e, no entanto, inalienável.
+
+b. Dar ao povo, a cada cidadão, a sua soberania efectiva, completa, inalienável, susceptível de distribuição e ao mesmo tempo protegida de toda usurpação.
+
+17. Novamente – Para fazer isso, para estudar o ascetismo, organismo absolutista, e em vez de querer empregá-lo ao serviço do povo, desorganizá-lo e criar um que seja o contrapeso do prime…

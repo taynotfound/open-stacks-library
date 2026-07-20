@@ -19,4 +19,45 @@ files:
     hosted: false
 ---
 
-       1. Wstęp − niezbędne definicje        2. Ziny w Polsce        3. Zarys historii zinów na świecie        4. Stan wiedzy o zinach        5. Metodologia badawcza        6.1 Anarchizm        6.2. Punk        6.3. Ekologia, prawa zwierząt, wegetarianizm        7. Zakończenie        Literatura Niniejszy artykuł jest wstępem do badań nad onimią „trzeciego obiegu” (1978–1989) i „obiegu alternatywnego” (od 1990 r.), a konkretnie tytułów efemerycznych pism: zinów (z ang.maga/zine), fanzinów (z ang. fan[atic maga]zine) i artzinów (z ang. art[istic maga]zine). Za Wojciechem Kajtochem (2001: 4) należy stwierdzić, że zin jest: dziełem „jednego człowieka [1] lub grupki przyjaciół [2] ”, niepozostających w stosunku pracy; integralny w treści, grafice, metodzie łamania i języku; kontestujący zastaną rzeczywistość z punktu widzenia mniejszości; niekomercyjny – dystrybucja skierowana jest do konkretnych osób (ziny można dostać na koncertach lub wysyłkowo, rzadko w sklepach [3] ), wydawany na papierze, a nieistniejący w internecie jako aktualizowana strona www. Redaktorzy, w opinii środowiska, nie muszą tracić na wydawaniu zinów, ale nie powinni się też na nich wzbogacać. Podział zinów na trzy grupy zastosował – przy okazji tworzenia katologu zinów – Włodzimierz Chorązki (1996: 23–24): zin – pisma zawierające opiniotwórcze teksty publicystyczno-informacyjne, omawiające wybrane, interesujące wąską grupę problemy społeczne i polityczne, m.in. anarchizm, neonazizm, antynazizm, ekologia, wegetarianizm, obrona praw człowieka i zwierząt, feminizm. Język pism, mimo swej potoczności, jest przejrzysty, a autorzy unikają wulgaryzmów; fanzin – pisma tego typu skupiają się przede wszystkim na tekstach informacyjno-publicystycznych (wywiady, recenzje płyt i zinów, relacje z koncertów) poświęconych muzyce, np. hardcore/punk, reggae, ska, metal i ich odmianach stylistycznych. Dominuje slang młodzieżowy, pojawiają się wulgaryzmy, profesjolekty. Do fanzinów można zaliczyć pisma pseudokibiców piłkarskich (tzw. kiboli); artzin – pisma poświęcone poezji, literaturze i sztukom plastycznym (malarstwo, rysunek, komiks, fotografia), a także kulturze alternatywnej (w tym twórczości niektórych muzyków rockowych). Ich język jest pełen neologizmów, wulgaryzmów, tekstów pisanych programowo np. jako wulgarne, nonsensowne i „nieinteresujące”, tzw. banalizm (Fleischer 2002: 19). Między wymienionymi trzema typami zinów oscylują pisma fanów literatury science-fiction i fantasy, które z uwagi na swoją specyfikę zasługują na oddzielne opracowanie i nie będą przedmiotem moich rozważań. Terminy: „zin”, „fanzin” i „artzin”, ustalone przez ich twórców i czytelników, nie zaś badaczy, są używane wymiennie, tzn. o zinie, fanzinie i artzinie można powiedzieć „zin”, traktując to określenie jako nazwę ogólną. Również w tym artykule będę stosował te określenia zamiennie, używając spolszczonej pisowni, tj. „zin”, a nie „zine”, gdyż tak przyjęto w omawianych pismach i literaturze. Warto jednak pamiętać, że o piśmie neonazistowskim nikt nie powie „artzin”, chyba że w celu wywołania efektu komicznego. Na stronie obok szata graficzna polskiego artizna z lat 90. Dwa główne okresy funkcjonowania zinów w Polsce to: a) lata 1978–1989, tzw. trzeci obieg, określenie powstało, aby pisma niezależne, subkulturowe i artystyczne (oraz kasety muzyczne, graffiti i mail art [4] ) można było odróżnić od podlegającego cenzurze „pierwszego obiegu” (np. „Polityka”, „Trybuna Ludu” itd.) oraz prasowych i książkowych publikacji działającego od 1976 r. tzw. drugiego obiegu (np. „Robotnik”, „Tygodnik Mazowsze”) (Pęczak 1992: 96), czyli samizdatów, bibuły i wydawnictw bezdebitowych kojarzonych m.in. z Komitetem Obrony Robotników i „Solidarnością” (Pisarek 2006: 37–38); b) od 11 kwietnia 1990 r. tzw. obieg alternatywny – po zniesieniu cenzury znika „drugi obieg”, a więc określenie „trzeci obieg” traci znaczenie i rację bytu. Dlatego zaczęto nazywać go „alternatywnym” lub po prostu „nieoficjalnym”. Lata 1990–1995 by…
+1. Wstęp − niezbędne definicje
+
+2. Ziny w Polsce
+
+3. Zarys historii zinów na świecie
+
+4. Stan wiedzy o zinach
+
+5. Metodologia badawcza
+
+6.1 Anarchizm
+
+6.2. Punk
+
+6.3. Ekologia, prawa zwierząt, wegetarianizm
+
+7. Zakończenie
+
+Literatura
+
+Niniejszy artykuł jest wstępem do badań nad onimią „trzeciego obiegu” (1978–1989) i „obiegu alternatywnego” (od 1990 r.), a konkretnie tytułów efemerycznych pism: zinów (z ang.maga/zine), fanzinów (z ang. fan[atic maga]zine) i artzinów (z ang. art[istic maga]zine).
+
+Za Wojciechem Kajtochem (2001: 4) należy stwierdzić, że zin jest: dziełem „jednego człowieka[1] lub grupki przyjaciół[2]”, niepozostających w stosunku pracy; integralny w treści, grafice, metodzie łamania i języku; kontestujący zastaną rzeczywistość z punktu widzenia mniejszości; niekomercyjny – dystrybucja skierowana jest do konkretnych osób (ziny można dostać na koncertach lub wysyłkowo, rzadko w sklepach[3]), wydawany na papierze, a nieistniejący w internecie jako aktualizowana strona www. Redaktorzy, w opinii środowiska, nie muszą tracić na wydawaniu zinów, ale nie powinni się też na nich wzbogacać.
+
+Podział zinów na trzy grupy zastosował – przy okazji tworzenia katologu zinów – Włodzimierz Chorązki (1996: 23–24):
+
+zin – pisma zawierające opiniotwórcze teksty publicystyczno-informacyjne, omawiające wybrane, interesujące wąską grupę problemy społeczne i polityczne, m.in. anarchizm, neonazizm, antynazizm, ekologia, wegetarianizm, obrona praw człowieka i zwierząt, feminizm. Język pism, mimo swej potoczności, jest przejrzysty, a autorzy unikają wulgaryzmów;
+
+fanzin – pisma tego typu skupiają się przede wszystkim na tekstach informacyjno-publicystycznych (wywiady, recenzje płyt i zinów, relacje z koncertów) poświęconych muzyce, np. hardcore/punk, reggae, ska, metal i ich odmianach stylistycznych. Dominuje slang młodzieżowy, pojawiają się wulgaryzmy, profesjolekty. Do fanzinów można zaliczyć pisma pseudokibiców piłkarskich (tzw. kiboli);
+
+artzin – pisma poświęcone poezji, literaturze i sztukom plastycznym (malarstwo, rysunek, komiks, fotografia), a także kulturze alternatywnej (w tym twórczości niektórych muzyków rockowych). Ich język jest pełen neologizmów, wulgaryzmów, tekstów pisanych programowo np. jako wulgarne, nonsensowne i „nieinteresujące”, tzw. banalizm (Fleischer 2002: 19).
+
+Między wymienionymi trzema typami zinów oscylują pisma fanów literatury science-fiction i fantasy, które z uwagi na swoją specyfikę zasługują na oddzielne opracowanie i nie będą przedmiotem moich rozważań.
+
+Terminy: „zin”, „fanzin” i „artzin”, ustalone przez ich twórców i czytelników, nie zaś badaczy, są używane wymiennie, tzn. o zinie, fanzinie i artzinie można powiedzieć „zin”, traktując to określenie jako nazwę ogólną. Również w tym artykule będę stosował te określenia zamiennie, używając spolszczonej pisowni, tj. „zin”, a nie „zine”, gdyż tak przyjęto w omawianych pismach
+i literaturze. Warto jednak pamiętać, że o piśmie neonazistowskim nikt nie powie „artzin”, chyba że w celu wywołania efektu komicznego. Na stronie obok szata graficzna polskiego artizna z lat 90.
+
+Dwa główne okresy funkcjonowania zinów w Polsce to:
+
+a) lata 1978–1989, tzw. trzeci obieg, określenie powstało, aby pisma niezależne, subkulturowe i artystyczne (oraz kasety muzyczne, graffiti i mail art[4]) można było odróżnić od podlegającego cenzurze „pierwszego obiegu” (np. „Polityka”, „Trybuna Ludu” itd.) oraz prasowych i książkowych publikacji działającego od 1976 r. tzw. drugiego obiegu (np. „Robotnik”, „Tygodnik Mazowsze”) (Pęczak 1992: 96), czyli samizdatów, bibuły i wydawnictw bezdebitowych kojarzonych m.in. z Komitetem Obrony Robotników i „Solidarnością” (Pisarek 2006: 37–38);
+
+b) od 11 kwietnia 1990 r. tzw. obieg alternatywny – po zniesieniu cenzury znika „drugi obieg”, a więc określenie „trzeci obieg” traci znaczenie i rację bytu. Dlatego zaczęto nazywać go „alternatywnym” lub po prostu „nieoficjalnym”. Lata 1990–1995 były najlepszym czasem rozwoju zinów. Powstało wówczas pona…

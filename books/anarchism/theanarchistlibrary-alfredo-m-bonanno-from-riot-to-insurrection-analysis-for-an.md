@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Introduction      For an analysis of a period of change. From post-industrial illusions to post-revolutionary ones        Changes in society        Islands of lost men        Two reservoirs of the revolution        State precautions        The end of irrational competition        Consciousness and ghettoisation        Generalised impoverishment        Two phases        The sunset of the worker’s leading role        The sunset of some of the anarchists’ illusions        Speed and multiplicity        End of reformism, end of the party        The dumb excluded        From irrational riot to conscious insurrection      Spoken contribution to anarchist conference held in Milan on October 13 1985, on the theme “Anarchism and insurrectional project” There can be little doubt left anywhere on the planet that a fundamental change is taking place in the organisation of production. This change is most obvious and most felt in the centres of advanced capitalism, but the logic of information technology and decentralised production is now reaching what were once remote peripheral areas, drawing them into an artificial communitarianism whose only real common element is exploitation. In the “western world” the traditional worker, cornerstone of the authoritarian revolutionary thesis and still a principle element in many anarchist ones, is being tossed out of the grey graveyards of docks, factories and mines, into the coloured graveyards of home-videos, brightly lit job-centres, community centres, multi-ethnic creches, etc., in the muraled ghettos. As unemployment is coming to be accepted as a perspective of non-employment, capital continues to refine its instruments and direct investment to areas more befitting to its perennial need for expansion. Production of consumer goods is now realised by an intercontinental team of robots, small self-exploiting industries, and domestic labour, in many cases that of children. The trade unions are at an ebb, and the parties of the left are creeping further to the right as areas for wage claims and social reform are disappearing from the electoral map. What is emerging instead are wide areas of progressive “democratic dissent” in political, social and religious terms: pacifism, ecologism, vegetarianism, mysticism, etc. This “dissenting consensus” sees its most extreme expression in the proposals of “delegitimisation” and “deregulation” by a privileged intellectual strata that reasons exclusively in terms of its own rights. An ideal society, it might seem, from capital’s point of view, with social peace as one of its prime objectives today; or so it would be, this “self-managed” capitalist utopia, were it not for the threat coming from outside the landscaped garden. From the ghetto areas, no longer confined to the Brixton, Toxteth model, but which take many forms: the mining village of the north, the gigantic, gloomy labyrinths of council estates in urban complexes, many of them already no-go areas to police and other forces of repression, and other ever widening areas which until recently housed secure well-paid skilled and white collar workers, are on their way to becoming new ghettos. The ghettos of the future, however, will not necessarily be geographically circumscribed, as the hotbeds of unrest are farmed out to bleak and manageable dimensions, but will be culturally defined, through their lack of means of communication with the rest of capitalist society. The presence of these ever widening ghettos and the message that is crying out from them is the main flaw in the new capitalist perspective. There are no mediators. There is no space for the reformist politicians of the past, just as there is none for the essentially reformist revolutionaries of the old workerist structures, real or imaginary. The cry is a violent one that asks for nothing. The mini riots or explosions that are now common occurrences, especially in this country, do not have rational demands to make. They are not the means to…
+Introduction
+
+For an analysis of a period of change. From post-industrial illusions to post-revolutionary ones
+
+Changes in society
+
+Islands of lost men
+
+Two reservoirs of the revolution
+
+State precautions
+
+The end of irrational competition
+
+Consciousness and ghettoisation
+
+Generalised impoverishment
+
+Two phases
+
+The sunset of the worker’s leading role
+
+The sunset of some of the anarchists’ illusions
+
+Speed and multiplicity
+
+End of reformism, end of the party
+
+The dumb excluded
+
+From irrational riot to conscious insurrection
+
+Spoken contribution to anarchist conference held in Milan on October 13 1985, on the theme “Anarchism and insurrectional project”
+
+There can be little doubt left anywhere on the planet that a fundamental change is taking place in the organisation of production. This change is most obvious and most felt in the centres of advanced capitalism, but the logic of information technology and decentralised production is now reaching what were once remote peripheral areas, drawing them into an artificial communitarianism whose only real common element is exploitation.
+
+In the “western world” the traditional worker, cornerstone of the authoritarian revolutionary thesis and still a principle element in many anarchist ones, is being tossed out of the grey graveyards of docks, factories and mines, into the coloured graveyards of home-videos, brightly lit job-centres, community centres, multi-ethnic creches, etc., in the muraled ghettos.
+
+As unemployment is coming to be accepted as a perspective of non-employment, capital continues to refine its instruments and direct investment to areas more befitting to its perennial need for expansion. Production of consumer goods is now realised by an intercontinental team of robots, small self-exploiting industries, and domestic labour, in many cases that of children.
+
+The trade unions are at an ebb, and the parties of the left are creeping further to the right as areas for wage claims and social reform are disappearing from the electoral map. What is emerging instead are wide areas of progressive “democratic dissent” in political, social and religious terms: pacifism, ecologism, vegetarianism, mysticism, etc. This “dissenting consensus” sees its most extreme expression in the proposals of “delegitimisation” and “deregulation” by a privileged intellectual strata that reasons exclusively in terms of its own rights.
+
+An ideal society, it might seem, from capital’s point of view, with social peace as one of its prime objectives today; or so it would be, this “self-managed” capitalist utopia, were it not for the threat coming from outside the landscaped garden. From the ghetto areas, no longer confined to the Brixton, Toxteth model, but which take many forms: the mining village of the north, the gigantic, gloomy labyrinths of council estates in urban complexes, many of them already no-go areas to police and other forces of repression, and other ever widening areas which until recently housed secure well-paid skilled and white collar workers, are on their way to becoming new ghettos. The ghettos of the future, however, will not necessarily be geographically circumscribed, as the hotbeds of unrest are farmed out to bleak and manageable dimensions, but will be culturally defined, through their lack of means of communication with the rest of capitalist society.
+
+The presence of these ever widening ghettos and the message that is crying out from them is the main flaw in the new capitalist perspective. There are no mediators. There is no space for the reformist politicians of the past, just as there is none for the essentially reformist revolutionaries of the old workerist structures, real or imaginary. The cry is a violent one that asks for nothing. The mini riots or explosions that are now common occurrences, especially in this country, do not have rational demands to make. They are not the means to an end like the bread riots of the past. They have become something in themselves, an irrati…

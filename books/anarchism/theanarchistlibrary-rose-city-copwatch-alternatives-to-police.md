@@ -19,4 +19,64 @@ files:
     hosted: false
 ---
 
-     Acknowledgements      Introduction      What do we want?      Alternatives to the Police        Call a friend, not the cops!        Rape Crisis Centers        Sista’s Liberated Ground (SLG)        Safe Outside the System: The SOS Collective        Sex Offenders Anonymous (SOANON)        Citizens Local Alliance for a Safer Philadelphia (CLASP)        Sanctuary Cities        Restorative Justice Projects        The Community Conferencing Center (CCC)        Community Assistance Project (CAP)        Restorative Justice in Schools        CARA: Communities Against Rape and Abuse        Gang Truces        The Portland Bad Date Line        International Examples          Community Restorative Justice in Northern Ireland          Street Committees in South Africa      Annotated Bibliography Rose City Copwatch would like to give thanks to folks from all walks of life who have participated in alternatives to police projects. This project is the beginning of an ongoing dialogue about living in a world without police. Thanks to Missy Rohs and Emily-Jane Dawson for helping to edit this booklet. Thanks to you for reading. Whether we call them because of a dispute between neighbors or a robbery, a shooting or sexual violence, the police rarely meet our needs. They don’t help us heal. And they don’t prevent future harm. Rather than serve as advocates for true justice, they use their incredible power to reinforce the oppressive status quo. They threaten us with violence and incarceration and target the most oppressed and vulnerable people in our society. This is the current state of policing, and it will be the future unless we work to change it. For Rose City Copwatch, our long-term vision is a world without police, a world in which communities function and thrive without the intervention of the heavy and often deadly hand of the State. But it can be difficult to imagine a cop-free world. Who would respond to emergencies? What would we do about crime? The existing police, prison and court systems have presented themselves to the public as the only possible answers. As police abolitionists, we need to find other solutions. If we can create and support liberatory alternatives to the police, we can meet the community’s basic needs for dealing with harm, disrupt the idea that the work of the police is legitimate, and help people imagine a world without police. Since its inception in 2003, Rose City Copwatch has promoted discussion about alternatives to the police. In 2007, we decided to take a step back and learn about alternatives-to-cops projects in action, both historical and ongoing. We began by looking in books, magazines and on-line for descriptions of these alternatives and how they work. It wasn’t our aim to find or create a perfect model. Instead, we looked for projects that would help us in our thinking about the strengths and challenges of different approaches. We prioritized groups working towards some sort of collective liberation and de-emphasized professionally-based groups such as social service agencies. We did not consider projects administered by the police, the prison system, or the courts; but we did look at some groups that might function as auxiliaries to the police. As an organization working in the United States we chose to focus on other work done in the U.S, but we did include a couple examples from other countries that indicate the importance of such projects in broader liberation struggles. Over the course of six months, we read articles and met to discuss them together. We took notes on what we found inspiring and documented our questions and concerns about the different projects. We learned a lot and decided to make this booklet to share our research with other people and hopefully hear about their ideas and experiences as well. The booklet can be read from beginning to end, or it can serve as a reference to be skimmed in search of what most interests you. We begin with a brief discussion about useful criteria f…
+Acknowledgements
+
+Introduction
+
+What do we want?
+
+Alternatives to the Police
+
+Call a friend, not the cops!
+
+Rape Crisis Centers
+
+Sista’s Liberated Ground (SLG)
+
+Safe Outside the System: The SOS Collective
+
+Sex Offenders Anonymous (SOANON)
+
+Citizens Local Alliance for a Safer Philadelphia (CLASP)
+
+Sanctuary Cities
+
+Restorative Justice Projects
+
+The Community Conferencing Center (CCC)
+
+Community Assistance Project (CAP)
+
+Restorative Justice in Schools
+
+CARA: Communities Against Rape and Abuse
+
+Gang Truces
+
+The Portland Bad Date Line
+
+International Examples
+
+Community Restorative Justice in Northern Ireland
+
+Street Committees in South Africa
+
+Annotated Bibliography
+
+Rose City Copwatch would like to give thanks to folks from all walks of life who have participated in alternatives to police projects. This project is the beginning of an ongoing dialogue about living in a world without police.
+
+Thanks to Missy Rohs and Emily-Jane Dawson for helping to edit this booklet.
+
+Thanks to you for reading.
+
+Whether we call them because of a dispute between neighbors or a robbery, a shooting or sexual violence, the police rarely meet our needs. They don’t help us heal. And they don’t prevent future harm. Rather than serve as advocates for true justice, they use their incredible power to reinforce the oppressive status quo. They threaten us with violence and incarceration and target the most oppressed and vulnerable people in our society. This is the current state of policing, and it will be the future unless we work to change it.
+
+For Rose City Copwatch, our long-term vision is a world without police, a world in which communities function and thrive without the intervention of the heavy and often deadly hand of the State. But it can be difficult to imagine a cop-free world. Who would respond to emergencies? What would we do about crime? The existing police, prison and court systems have presented themselves to the public as the only possible answers. As police abolitionists, we need to find other solutions. If we can create and support liberatory alternatives to the police, we can meet the community’s basic needs for dealing with harm, disrupt the idea that the work of the police is legitimate, and help people imagine a world without police.
+
+Since its inception in 2003, Rose City Copwatch has promoted discussion about alternatives to the police. In 2007, we decided to take a step back and learn about alternatives-to-cops projects in action, both historical and ongoing. We began by looking in books, magazines and on-line for descriptions of these alternatives and how they work.
+
+It wasn’t our aim to find or create a perfect model. Instead, we looked for projects that would help us in our thinking about the strengths and challenges of different approaches. We prioritized groups working towards some sort of collective liberation and de-emphasized professionally-based groups such as social service agencies. We did not consider projects administered by the police, the prison system, or the courts; but we did look at some groups that might function as auxiliaries to the police. As an organization working in the United States we chose to focus on other work done in the U.S, but we did include a couple examples from other countries that indicate the importance of such projects in broader liberation struggles.
+
+Over the course of six months, we read articles and met to discuss them together. We took notes on what we found inspiring and documented our questions and concerns about the different projects. We learned a lot and decided to make this booklet to share our research with other people and hopefully hear about their ideas and experiences as well.
+
+The booklet can be read from beginning to end, or it can serve as a reference to be skimmed in search of what most interests you. We begin with a brief discussion about useful criteria for evaluating alternatives to the police. Then we get into the bulk of the booklet: summaries of about fifteen differe…

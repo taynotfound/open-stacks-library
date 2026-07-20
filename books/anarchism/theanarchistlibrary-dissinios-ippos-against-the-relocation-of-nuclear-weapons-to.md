@@ -19,4 +19,128 @@ files:
     hosted: false
 ---
 
-The generalized crisis of the world of the State and the Bosses leads with mathematical accuracy to one direction, unless a wide and international front of struggle and resistance is created. To war societies, to the generalization and intensification of geopolitical antagonisms and war conflicts till the verge of a great war and the establishment of the state of emergency as the iron fence of control and repression on every aspect of social activity. War and Fascism, this is the system’s ‘answer’ to its generalized and profound crisis, to its own controversies, caused by the incurable conflict imposed by its basic principle, the exploitation and repression on one human being by another. Abstracts from the declaration of the 2 nd Congress of the Anarchist Political Organization, 2016 The Greek Prime Minister’s recent visit to the US sealed in the most characteristic way the renewed Greece-US defense agreement signed on August 29, 2017. Besides from the Greek government’s commitment on improving the F-16 airplanes that cost 2 billion euros, the upgrading of the NATO’s naval base in Souda and its role in the wider region, as well as the transportation of “special weapons” (in war terminology), basically nuclear warheads, in the Araxos airbase was also verified. The last few months, the preparations for the base’s upgrading have already started, through refurbishing the iron fencing and repairing its interior. Also, recently, a classified document- a letter sent by the NATO congress in Brussels to the Greek Ministry of National Defense, which explicitly defined the preparations of Araxos airbase to receive nuclear weapons, leaked, while aerial photos, which have been published in the media of the base, also confirm the preparations. For almost fifty years, the Araxos airbase has been used as a temporary storage of US’s nuclear weapons, while the wider region of Western Greece (the military airport bases of Araxos, Andravida and Aktion, and the ports of Patra and Igoumenitsa) has been functioning as the operating base for the American and NATO military forces in their war expeditions in the Balkans and the Middle East. After long-term struggles of the anti-war movement, the nuclear weapons were removed from Araxos through a secret operation organized by NATO in 2001, and were initially transferred to Italy and then to an unknown location. Today, the relocation of B61 nuclear bombs from Incirlik in Turkey to Araxos, is intensively discussed. After all, the base has always been standing ready to receive aircrafts suitable to load these bombs, according to NATO, while, from time to time, there have been trial operation exercises of its underground nuclear storage facilities. Moreover, the discussion that took place between Trump and Tsipras during their meeting also included the extension of the agreement on the use of Souda naval base, as well as the possibility of establishing a new military base in southern Crete. The official agenda of this meeting (similar to the one of Obama’s visit a year ago in Athens) outlines its real implications for the field of authoritarian administration, imposition and antagonism: geopolitical balance of power, the refugees’ issue, the economy, the energy resources. The deterioration of the US-Turkish relations, after the recent shift of the Turkish government in a series of sectors towards Russia and Iran, has led to the reinforcement of Greece’s role in the wider region. This becomes quite evident from the planned relocation of war equipment from the Turkish base of Incirlik to Souda in Crete, but also from Greece’s active role in the regional developments and the promotion of collaborations with a series of neighboring countries. The trilateral (Greece-Cyprus- Israel, Greece-Cyprus-Egypt) and quadrilateral summits (Greece- Serbia-Bulgaria-Romania), as well as, the common military exercises in the Cypriot EEZ are a clear proof of it. It is an unquestionable fact that at a global level the political …
+The generalized crisis of the world of the State and the
+Bosses leads with mathematical accuracy to one direction,
+unless a wide and international front of struggle and
+resistance is created. To war societies, to the generalization
+and intensification of geopolitical antagonisms and war
+conflicts till the verge of a great war and the establishment
+of the state of emergency as the iron fence of control and
+repression on every aspect of social activity.
+
+War and Fascism, this is the system’s ‘answer’ to its
+generalized and profound crisis, to its own controversies,
+caused by the incurable conflict imposed by its basic
+principle, the exploitation and repression on one human
+being by another.
+
+Abstracts from the declaration of the 2nd Congress of the Anarchist Political Organization, 2016
+
+The Greek Prime
+Minister’s recent visit to the US
+sealed in the most characteristic
+way the renewed Greece-US
+defense agreement signed on
+August 29, 2017. Besides from the
+Greek government’s commitment
+on improving the F-16 airplanes
+that cost 2 billion euros, the
+upgrading of the NATO’s naval
+base in Souda and its role in
+the wider region, as well as the
+transportation of “special weapons”
+(in war terminology), basically
+nuclear warheads, in the Araxos
+airbase was also verified. The last
+few months, the preparations for
+the base’s upgrading have already
+started, through refurbishing the
+iron fencing and repairing its
+interior. Also, recently, a classified
+document- a letter sent by the
+NATO congress in Brussels to
+the Greek Ministry of National
+Defense, which explicitly defined
+the preparations of Araxos airbase
+to receive nuclear weapons, leaked,
+while aerial photos, which have
+been published in the media
+of the base, also confirm the
+preparations.
+
+For almost fifty years,
+the Araxos airbase has been used
+as a temporary storage of US’s
+nuclear weapons, while the wider
+region of Western Greece (the
+military airport bases of Araxos,
+Andravida and Aktion, and the
+ports of Patra and Igoumenitsa)
+has been functioning as the
+operating base for the American
+and NATO military forces in
+their war expeditions in the
+Balkans and the Middle East.
+After long-term struggles of the
+anti-war movement, the nuclear
+weapons were removed from
+Araxos through a secret operation
+organized by NATO in 2001,
+and were initially transferred to
+Italy and then to an unknown
+location. Today, the relocation of
+B61 nuclear bombs from Incirlik
+in Turkey to Araxos, is intensively
+discussed. After all, the base has
+always been standing ready to
+receive aircrafts suitable to load
+these bombs, according to NATO,
+while, from time to time, there
+have been trial operation exercises
+of its underground nuclear storage
+facilities.
+
+Moreover, the discussion
+that took place between Trump
+and Tsipras during their meeting
+also included the extension of
+the agreement on the use of
+Souda naval base, as well as the
+possibility of establishing a new
+military base in southern Crete.
+The official agenda of this meeting
+(similar to the one of Obama’s
+visit a year ago in Athens) outlines
+its real implications for the field
+of authoritarian administration,
+imposition and antagonism:
+geopolitical balance of power, the
+refugees’ issue, the economy, the
+energy resources.
+
+The deterioration of
+the US-Turkish relations, after
+the recent shift of the Turkish
+government in a series of sectors
+towards Russia and Iran, has led
+to the reinforcement of Greece’s
+role in the wider region. This
+becomes quite evident from
+the planned relocation of war
+equipment from the Turkish base
+of Incirlik to Souda in Crete, but
+also from Greece’s active role in
+the regional developments and the
+promotion of collaborations with
+a series of neighboring countries.
+The trilateral (Greece-Cyprus-
+Israel, Greece-Cyprus-Egypt) and
+quadrilateral summits (Greece-
+Serbia-Bulgaria-Romania), as well
+as, the common military exercises
+in the Cypriot EEZ are a clear
+proof of it.
+
+It is an unquestionable
+fact that at a global level the
+poli…

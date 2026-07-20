@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       The Worst-Case Scenario        Forcing the Issue          Financial Crisis          Health Care          Housing          Social Isolation          Ecology          Totalitarianism        Three Programs          The Adherents of Capitalism—Which Is to Say, Death          The Apostles of Technocracy—Which Is to Say, Survival          The Partisans of Freedom—Which Is to Say, Life How will our society emerge from the COVID-19 crisis? Does the pandemic show that we need more centralized state power, more surveillance and control? What are the threats ranged against us—and how can we prepare to confront them? Several days ago, the number of coronavirus deaths in New York City surpassed the death toll of the attacks of September 11, 2001. Whenever pundits and politicians invoke 9/11, you know they’re trying to set the stage for some shock and awe. The September 11 attacks served to justify the Patriot Act, extraordinary rendition and torture, the occupations of Afghanistan and Iraq; these paved the way for a host of other catastrophes, including the rise of the Islamic State. While 2977 civilians were killed on September 11, the ensuing “War on Terror” killed at least one hundred times that many civilians. If the September 11 comparison shows anything, it is that the state response to the pandemic will be far more destructive than the virus itself. Let’s review what the dangers are and the logic of those who aim to drive the state response in order to prepare for the next stage of the crisis before it hits. It is not inevitable that what comes out of this will be tyranny; on the contrary, it might be upheaval. As we asserted long ago, in another century, there is a difference between life and survival. Confronting the pandemic and the totalitarian power grabs accompanying it, let’s concern ourselves not only with the question of how we will survive, but also of how we wish to live. “Plague regulations also cast a long shadow over political history. They marked a vast extension of state power into spheres of human life that had never before been subject to political authority… They justified control over the economy and the movement of people; they authorized surveillance and forcible detention; and they sanctioned the invasion of homes and the extinction of civil liberties. With the unanswerable argument of a public health emergency, this extension of power was welcomed by the church and by powerful political and medical voices. The campaign against plague marked a moment in the emergence of absolutism, and more generally, it promoted an accretion of the power and legitimation of the modern state.” —Epidemics and Society from the Black Death to the Present, Frank M. Snowden Owing to neoliberal globalization and automation, an increasing proportion of the global population is simply inessential to industrial production and distribution. Consequently, workers have flooded the service sector, working longer and longer hours to survive. Rather than renegotiating the peace treaties between capitalists and workers that sustained capitalism through the 20 th century, [1] governments have come to rely on ever more repressive policing, depending on technological innovations to keep restless populations under control. Nonetheless—or else for this very reason—unrest came to a boil in 2019 with uprisings in Hong Kong, Chile, Catalunya, Lebanon, Sudan, Haiti, and dozens of other countries, with more anticipated in 2020… until the virus reshuffled the cards. This is not an auspicious situation in which to face a pandemic. When the authorities regard an increasing proportion of the population as an expendable nuisance contained by ever-escalating violence, they have little incentive to keep us alive. Some, like Trump, want to establish gated communities of class, nationality, and ethnicity and leave everyone outside them at the mercy of these newly heightened risks. Others hope to broker a new deal between rulers and ruled by providing a m…
+The Worst-Case Scenario
+
+Forcing the Issue
+
+Financial Crisis
+
+Health Care
+
+Housing
+
+Social Isolation
+
+Ecology
+
+Totalitarianism
+
+Three Programs
+
+The Adherents of Capitalism—Which Is to Say, Death
+
+The Apostles of Technocracy—Which Is to Say, Survival
+
+The Partisans of Freedom—Which Is to Say, Life
+
+How will our society emerge from the COVID-19 crisis? Does the pandemic show that we need more centralized state power, more surveillance and control? What are the threats ranged against us—and how can we prepare to confront them?
+
+Several days ago, the number of coronavirus deaths in New York City surpassed the death toll of the attacks of September 11, 2001. Whenever pundits and politicians invoke 9/11, you know they’re trying to set the stage for some shock and awe.
+
+The September 11 attacks served to justify the Patriot Act, extraordinary rendition and torture, the occupations of Afghanistan and Iraq; these paved the way for a host of other catastrophes, including the rise of the Islamic State. While 2977 civilians were killed on September 11, the ensuing “War on Terror” killed at least one hundred times that many civilians.
+
+If the September 11 comparison shows anything, it is that the state response to the pandemic will be far more destructive than the virus itself. Let’s review what the dangers are and the logic of those who aim to drive the state response in order to prepare for the next stage of the crisis before it hits. It is not inevitable that what comes out of this will be tyranny; on the contrary, it might be upheaval.
+
+As we asserted long ago, in another century, there is a difference between life and survival. Confronting the pandemic and the totalitarian power grabs accompanying it, let’s concern ourselves not only with the question of how we will survive, but also of how we wish to live.
+
+“Plague regulations also cast a long shadow over political history. They marked a vast extension of state power into spheres of human life that had never before been subject to political authority… They justified control over the economy and the movement of people; they authorized surveillance and forcible detention; and they sanctioned the invasion of homes and the extinction of civil liberties. With the unanswerable argument of a public health emergency, this extension of power was welcomed by the church and by powerful political and medical voices. The campaign against plague marked a moment in the emergence of absolutism, and more generally, it promoted an accretion of the power and legitimation of the modern state.”
+
+—Epidemics and Society from the Black Death to the Present, Frank M. Snowden
+
+Owing to neoliberal globalization and automation, an increasing proportion of the global population is simply inessential to industrial production and distribution. Consequently, workers have flooded the service sector, working longer and longer hours to survive. Rather than renegotiating the peace treaties between capitalists and workers that sustained capitalism through the 20th century,[1] governments have come to rely on ever more repressive policing, depending on technological innovations to keep restless populations under control. Nonetheless—or else for this very reason—unrest came to a boil in 2019 with uprisings in Hong Kong, Chile, Catalunya, Lebanon, Sudan, Haiti, and dozens of other countries, with more anticipated in 2020… until the virus reshuffled the cards.
+
+This is not an auspicious situation in which to face a pandemic. When the authorities regard an increasing proportion of the population as an expendable nuisance contained by ever-escalating violence, they have little incentive to keep us alive. Some, like Trump, want to establish gated communities of class, nationality, and ethnicity and leave everyone outside them at the mercy of these newly heightened risks. Others hope to broker a new deal between rulers and ruled by providing a modicum of safety to all in return for unprecedented forms of surveillance and contro…

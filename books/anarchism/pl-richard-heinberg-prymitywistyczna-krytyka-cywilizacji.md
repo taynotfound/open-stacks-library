@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       I. Prolog        II. Cywilizacja i Prymitywizm          Czym jest Prymitywizm?          Czym Jest Cywilizacja?        III. Prymitywizm kontra Cywilizacja          Istota Dzika / Istota Ucywilizowana          Zdrowie: Naturalne czy Sztuczne?          Duchowość: Surowa czy gotowana          Gospodarka: Darmowa czy Poza Zasięgiem?          Rząd: Oddolny czy Odgórny?          Cywilizacja i Natura          Jak Wynagradzamy Sobie Stratę Natury?        IV. Pytania i Obiekcje        V. Parę Myśli na Koniec Zostając wybranym - nie jestem pewien jako obronca diabła czy jako kozioł ofiarny - do doprowadzenia tej dyskusji do pytania: „Czy Cywilizacja była Pomyłką?", chciałbym przedstawić kilka wstępnych myśli. Z punktu widzenia każdej niecywilizowanej osoby, rozważanie te ukazałyby się jako krok w ironię. W każdym bądź razie jesteśmy tu zebrani jednymi z najbardziej cywilizowanych ludzi na planecie, dyskutującymi w jak najbardziej cywilizowany sposób - czy przypadkiem cywilizacja może okać się błędem. Dodatkowo większość z naszych współobywateli mogłaby możliwie uznać naszą dyskusję za ironiczną, także wstrząsająca i banalną, gdyż ostatecznie jak osoba, która wychowała się wśród samochodów, elektryczności i telewizji, ma rozkoszować się ideą życia bez domu i o przetrwaniu wyłącznie na dzikiej żywności? Niemniej pomimo możliwości, iż przynajmniej niektóre z naszych spostrzeżeń mogą być ironiczne, niepokojące czy banalne, oto tu jesteśmy. Dlaczego? Mogę mówić tylko za siebie. W moim własnym rozwoju intelektualnym uznałem, że krytyka cywilizacji jest potencjalnie nie do uniknięcia z dwóch powodów. Pierwszy ma do czynienia z pewnymi głęboko niepokojącymi tendecjami we współczesnym świecie. Wydaje się, że zabijamy planetę. Rewizjonistyczni rzecznicy 'szerokiego użycia' (wise use) mówią nam,iż nie ma powodów do obaw; niebezpieczeństwa dla środowiska - mówią - zostały przesadnie wyolbrzymione. Dla mnie jest to najbardziej rażąca forma myślenia życzeniowego. W większości ocen oceany umierają, ludzka populacja powiększa się daleko poza długoterminowe możliwości ziemi, warstwa ozonowa zanika, a globalny klimat daje niepokojące znaki nierównowagi. Dopóki nie zostaną wykonane drastyczne kroki, w przeciągu 55 lat olrzymia większość światowej populacji prawdopodobnie będzie egzystowała w warunkach - w porównaniu dla których styl życia właściwie każdego z niezakłóconych plemień pierwotnych - byłby rajem. Teraz można wywnioskować, że cywilizacja per se nie jest błędem, że problemy, którym stawiamy czoło, mają do czynienia z rzadkimi ekonomicznymi i historycznymi okolicznościami. Jednak przynajmniej powinniśmy rozważyć możliwość, iż nasz współczesny industrialny system reprezentuje kwitnienie tendencji, które sięgają wstecz bardzo daleko. W każdym razie jest to implikacją obecnych oszacowań ekologicznej ruiny pozostawionej w śladach rzymskiej, mezopotamskiej, chińskiej i innych czołowych cywilizacji. Czy przypadkiem nie powtarzamy ich błędów na olbrzymią skalę? Jeżeli mój pierwszy powód do krytykowania cywilizacji ma do czynienia z jej efektami na środowisko, drugi ma do czynienia z jej wpływem na istoty ludzkie. Jako cywilizowani ludzie, my również jestesmy oswojeni. Dla pierwotnych ludzi jesteśmy jak krowy i owce dla niedźwiedzi i orłów. Na dzierżawionej posiadłości, gdzie żyję w Kaliforni, mój dzierżawca trzyma dwa udomowione kaczki. Kaczki te zostały wyhodowane tak aby mieć małe skrzydła w celu uniemożliwienia im fruwania. Jest to udogodnienie dla hodowców, lecz porównując je do dzikich kaczek są to zaledwie nędzne stworzenia. Wiele pierwotnych ludzi ma skłonność postrzegać nas także jako żałosne stworzenia - choć potężne i niebezpieczne ze względu na naszą technologię i zwyczajną liczebność. Odbierają naszą cywilizację jako gniazdo chorób społecznych. My cywilizowani ludzie wydajemy się działać jakbyśmy byli uzależnieni od potęznego narkotyku - narkotyku, który występuje w formie pieniędzy, fabrycznie zrobionych dóbr, paliwa, czy elektrycznośc…
+I. Prolog
+
+II. Cywilizacja i Prymitywizm
+
+Czym jest Prymitywizm?
+
+Czym Jest Cywilizacja?
+
+III. Prymitywizm kontra Cywilizacja
+
+Istota Dzika / Istota Ucywilizowana
+
+Zdrowie: Naturalne czy Sztuczne?
+
+Duchowość: Surowa czy gotowana
+
+Gospodarka: Darmowa czy Poza Zasięgiem?
+
+Rząd: Oddolny czy Odgórny?
+
+Cywilizacja i Natura
+
+Jak Wynagradzamy Sobie Stratę Natury?
+
+IV. Pytania i Obiekcje
+
+V. Parę Myśli na Koniec
+
+Zostając wybranym - nie jestem pewien jako obronca diabła czy jako kozioł ofiarny - do doprowadzenia tej dyskusji do pytania: „Czy Cywilizacja była Pomyłką?", chciałbym przedstawić kilka wstępnych myśli.
+
+Z punktu widzenia każdej niecywilizowanej osoby, rozważanie te ukazałyby się jako krok w ironię. W każdym bądź razie jesteśmy tu zebrani jednymi z najbardziej cywilizowanych ludzi na planecie, dyskutującymi w jak najbardziej cywilizowany sposób - czy przypadkiem cywilizacja może okać się błędem. Dodatkowo większość z naszych współobywateli mogłaby możliwie uznać naszą dyskusję za ironiczną, także wstrząsająca i banalną, gdyż ostatecznie jak osoba, która wychowała się wśród samochodów, elektryczności i telewizji, ma rozkoszować się ideą życia bez domu i o przetrwaniu wyłącznie na dzikiej żywności?
+
+Niemniej pomimo możliwości, iż przynajmniej niektóre z naszych spostrzeżeń mogą być ironiczne, niepokojące czy banalne, oto tu jesteśmy. Dlaczego? Mogę mówić tylko za siebie. W moim własnym rozwoju intelektualnym uznałem, że krytyka cywilizacji jest potencjalnie nie do uniknięcia z dwóch powodów.
+
+Pierwszy ma do czynienia z pewnymi głęboko niepokojącymi tendecjami we współczesnym świecie. Wydaje się, że zabijamy planetę. Rewizjonistyczni rzecznicy 'szerokiego użycia' (wise use) mówią nam,iż nie ma powodów do obaw; niebezpieczeństwa dla środowiska - mówią - zostały przesadnie wyolbrzymione. Dla mnie jest to najbardziej rażąca forma myślenia życzeniowego. W większości ocen oceany umierają, ludzka populacja powiększa się daleko poza długoterminowe możliwości ziemi, warstwa ozonowa zanika, a globalny klimat daje niepokojące znaki nierównowagi. Dopóki nie zostaną wykonane drastyczne kroki, w przeciągu 55 lat olrzymia większość światowej populacji prawdopodobnie będzie egzystowała w warunkach - w porównaniu dla których styl życia właściwie każdego z niezakłóconych plemień pierwotnych - byłby rajem.
+
+Teraz można wywnioskować, że cywilizacja per se nie jest błędem, że problemy, którym stawiamy czoło, mają do czynienia z rzadkimi ekonomicznymi i historycznymi okolicznościami. Jednak przynajmniej powinniśmy rozważyć możliwość, iż nasz współczesny industrialny system reprezentuje kwitnienie tendencji, które sięgają wstecz bardzo daleko. W każdym razie jest to implikacją obecnych oszacowań ekologicznej ruiny pozostawionej w śladach rzymskiej, mezopotamskiej, chińskiej i innych czołowych cywilizacji. Czy przypadkiem nie powtarzamy ich błędów na olbrzymią skalę?
+
+Jeżeli mój pierwszy powód do krytykowania cywilizacji ma do czynienia z jej efektami na środowisko, drugi ma do czynienia z jej wpływem na istoty ludzkie. Jako cywilizowani ludzie, my również jestesmy oswojeni. Dla pierwotnych ludzi jesteśmy jak krowy i owce dla niedźwiedzi i orłów. Na dzierżawionej posiadłości, gdzie żyję w Kaliforni, mój dzierżawca trzyma dwa udomowione kaczki. Kaczki te zostały wyhodowane tak aby mieć małe skrzydła w celu uniemożliwienia im fruwania. Jest to udogodnienie dla hodowców, lecz porównując je do dzikich kaczek są to zaledwie nędzne stworzenia.
+
+Wiele pierwotnych ludzi ma skłonność postrzegać nas także jako żałosne stworzenia - choć potężne i niebezpieczne ze względu na naszą technologię i zwyczajną liczebność. Odbierają naszą cywilizację jako gniazdo chorób społecznych. My cywilizowani ludzie wydajemy się działać jakbyśmy byli uzależnieni od potęznego narkotyku - narkotyku, który występuje w formie pieniędzy, fabrycznie zrobionych dóbr, paliwa, czy elektryczności. Jesteśmy bezbronni bez tego narkotyku, więc zaczeliśmy postrzegać każde zagrożenie naszych za…

@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       What could there possibly be beyond democracy?        Every little child can grow up to be President.        The tyranny of the majority        “The Rule of Law”        It’s no coincidence “freedom” is not on the ballot.        “Look, a ballot box—democracy!!”        Representative democracy is a contradiction in terms.        Consensus        Autonomy        Direct Action        Topless Federations        How to solve disagreements without calling “the authorities”        Living without permission text courtesy of special agent Rolf Nadir Nowadays, “democracy” rules the world. Communism has fallen, elections are happening more and more in those poor underdeveloped third world nations you see on television, and world leaders are meeting to plan the “global community” that we hear so much about. So why isn’t everybody happy, finally? For that matter—why do less than half of the eligible voters in the United States, the world’s flagship democracy, even bother to vote at all? Could it be that “democracy,” long the catch-word of every revolution and resistance, is simply not democratic enough? What could be more democratic? No they can’t. Being president means holding a hierarchical position of power, just like being a billionaire: for every one president, there have to be millions of people with less power. And just as it is for billionaires, it is for presidents: it’s not any coincidence that the two types tend to rub shoulders, since they both come from a privileged world off limits to the rest of us. Our economy isn’t democratic, either, you know: resources are distributed in absurdly unequal proportions, and you certainly do have to start with resources to become President, or even to get your hands on more resources. Even if it was true that anyone could grow up to be President, that wouldn’t help the millions of us who inevitably don’t, who must still live in the shadow of that power. This is an intrinsic structural difficulty in representative democracy, and it occurs on the local level as much as at the top. For example: the town council, consisting of professional politicians, can meet, discuss municipal affairs, and pass ordinances all day, without consulting the citizens of the town, who have to be at work; when one of those ordinances inconveniences or angers some of the citizens, they have to go to great lengths to use their free time to contest it, and then they’re gone again the next time the town council meets. The citizens can elect a different town council from the available pool of politicians and would-be politicians, but the interests and powers of the class of politicians as a whole will still be in conflict with their own—and anyway, party loyalties and similar superstitions usually prevent them from taking even this step. If there was no President, our “democracy” would still be less than democratic. Corruption, privilege, and hierarchy aside, our system purports to operate by majority rule, with the rights of the minorities protected by a system of checks and balances—and this method of government has inherent flaws of its own. If you ever happened to end up in a vastly outnumbered minority group, and the majority voted that you must give up something as necessary to your life as water and air, would you comply? When it comes down to it, does anyone really believe in recognizing the authority of a group simply because they outnumber everyone else? We accept majority rule because we do not believe it will threaten us —and those it does threaten are already silenced before we can hear their misgivings. No “average citizen” considers himself threatened by majority rule, because each one thinks of himself as having the power and righteous “moral authority” of the majority: if not in fact (by being so-called “normal” or “moderate”), then in theory, because his ideas are “right” (that is, he believes that everyone would be convinced of the truth of his arguments, if only they would listen sincerely). Maj…
+What could there possibly be beyond democracy?
+
+Every little child can grow up to be President.
+
+The tyranny of the majority
+
+“The Rule of Law”
+
+It’s no coincidence “freedom” is not on the ballot.
+
+“Look, a ballot box—democracy!!”
+
+Representative democracy is a contradiction in terms.
+
+Consensus
+
+Autonomy
+
+Direct Action
+
+Topless Federations
+
+How to solve disagreements without calling “the authorities”
+
+Living without permission
+
+text courtesy of special agent Rolf Nadir
+
+Nowadays, “democracy” rules the world. Communism has fallen, elections are happening more and more in those poor underdeveloped third world nations you see on television, and world leaders are meeting to plan the “global community” that we hear so much about. So why isn’t everybody happy, finally? For that matter—why do less than half of the eligible voters in the United States, the world’s flagship democracy, even bother to vote at all?
+
+Could it be that “democracy,” long the catch-word of every revolution and resistance, is simply not democratic enough? What could be more democratic?
+
+No they can’t. Being president means holding a hierarchical position of power, just like being a billionaire: for every one president, there have to be millions of people with less power. And just as it is for billionaires, it is for presidents: it’s not any coincidence that the two types tend to rub shoulders, since they both come from a privileged world off limits to the rest of us. Our economy isn’t democratic, either, you know: resources are distributed in absurdly unequal proportions, and you certainly do have to start with resources to become President, or even to get your hands on more resources.
+
+Even if it was true that anyone could grow up to be President, that wouldn’t help the millions of us who inevitably don’t, who must still live in the shadow of that power. This is an intrinsic structural difficulty in representative democracy, and it occurs on the local level as much as at the top. For example: the town council, consisting of professional politicians, can meet, discuss municipal affairs, and pass ordinances all day, without consulting the citizens of the town, who have to be at work; when one of those ordinances inconveniences or angers some of the citizens, they have to go to great lengths to use their free time to contest it, and then they’re gone again the next time the town council meets. The citizens can elect a different town council from the available pool of politicians and would-be politicians, but the interests and powers of the class of politicians as a whole will still be in conflict with their own—and anyway, party loyalties and similar superstitions usually prevent them from taking even this step.
+
+If there was no President, our “democracy” would still be less than democratic. Corruption, privilege, and hierarchy aside, our system purports to operate by majority rule, with the rights of the minorities protected by a system of checks and balances—and this method of government has inherent flaws of its own.
+
+If you ever happened to end up in a vastly outnumbered minority group, and the majority voted that you must give up something as necessary to your life as water and air, would you comply? When it comes down to it, does anyone really believe in recognizing the authority of a group simply because they outnumber everyone else? We accept majority rule because we do not believe it will threaten us—and those it does threaten are already silenced before we can hear their misgivings.
+
+No “average citizen” considers himself threatened by majority rule, because each one thinks of himself as having the power and righteous “moral authority” of the majority: if not in fact (by being so-called “normal” or “moderate”), then in theory, because his ideas are “right” (that is, he believes that everyone would be convinced of the truth of his arguments, if only they would listen sincerely). Majority-rule democracy has always rested on the conviction that if all the…

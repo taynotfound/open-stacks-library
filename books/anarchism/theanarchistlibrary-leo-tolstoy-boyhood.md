@@ -19,4 +19,78 @@ files:
     hosted: false
 ---
 
-     I. A SLOW JOURNEY      II. THE THUNDERSTORM      III. A NEW POINT OF VIEW      IV. IN MOSCOW      V. MY ELDER BROTHER      VI. MASHA      VII. SMALL SHOT      VIII. KARL IVANITCH’S HISTORY      IX. CONTINUATION OF KARL’S NARRATIVE      X. CONCLUSION OF KARL’S NARRATIVE      XI. ONE MARK ONLY      XII. THE KEY      XIII. THE TRAITRESS      XIV. THE RETRIBUTION      XV. DREAMS      XVI. “KEEP ON GRINDING, AND YOU’LL HAVE FLOUR”      XVII. HATRED      XVIII. THE MAIDSERVANTS’ ROOM      XIX. BOYHOOD      XX. WOLODA      XXI. KATENKA AND LUBOTSHKA      XXII. PAPA      XXIII. GRANDMAMMA      XXIV. MYSELF      XXV. WOLODA’S FRIENDS      XXVI. DISCUSSIONS      XXVII. THE BEGINNING OF OUR FRIENDSHIP Again two carriages stood at the front door of the house at Petrovskoe. In one of them sat Mimi, the two girls, and their maid, with the bailiff, Jakoff, on the box, while in the other—a britchka—sat Woloda, myself, and our servant Vassili. Papa, who was to follow us to Moscow in a few days, was standing bareheaded on the entrance-steps. He made the sign of the cross at the windows of the carriages, and said: “Christ go with you! Good-bye.” Jakoff and our coachman (for we had our own horses) lifted their caps in answer, and also made the sign of the cross. “Amen. God go with us!” The carriages began to roll away, and the birch-trees of the great avenue filed out of sight. I was not in the least depressed on this occasion, for my mind was not so much turned upon what I had left as upon what was awaiting me. In proportion as the various objects connected with the sad recollections which had recently filled my imagination receded behind me, those recollections lost their power, and gave place to a consolatory feeling of life, youthful vigour, freshness, and hope. Seldom have I spent four days more—well, I will not say gaily, since I should still have shrunk from appearing gay—but more agreeably and pleasantly than those occupied by our journey. No longer were my eyes confronted with the closed door of Mamma’s room (which I had never been able to pass without a pang), nor with the covered piano (which nobody opened now, and at which I could never look without trembling), nor with mourning dresses (we had each of us on our ordinary travelling clothes), nor with all those other objects which recalled to me so vividly our irreparable loss, and forced me to abstain from any manifestation of merriment lest I should unwittingly offend against HER memory. On the contrary, a continual succession of new and exciting objects and places now caught and held my attention, and the charms of spring awakened in my soul a soothing sense of satisfaction with the present and of blissful hope for the future. Very early next morning the merciless Vassili (who had only just entered our service, and was therefore, like most people in such a position, zealous to a fault) came and stripped off my counterpane, affirming that it was time for me to get up, since everything was in readiness for us to continue our journey. Though I felt inclined to stretch myself and rebel—though I would gladly have spent another quarter of an hour in sweet enjoyment of my morning slumber—Vassili’s inexorable face showed that he would grant me no respite, but that he was ready to tear away the counterpane twenty times more if necessary. Accordingly I submitted myself to the inevitable and ran down into the courtyard to wash myself at the fountain. In the coffee-room, a tea-kettle was already surmounting the fire which Milka the ostler, as red in the face as a crab, was blowing with a pair of bellows. All was grey and misty in the courtyard, like steam from a smoking dunghill, but in the eastern sky the sun was diffusing a clear, cheerful radiance, and making the straw roofs of the sheds around the courtyard sparkle with the night dew. Beneath them stood our horses, tied to mangers, and I could hear the ceaseless sound of their chewing. A curly-haired dog which had been spending the nig…
+I. A SLOW JOURNEY
+
+II. THE THUNDERSTORM
+
+III. A NEW POINT OF VIEW
+
+IV. IN MOSCOW
+
+V. MY ELDER BROTHER
+
+VI. MASHA
+
+VII. SMALL SHOT
+
+VIII. KARL IVANITCH’S HISTORY
+
+IX. CONTINUATION OF KARL’S NARRATIVE
+
+X. CONCLUSION OF KARL’S NARRATIVE
+
+XI. ONE MARK ONLY
+
+XII. THE KEY
+
+XIII. THE TRAITRESS
+
+XIV. THE RETRIBUTION
+
+XV. DREAMS
+
+XVI. “KEEP ON GRINDING, AND YOU’LL HAVE FLOUR”
+
+XVII. HATRED
+
+XVIII. THE MAIDSERVANTS’ ROOM
+
+XIX. BOYHOOD
+
+XX. WOLODA
+
+XXI. KATENKA AND LUBOTSHKA
+
+XXII. PAPA
+
+XXIII. GRANDMAMMA
+
+XXIV. MYSELF
+
+XXV. WOLODA’S FRIENDS
+
+XXVI. DISCUSSIONS
+
+XXVII. THE BEGINNING OF OUR FRIENDSHIP
+
+Again two carriages stood at the front door of the house at Petrovskoe. In one of them sat Mimi, the two girls, and their maid, with the bailiff, Jakoff, on the box, while in the other—a britchka—sat Woloda, myself, and our servant Vassili. Papa, who was to follow us to Moscow in a few days, was standing bareheaded on the entrance-steps. He made the sign of the cross at the windows of the carriages, and said:
+
+“Christ go with you! Good-bye.”
+
+Jakoff and our coachman (for we had our own horses) lifted their caps in answer, and also made the sign of the cross.
+
+“Amen. God go with us!”
+
+The carriages began to roll away, and the birch-trees of the great avenue filed out of sight.
+
+I was not in the least depressed on this occasion, for my mind was not so much turned upon what I had left as upon what was awaiting me. In proportion as the various objects connected with the sad recollections which had recently filled my imagination receded behind me, those recollections lost their power, and gave place to a consolatory feeling of life, youthful vigour, freshness, and hope.
+
+Seldom have I spent four days more—well, I will not say gaily, since I should still have shrunk from appearing gay—but more agreeably and pleasantly than those occupied by our journey.
+
+No longer were my eyes confronted with the closed door of Mamma’s room (which I had never been able to pass without a pang), nor with the covered piano (which nobody opened now, and at which I could never look without trembling), nor with mourning dresses (we had each of us on our ordinary travelling clothes), nor with all those other objects which recalled to me so vividly our irreparable loss, and forced me to abstain from any manifestation of merriment lest I should unwittingly offend against HER memory.
+
+On the contrary, a continual succession of new and exciting objects and places now caught and held my attention, and the charms of spring awakened in my soul a soothing sense of satisfaction with the present and of blissful hope for the future.
+
+Very early next morning the merciless Vassili (who had only just entered our service, and was therefore, like most people in such a position, zealous to a fault) came and stripped off my counterpane, affirming that it was time for me to get up, since everything was in readiness for us to continue our journey. Though I felt inclined to stretch myself and rebel—though I would gladly have spent another quarter of an hour in sweet enjoyment of my morning slumber—Vassili’s inexorable face showed that he would grant me no respite, but that he was ready to tear away the counterpane twenty times more if necessary. Accordingly I submitted myself to the inevitable and ran down into the courtyard to wash myself at the fountain.
+
+In the coffee-room, a tea-kettle was already surmounting the fire which Milka the ostler, as red in the face as a crab, was blowing with a pair of bellows. All was grey and misty in the courtyard, like steam from a smoking dunghill, but in the eastern sky the sun was diffusing a clear, cheerful radiance, and making the straw roofs of the sheds around the courtyard sparkle with the night dew. Beneath them stood our horses, tied to mangers, and I could hear the ceaseless sound of their chewing. A curly-haired dog which had been spending the night on a dry dunghill now rose in lazy fashion and, wagging its tail, walked slowly across the cour…

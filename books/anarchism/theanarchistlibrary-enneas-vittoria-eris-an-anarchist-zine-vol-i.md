@@ -19,4 +19,92 @@ files:
     hosted: false
 ---
 
-       “Good girl” Democracy, “Bad boy” Anarchism.        A children’s story        Entering the Deep, Dark Web: Part I        Myth, Biology        Dove & Bunny        Guns, Why don’t I have one?        Animal Rights        A riddle:        A poem:        A Haiku:        Crazy        Let’s get Mystical        Eris        (Don’t look into) The eyes of a stranger        Retarded Anti-Anarchist Camel        Welcome to the jungle (Come and dance with me). What comes to mind when someone says “Democracy”. The Greeks. America. The political epitome of liberty, of justice. Human rights. Everyone participates. Everyone has a voice. Each vote counts. Great. No one can argue against that, right? You’d be some kind of, freedom-hating Disney villain if you did. Let’s imagine this: you’re walking on a nice prairie, full of radiant grass, sunshine and love. Your beautiful hair reflects the light in a silvery-golden kind of way. There’s you and 9 other peeps. Suddenly, you all come to a cliff. One looks down: “There’s a 100 meter cliff to the sea!”. Indeed, all walk and hey, its there. Someone says: “I think we should all jump!”. You think “what a fucking retard!”He goes on to say,” let’s call on a vote!” Fair enough. Everyone casts their vote. Some random peep counts……: 6 in favour… 4 against. Ok then… honest truth swear to god… Are you gonna fucking JUMP? Well, you should. These are the rules of the game. IF more than half want to do something, the less than half have to do it as well. You lost. Die, for Democracy. What comes to mind when someone says “Anarchy” *gasps and covers mouth. Hm… bombs. Teenagers dressed in black and covering their face with a bandana throwing stones at the riot police. Everyone murdering and raping everyone around them. Going fucking bananas. Of course. Anarchism is for rebels who are just lazy, have nothing to lose, and would just like to see the world burn. Let’s imagine this now: you are in your bed. You just finished Game of Thrones saga for the third time, and are calling it a day. You pat yourself in the back. You payed your bills, you hugged your Ma. Good good. Set the alarms to… ZAAAAP! You’re on a fucking alien ship. There’s other 99 people on board, you can see they’re from different ethnicities/backgrounds. Some start speaking in Mandarin. You are puzzled, to say the least. A hot alien chic comes to the spaceship hall, and says: “We are a species from Alpha Centauri who evolved to LOVE randomness. We love playing dices all day long. We toss coins for every decision we make.” You look at her, and fair deal, you too have spent some crazy nights at the casino with your mates. She goes on to explain your fate: “Out of pure fucking randomness, we decided to grab 100 of your species, fly them to the edge of the Universe to an earth-like planet that is hidden even from the most advanced intergalactic beings, and FUCKING LEAVE YOU THERE! Hahahahaha, she bursts into laughter. And lo and behold, they drop you there. Wind starts blowing, the Chinese folks start talking to each other. There is a frightened little girl. You all look at each other. What happens next? LET THE MASSACRE BEGIN!!!!!!! Hey, is everyone alright? What the fuck should we do!? I’m gonna go check if there’s water and food around I’m gonna go my own way … … … … There you go. Anarchy. So jokes aside. Let’s break it down. Democracy: Each of the 10 people walking in the field gets to vote. They seem to be following some kind of game rule. And that downright says something: We are respecting something above us. A set of laws. And, it also says: Everyone’s will counts. We are respecting each other as individuals. We are all equal, ie. no one is better than the other. But hey, when the votes add up, even if you really STRONGLY feel for or against what is being decided by the group, your vote always counts for 1. Fair deal, who am I to have a greater say in the group? But now… now you need to jump off a cliff. The group has reached that decision demo…
+“Good girl” Democracy, “Bad boy” Anarchism.
+
+A children’s story
+
+Entering the Deep, Dark Web: Part I
+
+Myth, Biology
+
+Dove & Bunny
+
+Guns, Why don’t I have one?
+
+Animal Rights
+
+A riddle:
+
+A poem:
+
+A Haiku:
+
+Crazy
+
+Let’s get Mystical
+
+Eris
+
+(Don’t look into) The eyes of a stranger
+
+Retarded Anti-Anarchist Camel
+
+Welcome to the jungle (Come and dance with me).
+
+What comes to mind when someone says “Democracy”. The Greeks. America. The political epitome of liberty, of justice. Human rights. Everyone participates. Everyone has a voice. Each vote counts.
+
+Great. No one can argue against that, right? You’d be some kind of, freedom-hating Disney villain if you did.
+
+Let’s imagine this: you’re walking on a nice prairie, full of radiant grass, sunshine and love. Your beautiful hair reflects the light in a silvery-golden kind of way. There’s you and 9 other peeps.
+
+Suddenly, you all come to a cliff. One looks down: “There’s a 100 meter cliff to the sea!”. Indeed, all walk and hey, its there. Someone says: “I think we should all jump!”. You think “what a fucking retard!”He goes on to say,” let’s call on a vote!” Fair enough.
+
+Everyone casts their vote. Some random peep counts……:
+
+6 in favour…
+
+4 against.
+
+Ok then… honest truth swear to god… Are you gonna fucking JUMP?
+
+Well, you should. These are the rules of the game. IF more than half want to do something, the less than half have to do it as well. You lost. Die, for Democracy.
+
+What comes to mind when someone says “Anarchy” *gasps and covers mouth.
+
+Hm… bombs. Teenagers dressed in black and covering their face with a bandana throwing stones at the riot police. Everyone murdering and raping everyone around them. Going fucking bananas.
+
+Of course. Anarchism is for rebels who are just lazy, have nothing to lose, and would just like to see the world burn.
+
+Let’s imagine this now: you are in your bed. You just finished Game of Thrones saga for the third time, and are calling it a day. You pat yourself in the back. You payed your bills, you hugged your Ma. Good good. Set the alarms to… ZAAAAP! You’re on a fucking alien ship. There’s other 99 people on board, you can see they’re from different ethnicities/backgrounds. Some start speaking in Mandarin. You are puzzled, to say the least. A hot alien chic comes to the spaceship hall, and says: “We are a species from Alpha Centauri who evolved to LOVE randomness. We love playing dices all day long. We toss coins for every decision we make.” You look at her, and fair deal, you too have spent some crazy nights at the casino with your mates.
+
+She goes on to explain your fate: “Out of pure fucking randomness, we decided to grab 100 of your species, fly them to the edge of the Universe to an earth-like planet that is hidden even from the most advanced intergalactic beings, and FUCKING LEAVE YOU THERE! Hahahahaha, she bursts into laughter.
+
+And lo and behold, they drop you there.
+
+Wind starts blowing, the Chinese folks start talking to each other. There is a frightened little girl. You all look at each other.
+
+What happens next?
+
+LET THE MASSACRE BEGIN!!!!!!!
+
+Hey, is everyone alright?
+
+What the fuck should we do!?
+
+I’m gonna go check if there’s water and food around
+
+I’m gonna go my own way
+
+…
+
+…
+
+…
+
+…
+
+There you go. Anarchy.
+
+So jokes aside. Let’s break it down.
+
+Democracy: Each of the 10 people walking in the field gets to vote. They seem to be following some kind of game rule. And that downright says something: We are respecting something above us. A set of laws. And, it also says: Everyone’s will counts. We are respecting each other as individuals. We are all equal, ie. no one is better than the other. But hey, when the votes add up, even if you really STRONGLY feel for or against what is being decided by the group, your vote always counts for 1. Fair deal, who am I to have a greater say in the group? But now… now you need to jump off a cliff. The group has reached that decision democratically. You are part of the group. And you agreed to the rules o…

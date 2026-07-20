@@ -19,4 +19,150 @@ files:
     hosted: false
 ---
 
-       Notka od autora        Notka od tłumaczek i tłumaczy      Naprzód!      1. Nie ma (Globalnej) przyszłości        Narracje religijne: postęp, światowy kapitalizm, światowa rewolucja, światowy upadek        Kocham nas, możemy zrobić naprawdę wiele, ale są granice.        Od antyglobalizmu do zmian klimatycznych      2. Jest później, niż nam się wydaje        Klimat zmienia się szybciej niż się spodziewano        Widmowe pola karmią przerośniętą populację        Zmiany klimatyczne otwierają niektóre drogi, zamykając inne      3. Pustynne Burze        Armie patrzą w przyszłość        Gorące wojny i upadłe państwa        Strażnicy pokoju na cmentarzu żyjących        Od zamieszek (o żywność) do insurekcji      4. Afrykańskie drogi do anarchii        Anarchistyczne elementy codziennego życia rolników        Ludzie bez rządów        Wspólnota rozkwita, gdy globalny handel się wycofuje        Przechytrzając państwo      5. Odwrót cywilizacji, triumf dziczy        Imperia nie przetrwają na pustyni, którą tworzą        Koczownicza wolność i upadek rolnictwa        Stepówki i Larrea tridentata      6. Terror ziem niczyich powraca        Cywilizacja prze naprzód, gdy chłodne pustynie topnieją        Ekobójstwo i ludobójstwo na „pustych” terenach        Życie w wolności/niewoli na nowych pograniczach      7. Centralizacja populacji i nowe większości miejskie        Oczekiwana długość życia i oczekiwania wobec „nowoczesnego życia”        Oddalające się światy        Przetrwanie w slumsach        Starzy bogowie i nowe raje        Chwasty na łonie miast      8. Ochrona wśród zmian        Czas apokalips        „Conservation is our government”        Kontrola szkód        Natura uderza ostatnia      9. Anarchiści za Murami        Wojna społeczna w umiarkowanych klimatach.        Państwa inwigilacji i kultury bezpieczeństwa        Więcej oporu, mniej posłuszeństwa        Miłość, zdrowie i insurekcja      10. Pustynia Pustynia 1 rzeczownik «bezludny obszar całkowicie lub prawie całkowicie pozbawiony roślinności i wody» «teren niezamieszkany, niezagospodarowany» * * * * * Napisałem „Pustynię” jako kochający przyrodę anarchista, zwracając się przede wszystkim do ludzi, którzy czują podobnie. Z tego powodu rzadko objaśniałem bliskie mi idee, które dla wielu anarchistów i radykalnych ekologów są w pewnym stopniu oczywiste. Mam jednak nadzieję, że piszę wystarczająco zrozumiale i nawet jeśli nie jesteś z tych kręgów, będziesz w stanie przeczytać „Pustynię”. Choć najlepszym wstępem do anarchizmu i ochrony środowiska są chwile spędzone w dzikich ostępach i wśród anarchistycznych społeczności, niektórzy z was mogą uznać za przydatne kilka tych książek – ja uznałem. Peter Marshall, Demanding the Impossible: A History of Anarchism (Londyn: HarperCollins, 2008). Fredy Perlman, Against His-story, Against Leviathan (Detroit: Black & Red, 1983). Christopher Manes, Green Rage: Radical Environmentalism and the Unmaking of Civilization (Boston: Little, Brown and Company, 1990). Clive Ponting, A Green History of the World (Londyn: Penguin Books, 1991). Pomysł na przetłumaczenie Pustyni zrodził się spontanicznie na wiodącym (w 2018) portalu społecznościowym z twarzą w nazwie, wśród ludzi związanych z polskojęzycznym środowiskiem anarchistycznym. Całość jest wynikiem współpracy ok. 20 osób, które po prostu chciały poświęcić swój czas dla popularyzacji idei przedstawionych w książce. Nie było żadnej hierarchii: każdy robił to, co umiał. Co nami kierowało? Obserwujemy, że Polska – znajdująca się w czołówce producentów CO 2 na osobę w Europie – zamiast ograniczać zużycie paliw kopalnych, roztacza ochronę nad elektrowniami węglowymi i unika inwestowania w alternatywne źródła energii. Nie mamy nadziei, że władza państwowa rozwiąże problem emisji gazów cieplarnianych; chcielibyśmy przekazać mniej konwencjonalne spojrzenie na problem globalnej katastrofy klimatycznej. Nie wszyscy zgadzamy się z obrazem sytuacji przedstawionym w Pustyni , lecz wszyscy myślimy, że jest…
+Notka od autora
+
+Notka od tłumaczek i tłumaczy
+
+Naprzód!
+
+1. Nie ma (Globalnej) przyszłości
+
+Narracje religijne: postęp, światowy kapitalizm, światowa rewolucja, światowy upadek
+
+Kocham nas, możemy zrobić naprawdę wiele, ale są granice.
+
+Od antyglobalizmu do zmian klimatycznych
+
+2. Jest później, niż nam się wydaje
+
+Klimat zmienia się szybciej niż się spodziewano
+
+Widmowe pola karmią przerośniętą populację
+
+Zmiany klimatyczne otwierają niektóre drogi, zamykając inne
+
+3. Pustynne Burze
+
+Armie patrzą w przyszłość
+
+Gorące wojny i upadłe państwa
+
+Strażnicy pokoju na cmentarzu żyjących
+
+Od zamieszek (o żywność) do insurekcji
+
+4. Afrykańskie drogi do anarchii
+
+Anarchistyczne elementy codziennego życia rolników
+
+Ludzie bez rządów
+
+Wspólnota rozkwita, gdy globalny handel się wycofuje
+
+Przechytrzając państwo
+
+5. Odwrót cywilizacji, triumf dziczy
+
+Imperia nie przetrwają na pustyni, którą tworzą
+
+Koczownicza wolność i upadek rolnictwa
+
+Stepówki i Larrea tridentata
+
+6. Terror ziem niczyich powraca
+
+Cywilizacja prze naprzód, gdy chłodne pustynie topnieją
+
+Ekobójstwo i ludobójstwo na „pustych” terenach
+
+Życie w wolności/niewoli na nowych pograniczach
+
+7. Centralizacja populacji i nowe większości miejskie
+
+Oczekiwana długość życia i oczekiwania wobec „nowoczesnego życia”
+
+Oddalające się światy
+
+Przetrwanie w slumsach
+
+Starzy bogowie i nowe raje
+
+Chwasty na łonie miast
+
+8. Ochrona wśród zmian
+
+Czas apokalips
+
+„Conservation is our government”
+
+Kontrola szkód
+
+Natura uderza ostatnia
+
+9. Anarchiści za Murami
+
+Wojna społeczna w umiarkowanych klimatach.
+
+Państwa inwigilacji i kultury bezpieczeństwa
+
+Więcej oporu, mniej posłuszeństwa
+
+Miłość, zdrowie i insurekcja
+
+10. Pustynia
+
+Pustynia1 rzeczownik
+
+«bezludny obszar całkowicie lub prawie całkowicie pozbawiony
+roślinności i wody»
+
+«teren niezamieszkany, niezagospodarowany»
+
+* * * * *
+
+Napisałem „Pustynię” jako kochający przyrodę anarchista, zwracając się
+przede wszystkim do ludzi, którzy czują podobnie. Z tego powodu rzadko
+objaśniałem bliskie mi idee, które dla wielu anarchistów i radykalnych
+ekologów są w pewnym stopniu oczywiste. Mam jednak nadzieję, że piszę
+wystarczająco zrozumiale i nawet jeśli nie jesteś z tych kręgów,
+będziesz w stanie przeczytać „Pustynię”. Choć najlepszym wstępem do
+anarchizmu i ochrony środowiska są chwile spędzone w dzikich ostępach i
+wśród anarchistycznych społeczności, niektórzy z was mogą uznać za
+przydatne kilka tych książek – ja uznałem.
+
+Peter Marshall, Demanding the Impossible: A History of Anarchism
+(Londyn: HarperCollins, 2008).
+
+Fredy Perlman, Against His-story, Against Leviathan (Detroit: Black
+& Red, 1983).
+
+Christopher Manes, Green Rage: Radical Environmentalism and the
+Unmaking of Civilization (Boston: Little, Brown and Company, 1990).
+
+Clive Ponting, A Green History of the World (Londyn: Penguin Books,
+1991).
+
+Pomysł na przetłumaczenie Pustyni zrodził się spontanicznie na
+wiodącym (w 2018) portalu społecznościowym z twarzą w nazwie, wśród
+ludzi związanych z polskojęzycznym środowiskiem anarchistycznym. Całość
+jest wynikiem współpracy ok. 20 osób, które po prostu chciały poświęcić
+swój czas dla popularyzacji idei przedstawionych w książce. Nie było
+żadnej hierarchii: każdy robił to, co umiał.
+
+Co nami kierowało? Obserwujemy, że Polska – znajdująca się w czołówce
+producentów CO2 na osobę w Europie – zamiast ograniczać
+zużycie paliw kopalnych, roztacza ochronę nad elektrowniami węglowymi i
+unika inwestowania w alternatywne źródła energii. Nie mamy nadziei, że
+władza państwowa rozwiąże problem emisji gazów cieplarnianych;
+chcielibyśmy przekazać mniej konwencjonalne spojrzenie na problem
+globalnej katastrofy klimatycznej. Nie wszyscy zgadzamy się z obrazem
+sytuacji przedstawionym w Pustyni, lecz wszyscy myślimy, że jest godny
+upublicznienia. Jesteśmy otwarci na korespondencję i wciąż szukamy
+nowych form promocji idei anarchistycznych. Zapraszamy do lektury i
+kontaktu mailowego:
+
+traductores@protonmail.com
+
+Traductores
+
+Jest coś, co dręczy i nawiedza raz za razem…
