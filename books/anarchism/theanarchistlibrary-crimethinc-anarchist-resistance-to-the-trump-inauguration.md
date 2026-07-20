@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-       Perspective: Making a Break        The Lead-up        Act One: The Blockades        Act Two: The March        Act Three: Chaos in DC        Perspective: Downtown DC, Ungovernable Zone        Assessment        Was it a good idea to mobilize against Trump’s inauguration?        Did the March Go Well?        Perspective: DC Longtime Organizer        Does the Black Bloc Work?        Perspective: What We Learned        Was It Worth It?        Perspective: I’d Do It Again Two years have passed since the demonstrations against Donald Trump’s inauguration. Thanks to an epic legal struggle, all the charges have been resolved or dropped. Now we can discuss what there is to learn from the events of January 20 and the ensuing court cases. This article focuses on the march that took place on the day itself, utilizing a wealth of information that came to light during the subsequent investigation. We will follow it with an analysis of the J20 legal battle and solidarity efforts, as well as additional perspectives from participants. On January 20, anarchists took on the most powerful empire in the history of the solar system at the heart of the spectacle intended to legitimize its rule—at precisely the moment that a new administration sought to introduce an even more authoritarian model of governance. This was a profoundly courageous act. In retaliation, prosecutors attempted to set a legal precedent that would criminalize protest itself, in hopes of being able to inflict the full force of felony prosecution on anyone in proximity to any act of resistance. The ensuing legal battle lasted a year and a half. The mass arrest that occurred on January 20, 2017 was not inevitable. It was the consequence of specific decisions that the organizers and participants in the march made; it could have turned out differently. Everyone who might one day be compelled to take part in high-risk street protest stands to benefit from an analysis of this action. It is an especially interesting case study in that it represents a worst-case scenario: 500 demonstrators without scouts, a communications network, or a solid plan taking on 28,000 security personnel at a pivotal historical moment. Was it a good idea to mobilize against Trump’s inauguration? Was it a good idea to call for a confrontational march on that day? What did anarchists accomplish—and what can we learn from our mistakes and from the strategy of the police? Here, we will present a blow-by-blow review of the events of the day and address each of these questions in turn. You’re reading the news. You read about Trump’s intention to ban Muslims from visiting the United States, put children in concentration camps, suppress information about climate change, and build new pipelines. You see the Democrats trying to cash in on your anger in order to get back into office and renew faith in the corporate media and the FBI. You see the sneering face of power, and you seethe with rage—but mostly you just feel helpless. You are alone, staring at a screen. You meet at Logan Circle at 10 am on the first day of Trump’s presidency. You are wearing a colorful outer layer so you can move through the streets of Washington, DC without attracting more attention than any other pedestrian. Beneath it is a layer of black clothing: black pants, black shoes with no logo visible, a black hooded sweatshirt, black gloves, a black mask. Concealed within a colorful bag, you carry a black backpack containing goggles and a water bottle (in case of pepper spray), earplugs (in case of LRAD), a black motorcycle helmet, perhaps a hammer cleaned with alcohol to remove any fingerprints, perhaps a selection of projectiles, perhaps a fire extinguisher. Maybe you carry a flagpole with a screw driven into the bottom, or a banner to stretch alongside the crowd, blocking the cameras of the police and articulating the things you are fighting for. If you carry a phone at all, it had better be a burner phone, so there won’t be any metadata c…
+Perspective: Making a Break
+
+The Lead-up
+
+Act One: The Blockades
+
+Act Two: The March
+
+Act Three: Chaos in DC
+
+Perspective: Downtown DC, Ungovernable Zone
+
+Assessment
+
+Was it a good idea to mobilize against Trump’s inauguration?
+
+Did the March Go Well?
+
+Perspective: DC Longtime Organizer
+
+Does the Black Bloc Work?
+
+Perspective: What We Learned
+
+Was It Worth It?
+
+Perspective: I’d Do It Again
+
+Two years have passed since the demonstrations against Donald Trump’s inauguration. Thanks to an epic legal struggle, all the charges have been resolved or dropped. Now we can discuss what there is to learn from the events of January 20 and the ensuing court cases. This article focuses on the march that took place on the day itself, utilizing a wealth of information that came to light during the subsequent investigation. We will follow it with an analysis of the J20 legal battle and solidarity efforts, as well as additional perspectives from participants.
+
+On January 20, anarchists took on the most powerful empire in the history of the solar system at the heart of the spectacle intended to legitimize its rule—at precisely the moment that a new administration sought to introduce an even more authoritarian model of governance. This was a profoundly courageous act. In retaliation, prosecutors attempted to set a legal precedent that would criminalize protest itself, in hopes of being able to inflict the full force of felony prosecution on anyone in proximity to any act of resistance. The ensuing legal battle lasted a year and a half.
+
+The mass arrest that occurred on January 20, 2017 was not inevitable. It was the consequence of specific decisions that the organizers and participants in the march made; it could have turned out differently. Everyone who might one day be compelled to take part in high-risk street protest stands to benefit from an analysis of this action. It is an especially interesting case study in that it represents a worst-case scenario: 500 demonstrators without scouts, a communications network, or a solid plan taking on 28,000 security personnel at a pivotal historical moment.
+
+Was it a good idea to mobilize against Trump’s inauguration? Was it a good idea to call for a confrontational march on that day? What did anarchists accomplish—and what can we learn from our mistakes and from the strategy of the police? Here, we will present a blow-by-blow review of the events of the day and address each of these questions in turn.
+
+You’re reading the news. You read about Trump’s intention to ban Muslims from visiting the United States, put children in concentration camps, suppress information about climate change, and build new pipelines. You see the Democrats trying to cash in on your anger in order to get back into office and renew faith in the corporate media and the FBI. You see the sneering face of power, and you seethe with rage—but mostly you just feel helpless. You are alone, staring at a screen.
+
+You meet at Logan Circle at 10 am on the first day of Trump’s presidency. You are wearing a colorful outer layer so you can move through the streets of Washington, DC without attracting more attention than any other pedestrian. Beneath it is a layer of black clothing: black pants, black shoes with no logo visible, a black hooded sweatshirt, black gloves, a black mask. Concealed within a colorful bag, you carry a black backpack containing goggles and a water bottle (in case of pepper spray), earplugs (in case of LRAD), a black motorcycle helmet, perhaps a hammer cleaned with alcohol to remove any fingerprints, perhaps a selection of projectiles, perhaps a fire extinguisher. Maybe you carry a flagpole with a screw driven into the bottom, or a banner to stretch alongside the crowd, blocking the cameras of the police and articulating the things you are fighting for. If you carry a phone at all, it had better be a burner phone, so there won’t be any metadata confirming that you were here. Beneath the layer of black, you are wearing anoth…

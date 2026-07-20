@@ -19,4 +19,50 @@ files:
     hosted: false
 ---
 
-1) When I set out to write this report, even the title gave me pause. „Fleeing“—it wasn’t a word I wanted to use. But it’s the truth. I fled. We fled. We escaped Tehran, running not because we had any connection to the Islamic Republic or to Israel, but simply to survive the bombs falling from the sky. In those final moments before leaving, everything boiled down to one thing: getting out. All the rage, all the adrenaline I carried was channeled into preparing this report—and into planning our escape. It felt like the most necessary thing in the world. Maybe even enough. But on our first night in a safe place, I realized it wasn’t enough. I couldn’t stop thinking about what we had left behind in Tehran. What enraged me most was watching the Islamic Republic’s official news broadcasts. They pretended everything was fine. They had no solutions—none. Their only concern, as always, was holding onto power. As I’ve reported before, there are no official government shelters in Tehran—or anywhere in Iran, for that matter. When you read this, it will either be long after the bombings are over, or I will no longer be in Iran—or perhaps you will never read this at all. The internet has been cut. Satellite signals are jammed. These were the only ways people in Tehran and across Iran could track the timing and type of incoming attacks. Now, the Islamic Republic is using people as human shields. Regime loyalists hide among civilians. They go door to door, removing satellite dishes from rooftops. They search for satellite internet tools, trying to strangle every channel of connection, every whisper of news. Meanwhile, not even the most basic help is being offered to war-stricken civilians. The government denies the very existence of this full-scale, catastrophic war. But people in Iran are completely defenseless—caught, abandoned, and under attack. The Other Side; Years ago, parallel to the national army, the Islamic Republic created its own military-economic force: the IRGC (Islamic Revolutionary Guard Corps)—known simply as Sepah in Persian. Its mission was never the protection of people, but the protection of the regime. Today, Sepah holds overwhelming power across Iran's economy, its military structure, and nearly every major industry. Its reach is total. Its interest is singular: the survival of the regime. 2) This institution (the IRGC) has always been fundamentally committed to preserving the Islamic Republic and its ruling structure. The Islamic Revolutionary Guard Corps (IRGC) is one of the main forces responsible for suppressing and torturing Iranian protesters. Its members have used live ammunition against demonstrators in the streets and have operated secret torture sites where people are subjected to rape and murder. Today, this very force is in charge of directing Iran’s war efforts against Israel. Supreme Leader Ali Khamenei has officially delegated a significant portion of his authority to the IRGC. Iran's national army is now entirely subordinate to the Guard’s command. As a result, alongside the United States and Israel, the IRGC has become a force with life-and-death control over the Iranian people. Some Iranians, utterly abandoned by both domestic and international institutions, turned to the internet before the recent blackout, pleading in Persian with Israeli authorities, "Terror Alarm," and far-right monarchists not to target residential areas inside Iran. But who are these desperate voices? Since the establishment of the Islamic Republic, a large number of Iranians have been forced into exile. Their reasons for fleeing were varied: some held political beliefs that put them at risk, while others were simply musicians, bar owners, fashion retailers, or film sellers. The Islamic Republic viewed monarchists, conservatives, leftists, anarchists, secularists, artists, dancers—and even Islamists with differing interpretations of the faith—as threats to its regime. To avoid imprisonment, torture, or execution—and to maintain …
+1) When I set out to write this report, even the title gave me pause. „Fleeing“—it wasn’t a word I wanted to use. But it’s the truth. I fled. We fled.
+
+We escaped Tehran, running not because we had any connection to the Islamic Republic or to Israel, but simply to survive the bombs falling from the sky.
+
+In those final moments before leaving, everything boiled down to one thing: getting out. All the rage, all the adrenaline I carried was channeled into preparing this report—and into planning our escape.
+
+It felt like the most necessary thing in the world.
+
+Maybe even enough.
+
+But on our first night in a safe place, I realized it wasn’t enough. I couldn’t stop thinking about what we had left behind in Tehran.
+
+What enraged me most was watching the Islamic Republic’s official news broadcasts. They pretended everything was fine. They had no solutions—none. Their only concern, as always, was holding onto power.
+
+As I’ve reported before, there are no official government shelters in Tehran—or anywhere in Iran, for that matter. When you read this, it will either be long after the bombings are over, or I will no longer be in Iran—or perhaps you will never read this at all.
+
+The internet has been cut. Satellite signals are jammed. These were the only ways people in Tehran and across Iran could track the timing and type of incoming attacks.
+
+Now, the Islamic Republic is using people as human shields. Regime loyalists hide among civilians. They go door to door, removing satellite dishes from rooftops. They search for satellite internet tools, trying to strangle every channel of connection, every whisper of news.
+
+Meanwhile, not even the most basic help is being offered to war-stricken civilians. The government denies the very existence of this full-scale, catastrophic war. But people in Iran are completely defenseless—caught, abandoned, and under attack.
+
+The Other Side;
+
+Years ago, parallel to the national army, the Islamic Republic created its own military-economic force: the IRGC (Islamic Revolutionary Guard Corps)—known simply as Sepah in Persian.
+
+Its mission was never the protection of people, but the protection of the regime. Today, Sepah holds overwhelming power across Iran's economy, its military structure, and nearly every major industry. Its reach is total. Its interest is singular: the survival of the regime.
+
+2) This institution (the IRGC) has always been fundamentally committed to preserving the Islamic Republic and its ruling structure.
+
+The Islamic Revolutionary Guard Corps (IRGC) is one of the main forces responsible for suppressing and torturing Iranian protesters. Its members have used live ammunition against demonstrators in the streets and have operated secret torture sites where people are subjected to rape and murder.
+
+Today, this very force is in charge of directing Iran’s war efforts against Israel.
+
+Supreme Leader Ali Khamenei has officially delegated a significant portion of his authority to the IRGC. Iran's national army is now entirely subordinate to the Guard’s command.
+
+As a result, alongside the United States and Israel, the IRGC has become a force with life-and-death control over the Iranian people.
+
+Some Iranians, utterly abandoned by both domestic and international institutions, turned to the internet before the recent blackout, pleading in Persian with Israeli authorities, "Terror Alarm," and far-right monarchists not to target residential areas inside Iran.
+
+But who are these desperate voices?
+
+Since the establishment of the Islamic Republic, a large number of Iranians have been forced into exile. Their reasons for fleeing were varied: some held political beliefs that put them at risk, while others were simply musicians, bar owners, fashion retailers, or film sellers.
+
+The Islamic Republic viewed monarchists, conservatives, leftists, anarchists, secularists, artists, dancers—and even Islamists with differing interpretations of the faith—as threats to its regime.
+
+To avoid imprisonment, torture, or exe…

@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-   Die bisherige Diskussion      Für einen Bruch mit der autoritären Linken! (Einige Anarchist*innen aus Dortmund)      Für einen Bruch mit der autoritären Linken? (Anarchistische Initiative Kaiserslautern)      Warum wir den Bruch mit der autoritären Linken wollen (Einige Anarchist*innen aus Dortmund)        Autoritär vs. antiautoritär        Was meinen wir also konkret mit einem Bruch?        Die eigene Handlungsfähigkeit    Appendix - Texte die im Kontext dieser Diskussion stehen.      Für einen anarchistischen Anarchismus – Zur Kritik an Pazifismus und Basisdemokratie (Politladen Köln)        Pazifismus ist staatserhaltend.        Umgang mit Polizeigewalt        Anarchismus = Basisdemokratie?!        Querfront gegen das System?        Anarchismus bedeutet Abwesenheit von Herrschaft bedeutet Abwesenheit von Staat bedeutet Abwesenheit von Parteipolitik, informellen Hierarchien und Diskriminierung. Am 15. Juli fand in Dortmund eine Demonstration unter dem Motto „OXI Spardiktat, OXI Kapitalismus! Schönes Leben statt Austerität!“ in Solidarität mit den Menschen in Griechenland statt. Die Demonstration war Teil eines internationalen Aktionstags. Nach einem Tag Mobilisierung und regnerischem Wetter kamen ca. 100 Leute zur Startkundgebung an der Reinoldikirche. Die Demonstration führte durch die Einkaufsmeile in der Innenstadt und die Nordstadt mit Endpunkt Nordmarkt. Nur rund die Hälfte der Demo-Teilnehmer*Innen blieb bis zum Ende der Demo. Mobilisiert für diese Demo hatte die Autonome Antifa 170 , Freundeskreis Autonomie , Antifaschistisches Medienzentrum . Aus unserer Sicht ist es in Dortmund keine Selbstverständlichkeit, dass es über die Themen Antirassismus, Antifaschismus und Freiräume hinaus viele Aktivitäten gibt. Daher waren wir erfreut über die Initiative und mit der grundlegenden Ausrichtung der Demonstration einverstanden. Überrascht hat uns aber nicht, dass diese Demonstration für Dortmund verhältnismäßig viele Menschen aus dem autoritär-sozialistischen Spektrum anzog. Ca. 15-20 Menschen von Linksjugend, SAV und Die Linke fanden sich bei der Demo zusammen. Geschuldet ist dies verschiedenen Punkten: Der Thematik, einer nicht eindeutig kommunizierten anti-autoritären Ausrichtung und letztendlich die Duldung von autoritären Kräften auf der Demo, sowie die generelle Verwobenheit von autoritärer und anti-autoritärer Linken. Während der Demonstration wurde auf antiparlamentarische Parolen immer wieder von dem beschriebenen Zusammenhang geantwortet. Von den übrigen Teilnehmer*Innen wurde dies entweder einfach nicht beachtet oder eher als Zankerei und nicht als inhaltliche Auseinandersetzung (wenn auch nur in Parolen) betrachtet. Erstaunlich, geht es doch in Griechenland genau um diesen Konflikt zwischen Basisbewegungen und Parlamentarismus. Aktuell erleben wir (wie so oft in der Menschheitsgeschichte) in Griechenland das Zusammenbrechen der parlamentarischen Illusion als Weg der Befreiung. Viele Menschen haben nachdem sie auf der Straße kämpften und in Nachbarschafts- und Basisbewegungen aktiv waren und jegliche Hoffnung in den Parlamentarismus verloren. Mit dem Aufkommen von Syriza wurde diese Hoffnung wieder von neuem genährt, denn Syriza hat es geschickt verstanden Basisbewegungen für sich zu vereinnahmen und den Widerstand gegen die frühere Regierung als Wahlkampf für sich zu nutzen. Nach der Wahl von Syriza wird offensichtlich was die anarchistische Bewegung in Griechenland schon immer betonte. Zuerst geht Syriza eine Koalition mit der rechtspopulistischen Anel-Partei ein und jetzt akzeptiert sie noch rigidere Sparmaßnahmen. Während dieselben (Nazi-)Bullen weiter die Proteste auf der Straße niederschlagen. Und alles unter dem Deckmantel von „Real“politik. Wenn jetzt Leute entgegnen, dass die KKE für echte Veränderung stehen würde, dann müssen wir zustimmen. Aber Stalinismus wird sicherlich nicht zu einer freiheitlichen Gesellschaft führen. Im Zuge dieser Situation in Griechenland, dem offensichtlichen Konflikt zwischen …
+Die bisherige Diskussion
+
+Für einen Bruch mit der autoritären Linken! (Einige Anarchist*innen aus Dortmund)
+
+Für einen Bruch mit der autoritären Linken? (Anarchistische Initiative Kaiserslautern)
+
+Warum wir den Bruch mit der autoritären Linken wollen (Einige Anarchist*innen aus Dortmund)
+
+Autoritär vs. antiautoritär
+
+Was meinen wir also konkret mit einem Bruch?
+
+Die eigene Handlungsfähigkeit
+
+Appendix - Texte die im Kontext dieser Diskussion stehen.
+
+Für einen anarchistischen Anarchismus – Zur Kritik an Pazifismus und Basisdemokratie (Politladen Köln)
+
+Pazifismus ist staatserhaltend.
+
+Umgang mit Polizeigewalt
+
+Anarchismus = Basisdemokratie?!
+
+Querfront gegen das System?
+
+Anarchismus bedeutet Abwesenheit von Herrschaft bedeutet Abwesenheit von Staat bedeutet Abwesenheit von Parteipolitik, informellen Hierarchien und Diskriminierung.
+
+Am 15. Juli fand in Dortmund eine Demonstration unter dem Motto „OXI Spardiktat, OXI Kapitalismus! Schönes Leben statt Austerität!“ in Solidarität mit den Menschen in Griechenland statt. Die Demonstration war Teil eines internationalen Aktionstags. Nach einem Tag Mobilisierung und regnerischem Wetter kamen ca. 100 Leute zur Startkundgebung an der Reinoldikirche. Die Demonstration führte durch die Einkaufsmeile in der Innenstadt und die Nordstadt mit Endpunkt Nordmarkt. Nur rund die Hälfte der Demo-Teilnehmer*Innen blieb bis zum Ende der Demo. Mobilisiert für diese Demo hatte die Autonome Antifa 170, Freundeskreis Autonomie, Antifaschistisches Medienzentrum. Aus unserer Sicht ist es in Dortmund keine Selbstverständlichkeit, dass es über die Themen Antirassismus, Antifaschismus und Freiräume hinaus viele Aktivitäten gibt. Daher waren wir erfreut über die Initiative und mit der grundlegenden Ausrichtung der Demonstration einverstanden.
+
+Überrascht hat uns aber nicht, dass diese Demonstration für Dortmund verhältnismäßig viele Menschen aus dem autoritär-sozialistischen Spektrum anzog. Ca. 15-20 Menschen von Linksjugend, SAV und Die Linke fanden sich bei der Demo zusammen.
+
+Geschuldet ist dies verschiedenen Punkten: Der Thematik, einer nicht eindeutig kommunizierten anti-autoritären Ausrichtung und letztendlich die Duldung von autoritären Kräften auf der Demo, sowie die generelle Verwobenheit von autoritärer und anti-autoritärer Linken.
+
+Während der Demonstration wurde auf antiparlamentarische Parolen immer wieder von dem beschriebenen Zusammenhang geantwortet. Von den übrigen Teilnehmer*Innen wurde dies entweder einfach nicht beachtet oder eher als Zankerei und nicht als inhaltliche Auseinandersetzung (wenn auch nur in Parolen) betrachtet.
+
+Erstaunlich, geht es doch in Griechenland genau um diesen Konflikt zwischen Basisbewegungen und Parlamentarismus. Aktuell erleben wir (wie so oft in der Menschheitsgeschichte) in Griechenland das Zusammenbrechen der parlamentarischen Illusion als Weg der Befreiung. Viele Menschen haben nachdem sie auf der Straße kämpften und in Nachbarschafts- und Basisbewegungen aktiv waren und jegliche Hoffnung in den Parlamentarismus verloren. Mit dem Aufkommen von Syriza wurde diese Hoffnung wieder von neuem genährt, denn Syriza hat es geschickt verstanden Basisbewegungen für sich zu vereinnahmen und den Widerstand gegen die frühere Regierung als Wahlkampf für sich zu nutzen. Nach der Wahl von Syriza wird offensichtlich was die anarchistische Bewegung in Griechenland schon immer betonte. Zuerst geht Syriza eine Koalition mit der rechtspopulistischen Anel-Partei ein und jetzt akzeptiert sie noch rigidere Sparmaßnahmen. Während dieselben (Nazi-)Bullen weiter die Proteste auf der Straße niederschlagen. Und alles unter dem Deckmantel von „Real“politik.
+
+Wenn jetzt Leute entgegnen, dass die KKE für echte Veränderung stehen würde, dann müssen wir zustimmen. Aber Stalinismus wird sicherlich nicht zu einer freiheitlichen Gesellschaft führen.
+
+Im Zuge dieser Situation in Griechenland, dem offensichtlichen Konflikt zwischen linkem Parlamentarismus und Basisbewegungen, ist es verwunderlich…

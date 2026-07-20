@@ -19,4 +19,155 @@ files:
     hosted: false
 ---
 
-     Introducción        La anarquía nunca funcionaría        ¿Qué es exactamente el anarquismo?        Una nota sobre la inspiración        El delicado tema de la representación        Lecturas Recomendadas      1. Naturaleza Humana        ¿No son las personas egoístas por naturaleza?        ¿No es la gente competitiva por naturaleza?        ¿Los seres humanos no han sido siempre patriarcales?        ¿No son las personas naturalmente guerreras?        ¿No son naturales la dominación y la autoridad?        Un sentido más amplio de uno mismo        Lecturas Recomendadas      2. Decisiones        ¿Cómo se tomarán las decisiones?        ¿Cómo se tomarán las decisiones impuestas?        ¿Quién resolverá los conflictos?        Reunión en las calles        Lecturas Recomendadas      3. Economía        Sin salario, ¿cuál es el incentivo para trabajar?        ¿La gente no necesita jefes ni expertos?        ¿Quién sacará la basura?        ¿Quién se hará cargo de los ancianos y los discapacitados?        ¿Cómo recibirán atención médica las personas?        ¿Qué ocurre con la educación?        ¿Qué sucederá con la tecnología?        ¿Cómo funcionará el intercambio?        ¿Qué pasa con las personas que no quieren renunciar a un estilo de vida consumista?        ¿Qué pasa con la organización y construcción de infraestructuras grandes y difusas?        ¿Cómo funcionarán las ciudades?        ¿Qué ocurrirá con la sequía, el hambre, u otro tipo catástrofes?        Satisfacer nuestras necesidades sin llevar la cuenta        Lecturas Recomendadas      4. Medio ambiente        ¿Qué hay de detener a alguien por destruir el medio ambiente?        ¿Qué pasa con los problemas ambientales globales, como el cambio climático?        La única manera de salvar el planeta        Lecturas Recomendadas      5. Crimen        ¿Quién nos protegerá sin policía?        ¿Qué pasa con las pandillas y matones?        ¿Qué detendrá a alguien que intente asesinar a otros?        ¿Qué hay de la violación, la violencia doméstica y otras formas de daño?        Más allá de la justicia individual        Lecturas Recomendadas      6. Revolución        ¿Cómo podría la gente organizada horizontalmente superar al Estado?        ¿Cómo sabemos que los revolucionarios no se convertirán en las nuevas autoridades?        ¿De qué manera las comunidades deciden organizarse ellas mismas en un primer momento?        ¿Cómo funcionarán las reparaciones de opresiones pasadas?        ¿Cómo se desarrolla un ethos común, anti-autoritario y ecológico?        Una revolución que son muchas revoluciones        Lecturas Recomendadas      7. Sociedades Vecinas        ¿Podría una sociedad anarquista defenderse de un vecino autoritario?        ¿Qué haremos con las sociedades que permanezcan patriarcales o racistas?        ¿Qué evitará las disputas y guerras constantes?        Redes sin fronteras        Lecturas Recomendadas      8. El Futuro        ¿No reaparecerá el Estado con el tiempo?        ¿Qué pasa con otros problemas que no podemos prever?        Haciendo que la Anarquía funcione        Lecturas Recomendadas        Funciona cuando hacemos que funcione        Bibliografía Basta de hablar sobre los viejos tiempos, es momento para algo grande. Quiero que salgas y hagas que funcione... Thom Yorke Dedicado a la maravillosa gente de Ruin Amalia, La Revoltosa y el centro de información de Kiev, por lograr hacer que la anarquía funcione. A pesar de que este libro comenzó como un proyecto individual, al final un gran número de personas, la mayoría de las cuales prefieren permanecer en el anonimato, ayudaron a hacerlo posible a través de la revisión, comprobación de hechos, recomendando fuentes, editando y mucho más. Para reconocer solo una pequeña parte de esta ayuda, el autor desea agradecer a Juan, José, Vila Kula, aaaa!, L, J y G por proveer acceso a computadoras a través de un año de movimientos, desalojos, accidentes, virus, etc. Gracias a Jessie Dodson y Katie Clark por ayudar con la investiga…
+Introducción
+
+La anarquía nunca funcionaría
+
+¿Qué es exactamente el anarquismo?
+
+Una nota sobre la inspiración
+
+El delicado tema de la representación
+
+Lecturas Recomendadas
+
+1. Naturaleza Humana
+
+¿No son las personas egoístas por naturaleza?
+
+¿No es la gente competitiva por naturaleza?
+
+¿Los seres humanos no han sido siempre patriarcales?
+
+¿No son las personas naturalmente guerreras?
+
+¿No son naturales la dominación y la autoridad?
+
+Un sentido más amplio de uno mismo
+
+Lecturas Recomendadas
+
+2. Decisiones
+
+¿Cómo se tomarán las decisiones?
+
+¿Cómo se tomarán las decisiones impuestas?
+
+¿Quién resolverá los conflictos?
+
+Reunión en las calles
+
+Lecturas Recomendadas
+
+3. Economía
+
+Sin salario, ¿cuál es el incentivo para trabajar?
+
+¿La gente no necesita jefes ni expertos?
+
+¿Quién sacará la basura?
+
+¿Quién se hará cargo de los ancianos y los discapacitados?
+
+¿Cómo recibirán atención médica las personas?
+
+¿Qué ocurre con la educación?
+
+¿Qué sucederá con la tecnología?
+
+¿Cómo funcionará el intercambio?
+
+¿Qué pasa con las personas que no quieren renunciar a un estilo de vida consumista?
+
+¿Qué pasa con la organización y construcción de infraestructuras grandes y difusas?
+
+¿Cómo funcionarán las ciudades?
+
+¿Qué ocurrirá con la sequía, el hambre, u otro tipo catástrofes?
+
+Satisfacer nuestras necesidades sin llevar la cuenta
+
+Lecturas Recomendadas
+
+4. Medio ambiente
+
+¿Qué hay de detener a alguien por destruir el medio ambiente?
+
+¿Qué pasa con los problemas ambientales globales, como el cambio climático?
+
+La única manera de salvar el planeta
+
+Lecturas Recomendadas
+
+5. Crimen
+
+¿Quién nos protegerá sin policía?
+
+¿Qué pasa con las pandillas y matones?
+
+¿Qué detendrá a alguien que intente asesinar a otros?
+
+¿Qué hay de la violación, la violencia doméstica y otras formas de daño?
+
+Más allá de la justicia individual
+
+Lecturas Recomendadas
+
+6. Revolución
+
+¿Cómo podría la gente organizada horizontalmente superar al Estado?
+
+¿Cómo sabemos que los revolucionarios no se convertirán en las nuevas autoridades?
+
+¿De qué manera las comunidades deciden organizarse ellas mismas en un primer momento?
+
+¿Cómo funcionarán las reparaciones de opresiones pasadas?
+
+¿Cómo se desarrolla un ethos común, anti-autoritario y ecológico?
+
+Una revolución que son muchas revoluciones
+
+Lecturas Recomendadas
+
+7. Sociedades Vecinas
+
+¿Podría una sociedad anarquista defenderse de un vecino autoritario?
+
+¿Qué haremos con las sociedades que permanezcan patriarcales o racistas?
+
+¿Qué evitará las disputas y guerras constantes?
+
+Redes sin fronteras
+
+Lecturas Recomendadas
+
+8. El Futuro
+
+¿No reaparecerá el Estado con el tiempo?
+
+¿Qué pasa con otros problemas que no podemos prever?
+
+Haciendo que la Anarquía funcione
+
+Lecturas Recomendadas
+
+Funciona cuando hacemos que funcione
+
+Bibliografía
+
+Basta de hablar sobre los viejos tiempos, es momento para algo grande.
+
+Quiero que salgas y hagas que funcione...
+
+Thom Yorke
+
+Dedicado a la maravillosa gente de Ruin Amalia, La Revoltosa y el centro de información de Kiev, por lograr hacer que la anarquía funcione.
+
+A pesar de que este libro comenzó como un proyecto individual, al final un gran número de personas, la mayoría de las cuales prefieren permanecer en el anonimato, ayudaron a hacerlo posible a través de la revisión, comprobación de hechos, recomendando fuentes, editando y mucho más. Para reconocer solo una pequeña parte de esta ayuda, el autor desea agradecer a Juan, José, Vila Kula, aaaa!, L, J y G por proveer acceso a computadoras a través de un año de movimientos, desalojos, accidentes, virus, etc. Gracias a Jessie Dodson y Katie Clark por ayudar con la investigación sobre otro proyecto que terminó utilizándose para este libro. También gracias a C y E, por prestar sus contraseñas de acceso gratuito a las bases de datos de artículos académicos, los cuales están a disposición de estudiantes universitarios, pero no para el resto de nosotros.
+
+* * * * *
+
+Hay historias ocultas a nuestro alrededor,
+
+creciendo en villas abandonadas en las montañas
+…

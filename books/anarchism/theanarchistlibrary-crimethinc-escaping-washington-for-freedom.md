@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Some Background        George Washington’s Youth        Washington Becomes a Planter and Politician        The Tide of Revolution        The War of Independence Concludes, The War on Slaves Continues        After the Revolution: The Reaction        After Washington        The Dollar Bill: A Postscript          The Kris Thompson Legal Fund          Ferguson Prisoners        Further Reading          Marie Joseph Angélique          Oney Judge          Mary Monroe “Mol” Bowden          Harry          Hercules          Databases President’s Day, a federal holiday, observes George Washington’s birthday on February 22. Yet as a slave owner and profiteer on others’ servitude, George Washington is a poor exemplar of the struggle for freedom. Rather than looking to him for a model representing resistance to tyranny, let’s remember the slaves and indentured servants who sought to escape from him and the Native Americans who defended themselves against his attacks. Washington is celebrated as the father of the American Revolution, itself the blueprint for countless subsequent struggles for independence and democracy. We can’t grasp the meaning of the American Revolution without recalling that George Washington was one of the wealthiest people in North America. Even now, he remains among the wealthiest presidents in US history, with holdings that would be worth about half a billion dollars today. Of all subsequent presidents, only Donald Trump is wealthier. [1] As Marcus Rediker and Peter Linebaugh describe in The Many-Headed Hydra , the American Revolution began in the 1760s with a series of protests and riots involving sailors, slaves, stevedores, working women, and other marginalized people. Networked in a global ferment involving mutinies, slave revolts, and strikes, these disturbances threatened to undermine the entire imperial order. Sensing that the empire was overextended and upheaval was inevitable, the colonial elite set themselves at the head of the rebellion, using it to free themselves of the financial burden of supporting the Crown. George Washington and his colleagues were not the initiators of the revolt, but the ones who coopted and contained it—a lesson about what happens when revolutionaries seek to gain legitimacy and resources through alliances with the upper class. Thus the Revolutionary War of the 1770s gave way to the American Counterrevolution of the 1780s and 1790s, climaxing with the establishment of the Federal Government, the Constitution, the Fugitive Slave Act, the Northwest Territory, and the Riot Act. [2] Meet the new boss, same as the old boss. From this vantage point, the apparently “individual” rebellions of slaves who set out to secure their own liberty compare favorably with a formal political revolution that did little to substantively alter the circumstances of the most oppressed while defusing social tensions for several generations. From their acts of defiance, whole Maroon and Quilombo communities arose in permanent resistance to white supremacy in both its monarchist and democratic variants. Just as the Russian Revolution might have turned out better if the working class had not permitted the Bolsheviks to seize the reins, the American Revolution could eventually have established a Quilombo the size of a continent had the revolutionaries deposed white supremacists like George Washington as ruling class interlopers. It’s much easier to study the Great Men of History than to learn about those who set out to get free of their authority. Here, we present some context from Washington’s life and the little we know about the slaves and indentured servants who sought to escape him. Much of this is drawn from the materials in the Founding Fathers database and the Geography of Slavery in Virginia archive. We hope this text will encourage others to uncover all the buried histories of the underclass—those who have been not only forgotten but also erased. “It was the sense of all his neighbors that he …
+Some Background
+
+George Washington’s Youth
+
+Washington Becomes a Planter and Politician
+
+The Tide of Revolution
+
+The War of Independence Concludes, The War on Slaves Continues
+
+After the Revolution: The Reaction
+
+After Washington
+
+The Dollar Bill: A Postscript
+
+The Kris Thompson Legal Fund
+
+Ferguson Prisoners
+
+Further Reading
+
+Marie Joseph Angélique
+
+Oney Judge
+
+Mary Monroe “Mol” Bowden
+
+Harry
+
+Hercules
+
+Databases
+
+President’s Day, a federal holiday, observes George Washington’s birthday on February 22. Yet as a slave owner and profiteer on others’ servitude, George Washington is a poor exemplar of the struggle for freedom. Rather than looking to him for a model representing resistance to tyranny, let’s remember the slaves and indentured servants who sought to escape from him and the Native Americans who defended themselves against his attacks.
+
+Washington is celebrated as the father of the American Revolution, itself the blueprint for countless subsequent struggles for independence and democracy. We can’t grasp the meaning of the American Revolution without recalling that George Washington was one of the wealthiest people in North America. Even now, he remains among the wealthiest presidents in US history, with holdings that would be worth about half a billion dollars today. Of all subsequent presidents, only Donald Trump is wealthier.[1]
+
+As Marcus Rediker and Peter Linebaugh describe in The Many-Headed Hydra, the American Revolution began in the 1760s with a series of protests and riots involving sailors, slaves, stevedores, working women, and other marginalized people. Networked in a global ferment involving mutinies, slave revolts, and strikes, these disturbances threatened to undermine the entire imperial order. Sensing that the empire was overextended and upheaval was inevitable, the colonial elite set themselves at the head of the rebellion, using it to free themselves of the financial burden of supporting the Crown. George Washington and his colleagues were not the initiators of the revolt, but the ones who coopted and contained it—a lesson about what happens when revolutionaries seek to gain legitimacy and resources through alliances with the upper class. Thus the Revolutionary War of the 1770s gave way to the American Counterrevolution of the 1780s and 1790s, climaxing with the establishment of the Federal Government, the Constitution, the Fugitive Slave Act, the Northwest Territory, and the Riot Act.[2] Meet the new boss, same as the old boss.
+
+From this vantage point, the apparently “individual” rebellions of slaves who set out to secure their own liberty compare favorably with a formal political revolution that did little to substantively alter the circumstances of the most oppressed while defusing social tensions for several generations. From their acts of defiance, whole Maroon and Quilombo communities arose in permanent resistance to white supremacy in both its monarchist and democratic variants. Just as the Russian Revolution might have turned out better if the working class had not permitted the Bolsheviks to seize the reins, the American Revolution could eventually have established a Quilombo the size of a continent had the revolutionaries deposed white supremacists like George Washington as ruling class interlopers.
+
+It’s much easier to study the Great Men of History than to learn about those who set out to get free of their authority. Here, we present some context from Washington’s life and the little we know about the slaves and indentured servants who sought to escape him. Much of this is drawn from the materials in the Founding Fathers database and the Geography of Slavery in Virginia archive. We hope this text will encourage others to uncover all the buried histories of the underclass—those who have been not only forgotten but also erased.
+
+“It was the sense of all his neighbors that he treated them with more severity than any other man… The first time I walked with General Washington among his [sic] …

@@ -19,4 +19,136 @@ files:
     hosted: false
 ---
 
-       Welcome to Issue #2        A Discussion on Green Anarchy          What Is Green Anarchy?          How Did You Come To A Green Anarchist Perspective?          Are Green Anarchism, Anarcho-Primitivism, And Anti-Civilization Synonymous Terms?          As An Academic Practice, What Role Does Anthropology Have In Green Anarchy?          As Green Anarchists, We Can Easily See How Fucked The World Is. Is There A Place For Hope?        Interview with Klee Benally        Anarchy and Anthropology          Outsiders Looking In and Away          Creating Reality          Cataloguing Conquest          Revolutionary Potential        Don’t Turn Away        Answers to Questions Not Asked: Anarchists & Anthropology          Critique Isn’t Nearly Enough          What Is The Most Fundamental Of All          Behemoth          Critique And Hostility          What Is The Space Between 5,000 Nations And One          The Sound Of One Hand Clapping          The End Is The End        The Undying Appeal of White Nationalism          Ecology          Music          Nihilism as Question and the Suppression of the Hipster          Radical Traditionalism, Revolutionary Reactionism          Retreat from Politics          The New Force          Nothing Before the Earth          Left-Right Collusion and The Technocratic Future          Realization and Confrontation          Bibliography        Implications of an Anarchist Spirit in the Salmon Run        Points For Further Discussion in the Digital Era        Anarchy In Flight        When Nature Attacks          Cop Hit By Falling Tree During Traffic Stop          Soldier Mauled By Bear At Base In Alaska          Small Town Mayor Killed By Wasps          Boy Attacked By Mountain Lion in Cupertino, CA          Two Men Killed in Bull-Running Festival, Won’t Stop Festival          Black Bear Kills Hiker in New Jersey        A Voice From the Grave        The Dark Mountain Manifesto          I: WALKING ON LAVA          II: THE SEVERED HAND          III: UNCIVILISATION          IV: TO THE FOOTHILLS!          THE EIGHT PRINCIPLES OF UNCIVILISATION        Ways of Casting Wishes        It’s All Falling Apart          Liquid Food To Replace Eating Called “Soylent”          DNA Company To Track Dog-Poop-Perpetrators          Driver posts Facebook Update Collision          Google’s next data collection project: Human body          Kid Climbs Trees With prosthetic arm          River in China mysteriously Turns Red Overnight          “Occupy Hong Kong” Kicks Off, Demanding Democracy        Two Steps Nowhere          (Caveat I: Communication Is Impossible)          (Caveat II: Labels Are Useless)        Review: Green Syndicalism: An Alternative Red/Green Vision        Pulling on the Threads of Representation We’ve made the conscious choice to produce a print-only newspaper in an era where much of anarchist dialogue occurs over the Internet. We hope that our choice of a print medium allows time for slowness and reflection, both as a challenge to the immediacy of the Internet as well as to deepen the dialogue. Whereas so much of Internet anarchist discourse is based on quick dismissals and ideological echo chambers, we hope to foster face-to-face conversations based on reflective of specific articles we publish and the larger questions they address. Black Seed has already helped further conversations surrounding the roles of anthropology and resistance. Despite these successes, we were reminded that this project and these conversations are very much a process. Professing to not have any answers, yet asking questions, has put us editors in a position of vulnerability. Holding everything in question, even the idea of green anarchy itself, provides a certain kind of provocation for those who have a stake in advocating for or defending their ideological positions and tendencies. When one makes grandiose claims about how an ideology must or must not behave a certain way, the only room for a response remains that of a statemen…
+Welcome to Issue #2
+
+A Discussion on Green Anarchy
+
+What Is Green Anarchy?
+
+How Did You Come To A Green Anarchist Perspective?
+
+Are Green Anarchism, Anarcho-Primitivism, And Anti-Civilization Synonymous Terms?
+
+As An Academic Practice, What Role Does Anthropology Have In Green Anarchy?
+
+As Green Anarchists, We Can Easily See How Fucked The World Is. Is There A Place For Hope?
+
+Interview with Klee Benally
+
+Anarchy and Anthropology
+
+Outsiders Looking In and Away
+
+Creating Reality
+
+Cataloguing Conquest
+
+Revolutionary Potential
+
+Don’t Turn Away
+
+Answers to Questions Not Asked: Anarchists & Anthropology
+
+Critique Isn’t Nearly Enough
+
+What Is The Most Fundamental Of All
+
+Behemoth
+
+Critique And Hostility
+
+What Is The Space Between 5,000 Nations And One
+
+The Sound Of One Hand Clapping
+
+The End Is The End
+
+The Undying Appeal of White Nationalism
+
+Ecology
+
+Music
+
+Nihilism as Question and the Suppression of the Hipster
+
+Radical Traditionalism, Revolutionary Reactionism
+
+Retreat from Politics
+
+The New Force
+
+Nothing Before the Earth
+
+Left-Right Collusion and The Technocratic Future
+
+Realization and Confrontation
+
+Bibliography
+
+Implications of an Anarchist Spirit in the Salmon Run
+
+Points For Further Discussion in the Digital Era
+
+Anarchy In Flight
+
+When Nature Attacks
+
+Cop Hit By Falling Tree During Traffic Stop
+
+Soldier Mauled By Bear At Base In Alaska
+
+Small Town Mayor Killed By Wasps
+
+Boy Attacked By Mountain Lion in Cupertino, CA
+
+Two Men Killed in Bull-Running Festival, Won’t Stop Festival
+
+Black Bear Kills Hiker in New Jersey
+
+A Voice From the Grave
+
+The Dark Mountain Manifesto
+
+I: WALKING ON LAVA
+
+II: THE SEVERED HAND
+
+III: UNCIVILISATION
+
+IV: TO THE FOOTHILLS!
+
+THE EIGHT PRINCIPLES OF UNCIVILISATION
+
+Ways of Casting Wishes
+
+It’s All Falling Apart
+
+Liquid Food To Replace Eating Called “Soylent”
+
+DNA Company To Track Dog-Poop-Perpetrators
+
+Driver posts Facebook Update Collision
+
+Google’s next data collection project: Human body
+
+Kid Climbs Trees With prosthetic arm
+
+River in China mysteriously Turns Red Overnight
+
+“Occupy Hong Kong” Kicks Off, Demanding Democracy
+
+Two Steps Nowhere
+
+(Caveat I: Communication Is Impossible)
+
+(Caveat II: Labels Are Useless)
+
+Review: Green Syndicalism: An Alternative Red/Green Vision
+
+Pulling on the Threads of Representation
+
+We’ve made the conscious choice to produce a print-only newspaper in an era where much of anarchist dialogue occurs over the Internet. We hope that our choice of a print medium allows time for slowness and reflection, both as a challenge to the immediacy of the Internet as well as to deepen the dialogue. Whereas so much of Internet anarchist discourse is based on quick dismissals and ideological echo chambers, we hope to foster face-to-face conversations based on reflective of specific articles we publish and the larger questions they address. Black Seed has already helped further conversations surrounding the roles of anthropology and resistance.
+
+Despite these successes, we were reminded that this project and these conversations are very much a process. Professing to not have any answers, yet asking questions, has put us editors in a position of vulnerability. Holding everything in question, even the idea of green anarchy itself, provides a certain kind of provocation for those who have a stake in advocating for or defending their ideological positions and tendencies. When one makes grandiose claims about how an ideology must or must not behave a certain way, the only room for a response remains that of a statement of allegiance or opposition to those claims. By honestly opening up the conversation with a series of questions, we’ve begun an experiment in life and thought.
+
+How do we pay homage and respect to those who came before, living against civilization and with wildness, without holding hands with racist anthropological practices and appropriating cultures that are not ours? How do we begin to discuss that the very way we live our lives is out of sync with so many basic nee…

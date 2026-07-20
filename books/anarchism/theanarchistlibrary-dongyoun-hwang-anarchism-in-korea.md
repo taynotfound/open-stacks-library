@@ -19,4 +19,93 @@ files:
     hosted: false
 ---
 
-       References and Suggested Readings Anarchism, accepted by Korean radicals in the early 1920s as an idea for independence from Japanese colonial rule since 1910, was one of the most important currents in the Korean independence movement. While their immediate goal was to “retake” independence through direct action, motivated by national consciousness, the ultimate goal of Korean anarchists was to achieve a social revolution bent on anarchist principles. Anarchism offered them an alternative to Bolshevism and social Darwinism with its promise of human progress through mutual aid, and hope for a new society with its universal messages of freedom, no compulsory power, and spontaneous alliance. The circulations of anarchist ideas as well as anarchists themselves in East Asia were of significance in the rise of Korean anarchism in the 1920s, in the sense that it was basically a product of interactions among anarchists in the area, through which Korean anarchists were imbued with national consciousness and shared transnational concerns with other anarchists as a result of mutual influence and inspiration. Transnationalism, like nationalism, was a main force in the rise of Korean anarchism, which may explain why Korean anarchists preferred political independence to social revolution, without which, they believed, no significant political changes could even be made (Hwang 2007). After 1920 anarchist groups and organizations appeared first among Korean exiles and/or study-abroad students in China and Japan, and then in Korea. In early 1920s China the Beijing Branch of the Black Youth Alliance and the Korean Anarchist Federation in China were successively established. The inaugural editorial of the latter’s organ, The Conquest ( talhwan ), published in 1928, clearly expressed its advocacy of social revolution for “the oppressed class,” while Shin Chaeho’s 1923 “Declaration of the Korean Revolution” justified mass violence against Japanese colonial government (Graham 2005: 373–6, 381–3). Of importance in the Korean reception of anarchism was support from Chinese anarchists and the role of Vasilij Eroshenko, a blind Russian poet and anarchist, who propagated in early 1920s China cosmopolitanism and anti-Bolshevism (Bak 2005: 26; Hwang 2007). Many Korean anarchists participated in such anarchist projects as the opening of the National Shanghai Labor University (1928), the Movement for Self-Defensive Rural Communities (1927–8) in Quanzhou, and educational experiments (1929–early 1930s) also in Quanzhou. After 1931 many engaged in armed struggles against Japan, in collaboration with some Chinese anarchists. Their goal, however, was still social revolution rather than political independence, as exemplified in the platform and declaration of the Alliance of Korean Youths in South China (Bak 2005: 161–8). In Japan the first anarchism-oriented Black Wave Society appeared in 1921, but a group of Korean anarchists withdrew from it to establish the Black Friend Society and published Fat Korean ( Hutoi senjin ). Park Yeol was a leading figure in the organizations and journal until 1923, when he and his Japanese comrade Kaneko Fumiko were arrested for their alleged conspiracy to assassinate the Japanese emperor. Fat Korean and its successor, The Contemporary Society ( Gen shakai ), both published in 1923, made clear their national and transnational goals under the shackles of capitalism and colonialism (Hwang 2007). Park’s arrest was a setback to the Japan-based Korean anarchist movement which was revived briefly with the organization in 1926 of the Black Movement Society, which became a member of the Japanese Black Youth League. Obviously, many Japan-based Korean anarchists partook in the various publications and organizational activities of their Japanese counterparts, which was conducive to their survival under Japanese surveillance. Their activities used to be supported and even sponsored by Japanese anarchists such as Ōsugi Sakae, Hatta Shū…
+References and Suggested Readings
+
+Anarchism, accepted by Korean radicals in
+the early 1920s as an idea for independence
+from Japanese colonial rule since 1910, was
+one of the most important currents in the
+Korean independence movement. While their
+immediate goal was to “retake” independence
+through direct action, motivated by national
+consciousness, the ultimate goal of Korean
+anarchists was to achieve a social revolution
+bent on anarchist principles. Anarchism
+offered them an alternative to Bolshevism
+and social Darwinism with its promise of
+human progress through mutual aid, and
+hope for a new society with its universal
+messages of freedom, no compulsory power,
+and spontaneous alliance.
+
+The circulations of anarchist ideas as well
+as anarchists themselves in East Asia were of
+significance in the rise of Korean anarchism
+in the 1920s, in the sense that it was basically
+a product of interactions among anarchists
+in the area, through which Korean anarchists
+were imbued with national consciousness
+and shared transnational concerns with other
+anarchists as a result of mutual influence and
+inspiration. Transnationalism, like nationalism, was a main force in the rise of Korean
+anarchism, which may explain why Korean
+anarchists preferred political independence
+to social revolution, without which, they
+believed, no significant political changes
+could even be made (Hwang 2007).
+
+After 1920 anarchist groups and organizations appeared first among Korean exiles
+and/or study-abroad students in China and
+Japan, and then in Korea. In early 1920s
+China the Beijing Branch of the Black Youth
+Alliance and the Korean Anarchist Federation in China were successively established.
+The inaugural editorial of the latter’s organ,
+The Conquest (talhwan), published in 1928,
+clearly expressed its advocacy of social revolution for “the oppressed class,” while Shin
+Chaeho’s 1923 “Declaration of the Korean
+Revolution” justified mass violence against
+Japanese colonial government (Graham 2005:
+373–6, 381–3). Of importance in the Korean
+reception of anarchism was support from
+Chinese anarchists and the role of Vasilij
+Eroshenko, a blind Russian poet and anarchist, who propagated in early 1920s China
+cosmopolitanism and anti-Bolshevism (Bak
+2005: 26; Hwang 2007). Many Korean anarchists participated in such anarchist projects
+as the opening of the National Shanghai
+Labor University (1928), the Movement for
+Self-Defensive Rural Communities (1927–8)
+in Quanzhou, and educational experiments
+(1929–early 1930s) also in Quanzhou. After
+1931 many engaged in armed struggles
+against Japan, in collaboration with some
+Chinese anarchists. Their goal, however, was
+still social revolution rather than political
+independence, as exemplified in the platform
+and declaration of the Alliance of Korean
+Youths in South China (Bak 2005: 161–8).
+
+In Japan the first anarchism-oriented Black
+Wave Society appeared in 1921, but a group
+of Korean anarchists withdrew from it to
+establish the Black Friend Society and published Fat Korean (Hutoi senjin). Park Yeol
+was a leading figure in the organizations and
+journal until 1923, when he and his Japanese
+comrade Kaneko Fumiko were arrested
+for their alleged conspiracy to assassinate
+the Japanese emperor. Fat Korean and its
+successor, The Contemporary Society (Gen shakai), both published in 1923, made clear
+their national and transnational goals under
+the shackles of capitalism and colonialism
+(Hwang 2007). Park’s arrest was a setback
+to the Japan-based Korean anarchist movement which was revived briefly with the
+organization in 1926 of the Black Movement
+Society, which became a member of the
+Japanese Black Youth League. Obviously,
+many Japan-based Korean anarchists partook
+in the various publications and organizational
+activities of their Japanese counterparts,
+which was conducive to their survival under
+Japanese surveillance. Their activities used to
+be supported and even sponsored by Japanese
+anarchists such as Ōsugi Sakae, Hatta Shūzō,
+and I…

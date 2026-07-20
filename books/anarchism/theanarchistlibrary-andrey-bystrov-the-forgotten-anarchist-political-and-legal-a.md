@@ -19,4 +19,43 @@ files:
     hosted: false
 ---
 
-Abstract The article examines the political and legal ideas of Alexei Borovoy, a Russian anarchist thinker of the early 20th century and author of the anarcho-humanism theory, which represents an original anti-state doctrine and rethinks the established positions of classical anarchism. Borovoy was influenced by a broad variety of ideas, and the evolution of his views can be conceptualized with a Hegelian triad: the Marxist thesis, the individualist antithesis, and the blending of personalistic and existentialistic attitudes with syndicalist practice as the synthesis. He presents anarchism as a constant striving towards an individual’s self-liberation through the negation of social reality; and this striving shall be seen as a universal condition for the development of all mankind rather than some social utopia project. By revealing the irresolvable antinomy between individual and society, his philosophy predicates the anti-finalist spirit of anarcho-humanism. Determined by the aforementioned beliefs, Borovoy’s criticism of the state and other “social fetishes” still deeply rooted in the human mind is followed by an analysis of his critique of anarchism itself and the debate with Kropotkin and other libertarian theorists. Borovoy postulates that the state is historically necessary and describes the range of factors that have brought it about. The criticism of the state system as the quintessence of organized power leads Borovoy to a detailed deconstruction of parliamentarism, the only objective of which is to preserve the status quo that can be summed up in the following six points: (a) the class nature of parliaments and the fictitious power of popular will; (b) the tyranny of the masses; (c) parliament’s subordination to the government; (d) the opportunism of political parties; (e) the hypocrisy of election procedures; and (f) non-professionalism of parliamentarians. Borovoy defines the law as actual relations formed in the course of life and originating mainly in the human mind that should be regarded as part of the psychosocial current of legal thought. From his criticism of the law that is made ex parte by those in power and becomes necessarily coercive and precluding voluntary acceptance of social obligations, Borovoy turns to the law based on conventional norms established by common agreement and commonly supported and accepted. However, similarly to the “anarchist ideal”, his approach offers an unlimited freedom to exercise human abilities, but fails to suggest any reasoned, specific, and consistent principles to serve as a basis of this law, and sticks to general and abstract formulas. Introduction The very specific, power-centric [1] nature of the Russian state system has provoked various forms of reaction, from practical resistance (Pugachev’s rebellion, Stepan Razin’s uprising, the October Revolution, etc.) to deep reflections on freedom, self-government and anti-statism, which gave rise to the unique political theories of anarchism. [2] Neither Russian Marxists, nor conservatives (not to mention liberals) were able to demonstrate the same level of originality and novelty, which transformed Russian anarchism into a global trend. “Anarchism has been largely invented by the Russians,” [3] summarized the prominent existentialist thinker Nikolai Berdyaev more than half a century ago. Yet, even for the majority of the educated public the words “a Russian anarchist theorist” are likely to bring to mind two or three names at best: Michael Bakunin, Peter Kropotkin and, perhaps, Leo Tolstoy (though in his case the literary genius would clearly (albeit, rather unfairly) outshine his social influence). Certainly, the above anarchists are well known all around the world, not only in Russia. However, this list does need to be expanded, since the history of Russian thought includes some names which have long remained eclipsed by recognized classics despite their impressive theoretical contribution and civic courage. [4] One such…
+Abstract
+
+The article examines the political and legal ideas of Alexei Borovoy, a Russian anarchist thinker of the early 20th century and author of the
+anarcho-humanism theory, which represents an original anti-state doctrine and rethinks the established positions of classical anarchism. Borovoy
+was influenced by a broad variety of ideas, and the evolution of his views can be conceptualized with a Hegelian triad: the Marxist thesis, the individualist antithesis, and the blending of personalistic and existentialistic attitudes with syndicalist practice as the synthesis. He presents anarchism
+as a constant striving towards an individual’s self-liberation through the negation of social reality; and this striving shall be seen as a universal
+condition for the development of all mankind rather than some social utopia project. By revealing the irresolvable antinomy between individual
+and society, his philosophy predicates the anti-finalist spirit of anarcho-humanism. Determined by the aforementioned beliefs, Borovoy’s criticism
+of the state and other “social fetishes” still deeply rooted in the human mind is followed by an analysis of his critique of anarchism itself and the
+debate with Kropotkin and other libertarian theorists. Borovoy postulates that the state is historically necessary and describes the range of factors
+that have brought it about. The criticism of the state system as the quintessence of organized power leads Borovoy to a detailed deconstruction of
+parliamentarism, the only objective of which is to preserve the status quo that can be summed up in the following six points: (a) the class nature of
+parliaments and the fictitious power of popular will; (b) the tyranny of the masses; (c) parliament’s subordination to the government; (d) the opportunism of political parties; (e) the hypocrisy of election procedures; and (f) non-professionalism of parliamentarians. Borovoy defines the law as
+actual relations formed in the course of life and originating mainly in the human mind that should be regarded as part of the psychosocial current
+of legal thought. From his criticism of the law that is made ex parte by those in power and becomes necessarily coercive and precluding voluntary
+acceptance of social obligations, Borovoy turns to the law based on conventional norms established by common agreement and commonly supported
+and accepted. However, similarly to the “anarchist ideal”, his approach offers an unlimited freedom to exercise human abilities, but fails to suggest
+any reasoned, specific, and consistent principles to serve as a basis of this law, and sticks to general and abstract formulas.
+
+Introduction
+
+The very specific, power-centric[1] nature of the Russian state
+system has provoked various forms of reaction, from practical
+resistance (Pugachev’s rebellion, Stepan Razin’s uprising, the
+October Revolution, etc.) to deep reflections on freedom, self-government and anti-statism, which gave rise to the unique
+political theories of anarchism.[2] Neither Russian Marxists, nor
+conservatives (not to mention liberals) were able to demonstrate the same level of originality and novelty, which transformed Russian anarchism into a global trend. “Anarchism
+has been largely invented by the Russians,” [3] summarized the
+prominent existentialist thinker Nikolai Berdyaev more than
+half a century ago.
+
+Yet, even for the majority of the educated public the words
+“a Russian anarchist theorist” are likely to bring to mind two
+or three names at best: Michael Bakunin, Peter Kropotkin and,
+perhaps, Leo Tolstoy (though in his case the literary genius
+would clearly (albeit, rather unfairly) outshine his social influence). Certainly, the above anarchists are well known all around
+the world, not only in Russia. However, this list does need to be
+expanded, since the history of Russian thought includes some
+names which have long remained eclipsed by recognized classics despite their impressive theoretical contribution and civic
+courage.[4] One suc…

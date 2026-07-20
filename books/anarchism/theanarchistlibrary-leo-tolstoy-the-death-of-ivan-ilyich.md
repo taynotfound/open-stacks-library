@@ -19,4 +19,68 @@ files:
     hosted: false
 ---
 
-     Chapter 1      Chapter 2      Chapter 3      Chapter 4      Chapter 5      Chapter 6      Chapter 7      Chapter 8      Chapter 9      Chapter 10      Chapter 11      Chapter 12 During an interval in the Melvinski trial in the large building of the Law Courts the members and public prosecutor met in Ivan Egorovich Shebek’s private room, where the conversation turned on the celebrated Krasovski case. Fedor Vasilievich warmly maintained that it was not subject to their jurisdiction, Ivan Egorovich maintained the contrary, while Peter Ivanovich, not having entered into the discussion at the start, took no part in it but looked through the Gazette which had just been handed in. “Gentlemen,” he said, “Ivan Ilych has died!” “You don’t say so!” “Here, read it yourself,” replied Peter Ivanovich, handing Fedor Vasilievich the paper still damp from the press. Surrounded by a black border were the words: “Praskovya Fedorovna Golovina, with profound sorrow, informs relatives and friends of the demise of her beloved husband Ivan Ilych Golovin, Member of the Court of Justice, which occurred on February the 4 th of this year 1882. The funeral will take place on Friday at one o’clock in the afternoon.” Ivan Ilych had been a colleague of the gentlemen present and was liked by them all. He had been ill for some weeks with an illness said to be incurable. His post had been kept open for him, but there had been conjectures that in case of his death Alexeev might receive his appointment, and that either Vinnikov or Shtabel would succeed Alexeev. So on receiving the news of Ivan Ilych’s death the first thought of each of the gentlemen in that private room was of the changes and promotions it might occasion among themselves or their acquaintances. “I shall be sure to get Shtabel’s place or Vinnikov’s,” thought Fedor Vasilievich. “I was promised that long ago, and the promotion means an extra eight hundred rubles a year for me besides the allowance.” “Now I must apply for my brother-in-law’s transfer from Kaluga,” thought Peter Ivanovich. “My wife will be very glad, and then she won’t be able to say that I never do anything for her relations.” “I thought he would never leave his bed again,” said Peter Ivanovich aloud. “It’s very sad.” “But what really was the matter with him?” “The doctors couldn’t say — at least they could, but each of them said something different. When last I saw him I though he was getting better.” “And I haven’t been to see him since the holidays. I always meant to go.” “Had he any property?” “I think his wife had a little — but something quiet trifling.” “We shall have to go to see her, but they live so terribly far away.” “Far away from you, you mean. Everything’s far away from your place.” “You see, he never can forgive my living on the other side of the river,” said Peter Ivanovich, smiling at Shebek. Then, still talking of the distances between different parts of the city, they returned to the Court. Besides considerations as to the possible transfers and promotions likely to result from Ivan Ilych’s death, the mere fact of the death of a near acquaintance aroused, as usual, in all who heard of it the complacent feeling that, “it is he who is dead and not I.” Each one thought or felt, “Well, he’s dead but I’m alive!” But the more intimate of Ivan Ilych’s acquaintances, his so-called friends, could not help thinking also that they would now have to fulfill the very tiresome demands of propriety by attending the funeral service and paying a visit of condolence to the widow. Fedor Vasilievich and Peter Ivanovich had been his nearest acquaintances. Peter Ivanovich had studied law with Ivan Ilych and had considered himself to be under obligations to him. Having told his wife at dinner-time of Ivan Ilych’s death, and of his conjecture that it might be possible to get her brother transferred to their circuit, Peter Ivanovich sacrificed his usual nap, put on his evening clothes and drove to Ivan Ilych’s house. At the entrance …
+Chapter 1
+
+Chapter 2
+
+Chapter 3
+
+Chapter 4
+
+Chapter 5
+
+Chapter 6
+
+Chapter 7
+
+Chapter 8
+
+Chapter 9
+
+Chapter 10
+
+Chapter 11
+
+Chapter 12
+
+During an interval in the Melvinski trial in the large building of the Law Courts the members and public prosecutor met in Ivan Egorovich Shebek’s private room, where the conversation turned on the celebrated Krasovski case. Fedor Vasilievich warmly maintained that it was not subject to their jurisdiction, Ivan Egorovich maintained the contrary, while Peter Ivanovich, not having entered into the discussion at the start, took no part in it but looked through the Gazette which had just been handed in.
+
+“Gentlemen,” he said, “Ivan Ilych has died!”
+
+“You don’t say so!”
+
+“Here, read it yourself,” replied Peter Ivanovich, handing Fedor Vasilievich the paper still damp from the press. Surrounded by a black border were the words: “Praskovya Fedorovna Golovina, with profound sorrow, informs relatives and friends of the demise of her beloved husband Ivan Ilych Golovin, Member of the Court of Justice, which occurred on February the 4th of this year 1882. The funeral will take place on Friday at one o’clock in the afternoon.”
+
+Ivan Ilych had been a colleague of the gentlemen present and was liked by them all. He had been ill for some weeks with an illness said to be incurable. His post had been kept open for him, but there had been conjectures that in case of his death Alexeev might receive his appointment, and that either Vinnikov or Shtabel would succeed Alexeev. So on receiving the news of Ivan Ilych’s death the first thought of each of the gentlemen in that private room was of the changes and promotions it might occasion among themselves or their acquaintances.
+
+“I shall be sure to get Shtabel’s place or Vinnikov’s,” thought Fedor Vasilievich. “I was promised that long ago, and the promotion means an extra eight hundred rubles a year for me besides the allowance.”
+
+“Now I must apply for my brother-in-law’s transfer from Kaluga,” thought Peter Ivanovich. “My wife will be very glad, and then she won’t be able to say that I never do anything for her relations.”
+
+“I thought he would never leave his bed again,” said Peter Ivanovich aloud. “It’s very sad.”
+
+“But what really was the matter with him?”
+
+“The doctors couldn’t say — at least they could, but each of them said something different. When last I saw him I though he was getting better.”
+
+“And I haven’t been to see him since the holidays. I always meant to go.”
+
+“Had he any property?”
+
+“I think his wife had a little — but something quiet trifling.”
+
+“We shall have to go to see her, but they live so terribly far away.”
+
+“Far away from you, you mean. Everything’s far away from your place.”
+
+“You see, he never can forgive my living on the other side of the river,” said Peter Ivanovich, smiling at Shebek. Then, still talking of the distances between different parts of the city, they returned to the Court.
+
+Besides considerations as to the possible transfers and promotions likely to result from Ivan Ilych’s death, the mere fact of the death of a near acquaintance aroused, as usual, in all who heard of it the complacent feeling that, “it is he who is dead and not I.”
+
+Each one thought or felt, “Well, he’s dead but I’m alive!” But the more intimate of Ivan Ilych’s acquaintances, his so-called friends, could not help thinking also that they would now have to fulfill the very tiresome demands of propriety by attending the funeral service and paying a visit of condolence to the widow.
+
+Fedor Vasilievich and Peter Ivanovich had been his nearest acquaintances. Peter Ivanovich had studied law with Ivan Ilych and had considered himself to be under obligations to him.
+
+Having told his wife at dinner-time of Ivan Ilych’s death, and of his conjecture that it might be possible to get her brother transferred to their circuit, Peter Ivanovich sacrificed his usual nap, put on his evening clothes and drove to Ivan Ilych’s house.
+
+At the entrance stood a carriage and two cabs…

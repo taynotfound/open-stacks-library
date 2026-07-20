@@ -19,4 +19,76 @@ files:
     hosted: false
 ---
 
-     Introduction: Process and Product          Process          Product      Part 1: Organizing the Direct Unionist Way        Section 1: What would a direct unionist campaign look like?        Section 2: What sorts of techniques would be employed in a direct unionist campaign?        Section 3: Are we trying to build a “union”          What about solidarity unionism?          Why “direct unionism”?          How important is signing up workers into the IWW?          Why do direct unionist believe we don’t always need to “fly the union flag” to win the union’s battles?          What is the difference between qualitative growth and quantitative growth ?          We do we need to combat the assumption ‘join the IWW and the struggle will come to you’?        Section 4: The need for organization          How will non-contractual organizing maintain workplace gains?        Section 5: What is the industrial strategy?          How would the industrial strategy work in the long-term?        Section 6: Non-Contractual Organizing in the IWW        Section 7: Non-contractual organizing outside the IWW      Part 2: What are potential problems that the IWW may encounter during a non-contractual campaign?        Section 1: Will the direct unionist strategy lead to short-terms gains as quickly as a contract campaign? How about in medium-term?        Section 2: What if workers “want” a contract?          So what is to be done?        Section 3: What happens when we win? When we lose?        Section 4: How would a Direct Unionist campaign relate to labor law?          Can even defensive use of labor law, ULPs for example, disempower workers?      Part 3: Why Organize Without Contracts?        Section 1: What are the pitfalls of contractualism?          General problems of contractualism          IWW-specific failures of the contract model        Section 2: What we do we oppose a “capture the shop” model of organizing?        Section 3: Practically, what are the success rates of labor board elections?        Section 4: How do contracts inhibit the revolutionary potential of the IWW?      Part 3: Why organize without contracts? This paper, Direct Unionism, grew out of a few places. A group of us became friends through working together on IWW projects. We had three basic things in common — some experiences of local struggle and organization in different places, participation in the IWW beyond our immediate locations, and a common set of ideas which we had mostly picked up through things we had read. Our experiences were and are powerful and the memories of the past struggles remain powerful ones that we will always carry in our hearts. The IWW is dear to us, we work hard to build it, and we know it is not yet what it could and should be. The ideas we’ve picked up are also dear to us, we don’t know how to think without them, and yet their clarity is sometimes misleading. What we’ve lived has been messier than what we’ve read, and things seem to rarely move in straight lines in the way we have expected. None of this added up together neatly, in part because we hadn’t done enough serious reflection and put the effort in to make it all make sense. This paper is an attempt to make all of those things fit together better. We don’t get all the puzzle pieces in place, but we are clearer than we were. We hope that this paper can help others similarly put pieces in place, and we look forward to learning from others in discussion in response to it. This is a discussion paper that has been sitting for a while now. Over a period of a year and a half or so several of us read drafts, suggested revisions, and discusses many ideas that came up along the way. It was an incredibly productive discussion that changed people’s minds and helped us develop our ideas. While several people had a hand in this, most of the actual words here were written by one person. XX took up the challenge and took the time to try to put clear words to a vision of union organizing. A lot…
+Introduction: Process and Product
+
+Process
+
+Product
+
+Part 1: Organizing the Direct Unionist Way
+
+Section 1: What would a direct unionist campaign look like?
+
+Section 2: What sorts of techniques would be employed in a direct unionist campaign?
+
+Section 3: Are we trying to build a “union”
+
+What about solidarity unionism?
+
+Why “direct unionism”?
+
+How important is signing up workers into the IWW?
+
+Why do direct unionist believe we don’t always need to “fly the union flag” to win the union’s battles?
+
+What is the difference between qualitative growth and quantitative growth?
+
+We do we need to combat the assumption ‘join the IWW and the struggle will come to you’?
+
+Section 4: The need for organization
+
+How will non-contractual organizing maintain workplace gains?
+
+Section 5: What is the industrial strategy?
+
+How would the industrial strategy work in the long-term?
+
+Section 6: Non-Contractual Organizing in the IWW
+
+Section 7: Non-contractual organizing outside the IWW
+
+Part 2: What are potential problems that the IWW may encounter during a non-contractual campaign?
+
+Section 1: Will the direct unionist strategy lead to short-terms gains as quickly as a contract campaign? How about in medium-term?
+
+Section 2: What if workers “want” a contract?
+
+So what is to be done?
+
+Section 3: What happens when we win? When we lose?
+
+Section 4: How would a Direct Unionist campaign relate to labor law?
+
+Can even defensive use of labor law, ULPs for example, disempower workers?
+
+Part 3: Why Organize Without Contracts?
+
+Section 1: What are the pitfalls of contractualism?
+
+General problems of contractualism
+
+IWW-specific failures of the contract model
+
+Section 2: What we do we oppose a “capture the shop” model of organizing?
+
+Section 3: Practically, what are the success rates of labor board elections?
+
+Section 4: How do contracts inhibit the revolutionary potential of the IWW?
+
+Part 3: Why organize without contracts?
+
+This paper, Direct Unionism, grew out of a few places. A group of us became friends through working together on IWW projects. We had three basic things in common — some experiences of local struggle and organization in different places, participation in the IWW beyond our immediate locations, and a common set of ideas which we had mostly picked up through things we had read. Our experiences were and are powerful and the memories of the past struggles remain powerful ones that we will always carry in our hearts. The IWW is dear to us, we work hard to build it, and we know it is not yet what it could and should be. The ideas we’ve picked up are also dear to us, we don’t know how to think without them, and yet their clarity is sometimes misleading. What we’ve lived has been messier than what we’ve read, and things seem to rarely move in straight lines in the way we have expected. None of this added up together neatly, in part because we hadn’t done enough serious reflection and put the effort in to make it all make sense. This paper is an attempt to make all of those things fit together better. We don’t get all the puzzle pieces in place, but we are clearer than we were. We hope that this paper can help others similarly put pieces in place, and we look forward to learning from others in discussion in response to it.
+
+This is a discussion paper that has been sitting for a while now. Over a period of a year and a half or so several of us read drafts, suggested revisions, and discusses many ideas that came up along the way. It was an incredibly productive discussion that changed people’s minds and helped us develop our ideas.
+
+While several people had a hand in this, most of the actual words here were written by one person. XX took up the challenge and took the time to try to put clear words to a vision of union organizing. A lot of us believe in this vision, but it’s vague. XX tried to make that vision more concrete and the results had lots of benefits for everyone who was part of the conversation. The process that this piece came out of was ver…

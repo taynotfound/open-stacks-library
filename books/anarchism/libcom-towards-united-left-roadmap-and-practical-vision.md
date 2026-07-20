@@ -17,9 +17,153 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/towards-united-left-roadmap-and-practical-vision)
+Economic content of socialism in Lenin; is it the same as in Marx?
 
-Economic content of socialism in Lenin; is it the same as in Marx? Rezgar Akrawi: Unity is not a choice among choices; rather, it is the fundamental path towards recovering role and influence. Unity alone is insufficient, however, if not accompanied by deep intellectual and organisational renewal. What is required is not only gathering dispersed forces under one roof; rather, rebuilding the left on new foundations that absorb social and technological transformations, respond to the awareness of new generations, and transcend organisational forms that need development to answer the questions of the age. Renewal means reviewing discourse, modernising tools, and rethinking the relationship between left organisations and society, forms of leadership, mechanisms of decision-making, and more.
+
+
+
+
+
+
+
+
+
+
+
+
+Rezgar Akrawi: Unity is not a choice among choices; rather, it is the fundamental path towards recovering role and influence. Unity alone is insufficient, however, if not accompanied by deep intellectual and organisational renewal. What is required is not only gathering dispersed forces under one roof; rather, rebuilding the left on new foundations that absorb social and technological transformations, respond to the awareness of new generations, and transcend organisational forms that need development to answer the questions of the age. Renewal means reviewing discourse, modernising tools, and rethinking the relationship between left organisations and society, forms of leadership, mechanisms of decision-making, and more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+إليك النص مع تاكات BBCode المناسبة دون أي تغيير في المحتوى:
+
+---
+
+Rezgar Akrawi
 
 Although the text draws on the Iraqi experience as its analytical entry point, what it raises extends well beyond the Iraqi case alone. Many countries across the Middle East and the Global South share comparable realities: broad popular protest movements that struggled to transform themselves into organised political forces, a left that demonstrated a notable presence on the streets yet remained fragmented, while organisational and electoral challenges alongside weak collective action persist and demand serious attention. Iraq here serves as a model for reflection and learning, and the questions raised are far wider than its geographical borders.
 
@@ -29,152 +173,4 @@ This Moroccan model, despite the specificity of its context, carries important s
 
 This contribution examines the experience of the Iraqi and Kurdistani left, as a contribution to the ongoing comradely dialogue about the possibilities of building a united left framework capable of recovering its historical role and renewing its active presence.
 
-There are a number of points that merit in-depth discussion and contribute to understanding the gap between popular momentum and leftist organisations:
-
-Presence and impact: The left contributed effectively and tangibly to the protest squares as individuals and cadres, yet the question of developing this presence into a unified political force with a declared strategy remains a matter worthy of research and discussion.
-
-Managing internal disagreement: Internal disagreements among left currents, when managed outside clear and constructive collective frameworks, and when the focus on them is magnified at the expense of the many points of convergence, drain energies at moments that call for unity and coordination.
-
-Developing political discourse and organisational methods: There is a genuine opportunity to develop organisational methods and leftist discourse so that they proceed from the concrete daily suffering of the masses, making them more connected to reality and more capable of persuasion and influence.
-
-Electoral coordination: The dispersal of the left across multiple lists with similar programmes has generally not produced the hoped-for creative diversity, and strengthening coordination among these forces remains an urgent practical necessity.
-
-Building popular organisations: The prevailing model for building popular organisations warrants calm review, as supporting genuinely independent unions and federations appears to offer a broader and more sustainable base than the model of partisan "front organisations."
-
-Empowering youth and women: The pivotal role played by youth and women in protest movements requires strengthening their representation in left leadership bodies in a way that reflects this actual role.
-
-Investing in the digital space: The current period offers a timely opportunity to develop digital tools and deploy them effectively in battles of awareness and communication with new generations.
-
-Dialogue and work towards building a multi-platform united left framework, resting on a shared minimum programme that addresses the masses in their everyday language, a flexible and decentralised organisational structure that respects the particularity of each component, genuine representation of youth and women in decision-making positions, an effective digital policy keeping pace with the times, and a sustained link between protest work, electoral participation, and daily union and popular struggle. This should be informed by global experiences from Latin America and Europe, which demonstrate that the creative combination of unity, the street, organisation, and the ballot box is what enabled leftist forces in difficult contexts to transform social anger into effective political change.
-
-Unity within a broad left framework remains the most effective path towards recovering role and influence, on condition that it is accompanied by deep intellectual and organisational renewal that absorbs accelerating social and technological transformations, responds to the aspirations of new generations, and grounds the left intellectually and organisationally on renewed foundations capable of addressing the questions of the present and the challenges of the future.
-
-Iraq and the Kurdistan Region witnessed, over the past two decades, multiple waves of protest expressing deep popular anger at corruption, sectarian power-sharing, and the deterioration of services. The October 2019 uprising, however, constituted the most prominent and influential moment. It was not merely a passing wave of protest; rather, it represented a qualitative shift in the consciousness of broad segments of society, particularly youth, regarding the nature of power and the possibilities of change. For the first time in decades, streets and squares reclaimed their role as genuine political spaces and centres for producing discourse, organisation, and initiative.
-
-The masses in these protests moved from the position of passive recipients to that of direct actors. The demands were clear: bread, dignity, social justice, employment, services, and an end to the system of sectarian power-sharing, corruption, and authoritarianism. These were demands arising from the harsh daily experience of masses who paid the price for decades of wars, siege, and organised looting. At the heart of the protests and demonstrations, the Iraqi left, with all its currents, was present and active.
-
-Despite all these protests, and the widespread rejection by large segments of the population of the ruling authorities in Baghdad and Erbil, and given the results of the November 2025 elections in which left lists failed to win a single parliamentary seat, the fundamental question emerges as a political necessity that cannot be deferred: why was the left unable, despite the justice of its discourse and the depth of its street presence, to convert this popular momentum into an organised political force? Why did it remain trapped in defence and division rather than moving to the position of initiative and unity?
-
-The answer cannot be reduced to external factors alone, however important they may be. Yes, the political system is hostile to change, built on sectarian power-sharing, protected by weapons, militias, and political money, and backed by regional and international networks. Yes, repression was bloody and systematic, directly targeting activists and forces of change, and the left in particular. Yet this, as grave as it is, does not exempt the left from the responsibility of reviewing its tools, forms of work, and methodology in reading and engaging with reality.
-
-The protest and demand movements revealed enormous popular capacities for social change, yet they also exposed weaknesses in existing organisational structures, and the gap between leftist discourse as produced within organisations and popular consciousness as shaped on the street. They revealed that the justice of the cause alone is insufficient if not accompanied by flexible and contemporary organisational tools, a unification of energies, comprehensible discourse, effective use of digital tools, and a clear strategy linking protest with political work and daily struggle within society.
-
-This contribution does not seek to offer ready-made answers or magic formulas. Rather, it attempts to participate in the ongoing dialogue about the Iraqi left's experience in dealing with the two fundamental mechanisms of change, elections and protest movements, and to propose a working horizon contributing to the building of a left strategy capable of renewal, unity, recovery of trust and influence, and recovery of the historical role.
-
-The protest and demand movements witnessed in Iraq and the Kurdistan Region over the past two decades cannot be read in isolation from the role played by the Iraqi and Kurdistani left within them. Without exaggeration or understatement, the left was an active part of the genuine structure of these protests. It was in the squares from the very first days, participating in organisation, in managing the protest space, in defending the peaceful character of the movement, and in confronting attempts at infiltration, whether from the authorities or from forces seeking to divert the course of events.
-
-In the squares of Baghdad, Nasiriyah, Basra, Najaf, Diwaniyah, Erbil, Sulaymaniyah, and other cities, the left played an important role in building non-hierarchical, horizontal forms of organisation that relied on individual initiative, daily coordination, and voluntary work. Experience accumulated over years of clandestine and public struggle became evident in the management of demonstrations, organising ranks, dealing with repression, and formulating slogans. The left also had a clear presence in media committees, in conveying images of what was happening, in breaking the official narrative's monopoly, and in linking local events to their regional and international context.
-
-Yet, despite this dense and influential presence across successive waves of protest, the left remained present as individuals, cadres, and activists, more than it was present as a unified, organised political force with clear leadership and a declared strategy. This contradiction between actual presence and unified organisational weakness was not a secondary detail; rather, it constituted one of the fundamental keys to understanding. The left was at the heart of events, yet it was not in the position of comprehensive political leadership. It was unable to convert its field presence into an organisational reference point capable of unifying the course, or at minimum putting forward a clear progressive horizon.
-
-In my view, this situation was not a coincidence; rather, it was the product of a long accumulation of organisational problems, hesitation in dealing with new forms of mobilisation, and fear of accusations of domination or guardianship over the street. Many left forces preferred to remain in a position of background support, or to merge fully into the protest action without displaying a clear political identity, believing this would protect the protests from distortion or preserve their popular character. Yet this choice, despite its good intentions, contributed in practice to leaving a political and organisational vacuum that other forces quickly filled, or that transformed into a state of dispersal and indecision.
-
-The central question that imposes itself here is: why was the left unable to convert this enormous momentum and these tremendous sacrifices across successive waves of protest into an organised political force capable of continuity and influence? Why did protest movements weaken at the level of political results without producing a unified left or progressive framework, or even an electoral force capable of penetrating the political scene?
-
-The Iraqi and Kurdistani left entered the protest movements carrying within it deep and unresolved divisions over the very nature of the movement and its mechanisms. These divisions did not appear suddenly; rather, they erupted clearly in the context of these protests. The disagreement was not merely about tactics, but about the strategic vision of the movement itself. Should protests continue until the system is overthrown? Or should there be a gradual transition towards more stable organisational forms? What is the relationship between the squares and existing organisations?
-
-Through my observations, I identified three currents within the left. One current saw the necessity of converting protest momentum into a sustainable organisational structure capable of protecting gains, continuing the struggle, and participating through it in elections. Another current called for remaining in the streets until achieving radical change, considering that any early transition towards organisation might empty the movement of its revolutionary content. A third current hesitated between the two options without clear resolution, leading to ambiguous discourse, shifting positions, and loss of direction.
-
-This division was not managed as a healthy disagreement within a unified framework; rather, it turned into a public conflict that drained enormous energies and created a state of confusion among the protesting masses.
-
-Among the most prominent weaknesses in the left's experience during protest movements, and October as a significant and living example, was its inability to build broad and stable social alliances. It is true that the movement was diverse by nature and included different segments, yet this diversity did not transform into an organised alliance. The left failed to build lasting and strong bridges with independent popular and civil movements, with professional and labour unions, or with broad social sectors such as women, the unemployed, residents of poor neighbourhoods, and students.
-
-The very nature of the movement had a role in this difficulty. The view of "non-partisanship" prevailed strongly in protest squares, where many protesters, both men and women, had reservations about partisan political work in all its forms, as a result of accumulated negative experiences with traditional parties. This position, though understandable in its context, created a psychological barrier against any attempt to build organisational frameworks, even if independent and flexible. The left was unable to offer an alternative organisational model that would break through this reservation and convince protesters that organisation is not necessarily partisan domination, rather a necessary tool for protecting the movement and ensuring its continuity.
-
-Part of these results stems from repression and imposed restrictions, yet another part stems from the weakness of patient grassroots work, and from the tendency to be content with presence at the moment of explosion without building sustainable organisation before and after it. Unlike numerous global experiences where unions and social movements formed the backbone of left alliances, these forces in Iraq remained either besieged, or marginalised and weak, or outside actual calculations.
-
-The result was that the protest and demand movements, despite their magnitude, largely remained movements without unified organisational continuity at the national level, without an arm capable of protecting them, investing their momentum, and defending their gains. This is what facilitated the authorities' ability, over time, to dismantle them through repression, assassinations, infiltrations, psychological and social exhaustion, and the reorganisation of their cards.
-
-Historical experience confirms that protest is a necessary condition for change, yet it is insufficient. Protest opens the window, yet does not guarantee that light will pass through. Without political organisation capable of seizing the moment, protests either transform into repeated explosions without results, or become movements that are contained or suppressed.
-
-In the Arab Spring, regimes fell and entrenched authoritarianism was shaken, yet the absence of an organised alternative turned the street moment into a political vacuum, opening the way for chaos or the return of authoritarianism in new forms. The problem was not with the masses, rather with leaving the uprisings without a class and organisational horizon.
-
-In Morocco, the 2025 uprising of Generation Z revealed this contradiction. This generation protested against the cost of living and marginalisation using digital tools and direct social discourse. Yet it encountered the limits of politically unframed action, which drained the anger without achieving structural transformation.
-
-In Latin America, movements succeeded when they combined the street with ballot boxes and maintained popular pressure and grassroots organisation. In Europe, new forms of organisation emerged from the womb of protests, redefining the relationship between the street and institutions, and creating new balances within the existing system. These experiences confirm that protest alone is an incomplete moment unless it transforms into an organised force with a liberatory social horizon.
-
-The lesson is clear from Iraqi, regional, and global experience: protest creates the opportunity, yet political organisation is what converts it into effective, influential, and radical change.
-
-The failure of left and progressive lists to win a single parliamentary seat in the November 2025 elections was not merely a negative electoral result; rather, it was a concentrated expression of structural problems requiring treatment in the relationship between the left and society, and in the political tools being used. This result cannot be explained solely by the unjust electoral law, nor by the dominance of political money, nor by fraud and manipulation, even though all these factors are real and highly influential. What occurred was the result of the interaction of these factors with internal organisational problems, through which the left was unable to convert the justice of its project into a convincing popular choice.
-
-Most significant was the enormous gap in resources and capabilities. Against the left's very limited capacities, the dominant forces possessed enormous financial resources, sophisticated electoral machines, and wide networks of patronage and benefit. The left's weak funding, and the weak electoral infrastructure of local offices, delegates, and organised media and field campaigns, made the competition profoundly unequal. Facing forces that possess political money, administrative influence, and media power, the modest left capabilities appeared unable to create genuine balance in the electoral battle.
-
-This reality contributed to the continuation of the left's marginal presence compared to dominant forces, weakened the electoral process itself, and reinforced a sense of helplessness even among supporters themselves.
-
-The challenges of discourse and communication were clear and revealing. The electoral discourse of left forces most often continued to use theoretical, elite language unrooted in the concrete daily reality of the masses. Many electoral programmes appeared closer to extended intellectual statements than to clear political action plans. Yet the deeper problem was not merely in the language, rather in the methodology itself: proceeding from theories towards reality, rather than proceeding from concrete reality towards understanding and changing it. Instead of listening to people's daily suffering and building the programme from that starting point, programmes arrived laden with ready-made conceptions of what "should" be, without sufficient consideration of what is possible given the existing class and political balance of forces.
-
-The message was not simplified, and the great slogans were not translated into direct answers to people's daily questions about employment, salary, electricity, health, education, and housing. More critically, the left continued to propose "desired solutions" without offering "feasible solutions," the practical and gradual steps achievable in the near term. The masses are not searching only for an ideal vision of the future; they are looking for clear, applicable steps that improve their lives today and give them hope that change is genuinely possible. In a political marketplace relying on image, rapid messaging, and direct communication, the left appeared to be addressing itself or addressing another left current with which it disagrees, more than it was addressing manual and intellectual workers in their simple language and with solutions touching their lived reality.
-
-In the 2025 elections, failure did not result only from weakness of votes, rather from their dispersal and from the state of confusion accompanying the left scene. Part of the left boycotted the elections, an understandable choice given the loss of trust in the political process and its limits; in practice, however, it contributed to increasing popular confusion rather than transforming into an organised, rousing position.
-
-Yet the confusion did not come only from outside; even within the participating left parties themselves, a significant proportion of members boycotted the elections, reflecting the depth of the organisational and political crisis and the trust gap between bases and leaderships. Meanwhile, the participating left forces were distributed across multiple lists with similar programmes and comparable discourses. This dispersal did not produce creative diversity; rather, it produced popular confusion. The masses are not searching for multiple similar versions of the left project; they are searching for one clear alternative that can be trusted, understood, and defended. When multiple versions of the same project are presented without a unifying framework or shared horizon, justice itself transforms from a liberatory promise into a source of confusion.
-
-The popular trust gap is the most dangerous element. The masses did not necessarily vote against the left, yet in general they did not see in it a clear and coherent alternative. Many people participated in popular protests and made tremendous sacrifices, yet did not find in the elections a political expression of that experience. They found no one to tell them clearly: we are the continuation of that, this is our plan, these are our priorities, and these are our tools.
-
-Added to this is the fact that the participation of some left forces in post-2003 governments, despite the limited actual influence on decision-making, created among sections of the population an impression that part of the left was connected to the existing political system. This impression, even if it did not reflect the actual role or intentions, contributed to weakening the left's image as a radical opposition alternative outside power. The protesting masses, who came out against the entire system, were searching for a political force with no ambiguity in its position towards power, a force untainted by any form of participation in the sectarian power-sharing system and accumulated governmental failure. This vacuum was filled by no one, and ballot boxes remained nearly empty of the left vote.
-
-Perhaps one of the most dangerous weaknesses in the left's electoral experience in Iraq and the Kurdistan Region was the failure to invest in the digital revolution and use it effectively. In an era where a large part of political battles is conducted through digital spaces, and where public opinion is shaped through social platforms, the left continued to operate with traditional tools in need of development. It is true that some left forces had websites and social media accounts, yet the digital presence was not effective at the required level, nor organised, nor capable of competition. Specialised content teams were not built, nor were tools for analysing interaction and measuring impact, nor plans for facing counter-campaigns or systematic defamation.
-
-While competing forces were investing effectively in targeted advertisements, big data, and psychological influence techniques, the left was content with long textual posts and statements that did not reach the targeted audience. This lag was not merely technical; it reflected a gap in understanding the nature of contemporary struggle, where having the truth on one's side is no longer sufficient, rather one must possess the ability to communicate it in the language and tools of the age.
-
-Here emerges a deep problem in women's representation within the leadership bodies of the left across all organisations, despite women constituting more than half of society, and despite their active and influential presence in organisational bases and field work. Women were a fundamental part of the protest structure and paid a heavy price in sacrifices. Within left organisations themselves, women constitute a significant proportion of active cadres and actual leaderships at the level of bases and provinces. Yet this dense field presence has not been fairly reflected at the level of higher leadership bodies, where women's representation remains limited, and sometimes symbolic, without genuine authority in making important decisions that mostly remain in the hands of men.
-
-This contradiction between actual role and formal representation weakens the left organisationally and deprives it of a large portion of its credibility when speaking about justice and equality. The issue is not only ethical; it is political and intellectual: how can the left demand the transformation of society when it has not achieved equality within its own structures? How can it win women's trust in society when they see themselves marginalised from actual decision-making centres within its organisations?
-
-Left forces face a major challenge in representing youth within their leadership structure. Although most popular protests are in their essence youth uprisings, led by a new generation with new tools and different awareness, this reality has not been reflected in the structure of left leaderships and their decision-making. The average age of declared leaderships in most left organisations exceeds sixty years, and even in cases where young people participate in organisational positions, their presence mostly remains outside the political front, without a central and decisive role in drawing strategies or making decisions.
-
-This imbalance was not merely a question of age, rather a disconnection in language, tools, and understanding of deep social transformations. Young people who engaged in protests and demonstrations with their bodies, and shaped their discourse with their voices, found themselves mostly in roles of implementation and field work, without actual participation in planning and setting the general direction. This structural marginalisation, even when not intentional, pushed many of them to turn away from traditional frameworks and search for alternative forms of organisation that are more horizontal and flexible. The result is that the left did not invest a large and important part of its renewal energy, and remained imprisoned in a cycle of reproducing the same leadership patterns, while the generation that was supposed to be at the centre remained on the margins or outside left frameworks.
-
-Part of the left tends to consider elections in Iraq a sterile tool, or a play with predetermined results. This assessment draws on real facts, yet it becomes problematic when it transforms into a fixed principled position not open to discussion or review. Elections, as a mechanism, are neither progressive nor conservative in themselves. They are an arena of struggle that can be used to reinforce domination, just as they can be used to penetrate it, to varying degrees.
-
-Global experience demonstrates that the left has succeeded in penetrating more severe electoral systems when it possessed a clear strategy. In Latin America and elsewhere in the Global South, systems were no less complex or dominant, yet the left managed to transform elections into one tool among others, not a substitute for social struggle, nor an opposite to it. The problem in Iraq was not with elections alone, rather with how to enter them, with what tools, with what discourse, with what alliances, and when seats are won, what should the mechanisms of work within parliament be.
-
-Elections do not make radical change by themselves, yet they can be one of its arenas. Absolute rejection of elections may be an ethical position, yet politically it may lead to isolation. Ill-considered participation may lead to co-optation. The real challenge is building the capacity to use this mechanism without falling into its trap, meaning linking it to a living popular social movement, a clear programme, and strong organisation that converts every small gain into a larger lever.
-
-Among the most important deep structural problems that affected the Iraqi left's capacity to build a broad and stable social base is the acute dispersal within popular organisations, particularly feminist, student, labour union, and professional union organisations. A significant part of this dispersal was the direct result of a prevailing working method among most left forces, based on building unions and popular organisations as direct political fronts for the party, rather than as genuinely independent organisations expressing the interests of their social sectors.
-
-Caution regarding this approach was warranted, especially in a country with a bitter experience of politicised unions during previous dictatorial periods, when they were transformed into tools of control rather than representations of popular interests. The negative attitude towards politicised unions is still present in popular memory, and the authorities in Baghdad and the Region continue to follow the same approach. The solution, however, was not for the left to do the same; rather, it should break this pattern and offer a different model based on genuine independence, democracy, and pluralism.
-
-Most left organisations focused on establishing their own unions, federations, and organisations, and sometimes a single party established more than one organisation in the same sector for reasons related to internal conflicts. The result was a fragmented scene of dozens of small organisations, each claiming to represent the same sector, yet their role remaining limited and tied to the strength of the party standing behind them. This approach emptied the organisations of their genuine content: the union built to serve a particular party loses its capacity to represent workers in their diversity, the feminist organisation loses its capacity to attract women from outside the party circle, and the student union becomes an arena for partisan conflicts.
-
-Building one strong, independent union with tens of thousands of members is a thousand times preferable to building a group of small unions attached to different left parties. The independent union will defend rights more effectively, will gain wider trust, will create a more progressive climate, and this serves the left project, even if the left does not have direct control over its leadership and work.
-
-It would have been more productive to direct efforts towards building genuinely independent labour and professional unions and federations, alongside independent popular and feminist organisations, grounding their work in international human rights, labour, and women's rights charters and conventions. These include the Universal Declaration of Human Rights, the International Covenant on Economic, Social and Cultural Rights, the fundamental International Labour Organisation (ILO) conventions on freedom of association and the right to organise, and the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW) along with its associated binding standards for protecting women's rights and ensuring their full equality. These conventions also constitute a fundamental reference for the work of independent feminist organisations, as international legal frameworks that recognise women's political, economic, and social rights, and lend their struggle a legitimacy that transcends narrow local contexts.
-
-What appears in these conventions and international standards often exceeds what the left forces themselves put forward as advanced demands, whether on labour rights, popular rights, or women's rights. Drawing on these references not only provides a strong legal and ethical framework for union and feminist struggle, but also contributes to reducing sensitivity and accusations of partisan politicisation within unions, federations, and popular organisations, because demands transform from general ideological slogans into internationally recognised rights defensible before society and authorities alike.
-
-The absence of strong, independent unions, federations, and organisations greatly weakened the left. When decisive moments arrived, it found itself in an organisational vacuum: no unions capable of transforming demonstrations and protests into strikes paralysing the economy, no unified student movement, no feminist organisations with wide influence. In their place stood dozens of small competing organisations.
-
-The masses, particularly youth in protest squares, no longer trust union and "front" organisations, and preferred horizontal forms of organisation and independent initiatives. Indeed, a large segment has come to recoil from partisan organisations in general, a phenomenon deserving study rather than confrontation with rejection. Times have changed, and masses today trend towards independent multi-platform organisations that respect their independence and do not impose ready partisan lines. This demands radical reconsideration. The choice is no longer between building a dependent front or not doing popular work, rather between continuing fragmentation or transitioning to supporting strong, independent unions and federations, where leftists work as individuals committed to the issues of their sectors.
-
-The painful paradox is that the left calls for the unity of labouring masses, yet this policy inadvertently led to the dispersal of efforts. The road to unity does not pass through a multiplicity of dependent organisations; rather, it passes through building strong, independent unions, federations, and organisations that bring everyone together, regardless of their intellectual, national, or religious affiliations, around their shared interests.
-
-Among the most prominent challenges the Iraqi left faced during recent protest movements was dealing with the question: is the priority for elections or for protest? This question, framed this way, may reflect a deficiency in dialectical thinking, and in understanding change as a complex process with multiple levels and tools. History offers no examples of deep social change achieved through pure and isolated mechanisms; rather, through constant interplay between the street, organisation, institutions, and daily struggle.
-
-Protest, however large, needs other tools to dismantle a complex system that possesses the state, weapons, money, and media. Meanwhile, elections, whatever the intentions of participants, need organised and sustained social pressure to be an actual tool of change. The most important question is not which to choose, rather how to build a strategy that uses each tool in its proper place and links them within a single vision.
-
-An integrated strategy means the existence of a continuous, year-round protest movement with clear demands, capable of self-organisation through genuinely independent popular unions and federations (which requires moving beyond the "front organisation" approach, and moving towards building democratic union organisations that genuinely represent their bases rather than partisan agendas), while simultaneously having a unified left political electoral project, not as a substitute for the street, rather as an extension of it. It also means working within society, in unions, federations, neighbourhoods, universities, and workplaces, as arenas of daily struggle no less important than public squares or parliament. This lesson requires further absorption from Iraqi experience across successive waves of protest, to avoid repeating the same problems at each new protest moment.
-
-Global experiences over recent decades offer clear lessons about the value of combining protest, organisation, and electoral work, not as contradictory paths, rather as links in a single chain.
-
-In Latin America, left forces reached power or influential positions only after a long process of social protests that produced new consciousness, which was then politically organised.
-
-In Colombia, the left faced a long history of repression and violence. It did not retreat into permanent protest isolation; rather, it worked to build a broad alliance including left, feminist, and environmental forces, along with labour unions and social movements. This joint work, based on a clear minimum programme, allowed the conversion of social anger into electoral force, bringing the left to the presidency for the first time in the country's history. The lesson here is that unity, even among ideologically different forces, becomes possible when agreement is reached on tangible priorities touching the masses' lives.
-
-In Brazil, overthrowing the far right was not possible without a broad alliance that transcended the traditional boundaries of the left. The Workers' Party, despite its historical strength, understood that the return to power would not come only through its traditional base, rather through building a wide progressive front drawing on unions, social movements, and sectors of the middle class. This combination of popular work and electoral organisation restored political balance and demonstrated that tactical pragmatism does not mean abandoning principles, rather protecting the core of the project.
-
-In Chile, with the failure in the most recent elections of 2025, the left did not disappear from the scene; rather, it retains a tangible social presence, drawing on its broad alliances, the role of unions and federations, and social work networks. This presence finds its roots in the 2019 uprising against neoliberalism, which opened the way for reshaping the political scene. What resolved the course, however, was not the street alone, rather the capacity to convert this social momentum into an organised electoral alliance that led to Boric's presidential victory. Despite subsequent setbacks and the limits of the experience within state institutions, the alliance remained as a political force, because the street was not isolated from organisation, and protest was linked to the role of unions, federations, and organised social work, which allowed maintaining actual social presence even in moments of electoral retreat.
-
-In Europe, the experience of the Unity List in Denmark stands as a telling model. Three small left parties, individually unable to penetrate parliament, decided to merge into one framework. They did not eliminate their differences, yet managed them within a flexible structure that allowed unification of electoral effort and building a sustainable popular presence. The result was the left's transition from the margins to an influential position, without abandoning its social radicalism.
-
-What unites these experiences is their recognition that change does not emerge from a single tool, nor from a single moment, rather from accumulated, unified, and organised work that combines social anger, political organisation, and daily work within society. All of them also faced setbacks and failures, yet did not return to zero, because they built organisational frameworks capable of learning and adaptation.
-
-The Iraqi left is not an exception to the laws of social struggle. What did not succeed here succeeded elsewhere, not because those societies are better or easier, rather because left forces there had the courage to conduct a critical scientific assessment of their experiences, invest in cognitive development and modern digital tools in understanding reality and measuring impact, and possessed sufficient flexibility to renew their tools and develop their discourse and organisational forms in line with social transformations. Iraq possesses enormous capacities, advanced awareness, and deep protest experience. What it lacks is not anger, rather organisation; not courage, rather scientific methodology in assessment and readiness for radical renewal.
-
-What is required today is a comprehensive scientific assessment of the Iraqi left's experience, drawing on in-depth analysis of available data, genuine surveys of popular opinion and orientations, and careful study of class and political balances of power. Scientific assessment does not mean being content with impressions or ready-made interpretations; rather, it requires using modern analysis tools, from data science to field social studies, to understand where we failed, where we succeeded, where we erred, and what can be corrected. This assessment must lead to deep intellectual, political, and organisational renewal that is not afraid to review old assumptions, and does not hesitate to propose new solutions characterised by flexibility and the capacity to adapt to changing reality.
-
-What is needed is not the mechanical transfer of others' experiences, rather benefiting from them in ways suited to our own reality, and the class and political balance of forces in Iraq and the Kurdistan Region, and the particularity of the social composition and local history of struggle. Each experience has its context, yet the general laws of social struggle remain valid: unity, organisation, combining different tools of struggle, and organic connection to the masses. Most importantly, the capacity for continuous learning, periodic assessment, and self-development based on accumulated experience and new data.
-
-Combining protest with elections, the street with institutions, is an urgent practical necessity drawn from a reading of reality and balances of power. Without this combination, the left will continue to move in a vicious cycle: powerful protest explosions in the streets yet of limited sustained political impact, and weak electoral participation because it is disconnected from an organised social base.
-
-The question of building a united left framework in Iraq is no longer a theoretical matter or an elite political luxury; rather, it has transformed into an immediate historical necessity imposed by balances of power, the results of experience, and the limits of continuing with the current formula. Dispersal is no longer merely weakness; it has become an actual obstacle to any possibility of influence, and a permanent source of the loss of popular trust. Experience has shown that the left, working as separate competing islands, has been unable to convert its social and intellectual presence into an organised political force, however just its discourse or deep its sacrifices.
+There are a number of points that merit in-depth discussion and contribute to understanding the gap between popular momentum…

@@ -19,4 +19,58 @@ files:
     hosted: false
 ---
 
-       Przedsłowie      Tradycja i teoria hiszpańskiego anarchizmu        „Komunizm wolnościowy” Isaaca Puente        Czym jest komunizm wolnościowy?        Organizacja wolnych komun          Wolne komuny          Sfera społeczno – gospodarcza        Kongres CNT w Saragossie        Ekonomia rewolucyjna Diega Abada de Sentilana      Uspołecznienie        Kolektywizacja          Organizacja          Osiągnięcia        Uspołeczniony przemysł          Akceptacja faktu dokonanego          Organizacja      Apogeum Czy „Wojna Domowa w Hiszpanii” jest wyłącznie wojną domową w dosłownym tego słowa znaczeniu? Czy jest to wyłącznie konflikt „dwóch Hiszpanii”, dwóch wizji jednego państwa jak lubią określać ten konflikt historycy [1] , w której wybuchła „mniejsza” wojna domowa w postaci rewolucji społecznej? A być może stanowiła ona wyłącznie poligon oraz preludium dla głównych stron globalnego konfliktu, który wybuchł kilka miesięcy po zakończeniu tej wojny jak to przedstawiali zarówno komuniści, republikanie oraz nacjonaliści? Nie sposób jest jednoznacznie i obiektywnie wydać werdyktu. Dla nas jest ona przede wszystkim „ rewolucją społeczną ” stanowiącą nietuzinkowe, niewyczerpane i bezcenne źródło inspiracji dla form działania i organizowania się. Celem poniższego artykułu jest analiza modelu społeczno – gospodarczego budowanego podczas rewolucji hiszpańskiej, który został brutalnie zniszczony w wyniku działań stalinistów oraz nacjonalistów a następnie wskazanie kierunków badań dla wszystkich zainteresowanych, jako alternatywnego modelu wobec modelu kapitalistycznego (w różnych wydaniach), kapitalizmu państwowego (tzw. realnego socjalizmu) oraz marksizmu. Artykuł nie będzie stanowić kompleksowego opisu rewolucji oraz Wojny Domowej w Hiszpanii. Skupiam się jedynie na warstwie społecznej i ekonomicznej. W związku z tym nie będę podejmować się badania wielowymiarowości rewolucji oraz skomplikowanych relacji i stosunków politycznych w jakich przyszło działać hiszpańskim anarchistom, tam gdzie nie będzie to niezbędne. Opisuję jedynie pewien wycinek rewolucyjnej rzeczywistości, który bezsprzecznie wpłynął na cały ruch anarchistyczny w XX i XXI wieku. Pomimo tego, iż okres pomiędzy lipcem 1936 roku a majem 1937 roku [2] należy do jednego z najlepiej opisanych, udokumentowanych oraz zmitologizowanych epizodów z dziejów ruchu anarchistycznego to w świadomości lewicy okres ten stanowi niemal pustą kartę. Anarchiści zostali zmarginalizowani w opisach dziejów „Hiszpańskiej Wojny Domowej”, niemal wytarci z niej. Czytając większość głównych opracowań nie trudno jest się oprzeć wrażeniu, że wojna ta jest niczym więcej jak wojną lewicy z prawicą, sił republikańskich i demokratycznych z siłami reakcjonistycznymi i konserwatywnymi, że w końcu jest to konflikt w obronie republiki. Anarchiści pozostają gdzieś tam w tle będąc często ukazywanymi jako główna siła osłabiająca wysiłek „walki z faszyzmem”. Za ten stan rzeczy odpowiedzialność ponoszą kaci rewolucji społecznej – na równi; nacjonaliści, republikanie oraz staliniści. Siłom tym zależało by świat zapomniał o rewolucji w Katalonii z kilku powodów. Najważniejszym powodem pozostaje fakt, iż rewolucja hiszpańska zdołała wyzwolić w zwykłych chłopach i robotnikach tego kraju niewiarygodną namiętność, rewolucyjny entuzjazm, który ukazał nieprawdopodobną wręcz ilość wariantów samoorganizacji, kolektywnej formy działania, solidaryzmu, które doprowadziły do dobrowolnej i autentycznej (w przeciwieństwie do radzieckich kołchozów) kolektywizacji wsi, dobrowolnego uspołecznienia środków produkcji w miastach a także przejęcia przez komitety robotnicze i ludowe budynków użyteczności publicznej oraz organizacji życia społecznego i ekonomicznego odrzucając państwo i kapitalizm. Nie można nie zauważyć, iż anarchiści hiszpańscy przekroczyli pewien poziom, „dając przedsmak tego czym mogłaby być historia ludzkości” [3] . Potrafili wyjść od teorii do praktyki, udało im się zastąpić państwo i kapitalizm wolnościowymi oraz ko…
+Przedsłowie
+
+Tradycja i teoria hiszpańskiego anarchizmu
+
+„Komunizm wolnościowy” Isaaca Puente
+
+Czym jest komunizm wolnościowy?
+
+Organizacja wolnych komun
+
+Wolne komuny
+
+Sfera społeczno – gospodarcza
+
+Kongres CNT w Saragossie
+
+Ekonomia rewolucyjna Diega Abada de Sentilana
+
+Uspołecznienie
+
+Kolektywizacja
+
+Organizacja
+
+Osiągnięcia
+
+Uspołeczniony przemysł
+
+Akceptacja faktu dokonanego
+
+Organizacja
+
+Apogeum
+
+Czy „Wojna Domowa w Hiszpanii” jest wyłącznie wojną domową w dosłownym tego słowa znaczeniu? Czy jest to wyłącznie konflikt „dwóch Hiszpanii”, dwóch wizji jednego państwa jak lubią określać ten konflikt historycy[1], w której wybuchła „mniejsza” wojna domowa w postaci rewolucji społecznej?
+
+A być może stanowiła ona wyłącznie poligon oraz preludium dla głównych stron globalnego konfliktu, który wybuchł kilka miesięcy po zakończeniu tej wojny jak to przedstawiali zarówno komuniści, republikanie oraz nacjonaliści?
+
+Nie sposób jest jednoznacznie i obiektywnie wydać werdyktu. Dla nas jest ona przede wszystkim „rewolucją społeczną” stanowiącą nietuzinkowe, niewyczerpane i bezcenne źródło inspiracji dla form działania i organizowania się.
+
+Celem poniższego artykułu jest analiza modelu społeczno – gospodarczego budowanego podczas rewolucji hiszpańskiej, który został brutalnie zniszczony w wyniku działań stalinistów oraz nacjonalistów a następnie wskazanie kierunków badań dla wszystkich zainteresowanych, jako alternatywnego modelu wobec modelu kapitalistycznego (w różnych wydaniach), kapitalizmu państwowego (tzw. realnego socjalizmu) oraz marksizmu.
+
+Artykuł nie będzie stanowić kompleksowego opisu rewolucji oraz Wojny Domowej w Hiszpanii. Skupiam się jedynie na warstwie społecznej i ekonomicznej. W związku z tym nie będę podejmować się badania wielowymiarowości rewolucji oraz skomplikowanych relacji i stosunków politycznych w jakich przyszło działać hiszpańskim anarchistom, tam gdzie nie będzie to niezbędne. Opisuję jedynie pewien wycinek rewolucyjnej rzeczywistości, który bezsprzecznie wpłynął na cały ruch anarchistyczny w XX i XXI wieku.
+
+Pomimo tego, iż okres pomiędzy lipcem 1936 roku a majem 1937 roku[2] należy do jednego z najlepiej opisanych, udokumentowanych oraz zmitologizowanych epizodów z dziejów ruchu anarchistycznego to w świadomości lewicy okres ten stanowi niemal pustą kartę.
+
+Anarchiści zostali zmarginalizowani w opisach dziejów „Hiszpańskiej Wojny Domowej”, niemal wytarci z niej. Czytając większość głównych opracowań nie trudno jest się oprzeć wrażeniu, że wojna ta jest niczym więcej jak wojną lewicy z prawicą, sił republikańskich i demokratycznych z siłami reakcjonistycznymi i konserwatywnymi, że w końcu jest to konflikt w obronie republiki. Anarchiści pozostają gdzieś tam w tle będąc często ukazywanymi jako główna siła osłabiająca wysiłek „walki z faszyzmem”.
+
+Za ten stan rzeczy odpowiedzialność ponoszą kaci rewolucji społecznej – na równi; nacjonaliści, republikanie oraz staliniści. Siłom tym zależało by świat zapomniał o rewolucji w Katalonii z kilku powodów.
+
+Najważniejszym powodem pozostaje fakt, iż rewolucja hiszpańska zdołała wyzwolić w zwykłych chłopach i robotnikach tego kraju niewiarygodną namiętność, rewolucyjny entuzjazm, który ukazał nieprawdopodobną wręcz ilość wariantów samoorganizacji, kolektywnej formy działania, solidaryzmu, które doprowadziły do dobrowolnej i autentycznej (w przeciwieństwie do radzieckich kołchozów) kolektywizacji wsi, dobrowolnego uspołecznienia środków produkcji w miastach a także przejęcia przez komitety robotnicze i ludowe budynków użyteczności publicznej oraz organizacji życia społecznego i ekonomicznego odrzucając państwo i kapitalizm.
+
+Nie można nie zauważyć, iż anarchiści hiszpańscy przekroczyli pewien poziom, „dając przedsmak tego czym mogłaby być historia ludzkości”[3]. Potrafili wyjść od teorii do praktyki, udało im się zastąpić państwo i kapitalizm wolnościowymi oraz komunistycznymi formami organizacji.
+
+Dlatego ciężko byłoby się nie zgodzić z A. T. Pilarskim, który twierdz…

@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       Introduction        The need for an alternative        What is Anarchist economics?        Recipes for the cook-shops of the future…        Marxism as an impossibility (at best) or state capitalism (at worse)        Sketching the future by analysing the present        Creating the future by fighting the present        The Building Blocks of (libertarian) Socialism        Libertarian Communism        Conclusions        Further Reading Economics, rightly, is subject to much scorn. As Malatesta memorably put it: “The priest keeps you docile and subjected, telling you everything is God’s will; the economist says it’s the law of nature.” Thus “no one is responsible for poverty, so there’s no point rebelling against it.” Proudhon, rightly, argued that “political economy… is merely the economics of the propertied, the application of which to society inevitably and organically engenders misery.” People suffering austerity across the world would concur with him: “The enemies of society are Economists.” Nothing has changed, except the usual alternative has been shown to be worse. Only a non-worker could come up with Lenin’s vision: “ All citizens are transformed into the salaried employees of the state… The whole of society will have become a single office and a single factory.” The poverty of this concept of socialism is summed up by his proclamation that we must “organise the whole economy on the lines of the postal service.” Clearly someone not aware of the expression going postal … As Kropotkin noted long ago, the Marxists “do not trouble themselves at all to explain that their idea of a Socialist State is different from a system of State capitalism under which everybody would be a functionary of the State.” We need a better vision than replacing capitalists with bureaucrats. Anarchists have long fought against this limited vision (on both sides). Emma Goldman, for example, argued that “[r]eal wealth consists of things of utility and beauty, in things that help create strong, beautiful bodies and surroundings inspiring to live in.” You will not find that in economics textbooks! Kropotkin put it well: “Under the name of profits, rent, interest upon capital… economists have eagerly discussed the benefits which the owners of land or capital… can derive… from the under-paid work of the wage-labourer… the great question ‘What have we to produce, and how?’ necessarily remained in the background… The main subject of social economy – that is, the economy of energy required for the satisfaction of human needs is consequently the last subject which one expects to find treated in a concrete form in economical treatises.” This suggests that socialism would mean the end of bourgeois economics, which is little more than ideology defending capitalism and the rich, not a science… In fact, it would mean the dawn of economics as a genuine science. So what is Anarchist economics? It means, I think, two things. The first is an anarchist analysis and critique of capitalism while the second are ideas on how an anarchist economy could function. The two are obviously interrelated. What we are opposed to in capitalism will be reflected in our visions of a libertarian economy just as our hopes and dreams of a free society will inform our analysis But before discussing anarchist economics, I will need to quickly cover non-libertarian alternatives. Historically, there have been two ways of looking at the problem of a socialist economy, both of which are wrong. The first is to provide detailed descriptions of the future society, the second is to limit yourself to short comments on socialism. The first socialists, the likes of Fourier and Saint-Simon, did present detailed plans and two things quickly become clear. The first is the impossibility of their perfect communities, the second is their elitist nature – they really did think they knew best and so democracy and liberty were not important in their visions of “socialism” (if that is the right word). P…
+Introduction
+
+The need for an alternative
+
+What is Anarchist economics?
+
+Recipes for the cook-shops of the future…
+
+Marxism as an impossibility (at best) or state capitalism (at worse)
+
+Sketching the future by analysing the present
+
+Creating the future by fighting the present
+
+The Building Blocks of (libertarian) Socialism
+
+Libertarian Communism
+
+Conclusions
+
+Further Reading
+
+Economics, rightly, is subject to much scorn. As Malatesta memorably put it: “The priest keeps you docile and subjected, telling you everything is God’s will; the economist says it’s the law of nature.” Thus “no one is responsible for poverty, so there’s no point rebelling against it.” Proudhon, rightly, argued that “political economy… is merely the economics of the propertied, the application of which to society inevitably and organically engenders misery.” People suffering austerity across the world would concur with him: “The enemies of society are Economists.”
+
+Nothing has changed, except the usual alternative has been shown to be worse. Only a non-worker could come up with Lenin’s vision: “All citizens are transformed into the salaried employees of the state… The whole of society will have become a single office and a single factory.” The poverty of this concept of socialism is summed up by his proclamation that we must “organise the whole economy on the lines of the postal service.” Clearly someone not aware of the expression going postal…
+
+As Kropotkin noted long ago, the Marxists “do not trouble themselves at all to explain that their idea of a Socialist State is different from a system of State capitalism under which everybody would be a functionary of the State.”
+
+We need a better vision than replacing capitalists with bureaucrats.
+
+Anarchists have long fought against this limited vision (on both sides). Emma Goldman, for example, argued that “[r]eal wealth consists of things of utility and beauty, in things that help create strong, beautiful bodies and surroundings inspiring to live in.” You will not find that in economics textbooks! Kropotkin put it well:
+
+“Under the name of profits, rent, interest upon capital… economists have eagerly discussed the benefits which the owners of land or capital… can derive… from the under-paid work of the wage-labourer… the great question ‘What have we to produce, and how?’ necessarily remained in the background… The main subject of social economy – that is, the economy of energy required for the satisfaction of human needs is consequently the last subject which one expects to find treated in a concrete form in economical treatises.”
+
+This suggests that socialism would mean the end of bourgeois economics, which is little more than ideology defending capitalism and the rich, not a science… In fact, it would mean the dawn of economics as a genuine science.
+
+So what is Anarchist economics? It means, I think, two things. The first is an anarchist analysis and critique of capitalism while the second are ideas on how an anarchist economy could function. The two are obviously interrelated. What we are opposed to in capitalism will be reflected in our visions of a libertarian economy just as our hopes and dreams of a free society will inform our analysis
+
+But before discussing anarchist economics, I will need to quickly cover non-libertarian alternatives. Historically, there have been two ways of looking at the problem of a socialist economy, both of which are wrong. The first is to provide detailed descriptions of the future society, the second is to limit yourself to short comments on socialism.
+
+The first socialists, the likes of Fourier and Saint-Simon, did present detailed plans and two things quickly become clear. The first is the impossibility of their perfect communities, the second is their elitist nature – they really did think they knew best and so democracy and liberty were not important in their visions of “socialism” (if that is the right word). Proudhon, rightly, attacked these systems as tyranny (which …

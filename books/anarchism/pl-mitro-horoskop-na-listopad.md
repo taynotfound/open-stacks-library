@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-   Horoskop aktywistyczny na listopad 2023      Baran      Byk      Bliźnięta      Rak      Lew      Panna      Waga      Skorpion      Strzelec      Koziorożec      Wodnik      Ryby Rytm życia na początku listopada będzie intensywny, możliwe są zmiany w sferze zawodowej. Zwolnienie? Awans? Podwyżka? Strajk Generalny? Na wszelki wypadek zapisz się do związku zawodowego! Horoskop Barana radzi, aby nie marnować energii na negatywne emocje, lepiej skierować je na osiągnięcie sukcesu. Jeśli więc dużo płaczesz i krzyczysz idź na jakiś protest w urzędzie – zwiększysz jego wiarygodność. Szczyt aktywności przypada na Szronową Pełnię (8 listopad) warto więc poświęcić ten czas na wzmożoną aktywność na ulicy: wlepki, plakaty, spreje. Pamiętaj tylko, że według ogólnego horoskopu Barana w listopadzie 2023 nie należy polegać na kolektywie, jest mało prawdopodobne, że będzie wspierający. W życiu osobistym, jeśli jesteś w związku monogamicznym możesz spodziewać się większej harmonii i zażyłości z osobą partnerską. W związku poligamicznym poświęć trochę czasu na spokojne rozeznanie się w potrzebach osób partnerskich. Jeśli masz przelotne relacje to czekają cię fascynujące spotkania. Jeśli szukasz stałego związku to w tym miesiącu się nie spiesz i nie podejmuj żadnych decyzji. Okoliczności pierwszych dni listopada będą skłaniać do zmian. Może dojść do spotkania z niesamowitą osobą, które doprowadzi do przemyślenia wielu spraw. Według horoskopu Byka wiatr zmian będzie tak silny, że całkowicie zmieni światopogląd. Czy będzie to socjaldemokracja? Insurekcjonizm czy bookchinizm, a może prymitywizm? Będzie to dla ciebie niespodzianka, nie mniejsza niż dla twoich bliskich. Aby rozładować napięcie i przekształcić negatywną energię w coś pożytecznego, musisz zastosować prostą metodę: zmianę zwykłego otoczenia. Możesz na chwilę pomieszkać na jakiejś blokadzie w lesie lub zeskłotować jakiś pustostan. Od 1 listopada jest zakaz eksmisji więc to dobry moment aby spróbować. Osobiste zainteresowania i hobby w ostatnich dniach listopada stracą na atrakcyjności. Najprawdopodobniej przyczyną jest jesienny smutek: świat stał się nudny i szary. Według horoskopu astrologicznego w listopadzie rodzina będzie zbawieniem dla Byka. Poświęć więc dużo czasu wszystkim swoim osobom partnerskim, stałym i chwilowym, bo przyniesie ci to pozytywne uczucia. Jeśli nie jesteś w żadnej relacji romantycznej poświęć ten czas swoim osobom przyjacielskim, a nie będziesz żałować. Nie bój się prosić o pomoc, słowa wsparcia czy koc. Bliźnięta czeka bardzo dobry miesiąc. Okres ten sprzyja wszelkim przedsięwzięciom. W wyniku podjętych kroków sytuacja finansowa zacznie się poprawiać, relacje z kolegami i koleżankami ustabilizują się. Pozycja Słońca w Skorpionie daje potężny zastrzyk energii, śmiało możesz patrzeć w przyszłość. Możesz podążać za swoimi pragnieniami i robić, co chcesz. W listopadzie doświadczysz burzliwych emocji w swoim życiu miłosnym. Jeśli nie jesteś w żadnym związku to listopad przyniesie ci niejedno zaskoczenie. Będą się pojawiać różne osoby, ale na prawdziwą miłość przyjdzie jeszcze poczekać. Jeśli natomiast jesteś w stałym związku to także będą się pojawiać różne osoby – pomyśl więc może o związku otwartym. Prawdopodobnie uda się wznowić przerwany romans w czasie Szronowej Pełni (8 listopada). Aktywne uczestnictwo w życiu społeczeństwa przyniesie godne rezultaty. Wegańskie ciasto, wymianka ubrań czy wspólne malowanie transparentów? Każde przedsięwzięcie uda się wspaniale i jego skutki przerosną twoje oczekiwania. W finansach uważaj na oszustów. Nie wpłacaj na losowe zrzutki i unikaj w tym miesiącu handlu narkotykami – nie opłaci się. Potężne Słońce w Skorpionie ma fascynujący wpływ na Raka, zmuszając do introspekcji. W tym okresie uczucia przeważają nad logiką, intuicja odgrywa ważną rolę w podejmowaniu decyzji. To jedyny sposób na uniknięcie fatalnych błędów. Nierozwiązane problemy lub osoby z przeszłości mogą nagle o sobie przypomnieć. Do wszelkich oświadczeń podchodź…
+Horoskop aktywistyczny na listopad 2023
+
+Baran
+
+Byk
+
+Bliźnięta
+
+Rak
+
+Lew
+
+Panna
+
+Waga
+
+Skorpion
+
+Strzelec
+
+Koziorożec
+
+Wodnik
+
+Ryby
+
+Rytm życia na początku listopada będzie intensywny, możliwe są zmiany w sferze zawodowej. Zwolnienie? Awans? Podwyżka? Strajk Generalny? Na wszelki wypadek zapisz się do związku zawodowego!
+
+Horoskop Barana radzi, aby nie marnować energii na negatywne emocje, lepiej skierować je na osiągnięcie sukcesu. Jeśli więc dużo płaczesz i krzyczysz idź na jakiś protest w urzędzie – zwiększysz jego wiarygodność.
+
+Szczyt aktywności przypada na Szronową Pełnię (8 listopad) warto więc poświęcić ten czas na wzmożoną aktywność na ulicy: wlepki, plakaty, spreje. Pamiętaj tylko, że według ogólnego horoskopu Barana w listopadzie 2023 nie należy polegać na kolektywie, jest mało prawdopodobne, że będzie wspierający.
+
+W życiu osobistym, jeśli jesteś w związku monogamicznym możesz spodziewać się większej harmonii i zażyłości z osobą partnerską. W związku poligamicznym poświęć trochę czasu na spokojne rozeznanie się w potrzebach osób partnerskich. Jeśli masz przelotne relacje to czekają cię fascynujące spotkania. Jeśli szukasz stałego związku to w tym miesiącu się nie spiesz i nie podejmuj żadnych decyzji.
+
+Okoliczności pierwszych dni listopada będą skłaniać do zmian. Może dojść do spotkania z niesamowitą osobą, które doprowadzi do przemyślenia wielu spraw. Według horoskopu Byka wiatr zmian będzie tak silny, że całkowicie zmieni światopogląd. Czy będzie to socjaldemokracja? Insurekcjonizm czy bookchinizm, a może prymitywizm? Będzie to dla ciebie niespodzianka, nie mniejsza niż dla twoich bliskich.
+
+Aby rozładować napięcie i przekształcić negatywną energię w coś pożytecznego, musisz zastosować prostą metodę: zmianę zwykłego otoczenia. Możesz na chwilę pomieszkać na jakiejś blokadzie w lesie lub zeskłotować jakiś pustostan. Od 1 listopada jest zakaz eksmisji więc to dobry moment aby spróbować.
+
+Osobiste zainteresowania i hobby w ostatnich dniach listopada stracą na atrakcyjności. Najprawdopodobniej przyczyną jest jesienny smutek: świat stał się nudny i szary. Według horoskopu astrologicznego w listopadzie rodzina będzie zbawieniem dla Byka. Poświęć więc dużo czasu wszystkim swoim osobom partnerskim, stałym i chwilowym, bo przyniesie ci to pozytywne uczucia. Jeśli nie jesteś w żadnej relacji romantycznej poświęć ten czas swoim osobom przyjacielskim, a nie będziesz żałować. Nie bój się prosić o pomoc, słowa wsparcia czy koc.
+
+Bliźnięta czeka bardzo dobry miesiąc. Okres ten sprzyja wszelkim przedsięwzięciom. W wyniku podjętych kroków sytuacja finansowa zacznie się poprawiać, relacje z kolegami i koleżankami ustabilizują się. Pozycja Słońca w Skorpionie daje potężny zastrzyk energii, śmiało możesz patrzeć w przyszłość. Możesz podążać za swoimi pragnieniami i robić, co chcesz.
+
+W listopadzie doświadczysz burzliwych emocji w swoim życiu miłosnym. Jeśli nie jesteś w żadnym związku to listopad przyniesie ci niejedno zaskoczenie. Będą się pojawiać różne osoby, ale na prawdziwą miłość przyjdzie jeszcze poczekać. Jeśli natomiast jesteś w stałym związku to także będą się pojawiać różne osoby – pomyśl więc może o związku otwartym. Prawdopodobnie uda się wznowić przerwany romans w czasie Szronowej Pełni (8 listopada).
+
+Aktywne uczestnictwo w życiu społeczeństwa przyniesie godne rezultaty. Wegańskie ciasto, wymianka ubrań czy wspólne malowanie transparentów? Każde przedsięwzięcie uda się wspaniale i jego skutki przerosną twoje oczekiwania.
+
+W finansach uważaj na oszustów. Nie wpłacaj na losowe zrzutki i unikaj w tym miesiącu handlu narkotykami – nie opłaci się.
+
+Potężne Słońce w Skorpionie ma fascynujący wpływ na Raka, zmuszając do introspekcji. W tym okresie uczucia przeważają nad logiką, intuicja odgrywa ważną rolę w podejmowaniu decyzji. To jedyny sposób na uniknięcie fatalnych błędów. Nierozwiązane problemy lub osoby z przeszłości mogą nagle o sobie przypomnieć. Do wszelkich oświadczeń podchodź z ostrożnością i unikaj inb w Internec…

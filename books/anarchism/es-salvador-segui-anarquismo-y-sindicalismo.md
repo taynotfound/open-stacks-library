@@ -19,4 +19,50 @@ files:
     hosted: false
 ---
 
-         Qué es el anarquismo          Qué es el sindicalismo          Los anarquistas en los sindicatos. Labor a realizar          El Estado ruso. La función de los Sindicatos          El sindicalismo y el problema de la cultura          El genio del anarquismo y el hombre práctico del sindicalismo Es creencia general que el sindicalismo no significa nada. Los equívocos que alrededor de esta negación se han formado son tantos, y algunos de tal magnitud, que conviene, de una vez para siempre, deshacerlos, destruirlos. Que el sindicalismo no es nada, no sería nada, sin la espiritualidad irradiada del anarquismo, como afirman algunos, es condicionalmente verdad. Pero sólo condicionalmente. El anarquismo es una gradación del pensamiento humano. Diríamos, mejor, que es la gradación más alta del pensamiento humano. Es una consecuencia lógica de las diversas fases que, a través de los tiempos, han sufrido las ideas, pasadas por el filtro del sentimiento. Todas las ideas no son nada sin las personas que las crean. Si las personas no las creasen, no existirían. Por lo tanto, pues, las ideas han sido determinadas por las personas. La anarquía, repitámoslo, no es anterior al ser humano, porque si fuera así, los anarquistas dejarían de ser, espiritual y moralmente, lo que fueron y lo que son, para rendir culto fanáticamente a lo sobrenatural. En este caso no se distinguirían los principios anarquistas de los deístas. Y, precisamente porque las ideas son creadas por el ser humano, concebidas por el ser humano, tienen consistencia y valor humano. En caso contrario, ya lo hemos dicho, nada serían; nada valdrían. Serían, sí, un valor negativo. Serían una negación de la conciencia de las personas. Concretemos. Cualquier idea que no pase o que no haya pasado por los procesos de la evolución no es más que elucubraciones mentales. El anarquismo tuvo que pasar por este proceso evolutivo del que hablamos. Si no fuera así, no se concebiría la anarquía como manifestación humana. Tenemos que tener en cuenta también otra cosa. Que todas las ideas, tanto las más modestas como las más atrevidas, han sufrido este proceso de evolución. Lo demuestra el hecho que ni una sola de las concebidas ha sido llevada a la práctica, se ha plasmado en realidad, en su concepción primitiva, en su integridad y pureza. Así las religiones; así todas las concepciones filosóficas, económicas y políticas. Así nuestras ideas. Hasta incluso algunas, de la concepción a la realización, han dejado en el tránsito pedazos de sus principios. Ahora bien. Con cuanta más fe luchemos y cuanto más integramente sea planteada la lucha, más pronto y más felizmente se llegará a la realización de las ideas. De lo contrario, tardarán más a realizarse cuanto más indiferentes seamos. Pero tengamos en cuenta también, no lo olvideis, porque el desengaño sería funesto, que las ideas pierden la integridad de la concepción originaria, de la misma manera que todas las ideas se bifurcan, con tal que se puedan llevar a la práctica, más o menos tarde, por los nuevos caminos abiertos, el de realización más inmediata. Una idea puede dar margen a nuevas concepciones ideológicas; a nuevas exposiciones. Puede ser motivo para crear organizaciones que, basándose en la concepción espiritual de la misma idea, cree de nuevas. Y aunque fundamentalmente no sean las mismas, no se pueden diferenciar en nada. Eso pasa con el sindicalismo. Porque el anarquismo, asentemos esta afirmación, da lugar al sindicalismo. El sindicalismo es la base, la orientación económica del anarquismo. Digamos que es la concepción. La anarquía no es un ideal de realización inmediata. No lo limita nada. Por su extensión espiritual, es infinito. Para su implantación, no tiene lugar ni tiempo. En el orden social de las ideas, las personas no conseguirán dominarlo nunca. Hagamos otra afirmación referente al anarquismo, y es: que siendo la concepción ideal de la vida de las personas, no llegará a tener realización, porque es una perfección tal de …
+Qué es el anarquismo
+
+Qué es el sindicalismo
+
+Los anarquistas en los sindicatos. Labor a realizar
+
+El Estado ruso. La función de los Sindicatos
+
+El sindicalismo y el problema de la cultura
+
+El genio del anarquismo y el hombre práctico del sindicalismo
+
+Es creencia general que el sindicalismo no significa nada. Los equívocos que alrededor de esta negación se han formado son tantos, y algunos de tal magnitud, que conviene, de una vez para siempre, deshacerlos, destruirlos.
+
+Que el sindicalismo no es nada, no sería nada, sin la espiritualidad irradiada del anarquismo, como afirman algunos, es condicionalmente verdad. Pero sólo condicionalmente.
+
+El anarquismo es una gradación del pensamiento humano. Diríamos, mejor, que es la gradación más alta del pensamiento humano. Es una consecuencia lógica de las diversas fases que, a través de los tiempos, han sufrido las ideas, pasadas por el filtro del sentimiento.
+
+Todas las ideas no son nada sin las personas que las crean. Si las personas no las creasen, no existirían. Por lo tanto, pues, las ideas han sido determinadas por las personas.
+
+La anarquía, repitámoslo, no es anterior al ser humano, porque si fuera así, los anarquistas dejarían de ser, espiritual y moralmente, lo que fueron y lo que son, para rendir culto fanáticamente a lo sobrenatural.
+
+En este caso no se distinguirían los principios anarquistas de los deístas.
+
+Y, precisamente porque las ideas son creadas por el ser humano, concebidas por el ser humano, tienen consistencia y valor humano. En caso contrario, ya lo hemos dicho, nada serían; nada valdrían. Serían, sí, un valor negativo. Serían una negación de la conciencia de las personas. Concretemos.
+
+Cualquier idea que no pase o que no haya pasado por los procesos de la evolución no es más que elucubraciones mentales.
+
+El anarquismo tuvo que pasar por este proceso evolutivo del que hablamos. Si no fuera así, no se concebiría la anarquía como manifestación humana.
+
+Tenemos que tener en cuenta también otra cosa. Que todas las ideas, tanto las más modestas como las más atrevidas, han sufrido este proceso de evolución. Lo demuestra el hecho que ni una sola de las concebidas ha sido llevada a la práctica, se ha plasmado en realidad, en su concepción primitiva, en su integridad y pureza. Así las religiones; así todas las concepciones filosóficas, económicas y políticas. Así nuestras ideas.
+
+Hasta incluso algunas, de la concepción a la realización, han dejado en el tránsito pedazos de sus principios.
+
+Ahora bien. Con cuanta más fe luchemos y cuanto más integramente sea planteada la lucha, más pronto y más felizmente se llegará a la realización de las ideas. De lo contrario, tardarán más a realizarse cuanto más indiferentes seamos.
+
+Pero tengamos en cuenta también, no lo olvideis, porque el desengaño sería funesto, que las ideas pierden la integridad de la concepción originaria, de la misma manera que todas las ideas se bifurcan, con tal que se puedan llevar a la práctica, más o menos tarde, por los nuevos caminos abiertos, el de realización más inmediata.
+
+Una idea puede dar margen a nuevas concepciones ideológicas; a nuevas exposiciones. Puede ser motivo para crear organizaciones que, basándose en la concepción espiritual de la misma idea, cree de nuevas. Y aunque fundamentalmente no sean las mismas, no se pueden diferenciar en nada.
+
+Eso pasa con el sindicalismo. Porque el anarquismo, asentemos esta afirmación, da lugar al sindicalismo.
+
+El sindicalismo es la base, la orientación económica del anarquismo. Digamos que es la concepción. La anarquía no es un ideal de realización inmediata.
+
+No lo limita nada. Por su extensión espiritual, es infinito. Para su implantación, no tiene lugar ni tiempo. En el orden social de las ideas, las personas no conseguirán dominarlo nunca.
+
+Hagamos otra afirmación referente al anarquismo, y es: que siendo la concepción ideal de la vida de las personas, no llegará a tener realización, porque es una perfección tal de pensamiento que por tenerla hac…

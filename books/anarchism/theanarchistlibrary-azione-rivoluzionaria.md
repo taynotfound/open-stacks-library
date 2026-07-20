@@ -19,4 +19,106 @@ files:
     hosted: false
 ---
 
-     Brief note for the third Italian edition      Introductory note to the first edition    Contributions to the libertarian armed critique      Bomb attack on Paoline Editions main offices      A communiqué of the A.R.A.F. (Azione Rivoluzionaria Autonomia Femminista)      Communique concerning the action in La Spezia      Comrades never forget!        The only justice is proletarian          May 5 1972 — 8pm          May 6 1972 — 12.30pm          May 6 1972 — 16. 30          May 7 — 16. 30          May 12          June 12 1972          October 5 1972          October 25 1972          November 30          May 2 1973          May 21 1973          September 14 1973          January 1 1974          April 23 1975          October 1 1975          February 1977          March 31 1977 8am        Text claiming the revolutionary action Justice for Franco Serantini      Communique relative to some actions in Milan      Communique concerning some actions in Turin      Communique concerning attacks against the construction of the new prisons in Florence and Livorno      August 2 1977, Attack on the IPCA of Cirie, the cancer factory      Communique relative to the attack on La Stampa of Turin and LUnita journalist Ferrero      Bomb at Turin Sports Stadium September 21 1977      Leaflet relative to an action carried out in Milan      The false leaflet of the Trade Union Confederation      A document to the comrades of the movement      First theoretical document... 8 pages... January 1978      The bunker of freedom      What to do?      Action of 6 April 1978 in Rome      Bombing of Christian Democrat premises in Aosta      Bombing of I.B.M. in Turin July 23 1978      Communique for the attack on ‘Gazzetta del Popolo’ 29 July 1978 An armed revolutionary organization is an indispensable instrument in the struggle against oppression. This is beyond doubt. The problem arises with regard to the limits and structures that this organization must give itself in recognizing itself as a means and not as an end. Strange as it may seem, that is exactly the point. The experience of AR, discussed at length in these old pages, demonstrates how an organization born with anarchist intentions, gradually became addressed towards a consideration of itself as the first objective to guarantee and increase, if not maintain and safeguard at any cost. From the actions, which contained revolutionary meaning and content, they address themselves — as the dispassionate reader can see for themselves — towards a theoretical rumination that can only lead to a precautionary justification for existing. Never as today, as a new season of insurrectional struggles is setting off, does this problem of organization and the risk of unrestrained self-reference need to be faced in no uncertain terms. The generalization of the clash does not admit privileged levels, nor is it to be blindly delivered to improvisation and spontaneity. Look around. From the daily clash we will have to pass, sooner or later — better sooner than later — to a more detailed and coherent insurrectional project, capable of involving others and not only demonstrating how determined we are. The enemy is getting ready, are we? Alfredo M. Bonanno Trieste, October 19 th 2011 In the present volume we have collected the most significant documents drawn up by the armed organization Azione Rivoluzionaria from 1976. These documents were born, for the most part, from the need to claim the various actions conducted against men and organisms of power and, while fulfilling their function of immediate clarification aimed at the general public — they also contain revolutionary analyses of considerable interest. The broader document, entitled Notes for an internal and external discussion, which provides a detailed contribution to the social, political, military and strategic analysis of the present [1980] class clash will be considered separately. [This is not included in the English edition.] Scrolling through these docum…
+Brief note for the third Italian edition
+
+Introductory note to the first edition
+
+Contributions to the libertarian armed critique
+
+Bomb attack on Paoline Editions main offices
+
+A communiqué of the A.R.A.F. (Azione Rivoluzionaria Autonomia Femminista)
+
+Communique concerning the action in La Spezia
+
+Comrades never forget!
+
+The only justice is proletarian
+
+May 5 1972 — 8pm
+
+May 6 1972 — 12.30pm
+
+May 6 1972 — 16. 30
+
+May 7 — 16. 30
+
+May 12
+
+June 12 1972
+
+October 5 1972
+
+October 25 1972
+
+November 30
+
+May 2 1973
+
+May 21 1973
+
+September 14 1973
+
+January 1 1974
+
+April 23 1975
+
+October 1 1975
+
+February 1977
+
+March 31 1977 8am
+
+Text claiming the revolutionary action Justice for Franco Serantini
+
+Communique relative to some actions in Milan
+
+Communique concerning some actions in Turin
+
+Communique concerning attacks against the construction of the new prisons in Florence and Livorno
+
+August 2 1977, Attack on the IPCA of Cirie, the cancer factory
+
+Communique relative to the attack on La Stampa of Turin and LUnita journalist Ferrero
+
+Bomb at Turin Sports Stadium September 21 1977
+
+Leaflet relative to an action carried out in Milan
+
+The false leaflet of the Trade Union Confederation
+
+A document to the comrades of the movement
+
+First theoretical document... 8 pages... January 1978
+
+The bunker of freedom
+
+What to do?
+
+Action of 6 April 1978 in Rome
+
+Bombing of Christian Democrat premises in Aosta
+
+Bombing of I.B.M. in Turin July 23 1978
+
+Communique for the attack on ‘Gazzetta del Popolo’ 29 July 1978
+
+An armed revolutionary organization is an indispensable instrument in the struggle against oppression. This is beyond doubt. The problem arises with regard to the limits and structures that this organization must give itself in recognizing itself as a means and not as an end.
+
+Strange as it may seem, that is exactly the point. The experience of AR, discussed at length in these old pages, demonstrates how an organization born with anarchist intentions, gradually became addressed towards a consideration of itself as the first objective to guarantee and increase, if not maintain and safeguard at any cost.
+
+From the actions, which contained revolutionary meaning and content, they address themselves — as the dispassionate reader can see for themselves — towards a theoretical rumination that can only lead to a precautionary justification for existing.
+
+Never as today, as a new season of insurrectional struggles is setting off, does this problem of organization and the risk of unrestrained self-reference need to be faced in no uncertain terms. The generalization of the clash does not admit privileged levels, nor is it to be blindly delivered to improvisation and spontaneity.
+
+Look around. From the daily clash we will have to pass, sooner or later — better sooner than later — to a more detailed and coherent insurrectional project, capable of involving others and not only demonstrating how determined we are.
+
+The enemy is getting ready, are we?
+
+Alfredo M. Bonanno
+
+Trieste, October 19th 2011
+
+In the present volume we have collected the most significant documents drawn up by the armed organization Azione Rivoluzionaria from 1976. These documents were born, for the most part, from the need to claim the various actions conducted against men and organisms of power and, while fulfilling their function of immediate clarification aimed at the general public — they also contain revolutionary analyses of considerable interest. The broader document, entitled Notes for an internal and external discussion, which provides a detailed contribution to the social, political, military and strategic analysis of the present [1980] class clash will be considered separately. [This is not included in the English edition.]
+
+Scrolling through these documents we see Azione Rivoluzionarias attempt, with characteristics that could be summed up as anarchist positions, to counteract the project of the Stalinist and Marxist-Leninist front of the various armed organizations active in It…

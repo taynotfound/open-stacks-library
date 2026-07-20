@@ -19,4 +19,41 @@ files:
     hosted: false
 ---
 
-Just sayin’... The opinions expressed in this text represent no other than my own. My position against psychiatry is based on my own personal experience and should not be taken as an authority on the subject. Psychiatry, medications, and or psychiatric incarceration is considered helpful by some, and I wish them the very best experience with it. But also... To the ‘freaks’, the ‘weirdos’, the ‘delinquents’, and the unruly... To those who embrace these words like daggers drawn against civility, To the insubordinate youth who refuse to tranquilize their play with meds, To those who riot in the asylums, and those who dare to escape from them... Let the moonlight illuminate our iconoclasm, witches and savage animals spellbinding fire in the night, for the destruction of society, with the courage of unmedicated confrontation. Any society that you build will have its limits. And outside the limits of any society, unruly and heroic tramps will wander with their wild and virgin thought — those who cannot live without planning ever new and dreadful outbursts of rebellion! I shall be among them!” — Renzo Novatore I’m sittin’ at a big round table with about three nurses and two doctors. My eyes are sensitive to the light cus I haven’t slept in days. A nurse directly beside me has been gently nodding at me with the same look of concern for about an hour. My vision keeps blurring and then re-focusing. My hands are slightly trembling. I’ve been fighting the urge to lay my head down since I sat down. It appears this awkward meeting is almost over, and I have some papers to sign. The doctor who has been talkin’ since I got here is still talkin’ and I admit, I haven’t really been paying much attention. Finally the talking stops and everyone stands up. The nurse beside me helps me up by my arm. I start to feel dizzy. We begin walking down a long hallway and eventually enter a room. Another nurse in the room greets me with a pillow, a blanket, and a pill to “help with rest”. Before sittin’ down on the bed I’ve been assigned, a nurse calmly requests my belt and shoe laces. I comply and decide while I’m up I might as well take a shit before I go to sleep. About five seconds after my ass hits the toilet seat I hear a commotion - frantic pounding and demands to unlock the bathroom door. Confused and startled, I jump up, trip over my pants, and unlock the door. Apparently I’m not allowed to lock the bathroom door - or have it totally closed while I’m in there. I quickly finish shitting in plain view of a nurse and walk back to bed. I notice a different nurse has pulled up a chair right beside it and sits down with a clipboard and pen. I lay down and try to get comfortable while accepting the awkward close watch by this nurse beside me. As I start drifting off to sleep I reflect on everything that’s goin’ on. Oh that’s right. Earlier today I tried to hang myself in my apartment and this is my first night in a psych ward. **** INDIANAPOLIS, March 18 th 2018 — Resource Treatment Center Riot Nearly a dozen Indianapolis police officers were called to respond Wednesday night to a riot at a juvenile psychiatric treatment and addiction facility on the city’s east side. Eleven officers were dispatched to 1404 S. State Avenue just before 11 p.m. Wednesday on a report of a disturbance at the facility. The location is home to the Resource Treatment Center juvenile psychiatric facility, as well as Options Transitional Living, which provides sober housing for homeless or at-risk youth. Police arrived to find that a group of juvenile residents had done more than $50,000-worth of damage to the facility and assaulted four staff members. Officers took nine juveniles ranging in age from 13-17 into custody on preliminary charges of vandalism, rioting, battery and disorderly conduct. **** During my time at this psychiatric prison I was subjected to what’s called ‘one on ones’ which basically means I’m at risk to myself and therefore require 24 hour observation by staff. …
+Just sayin’...
+
+The opinions expressed in this text represent no other than my own. My position against psychiatry is based on my own personal experience and should not be taken as an authority on the subject. Psychiatry, medications, and or psychiatric incarceration is considered helpful by some, and I wish them the very best experience with it.
+
+But also...
+
+To the ‘freaks’, the ‘weirdos’, the ‘delinquents’, and the unruly...
+
+To those who embrace these words like daggers drawn against civility,
+
+To the insubordinate youth who refuse to tranquilize their play with meds,
+
+To those who riot in the asylums, and those who dare to escape from them...
+
+Let the moonlight illuminate our iconoclasm, witches and savage animals
+
+spellbinding fire in the night, for the destruction of society,
+
+with the courage of unmedicated confrontation.
+
+Any society that you build will have its limits. And outside the limits of any society, unruly and heroic tramps will wander with their wild and virgin thought — those who cannot live without planning ever new and dreadful outbursts of rebellion! I shall be among them!” — Renzo Novatore
+
+I’m sittin’ at a big round table with about three nurses and two doctors. My eyes are sensitive to the light cus I haven’t slept in days. A nurse directly beside me has been gently nodding at me with the same look of concern for about an hour. My vision keeps blurring and then re-focusing. My hands are slightly trembling. I’ve been fighting the urge to lay my head down since I sat down. It appears this awkward meeting is almost over, and I have some papers to sign. The doctor who has been talkin’ since I got here is still talkin’ and I admit, I haven’t really been paying much attention. Finally the talking stops and everyone stands up. The nurse beside me helps me up by my arm. I start to feel dizzy. We begin walking down a long hallway and eventually enter a room. Another nurse in the room greets me with a pillow, a blanket, and a pill to “help with rest”. Before sittin’ down on the bed I’ve been assigned, a nurse calmly requests my belt and shoe laces. I comply and decide while I’m up I might as well take a shit before I go to sleep. About five seconds after my ass hits the toilet seat I hear a commotion - frantic pounding and demands to unlock the bathroom door. Confused and startled, I jump up, trip over my pants, and unlock the door. Apparently I’m not allowed to lock the bathroom door - or have it totally closed while I’m in there. I quickly finish shitting in plain view of a nurse and walk back to bed. I notice a different nurse has pulled up a chair right beside it and sits down with a clipboard and pen. I lay down and try to get comfortable while accepting the awkward close watch by this nurse beside me. As I start drifting off to sleep I reflect on everything that’s goin’ on. Oh that’s right. Earlier today I tried to hang myself in my apartment and this is my first night in a psych ward.
+
+****
+
+
+INDIANAPOLIS, March 18 th 2018 — Resource Treatment Center Riot
+
+Nearly a dozen Indianapolis police officers were called to respond Wednesday night to a riot at a juvenile psychiatric treatment and addiction facility on the city’s east side.
+
+Eleven officers were dispatched to 1404 S. State Avenue just before 11 p.m. Wednesday on a report of a disturbance at the facility. The location is home to the Resource Treatment Center juvenile psychiatric facility, as well as Options Transitional Living, which provides sober housing for homeless or at-risk youth.
+
+Police arrived to find that a group of juvenile residents had done more than $50,000-worth of damage to the facility and assaulted four staff members. Officers took nine juveniles ranging in age from 13-17 into custody on preliminary charges of vandalism, rioting, battery and disorderly conduct.
+
+****
+
+During my time at this psychiatric prison I was subjected to what’s called ‘one on ones’ which basically means I’m at risk to myself and therefore require 24 hour obs…

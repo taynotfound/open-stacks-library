@@ -19,4 +19,46 @@ files:
     hosted: false
 ---
 
-This text is not a criticism of the self-criticism of the comrades of the CCF, entitled “De Profundis” . I am not facing long decades in prison and so it’s not for me to judge the methods used by the comrades to regain freedom and get back on the trails of the anarchist urban guerrilla struggle. This text would just like to halt the constant flow of information, or rather counter-information for a moment, for some self-critical reflection. Because it seems to me, managing a site of counterinformation myself, that one often skips criticism of the texts that are published, almost as if we were news agencies. So as not to delve too far into the past (because similar examples are not of recent date), I will start with perhaps a less thorny topic, when I read in a claim, dated 12-19/01, from Greece, the citation of a Mafia boss. I am not entering into the choice of personal friendships and I’m not referring to labels imposed by the system (such as “criminals”), but assuming that mafia activity is not that much different on the soil of Greece, ex Yugoslavia or Italy, also assuming that we all pretty much know its organizational and political-economic character, the need to include such a personage in the context of anarchist struggle/action is beyond my anarchist comprehension. Or perhaps it is personal friendships that are transforming everyone into comrades in struggle now? And so comrade also became Ch. Xiros, a member of a communist organization. Of course, now that it has been stated publicly that he is a snitch (aside: how is it, in this world of speedy counter-information, that this information had never been published until now?) many are quick to point out that they did not express solidarity with him in the past (and those who did, remain silent). But if he had not been an informer, a communist would be the anarchists’ comrade, a person to give solidarity and support? I, for my part, did not have any problem when I reported the news of the failed escape plan of the CCF, in adding that RadioAzione Croatia will never express solidarity with a communist. Or maybe it is enough now just to pick up a gun to consider oneself comrades? Guerrillas of the world unite? United in the struggle for the international revolution? Kurdish, Palestinian, Basque resistance, Latin-American guerrillas of every kind, RAF, Action Directe... Long live armed struggle in itself? How else could I explain the names of the cells of the Informal Anarchist Federation (I emphasize “anarchist” and “informal”!) dedicated, for example, to Meinhof of the RAF or to Jorge Saldivia of the Chilean Manuel Rodriguez Patriotic Front then? I ask myself why on earth comrades, not just those that signed with the names of members of these organizations, or those who refer to them in their texts, but also those who publish/read this news, find nothing contradictory in that? Perhaps because, excuse my ignorance, a common anarchist-communist front has been created? Maybe because we have things in common that unite us in the struggle? The ultimate goal? Why must history repeat itself before we finally learn the difference between an authoritarian ideology and an anarchist idea that aims at the total destruction of the existent? But if the difference between the two is such an abyss (at least in my conception of anarchy it is), should that not be reflected in practice? Or have we forgotten that these communist guerrillas in the territories where they had more “luck”, have contributed to the construction of a communist State? And how can I, anarchist, then, go back and solidarize with people whose ideology has persecuted, tortured and murdered anarchists? Today, side by side before the common enemy (?). Tomorrow in front of the people’s courts. Today together as “political prisoners”. Tomorrow in the people’s jails. What then does this expression “political prisoners”, so common in anarchist circles, mean? Perhaps to differentiate themselves from the other common prisoners, w…
+This text is not a criticism of the self-criticism of the comrades of the CCF, entitled “De Profundis”. I am not facing long decades in prison and so it’s not for me to judge the methods used by the comrades to regain freedom and get back on the trails of the anarchist urban guerrilla struggle.
+
+This text would just like to halt the constant flow of information, or rather counter-information for a moment, for some self-critical reflection. Because it seems to me, managing a site of counterinformation myself, that one often skips criticism of the texts that are published, almost as if we were news agencies.
+
+So as not to delve too far into the past (because similar examples are not of recent date), I will start with perhaps a less thorny topic, when I read in a claim, dated 12-19/01, from Greece, the citation of a Mafia boss. I am not entering into the choice of personal friendships and I’m not referring to labels imposed by the system (such as “criminals”), but assuming that mafia activity is not that much different on the soil of Greece, ex Yugoslavia or Italy, also assuming that we all pretty much know its organizational and political-economic character, the need to include such a personage in the context of anarchist struggle/action is beyond my anarchist comprehension. Or perhaps it is personal friendships that are transforming everyone into comrades in struggle now?
+
+And so comrade also became Ch. Xiros, a member of a communist organization. Of course, now that it has been stated publicly that he is a snitch (aside: how is it, in this world of speedy counter-information, that this information had never been published until now?) many are quick to point out that they did not express solidarity with him in the past (and those who did, remain silent).
+
+But if he had not been an informer, a communist would be the anarchists’ comrade, a person to give solidarity and support?
+
+I, for my part, did not have any problem when I reported the news of the failed escape plan of the CCF, in adding that RadioAzione Croatia will never express solidarity with a communist.
+
+Or maybe it is enough now just to pick up a gun to consider oneself comrades?
+
+Guerrillas of the world unite?
+
+United in the struggle for the international revolution?
+
+Kurdish, Palestinian, Basque resistance, Latin-American guerrillas of every kind, RAF, Action Directe...
+
+Long live armed struggle in itself?
+
+How else could I explain the names of the cells of the Informal Anarchist Federation (I emphasize “anarchist” and “informal”!) dedicated, for example, to Meinhof of the RAF or to Jorge Saldivia of the Chilean Manuel Rodriguez Patriotic Front then?
+
+I ask myself why on earth comrades, not just those that signed with the names of members of these organizations, or those who refer to them in their texts, but also those who publish/read this news, find nothing contradictory in that?
+
+Perhaps because, excuse my ignorance, a common anarchist-communist front has been created?
+
+Maybe because we have things in common that unite us in the struggle? The ultimate goal?
+
+Why must history repeat itself before we finally learn the difference between an authoritarian ideology and an anarchist idea that aims at the total destruction of the existent?
+
+But if the difference between the two is such an abyss (at least in my conception of anarchy it is), should that not be reflected in practice?
+
+Or have we forgotten that these communist guerrillas in the territories where they had more “luck”, have contributed to the construction of a communist State?
+
+And how can I, anarchist, then, go back and solidarize with people whose ideology has persecuted, tortured and murdered anarchists?
+
+Today, side by side before the common enemy (?). Tomorrow in front of the people’s courts. Today together as “political prisoners”. Tomorrow in the people’s jails.
+
+What then does this expression “political prisoners”, so common in anarchist circles, mean?
+
+Perhaps to differentiate themselves from the other…
