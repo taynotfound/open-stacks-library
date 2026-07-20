@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/96f6f6188828bd77.jpg"
 links: []
 files: []
+files:
+  - name: "student-radicals-an-incomplete-history-of-protest-at-the-uni.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/student-radicals-an-incomplete-history-of-protest-at-the-uni.pdf"
+    hosted: true
 ---
 # Student radicals: An incomplete history of protest at the University of Sussex, 1971-75
 
