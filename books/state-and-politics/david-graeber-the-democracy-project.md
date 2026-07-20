@@ -23,6 +23,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-democracy-project.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-democracy-project.epub
+    hosted: true
 ---
 
 # The Democracy Project
