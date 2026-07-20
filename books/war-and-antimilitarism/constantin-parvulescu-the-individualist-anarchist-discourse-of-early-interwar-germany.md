@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-individualist-anarchist-discourse-of-early-interwar-germany.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-individualist-anarchist-discourse-of-early-interwar-germany.epub
+    hosted: true
 ---
 
 # The Individualist Anarchist Discourse of Early Interwar Germany
