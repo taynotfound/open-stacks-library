@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: political-line-of-libertarian-communist-front.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/political-line-of-libertarian-communist-front.epub
+    hosted: true
 ---
 
 # Political Line of Libertarian Communist Front
