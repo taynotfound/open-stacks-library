@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/176aa3fb8d7b33a0.jpg"
 links: []
 files: []
+files:
+  - name: "economics-politics-and-the-age-of-inflation-paul-mattick.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/economics-politics-and-the-age-of-inflation-paul-mattick.pdf"
+    hosted: true
 ---
 # Economics, Politics and The Age of Inflation - Paul Mattick
 
