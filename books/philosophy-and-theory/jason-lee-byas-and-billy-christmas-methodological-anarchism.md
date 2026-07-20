@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: methodological-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/methodological-anarchism.epub
+    hosted: true
 ---
 
 # Methodological Anarchism
