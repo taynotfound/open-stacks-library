@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: moving-anarchy-away-from-eurocentricism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/moving-anarchy-away-from-eurocentricism.epub
+    hosted: true
 ---
 
 # Moving Anarchy away from Eurocentricism
