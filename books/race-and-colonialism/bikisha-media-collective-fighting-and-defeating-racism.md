@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: fighting-and-defeating-racism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/fighting-and-defeating-racism.epub
+    hosted: true
 ---
 
 # Fighting and Defeating Racism
