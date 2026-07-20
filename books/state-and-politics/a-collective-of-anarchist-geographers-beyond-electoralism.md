@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: beyond-electoralism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/beyond-electoralism.epub
+    hosted: true
 ---
 
 # Beyond Electoralism
