@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: to-the-point-to-action-an-interpretation-of-the-democratic-idea.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/to-the-point-to-action-an-interpretation-of-the-democratic-idea.epub
+    hosted: true
 ---
 
 # To the Point! To Action!! An Interpretation of the Democratic Idea
