@@ -20,6 +20,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/dbc397a78b40e42a.jpg"
 links: []
 files: []
+files:
+  - name: "in-the-cauldron-of-the-negative-jean-marc-mandosio.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/in-the-cauldron-of-the-negative-jean-marc-mandosio.pdf"
+    hosted: true
 ---
 # In the cauldron of the negative - Jean-Marc Mandosio
 
