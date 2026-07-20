@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: pirate-utopias.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/pirate-utopias.epub
+    hosted: true
 ---
 
 # Pirate Utopias
