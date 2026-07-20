@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-struggle-against-the-state-and-other-essays.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-struggle-against-the-state-and-other-essays.epub
+    hosted: true
 ---
 
 # The Struggle Against the State and Other Essays
