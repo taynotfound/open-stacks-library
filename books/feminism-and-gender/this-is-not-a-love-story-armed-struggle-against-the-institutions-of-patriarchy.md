@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b48edd5b5a79252b.jpg"
 links: []
 files: []
+files:
+  - name: "this-is-not-a-love-story-armed-struggle-against-the-institut.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/this-is-not-a-love-story-armed-struggle-against-the-institut.pdf"
+    hosted: true
 ---
 # This Is Not A Love Story: Armed Struggle Against The Institutions Of Patriarchy
 
