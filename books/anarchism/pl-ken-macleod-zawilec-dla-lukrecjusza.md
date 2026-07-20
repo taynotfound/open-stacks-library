@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-Byłem w trakcie orgii kalifornijskiej, kiedy nadeszło wezwanie, niczym głos sumienia. W rzeczywistości, był to głos ojca Declana, ale nie był przeznaczony dla mnie. Jednak nie byłem leniwy przez dwa lata podróży Malacandrą, czy w tych nudnych miesiącach przemierzania centymetr po centymetrze powierzchni Marsa. Podsłuchiwałem systemy komunikacyjne statku. - Niech ktoś wyrwie tego przeklętego ateistę z jego cielesnych uciech. Tak więc, gdy siostra Agnes zadzwoniła u drzwi, moje sukuby były z powrotem na dysku twardym, a ja siedziałem, ubrany, we właściwym stanie umysłu. - Och - powiedziała, gdy wpuściłem ją do pomieszczenia. - Jesteś gotów. Wyglądała na bardziej zawiedzioną niż zaskoczoną. - Usłyszałem …. przypadkiem - powiedziałem. - A na tym statku jest dokładnie jeden przeklęty ateista. Choć sądzę, że cielesne uciechy nie do końca określają to, od czego zostałem oderwany. Jak myślisz? Agnes pięknie się zarumieniła i spojrzała w bok. - Tak zwane grzechy ciała są duchowe - powiedziała - jak zapewne wiesz. Ale to nie jest pora na dyskusję. Mamy zezwolenie na wejście. Puściłem w niepamięć mój tekst i podążyłem za nią na mostek. Przestrzeń wirtualna została poszerzona w taki sposób, aby umożliwić wszystkim wejście na mostek: dwadzieścia siedem osób, z których trzy były księżmi, pięciu mnichami, troje sióstr, piętnaście świeckich i ja – symboliczny ateista. (Symboliczny ateista tak się nazywała moja pozycja. Uczestniczyłem w tej misji, aby, jeżeli to będzie konieczne, każdy mógł przysięgać w dobrej woli, że nie była to katolicka misja - a także, jak podejrzewałem, że będę pod ręką w przypadku brudnej roboty. W trakcie nieukninionych dyskusji o religii, jakie mieliśmy przez tyle lat, czasami przypominałem dyskutantom, jaka to byłaby żenująca sytuacja, gdyby mnie przekonali, a ja dokonałbym konwersji.) Ojciec Declan siedział w krześle kapitańskim, poręczne obrotowy fotel naprzeciw widoku wirtualnego. Widok pokazywał ścianą z arkuszy diamentu i różowego pyłu. Statek stał dokładnie naprzeciw zewnętrznej kopuły miasta, jak nos przyciśnięty do okna. Malacandra, w kształcie marsjańskiej skały wielkości pięści, dotarła tak daleko niewykryta po tym, jak upadła jako meteoryt kilka kilometrów dalej. Teraz, nadal niewykryta, wsuwała swoje węglowe nanofibrowe macki do sieci miejskiej. Arkusze diamentu miały złączenia i te prawie niewyczuwalne pęknięcia umożliwiły nam wejście. Declan uśmiechnął się do mnie. Kiwnąłem głową i oparłem się o ścianę obok Agnes. Gwar podekscytowanych i nerwowych dyskusji powoli ucichł. - Skoro już tu wszyscy jesteście - powiedział - jesteśmy gotowi. Zhakowaliśmy pozwolenie na wejście do fabryki ciał dokładnie pośrodku Dzielnicy Syntetyków. Wzorce wyglądu zainstalowane, fałszywe tożsamości wygenerowano według waszych ustalonych danych. Jasne? Wszyscy pokiwali przytakująco. - Dobrze. Odmówmy szybką modlitwę - Declan mrugnął do mnie. - Ze zwykłym wyjątkiem, oczywiście. Wszyscy inni pochylili głowy. Słuchałem i patrzyłem, nieporuszony, jak Declan pośpiesznie wzywał Marię, świętą Bernadettę i świętego Clive'a do wpłynięcia na nasze bezpieczeństwo i sukces. Po Amen rozejrzał się i wykonał znak krzyża w wirtualnym powietrzu. I nagle był trzeźwy i fachowy, jak policjant z Dublina, którym był przed powołaniem. Uruchomił gestem portal kopiujący i skierował nas do tego błyszczącego łuku. - Ok, wszyscy, według numerów! Jeden za drugim, tak jak nas wyliczał, przeszliśmy przez świecący łuk. Byłem na miejscu siedemnastym, więc miałem dużo czasu, by zobaczyć wyraz twarzy tych, którzy przeszli przede mną, po tym jak przeszli przez kopiarkę i wrócili na swoje miejsce w pomieszczeniu. Dziwne, a w innych przypadkach zabawne, następowanie kolejno zawodu, podniecenia i zamyślenia przebiegało po wszystkich twarzach. Ponieważ, oczywiście, kopia to tylko to. Jesteś nadal tam, po tym jak się skończy. Przynajmniej jedno z ciebie jest. Druga - - Siedemnaście ! Henderson Brian! Przeszedłem przez kopiarkę i natychmiast usiadłem prosto, nagi, kaszl…
+Byłem w trakcie orgii kalifornijskiej, kiedy nadeszło wezwanie, niczym głos sumienia. W rzeczywistości, był to głos ojca Declana, ale nie był przeznaczony dla mnie. Jednak nie byłem leniwy przez dwa lata podróży Malacandrą, czy w tych nudnych miesiącach przemierzania centymetr po centymetrze powierzchni Marsa. Podsłuchiwałem systemy komunikacyjne statku.
+
+- Niech ktoś wyrwie tego przeklętego ateistę z jego cielesnych uciech.
+
+Tak więc, gdy siostra Agnes zadzwoniła u drzwi, moje sukuby były z powrotem na dysku twardym, a ja siedziałem, ubrany, we właściwym stanie umysłu.
+
+- Och - powiedziała, gdy wpuściłem ją do pomieszczenia. - Jesteś gotów.
+
+Wyglądała na bardziej zawiedzioną niż zaskoczoną.
+
+- Usłyszałem …. przypadkiem - powiedziałem. - A na tym statku jest dokładnie jeden przeklęty ateista. Choć sądzę, że cielesne uciechy nie do końca określają to, od czego zostałem oderwany. Jak myślisz?
+
+Agnes pięknie się zarumieniła i spojrzała w bok.
+
+- Tak zwane grzechy ciała są duchowe - powiedziała - jak zapewne wiesz. Ale to nie jest pora na dyskusję. Mamy zezwolenie na wejście.
+
+Puściłem w niepamięć mój tekst i podążyłem za nią na mostek. Przestrzeń wirtualna została poszerzona w taki sposób, aby umożliwić wszystkim wejście na mostek: dwadzieścia siedem osób, z których trzy były księżmi, pięciu mnichami, troje sióstr, piętnaście świeckich i ja – symboliczny ateista.
+
+(Symboliczny ateista tak się nazywała moja pozycja. Uczestniczyłem w tej misji, aby, jeżeli to będzie konieczne, każdy mógł przysięgać w dobrej woli, że nie była to katolicka misja - a także, jak podejrzewałem, że będę pod ręką w przypadku brudnej roboty. W trakcie nieukninionych dyskusji o religii, jakie mieliśmy przez tyle lat, czasami przypominałem dyskutantom, jaka to byłaby żenująca sytuacja, gdyby mnie przekonali, a ja dokonałbym konwersji.)
+
+Ojciec Declan siedział w krześle kapitańskim, poręczne obrotowy fotel naprzeciw widoku wirtualnego. Widok pokazywał ścianą z arkuszy diamentu i różowego pyłu. Statek stał dokładnie naprzeciw zewnętrznej kopuły miasta, jak nos przyciśnięty do okna. Malacandra, w kształcie marsjańskiej skały wielkości pięści, dotarła tak daleko niewykryta po tym, jak upadła jako meteoryt kilka kilometrów dalej. Teraz, nadal niewykryta, wsuwała swoje węglowe nanofibrowe macki do sieci miejskiej. Arkusze diamentu miały złączenia i te prawie niewyczuwalne pęknięcia umożliwiły nam wejście.
+
+Declan uśmiechnął się do mnie. Kiwnąłem głową i oparłem się o ścianę obok Agnes. Gwar podekscytowanych i nerwowych dyskusji powoli ucichł.
+
+- Skoro już tu wszyscy jesteście - powiedział - jesteśmy gotowi. Zhakowaliśmy pozwolenie na wejście do fabryki ciał dokładnie pośrodku Dzielnicy Syntetyków. Wzorce wyglądu zainstalowane, fałszywe tożsamości wygenerowano według waszych ustalonych danych. Jasne?
+
+Wszyscy pokiwali przytakująco.
+
+- Dobrze. Odmówmy szybką modlitwę - Declan mrugnął do mnie. - Ze zwykłym wyjątkiem, oczywiście.
+
+Wszyscy inni pochylili głowy. Słuchałem i patrzyłem, nieporuszony, jak Declan pośpiesznie wzywał Marię, świętą Bernadettę i świętego Clive'a do wpłynięcia na nasze bezpieczeństwo i sukces. Po Amen rozejrzał się i wykonał znak krzyża w wirtualnym powietrzu. I nagle był trzeźwy i fachowy, jak policjant z Dublina, którym był przed powołaniem. Uruchomił gestem portal kopiujący i skierował nas do tego błyszczącego łuku.
+
+- Ok, wszyscy, według numerów!
+
+Jeden za drugim, tak jak nas wyliczał, przeszliśmy przez świecący łuk. Byłem na miejscu siedemnastym, więc miałem dużo czasu, by zobaczyć wyraz twarzy tych, którzy przeszli przede mną, po tym jak przeszli przez kopiarkę i wrócili na swoje miejsce w pomieszczeniu. Dziwne, a w innych przypadkach zabawne, następowanie kolejno zawodu, podniecenia i zamyślenia przebiegało po wszystkich twarzach.
+
+Ponieważ, oczywiście, kopia to tylko to. Jesteś nadal tam, po tym jak się skończy. Przynajmniej jedno z ciebie jest. Druga -
+
+- Siedemnaście ! Henderson Brian!
+
+Przeszedłem przez kopiarkę i natychmiast usiadłem…
