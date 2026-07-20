@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/ngu-thi-yen-meo-mun-a-red-country)
+Ngu Thi Yen is a Vietnamese translator and writer working to make anarchist theory more accessible to Vietnamese speakers. He writes to illustrate “the state capitalist reality in Vietnam with a call to action to build a true libertarian society. “There is a lack of anarchist voices from Vietnam due to state repression and inaccessibility to primary sources. The most prominent Vietnamese voices in both leftist and anarchist spaces are, alarmingly, pro-authoritarian and state-friendly. “As fellow South East Asian anarchists, libertarian communists and principled workers, it is our duty to call out the Vietnamese state’s for-profit, authoritarian capitalist nature and callous disregard for the workers’ lives.”
