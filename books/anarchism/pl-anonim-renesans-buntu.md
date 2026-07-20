@@ -19,4 +19,62 @@ files:
     hosted: false
 ---
 
-     Część 1 (negatywna): przyczyny i cele buntu oraz jego miraże        1.1 Istota władzy i przyczyny zniewolenia        1.2 Wolny Duch a subkultury wolnościowe          Punk          Squattersi          Weganie        1.3 Cywilizacja jako wynaturzenie      Część 2. (pozytywna): inspiracje buntownika        Margines przestępczy średniowiecznych miast. Filozofia zbrodni        Klany ninja przed powstaniem szogunatu Tokugawa        Szkoły filozoficzne w Grecji z czasów Imperium Aleksandra Macedońskiego (istota wolnego praktykowania)          Indywidualizm          Duch          Ćwiczenie        Wojownicze zakony buddyjskie w epoce „rozkwitu” Cesarstwa Chińskiego Sprawia mi radość przeciw wytyczonym drogom Ciskać światy na przekór starczym, dawnym bogom! Leopold Staff - Ja - wyśniony Buntuję się, więc jestem. Albert Camus </rigth> Władza jest pewną formą relacji międzyludzkich - jest uznaniem nadrzędności tego, kto rządzi i podrzędności tego, kto jest rządzony. Ta feudalna relacja nie uległa zmianie, mimo przemian jakie dokonały się w ewoluujących wciąż społeczeństwach. Ewolucja społeczeństw dotyczy wielu sfer, nie dotyczy jednak samej istoty organizacji życia społecznego, którą stanowi podporządkowanie. Bycie rządzonym nie zmienia swej natury, mimo zmian form porządku, którym podlegają jednostki. Podporządkowanie to akceptacja porządku, bez względu na jego postać. Istota podporządkowania przejawia się w posłuszeństwie, posłuszeństwo zaś w respektowaniu majestatu władzy. W podporządkowaniu nie liczy się sensowność uznawania pewnej formy ładu za obowiązującą, liczy się wyłącznie sam fakt uznania danego porządku, jako czegoś obowiązującego. Posłuszeństwo nie wymaga rozumności, wymaga zaś uległości, uniżoności, usłużności i poddańczości. Taka jest natura podporządkowania. Nie jest ona żadną formą afirmacji jednostkowych walorów, posiadanych przez człowieka. Podporządkowanie nie wymaga bowiem rozwagi, spokoju, odwagi czy pogody ducha, wymaga jedynie respektu dla władzy. Bez podporządkowania - jak twierdzą obrońcy formalnego ładu - nie jest w ogóle możliwa koegzystencja jednostek. Temu służy tzw. proces socjalizacji - wpajaniu pokory, posłuszeństwa i uniżoności. Nie jest to proces, dzięki któremu człowiek rozkwita jednostkowymi walorami w postaci zalet. Nie jest to ewolucja twórcza, która kształtuje wartościową osobowość. Wręcz przeciwnie - skutkiem wpajania posłuszeństwa jest ukształtowanie człowieka bylejakiego - pozbawionego zalet - bojaźliwego, zahukanego sługi. Posłuszeństwo nie jest żadną zaletą, lecz przeszkodą na drodze do nabycia zalet. Proces socjalizacji nie jest mądrą nauką, tylko rodzajem tresury ideologicznej, czyniącej z jednostki usłużne narzędzie w rękach ludzi, którzy oczekują jedynie pokory i nierozumnego uznania. Czy ludzi, którzy uczą uniżoności można zwać nauczycielami, czy też raczej gnębicielami i prześladowcami? U podstaw procesu socjalizacji leży kilka powiązanych ze sobą aksjomatów ideologicznych: „Cnota” podporządkowania zawsze jest ważniejsza od swobody bycia. Uznanie nadrzędności władzy jest koniecznym warunkiem współistnienia ludzi. Jednostka jest czynnikiem nieistotnym, istotny jest zbiór jednostek, zwany społeczeństwem. Powyższe aksjomaty wyrządzają wielką szkodę rozumnej indywidualności. Aksjomat pierwszy degraduje zaletę jaką jest osobowa niezależność. Piętnowanie niezależności związane jest z wpajaniem zasady, że jednostka zawsze od czegoś zależy, zatem niezależność jest jedynie fikcją. Skutkiem takiej „nauki” jest powstawanie zrepresjonowanej osobowości, przejawiającej się w niewyraźnym charakterze, emanującym bezsilnością. Taka zrepresjonowana jednostka, tkwiąc w poczuciu wszechobecnych zależności, obawia się jakiejkolwiek formy osobowej ekspresji. W ekspresji tej może się bowiem wyrażać niezgoda na „bycie zależnym”. Jednostka taka obawia się wyrazić coś, co podważy konieczność tkwienia w zależnościach. I tu paradoksalnie ujawnia się wolność, którą posiada każda jednostka ludzka. Skoro bowiem czł…
+Część 1 (negatywna): przyczyny i cele buntu oraz jego miraże
+
+1.1 Istota władzy i przyczyny zniewolenia
+
+1.2 Wolny Duch a subkultury wolnościowe
+
+Punk
+
+Squattersi
+
+Weganie
+
+1.3 Cywilizacja jako wynaturzenie
+
+Część 2. (pozytywna): inspiracje buntownika
+
+Margines przestępczy średniowiecznych miast. Filozofia zbrodni
+
+Klany ninja przed powstaniem szogunatu Tokugawa
+
+Szkoły filozoficzne w Grecji z czasów Imperium Aleksandra Macedońskiego (istota wolnego praktykowania)
+
+Indywidualizm
+
+Duch
+
+Ćwiczenie
+
+Wojownicze zakony buddyjskie w epoce „rozkwitu” Cesarstwa Chińskiego
+
+Sprawia mi radość przeciw wytyczonym drogom
+
+Ciskać światy na przekór starczym, dawnym bogom!
+
+Leopold Staff - Ja - wyśniony
+
+Buntuję się, więc jestem.
+
+Albert Camus
+
+</rigth>
+
+Władza jest pewną formą relacji międzyludzkich - jest uznaniem nadrzędności tego, kto rządzi i podrzędności tego, kto jest rządzony. Ta feudalna relacja nie uległa zmianie, mimo przemian jakie dokonały się w ewoluujących wciąż społeczeństwach. Ewolucja społeczeństw dotyczy wielu sfer, nie dotyczy jednak samej istoty organizacji życia społecznego, którą stanowi podporządkowanie.
+
+Bycie rządzonym nie zmienia swej natury, mimo zmian form porządku, którym podlegają jednostki. Podporządkowanie to akceptacja porządku, bez względu na jego postać. Istota podporządkowania przejawia się w posłuszeństwie, posłuszeństwo zaś w respektowaniu majestatu władzy. W podporządkowaniu nie liczy się sensowność uznawania pewnej formy ładu za obowiązującą, liczy się wyłącznie sam fakt uznania danego porządku, jako czegoś obowiązującego. Posłuszeństwo nie wymaga rozumności, wymaga zaś uległości, uniżoności, usłużności i poddańczości. Taka jest natura podporządkowania. Nie jest ona żadną formą afirmacji jednostkowych walorów, posiadanych przez człowieka. Podporządkowanie nie wymaga bowiem rozwagi, spokoju, odwagi czy pogody ducha, wymaga jedynie respektu dla władzy.
+
+Bez podporządkowania - jak twierdzą obrońcy formalnego ładu - nie jest w ogóle możliwa koegzystencja jednostek. Temu służy tzw. proces socjalizacji - wpajaniu pokory, posłuszeństwa i uniżoności. Nie jest to proces, dzięki któremu człowiek rozkwita jednostkowymi walorami w postaci zalet. Nie jest to ewolucja twórcza, która kształtuje wartościową osobowość. Wręcz przeciwnie - skutkiem wpajania posłuszeństwa jest ukształtowanie człowieka bylejakiego - pozbawionego zalet - bojaźliwego, zahukanego sługi. Posłuszeństwo nie jest żadną zaletą, lecz przeszkodą na drodze do nabycia zalet. Proces socjalizacji nie jest mądrą nauką, tylko rodzajem tresury ideologicznej, czyniącej z jednostki usłużne narzędzie w rękach ludzi, którzy oczekują jedynie pokory i nierozumnego uznania. Czy ludzi, którzy uczą uniżoności można zwać nauczycielami, czy też raczej gnębicielami i prześladowcami?
+
+U podstaw procesu socjalizacji leży kilka powiązanych ze sobą aksjomatów ideologicznych:
+
+„Cnota” podporządkowania zawsze jest ważniejsza od swobody bycia.
+
+Uznanie nadrzędności władzy jest koniecznym warunkiem współistnienia ludzi.
+
+Jednostka jest czynnikiem nieistotnym, istotny jest zbiór jednostek, zwany społeczeństwem.
+
+Powyższe aksjomaty wyrządzają wielką szkodę rozumnej indywidualności.
+
+Aksjomat pierwszy degraduje zaletę jaką jest osobowa niezależność. Piętnowanie niezależności związane jest z wpajaniem zasady, że jednostka zawsze od czegoś zależy, zatem niezależność jest jedynie fikcją. Skutkiem takiej „nauki” jest powstawanie zrepresjonowanej osobowości, przejawiającej się w niewyraźnym charakterze, emanującym bezsilnością. Taka zrepresjonowana jednostka, tkwiąc w poczuciu wszechobecnych zależności, obawia się jakiejkolwiek formy osobowej ekspresji. W ekspresji tej może się bowiem wyrażać niezgoda na „bycie zależnym”. Jednostka taka obawia się wyrazić coś, co podważy konieczność tkwienia w zależnościach. I tu paradoksalnie ujawnia się wolność, którą posiada każda jednostka ludzka. Skoro bowiem człowiek obawia się konsekwencji odrzucenia podporządkowania (które przejawia się w roz…

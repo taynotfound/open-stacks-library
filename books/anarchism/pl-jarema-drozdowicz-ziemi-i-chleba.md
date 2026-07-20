@@ -19,4 +19,66 @@ files:
     hosted: false
 ---
 
-Gdy w 1994 roku w meksykańskim stanie Chiapas oddziały Ejército Zapatista de Liberación Nacional (EZLN) wkroczyły do głównych miast regionu, zajmując urzędy, posterunki policyjne i ważniejsze instytucje lokalne, rząd tego kraju postawiony został w wyjątkowo niezręcznej politycznie sytuacji. Oto obserwować mogliśmy typowe dla wielu państw Ameryki Łacińskiej kolejne chłopskie powstanie, których tamtejsze społeczeństwa doświadczały w przeszłości już wiele. Garstka słabo uzbrojonych (często jedynie w drewniane atrapy broni palnej), zamaskowanych (w charakterystyczne kominiarki) i nierzadko bosych indiańskich chłopów próbowała wyrazić znane już powszechnie w Meksyku niezadowolenie z sytuacji ekonomicznej, społecznej i kulturowej marginalizacji grup indiańskich, lokalnych kooperatyw rolniczych oraz wszystkich innych grup będących swoistą antytezą nowoczesnego meksykańskiego społeczeństwa. Powstanie Zapatystów odwoływało się bowiem bezpośrednio do ideałów, symboliki i języka ruchu z początku XX wieku pod przywództwem Emiliano Zapaty Salazara. Ówczesne powstanie Zapaty na południu Meksyku stanowi jednak jednocześnie jeden z fundacyjnych mitów współczesnego państwa meksykańskiego oraz punkt ideologicznego odniesienia dla dominującej w tym kraju od kilkudziesięciu lat Partii Instytucjonalno-Rewolucyjnej, której korzenie organizacyjne tkwią właśnie w tamtych wydarzeniach oraz powstaniu na północy pod przywództwem niemniej charyzmatycznego Pancho Villi. Niemniej, wydarzenia mające miejsce w roku 1994, o ile w oczywisty sposób nawiązywały do tradycji powstańczej Zapaty, były zjawiskiem całkowicie specyficznym i nowym. Współcześni Zapatyści domagali się natychmiastowych działań skierowanych przeciw skutkom neoliberalnej polityki państwa meksykańskiego, czego efektem było gwałtowne ubożenie lokalnych wspólnot rolniczych, powstaniu stowarzyszenia gospodarczego państw Ameryki Północnej NAFTA oraz, w mniejszym stopniu, emancypacji grup tubylczych uprzedmiotowionych we wszelkich procesach zmian ekonomicznych. Jednakże indygenistyczny wymiar powstania Zapatystów był i jest nadal obecny w medialnym dyskursie (moderowanym zresztą udanie przez nich samych), w sposób nie pozostawiający cienia wątpliwości, co do tego, kto stać się ma animatorem nadchodzących zmian społeczno- kulturowym. Mają być nimi ci, którzy pozostali na marginesie, lub też całkowicie w tyle za neoliberalną wizją przemian w kraju i regionie. Zmiany te na gruncie meksykańskim w oczach Zapatystów stanowią jedynie karykaturalne i nieporadne odzwierciedlenie posunięć ekonomicznych i społecznych, które dokonują się w Stanach Zjednoczonych, będących niedoścignionym wzorem dla meksykańskich elit. Meksykański wymiar tych działań skutkuje jednak nie tyleż powszechnym dobrobytem i unowocześnieniem ekonomiczno-społecznego krwioobiegu złożonego z instytucji bankowych, nowego typu przedsiębiorczości i modelu korporacyjnego, lecz rażącą polaryzajacą jakości życia ludności wielkomiejskiej, tradycyjnie utożsamianej ze spuścizną kultury iberoamerykańskiej, a obszarami wiejskimi, zamieszkiwanymi w ogromnej większości przez ludność pochodzenia indiańskiego lub metyskiego, niemniej identyfikującej się nierzadko z prekolumbijską przeszłością. Chiapas jest pod tym względem podręcznikowym wręcz przykładem wspomnianej nierówności społeczno-ekonomicznej, która w dalszej konsekwencji promieniuje na wszelkie pozostałe wymiary życia lokalnej ludności. Zamieszkuje ten stan głównie ludność posługująca się językami należącymi do majańskiej rodziny językowej i identyfikująca się z lokalnymi społecznościami Majów. Majański substrat kulturowy na południu Meksyku wydaje się być zatem pod względem populacyjnym dominujący. Jednakże faktyczna sytuacja odbiega dalece od tego prostego obrazu. Strukturalna pozycja ludności majańskiej w Chiapas, jak i wszystkich grup określanych zbiorczym mianem indios, z powodzeniem określić można mianem „zmarginalizowanej większości”. Oznacza to, iż ludność indiańska, tzn. nie tylko etni…
+Gdy w 1994 roku w meksykańskim stanie Chiapas oddziały Ejército Zapatista de
+Liberación Nacional (EZLN) wkroczyły do głównych miast regionu, zajmując urzędy,
+posterunki policyjne i ważniejsze instytucje lokalne, rząd tego kraju postawiony został w
+wyjątkowo niezręcznej politycznie sytuacji. Oto obserwować mogliśmy typowe dla wielu
+państw Ameryki Łacińskiej kolejne chłopskie powstanie, których tamtejsze społeczeństwa
+doświadczały w przeszłości już wiele. Garstka słabo uzbrojonych (często jedynie w
+drewniane atrapy broni palnej), zamaskowanych (w charakterystyczne kominiarki) i
+nierzadko bosych indiańskich chłopów próbowała wyrazić znane już powszechnie w
+Meksyku niezadowolenie z sytuacji ekonomicznej, społecznej i kulturowej marginalizacji
+grup indiańskich, lokalnych kooperatyw rolniczych oraz wszystkich innych grup będących
+swoistą antytezą nowoczesnego meksykańskiego społeczeństwa. Powstanie Zapatystów
+odwoływało się bowiem bezpośrednio do ideałów, symboliki i języka ruchu z początku XX
+wieku pod przywództwem Emiliano Zapaty Salazara. Ówczesne powstanie Zapaty na
+południu Meksyku stanowi jednak jednocześnie jeden z fundacyjnych mitów współczesnego
+państwa meksykańskiego oraz punkt ideologicznego odniesienia dla dominującej w tym kraju
+od kilkudziesięciu lat Partii Instytucjonalno-Rewolucyjnej, której korzenie organizacyjne
+tkwią właśnie w tamtych wydarzeniach oraz powstaniu na północy pod przywództwem
+niemniej charyzmatycznego Pancho Villi. Niemniej, wydarzenia mające miejsce w roku 1994,
+o ile w oczywisty sposób nawiązywały do tradycji powstańczej Zapaty, były zjawiskiem
+całkowicie specyficznym i nowym.
+
+Współcześni Zapatyści domagali się natychmiastowych działań skierowanych przeciw
+skutkom neoliberalnej polityki państwa meksykańskiego, czego efektem było gwałtowne
+ubożenie lokalnych wspólnot rolniczych, powstaniu stowarzyszenia gospodarczego państw
+Ameryki Północnej NAFTA oraz, w mniejszym stopniu, emancypacji grup tubylczych
+uprzedmiotowionych
+we
+wszelkich
+procesach
+zmian
+ekonomicznych.
+Jednakże
+indygenistyczny wymiar powstania Zapatystów był i jest nadal obecny w medialnym
+dyskursie (moderowanym zresztą udanie przez nich samych), w sposób nie pozostawiający
+cienia wątpliwości, co do tego, kto stać się ma animatorem nadchodzących zmian społeczno-
+kulturowym. Mają być nimi ci, którzy pozostali na marginesie, lub też całkowicie w tyle za
+neoliberalną wizją przemian w kraju i regionie. Zmiany te na gruncie meksykańskim w
+oczach Zapatystów stanowią jedynie karykaturalne i nieporadne odzwierciedlenie posunięć ekonomicznych i społecznych, które dokonują się w Stanach Zjednoczonych, będących
+niedoścignionym wzorem dla meksykańskich elit. Meksykański wymiar tych działań skutkuje
+jednak nie tyleż powszechnym dobrobytem i unowocześnieniem ekonomiczno-społecznego
+krwioobiegu złożonego z instytucji bankowych, nowego typu przedsiębiorczości i modelu
+korporacyjnego, lecz rażącą polaryzajacą jakości życia ludności wielkomiejskiej, tradycyjnie
+utożsamianej
+ze
+spuścizną
+kultury
+iberoamerykańskiej,
+a
+obszarami
+wiejskimi,
+zamieszkiwanymi w ogromnej większości przez ludność pochodzenia indiańskiego lub
+metyskiego, niemniej identyfikującej się nierzadko z prekolumbijską przeszłością.
+
+Chiapas jest pod tym względem podręcznikowym wręcz przykładem wspomnianej
+nierówności społeczno-ekonomicznej, która w dalszej konsekwencji promieniuje na wszelkie
+pozostałe wymiary życia lokalnej ludności. Zamieszkuje ten stan głównie ludność
+posługująca się językami należącymi do majańskiej rodziny językowej i identyfikująca się z
+lokalnymi społecznościami Majów. Majański substrat kulturowy na południu Meksyku
+wydaje się być zatem pod względem populacyjnym dominujący. Jednakże faktyczna sytuacja
+odbiega dalece od tego prostego obrazu. Strukturalna pozycja ludności majańskiej w Chiapas,
+jak i wszystkich grup określanych zbiorczym mianem indios, z powodzeniem określić można
+mianem „zmarginalizowanej większości”. Oznacza to, iż ludność indiańska, tzn. nie tylko
+et…

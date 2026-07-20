@@ -19,4 +19,54 @@ files:
     hosted: false
 ---
 
-     La peste, la bestia y el monstruo        1. Breves apuntes biográficos de Johann Most        2. La relación de Most con Alexander Berkman y Emma Goldman        3. La peste, la bestia y el monstruo        4. Acerca de los textos aquí traducidos y compilados    Textos de Johann Most      La peste de Dios      La bestia de la propiedad      El monstruo social      La acción como propaganda        El comunismo anarquista      El ataque es la mejor forma de defensa        Proclama de Pittsburg      ¿Cuándo se halla el pueblo “preparado” para la libertad?      Apéndice        In memoriam de Johann Most. Por Stephen Daniels        Cronología de la vida de Johann Most En memoria de Carlos Torres * * * * * Por Aníbal D’Auria “ la Iglesia, el Estado y la bolsa, ‘santísima trinidad’ que hay que destronar si en verdad se quiere abrir el paso a la libertad, a la igualdad y a la fraternidad ". (Johann Most, El Monstruo social ) Johann Most nació en Ausburg (Alemania) en 1846. Su origen familiar era modesto y de niño sufrió el duro maltrato de una crianza violenta y autoritaria. En los inicios de la adolescencia una operación del rostro lo desfiguró de por vida. [2] Para ganarse la vida aprendió el oficio de encuadernador. Viajó por varios países de Europa y en 1867, en Suiza, se unió a la Primera Internacional. Luego participó activamente en el Movimiento Obrero Socialista Austríaco. En 1870 sufrió su primera prisión en Viena, pero fue indultado al año siguiente. Volvió a Alemania y se afilió al Partido Socialdemócrata. Allí dirigió su primer periódico y organizó una huelga metalúrgica. Su periódico, Freie Presse , [3] fue clausurado más de una vez. En 1874 y en 1877 Most fue elegido diputado en el Reichstag (Parlamento alemán), dirigiendo a su vez, durante estos años, dos periódicos obreros revolucionarios. No obstante sus fueros parlamentarios, fue condenado nuevamente a prisión por atacar a Dios y a la patria en un discurso conmemorativo sobre la Comuna de París. Aprovechó la prisión para escribir mucho y leer aún más. Salió de la cárcel como un entusiasta seguidor de las ideas de Eugen Dühring, cuyos textos había leído fascinado mientras purgaba su pena. Su admiración por Dühring y su crítica al Anti-Dühring de Friedrich Engels le valieron la dura enemistad eterna de este último y de su amigo Karl Marx. [4] Por la ley anti-socialista de 1878, Most, tras sufrir nuevas experiencias en prisión, debió salir de Alemania. Pasó a Francia, pero fue nuevamente desterrado en 1879. Pasó entonces a Inglaterra, donde fundó su legendario periódico Freiheit , [5] órgano que ante la feroz persecución que Bismarck implementaba contra los socialistas en su país se transformó en la voz de los grupos obreros alemanes más radicales y disgustados con la cobarde actitud asumida por la socialdemocracia de aquel país. Cuando el Partido Socialdemócrata alemán lo expulsó de sus filas en 1880, Johann Most ya era todo un anarquista. En Londres fue encarcelado por festejar y aplaudir desde su diario el asesinato del Zar Alejandro II de Rusia. También justificó los atentados del Partido Agrario Irlandés contra funcionarios del imperio británico. Después de cumplir casi un año y medio de prisión emigró a los Estados Unidos, donde continuó publicando Freiheit durante dos décadas y media. [6] Allí en 1883 y gracias a su impulso personal se fundó, en Chicago, la Asociación Internacional del Pueblo Trabajador. Es interesante detenerse un segundo en unas breves palabras de Nettlau sobre los principios de esa asociación para evitar un error común respecto del supuesto anarcocomunismo de Most: “La Freiheit (Londres, a partir de 1879) radicalizó a muchos trabajadores de lengua alemana; la agitación personal de Johann Most (1846-1906), a partir de diciembre de 1882 hizo anarquistas a esos socialistas revolucionarios que se organizaron en último lugar en Pittsburgh, en el otoño de 1883, aceptando los principios formulados por Most, que fueron los del colectivismo anarquist…
+La peste, la bestia y el monstruo
+
+1. Breves apuntes biográficos de Johann Most
+
+2. La relación de Most con Alexander Berkman y Emma Goldman
+
+3. La peste, la bestia y el monstruo
+
+4. Acerca de los textos aquí traducidos y compilados
+
+Textos de Johann Most
+
+La peste de Dios
+
+La bestia de la propiedad
+
+El monstruo social
+
+La acción como propaganda
+
+El comunismo anarquista
+
+El ataque es la mejor forma de defensa
+
+Proclama de Pittsburg
+
+¿Cuándo se halla el pueblo “preparado” para la libertad?
+
+Apéndice
+
+In memoriam de Johann Most. Por Stephen Daniels
+
+Cronología de la vida de Johann Most
+
+En memoria de Carlos Torres
+
+* * * * *
+
+Por Aníbal D’Auria
+
+“la Iglesia, el Estado y la bolsa, ‘santísima trinidad’ que hay que destronar si en verdad se quiere abrir el paso a la libertad, a la igualdad y a la fraternidad".
+
+(Johann Most, El Monstruo social)
+
+Johann Most nació en Ausburg (Alemania) en 1846. Su origen familiar era modesto y de niño sufrió el duro maltrato de una crianza violenta y autoritaria. En los inicios de la adolescencia una operación del rostro lo desfiguró de por vida.[2] Para ganarse la vida aprendió el oficio de encuadernador. Viajó por varios países de Europa y en 1867, en Suiza, se unió a la Primera Internacional. Luego participó activamente en el Movimiento Obrero Socialista Austríaco. En 1870 sufrió su primera prisión en Viena, pero fue indultado al año siguiente. Volvió a Alemania y se afilió al Partido Socialdemócrata. Allí dirigió su primer periódico y organizó una huelga metalúrgica. Su periódico, Freie Presse,[3] fue clausurado más de una vez. En 1874 y en 1877 Most fue elegido diputado en el Reichstag (Parlamento alemán), dirigiendo a su vez, durante estos años, dos periódicos obreros revolucionarios. No obstante sus fueros parlamentarios, fue condenado nuevamente a prisión por atacar a Dios y a la patria en un discurso conmemorativo sobre la Comuna de París. Aprovechó la prisión para escribir mucho y leer aún más. Salió de la cárcel como un entusiasta seguidor de las ideas de Eugen Dühring, cuyos textos había leído fascinado mientras purgaba su pena. Su admiración por Dühring y su crítica al Anti-Dühring de Friedrich Engels le valieron la dura enemistad eterna de este último y de su amigo Karl Marx.[4]
+
+Por la ley anti-socialista de 1878, Most, tras sufrir nuevas experiencias en prisión, debió salir de Alemania. Pasó a Francia, pero fue nuevamente desterrado en 1879. Pasó entonces a Inglaterra, donde fundó su legendario periódico Freiheit,[5] órgano que ante la feroz persecución que Bismarck implementaba contra los socialistas en su país se transformó en la voz de los grupos obreros alemanes más radicales y disgustados con la cobarde actitud asumida por la socialdemocracia de aquel país. Cuando el Partido Socialdemócrata alemán lo expulsó de sus filas en 1880, Johann Most ya era todo un anarquista. En Londres fue encarcelado por festejar y aplaudir desde su diario el asesinato del Zar Alejandro II de Rusia. También justificó los atentados del Partido Agrario Irlandés contra funcionarios del imperio británico. Después de cumplir casi un año y medio de prisión emigró a los Estados Unidos, donde continuó publicando Freiheit durante dos décadas y media.[6] Allí en 1883 y gracias a su impulso personal se fundó, en Chicago, la Asociación Internacional del Pueblo Trabajador.
+
+Es interesante detenerse un segundo en unas breves palabras de Nettlau sobre los principios de esa asociación para evitar un error común respecto del supuesto anarcocomunismo de Most:
+
+“La Freiheit (Londres, a partir de 1879) radicalizó a muchos trabajadores de lengua alemana; la agitación personal de Johann Most (1846-1906), a partir de diciembre de 1882 hizo anarquistas a esos socialistas revolucionarios que se organizaron en último lugar en Pittsburgh, en el otoño de 1883, aceptando los principios formulados por Most, que fueron los del colectivismo anarquista. Most los expresó en detalle en Die freie Gessellschaft, folleto que apareció en N…

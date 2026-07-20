@@ -19,4 +19,94 @@ files:
     hosted: false
 ---
 
-       Introduzione        Il tutto è maggiore della somma delle singole parti          La dimensione collettiva          La legge non è uguale per tutti          Imputati, avvocati, parenti e amici, e cosiddetta opinione pubblica          L’unica giustizia è quella proletaria        Gli organi della repressione          I gruppi armati della classe dominante          Le forze speciali di repressione politica          La magistratura penale          La direzione nazionale antimafia e antiterrorismo        Le indagini preliminari e le intercettazioni          Le indagini preliminari          Le intercettazioni        Il sequestro        La convocazione in questura        Il fermo        Le misure cautelari        L’interrogatorio        La perquisizione        L’ identificazione e le nuove norme in materia di prelievo del dna          Il prelievo del dna          La banca dati          I vari riti del processo penale          I gradi di giudizio        Reati, pene e dintorni        I reati di piazza        I reati associativi        La sanzione amministrativa        Le misure di prevenzione          Avviso orale          Foglio di via          Sorveglianza speciale        Le misure di sicurezza        Dal controllo sociale alla repressione...il passo è breve!          Tso          Daspo        La guerra sul fronte esterno          Intervista all’avvocato Giuseppe Pelazza sul decreto antiterrorismo di Alfano        Vademecum        Siglario Dedicato a chi lotta per un mondo migliore e si scontra con la repressione del vecchio mondo “L’apparato statale, che comprende esercito, polizia e giustizia, è lo strumento con cui una classe ne opprime un’altra”. Mao Tse-Tung, La situazione e la nostra politica dopo la vittoria In questa fase caratterizzata dalla grave crisi economica, dalla tendenza alla guerra imperialista e della sua ricaduta sul fronte interno dei singoli paesi in termini di strategie repressive, ci troviamo di fronte allo svilupparsi dell’apparato coercitivo dello Stato, per adeguarsi a controllare e reprimere i nuovi fronti di lotta che si aprono. Negli ultimi anni abbiamo assistito ad un allargamento del suo raggio di azione, che oggi colpisce non solo compagni militanti, ma anche sempre più proletari, studenti e lavoratori attivi nelle mobilitazioni. In questa situazione, pensiamo sia utile produrre un opuscolo aggiornato [1] sul tema “imparare a difendersi”. Ci proponiamo di compiere un lavoro che raccolga una serie di materiali, esperienze concrete e riflessioni utili a definire una “linea di condotta” nel fronteggiare la repressione del nemico di classe. Questo testo non vuole essere l’ennesimo manuale tecnico-pratico sulla repressione, neppure vuole essere esclusivamente un testo accademico sulle diverse leggi e norme che sono usate per colpire i proletari e le avanguardie di lotta. Esso ha l’obiettivo di saldare in sé l’aspetto tecnico informativo (che possa fornire dati necessari a conoscere gli organi della repressione e gli strumenti di cui si dota), con l’aspetto politico (di riflessione e di insegnamenti derivanti dalla pratica diretta), per costruire un modo collettivo di rapportarsi quando lo Stato ci attacca. L’aspetto politico rappresenta il piano principale su cui si articola l’opuscolo. Vogliamo cercare di trasmettere l’esperienza accumulata ed elaborata da compagni e compagne che negli ultimi anni sono stati colpiti da operazioni repressive. I reati che vengono trattati sono soprattutto quelli utilizzati per criminalizzare le comuni pratiche di lotta del movimento di classe o l’attività militante dei compagni. Abbiamo deciso di inserire anche una parte dedicata ai reati associativi, perché questi rappresentano l’attacco più alto verso l’organizzazione di classe e perché insegnano come affrontare ogni altro tipo di processo. Abbiamo altresì valutato importante inserire alcune appendici, tra cui due brevi riferimenti al trattamento sanitario obbligatorio (tso) e al divieto di accedere alle manifestazi…
+Introduzione
+
+Il tutto è maggiore della somma delle singole parti
+
+La dimensione collettiva
+
+La legge non è uguale per tutti
+
+Imputati, avvocati, parenti e amici, e cosiddetta opinione pubblica
+
+L’unica giustizia è quella proletaria
+
+Gli organi della repressione
+
+I gruppi armati della classe dominante
+
+Le forze speciali di repressione politica
+
+La magistratura penale
+
+La direzione nazionale antimafia e antiterrorismo
+
+Le indagini preliminari e le intercettazioni
+
+Le indagini preliminari
+
+Le intercettazioni
+
+Il sequestro
+
+La convocazione in questura
+
+Il fermo
+
+Le misure cautelari
+
+L’interrogatorio
+
+La perquisizione
+
+L’ identificazione e le nuove norme in materia di prelievo del dna
+
+Il prelievo del dna
+
+La banca dati
+
+I vari riti del processo penale
+
+I gradi di giudizio
+
+Reati, pene e dintorni
+
+I reati di piazza
+
+I reati associativi
+
+La sanzione amministrativa
+
+Le misure di prevenzione
+
+Avviso orale
+
+Foglio di via
+
+Sorveglianza speciale
+
+Le misure di sicurezza
+
+Dal controllo sociale alla repressione...il passo è breve!
+
+Tso
+
+Daspo
+
+La guerra sul fronte esterno
+
+Intervista all’avvocato Giuseppe Pelazza sul decreto antiterrorismo di Alfano
+
+Vademecum
+
+Siglario
+
+Dedicato a chi lotta per un mondo migliore e si scontra con la repressione del vecchio mondo
+
+“L’apparato statale, che comprende esercito, polizia e giustizia, è lo strumento con cui una classe ne opprime un’altra”.
+
+Mao Tse-Tung, La situazione e la nostra politica dopo la vittoria
+
+In questa fase caratterizzata dalla grave crisi economica, dalla tendenza alla guerra imperialista e della sua ricaduta sul fronte interno dei singoli paesi in termini di strategie repressive, ci troviamo di fronte allo svilupparsi dell’apparato coercitivo dello Stato, per adeguarsi a controllare e reprimere i nuovi fronti di lotta che si aprono. Negli ultimi anni abbiamo assistito ad un allargamento del suo raggio di azione, che oggi colpisce non solo compagni militanti, ma anche sempre più proletari, studenti e lavoratori attivi nelle mobilitazioni. In questa situazione, pensiamo sia utile produrre un opuscolo aggiornato[1] sul tema “imparare a difendersi”.
+
+Ci proponiamo di compiere un lavoro che raccolga una serie di materiali, esperienze concrete e riflessioni utili a definire una “linea di condotta” nel fronteggiare la repressione del nemico di classe. Questo testo non vuole essere l’ennesimo manuale tecnico-pratico sulla repressione, neppure vuole essere esclusivamente un testo accademico sulle diverse leggi e norme che sono usate per colpire i proletari e le avanguardie di lotta. Esso ha l’obiettivo di saldare in sé l’aspetto tecnico informativo (che possa fornire dati necessari a conoscere gli organi della repressione e gli strumenti di cui si dota), con l’aspetto politico (di riflessione e di insegnamenti derivanti dalla pratica diretta), per costruire un modo collettivo di rapportarsi quando lo Stato ci attacca. L’aspetto politico rappresenta il piano principale su cui si articola l’opuscolo. Vogliamo cercare di trasmettere l’esperienza accumulata ed elaborata da compagni e compagne che negli ultimi anni sono stati colpiti da operazioni repressive. I reati che vengono trattati sono soprattutto quelli utilizzati per criminalizzare le comuni pratiche di lotta del movimento di classe o l’attività militante dei compagni. Abbiamo deciso di inserire anche una parte dedicata ai reati associativi, perché questi rappresentano l’attacco più alto verso l’organizzazione di classe e perché insegnano come affrontare ogni altro tipo di processo. Abbiamo altresì valutato importante inserire alcune appendici, tra cui due brevi riferimenti al trattamento sanitario obbligatorio (tso) e al divieto di accedere alle manifestazioni sportive (daspo) e un’intervista all’avvocato G. Pelazza sul decreto sicurezza Alfano. La prima per tracciare brevemente le connessioni tra controllo sociale e repressione politica, la seconda per dare un respiro più ampio all’opuscolo e delineare le connessioni tra fronte ester…

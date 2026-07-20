@@ -19,4 +19,132 @@ files:
     hosted: false
 ---
 
-     Bring Out Your Dead        From the Refusal of Work to “Communisation”        The Critique of Councilism        Critique of Work Redux        The Concept of Communisation        Communisation and Cycles of Struggle: Troploin and Théorie Communiste      When Insurrections Die        Brest-Litovsk: 1917 and 1939        Not “Fascism Or Democracy” — Fascism And Democracy        Rome: 1919–1922        Turin: 1943        Volksgemeinschaft Vs. Gemeinwesen        Berlin: 1919–33        Barcelona: 1936        Barcelona: May 1937        War Devours The Revolution        Anarchists In The Government        The Rise And Decline Of The Collectivisations        Collectivise Or Communise?        Leaving The 20th Century?      Normative History and the Communist Essence of the Proletariat      Human, All Too Human?      Love of Labour? Love of Labour Lost…        Before 1914        Russia: 1917–21        Italy: 1920        No Right to be Lazy        Workers’ Management as a Utopia of Skilled Labour        France: June 1936        Spain: 1936        France: 1945        Italy: 1945        France and Elsewhere: 1968        Portugal: 1974        Critique of Work / Critique of Capital        What’s New About Capitalism        The Contradiction May Not Be Where We Think        Revolution is No Exact Science        Never Ask Theory for What It Can’t Give        The Rise and Fall of Classism        Work as a Fallen Idol        “We Are Not of This World” (Babeuf, 1795)      Much Ado About Nothing        1 The theory of programmatism          i The emancipation of labour and its failure          ii The overcoming of programmatism is not a critique of work          iii Beyond programmatism        2 “false in regard to the facts”          i The workers did not support “a utopia where labour would be king” for “otherwise, how do we account for the frequent demand to work less?”          ii The “liberation of labour” is the product of the organisations of the workers’ movement and not of the workers themselves          iii During the rare occasions where a seizure of production took place under workers’ control, the leaders of “workers’” organisations had a very hard time imposing discipline on workers who showed little productive enthusiasm.          iv The workers didn’t struggle to “make labour king” but to “curb further exploitation”          v The turn of 1848          vi Even at its apogee, the aspiration to make labour king was only half-hearted          vii Desertion of the enterprise, “refusal of work”        3 “false in regard to the method”          i There is no direct link between proletarian action and the degree of the development of capital          ii The “being” of the proletariat          iii “The cause of our failures”      Afterword        Cycles of struggle and phases of accumulation        A produced overcoming “The tradition of all dead generations weighs like a nightmare on the brain of the living… The social revolution of the nineteenth century cannot take its poetry from the past but only from the future. It cannot begin with itself before it has stripped away all superstition about the past. The former revolutions required recollections of the past in order to smother their own content. In order to arrive at its own content, the revolution of the nineteenth century must let the dead bury their dead.” [1] If this was true when Marx wrote this passage, when one could only speak of communism in the future tense, it is all the more so of today, now that anarchists and communists can speak of their own “histories”, indeed seem to speak of little else. Marxism itself is now a tradition of dead generations, and even latter-day situationists seem to have difficulty in “leaving the twentieth century.” [2] We write this not from any special infatuation with the present, or any resultant desire to bring communist theory “up-to-date”. The twenty-first century — just as much as the previous one — is formed by the contradiction between l…
+Bring Out Your Dead
+
+From the Refusal of Work to “Communisation”
+
+The Critique of Councilism
+
+Critique of Work Redux
+
+The Concept of Communisation
+
+Communisation and Cycles of Struggle: Troploin and Théorie Communiste
+
+When Insurrections Die
+
+Brest-Litovsk: 1917 and 1939
+
+Not “Fascism Or Democracy” — Fascism And Democracy
+
+Rome: 1919–1922
+
+Turin: 1943
+
+Volksgemeinschaft Vs. Gemeinwesen
+
+Berlin: 1919–33
+
+Barcelona: 1936
+
+Barcelona: May 1937
+
+War Devours The Revolution
+
+Anarchists In The Government
+
+The Rise And Decline Of The Collectivisations
+
+Collectivise Or Communise?
+
+Leaving The 20th Century?
+
+Normative History and the Communist Essence of the Proletariat
+
+Human, All Too Human?
+
+Love of Labour? Love of Labour Lost…
+
+Before 1914
+
+Russia: 1917–21
+
+Italy: 1920
+
+No Right to be Lazy
+
+Workers’ Management as a Utopia of Skilled Labour
+
+France: June 1936
+
+Spain: 1936
+
+France: 1945
+
+Italy: 1945
+
+France and Elsewhere: 1968
+
+Portugal: 1974
+
+Critique of Work / Critique of Capital
+
+What’s New About Capitalism
+
+The Contradiction May Not Be Where We Think
+
+Revolution is No Exact Science
+
+Never Ask Theory for What It Can’t Give
+
+The Rise and Fall of Classism
+
+Work as a Fallen Idol
+
+“We Are Not of This World” (Babeuf, 1795)
+
+Much Ado About Nothing
+
+1 The theory of programmatism
+
+i The emancipation of labour and its failure
+
+ii The overcoming of programmatism is not a critique of work
+
+iii Beyond programmatism
+
+2 “false in regard to the facts”
+
+i The workers did not support “a utopia where labour would be king” for “otherwise, how do we account for the frequent demand to work less?”
+
+ii The “liberation of labour” is the product of the organisations of the workers’ movement and not of the workers themselves
+
+iii During the rare occasions where a seizure of production took place under workers’ control, the leaders of “workers’” organisations had a very hard time imposing discipline on workers who showed little productive enthusiasm.
+
+iv The workers didn’t struggle to “make labour king” but to “curb further exploitation”
+
+v The turn of 1848
+
+vi Even at its apogee, the aspiration to make labour king was only half-hearted
+
+vii Desertion of the enterprise, “refusal of work”
+
+3 “false in regard to the method”
+
+i There is no direct link between proletarian action and the degree of the development of capital
+
+ii The “being” of the proletariat
+
+iii “The cause of our failures”
+
+Afterword
+
+Cycles of struggle and phases of accumulation
+
+A produced overcoming
+
+“The tradition of all dead generations weighs like a nightmare on the brain of the living… The social revolution of the nineteenth century cannot take its poetry from the past but only from the future. It cannot begin with itself before it has stripped away all superstition about the past. The former revolutions required recollections of the past in order to smother their own content. In order to arrive at its own content, the revolution of the nineteenth century must let the dead bury their dead.”[1]
+
+If this was true when Marx wrote this passage, when one could only speak of communism in the future tense, it is all the more so of today, now that anarchists and communists can speak of their own “histories”, indeed seem to speak of little else. Marxism itself is now a tradition of dead generations, and even latter-day situationists seem to have difficulty in “leaving the twentieth century.”[2]
+
+We write this not from any special infatuation with the present, or any resultant desire to bring communist theory “up-to-date”. The twenty-first century — just as much as the previous one — is formed by the contradiction between labour and capital, the separation between work and “life”, and the domination of everything by the abstract forms of value. It is therefore just as worth leaving as its predecessor. Yet the “twentieth century” familiar to the situationists, its contours of class relations, its temporality of progress, and its post-capitalist horizons, is obviously behind us. We’ve become bored with…

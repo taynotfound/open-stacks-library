@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-       anarchist        awake        bank        boundary        change        cloud        crime        hard        nature        overcome        property        this        tree        unity        valid        wage Anti-civilization approaches, if indeed there are any, may appear well equipped with manuals regarding industrial sabotage, the making and use of incendiary devices, and the strategies and tactics of anti-institutional insurrection. Conversely perhaps, they may also appear to employ a wealth of works advising on withdrawal: guerilla planting, off-grid subsistence, and counter-economics. What might be missing is a reference manual gathering such insurrectionary ideas as are applicable to a demolition of contemporary Euro-American everyday life from within. The present pamphlet is an excerpt from, and preview of, such a manual, currently in progress and projected to be completed some time next year. It rests on a minimal amount of presuppositions, namely: (1) everyday life is implemented by gestures, (2) domestication / control / hierarchy / rule / domination / etc. manifest in these gestures, and (3) consequently, combating them means demolishing those gestures. Whether it is possible to maintain such presuppositions must be left open; the finalized manual will have further notes on this in its demolitions of “hypothesis” and “method.” Likewise left open are here any further specifics as to what use is to be made of each of the below demolitions, or indeed the finalized work. I believe, as is evident in the first word of the title, that it behoves anarchists to hold a maximalist position as to the scale and scope of the attack on everyday life, including of course anarchists’ own prospects amid such demolition (see “anarchist,” below). But anyone who does not hold such a position will, one hopes, still find useful ideas for local insurrections. In any case, each of the demolitions below consists roughly of two parts, although their separation is never clear-cut. The first starts out with a term – a noun, a verb, an adjective, a pronoun – and shows, by various means inherent to that term’s internal functioning, that it is meaningless; that is, that it does not actually work as a term. Rather, it marks a site where gestures coagulate to implement a form of domestication or control or hierarchy or rule or domination or... Once uncovered as such, an analysis of the gestures involved, partial and tentative though it may be, can show avenues of contestation – if indeed anything is ever shown by anyone to anyone. It is evident, if anything ever is, that such ideas are only ever suggestions, and that the work begun here is sharply limited in various ways: first, because the present pamphlet is an excerpt; second, because even the completed work would be just one selection of so-called terms made by just one person in just one language; third, because one has to stop somewhere. Thus the remainder of the present work’s title hopefully describes exactly what it does and does not aspire to; for anything further, comments, suggestions, or demolitions are always welcome at uncivletters[at]gmail[dot]com. If this adjective served as a bona fide term, it’d be a predicate: one would, on its basis, be able to identify who is an “anarchist,” or indeed who is a “real anarchist” and who only pretends to be one; and thus who, at minimum, is not one of those “real anarchists.” That is, “anarchist,” in sentences like “the anarchist destroyers of all social order” [1] , or “anarchy exists wherever one finds true anarchists” [2] , or “expressed in contemporary anarchist circles” [3] would denote an identifier quite analogous to others like “red” or “dry.” One would expect to find in it a characteristic to identify people. By using the term for a process of weeding out bad faith actors, too, or conversely by complaining that questioning it leads to too much navel gazing, one already uses the term as such. And yet it can never be used in this…
+anarchist
+
+awake
+
+bank
+
+boundary
+
+change
+
+cloud
+
+crime
+
+hard
+
+nature
+
+overcome
+
+property
+
+this
+
+tree
+
+unity
+
+valid
+
+wage
+
+Anti-civilization approaches, if indeed there are any, may appear well equipped with manuals regarding industrial sabotage, the making and use of incendiary devices, and the strategies and tactics of anti-institutional insurrection. Conversely perhaps, they may also appear to employ a wealth of works advising on withdrawal: guerilla planting, off-grid subsistence, and counter-economics. What might be missing is a reference manual gathering such insurrectionary ideas as are applicable to a demolition of contemporary Euro-American everyday life from within. The present pamphlet is an excerpt from, and preview of, such a manual, currently in progress and projected to be completed some time next year. It rests on a minimal amount of presuppositions, namely:
+
+(1) everyday life is implemented by gestures,
+
+(2) domestication / control / hierarchy / rule / domination / etc. manifest in these gestures, and
+
+(3) consequently, combating them means demolishing those gestures.
+
+Whether it is possible to maintain such presuppositions must be left open; the finalized manual will have further notes on this in its demolitions of “hypothesis” and “method.” Likewise left open are here any further specifics as to what use is to be made of each of the below demolitions, or indeed the finalized work. I believe, as is evident in the first word of the title, that it behoves anarchists to hold a maximalist position as to the scale and scope of the attack on everyday life, including of course anarchists’ own prospects amid such demolition (see “anarchist,” below). But anyone who does not hold such a position will, one hopes, still find useful ideas for local insurrections.
+
+In any case, each of the demolitions below consists roughly of two parts, although their separation is never clear-cut. The first starts out with a term – a noun, a verb, an adjective, a pronoun – and shows, by various means inherent to that term’s internal functioning, that it is meaningless; that is, that it does not actually work as a term. Rather, it marks a site where gestures coagulate to implement a form of domestication or control or hierarchy or rule or domination or... Once uncovered as such, an analysis of the gestures involved, partial and tentative though it may be, can show avenues of contestation – if indeed anything is ever shown by anyone to anyone. It is evident, if anything ever is, that such ideas are only ever suggestions, and that the work begun here is sharply limited in various ways: first, because the present pamphlet is an excerpt; second, because even the completed work would be just one selection of so-called terms made by just one person in just one language; third, because one has to stop somewhere.
+
+Thus the remainder of the present work’s title hopefully describes exactly what it does and does not aspire to; for anything further, comments, suggestions, or demolitions are always welcome at uncivletters[at]gmail[dot]com.
+
+If this adjective served as a bona fide term, it’d be a predicate: one would, on its basis, be able to identify who is an “anarchist,” or indeed who is a “real anarchist” and who only pretends to be one; and thus who, at minimum, is not one of those “real anarchists.” That is, “anarchist,” in sentences like “the anarchist destroyers of all social order” [1], or “anarchy exists wherever one finds true anarchists” [2], or “expressed in contemporary anarchist circles” [3] would denote an identifier quite analogous to others like “red” or “dry.” One would expect to find in it a characteristic to identify people. By using the term for a process of weeding out bad faith actors, too, or conversely by complaining that questioning it leads to too much navel gazing, one already uses the term as such.
+
+And yet it can never be used in this way. For using it entails classification, and on what basis might one make such a classif…

@@ -19,4 +19,58 @@ files:
     hosted: false
 ---
 
-Nota redakcyjna Bakunin wiązał z powstaniem styczniowym 1863 roku wielkie nadzieje, widząc w nim wstęp do szerszych ogólnorosyjskich i europejskich wydarzeń rewolucyjnych. List tłumaczony z francuskiego. Tekst za Michał Bakunin "Pisma Wybrane" t. 2, s. 374 - 379. Przełożył Bolesław Wścieklica. Publikacja w wersji elektronicznej: Anarchistyczne Archiwa 2006. Kiedy w Polsce wybuchły rozruchy, my, Wasi przyjaciele-Rosjanie z Petersburga i Londynu, mieliśmy nadzieję, że część wojsk rosyjskich, rozmieszczonych w Królestwie Polskim, połączy się z Wami. Informacje, jakie otrzymywaliśmy, pozwalały uwierzyć, że tym razem nasi oficerowie i żołnierze, usposobieni lepiej niż w roku 1831, zrozumieją, iż chcąc szlachetnie i skutecznie służyć swej ojczyźnie, powinni wystąpić razem z Wami przeciwko rządowi petersburskiemu, który, wyrzynając Was, bezcześci i gubi Rosję. Nadzieje nasze jeszcze się nie spełniły. Kto tu ponosi winę? Czy błędnie ocenialiśmy nastroje wojsk rosyjskich? - Nie, nastroje te w wielu pułkach, zarówno w piechocie jak w artylerii, były znakomite; żołnierze z niecierpliwością oczekiwali sygnału buntu. Dlaczegóż więc nie powstali? Niech mnie Bóg uchroni od oskarżeń! A zresztą najmniejszy wyrzut skierowany pod adresem narodu polskiego przez nas, Rosjan, zwłaszcza w chwili obecnej, byłby nie na miejscu. By jednak należycie ocenić obecne położenie, trzeba stwierdzić jeden fakt. Komitet Centralny w Warszawie, który początkowo, zdawało się, brał do serca sprawę sojuszu ze stronnictwem rewolucyjnym w Rosji i mocno liczył na nastroje sympatii w wojskach rozmieszczonych w Polsce, w ostatniej, krytycznej chwili, zda się, zmienił sposób myślenia i nie dowierzając pozytywnym i dostatecznie uzasadnionym zapewnieniom naszych oficerów, uznał, jak się wydaje, że liczyć na pomoc wojsk rosyjskich byłoby niemądrze i że trzeba korzystać ze wstrząsu moralnego, przez który one przeszły, i wahania, które nastąpiło skutkiem tego wstrząsu, by nieoczekiwanie napaść na nie i rozbroić. Polacy nie mieli broni, więc tym bardziej trzeba było odebrać ją siłą od żołnierzy. Z moralnego punktu widzenia Polacy mieli słuszność, dopóki bowiem choćby jeden żołnierz znajduje się na ziemi polskiej, o ile tylko nie jest sprzymierzeńcem, dopóty jest wyjęty spod prawa. Co za tym idzie, jest rzeczą absolutnie naturalną, że Polacy usiłują napaść na niego i zabić, aby zawładnąć jego bronią. Myślę zresztą, że Komitet Centralny w Warszawie pomylił się w rachubach i nie pozyskał tym sposobem wiele broni, zniszczył jednak od razu całoroczną robotę; pozbawił się cennej pomocy, powiedziałbym: strasznej dla rządu rosyjskiego, który, będąc zrujnowany i zastraszony od wewnątrz i znienawidzony od zewnątrz, byłby niezdolny do walki przeciwko Rosjanom i Polakom idącym ręka w rękę. Czy zjednoczenie to było możliwe? Tak - bo propaganda odniosła skutek i nasi żołnierze z niecierpliwością oczekiwali godziny wyzwolenia. Przy pierwszym okrzyku powstańczym, wzniesionym przez patriotów polskich, wiele oddziałów przysięgło na sztandar ludu noszący napis "Ziemia i Wolność" i oczekiwało tylko nadejścia oddziałów rewolucyjnych, żeby się do nich przyłączyć. Ale kiedy tamte, zamiast wyciągnąć rękę, napadły na nie, żeby je siłą rozbroić, tj. wyrżnąć je, siłą konieczności zmieniły się nastroje i ci sami żołnierze, tak dobrze przygotowani i gotowi powstać razem z Wami, stali się Waszymi okrutnymi wrogami. Zachodzi obawa, żeby ich zawziętość nie okazała się tym bardziej silna, im bardziej szerokie i poważne były ich sympatie i nadzieje. Rząd rosyjski postara się naturalnie podsycić wszystkie ich najgorsze namiętności... Wówczas, zamiast tak pożądanego i oczekiwanego sojuszu między Polakami i Rosjanami, nastąpi niszcząca wojna - wielkie nieszczęście, które przyniesie (korzyść tylko berlińskim i petersburskim Niemcom - i która, pozwólcie Wam to powiedzieć, raz jeszcze zgubi Polskę. Czyż Polska z całym heroizmem, który teraz wzbudza podziw świata, może przeciwstawić się wtargnięciu połączonych wojsk ro…
+Nota redakcyjna
+
+Bakunin wiązał z powstaniem styczniowym 1863 roku wielkie nadzieje, widząc w nim wstęp
+do szerszych ogólnorosyjskich i europejskich wydarzeń rewolucyjnych. List tłumaczony z
+francuskiego.
+
+Tekst za Michał Bakunin "Pisma Wybrane" t. 2, s. 374 - 379. Przełożył Bolesław Wścieklica.
+Publikacja w wersji elektronicznej: Anarchistyczne Archiwa 2006.
+
+Kiedy w Polsce wybuchły rozruchy, my, Wasi przyjaciele-Rosjanie z Petersburga i Londynu,
+mieliśmy nadzieję, że część wojsk rosyjskich, rozmieszczonych w Królestwie Polskim,
+połączy się z Wami. Informacje, jakie otrzymywaliśmy, pozwalały uwierzyć, że tym razem
+nasi oficerowie i żołnierze, usposobieni lepiej niż w roku 1831, zrozumieją, iż chcąc
+szlachetnie i skutecznie służyć swej ojczyźnie, powinni wystąpić razem z Wami przeciwko
+rządowi petersburskiemu, który, wyrzynając Was, bezcześci i gubi Rosję. Nadzieje nasze
+jeszcze się nie spełniły. Kto tu ponosi winę? Czy błędnie ocenialiśmy nastroje wojsk
+rosyjskich? - Nie, nastroje te w wielu pułkach, zarówno w piechocie jak w artylerii, były
+znakomite; żołnierze z niecierpliwością oczekiwali sygnału buntu. Dlaczegóż więc nie
+powstali?
+
+Niech mnie Bóg uchroni od oskarżeń! A zresztą najmniejszy wyrzut skierowany pod adresem
+narodu polskiego przez nas, Rosjan, zwłaszcza w chwili obecnej, byłby nie na miejscu. By
+jednak należycie ocenić obecne położenie, trzeba stwierdzić jeden fakt.
+
+Komitet Centralny w Warszawie, który początkowo, zdawało się, brał do serca sprawę
+sojuszu ze stronnictwem rewolucyjnym w Rosji i mocno liczył na nastroje sympatii w
+wojskach rozmieszczonych w Polsce, w ostatniej, krytycznej chwili, zda się, zmienił sposób
+myślenia i nie dowierzając pozytywnym i dostatecznie uzasadnionym zapewnieniom naszych
+oficerów, uznał, jak się wydaje, że liczyć na pomoc wojsk rosyjskich byłoby niemądrze i że
+trzeba korzystać ze wstrząsu moralnego, przez który one przeszły, i wahania, które nastąpiło
+skutkiem tego wstrząsu, by nieoczekiwanie napaść na nie i rozbroić. Polacy nie mieli broni,
+więc tym bardziej trzeba było odebrać ją siłą od żołnierzy. Z moralnego punktu widzenia
+Polacy mieli słuszność, dopóki bowiem choćby jeden żołnierz znajduje się na ziemi polskiej,
+o ile tylko nie jest sprzymierzeńcem, dopóty jest wyjęty spod prawa. Co za tym idzie, jest
+rzeczą absolutnie naturalną, że Polacy usiłują napaść na niego i zabić, aby zawładnąć jego
+bronią. Myślę zresztą, że Komitet Centralny w Warszawie pomylił się w rachubach i nie
+pozyskał tym sposobem wiele broni, zniszczył jednak od razu całoroczną robotę; pozbawił się
+cennej pomocy, powiedziałbym: strasznej dla rządu rosyjskiego, który, będąc zrujnowany i
+zastraszony od wewnątrz i znienawidzony od zewnątrz, byłby niezdolny do walki przeciwko
+Rosjanom i Polakom idącym ręka w rękę. Czy zjednoczenie to było możliwe?
+
+Tak - bo propaganda odniosła skutek i nasi żołnierze z niecierpliwością oczekiwali godziny
+wyzwolenia. Przy pierwszym okrzyku powstańczym, wzniesionym przez patriotów polskich,
+wiele oddziałów przysięgło na sztandar ludu noszący napis "Ziemia i Wolność" i oczekiwało
+tylko nadejścia oddziałów rewolucyjnych, żeby się do nich przyłączyć. Ale kiedy tamte, zamiast wyciągnąć rękę, napadły na nie, żeby je siłą rozbroić, tj. wyrżnąć je, siłą konieczności
+zmieniły się nastroje i ci sami żołnierze, tak dobrze przygotowani i gotowi powstać razem z
+Wami, stali się Waszymi okrutnymi wrogami.
+
+Zachodzi obawa, żeby ich zawziętość nie okazała się tym bardziej silna, im bardziej szerokie i
+poważne były ich sympatie i nadzieje. Rząd rosyjski postara się naturalnie podsycić wszystkie
+ich najgorsze namiętności... Wówczas, zamiast tak pożądanego i oczekiwanego sojuszu
+między Polakami i Rosjanami, nastąpi niszcząca wojna - wielkie nieszczęście, które
+przyniesie (korzyść tylko berlińskim i petersburskim Niemcom - i która, pozwólcie Wam to
+powiedzieć, raz jeszcze zgubi Polskę. Czyż Polska z całym heroizmem, który teraz wzbudza
+podziw świata, może przeciwstawić się wtargnięciu połączonych w…

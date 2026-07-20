@@ -19,4 +19,46 @@ files:
     hosted: false
 ---
 
-Original Title: O Banqueiro Anarquista Translated by Margaret Jull Costa We had just finished having supper. Opposite me sat my friend, the banker—a well-known capitalist and tycoon—absent-mindedly smoking his cigar. The conversation had been gradually petering out for some time and now lay defunct between us. I tried to revive it with an idea that had just surfaced in my mind. Smiling, I turned to him and said, “I know what I’ve been meaning to ask you. Someone told me a few days ago that you used to be an anarchist. — There’s no ‘used to’ about it. I was and I am. I haven’t changed in that respect; I still am an anarchist. — That’s a good one! You, an anarchist! In what way are you an anarchist? Unless, of course, you’re not using the word in its... — In its proper sense? I can assure you that I am. — You mean to say, then, that you are an anarchist in exactly the same way as all those people in workers’ organizations are anarchists? You mean that there’s no difference between you and the men who throw bombs and form trade unions? — Of course there’s a difference, of course there is, but it isn’t the difference that you’re imagining. Do you perhaps doubt that my social theories are different to theirs? — Ah, now I see! In theory, you’re an anarchist, but in practice... — I’m as much an anarchist in practice as I am in theory. Indeed, in practice, I’m much more of an anarchist than those other people you mention. My whole life proves it. — What? — My whole life proves it. It’s just that you’ve never thought about these things clearly. That’s why you think that what I’m saying is nonsense or that I’m merely playing with you. — I don’t understand a word of it! Unless... Unless you think of your life as being disruptive and anti-social, and are using ‘anarchism’ in that sense. — I’ve already told you that I am using the word ‘anarchism’ in its proper sense. — All right, but I still don’t understand. Are you saying that there’s no conflict between your true anarchistic theories and the life you lead, your present life? Do you want me to believe that your life is identical to that of those people ordinarily termed ‘anarchists’? — No, that’s not it at all. What I mean is that, between my theories and how I lead my life, there is no divergence at all, but absolute conformity. It’s true that my life is not like that of those trade union types or of people who throw bombs. It is their lives that are not truly anarchistic, that fall short of their anarchistic ideals, not mine. The theory and practice of anarchism meet in me, yes, in me—banker, financier, tycoon if you like—and there’s no conflict between them. You compared me to those fools in the trade unions, to those people who throw bombs, in order to demonstrate that I am quite different from them. I am, but the difference is this: they (yes, they and not I) are purely theoretical anarchists; I am an anarchist in both theory and practice. They are foolish anarchists and I am an intelligent anarchist. Therefore, I am the true anarchist. They, the people in the trade unions, the ones who throw bombs (I did the same once until I emerged from that into my true anarchism), they are the detritus of anarchism, the whores of the great libertarian doctrine. — Come off it, that’s ridiculous. How do you reconcile your life, I mean your life in banking and commerce, with anarchist theory? How can you do that if you say that by ‘anarchist theory’ you mean exactly the same as ordinary anarchists mean? If I understand you correctly, you’re saying that you’re different from them because you are more of an anarchist than they are, is that so? — It is. — Then I don’t understand at all. — Do you want to understand? — I do. His cigar had gone out. He slowly relit it, watching the match as it burned out, then placing the match delicately in the ash tray. Looking up after a moment, he said, “Listen. I was born amongst the working classes of this city. As you can imagine, I inherited neither a good posi…
+Original Title: O Banqueiro Anarquista
+
+Translated by Margaret Jull Costa
+
+We had just finished having supper. Opposite me sat my friend, the banker—a well-known capitalist and tycoon—absent-mindedly smoking his cigar. The conversation had been gradually petering out for some time and now lay defunct between us. I tried to revive it with an idea that had just surfaced in my mind. Smiling, I turned to him and said, “I know what I’ve been meaning to ask you. Someone told me a few days ago that you used to be an anarchist.
+
+— There’s no ‘used to’ about it. I was and I am. I haven’t changed in that respect; I still am an anarchist.
+
+— That’s a good one! You, an anarchist! In what way are you an anarchist? Unless, of course, you’re not using the word in its...
+
+— In its proper sense? I can assure you that I am.
+
+— You mean to say, then, that you are an anarchist in exactly the same way as all those people in workers’ organizations are anarchists? You mean that there’s no difference between you and the men who throw bombs and form trade unions?
+
+— Of course there’s a difference, of course there is, but it isn’t the difference that you’re imagining. Do you perhaps doubt that my social theories are different to theirs?
+
+— Ah, now I see! In theory, you’re an anarchist, but in practice...
+
+— I’m as much an anarchist in practice as I am in theory. Indeed, in practice, I’m much more of an anarchist than those other people you mention. My whole life proves it.
+
+— What?
+
+— My whole life proves it. It’s just that you’ve never thought about these things clearly. That’s why you think that what I’m saying is nonsense or that I’m merely playing with you.
+
+— I don’t understand a word of it! Unless... Unless you think of your life as being disruptive and anti-social, and are using ‘anarchism’ in that sense.
+
+— I’ve already told you that I am using the word ‘anarchism’ in its proper sense.
+
+— All right, but I still don’t understand. Are you saying that there’s no conflict between your true anarchistic theories and the life you lead, your present life? Do you want me to believe that your life is identical to that of those people ordinarily termed ‘anarchists’?
+
+— No, that’s not it at all. What I mean is that, between my theories and how I lead my life, there is no divergence at all, but absolute conformity. It’s true that my life is not like that of those trade union types or of people who throw bombs. It is their lives that are not truly anarchistic, that fall short of their anarchistic ideals, not mine. The theory and practice of anarchism meet in me, yes, in me—banker, financier, tycoon if you like—and there’s no conflict between them. You compared me to those fools in the trade unions, to those people who throw bombs, in order to demonstrate that I am quite different from them. I am, but the difference is this: they (yes, they and not I) are purely theoretical anarchists; I am an anarchist in both theory and practice. They are foolish anarchists and I am an intelligent anarchist. Therefore, I am the true anarchist. They, the people in the trade unions, the ones who throw bombs (I did the same once until I emerged from that into my true anarchism), they are the detritus of anarchism, the whores of the great libertarian doctrine.
+
+— Come off it, that’s ridiculous. How do you reconcile your life, I mean your life in banking and commerce, with anarchist theory? How can you do that if you say that by ‘anarchist theory’ you mean exactly the same as ordinary anarchists mean? If I understand you correctly, you’re saying that you’re different from them because you are more of an anarchist than they are, is that so?
+
+— It is.
+
+— Then I don’t understand at all.
+
+— Do you want to understand?
+
+— I do.
+
+His cigar had gone out. He slowly relit it, watching the match as it burned out, then placing the match delicately in the ash tray. Looking up after a moment, he said, “Listen. I was born amongst the working classes of this city. As you can imagine, I inherite…

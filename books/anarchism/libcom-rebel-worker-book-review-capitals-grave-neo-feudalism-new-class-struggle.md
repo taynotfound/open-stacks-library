@@ -17,30 +17,144 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/rebel-worker-book-review-capitals-grave-neo-feudalism-new-class-struggle)
+Review of "Capital's Grave: Neo Feudalism & The New Class Struggle' By Jodi Dean
 
-Review of "Capital's Grave: Neo Feudalism & The New Class Struggle' By Jodi Dean Book Review from Rebel Worker Paper of the Anarcho-Syndicalist Network May- June 2026
+Book Review from Rebel Worker Paper of the Anarcho-Syndicalist Network May- June 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Capital's Grave: Neo Feudalism and the New Class Struggle by Jodi Dean. Published by Verso.
 
-A common feature of contemporary capitalism is the shift of many countries in the advanced capitalist world from production industries such as manufacturing to non production industries focusing on providing services. Associated with new style corporate outfits involving “platform operations”. Some of the most well known being Uber, Door Dash, Airbnd, Lyft, Gruubbub, Instacart. The author particularly sees this Neo Feudal push in the context of the Neo Liberal orientation of Governments internationally to resolve the economic crisis associated with the Oil crisis of the mid 70's and the worker/student upsurges and strike waves of the long 1960's. Together with Governments facilitation of privatisation and the removal of various “fetters” such as aspects of public services, industrial legislation, etc to these more exploitative operations. She sees a key factor in propelling the new Neo Feudal push being the defeat of various groups of workers with the onset of global Neo Liberalism from the 1970's. She argues these operations have different dynamics from capitalism which is characterised by profit making via the exploitation of wage labour with the aid of technological developments, capital accumulation and competition. In contrast these new Neo Feudal outfits focus on a system of rents, destruction and hoarding driven by privilege and dependence.
+A common feature of contemporary capitalism is the shift of many countries in the advanced capitalist world from production industries such as manufacturing to non production industries focusing on providing services. Associated with new style corporate outfits involving “platform operations”. Some of the most well known being Uber, Door Dash, Airbnd, Lyft, Gruubbub, Instacart. The author particularly sees this Neo Feudal push in the context of the Neo Liberal orientation of Governments internationally to resolve the economic crisis associated with the Oil crisis of the mid 70's and the worker/student upsurges and strike waves of the long 1960's. Together with Governments facilitation of privatisation and the removal of various “fetters” such as aspects of public services, industrial legislation, etc to these more exploitative operations. She sees a key factor in propelling the new Neo Feudal push being the defeat of various groups of workers with the onset of global Neo Liberalism from the 1970's. She argues these operations have different dynamics from capitalism which is characterised by profit making via the exploitation of wage labour with the aid of technological developments, capital accumulation and competition. In contrast these new Neo Feudal outfits focus on a system of rents, destruction and hoarding driven by privilege and dependence. 
 
-A problem with the book is that the author squanders considerable space on a discussion of dubious psychoanalysis issues, but ignores the critical role of corporate unionism in facilitating these new Techno Neo Feudal operations and older ones. Particularly stemming from Corporate unionism's integration into the corporate set up. Entailing union officials involvement in the direct management of capitalism via membership of Super boards and massive financing from “legal” Corruption such as via Super Boards, employers and Governments using various pretexts on an enormous scale and much less significant “Illegal” Corruption. Together with the rigging of union ballots such as in the Australian context, by allegedly ALP Networks in the AEC (Australian Electoral Commission) with the assistance of the Deep State/ASIO. Together with Deep State infiltration of the union hierarchy by their agents and training of union officials in sophisticated manipulation techniques such as with the CIA's notorious Harvard Trade Union Officials Training School.(1)
+Neo Feudalism & Corporate Unionism
 
-The author refers to the rise of compulsory arbitration as a powerful example of the major impact of Neo Feudalism across USA industries. With over 55% of US workers subject to mandatory arbitration agreements as a condition of employment. Preventing workers' “class actions” and other legal recourse, but also aimed at intimidating workers from taking spontaneous wildcat action and the spreading of this direct action in the form of strike/direct action waves across industry. With legal retainers of the owners acting as adjudicators in the arbitrations. With these agreements, owners of companies exert both economic and political power, like lords in traditional feudalism. However the author ignores the role of the corporate unions such as the AFL-CIO-CIA in collaborating with Big Business and Governments to implement this legislation. So as to further secure their bureaucratic fiefs from grass roots insurgencies and significant break away unions stemming from major wildcat strike movements. She also fails to discuss an important back drop to this labour legislation which was the wildcat strike movement across US industries in the late 1960's and early 1970's, associated with the Viet Nam War economic boom and important lessons drawn by agents of the ruling class/corporate union officials from this experience. One breakaway syndicalist style movement which emerged during the wildcat strike movement was the Dodge Revolutionary Union Movement(DRUM) established in 1968 in Detroit from a wildcat strike. The impact of divisive and dangerous black identity politics on DRUM contributed to its subsequent demise following a management counter attack. (2)
+A problem with the book is that the author squanders considerable space on a discussion of dubious psychoanalysis issues, but ignores the critical role of corporate unionism in facilitating these new Techno Neo Feudal operations and older ones. Particularly stemming from Corporate unionism's integration into the corporate set up. Entailing union officials involvement in the direct management of capitalism via membership of Super boards and massive financing from “legal” Corruption such as via Super Boards, employers and Governments using various pretexts on an enormous scale and much less significant “Illegal” Corruption. Together with the rigging of union ballots such as in the Australian context, by allegedly ALP Networks in the AEC (Australian Electoral Commission) with the assistance of the Deep State/ASIO. Together with Deep State infiltration of the union hierarchy by their agents and training of union officials in sophisticated manipulation techniques such as with the CIA's notorious Harvard Trade Union Officials Training School.(1) 
 
-The NSW Taxi Industry, Corporate Unionism, the ALP Octopus, Massive Corruption & Neo Feudalism
+The author refers to the rise of compulsory arbitration as a powerful example of the major impact of Neo Feudalism across USA industries. With over 55% of US workers subject to mandatory arbitration agreements as a condition of employment. Preventing workers' “class actions” and other legal recourse, but also aimed at intimidating workers from taking spontaneous wildcat action and the spreading of this direct action in the form of strike/direct action waves across industry. With legal retainers of the owners acting as adjudicators in the arbitrations. With these agreements, owners of companies exert both economic and political power, like lords in traditional feudalism.
 
-In NSW, Australia, since the Depression of the 1930's following a decision of the Industrial Arbitration and Conciliation Court, Neo Feudal style operations have affected most taxi drivers with the Bailor/Bailee system. Where taxi drivers via a legal fiction are treated as a type of contractors rather than as wage workers. The corporate union, the TWU (Transport Workers Union) aligned with the ALP Octopus collaborated with the corporate taxi bosses to maintain this serf like status of the cabbies. Avoiding or sabotaging any moves to organise/recruit them to the union on a significant scale. Many years back in Sydney, a certain taxi driver militant associated with the ASN(Anarcho-Syndicalist Network) was seeking to work with a TWU organiser, a relative of a former high profile politician from overseas. When ever this militant arranged with the organiser to meet at Sydney Airport to recruit taxi drivers there to the TWU, Taxi section, the organiser would never turn up using some pretext. Resulting in the failure of the organising drive. In another notorious case, a militant taxi driver was elected as President of the NSW TWU Taxi section and was initially very energetic recruiting taxi drivers to the TWU. However, when he was out jogging in a park near his home one evening, suddenly he was confronted by someone following him wielding a large knife. Shortly after this encounter, he resigned from the NSW TWU Taxi section President position! (3)
-
-Some decades ago taxi activists in Sydney approached the NSW Industrial Relations Department to establish a union in the framework of enterprise bargaining and the un-Fair Work Court. They were obstructed and fobbed off by Departmental officers presumably part of ALP networks. So as to maintain the monopoly of the TWU in the sector, the Neo Feudal regime and the TWU bosses' corrupt relations with the Taxi bosses, the ALP Octopus and State officials. Perhaps also because the taxi “serfs” had no wages and conditions for gradual attrition by the “smoke and mirrors” techniques of corporate unions/corporate media/employers during enterprise bargaining campaigns set up to fail. Subsequently taxi activists whose morale was raised by exposes of massive corruption in the taxi industry and other issues in ASN publications Sparks and RW went on to establish a union which in its early phase had a direct action/syndicalist style orientation. It organised a blockade by taxis in Sydney CBD streets focusing on the NSW Parliament. However subsequently the cabby elected as President and an important spokesman of the new union accepted a $30,000 consultancy from Lime Cabs. Leading to a rapid decline and dissolution of the union. Since this time up to day, the activity of taxi militants has faced significant difficulties with the death of a key taxi activist under somewhat mysterious circumstances, the loss of ethnic militant networks and many taxi drivers also moonlighting as Uber drivers. The TWU has certainly been doing nothing to organise taxi drivers to take industrial action to abolish the exploitive bailee/Bailor system affecting conventional taxi drivers and Uber's Techno Feudal regime with drivers considered as “independent contractors”. The TWU officials and Govts. have connived with Uber's illegal operations for many years and particularly its draconian disciplinary policies. (4)
-
-Pathways to “Communism” & the Death of Capitalism/Neo Feudalism?
-
-The author sees the core demand of those seeking to overthrow Capitalism and Neo Feudalism to establish “Communism” as Universal Basic Services (UBS). She is quite vague in discussing what “Communism” would constitute in the real world. Does she mean like State Socialist regimes with central planning in the former Socialist Bloc with a very unsavoury track record such as the former Soviet Union/USSR or Libertarian Socialism based on workers and community councils and ultra democratic processes? She also seems to favour a vanguard party style outfit similar to a sort of updated version of the Bolshevik party in the Russian Revolution of 1917 to facilitate the organising to achieve “Communism”. The Bolshevik Coup in Russia 1917, however led to a State Capitalism and a Red Dictatorship tyranny. In the Australian context and in the Anglo World generally most groups from this vanguard/Marxist Leninist heritage are more caricatures of the Bolsheviks. Becoming mainly middle class/student leftist social clubs/pseudo churches. They have mostly taken a rightward shift since the early 1990's and have been hopeless in assisting workers to achieve significant victories on the industrial front. However they have been heavily involved in facilitating the corporate unions “smoke and mirrors” performances with fake or/circuses, so as to isolate groups of workers on strike and set up campaigns to fail. Meanwhile covering up the massive corruption of the Corporate union officials. Assisting the Neo Liberal push and the employer offensive, camouflaging this record with constant revolutionary and socialist posturing and rhetoric. The few from this heritage which oppose corporate unionism have also been lured on occasion into the union bosses' “smoke and mirrors” performances associated with community picket line circuses, playing an unintentional bit part. Any formal hierarchical “vanguard party” organisation would also be open to Deep State infiltration. She ignores the importance of facilitating major syndicalist break aways from Corporate Unionism in the context of strike/direct action wave movements. So as to prepare workers for establishing workers' control of industry and community control of communities with an associated council system. Without bureaucratic central planning and the rise of a new State Capitalist regime like in the deceased State Socialist Bloc. An “informal” catalytic network composed of an interweaving of networks of cores and layers of a peripheries like the ASN has played an important role since the 1990's in assisting militants to win important victories in the class struggle such as the defeat of various restructuring for privatisation pushes in the NSW Railways and new spearheads of the employer offensive in the Public Service during the 1990's. (5)
-
-The author sees the expanding service industries workers of various types such as teachers, nurses, warehouse workers and transport workers playing the role of a labour vanguard in the class struggle to achieve “Communism”. She looks at the relative self generalising aspects of various service workers industrial action. Particularly emphasising the extent of self generation of these different sectors of workers. She correctly sees transport workers having the most self generalising impact contributing to the disruption of diverse industrial sectors. In comparison to teachers strikes which also affect other sectors to a lesser extent, as parents may have to take time off work or scramble for child care. With nurses' strikes only affecting their hospitals operations. However, she fails to take account of the influence the corporate unions have over such sectors and elite groups of workers within them and their officials capacity for sophisticated manipulation courtesy of their Deep State, political establishment and corporate media connections. Highlighting the crucial necessity of breaking this influence via major syndicalist oriented breakaways in the context of strike/direct action wave movements and their federation into new industrial union confederations with associated transitional steps. To turn the tide against the employer offensive and Neo Liberalism and Neo Feudalism to prepare the preconditions for achieving Libertarian Socialism.
-
-In conclusion, the author presents a good case for the transition from old style capitalism toward a more ferocious Neo Feudalism. Her discussion of its various dimensions are however inadequate. As she neglects a discussion of the crucial role of the Corporate Unionism phenomena to this transition although squandering significant space in the book on psychoanalytic issues. Also her discussion of the way forward to tackle Neo Feudalism/Capitalism is extremely vague and is supportive of discredited Marxist Leninist party building and peerhaps State Capitalism. However, she correctly emphasises the strategic importance of transport workers to the class struggle and the overthrow of capitalism/Neo Feudalism. M.
-
-(1) See “RTBU Elections 2018: Were they rigged?” In RW Dec.2018 – Jan.2019 Vol.36 No,3 (223) on www.rebelworker.org & “From Corporate Bureaucratic Unionism to Grass Roots Controlled Direct Action Unionism: Perspectives for Strategy and Activity for Australia Today” in RW No.41 No.3 (235) Dec.2023 – Jan.2024 on www.rebelworker.org and Libcom.org (2) See “Dodge Revolutionary Union Movement” by Martin Glaberman on Libcom.org (3) See Sparks No.76 Mar.-April 1998 “Cabbies' News.” & Information received from a long term prominent Sydney taxi activist. (4) Information received from a long term prominent Sydney taxi activist. (5) See “From Corporate Bureaucratic Unionism to Grass Roots Controlled Direct Action Unionism: Perspectives for Strategy and Activity for Australia Today” in RW No.41 No.3 (235) Dec.2023 – Jan.2024 on www.rebelworker.org and Libcom.org & “Great Victories, New Tasks, NSW Railway News p.3 RW Dec. 2025 – Jan.2026 Vol.41 No.3 (241)
+However the author ignores the role of the corporate unions such as the AFL-CIO-CIA in collaborating with Big Business and Governments to implement this legislation. So as to further secure their bureaucratic fiefs from grass roots insurgencies and significant break away unions stemming from major wildcat strike movements. She also fails to discuss an important back drop to this labour legislation which was the wildcat strike movement across US industries in the…

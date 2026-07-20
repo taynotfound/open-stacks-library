@@ -19,4 +19,66 @@ files:
     hosted: false
 ---
 
-       Front Groups          Dare To Struggle          Kites/Going Against The Tide          The OCR Itself        History of OCR          Kites and OCR/(N)CPC Split        Cultish behavior          Behavior control          Uncritical support for Shining Path          Threats against other leftist organizations          Picking up and dropping campaigns        Chapters Across The Country          Austin          California (Bay Area)          Southern California          Chicago          Connecticut          Dallas-Fort Worth          New York City          New Mexico          Seattle The “Organization of Communist Revolutionaries” is a splinter group of the Revolutionary Communist Party (US) that by itself is not really notable, besides their public-facing journal Going Against The Tide. However, they have a fairly widespread network of front groups, such as Dare To Struggle, Homeless Liberation Initiative, and No Tenemos Miedo. Of these, “Dare To Struggle” is by far the most relevant, with several hundred members in 9 chapters around the United States. Dare To Struggle is the main public-facing front group of the OCR. They don’t publicly state this anywhere, but they do repeatedly link articles by Kites/Going Against The Tide on their website, and have their members read articles from it every week. For example, on their page “ Start A Chapter ”, one of the first things they tell prospective members in areas without a chapter to do is read an article by Kites, “A Call For Communist Social Organization The Year After A Summer Of Rebellion”. On their page “ Principles of Organizational Function ” they list out the 6 main points of their organization. These are: Keep all criticism inside the organization, and any “gossiping” or “shit-talking” to “outsiders” is forbidden. Not cultlike at all. Any complaints about overwork/being “over capacity” are wrong. This is an issue in many leftist groups where people are just lazy as fuck, but they go too far in the opposite direction, encouraging members (both adults and minors) to drop out of college and move into cult houses. Leadership should be determined by commitment to the struggle, not identity. Again, doesn’t sound horrible, but without any internal democracy the only people determining who is the most committed are the ones who are already leaders. Internal organization is a waste of time. Apparently, having an election that takes five minutes is too much of a distraction from the struggle. Leaders shouldn’t give themselves grandiose titles. Again, not horrible, but this is probably just to make them look less cultlike. All interactions with other organizations should be with the goal of either subsuming them or at least some of their members into Dare To Struggle. Dare To Struggle insists that it is not a front group for anyone, however, this is transparently contradicted by them making several Going Against The Tide articles required reading for all members, and repeatedly mentioning them on their website, when essentially no one else references this obscure blog. We view this agitation, call to action, and our overall efforts to bring masses into collective struggles as different from the dominant strategy on the Left of providing mutual aid, which may bring organizations into regular contact with oppressed people but largely fails to organize those people in collective struggle. One of our new member readings, Malcolm X Didn’t Dish Out Free Bean Pies (by GATT) , gets into criticisms of contemporary mutual aid better than we can, but for us it comes down to the question of how we’re relating to the people we meet. Do we see oppressed people primarily as individuals who are lacking certain material needs and a vague notion of “community,” or do we see them as people we should work closely with to become leaders of mass struggles? Mutual aid groups think the former, and we insist on the latter. — Face the World and Brave the Storm: Why Going to the Masses Is a Strategic Necess…
+Front Groups
+
+Dare To Struggle
+
+Kites/Going Against The Tide
+
+The OCR Itself
+
+History of OCR
+
+Kites and OCR/(N)CPC Split
+
+Cultish behavior
+
+Behavior control
+
+Uncritical support for Shining Path
+
+Threats against other leftist organizations
+
+Picking up and dropping campaigns
+
+Chapters Across The Country
+
+Austin
+
+California (Bay Area)
+
+Southern California
+
+Chicago
+
+Connecticut
+
+Dallas-Fort Worth
+
+New York City
+
+New Mexico
+
+Seattle
+
+The “Organization of Communist Revolutionaries” is a splinter group of the Revolutionary Communist Party (US) that by itself is not really notable, besides their public-facing journal Going Against The Tide. However, they have a fairly widespread network of front groups, such as Dare To Struggle, Homeless Liberation Initiative, and No Tenemos Miedo. Of these, “Dare To Struggle” is by far the most relevant, with several hundred members in 9 chapters around the United States.
+
+Dare To Struggle is the main public-facing front group of the OCR. They don’t publicly state this anywhere, but they do repeatedly link articles by Kites/Going Against The Tide on their website, and have their members read articles from it every week. For example, on their page “Start A Chapter”, one of the first things they tell prospective members in areas without a chapter to do is read an article by Kites, “A Call For Communist Social Organization The Year After A Summer Of Rebellion”. On their page “Principles of Organizational Function” they list out the 6 main points of their organization. These are:
+
+Keep all criticism inside the organization, and any “gossiping” or “shit-talking” to “outsiders” is forbidden. Not cultlike at all.
+
+Any complaints about overwork/being “over capacity” are wrong. This is an issue in many leftist groups where people are just lazy as fuck, but they go too far in the opposite direction, encouraging members (both adults and minors) to drop out of college and move into cult houses.
+
+Leadership should be determined by commitment to the struggle, not identity. Again, doesn’t sound horrible, but without any internal democracy the only people determining who is the most committed are the ones who are already leaders.
+
+Internal organization is a waste of time. Apparently, having an election that takes five minutes is too much of a distraction from the struggle.
+
+Leaders shouldn’t give themselves grandiose titles. Again, not horrible, but this is probably just to make them look less cultlike.
+
+All interactions with other organizations should be with the goal of either subsuming them or at least some of their members into Dare To Struggle.
+
+Dare To Struggle insists that it is not a front group for anyone, however, this is transparently contradicted by them making several Going Against The Tide articles required reading for all members, and repeatedly mentioning them on their website, when essentially no one else references this obscure blog.
+
+We view this agitation, call to action, and our overall efforts to bring masses into collective struggles as different from the dominant strategy on the Left of providing mutual aid, which may bring organizations into regular contact with oppressed people but largely fails to organize those people in collective struggle. One of our new member readings, Malcolm X Didn’t Dish Out Free Bean Pies (by GATT) , gets into criticisms of contemporary mutual aid better than we can, but for us it comes down to the question of how we’re relating to the people we meet. Do we see oppressed people primarily as individuals who are lacking certain material needs and a vague notion of “community,” or do we see them as people we should work closely with to become leaders of mass struggles? Mutual aid groups think the former, and we insist on the latter. — Face the World and Brave the Storm: Why Going to the Masses Is a Strategic Necessity
+
+The CP, the Sixties, the RCP, and the crying need for a communist vanguard party today: A summation, by the Organization of Communist Revolutionaries,…

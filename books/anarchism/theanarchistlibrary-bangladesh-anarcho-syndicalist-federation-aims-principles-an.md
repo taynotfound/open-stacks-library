@@ -19,4 +19,168 @@ files:
     hosted: false
 ---
 
-We believe the working class and the employing class have nothing in common. Between these two classes a struggle must go on until the workers of the world organise as a class, take possession of the earth and the machinery of production and abolish the wage system. Bangladesh Anarcho- Syndicalist Federation - (BASF) ‘s Aims, Principles and Statutes The Anarcho-Syndicalist Federation is a libertarian workers movement organized according to anarcho-syndicalist principles. We aim to create a society based on liberty, mutual aid, federalism and self-management. We believe the working class and the employing class have nothing in common. Between these two classes a struggle must go on until the workers of the world organise as a class, take possession of the earth and the machinery of production and abolish the wage system. In the present we take an active part in the struggle for worker solidarity, shorter hours, immediate wage increases and improved working conditions. And we actively oppose all attacks on workers such as conscription of labour, strike breaking, drives for increased production and longer working hours, wage cuts or unemployment. We want worker/community self-education for complete self-management of production, distribution, social organisation and preservation of a healthy ecological environment. This will come about by worker/community expropriation of wealth and the creation of alternative economic systems. We are opposed to all economic and social monopoly. We do not seek the conquest of political power, but rather the total abolition of all state functions in the life of society. Hence we reject all parliamentary activity and other collaboration with legislative bodies. We believe in fighting organisations in the workplace and community, independent of, and opposed to all political parties and Trade Union bureaucracies. Our means of struggle include education and direct action. To ensure the full participation of all in both current struggle and the future self-management of society, we oppose centralism in our organisations. We organise on the basis of Libertarian Federalism that is from the bottom up without any hierarchy and with full freedom of initiative by both local and regional groups. All co-ordinating bodies of the Federation consist of recallable delegates with specific tasks determined by local assemblies. We see the world as our country, humanity as our family. We reject all political and national frontiers and aim to unmask the arbitrary violence of all governments. We oppose all attitudes and assumptions that are harmful and injurious to working class solidarity. We oppose all ideologies and institutions that stand in the way of equality and the right of people everywhere to control their own lives and their environment. Statutes 1. NAME This FEDERATION shall be known as the ‘Bangladesh Anarcho-Syndicalist Federation –(BASF) BASF starts it journey -1st May, 2014 2. GENERAL PRINCIPLES OF ORGANISATION 1. The BBASF is a federation of affiliates organised as either general membership affiliates of industrial association affiliates. 2. All affiliates shall be know by a name of their own choosing either as general membership affiliates distinguished by locality or region, or as workers associations distinguished by type of industry. All affiliates shall be numbered by chronological order of affiliation with no number repeated. 3. All affiliates have full freedom to initiate actions in their own name at local and industrial levels. 4. All decisions are made after full debate by all members meeting in the duly constituted assembly of their affiliate. 5. No organisational positions to have any executive powers. All delegated and other organisational positions to be elected and recallable at any time. The maximum term of tenure for all positions shall be one year. 3. STRUCTURE A. GENERAL MEMBERSHIP 1. Membership of BASF affiliates shall be open to all workers, employed or not. 2. No member of an BASF a…
+We believe the working class and the employing class have nothing in common. Between these two classes a struggle must go on until the workers of the world organise as a class, take possession of the earth and the machinery of production and abolish the wage system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bangladesh Anarcho- Syndicalist Federation - (BASF) ‘s Aims, Principles and Statutes
+
+The Anarcho-Syndicalist Federation is a libertarian workers movement organized according to anarcho-syndicalist principles. We aim to create a society based on liberty, mutual aid, federalism and self-management.
+
+We believe the working class and the employing class have nothing in common. Between these two classes a struggle must go on until the workers of the world organise as a class, take possession of the earth and the machinery of production and abolish the wage system.
+
+In the present we take an active part in the struggle for worker solidarity, shorter hours, immediate wage increases and improved working conditions. And we actively oppose all attacks on workers such as conscription of labour, strike breaking, drives for increased production and longer working hours, wage cuts or unemployment.
+
+We want worker/community self-education for complete self-management of production, distribution, social organisation and preservation of a healthy ecological environment. This will come about by worker/community expropriation of wealth and the creation of alternative economic systems.
+
+We are opposed to all economic and social monopoly. We do not seek the conquest of political power, but rather the total abolition of all state functions in the life of society. Hence we reject all parliamentary activity and other collaboration with legislative bodies. We believe in fighting organisations in the workplace and community, independent of, and opposed to all political parties and Trade Union bureaucracies.
+
+Our means of struggle include education and direct action. To ensure the full participation of all in both current struggle and the future self-management of society, we oppose centralism in our organisations. We organise on the basis of Libertarian Federalism that is from the bottom up without any hierarchy and with full freedom of initiative by both local and regional groups. All co-ordinating bodies of the Federation consist of recallable delegates with specific tasks determined by local assemblies.
+
+We see the world as our country, humanity as our family. We reject all political and national frontiers and aim to unmask the arbitrary violence of all governments.
+
+We oppose all attitudes and assumptions that are harmful and injurious to working class solidarity. We oppose all ideologies and institutions that stand in the way of equality and the right of people everywhere to control their own lives and their environment.
+
+Statutes
+
+1. NAME
+
+This FEDERATION shall be known as the ‘Bangladesh Anarcho-Syndicalist Federation –(BASF)
+
+BASF starts it journey -1st May, 2014 
+
+2. GENERAL PRINCIPLES OF ORGANISATION
+
+1. The BBASF is a federation of affiliates organised as either general membership affiliates of industrial association affiliates.
+
+2. All affiliates shall be know by a name of their own choosing either as general membership affiliates distinguished by locality or region, or as workers associations distinguished by type of industry. All affiliates shall be numbered by chronological order of affiliation with no number repeated.
+
+3. All affiliates have full freedom to initiate actions in their own name at local and industrial levels.
+
+4. All decisions are made after full debate by all members meeting in the duly constituted assembly of their affiliate.
+
+5. No organisational positions to have any executive powers. All delegated and other organisational positions to be elected and recallable at any time. The maximum term of tenure for all positions shall be one …

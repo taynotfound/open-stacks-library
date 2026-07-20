@@ -19,4 +19,46 @@ files:
     hosted: false
 ---
 
-W naszym społeczeństwie wszystko pogrążone jest w sprzeczności. Oto, dlaczego nie możemy się wzajemnie zrozumieć i zawsze jesteśmy gotowi wydać bitwę. Administracja publiczna i policja stanowią najlepszy tego dowód. Jeżeli jest rzecz, która dzisiaj wydawałaby się wszystkim czymś niedopuszczalnym, świętokradczym, naruszającym prawa rozumu i sumienia, to jest to rząd, który zagarniając sobie dziedzinę wiary, rości sobie prawo do reglamentowania zadań duchowych osób od siebie zależnych. Nawet w oczach chrześcijan podobna tyrania nie mogłaby być tolerowana: w przypadku oporu męczennik wziąłby na siebie ciężar odpowiedzialności. Kościół założony w niebie i natchniony głosi, że ma prawo sprawować rząd dusz, ale, rzecz szczególna, i co ze swej strony stanowi już zaczątek liberalizmu, odmawia tego prawa państwu. Nie tykajcie kadzielnicy – woła do panujących. Wy jesteście biskupami w sprawach zewnętrznych: my jesteśmy biskupami w sprawach wewnętrznych. Wobec was wiara jest wolna: religia nie zależy od waszej władzy. Na tym punkcie, przynajmniej we Francji, panuje jedność poglądów. Państwo gotowe jest opłacać czynności obrzędowe, a kościół gotów jest przyjąć subwencję: państwo nie miesza się w najmniejszej mierze ani do podstaw dogmatycznych, ani do sprawy ceremoniału. Wierzycie czy nie wierzycie, oddajecie cześć bóstwu czy nie oddajecie, to sprawa ad libitum [1] . Rząd zdecydował się nie wkraczać w dziedzinę sumienia. Otóż jedno z dwojga: albo rząd, zrzekając się inicjatywy, popełnił ciężki błąd, albo też chciał zrobić krok wstecz i dać nam pierwszy dowód, że się wycofuje. W istocie, jeżeli państwo nie uważa się za uprawnione do narzucania religii, to dlaczego miałoby być uprawnione do narzucania nam ustaw? Dlaczego, nie zadowalając się władzą ustawodawczą, miałoby jeszcze sprawować władzę sądową? Dlaczego miałoby pełnić władzę policyjną? Wreszcie, dlaczego władzę administracyjną?... Co! Rząd pozostawia nam kierowanie naszymi duszami, najpoważniejszą częścią naszego życia, od sposobu rządzenia, którą zależy całkowicie, wraz z naszą szczęśliwością w przyszłym życiu, ład w życiu dzisiejszym, a gdy idzie o nasze interesy materialne, sprawy handlowe, stosunki dobrego sąsiedztwa, kwestie najbardziej przyziemne, władza zjawia się i interweniuje. Władza jest jak służąca u księdza: duszę pozostawia szatanowi; on pożąda ciała. Byleby trzymała rękę na naszych kiesach, drwi sobie z naszych myśli. Hańba! Czyż nie możemy zarządzać naszymi majątkami, regulować naszych rachunków, układać się w sprawie dzielących nas różnic, troszczyć się o nasze wspólne interesy, i czynić to wszystko co najmniej równie dobrze, jak dbać o nasze zdrowie i troszczyć się o nasze dusze? Czyż więcej mamy wspólnego z ustawodawstwem państwowym, ze sprawiedliwością państwową niż z religią państwową? Jaki powód, jaki pretekst podaje państwo na rzecz tego wyjątku od wolności lokalnej i indywidualnej? Powiedzą nam, że sprzeczność jest jedynie pozorna, że władza jest w istocie powszechna i nie zna żadnego wyjątku, ale w celu doskonalenia jej sprawowania musiała być podzielona na dwie władze równe i niezależne od siebie: kościół, któremu powierzono troskę o dusze, i państwo, do którego należy rząd nad ciałami. Na to odpowiem, że przede wszystkim podział między państwo i kościół nie został dokonany ze względu na lepszą organizację, ale wskutek niemożności pogodzenia interesów, którymi się one kierują: a po drugie, że skutki tego podziału były, jak nie można bardziej, opłakane, zważywszy, że gdy kościół utracił kierownictwo sprawami doczesnymi, to skończyło się na tym, że go nikt więcej nie słuchał, nawet w dziedzinie spraw duchowych; państwo zaś, udając, że miesza się tylko do spraw materialnych i że rozstrzyga je tylko siłą, utraciło szacunek i wywołało wszędzie potępienie ze strony narodów. I właśnie z tego powodu państwo i kościół, przekonane, ale zbyt późno, o swej nierozróżnialności, usiłują dzisiaj podźwignąć się przez niewykonalne już zespolenie się w jedno, i to właśnie w c…
+W
+naszym społeczeństwie wszystko pogrążone jest w sprzeczności.
+Oto, dlaczego nie możemy się wzajemnie zrozumieć i zawsze jesteśmy gotowi wydać bitwę. Administracja publiczna i policja stanowią najlepszy tego dowód.
+
+Jeżeli jest rzecz, która dzisiaj wydawałaby się wszystkim czymś niedopuszczalnym, świętokradczym, naruszającym prawa rozumu i sumienia,
+to jest to rząd, który zagarniając sobie dziedzinę wiary, rości sobie prawo
+do reglamentowania zadań duchowych osób od siebie zależnych. Nawet
+w oczach chrześcijan podobna tyrania nie mogłaby być tolerowana:
+w przypadku oporu męczennik wziąłby na siebie ciężar odpowiedzialności. Kościół założony w niebie i natchniony głosi, że ma prawo sprawować
+rząd dusz, ale, rzecz szczególna, i co ze swej strony stanowi już zaczątek liberalizmu, odmawia tego prawa państwu. Nie tykajcie kadzielnicy – woła
+do panujących. Wy jesteście biskupami w sprawach zewnętrznych: my jesteśmy biskupami w sprawach wewnętrznych. Wobec was wiara jest wolna: religia nie zależy od waszej władzy.
+
+Na tym punkcie, przynajmniej we Francji, panuje jedność poglądów.
+Państwo gotowe jest opłacać czynności obrzędowe, a kościół gotów jest
+przyjąć subwencję: państwo nie miesza się w najmniejszej mierze ani do
+podstaw dogmatycznych, ani do sprawy ceremoniału. Wierzycie czy nie
+wierzycie, oddajecie cześć bóstwu czy nie oddajecie, to sprawa ad libitum[1].
+Rząd zdecydował się nie wkraczać w dziedzinę sumienia.
+
+Otóż jedno z dwojga: albo rząd, zrzekając się inicjatywy, popełnił
+ciężki błąd, albo też chciał zrobić krok wstecz i dać nam pierwszy dowód,
+że się wycofuje. W istocie, jeżeli państwo nie uważa się za uprawnione do
+narzucania religii, to dlaczego miałoby być uprawnione do narzucania
+nam ustaw? Dlaczego, nie zadowalając się władzą ustawodawczą, miałoby
+jeszcze sprawować władzę sądową? Dlaczego miałoby pełnić władzę policyjną? Wreszcie, dlaczego władzę administracyjną?...
+
+Co! Rząd pozostawia nam kierowanie naszymi duszami, najpoważniejszą częścią naszego życia, od sposobu rządzenia, którą zależy całkowicie, wraz z naszą szczęśliwością w przyszłym życiu, ład w życiu dzisiejszym, a gdy idzie o nasze interesy materialne, sprawy handlowe, stosunki dobrego sąsiedztwa, kwestie najbardziej przyziemne, władza zjawia się i interweniuje. Władza jest jak służąca u księdza: duszę pozostawia szatanowi; on
+pożąda ciała. Byleby trzymała rękę na naszych kiesach, drwi sobie z naszych myśli. Hańba! Czyż nie możemy zarządzać naszymi majątkami, regulować naszych rachunków, układać się w sprawie dzielących nas różnic,
+troszczyć się o nasze wspólne interesy, i czynić to wszystko co najmniej
+równie dobrze, jak dbać o nasze zdrowie i troszczyć się o nasze dusze?
+Czyż więcej mamy wspólnego z ustawodawstwem państwowym, ze sprawiedliwością państwową niż z religią państwową? Jaki powód, jaki pretekst podaje państwo na rzecz tego wyjątku od wolności lokalnej i indywidualnej?
+
+Powiedzą nam, że sprzeczność jest jedynie pozorna, że władza jest
+w istocie powszechna i nie zna żadnego wyjątku, ale w celu doskonalenia
+jej sprawowania musiała być podzielona na dwie władze równe i niezależne od siebie: kościół, któremu powierzono troskę o dusze, i państwo, do
+którego należy rząd nad ciałami.
+
+Na to odpowiem, że przede wszystkim podział między państwo i kościół nie został dokonany ze względu na lepszą organizację, ale wskutek
+niemożności pogodzenia interesów, którymi się one kierują: a po drugie,
+że skutki tego podziału były, jak nie można bardziej, opłakane, zważywszy, że gdy kościół utracił kierownictwo sprawami doczesnymi, to skończyło się na tym, że go nikt więcej nie słuchał, nawet w dziedzinie spraw
+duchowych; państwo zaś, udając, że miesza się tylko do spraw materialnych i że rozstrzyga je tylko siłą, utraciło szacunek i wywołało wszędzie
+potępienie ze strony narodów. I właśnie z tego powodu państwo i kościół, przekonane, ale zbyt późno, o swej nierozróżnialności, usiłują dzisiaj
+podźwignąć się przez niewykonalne już zespolenie się w jedno, i to właśnie…

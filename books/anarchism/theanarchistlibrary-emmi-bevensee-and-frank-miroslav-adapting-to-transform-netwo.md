@@ -19,4 +19,52 @@ files:
     hosted: false
 ---
 
-       Summary        It takes a network to defeat a network        Institutions have limits, especially in the age of information technology        Complexity, the root of networked warfare        The Breakdown of Westphalia        vTaiwan: A case study in scaling direct democratic decision-making          The problem of managing complex decisions.          vTaiwan helps build consensus with greater efficiency and buy-in        Possibilities for New Internationalism        You can beat information war through networked resistance          There are many ways to win against information warfare. The important part is to leverage its weaknesses and move in swarms.          Attempts at information isolation are leaky        Complexity as resistance against fascism        Conclusion: Human shaped networks are internationalist and anti-authoritarian        About the authors        About the Illustrator        Glossary In the age of mass networked revolts spurred in part by advances in information technology, the call to update our frameworks grows more urgent. Through the lens of complexity, we tease out some of the strategic benefits of modernized perspectives on conflict and resistance. With this understanding, we can map out better and more realistic futures. Complex and horizontal networks of people swarming together have some asymmetric advantages over centralized powers. These advantages exist because of things like information proliferation, the agility of actors with local knowledge of a situation, and resiliency. There are risks and limitations to these strategies which can be studied using frameworks such as complexity theory. By analyzing conflict and struggle using these frameworks, we believe that the internationalist left can more accurately chart a way to sustainable futures with greater interconnected agency, while avoiding dystopian outcomes. Examples of all of this can be seen by analyzing the conflicts between fascist and anti-fascist networks. An internet troll movement was able to instrumentalize pre-existing USian racism and build a movement that helped launch Trump into the highest position in the US (unfortunately not the sun). Parts of this movement then metastasized into a semi-decentralized digital cult that ultimately led to a conspiracy-driven meme-ified coup attempt on the US capitol with nazis and militias in tow. While headline grabbing, the underlying dynamics that motivated these people and let them communicate go back decades. The monograph Networks and Netwars was published in 2001 and summarized the then-emerging examples of networked forms of organization. Terrorists, transnational gangs, and activists were already making use of networked computing technology to organize. The explosive protest movements of the last year are different in scale and capacity, but the underlying principles remain the same. John Arquilla and David Ronfeld’s summary of the changes will affect conflict appears particularly far sighted in retrospect: “Major transformations are thus coming in the nature of adversaries, in the type of threats they may pose, and in how conflicts can be waged. Information-age threats are likely to be more diffuse, dispersed, multi-dimensional nonlinear, and ambiguous than industrial-age threats.” [1] But despite networks and computers being at the core of many disruptive events that took society by surprise in the last two decades, the number of people who consciously grasp the changes wrought are a minority, even among people who consider themselves political. Most people have a direct understanding of networked conflict informed not by theoretical understanding, but rather by their lived experience of using the technologies and seeing things happen for themselves. This way of operating can work “good enough” and can give amatures the ability to disrupt established actors. [2] But it leaves participants vulnerable to shifts in the broader environment that invalidate simple models. A clear…
+Summary
+
+It takes a network to defeat a network
+
+Institutions have limits, especially in the age of information technology
+
+Complexity, the root of networked warfare
+
+The Breakdown of Westphalia
+
+vTaiwan: A case study in scaling direct democratic decision-making
+
+The problem of managing complex decisions.
+
+vTaiwan helps build consensus with greater efficiency and buy-in
+
+Possibilities for New Internationalism
+
+You can beat information war through networked resistance
+
+There are many ways to win against information warfare. The important part is to leverage its weaknesses and move in swarms.
+
+Attempts at information isolation are leaky
+
+Complexity as resistance against fascism
+
+Conclusion: Human shaped networks are internationalist and anti-authoritarian
+
+About the authors
+
+About the Illustrator
+
+Glossary
+
+In the age of mass networked revolts spurred in part by advances in information technology, the call to update our frameworks grows more urgent. Through the lens of complexity, we tease out some of the strategic benefits of modernized perspectives on conflict and resistance. With this understanding, we can map out better and more realistic futures.
+
+Complex and horizontal networks of people swarming together have some asymmetric advantages over centralized powers.
+
+These advantages exist because of things like information proliferation, the agility of actors with local knowledge of a situation, and resiliency. There are risks and limitations to these strategies which can be studied using frameworks such as complexity theory. By analyzing conflict and struggle using these frameworks, we believe that the internationalist left can more accurately chart a way to sustainable futures with greater interconnected agency, while avoiding dystopian outcomes. Examples of all of this can be seen by analyzing the conflicts between fascist and anti-fascist networks.
+
+An internet troll movement was able to instrumentalize pre-existing USian racism and build a movement that helped launch Trump into the highest position in the US (unfortunately not the sun). Parts of this movement then metastasized into a semi-decentralized digital cult that ultimately led to a conspiracy-driven meme-ified coup attempt on the US capitol with nazis and militias in tow.
+
+While headline grabbing, the underlying dynamics that motivated these people and let them communicate go back decades. The monograph Networks and Netwars was published in 2001 and summarized the then-emerging examples of networked forms of organization. Terrorists, transnational gangs, and activists were already making use of networked computing technology to organize. The explosive protest movements of the last year are different in scale and capacity, but the underlying principles remain the same. John Arquilla and David Ronfeld’s summary of the changes will affect conflict appears particularly far sighted in retrospect:
+
+“Major transformations are thus coming in the nature of adversaries, in the type of threats they may pose, and in how conflicts can be waged. Information-age threats are likely to be more diffuse, dispersed, multi-dimensional nonlinear, and ambiguous than industrial-age threats.”[1]
+
+But despite networks and computers being at the core of many disruptive events that took society by surprise in the last two decades, the number of people who consciously grasp the changes wrought are a minority, even among people who consider themselves political. Most people have a direct understanding of networked conflict informed not by theoretical understanding, but rather by their lived experience of using the technologies and seeing things happen for themselves.
+
+This way of operating can work “good enough” and can give amatures the ability to disrupt established actors.[2] But it leaves participants vulnerable to shifts in the broader environment that invalidate simple models. A clear example of this is with the sharp rise and fall of the alt-right. In 2015 and 2016 they were largely fig…
