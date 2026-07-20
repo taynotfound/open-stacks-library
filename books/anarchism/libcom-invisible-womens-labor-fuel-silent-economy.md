@@ -17,18 +17,170 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/invisible-womens-labor-fuel-silent-economy)
+Transfeminism symbol
 
-Transfeminism symbol Real change does not begin only with amending laws or improving statistics. It begins with redefining what we consider valuable work, and redistributing that value fairly among everyone. It is not only about women entering the labor market on equal terms, but about reorganizing society as a whole so that it no longer rests on the exhaustion of one party without anyone seeing it.
 
-Bayan Saleh Domestic and Care Work: Labor Without Wages or Recognition Domestic and care work is among the most marginalized forms of labor in economic and political discussions, despite being a fundamental pillar of socialist feminist analysis. It is not viewed as individual or "natural" tasks, but as an essential part of the process of reproducing labor power upon which the entire economy rests. Since the early beginnings of socialist feminist thought, the activist Alexandra Kollontai addressed the question of liberating women from the burden of unpaid domestic work, arguing that true equality cannot be achieved without a radical reorganization of relations within the family and society. Later, Silvia Federici developed this analysis further, demonstrating that invisible domestic work is not marginal. It is the very foundation upon which the capitalist system sustains itself.
 
-The Numbers Speak: The Scale of a Global Phenomenon At the global level, data reveals that this work is not an individual phenomenon but a vast structure: women perform approximately 76% of all unpaid working hours worldwide, and spend on average longer hours daily than men on domestic and care tasks. It is estimated that more than 16 billion hours of unpaid work are completed around the world every day, figures that reveal the scale of an entire invisible economy that is nonetheless essential to the continuity of societies. Despite this enormous scale, hundreds of millions of women remain constrained by unpaid care responsibilities, limiting their opportunities in paid employment and reproducing gender inequality. In a country like Denmark, despite advances in equality policies and the high participation of women in the labor market, statistics show a persistent gap in the distribution of unpaid work. Women spend approximately 15.6% of their day on unpaid work compared to 11.3% for men, reflecting the continued imbalance in care work within the family, even in societies considered among the most advanced in gender equality.
 
-What Is Invisible Work? In reality, women in most societies carry out the largest share of invisible work: childcare, household tasks, the daily organization of family life, and what is known as the "mental load." This work, despite being essential to the continuity of society, receives no economic recognition and no material compensation. This type of work is not confined to the domestic sphere alone. It extends into workplaces and institutions as well. Women are frequently assigned informal tasks that go unrecognized in professional evaluations, such as organizing events and meetings, managing logistical details, and performing "team support" roles that maintain harmony within the work environment. Despite the importance of these tasks to the success of institutions, they are rarely counted as professional achievement or factored into promotions, reproducing the same logic of invisible work within the public sphere as well.
 
-Patriarchy and Capitalism: An Alliance Consolidated at Women's Expense This situation is neither natural nor accidental. It is the deliberate historical outcome of the intersection between the patriarchal system and the capitalist system. Capitalism has never found reason to pay for the work that reproduces labor power: raising children, caring for the sick, maintaining family cohesion, as long as this work is presented as an innate "feminine duty" that deserves no wages. In this way, the system ensures its continuity at the lowest possible cost, at women's expense. What has further complicated matters is that women's entry into the labor market did not end this burden. In many cases it led to what is known as the "double shift," where a woman leaves home for a full-time job and then returns to begin a second, invisible, unpaid one. The burden did not redistribute. It multiplied. The effects of this situation extend far beyond the economic dimension, reaching deep into the psychological and social fabric of women's lives. The continued accumulation of unrecognized responsibilities leads to: • Persistent mental pressure and long-term psychological exhaustion that is difficult to name or complain about, because it too is "invisible" • A reduced space for participation in social, political, and cultural life, as no time or energy remains at the end of the day • A diminished sense of worth within one's environment, when "work" is measured only by what carries a wage, making women's greatest contribution their least recognized one • The reinforcement of unequal relations within the family and the reproduction of economic dependence from one generation to the next
 
-Toward Radical Change: An Alternative Framework Solutions cannot be individual alone. They must be political and structural, addressing the roots of the division of labor in society. This requires focus on several key areas: Redistribution of domestic and care work: Redistributing domestic and care work equitably between women and men is not a matter of personal choice. It is a social necessity that requires change in the economic, political, and cultural structure. Expanding public care services: Expanding state-supported care services, such as childcare and eldercare, can transform this burden from an individual responsibility into a shared societal one. Reducing paid working hours: Reducing paid working hours can create a better balance between life and work, allowing broader participation in care tasks without placing the full burden on one party. Economic recognition of domestic and care work: Economic recognition of domestic and care work is an essential step toward dismantling the idea that this work does not exist economically. In the broader framework, any genuine change requires reorganizing the economy itself so that it does not rely on unpaid work as a hidden pillar of its continuity.
 
-In the End: Who Defines "Work"? It is necessary to reconsider the very meaning of "work": who defines it? Who receives recognition for it? And who bears the invisible burdens upon which society rests? These are not abstract philosophical questions. They are political and economic questions that affect the lives of hundreds of millions of women every day, and that determine who is seen and who remains in the shadows. When we speak of the economy, we typically invoke factories, offices, markets, and figures in national budgets. Yet there is another economy, parallel, vast, and silent, operating every day in homes and families and communities. An economy managed mostly by women, without wages, without recognition, and without presence in any official statistics. This hidden economy is what feeds and raises children, cares for the sick and the elderly, and keeps social life in a state of cohesion and continuity. When it disappears, it does not disappear alone. Much of what we call "society" stops with it. Recognizing invisible women's labor is not only a matter of genuine equality within society. It is a fundamental part of any project that seeks to achieve full equality and social and economic justice. As long as this work remains outside the calculations of value and recognition, women will continue to carry a doubled burden in silence, and the gender gap will continue to reproduce itself from one generation to the next, even in societies where equality has reached advanced stages and sits at the forefront of their declared values. Real change does not begin only with amending laws or improving statistics. It begins with redefining what we consider valuable work, and redistributing that value fairly among everyone. It is not only about women entering the labor market on equal terms, but about reorganizing society as a whole so that it no longer rests on the exhaustion of one party without anyone seeing it.
+
+
+
+
+
+
+Real change does not begin only with amending laws or improving statistics. It begins with redefining what we consider valuable work, and redistributing that value fairly among everyone. It is not only about women entering the labor market on equal terms, but about reorganizing society as a whole so that it no longer rests on the exhaustion of one party without anyone seeing it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bayan Saleh
+
+Domestic and Care Work: Labor Without Wages or Recognition
+
+Domestic and care work is among the most marginalized forms of labor in economic and political discussions, despite being a fundamental pillar of socialist feminist analysis. It is not viewed as individual or "natural" tasks, but as an essential part of the process of reproducing labor power upon which the entire economy rests.
+
+Since the early beginnings of socialist feminist thought, the activist Alexandra Kollontai addressed the question of liberating women from the burden of unpaid domestic work, arguing that true equality cannot be achieved without a radical reorganization of relations within the family and society. Later, Silvia Federici developed this analysis further, demonstrating that invisible domestic work is not marginal. It is the very foundation upon which the capitalist system sustains itself.
+
+The Numbers Speak: The Scale of a Global Phenomenon
+
+At the global level, data reveals that this work is not an individual phenomenon but a vast structure: women perform approximately 76% of all unpaid working hours worldwide, and spend on average longer hours daily than men on domestic and care tasks. It is estimated that more than 16 billion hours of unpaid work are completed around the world every day, figures that reveal the scale of an entire invisible economy that is nonetheless essential to the continuity of societies. Despite this enormous scale, hundreds of millions of women remain constrained by unpaid care responsibilities, limiting their opportunities in paid employment and reproducing gender inequality.
+
+In a country like Denmark, despite advances in equality policies and the high participation of women in the labor market, statistics show a persistent gap in the distribution of unpaid work. Women spend approximately 15.6% of their day on unpaid work compared to 11.3% for men, reflecting the continued imbalance in care work within the family, even in societies considered among the most advanced in gender equality.
+
+What Is Invisible Work?
+
+In reality, women in most societies carry out the largest share of invisible work: childcare, household tasks, the daily organization of family life, and what is known as the "mental load." This work, despite being essential to the continuity of society, receives no economic recognition and no material compensation.
+
+This type of work is not confined to the domestic sphere alone. It extends into workplaces and institutions as well. Women are frequently assigned informal tasks that go unrecognized in professional evaluations, such as organizing events and meetings, managing logistical details, and performing "team support" roles that maintain harmony within the work environment.
+
+Despite the importance of these tasks to the success of institutions, they are rarely counted as professional achievement or factored into promotions, reproducing the same logic of invisible work within the public sphere as well.
+
+Patriarchy and Capitalism: An Alliance Consolidated at Women's Expense
+
+This situation is neither natural nor accidental. It is the deliberate historical outcome of the intersection between the patriarchal system and the capitalist system. Capitalism has never found reason to pay for the work that reproduces labor power: raising children, caring for the sick, maintaining family cohesion, as long as this work is presented as an innate "feminine duty" that deserves no w…
