@@ -22,6 +22,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: hakim-bey.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/hakim-bey.epub
+    hosted: true
 ---
 
 # Hakim Bey
