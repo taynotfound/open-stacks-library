@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: society-against-the-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/society-against-the-state.epub
+    hosted: true
 ---
 
 # Society Against the State
