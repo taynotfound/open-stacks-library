@@ -21,6 +21,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: where-license-reigns-with-all-impunity.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/where-license-reigns-with-all-impunity.epub
+    hosted: true
 ---
 
 # Where License Reigns With All Impunity
