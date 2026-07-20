@@ -17,6 +17,4 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/insurgent-notes-14-november-2016)
-
-Contents from issue 14 of the journal: a special "post-election issue".
+Contents from issue 14 of the journal: a special "post-election issue". The Insurgent Notes site also includes: February 5, 2017, Conference Audio Recordings Sunday, February 5, 2017: Open Meeting Agenda Open Call—Upcoming Public Meeting http://insurgentnotes.com/past-issues/issue-14/ Printer-friendly version Comments
