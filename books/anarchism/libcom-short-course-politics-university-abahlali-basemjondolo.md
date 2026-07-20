@@ -17,7 +17,14 @@ files:
   - name: "raj patel.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/raj patel.pdf"
-    hosted: false
+    hosted: false  - name: "short-course-politics-university-abahlali-basemjondolo.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/short-course-politics-university-abahlali-basemjondolo.pdf"
+    hosted: true
+  - name: "short-course-politics-university-abahlali-basemjondolo.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/short-course-politics-university-abahlali-basemjondolo.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/short-course-politics-university-abahlali-basemjondolo)
