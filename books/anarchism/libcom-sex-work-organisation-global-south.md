@@ -17,7 +17,14 @@ files:
   - name: "Sex-worker-organisation.pdf"
     type: "PDF"
     url: "https://files.libcom.org/files/Sex-worker-organisation.pdf"
-    hosted: false
+    hosted: false  - name: "sex-work-organisation-global-south.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sex-work-organisation-global-south.pdf"
+    hosted: true
+  - name: "sex-work-organisation-global-south.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/sex-work-organisation-global-south.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/sex-work-organisation-global-south)
