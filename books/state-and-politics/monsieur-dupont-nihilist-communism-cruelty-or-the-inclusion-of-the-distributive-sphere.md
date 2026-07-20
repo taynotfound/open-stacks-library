@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: nihilist-communism-cruelty-or-the-inclusion-of-the-distributive-sphere.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/nihilist-communism-cruelty-or-the-inclusion-of-the-distributive-sphere.epub
+    hosted: true
 ---
 
 # Nihilist Communism: Cruelty or the Inclusion of the Distributive Sphere
