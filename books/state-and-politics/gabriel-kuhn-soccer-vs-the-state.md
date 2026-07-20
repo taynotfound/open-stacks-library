@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: soccer-vs-the-state.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/soccer-vs-the-state.epub
+    hosted: true
 ---
 
 # Soccer vs. the State
