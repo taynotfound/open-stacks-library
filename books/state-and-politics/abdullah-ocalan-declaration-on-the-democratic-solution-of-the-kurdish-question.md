@@ -20,6 +20,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: declaration-on-the-democratic-solution-of-the-kurdish-question.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/declaration-on-the-democratic-solution-of-the-kurdish-question.epub
+    hosted: true
 ---
 
 # Declaration on the Democratic Solution of the Kurdish Question
