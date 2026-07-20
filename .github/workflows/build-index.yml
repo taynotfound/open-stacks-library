@@ -8,12 +8,27 @@ on:
       - "build_index.py"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
+# Skip if commit message contains [skip ci]
 jobs:
-  build:
+  check-skip:
     runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
+    steps:
+      - id: check
+        run: |
+          if echo "${{ github.event.head_commit.message }}" | grep -q '\[skip ci\]'; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
+  build:
+    needs: check-skip
+    if: needs.check-skip.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
