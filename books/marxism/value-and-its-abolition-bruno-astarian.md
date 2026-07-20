@@ -21,6 +21,11 @@ links:
   - url: "https://www.marxists.org/archive/rubin/index.htm "
     text: "Rubin’s"
 files: []
+files:
+  - name: "value-and-its-abolition-bruno-astarian.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/value-and-its-abolition-bruno-astarian.pdf"
+    hosted: true
 ---
 # Value and its abolition - Bruno Astarian
 
