@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-state-its-historic-role.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-state-its-historic-role.epub
+    hosted: true
 ---
 
 # The State: Its Historic Role
