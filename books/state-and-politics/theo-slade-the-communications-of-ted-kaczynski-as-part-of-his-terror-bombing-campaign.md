@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-communications-of-ted-kaczynski-as-part-of-his-terror-bombing-campaign.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-communications-of-ted-kaczynski-as-part-of-his-terror-bombing-campaign.epub
+    hosted: true
 ---
 
 # The Communications of Ted Kaczynski as part of his Terror Bombing Campaign
