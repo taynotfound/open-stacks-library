@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: que-se-vayan-todos-u2014-out-with-them-all.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/que-se-vayan-todos-u2014-out-with-them-all.epub
+    hosted: true
 ---
 
 # Que se vayan todos! — Out with them all!
