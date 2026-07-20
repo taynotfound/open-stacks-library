@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f0be7901cba3d454.png"
 links: []
 files: []
+files:
+  - name: "no-blood-for-oil-energy-class-struggle-and-war-1998-2004-geo.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/no-blood-for-oil-energy-class-struggle-and-war-1998-2004-geo.pdf"
+    hosted: true
 ---
 # No Blood For Oil: Energy, Class Struggle, and War, 1998-2004 - George Caffentzis
 
