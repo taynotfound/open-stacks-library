@@ -22,6 +22,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: a-proletarian-critique-of-the-nation-of-islam.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a-proletarian-critique-of-the-nation-of-islam.epub
+    hosted: true
 ---
 
 # A Proletarian Critique of the Nation of Islam
