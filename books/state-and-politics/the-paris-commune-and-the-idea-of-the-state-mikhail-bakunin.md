@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/c2492ba979e6bad7.jpg"
 links: []
 files: []
+files:
+  - name: "the-paris-commune-and-the-idea-of-the-state-mikhail-bakunin.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-paris-commune-and-the-idea-of-the-state-mikhail-bakunin.pdf"
+    hosted: true
 ---
 # The Paris Commune and the idea of the state - Mikhail Bakunin
 
