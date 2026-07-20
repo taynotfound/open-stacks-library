@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/t-a-z-the-temporary-autonomous-zone-ontological-anarchy-poetic-terrorism.epub
+    hosted: true
 ---
 
 # T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism
