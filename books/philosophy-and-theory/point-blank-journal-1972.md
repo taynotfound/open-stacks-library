@@ -22,6 +22,11 @@ links:
   - url: "https://www.af-north.org/other%20pamphlets/othertexts.htm "
     text: "AF North"
 files: []
+files:
+  - name: "point-blank-journal-1972.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/point-blank-journal-1972.pdf"
+    hosted: true
 ---
 # Point-Blank! Journal (1972)
 
