@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: critical-self-theory.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/critical-self-theory.epub
+    hosted: true
 ---
 
 # Critical Self-Theory
