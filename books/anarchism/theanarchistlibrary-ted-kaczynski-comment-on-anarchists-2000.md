@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/ted-kaczynski-comment-on-anarchists-2000)
+5–26 5/7/00. I think most U.S. anarchists bunch of neurotics, incompetents, leftists. U.S. means United States. Anarchists worthless as tits on a rainbarrel. I can’t tell you how much they disgust me. I maintain contact with them only because know no better U.S. antitech groups. Some Brit anarchists maybe better. This open question. I keep my contempt for anarchists private as matter of policy. An asshole is John Z. <- Zerzan
