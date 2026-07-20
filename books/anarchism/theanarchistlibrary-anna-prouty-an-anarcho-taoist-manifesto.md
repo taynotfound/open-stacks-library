@@ -19,4 +19,62 @@ files:
     hosted: false
 ---
 
-This is my take on anarchism, Taoism, and emotional responsibility. It is applicable to yourself, to your relationships with others, to society, to nature. It is intended to be more a treatise on philosophy than a how-to guide to build an anarchist utopia, but there is a guide within it. That guide goes like this: I feel cold. We’ll come back to this later. Anarcho-Taoism: A Manifesto 1. Everything is, ultimately, a choice. Having a choice does not mean all options are desirable. 2. Desire is a tension between how things are and how things could be. 3. Everything already is as it could be. That is to say, it is as it is. If it could have been anything different in that moment, it would not have been what it was. 4. The only way out of a feeling is through it. Think of loving someone you don’t want to love. The harder you try not to be, the more in love you seem to find yourself. Trying not to feel something is like using a shovel to climb out of a hole. You only dig yourself deeper. It’s when you look at the shovel in your hands and choose to dig that you see where the hole goes. And often, it leads to the very surface you were trying to get to in the first place. But you will never find that surface if you do anything other than dig. By which I mean, by feeling as hard as you can that which you are afraid to feel. 5. The essence of anarchism is self-determination. This means that everyone else has that same self-determination, and you do not determine for them. Thus, the practice of anarchism is in trusting yourself and trusting others. In trusting other people, not to do what you want, but to do what they want, and that what you and they want will be in cooperation, even if it doesn’t look like it to you right away. That in simply being, in doing whatever it is that you do, in controlling nothing other than yourself, the world will become an anarchist utopia, because that’s what an anarchist utopia is. 6. What an economic or political policy does to you is none of my business. What it does to me is absolutely my business. What it does to you is absolutely your business. If its harm to you makes me outraged, then what it does to me is bring me outrage. That outrage is my business. What I do with that outrage is my business. The harm it does to you is your business, and yours to respond to if and as you see fit. 7. Emotional responsibility and anarchism are not different things. Like mind and body and spirit, like self and society, it’s all the same shit. 8. The very problem we’re trying to fix in one or the other is the drawing of the line between the two in the first place. It is not that you should never draw the line. It is not that you should do anything. It is realizing that the line is drawn, and choosing where to draw it. Everything is a choice. 9. There are ways to frame the space in which the choosing happens to allow more desirable options for all involved (e.g. maximizing freedom). Keep in mind, that “space” is nothing but yourself. You cannot force the maximization of someone else’s freedom. I’ll repeat that: You cannot force the maximization of someone else’s freedom. 10. You cannot force freedom. You can only allow it. In yourself. In others. If in your mind, it has to look any particular way, it is not true freedom. It is an expectation that limits the potential of the freedom to exist. 11. Freedom is a lack of force, an openness of all options, and free action emerges when it is not forced. You cannot force freedom. It just happens. It can only ever be allowed. 12. So what does it mean to allow? Think of the verb “consent.” I like it, because it feels active. I not only allow a thing to happen, I consent to it. I choose. “I consent” means I have chosen to allow. I am aware of my choice. I am aware of my freedom. I am allowing my freedom to manifest in allowing this to happen. 13. The choice to allow is the most paradoxical of actions. It is acting in nonacting. It is giving up the reins wholly unto yourself. I…
+This is my take on anarchism, Taoism, and emotional responsibility.
+
+It is applicable to yourself, to your relationships with others, to society, to nature. It is intended to be more a treatise on philosophy than a how-to guide to build an anarchist utopia, but there is a guide within it.
+
+That guide goes like this:
+
+I feel cold.
+
+We’ll come back to this later.
+
+Anarcho-Taoism: A Manifesto
+
+1. Everything is, ultimately, a choice. Having a choice does not mean all options are desirable.
+
+2. Desire is a tension between how things are and how things could be.
+
+3. Everything already is as it could be. That is to say, it is as it is. If it could have been anything different in that moment, it would not have been what it was.
+
+4. The only way out of a feeling is through it.
+
+Think of loving someone you don’t want to love. The harder you try not to be, the more in love you seem to find yourself. Trying not to feel something is like using a shovel to climb out of a hole. You only dig yourself deeper.
+
+It’s when you look at the shovel in your hands and choose to dig that you see where the hole goes. And often, it leads to the very surface you were trying to get to in the first place. But you will never find that surface if you do anything other than dig. By which I mean, by feeling as hard as you can that which you are afraid to feel.
+
+5. The essence of anarchism is self-determination. This means that everyone else has that same self-determination, and you do not determine for them.
+
+Thus, the practice of anarchism is in trusting yourself and trusting others. In trusting other people, not to do what you want, but to do what they want, and that what you and they want will be in cooperation, even if it doesn’t look like it to you right away.
+
+That in simply being, in doing whatever it is that you do, in controlling nothing other than yourself, the world will become an anarchist utopia, because that’s what an anarchist utopia is.
+
+6. What an economic or political policy does to you is none of my business. What it does to me is absolutely my business. What it does to you is absolutely your business.
+
+If its harm to you makes me outraged, then what it does to me is bring me outrage. That outrage is my business. What I do with that outrage is my business. The harm it does to you is your business, and yours to respond to if and as you see fit.
+
+7. Emotional responsibility and anarchism are not different things. Like mind and body and spirit, like self and society, it’s all the same shit.
+
+8. The very problem we’re trying to fix in one or the other is the drawing of the line between the two in the first place. It is not that you should never draw the line. It is not that you should do anything. It is realizing that the line is drawn, and choosing where to draw it.
+
+Everything is a choice.
+
+9. There are ways to frame the space in which the choosing happens to allow more desirable options for all involved (e.g. maximizing freedom). Keep in mind, that “space” is nothing but yourself. You cannot force the maximization of someone else’s freedom.
+
+I’ll repeat that: You cannot force the maximization of someone else’s freedom.
+
+10. You cannot force freedom. You can only allow it. In yourself. In others. If in your mind, it has to look any particular way, it is not true freedom. It is an expectation that limits the potential of the freedom to exist.
+
+11. Freedom is a lack of force, an openness of all options, and free action emerges when it is not forced.
+
+You cannot force freedom. It just happens. It can only ever be allowed.
+
+12. So what does it mean to allow? Think of the verb “consent.” I like it, because it feels active.
+
+I not only allow a thing to happen, I consent to it. I choose.
+
+“I consent” means I have chosen to allow.
+
+I am aware of my choice. I am aware of my freedom. I am allowing my freedom to manifest in allowing this to happen.
+
+13. The choice to allow is the most paradoxical of actions. It is acting in nonacting. It is giving up the …
