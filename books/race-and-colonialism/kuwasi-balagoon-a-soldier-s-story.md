@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: a-soldier-u2019s-story.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a-soldier-u2019s-story.epub
+    hosted: true
 ---
 
 # A Soldier’s Story
