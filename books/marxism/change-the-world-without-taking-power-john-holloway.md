@@ -25,6 +25,11 @@ links:
   - url: "https://eserver.org/bs/reviews/2002-12-3-04.19PM.html "
     text: "http://eserver.org/bs/reviews/2002-12-3-04.19PM.html"
 files: []
+files:
+  - name: "change-the-world-without-taking-power-john-holloway.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/change-the-world-without-taking-power-john-holloway.pdf"
+    hosted: true
 ---
 # Change the world without taking power - John Holloway
 
