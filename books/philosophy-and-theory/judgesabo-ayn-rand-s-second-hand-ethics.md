@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: ayn-rand-u2019s-second-hand-ethics.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/ayn-rand-u2019s-second-hand-ethics.epub
+    hosted: true
 ---
 
 # Ayn Rand’s Second-Hand Ethics
