@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/23958220d5d9b744.png"
 links: []
 files: []
+files:
+  - name: "october-79-guy-debord-and-the-internationale-situationniste.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/october-79-guy-debord-and-the-internationale-situationniste.pdf"
+    hosted: true
 ---
 # October #79: Guy Debord and the Internationale situationniste
 
