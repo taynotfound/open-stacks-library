@@ -19,4 +19,156 @@ files:
     hosted: false
 ---
 
-’Tis the terror of tempest. The rags of the sail Are flickering in ribbons within the fierce gale: From the stark night of vapours the dim rain is driven, And when lightning is loosed, like a deluge from heaven, She sees the black trunks of the water-spouts spin, And bend, as if heaven was raining in, Which they seem’d to sustain with their terrible mass As if ocean had sank from beneath them: they pass To their graves in the deep with an earthquake of sound, And the waves and the thunders made silent around Leave the wind to its echo. The vessel, now toss’d Through the low-trailing rack of the tempest, is lost ​In the skirts of the thunder-cloud: now down the sweep Of the wind-cloven wave to the chasm of the deep It sinks, and the walls of the watery vale Whose depths of dread calm are unmoved by the gale, Dim mirrors of ruin hang gleaming about; While the surf, like a chaos of stars, like a rout Of death-flames, like whirlpools of fire-flowing iron With splendour and terror the black ship environ, Or like sulphur-flakes hurl’d from a mine of pale fire In fountains spout o’er it. In many a spire The pyramid-billows with white points of brine In the cope of the lightning inconstantly shine, As piercing the sky from the floor of the sea. The great ship seems splitting! it cracks as a tree, While an earthquake is splintering its root, ere the blast Of the whirlwind that stripped it of branches has past. The intense thunder-balls which are raining from heaven Have shatter’d its mast, and it stands black and riven. The chinks suck destruction. The heavy dead hulk On the living sea rolls an inanimate bulk, Like a corpse on the clay which is hung’ring to fold Its corruption around it. Meanwhile, from the hold, One deck is burst up from the waters below, And it splits like the ice when the thaw-breezes blow ​O’er the lakes of the desart! Who sit on the other? Is that all the crew that lie burying each other, Like the dead in a breach, round the foremast? Are those Twin tygers, who burst, when the waters arose, In the agony of terror, their chains in the hold; (What now makes them tame, is what then made them bold;) Who crouch, side by side, and have driven, like a crank, The deep grip of their claws through the vibrating plank. Are these all? Nine weeks the tall vessel had lain On the windless expanse of the watery plain, Where the death-darting sun cast no shadow at noon, And there seem’d to be fire in the beams of the moon, Till a lead-colour’d fog gather’d up from the deep Whose breath was quick pestilence; then, the cold sleep Crept, like blight through the ears of a thick field of corn, O’er the populous vessel. And even and morn, With their hammocks for coffins the seamen aghast Like dead men the dead limbs of their comrades cast Down the deep, which closed on them above and around, And the sharks and the dog-fish their grave-clothes unbound, ​And were glutted like Jews with this manna rain’d down From God on their wilderness. One after one The mariners died; on the eve of this day, When the tempest was gathering in cloudy array, But seven remain’d. Six the thunder has smitten, And they lie black as mummies on which Time has written His scorn of the embalmer; the seventh, from the deck An oak-splinter pierced through his breast and his back, And hung out to the tempest, a wreck on the wreck. No more? At the helm sits a woman more fair Than heaven, when, unbinding its star-braided hair, It sinks with the sun on the earth and the sea. She clasps a bright child on her upgather’d knee, It laughs at the lightning, it mocks the mixed thunder Of the air and the sea, with desire and with wonder It is beckoning the tygers to rise and come near, It would play with those eyes where the radiance of fear Is outshining the meteors; its bosom beats high, The heart-fire of pleasure has kindled its eye; Whilst its mother’s is lustreless. “Smile not, my child, “But sleep deeply and sweetly, and so be beguiled “Of the pang that awaits us, whateve…
+’Tis the terror of tempest. The rags of the sail
+
+Are flickering in ribbons within the fierce gale:
+
+From the stark night of vapours the dim rain is driven,
+
+And when lightning is loosed, like a deluge from heaven,
+
+She sees the black trunks of the water-spouts spin,
+
+And bend, as if heaven was raining in,
+
+Which they seem’d to sustain with their terrible mass
+
+As if ocean had sank from beneath them: they pass
+
+To their graves in the deep with an earthquake of sound,
+
+And the waves and the thunders made silent around
+
+Leave the wind to its echo. The vessel, now toss’d
+
+Through the low-trailing rack of the tempest, is lost
+
+​In the skirts of the thunder-cloud: now down the sweep
+
+Of the wind-cloven wave to the chasm of the deep
+
+It sinks, and the walls of the watery vale
+
+Whose depths of dread calm are unmoved by the gale,
+
+Dim mirrors of ruin hang gleaming about;
+
+While the surf, like a chaos of stars, like a rout
+
+Of death-flames, like whirlpools of fire-flowing iron
+
+With splendour and terror the black ship environ,
+
+Or like sulphur-flakes hurl’d from a mine of pale fire
+
+In fountains spout o’er it. In many a spire
+
+The pyramid-billows with white points of brine
+
+In the cope of the lightning inconstantly shine,
+
+As piercing the sky from the floor of the sea.
+
+The great ship seems splitting! it cracks as a tree,
+
+While an earthquake is splintering its root, ere the blast
+
+Of the whirlwind that stripped it of branches has past.
+
+The intense thunder-balls which are raining from heaven
+
+Have shatter’d its mast, and it stands black and riven.
+
+The chinks suck destruction. The heavy dead hulk
+
+On the living sea rolls an inanimate bulk,
+
+Like a corpse on the clay which is hung’ring to fold
+
+Its corruption around it. Meanwhile, from the hold,
+
+One deck is burst up from the waters below,
+
+And it splits like the ice when the thaw-breezes blow
+
+​O’er the lakes of the desart! Who sit on the other?
+
+Is that all the crew that lie burying each other,
+
+Like the dead in a breach, round the foremast? Are those
+
+Twin tygers, who burst, when the waters arose,
+
+In the agony of terror, their chains in the hold;
+
+(What now makes them tame, is what then made them bold;)
+
+Who crouch, side by side, and have driven, like a crank,
+
+The deep grip of their claws through the vibrating plank.
+
+Are these all? Nine weeks the tall vessel had lain
+
+On the windless expanse of the watery plain,
+
+Where the death-darting sun cast no shadow at noon,
+
+And there seem’d to be fire in the beams of the moon,
+
+Till a lead-colour’d fog gather’d up from the deep
+
+Whose breath was quick pestilence; then, the cold sleep
+
+Crept, like blight through the ears of a thick field of corn,
+
+O’er the populous vessel. And even and morn,
+
+With their hammocks for coffins the seamen aghast
+
+Like dead men the dead limbs of their comrades cast
+
+Down the deep, which closed on them above and around,
+
+And the sharks and the dog-fish their grave-clothes unbound,
+
+​And were glutted like Jews with this manna rain’d down
+
+From God on their wilderness. One after one
+
+The mariners died; on the eve of this day,
+
+When the tempest was gathering in cloudy array,
+
+But seven remain’d. Six the thunder has smitten,
+
+And they lie black as mummies on which Time has written
+
+His scorn of the embalmer; the seventh, from the deck
+
+An oak-splinter pierced through his breast and his back,
+
+And hung out to the tempest, a wreck on the wreck.
+
+No more? At the helm sits a woman more fair
+
+Than heaven, when, unbinding its star-braided hair,
+
+It sinks with the sun on the earth and the sea.
+
+She clasps a bright child on her upgather’d knee,
+
+It laughs at the lightning, it mocks the mixed thunder
+
+Of the air and the sea, with desire and with wonder
+
+It is beckoning the tygers to rise and come near,
+
+It would play with those eyes where the radiance of fear
+
+Is outshining the meteors; its bosom beats high,
+
+The heart-fire of pleasure has kindled its eye;
+
+Whilst its mother’s is lustreless. “Smile not, my child,
+
+“But sleep…
