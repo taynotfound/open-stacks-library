@@ -120,6 +120,7 @@ jobs:
                   "language":   language,
                   "desc":       desc,
                   "cover":      cover,
+                  "body":       body if has_body else None,
                   "hasBody":    has_body,
                   "_filepath":  filepath,
               }
