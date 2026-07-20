@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-     Nota introduttiva alla seconda edizione      Introduzione alla prima edizione      I      II      III      IV      V      VI Suggerimenti per il lettore, nessuno. Un piccolo libro che mette il dito sulla piaga che tutti ci fa purulenti, senza misericordia, sul convincimento che tutti manteniamo di essere dalla parte della ragione, di avere ragione, di vivere la nostra quotidiana lotta con la vita sulla capacità logica di scegliere. Ebbene, non c’è questa capacità, non c’è mai stata in nessuno di noi. Andiamo avanti a braccio, navighiamo senza bussola. I migliori danno un’occhiata alle stelle e ne traggono presagi più che orientamenti. I panciuti e i satolli gridano allo scandalo e mostrano, con alterigia oltranzista, le tavole della legge, non quelle del roveto ardente ma quelle della pratica e dell’utile, del dare e del ricevere, insomma faccende da bottegai. E alzano la voce e strillano dalle cattedre e dai giornali, sporcano carta e disturbano le orecchie, ma solo per mettersi il cuore in pace e portare a casa lo stipendio. Nessuna logica in un mondo ormai asfissiato dalla melma. Almeno nessuna logica condivisibile sulla base di una qualsiasi acquisizione da difendere. Né proprietà da garantire – la morte se ne infischia del diritto di eredità – né possesso da tenere stretto – l’amore fugge via inorridito. Non ci sarà nessuna rivoluzione se non ci liberemo della logica. Che i miei maestri dormano in pace, e i sogni di organizzare il mondo nel migliore dei modi possibile dormano con loro. De profundis. Trieste, 31 gennaio 2012 Alfredo M. Bonanno “Se io non dico il vero – disse Climene a suo figlio Fetonte, parlando del sole – ricusi egli stesso di lasciarsi mai più vedere da me e questo giorno sia il mio ultimo giorno”. (Ovidio, Metamorfosi ) L’idea di una riflessione critica fuori del contesto immediato della vita, assemblata nell’astratto delle chiarificazioni, e da qui inserita perfettamente chiara in tutte le occorrenze pratiche come luce per l’azione, guida per il da fare, è ormai tramontata con tutte le sue postille. Se il mondo moderno è condizionato sempre di più dalla scienza e dal suo braccio armato, la tecnologia, occorre che l’analisi su queste realtà regolative sia condotta, urgentemente, dal di dentro della vita stessa, in quanto è quest’ultima che ne va di mezzo, è quest’ultima che sta per essere ridotta ai minimi termini, se non proprio avvilita del tutto e quindi uccisa. Le gare di eloquenza hanno fatto il loro tempo. L’evolversi della scienza, e quindi della tecnica, verso persi orizzonti sempre più coercitivi per quanto riguarda la libera pulsazione del respiro vitale che ognuno di noi sente dentro di sé, è un fatto ormai chiaro per tutti. Perfino coloro che di questo evolversi hanno fatto lo scopo e il lustro della propria esistenza di servi, e anche dei propri interessi di benestanti inclusi nell’esercizio del potere, ne hanno coscienza, trattandosi di fenomeni non più nascondibili, per quanto ovviabili, a breve scadenza, con accorgimenti palliativi e chiacchiere ideologiche. La nuova condizione senza ritorno in cui si è venuta a trovare la scienza è la condizione legnosa della nostra esistenza attuale, ma non della nostra vita. Quest’ultima pulsa ancora intatta nei nostri cuori, anche se corre il rischio di non venire più alla luce nella veste rabberciata e burattinesca dell’esistenza, schiacciata sotto un cumulo di protesi e artifici, di simboli e codici. Conservando intatta la ragione, insomma, come si dice, non perdendo la testa, possiamo guardarci attorno e cercare una via d’uscita. Solo che qui non è faccenda ragionevole. Mantenendo intatta la ragione, la nostra cosiddetta capacità critica, finiamo con l’essere in cattiva compagnia. Lo strumento con cui pensavamo di “leggere” e di capire il mondo ci ha tradito, o meglio sarebbe a dire che non ci ha mai servito per come appariva agli albori dei suoi successi esplorativi: un servo intelligente e devoto. La ragione ha dato un senso alla nostra es…
+Nota introduttiva alla seconda edizione
+
+Introduzione alla prima edizione
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+Suggerimenti per il lettore, nessuno.
+
+Un piccolo libro che mette il dito sulla piaga che tutti ci fa purulenti, senza misericordia, sul convincimento che tutti manteniamo di essere dalla parte della ragione, di avere ragione, di vivere la nostra quotidiana lotta con la vita sulla capacità logica di scegliere.
+
+Ebbene, non c’è questa capacità, non c’è mai stata in nessuno di noi. Andiamo avanti a braccio, navighiamo senza bussola. I migliori danno un’occhiata alle stelle e ne traggono presagi più che orientamenti. I panciuti e i satolli gridano allo scandalo e mostrano, con alterigia oltranzista, le tavole della legge, non quelle del roveto ardente ma quelle della pratica e dell’utile, del dare e del ricevere, insomma faccende da bottegai. E alzano la voce e strillano dalle cattedre e dai giornali, sporcano carta e disturbano le orecchie, ma solo per mettersi il cuore in pace e portare a casa lo stipendio.
+
+Nessuna logica in un mondo ormai asfissiato dalla melma.
+
+Almeno nessuna logica condivisibile sulla base di una qualsiasi acquisizione da difendere. Né proprietà da garantire – la morte se ne infischia del diritto di eredità – né possesso da tenere stretto – l’amore fugge via inorridito.
+
+Non ci sarà nessuna rivoluzione se non ci liberemo della logica.
+
+Che i miei maestri dormano in pace, e i sogni di organizzare il mondo nel migliore dei modi possibile dormano con loro.
+
+De profundis.
+
+Trieste, 31 gennaio 2012
+
+Alfredo M. Bonanno
+
+“Se io non dico il vero – disse Climene a suo figlio Fetonte, parlando del sole – ricusi egli stesso di lasciarsi mai più vedere da me e questo giorno sia il mio ultimo giorno”.
+
+(Ovidio, Metamorfosi)
+
+L’idea di una riflessione critica fuori del contesto immediato della vita, assemblata nell’astratto delle chiarificazioni, e da qui inserita perfettamente chiara in tutte le occorrenze pratiche come luce per l’azione, guida per il da fare, è ormai tramontata con tutte le sue postille. Se il mondo moderno è condizionato sempre di più dalla scienza e dal suo braccio armato, la tecnologia, occorre che l’analisi su queste realtà regolative sia condotta, urgentemente, dal di dentro della vita stessa, in quanto è quest’ultima che ne va di mezzo, è quest’ultima che sta per essere ridotta ai minimi termini, se non proprio avvilita del tutto e quindi uccisa. Le gare di eloquenza hanno fatto il loro tempo.
+
+L’evolversi della scienza, e quindi della tecnica, verso persi orizzonti sempre più coercitivi per quanto riguarda la libera pulsazione del respiro vitale che ognuno di noi sente dentro di sé, è un fatto ormai chiaro per tutti. Perfino coloro che di questo evolversi hanno fatto lo scopo e il lustro della propria esistenza di servi, e anche dei propri interessi di benestanti inclusi nell’esercizio del potere, ne hanno coscienza, trattandosi di fenomeni non più nascondibili, per quanto ovviabili, a breve scadenza, con accorgimenti palliativi e chiacchiere ideologiche.
+
+La nuova condizione senza ritorno in cui si è venuta a trovare la scienza è la condizione legnosa della nostra esistenza attuale, ma non della nostra vita. Quest’ultima pulsa ancora intatta nei nostri cuori, anche se corre il rischio di non venire più alla luce nella veste rabberciata e burattinesca dell’esistenza, schiacciata sotto un cumulo di protesi e artifici, di simboli e codici. Conservando intatta la ragione, insomma, come si dice, non perdendo la testa, possiamo guardarci attorno e cercare una via d’uscita. Solo che qui non è faccenda ragionevole. Mantenendo intatta la ragione, la nostra cosiddetta capacità critica, finiamo con l’essere in cattiva compagnia. Lo strumento con cui pensavamo di “leggere” e di capire il mondo ci ha tradito, o meglio sarebbe a dire che non ci ha mai servito per come appariva agli albori dei suoi successi esplorativi: un servo intelligente e devoto. La ragione ha dato un senso alla nostra esistenza, senso su c…
