@@ -20,12 +20,4 @@ files:
     hosted: true
 ---
 
-# Anarchism and Other Essays
-
-**Author:** Emma Goldman  
-**Source:** [Project Gutenberg](https://www.gutenberg.org/ebooks/2162)  
-
-## Downloads
-- [EPUB](https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-and-other-essays-goldman.epub)
-
-[Original source](https://www.gutenberg.org/ebooks/2162)
+For your e-reader or reading app — Kindle, Kobo, Apple Books, Calibre etc. There may be more files related to this item. Project Gutenberg eBooks are always free!
