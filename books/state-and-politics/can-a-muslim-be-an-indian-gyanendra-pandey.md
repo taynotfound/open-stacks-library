@@ -25,8 +25,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/9d2d03e2_muslim.pdf"
     hosted: true
 ---
-# Can a Muslim Be an Indian? - Gyanendra Pandey
 
-Can a Muslim Be an Indian? GYANENDRA PANDEY PDF Format
-
-[Read original on libcom.org](https://libcom.org/article/can-muslim-be-indian-gyanendra-pandey)
+Can a Muslim Be an Indian? GYANENDRA PANDEY PDF Format Printer-friendly version nationalism Subaltern India Islam religion Asia PDF Comments
