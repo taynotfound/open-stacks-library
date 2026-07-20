@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-gospel-in-brief.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-gospel-in-brief.epub
+    hosted: true
 ---
 
 # The Gospel in Brief
