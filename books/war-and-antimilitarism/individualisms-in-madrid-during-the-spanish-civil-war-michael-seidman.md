@@ -25,8 +25,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/8c7365a3_Individualism.pdf"
     hosted: true
 ---
-# Individualisms in Madrid during the Spanish Civil War - Michael Seidman
 
-Individualisms in Madrid during the Spanish Civil War Michael Seidman PDF Format (2.05MB)
-
-[Read original on libcom.org](https://libcom.org/article/individualisms-madrid-during-spanish-civil-war-michael-seidman)
+Individualisms in Madrid during the Spanish Civil War Michael Seidman PDF Format (2.05MB) Printer-friendly version Michael Seidman Spain 1930s Western Europe Madrid Spanish civil war PDF Comments
