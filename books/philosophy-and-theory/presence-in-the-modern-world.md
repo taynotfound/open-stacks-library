@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: presence-in-the-modern-world.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/presence-in-the-modern-world.epub
+    hosted: true
 ---
 
 # Presence in the Modern World
