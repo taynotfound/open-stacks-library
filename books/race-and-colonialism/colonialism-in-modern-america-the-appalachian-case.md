@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6ea7eba8408ee025.jpg"
 links: []
 files: []
+files:
+  - name: "colonialism-in-modern-america-the-appalachian-case.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/colonialism-in-modern-america-the-appalachian-case.pdf"
+    hosted: true
 ---
 # Colonialism in modern America: the Appalachian case
 
