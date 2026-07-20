@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/workers-solidarity-movement-37-illegally-underpaid)
+WAGES COUNCILS, which used to set minimum wages in badly paid industries like catering, in Northern Ireland & Britain are no more. As reported in the last edition of Workers Solidarity they were abolished by the Tories on February 7 th . Latest figures from the Low Pay Network show that, just before their abolition, over 37% of the workplaces visited by wages inspectors were illegally underpaying staff. However there were only 12 prosecutions (so much for Tory huffing and puffing about “the law must be obeyed”). In another survey one in five vacancies offered in job centres were below the minimum wages set by the wage councils
