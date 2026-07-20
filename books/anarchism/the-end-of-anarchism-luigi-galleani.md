@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/67935c0f217af52b.jpg"
 links: []
 files: []
+files:
+  - name: "the-end-of-anarchism-luigi-galleani.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-end-of-anarchism-luigi-galleani.pdf"
+    hosted: true
 ---
 # The end of anarchism? - Luigi Galleani
 
