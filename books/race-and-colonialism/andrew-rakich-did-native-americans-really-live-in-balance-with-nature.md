@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: did-native-americans-really-live-in-balance-with-nature.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/did-native-americans-really-live-in-balance-with-nature.epub
+    hosted: true
 ---
 
 # Did Native Americans Really Live in Balance with Nature?
