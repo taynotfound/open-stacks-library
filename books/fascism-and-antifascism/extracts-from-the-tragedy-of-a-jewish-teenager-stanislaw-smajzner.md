@@ -20,6 +20,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e5b4a22e688d19ea.jpg"
 links: []
 files: []
+files:
+  - name: "extracts-from-the-tragedy-of-a-jewish-teenager-stanislaw-sma.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/extracts-from-the-tragedy-of-a-jewish-teenager-stanislaw-sma.pdf"
+    hosted: true
 ---
 # Extracts from the Tragedy of a Jewish Teenager - Stanislaw Smajzner
 
