@@ -14,6 +14,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: and-we-will-always-be-ready-to-storm-the-heavens-again.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/and-we-will-always-be-ready-to-storm-the-heavens-again.epub
+    hosted: true
 ---
 
 # And we will always be ready to storm the heavens again
