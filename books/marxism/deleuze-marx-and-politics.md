@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/59c735aa053d14bf.jpg"
 links: []
 files: []
+files:
+  - name: "deleuze-marx-and-politics.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/deleuze-marx-and-politics.pdf"
+    hosted: true
 ---
 # Deleuze, Marx and Politics
 
