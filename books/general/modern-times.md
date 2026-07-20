@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/b380f2bed3fde7af.png"
 links: []
 files: []
+files:
+  - name: "modern-times.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/modern-times.pdf"
+    hosted: true
 ---
 # Modern times
 
