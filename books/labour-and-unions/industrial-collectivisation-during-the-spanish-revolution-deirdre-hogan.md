@@ -24,6 +24,11 @@ links:
   - url: "http://flag.blackened.net/revolt"
     text: "Revolt collection"
 files: []
+files:
+  - name: "industrial-collectivisation-during-the-spanish-revolution-de.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/industrial-collectivisation-during-the-spanish-revolution-de.pdf"
+    hosted: true
 ---
 # Industrial collectivisation during the Spanish revolution - Deirdre Hogan
 
