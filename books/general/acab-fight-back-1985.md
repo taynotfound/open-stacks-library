@@ -16,6 +16,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/e308a316c0fc45c9.png"
 links: []
 files: []
+files:
+  - name: "acab-fight-back-1985.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/acab-fight-back-1985.pdf"
+    hosted: true
 ---
 # ACAB Fight Back (1985)
 
