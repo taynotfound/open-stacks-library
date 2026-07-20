@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: cypriot-anarchist-ideology-in-the-post-partitioned-republic-of-cyprus-1985-to-19.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/cypriot-anarchist-ideology-in-the-post-partitioned-republic-of-cyprus-1985-to-19.epub
+    hosted: true
 ---
 
 # Cypriot Anarchist Ideology in the Post-Partitioned Republic of Cyprus (1985 to 1994)
