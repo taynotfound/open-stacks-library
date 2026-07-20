@@ -24,6 +24,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/cd7921fa3d4793b4.jpg"
 links: []
 files: []
+files:
+  - name: "the-end-of-music-punk-new-wave-reggae-a-critique-david-and-s.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-end-of-music-punk-new-wave-reggae-a-critique-david-and-s.pdf"
+    hosted: true
 ---
 # The End of Music: Punk, New Wave, Reggae, a critique - David and Stuart Wise
 
