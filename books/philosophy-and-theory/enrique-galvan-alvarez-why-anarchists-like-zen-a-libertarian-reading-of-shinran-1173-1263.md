@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: why-anarchists-like-zen.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/why-anarchists-like-zen.epub
+    hosted: true
 ---
 
 # Why Anarchists Like Zen?
