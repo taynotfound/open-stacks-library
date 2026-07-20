@@ -19,10 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on pt.anarchistlibraries.net](https://pt.anarchistlibraries.net/library/anonimo-qual-e-a-diferenca-entre-anarquistas-e-outros-homens)
-
-De fato, faça um registro e faça uma pesquisa interessante: consulte todos ao seu redor sobre as reformas que devem ser realizadas e você descobrirá que todos são partidários da supressão de uma ou várias leis.
-
-Quando você reunir todas essas opiniões, some as supressões de leis solicitadas por cada pessoa e não restará nada a ser feito além de queimar o código penal.
-
-É isso que os anarquistas exigem. Eles são a soma das aspirações de todos, a conclusão do volume de reformas e, ao realizar esta pesquisa, você terá escrito um livro anarquista.
+Que diferença há entre anarquistas e outros homens? Simplesmente não há! De fato, faça um registro e faça uma pesquisa interessante: consulte todos ao seu redor sobre as reformas que devem ser realizadas e você descobrirá que todos são partidários da supressão de uma ou várias leis. Quando você reunir todas essas opiniões, some as supressões de leis solicitadas por cada pessoa e não restará nada a ser feito além de queimar o código penal. É isso que os anarquistas exigem. Eles são a soma das aspirações de todos, a conclusão do volume de reformas e, ao realizar esta pesquisa, você terá escrito um livro anarquista.
