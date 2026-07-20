@@ -21,7 +21,14 @@ files:
   - name: "Seventeen Contradictions and th - Harvey, David.mobi"
     type: "MOBI"
     url: "https://files.libcom.org/files/Seventeen Contradictions and th - Harvey, David.mobi"
-    hosted: false
+    hosted: false  - name: "seventeen-contradictions-and-end-capitalism-david-harvey.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/seventeen-contradictions-and-end-capitalism-david-harvey.epub"
+    hosted: true
+  - name: "seventeen-contradictions-and-end-capitalism-david-harvey.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/seventeen-contradictions-and-end-capitalism-david-harvey.epub"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/seventeen-contradictions-and-end-capitalism-david-harvey)
