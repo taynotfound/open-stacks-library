@@ -19,4 +19,80 @@ files:
     hosted: false
 ---
 
-       Part I: Subservience & the Khaleejis.        Part II: Statism & Capitalism in the Gulf States.          Consent & Exploitation under Capitalism –          Capitalism is out of touch with consent –          Patriotism within a Sheikhdom –          Bahrain: A Summary –          Appeal to Human Nature –          Alternatives (Workers’ ownership over production) –          My personal thoughts on Democratic Centralism —          The Silver Lining –        Part III: Women in the Gulf States.          Sexuality & control –        Part IV: The religion of Islam.          The Islamist mindset:          Challenging the Quran’s legitimacy –        PART V: There are no unique “Prophecies” in the Quran or Hadith. The Arabian Peninsula has been nomadic/Bedouin for most of its history. Resources were scarce, and tribes who accumulated fertile lands had overwhelming power over other families. The harsh reality of the region meant that other tribes didn’t have negotiation powers, but only the option of complete submission (to more powerful families) in order to secure their survival. For the next hundreds of years, this leads to a culture of dominance by man over man, which continues to be apparent both in action and rhetoric. Such as “Hand-kissing” in action, and “سمعا و طاعه” (“I will listen & obey”) in rhetoric, both which still live on today. Scarcity also meant that tribal leaders felt compelled to defend their resources with strict authoritarianism. Seemingly innocent aspects of our culture, such as واسطه (direct connections to powerful figures) are in fact a byproduct of both of these components. It’s a system of family-owned hierarchies, with generous advantages for the most obedient underdogs. Due to the combination of scarcity and obedience in such cultures, other features would be the lack of “objective, research-based” criticism as a concept. All criticism is perceived as a direct attack (By someone loyal and obedient to another tribe), to which khaleejis typically responded to with “Which tribe (present-day: country, sect) are you from?” The outcome of this authoritarianism/obedience culture didn’t only create one of the most authoritarian and repressive regimes on earth, but one of the most obedient masses as well. That said, there are aspects that are unique to Arab Gulf states (Particularly KSA) and other authoritarian regimes, one which its own citizens overlook. It has been best described in “Cults inside out” by Rick Alan Ross. That is an apolitical book. It makes no mention of “Gulf States”. What exists in authoritarian regimes today is comparable to cults in other parts of the world. “Absolute authoritarianism without meaningful accountability” “No tolerance for questions or critical inquiry” “No meaningful financial disclosure regarding budget, expenses such as an independently audited financial statement.” “There is no legitimate reason to leave, former followers are always wrong in leaving, negative or even evil.” That is a cold reminder of Saudi reaction towards Rahaf and other women’s escape from KSA. “The group/leader is always right. The group/leader is the exclusive means of knowing “truth” or receiving validation, no other process of discovery is really acceptable or credible” A cold reminder of the reaction of loyalists when approached with information backed by credible sources. For these reasons, it’s nearly impossible to get many loyalists to think critically. It’s a journey they must undertake on their own. “الله، الملك، الوطن” (“God. King. Nation”) is the slogan of the Arab world, and the question is not whether to reject authoritarianism, but in whom to obey instead. Capitalism is a non-laboring method to extract value from those who put in the labor. It is conducted in the form of tax, rent, and interest. In short; It is a Triangle Model that is set to accumulate wealth to the top (The central planners) by the labor and time of the workers at the bottom (The workers). Land ownership is the most bla…
+Part I:
+
+Subservience & the Khaleejis.
+
+Part II:
+
+Statism & Capitalism in the Gulf States.
+
+Consent & Exploitation under Capitalism –
+
+Capitalism is out of touch with consent –
+
+Patriotism within a Sheikhdom –
+
+Bahrain: A Summary –
+
+Appeal to Human Nature –
+
+Alternatives (Workers’ ownership over production) –
+
+My personal thoughts on Democratic Centralism —
+
+The Silver Lining –
+
+Part III:
+
+Women in the Gulf States.
+
+Sexuality & control –
+
+Part IV:
+
+The religion of Islam.
+
+The Islamist mindset:
+
+Challenging the Quran’s legitimacy –
+
+PART V:
+
+There are no unique “Prophecies” in the Quran or Hadith.
+
+The Arabian Peninsula has been nomadic/Bedouin for most of its history. Resources were scarce, and tribes who accumulated fertile lands had overwhelming power over other families.
+
+The harsh reality of the region meant that other tribes didn’t have negotiation powers, but only the option of complete submission (to more powerful families) in order to secure their survival. For the next hundreds of years, this leads to a culture of dominance by man over man, which continues to be apparent both in action and rhetoric. Such as “Hand-kissing” in action, and “سمعا و طاعه” (“I will listen & obey”) in rhetoric, both which still live on today.
+
+Scarcity also meant that tribal leaders felt compelled to defend their resources with strict authoritarianism. Seemingly innocent aspects of our culture, such as واسطه (direct connections to powerful figures) are in fact a byproduct of both of these components. It’s a system of family-owned hierarchies, with generous advantages for the most obedient underdogs.
+
+Due to the combination of scarcity and obedience in such cultures, other features would be the lack of “objective, research-based” criticism as a concept. All criticism is perceived as a direct attack (By someone loyal and obedient to another tribe), to which khaleejis typically responded to with “Which tribe (present-day: country, sect) are you from?”
+
+The outcome of this authoritarianism/obedience culture didn’t only create one of the most authoritarian and repressive regimes on earth, but one of the most obedient masses as well.
+
+That said, there are aspects that are unique to Arab Gulf states (Particularly KSA) and other authoritarian regimes, one which its own citizens overlook.
+
+It has been best described in “Cults inside out” by Rick Alan Ross.
+
+That is an apolitical book. It makes no mention of “Gulf States”. What exists in authoritarian regimes today is comparable to cults in other parts of the world.
+
+“Absolute authoritarianism without meaningful accountability”
+
+“No tolerance for questions or critical inquiry”
+
+“No meaningful financial disclosure regarding budget, expenses such as an independently audited financial statement.”
+
+“There is no legitimate reason to leave, former followers are always wrong in leaving, negative or even evil.”
+
+That is a cold reminder of Saudi reaction towards Rahaf and other women’s escape from KSA.
+
+“The group/leader is always right. The group/leader is the exclusive means of knowing “truth” or receiving validation, no other process of discovery is really acceptable or credible”
+
+A cold reminder of the reaction of loyalists when approached with information backed by credible sources.
+
+For these reasons, it’s nearly impossible to get many loyalists to think critically. It’s a journey they must undertake on their own. “الله، الملك، الوطن” (“God. King. Nation”) is the slogan of the Arab world, and the question is not whether to reject authoritarianism, but in whom to obey instead.
+
+Capitalism is a non-laboring method to extract value from those who put in the labor. It is conducted in the form of tax, rent, and interest. In short; It is a Triangle Model that is set to accumulate wealth to the top (The central planners) by the labor and time of the workers at the bottom (The workers).
+
+Land ownership is the most blatant case of Capitalism’s functions. A landlord has ownership over land and its natural resource…
