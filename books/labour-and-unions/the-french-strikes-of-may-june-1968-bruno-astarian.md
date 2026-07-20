@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/6279431dbd7c6b29.jpg"
 links: []
 files: []
+files:
+  - name: "the-french-strikes-of-may-june-1968-bruno-astarian.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-french-strikes-of-may-june-1968-bruno-astarian.pdf"
+    hosted: true
 ---
 # The French strikes of May-June 1968 - Bruno Astarian
 
