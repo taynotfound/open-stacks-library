@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-cynics-and-stoics.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-cynics-and-stoics.epub
+    hosted: true
 ---
 
 # The Cynics and Stoics
