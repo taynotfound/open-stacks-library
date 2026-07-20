@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: twilight-of-the-idols.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/twilight-of-the-idols.epub
+    hosted: true
 ---
 
 # Twilight of the Idols
