@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchist-studies-volume-16-issue-2.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchist-studies-volume-16-issue-2.epub
+    hosted: true
 ---
 
 # Anarchist Studies, Volume 16, Issue 2
