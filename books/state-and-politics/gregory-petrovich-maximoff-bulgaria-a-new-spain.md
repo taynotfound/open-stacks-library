@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: bulgaria-a-new-spain.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bulgaria-a-new-spain.epub
+    hosted: true
 ---
 
 # Bulgaria: A New Spain
