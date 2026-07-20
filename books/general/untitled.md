@@ -14,6 +14,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/84bffa5b332563b2.jpg"
 links: []
 files: []
+files:
+  - name: ".pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/.pdf"
+    hosted: true
 ---
 # تئوری بحران مارکس -پل ماتيک
 
