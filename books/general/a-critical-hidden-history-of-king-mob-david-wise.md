@@ -33,6 +33,11 @@ links:
   - url: "https://www.b-f-t-k.info/pdfs/BFTK_1_FragmentsofaConversationwithRonHunt+PlayTime.pdf "
     text: "here"
 files: []
+files:
+  - name: "a-critical-hidden-history-of-king-mob-david-wise.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a-critical-hidden-history-of-king-mob-david-wise.pdf"
+    hosted: true
 ---
 # A Critical Hidden History of King Mob - David Wise
 
