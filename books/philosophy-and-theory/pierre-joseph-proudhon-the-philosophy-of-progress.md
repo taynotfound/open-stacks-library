@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-philosophy-of-progress.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-philosophy-of-progress.epub
+    hosted: true
 ---
 
 # The Philosophy of Progress
