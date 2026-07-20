@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: max-stirner-u2019s-dialectical-egoism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/max-stirner-u2019s-dialectical-egoism.epub
+    hosted: true
 ---
 
 # Max Stirner’s Dialectical Egoism
