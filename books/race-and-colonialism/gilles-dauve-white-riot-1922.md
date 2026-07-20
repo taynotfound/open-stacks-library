@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: white-riot-1922.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/white-riot-1922.epub
+    hosted: true
 ---
 
 # White Riot, 1922
