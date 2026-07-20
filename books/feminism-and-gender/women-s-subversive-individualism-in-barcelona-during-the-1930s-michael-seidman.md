@@ -24,6 +24,11 @@ links:
   - url: "https://misterscruffles.wordpress.com/2013/04/06/part-1-those-of-barcelona-by-h-e-kaminski/ "
     text: "H. E. Kaminsky's testimony"
 files: []
+files:
+  - name: "women-s-subversive-individualism-in-barcelona-during-the-193.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/women-s-subversive-individualism-in-barcelona-during-the-193.pdf"
+    hosted: true
 ---
 # Women's subversive individualism in Barcelona during the 1930s - Michael Seidman
 
