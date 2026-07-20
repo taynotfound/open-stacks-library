@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: bakunin-on-anarchy.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bakunin-on-anarchy.epub
+    hosted: true
 ---
 
 # Bakunin on Anarchy
