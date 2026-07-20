@@ -19,4 +19,4 @@ files:
     hosted: false
 ---
 
-[Read on theanarchistlibrary.org](https://theanarchistlibrary.org/library/walter-everette-hawkins-credo)
+I am an Iconoclast. I break the limbs of idols And smash the traditions of men. I am an Anarchist. I believe in war and destruction Not in the killing of men, But the killing of creed and custom. I am an Agnostic. I accept nothing without questioning. It is my inherent right and duty To ask the reason why. To accept without a reason Is to debase one’s humanity And destroy the fundamental process In the ascertainment of Truth. I believe in Justice and Freedom. To me Liberty is priestly and kingly; Freedom is my Bride, Liberty my Angel of Light, Justice my God. I oppose all laws of state or country, All creeds of church and social orders, All conventionalities of society and system Which cross the path of the light of Freedom Or obstruct the reign of Right.
