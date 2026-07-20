@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/724c006fa5fc1b2f.jpg"
 links: []
 files: []
+files:
+  - name: "the-peasant-war-in-germany-friedrich-engels.epub"
+    type: "EPUB"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-peasant-war-in-germany-friedrich-engels.epub"
+    hosted: true
 ---
 # The Peasant War in Germany - Friedrich Engels
 
