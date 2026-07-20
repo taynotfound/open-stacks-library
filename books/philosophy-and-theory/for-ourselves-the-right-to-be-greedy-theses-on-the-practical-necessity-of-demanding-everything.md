@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-right-to-be-greedy.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-right-to-be-greedy.epub
+    hosted: true
 ---
 
 # The Right To Be Greedy
