@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: let-u2019s-destroy-work-let-u2019s-destroy-the-economy.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/let-u2019s-destroy-work-let-u2019s-destroy-the-economy.epub
+    hosted: true
 ---
 
 # Let’s Destroy Work, Let’s Destroy the Economy
