@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: christianity-and-patriotism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/christianity-and-patriotism.epub
+    hosted: true
 ---
 
 # Christianity and Patriotism
