@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-       What about human nature? Don’t we need laws and police and other authoritarian institutions to protect us from people with ill intent?        So what would you do about people who only care about themselves, who are willing to do anything to others for their own benefit?        If there were no government, what would you do if a gang were terrorizing your community?        But in spaces where government has broken down, like Somalia or Camden, New Jersey, we often see incredible violence.        What about the tragedy of the commons?        Isn’t equality impossible, except equality before the law?        But if we overthrow the government without offering something to take its place, what’s to stop something really nasty from filling the power vacuum?        A society without government might work on a small scale, but we live in a globalized world with a population of billions.        But why call yourself an anarchist? Doesn’t that just alienate people?        It’s all right to protest peacefully, as long as you don’t do anything violent.        Do you really think you can make a difference?        But isn’t this utopian? Isn’t it better to be practical? If human beings are not good enough to do without authority, why should they be trusted with it? Or, if human nature is changeable, why should we seek to make people obedient rather than responsible, servile rather than independent, craven rather than courageous? Or, if the idea is that some people will always need to be ruled, how can we be sure that it will be the right ones ruling, since the best people are the most hesitant to hold power and the worst people are the most eager for it? The existence of government and other hierarchies does not protect us; it enables those of ill intent to do more damage than they could otherwise. The question itself is ahistorical: hierarchies were not invented by egalitarian societies seeking to protect themselves against evildoers. Rather, hierarchies are the result of evildoers seizing power and formalizing it. (Where did you think kings came from?) Any generalization we could make about “human nature” in the resulting conditions is sure to be skewed. What do we do with such people today? We offer them jobs as police, executives, politicians. We reward the bribable, the greedy, and the self-serving with positions of power and responsibility. Take away the rewards for such behavior, and the few who persist in it will pose considerably less harm. Some people insist that they need a gang to be safe from gangs. That’s the logic of the protection racket. In fact, no one will be safe until we are able to defend ourselves against gangs without forming them ourselves. What we need instead are networks of mutual aid and self-defense that do not concentrate power, but disperse it. The state is not the only hierarchical force. When it collapses, all the other hierarchies that developed under its protection erupt into conflict, along with all the hierarchical groups that developed in the conditions of competition and artificial scarcity that it imposed. Without the state, you can still have sexism, racial privilege, local warlords. And if there’s anything worse than being ruled by a single government, it’s when multiple authoritarian organizations are contending to dominate you. Anarchists oppose all hierarchies, not just the state. Where statists seek to suppress conflict by imposing a monopoly on violence, anarchists seek to resolve conflict by undoing all monopolies in order that a horizontal balance of power can emerge. The problem in the world’s warzones is not too much anarchy, but too little. Supposedly, the tragedy of the commons is that when things are shared, selfish people destroy them or take them for themselves. That certainly describes the behavior of colonizers and corporations! The question for everyone else is not how to do away with commons, but how to defend them. Privatization does not protect against the tragedy of los…
+What about human nature? Don’t we need laws and police and other authoritarian institutions to protect us from people with ill intent?
+
+So what would you do about people who only care about themselves, who are willing to do anything to others for their own benefit?
+
+If there were no government, what would you do if a gang were terrorizing your community?
+
+But in spaces where government has broken down, like Somalia or Camden, New Jersey, we often see incredible violence.
+
+What about the tragedy of the commons?
+
+Isn’t equality impossible, except equality before the law?
+
+But if we overthrow the government without offering something to take its place, what’s to stop something really nasty from filling the power vacuum?
+
+A society without government might work on a small scale, but we live in a globalized world with a population of billions.
+
+But why call yourself an anarchist? Doesn’t that just alienate people?
+
+It’s all right to protest peacefully, as long as you don’t do anything violent.
+
+Do you really think you can make a difference?
+
+But isn’t this utopian? Isn’t it better to be practical?
+
+If human beings are not good enough to do without authority, why should they be trusted with it?
+
+Or, if human nature is changeable, why should we seek to make people obedient rather than responsible, servile rather than independent, craven rather than courageous?
+
+Or, if the idea is that some people will always need to be ruled, how can we be sure that it will be the right ones ruling, since the best people are the most hesitant to hold power and the worst people are the most eager for it?
+
+The existence of government and other hierarchies does not protect us; it enables those of ill intent to do more damage than they could otherwise. The question itself is ahistorical: hierarchies were not invented by egalitarian societies seeking to protect themselves against evildoers. Rather, hierarchies are the result of evildoers seizing power and formalizing it. (Where did you think kings came from?) Any generalization we could make about “human nature” in the resulting conditions is sure to be skewed.
+
+What do we do with such people today? We offer them jobs as police, executives, politicians. We reward the bribable, the greedy, and the self-serving with positions of power and responsibility. Take away the rewards for such behavior, and the few who persist in it will pose considerably less harm.
+
+Some people insist that they need a gang to be safe from gangs. That’s the logic of the protection racket. In fact, no one will be safe until we are able to defend ourselves against gangs without forming them ourselves. What we need instead are networks of mutual aid and self-defense that do not concentrate power, but disperse it.
+
+The state is not the only hierarchical force. When it collapses, all the other hierarchies that developed under its protection erupt into conflict, along with all the hierarchical groups that developed in the conditions of competition and artificial scarcity that it imposed. Without the state, you can still have sexism, racial privilege, local warlords. And if there’s anything worse than being ruled by a single government, it’s when multiple authoritarian organizations are contending to dominate you.
+
+Anarchists oppose all hierarchies, not just the state. Where statists seek to suppress conflict by imposing a monopoly on violence, anarchists seek to resolve conflict by undoing all monopolies in order that a horizontal balance of power can emerge. The problem in the world’s warzones is not too much anarchy, but too little.
+
+Supposedly, the tragedy of the commons is that when things are shared, selfish people destroy them or take them for themselves. That certainly describes the behavior of colonizers and corporations! The question for everyone else is not how to do away with commons, but how to defend them. Privatization does not protect against the tragedy of losing the things we share—it imposes it. The solution is not more …

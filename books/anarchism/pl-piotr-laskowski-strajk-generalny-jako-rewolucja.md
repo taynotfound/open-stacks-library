@@ -19,4 +19,55 @@ files:
     hosted: false
 ---
 
-       Anarchizm i marksizm: mapa pojęć        „Wiecznie ruchome, zmienne morze zjawisk”        Masa: między „pstrą mieszaniną” a klasową jednością        Laclau, Mouffe: Klasa jako znaczące        Operaizm: kolektywny robotnik i odmowa pracy        Powrót klasycznego anarchizmu: solidarność bez podstaw        Sorel: cud powszechnej odmowy        Badiou: pustka i wydarzenie        Agamben: klēsis Abstrakt : Analizy strajku powszechnego, podejmowane po roku 1905 przez Różę Luksemburg i Georgesa Sorela, przyniosły zatarcie dotąd wyraźnych granic oddzielających klasyczny anarchizm od ortodoksyjnego marksizmu. Przedstawiona przez nich wizja spontanicznego rewolucyjnego ruchu mas napędzała działania „nowej lewicy” lat sześćdziesiątych, stając się zarazem punktem wyjścia dla refleksji nad pojęciem „klasy”, „świadomości”, jak również nad zagadnieniem rewolucyjnej organizacji politycznej.W latach osiemdziesiątych ku dziedzictwu Luksemburg i Sorela zwrócili się Chantal Mouffe i Ernesto Laclau, próbujący zmierzyć się z głębokim kryzysem lewicy. Celem tego tekstu jest ponowna lektura propozycji Luksemburg i Sorela oraz niektórych ich interpretacji, w kontekście trzech strategii rewolucyjnych formułowanych współcześnie – praktyki ruchu alterglobalistycznego i zapatystowskiego, uniwersalizmu Alaina Badiou, wreszcie propozycji Giorgio Agambena. Piotr Laskowski (ur. 1976) jest egiptologiem, historykiem idei, nauczycielem. Pracuje na Uniwersytecie Jagiellońskim w Zakładzie Filozofii i Bioetyki Collegium Medicum oraz w Wielokulturowym Liceum Humanistycznym im. Jacka Kuronia w Warszawie. Zajmuje się filozofią polityczną XIX i XX wieku, a także historią i praktyką wolnościowej pedagogiki. Opublikował Szkice z dziejów anarchizmu (Warszawa 2006, 2007) oraz Maszyny wojenne: Georges Sorel i strategie radykalnej filozofii politycznej (Warszawa 2011). Zagadnienie strajku powszechnego dwukrotnie stawało w centrum debat prowadzonych na lewicy. Po raz pierwszy – u progu dwudziestego stulecia, wraz z narodzinami rewolucyjnego syndykalizmu na Zachodzie i wybuchem pierwszej rewolucji w Rosji. Zainteresowanie strajkiem powszechnym wybuchło około roku 1906, przygasło wraz z klęską koncepcji strajku przeciwko wojnie w roku 1914, by raz jeszcze błysnąć w latach 1918-1919. Swego rodzaju epitafium – nie tylko pożegnaniem, lecz także próbą ocalenia z popiołów swoiście przekształconych idei – jest opublikowany w roku 1921 Przyczynek do krytyki przemocy Waltera Benjamina. Po raz drugi idea strajku powszechnego pojawia się w kontekście rewolucji roku 1968. Żywa w latach siedemdziesiątych, przede wszystkim we Włoszech, obumrze około roku 1980, wraz z klęską strajku w zakładach Fiata w Turynie. Tym razem za post scriptum poddające jeszcze raz refleksji nie samo pojęcie strajku, lecz zespół pojęć z nim związanych, uznać należy prace Ernesto Laclaua (napisaną wspólnie z Chantal Mouffe Hegemonię i socjalistyczną strategię i późniejsze teksty zebrane w Emancypacjach). Strajk generalny jako strategia, czy raczej forma rewolucyjna, zajął w refleksji lewicowej, w ogromnej mierze za sprawą pism Róży Luksemburg, miejsce szczególne – stając się punktem, w którym rozbiciu uległy dwa wcześniej stabilne klastry konstytuujące dwa wielkie nurty lewicy: anarchizm i marksizm. Stąd właśnie myśl Luksemburg stanie się po roku 1968 istotnym źródłem inspiracji dla „nowej lewicy” proweniencji marksistowskiej (szczególnie, choć nie tylko, włoskiej), a zarazem punktem odniesienia dla (przede wszystkim francuskiego) anarchizmu, poszukującego możliwości dialogu z antyautorytarnym marksizmem. W swej klasycznej formie anarchizm dawałby się ująć w klaster: partykularne (fragmentaryczne) – acefaliczne – spontaniczne. Opozycyjny klaster marksistowski przyjmowałby kształt: uniwersalne (całościowe) – centralistyczne – organizowane. Ujmując rzecz inaczej, anarchizm akcentując niemożność reprezentacji, deklarował się po stronie ustanawiającego wielość nominalizmu i empiryzmu. Afirmując wyjątek, eksces, h…
+Anarchizm i marksizm: mapa pojęć
+
+„Wiecznie ruchome, zmienne morze zjawisk”
+
+Masa: między „pstrą mieszaniną” a klasową jednością
+
+Laclau, Mouffe: Klasa jako znaczące
+
+Operaizm: kolektywny robotnik i odmowa pracy
+
+Powrót klasycznego anarchizmu: solidarność bez podstaw
+
+Sorel: cud powszechnej odmowy
+
+Badiou: pustka i wydarzenie
+
+Agamben: klēsis
+
+Abstrakt: Analizy strajku powszechnego, podejmowane po roku 1905 przez Różę Luksemburg i Georgesa Sorela, przyniosły zatarcie dotąd wyraźnych granic oddzielających klasyczny anarchizm od ortodoksyjnego marksizmu. Przedstawiona przez nich wizja spontanicznego rewolucyjnego ruchu mas napędzała działania „nowej lewicy” lat sześćdziesiątych, stając się zarazem punktem wyjścia dla refleksji nad pojęciem „klasy”, „świadomości”, jak również nad zagadnieniem rewolucyjnej organizacji politycznej.W latach osiemdziesiątych ku dziedzictwu Luksemburg i Sorela zwrócili się Chantal Mouffe i Ernesto Laclau, próbujący zmierzyć się z głębokim kryzysem lewicy. Celem tego tekstu jest ponowna lektura propozycji Luksemburg i Sorela oraz niektórych ich interpretacji, w kontekście trzech strategii rewolucyjnych formułowanych współcześnie – praktyki ruchu alterglobalistycznego i zapatystowskiego, uniwersalizmu Alaina Badiou, wreszcie propozycji Giorgio Agambena.
+
+Piotr Laskowski (ur. 1976) jest egiptologiem, historykiem idei, nauczycielem. Pracuje na Uniwersytecie Jagiellońskim w Zakładzie Filozofii
+i Bioetyki Collegium Medicum oraz w Wielokulturowym Liceum Humanistycznym im. Jacka Kuronia w Warszawie. Zajmuje się filozofią polityczną XIX i XX wieku, a także historią i praktyką wolnościowej pedagogiki. Opublikował Szkice z dziejów anarchizmu (Warszawa 2006, 2007)
+oraz Maszyny wojenne: Georges Sorel i strategie radykalnej filozofii politycznej (Warszawa 2011).
+
+Zagadnienie strajku powszechnego dwukrotnie stawało w centrum debat
+prowadzonych na lewicy. Po raz pierwszy – u progu dwudziestego stulecia, wraz z narodzinami rewolucyjnego syndykalizmu na Zachodzie
+i wybuchem pierwszej rewolucji w Rosji. Zainteresowanie strajkiem
+powszechnym wybuchło około roku 1906, przygasło wraz z klęską koncepcji strajku przeciwko wojnie w roku 1914, by raz jeszcze błysnąć
+w latach 1918-1919. Swego rodzaju epitafium – nie tylko pożegnaniem,
+lecz także próbą ocalenia z popiołów swoiście przekształconych idei – jest
+opublikowany w roku 1921 Przyczynek do krytyki przemocy Waltera
+Benjamina.
+
+Po raz drugi idea strajku powszechnego pojawia się w kontekście
+rewolucji roku 1968. Żywa w latach siedemdziesiątych, przede wszystkim
+we Włoszech, obumrze około roku 1980, wraz z klęską strajku w zakładach Fiata w Turynie. Tym razem za post scriptum poddające jeszcze raz
+refleksji nie samo pojęcie strajku, lecz zespół pojęć z nim związanych,
+uznać należy prace Ernesto Laclaua (napisaną wspólnie z Chantal Mouffe
+Hegemonię i socjalistyczną strategię i późniejsze teksty zebrane w Emancypacjach).
+
+Strajk generalny jako strategia, czy raczej forma rewolucyjna, zajął
+w refleksji lewicowej, w ogromnej mierze za sprawą pism Róży Luksemburg, miejsce szczególne – stając się punktem, w którym rozbiciu uległy
+dwa wcześniej stabilne klastry konstytuujące dwa wielkie nurty lewicy:
+anarchizm i marksizm. Stąd właśnie myśl Luksemburg stanie się po roku
+1968 istotnym źródłem inspiracji dla „nowej lewicy” proweniencji marksistowskiej (szczególnie, choć nie tylko, włoskiej), a zarazem punktem
+odniesienia dla (przede wszystkim francuskiego) anarchizmu, poszukującego możliwości dialogu z antyautorytarnym marksizmem.
+
+W swej klasycznej formie anarchizm dawałby się ująć w klaster: partykularne (fragmentaryczne) – acefaliczne – spontaniczne. Opozycyjny
+klaster marksistowski przyjmowałby kształt: uniwersalne (całościowe)
+– centralistyczne – organizowane. Ujmując rzecz inaczej, anarchizm
+akcentując niemożność reprezentacji, deklarował się po stronie ustanawiającego wielość nominalizmu i empiryzmu. Afirmując wyjątek, eksces,
+hybrydę, występował przeciw jakiejkolwiek całościuj…

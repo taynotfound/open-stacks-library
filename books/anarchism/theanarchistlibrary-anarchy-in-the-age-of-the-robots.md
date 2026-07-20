@@ -19,4 +19,154 @@ files:
     hosted: false
 ---
 
-       Introduction: The People’s Self-Defense      1. How the world works. Global division of labor        1.1 Mining, commodity-based countries        1.2 Production, manufacturing countries        1.3 Metropole        1.4 Consumer society, irrational distribution of goods        1.5 World dumps        1.6 Migration, migrant supplying countries        1.7 Chauvinism, competition between second-rate countries        1.8 Fascism and revanchism, the struggle for increasing status in the world system        1.9 Social democracy, a compromise between Western society and the state        1.10 Anti-capitalist projects      2. Capitalism and the state        2.1 Concentration of wealth, global inequality as an inevitable consequence of capitalism        2.2 State – a hierarchical organization for the redistribution of resources and subordination of society        2.3 The modern state is a product of capitalism. Capitalism is a product of centralization        2.4 Capitalism, borders and wars        2.5 Wage labor – the basis of capitalism        2.6 Police and order        2.7 Capitalism – the global system        2.8 Representation – justification of authority        2.9 Parliamentarism        2.10 The power of corporations        2.11 The decline of capitalism?      3. New society        3.1 Basic principles of a new society        3.2 Direct democracy        3.3 National Assembly        3.4 Organization of the national assembly        3.5 Coordination of public assemblies        3.6 Positions and profile committees        3.7 Political and territorial structure        3.8. Laws and referenda        3.9 Keeping order        3.10 Judicial system        3.11 Sanctions        3.12 Militia        3.13 Education        3.14 Emancipation of labor        3.15 Decentralized planned economy        3.16 Production Robotization        3.17 Enterprise Management        3.18 Distribution centers        3.19. 3D printers        3.20 Economic planning      4. The road to a New Society        4.1 The revolutionary subject        4.2 Anti-reformism        4.3 Direct action        4.4 Social revolution        4.5 Transition        4.6 Revolutionary prospects in the post-Soviet territories        4.7 Organization. Organizational core        4.8 Activist Network        4.9 Campaigns, engaging new groups        4.10 Interaction between organizational centers of movement        4.11 Large movement or autonomous groups        4.12 Movement infrastructure, media        4.13 Organization of groups        4.14 Democracy of participation, rights and obligations        4.15 Actionism        4.16 Radical actions        4.17 Political violence        4.18 Social projects        4.19 Social Conflicts        4.20 Repression        4.21 Secrecy        4.22 Training of participants in the movement        4.23 Evolution and revolution        4.24 Education and agitation        4.25 New culture        4.26 Autonomous spaces        4.27 Armed underground or political movement We present to you a large article by Russian social revolutionary anarchists from the “People’s Self-Defense” (Narodnaya Samooborona) movement. This article is a summary of many texts of People’s Self-Defense, trying to adapt the ideas of anarchism to the 21 st century. The article describes the structure of this world, the ways of changing it, the strategy and tactics of revolutionary anarchists, and also tries to describe the possible contours of anarchist society in the conditions of the 21 st century. We hope the article will help to understand ​​the ideas and methods of social revolutionary anarchists both to people who are only interested in anarchism and to those who are in search for answers to the questions that our time poses to anarchism. “People’s Self-Defense” (Narodnaya Samooborona) is the largest anarchist movement in Russia in the past decade. Movement methods combined both political actionism and social struggle. For example, People’s Self-Defense brought into Russian anarchism …
+Introduction: The People’s Self-Defense
+
+1. How the world works. Global division of labor
+
+1.1 Mining, commodity-based countries
+
+1.2 Production, manufacturing countries
+
+1.3 Metropole
+
+1.4 Consumer society, irrational distribution of goods
+
+1.5 World dumps
+
+1.6 Migration, migrant supplying countries
+
+1.7 Chauvinism, competition between second-rate countries
+
+1.8 Fascism and revanchism, the struggle for increasing status in the world system
+
+1.9 Social democracy, a compromise between Western society and the state
+
+1.10 Anti-capitalist projects
+
+2. Capitalism and the state
+
+2.1 Concentration of wealth, global inequality as an inevitable consequence of capitalism
+
+2.2 State – a hierarchical organization for the redistribution of resources and subordination of society
+
+2.3 The modern state is a product of capitalism. Capitalism is a product of centralization
+
+2.4 Capitalism, borders and wars
+
+2.5 Wage labor – the basis of capitalism
+
+2.6 Police and order
+
+2.7 Capitalism – the global system
+
+2.8 Representation – justification of authority
+
+2.9 Parliamentarism
+
+2.10 The power of corporations
+
+2.11 The decline of capitalism?
+
+3. New society
+
+3.1 Basic principles of a new society
+
+3.2 Direct democracy
+
+3.3 National Assembly
+
+3.4 Organization of the national assembly
+
+3.5 Coordination of public assemblies
+
+3.6 Positions and profile committees
+
+3.7 Political and territorial structure
+
+3.8. Laws and referenda
+
+3.9 Keeping order
+
+3.10 Judicial system
+
+3.11 Sanctions
+
+3.12 Militia
+
+3.13 Education
+
+3.14 Emancipation of labor
+
+3.15 Decentralized planned economy
+
+3.16 Production Robotization
+
+3.17 Enterprise Management
+
+3.18 Distribution centers
+
+3.19. 3D printers
+
+3.20 Economic planning
+
+4. The road to a New Society
+
+4.1 The revolutionary subject
+
+4.2 Anti-reformism
+
+4.3 Direct action
+
+4.4 Social revolution
+
+4.5 Transition
+
+4.6 Revolutionary prospects in the post-Soviet territories
+
+4.7 Organization. Organizational core
+
+4.8 Activist Network
+
+4.9 Campaigns, engaging new groups
+
+4.10 Interaction between organizational centers of movement
+
+4.11 Large movement or autonomous groups
+
+4.12 Movement infrastructure, media
+
+4.13 Organization of groups
+
+4.14 Democracy of participation, rights and obligations
+
+4.15 Actionism
+
+4.16 Radical actions
+
+4.17 Political violence
+
+4.18 Social projects
+
+4.19 Social Conflicts
+
+4.20 Repression
+
+4.21 Secrecy
+
+4.22 Training of participants in the movement
+
+4.23 Evolution and revolution
+
+4.24 Education and agitation
+
+4.25 New culture
+
+4.26 Autonomous spaces
+
+4.27 Armed underground or political movement
+
+We present to you a large article by Russian social revolutionary anarchists from the “People’s Self-Defense” (Narodnaya Samooborona) movement. This article is a summary of many texts of People’s Self-Defense, trying to adapt the ideas of anarchism to the 21st century. The article describes the structure of this world, the ways of changing it, the strategy and tactics of revolutionary anarchists, and also tries to describe the possible contours of anarchist society in the conditions of the 21st century. We hope the article will help to understand ​​the ideas and methods of social revolutionary anarchists both to people who are only interested in anarchism and to those who are in search for answers to the questions that our time poses to anarchism.
+
+“People’s Self-Defense” (Narodnaya Samooborona) is the largest anarchist movement in Russia in the past decade. Movement methods combined both political actionism and social struggle. For example, People’s Self-Defense brought into Russian anarchism areas such as the fight against banditry and dishonest employers through the direct action. People’s Self-Defense opposed itself to the “reformist” wing of the anarchist movement, and propagandized the revolutionary transformation of society and direct action as a way to resolve social conflicts.
+
+After the rapid growth of the movement and a series of major political campaigns in 2017–2018, People’s Self-Defense was subjected t…

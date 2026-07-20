@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-       Note For Anarchist Morality        I        II        III        IV        V        VI        VII        VIII        IX This study of the origin and function of what we call “morality” was written for pamphlet publication as a result of an amusing situation. An anarchist who ran a store in England found that his comrades in the movement regarded it as perfectly right to take his goods without paying for them. “To each according to his need” seemed to them to justify letting those who were best able foot the bills. Kropotkin was appealed to, with the result that he not only condemned such doctrine, but was moved to write the comrades this sermon. Its conception of morality is based on the ideas set forth in Mutual Aid and later developed in his Ethics . Here they are given special application to “right and wrong” in the business of social living. The job is done with fine feeling and with acute shafts at the shams of current morality. Kropotkin sees the source of all so-called moral ideas in primitive superstitions. The real moral sense which guides our social behavior is instinctive, based on the sympathy and unity inherent in group life. Mutual aid is the condition of successful social living. The moral base is therefore the good old golden rule “Do to others as you would have others do to you in the same circumstances,” — which disposed of the ethics of the shopkeeper’s anarchist customers. This natural moral sense was perverted, Kropotkin says, by the superstitions surrounding law, religion and authority, deliberately cultivated by conquerors, exploiters and priests for their own benefit. Morality has therefore become the instrument of ruling classes to protect their privileges. He defends the morality of killing for the benefit of mankind — as in the assassination of tyrants — but never for self. Love and hate he regards as greater social forces for controlling wrong-doing than punishment, which he rejects as useless and evil. Account-book morality — doing right only to receive a benefit — he scores roundly, urging instead the satisfactions and joy of “sowing life around you” by giving yourself to the uttermost to your fellow-men. Not of course to do them good, in the spirit of philanthropy, but to be one with them, equal and sharing. * * * The history of human thought recalls the swinging of a pendulum which takes centuries to swing. After a long period of slumber comes a moment of awakening. Then thought frees herself from the chains with which those interested — rulers, lawyers, clerics — have carefully enwound her. She shatters the chains. She subjects to severe criticism all that has been taught her, and lays bare the emptiness of the religious political, legal, and social prejudices amid which she has vegetated. She starts research in new paths, enriches our knowledge with new discoveries, creates new sciences. But the inveterate enemies of thought — the government, the lawgiver, and the priest — soon recover from their defeat. By degrees they gather together their scattered forces, and remodel their faith and their code of laws to adapt them to the new needs. Then, profiting by the servility of thought and of character, which they themselves have so effectually cultivated; profiting, too, by the momentary disorganization of society, taking advantage of the laziness of some, the greed of others, the best hopes of many, they softly creep back to their work by first of all taking possession of childhood through education. A child’s spirit is weak. It is so easy to coerce it by fear. This they do. They make the child timid, and then they talk to him of the torments of hell. They conjure up before him the sufferings of the condemned, the vengeance of an implacable god. The next minute they will be chattering of the horrors of revolution, and using some excess of the revolutionists to make the child “a friend of order.” The priest accustoms the child to the idea of law, to make it obey better what he calls the “div…
+Note For Anarchist Morality
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+VII
+
+VIII
+
+IX
+
+This study of the origin and function of what we call “morality” was written for pamphlet publication as a result of an amusing situation. An anarchist who ran a store in England found that his comrades in the movement regarded it as perfectly right to take his goods without paying for them. “To each according to his need” seemed to them to justify letting those who were best able foot the bills. Kropotkin was appealed to, with the result that he not only condemned such doctrine, but was moved to write the comrades this sermon.
+
+Its conception of morality is based on the ideas set forth in Mutual Aid and later developed in his Ethics. Here they are given special application to “right and wrong” in the business of social living. The job is done with fine feeling and with acute shafts at the shams of current morality.
+
+Kropotkin sees the source of all so-called moral ideas in primitive superstitions. The real moral sense which guides our social behavior is instinctive, based on the sympathy and unity inherent in group life. Mutual aid is the condition of successful social living. The moral base is therefore the good old golden rule “Do to others as you would have others do to you in the same circumstances,” — which disposed of the ethics of the shopkeeper’s anarchist customers.
+
+This natural moral sense was perverted, Kropotkin says, by the superstitions surrounding law, religion and authority, deliberately cultivated by conquerors, exploiters and priests for their own benefit. Morality has therefore become the instrument of ruling classes to protect their privileges.
+
+He defends the morality of killing for the benefit of mankind — as in the assassination of tyrants — but never for self. Love and hate he regards as greater social forces for controlling wrong-doing than punishment, which he rejects as useless and evil. Account-book morality — doing right only to receive a benefit — he scores roundly, urging instead the satisfactions and joy of “sowing life around you” by giving yourself to the uttermost to your fellow-men. Not of course to do them good, in the spirit of philanthropy, but to be one with them, equal and sharing.
+
+* * *
+
+The history of human thought recalls the swinging of a pendulum which takes centuries to swing. After a long period of slumber comes a moment of awakening. Then thought frees herself from the chains with which those interested — rulers, lawyers, clerics — have carefully enwound her.
+
+She shatters the chains. She subjects to severe criticism all that has been taught her, and lays bare the emptiness of the religious political, legal, and social prejudices amid which she has vegetated. She starts research in new paths, enriches our knowledge with new discoveries, creates new sciences.
+
+But the inveterate enemies of thought — the government, the lawgiver, and the priest — soon recover from their defeat. By degrees they gather together their scattered forces, and remodel their faith and their code of laws to adapt them to the new needs. Then, profiting by the servility of thought and of character, which they themselves have so effectually cultivated; profiting, too, by the momentary disorganization of society, taking advantage of the laziness of some, the greed of others, the best hopes of many, they softly creep back to their work by first of all taking possession of childhood through education.
+
+A child’s spirit is weak. It is so easy to coerce it by fear. This they do. They make the child timid, and then they talk to him of the torments of hell. They conjure up before him the sufferings of the condemned, the vengeance of an implacable god. The next minute they will be chattering of the horrors of revolution, and using some excess of the revolutionists to make the child “a friend of order.” The priest accustoms the child to the idea of law, to make it obey better what he calls the “divine law,” and the lawyer prates of divine law, that …

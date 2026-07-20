@@ -19,4 +19,68 @@ files:
     hosted: false
 ---
 
-       Why are there so few anarchists in the academy?        This does not mean anarchist theory is impossible.      Graves, Brown, Mauss, Sorel        The anarchist anthropology that almost already does exist        toward a theory of imaginary counterpower      Blowing Up Walls        obvious objections        a thought experiment, or, blowing up walls        what would it take to knock down these walls?      Tenets of a Non-existent Science        1) A THEORY OF THE STATE        2) A THEORY OF POLITICAL ENTITIES THAT ARE NOT STATES        3) YET ANOTHER THEORY OF CAPITALISM        4) POWER/IGNORANCE, or POWER/STUPIDITY        5) AN ECOLOGY OF VOLUNTARY ASSOCIATIONS        6) A THEORY OF POLITICAL HAPPINESS        7) HIERARCHY        8) SUFFERING AND PLEASURE: ON THE PRIVATIZATION OF DESIRE        9) ONE OR SEVERAL THEORIES OF ALIENATION        (1) Globalization and the Elimination of North-South Inequalities        (2) The Struggle Against Work        (3) DEMOCRACY      ANTHROPOLOGY (in which the author somewhat reluctantly bites the hand that feeds him) Anarchism: The name given to a principle or theory of life and conduct under which society is conceived without government—harmony in such a society being obtained, not by submission to law, or by obedience to any authority, but by free agreements concluded between the various groups, territorial and professional, freely constituted for the sake of production and consumption, as also for the satisfaction of the infinite variety of needs and aspirations of a civilized being. Peter Kropotkin ( Encyclopedia Brittanica ) Basically, if you’re not a utopianist, you’re a schmuck. Jonothon Feldman ( Indigenous Planning Times ) What follows are a series of thoughts, sketches of potential theories, and tiny manifestos—all meant to offer a glimpse at the outline of a body of radical theory that does not actually exist, though it might possibly exist at some point in the future. Since there are very good reasons why an anarchist anthropology really ought to exist, we might start by asking why one doesn’t—or, for that matter, why an anarchist sociology doesn’t exist, or an anarchist economics, anarchist literary theory, or anarchist political science. It’s a pertinent question because, as a political philosophy, anarchism is veritably exploding right now. Anarchist or anarchist-inspired movements are growing everywhere; traditional anarchist principles—autonomy, voluntary association, self-organization, mutual aid, direct democracy—have gone from the basis for organizing within the globalization movement, to playing the same role in radical movements of all kinds everywhere. Revolutionaries in Mexico, Argentina, India, and elsewhere have increasingly abandoned even talking about seizing power, and begun to formulate radically different ideas of what a revolution would even mean. Most, admittedly, fall shy of actually using the word “anarchist.” But as Barbara Epstein has recently pointed out anarchism has by now largely taken the place Marxism had in the social movements of the ‘60s: even those who do not consider themselves anarchists feel they have to define themselves in relation to it, and draw on its ideas. Yet all this has found almost no reflection in the academy. Most academics seem to have only the vaguest idea what anarchism is even about; or dismiss it with the crudest stereotypes. (“Anarchist organization! But isn’t that a contradiction in terms?”) In the United States there are thousands of academic Marxists of one sort or another, but hardly a dozen scholars willing openly to call themselves anarchists. So are academics just behind the curve here? It’s possible. Perhaps in a few years the academy will be overrun by anarchists. But I’m not holding my breath. It does seem that Marxism has an affinity with the academy that anarchism never will. It was, after all, the only great social movement that was invented by a Ph.D., even if afterwards, it became a movement intending t…
+Why are there so few anarchists in the academy?
+
+This does not mean anarchist theory is impossible.
+
+Graves, Brown, Mauss, Sorel
+
+The anarchist anthropology that almost already does exist
+
+toward a theory of imaginary counterpower
+
+Blowing Up Walls
+
+obvious objections
+
+a thought experiment, or, blowing up walls
+
+what would it take to knock down these walls?
+
+Tenets of a Non-existent Science
+
+1) A THEORY OF THE STATE
+
+2) A THEORY OF POLITICAL ENTITIES THAT ARE NOT STATES
+
+3) YET ANOTHER THEORY OF CAPITALISM
+
+4) POWER/IGNORANCE, or POWER/STUPIDITY
+
+5) AN ECOLOGY OF VOLUNTARY ASSOCIATIONS
+
+6) A THEORY OF POLITICAL HAPPINESS
+
+7) HIERARCHY
+
+8) SUFFERING AND PLEASURE: ON THE PRIVATIZATION OF DESIRE
+
+9) ONE OR SEVERAL THEORIES OF ALIENATION
+
+(1) Globalization and the Elimination of North-South Inequalities
+
+(2) The Struggle Against Work
+
+(3) DEMOCRACY
+
+ANTHROPOLOGY (in which the author somewhat reluctantly bites the hand that feeds him)
+
+Anarchism:
+
+The name given to a principle or theory of life and conduct under which society is conceived without government—harmony in such a society being obtained, not by submission to law, or by obedience to any authority, but by free agreements concluded between the various groups, territorial and professional, freely constituted for the sake of production and consumption, as also for the satisfaction of the infinite variety of needs and aspirations of a civilized being.
+
+Peter Kropotkin (Encyclopedia Brittanica)
+
+Basically, if you’re not a utopianist, you’re a schmuck.
+
+Jonothon Feldman (Indigenous Planning Times)
+
+What follows are a series of thoughts, sketches of potential theories, and tiny manifestos—all meant to offer a glimpse at the outline of a body of radical theory that does not actually exist, though it might possibly exist at some point in the future.
+
+Since there are very good reasons why an anarchist anthropology really ought to exist, we might start by asking why one doesn’t—or, for that matter, why an anarchist sociology doesn’t exist, or an anarchist economics, anarchist literary theory, or anarchist political science.
+
+It’s a pertinent question because, as a political philosophy, anarchism is veritably exploding right now. Anarchist or anarchist-inspired movements are growing everywhere; traditional anarchist principles—autonomy, voluntary association, self-organization, mutual aid, direct democracy—have gone from the basis for organizing within the globalization movement, to playing the same role in radical movements of all kinds everywhere. Revolutionaries in Mexico, Argentina, India, and elsewhere have increasingly abandoned even talking about seizing power, and begun to formulate radically different ideas of what a revolution would even mean. Most, admittedly, fall shy of actually using the word “anarchist.” But as Barbara Epstein has recently pointed out anarchism has by now largely taken the place Marxism had in the social movements of the ‘60s: even those who do not consider themselves anarchists feel they have to define themselves in relation to it, and draw on its ideas.
+
+Yet all this has found almost no reflection in the academy. Most academics seem to have only the vaguest idea what anarchism is even about; or dismiss it with the crudest stereotypes. (“Anarchist organization! But isn’t that a contradiction in terms?”) In the United States there are thousands of academic Marxists of one sort or another, but hardly a dozen scholars willing openly to call themselves anarchists.
+
+So are academics just behind the curve here? It’s possible. Perhaps in a few years the academy will be overrun by anarchists. But I’m not holding my breath. It does seem that Marxism has an affinity with the academy that anarchism never will. It was, after all, the only great social movement that was invented by a Ph.D., even if afterwards, it became a movement intending to rally the working class. Most accounts of the history of anarchism assume it was basically similar: anarchism is presented …

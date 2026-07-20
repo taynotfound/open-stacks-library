@@ -19,4 +19,216 @@ files:
     hosted: false
 ---
 
-     Introduction      Preface        The Radical Importance of Decision Making        The Benefits of Leadership?        Representation        Individual Autonomous Action        Spontaneous Consensus        Consensus Process      Consensus Process        Group Meetings        Structure and Structurelessness        Process of Discussion        Process of Decision Making        Agenda        Discussion        Proposals        Questions        Concerns        Friendly Amendments        Withdrawals        Voting        Blocks        Stand Asides        Thumbs Up        No Decision        Decision        Why is Consensus so Difficult?      Making Consensus Easier        Assigning Positions        Note Taker        Timekeeper        Vibes Watcher        Facilitator        Stack Taker        Hand Signals        Process Point        Direct Response        Other Signals        Nonverbal Language        Changing the Format of Discussion        Step Forward, Step Back        Moment of Reflection        Go Around        Partnering        Fishbowl        Brainstorming        Exercise        Straw Polls        Feelings Check        Release Valve      Meeting Structure        Making Decisions without the Whole Group        Alternative Voting        Consensus Minus One?        Mission Statements and Principles of Unity      Working Groups        Autonomous Action        Informal Consensus      Awareness of Group Dynamics        What Do We Mean by Dynamics        An Unforgivably Quick Rundown of Common Power Dynamics          Gender          Age          Class          Race        Frequent Problem Characteristics          Over-talkative          Quiet and uncommunicative          The lone gun          Insensitive          Over-sensitive          Over-assertive          Over-involved          Inattentive          Cliqueish          Defensive        Getting Back on Track        Addressing Problems        The Importance of Culture        Community Building        Broadening Group Culture        Multicultural Groups        Monocultural Groups        Coalitions        Federations        Networks      Teaching Consensus        Learning Consensus        Adopting Consensus as a Group        Teaching Consensus to New Members        Introducing Consensus to a Group        Helping Another Group with Consensus        Consensus Workshops        The Future of Consensus      Appendix: Sample Dialogues        Discussion Process        Decision-Making Process        The Facilitator        Vibes Watching        New Members          Example A          Example B          Example C Making the shift to the consensus decision-making process might be the most important thing that we can do to build a democratic society. Consensus can give us the power we need to focus our society’s attention on improving education, making peace, providing universal healthcare and creating the world we desire. Consensus creates true democracy—not the democracy in name only that sickens any aware person. Consensus empowers all who participate in it. In-name-only democracy disempowers all who participate in it (who dutifully trudge to the polls every few years to select new masters). True democracy might be a large part of the solution to our most pressing problems. In-name-only democracy is little more than a smokescreen for domination and an excuse for war. Thus, this book addresses one of the most important topics of our time. It’s ironic that at the time when in-name-only democracy in the United States may be nearing its end, with the congress and courts allowing the executive branch to seize their powers, an interest in a more powerful system of democratic decision making is emerging. Many prominent Americans, such as former Supreme Court Justice Sandra Day O’Connor, former Vice President Al Gore and former senator Gerry Hart, are expressing concern about the possibility of a Bush dictatorship. Yet for all the words of alarm, relatively few people are talking about solutions. It …
+Introduction
+
+Preface
+
+The Radical Importance of Decision Making
+
+The Benefits of Leadership?
+
+Representation
+
+Individual Autonomous Action
+
+Spontaneous Consensus
+
+Consensus Process
+
+Consensus Process
+
+Group Meetings
+
+Structure and Structurelessness
+
+Process of Discussion
+
+Process of Decision Making
+
+Agenda
+
+Discussion
+
+Proposals
+
+Questions
+
+Concerns
+
+Friendly Amendments
+
+Withdrawals
+
+Voting
+
+Blocks
+
+Stand Asides
+
+Thumbs Up
+
+No Decision
+
+Decision
+
+Why is Consensus so Difficult?
+
+Making Consensus Easier
+
+Assigning Positions
+
+Note Taker
+
+Timekeeper
+
+Vibes Watcher
+
+Facilitator
+
+Stack Taker
+
+Hand Signals
+
+Process Point
+
+Direct Response
+
+Other Signals
+
+Nonverbal Language
+
+Changing the Format of Discussion
+
+Step Forward, Step Back
+
+Moment of Reflection
+
+Go Around
+
+Partnering
+
+Fishbowl
+
+Brainstorming
+
+Exercise
+
+Straw Polls
+
+Feelings Check
+
+Release Valve
+
+Meeting Structure
+
+Making Decisions without the Whole Group
+
+Alternative Voting
+
+Consensus Minus One?
+
+Mission Statements and Principles of Unity
+
+Working Groups
+
+Autonomous Action
+
+Informal Consensus
+
+Awareness of Group Dynamics
+
+What Do We Mean by Dynamics
+
+An Unforgivably Quick Rundown of Common Power Dynamics
+
+Gender
+
+Age
+
+Class
+
+Race
+
+Frequent Problem Characteristics
+
+Over-talkative
+
+Quiet and uncommunicative
+
+The lone gun
+
+Insensitive
+
+Over-sensitive
+
+Over-assertive
+
+Over-involved
+
+Inattentive
+
+Cliqueish
+
+Defensive
+
+Getting Back on Track
+
+Addressing Problems
+
+The Importance of Culture
+
+Community Building
+
+Broadening Group Culture
+
+Multicultural Groups
+
+Monocultural Groups
+
+Coalitions
+
+Federations
+
+Networks
+
+Teaching Consensus
+
+Learning Consensus
+
+Adopting Consensus as a Group
+
+Teaching Consensus to New Members
+
+Introducing Consensus to a Group
+
+Helping Another Group with Consensus
+
+Consensus Workshops
+
+The Future of Consensus
+
+Appendix: Sample Dialogues
+
+Discussion Process
+
+Decision-Making Process
+
+The Facilitator
+
+Vibes Watching
+
+New Members
+
+Example A
+
+Example B
+
+Example C
+
+Making the shift to the consensus decision-making process might be the most important thing that we can do to build a democratic society. Consensus can give us the power we need to focus our society’s attention on improving education, making peace, providing universal healthcare and creating the world we desire.
+
+Consensus creates true democracy—not the democracy in name only that sickens any aware person. Consensus empowers all who participate in it. In-name-only democracy disempowers all who participate in it (who dutifully trudge to the polls every few years to select new masters). True democracy might be a large part of the solution to our most pressing problems. In-name-only democracy is little more than a smokescreen for domination and an excuse for war. Thus, this book addresses one of the most important topics of our time.
+
+It’s ironic that at the time when in-name-only democracy in the United States may be nearing its end, with the congress and courts allowing the executive branch to seize their powers, an interest in a more powerful system of democratic decision making is emerging. Many prominent Americans, such as former Supreme Court Justice Sandra Day O’Connor, former Vice President Al Gore and former senator Gerry Hart, are expressing concern about the possibility of a Bush dictatorship. Yet for all the words of alarm, relatively few people are talking about solutions. It is self-evident that representative democracy has failed to express the dreams of most of the people it supposedly represents—both here and abroad. Iraq is merely the latest example of such failure.
+
+At the same time the U.S. government is promoting “democracy” in the Middle East via bombs, guns, and torture, movements around the world are enthusiastically embarking on the search for real democracy. Consensus decision making is used around the world by indigenous people in resistance, who have used it for millennia—groups like the Zapatistas, and organizations in the United States such as Earth First!, Indymedia, and some Gr…

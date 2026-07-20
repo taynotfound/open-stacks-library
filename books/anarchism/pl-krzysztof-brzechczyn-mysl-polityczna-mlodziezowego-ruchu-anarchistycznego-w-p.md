@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       Wstęp        W kierunku społeczeństwa alternatywnego        Społeczeństwo polskie po 13 grudnia – próba diagnozy        Jak z tego wyjść, czyli strategia działania Ruchu        Podsumowanie Ruch anarchistyczny po długiej przerwie, trwającej od II wojny światowej, pojawił się w polskim życiu politycznym w latach osiemdziesiątych ubiegłego stulecia. Ugrupowaniem nawiązującym do tradycji anarchizmu był powstały w Gdańsku w czerwcu 1983 r. Ruch Społeczeństwa Alternatywnego. Wtedy właśnie Wojciech Jankowski i Janusz Waluszko napisali „Manifest Ruchu Społeczeństwa Alternatywnego”, którego sygnatariuszami zostali również Krzysztof Skiba i Cezary Waluszko [1] . We wrześniu 1983 r. wspomniana grupa osób zaczęła wydawać pismo „Homek”. Przed wyborami do rad narodowych, przeprowadzonymi w czerwcu 1984 r., powstało Porozumienie Grup Niezależnych „Wolność”, w którego skład weszły Ruch Społeczeństwa Alternatywnego, Gdański Ruch Oporu Młodzieży „Pokolenie”, Polska Młodzież Walcząca i Oficyna Wydawnicza „Kres”. Struktura ta na przełomie 1984 i 1985 r. organizowała w Trójmieście liczne akcje protestacyjne. Najgłośniejszą z nich było zatrzymanie oficjalnego pochodu 1 maja 1985 r. i wielogodzinne starcia z MO i ZOMO podczas niezależnej demonstracji. Choć do tej formy protestu nawoływało kilka struktur podziemnych, to prasa drugoobiegowa, w tym „Tygodnik Mazowsze”, organizację i odpowiedzialność za doprowadzenie do starć demonstrantów z siłami porządkowymi jednoznacznie przypisał RSA [2] . Paradoksalnie przyczyniło się to do wzrostu popularności ruchu w całym kraju. Zbiegło się również z udzieleniem przez Wojciecha Jankowskiego, Krzysztofa Skibę i Janusza Waluszkę wywiadu w „Przeglądzie Politycznym”, gdzie mieli okazję szerzej zaprezentować swoje przemyślenia ideowe [3] . W drugiej połowie lat osiemdziesiątych podobne grupy neoanarchistyczne i pacyfistyczne, łączące opozycyjne wobec systemu zaangażowanie polityczne z działalnością w szeroko rozumianej kontrkulturze, skupiające przede wszystkim młodzież licealną i studencką, powstawały w całej Polsce. Do najbardziej znanych należał powołany w listopadzie 1985 r. Ruch „Wolność i Pokój”, w którym obecny był również nurt anarchistyczny, wywodzący się bezpośrednio z gdańskiego RSA. Zaangażowanie części gdańskich anarchistów w Ruch „Wolność i Pokój” osłabiło aktywność samego Ruchu Społeczeństwa Alternatywnego, którego liderzy pod koniec dekady angażowali się w przedsięwzięcia mające na celu integrację środowisk anarchistycznych i kontrkulturowych. Jedną z takich inicjatyw było powołanie 2 czerwca 1988 r. przez RSA, Formację Tranzytoryjną „Totart” i anarchistów z Ruchu „Wolność i Pokój” Międzymiastówki Anarchistycznej. Latem 1989 r. w trakcie dyskusji prowadzonej na dwóch zlotach anarchistycznych nad kształtem organizacyjnym ruchu zmieniono nazwę na Federacja Międzymiastówki Anarchistycznej. W listopadzie tegoż roku podczas kolejnego zlotu anarchistycznego organizowanego w Warszawie ostatecznie powołano Federację Anarchistyczną. Pora napisać krótko o metodzie założonej w artykule. W badaniach nad historią intelektualną wyróżnia się doktrynę polityczną, program polityczny i myśl polityczną [4] . Częstokroć terminy te są stosowane zamiennie, bez należytej dbałości o poprawność w ich definiowaniu. W niniejszym artykule przyjmuję, że myśl polityczna jest zbiorem upublicznionych (np. w formie pisanej) przekonań żywionych w danym czasie i miejscu przez członków i sympatyków danego środowiska politycznego. Ponieważ myśl polityczna danego środowiska politycznego, tworzona przez wielu autorów, jest produktem ich samoistnej i spontanicznej aktywności intelektualnej, z reguły cechuje się niższym stopniem spójności i koherencji od doktryny politycznej, która jest opracowana przez intelektualnych przedstawicieli danej zbiorowości społecznej. Z tego też powodu jest lepiej uporządkowana i uzasadniona niż myśl polityczna. Doktryna zawiera z reguły trzy jasno od siebie wyodrębnione komponenty: 1) diagnozę faktyczn…
+Wstęp
+
+W kierunku społeczeństwa alternatywnego
+
+Społeczeństwo polskie po 13 grudnia – próba diagnozy
+
+Jak z tego wyjść, czyli strategia działania Ruchu
+
+Podsumowanie
+
+Ruch anarchistyczny po długiej przerwie, trwającej od II wojny światowej,
+pojawił się w polskim życiu politycznym w latach osiemdziesiątych ubiegłego
+stulecia. Ugrupowaniem nawiązującym do tradycji anarchizmu był powstały
+w Gdańsku w czerwcu 1983 r. Ruch Społeczeństwa Alternatywnego. Wtedy
+właśnie Wojciech Jankowski i Janusz Waluszko napisali „Manifest Ruchu Społeczeństwa Alternatywnego”, którego sygnatariuszami zostali również Krzysztof Skiba i Cezary Waluszko[1]. We wrześniu 1983 r. wspomniana grupa osób
+zaczęła wydawać pismo „Homek”. Przed wyborami do rad narodowych, przeprowadzonymi w czerwcu 1984 r., powstało Porozumienie Grup Niezależnych
+„Wolność”, w którego skład weszły Ruch Społeczeństwa Alternatywnego, Gdański Ruch Oporu Młodzieży „Pokolenie”, Polska Młodzież Walcząca i Oficyna
+Wydawnicza „Kres”. Struktura ta na przełomie 1984 i 1985 r. organizowała
+w Trójmieście liczne akcje protestacyjne. Najgłośniejszą z nich było zatrzymanie
+oficjalnego pochodu 1 maja 1985 r. i wielogodzinne starcia z MO i ZOMO
+podczas niezależnej demonstracji. Choć do tej formy protestu nawoływało kilka
+struktur podziemnych, to prasa drugoobiegowa, w tym „Tygodnik Mazowsze”,
+organizację i odpowiedzialność za doprowadzenie do starć demonstrantów z siłami porządkowymi jednoznacznie przypisał RSA[2]. Paradoksalnie przyczyniło się to do wzrostu popularności ruchu w całym kraju. Zbiegło się również z udzieleniem przez Wojciecha Jankowskiego, Krzysztofa Skibę i Janusza Waluszkę wywiadu w „Przeglądzie Politycznym”, gdzie mieli okazję szerzej zaprezentować swoje przemyślenia ideowe[3].
+
+W drugiej połowie lat osiemdziesiątych podobne grupy neoanarchistyczne
+i pacyfistyczne, łączące opozycyjne wobec systemu zaangażowanie polityczne
+z działalnością w szeroko rozumianej kontrkulturze, skupiające przede wszystkim młodzież licealną i studencką, powstawały w całej Polsce. Do najbardziej
+znanych należał powołany w listopadzie 1985 r. Ruch „Wolność i Pokój”,
+w którym obecny był również nurt anarchistyczny, wywodzący się bezpośrednio z gdańskiego RSA. Zaangażowanie części gdańskich anarchistów w Ruch
+„Wolność i Pokój” osłabiło aktywność samego Ruchu Społeczeństwa Alternatywnego, którego liderzy pod koniec dekady angażowali się w przedsięwzięcia mające na celu integrację środowisk anarchistycznych i kontrkulturowych.
+Jedną z takich inicjatyw było powołanie 2 czerwca 1988 r. przez RSA, Formację Tranzytoryjną „Totart” i anarchistów z Ruchu „Wolność i Pokój” Międzymiastówki Anarchistycznej. Latem 1989 r. w trakcie dyskusji prowadzonej na
+dwóch zlotach anarchistycznych nad kształtem organizacyjnym ruchu zmieniono nazwę na Federacja Międzymiastówki Anarchistycznej. W listopadzie tegoż
+roku podczas kolejnego zlotu anarchistycznego organizowanego w Warszawie
+ostatecznie powołano Federację Anarchistyczną.
+
+Pora napisać krótko o metodzie założonej w artykule. W badaniach nad
+historią intelektualną wyróżnia się doktrynę polityczną, program polityczny
+i myśl polityczną[4]. Częstokroć terminy te są stosowane zamiennie, bez należytej dbałości o poprawność w ich definiowaniu. W niniejszym artykule przyjmuję, że myśl polityczna jest zbiorem upublicznionych (np. w formie pisanej)
+przekonań żywionych w danym czasie i miejscu przez członków i sympatyków
+danego środowiska politycznego. Ponieważ myśl polityczna danego środowiska
+politycznego, tworzona przez wielu autorów, jest produktem ich samoistnej
+i spontanicznej aktywności intelektualnej, z reguły cechuje się niższym stopniem
+spójności i koherencji od doktryny politycznej, która jest opracowana przez intelektualnych przedstawicieli danej zbiorowości społecznej. Z tego też powodu
+jest lepiej uporządkowana i uzasadniona niż myśl polityczna. Doktryna zawiera
+z reguły trzy jasno od siebie wyodrębnione komponenty: 1) diagnozę faktycznego stanu społecznego, 2) pożądany o…

@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-       1. WHY FORM SECTIONS?        2. HOW DO SECTIONS WORK?        3. WHAT CAN SECTIONS ACHIEVE? A syndicalist section is a local union in the workplace, a job branch. The section is open to all employees except bosses. Sections within the Swedish SAC are intended to be a power base for changing workplaces and ultimately changing society as a whole. Below, Rasmus Hästbacka addresses three broad questions: Why form sections? How do sections work? What can sections achieve? A dual function The Swedish word for section is driftsektion . Translated into English that is operating section . The term operating refers to the long-term vision that employees should take over and operate the workplace themselves. Democracy at work lays the ground for a society of free and equal individuals. That is the syndicalist view. In the short-term, syndicalist sections are working for immediate improvements: a healthy work environment, secure employment, higher wages, a better balance between work and leisure time/family, etc. Such progress requires systematic organizing in the workplace. Syndicalists emphasize that sections have this dual task or dual function in class struggle, i.e. sections serve a function in the struggle for immediate improvements and democracy at work. By building worker-run sections, workers can develop the collective strength and competence to introduce worker-run workplaces in all industries. In other words, it is through workers’ offensive struggle for daily demands that workers can approach the long-term vision and prepare for its realization. Class struggle driven to its peak can bring about a better world for everyone. Organizing By the term organizing I am referring to the social process whereby co-workers develop and use their collective strength in a systematic way. This process can be divided into three dimensions: (1) we build a formal section, (2) we develop a movement and (3) we mobilize around collective struggle and bargaining. A formal section provides stability for the movement. Sections bridge the ups and downs of struggle. The movement dimension of organizing is about workers participating and building a sense of community at work. Struggle and bargaining is about raising collective demands, presenting arguments and putting pressure on the employer when arguments are ignored. Successful bargaining is the final step in a successful organizing process. Here, I will focus on dimension 1 (the formal dimension). Readers who want to read more about dimension 2 and 3 (movement and struggle), can read a separate article about that. Form a section A section can be formed if there are at least three members at a certain workplace. The members hold a constituent meeting, adopt bylaws for the section and elect a board. SAC has basic bylaws for all sections that can be supplemented and adapted to the local situation. A section can include one workplace or several connected workplaces. The scope of the section is defined by the section itself. The section’s counterparty can also be one or more employers. It all depends on how the production of goods or services in question is structured. In legal terms, the section is a non-profit and non-governmental organization. It is a legal person who has the right to collective bargaining, take industrial action and enter into agreements. According to SAC’s bylaws, the section practices self-determination in local affairs and direct democracy. The section itself thus decides whether to stage strikes, blockades, or other forms of industrial action. This principle is called local right to industrial action . The section in action A section is both a forum and tool. It is a forum in which co-workers can agree on what needs to change in the workplace and a tool for enforcing that change. Through the section, you and your co-workers can unite the workforce and create a better workplace for everyone. That requires that you organize a sense of union community, a safe starting point to …
+1. WHY FORM SECTIONS?
+
+2. HOW DO SECTIONS WORK?
+
+3. WHAT CAN SECTIONS ACHIEVE?
+
+A syndicalist section is a local union in the workplace, a job branch. The section is open to all employees except bosses. Sections within the Swedish SAC are intended to be a power base for changing workplaces and ultimately changing society as a whole. Below, Rasmus Hästbacka addresses three broad questions: Why form sections? How do sections work? What can sections achieve?
+
+A dual function
+
+The Swedish word for section is driftsektion. Translated into English that is operating section. The term operating refers to the long-term vision that employees should take over and operate the workplace themselves. Democracy at work lays the ground for a society of free and equal individuals. That is the syndicalist view.
+
+In the short-term, syndicalist sections are working for immediate improvements: a healthy work environment, secure employment, higher wages, a better balance between work and leisure time/family, etc. Such progress requires systematic organizing in the workplace.
+
+Syndicalists emphasize that sections have this dual task or dual function in class struggle, i.e. sections serve a function in the struggle for immediate improvements and democracy at work.
+
+By building worker-run sections, workers can develop the collective strength and competence to introduce worker-run workplaces in all industries. In other words, it is through workers’ offensive struggle for daily demands that workers can approach the long-term vision and prepare for its realization. Class struggle driven to its peak can bring about a better world for everyone.
+
+Organizing
+
+By the term organizing I am referring to the social process whereby co-workers develop and use their collective strength in a systematic way. This process can be divided into three dimensions: (1) we build a formal section, (2) we develop a movement and (3) we mobilize around collective struggle and bargaining.
+
+A formal section provides stability for the movement. Sections bridge the ups and downs of struggle. The movement dimension of organizing is about workers participating and building a sense of community at work. Struggle and bargaining is about raising collective demands, presenting arguments and putting pressure on the employer when arguments are ignored. Successful bargaining is the final step in a successful organizing process.
+
+Here, I will focus on dimension 1 (the formal dimension). Readers who want to read more about dimension 2 and 3 (movement and struggle), can read a separate article about that.
+
+Form a section
+
+A section can be formed if there are at least three members at a certain workplace. The members hold a constituent meeting, adopt bylaws for the section and elect a board. SAC has basic bylaws for all sections that can be supplemented and adapted to the local situation.
+
+A section can include one workplace or several connected workplaces. The scope of the section is defined by the section itself. The section’s counterparty can also be one or more employers. It all depends on how the production of goods or services in question is structured.
+
+In legal terms, the section is a non-profit and non-governmental organization. It is a legal person who has the right to collective bargaining, take industrial action and enter into agreements. According to SAC’s bylaws, the section practices self-determination in local affairs and direct democracy. The section itself thus decides whether to stage strikes, blockades, or other forms of industrial action. This principle is called local right to industrial action.
+
+The section in action
+
+A section is both a forum and tool. It is a forum in which co-workers can agree on what needs to change in the workplace and a tool for enforcing that change.
+
+Through the section, you and your co-workers can unite the workforce and create a better workplace for everyone. That requires that you organize a sense of union community, a safe starting point to impro…

@@ -19,4 +19,105 @@ files:
     hosted: false
 ---
 
-     Stop. Dziękujemy.    Komunikaty      15W08 wita neoBANK w Warszawie!      Przestańcie nas gwałcić.      Ekskluzywny salon z odzieżą zniszczony.      IV      Zniszczona witryna w centrum Warszawy      Zniszczone witryny trzech banków w Warszawie      Podpalenie bankomatu w centrum Warszawy      Inne    Jak? (instrukcje)      Jak zaklejajać billbordy?      Jak przecinać płachty reklamowe?      Czym malować?    Artykuły      15w08 czyli: Grecki Ogień W Środku Polskiej Zimy, Anonim      Taktyka szczura, taktyka bobra, [2*2=(A)]      15w08 — Radykalne Formy Ekspresji, Walosz Stop. Dziękujemy. Naprawdę nie mamy już cierpliwości aby dalej czekać i biernie patrzeć na to, co się z nami dzieje. Wasza przemoc ekonomiczna każdego dnia poniża miliony ludzi. Wasz kapitał codziennie krzyczy, że nie jesteśmy wystarczająco efektywni w produkcji waszego PKB. Gwałcicie nas swoimi kampaniami reklamowymi. Wasza przemoc policyjna każdego dnia trzyma w żelaznych ryzach każdą osobę, która odważy się na krytykę waszego świata. Wasze programy reform niczego nie zmieniają. Wszystko to, to tylko pudrowanie starego. Wasze granty i projekty utrzymują status quo. Wasze kampanie społeczne niczego nie załatwiają. Niczego nie zmieniacie. Wszystko pozostaje takie, jakie było. Codziennie odczuwamy skutki waszej przemocy. Wystarczy. Spierdalajcie. Z wściekłością witamy pierwszy oddział neoBANKu (dawniej- Wielkopolski Bank Spółdzielczy) w Warszawie. NeoBANK ma swoją centralę w Poznaniu, w którym to nazywany jest neoGANGIEM. neoBANK, poprzez swoje spółki-córki finansuje i aktywnie wspiera Fabrykę Mieszkań, firmę zajmującą się „czyszczeniem”, prywatyzowanych kamienic z lokatorów, czyli zastraszaniem i brutalnym usuwaniem. NeoBank jest bezpośrednio powiązany z dramatem mieszkańców kamienicy przy ul. Stolarskiej w Poznaniu. To dzięki finansowemu wsparciu neoBANKu mogą w Poznaniu działać takie świnie jak Piotr Śruba z ‘Fabryki Mieszkań’. Dlatego też, witamy neoBANK w Warszawie krótkim: WYPIERDALAĆ! Gwałcicie nas zbiorowo każdego dnia, każąc nam oglądać wasze seksistowskie reklamy. Każdego dnia przypominacie nam jak niewiele znaczy kobiece ciało, jak łatwo można je poniżyć, uprzedmiotowić, pozbawić kontroli. Kobieta jako narzędzie. Ciało na haczyku. Co trzecia kobieta doświadcza w swoim życiu przemocy seksualnej ( www.who.int ). Co piąta zostanie w ciągu swojego życia zgwałcona ( www.bbc.co.uk ). Każecie nam o tym myśleć każdego dnia. Jeśli któraś miała kiedyś nieproszonego chuja w swoim tyłku, przez Was będzie go czuć każdego dnia. Niewygodnie chodzi się po mieście stale czując w dupie niechcianego chuja, serio. Wy nie tylko przypominacie nam o gwałcie. Wasza seksistowska, patriarchalna, banalizująca przemoc seksualną kultura wizualna wspiera kulturę gwałtu. Nie wierzycie? Poczytajcie wyniki badań www.uky.edu . To wy gwałcicie. Za gwałt należy się kara. Nudziecie nas. Nudzą nas wasze gry i zabawy, wzajemne umizgi, bale i aukcje charytatywne. Wydaje wam się, że żyjecie pełnią wolności, a zachowujecie sie jak nędzni dworzanie na zamku ubogiego króla. Plotki, uśmiechy, uprzejmości, obgadywanie, pseudo-afery i niby-konflitky o okruchy. Od lat bez zmian, choć czasem uda się podmienić bohaterów telenoweli. A kumulacja kapitału trwa. Nuda. Hossa czy bessa, banki mają się super. Fundusze Walutowe gromadzą kapitał. Pomnażają zysk. A gdy okaże się, że narozrabiają, ogłaszają Kryzys. Jednak nigdy, za nic nie ponoszą odpowiedzialności. Kryzys to tylko pretekst do mocniejszego dokręcenia śruby, ewentualnie roszady stanowisk na szczycie. Pełni arogancji nie oglądają się na protesty. Zależnie od nastrojów, społeczne postawy nazywają roszczeniowymi i wykluczają z debaty albo organizują spotkania i dyksusje, które nic nie wnoszą. Kapitalizm konsumuje każdą próbę oporu. Tak wygląda obecna demokracja. Nie jesteśmy oburzone. Jesteśmy wkurwione. Showbiznes i agencje PR. Marketing i reklama. Account i Art Director. A w tym wszystkim dziennikarze: czwarta władza podporządkowana wskaźnik…
+Stop. Dziękujemy.
+
+Komunikaty
+
+15W08 wita neoBANK w Warszawie!
+
+Przestańcie nas gwałcić.
+
+Ekskluzywny salon z odzieżą zniszczony.
+
+IV
+
+Zniszczona witryna w centrum Warszawy
+
+Zniszczone witryny trzech banków w Warszawie
+
+Podpalenie bankomatu w centrum Warszawy
+
+Inne
+
+Jak? (instrukcje)
+
+Jak zaklejajać billbordy?
+
+Jak przecinać płachty reklamowe?
+
+Czym malować?
+
+Artykuły
+
+15w08 czyli: Grecki Ogień W Środku Polskiej Zimy, Anonim
+
+Taktyka szczura, taktyka bobra, [2*2=(A)]
+
+15w08 — Radykalne Formy Ekspresji, Walosz
+
+Stop. Dziękujemy.
+
+Naprawdę nie mamy już cierpliwości aby dalej czekać i biernie patrzeć na to, co się z nami dzieje.
+
+Wasza przemoc ekonomiczna każdego dnia poniża miliony ludzi. Wasz kapitał codziennie krzyczy, że nie jesteśmy wystarczająco efektywni w produkcji waszego PKB. Gwałcicie nas swoimi kampaniami reklamowymi.
+
+Wasza przemoc policyjna każdego dnia trzyma w żelaznych ryzach każdą osobę, która odważy się na krytykę waszego świata.
+
+Wasze programy reform niczego nie zmieniają. Wszystko to, to tylko pudrowanie starego.
+
+Wasze granty i projekty utrzymują status quo.
+
+Wasze kampanie społeczne niczego nie załatwiają.
+
+Niczego nie zmieniacie.
+
+Wszystko pozostaje takie, jakie było.
+
+Codziennie odczuwamy skutki waszej przemocy.
+Wystarczy. Spierdalajcie.
+
+Z wściekłością witamy pierwszy oddział neoBANKu (dawniej- Wielkopolski Bank Spółdzielczy) w Warszawie. NeoBANK ma swoją centralę w Poznaniu, w którym to nazywany jest neoGANGIEM.
+
+neoBANK, poprzez swoje spółki-córki finansuje i aktywnie wspiera Fabrykę Mieszkań, firmę zajmującą się „czyszczeniem”, prywatyzowanych kamienic z lokatorów, czyli zastraszaniem i brutalnym usuwaniem. NeoBank jest bezpośrednio powiązany z dramatem mieszkańców kamienicy przy ul. Stolarskiej w Poznaniu. To dzięki finansowemu wsparciu neoBANKu mogą w Poznaniu działać takie świnie jak Piotr Śruba z ‘Fabryki Mieszkań’.
+
+Dlatego też, witamy neoBANK w Warszawie krótkim: WYPIERDALAĆ!
+
+Gwałcicie nas zbiorowo każdego dnia, każąc nam oglądać wasze seksistowskie reklamy. Każdego dnia przypominacie nam jak niewiele znaczy kobiece ciało, jak łatwo można je poniżyć, uprzedmiotowić, pozbawić kontroli. Kobieta jako narzędzie. Ciało na haczyku.
+
+Co trzecia kobieta doświadcza w swoim życiu przemocy seksualnej (www.who.int). Co piąta zostanie w ciągu swojego życia zgwałcona (www.bbc.co.uk). Każecie nam o tym myśleć każdego dnia. Jeśli któraś miała kiedyś nieproszonego chuja w swoim tyłku, przez Was będzie go czuć każdego dnia. Niewygodnie chodzi się po mieście stale czując w dupie niechcianego chuja, serio.
+
+Wy nie tylko przypominacie nam o gwałcie. Wasza seksistowska, patriarchalna, banalizująca przemoc seksualną kultura wizualna wspiera kulturę gwałtu. Nie wierzycie? Poczytajcie wyniki badań www.uky.edu. To wy gwałcicie.
+
+Za gwałt należy się kara.
+
+Nudziecie nas. Nudzą nas wasze gry i zabawy, wzajemne umizgi, bale i aukcje charytatywne. Wydaje wam się, że żyjecie pełnią wolności, a zachowujecie sie jak nędzni dworzanie na zamku ubogiego króla. Plotki, uśmiechy, uprzejmości, obgadywanie, pseudo-afery i niby-konflitky o okruchy. Od lat bez zmian, choć czasem uda się podmienić bohaterów telenoweli.
+
+A kumulacja kapitału trwa.
+
+Nuda.
+
+Hossa czy bessa, banki mają się super.
+
+Fundusze Walutowe gromadzą kapitał.
+
+Pomnażają zysk.
+
+A gdy okaże się, że narozrabiają, ogłaszają Kryzys.
+
+Jednak nigdy, za nic nie ponoszą odpowiedzialności. Kryzys to tylko pretekst do mocniejszego dokręcenia śruby, ewentualnie roszady stanowisk na szczycie. Pełni arogancji nie oglądają się na protesty. Zależnie od nastrojów, społeczne postawy nazywają roszczeniowymi i wykluczają z debaty albo organizują spotkania i dyksusje, które nic nie wnoszą.
+
+Kapitalizm konsumuje każdą próbę oporu.
+
+Tak wygląda obecna demokracja.
+
+Nie jesteśmy oburzone.
+
+Jesteśmy wkurwione.
+
+Showbiznes i agencje PR.
+
+Marketing i reklama.
+
+Account i Art Director.
+
+A w tym wszystkim dziennikarze: czwarta władza podporządkowana wskaźnikom zysku. Pseudo-życie pod dyktando opł…

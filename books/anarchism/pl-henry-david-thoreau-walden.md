@@ -19,4 +19,50 @@ files:
     hosted: false
 ---
 
-       Przedmowa      Gospodarka      Gdzie żyłem i po co      Lektura      Dźwięki      Samotność      Goście      Poletko fasoli      Miasteczko      Stawy      Farma Bakera      Szczytne zasady      Zwierzęta sąsiadami      Ogrzewanie domu      Poprzedni mieszkańcy i zimowi goście      Zwierzęta zimą      Staw w zimie      Wiosna      Zakończenie Renesans umysłowy w dziewiętnastowiecznej Ameryce to następstwo wpływu rewolucji romantycznej na mentalność purytańską. Dominował w nim duch filozofii utopijnej, ale każdy z nurtów tego odrodzenia znajdował własną drogę do utopii. Transcendentalizm – najwspanialszy trend renesansu w Nowej Anglii – nie zagościł w niej na długo (1830-60), tylko przez chwilę panował tam intelektualista, a nie kupiec, lecz ruchowi temu udało się wywołać nie znany dotychczas ferment, który wywarł ogromny wpływ na amerykańską umysłowość i literaturę również XX wieku. Idealizm tego odrodzenia romantycznego trafiał tylko do nielicznych silnych i subtelnych osobowości szanujących walory etyczne, odegrał jednak rolę nieproporcjonalnie wielką do liczebności jego głosicieli. Było to odrodzenie społeczne, literackie i filozoficzne. Historycznie rzecz biorąc transcendentalizm to jeden z wielu ruchów religijnych rozpowszechnionych w Ameryce pierwszej połowy XIX wieku. Nową Anglię należało wyzwolić z ciasnych dogmatów kalwinizmu. Kilkanaście lat wcześniej zaczął z nimi walkę unitarianizm jako ruch liberalny w ramach kongregacjonalizmu. Poddał rewizji deterministyczną teologię Kalwina w świetle nowej filozofii Rousseau i odrzucił doktrynę o predestynacji i wiecznym potępieniu zastępując ją nauką o miłosierdziu Bożym i doskonałej naturze człowieka. Tak to unitarianizm połączył purytańską przeszłość z nowym światem, który się rodził. Mściwy Bóg ustąpił miejsca Bogu miłości, nowa umysłowość życzliwie przyjmowała myśl społeczną romantycznej Europy. Owa doktryna wolności myśli zrodziła właśnie transcendentalizm, który – według O. B. Frothinghama, autora pierwszej historii ruchu – był w swej praktyce „potwierdzeniem bezspornej godności jednostki ludzkiej; w teorii zaś potwierdzeniem boskiej istoty instynktu, przyznaniem nadprzyrodzonych atrybutów fizycznej naturze człowieka”. Transcendentalizm nowoangielski łączył w sobie wpływy pięciu źródeł: neoplatonizmu, niemieckiego idealizmu i mistycyzmu, mistycznej filozofii Wschodu, francuskich doktryn utopijnych oraz tradycji purytańskiej, szkockiej i kwakierskiej. Z pierwszego źródła przejął przekonanie o wyższości ducha nad materią, wiarę w absolutne Dobro, Prawdę i Piękno. Z drugiego, z którego czerpał przede wszystkim pośrednio, z pism Coleridge’a, Wordswortha i Carlyle’a, zapożyczył wiarę w intuicję, w instynkt, a nie w rozum i doświadczenie, jako główne środki poznania, wiarę w sumienie jako podstawę prawdy i zaufania do siebie, jedyny bodziec wewnętrzny mogący wskazywać człowiekowi jego własną drogę. Z filozofii Wschodu transcendentalizm przejął ten rodzaj mistycyzmu, który pozwolił mu wypełnić luki w nie usystematyzowanym programie. Z czwartego źródła wypływało zainteresowanie przyrodą, miłość do niej, wiara w możliwość ucieczki od nowej epoki przemysłowej na łono natury albo w furierystyczną utopię. Wpływ piątego źródła nadawał ruchowi zabarwienie moralizatorskie i dydaktyczne. Dążąc do ideału, a z drugiej strony blisko z nim współżyjąc, skłaniał swoich wyznawców do krytycyzmu, wyrażał niezadowolenie z rzeczywistości, potępiał materializm jankeskiego świata. Pilnie strzegł ideałów społecznych Deklaracji Niepodległości, wyznawał zasadę egalitaryzmu. Usiłował pogodzić skrajny indywidualizm z odpowiedzialnością społeczną, propagował zasadę polegania na samym sobie ( self-reliance ). Lecz mimo wszystko trudno transcendentalizm nazwać w pełni systemem filozoficznym. J. E. Cabot, uznany krytyk ruchu, tak oto, nieco żartobliwie, wyraził się o poglądach grupy myślicieli z Concord: „Pojęcie «transcendentalny» mieściło w sobie wszystko, co leżało poza ogólnie przyjętymi zasadami …
+Przedmowa
+
+Gospodarka
+
+Gdzie żyłem i po co
+
+Lektura
+
+Dźwięki
+
+Samotność
+
+Goście
+
+Poletko fasoli
+
+Miasteczko
+
+Stawy
+
+Farma Bakera
+
+Szczytne zasady
+
+Zwierzęta sąsiadami
+
+Ogrzewanie domu
+
+Poprzedni mieszkańcy i zimowi goście
+
+Zwierzęta zimą
+
+Staw w zimie
+
+Wiosna
+
+Zakończenie
+
+Renesans umysłowy w dziewiętnastowiecznej Ameryce to następstwo wpływu rewolucji romantycznej na mentalność purytańską. Dominował w nim duch filozofii utopijnej, ale każdy z nurtów tego odrodzenia znajdował własną drogę do utopii. Transcendentalizm – najwspanialszy trend renesansu w Nowej Anglii – nie zagościł w niej na długo (1830-60), tylko przez chwilę panował tam intelektualista, a nie kupiec, lecz ruchowi temu udało się wywołać nie znany dotychczas ferment, który wywarł ogromny wpływ na amerykańską umysłowość i literaturę również XX wieku. Idealizm tego odrodzenia romantycznego trafiał tylko do nielicznych silnych i subtelnych osobowości szanujących walory etyczne, odegrał jednak rolę nieproporcjonalnie wielką do liczebności jego głosicieli. Było to odrodzenie społeczne, literackie i filozoficzne.
+
+Historycznie rzecz biorąc transcendentalizm to jeden z wielu ruchów religijnych rozpowszechnionych w Ameryce pierwszej połowy XIX wieku. Nową Anglię należało wyzwolić z ciasnych dogmatów kalwinizmu. Kilkanaście lat wcześniej zaczął z nimi walkę unitarianizm jako ruch liberalny w ramach kongregacjonalizmu. Poddał rewizji deterministyczną teologię Kalwina w świetle nowej filozofii Rousseau i odrzucił doktrynę o predestynacji i wiecznym potępieniu zastępując ją nauką o miłosierdziu Bożym i doskonałej naturze człowieka. Tak to unitarianizm połączył purytańską przeszłość z nowym światem, który się rodził. Mściwy Bóg ustąpił miejsca Bogu miłości, nowa umysłowość życzliwie przyjmowała myśl społeczną romantycznej Europy. Owa doktryna wolności myśli zrodziła właśnie transcendentalizm, który – według O. B. Frothinghama, autora pierwszej historii ruchu – był w swej praktyce „potwierdzeniem bezspornej godności jednostki ludzkiej; w teorii zaś potwierdzeniem boskiej istoty instynktu, przyznaniem nadprzyrodzonych atrybutów fizycznej naturze człowieka”.
+
+Transcendentalizm nowoangielski łączył w sobie wpływy pięciu źródeł: neoplatonizmu, niemieckiego idealizmu i mistycyzmu, mistycznej filozofii Wschodu, francuskich doktryn utopijnych oraz tradycji purytańskiej, szkockiej i kwakierskiej. Z pierwszego źródła przejął przekonanie o wyższości ducha nad materią, wiarę w absolutne Dobro, Prawdę i Piękno. Z drugiego, z którego czerpał przede wszystkim pośrednio, z pism Coleridge’a, Wordswortha i Carlyle’a, zapożyczył wiarę w intuicję, w instynkt, a nie w rozum i doświadczenie, jako główne środki poznania, wiarę w sumienie jako podstawę prawdy i zaufania do siebie, jedyny bodziec wewnętrzny mogący wskazywać człowiekowi jego własną drogę. Z filozofii Wschodu transcendentalizm przejął ten rodzaj mistycyzmu, który pozwolił mu wypełnić luki w nie usystematyzowanym programie. Z czwartego źródła wypływało zainteresowanie przyrodą, miłość do niej, wiara w możliwość ucieczki od nowej epoki przemysłowej na łono natury albo w furierystyczną utopię. Wpływ piątego źródła nadawał ruchowi zabarwienie moralizatorskie i dydaktyczne.
+
+Dążąc do ideału, a z drugiej strony blisko z nim współżyjąc, skłaniał swoich wyznawców do krytycyzmu, wyrażał niezadowolenie z rzeczywistości, potępiał materializm jankeskiego świata. Pilnie strzegł ideałów społecznych Deklaracji Niepodległości, wyznawał zasadę egalitaryzmu. Usiłował pogodzić skrajny indywidualizm z odpowiedzialnością społeczną, propagował zasadę polegania na samym sobie (self-reliance).
+
+Lecz mimo wszystko trudno transcendentalizm nazwać w pełni systemem filozoficznym. J. E. Cabot, uznany krytyk ruchu, tak oto, nieco żartobliwie, wyraził się o poglądach grupy myślicieli z Concord: „Pojęcie «transcendentalny» mieściło w sobie wszystko, co leżało poza ogólnie przyjętymi zasadami i tradycyjnymi przekonaniami.” H. D. Gray, jeden z pierwszych biografów Emer…

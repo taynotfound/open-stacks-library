@@ -19,4 +19,92 @@ files:
     hosted: false
 ---
 
-     Słowo wstępu - teza i antyteza mojej pracy      Historia katastrofy        Historia powstania gospodarki kapitalistycznej – czyli jak powstał kapitalistyczny świat        Typy gospodarki rynkowej i kapitalistycznej – szkoły ekonomiczne i modele          Leseferyzm          Szkoła austriacka          Keynesizm          Teorie podkonsumpcji          Teoria luki popytowej      Neoliberalizm        Kryzys naftowy, kres państwa dobrobytu i ekspansja neoliberalizmu – czyli jak brednie zwojowały świat        Czym jest neoliberalizm?        3 fale neoliberalizmu        Neoliberalizm w praktyce – katastrofa dla świata        Chilijski mit      Czy gospodarka kapitalistycznej równa się gospodarce rynkowej?      Zbiór mitów i dogmatów – czyli zasady gospodarki neoliberalnej        Niewidzialna ręka rynku – nowa religia?        Mit racjonalnego wyboru        Własność prywatna – bożek współczesnych czasów        Deregulacja i konkurencja          Deregulacja rynku pracy        Mit konkurencji        Prywatyzacja          Prywatyzacja „obiektów użyteczności publicznej”          Prywatyzacja gospodarki          Reprywatyzacja        Absurdy gospodarki rynkowej w wymiarze (neo)liberalnym – rzeź niewiniątek          Absurd niskich podatków          Absurd walki z biurokracją          Wolny handel – globalny faryzeusz          Liberalizacja barier kapitałowych – rajskie jabłka          Śmierć człowieka pracy – nowe Jerusalem      Demokracja i wolny rynek – męczennicy wolnego rynku      Dlaczego gospodarka rynkowa zawodzi? (katastrofa społeczna u progu XXI wieku)      Bibliografia Co mamy na myśli mówiąc „gospodarka rynkowa”? Wątpię by istniała jedna, uniwersalna oraz powszechnie akceptowana definicja. Te najprostsze, jak ta PWNu [1] , określają nam to pojęcie jako system ekonomiczny, w którym to „rynek jest podstawowym regulatorem”. Czym jest jednak rynek? Jaka jest jego istota? Nie da się ukryć, że jest to pojęcie bardzo enigmatyczne i z całą pewnością jego zdefiniowanie zależne jest od stopnia ortodoksji. Jednakże w czasach obecnych automatycznie nasuwającym się poglądem jest stawianie owego „rynku” i „gospodarki rynkowej” w opozycji wobec „gospodarki planowej” , „gospodarki mieszanej” oraz interwencjonistycznego modelu ekonomicznego. Jednak w rzeczywistości zarówno „gospodarkę rynkową” jak i „gospodarkę planową (nie centralnie planowaną) i mieszaną” uznaje się za pewne warianty szeroko rozumianej gospodarki kapitalistycznej. To też gospodarka kapitalistyczna czy też kapitalizm, jest pojęciem znacznie szerszym. Nie zawsze więc gospodarka kapitalistyczna będzie przybierać model gospodarki rynkowej, lecz zawsze gospodarkę rynkową uznać możemy za pewien wariant gospodarki kapitalistycznej. Dlatego też, dla uproszczenia w pracy będę traktował pojęcia „wolnego rynku”, „rynku” oraz kapitalizmu zamiennie. Z resztą jest to zgodne z zakorzenionym w społeczeństwie przekonaniem, które każe utożsamiać te pojęcia ze sobą. Zasadniczym celem mojej pracy jest próba ukazania, iż podzielanie rynkowych założeń jest niczym innym jak nieco inną formą religii, opartą na wierze w dogmaty i braku racjonalizmu. Lecz nie jest to zwykła forma religii. W wielu aspektach przybiera ona formę fundamentalizmu. Apologeci wolnego rynku, niemal z teologicznym przekonaniem o słuszności rynku oraz jego nieomylności, głoszą zasady tej wiary. Jakakolwiek próba jej podważania jest odbierana jak obraza świętości i przeciwstawienie się prawdzie objawionej. Spotyka się więc ze zdecydowanym kontratakiem, przybierającym bardzo różne formy, w zależności od kraju i stopnia fundamentalizmu. Tak jak w Chile i innych dyktaturach mogło to skończyć się aresztowaniem, torturami i rozstrzelaniem. W innych krajach wyłącznie napiętnowaniem i marginalizacją medialną, jako próba podważenia obowiązującego paradygmatu, będącego „końcem historii”. Swoją analizę cech i zasad gospodarki rynkowej oparłem w dużej mierze na pryzmacie neoliberalizmu. Poczyniłem tak ze względu na dwa fakty. Po pierwsze: …
+Słowo wstępu - teza i antyteza mojej pracy
+
+Historia katastrofy
+
+Historia powstania gospodarki kapitalistycznej – czyli jak powstał kapitalistyczny świat
+
+Typy gospodarki rynkowej i kapitalistycznej – szkoły ekonomiczne i modele
+
+Leseferyzm
+
+Szkoła austriacka
+
+Keynesizm
+
+Teorie podkonsumpcji
+
+Teoria luki popytowej
+
+Neoliberalizm
+
+Kryzys naftowy, kres państwa dobrobytu i ekspansja neoliberalizmu – czyli jak brednie zwojowały świat
+
+Czym jest neoliberalizm?
+
+3 fale neoliberalizmu
+
+Neoliberalizm w praktyce – katastrofa dla świata
+
+Chilijski mit
+
+Czy gospodarka kapitalistycznej równa się gospodarce rynkowej?
+
+Zbiór mitów i dogmatów – czyli zasady gospodarki neoliberalnej
+
+Niewidzialna ręka rynku – nowa religia?
+
+Mit racjonalnego wyboru
+
+Własność prywatna – bożek współczesnych czasów
+
+Deregulacja i konkurencja
+
+Deregulacja rynku pracy
+
+Mit konkurencji
+
+Prywatyzacja
+
+Prywatyzacja „obiektów użyteczności publicznej”
+
+Prywatyzacja gospodarki
+
+Reprywatyzacja
+
+Absurdy gospodarki rynkowej w wymiarze (neo)liberalnym – rzeź niewiniątek
+
+Absurd niskich podatków
+
+Absurd walki z biurokracją
+
+Wolny handel – globalny faryzeusz
+
+Liberalizacja barier kapitałowych – rajskie jabłka
+
+Śmierć człowieka pracy – nowe Jerusalem
+
+Demokracja i wolny rynek – męczennicy wolnego rynku
+
+Dlaczego gospodarka rynkowa zawodzi? (katastrofa społeczna u progu XXI wieku)
+
+Bibliografia
+
+Co mamy na myśli mówiąc „gospodarka rynkowa”? Wątpię by istniała jedna, uniwersalna oraz powszechnie akceptowana definicja. Te najprostsze, jak ta PWNu[1], określają nam to pojęcie jako system ekonomiczny, w którym to „rynek jest podstawowym regulatorem”.
+
+Czym jest jednak rynek? Jaka jest jego istota? Nie da się ukryć, że jest to pojęcie bardzo enigmatyczne i z całą pewnością jego zdefiniowanie zależne jest od stopnia ortodoksji.
+
+Jednakże w czasach obecnych automatycznie nasuwającym się poglądem jest stawianie owego „rynku” i „gospodarki rynkowej” w opozycji wobec „gospodarki planowej” , „gospodarki mieszanej” oraz interwencjonistycznego modelu ekonomicznego. Jednak w rzeczywistości zarówno „gospodarkę rynkową” jak i „gospodarkę planową (nie centralnie planowaną) i mieszaną” uznaje się za pewne warianty szeroko rozumianej gospodarki kapitalistycznej.
+
+To też gospodarka kapitalistyczna czy też kapitalizm, jest pojęciem znacznie szerszym. Nie zawsze więc gospodarka kapitalistyczna będzie przybierać model gospodarki rynkowej, lecz zawsze gospodarkę rynkową uznać możemy za pewien wariant gospodarki kapitalistycznej.
+
+Dlatego też, dla uproszczenia w pracy będę traktował pojęcia „wolnego rynku”, „rynku” oraz kapitalizmu zamiennie. Z resztą jest to zgodne z zakorzenionym w społeczeństwie przekonaniem, które każe utożsamiać te pojęcia ze sobą.
+
+Zasadniczym celem mojej pracy jest próba ukazania, iż podzielanie rynkowych założeń jest niczym innym jak nieco inną formą religii, opartą na wierze w dogmaty i braku racjonalizmu. Lecz nie jest to zwykła forma religii. W wielu aspektach przybiera ona formę fundamentalizmu.
+
+Apologeci wolnego rynku, niemal z teologicznym przekonaniem o słuszności rynku oraz jego nieomylności, głoszą zasady tej wiary. Jakakolwiek próba jej podważania jest odbierana jak obraza świętości i przeciwstawienie się prawdzie objawionej. Spotyka się więc ze zdecydowanym kontratakiem, przybierającym bardzo różne formy, w zależności od kraju i stopnia fundamentalizmu.
+
+Tak jak w Chile i innych dyktaturach mogło to skończyć się aresztowaniem, torturami i rozstrzelaniem. W innych krajach wyłącznie napiętnowaniem i marginalizacją medialną, jako próba podważenia obowiązującego paradygmatu, będącego „końcem historii”.
+
+Swoją analizę cech i zasad gospodarki rynkowej oparłem w dużej mierze na pryzmacie neoliberalizmu. Poczyniłem tak ze względu na dwa fakty. Po pierwsze: ze względu na dominację tego nurtu ekonomii rynkowej w ostatnich ostatnich 30 latach niemal na całym świecie, a po drugie, albowiem współczesny dyskurs każde nam utożsamiać neoliberalizm jako jedyną słuszną koncepcję ekono…

@@ -19,4 +19,58 @@ files:
     hosted: false
 ---
 
-     Przedmowa      Wstęp        1. Nie ma więźniów politycznych, są tylko jeńcy wojenni        2. Nie ma więzień, jest tylko uwięzienie.        3. Nie da się obalić więzień - można je tylko zniszczyć Żadna osoba doświadczająca przemocy aparatu państwa nie powinna zostać sama - państwo nigdy nas nie chroni i to my musimy bronić swoich sióstr. Dlatego, osobo czytająca, sięgaj po świadectwa więźniów. Pisz do nich listy. Wspieraj anarchistyczny czarny krzyż. Okazuj radykalną empatię i pomoc wzajemną. I krzycz na solidemach tak, żeby osoby uwięzione w smutnych murach wiedziały, że nie są i nie będą zapomniane. „razem tysiącem spojrzeń tysiącem wyciągniętych w górę rąk czynny sprzeciw wobec nacjonalistów czynny sprzeciw wobec represji czynne działanie zagradzające drogę do zburzenia wolności każdego człowieka niezależnie od politycznej świata mapy” Simbola Antifaszista, Wielka Polska Antyfaszystowska There's no justice in this system A bigger cage is still a prison Well I hope that somewhere someone breaks free tonight Cistem failure, A Bigger Cage Is Still A Prison Poniższy tekst jest krótką, ale gruntowną analizą więzień i tego, w jaki sposób niektóre osoby sprzeciwiają się ich istnieniu. Zawiera szeroką krytykę wielu powszechnie przyjętych założeń i stanowisk, którymi można by podsumować lewicow ą i anarchistyczn ą praktykę polityczną związaną z więzieniami i osobami osadzonymi . G łównym powodem, dla którego zdecydowaliśmy się przedrukować te n artykuł w formie zina (pierwotnie ukazał się on w numerze dziesiątym magazyn u Fire to the Prisons ), była jego ostra krytyka rosnącego w ostatnich latach ruchu „abolicjonist ów ” więziennych . Choć zdajemy sobie sprawę, że nie wszystkie abolicjonistki są takie same, ruch ten w większości przedstawia się jako próba „skurczenia” przemysłu więziennego [1] do zera, przy jednoczesnym stopniowym zastępowaniu zakładów karnych innymi, mniej brutalnymi (ale, co nieuniknione, kontrolowanymi lub sankcjonowanymi przez państwo) instytucjami. Oznacza to nie tyle ich zniknięcie, co przenikanie do reszty społeczeństwa charakterystycznych dla nich mechanizmów (stały nadzór, militaryzacja policji itp.). To wskazuje na ablację więzień, nie ich abolicję: usunięcie jednego aspektu opresyjne go ciała politycznego [2] , przy jednoczesnym pozostawieniu wszystkich struktur, które go zapoczątkowały. Niestety, niektóre osoby anarchistyczne przejęły nie tylko retorykę tego ruchu, ale nawet jego metody: kampanie mające przeforsować konkretne ustawy, negocjowanie żądań, dzielenie więźniarek na polityczne i niepolityczne, odwoływanie się do amnestii i niewinności oraz unikanie kontaktu z tymi osadzonymi, którzy rzeczywiście się buntują. Innymi słowy, są to taktyki typowe dla podejścia gradualistycznego. Jako rewolucjoniści wierzymy, że istnieją inne opcje. Jak pokazały ostatnie fale protestów pod aresztami i więzieniami, które dumnie wołały: „Uwolnić wszystkich uwięzionych” – nie mówiąc już o wielkim strajku, który wstrząsnął więzieniami w Georgii w grudniu ubiegłego roku [3] , czy nawet wielokrotnych udanych atakach na ośrodki detencyjne imigrantów we Włoszech – istnieją inne sposoby na zaatakowanie więzienia; takie, które nie wymagają kapitulacji czy ablacji. Drukujemy to w nadziei, że podobne metody się upowszechnią, a stojące za nimi idee trafią na podatny grunt. – NC Piece Corps „I am not a crook.” [4] – Richard M. Nixon Pomiędzy sferami przestępczości i polityki jest ogromna przepaść. Politycy tworzą prawo, przestępcy je łamią. W tym kontekście idea więźnia politycznego jest wewnętrznie sprzeczna. W rzeczywistości ta sprzeczność jest tak zasadnicza, że stanowi podstawę wielu apeli o uwolnienie więźniów politycznych. Argumentuje się, że są oni szczególną klasą więźniów, którzy wcale nie są przestępcami, ale ludźmi, którzy byli zaangażowani w legalną działalność polityczną. Nie naruszyli oni prawa, ale raczej prawo zostało użyte przeciwko nim w celu uniemożliwienia ich działalności politycznej - oto jeden z możli…
+Przedmowa
+
+Wstęp
+
+1. Nie ma więźniów politycznych, są tylko jeńcy wojenni
+
+2. Nie ma więzień, jest tylko uwięzienie.
+
+3. Nie da się obalić więzień - można je tylko zniszczyć
+
+Żadna osoba doświadczająca przemocy aparatu państwa nie powinna zostać sama - państwo nigdy nas nie chroni i to my musimy bronić swoich sióstr.
+
+Dlatego, osobo czytająca, sięgaj po świadectwa więźniów. Pisz do nich listy. Wspieraj anarchistyczny czarny krzyż. Okazuj radykalną empatię i pomoc wzajemną. I krzycz na solidemach tak, żeby osoby uwięzione w smutnych murach wiedziały, że nie są i nie będą zapomniane.
+
+„razem tysiącem spojrzeń
+
+tysiącem wyciągniętych w górę rąk
+
+czynny sprzeciw wobec nacjonalistów
+
+czynny sprzeciw wobec represji
+
+czynne działanie zagradzające drogę
+
+do zburzenia wolności każdego człowieka
+
+niezależnie od politycznej świata mapy”
+
+Simbola Antifaszista, Wielka Polska Antyfaszystowska
+
+There's no justice in this system
+
+A bigger cage is still a prison
+
+Well I hope that somewhere someone breaks free tonight
+
+Cistem failure, A Bigger Cage Is Still A Prison
+
+Poniższy tekst jest krótką, ale gruntowną analizą więzień i tego, w jaki sposób niektóre osoby sprzeciwiają się ich istnieniu. Zawiera szeroką krytykę wielu powszechnie przyjętych założeń i stanowisk, którymi można by podsumować lewicową i anarchistyczną praktykę polityczną związaną z więzieniami i osobami osadzonymi. Głównym powodem, dla którego zdecydowaliśmy się przedrukować ten artykuł w formie zina (pierwotnie ukazał się on w numerze dziesiątym magazynu Fire to the Prisons), była jego ostra krytyka rosnącego w ostatnich latach ruchu „abolicjonistów” więziennych.
+
+Choć zdajemy sobie sprawę, że nie wszystkie abolicjonistki są takie same, ruch ten w większości przedstawia się jako próba „skurczenia” przemysłu więziennego[1] do zera, przy jednoczesnym stopniowym zastępowaniu zakładów karnych innymi, mniej brutalnymi (ale, co nieuniknione, kontrolowanymi lub sankcjonowanymi przez państwo) instytucjami. Oznacza to nie tyle ich zniknięcie, co przenikanie do reszty społeczeństwa charakterystycznych dla nich mechanizmów (stały nadzór, militaryzacja policji itp.). To wskazuje na ablację więzień, nie ich abolicję: usunięcie jednego aspektu opresyjnego ciała politycznego[2], przy jednoczesnym pozostawieniu wszystkich struktur, które go zapoczątkowały.
+
+Niestety, niektóre osoby anarchistyczne przejęły nie tylko retorykę tego ruchu, ale nawet jego metody: kampanie mające przeforsować konkretne ustawy, negocjowanie żądań, dzielenie więźniarek na polityczne i niepolityczne, odwoływanie się do amnestii i niewinności oraz unikanie kontaktu z tymi osadzonymi, którzy rzeczywiście się buntują. Innymi słowy, są to taktyki typowe dla podejścia gradualistycznego.
+
+Jako rewolucjoniści wierzymy, że istnieją inne opcje. Jak pokazały ostatnie fale protestów pod aresztami i więzieniami, które dumnie wołały: „Uwolnić wszystkich uwięzionych” – nie mówiąc już o wielkim strajku, który wstrząsnął więzieniami w Georgii w grudniu ubiegłego roku[3], czy nawet wielokrotnych udanych atakach na ośrodki detencyjne imigrantów we Włoszech – istnieją inne sposoby na zaatakowanie więzienia; takie, które nie wymagają kapitulacji czy ablacji. Drukujemy to w nadziei, że podobne metody się upowszechnią, a stojące za nimi idee trafią na podatny grunt.
+
+– NC Piece Corps
+
+„I am not a crook.”[4]
+
+– Richard M. Nixon
+
+Pomiędzy sferami przestępczości i polityki jest ogromna przepaść. Politycy tworzą prawo, przestępcy je łamią. W tym kontekście idea więźnia politycznego jest wewnętrznie sprzeczna. W rzeczywistości ta sprzeczność jest tak zasadnicza, że stanowi podstawę wielu apeli o uwolnienie więźniów politycznych. Argumentuje się, że są oni szczególną klasą więźniów, którzy wcale nie są przestępcami, ale ludźmi, którzy byli zaangażowani w legalną działalność polityczną.
+
+Nie naruszyli oni prawa, ale raczej prawo zostało użyte przeciwko nim w celu uniemożliwienia ich działalności politycznej - oto jeden z możliwych sposobów rozumie…

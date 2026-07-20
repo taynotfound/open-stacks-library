@@ -19,4 +19,54 @@ files:
     hosted: false
 ---
 
-       1. The Demonology of Primitivism          The Demonology of Primitivism: Electricity, Language, and other Modern Evils        2. An Ignoble Savage        3. What is the primitivist ideal?          No Language          No Technology          No Agriculture        4. Realities of Tribal Lifeways        5. Primitivist Attacks on Anarchism        6. The Bloody Side of Primitivism        7. Appendix: On Decoding Primitivist Babble          Conflation of Civilization and Coercive Social Relations          Conflation of Technology and Coercive Social Relations          Conflation of “Industrialism” and Capitalism          Conflation of Poverty and Freedom          Conflation of Group Decision Making and Statecraft          Conflation of Organization and Authoritarians (or “Leninism”)          Conflation of Unions per se with “Mediating Structures of Oppression”          Conflation of Economics and Competition “No one has ever been so witty as you are in trying to turn us into brutes: to read your book makes one long to go on all fours. Since, however, it is now some sixty years since I gave up the practice, I feel that it is unfortunately impossible for me to resume it: I leave this natural habit to those more fit for it than are you and I.” —Voltaire, letter to Rousseau, August 30, 1755. Gar Smith, editor of the Earth Island Institute journal, The Edge , and critic of modern technology, recently complained to journalists, “I have seen villages in Africa that had vibrant culture and great communities that were disrupted and destroyed by the introduction of electricity.” He added: “I don’t think a lot of electricity is a good thing. It is the fuel that powers a lot of multi-national imagery.” When asked why lack of electricity—a hallmark of poverty—ought to be considered advantageous, Smith said, “The idea that people are poor doesn’t mean that they are not living good lives.” He added, “there is a lot of quality to be had in poverty.” John Zerzan, a leading modern primitivist, writes in a similar vein, but claims those living in societies before electricity enjoyed higher standards of mental well-being: “Being alive in nature, before our abstraction from it [through modern civilization], must have involved a perception and contact that we can scarcely comprehend from our levels of anguish and alienation. The communication with all of existence must have been an exquisite play of all the senses, reflecting the numberless, nameless varieties of pleasure and emotion once accessible within us.” Zerzan, the Green Anarchy Collective, and other primitivists regularly reminisce over an ideal past where “the wheat and corn, pigs and horses were once freely dancing in the chaos of nature.” In fact, through their activism primitivists hope to deliver society into this primal chaos, so that the “wheat and corn, pigs and horses”—and the rest of us, presumably—may freely dance once more. On web sites like primitivism.com, primitivists tell us how the Internet should not exist. In printed magazines like Green Anarchy , they condemn printing presses and typesetting technology. And in events like the Green Anarchy Tour of 2001, they complain of the roads that enable them to travel, the electricity that powers the instruments of their tour’s musical acts, and of the existence of the facilities that host their events. Primitivists enjoin their audience to live like early hominids, though they certainly don’t lead by example. When analyzing primitivist musings, two mysteries immediately confront the reader. The first: how can such ideas be seriously entertained by anyone? Electricity, advanced medical care, information technologies, artificial heating and cooling, water purification, and countless other modern innovations are regarded by primitivists as undesirable. One would think that the lifespan of such notions would be as short as that of a Palaeolithic tribesman’s. Yet, primitive thinking is currently enjoying a kind of vogue among the radi…
+1. The Demonology of Primitivism
+
+The Demonology of Primitivism: Electricity, Language, and other Modern Evils
+
+2. An Ignoble Savage
+
+3. What is the primitivist ideal?
+
+No Language
+
+No Technology
+
+No Agriculture
+
+4. Realities of Tribal Lifeways
+
+5. Primitivist Attacks on Anarchism
+
+6. The Bloody Side of Primitivism
+
+7. Appendix: On Decoding Primitivist Babble
+
+Conflation of Civilization and Coercive Social Relations
+
+Conflation of Technology and Coercive Social Relations
+
+Conflation of “Industrialism” and Capitalism
+
+Conflation of Poverty and Freedom
+
+Conflation of Group Decision Making and Statecraft
+
+Conflation of Organization and Authoritarians (or “Leninism”)
+
+Conflation of Unions per se with “Mediating Structures of Oppression”
+
+Conflation of Economics and Competition
+
+“No one has ever been so witty as you are in trying to turn us into brutes: to read your book makes one long to go on all fours. Since, however, it is now some sixty years since I gave up the practice, I feel that it is unfortunately impossible for me to resume it: I leave this natural habit to those more fit for it than are you and I.”
+
+—Voltaire, letter to Rousseau, August 30, 1755.
+
+Gar Smith, editor of the Earth Island Institute journal, The Edge, and critic of modern technology, recently complained to journalists, “I have seen villages in Africa that had vibrant culture and great communities that were disrupted and destroyed by the introduction of electricity.” He added: “I don’t think a lot of electricity is a good thing. It is the fuel that powers a lot of multi-national imagery.” When asked why lack of electricity—a hallmark of poverty—ought to be considered advantageous, Smith said, “The idea that people are poor doesn’t mean that they are not living good lives.” He added, “there is a lot of quality to be had in poverty.”
+
+John Zerzan, a leading modern primitivist, writes in a similar vein, but claims those living in societies before electricity enjoyed higher standards of mental well-being: “Being alive in nature, before our abstraction from it [through modern civilization], must have involved a perception and contact that we can scarcely comprehend from our levels of anguish and alienation. The communication with all of existence must have been an exquisite play of all the senses, reflecting the numberless, nameless varieties of pleasure and emotion once accessible within us.” Zerzan, the Green Anarchy Collective, and other primitivists regularly reminisce over an ideal past where “the wheat and corn, pigs and horses were once freely dancing in the chaos of nature.” In fact, through their activism primitivists hope to deliver society into this primal chaos, so that the “wheat and corn, pigs and horses”—and the rest of us, presumably—may freely dance once more.
+
+On web sites like primitivism.com, primitivists tell us how the Internet should not exist. In printed magazines like Green Anarchy, they condemn printing presses and typesetting technology. And in events like the Green Anarchy Tour of 2001, they complain of the roads that enable them to travel, the electricity that powers the instruments of their tour’s musical acts, and of the existence of the facilities that host their events. Primitivists enjoin their audience to live like early hominids, though they certainly don’t lead by example.
+
+When analyzing primitivist musings, two mysteries immediately confront the reader. The first: how can such ideas be seriously entertained by anyone? Electricity, advanced medical care, information technologies, artificial heating and cooling, water purification, and countless other modern innovations are regarded by primitivists as undesirable. One would think that the lifespan of such notions would be as short as that of a Palaeolithic tribesman’s. Yet, primitive thinking is currently enjoying a kind of vogue among the radical left.
+
+The second perturbation: how to begin to make sense of all the rubbish primitivists write? Some of their screeds, on the one…

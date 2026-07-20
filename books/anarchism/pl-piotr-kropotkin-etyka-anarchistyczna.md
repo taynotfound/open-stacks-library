@@ -19,4 +19,40 @@ files:
     hosted: false
 ---
 
-       ROZDZIAŁ I        ROZDZIAŁ II        ROZDZIAŁ III        ROZDZIAŁ IV        ROZDZIAŁ V        ROZDZIAŁ VI        ROZDZIAŁ VII        ROZDZIAŁ VIII        ROZDZIAŁ IX        ROZDZIAŁ X Dzieje myśli ludzkiej już od wielu stuleci przypominają zegar, który co pewien czas staje i znowu zostaje nakręcony. Po długim okresie snu umysłowego - nastaje moment przebudzenia. Wówczas rozbudzona myś l rozsadza ła ńcuchy w które ją starannie zakuł rząd, prawodawca i duchowny. Surowej krytyce poddaje wszystko, co zostało jej narzucone. Odrzuca wszelkie przesądy religijne, polityczne, prawodawcze, wśród których wegetowała do tej pory, toruje nowe, nieznane drogi, wzbogaca wiedzę i kładzie podwaliny nowej nauki. Jednak zakorzenieni wrogowie wszelkiej niezależnej myśli rząd, prawodawca i duchowny, rychło dźwigają się ze swej porażki. Jednoczą stopniowo swe rozstrzelone siły odmładzają swe wierzenia i prawa, dostosowując je w pewnym stopniu do ducha czasu. Powracają do swego dzieła, wykorzystując dla tego celu niewolnicze rysy charakterów i myśli, krzewione przez nich samych z takim powodzeniem. Dalej korzystają z chwilowej dezorganizacji społeczeństwa, pragnienia spokoju u jednych, żądzy wzbogacenia się u drugich - zawiedzionych nadziei u trzecich. Opierają się zwłaszcza na zawiedzionych nadziejach, ale przede wszystkim rozciągają pieczę nad wychowaniem młodzieży. Dziecięcy umysł jest słaby, niezmiernie łatwo daje się opanować za pomocą strachu. Działalność wychowawcza sfer reakcyjnych na tym się wła śnie opiera. Opowiada się dzieciom o mękach piekielnych, zemście nieprzebłaganego boga, cierpieniach potępionej duszy Nieco później zapoznaje się je z okropnościami rewolucji i korzysta się z każdego błędu rewolucjonistów, aby z dziecka zrobić przyjaciela porządku. Duchowny krzewi ideę praworządności, aby tym łatwiej wzbudzić w nim uległość dla praw, które zwie boskimi. Prawnik mówi mu o prawach boskich, chcąc wzbudzić tym większe poszanowanie dla prawa burżuazyjnego. Dzięki przyzwyczajeniu do uległo ści, myśl podrastającego pokolenia przyjmuje kierunek religijny, niewolniczo poddający się autorytetowi. Autorytet i uczucia niewolnicze idą zawsze w parze, co niestety, aż zbyt dobrze obserwować można u ludzi współczesnych. Podczas okresów martwoty umysłowej zagadnienia moralne bywają nader rzadko dyskutowane. Praktyki religijne i prawodawcza obłuda czynią dyskusję zbędną. Nic się nie krytykuje. Wszystkim kieruje przyzwyczajenie i obojętność. Nie zdarzają się gorące wystąpienia ani za, ani przeciw ustalonym normom moralności. Każdy stara się jedynie zewnę trznie dostosować swe postępowanie do tego, co jest uznane. Poziom moralny spada coraz to niżej, aż dopóki nie dosięgnie poziomu, który panował w czasach imperium rzymskiego, powtórzył się w okresie poprzedzającym Wielką Rewolucję Francuską i który istnieje obecnie przy schyłku królowania burżuazji. Wszystko, co wielkie, wzniosłe, wspaniałomyślne, niezależne w człowieku, rdzewieje jak nieużywany nóż. Kłamstwo zostaje podniesione do godności cnoty, słu żalstwo - do obowiązku. Wzbogacać się , używać chwili, marnotrawić swą inteligencję, swój zapał, swą energię w pierwszy lepszy sposób - jest hasłem nie tylko klas posiadających, ale także znacznej liczby robotników, których ideałem jest kroczenie śladami burżuazji. Demoralizacja rządu, sędziów, duchowieństwa, a także mniej lub więcej wzbogaconych klas społecznych dochodzi do tak przeraźliwego stopnia, iż zegar dziejowy znowu musi zostać wprowadzony w ruch. Stopniowo zaczyna się wyzwalać młodzież: odrzuca przesądy, przyjmuje postawę krytyczną. Myśl budzi się najpierw u poszczególnych jednostek, a następnie, niemal niedostrzegalnie, opanowuje wielkie masy. Impuls jest dany - rewolucja wstępuje na widownię. I za każdym razem powraca na nowo na porządek dzienny zagadnienie etyki. „Dlaczego właś ciwie mam się stosować do tych obłudnych zasad etycznych?” - pyta umysł świeżo wyzwolony z kurateli religijnej. „Po co wła ściwie mam być skrępowany przez jakąk…
+ROZDZIAŁ I
+
+ROZDZIAŁ II
+
+ROZDZIAŁ III
+
+ROZDZIAŁ IV
+
+ROZDZIAŁ V
+
+ROZDZIAŁ VI
+
+ROZDZIAŁ VII
+
+ROZDZIAŁ VIII
+
+ROZDZIAŁ IX
+
+ROZDZIAŁ X
+
+Dzieje myśli ludzkiej już od wielu stuleci przypominają zegar, który co pewien czas staje i znowu zostaje nakręcony.
+
+Po długim okresie snu umysłowego - nastaje moment przebudzenia. Wówczas rozbudzona myś l rozsadza ła ńcuchy w które ją starannie zakuł rząd, prawodawca i duchowny. Surowej krytyce poddaje wszystko, co zostało jej narzucone. Odrzuca wszelkie przesądy religijne, polityczne, prawodawcze, wśród których wegetowała do tej pory, toruje nowe, nieznane drogi, wzbogaca wiedzę i kładzie podwaliny nowej nauki.
+
+Jednak zakorzenieni wrogowie wszelkiej niezależnej myśli rząd, prawodawca i duchowny, rychło dźwigają się ze swej porażki. Jednoczą stopniowo swe rozstrzelone siły odmładzają swe wierzenia i prawa, dostosowując je w pewnym stopniu do ducha czasu. Powracają do swego dzieła, wykorzystując dla tego celu niewolnicze rysy charakterów i myśli, krzewione przez nich samych z takim powodzeniem. Dalej korzystają z chwilowej dezorganizacji społeczeństwa, pragnienia spokoju u jednych, żądzy wzbogacenia się u drugich - zawiedzionych nadziei u trzecich. Opierają się zwłaszcza na zawiedzionych nadziejach, ale przede wszystkim rozciągają pieczę nad wychowaniem młodzieży.
+
+Dziecięcy umysł jest słaby, niezmiernie łatwo daje się opanować za pomocą strachu. Działalność wychowawcza sfer reakcyjnych na tym się wła śnie opiera. Opowiada się dzieciom o mękach piekielnych, zemście nieprzebłaganego boga, cierpieniach potępionej duszy Nieco później zapoznaje się je z okropnościami rewolucji i korzysta się z każdego błędu rewolucjonistów, aby z dziecka zrobić przyjaciela porządku. Duchowny krzewi ideę praworządności, aby tym łatwiej wzbudzić w nim uległość dla praw, które zwie boskimi. Prawnik mówi mu o prawach boskich, chcąc wzbudzić tym większe poszanowanie dla prawa burżuazyjnego. Dzięki przyzwyczajeniu do uległo ści, myśl podrastającego pokolenia przyjmuje kierunek religijny, niewolniczo poddający się autorytetowi. Autorytet i uczucia niewolnicze idą zawsze w parze, co niestety, aż zbyt dobrze obserwować można u ludzi współczesnych.
+
+Podczas okresów martwoty umysłowej zagadnienia moralne bywają nader rzadko dyskutowane. Praktyki religijne i prawodawcza obłuda czynią dyskusję zbędną. Nic się nie krytykuje. Wszystkim kieruje przyzwyczajenie i obojętność. Nie zdarzają się gorące wystąpienia ani za, ani przeciw ustalonym normom moralności. Każdy stara się jedynie zewnę trznie dostosować swe postępowanie do tego, co jest uznane. Poziom moralny spada coraz to niżej, aż dopóki nie dosięgnie poziomu, który panował w czasach imperium rzymskiego, powtórzył się w okresie poprzedzającym Wielką Rewolucję Francuską i który istnieje obecnie przy schyłku królowania burżuazji.
+
+Wszystko, co wielkie, wzniosłe, wspaniałomyślne, niezależne w człowieku, rdzewieje jak nieużywany nóż. Kłamstwo zostaje podniesione do godności cnoty, słu żalstwo - do obowiązku. Wzbogacać się , używać chwili, marnotrawić swą inteligencję, swój zapał, swą energię w pierwszy lepszy sposób - jest hasłem nie tylko klas posiadających, ale także znacznej liczby robotników, których ideałem jest kroczenie śladami burżuazji. Demoralizacja rządu, sędziów, duchowieństwa, a także mniej lub więcej wzbogaconych klas społecznych dochodzi do tak przeraźliwego stopnia, iż zegar dziejowy znowu musi zostać wprowadzony w ruch.
+
+Stopniowo zaczyna się wyzwalać młodzież: odrzuca przesądy, przyjmuje postawę krytyczną. Myśl budzi się najpierw u poszczególnych jednostek, a następnie, niemal niedostrzegalnie, opanowuje wielkie masy. Impuls jest dany - rewolucja wstępuje na widownię.
+
+I za każdym razem powraca na nowo na porządek dzienny zagadnienie etyki. „Dlaczego właś ciwie mam się stosować do tych obłudnych zasad etycznych?” - pyta umysł świeżo wyzwolony z kurateli religijnej. „Po co wła ściwie mam być skrępowany przez jakąkolwiek moralność?”
+
+Usiłujemy wówczas zgłębić owo, sp…

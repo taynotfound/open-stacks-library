@@ -17,11 +17,141 @@ files:
   []
 ---
 
-[Read on libcom.org](https://libcom.org/article/el-manifiesto-explicito-del-fascismo-digital-palantir-y-la-alianza-del-capital-monopolista)
-
 Rezgar Akrawi: Es una declaración de clase de un proyecto de alianza fascista digital que no se basa únicamente en la violencia tradicional, sino en la vigilancia y represión digital, el análisis de datos, la inteligencia artificial, la manipulación de la opinión pública y la supresión de la disidencia mediante métodos imperceptibles pero profundamente impactantes. Una alianza cuyos crímenes no permanecen en los círculos de élite y las oficinas corporativas, sino que se extienden a los campos de batalla y a los cuerpos de los civiles, encarnada hoy en su forma más clara en el Trumpismo, sus alianzas, sus crímenes y sus guerras agresivas.
 
-El Manifiesto Explícito del Fascismo Digital: "Palantir" y la Alianza del Capital Monopolista con la Extrema Derecha Una Lectura de Izquierda del Manifiesto de Palantir Technologies Rezgar Akrawi El manifiesto publicado por Palantir Technologies no es un documento técnico ni una visión económica. Es un documento político explícito que anuncia una nueva fase en la trayectoria del capitalismo digital, una fase en la que ha abandonado su pretensión de neutralidad y ha decidido desenmascararse, revelando su plena faz ideológica. Palantir no es un caso aislado en el panorama tecnológico global.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El Manifiesto Explícito del Fascismo Digital: "Palantir" y la Alianza del Capital Monopolista con la Extrema Derecha
+
+Una Lectura de Izquierda del Manifiesto de Palantir Technologies
+
+Rezgar Akrawi
+
+El manifiesto publicado por Palantir Technologies no es un documento técnico ni una visión económica. Es un documento político explícito que anuncia una nueva fase en la trayectoria del capitalismo digital, una fase en la que ha abandonado su pretensión de neutralidad y ha decidido desenmascararse, revelando su plena faz ideológica. Palantir no es un caso aislado en el panorama tecnológico global.
 
 Es una de las grandes empresas tecnológicas que venden sus tecnologías a sistemas de represión y violación de los derechos humanos, y ha sido condenada por organizaciones internacionales de derechos humanos, entre ellas Amnistía Internacional y Human Rights Watch, por su papel en facilitar deportaciones forzadas, vigilancia masiva y persecución de disidentes.
 
@@ -29,100 +159,8 @@ Lo más condenatorio de todo es que informes documentados han revelado una asoci
 
 Es una declaración de clase de un proyecto de alianza fascista digital que no se basa únicamente en la violencia tradicional, sino en la vigilancia y represión digital, el análisis de datos, la inteligencia artificial, la manipulación de la opinión pública y la supresión de la disidencia mediante métodos imperceptibles pero profundamente impactantes. Una alianza cuyos crímenes no permanecen en los círculos de élite y las oficinas corporativas, sino que se extienden a los campos de batalla y a los cuerpos de los civiles, encarnada hoy en su forma más clara en el Trumpismo, sus alianzas, sus crímenes y sus guerras agresivas.
 
+---
+
 Para comprender el manifiesto de Palantir fuera de su contexto aislado, debemos convocar la imagen de la alianza que se ha formado en los últimos años entre un segmento de la élite tecnológica y el proyecto de la extrema derecha nacionalista. Peter Thiel, cofundador de Palantir y el financiador más significativo de la carrera política de Trump, no es simplemente un hombre de negocios que apoya a un candidato político. Es la mente ideológica que proporciona a este proyecto su lógica política, alguien que ve la democracia liberal representativa existente como un obstáculo para el proyecto de la élite tecnocrática, y que ha declarado abiertamente que el capitalismo y la democracia liberal tradicional son incompatibles. Esta alianza no es un accidente, ni una intersección pasajera. Es una convergencia objetiva entre dos proyectos que comparten un único objetivo: concentrar el poder en manos de una oligarquía financiera y política que cree poseer un "derecho natural" a gobernar sus propias sociedades y las ajenas.
 
-Esta alianza encuentra su expresión institucional hoy en lo que se conoce como el movimiento de aceleración tecnológica, que incluye a Elon Musk, Jeff Bezos, Mark Zuckerberg y otros, quienes han comenzado a moverse de forma coordinada con la segunda administración Trump. Lo que los une no es una alineación ideológica completa. Lo que los une es la posición de clase y el interés compartido: la eliminación de cualquier restricción regulatoria o democrática que limite su capacidad de acumulación, dominación y expansión del control.
-
-El manifiesto contiene 22 puntos, construidos con deliberada precisión arquitectónica, no aleatoriamente. Algunos puntos parecen moderados o humanos en la superficie, como los llamamientos a la tolerancia hacia los políticos en su vida personal, o en contra del regócijo ante la derrota de un adversario. Estos puntos no son ni inocentes ni incidentales. Son la fachada calculada utilizada para ganarse al lector vacilante y otorgar al manifiesto una imagen "equilibrada" antes de que revele su verdadero rostro. Esto es lo que los estudios ideológicos llaman la estructura del consenso fabricado: se te administra una dosis de lenguaje razonable para ayudarte a tragar la dosis tóxica que la acompaña. Lo que parece lógico en el manifiesto no es por tanto evidencia de su equilibrio, sino evidencia adicional de su astucia.
-
-Todos estos puntos se despliegan como cobertura para hacer avanzar una agenda ideológica integral que vincula todas estas preocupaciones a un proyecto de militarización, dominación y jerarquía civilizatoria. Por lo tanto, me centraré en los puntos más reveladores del verdadero contenido de clase e ideológico de este proyecto, abordando los demás conceptos en el cuerpo del texto.
-
-El Punto Uno afirma que "la élite de ingeniería de Silicon Valley tiene la obligación moral de participar en la defensa de la nación." Este encuadre moral no es inocente. Cuando la contratación militar y de seguridad se presenta como un "deber moral," la presión social se convierte en un mecanismo para obligar a ingenieros y programadores a servir a la maquinaria de la guerra y la represión, y toda voz disidente dentro de las empresas tecnológicas es silenciada en nombre del "patriotismo." Esta es la conversión de la conciencia individual en una mercancía al servicio del estado militar y de seguridad y sus instituciones represivas y de vigilancia.
-
-El Punto Dos llama a la "rebelión contra la tiranía de las aplicaciones," es decir, el rechazo de la tecnología de consumo en favor de sistemas de seguridad y militares más profundos. Esta no es una crítica al capitalismo de consumo como podría parecer. Es un llamado a redirigir la capacidad tecnológica hacia la máquina de guerra y vigilancia en lugar del mercado del entretenimiento.
-
-El Punto Cinco declara que "la pregunta no es si se construirán armas de IA; la pregunta es quién las construirá." Esta lógica determinista cerrada tiene como objetivo eliminar cualquier debate sobre el rechazo a la militarización tecnológica en sus raíces. Cuando la elección se enmarca como "nosotros o el enemigo," se borra la posibilidad de decir "no a las armas en absoluto." Es la misma lógica utilizada por las administraciones de la Guerra Fría para silenciar los movimientos por la paz y restringir las organizaciones de izquierda, y aquí regresa con un ropaje digital.
-
-El Punto Seis exige que "el servicio nacional sea un deber universal," pidiendo la reconsideración del ejército de voluntarios en favor del servicio militar obligatorio. Esta demanda revela el rostro clásicamente fascista del manifiesto: cuando el estado no logra producir una voluntad voluntaria de participar en sus guerras, recurre a la coerción institucional y la llama "responsabilidad compartida." Lo más significativo es que la empresa que exige a los jóvenes que ofrezcan sus vidas en defensa de "Occidente" gana simultáneamente miles de millones de dólares de los contratos de guerra en los que esos jóvenes mueren. El deber para todos, las ganancias para unos pocos.
-
-El Punto Diecisiete afirma que "Silicon Valley debe desempeñar un papel en el abordaje de la delincuencia violenta." Esta propuesta parece pragmática en la superficie, pero en su esencia es una expansión de los poderes de las empresas de seguridad privadas para eludir el papel del estado y transformarse en una fuerza independiente de control social, operando según la lógica del beneficio en lugar de la lógica de la ley, el poder judicial independiente y la responsabilidad democrática.
-
-El Punto Veinte exige "resistencia a la intolerancia generalizada hacia las creencias religiosas." Este punto no surge de una genuina defensa de la libertad de creencias. Es un despliegue oportunista del discurso religioso para construir una alianza ideológica con las corrientes conservadoras y religiosas más susceptibles de movilización detrás de los proyectos de guerra. La historia nos enseña que todo proyecto fascista necesitó una alianza con las instituciones religiosas para conferir a la violencia un carácter sagrado.
-
-El Punto Veintiuno es el más revelador de la profunda dimensión ideológica, cuando declara que "algunas culturas han producido avances vitales mientras que otras siguen siendo disfuncionales y regresivas." Esta frase no es una opinión cultural pasajera. Es el fundamento teórico del racismo colonial civilizatorio que justifica la dominación, la ocupación y el asesinato de pueblos bajo la cobertura de la "gestión racional de la civilización." Esta lógica no difiere fundamentalmente de la "carga del hombre blanco" que justificó el colonialismo en siglos anteriores, y se reproduce hoy en el lenguaje de los algoritmos y el big data. Lo que la hace más peligrosa que su predecesora es que no requiere fuerzas coloniales visibles. Una base de datos y un algoritmo de selección de objetivos son suficientes.
-
-El error común es reducir el Trumpismo a la persona de Donald Trump. El Trumpismo es un proyecto de clase integral que combina el capital financiero nacional con el nacionalismo chauvinista y la hostilidad hacia los inmigrantes y las minorías. En su esencia, es una expresión de la crisis del capitalismo cuando ya no puede reproducir la ilusión liberal para su audiencia, por lo que recurre al discurso nacionalista agresivo para desviar la atención de las reales contradicciones de clase. Lo que hace el manifiesto de Palantir es vincular el capital monopolista digital a este proyecto y suministrarle las herramientas tecnológicas necesarias para transformarlo de discurso político electoral en un sistema efectivo de control.
-
-La cooperación documentada entre Palantir y las autoridades de inmigración y las agencias de seguridad en el rastreo y deportación de migrantes es un modelo práctico de esta alianza. La tecnología aquí no se utiliza para servir a la "seguridad" en ningún sentido neutral. Se utiliza para implementar políticas represivas y racistas con alta eficiencia operativa. La herramienta digital hace que la represión sea más rápida, más precisa y menos necesitada de justificación pública.
-
-Como he argumentado anteriormente en mis análisis del capitalismo digital, estamos viviendo la fase avanzada del feudalismo digital, en la que las grandes corporaciones monopolizan la infraestructura digital e imponen sus condiciones a los usuarios, tal como los señores feudales en su momento monopolizaban la tierra y controlaban a los campesinos. Lo que revela el manifiesto de Palantir es que este feudalismo digital está ahora entrando en su fase fascista, la fase en la que el capital ya no se conforma con la silenciosa explotación económica sino que avanza hacia la explícita movilización y control político e ideológico para proteger su sistema de cualquier amenaza.
-
-Bajo el capitalismo digital, ya no son solo los trabajadores manuales e intelectuales tradicionales las víctimas de la explotación. Cada usuario produce datos diarios que se convierten en materia prima para la producción de plusvalía sin compensación. Los siervos digitales trabajan en sistemas que no poseen y están sujetos a reglas sobre las que no tienen ninguna influencia real. Lo que el manifiesto añade a este cuadro es la militarización: estos mismos sistemas de explotación están ahora dirigidos hacia el encuadramiento de la mente humana, el desencadenamiento de guerras, la supresión de la disidencia, las deportaciones forzadas y la gestión de los sistemas de control de seguridad.
-
-El manifiesto no puede leerse de forma aislada de lo que está ocurriendo en las guerras contemporáneas. Informes documentados han revelado que Palantir ha establecido asociaciones estratégicas con ejércitos e instituciones de seguridad para construir bases de datos de selección de objetivos que se utilizan efectivamente en operaciones militares. Esta no es una posibilidad teórica. Es una práctica cotidiana documentada: algoritmos que convierten las vidas humanas en puntos de datos, y los puntos de datos en objetivos militares.
-
-En Palestina, informes periodísticos e investigativos han documentado el uso de sistemas de inteligencia artificial para construir listas de objetivos que resultaron en masacres contra civiles en Gaza. En Venezuela, Irán y otros países que Washington clasifica como "amenazas," los sistemas de vigilancia y datos se utilizan para apoyar el militarismo, la agresión y las guerras que violan el derecho internacional.
-
-Lo que la empresa llama "sistema de selección inteligente de objetivos" es en la práctica una máquina para gestionar las matanzas con eficiencia industrial. Matar ya no requiere una responsable decisión humana. Requiere un algoritmo, datos suficientes y luz verde de un aparato que no está sujeto a ninguna responsabilidad democrática. Esta es la aplicación de campo de lo que el manifiesto llama "capacidad de toma de decisiones en tiempo real," donde las decisiones de matar se toman instantáneamente dentro de sistemas técnicos cerrados.
-
-Lo más importante en este contexto es que el uso de estos sistemas no puede separarse del discurso que justifica la clasificación de comunidades enteras como atrasadas o amenazantes. El crimen no comienza con la bomba. Comienza con la clasificación. Cuando comunidades enteras son definidas como una amenaza, el asesinato y la selección de civiles como objetivos se convierte en "gestión de seguridad" en lugar de un crimen cuyos autores deben ser considerados responsables.
-
-El peligro del modelo que Palantir está construyendo no reside únicamente en sus aplicaciones militares directas. Aún más peligroso es lo que puede describirse como la "sociedad de vigilancia," cuando el control se vuelve interno en lugar de externo. Cuando un individuo sabe que está siendo observado en todo momento y siente que cada interacción digital está siendo registrada y analizada, comienza a imponerse una vigilancia sobre sí mismo. Modifica su discurso, evita temas sensibles, se aleja de las ideas disidentes radicales. Esta auto-vigilancia voluntaria restringe y debilita a los movimientos de izquierda y progresistas y a las organizaciones laborales desde adentro, sin necesidad de arrestos o restricciones directas.
-
-El llamado del manifiesto a una "profunda comprensión del comportamiento humano" como condición para la seguridad es en realidad un llamado a construir un sistema integral para interrumpir la acción política colectiva antes de que surja. Predecir el comportamiento de protesta y desmantelarlo antes de que se convierta en un movimiento organizado es el sueño que los servicios de seguridad han perseguido durante mucho tiempo, y la tecnología de Palantir se está acercando a su realización.
-
-Entre los mecanismos ideológicos más prominentes del manifiesto está su dependencia de la lógica determinista cerrada. "No habrá neutralidad tecnológica," "la pregunta no es si se construirán armas de IA," "las democracias no pueden depender únicamente del discurso moral." Este enfoque tiene como objetivo convertir las elecciones políticas en hechos naturales inevitables y eliminar cualquier cuestionamiento de la naturaleza del sistema existente de la esfera del debate legítimo. Es el mismo enfoque utilizado por los neoliberales cuando declararon en los años 90 que "el capitalismo es el fin de la historia." Ahora la misma lógica regresa en una formulación de seguridad: no hay otra opción que la militarización digital.
-
-Este determinismo no es una descripción neutral de la realidad. Es una táctica para vaciar la política de su contenido. Cuando estás convencido de que no existe alternativa, dejas de buscarla. Y ese es el objetivo primario detrás de este lenguaje.
-
-El manifiesto de Palantir no es simplemente un documento de una empresa tecnológica que anuncia sus posiciones. Es una fuerte campana de alarma que las fuerzas progresistas deben escuchar claramente: la batalla por el futuro de la tecnología ya no está oculta entre bastidores. Ha salido a la luz pública, anunciándose a sí misma sin vergüenza. Quienes se retrasen en captar este cambio retardarán su entrada en la arena de lucha más decisiva de este siglo.
-
-La pregunta fundamental no es cómo se utiliza la tecnología. Es quién la posee y quién determina sus objetivos. La tecnología no se convertirá en una herramienta de liberación mientras permanezca en manos de monopolios digitales aliados con proyectos de la derecha, la guerra y la represión. Cualquier discusión seria debe partir de la necesidad de la propiedad colectiva de la sociedad sobre la infraestructura digital, y de someter los algoritmos y la inteligencia artificial a una genuina supervisión democrática que represente los intereses de las masas trabajadoras en lugar de las élites monopolistas.
-
-Esto requiere que las fuerzas de izquierda, progresistas y de derechos humanos se comprometan con la arena de la tecnología con plena seriedad como un importante campo de lucha de clase. Producir crítica intelectual, por importante que sea, no es suficiente sin construir alternativas tecnológicas efectivas a través de la coordinación y el trabajo conjunto mediante internacionales digitales: plataformas sociales libres de monopolio, restricción y represión; herramientas de búsqueda que respeten la privacidad de todos los usuarios; sistemas de inteligencia artificial gestionados de forma democrática y transparente; y otras aplicaciones digitales. Estos no son proyectos recreativos para el futuro. Son una necesidad estratégica urgente para cualquier proyecto liberador serio.
-
-Construir alternativas por sí solas no es suficiente a menos que vaya acompañado de una campaña organizada para despojar a estos monopolios de sus armas tecnológicas. Cabe señalar aquí que Palantir no es un caso excepcional ni una anomalía en el panorama tecnológico. Es la expresión más explícita y audaz de lo que muchas otras empresas practican con mayor silencio y un discurso más suave. Lo que la convierte en un punto de enfoque en este análisis es que reveló lo que las demás están acostumbradas a ocultar, no que difiera de ellas en esencia. El sistema es uno; la única excepción es el grado de franqueza.
-
-Al igual que los movimientos obreros históricos lucharon para desarmar al capital en las fábricas y los campos, hoy es necesaria una lucha equivalente para arrebatar algoritmos letales, sistemas de selección de objetivos y vigilancia masiva del control de estas empresas colectivamente. Esta lucha adopta múltiples formas: boicotear sus servicios, exponer sus contratos secretos con los gobiernos, enjuiciar a sus ejecutivos ante tribunales internacionales por cargos de complicidad en crímenes de guerra, y presionar a las instituciones públicas para que corten sus relaciones con estas empresas. Cada contrato gubernamental con este sistema es financiación directa de la máquina de matar y deportar. Detener este flujo financiero es la primera línea de confrontación.
-
-Este camino no puede completarse sin trabajar simultáneamente en los niveles legislativos nacional e internacional. A nivel nacional, debe aplicarse presión para promulgar leyes estrictas que obliguen a las empresas de tecnología de seguridad a mantener plena transparencia en sus contratos con los gobiernos, tipificando como delito el uso de sistemas de inteligencia artificial en la selección militar de objetivos fuera de cualquier supervisión judicial independiente, y obligando a estas empresas a someterse a los mismos estándares de responsabilidad a los que están sujetas las instituciones públicas.
-
-A nivel internacional, debe trabajarse para someter a estas empresas a las convenciones internacionales de derechos humanos, en particular los Convenios de Ginebra que prohíben la selección indiscriminada de civiles como objetivos, la carta de las Naciones Unidas sobre la protección de datos personales, y los Principios Rectores de las Naciones Unidas sobre Empresas y Derechos Humanos. Una empresa que construye bases de datos de selección de objetivos en zonas de guerra no puede estar autorizada a operar fuera de este marco legal, y si lo hace, los gobiernos que contratan con ella comparten la responsabilidad penal. Esta no es una demanda reformista de lujo. Es el mínimo que exige la humanidad de la ley frente a la inhumanidad del algoritmo.
-
-Lo que es llamativo en el manifiesto de Palantir, de hecho lo que es profundamente sospechoso, es que no menciona ni una sola palabra sobre los trabajadores, sobre los sindicatos, sobre el derecho a organizarse, sobre la huelga. En un documento que habla de la "élite de ingeniería," el "deber moral," y las "culturas atrasadas," no hay lugar para los trabajadores manuales e intelectuales que construyen estos algoritmos, los operan y viven bajo el peso de la misma vigilancia. Este silencio no es incidental. Es una admisión implícita de que el proyecto tecnológico fascista no puede enfrentar la cuestión de los trabajadores, porque los trabajadores solos, si se organizan, son capaces de detener completamente las líneas de producción de la muerte.
-
-Una huelga general en Silicon Valley, o incluso en las propias oficinas de Palantir, es la pesadilla de este proyecto. Apoyar los sindicatos de trabajadores tecnológicos y vincular su lucha a una lucha global es por tanto un acto de resistencia de primer orden.
-
-Esta lucha tecnológica no puede separarse de la lucha popular en el terreno. La tecnología es una herramienta de apoyo a la lucha, no un sustituto de ella. El poder real permanece en la organización política, laboral y popular, en los movimientos sociales, en la solidaridad internacional entre las masas laboriosas de este sistema, ya sea en las guerras, en las fronteras, o en los barrios obreros vigilados por algoritmos que no requieren el permiso de nadie.
-
-El manifiesto de Palantir revela claramente que nos enfrentamos a una nueva forma de fascismo, no solo en el sentido histórico estrecho, sino en su significado esencial: la alianza del capital monopolista con el poder político nacional agresivo y el despliegue de violencia, represión y jerarquía civilizatoria para proteger esta alianza de cualquier amenaza popular. La única diferencia es que las herramientas de este fascismo hoy son algoritmos, big data e inteligencia artificial, y esto es lo que lo hace más hermético y más difícil de resistir que lo que lo precedió.
-
-Cuando Alexander Karp termina de escribir su manifiesto filosófico en su elegante oficina, los algoritmos construidos por su empresa continúan su trabajo de identificar objetivos, rastrear migrantes en las fronteras, construir bases de datos de disidentes en todo el mundo y apoyar la maquinaria del militarismo y la represión en todo el mundo. La filosofía y el crimen son dos caras de la misma moneda.
-
-La lucha por la justicia social y la liberación hoy pasa inevitable y sustancialmente por la lucha para liberar la tecnología de esta agresiva alianza de clase. Esta no es una cuestión técnica ni una cuestión ética abstracta. Es una cuestión política de principio a fin, y parte de una lucha histórica sobre quién tiene el control sobre el futuro y la conciencia humana: la minoría monopolista aliada con proyectos de asesinato y represión, o las masas trabajadoras que deben imponer su autoridad sobre las herramientas que dan forma a sus vidas y su destino.
-
-3. Al Jazeera English — "Technofascism? Why Palantir's pro-West 'manifesto' has critics alarmed," 21 de abril de 2026. https://www.aljazeera.com/news/2026/4/21/technofacism-why-palantirs-pro-west-manifesto-has-critics-alarmed
-
-4. TechCrunch — "Palantir posts mini-manifesto denouncing inclusivity and 'regressive' cultures," 19 de abril de 2026. https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures
-
-5. Engadget — "Palantir posted a manifesto that reads like the ramblings of a comic book villain," abril de 2026. https://www.engadget.com/big-tech/palantir-posted-a-manifesto-that-reads-like-the-ramblings-of-a-comic-book-villain-181947361.html
-
-6. TRT World — "Internet explodes in outrage over Palantir's dystopian tech manifesto," abril de 2026. https://www.trtworld.com/article/e3c96555543c
-
-7. Reason — "Palantir's new manifesto wants the military draft reinstated," 20 de abril de 2026. https://reason.com/2026/04/20/this-big-tech-firm-wants-to-reinstate-the-draft
-
-8. Amnistía Internacional — Informe sobre la economía política global que favorece el genocidio israelí, que cita a Palantir entre los principales contribuyentes, septiembre de 2025. https://www.democracynow.org/2025/9/18/amnesty_international
-
-9. Truthout — "Amnesty Calls for States to Pull the Plug on Economy Backing Israel's Genocide," septiembre de 2025. https://truthout.org/articles/amnesty-calls-for-states-to-pull-the-plug-on-economy-backing-israels-genocide
-
-10. Business and Human Rights Resource Centre — "Palantir allegedly enables Israel's AI targeting in Gaza, raising concerns over war crimes." https://www.business-humanrights.org/en/latest-news/palantir-allegedly-enables-israels-ai-targeting-amid-israels-war-in-gaza-raising-concerns-over-war-crimes/
-
-11. Business and Human Rights Resource Centre — "Amazon, Google and Microsoft fuel Israeli military aggression in Gaza, investigation reveals," febrero de 2025. https://www.business-humanrights.org/en/latest-news/amazon-google-microsoft-fuel-israeli-military-aggression-in-israels-war-on-gaza-investigation-reveals/
-
-12. Business and Human Rights Resource Centre — "Google, Amazon and Microsoft allegedly complicit in war crimes amid Israel's war in Gaza." https://www.business-humanrights.org/en/latest-news/google-amazon-microsoft-allegedly-complicit-in-war-crimes-amid-israels-war-in-gaza/
-
-13. Business and Human Rights Resource Centre — "Google did not respond to allegations over its complicity in war crimes amid Israel's war in Gaza," abril de 2025. https://www.business-humanrights.org/en/latest-news/google-did-not-respond-to-the-allegations-over-its-complicity-in-war-crimes-amid-israels-war-in-gaza/
-
-14. Business and Human Rights Resource Centre — "Amazon did not respond to allegations over its complicity in war crimes amid Israel's war in Gaza," abril de 2025. https://www.business-humanrights.org/en/latest-news/amazon-did-not-respond-to-the-allegations-over-its-complicity-in-war-crimes-amid-israels-war-in-gaza/
-
-15. Business and Human Rights Resource Centre — "Microsoft did not respond to allegations over its complicity in war crimes amid Israel's war in Gaza," abril de 2025. https://www.business-humanrights.org/en/latest-news/microsoft-did-not-respond-to-the-allegations-over-its-complicity-in-war-crimes-amid-israels-war-in-gaza/
+Esta alian…

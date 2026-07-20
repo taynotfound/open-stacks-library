@@ -19,4 +19,48 @@ files:
     hosted: false
 ---
 
-       GET BACK TO THE GUTTERS, YOU SCUM        NOR IRON BARS A CAGE        BOWED JOSEPH’S DRUM        OMNIPOTENT, CORRUPT, IMPENETRABLE....        CLASS WAR IN THE CLOSES        THE END OF BOWED JOSEPH        THE BEGGAR’S BIBLE        THE BEAT OF THE DRUM Councillors were unable to nod off at the year’s first meeting of Lothian Region on February 1. The walls of their plush chamber, like the square outside, reverberated to the rhythms of massed drums, beating out rebellion, paradiddling protest, rapping out a tattoo of rage at the violent eviction of the Council-owned Edinburgh Unemployed Workers Centre last December, during which 23 unemployed activists were arrested and charged. As the drumming reached a crescendo the councillors could hardly hear themselves lie. The blood-stirring primal rhythms were laid on by the Sativa Drummers and the Women’s Drumming Collective, a must at any good demo. Both outfits were involved in the occupation of the Centre. Scores of angry protesters accompanied the beat with whistles and yells of “Give us back our Centre!” For 6 months the Broughton Street Centre had been occupied, as both a protest against the corrupt actions of Lothian Region and their lackeys and as a display of determination to keep the self-managed and unfunded community space open. A stone’s throw from the centre of Edinburgh, which is now Europe’s fourth business capital, unemployed and homeless activists barricaded themselves in and continued to run a cheap cafe, offer benefits advice, operate a creche, and maintain a wide variety of groups and workshops, while the Labour Council seethed with anger. Their eviction notice had been torn to confetti. (For the full story of the fight for the Centre and its history see the last issue of Scottish Anarchist) At dawn on December 1 st the sleeping occupation nightshift was yanked from its slumbers by the sounds of the Centre’s back doors being smashed in. The Emergency Phone Tree was activated before the nightshift was flung out by the invading bailiffs and pigs. Within half an hour Centre activists and supporters were tackling the police. A sympathetic Herald journalist takes up the story: “Police and sheriff officers acting on the instructions of Labour-controlled Lothian Regional Council smashed their way into an unemployed workers’ centre which was being used as a soup kitchen and shelter for the homeless. The dawn action involved the ejection of four of the activists, who have been occupying the former school building in Broughton Street, Edinburgh, since last June when the council terminated their lease. They have used the building 24 hours a day since then, as a cheap, vegetarian cafe during the day, a meeting place for community and political groups, and by night many of those who kept the occupation going were homeless people who would otherwise have been on the streets. One of those present when sheriff officers and police arrived yesterday was a homeless man, who gave his name as Graham. “They came in about 7.30,” he said. “They couldn’t get in through the front door but at the same time they were breaking in at the back. They caught us on the hop. “There were only four of us here. One guy spoke and there were two others in plain clothes plus several police.” Campaigns against the poll tax, Criminal Justice Bill, and VAT on fuel were operated from the building, causing resentment among regional councillors.... Ironically, one of the users of the building was the Beltane Fire Society, which will be involved in the council-sponsored Hogmanay celebrations. Other users included a women’s drumming workshop, members of which gathered around the building yesterday to beat out their protest. “The Centre has so much support that the only way they could evict us was to bring in the police,” said one of the organising committee, Mr Michael Stevenson.... A police spokesman said they always back sheriff officers if they were advised that a disturbance is likely. Councillor Keith Ge…
+GET BACK TO THE GUTTERS, YOU SCUM
+
+NOR IRON BARS A CAGE
+
+BOWED JOSEPH’S DRUM
+
+OMNIPOTENT, CORRUPT, IMPENETRABLE....
+
+CLASS WAR IN THE CLOSES
+
+THE END OF BOWED JOSEPH
+
+THE BEGGAR’S BIBLE
+
+THE BEAT OF THE DRUM
+
+Councillors were unable to nod off at the year’s first meeting of Lothian Region on February 1. The walls of their plush chamber, like the square outside, reverberated to the rhythms of massed drums, beating out rebellion, paradiddling protest, rapping out a tattoo of rage at the violent eviction of the Council-owned Edinburgh Unemployed Workers Centre last December, during which 23 unemployed activists were arrested and charged.
+
+As the drumming reached a crescendo the councillors could hardly hear themselves lie. The blood-stirring primal rhythms were laid on by the Sativa Drummers and the Women’s Drumming Collective, a must at any good demo. Both outfits were involved in the occupation of the Centre. Scores of angry protesters accompanied the beat with whistles and yells of “Give us back our Centre!”
+
+For 6 months the Broughton Street Centre had been occupied, as both a protest against the corrupt actions of Lothian Region and their lackeys and as a display of determination to keep the self-managed and unfunded community space open. A stone’s throw from the centre of Edinburgh, which is now Europe’s fourth business capital, unemployed and homeless activists barricaded themselves in and continued to run a cheap cafe, offer benefits advice, operate a creche, and maintain a wide variety of groups and workshops, while the Labour Council seethed with anger. Their eviction notice had been torn to confetti.
+
+(For the full story of the fight for the Centre and its history see the last issue of Scottish Anarchist)
+
+At dawn on December 1st the sleeping occupation nightshift was yanked from its slumbers by the sounds of the Centre’s back doors being smashed in. The Emergency Phone Tree was activated before the nightshift was flung out by the invading bailiffs and pigs. Within half an hour Centre activists and supporters were tackling the police. A sympathetic Herald journalist takes up the story:
+
+“Police and sheriff officers acting on the instructions of Labour-controlled Lothian Regional Council smashed their way into an unemployed workers’ centre which was being used as a soup kitchen and shelter for the homeless.
+
+The dawn action involved the ejection of four of the activists, who have been occupying the former school building in Broughton Street, Edinburgh, since last June when the council terminated their lease.
+
+They have used the building 24 hours a day since then, as a cheap, vegetarian cafe during the day, a meeting place for community and political groups, and by night many of those who kept the occupation going were homeless people who would otherwise have been on the streets.
+
+One of those present when sheriff officers and police arrived yesterday was a homeless man, who gave his name as Graham. “They came in about 7.30,” he said. “They couldn’t get in through the front door but at the same time they were breaking in at the back. They caught us on the hop.
+
+“There were only four of us here. One guy spoke and there were two others in plain clothes plus several police.”
+
+Campaigns against the poll tax, Criminal Justice Bill, and VAT on fuel were operated from the building, causing resentment among regional councillors....
+
+Ironically, one of the users of the building was the Beltane Fire Society, which will be involved in the council-sponsored Hogmanay celebrations. Other users included a women’s drumming workshop, members of which gathered around the building yesterday to beat out their protest.
+
+“The Centre has so much support that the only way they could evict us was to bring in the police,” said one of the organising committee, Mr Michael Stevenson....
+
+A police spokesman said they always back sheriff officers if they were advised that a disturbance is likely.
+
+Councillor Keith Geddes, the leader of the ruling Labo…

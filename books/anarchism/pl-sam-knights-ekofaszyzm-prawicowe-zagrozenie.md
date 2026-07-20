@@ -19,4 +19,46 @@ files:
     hosted: false
 ---
 
-       Prawicowy ekologizm        Krew i ziemia        Nadawanie sensu „ekofaszyzmowi”        Oportunistyczny zwrot        Teorie spiskowe        „Niezbędne rozwiązanie”        Od przeludnienia do mizantropii        Autorytarne fantazje        Etyka szalupy ratunkowej        System w rozkładzie Ruch na rzecz zatrzymania zmian klimatycznych musi być gotowy, by stawić czoła rosnącemu prawicowemu ekologizmowi. Dwa główne kryzysy coraz bardziej charakteryzują dwudziesty pierwszy wiek. Pierwszym z nich jest kryzys klimatyczny, który prowadzi do niebezpiecznego i zdestabilizowanego świata. Drugim jest kryzys demokracji, który napędza wzrost autorytarnej skrajnej prawicy. Sposób, w jaki te dwa kryzysy się przenikają, będzie miał głębokie implikacje dla przyszłości naszego gatunku. Dla tych z nas, którzy są na lewicy, rodzi to niewygodne pytania, które należy potraktować bardzo poważnie. Od Donalda Trumpa po Jaira Bolsonaro, prawicowi politycy wielokrotnie odrzucali naukowy konsensus w sprawie zmian klimatycznych, szerzyli celowe dezinformacje i sprzeciwiali się polityce redukcji emisji. Ten wzorzec zaprzeczania i opóźniania tworzy negatywne sprzężenie zwrotne między tymi dwoma kryzysami: w miarę jak zaufanie do demokracji jest osłabiane, klimat i zagrożenie ekologiczne stają się coraz bardziej niebezpieczne. Zaprzeczanie zmianom klimatu mogło się rozpocząć jako skrajnie prawicowa teoria spiskowa, ale dziś jest to projekt polityczny głównego nurtu, promowany przez nieprzejrzyście finansowane konserwatywne think tanki, rozpowszechniany w Internecie przez wielkie firmy technologiczne i wprowadzany do prawa przez opłacanych lobbystów przemysłu naftowego i gazowego. Kapitaliści związali się z tym skrajnie prawicowym projektem, ponieważ ich krótkoterminowe cele coraz bardziej pokrywają się z celami skrajnej prawicy. Obie grupy chcą chronić zyski wielkiego biznesu i odsunąć winę od bogatych i wpływowych. Ponieważ prawica próbuje zablokować działania w sprawie zmian klimatycznych, kuszące jest myślenie o kwestiach środowiska naturalnego jako o problemie wyłącznie lewicowym. Wiemy, że aby w sposób znaczący zająć się klimatyczną i ekologiczną sytuacją kryzysową, musimy zdemokratyzować gospodarkę, dokonać redystrybucji bogactwa i zapewnić wszystkim ludziom przyzwoity standard życia. Z pewnością wynika z tego, że każda prawdziwa próba walki ze zmianami klimatycznymi będzie miała więcej wspólnego z międzynarodowym socjalizmem niż z neoliberalnym kapitalizmem — czy wręcz współczesnym faszyzmem. Jednakże istnieje również długa historia prawicowego ekologizmu, którą na własne ryzyko ignorujemy. Prawicowi aktywiści kultywują obecnie swoje własne filozofie ekologiczne. Twierdzą oni, że ochrona środowiska jest naturalnie konserwatywną ideą. Jest zatem całkiem możliwe, że w nadchodzących latach pojawi się ruch prawicowy, który nie tylko uzna powagę kryzysu, ale także wykorzysta rzeczywistość zmian klimatycznych do uzasadnienia coraz bardziej autorytarnej i reakcyjnej reakcji. Zmiany klimatyczne są zarówno szansą, jak i wyzwaniem, a autorytarna prawica zawsze uważała, że tworzenie kryzysu jest pomocne. Czy zatem tak trudno jest sobie wyobrazić, że zmiany klimatyczne, ostateczne zagrożenie cywilizacyjne, pewnego dnia zostaną wykorzystane do uzasadnienia konserwatywnej polityki? Czy naprawdę sądzimy, że kapitalizm po prostu się podda i przyzna się do porażki, kiedy zasoby są ograniczone, a ogromne obszary globu nie nadają się do zamieszkania? Nietrudno dostrzec, jak troska o środowisko może zostać włączona do ideologii prawicowej. W całej historii kapitaliści wskazywali na świat przyrody, który według nich opiera się na konkurencji i przetrwaniu, aby usprawiedliwić systemy, które my, jako ludzie, stworzyliśmy. Tradycja ta ma również tendencję do podkreślania naturalnej hierarchii każdego społeczeństwa, twierdząc, że silni zawsze będą konkurować ze słabymi. W ten sposób prawicowa wyobraźnia postrzega świat przyrody jako kluczową część naszej narodowej tożsa…
+Prawicowy ekologizm
+
+Krew i ziemia
+
+Nadawanie sensu „ekofaszyzmowi”
+
+Oportunistyczny zwrot
+
+Teorie spiskowe
+
+„Niezbędne rozwiązanie”
+
+Od przeludnienia do mizantropii
+
+Autorytarne fantazje
+
+Etyka szalupy ratunkowej
+
+System w rozkładzie
+
+Ruch na rzecz zatrzymania zmian klimatycznych musi być gotowy, by stawić czoła rosnącemu prawicowemu ekologizmowi.
+
+Dwa główne kryzysy coraz bardziej charakteryzują dwudziesty pierwszy wiek. Pierwszym z nich jest kryzys klimatyczny, który prowadzi do niebezpiecznego i zdestabilizowanego świata. Drugim jest kryzys demokracji, który napędza wzrost autorytarnej skrajnej prawicy. Sposób, w jaki te dwa kryzysy się przenikają, będzie miał głębokie implikacje dla przyszłości naszego gatunku. Dla tych z nas, którzy są na lewicy, rodzi to niewygodne pytania, które należy potraktować bardzo poważnie.
+
+Od Donalda Trumpa po Jaira Bolsonaro, prawicowi politycy wielokrotnie odrzucali naukowy konsensus w sprawie zmian klimatycznych, szerzyli celowe dezinformacje i sprzeciwiali się polityce redukcji emisji. Ten wzorzec zaprzeczania i opóźniania tworzy negatywne sprzężenie zwrotne między tymi dwoma kryzysami: w miarę jak zaufanie do demokracji jest osłabiane, klimat i zagrożenie ekologiczne stają się coraz bardziej niebezpieczne.
+
+Zaprzeczanie zmianom klimatu mogło się rozpocząć jako skrajnie prawicowa teoria spiskowa, ale dziś jest to projekt polityczny głównego nurtu, promowany przez nieprzejrzyście finansowane konserwatywne think tanki, rozpowszechniany w Internecie przez wielkie firmy technologiczne i wprowadzany do prawa przez opłacanych lobbystów przemysłu naftowego i gazowego.
+
+Kapitaliści związali się z tym skrajnie prawicowym projektem, ponieważ ich krótkoterminowe cele coraz bardziej pokrywają się z celami skrajnej prawicy. Obie grupy chcą chronić zyski wielkiego biznesu i odsunąć winę od bogatych i wpływowych.
+
+Ponieważ prawica próbuje zablokować działania w sprawie zmian klimatycznych, kuszące jest myślenie o kwestiach środowiska naturalnego jako o problemie wyłącznie lewicowym.
+
+Wiemy, że aby w sposób znaczący zająć się klimatyczną i ekologiczną sytuacją kryzysową, musimy zdemokratyzować gospodarkę, dokonać redystrybucji bogactwa i zapewnić wszystkim ludziom przyzwoity standard życia. Z pewnością wynika z tego, że każda prawdziwa próba walki ze zmianami klimatycznymi będzie miała więcej wspólnego z międzynarodowym socjalizmem niż z neoliberalnym kapitalizmem — czy wręcz współczesnym faszyzmem.
+
+Jednakże istnieje również długa historia prawicowego ekologizmu, którą na własne ryzyko ignorujemy. Prawicowi aktywiści kultywują obecnie swoje własne filozofie ekologiczne. Twierdzą oni, że ochrona środowiska jest naturalnie konserwatywną ideą.
+
+Jest zatem całkiem możliwe, że w nadchodzących latach pojawi się ruch prawicowy, który nie tylko uzna powagę kryzysu, ale także wykorzysta rzeczywistość zmian klimatycznych do uzasadnienia coraz bardziej autorytarnej i reakcyjnej reakcji.
+
+Zmiany klimatyczne są zarówno szansą, jak i wyzwaniem, a autorytarna prawica zawsze uważała, że tworzenie kryzysu jest pomocne. Czy zatem tak trudno jest sobie wyobrazić, że zmiany klimatyczne, ostateczne zagrożenie cywilizacyjne, pewnego dnia zostaną wykorzystane do uzasadnienia konserwatywnej polityki? Czy naprawdę sądzimy, że kapitalizm po prostu się podda i przyzna się do porażki, kiedy zasoby są ograniczone, a ogromne obszary globu nie nadają się do zamieszkania?
+
+Nietrudno dostrzec, jak troska o środowisko może zostać włączona do ideologii prawicowej. W całej historii kapitaliści wskazywali na świat przyrody, który według nich opiera się na konkurencji i przetrwaniu, aby usprawiedliwić systemy, które my, jako ludzie, stworzyliśmy. Tradycja ta ma również tendencję do podkreślania naturalnej hierarchii każdego społeczeństwa, twierdząc, że silni zawsze będą konkurować ze słabymi.
+
+W ten sposób prawicowa wyobraźnia postrzega świat przyrody jako kluczową część naszej narodowej tożsamości, do której ochrony jesteśmy powołani jako p…

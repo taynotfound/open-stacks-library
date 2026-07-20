@@ -19,4 +19,44 @@ files:
     hosted: false
 ---
 
-     Introdução      Autopoesis Social      A negação da negação      A Era da Informação      A desmaterialização da economia      O fim do governo invisível      A simbiose com as máquinas      Conclusão      Referências bibliográficas Resumo: O presente texto atualiza o pensamento anarquista com base na teoria dos quatro espaços antropológicos de Pierre Levy (1993, 1998): Espaço da Terra, Espaço do Território, Espaço da Mercadoria e Espaço do Saber. Palavras-chave: Anarquismo1; Cibercultura2; Espaço antropológico3. Abstract: This text updates anarchist thought based on the theory of Pierre Levy’s four anthropological spaces (1993, 1998): Space of Earth, Space of Territory, Space of Merchandise and Space of Knowledge. Keywords: Anarchism1; Cyberculture2; Anthropological space3. Em 2020, arrumei alguns desafetos devido ao texto “Porque não sou marxista (mas continuo estudando sociologia crítica)” , em que afirmo que Pierre Bourdieu e Michel Foucault são muito mais radicais do que Marx. Entre as várias críticas que recebi, a mais interessante me acusa de confundir deliberadamente ideologia política com teoria social; e que eu deveria, ao invés de explicar “o que não sou”, dizer em que realmente acredito, uma política propositiva a partir da sociologia contemporânea. Então, surgiu a ideia deste texto, não mais voltado para mostrar ao público político uma teoria social mais crítica e contundente que o marxismo, mas, sobretudo, para repensar uma ideologia política mais completa, atual e sociologicamente fundamentada do que a professada pelo senso comum de direita e de esquerda. Anarquia é “sem governo”, “sem Estado” e, para alguns, “sem nenhuma forma de autoridade” imposta, sem coerção. Essa certamente é uma definição utópica: uma sociedade sem hierarquias em que ninguém seja obrigado a fazer o que não quer contra sua vontade, em que todo trabalho seja voluntário e cooperativo. Há também versões românticas, que veem no anarquismo uma filosofia da liberdade, quase um sentimento anti autoritário, que se modifica com o tempo, adotando várias feições [2] . O estereótipo do anarquista como uma pessoa indisciplinada, um “sem regras”, perdura, embora a verdade seja justamente o oposto: anarquistas são aqueles que lutam por autonomia através da auto-eco-organização de suas vidas. Quando me declaro politicamente anarquista, não é um virtude de Bakunin e Proudhon. Aliás, concordo com as críticas de Marx e Lenin a esses autores. E, embora goste de Emma Godman, Piotr Kropotkin [3] e de Henry David Thoreau (e concorde com suas ideias sobre feminismo, mutualismo e desobediência civil), considero que essas ideias são distorcidas e apropriadas pela direita, como, por exemplo, pelo presidente da Argentina Javier Milei e pela ideologia anarco-capitalista. Meu anarquismo tem mais a ver com a Guerra Civil Espanhola [4] , com a contracultura e com o conceito de ‘ Autopoesis ’ (a auto-eco-organização) elaborado pela teoria da complexidade. Autopoiese é um termo que significa autoprodução, e que se refere à capacidade dos seres vivos de se produzirem a si próprios. A palavra vem do grego autós, que significa “por si próprio”, e poiesis, que significa “criação, produção”. Autores como Henri Atlan e Edgar Morin dão ênfase à auto-organização. Trata-se da atividade que faz um sistema ter autonomia nas interações em relação ao ser meio ambiente. Um sistema altamente organizado (ou complexo) resiste a mudanças ambientais pela sua diversidade e autonomia. Nessas concepções, o sistema começa e termina pelo observador (por mim, por ti) e filtra o ruído externo, oferecendo níveis mais estáveis de definição. O sistema social filtra o meio ambiente e é filtrado pelo sistema cognitivo. Os sistemas são indissociáveis da observação. Assim, é possível existir contradições entre diferentes observadores. Rousseau diz que a Sociedade Civil através de um contrato social entre indivíduos livres; Hobbes considera que o Estado é um acordo que impede a guerra de todos contra …
+Introdução
+
+Autopoesis Social
+
+A negação da negação
+
+A Era da Informação
+
+A desmaterialização da economia
+
+O fim do governo invisível
+
+A simbiose com as máquinas
+
+Conclusão
+
+Referências bibliográficas
+
+Resumo: O presente texto atualiza o pensamento anarquista com base na teoria dos quatro espaços antropológicos de Pierre Levy (1993, 1998): Espaço da Terra, Espaço do Território, Espaço da Mercadoria e Espaço do Saber.
+
+Palavras-chave: Anarquismo1; Cibercultura2; Espaço antropológico3.
+
+Abstract: This text updates anarchist thought based on the theory of Pierre Levy’s four anthropological spaces (1993, 1998): Space of Earth, Space of Territory, Space of Merchandise and Space of Knowledge.
+
+Keywords: Anarchism1; Cyberculture2; Anthropological space3.
+
+Em 2020, arrumei alguns desafetos devido ao texto “Porque não sou marxista (mas continuo estudando sociologia crítica)”, em que afirmo que Pierre Bourdieu e Michel Foucault são muito mais radicais do que Marx. Entre as várias críticas que recebi, a mais interessante me acusa de confundir deliberadamente ideologia política com teoria social; e que eu deveria, ao invés de explicar “o que não sou”, dizer em que realmente acredito, uma política propositiva a partir da sociologia contemporânea.
+
+Então, surgiu a ideia deste texto, não mais voltado para mostrar ao público político uma teoria social mais crítica e contundente que o marxismo, mas, sobretudo, para repensar uma ideologia política mais completa, atual e sociologicamente fundamentada do que a professada pelo senso comum de direita e de esquerda.
+
+Anarquia é “sem governo”, “sem Estado” e, para alguns, “sem nenhuma forma de autoridade” imposta, sem coerção. Essa certamente é uma definição utópica: uma sociedade sem hierarquias em que ninguém seja obrigado a fazer o que não quer contra sua vontade, em que todo trabalho seja voluntário e cooperativo. Há também versões românticas, que veem no anarquismo uma filosofia da liberdade, quase um sentimento anti autoritário, que se modifica com o tempo, adotando várias feições[2].
+
+O estereótipo do anarquista como uma pessoa indisciplinada, um “sem regras”, perdura, embora a verdade seja justamente o oposto: anarquistas são aqueles que lutam por autonomia através da auto-eco-organização de suas vidas.
+
+Quando me declaro politicamente anarquista, não é um virtude de Bakunin e Proudhon. Aliás, concordo com as críticas de Marx e Lenin a esses autores. E, embora goste de Emma Godman, Piotr Kropotkin[3] e de Henry David Thoreau (e concorde com suas ideias sobre feminismo, mutualismo e desobediência civil), considero que essas ideias são distorcidas e apropriadas pela direita, como, por exemplo, pelo presidente da Argentina Javier Milei e pela ideologia anarco-capitalista. Meu anarquismo tem mais a ver com a Guerra Civil Espanhola[4], com a contracultura e com o conceito de ‘Autopoesis’ (a auto-eco-organização) elaborado pela teoria da complexidade.
+
+Autopoiese é um termo que significa autoprodução, e que se refere à capacidade dos seres vivos de se produzirem a si próprios. A palavra vem do grego autós, que significa “por si próprio”, e poiesis, que significa “criação, produção”. Autores como Henri Atlan e Edgar Morin dão ênfase à auto-organização. Trata-se da atividade que faz um sistema ter autonomia nas interações em relação ao ser meio ambiente. Um sistema altamente organizado (ou complexo) resiste a mudanças ambientais pela sua diversidade e autonomia.
+
+Nessas concepções, o sistema começa e termina pelo observador (por mim, por ti) e filtra o ruído externo, oferecendo níveis mais estáveis de definição. O sistema social filtra o meio ambiente e é filtrado pelo sistema cognitivo. Os sistemas são indissociáveis da observação. Assim, é possível existir contradições entre diferentes observadores.
+
+Rousseau diz que a Sociedade Civil através de um contrato social entre indivíduos livres; Hobbes considera que o Estado é um acordo que impede a guerra de todos contra todos. Na primeira concepção, a S…

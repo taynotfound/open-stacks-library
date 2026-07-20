@@ -19,4 +19,70 @@ files:
     hosted: false
 ---
 
-     Presentación      Perdiendo el tiempo      Antes de actuar        La coordinación del entorno        Límites      Principales formas de sufrimiento psicológico que pueden requerir nuestra reacción        Delirio        Alucinaciones        Episodio maníaco        Depresión        Consumo excesivo de drogas        Autolesión        Agresividad      La importancia de la salud mental        Charlar personalmente        Comunicarse el entorno sin la persona        Comunicarse el entorno con la persona        Reunirse el entorno con la persona      Recursos a utilizar        Pactos de cuidado        Concretar situaciones        Grupo de apoyo mutuo        Acompañamiento        Compartir la problemática      Fármacos      Apuntes sobre la ayuda profesional      Algunas reflexiones finales      Para saber más Por primeravocal.org La lucha por los derechos humanos y la búsqueda de alternativas a la gestión que hace la sociedad del sufrimiento psíquico son los dos grandes frentes del activismo en el campo de la salud mental. En la actualidad se están produciendo movimientos tanto entre las personas afectadas de manera directa por ese sufrimiento como en los sectores más críticos de los profesionales. Poco a poco van cuajando sinergias que se materializan en forma de asambleas, artículos, charlas, congresos, traducciones, webs. etc. La publicación de Saldremos de esta. Guía de salud mental para el entorno de la persona en crisis es un fruto de este tipo de encuentros. Escrita por un psicólogo, en su redacción final han participado distintos supervivientes a la psiquiatría. Estas breves páginas que tienes entre las manos tienen un objetivo práctico. No pretenden proponer una solución en sí misma a un momento de crisis. Sencillamente buscan arrojar algo de luz en una situación que sabemos de primera mano que es compleja y, en ocasiones, devastadora. Y tratan de hacerlo, además, desde una perspectiva no individualista. Son muchos, cada vez más, los materiales teóricos que cuestionan los modelos hegemónicos de atención en salud mental. Pero nos hacen falta herramientas prácticas... saberes ubicados más allá del conocimiento especializado que sirvan para desplegar estrategias colectivas con las que reducir todo ese dolor que brota día a día en nuestros entornos. Esta guía pretende ser uno de los muchos pasos que nos quedan por dar en esta dirección. Todas las personas tenemos salud mental, y esta puede ir mejor, peor, o en una montaña rusa. Desde hace muchos años se ha ido reduciendo la idea que tenemos de salud mental a los problemas de salud mental. Tenerla en cuenta únicamente cuando nos da problemas, da a entender que en el resto de circunstancias es un factor que no debemos atender y que la salud mental es un tema problemático en sí mismo. Esto nos lleva a no saber cómo reaccionar cuando dichos problemas son muy complejos o nos parecen extraños, olvidando la capacidad que tenemos de apoyarnos unas a otras, y ocultándonos, también, la realidad de que el sufrimiento psíquico es mucho más común de lo que creemos (si no universal). De esta manera, lo primero que queríamos dejar claro es que no solo se tiene que reaccionar ante los problemas de una persona cuando ya ha entrado en crisis, sino que lo ideal sería aprender a cuidarnos las unas a las otras de manera cotidiana. Por lo que respecta al objeto de esta pequeña guía, vamos a referirnos, precisamente, a los momentos en que la persona está sintiendo ese sufrimiento debido a que su salud mental está deteriorada. La salud mental puede resentirse por motivos de todo tipo, desde los laborales a los familiares, desde el consumo de drogas a finalizar una relación, desde el desempleo a los abusos en la infancia, y podríamos seguir creando una lista infinita. La cuestión es que una persona cercana está pasando una mala racha, y esto puede generarle un pequeño problema de estado de ánimo, o de repente decirnos que escucha voces y está muy asustada. En ambos casos tendremos que apoyar, pero …
+Presentación
+
+Perdiendo el tiempo
+
+Antes de actuar
+
+La coordinación del entorno
+
+Límites
+
+Principales formas de sufrimiento psicológico que pueden requerir nuestra reacción
+
+Delirio
+
+Alucinaciones
+
+Episodio maníaco
+
+Depresión
+
+Consumo excesivo de drogas
+
+Autolesión
+
+Agresividad
+
+La importancia de la salud mental
+
+Charlar personalmente
+
+Comunicarse el entorno sin la persona
+
+Comunicarse el entorno con la persona
+
+Reunirse el entorno con la persona
+
+Recursos a utilizar
+
+Pactos de cuidado
+
+Concretar situaciones
+
+Grupo de apoyo mutuo
+
+Acompañamiento
+
+Compartir la problemática
+
+Fármacos
+
+Apuntes sobre la ayuda profesional
+
+Algunas reflexiones finales
+
+Para saber más
+
+Por primeravocal.org
+
+La lucha por los derechos humanos y la búsqueda de alternativas a la gestión que hace la sociedad del sufrimiento psíquico son los dos grandes frentes del activismo en el campo de la salud mental. En la actualidad se están produciendo movimientos tanto entre las personas afectadas de manera directa por ese sufrimiento como en los sectores más críticos de los profesionales. Poco a poco van cuajando sinergias que se materializan en forma de asambleas, artículos, charlas, congresos, traducciones, webs. etc. La publicación deSaldremos de esta. Guía de salud mental para el entorno de la persona en crisis es un fruto de este tipo de encuentros. Escrita por un psicólogo, en su redacción final han participado distintos supervivientes a la psiquiatría.
+
+Estas breves páginas que tienes entre las manos tienen un objetivo práctico. No pretenden proponer una solución en sí misma a un momento de crisis. Sencillamente buscan arrojar algo de luz en una situación que sabemos de primera mano que es compleja y, en ocasiones, devastadora. Y tratan de hacerlo, además, desde una perspectiva no individualista.
+
+Son muchos, cada vez más, los materiales teóricos que cuestionan los modelos hegemónicos de atención en salud mental. Pero nos hacen falta herramientas prácticas... saberes ubicados más allá del conocimiento especializado que sirvan para desplegar estrategias colectivas con las que reducir todo ese dolor que brota día a día en nuestros entornos. Esta guía pretende ser uno de los muchos pasos que nos quedan por dar en esta dirección.
+
+Todas las personas tenemos salud mental, y esta puede ir mejor, peor, o en una montaña rusa. Desde hace muchos años se ha ido reduciendo la idea que tenemos de salud mental a los problemas de salud mental. Tenerla en cuenta únicamente cuando nos da problemas, da a entender que en el resto de circunstancias es un factor que no debemos atender y que la salud mental es un tema problemático en sí mismo. Esto nos lleva a no saber cómo reaccionar cuando dichos problemas son muy complejos o nos parecen extraños, olvidando la capacidad que tenemos de apoyarnos unas a otras, y ocultándonos, también, la realidad de que el sufrimiento psíquico es mucho más común de lo que creemos (si no universal). De esta manera, lo primero que queríamos dejar claro es que no solo se tiene que reaccionar ante los problemas de una persona cuando ya ha entrado en crisis, sino que lo ideal sería aprender a cuidarnos las unas a las otras de manera cotidiana.
+
+Por lo que respecta al objeto de esta pequeña guía, vamos a referirnos, precisamente, a los momentos en que la persona está sintiendo ese sufrimiento debido a que su salud mental está deteriorada. La salud mental puede resentirse por motivos de todo tipo, desde los laborales a los familiares, desde el consumo de drogas a finalizar una relación, desde el desempleo a los abusos en la infancia, y podríamos seguir creando una lista infinita. La cuestión es que una persona cercana está pasando una mala racha, y esto puede generarle un pequeño problema de estado de ánimo, o de repente decirnos que escucha voces y está muy asustada. En ambos casos tendremos que apoyar, pero el segundo de ellos, evidentemente, requiere que nos informemos y estemos preparadas. Esta guía puede ser un primer paso. Nunca el único. Esta g…

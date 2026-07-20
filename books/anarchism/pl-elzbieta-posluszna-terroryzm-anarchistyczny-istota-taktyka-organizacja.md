@@ -19,4 +19,57 @@ files:
     hosted: false
 ---
 
-       Istota anarchizmu        Stosunek do przemocy        Taktyka działania        Struktury organizacyjne        Zakończenie Celem niniejszego artykułu jest charakterystyka współczesnego anarchizmu, zarówno pod względem ideowym, taktycznym, jak i organizacyjnym. Charakterystyka ta w zamierzeniu autorki winna służyć określonym celom praktycznym, a mianowicie wypracowaniu środków przeciwdziałania rozwojowi anarchistycznego ekstremizmu i terroryzmu oraz narzędzi, za pomocą których skuteczniej niż dotąd zwalczać będzie można najbardziej niebezpieczne jego przejawy. Artykuł zawiera także sugestię, że chcąc przeciwdziałać destrukcyjnej aktywności współczesnych radykalnych ugrupowań anarchistycznych, które są w znacznym stopniu zdecentralizowane, a nawet funkcjonują według modelu „oporu bez przywództwa”, pora rozważyć także nowe metody ich zwalczania, opierające się na przykład na siłach zorganizowanych niehierarchicznie. Po okresie burzliwego rozwoju anarchizmu w drugiej połowie XIX i na początku XX w., nastąpił okres jego ideologicznego zastoju (przejawiający się m.in. spadkiem aktywności anarchistycznych grup i organizacji). Wydawało się wówczas, że anarchizm się wyczerpał i stan zastoju będzie względnie trwały. Tak się jednak nie stało. U progu XXI w. – pod wpływem m.in. takich czynników, jak: kryzys gospodarczy, skutkujący spadkiem dobrobytu; upadek wiary w nadrzędne autorytety; globalizacja oraz rozwój nowych mediów, nastąpił swoisty renesans anarchistycznych postaw i idei. Jego najbardziej widomym znakiem był wzrost anarchistycznie motywowanej przemocy. Co prawda przemoc ta stała się udziałem zaledwie kilku państw europejskich, byłoby jednak pewną naiwnością przekonanie, że tak już pozostanie. Państwa nie są już „odizolowanymi wyspami”, autarkicznymi bytami, mogącymi funkcjonować w izolacji. Stały przepływ myśli i idei oraz splot rozmaitych czynników – gospodarczych, społecznych czy politycznych – łatwo mogą sprawić, że przemoc anarchistyczna pojawi się także i na tych obszarach, które w przeszłości nigdy silnie jej nie doświadczały. Anarchizm nigdy nie był doktryną spójną. Zawsze obejmował szereg odmiennych, często nawet opozycyjnych względem siebie nurtów, np. anarchizm indywidualistyczny, kolektywistyczny, komunistyczny czy syndykalistyczny. Liczba tych nurtów stale się zwiększa, co więcej, niektóre z nich weszły w swoistą symbiozę z ideologiami, z którymi niegdyś nie miały nic wspólnego. Dość powiedzieć, że współcześnie w literaturze przedmiotu łączy się anarchizm z takimi doktrynami, i w efekcie ruchami społecznymi, jak enwironmentalizm, prawa zwierząt czy alterglobalizm. Taki stan rzeczy czyni badanie anarchizmu – zarówno jako doktryny, jak i zjawiska o charakterze społecznym – zadaniem niezwykle trudnym, choć nie niewykonalnym. Należy oczywiście pamiętać, że wszelkie pojęciowe ujęcia mają charakter modelujący i upraszczający zarazem – są to zawsze modele idealne, które zarazem objaśniają, jak i zafałszowują obraz rzeczywistości poprzez często arbitralne upodobnienie różnorakich, choć pod pewnymi względami bliskich sobie zjawisk. Bez wątpienia zadaniem badacza jest w miarę możliwości unikanie upraszczającej analizy oraz baczniejsze zwrócenie uwagi także na „zjawiska mieszane”, które nie do końca pasują do idealizacyjnego modelu. Nie oznacza to zapoznania „perspektywy istotowej”, która – jak się wydaje – stanowi podstawę wszelkiego rodzaju rozróżnień i typologii, nawet, gdy w przyszłości przyjdzie je zanegować. Jaka jest zatem istota anarchizmu? Co stanowi jego rdzeń, odnajdywalny w rozmaitych jego przejawach? Istotę anarchizmu najprawdopodobniej najlepiej sformułował Piotr Kropotkin, który napisał: „Anarchizm to nazwa praktyki i teorii życia, według której społeczeństwo nie posiada żadnego rządu. W takim społeczeństwie harmonia zagwarantowana jest nie przy pomocy prawa lub posłuszeństwa jakiemuś autorytetowi, lecz dzięki porozumieniu zawartemu na zasadzie wolności między różnymi grupami terytorialnymi i zawodowymi, ut…
+Istota anarchizmu
+
+Stosunek do przemocy
+
+Taktyka działania
+
+Struktury organizacyjne
+
+Zakończenie
+
+Celem niniejszego artykułu jest charakterystyka współczesnego anarchizmu, zarówno pod względem ideowym, taktycznym, jak i organizacyjnym.
+Charakterystyka ta w zamierzeniu autorki winna służyć określonym celom
+praktycznym, a mianowicie wypracowaniu środków przeciwdziałania rozwojowi anarchistycznego ekstremizmu i terroryzmu oraz narzędzi, za pomocą
+których skuteczniej niż dotąd zwalczać będzie można najbardziej niebezpieczne jego przejawy. Artykuł zawiera także sugestię, że chcąc przeciwdziałać destrukcyjnej aktywności współczesnych radykalnych ugrupowań anarchistycznych, które są w znacznym stopniu zdecentralizowane, a nawet funkcjonują
+według modelu „oporu bez przywództwa”, pora rozważyć także nowe metody
+ich zwalczania, opierające się na przykład na siłach zorganizowanych niehierarchicznie.
+
+Po okresie burzliwego rozwoju anarchizmu w drugiej połowie XIX i na
+początku XX w., nastąpił okres jego ideologicznego zastoju (przejawiający się m.in. spadkiem aktywności anarchistycznych grup i organizacji).
+Wydawało się wówczas, że anarchizm się wyczerpał i stan zastoju będzie
+względnie trwały. Tak się jednak nie stało. U progu XXI w. – pod wpływem m.in. takich czynników, jak: kryzys gospodarczy, skutkujący spadkiem
+dobrobytu; upadek wiary w nadrzędne autorytety; globalizacja oraz rozwój
+nowych mediów, nastąpił swoisty renesans anarchistycznych postaw i idei.
+Jego najbardziej widomym znakiem był wzrost anarchistycznie motywowanej przemocy. Co prawda przemoc ta stała się udziałem zaledwie kilku
+państw europejskich, byłoby jednak pewną naiwnością przekonanie, że tak
+już pozostanie. Państwa nie są już „odizolowanymi wyspami”, autarkicznymi
+bytami, mogącymi funkcjonować w izolacji. Stały przepływ myśli i idei oraz
+splot rozmaitych czynników – gospodarczych, społecznych czy politycznych
+– łatwo mogą sprawić, że przemoc anarchistyczna pojawi się także i na tych
+obszarach, które w przeszłości nigdy silnie jej nie doświadczały.
+
+Anarchizm nigdy nie był doktryną spójną. Zawsze obejmował szereg odmiennych, często nawet opozycyjnych względem siebie nurtów, np. anarchizm
+indywidualistyczny, kolektywistyczny, komunistyczny czy syndykalistyczny.
+Liczba tych nurtów stale się zwiększa, co więcej, niektóre z nich weszły w swoistą symbiozę z ideologiami, z którymi niegdyś nie miały nic wspólnego. Dość
+powiedzieć, że współcześnie w literaturze przedmiotu łączy się anarchizm z takimi doktrynami, i w efekcie ruchami społecznymi, jak enwironmentalizm,
+prawa zwierząt czy alterglobalizm. Taki stan rzeczy czyni badanie anarchizmu
+– zarówno jako doktryny, jak i zjawiska o charakterze społecznym – zadaniem
+niezwykle trudnym, choć nie niewykonalnym.
+
+Należy oczywiście pamiętać, że wszelkie pojęciowe ujęcia mają charakter
+modelujący i upraszczający zarazem – są to zawsze modele idealne, które zarazem objaśniają, jak i zafałszowują obraz rzeczywistości poprzez często arbitralne upodobnienie różnorakich, choć pod pewnymi względami bliskich
+sobie zjawisk. Bez wątpienia zadaniem badacza jest w miarę możliwości
+unikanie upraszczającej analizy oraz baczniejsze zwrócenie uwagi także na
+„zjawiska mieszane”, które nie do końca pasują do idealizacyjnego modelu.
+Nie oznacza to zapoznania „perspektywy istotowej”, która – jak się wydaje
+– stanowi podstawę wszelkiego rodzaju rozróżnień i typologii, nawet, gdy
+w przyszłości przyjdzie je zanegować. Jaka jest zatem istota anarchizmu? Co
+stanowi jego rdzeń, odnajdywalny w rozmaitych jego przejawach?
+
+Istotę anarchizmu najprawdopodobniej najlepiej sformułował Piotr
+Kropotkin, który napisał: „Anarchizm to nazwa praktyki i teorii życia,
+według której społeczeństwo nie posiada żadnego rządu. W takim społeczeństwie harmonia zagwarantowana jest nie przy pomocy prawa lub posłuszeństwa jakiemuś autorytetowi, lecz dzięki porozumieniu zawartemu na
+zasadzie wolności między różnymi grupami terytorialnymi i zawodowymi,
+utworzonymi w celu produkcji…

@@ -19,4 +19,63 @@ files:
     hosted: false
 ---
 
-Nota redakcyjna Stanisław Tchórzewski, polski emigrant (opuścił Polskę w 1845 roku), uczestnik rewolucji 1848 roku. Prowadził księgarnię w Londynie, był przyjacielem i współpracownikiem Hercena i Ogariowa. Prowadził dystrybucję "Kołkoła". Bakunina poznał w grudniu 1861 roku, pozostał jego przyjacielem, aż do śmierci. Tekst za Michał Bakunin "Pisma Wybrane" t. 2, s. 414 - 415. List przełożył Bolesław Wścieklica. Publikacja w wersji elektronicznej: Anarchistyczne Archiwa 2006. Firenze, 24/12 kwietnia r. 1864 Borgo Ogni Santi 2 piano Drogi Panie! Na wstępie dziękuję Panu za 100 fr., które przesłał mi Pan za pośrednictwem Hercena, i za listy z Irkucka do żony. Co się tyczy tych ostatnich, proszę, żeby Pan je opatrywał znaczkami pocztowymi, dopóki jest za co, ale na przyszłość nie wysyłał ich jako polecone (enregi-stree), bo biedny Vieusseux, który jest dla mnie bardzo uprzejmy, musi za każdym razem sam biegać na pocztę, żeby je odebrać. Listy opatrzone znaczkami i wysyłane na jego imię przychodzą niezawodnie, tak że wysyłka ich jako poleconych stanowi niepotrzebny wydatek i wymaga zbędnego zachodu. Czy brał Pan udział w śniadaniu na cześć Mazziniego i Garibaldiego u Hercena? Jeśli Pan w nim uczestniczył, to proszę o nim opowiedzieć. Tutaj nie wszyscy są zadowoleni z przemówienia Garibaldiego w Cristal Palace, w którym tłumaczy on zachowanie niezwykłego porządku przez tłum ludu bez opieki policji niebywałą jakąś miłością narodu angielskiego do cara regina. Wielu, a między innymi i mnie, wydało się to tym, co Francuzi nazywają: niaiserie, a w sytuacji Garibaldiego odważną, a zarazem szkodliwą niaiserie. Pierwszy i niewątpliwie najbardziej żałosny akt polskiej tragedii rewolucyjnej, jak się zdaje, dobiegł końca. Ale niech Pan nie ulega rozpaczy, rewolucja polska nie tylko się nie skończyła, ale według głębokiego mego przekonania dopiero się zaczyna. Skończył się tylko krwawy prolog pod nazwą: "Bohaterski upadek polskiej demokracji szlacheckiej". Rozpoczęła się polska sprawa chłopska, której rząd rosyjski nigdy nie będzie w stanie załagodzić ani zaspokoić, a spośród demokracji szlacheckiej, rewolucyjnego mieszczaństwa i ludu miejskiego nie wszyscy przecie zostali wyrżnięci i nie wszyscy zesłani na Sybir - pozostało bez wątpienia kilka tysięcy ludzi gotowych na wszystko, ludzi, którzy wszystko utracili i doznali w ciągu tego strasznego roku takich cierpień, jakich inne narody nie doświadczają w ciągu stu lat. Przypuśćmy nawet, że połowa, nawet dwie trzecie spośród nich to ludzie niezdolni do działania - inni za to zahartowani i nieustraszeni; cokolwiek by się stało, nie cofną się przed niczym i gotowi są na wszystko. To ogromna siła - i siła odtąd rozumna, bo zrozumiała w zupełności, że przyszłość Polski, podobnie jak i wszystkich narodów słowiańskich - w chłopie, i że istnieje jeden tylko środek ocalenia dla wszystkich: czerwona, społeczna rewolucja geologiczna [?]. Spotykałem już takich ludzi i jestem przekonany, że spotkam ich więcej. Sojusz z nimi możliwy jest i nieodzowny. Oni mogą nam znaleźć drogę do właściwych ludzi wśród Wielkorusów i Małorusinów. Na Zachodzie też zakończył się przypływ reakcji - zaczął się znowu przypływ rewolucji. I odrzucając myśl godną aksakowskiego "Dnia" [1] , myśl odseparowania ruchu rosyjskiego i słowiańskiego od ruchu europejskiego, jakoby już martwego, w rzeczywistości zaś tylko zamarłego, ale teraz właśnie zmartwychwstającego do nowego życia - powinniśmy wreszcie zrozumieć, że w całej Europie, nie wyłączając i naszej Rosji, są dwa obozy, dwie ojczyzny: jeden nazywa się rewolucją, a drugi kontrrewolucją. Polacy, o których mówię, ostatecznie pójdą z nami za miesiąc, gdy się przekonają, że u Napoleona i na konferencji-kongresie Polska nic nie zdobędzie. A więc niech się Pan nie poddaje rozpaczy, umiera teraz nie Polska, ale ostatni odblask szlacheckiej wolności i szlacheckiej demokracji w Polsce - i w Polsce, właśnie w Polsce nastąpi początek końca rosyjskiego cesarstwa i państwa wszechrosyjskiego. Poz…
+Nota redakcyjna
+
+Stanisław Tchórzewski, polski emigrant (opuścił Polskę w 1845 roku), uczestnik rewolucji
+1848 roku. Prowadził księgarnię w Londynie, był przyjacielem i współpracownikiem Hercena
+i Ogariowa. Prowadził dystrybucję "Kołkoła". Bakunina poznał w grudniu 1861 roku,
+pozostał jego przyjacielem, aż do śmierci.
+
+Tekst za Michał Bakunin "Pisma Wybrane" t. 2, s. 414 - 415. List przełożył Bolesław
+Wścieklica. Publikacja w wersji elektronicznej: Anarchistyczne Archiwa 2006.
+
+Firenze, 24/12 kwietnia r. 1864
+
+Borgo Ogni Santi 2 piano
+
+Drogi Panie!
+
+Na wstępie dziękuję Panu za 100 fr., które przesłał mi Pan za pośrednictwem Hercena, i za
+listy z Irkucka do żony. Co się tyczy tych ostatnich, proszę, żeby Pan je opatrywał znaczkami
+pocztowymi, dopóki jest za co, ale na przyszłość nie wysyłał ich jako polecone (enregi-stree),
+bo biedny Vieusseux, który jest dla mnie bardzo uprzejmy, musi za każdym razem sam biegać
+na pocztę, żeby je odebrać. Listy opatrzone znaczkami i wysyłane na jego imię przychodzą
+niezawodnie, tak że wysyłka ich jako poleconych stanowi niepotrzebny wydatek i wymaga
+zbędnego zachodu.
+
+Czy brał Pan udział w śniadaniu na cześć Mazziniego i Garibaldiego u Hercena? Jeśli Pan w
+nim uczestniczył, to proszę o nim opowiedzieć. Tutaj nie wszyscy są zadowoleni z
+przemówienia Garibaldiego w Cristal Palace, w którym tłumaczy on zachowanie niezwykłego
+porządku przez tłum ludu bez opieki policji niebywałą jakąś miłością narodu angielskiego do
+cara regina. Wielu, a między innymi i mnie, wydało się to tym, co Francuzi nazywają:
+niaiserie, a w sytuacji Garibaldiego odważną, a zarazem szkodliwą niaiserie.
+
+Pierwszy i niewątpliwie najbardziej żałosny akt polskiej tragedii rewolucyjnej, jak się zdaje,
+dobiegł końca. Ale niech Pan nie ulega rozpaczy, rewolucja polska nie tylko się nie
+skończyła, ale według głębokiego mego przekonania dopiero się zaczyna. Skończył się tylko
+krwawy prolog pod nazwą: "Bohaterski upadek polskiej demokracji szlacheckiej".
+Rozpoczęła się polska sprawa chłopska, której rząd rosyjski nigdy nie będzie w stanie
+załagodzić ani zaspokoić, a spośród demokracji szlacheckiej, rewolucyjnego mieszczaństwa i
+ludu miejskiego nie wszyscy przecie zostali wyrżnięci i nie wszyscy zesłani na Sybir -
+pozostało bez wątpienia kilka tysięcy ludzi gotowych na wszystko, ludzi, którzy wszystko
+utracili i doznali w ciągu tego strasznego roku takich cierpień, jakich inne narody nie
+doświadczają w ciągu stu lat. Przypuśćmy nawet, że połowa, nawet dwie trzecie spośród nich
+to ludzie niezdolni do działania - inni za to zahartowani i nieustraszeni; cokolwiek by się
+stało, nie cofną się przed niczym i gotowi są na wszystko. To ogromna siła - i siła odtąd
+rozumna, bo zrozumiała w zupełności, że przyszłość Polski, podobnie jak i wszystkich
+narodów słowiańskich - w chłopie, i że istnieje jeden tylko środek ocalenia dla wszystkich:
+czerwona, społeczna rewolucja geologiczna [?]. Spotykałem już takich ludzi i jestem przekonany, że spotkam ich więcej. Sojusz z nimi możliwy jest i nieodzowny. Oni mogą nam
+znaleźć drogę do właściwych ludzi wśród Wielkorusów i Małorusinów.
+
+Na Zachodzie też zakończył się przypływ reakcji - zaczął się znowu przypływ rewolucji. I
+odrzucając myśl godną aksakowskiego "Dnia"[1], myśl odseparowania ruchu rosyjskiego i
+słowiańskiego od ruchu europejskiego, jakoby już martwego, w rzeczywistości zaś tylko
+zamarłego, ale teraz właśnie zmartwychwstającego do nowego życia - powinniśmy wreszcie
+zrozumieć, że w całej Europie, nie wyłączając i naszej Rosji, są dwa obozy, dwie ojczyzny:
+jeden nazywa się rewolucją, a drugi kontrrewolucją. Polacy, o których mówię, ostatecznie
+pójdą z nami za miesiąc, gdy się przekonają, że u Napoleona i na konferencji-kongresie
+Polska nic nie zdobędzie.
+
+A więc niech się Pan nie poddaje rozpaczy, umiera teraz nie Polska, ale ostatni odblask
+szlacheckiej wolności i szlacheckiej demokracji w Polsce - i w Polsce, właśnie w Polsce
+nastąpi początek końca rosyjskiego cesarstwa i państwa wszechrosyjski…

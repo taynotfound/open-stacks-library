@@ -19,4 +19,42 @@ files:
     hosted: false
 ---
 
-       „Polska to bardzo katolicki kraj i nie mogą tam mieć takich studiów genderowych jak u nas w Algierii”.        Pod okiem Wielkiego Brata        Kraj po przejściach        Ćwiczenie z zadawania pytań        Być singielką w Algierii        Wolna miłość w undergroundzie        Czarna Dekada        Układanka z niepasujących części W obszernym gabinecie, z widokiem na nowoczesny kampus, Bakhta przedstawia mnie właśnie rektorowi uniwersytetu w Mostaganem. Od kilku lat wykładam tam gościnnie na prowadzonych przez nią „genderach”. Jej słowa wprawiają mnie w osłupienie. Chcę coś wyjaśniać, zaprzeczać. Ironia sytuacji sprawia, że nie wiem jak. Jest styczeń 2014 roku. W Polsce apogeum osiąga wtedy wojna z „ideologią gender”. Bakhta wie ode mnie, że „genderyści” oskarżani są u nas o „dewastowanie człowieka i rodziny”, że antygenderowa krucjata toczy się w kościołach, szkołach, parlamencie i mediach. Wie też o listach do władz uczelni, których autorzy żądają zamknięcia studiów gender na UAM. Z algierskiej perspektywy w obrazie Polski gubią się niuanse. I vice versa. Rektor Bakhty kiwa współczująco głową. Po namyśle dorzuca do organizowanej przez nią feministycznej konferencji jakąś sumę z dużą ilością zer. Tyle, ile chciała. Do Algierii przyjeżdżam po raz pierwszy w 2012 roku. Nigdzie nie mogę ruszyć się sama. Na uniwersytet i z powrotem wozi mnie kierowca, po mieście mogę chodzić tylko ze studentami lub kimś zaakceptowanym przez władze uniwersyteckie. Nie ma szans na wycieczki krajoznawcze, zwiedzanie okolicznych miast. Dopiero przy drugim pobycie orientuję się, że każdy mój krok monitorowany jest przez lokalne służby bezpieczeństwa. Najgorzej jest na początku 2014 roku, kiedy Algieria przygotowuje się do wyborów prezydenckich. Dwóch panów ze służb siedzi wtedy na uniwersytecie przed salą, w której mam zajęcia. A potem spisuje nazwiska i telefony studentów, którzy idą ze mną na spacer po mieście. Panowie nie opuszczają nas w czasie spaceru, wytrwale stoją przez dwie godziny przed pizzerią, w której jemy obiad. Ale tak naprawdę skalę tej obsesji bezpieczeństwa (kontroli?) uświadamiam sobie, gdy pewnego popołudnia usiłuję jednak wyjść sama na plażę, 50 metrów od mojego hotelu. Udaje mi się przejść może z 200 metrów nadmorskim bulwarem, kiedy dogania mnie samochód ochrony hotelowej i trochę zawstydzony strażnik mówi do mnie: nie możesz sama chodzić. No, ale jak już musisz, będę chodził z tobą. Kontynuujemy więc spacer we dwójkę, tyle, że po kolejnych 200 metrach z pobliskiej jednostki wojskowej wychodzi człowiek w mundurze i, zbliżając się do nas, rzuca pytanie: ty jesteś Monika, prawda? Nie możesz tutaj chodzić, wracajcie do hotelu. Podczas niektórych wizyt udaje mi się jednak na tę plażę jakoś wymknąć. Problem polega na tym, że jestem jedyną Europejką w promieniu wielu kilometrów, wszyscy mi się więc przyglądają. Trąbią na mnie samochody wypełnione wyrostkami, zdarza się, że jakiś kierowca zwalnia i jedzie tuż za mną, kiedy idę chodnikiem. Ale nie chodzi tylko o to, że jestem nie stąd. Przestrzeń miejska w ogóle nie jest przyjazna dla samotnych kobiet. Spacerować mogą mężczyźni albo całe rodziny, pojedyncze kobiety przemieszczają się raczej z wyraźnie określonego punktu A do punktu B. Swobodne eksplorowanie nieznanych miejsc zupełnie w ich przypadku nie wchodzi w grę. Doktor Bakhta Abdelhay założyła swoje studia genderowe, pierwsze tego typu przedsięwzięcie w Algierii, w 2009 roku. Powstał wtedy program magisterski, kilka lat później również doktorski. Oba szybko wzbudziły wielkie zainteresowanie, które utrzymuje się do dziś. Popularność „genderów” Bakhty wiąże się zapewne także z boomem edukacyjnym, który przeżywa obecnie Algieria. Połowa mieszkańców tego kraju ma mniej niż 25 lat. Szkoły wyższe są dosyć hojnie finansowane przez państwo, które dzięki saharyjskiej ropie i gazowi nie może narzekać na brak rezerw finansowych (choć to akurat może się zmienić z powodu niskich ostatnio cen ropy). Za ich pomocą stara się zresztą kupować sp…
+„Polska to bardzo katolicki kraj i nie mogą tam mieć takich studiów genderowych jak u nas w Algierii”.
+
+Pod okiem Wielkiego Brata
+
+Kraj po przejściach
+
+Ćwiczenie z zadawania pytań
+
+Być singielką w Algierii
+
+Wolna miłość w undergroundzie
+
+Czarna Dekada
+
+Układanka z niepasujących części
+
+W obszernym gabinecie, z widokiem na nowoczesny kampus, Bakhta przedstawia mnie właśnie rektorowi uniwersytetu w Mostaganem. Od kilku lat wykładam tam gościnnie na prowadzonych przez nią „genderach”.
+
+Jej słowa wprawiają mnie w osłupienie. Chcę coś wyjaśniać, zaprzeczać. Ironia sytuacji sprawia, że nie wiem jak.
+
+Jest styczeń 2014 roku. W Polsce apogeum osiąga wtedy wojna z „ideologią gender”. Bakhta wie ode mnie, że „genderyści” oskarżani są u nas o „dewastowanie człowieka i rodziny”, że antygenderowa krucjata toczy się w kościołach, szkołach, parlamencie i mediach. Wie też o listach do władz uczelni, których autorzy żądają zamknięcia studiów gender na UAM.
+
+Z algierskiej perspektywy w obrazie Polski gubią się niuanse. I vice versa. Rektor Bakhty kiwa współczująco głową. Po namyśle dorzuca do organizowanej przez nią feministycznej konferencji jakąś sumę z dużą ilością zer. Tyle, ile chciała.
+
+Do Algierii przyjeżdżam po raz pierwszy w 2012 roku. Nigdzie nie mogę ruszyć się sama. Na uniwersytet i z powrotem wozi mnie kierowca, po mieście mogę chodzić tylko ze studentami lub kimś zaakceptowanym przez władze uniwersyteckie. Nie ma szans na wycieczki krajoznawcze, zwiedzanie okolicznych miast.
+
+Dopiero przy drugim pobycie orientuję się, że każdy mój krok monitorowany jest przez lokalne służby bezpieczeństwa.
+
+Najgorzej jest na początku 2014 roku, kiedy Algieria przygotowuje się do wyborów prezydenckich. Dwóch panów ze służb siedzi wtedy na uniwersytecie przed salą, w której mam zajęcia. A potem spisuje nazwiska i telefony studentów, którzy idą ze mną na spacer po mieście. Panowie nie opuszczają nas w czasie spaceru, wytrwale stoją przez dwie godziny przed pizzerią, w której jemy obiad.
+
+Ale tak naprawdę skalę tej obsesji bezpieczeństwa (kontroli?) uświadamiam sobie, gdy pewnego popołudnia usiłuję jednak wyjść sama na plażę, 50 metrów od mojego hotelu. Udaje mi się przejść może z 200 metrów nadmorskim bulwarem, kiedy dogania mnie samochód ochrony hotelowej i trochę zawstydzony strażnik mówi do mnie: nie możesz sama chodzić. No, ale jak już musisz, będę chodził z tobą. Kontynuujemy więc spacer we dwójkę, tyle, że po kolejnych 200 metrach z pobliskiej jednostki wojskowej wychodzi człowiek w mundurze i, zbliżając się do nas, rzuca pytanie: ty jesteś Monika, prawda? Nie możesz tutaj chodzić, wracajcie do hotelu.
+
+Podczas niektórych wizyt udaje mi się jednak na tę plażę jakoś wymknąć. Problem polega na tym, że jestem jedyną Europejką w promieniu wielu kilometrów, wszyscy mi się więc przyglądają. Trąbią na mnie samochody wypełnione wyrostkami, zdarza się, że jakiś kierowca zwalnia i jedzie tuż za mną, kiedy idę chodnikiem.
+
+Ale nie chodzi tylko o to, że jestem nie stąd. Przestrzeń miejska w ogóle nie jest przyjazna dla samotnych kobiet. Spacerować mogą mężczyźni albo całe rodziny, pojedyncze kobiety przemieszczają się raczej z wyraźnie określonego punktu A do punktu B. Swobodne eksplorowanie nieznanych miejsc zupełnie w ich przypadku nie wchodzi w grę.
+
+Doktor Bakhta Abdelhay założyła swoje studia genderowe, pierwsze tego typu przedsięwzięcie w Algierii, w 2009 roku. Powstał wtedy program magisterski, kilka lat później również doktorski. Oba szybko wzbudziły wielkie zainteresowanie, które utrzymuje się do dziś.
+
+Popularność „genderów” Bakhty wiąże się zapewne także z boomem edukacyjnym, który przeżywa obecnie Algieria. Połowa mieszkańców tego kraju ma mniej niż 25 lat. Szkoły wyższe są dosyć hojnie finansowane przez państwo, które dzięki saharyjskiej ropie i gazowi nie może narzekać na brak rezerw finansowych (choć to akurat może się zmienić z powodu niskich ostatnio cen ropy). Za ich pomocą stara się zresztą kupować spokój społeczny. Stało się tak na przy…
