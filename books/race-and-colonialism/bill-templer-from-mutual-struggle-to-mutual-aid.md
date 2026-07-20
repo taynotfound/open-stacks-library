@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: from-mutual-struggle-to-mutual-aid.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/from-mutual-struggle-to-mutual-aid.epub
+    hosted: true
 ---
 
 # From Mutual Struggle to Mutual Aid
