@@ -19,6 +19,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/ba550984a17c043e.jpg"
 links: []
 files: []
+files:
+  - name: "singlejack-solidarity-stan-weir.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/singlejack-solidarity-stan-weir.pdf"
+    hosted: true
 ---
 # Singlejack solidarity - Stan Weir
 
