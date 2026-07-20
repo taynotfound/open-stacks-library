@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: anarchism-and-education.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/anarchism-and-education.epub
+    hosted: true
 ---
 
 # Anarchism and Education
