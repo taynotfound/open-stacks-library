@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: some-criticism-of-some-current-anarchist-beliefs.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/some-criticism-of-some-current-anarchist-beliefs.epub
+    hosted: true
 ---
 
 # Some criticism of some current anarchist beliefs
