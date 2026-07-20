@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: black-seed-issue-7.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/black-seed-issue-7.epub
+    hosted: true
 ---
 
 # Black Seed: Issue 7
