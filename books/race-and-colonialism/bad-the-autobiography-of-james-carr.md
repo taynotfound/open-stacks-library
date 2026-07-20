@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/763504bb28c62af1.jpg"
 links: []
 files: []
+files:
+  - name: "bad-the-autobiography-of-james-carr.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bad-the-autobiography-of-james-carr.pdf"
+    hosted: true
 ---
 # Bad: The autobiography of James Carr
 
