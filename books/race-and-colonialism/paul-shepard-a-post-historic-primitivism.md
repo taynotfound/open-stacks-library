@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: a-post-historic-primitivism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a-post-historic-primitivism.epub
+    hosted: true
 ---
 
 # A Post-historic Primitivism
