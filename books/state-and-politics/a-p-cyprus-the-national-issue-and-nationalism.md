@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: cyprus-the-national-issue-and-nationalism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/cyprus-the-national-issue-and-nationalism.epub
+    hosted: true
 ---
 
 # Cyprus, the National Issue and Nationalism
