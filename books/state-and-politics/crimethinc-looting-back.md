@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: looting-back.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/looting-back.epub
+    hosted: true
 ---
 
 # Looting Back
