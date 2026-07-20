@@ -21,10 +21,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/3412b355_LivingwithoutSchoolConfessionsofaRefuser.pdf"
     hosted: true
 ---
-# Living without school - confessions of a refuser
 
-Living without school - confessions of a refuser, Ota Mallku
-
-Presented in PDF format (662kb).
-
-[Read original on libcom.org](https://libcom.org/article/living-without-school-confessions-refuser)
+Living without school - confessions of a refuser, Ota Mallku Presented in PDF format (662kb). Printer-friendly version Japan Asia PDF Comments
