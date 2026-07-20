@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: a-letter-to-grover-cleveland.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a-letter-to-grover-cleveland.epub
+    hosted: true
 ---
 
 # A Letter to Grover Cleveland
