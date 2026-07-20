@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: native-american-anarchism.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/native-american-anarchism.epub
+    hosted: true
 ---
 
 # Native American Anarchism
