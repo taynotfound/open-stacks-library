@@ -19,6 +19,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: illegalism-why-pay-for-a-revolution-on-the-installment-plan-u2026when-you-can-st.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/illegalism-why-pay-for-a-revolution-on-the-installment-plan-u2026when-you-can-st.epub
+    hosted: true
 ---
 
 # Illegalism: Why Pay for a Revolution on the Installment Plan…When You Can Steal One?
