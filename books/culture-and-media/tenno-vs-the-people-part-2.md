@@ -21,10 +21,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/a1368c0b_TennoVsthePeoplepart2.pdf"
     hosted: true
 ---
-# Tenno vs. the People part 2
 
-Tenno vs. the People, a Historical Review Part 2 - Inoue Kiyoshi
-
-Presented in PDF format (3mb).
-
-[Read original on libcom.org](https://libcom.org/article/tenno-vs-people-part-2)
+Tenno vs. the People, a Historical Review Part 2 - Inoue Kiyoshi Presented in PDF format (3mb). Printer-friendly version Japan Asia PDF Comments
