@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/2a3cc7f1bd73ed00.png"
 links: []
 files: []
+files:
+  - name: "prol-position-news.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/prol-position-news.pdf"
+    hosted: true
 ---
 # prol-position news
 
