@@ -22,6 +22,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: worshipping-power.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/worshipping-power.epub
+    hosted: true
 ---
 
 # Worshipping Power
