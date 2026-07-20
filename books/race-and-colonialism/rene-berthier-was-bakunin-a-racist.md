@@ -24,6 +24,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: was-bakunin-a-racist.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/was-bakunin-a-racist.epub
+    hosted: true
 ---
 
 # Was Bakunin a Racist?
