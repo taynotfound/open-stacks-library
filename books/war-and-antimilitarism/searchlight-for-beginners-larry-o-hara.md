@@ -21,6 +21,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/451bbe5aef52f9ca.jpg"
 links: []
 files: []
+files:
+  - name: "searchlight-for-beginners-larry-o-hara.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/searchlight-for-beginners-larry-o-hara.pdf"
+    hosted: true
 ---
 # Searchlight for Beginners - Larry O' Hara
 
