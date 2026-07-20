@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: there-never-was-a-west.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/there-never-was-a-west.epub
+    hosted: true
 ---
 
 # There Never Was a West
