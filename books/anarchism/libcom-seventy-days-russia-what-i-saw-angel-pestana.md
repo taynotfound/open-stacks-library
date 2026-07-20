@@ -21,7 +21,14 @@ files:
   - name: "Seventy days in Russia What I saw Angel Pestana.mobi"
     type: "MOBI"
     url: "https://files.libcom.org/files/Seventy days in Russia What I saw Angel Pestana.mobi"
-    hosted: false
+    hosted: false  - name: "seventy-days-russia-what-i-saw-angel-pestana.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/seventy-days-russia-what-i-saw-angel-pestana.pdf"
+    hosted: true
+  - name: "seventy-days-russia-what-i-saw-angel-pestana.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/seventy-days-russia-what-i-saw-angel-pestana.pdf"
+    hosted: true
 ---
 
 [Read on libcom.org](https://libcom.org/article/seventy-days-russia-what-i-saw-angel-pestana)
