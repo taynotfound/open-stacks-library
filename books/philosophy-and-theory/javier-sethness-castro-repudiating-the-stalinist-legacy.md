@@ -17,6 +17,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: repudiating-the-stalinist-legacy.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/repudiating-the-stalinist-legacy.epub
+    hosted: true
 ---
 
 # Repudiating the Stalinist Legacy
