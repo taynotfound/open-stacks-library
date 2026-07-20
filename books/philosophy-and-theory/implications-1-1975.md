@@ -23,6 +23,11 @@ links:
   - url: "https://library.nothingness.org/articles/SI/en/pub_contents/5 "
     text: "Vaneigem's 'The Revolution of Everyday Life'"
 files: []
+files:
+  - name: "implications-1-1975.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/implications-1-1975.pdf"
+    hosted: true
 ---
 # Implications #1 (1975)
 
