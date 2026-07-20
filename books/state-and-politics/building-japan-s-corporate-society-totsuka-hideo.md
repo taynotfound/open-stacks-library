@@ -23,10 +23,5 @@ files:
     url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/42692a62_MythesoftheManagedSociety.pdf"
     hosted: true
 ---
-# Building Japan's Corporate Society - Totsuka Hideo
 
-Building Japan's Corporate Society - Totsuka Hideo
-
-Presented in PDF format (1mb)
-
-[Read original on libcom.org](https://libcom.org/article/building-japans-corporate-society-totsuka-hideo)
+Building Japan's Corporate Society - Totsuka Hideo Presented in PDF format (1mb) Printer-friendly version economics state Japan Asia PDF Comments
