@@ -22,6 +22,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/faf99055575a994d.jpg"
 links: []
 files: []
+files:
+  - name: "the-third-revolution-peasant-resistance-to-the-bolshevik-gov.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-third-revolution-peasant-resistance-to-the-bolshevik-gov.pdf"
+    hosted: true
 ---
 # The third revolution? Peasant resistance to the Bolshevik government
 
