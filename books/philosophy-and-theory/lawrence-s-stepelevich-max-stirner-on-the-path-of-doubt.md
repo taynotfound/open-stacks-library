@@ -15,6 +15,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: max-stirner-on-the-path-of-doubt.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/max-stirner-on-the-path-of-doubt.epub
+    hosted: true
 ---
 
 # Max Stirner on the Path of Doubt
