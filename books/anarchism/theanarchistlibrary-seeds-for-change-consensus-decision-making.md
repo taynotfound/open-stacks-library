@@ -19,4 +19,58 @@ files:
     hosted: false
 ---
 
-       What is consensus?        What’s wrong with majority voting?        Why use consensus?        Who uses consensus?        How does consensus work?        The process        What if we cannot agree?        Guidelines for consensus building        When not to use consensus          When there is no group in mind          When there are no good choices          When they can see the whites of your eyes          When the issue is trivial          When the group has insufficient information        Common problems and how to overcome them          Consensus can be time consuming          Time pressure          Overuse/underuse/misuse of the right to veto          The group is too large        And finally Consensus is a decision-making process that works creatively to include all persons making the decision. Instead of simply voting for an item, and having the majority of the group getting their way, the group is committed to finding solutions that everyone can live with. This ensures that everyone’s opinions, ideas and reservations are taken into account. But consensus is more than just a compromise. It is a process that can result in surprising and creative solutions — often better than the original suggestions. Consensus can work in all types of settings: small groups of activists, local communities, businesses, even whole nations and territories. The Zapatista movement in lower Mexico (Oaxaca and Chiapas) answers to a public control called “la consulta”. This group — comprised of all men, women and children age 12 and over — meets in local meetings where discussion is held and all the members make the final decision. Within a small group of up to 20 people consensus tends to be more simple, as everyone can get to know each other and reach a mutual understanding of backgrounds, values and viewpoints. For larger groups different processes have been developed, such as splitting into smaller units for discussion and decision-making with constant exchange and feedback between the different units. Our briefing Consensus In Large Groups has more examples and ideas for reaching consensus with hundreds and even thousands of people. Many of us have been brought up in a culture which believes that the western-style system with one-person-one-vote and elected leaders is the supreme form of democracy. Yet in the very nations which shout loudest about the virtues of democracy, many people don’t even bother voting anymore, because they feel that it doesn’t make any difference to their lives.When people vote for an executive they also hand over their power to make decisions and to effect change. This goes hand in hand with creating a majority and a minority, with the minority often feeling deeply unhappy with the outcome. It is true that majority voting enables even controversial decisions to be taken in a minimum amount of time, however there is nothing to say that this decision will be a wise one or morally acceptable. After all the majority of colonial Americans supported the ‘right’ to hold slaves. People in a majority rule system don’t need to listen to the dissenting minority, or take their opinion seriously because they can simply outvote them. Majority rule systems say that the majority is infallible and they have nothing to learn from the minority. This creates a situation where there are winners and losers and promotes an aggressive culture and conflict, and lends itself to steam rolling an idea over a minority that dissents with the majority opinion. The will of the majority is seen as the will of the whole group, with the minority expected to accept and carry out the decision, even if against their most deeply held convictions and principles. A vivid example is the imprisonment of conscientious objectors against military service in democratic countries such as Germany. In contrast to majority voting consensus decision-making is about finding common ground and solutions that are acceptable to all. Decisions are reached in a dial…
+What is consensus?
+
+What’s wrong with majority voting?
+
+Why use consensus?
+
+Who uses consensus?
+
+How does consensus work?
+
+The process
+
+What if we cannot agree?
+
+Guidelines for consensus building
+
+When not to use consensus
+
+When there is no group in mind
+
+When there are no good choices
+
+When they can see the whites of your eyes
+
+When the issue is trivial
+
+When the group has insufficient information
+
+Common problems and how to overcome them
+
+Consensus can be time consuming
+
+Time pressure
+
+Overuse/underuse/misuse of the right to veto
+
+The group is too large
+
+And finally
+
+Consensus is a decision-making process that works creatively to include all persons making the decision. Instead of simply voting for an item, and having the majority of the group getting their way, the group is committed to finding solutions that everyone can live with. This ensures that everyone’s opinions, ideas and reservations are taken into account. But consensus is more than just a compromise. It is a process that can result in surprising and creative solutions — often better than the original suggestions.
+
+Consensus can work in all types of settings: small groups of activists, local communities, businesses, even whole nations and territories. The Zapatista movement in lower Mexico (Oaxaca and Chiapas) answers to a public control called “la consulta”. This group — comprised of all men, women and children age 12 and over — meets in local meetings where discussion is held and all the members make the final decision.
+
+Within a small group of up to 20 people consensus tends to be more simple, as everyone can get to know each other and reach a mutual understanding of backgrounds, values and viewpoints. For larger groups different processes have been developed, such as splitting into smaller units for discussion and decision-making with constant exchange and feedback between the different units. Our briefing Consensus In Large Groups has more examples and ideas for reaching consensus with hundreds and even thousands of people.
+
+Many of us have been brought up in a culture which believes that the western-style system with one-person-one-vote and elected leaders is the supreme form of democracy. Yet in the very nations which shout loudest about the virtues of democracy, many people don’t even bother voting anymore, because they feel that it doesn’t make any difference to their lives.When people vote for an executive they also hand over their power to make decisions and to effect change. This goes hand in hand with creating a majority and a minority, with the minority often feeling deeply unhappy with the outcome.
+
+It is true that majority voting enables even controversial decisions to be taken in a minimum amount of time, however there is nothing to say that this decision will be a wise one or morally acceptable. After all the majority of colonial Americans supported the ‘right’ to hold slaves. People in a majority rule system don’t need to listen to the dissenting minority, or take their opinion seriously because they can simply outvote them. Majority rule systems say that the majority is infallible and they have nothing to learn from the minority.
+
+This creates a situation where there are winners and losers and promotes an aggressive culture and conflict, and lends itself to steam rolling an idea over a minority that dissents with the majority opinion. The will of the majority is seen as the will of the whole group, with the minority expected to accept and carry out the decision, even if against their most deeply held convictions and principles. A vivid example is the imprisonment of conscientious objectors against military service in democratic countries such as Germany.
+
+In contrast to majority voting consensus decision-making is about finding common ground and solutions that are acceptable to all. Decisions are reached in a dialogue between equals, who take each other seriously and who recognise each other’s equal rights.
+
+People are often inactive because t…
