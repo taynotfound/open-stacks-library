@@ -19,4 +19,64 @@ files:
     hosted: false
 ---
 
-   Von der Schwierigkeit des Antimilitarismus in Deutschland      I.      II.      III.      IV.    Soldaten Brevier (1907)      I. Vor dem Fahneneid        Die Musterung        Die Blutsteuer        Der Krieg        Was ist das Vaterland?        Die Schlachtbank des Vaterlandes        Antipatriotismus      II. Das Los des Soldaten        Was harrt deiner in der Kaserne?        Auf dem Schlachtfeld        Für 2 Groschen!      III. Die Pflicht des Soldaten        An euch Soldaten!        Nun hört!        Ein Rückblick        An die Soldaten!        Die Arbeiter an ihre Brüder, die Soldaten      IV. Der Befreiungskampf des Proletariats und die antimilitaristische Propaganda        Soldatenlied    Flugschriften      An unsere Brüder in der Kaserne (1880)        Soldaten!      Wie man’s macht (ca. 1895) Antimilitaristen sind rar in Deutschland. Hier ist das Nein-sagen allemal suspekter als dumpfes Mitmachen, und noch die Kritik an der deutschen Misere gibt sich konstruktiv. Hier gründen Staatsfeinde munter neue Parteien, um parlamentarisch einen besseren Staat zu erstreiten, und deutsche Pazifisten ersinnen alternative Verteidigungskonzepte, statt die Wehrkraft zu zersetzen. Hier demonstrierte man für den Frieden stets so disziplinlert, wie man in den Krieg zog – und präsentierte obendrein beides noch als Dienst am Vaterland. Über die seltenen Ausnahmen, denen der vorauseilende Gehorsam nicht zur zweiten Natur geworden war, wachten streng die Organe der Obrigkeit, um jede Unbotmäßigkeit zu unterbinden. Wer „das Ansehen der Streitkräfte in der Gesellschaft“ herabsetzte, indem er etwa Militärdienst als Ausbildung zum Massenmord denunzierte oder Rekrutenschinderei anprangerte, wer gar zu Dienstverweigerung, Fahnenflucht oder militärischer Sabotage aufstachelte, dem waren Zensur, Gefängnis, Exilierung, wenn nicht schlimmeres gewiß. Damit nicht genug: Was man erfolgreich bekämpft hatte, wurde auch aus dem Gedächtnis getilgt. Es gibt zwar eine Geschichtsschreibung des Pazifismus [1] in Deutschland, doch keine des Antimilitarismus und erst recht keine Geschichte des militärischen Ungehorsams. Allein Rosa Luxemburg und Karl Liebknecht wurde das zweifelhafte Glück zuteil, nach ihrem Tod als Märtyrer des proletarischen Friedenskampfes verehrt zu werden. Als Heiligenbilder auf den Ahnenaltären der Parteikommunisten finden sie noch immer vielseitige Verwendung. Immerhin legte man ihre Schriften neu auf. Vergessen wurde dagegen die anarchistische und anarchosyndikalistische Tradition des Antimilitarismus. [2] Eine Tradition, die mit ihrer kompromißlosen Kritik jeglicher militärischen Organisation das Attribut antimilitaristisch weit eher verdient als Sozialdemokraten auch luxemburg-liebknechtscher Prägung mit ihren Milizkonzepten und dem Ratschlag an Rekruten, sich in den Kasernen mustergültig aufzuführen. Wenn mit diesem Band nun einige Dokumente anarchistischer und syndikalistischer Soldatenagitation aus der Zeit zwischen 1880 und 1907 neu publiziert werden, dann zunächst einmal, um einfach daran zu erinnern: Es gab auch noch anderes, als in den Partei- und Militärgeschichten zu lesen steht. Wer den Siegern der Geschichte noch die Erinnerung kampflos überläßt, wird auch in Zukunft verlieren. [3] Sind die Texte dieses Buches heute nurmehr historische Dokumente? Vieles spricht dafür: Die Arbeiterbewegung, aus der sie hervorgingen, ist längst verschwunden. Der sozialdemokratische Antimilitarismus hat hüben wie drüben sein Ziel erreicht: den Staatsbürger in Uniform. Die Imperialismen haben inzwischen Wege gefunden, die Akkumulation zu sichern, ohne gegeneinander Kriege vom Zaun zu brechen. Auch die Produktion von Toten ist in der Dritten Welt billiger. Die Armee schießt bei uns nicht mehr auf Streikende, die Tarifpartner einigen sich friedlich. (In Planspielen der Militärs wird dergleichen allerdings noch geübt.) Kriegsdienstverweigerung wurde legalisiert; nach den Greueltaten deutscher Uniformträger war dieses Zugeständnis wohl unumgänglich, un…
+Von der Schwierigkeit des Antimilitarismus in Deutschland
+
+I.
+
+II.
+
+III.
+
+IV.
+
+Soldaten Brevier (1907)
+
+I. Vor dem Fahneneid
+
+Die Musterung
+
+Die Blutsteuer
+
+Der Krieg
+
+Was ist das Vaterland?
+
+Die Schlachtbank des Vaterlandes
+
+Antipatriotismus
+
+II. Das Los des Soldaten
+
+Was harrt deiner in der Kaserne?
+
+Auf dem Schlachtfeld
+
+Für 2 Groschen!
+
+III. Die Pflicht des Soldaten
+
+An euch Soldaten!
+
+Nun hört!
+
+Ein Rückblick
+
+An die Soldaten!
+
+Die Arbeiter an ihre Brüder, die Soldaten
+
+IV. Der Befreiungskampf des Proletariats und die antimilitaristische Propaganda
+
+Soldatenlied
+
+Flugschriften
+
+An unsere Brüder in der Kaserne (1880)
+
+Soldaten!
+
+Wie man’s macht (ca. 1895)
+
+Antimilitaristen sind rar in Deutschland. Hier ist das Nein-sagen allemal suspekter als dumpfes Mitmachen, und noch die Kritik an der deutschen Misere gibt sich konstruktiv. Hier gründen Staatsfeinde munter neue Parteien, um parlamentarisch einen besseren Staat zu erstreiten, und deutsche Pazifisten ersinnen alternative Verteidigungskonzepte, statt die Wehrkraft zu zersetzen. Hier demonstrierte man für den Frieden stets so disziplinlert, wie man in den Krieg zog – und präsentierte obendrein beides noch als Dienst am Vaterland. Über die seltenen Ausnahmen, denen der vorauseilende Gehorsam nicht zur zweiten Natur geworden war, wachten streng die Organe der Obrigkeit, um jede Unbotmäßigkeit zu unterbinden. Wer „das Ansehen der Streitkräfte in der Gesellschaft“ herabsetzte, indem er etwa Militärdienst als Ausbildung zum Massenmord denunzierte oder Rekrutenschinderei anprangerte, wer gar zu Dienstverweigerung, Fahnenflucht oder militärischer Sabotage aufstachelte, dem waren Zensur, Gefängnis, Exilierung, wenn nicht schlimmeres gewiß. Damit nicht genug: Was man erfolgreich bekämpft hatte, wurde auch aus dem Gedächtnis getilgt. Es gibt zwar eine Geschichtsschreibung des Pazifismus [1] in Deutschland, doch keine des Antimilitarismus und erst recht keine Geschichte des militärischen Ungehorsams. Allein Rosa Luxemburg und Karl Liebknecht wurde das zweifelhafte Glück zuteil, nach ihrem Tod als Märtyrer des proletarischen Friedenskampfes verehrt zu werden. Als Heiligenbilder auf den Ahnenaltären der Parteikommunisten finden sie noch immer vielseitige Verwendung. Immerhin legte man ihre Schriften neu auf. Vergessen wurde dagegen die anarchistische und anarchosyndikalistische Tradition des Antimilitarismus. [2] Eine Tradition, die mit ihrer kompromißlosen Kritik jeglicher militärischen Organisation das Attribut antimilitaristisch weit eher verdient als Sozialdemokraten auch luxemburg-liebknechtscher Prägung mit ihren Milizkonzepten und dem Ratschlag an Rekruten, sich in den Kasernen mustergültig aufzuführen.
+
+Wenn mit diesem Band nun einige Dokumente anarchistischer und syndikalistischer Soldatenagitation aus der Zeit zwischen 1880 und 1907 neu publiziert werden, dann zunächst einmal, um einfach daran zu erinnern: Es gab auch noch anderes, als in den Partei- und Militärgeschichten zu lesen steht. Wer den Siegern der Geschichte noch die Erinnerung kampflos überläßt, wird auch in Zukunft verlieren. [3] Sind die Texte dieses Buches heute nurmehr historische Dokumente? Vieles spricht dafür: Die Arbeiterbewegung, aus der sie hervorgingen, ist längst verschwunden. Der sozialdemokratische Antimilitarismus hat hüben wie drüben sein Ziel erreicht: den Staatsbürger in Uniform. Die Imperialismen haben inzwischen Wege gefunden, die Akkumulation zu sichern, ohne gegeneinander Kriege vom Zaun zu brechen. Auch die Produktion von Toten ist in der Dritten Welt billiger. Die Armee schießt bei uns nicht mehr auf Streikende, die Tarifpartner einigen sich friedlich. (In Planspielen der Militärs wird dergleichen allerdings noch geübt.) Kriegsdienstverweigerung wurde legalisiert; nach den Greueltaten deutscher Uniformträger war dieses Zugeständnis wohl unumgänglich, und schließlich braucht der Staat ja auch zivile Diener. Geblieben ist jedoch durch alle Umbrüche dieses Jahrhunderts hindurch das Prinzip der …
