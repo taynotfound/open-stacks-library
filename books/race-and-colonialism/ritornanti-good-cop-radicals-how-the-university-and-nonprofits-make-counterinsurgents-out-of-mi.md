@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: good-cop-radicals.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/good-cop-radicals.epub
+    hosted: true
 ---
 
 # Good Cop Radicals
