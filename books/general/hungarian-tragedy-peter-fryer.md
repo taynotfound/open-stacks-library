@@ -20,6 +20,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/f1e802510b9ad6e5.jpg"
 links: []
 files: []
+files:
+  - name: "hungarian-tragedy-peter-fryer.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/hungarian-tragedy-peter-fryer.pdf"
+    hosted: true
 ---
 # Hungarian Tragedy - Peter Fryer
 
