@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: ediciones-in-u00e9ditas-anthology.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/ediciones-in-u00e9ditas-anthology.epub
+    hosted: true
 ---
 
 # Ediciones Inéditas Anthology
