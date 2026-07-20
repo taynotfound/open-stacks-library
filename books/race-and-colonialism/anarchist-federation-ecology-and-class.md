@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: ecology-and-class.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/ecology-and-class.epub
+    hosted: true
 ---
 
 # Ecology and Class
