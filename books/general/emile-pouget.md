@@ -17,6 +17,11 @@ links:
   - url: "https://issuu.com/sakurdistan/docs/xebati_rastewxo "
     text: "http://issuu.com/sakurdistan/docs/xebati_rastewxo"
 files: []
+files:
+  - name: "emile-pouget.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/emile-pouget.pdf"
+    hosted: true
 ---
 # خه‌باتی ڕاسته‌وخۆ - Emile Pouget
 
