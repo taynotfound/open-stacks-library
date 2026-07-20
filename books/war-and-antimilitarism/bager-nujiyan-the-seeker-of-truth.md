@@ -16,6 +16,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: the-seeker-of-truth.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-seeker-of-truth.epub
+    hosted: true
 ---
 
 # The Seeker of Truth
