@@ -18,6 +18,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: bloody-rule-and-a-cannibal-order.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/bloody-rule-and-a-cannibal-order.epub
+    hosted: true
 ---
 
 # Bloody Rule and a Cannibal Order!
