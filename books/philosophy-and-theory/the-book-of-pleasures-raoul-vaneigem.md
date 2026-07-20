@@ -17,6 +17,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/25dd64b075a4fc44.jpg"
 links: []
 files: []
+files:
+  - name: "the-book-of-pleasures-raoul-vaneigem.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/the-book-of-pleasures-raoul-vaneigem.pdf"
+    hosted: true
 ---
 # The book of pleasures - Raoul Vaneigem
 
