@@ -18,6 +18,11 @@ images:
   - "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/img/85c70c6009fbc07c.jpg"
 links: []
 files: []
+files:
+  - name: "money-and-the-human-condition-michael-neary-and-graham-taylo.pdf"
+    type: "PDF"
+    url: "https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/money-and-the-human-condition-michael-neary-and-graham-taylo.pdf"
+    hosted: true
 ---
 # Money and the Human Condition - Michael Neary and Graham Taylor
 
