@@ -25,6 +25,11 @@ tags:
 images: []
 links: []
 files: []
+files:
+  - name: here-at-the-center-of-the-world-in-revolt.epub
+    type: EPUB
+    url: https://raw.githubusercontent.com/taynotfound/open-stacks-library/main/files/here-at-the-center-of-the-world-in-revolt.epub
+    hosted: true
 ---
 
 # Here at the Center of the World in Revolt
