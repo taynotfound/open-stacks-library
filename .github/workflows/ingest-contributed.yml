@@ -1,12 +1,15 @@
 name: Ingest contributed book
 on:
+  push:
+    branches: [main]
+    paths: ['books/**']
   pull_request:
     types: [closed]
     branches: [main]
 
 jobs:
   ingest:
-    if: github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'contribute/')
+    if: github.event_name == 'pull_request' && github.event.pull_request.merged == true && startsWith(github.event.pull_request.head.ref, 'contribute/')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -15,6 +18,55 @@ jobs:
         id: files
         run: |
           FILES=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.merge_commit_sha }} | grep '^books/.*\.md$' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Upsert to MongoDB
+        if: steps.files.outputs.files != ''
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+        run: |
+          npm install mongodb js-yaml --no-save --silent
+          node << 'EOF'
+          const fs = require('fs'), yaml = require('js-yaml'), { MongoClient } = require('mongodb');
+          const files = process.env.FILES.trim().split(/\s+/).filter(Boolean);
+          async function run() {
+            const client = new MongoClient(process.env.MONGODB_URI);
+            await client.connect();
+            const db = client.db('open-stacks');
+            for (const f of files) {
+              const raw = fs.readFileSync(f, 'utf8');
+              const m = raw.match(/^---\n([\s\S]+?)\n---\n?([\s\S]*)$/);
+              if (!m) { console.log('skip (no frontmatter):', f); continue; }
+              const meta = yaml.load(m[1]);
+              const body = m[2].trim();
+              const slug = f.replace(/^books\/[^/]+\//, '').replace(/\.md$/, '');
+              await db.collection('books').updateOne({ slug },
+                { $setOnInsert: { added: Math.floor(Date.now()/1000) },
+                  $set: { ...meta, slug, body, state: body ? 'full' : 'linked' } },
+                { upsert: true }
+              );
+              console.log('upserted:', slug);
+            }
+            await client.close();
+          }
+          run().catch(e => { console.error(e); process.exit(1); });
+          EOF
+        env:
+          FILES: ${{ steps.files.outputs.files }}
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+
+  ingest-push:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find changed markdown files
+        id: files
+        run: |
+          FILES=$(git diff HEAD~1 HEAD -- 'books/**' --name-only | grep '^books/.*\.md$' | tr '\n' ' ')
           echo "files=$FILES" >> $GITHUB_OUTPUT
 
       - name: Upsert to MongoDB
