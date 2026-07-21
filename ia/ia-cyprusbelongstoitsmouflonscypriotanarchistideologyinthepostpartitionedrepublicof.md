@@ -1,0 +1,1940 @@
+University of Glasgow 
+School of Social and Political Sciences 
+
+
+Dissertation 
+
+
+Antonis Pastellopoulos 
+
+
+2017 
+
+
+‘Cyprus Belongs to its Moultons’: 
+
+Cypriot Anarchist Ideology in the Post-Partitioned Republic of 
+
+Cyprus (1985 to 1994) 
+
+
+
+1 
+
+
+Abstract 
+
+This dissertation examines the structure of Cypriot anarchist ideology and the way it 
+challenges Greek Cypriot ethnic nationalism, as it developed in the first decade following the 
+partition of the island of Cyprus. It aims to contribute to the understanding of grass root 
+political activity in Cyprus, by examining the early expressions of anarchism in the island. 
+Ideology has been argued to function around the use of key discursive signifiers, through 
+which the mediation of a fixed meaning is structured and social reality is experienced. This 
+research confirms this position, but explores this function within a non-hegemonic 
+ideological structure, in the context of a post-conflict society. The primary data consists of 
+Cypriot anarchist magazines and brochures published in the Republic of Cyprus from 1985 to 
+1994, with an emphasis on the magazine Train in the City. It employs qualitative thematic 
+content analysis to analyse Cypriot anarchist ideological public discourse in the period 
+studied. The dissertation argues that Cypriot anarchist discourse is structured around two key 
+signifiers, that of “Authority” and of “Autonomy”, through which Cypriot anarchist ideology 
+organizes and mediates its fixed set of meanings. It further argues that Cypriot anarchist 
+ideology challenges Greek Cypriot ethnic nationalism, based on its support for social 
+difference. This is expressed predominantly by the new signifiers of identity formulated in 
+the discourse, that of the “Native” and of “Cypriot Identify”. The dissertation concludes with 
+a theoretical interpretation of Cypriot anarchist ideology in the context of the post-partitioned 
+Republic of Cyprus. 
+
+
+
+2 
+
+
+Acknowledgements 
+
+I would like to thank the group Syspirosi Atakton (Zvontipcooi) At&ktcov), for making their 
+archive at social space Kaymakkin available, as part of my data collection. This dissertation 
+would not had been possible without the group’s generous help and co-operation. I would 
+also like to thank Dr Dominic Pasura, who served as my dissertation supervisor during the 
+research and writing period. His critical comments and informative suggestions have greatly 
+enriched the quality and content of the dissertation. 
+
+I would also like to thank here my parents, for the continuous support they have given me 
+during the duration of my studies at the University of Glasgow. Finally, I would like to offer 
+my appreciation to my friends Alexis Ioannidis and Nikos Moushouttas. Their friendship, 
+theoretical concerns, critical readings and our shared discussions have been, and continue to 
+be central in my self-development, as well as in shaping, expanding and challenging my 
+understanding of social, economic and cultural theory. 
+
+
+
+3 
+
+
+Table of Contents 
+
+1. Introduction 4 
+
+2. Literature Review 7 
+
+3. Methodology 13 
+
+3.1. Data Collection Strategy 14 
+
+3.2. Analysis Strategy 16 
+
+3.3. Discussion of Methodology 17 
+
+4. Findings and Analysis 19 
+
+4.1. Preliminary Analysis: The Structure of Ideology in Greek Cypriot Society 19 
+
+4.2. Authority, Autonomy and the Structure of Signification 21 
+
+4.3. Difference, Homogeneity and Identity 25 
+
+4.4. Theoretical Interpretation: Utopia, Interpellation and the Real 31 
+
+5. Conclusion and Recommendations 34 
+
+6. Bibliography 36 
+
+6.1. Full List of Primary Sources 41 
+
+7. Appendices 42 
+
+Appendix A: Post-1974 Map of Cyprus 42 
+
+Appendix B: Table of Signifiers 43 
+
+Appendix C: Thematic Map of the Cypriot Anarchist Symbolic Order 46 
+
+
+
+4 
+
+
+1. Introduction 
+
+This dissertation examines the structure of ideology of Cypriot anarchism, as it presented 
+itself through its public discourse from 1985 to 1994 in the Republic of Cyprus. While there 
+is a continuous, anarchist-influenced grass root political activity in the island, there is no 
+research on the ideological content of Cypriot anarchism, or in its emergence and early 
+development. 
+
+This dissertation sets out to fill this empirical gap, by answering the following primary 
+question: ‘What is the structure of ideology of Cypriot anarchism in the period from 1985 to 
+1994?’, and the question ‘How does Cypriot anarchism challenge Greek Cypriot ethnic 
+nationalism within the discourse?’, as a sub-question to the primary one. The dissertation 
+begins with a brief modern history of Cyprus in order to contextualize its object of research. 
+It follows with the discussion and outline of the theoretical frameworks utilized, followed by 
+a discussion of the general methodology, as well as the methods of data collection and 
+analysis employed in the research. It continues with a preliminary contextual analysis of the 
+structure of ideology of Greek Cypriot society in the period studied, followed by the 
+presentation and analysis of the key findings. In concludes with a summary of the findings 
+and recommendations regarding future research. 
+
+The Cypriot population consists of multiple ethnic and religious communities, of which the 
+Greek Cypriot is the majority, and the Turkish Cypriot the largest minority (Hannay 2004: 
+35). The island of Cyprus, an ex-British colony located in the eastern Mediterranean Sea, 
+became an independent state in 1960 under a bi-communal constitution, where the Greek 
+Cypriot and Turkish Cypriot communities held an equal share in political representation and 
+the decision-making process under the new state mechanism (Dodd 1993: 5). Contrary to 
+other colonial people, the Cypriot anti-colonial struggles did not focus on demands for 
+independence (Vamava 2012: 159). The ideologies of ethnic nationalism that emerged on the 
+island, along with Marxist-Leninist communism, focused on the one hand, on the annexation 
+of the island by the Greek state, and on the other, on the division of the island on ethnic 
+grounds 1 (Hatay & Papadakis 2012: 28). The first was the demand of Greek Cypriot 
+nationalism for Enosis, union with Greece, the later was the demand of Turkish Cypriot 
+nationalism for Taksim, the division of the island on ethnic lines (ibid). The two contesting 
+
+1 The Cypriot communist party initially campaigned for independence; but it shifted its position to annexation in 
+the early 1940s. 
+
+
+
+5 
+
+
+nationalisms symbolized Greece and Turkey respectively as their motherlands and Cyprus as 
+their child (Bryant 2002: 509). Both nationalisms reached the point of hegemony within each 
+community by the 1950s. Their contestation after the independence of Cyprus became 
+aggressive, resulting in inter-communal violence in the 1960s, with civilian deaths, the 
+enclosure of the Turkish Cypriot population in enclaves and their loss of political 
+representation, as well as the interference of the states of Greece and Turkey in the internal 
+affairs of the newly founded island-state (Dodd 1993: 7). 
+
+The conflict reached its climax in 1974, when president Makarios was overthrown in a coup 
+backed by the Greek military dictatorship for the aim of Enosis, triggering the invasion of the 
+island by Turkish military forces, the occupation of approximately 38 percent of northern 
+Cyprus, the forced displacement and exchange of ethnic populations to each side and the de- 
+facto partition of the island both geographically and ethnically^ (Kliot, & Mansfield 1998: 
+503-4). In 1984 the northern occupied part of Cyprus declared itself an independent Turkish 
+Cypriot state, the “Turkish Republic of Northern Cyprus” (TRNC), remaining recognized 
+internationally only by the Republic of Turkey (ibid). The rest of the island remains 
+populated by the Greek Cypriot population and is considered the area under the control of the 
+internationally recognized “Republic of Cyprus” (Alemdar 1993: 91). The two sides have 
+been engaging in negotiations, led by the United Nations, since the 1970s to find a 
+consensual agreement on a bi-communal federal solution, to what has been labelled the 
+Cyprus Dispute, and reunify the island under a single state mechanism. The conflict has been 
+a traumatic experience for both communities (Volkan 2008: 96). It resulted in the 
+displacement of hundreds of thousands of Cypriots, the creation of an enormous, for the size 
+of the country, refugee population, the death of civilians and military personnel and the 
+permanent separation of the two communities, with a militarized, United Nations’ 
+administered buffer zone dividing north and south Cyprus (Kliot, & Mansfield 1998: ibid). 
+
+Cypriot anarchism emerges in the city of Limassol in the mid-1980s , as a political ideology 
+distinct both from Marxism-Leninism, which is predominantly expressed by the AKEL party, 
+and Greek Cypriot ethnic nationalism (Ioannou 2013: 126, Panayiotou 2012a: 79). The 
+activities of Cypriot groups which describe themselves as either anarchist, or are anarchist- 
+influenced, have drawn the interest of social science researchers in recent years, primarily 
+
+2 A map pf post-1974 Cyprus is available in Appendix A of this dissertation. 
+
+3 As a consistent ideological position, anarchism is traceable to the 1980s. The first Cypriot anarchist writings 
+however, start to appear in the late 1970s f Ahniotis & Panayiotou 2017). 
+
+
+
+6 
+
+
+because of their grass root character and their ability to formulate both a political praxis and 
+an ideological discourse situated outside of the dominant Cypriot ideological narratives and 
+political practises (Parsanoglou et al. 2015, Foka 2015, Ilicanlliopoulou & Karathanasis 
+2014, Ilican 2013, Antonsich 2013). The case of Occupy Buffer Zone, a grass-root movement 
+influenced by the global Occupy movement in 2011-2012, where activists occupied the space 
+between the Ledra/Lokmaci checkpoints in the United Nations buffer zone in the city of 
+Nicosia, in protest over the division of the island, is perhaps the most evident example (Ilican 
+2013: 57). However, other such activities include the anti-capitalist grass root protests that 
+followed the Cypriot financial crisis of 2013, the bi-communal actions for the 
+demilitarization of the city of Nicosia; and the subcultural and grass root political activity that 
+had developed in the walled city of Nicosia in the past years (ibid, Parsanoglou et al. 2015: 
+107, Iliopoulou & Karathanasis 2014: 176, 180, 188). This research aims to expand our 
+understanding of this grass root political activity, by investigating early Cypriot anarchist 
+ideological public discourse, in order to inform future research on the ideological structure of 
+Cypriot anarchism in its early historical development. On a secondary level, this research 
+aims to contribute on our understanding of the interaction between social trauma and political 
+ideological formation, by examining the relationship between Cypriot anarchism and the 
+events of 1974 from the lenses of Lacanian theory, as it has been formulated in the work of 
+Slavoj Zizek (2009). 
+
+
+
+7 
+
+
+2. Literature Review 
+
+In their critique of 19 th century German Idealist philosophy, Karl Marx and Friedrich Engels 
+conceptualized the social prevalence of specific ideas in terms of the historically conditioned 
+class structure of a given society. Their general conclusion that “[t]he ideas of the ruling 
+class are in every epoch the ruling ideas ” (1998: 67), reflected their position that a dominant 
+set of ideas, an ideology, was the product of the dominance of the ruling class of that society, 
+situated within the unequal economic relations formed in historical space-time (ibid). Marx 
+and Engels argued that the class controlling the means of material production maintains also, 
+though its political power and material resources, the control over the production and 
+prevalence of ideas within society (ibid). In the classical Marxist analysis of ideology, the 
+ideological constitution of the non-ruling classes of society are therefore, so far as those 
+classes have no material capacity for their own mental production, subsumed (in general) to 
+the dominant ideas of the ruling class (ibid). 
+
+Working within the Marxist tradition, Antonio Gramsci distinguished in the Prison 
+Notebooks between the function of hegemony, utilized by the dominant group of a society; 
+and the function of direct domination exercised by the state (2014: 12). Where the later rests 
+essentially on the execution of coercive power, the former functions through the formation of 
+“spontaneous ” consent, conditioned by the dominant social group and imposed on the social 
+life of the general masses of the population (ibid). Hegemony, in its Gramscian formulation, 
+is situated within the sphere of the superstructure, it is however organically linked with the 
+continuation of the relations situated within the economic base of a social structure (ibid). 
+Hegemony produces the consent necessary for the dominant social group to maintain its 
+privileged position within a society, in contrast, direct domination is utilized at the point 
+where the spontaneous consent has failed, in other words, the coercive power of the state 
+mechanism is employed as a secondary measure of control when the hegemonic function has 
+deteriorated (ibid). 
+
+Both the classical Marxist and the Gramscian positions refer to the social dominance of a set 
+of ideas connected with the interests of the ruling, dominant social group, enabling it to 
+maintain its socio-economic position in society. From the lenses of ideological criticism, the 
+dominance of a social group/class within a broader social structure is maintained primarily 
+through the function of ideology/hegemony, achieving the necessary consent of the 
+subordinate classes and/or social groups, for the successful reproduction of the unequal 
+relations of the socio-economic whole. 
+
+
+
+Ideological criticism was conceptually enriched by the theoretical investigations of Marxist 
+philosopher Louis Althusser, who produced a structuralist account of the function of ideology 
+in modem society. Althusser agrees with Gramsci on the premise that the reproduction of the 
+unequal relations of the social whole, which in the Marxist framework constitute primarily 
+the relations of production, is secured primarily through the employment of ideology (2008: 
+22). Althusser, following Gramsci, distinguishes between the ideological and the coercive 
+sphere, though his distinction between the Repressive State Apparatuses (RSA) and the 
+Ideological State Apparatuses 4 (ISA) (ibid: 17). The RSAs function through the threat of the 
+use of force, or the actual use of force, where the ISAs are institutions which function 
+primarily through ideology (ibid). Such institutions include for Althusser the school system, 
+the family, the media, the trade unions, organized religion, institutionalized sport and cultural 
+production (ibid). Their ideological function rests on producing ideological representations of 
+material reality which enable the reproduction of the relations of production in historical 
+space-time (ibid). 
+
+For Althusser, “ [i] deology represents the imaginary relationship of individuals to their real 
+conditions of existence" (2008: 36). Ideology however does not represent the real, concrete 
+and material relationships of individuals to their conditions of existence, it is not thus a 
+reflection of those relations through representative concepts (ibid: 37). Ideological 
+representation entails a distortion of concrete material relations; its function is precisely to 
+veil those very relations through a presented, imagined representation of the relation of the 
+individual to her material reality (ibid: 39). For Althusser, ideology is not merely immaterial, 
+but has a concrete material expression in the existence of the ISA, as is for example religious 
+ideology and the institution of the Church upon which it depends (ibid: 42). Ideology itself 
+depends on the category of the subject, of the category of the autonomous, unique free 
+consciousness abstracted in place of the individual. The process by which ideology addresses 
+individuals as subjects is called by Althusser the process of interpellation (ibid: 49). In so far 
+as we accept the process of interpellation as an existing element of the social sphere, 
+Althusser’s conclusion that “ individuals are always-already subjects ” maintains its validity, 
+as ideological interpellation functions within everyday discourse and human interaction (ibid: 
+48). In the example provided by Althusser, even the unborn individual is already 
+ideologically interpellated, as the subject-will-be’s name and ethnic, gender, religious and 
+
+4 Although Althusser includes the word ‘state’ in the name, Ideological State Apparatuses include both private 
+and public institutions (2008: 17). 
+
+
+
+9 
+
+
+sexual identity is decided prior to the child’s birth (ibid: 50). One is therefore born into 
+interpellation and therefore into ideology, the social existence of an individual is constantly 
+situated within the ideological sphere; and ideological criticism is itself constructed within 
+ideology itself (ibid). 
+
+We can draw at this point a fundamental difference between Gramsci and Althusser, in that 
+the former emphasizes the predominance of an ideological unity situated in hegemony, 
+transcending class or other social distinctions in the process of producing consent, the later, 
+by focusing on the multiple institutional expressions of ideology, as well as on the process of 
+interpellating the subject, points to the existence of contradictions within this perceived unity 
+of ideological interpellation (ibid: 20). Althusser of course maintains the notion that the 
+function of ideology is primarily connected with the reproduction of the relations of 
+production, it is therefore the same as that of Gramscian hegemony, however, it is for 
+Althusser the function which maintains the unity of the multiplicity of dominant ideological 
+discourses and not their content, which is often contradictory (ibid: 20). The field of the IS As 
+becomes itself a space of class; or other forms of confrontation, where non-dominant 
+ideologies conflict and contrast themselves with the dominant ideological structures of 
+society (ibid: 21). 
+
+As Slavoj Zizek points out, the Althusserian conception of ideology fails to provide a 
+consistent theoretical explanation of how the ISAs achieve the process of interpellation, the 
+Althusserian narrative does not address sufficiently the process by which the subject 
+internalizes the interpellated ideology (2009: 27-28). Addressing this inherent problem of 
+Althusserian theory, Zizek draws on the work of French psychoanalyst Jacques Lacan and his 
+theorization of the spheres of the Imaginary, the Symbolic and the Real, as well as his 
+investigations over the constitution of the subject. For Lacan, human identity entails within it 
+a lack, an alienation from the social identity formed by ideological and other forms of social 
+construction, identity formation, Lacan argues, always concludes in a failed, fragmented 
+identity (Stavrakakis 1999: 29). This is first experienced in the sphere of the Imaginary, 
+where the individual first encounters unity in her comprehension of her own self-image, 
+during a period which Lacan calls the mirror-stage (ibid: 17). The interaction of the 
+individual’s reflected image produces identification with it, constituting the first totalizing, 
+unified identity (ibid). The image however produces an alienated identity, its representation is 
+not equal with the object it represents - its size, inverted nature and externality from the 
+individual fails to produce a stable, synthesized identity, identification with the image of the 
+
+
+
+10 
+
+
+Imaginary sphere is faced with an “ irreducible gap ” (ibid: 18). The shift is therefore taken 
+from the Imaginary sphere, the sphere of self-imagined representation, to that of language 
+signification, the sphere of the Symbolic (ibid). 
+
+The Symbolic sphere is one constituted by language, by a complex system of inter-connected 
+signifiers, a symbolic construction of representations. In the Symbolic sphere, identity is 
+constructed through the signifier and is subsumed under it. Identification in the Symbolic is 
+the identification of the subject with the signifier, signification becomes therefore the key 
+process by which the representation of the subject takes place (ibid: 20). As in the Imaginary, 
+the identification with the signifier results in an identity which is both alienating and 
+incomplete, its inability to capture the human totality leaves it entailing within it a lack, its 
+own impossibility (ibid: 30). As Yiannis Stavrakakis points out, “[w]hat we have then... is 
+not identities but identifications, a series of failed identifications or rather a play between 
+identification and its failure” (ibid: 29). Stable identities are never successfully constructed, 
+rather, what we have in the Symbolic is the circular process of identification with signifiers, 
+always however entailing a lack and the impossibility of stable identity construction: “ any 
+identity resulting from identification is always an unstable identity ...since every identification 
+is marked by an alienating dimension’'' (ibid: 34). 
+
+Symbolic identification does not develop in a vacuum, the Symbolic, as a complex, inter- 
+connected system of signification; pre-exists externally the subject and superimposes itself 
+upon her (ibid: 20). Attempted identification is therefore determined and dependable upon the 
+socially available, socially constructed discursive structures of signification found in the 
+Symbolic sphere, such as political and other ideological constructs (ibid: 36). The on-going 
+lack of a stable identity makes possible the circular process of Symbolic identification to take 
+place, to link the subject with different signifiers mediating ideological meaning. Here the 
+distinction of the floating signifier and the master-signifier becomes useful in comprehending 
+ideological signification/interpellation; and the relationship of the signifier to the subject. As 
+Zizek explains, floating signifiers are signifiers which constitute no particular identity, they 
+are in-themselves empty of a fixed, tied meaning (2009: 95). Such cases are for example, 
+signifiers such as “freedom”, “equality”, “democracy” and “socialism ” (ibid: 112). Their 
+meaning is determined not by their own content but by their determination from another 
+signifier, which constitutes and crystalizes the meaning of the floating signifiers. Such a 
+signifier is called the master-signifier; it acts as a nodal point through which the meaning of 
+the floating signifiers is crystalized (ibid), producing "the necessary illusion of a fixed 
+
+
+
+11 
+
+
+meaning" (Evans 1996: 149). Such a signifier is self-referential, ambiguous and teleological. 
+For example, the master-signifier “class struggle” determines the meanings of the above 
+mentioned floating signifiers in the Marxist-Leninist Symbolic order, another master- 
+signifier, such as “the nation”, mediates a very different and even contradictory set of 
+meanings to those very same floating signifiers within a nationalist Symbolic order (Zizek 
+2009: 96). Different master-signifiers therefore constitute differentiated mediations over the 
+same floating signifiers; the identification with a Symbolic signifier determines for the 
+subject the constructed Symbolic order within which she functions and experiences social 
+reality. 
+
+The Symbolic sphere, attempting to represent the totality of experience through language, is 
+itself captured in its own impossibility of achieving a total representation. The Symbolic 
+order, as Zizek points out, is a not-all, that is, it fails to capture completely its object through 
+signification, the Symbolic order itself entails in-itself a lack, that which escapes its 
+representation in language (ibid: xxiv). What remains impossible to represent through the 
+mediated meaning found within the Symbolic, is what has been described in Lacanian theory 
+as the Real (Stavrakakis 1999: 98). Conceptually, the Real covers the sphere of the non- 
+signified and non-represented, an externality impossible to represent within the system of 
+signification; and therefore laying outside of both the Symbolic and the Imaginary spheres 
+(ibid: 67). The Lacanian Real is not reality, but that which, having resisted symbolization, 
+disturbs the very Symbolic itself, affects its mediating meanings and exposes it as 
+incomplete, as lacking total representation within its inter-connected structure of signification 
+(ibid: 69). 
+
+For Zizek, the Real functions as a point of disturbance of the smooth functioning of the 
+Symbolic order of the subject (2009: 192). The Real entails the possibility of the 
+disintegration of the subjective Symbolic sphere, through the disturbance of the mediated 
+meaning produced by the master-signifier and its overdetermined floating signifiers (ibid). 
+An encounter with the Real is an encounter with an event which dislocates the mediated 
+meaning of a Symbolic order, of ideology, with the subject being unable to represent the 
+event, to incorporate it within her Symbolic representation. The encounter exposes the 
+incapacity of the Symbolic sphere to represent and encompass the totality of social 
+experience, disintegrating in the process the identification of the subject with the socially 
+constructed Symbolic sphere of the master-signifier (ibid: 182). Such a development follows 
+with the attempt to capture the Real into the Symbolic, formulating new signifiers for its 
+
+
+
+12 
+
+
+incorporation, only to fail again to represent the Real in totality, maintaining the not-all 
+character of the Symbolic sphere (ibid: xxiv, Stavrakakis 1999: 67). 
+
+As Zizek points out, an encounter with the Real is a traumatic encounter; and trauma, 
+escaping Symbolic representation, itself can function as the Lacanian Real, fracturing 
+hegemonic ideological structures (ibid: 74). It is within this context that the interplay between 
+the Symbolic and the Real become useful in ideological criticism, for they direct us towards 
+the processes which dislocate hegemonic ideologies, helping us to identify the moments and 
+events initiating the displacement of hegemonic ideological structures, as well as the 
+emergence of new ideological representations. An encounter with the Real, if it is 
+experienced as a collective social trauma, disorients the Symbolic orders of dominant 
+ideologies and disturbs the hegemonic structures of interpellation. 
+
+The concepts of Ideological State Apparatuses, hegemony and interpellation, as well as the 
+Lacanian concepts of the Real and the Symbolic, provide a solid theoretical basis for 
+organizing the structural dynamics of ideology in the context of the post-partitioned Republic 
+of Cyprus. These theoretical frameworks allow for a preliminary analysis of ideology in the 
+Republic of Cyprus on the structural level, enabling us to situate out object of analysis within 
+the historical context and the overall structure of ideology of Greek Cypriot society. The 
+theoretical contributions of Slavoj Zizek provide an ontological and conceptual framework 
+through which the signifiers found within Cypriot anarchist ideological discourse can be 
+abstracted, and their inter-relations investigated and organized. This research therefore 
+utilizes these theoretical frameworks on two differentiated, but interconnected dimensions - 
+for the theoretical contextualization of its object of analysis on the one hand; and for the 
+abstraction and theoretical organization of the identified themes on the other. 
+
+
+
+13 
+
+
+3. Methodology 
+
+Social scientific epistemology has traditionally been divided between positivism, on the one 
+hand, and interpretivism on the other. Positivists maintain that society can be studied, 
+investigated and theoretically conceptualized through the utilization of methods associated 
+with the physical sciences (Cheal 2005: 59). Such a position pre-supposes that society, as an 
+object of study, is not fundamentally differentiated from physics or chemistry, and can 
+therefore be understood objectively through the same approaches - by the formulation of 
+hypotheses, tested on the grounds of empirical data, which will either verify or falsify the 
+hypothesis formulated (ibid: 60). Emile Durkheim’s epistemological essay The Rules of 
+Sociological Method is a classic exposition of the positivist position, where the social sphere 
+is understood as a collection of established social facts, abstracted from gathered empirical 
+information (1982: 33). 
+
+Interpretivism, in contrast, maintains that the social sphere should not be approached as an 
+object of analysis similar to the physical sciences, where the object of study is primarily 
+inanimate matter; and the scientist’s relation to her object of analysis is essentially distanced 
+(Cheal 2005: 69). The social scientist, in contrast to the physical scientist, is intrinsically 
+linked to her object of study, being permanently within the sphere of society and developing 
+within it (ibid). Moreover, the concepts, theoretical frameworks and analytical tools utilized 
+in social scientific discourse are understood as being themselves the product of social 
+relations and social processes, influenced and conditioned by the social, political, economic 
+and cultural surroundings within which they develop (ibid: 70). The establishment of 
+objective analysis, on the same standards as those of the physical sciences is therefore, from 
+an interpretivist viewpoint, impossible (ibid: 69). Sociology therefore cannot merely 
+reproduce uncritically the epistemological and methodological framework of physical 
+science, its task is rather, in the words of Max Weber, to “interpret the meaning of social 
+action and thereby give a causal explanation of the way in which the action proceeds and the 
+effects which it produces ” (1964: 88). Interpretivism, in the broadest sense, is therefore an 
+epistemological position focusing on the critical interpretation of the meaning mediated by 
+social action and produced by social actors, through the careful conceptualization of 
+theoretical frameworks and conceptual tools of analysis, rather than the empirical verification 
+of formulated hypotheses (Cheal 2005: 83). 
+
+This research rests on an interpretivist epistemology, agreeing with the interpretivist critique 
+of positivism. As Zizek and Stavrakakis note in their theoretical investigations, there is no 
+
+
+
+14 
+
+
+metalanguage, that is, a language able to reduce the gap between Symbolic signification and 
+reality, as language is always already situated within the sphere of Symbolic inter-subjective 
+representation and signification (2009: 175, 1999: 66). The conceptual framework by which a 
+social science proceeds in its description and casual explanation of the world is therefore 
+already located within an individual or collective value system (ibid: 177, Cheal 2005: 69). 
+On the empirical level, the research utilizes qualitative thematic content analysis to address 
+and answer the research questions. It utilizes Lacanian theory in its interpretation, as it has 
+been developed by Slavoj Zizek in his work on ideological criticism. The questions posed for 
+this research are not hypotheses in the strict empiricist sense and cannot be verified or 
+falsified through empirical data. They have consciously been constructed in an open-ended 
+structure, in order to address and investigate the ideological structure produced and 
+reproduced in early Cypriot anarchist ideological public discourse. 
+
+
+3.1. Data Collection Strategy 
+
+The research rests empirically on documentary data produced in the period from 1985 to 
+1994. The documents collected are the publicly distributed magazines and brochures 
+produced by anarchist groups in the Republic of Cyprus, in the period covered by the 
+research. The data collection strategy employed rests on non-random, convenience sampling. 
+The research focuses specifically on Cypriot anarchist ideological discourse, rather than the 
+general ideological discourse of the period covered. It does not aim to produce an analysis of 
+ideological discourse in the Republic of Cyprus in general, but aims to examine the particular 
+internal processes and ideological formulations found in Cypriot anarchist discourse. The 
+publicly distributed Cypriot anarchist written documents produced in the period are relatively 
+small in number, in contrast to the number of Cypriot anarchist material produced in the 21 st 
+century or other, more historically present ideological discourses. This makes the use of a 
+randomized collection strategy unnecessary and unfeasible, as the available material can be 
+collected and analysed without the need of systematic exclusion. The use of convenience 
+sampling on the other hand has the advantage of locating a significant amount of 
+documentary data in a short period of time. In the context of this research, convenience 
+sampling has saved a significant amount of valuable time, while also providing a 
+representative collection of documentary data for the object of the research. 
+
+
+
+15 
+
+
+The data collected and analysed are primarily the magazine Train in the City (Tpaivo avjv 
+Ildh i) (1987-1994), the first consistent Cypriot anarchist magazine to be published, being 
+also the first continuous and consistent Cypriot anarchist discourse in printed form (Ioannou 
+2013: 24). The data were collected from the public archive of social space Kaymakkin, a 
+libertarian social space located in south Nicosia. The data consists of all issues of the 
+magazine (11 issues in total), with the exception of issue 9 which was unfortunately not 
+located in time; and 3 brochures, published in 1985, 1988 and 1992. The data numbered 501 
+pages in total. All documents were originally written in either Modern Greek or in the Greek 
+Cypriot dialect. Most articles in the Train, as well as 2 of the 3 brochures, were either 
+published anonymously or under the names of existing or fictional political groups. The 
+anonymity of the authors is preserved in this research. A single hard copy of each document 
+was created for the purposes of the research. 
+
+A number of documents that would have undoubtedly enriched the analysis have not been 
+collected, as they were not available in the Kaymakkin archive, nor are they available in 
+public archives 5 6 . These include the complete set of leaflets produced by the anarchist group 
+Anafentos (Avcupsvwqf and by the Initiative Against Social Racism ( I Ipozoflov/.iu Evdvzia 
+azov Koivcoviko Pazaiapo ), many of which were reproduced in Train in the City, as well as 
+various anarchist posters of the period, many of which were also reproduced in the magazine. 
+The inclusion of Train in the City, which was the key anarchist text of the period, makes our 
+sample however representative of the Cypriot anarchist public discourse of the period. 
+
+
+5 The key reason for the absence of these documents from official archives is that neither the published material, 
+nor the groups which produced them were officially registered in state institutions. 
+
+6 The word comes from the Greek Cypriot dialect and its literal meaning is; the person with no master. 
+
+
+
+16 
+
+
+3.2. Analysis Strategy 
+
+The research followed a qualitative thematic content analysis of the data. The process of 
+analysis was carried out in 4 steps, outlined below: 
+
+1) The analysis initiated with a close reading of the data, to establish an in-depth 
+familiarity with its content and the Symbolic meaning it mediates. 
+
+2) Following the establishment of close familiarity with the data, the coding process of 
+the data was followed. Themes that repeated themselves in the data were identified 
+and categorized. Themes were identified in relation to the research questions. In 
+particular, the identification of themes was targeted at the critique of Cypriot anarchist 
+discourse to the hegemonic ideology of Greek Cypriot nationalism; and the 
+identification of repeated signifiers mediating a web of common meanings situated 
+within the discourse. 
+
+3) Identified themes were scrutinized through a repeated close reading of the data. This 
+process was carried out in order to identify possible contradictions between the 
+identified themes and the collected data. Themes found to be in contradiction with the 
+data were dropped, or where data supported it, reformulated into new themes or 
+merged with identified ones. 
+
+4) The themes identified, as well as the relationship between them, were then interpreted 
+by utilizing the theoretical tools outlined in the literature review chapter, with 
+particular emphasis on Slavoj Zizek’s theorization around the concepts of master- 
+signifier, floating signifier and ideological interpellation. 
+
+The analysis strategy aimed to address the research questions by identifying systematic 
+themes in the discourse, mediating a fixed set of meanings through inter-connected 
+signifiers. The identification of signifiers did not merely rest on signifiers which emerged 
+exclusively within Cypriot anarchist ideological discourse, but also on the reuse of 
+floating signifiers, infused and mediated with differentiated meaning within the discourse. 
+The relationship of Cypriot anarchist discourse with the hegemonic ideology of ethnic 
+nationalism was also investigated. The examination of this relationship aimed to establish 
+the signification processes through which Cypriot anarchism distinguished itself from the 
+hegemonic discourse; and constituted its Symbolic order in relation to it. 
+
+
+
+17 
+
+
+3.3. Discussion of Methodology 
+
+The collection and analysis strategies aimed to make this research easily replicable in the 
+future, making further research in this topic comparable to the conclusions of this research. 
+The methodological approach utilized also allows for the comparative use of the research’s 
+results, as the identified themes can be placed in comparison with themes identified in other 
+forms of ideological discourse, both within the context of post-partitioned Cyprus, as well as 
+in the context of other post-conflict societies. 
+
+The research as a whole; rests on a limited amount of documentary data. This result is not 
+strictly the effect of the collection methodology utilized, but of the (relatively) small amount 
+of publicly distributed documents produced by Cypriot anarchism in the period examined. As 
+the documents are absent from official archives, a more appropriate methodology for the 
+gathering of complimentary documentary data would be snowball sampling, in order for the 
+researcher to come in contact with people who have relevant documentary material in their 
+private archives, preferably individuals who were involved in the anarchist groups and 
+actions of the period. Although time constraints have deemed such an approach unfeasible, 
+interviewing such individuals would also would enrich the analysis, offering another layer of 
+interesting data for analysis. 
+
+Qualitative thematic content analysis has as a method the benefit to produce results with a 
+limited amount of documentary data, as it allows for the in-depth analysis of the documents 
+collected. This has allowed for the careful examination of the discourse, its signifiers, 
+mediated meanings and their inter-relations. The in-depth investigation of the documents, 
+although time consuming, has made possible the identification and analysis of common 
+themes in relation to the research questions. The method of qualitative thematic content 
+analysis has therefore enabled the research questions to be addressed effectively, without the 
+limited amount of documentary data becoming a significant barrier to analysis. 
+
+The methodology utilized does however face a number of limitations. Although qualitative 
+thematic content analysis can provide a thorough examination of how a discourse develops, 
+mediates and structures its particular meanings, it remains a descriptive form of analysis. The 
+implications of this shortcoming is that the analysis cannot provide explanations of why a 
+discourse emerges at a particular historical point in time, but can only help to describe 
+sociologically the content, structure and development of the discourse itself. The research 
+therefore reflects on what has been produced in the discourse, but not the underlying social 
+
+
+
+18 
+
+
+forces and material conditions which have produced it. Although this research does not aim 
+to address such questions, its conclusions are limited by this very inability to address them, as 
+the social processes contributing to the emergence of the discourse affect how the discourse 
+developed, as well as its connection with the broader socio-historical processes of the period. 
+Some conclusions can be drawn from the utilization of theory and the relevant literature on 
+the period, but they remain highly theoretical and abstract. 
+
+My own positionality in relation to the object of the research should here also be highlighted. 
+As a Greek Cypriot man, bom and raised in the city of Nicosia, I certainly maintain an 
+interest in how the experiences of the Cyprus conflict are represented, as well as how Cypriot 
+identity is formed. Although the methodology was consistently applied, particular emphasis 
+on specific content and/or interpretations may have been influenced by my own background. 
+This is of course also an after-effect of the limited historical scope of the research, however, 
+the possibility of differentiated interpretations or emphases on different themes by individuals 
+with different positionalities to the object of the research should be here recognized. 
+
+The explanatory limitations of qualitative thematic content analysis, as well as its merely 
+descriptive character, limit our understanding of Cypriot anarchism’s relation to the broader 
+socio-historical processes of the period. Although the utilized methodology can provide a 
+thorough sociological understanding of the inter-connected themes, signifiers and mediated 
+meanings which constitute the structure Cypriot anarchist ideology, as it was expressed 
+publicly in the first decade of post-partitioned Cyprus, it stands unable to situate Cypriot 
+anarchism within the material reality of the historical period. 
+
+
+
+19 
+
+
+4. Findings and Analysis 
+
+This chapter presents the themes identified in Cypriot anarchist ideological discourse, their 
+analysis and the identified structure of Cypriot anarchist ideology. It utilizes the theoretical 
+contributions of Slavoj Zizek to abstract, organize and identify the structure of signification 
+within the Cypriot anarchist Symbolic order, through the identification and deconstruction of 
+the function of particular themes within Cypriot anarchist discourse. The chapter begins with 
+a preliminary theoretical analysis of the structure of ideology in post-1974 Greek Cypriot 
+society, in order to situate Cypriot anarchism within the ideological context of the period. It 
+continues with the analysis of the two predominant themes identified in the discourse, those 
+of “Authority” and “Autonomy”, exploring their positioning in the organization of 
+signification of the Cypriot anarchist Symbolic order. It moves on to explore the themes of 
+social difference and homogeneity, with a particular emphasis on the signifiers of the 
+“Native” and of “Cypriot Identity”; and how they challenge ethnic nationalism within the 
+discourse. It concludes with a theoretical interpretation of the Cypriot anarchist Symbolic 
+order, in relation to the structure of ideology in the post-partitioned Republic of Cyprus. A 
+thematic map of the findings is available in Appendix C of this dissertation. 
+
+
+4.1. Preliminary Analysis: The Structure of Ideology in Greek Cypriot Society 
+
+The war of 1974 has certainly left its mark on Greek Cypriot political ideology. The 
+achievement of the Turkish Cypriot nationalist utopian Telos of partition; marked at the same 
+time the end of the dream of Greek Cypriot nationalism for Enosis (Mavratsas 1997: 720). 
+The old Greek Cypriot ethnic nationalism; which had concentrated in the signifier of 
+“Enosis” the social, economic and national aspirations of the Greek Cypriot population, 
+collapsed in the aftermath of the war (ibid, Thrasivoulou 2016: 58, Alecou 2016: 16). With 
+the object of Enosis ideologically unsustainable under the reality of partition, Greek Cypriot 
+nationalism was forced to enter a process of transformation and by the mid-1980s, Enosist 
+nationalism had been replaced with a non-Enosist ethnic nationalist formulation (Mavratsas 
+2003: 43). 
+
+The new ethnic nationalism maintains as its pivotal point “the Nation”, it focuses however on 
+the perceived Hellenic character of the island rather than the goal of Enosis (ibid). Hellenic 
+identity becomes the signifier through which the Cypriot state is mediated as the independent 
+political entity of the Greek Cypriots, and the relationship of the Republic of Cyprus with the 
+
+
+
+20 
+
+
+Greek state is re-symbolized here as a process of political, cultural and military integration, 
+rather than one of annexation (ibid). Similarly, the Greek Cypriot political left, centralized 
+
+n 
+
+primarily around the AKEL party , faced its own ideological deadlock in the aftermath of the 
+war. The Marxist-Leninist utopian Telos of achieving the higher socio-economic stage of 
+socialism; is abandoned by the party as a prospect after 1974, with the party declaring that the 
+solution of the Cyprus Dispute is a necessary prerequisite for the socialist transformation of 
+Cypriot society (Charalambous 2012: 154). The Symbolic order of the leading political 
+ideologies of Greek Cypriot society are therefore found fractured and in ideological crisis, 
+standing destabilized and dislocated in front of the traumatic event of the war, or in Lacanian 
+terms, in the encounter with the Real. 
+
+This ideological crisis of Greek Cypriot ethnic nationalism did not lead to its displacement 
+from a position of hegemony, but merely on the internal reorganization of its Symbolic 
+structure of signification (Mavratsas 2003: 80). Ethnic nationalism, although challenged in 
+the late 1970s and the early 1980s by Cypriotism, a form of Cypro-centric bi-communal civic 
+nationalism, managed to maintain its hegemony in its non-Enosist reconstruction (ibid). The 
+absence of a developed civic society, as well as the dominance of Greek Cypriot ethnic 
+nationalism over key ISAs in Greek Cypriot society, such as the public education system, the 
+
+o 
+
+National Guard , the Greek Cypriot Orthodox Church and the mass media, in which the 
+Cypriot state held a television and radio monopoly until 1990, sustained its hegemonic 
+position in the post-1974 Greek Cypriot structure of ideology (Mavratsas 1999: 98, 
+Mavratsas 2003: 128, Papadakis 2008: 132, Vassiliadou 2007: 204). Ethnic nationalism in the 
+post-partitioned Republic of Cyprus functioned as the ideological suppressor of social 
+criticism in public discourse, by silencing public discussions addressing issues unconnected 
+with the Cyprus Dispute, on the pretext that they undermined the “ national issue ”, that is, the 
+Turkish occupation of north Cyprus (Kamenou 2011: 121, Panayiotou 2012a: 79). Critical 
+discourses were therefore systematically undermined, displaced and silenced from public 
+discourse, corresponding to what Paschalis Kitromilides has identified as the “dialectic of 
+intolerance” of Greek Cypriot nationalism (1979: 5, Kamenou ibid). 
+
+7 AKEL has a number of institutions that act as its ISAs, including one of the largest trade unions (PEO), an 
+active youth branch (EDON), its own newspaper (Haravgi), and localized political associations. They are 
+described by Andreas Panayiotou as an organized subculture within Cypriot society (Panayiotou 2012b: 87). 
+
+8 The National Guard functions as the armed forces of the Republic of Cyprus since 1964 and its personnel is 
+derived from forced military conscription of all male adults reaching the age of 18, for 24 months. Since 2016, 
+conscripts serve 14 months. 
+
+
+
+21 
+
+
+The continuous emergence of critical discourses in the post- 1974 period suggests however, 
+that the Symbolic order of ethnic nationalism has never recovered to its pre-partition position 
+of hegemony. In the first decade following the war, we see a multiplicity of political 
+ideological discourses emerging; ranging from non-party affiliated feminism, ecology and 
+anarchism, to Cypro-centric civic nationalism, LGBT rights activism and liberalism 
+(Mavratsas 1997: 724, Kamenou 2011: 152, Ioannou 2013: 22, 25, Panayiotou 2012a: 79). 
+This phenomenon was not merely restricted to political ideology, but was also actively 
+expressed in the arts, with the example of the poets of the “ generation of 74 ”, the young poets 
+of the war generation, being indicative of the broader dialectical processes that were set into 
+motion (Ioannou 2013: 126). 
+
+These varying ideological discourses maintained as a key point of unity their continuous 
+critique of both Greek Cypriot nationalism and Marxism-Leninism, and their challenging 
+attitude towards dominant social norms and ideological constructs (ibid: 21). Cypriot 
+anarchism emerges as a concrete ideological position in the city of Limassol in the mid- 
+1980s, situated within this dialectic of ideological contestation, sharing the critical and 
+challenging attitude of the emerging non-dominant political ideologies of the period (ibid: 22, 
+Panayiotou 2012a: 79). In its process of ideological political public expression, Cypriot 
+anarchism claims for itself a distinct ideological space from Greek Cypriot nationalism and 
+Marxism-Leninism, by formulating its own structure of Symbolic signification, concentrating 
+within it a set of cultural and political signifiers, unified through the function of a single 
+master-signifier. 
+
+
+4.2. Authority, Autonomy and the Structure of Signification 
+
+Thematic content analysis has identified the sign i fier “Authority” 9 as the central master- 
+signifier, around which Cypriot anarchism structures its signification process and Symbolic 
+order. Cypriot anarchist discourse mediates its meaning through the concertation and 
+subsumption of multiple floating signifiers under the signification of this specific signifier. 
+This process of signification enables Cypriot anarchist discourse to identify its competing 
+
+
+9 The Greek word used is “sLououi” (eksousia), which translates to both power and authority in English. The 
+word can also be used as a verb, with no direct translation in English. The word “Authority” will be used 
+throughout the following chapters as a translation of “uSoucia”, in order to transfer more faithfully in English 
+the singularity of the signifier expressed in the discourse. 
+
+
+
+22 
+
+
+Symbolic orders (for example, ethnic nationalism), position its discourse in opposition to 
+them and unveil its own discursive narrative, in relation to its own master-signification. 
+Examples of “Authority” as master-signifier are spread throughout the collected documents 
+and are characteristic of the discourse as a whole. For example, in the brochure Cyprus: The 
+National Issue and the Anarchists, ethnic nationalism is described as the '’‘'ideology of 
+authority ” (Anon 1985: 3). In the anonymous author’s discussion concerning an ideal 
+anarchist society, multiple coercive structures and institutionalized social inequalities are 
+either subsumed or linked to the signifier “Authority”: 
+
+“The state (centralized or bi-zonal), the other forms of authority ( patriarchy , 
+capitalism etc) and the mechanisms of violence (army, paramilitary groups), of 
+course have no place in this society, [the anarchist society] ” (ibid: 5-6) 
+
+In those examples, floating signifiers such as “nationalism”, “patriarchy” and “capitalism”, 
+become meaningful precisely because they are connected to, or conceived as, particularized 
+expressions of the master-signifier “Authority”. The discourse found in the anarchist 
+magazine Train in the City , follows the same pattern of signification. A characteristic case 
+would be the discussion regarding the institutionalized hierarchy between the official, 
+codified language employed by the state and the dialects used in the everyday interactions of 
+a society. This relationship is understood by the anonymous author as “the attempt to provide 
+a homogeneous oration for the authority of the state, which enforces its authority on a 
+heterogeneous population’'’ (Anon 1988b: 34), drawing parallels with the unequal, 
+institutionalized relation of the Greek Cypriot dialect and the official use of the codified 
+Modern Greek, in the Republic of Cyprus. In an article in issue 10 of the Train, Cypriot 
+society is described as having “3 key centres of authority: the government, the Greek 
+embassy and the church ” (Afrodites 1993: 13). Those key centres constitute, within this 
+specific narrative of the discourse, the forces of authority determining Greek Cypriot social 
+relations. Similarly, another example of this signification process is the discussion regarding 
+the relation between truth and authority in issue 4 of the Train: 
+
+“...[YJou find yourself facing an irrationality which emanates from your attempt to 
+explain the unexplainable. And they are not explained precisely because they are not 
+real. And they are not real because we experience our life through a lie which works 
+thanks to the fake truths which are served by multiple forms of authority, be they 
+named family, school, church, state, army and of course the catalogue is infinite. ’’ 
+(Anon 1988a: 4) 
+
+
+
+23 
+
+
+It is not the content with which the signi tier “Authority” is filled in Cypriot anarchist 
+discourse which situates it as the master-signifier. As Zizek points out, following Lacanian 
+theorizing, the ideological experience “is supported by some 'pure', meaningless 'signifier 
+without the signified"'’ (2009: 108). It is its function as this pure, abstracted signifier which 
+characterizes the master-signifier in an ideological Symbolic order, a signifier which is 
+projected as a pure, teleological category, its meaning not determined by another signifier 
+within its constructed Symbolic order. Rather than its content, it is the function of the 
+signifier “Authority” which elevates it as the master-signifier in Cypriot anarchist ideological 
+discourse, this function of signifying an “infinite”, ambiguous catalogue of its forms. 
+“Authority” is thus a teleological signifier within the Cypriot anarchist Symbolic order, its 
+content is never defined and its explanatory limits are never placed within the discourse. Its 
+content remains ambiguous and the signification of its meaning self-referential. Through the 
+signifier “Authority”, Cypriot anarchist discourse positions floating signifiers and competing 
+ideological Symbolic orders within its own constructed meaning, its own Symbolic 
+organization of signification. 
+
+By employing this fixation of meaning, the discourse places competing Symbolic orders and 
+floating signifiers within its own constructed Symbolic conflictual binary of “Authority” and 
+“Autonomy”. The theme of “Autonomy” appears repeatedly throughout the discourse and 
+signifies resistance to any identified “Authority” located within the discourse’s multiple and 
+diverse narratives. While the ideological aspirations of Cypriot anarchism become 
+concentrated around the signifier “Autonomy”, this signifier cannot be comprehended as the 
+master-signifier of Cypriot anarchist discourse. Its meaning becomes mediated only through 
+its fixated relation to the master-signifier “Authority”. As a signifier, “Autonomy” becomes 
+comprehensible within the Cypriot anarchist Symbolic order only through its negative 
+relation to the master-signifier, as the master-signifier’ s opposite. It is therefore an 
+oppositional signifier in the discourse, a signifier which organizes floating signifiers in a 
+negative relation to the master-signifier. The repeated use and diverse utilization of the 
+master-signifier and oppositional signifier, organize the ideological narrative of the discourse, 
+structure the process of signification and position the discourse’s content within the 
+ideological conflictual binary. 
+
+The positioning of floating signifiers within the binary relationship of “Authority” and 
+“Autonomy” is a process found throughout all of the texts studied; and is an integral element 
+of Cypriot anarchist discourse as a whole. Perhaps the most directly visible example is found 
+
+
+
+24 
+
+
+in the discourse Cypriot anarchism develops in relation to Greek Cypriot ethnic nationalism. 
+A representative case is a text published anonymously in issue 7 of the Train magazine, 
+regarding the need for a bi-communal rapprochement movement 10 . Early in the text, Cyprus 
+is described as having ‘been a “ ‘ gendarmerie stop ’ ...for the rulers that imposed periodically 
+their authority in the area”, due to its geographical location (Anon 1989b: 10). This has led 
+to the Cypriots developing a “weakness, until today... to comprehend themselves as rulers of 
+their place, as autonomous individuals in an autonomous society” (ibid). The discourse 
+continues with the statement that “the current de-facto partition is the result of the two 
+communities ’ national liberation movements (Enosis and Taksim) which express the logic of 
+subjection” (ibid). Previous bi-communal class struggles and insurrections are declared to 
+have failed because they “did not develop their autonomous speech and praxis ” (ibid), while 
+nationalism is identified as an ideology of “homogenization ...identifying the population with 
+the state”, being the “internalized ideology of authority, imported through the educational 
+systems of Greece and Turkey” (ibid: 11). It is argued that the new, post-1974 Greek Cypriot 
+ethnic nationalism “will create a new majority of voters ...which will oppress again minority 
+groups” (ibid). It is then stated that rapprochement “ pre-supposes the existence of 
+autonomous different groups - pre-supposes the existence of 'Others’” (ibid). “Autonomy” is 
+described as the “ realization of the possibility of self-rule and self-management ” (ibid: 12). 
+The text concludes with the rhetorical question “will we prefer autonomy-freedom with its 
+responsibilities and its creative chaos, or are we accustomed for the next century as the 
+servers of multinationals?” (ibid: 13). 
+
+“Authority” is here positioned early on as the master-signifier, conditioning the historical 
+experience of Cypriot society within the discourse. Ethnic nationalism and its ideological 
+Symbolic order become discursively attached to the master-signifier of “Authority” as its 
+expression within historical space-time. Nationalism’s mediated meaning is therefore 
+conditioned by the master-signifier. The homogeneity of national identity is identified with 
+the mechanisms of the state, which is generally understood to be an authoritarian and 
+coercive institution. The signifier of “Autonomy” is introduced as oppositional to “Authority” 
+and rapprochement is identified with the pluralism of “autonomous” social groups, in 
+contradiction to the homogeneity produced and imposed by nationalism through the state. 
+The mediated meaning of rapprochement and social difference is therefore fixed by the 
+
+10 The term “rapprochement movement” is used in Cyprus to characterize various institutional and non- 
+institutional initiatives aiming to bring Greek Cypriot and Turkish Cypriot people together. 
+
+
+
+25 
+
+
+oppositional signifier of “Autonomy”, whose meaning is itself mediated by its negative, 
+antagonistic relationship to the master-signifier. At this point the conflictual binary of 
+“Authority” and “Autonomy” has been crystalized within the discourse. Ethnic nationalism 
+and its Symbolic order express the “Authority” of the Greek, Turkish and Greek Cypriot 
+states and the “ logic of subjection” to identified centres of “Authority”, while rapprochement 
+and social difference are signified under the oppositional signifier of “Autonomy”, mediating 
+the possibility of freedom from that “Authority”. The mediation of the meaning of the 
+floating signifiers and the competing Symbolic order of nationalism are now fixed in relation 
+to the master-signifier, having been positioned within the ideological binary of the Cypriot 
+anarchist ideological Symbolic order. 
+
+The process of crystallizing floating signifiers within the binary of the master and 
+oppositional signifiers, of “Authority” and “Autonomy”, is the primary process of the 
+organization of signification within the Cypriot anarchist Symbolic order. The structure of 
+Cypriot anarchist ideology is organized through the construction of this binary, positioning 
+the multiple social, economic, cultural and political issues within it. A full table of identified 
+floating signifiers and their mediated meaning within the Cypriot anarchist conflictual binary 
+is presented in Appendix B of this dissertation. 
+
+
+4.3. Difference, Homogeneity and Identity 
+
+Cypriot anarchism subsumes social, cultural and ethnic difference under the oppositional 
+signifier “Autonomy”, positioning them as expressions of the process of social “Autonomy” 
+from the homogeneity of identity imposed by authoritarian institutions or ideologies. The 
+themes of social difference and cultural homogeneity are an ongoing element of Cypriot 
+anarchist discourse. Indicative of this is a text published in the (double) issue 2-3 of the 
+Train: 
+
+“Society in Cyprus has not realized itself as a collective autonomous from the state... 
+As a society open to heterogeneity and difference ... The claim to autonomy runs 
+through the expression of a minority speech and praxis of the new postmodern 
+minorities ...From the eggs of the students, the autonomous women’s march against 
+the occupation, the resistance against syndicalist bureaucracy, the march for the right 
+to be different, out of context graffiti [stating] ‘Down with the State’ ‘Down with the 
+Army’ ... ” (Anon 1987a: 7) 
+
+
+
+26 
+
+
+The meaning of the floating signifiers “Difference” and “Heterogeneity” are mediated here 
+through the oppositional signifier. Multiple political and social actions and activities receive 
+their mediated meaning as actions of resistance against the homogeneity of the state, against 
+an expression of the mastcr-signilier, of “Authority”. The support of social difference and 
+heterogeneity by Cypriot anarchist discourse is grounded on their interpretation within the 
+discourse as expressions of a resistance to the centralized, homogenous identities of centres 
+of “Authority”, a resistance viewed as a claim for social “Autonomy” from them. 
+
+The organization of social difference and heterogeneity within the Cypriot anarchist 
+Symbolic order has two distinct dimensions within the discourse. On the first level, there is a 
+continuous support of the struggles and activities of marginalized and oppressed social 
+groups within the discourse. The groups and activities supported range from youth 
+subcultures and workers’ strikes; to marginalized social groups (such as homosexuals and 
+Turkish Cypriots). A case in point of this process is how Cypriot anarchism interpreted a 
+student protest that took place in Nicosia in 1987, involving the throwing of eggs to the 
+teachers: 
+
+“The insurrection of the eggs will stay in history as a sign in the process of the 
+youth ’s autonomy from the society of adults. ” (Anon 1987c: 9) 
+
+The same process is repeated in a case of a love affair between a Greek Cypriot teenager and 
+a Turkish Cypriot in 1989, which received repeated coverage by Greek Cypriot media with 
+nationalist undertones: 
+
+“Nationalism. ..has a direct connection with the phallus, with control, with 
+authority ...The holy patriarchal family was challenged... And it is not necessary to fall 
+in love with a Turkish man to make some steps towards independence -autonomy. ” 
+(Anon 1989c: 6) 
+
+In both cases, events are signified and are supported as claims for “Autonomy” from a 
+specific, identifiable form of “Authority”, as instances of resistance to the authoritarian 
+structure of social relations. Every particular case of social difference is supported in the 
+discourse on the same grounds; it is positioned within this conflictual bipolarity of 
+“Authority” and “Autonomy”, identified as part of the process of the decentralization of the 
+“Authority” of oppressive social and political institutions; in the struggle for a self- 
+determining, autonomous society. 
+
+
+
+27 
+
+
+The second dimension of this Symbolic organization of social difference and heterogeneity is 
+directly linked to the hegemony of Greek Cypriot ethnic nationalism and the counter- 
+hegemonic character of Cypriot anarchist discourse. In opposition to ethnic nationalism; and 
+its ideological claims over the unquestionable historical and contemporary Greekness of 
+Cyprus, Cypriot anarchist discourse employs a continuous critique of nationalism, but more 
+interestingly, also a set of signifiers that disturb and destabilize the nationalist Symbolic 
+order. 
+
+Cypriot anarchism often employs parody and satire as a literary tool for critiquing ethnic 
+nationalism. For example, in issue 2-3 of the Train, nationalism is critiqued as a “ fairy-tale ” 
+by constructing a satirical nationalist narrative claiming the Netherlands as the historic 
+national mother country of the island, demanding the Enosis of Cyprus with its Dutch 
+motherland (Anon 1987b: 4). In the issue 1 of the Train, it is declared that “ ...Cyprus belongs 
+to its Mouflons” (Anafentos 1987: 20), parodying the left-wing and right-wing political 
+slogans contesting the claimed rightful ownership of Cyprus 11 . Parody and satire are not 
+merely literary techniques for entertainment, their function is to expose the hegemonic 
+Symbolic order as ridiculous, internally inconsistent and fictitious, delegitimizing its political 
+and ideological claims over the island. 
+
+Ethnic nationalism is repeatedly mediated in Cypriot anarchist discourse through the master- 
+signifier. Within the Cypriot anarchist Symbolic order, it signifies the ideology of 
+authoritarian institutions and in particular the (nation) state, as it was indicated in the 
+previous subchapter. However, nationalism receives a further signification as the ideological 
+expression of Greek and Turkish colonialism over Cyprus: 
+
+"[the] elites of authority ...utilize ‘Greekness’ (or ‘Turkishness ) as the dominant 
+
+discourse to keep the Cypriots under the status of a colonized population ” 
+
+(Independent Cypro-Centric Publications 1992: 2) 
+
+The new, post- 1974 Greek Cypriot nationalism is situated within the same dimensions of 
+signification: 
+
+
+11 A mouflon is a subspecies of wild sheep, with a further subspecies being indigenous only to Cyprus. The 
+slogan is a parody of the left-wing slogan '‘Cyprus belongs to its people”, which conflicts with the right-wing 
+slogan “Cyprus is Greek”. 
+
+
+
+28 
+
+
+“[the neo-nationalists] in the name of a blue and white yuppiesm and a vulgar thirst 
+for authority and self -promotion want to reduce us again to the level of a colony of 
+the national-centres ” (Anon 1993: 3) 
+
+Nationalism is therefore mediated not merely as the ideological expression of the state, but of 
+a “ national colonialism ” over the Cypriot population itself, which transformed the Cypriots 
+into perceived “ barbaric natives ”, positioning them within an unequal cultural hierarchy with 
+the national-centres of Greece and Turkey (Panayiotou 1994: 7). Cyprus is signified here in a 
+dialectical colonial relationship with the national-centres, into a dialectic of colonizer and 
+colonized. The national-centres are positioned as engagers in a process of colonization, of 
+“Authority” over the island, by imposing cultural hierarchies and national identities upon the 
+Cypriot population. Nationalism is signified as the key ideological mechanism within the 
+process of national colonization, functioning through the imposition of the Greek/Turkish 
+national identity upon the Cypriot population, at the same time as it denotes local culture to 
+the level of barbarism in relation to the national culture and national identity, within the 
+constructed cultural hierarchy . 
+
+The introduction of the sign i Her “Native” in the discourse enables Cypriot anarchism to 
+develop the narrative of national colonialism; without employing the socially internalized 
+categories of national identities themselves. Within the discourse, the “Native” becomes a 
+category inclusive to the whole population of Cyprus; it is a category with no eternal or 
+internally homogenous identity, its point of reference being the teleological identification 
+with the geographical entity of Cyprus, rather than an external political, cultural or 
+geographic space such as Greece, Britain and Turkey. The “Natives” are the residents of the 
+island, located within the discourse in a continuous colonial relationship with the national- 
+centres: 
+
+“In the island the occupation of the space and time of Aphrodite continues by the 
+loveless traders, soldiers and all sorts of settlers: Greeks, Turks. ..the fundamental 
+difference between the genuine natives and the settlers: we love and they trade their 
+being and our future’’ (Anon 1989a: 3) 
+
+12 The term national-centre is used in the discourse of Greek and Greek Cypriot nationalisms to connect the 
+island to the mother-land. In such a discourse, Greece is the national-centre, the core of the nation, where 
+Cyprus, along with the Greek diaspora, is understood to exist in the national periphery of the centre. 
+
+13 It is worthwhile to note here that this narrative is almost identical to the analysis of the internalized inferiority 
+of the colonized, found in Frantz Fanon’s Black Skin, White Masks (2007). 
+
+
+
+29 
+
+
+Here the “Natives” are positioned as the “ genuine ” population of the island, where the Greeks 
+and Turks are signified as “settlers”. The signifier “ settler ” is here strategically used, as it is 
+borrowed from Greek Cypriot ethnic nationalist discourse, its meaning however is 
+differentiated and inverted. In its nationalist usage, “Settlers” are signified as a homogenous 
+category, representing within nationalist discourse the large number of people from mainland 
+Turkey, who migrated to north Cyprus after 1974 (Jensehaugen 2014: 58). They are 
+differentiated from the local Turkish Cypriots and are understood as part of a colonizing 
+process carried out by the Republic of Turkey (ibid). Cypriot anarchist discourse however 
+reverses the nationalist meaning, placing Greeks as well as Turks in the signifier of the 
+“settler”. It is the historical ethnic homogeneity of the island that is here disputed. Ethnically 
+clean identities are here associated with national colonialism, repositioned to cover both 
+Greek and Turkish nationalist aspirations against the “Native” population of Cyprus. This is 
+further made clear in the following extract from issue 10 of the Train: 
+
+“...in the last 100 years all of them [foreign powers] have engaged in an amazing 
+race to convince us that we, the native residents of this island, should not want to be 
+here. We should want to be somewhere else - in Athens, in Ankara, in London, 
+somewhere in Europe but not here... We should had felt and we should, the official 
+ideology states, feel Greek, Turkish, English, Phoenician ...anything but Cypriot” 
+(Panayiotou 1993: 18) 
+
+In the early 1990s, Cypriot anarchist discourse begins to employ “Cypriot Identity” as the 
+central signifier of a counter-hegemonic narrative, claiming the “Autonomy” of Cyprus from 
+the national-centres and the hegemonic nationalist Symbolic order. Cypriot historical 
+experience is reinterpreted from the position of the heterogeneous Cypriot “Native”, 
+embodying a “Cypriot Identity” which has as its characteristic the historical cultural 
+pluralism and cultural heterogeneity of the island’s population. The terms “Greek Cypriot” 
+and “Turkish Cypriot” begin to disappear from the discourse, replaced with the terms “Greek- 
+speaking” and “Turkish-speaking Cypriot”. 
+
+Cyprus is reinterpreted as having “always been a space of cultural cohabitation and 
+interaction ” (Panayiotou 1992: 11), a '‘mosaic of cultures” (ibid), with the “pluralist model” 
+being the “quintessence of the Cypriot experience” (ibid). “Cypriot Identity” is here a 
+signifier of both a political and a “cultural identity” (ibid: 10), “claiming a cultural 
+autonomy from the national ideologies of Athens and Ankara and a politics of 
+devolution/independence from the national-centres” (ibid). The signifier “Cypriot Identity” 
+
+
+
+30 
+
+
+concentrates in Cypriot anarchist discourse both the mediated meanings of “Autonomy”- 
+through-heterogeneity, as well as the resistance to the colonialism of the national-centres and 
+the hegemonic nationalist Symbolic order. An important element of the signifier is that it 
+transcends not only the nationalist mono-communal identity, but also the bi-communal 
+Cypriotist identity often associated with the Cypriot leftist movement, as it does not reduce 
+the cultural pluralism of the “Cypriot Identity” merely to the two constitutionally recognized 
+communities of the Republic of Cyprus. 
+
+The “Native” and “Cypriot Identity” sign i Hers are fundamental to the ideological function of 
+the Cypriot anarchist Symbolic order, not merely because they are central to the claims for 
+“Autonomy” from the identified national-centres of “Authority”, but precisely because their 
+ideological function makes those very claims possible. They enable the discursive production 
+of new genealogies, contradicting the nationalist historical narrative not merely on its factual 
+dimension, but also on its conceptual and moralistic basis. Ethnic nationalism is here found 
+inverted. From being the signified ideological force of anti-colonial liberation, it becomes 
+transformed into a colonialist ideology subjugating and oppressing the “Native” and her 
+“Cypriot Identify”, in the interests of the “Authority” of the nation-state and of Greek and 
+Turkish colonialism. The signifiers enable the denationalization of Cypriot historical and 
+social experience by providing new categories of historical representation, allowing for 
+claims of cultural heterogeneity and social “Autonomy” to be made on conceptual and 
+historical grounds, crystalized in the consistent counter-hegemonic narratives which are 
+characteristic of the public discourse of Cypriot anarchism in the 1990s. 
+
+The signifiers of the “Native” and of “Cypriot Identity” in Cypriot anarchist discourse are 
+fundamental in the organization of its Symbolic order. They become the central signifiers by 
+which the subject is identified and symbolized. They thus enable the re-symbolization of the 
+island’s population under new terms; whose meaning is not determined by the dominant 
+ideological Symbolic orders. By employing the signifiers of the “Native” and of “Cypriot 
+Identity”, Cypriot anarchism developed the very language through which the claimed 
+“Autonomy” from the national-centres and from the homogeneity of the nation-state could be 
+expressed. Their discursive use transcended the hegemonic limits placed on subjective 
+identification, opening up the space for the symbolization of Cypriot social, historical, 
+political and personal experience, outside of the institutionalized structure of ideology of 
+Greek Cypriot society. 
+
+
+
+31 
+
+
+4.4. Theoretical Interpretation: Utopia, Interpellation and the Real 
+
+“In a utopian level, of course, we know what we want: an anarchist organisation of 
+
+Cypriot society, based on the values of non- authority, pluralism and autonomy- 
+
+decentralization. ” (Anon 1985: 5) 
+
+The destabilization of the dominant ideologies of Greek Cypriot society following the war of 
+1974, had as an effect the negation of their utopian Teloses (Enosis, Socialism) from their 
+public discourse. The collapse of utopian discourse from the central ideological apparatuses, 
+indicates the ideological crisis of Greek Cypriot political ideologies in the face of the 
+traumatic event, their inability to incorporate within their Symbolic orders the collective 
+trauma experienced by Greek Cypriot society. One significant aspect of Cypriot anarchism is 
+the re-introduction of utopia in public discourse, even if that utopia is expressed as a “ utopia - 
+as-direction ” (ibid: 6), as an imagined Telos functioning as a guidance in political praxis. The 
+re-introduction of utopia within public political discourse rests on the ability of Cypriot 
+anarchism to partially symbolize the encounter with the Real, the traumatic event of 1974, 
+within its overall discursive narratives. 
+
+Cypriot anarchism develops a discourse not merely able to conflict with the claims of 
+hegemonic ethnic nationalism, but also to address the subject, without being dependant on 
+floating signifiers previously fixed by the dominant Greek Cypriot ideologies of the period. 
+This process of addressing the subject, of interpellation, becomes possible through the 
+introduction and repeated use of signifiers of identity which do not originate from Cypriot 
+anarchism’s competing ideological Symbolic orders, enabling it to mediate a fixed set of 
+meanings situated within its Symbolic structure, unburdened by contradictory master- 
+significations. The signifiers of the “Native” and of “Cypriot Identity” act as the signifiers of 
+subjective identification, they address the subject as an integral part of the Cypriot anarchist 
+discursive narrative, positioning her as the agent within its ideological conflictual binary. 
+They interpellate her with an alternative, anti-nationalistic identity whose meaning is 
+mediated primarily through the anarchist Symbolic order. Cypriot anarchism has produced 
+through this process new signifiers of interpellation, but also new categories of Symbolic 
+historical representation. 
+
+The utilization of the signifiers of the “Native” and of “Cypriot Identity” as abstracted 
+categories for the representation of historical agents, enabled the re-symbolization of Cypriot 
+social history within Cypriot anarchism’s bipolarity of “Authority” and “Autonomy”, of the 
+
+
+
+32 
+
+
+“Native” resisting Greek, British and Turkish national colonialism, of the pluralistic “Cypriot 
+Identity” attacked by nationalist colonial homogenization. Historical events, agents and 
+ideologies are re-symbolized and repositioned within an anti-hegemonic narrative of 
+historical progression, with its own implicit historical Telos, the formation of a Cyprus 
+autonomous from national colonialism, characterized by a pluralistic and heterogeneous 
+identity of belonging: 
+
+"Because memory in this place was and is always a dangerous matter. ..It is the 
+memory of a different Cyprus-a Cyprus that will always be independent, autonomous. 
+A Cyprus that is the ancestor of the neo-Cypriot generations from the 60s onwards. 
+The Cyprus of the insurrectionary peasants of 1804 and of 1833 that were 
+slaughtered by the order of the Aghases and the priests. Of the first communists that 
+were marching against Enosis in the 20s, of the murdered workers of 1958 by EOKA 
+and TMT, who complete the ethic of Afxentiou and Matsis. Of the hidden truth of the 
+slogans ‘‘Cyprus for the Cypriots ” of the 1960s. Of the resistance of the dialect to the 
+demolishing language of Athens. Of the small resistances to the big lies. Of the small 
+demands for life and autonomy in opposition to the necrophilia of authority. ” (Anon 
+1993: 3) 
+
+It is a central aspect of this process of re-symbolization, that Cypriot anarchist discourse 
+avoids emphasizing the Cyprus Dispute in its overall narrative, thus decentring it from its 
+hegemonic centrality in public discourse. Cypriot anarchism focuses instead on the re- 
+symbolization of history through its own historical narration, a narration which attempts to 
+symbolize Cypriot society’s encounter with the Real, the traumatic events of inter-communal 
+conflict, war and partition, through its own categories of signification: 
+
+“The past needs to be viewed on its correct dimensions, not to be repeated, but to be 
+transcended. Nationalism, as an ideology of homogenization, of projection of 
+threatening “ Others ” and of the identification of the population with the state, has 
+been the key lever of the division... [It] reinforced the feeling of insecurity of the 
+Cypriots about themselves, by identifying them as a barbarian, a lacking part of a 
+national whole - Hellenism and Turkism. It also shaped the internal clashes on the 
+dimensions of the mythological conflict of Hellenism and Turkism. ” (Anon 1989a: 11) 
+
+While only partially symbolized, this symbolization of the Real is important. The (partial) 
+symbolization of the Real allows Cypriot anarchism to account for the traumatic events of 
+
+
+
+33 
+
+
+war, displacement and partition within its discursive narration, positioning them within its 
+overall process of signification. The division of both the Cypriot population and the island is 
+incorporated within the narrative of national colonialism; and is projected as its historical 
+climax. The traumatic events are made here consistent with Cypriot anarchism’s re- 
+symbolization of history, and its categories of representation, as they are situated in the 
+bipolarity of “Authority” and “Autonomy”. Cypriot anarchism is therefore not situated within 
+the post-1974 crisis of Greek Cypriot ideology, but on the contrary, it could be maintained 
+that it is one of its many effects, one of the first attempts to renegotiate the traumatic 
+experience of Cyprus through the lenses of the Symbolic, by radically re-organizing the 
+Symbolic sphere itself. 
+
+
+
+34 
+
+
+5. Conclusion and Recommendations 
+
+This dissertation aimed to investigate and outline the ideological structure of early Cypriot 
+anarchist ideology. It further aimed to examine how this ideology challenged the hegemonic 
+Greek Cypriot ethnic nationalism of the period. It generated its findings by utilizing a 
+qualitative thematic content analysis of Cypriot anarchist public ideological discourse 
+between 1985 and 1994, interpreted by employing Slavoj Zizek’s Lacanian theoretical 
+framework of ideological criticism. 
+
+The structure of Cypriot anarchist ideology has been identified as binary, functioning through 
+a repeated process of subsumption. Multiple social, economic, cultural and political issues are 
+repeatedly subsumed under two key signifiers, the master-signifier “Authority” and the 
+oppositional signifier “Autonomy”, the first expressing oppressive and authoritarian 
+structures situated in society, while the second expresses the resistance to those very 
+structures. Cypriot anarchist ideology is primarily structured upon this conflictual binary, and 
+the meaning it mediates is organized according to the positioning of a social group, political 
+activity or social issue within this binary. 
+
+Cypriot anarchism critiques ethnic nationalism by subsuming its Symbolic order under the 
+master-signifier “Authority”, while it challenges its discourse and ideological consistency on 
+the level of historical narration, identity and historical representation. On the first level, 
+Cypriot anarchism mediates nationalism as an authoritarian colonial ideology, imposing the 
+“Authority” of the Greek Cypriot state; and the national colonialism of Greece, over the 
+Cypriot population. In its discourse, it transforms nationalism’s mediated meaning by 
+inverting it. The hegemonic anti-colonial narrative, which focuses on ethnic nationalism’s 
+anti-British history, is transformed by Cypriot anarchism, by signifying nationalism as a 
+colonial ideology itself, imposing the colonial interests of the Greek state upon the island. 
+Greek Cypriot ethnic nationalism is also equated with Turkish Cypriot ethnic nationalism, 
+positioning it as merely one of the many expressions of national colonialism over the island. 
+
+Cypriot anarchism challenges ethnic nationalism beyond mere negative criticism, by 
+formulating new signifiers of identification in its discourse, that of the “Native” and of 
+“Cypriot Identity”. The use of these new, non-ethnic discursive forms of identity, are utilized 
+to produce new categories of historical representation, which enable the expression of 
+alternative, anti-nationalist and non-ethnic historical narratives. They challenge directly the 
+claims of ethnic nationalism over the formed identities of the island, their perceived eternal 
+
+
+
+35 
+
+
+historical presence or the perceived homogenous character of Cyprus, both in the past and in 
+the present. The formulated new identities, as well as the narratives which they make 
+possible, challenge ethnic nationalism’s empirical, historical and moral claims over the 
+island. The continuous emphasis on heterogeneity and cultural pluralism destabilizes the 
+nationalist Symbolic order, as it is depended upon a narrative assuming a holistic, historically 
+continuous and homogenous ethnic/national identity over the island of Cyprus. Cypriot 
+anarchism reintroduces utopian thinking; re-negotiates identity and re-interprets history upon 
+these foundations, with a historical Telos uniting autonomy, independence and pluralism. 
+This Telos, unsurprisingly, entails indirectly a solution to the Cyprus Dispute, by imagining a 
+future pluralistic and peaceful society through the lenses of Cypriot anarchist ideology. 
+
+This dissertation rests on the interpretation of themes identified through the qualitative 
+content analysis of the public discourse of Cypriot Anarchism. Its object of analysis has been 
+specific and limited over a specific historical period. Cypriot anarchism is however not an 
+isolated phenomenon of the period, but emerges alongside multiple other forms of discourse 
+and political praxis. It has been outlined above that theoretically, we can interpret Cypriot 
+anarchism as the effect of the encounter with the Real in 1974, of the encounter with the 
+traumatic event. We can therefore maintain here the hypothesis that the emergence of these 
+multiple discursive forms after 1974 is not coincidental, but that those discourses are 
+themselves also effects of the encounter with traumatic event. Cypriot anarchism can 
+therefore be conceived as merely an expression of a broader socio-political process, a process 
+coming to terms with the experience of conflict, displacement, war and the dispute over 
+Cyprus. 
+
+Future research could therefore seek to examine how the new, post- 1974 discourses re- 
+structured the Symbolic sphere in relation to the traumatic event, how they have re-imagined 
+Cyprus as a reunified political entity through this re-structuring and what identity forms, 
+political consciousness, historical narrations and Teloses have been formulated within this 
+process of re-imagination. More importantly, future research could seek to examine the 
+connection of this re-imagination and Symbolic re-structuring with the materialization of 
+concrete peace-resolution political praxis, ranging from the rapprochement movement, to 
+LGBT-rights activism, the ecological movement, liberalism, feminist politics and anti- 
+militarism. 
+
+
+
+36 
+
+
+6. Bibliography 
+
+Afrodites, Zinon (1993) Black Holes of Cypriot Journalism [ Mo.upcq T pimeq Trig Kimpia.K'fiq 
+Ar|poaioypa(piag]. Train in the City, 10, pp. 9-13. 
+
+Ahniotis, Costis & Panayiotou, Andreas (2017) Radical Narrations of the Cyprus Dispute 
+
+from 1970 and afterwards: The Rise of Cypriot Consciousness and the Bi-Communal 
+Movement [PiCoonaoTUccg Aptjytjomg yia to KvnpiaKo kou to 1970 tCiu.i perd: H 
+Avodog r// c Kimpiaiofg ZvveiSrjarjg rOai tov Aikoivotikov Kivppawg] . [Online] 
+Nicosia: Syspirosi Atakton. Available at: 
+
+https://archive.syspirosiatakton.org/autonomous-school-afiyisis-ya-to-kipriako.html 
+[Accessed: 23 February, 2017]. 
+
+Alecou, Alexios (2016) Communism and Nationalism in Postwar Cyprus, 1945-1955: 
+Politics and Ideologies Under British Rule. New York: Palgrave Macmillan. 
+
+Alemdar, §akir (1993) International Aspects of the Cyprus Problem. In: Dodd, C.H. (ed.), 
+The Politiccd, Social and Economic Development of Northern Cyprus, Huntingdon: 
+The Eothen Press, pp. 75-102. 
+
+Althusser, Louis (2008) Ideology and Ideological State Apparatuses: Notes towards an 
+Investigation. In: Brewster, Ben (ed.), On Ideology, London: Verso Books. 
+
+Anafentos (1987) God out of Cyprus, Aphrodite is Alive ['Ego o 0sog and xpv Kimpo, H 
+A(ppo§fcr| Zsi]. Train in the City, 1, p. 20. 
+
+Anon (1985) Cyprus: The National Issue and the Anarchists [Kimpoq: To KunpiaKo Km ox 
+AvapxxKox] [Brochure]. 
+
+Anon (1987a) Regarding Autonomy [Lux xr|v Anxovopia]. Train in the City, 2-3, p. 7. 
+
+Anon (1987b) Netherlands, Babe [OkkavSia, Mavapi pon]. Train in the City, 2-3, p. 4-6. 
+
+Anon (1987c) The Egg Insurrection [H E^syspar| tov Auyov ] . Train in the City, 2-3, p 9-10. 
+
+Anon (1988a) Regarding Heroes and Graves [nspi Hpoov kou Tdcpov]. Train in the City, 4, 
+pp. 4-5. 
+
+Anon (1988b) Lor the Cypriot Dialects [Tia xig Kimpioucsg AiaksKxong]. Train in the City, 5, 
+pp. 34-36. 
+
+
+
+37 
+
+
+Anon (1989a) For a Bi-Communal Movement for Rapprochement and Autonomy [Tia'Eva 
+Aikoivotiko Kivrjpa E7umurpoacyyior|g kou Auxovopiag]. Train in the City, 7, pp. 10- 
+13. 
+
+Anon (1989b) No Title. Train in the City, 7, p 3. 
+
+Anon (1989c) The Misery of Falling in Love with a Turk [H Mi^spia ion va Aya7if|asi<; 
+TobpKo]. Train in the City, 6, p 5-6. 
+
+Anon (1993) Routes [AiaSpopsg]. Train in the City, 10, pp. 2-4. 
+
+Antonsich, Marco (2013) ‘OccupyBufferZone’: practices of borderline resistance in a space 
+of exception, Area, 45 (2), pp. 170-178. 
+
+Bryant, Rebecca (2002) The Purity of Spirit and the Power of Blood: A Comparative 
+Perspective on Nation, Gender and Kinship in Cyprus, Journal of the Royal 
+Anthropological Institute, 8 (3), pp. 509-530. 
+
+Charalambous, Giorgos (2012) AKEL: A Sociopolitical Profile of Greek-Cypriot 
+
+Communism. In: Bozkurt, Umut & Trimikliniotis, Nicos (eds.). Beyond a Divided 
+Cyprus: A State and Society in Transformation, New York: Palgrave Macmillan, pp. 
+151-168. 
+
+Cheal, David (2005) Dimensions of Sociological Theory. New York: Palgrave Macmillan. 
+
+Dodd, C.H. (1993) Historical Introduction. In: Dodd, C.H. (ed.). The Political, Social and 
+
+Economic Development of Northern Cyprus, Huntingdon: The Eothen Press, pp. 1-14. 
+
+Durkheim, Emile (1982) The Rules of Sociological Method. New York: The Free Press. 
+
+Engels, Friedrich & Marx, Karl (1998) The German Ideology. New York: Prometheus Books. 
+
+Evans, Dylan (1996) An Introductory Dictionary of Lacanian Psychoanalysis. New York: 
+Routledge. 
+
+Fanon, Frantz (2007) Black Skins, White Masks. New York: Grove Press. 
+
+Foka, Zinovia (2015) Shared Space in Conflict Areas: Exploring the Case of Nicosia’s Buffer 
+Zone, Athens Journal of Mediterranean Studies, 1 (1), pp. 45-59. 
+
+Gramsci, Antonio (2014) Selections from the Prison Notebooks. New York: International 
+Publishers. 
+
+
+
+38 
+
+
+Hannay, David (2004) Cyprus: The Search for a Solution. New York: I.B.Tauris. 
+
+Hatay, Mete & Papadakis, Yiannis (2012) A Critical Comparison of Greek Cypriot and 
+
+Turkish Cypriot Official Historiographies (1940s to the Present). In: Bryant, Rebecca 
+& Papadaks, Yiannis (eds.), Cyprus and the Politics of Memory: History, Community 
+and Conflict , New York: I.B.Tauris, pp. 51-70. 
+
+Ilican, Murat Erdal (2013) The Occupy Buffer Zone Movement: Radicalism and Sovereignty 
+in Cyprus, The Cyprus Review , 25 (1), pp. 55-79. 
+
+Iliopoulou, Eirini & Karathanasis, Pafsanias (2014) Towards a Radical Politics: Grassroots 
+Urban Activism in the Walled City of Nicosia, The Cyprus Review , 26 (1), pp. 169- 
+192. 
+
+Independent Cypro-Centric Publications (1992) The Cypriot Identity Without Labels [H 
+
+Kimpia.K'f] Tanroirixa Xcopig nkaioia] In: Cypriot Consciousness: a Dialogue about 
+an “experience without a name”. Nicosia: Independent Cypro-centric Publications, 
+pp. 1-2 [Brochure]. 
+
+Ioannou, Giannis (2013) The Poetic Generation of 74 in Cyprus: Genealogy and the 
+
+Expression of Questioning [H noitjTiKr/ rsvid rov ’74 azrjv Kimpo: H TevsaXoyia xca 
+tj EKcppaorj zrjq AiKpia/hpijapcJ. Nicosia: University of Cyprus. 
+
+Jensehaugen, Helge (2014) The Northern Cypriot Dream - Turkish Immigration 1974-1980, 
+The Cyprus Review , 26 (2), pp. 57-83. 
+
+Kamenou, Nayia (201 1) ‘Cyprus is the Country of Heroes, Not of Homosexuals ’: Sexuality, 
+Gender and Nationhood in Cyprus. Thesis (PhD), King's College London. 
+
+Kitromilides, Paschalis M. (1979) The Dialectic of Intolerance: Ideological Dimensions of 
+Ethnic Conflict, Journal of the Hellenic Diaspora , 6 (4), pp. 5-30. 
+
+Kliot, N., Mansfield Y. (1998) The political landscape of partition: The case of Cyprus, 
+Politiccd Geography , 16 (6), pp. 495-521. 
+
+Mavratsas, Caesar V. (1997) The ideological contest between Greek Cypriot nationalism and 
+Cypriotism 1974-1995: Politics, social memory and identity, Ethnic and Racial 
+Studies, 20 (4), pp. 717-737 . 
+
+
+
+39 
+
+
+Mavratsas, Caesar V. (1999) National identity and consciousness in everyday life: towards a 
+sociology of knowledge of Greek-Cypriot nationalism, Nations and Nationalism , 5(1), 
+pp. 91-104. 
+
+Mavratsas, Caesar V. (2003) Spirit and Political Consensus [EOvnaj Opoy/v/ia ko.i Ho/.mioj 
+Opocpcovia] . Athens: Katarti. 
+
+Panayiotou, Andreas (1992) The Cypriot Identity is Bom by the Historical Experiences of the 
+Land [H KD7ipiaicf| TanxoxriTa eivai yswripa tcdv laxopiKcov sp7isipujbv tod xo7iod]. 
+
+In: Cypriot Consciousness: a Dialogue about an “experience without a name 
+Nicosia: Independent Cypro-Centric Publications, pp. 7-18 [Brochure]. 
+
+Panayiotou, Andreas (1993) The Secret Story of Modernism in Cyprus [H Kpucpp Iaxopia xr|<; 
+Movxspvag ETtoyrig axpv Krmpo]. Train in the City, 10, p. 18. 
+
+Panayiotou, Andreas (1994) Cypriot Consciousness and Libertarian Prospects [ Kampia.K'f) 
+Envsi§r|or| kou DisnOspiaKsg IlpooTmK'cg]. Train in the City, 11, p. 6. 
+
+Panayiotou, Andreas (2012a) Border Dialectics: Cypriot Social and Historical Movements in 
+a World Systemic Context. In: Bozkurt, Umut & Trimikliniotis, Nicos (eds.), Beyond 
+a Divided Cyprus: A State and Society in Transformation , New York: Pal grave 
+Macmillan, pp. 67-82. 
+
+Panayiotou, Andreas (2012b) Hegemony, Permissible Public Discourse and Lower Class 
+Political Culture. In: Bryant, Rebecca & Papadaks, Yiannis (eds.), Cyprus and the 
+Politics of Memory: History, Community and Conflict, New York: I.B.Tauris, pp. 71- 
+93. 
+
+Papadakis, Yiannis (2008) Narrative, Memory and History Education in Divided Cyprus: A 
+Comparison of Schoolbooks on the “History of Cyprus”, History & Memory, 20 (2), 
+pp. 128-148. 
+
+Parsanoglou, Dimitris & Trimikliniotis, Nicos & Tsianos, Vassilis (2015) Mobile Commons, 
+Migrant Digitalities and the Right to the City. New York: Palgrave Macmillan. 
+
+Stavrakakis, Yannis (1999) Lacan and the Political. Abingdon: Routledge. 
+
+Thrasivoulou, Marios (2016) The Nationalism of the Greek Cypriots from the colonial period 
+to Independence: Views, trends and the role of the Left [ O EOvuaopoq rcov 
+
+
+
+40 
+
+
+EXXq voKVKpioj v and zrjv Anonaoicparla axrjv A vsXgapxrjoia: Oy/eig, xaoeig koi o poXog 
+zrjg Apiaxepdg]. Athens: Epikentro. 
+
+Vamava, Andrekos (2012) British Imperialism in Cyprus, 1878-1915: The Inconsequential 
+Possession. London: Manchester University Press. 
+
+Vassiliadou, Myria (2007) The Cypriot Media Landscape. In: Terzis, Georgios (ed.), 
+
+European Media Governance: National and Regional Dimensions , Bristol: Intellect 
+Books, pp. 201-212. 
+
+Volkan, Vamik (2008) Trauma, Identity and Search for a Solution in Cyprus, Insight Turkey , 
+10 (4), pp. 95-110. 
+
+Weber, Max (1964) The Theory of Social and Economic Organization. New York: The Tree 
+Press. 
+
+Zizek, Slavoj (2009) The Sublime Object of Ideology. London: Verso Books. 
+
+
+
+41 
+
+
+6.1. Full List of Primary Sources 
+
+Anon (1985) Cyprus: The National Issue and the Anarchists [Kimpog: To EOviko ko.i oi 
+Avapxncoi] [Brochure]. 
+
+Alternative Cypro-Centric Publications (1992) Cypriot Consciousness: A Dialogue About an 
+Experience Without a Name [Kimpmiaj Evvcidrjarj - AidXoyoq ym pm Epnsipia Xcopiq 
+Ovopa] [Brochure]. 
+
+Anon (1987a) Train in the City [Tpaivo azrjv TloXtj ] . Issue 1, Limassol: s.n. [Magazine]. 
+
+Anon (1987b) Train in the City [Tpaivo cnrjv TloXrj ]. Issue 2-3 (Double Issue), Limassol: s.n. 
+[Magazine] . 
+
+Anon (1988a) Train in the City [Tpaivo cnrjv fI6X>i ]. Issue 4, Limassol: s.n. [Magazine]. 
+
+Anon (1988b) Train in the City [Tpaivo azijv TIdXijj. Issue 5, Limassol: s.n. [Magazine]. 
+
+Anon (1989a) Train in the City [Tpaivo azrjv TloXrj], Issue 6, Limassol: s.n. [Magazine]. 
+
+Anon (1989b) Train in the City [Tpaivo cnrjv TIoXij]. Issue 7, L imassol: s.n. [Magazine]. 
+
+Anon (199-) Train in the City [Tpaivo ozijv TloXtj]. Issue 8, Limassol: s.n. [Magazine]. 
+
+Anon (1993) Train in the City [Tpaivo cnrjv TJoXrj]. Issue 10, Limassol: s.n. [Magazine]. 
+
+Anon (1994) Train in the City [Tpaivo aztjv IJoXtj]. Issue 11, Limassol: s.n. [Magazine]. 
+
+Committee for the Support of Conscious Objector G. Parpa (1988) The Right to Object 
+
+Conscription for Reasons of Consciousness [Aucaiopa. ozrjv Apvrjorj Zzpdzevatjg ym 
+Aoyovg Evveidtjarjg] [Brochure]. 
+
+
+
+7. Appendices 
+
+
+Appendix A: Post-1974 Map of Cyprus 
+
+
+
+Kyrenia 
+
+
+Famagusta 1 
+
+
+Nicosia 
+
+
+Paphos 
+
+
+Larnaca 
+
+
+Limassol 
+
+
+|^J United Nations-administered buffer zone 
+|jj United Kingdom Sovereign Base Areas 
+
+
+Dhekelia 
+
+
+Akrotiri 
+
+
+Area north of buffer zone 
+administered by Turkish Cypnots 
+
+Area south of buffer zone 
+administered by Greek Cypriots 
+
+
+Source: Map contributed by Wikipedia Commons’ User Golbez, Distributed Under the 
+Creative Commons Attribution-Share Alike 3.0 Unported License. 
+
+
+42 
+
+
+
+Appendix B: Table of Signifiers 
+
+
+This table organizes the floating signifiers identified in the analysis of Cypriot anarchist ideological discourse, according to their positioning 
+within the binary of the two key signifiers of the Cypriot anarchist Symbolic order. The first column lists floating signifiers subsumed under the 
+master-signifier “Authority”, followed by the second column describing the meaning they receive after signification. The third column organizes 
+the floating signifiers subsumed under the oppositional signifier “Autonomy”, positioned in an antagonistic relation to the floating signifiers 
+conditioned by the master-signifier “Authority”. The fourth column describes the meaning they receive after their signification by the 
+oppositional signifier. 
+
+
+Master Signifier 
+(Authority) 
+
+Signified Meaning 
+
+Oppositional Signifier 
+(Autonomy) 
+
+Signified Meaning 
+
+Army Conscription 
+
+Authority of the state and 
+nationalism over the Greek 
+Cypriot population, institution 
+of violence of the state. 
+
+Conscious Objection / human 
+rights 
+
+Autonomy of the individual 
+from state authority / limitation 
+of the authority of the state. 
+
+Capitalism, class society 
+
+Authority of ruling class over 
+working class 
+
+Class Struggle 
+
+Autonomy / resistance of the 
+working class to the ruling class 
+
+Educational System, School 
+
+Institution of indoctrination by 
+hegemonic ideology 
+
+Youth subcultures / youth 
+protests 
+
+Autonomy of youth from the 
+institution of the state, 
+questioning of the ideologies of 
+Authority 
+
+Enosis 
+
+subjugation to the authority of 
+the Greek national / 
+metropolitan centre 
+
+Independence of the Republic 
+of Cyprus 
+
+Autonomy of Cyprus from the 
+national centre 
+
+
+43 
+
+
+
+
+Environmental Exploitation 
+
+Authority of humans over 
+nature 
+
+Ecology 
+
+The abolition of authoritarian 
+relations with nature 
+
+Greek Cypriot Orthodox 
+Church 
+
+Ideology of authority, 
+institutionally part of the ruling 
+class 
+
+Atheism 
+
+Autonomy from the 
+authoritarian ideology of the 
+Church. 
+
+Liberation (of occupied areas) 
+
+Authoritarian imposition of the 
+Greek Cypriot community over 
+the Turkish Cypriot community. 
+
+(Bi-Communal, Bi-Zonal) 
+Federation 
+
+Political structure providing 
+autonomy for each Cypriot 
+community 
+
+Militarism 
+
+Culture of violence organized 
+and executed by centres of 
+authority e.g.: states 
+
+Anti-Militarism / Pacifism 
+
+Autonomy of the individual and 
+the social whole from militarist 
+
+authoritarian culture 
+
+Monopoly of Greek Language 
+in Public Discourse 
+
+subjugation to the authority of 
+the national / metropolitan 
+centre and the ideology of 
+authority, colonial relationship 
+
+Use of Greek Cypriot Dialect in 
+Public (and Private) Discourse 
+
+Autonomy of Cyprus from the 
+national centre 
+
+National Centre 
+
+Cultural, political and social 
+authoritarian colonial 
+relationship between Cyprus 
+and Greece / Turkey 
+
+Cypriot Consciousness / 
+Cypriot Identity, / Native 
+Identity 
+
+Autonomy of the Cypriot 
+population from the national 
+colonial relationship 
+
+National Culture 
+
+Homogeneity of Culture, 
+Authoritarian Culture 
+oppressing social / cultural / 
+national minorities 
+
+Subcultures (e.g. Rock, Punk) 
+
+Questioning of authoritarian 
+political and social structures of 
+society, cultural difference, 
+pluralism. 
+
+Nationalism 
+
+Ideology of authority, ideology 
+of subjugation to the authority 
+of a national centre 
+
+Cypriot Consciousness / 
+Cypriot Identity / Native 
+Identity /Rapprochement 
+
+Autonomy of the Cypriot 
+population from an imposed 
+identity and from the national 
+
+
+44 
+
+
+
+
+
+
+Movement / Bi-Communalism 
+
+centre, promoting pluralism. 
+
+Nation-state, National Identity 
+
+Homogeneity of Identity / 
+oppression of minority groups, 
+oppression of social difference 
+
+Cypriot Consciousness / 
+Cypriot Identity / Native 
+Identity / Pluralism / Bi- 
+Communalism / Difference 
+
+Autonomy of social groups 
+from the imposed homogeneous 
+identity and/or cultures of 
+authoritarian structures such as 
+
+the state. 
+
+Patriarchy, Sexism 
+
+Male authoritarian exploitative 
+structure of females, ideology 
+of authority, connected with 
+nationalism 
+
+Feminism 
+
+Autonomy of females from 
+male dominance, destruction of 
+male authoritarian structures. 
+
+Police 
+
+Institution of violence utilized 
+by the state 
+
+Human rights / constitutional 
+rights 
+
+Limitation of the authority of 
+the state 
+
+State 
+
+Coercive authoritarian 
+
+institution 
+
+Civic Society, Human Rights 
+
+Autonomy of society from the 
+state, limitation of the authority 
+of the state 
+
+
+45 
+
+
+
+
+Appendix C: Thematic Map of the Cypriot Anarchist Symbolic Order 
+
+
+
+46
