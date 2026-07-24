@@ -1,0 +1,126 @@
+---
+title: "Questo non è un dialogo"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2017/01/26/questo-non-e-un-dialogo-non-solo-liberta-despressione-ma-la-liberta-stessa"
+---
+
+Forse non hai capito, ma questo non è un dialogo. Le tue opinioni sono irrilevanti. Di’ tutto quello che ti pare - i tuoi avversari sono felici di vederti sprecare fiato. Meglio ancora se protesti: preferirebbero che tu avessi un cartello anziché *tu faccia* qualcosa. Ti terranno parlare il più a lungo possibile, solo per stancarti, per guadagnare tempo.
+
+Vogliono importi i loro programmi. Ecco a cosa servono tutte le armi, a cosa servono la Polizia, i droni e le telecamere di sorveglianza, a cosa servono FBI, CIA e NSA, a cosa servono tutte quelle leggi, i tribunali e gli ordini esecutivi. È a questo che serve la loro Chiesa, è a questo che servono i loro meme razzisti, è a questo che servono molestie online e bullismo. È a questo che servono il bullismo omofobico e il bruciare le chiese.
+
+Questo non è un dialogo. Come hai potuto essere così ingenuo? Un dialogo - da cui alcuni dei partecipanti possono essere buttati fuori in qualsiasi momento? Un dialogo - in cui un lato continua a sparare e a incarcerare l’altro lato? Un dialogo - in cui poche persone possiedono tutte le stazioni radiotelevisive e la stampa, mentre le restanti devono accontentarsi di pennarelli e cartelli? Un dialogo, davvero?
+
+Non sei nel mezzo di un dialogo. Ti trovi nel mezzo di una lotta per il potere. Ciò che conta è quanta forza puoi esercitare sui tuoi avversari per difenderti da loro. Puoi scommettere che se ci riuscirai, accuseranno *te* di aver interrotto il dialogo, di aver violato la loro libertà d’espressione. Cercheranno di farti rientrare nella conversazione, temporeggiando fino a quando non avranno più bisogno di stratagemmi per mantenerti passivo mentre mettono insieme tutti i pezzi per attivare la tirannia.
+
+Questo non è un dialogo, è una guerra. Stanno giocando d'azzardo con te e tu non te ne accorgerai fino a quando non sarà troppo tardi. Se la libertà è importante per te, se t’importa di tutte le persone condannate a morte e condannate alla deportazione, inizia ad agire.
+
+[[https://youtu.be/9rh1dhur4aI _Ecco quello di cui stiamo parlando._]]
+
+***
+
+*Il seguente testo è una versione aggiornata di un articolo apparso originariamente nel n° 9 di* [*Rolling Thunder.*](https://crimethinc.com/rt/archives.html) *Puoi stampare una versione flier delle* [*“FAQ* *sula libertà d’espressione”*](https://cdn.crimethinc.com/images/rt9/rt9_free_speech_faq.pdf) *per dar vita ad azioni antifasciste. L'intero testo è disponibile come* [*PDF stampabile.*](https://cdn.crimethinc.com/pdfs/this-is-not-a-dialogue_print-2.pdf)
+
+# Non solo libertà d’espressione, ma la libertà stessa
+
+È ormai da secoli che gli anarchici difendono la libertà d’espressione. Questo è importante in linea di principio: in una visione anarchica della società, né lo Stato né qualsiasi altra istituzione dovrebbero essere in grado di determinare ciò che possiamo e non possiamo dire. È anche importante nella pratica: in quanto minoranza rivoluzionaria spesso presa di mira dalla repressione, abbiamo costantemente visto attaccare i nostri discorsi, i nostri giornali, i nostri siti Web e i nostri cortei. 
+
+Ma non siamo gli unici a essere interessati alla libertà d’espressione. Ultimamente, negli Stati Uniti, la destra ha iniziato a sostenere che dare visibilità solo alla voce dei liberali non concedendo ai conservatori un’occasione per far ascoltare le proprie opinioni costituisca una repressione della loro libertà d’espressione. Accusando le università e i media "liberali" di reprimere le opinioni conservatrici - un'affermazione ridicola, considerate le imponenti strutture di potere e finanziamenti che promulgano quelle idee - sfruttano il discorso del Primo Emendamento per promuovere programmi reazionari. I campus presumibilmente progressivi mostrano quel che sono veramente mobilitando il potere istituzionale per difendere il territorio di destra nel mercato delle idee, spingendosi fino a censurare e intimidire l'opposizione.
+
+Anche organizzazioni di estrema destra e fasciste sono salite sul carro della libertà d’espressione. I fascisti si affidano allo Stato per essere protetti, sostenendo che l'organizzazione razzista, anti-immigrati e contro le persone LGBTQI* costituisca una forma di espressione legalmente protetta. Spesso, i gruppi fascisti che - grazie a leggi che limitano l’hate speech - non possono divulgare il proprio materiale nella maggior parte delle altre democrazie industrializzate, lo fanno negli Stati Uniti, dove non esistono leggi simili, e da qui lo distribuiscono in tutto il mondo. In pratica, la protezione statale del diritto alla libera espressione aiuta l'organizzazione fascista.
+
+Se difendere la libertà d’espressione è arrivato a significare sponsorizzare ricchi politici di destra e consentire il reclutamento fascista, è tempo di esaminare ciò che si nasconde dietro questo principio.
+
+> Nonostante le radici radicali di organizzazioni come l'American Civil Liberties Union (Unione Americana per le Libertà Civili) che invocano la protezione dello Stato per la libertà d’espressione, questa forma di libertà civili svuota la difesa della libertà di parola di qualsiasi contenuto radicale, il che implica che solo lo Stato può garantire adeguatamente la nostra capacità di esprimere noi stessi liberamente, rafforzando così il potere statale al di sopra del diritto alla libertà d’espressione stessa.
+
+## La retorica della libera espressione
+
+Sembra esserci un ampio consenso negli schieramenti politici americani a favore del diritto alla libertà d’espressione. Laddove gli oppositori potrebbero cavillare sui limiti - come cosa debba considerarsi oscenità - gli esperti da sinistra a destra concordano sul fatto che la libertà d’espressione sia essenziale per la democrazia americana.
+
+Gli appelli a questa tradizione di espressione senza restrizioni conferiscono legittimità a gruppi con visioni al di fuori del mainstream, e da ciò traggono vantaggio sia i fascisti sia gli estremisti. Gli avvocati difendono spesso l'attività anarchica facendo riferimento alla disposizione del Primo Emendamento che impedisce alla legislazione di limitare la stampa o l'assemblea pacifica. Possiamo trovare alleati che ci sosterranno per quanto riguarda casi legati alla libertà d’espressione che, invece, non ci sosterrebboro mai al di fuori di una visione condivisa nell’utilizzare l’azione diretta per creare un mondo senza gerarchie. La retorica della libertà d’espressione e dei diritti del Primo Emendamento forniscono un linguaggio comune con cui ampliare la nostra rete di sostegno e rendere la nostra resistenza più comprensibile ai potenziali alleati, con i quali poter costruire legami più profondi nel tempo.
+
+Ma a quale prezzo? Questo discorso sui diritti sembra implicare che lo Stato sia necessario per proteggerci da se stesso, come se fosse una sorta di doppia personalità alla Jekyll e Hyde che ci attacca simultaneamente con leggi, Polizia e pubblici ministeri mentre ci difende con leggi, avvocati e giudici. Se accettiamo questa metafora, non dovrebbe sorprendere scoprire che più cerchiamo di rafforzare il braccio che ci difende, più forte diventerà quello che ci attacca.
+
+Una volta che la libertà è definita come un assortimento di diritti concessi dallo Stato, è facile perdere di vista la libertà effettiva che quei diritti sono destinati a proteggere e concentrarsi invece sui diritti stessi, accettando implicitamente la legittimità dello Stato. Pertanto, quando creiamo visibilità e supporto utilizzando la retorica dei diritti, miniamo la possibilità che ci potrebbe rendere capaci di resistere allo Stato stesso. Concediamo anche allo Stato la possibilità di *imporre* i "diritti" degli altri su di noi.
+
+## La difesa dei diritti civili
+
+Negli Stati Uniti, molti danno per scontato che per lo Stato sia più facile mettere a tacere e isolare gli estremisti rispetto a quei Paesi dove la libertà di parola non è legalmente protetta. Se questo fosse vero, chi *non* vorrebbe rafforzare le tutele legali sulla libertà d’espressione?
+
+In effetti, nelle nazioni in cui questa libertà non è legalmente protetta, gli estremisti non sempre sono più isolati - al contrario, la persona media, a volte, è *più* comprensiva nei confronti di coloro che sono in conflitto con lo Stato, poiché è più difficile per quest’ultimo legittimare se stesso come difensore della libertà. Le leggi non legano le mani allo Stato quasi quanto questo può essere fatto dall'opposizione; potendo scegliere tra i diritti legali e il sostegno popolare, preferiamo di gran lunga quest'ultimo.
+
+Un dizionario definisce la *libertà civile* come "la condizione di essere soggetto solo alle leggi stabilite per il bene della comunità." Ciò sembra perfetto per coloro che credono che le leggi imposte dal potere gerarchico possano servire il "bene della comunità" - ma chi definisce "la comunità" e cosa è buono per essa, se non chi è al potere? In pratica, il discorso sulle libertà civili consente allo Stato di esautorare i suoi nemici: se esiste un canale legittimo per ogni tipo di espressione, allora coloro che si rifiutano di giocare secondo le regole sono chiaramente illegittimi. Possiamo pertanto leggere questa definizione al contrario: secondo la "libertà civile," tutte le leggi sono *per il bene della comunità* e chiunque le metta in discussione deve essere *contrario a essa.* 
+
+Concentrandoci sul diritto alla libertà d’espressione, vediamo solo due protagonisti, l'individuo e lo Stato. Invece di farsi trascinare nel dibattito su ciò che lo Stato dovrebbe consentire, gli anarchici dovrebbero concentrarsi su un terzo protagonista: la collettività. Vinciamo o perdiamo la *nostra* lotta in base a quanta sovranità il popolo in generale è disposto a riprendersi dallo Stato, a quanta intrusione è disposto a sopportare. Se dobbiamo proprio parlare di diritti, anziché sostenere che abbiamo diritto alla libertà d’espressione, affermiamo semplicemente che lo Stato *non* ha il diritto di reprimerci. Meglio ancora, sviluppiamo completamente un altro linguaggio.
+
+## Libertà d’espressione e democrazia…
+
+Il discorso sulla libertà d’espressione in democrazia presume che non esistano squilibri significativi di potere e che il principale meccanismo di cambiamento sia la discussione razionale. In effetti, un'élite capitalista controlla la maggior parte delle risorse e il potere si cristallizza verso l'alto, lungo più assi dell'oppressione. Contro quest’assetto, ci vuole molto più di un semplice discorso per aprire la possibilità di un cambiamento sociale.
+
+Non ci può essere veramente libertà d’espressione se non tra pari - tra le parti che non solo sono uguali davanti alla Legge, ma che hanno un accesso simile alle risorse e pari poteri nel mondo che condividono. Si può davvero dire che un dipendente sia libero di esprimersi come il suo capo, se quest'ultimo può togliergli il sostentamento? Due persone sono ugualmente libere di esprimere le proprie opinioni quando una possiede una News Network e l'altra non può nemmeno permettersi di fotocopiare dei volantini? Negli Stati Uniti, dove le donazioni a candidati politici costituiscono interventi legali, più denaro hai, più “libertà d’espressione” puoi esercitare. Come recita il motto, la libertà non è libera - e da nessuna parte è più chiara che con la parola.
+
+Contrariamente alla propaganda della democrazia, le idee da sole non hanno una forza intrinseca. La nostra capacità di *agire* secondo le nostre convinzioni, e non solo di esprimerle, determina quanto potere abbiamo. In questo senso, la metafora del "mercato delle idee" è sorprendentemente adatta: hai bisogno di capitale per partecipare, e più hai, maggiore è la tua capacità di realizzare le idee in cui credi. Proprio come il successo di alcuni imprenditori e superstar è visto come la prova che il libero mercato premia il duro lavoro e l'ingegnosità, il mito del mercato delle idee suggerisce che il sistema capitalista persiste perché tutti - miliardari e fattorini allo stesso modo - concordano che è l’*idea* migliore.
+
+## … finché non fai nulla
+
+Ma cosa succederebbe se, nonostante il campo da gioco sbilanciato, qualcuno riuscisse a dire qualcosa che minacci di destabilizzare la struttura del potere? Se il passato ci ha insegnato qualcosa, si scopre rapidamente che, dopotutto, la libertà d’espressione non è così sacrosanta. In pratica, ci viene permessa solo nella misura in cui esprimere le nostre opinioni *non cambia nulla.* La premessa che *la parola da sola* non può essere dannosa, implica che questa è precisamente ciò che è inefficace: quindi qualsiasi cosa *efficace* non è inclusa tra i diritti di una persona.
+
+Durante la Prima guerra mondiale, l'Espionage Act (Legge sullo Spionaggio) criminalizzava qualsiasi tentativo di “causare insubordinazione, slealtà, ammutinamento [o] rifiuto del dovere,” o di ostacolare il reclutamento delle forze armate. Il presidente Woodrow Wilson sollecitò l'approvazione del Disegno di legge perché credeva che l’attività anti-militarista avrebbe potuto minare lo sforzo bellico degli Stati Uniti. Alexander Berkman ed Emma Goldman furono arrestati in base a questa Legge per aver stampato letteratura anarchica che si opponeva alla guerra. Allo stesso modo, l'Anarchist Exclusion Act (Legge sull’esclusione degli anarchici) e la successiva Legge sull’immigrazione sono state usate per espellere o negare l'ingresso a qualsiasi immigrato “che non crede o che si oppone a quasiasi Governo organizzato.” Berkman, la Goldman e centinaia di altri anarchici furono deportati ai sensi di queste Leggi. Esistono innumerevoli altri esempi che dimostrano che quando il linguaggio può minacciare le fondamenta del potere statale, anche il Governo più democratico non esita a reprimerlo.
+
+Pertanto, quando lo Stato si presenta come il difensore della libertà d’espressione, possiamo essere certi che ciò è dovuto al fatto che i nostri governanti credono che consentire le critiche, e non reprimerle, rafforzerà la loro posizione. Il filosofo liberale e membro dell'ACLU Thomas Emerson ha notato che la libertà d’espressione “può agire come una sorta di" valvola di sicurezza "per sfogarsi quando le persone potrebbero altrimenti essere propense alla rivoluzione.” Qui sta il vero obiettivo del diritto d’espressione negli Stati Uniti. 
+
+## Non libertà d’espressione, ma la libertà stessa
+
+Ovviamente, gli anarchici non dovrebbero organizzarsi *contro* la libertà d’espressione. Ma la stretta che lo Stato esercita su di essa sembra stabilire i termini del dibattito: o tolleriamo la censura, o tolleriamo la protezione dei nostri nemici da parte dello Stato e il loro diritto di organizzarsi contro di noi e gli altri. Ciò si traduce in paradossi, come nel caso di radicali accusati di opporsi alla libertà per aver zittito un oratore fascista.
+
+Contrariamente alla protezione statale dei raduni del KKK e simili, esistono modelli di libera espressione che non dipendono né dall'applicazione dall'alto dei diritti né dalla sanzione di comportamenti oppressivi. Gli anarchici potrebbero giudicare la parola non come qualcosa di fondamentalmente diverso dall'azione, ma come una *forma* di azione: quando danneggia gli altri, quando rinforza gerarchie e ingiustizie, l’affrontiamo allo stesso modo in cui faremmo COM qualsiasi altro tipo di abuso o oppressione. Questa è non è altro che autodifesa.
+
+Quando un politico xenofobo viene a parlare in un'università pubblica, il suo onorario viene pagato con il denaro delle tasse estorto dai lavoratori e dato alle università in modo da poter continuare a circolare tra i ricchi e potenti. A prescindere dal piagnucolio della destra riguardo all'emarginazione delle opinioni conservatrici, il fatto che sia abbastanza potente da garantire attività oratorie redditizie indica come le sue opinioni siano a malapena represse. In quanto ricco cittadino bianco e personaggio pubblico, la sua opportunità di esprimersi non può ragionevolmente essere paragonata all'opportunità, per esempio, degli immigrati da lui utilizzati come capri espiatori. Se le loro voci e le loro rappresentanze avessero effettivamente lo stesso peso, il politico avrebbe potuto dire quello che voleva, ma non sarebbe stato in grado di sottoporre gli altri ai suoi piani.
+
+Quando lo affrontiamo direttamente anziché con un educato disaccordo, non stiamo attaccando il suo diritto a esprimere le sue opinioni. Stiamo affrontando i vantaggi speciali che gli vengono accordati: denaro dei contribuenti, protezione della Polizia, un pulpito esclusivo. Stiamo affrontando il potere che esercita sulla nostra vita attraverso le istituzioni costruite sulla violenza, un potere che intende estendere usando le conferenze per guadagnare ricchezza, legittimità e reclute per i suoi sforzi razzisti. Affrontarlo significa intraprendere una pratica politica che non riduce la libertà dei diritti, ma sfida i privilegi dello Stato - che non crea alcuna falsa dicotomia tra parola e azione, ma giudica entrambi secondo gli stessi standard - che non consentono a questo di inquadrarsi come il difensore della libertà d’espressione, affermando invece che siamo gli unici in grado di difendere ed estendere la nostra *libertà.*
+
+> Meno funzionari, più libertà!
+
+[[https://cdn.crimethinc.com/assets/articles/2017/01/26/1-it.jpg class:portrait]]
+
+## Appendice: FAQ sulla libertà d’espressione
+
+### Fermare i fascisti dal parlare ti rende malvagio tanto quanto loro.
+
+Si potrebbe facilmente affermare che *non* fermare i fascisti dal parlare ti renda malvagio quanto loro, perché offre loro l'opportunità di organizzarsi per imporre il loro programma sul resto di noi. Se t’interessa la libertà, non stare con le mani in mano mentre le persone si mobilitano per portartela via.
+
+### Non dovremmo semplicemente ignorarli? Vogliono attenzione e se gliela daremo, li lasceremo vincere.
+
+In realtà, i fascisti di solito non vogliono attirare l'attenzione sulla loro organizzazione; lo fanno in gran parte in segreto per paura che una collettività indignata li possa bloccare. Predispongono eventi pubblici solo per dimostrare alle potenziali reclute di avere potere e per tentare di legittimare le loro opinioni come parte dello spettro politico. Contrapponendoci pubblicamente ai fascisti, gli rendiamo chiaro - e, cosa più importante, a chiunque sia interessato a unirsi a loro - che non saranno in grado di consolidare il potere senza combattere. Ignorare i fascisti consente loro di organizzarsi senza ostacoli e la Storia dimostra che ciò può essere molto pericoloso. Meglio fermarli una volta per tutte.
+
+### Il modo migliore per sconfiggere i fascisti è lasciare che esprimano le loro opinioni in modo che tutti possano vedere quanto sono ignoranti. Possiamo confutarli in modo più efficace con le idee anziché con la forza.
+
+Le persone non diventano fasciste perché trovano persuasive le loro *idee*. Diventano fasciste per lo stesso motivo per cui altri diventano poliziotti o politici: esercitare il *potere* sugli altri. Sta a noi dimostrare che l'organizzazione fascista non consentirà loro di ottenere questo potere, ma si tradurrà solo in un'umiliazione pubblica. Questo è l'unico modo per interrompere la loro fonte di potenziali reclute.
+
+La Storia ha dimostrato più volte che il fascismo non viene sconfitto solo dalle idee, ma dall'autodifesa popolare. Ci viene detto che se tutte le idee sono discusse apertamente, la migliore vincerà, ma ciò non riesce a spiegare la realtà di un potere diseguale. I fascisti possono essere molto utili a coloro che hanno potere e privilegi, che spesso forniscono loro abbondanti risorse; se possono garantire più spazi e visibilità delle loro idee di quanto possiamo noi, saremmo sciocchi a limitarci a quel campo di battaglia. Possiamo discutere delle loro idee tutto il giorno, ma se non gli impediamo di sviluppare la capacità di renderle realtà, non ha nessuna importanza.
+
+### I neonazisti sono irrilevanti; oggi, la vera minaccia è rappresentata dal razzismo istituzionalizzato, non dagli estremisti ai margini.
+
+La maggior parte del razzismo si manifesta attraverso forme sottili e quotidiane. Ma la visibilità fascista consente ad altri gruppi di destra di inquadrarsi come moderati, contribuendo a legittimare i presupposti razzisti e xenofobi alla base delle loro posizioni e dei sistemi di potere e privilegio che difendono. Prendere posizione contro i fascisti è un passo fondamentale per screditare le strutture e i valori alla base del razzismo istituzionalizzato.
+
+Qui e in tutto il mondo, i fascisti continuano a terrorizzare e uccidere le persone a causa delle differenze razziali, religiose e sessuali. È ingenuo e irrispettoso per le loro vittime sorvolare sul passato e sulle realtà attuali della violenza fascista. Poiché credono nell’azione diretta per portare a termine il loro programma anziché limitarsi alla macchina della democrazia rappresentativa di Rube Goldberg, possono essere più pericolosi di altri estremisti in proporzione al loro numero. Ciò rende particolarmente importante il fatto di riuscire a gestirli il più rapidamente possibile. 
+
+### Libertà d’espressione significa proteggere il diritto di tutti di parlare, comprese le persone con cui non sei d'accordo. Ti piacerebbe se avessi un'opinione impopolare e altre persone stessero cercando di zittirti?
+
+Ci opponiamo ai fascisti per *quello che fanno,* non per quello che dicono. Non siamo contrari alla libertà d’espressione; siamo contrari al fatto che propongano un programma basato su odio e terrore; grazie alla "neutralità" del mercato capitalista, continuano a pubblicare incitazioni all’odio sulla stampa e su Internet. Ma non lasceremo che entrino nelle nostre comunità per costruire il potere di cui hanno bisogno per mettere in atto il loro odio.
+
+Governo e Polizia non hanno mai protetto la libertà d’espressione di tutti allo stesso modo, e mai lo faranno. È nel loro interesse personale reprimere opinioni e azioni che sfidano le disparità di potere esistenti. Spenderanno centinaia di migliaia di dollari dei contribuenti per polizia antisommossa, elicotteri e tiratori scelti per difendere un raduno del KKK, ma se c'è un raduno anarchico, la polizia stessa sarà lì per *fermarlo*, non per proteggerlo.
+
+Agli anarchici non piace essere messi a tacere dallo Stato, ma non vogliamo nemmeno che lo Stato definisca e gestisca la nostra libertà. A differenza dell'ACLU, la cui presunta difesa della "libertà" li porta a sostenere il KKK e altri come loro, sosteniamo soprattutto l'autodifesa e l'autodeterminazione. Qual è lo scopo della libertà d’espressione, se non quello di promuovere un mondo libero dall'oppressione? I fascisti si oppongono a questa visione; quindi ci opponiamo al fascismo con ogni mezzo necessario.
+
+### Se i fascisti non hanno una piattaforma per esprimere pacificamente le loro opinioni, questo li spingerà a utilizzare mezzi di espressione sempre più violenti.
+
+I fascisti stanno solo tentando di esprimere le loro opinioni "pacificamente" al fine di gettare le basi per attività violente. Poiché richiedono un'apparenza di legittimità sociale per essere in grado di svolgere il loro programma, offrire loro una piattaforma per parlare apre le porte alla loro capacità di arrecare danni fisici alle persone. Il discorso pubblico che promuove le ideologie dell'odio, indipendentemente dal fatto che lo si consideri o meno violento di per sé, si integra e si correla sempre con azioni violente. Affiliandosi con movimenti e ideologie basate su repressione e genocidio, i fascisti mostrano la loro intenzione di portare avanti questi lasciti di violenza, ma solo se possono sviluppare una base di consenso.
+
+### Cercare di reprimere le loro voci si ritorcerà contro di noi, generando interesse per loro.
+
+La resistenza al fascismo non aumenta l'interesse per le opinioni fasciste. Semmai, i liberali che si mobilitano per difendere i fascisti per motivi di libertà d’espressione aumentano l'interesse sui loro punti di vista conferendo loro legittimità. Questo contribuisce a fare il loro gioco per quanto riguarda i loro fini organizzativi, permettendogli di seminare zizzania tra i loro avversari usando la libertà d’espressione a mo’ di cortina di fumo. Tollerando razzismo, omofobia, antisemitismo e xenofobia, i cosiddetti sostenitori della libertà d’espressione sono complici degli atti di organizzazione fascista del terrorismo.
+
+### Hanno diritti come tutti gli altri.
+
+Nessuno ha il diritto di organizzare la violenza contro la nostra comunità. Allo stesso modo, rifiutiamo il "diritto" del Governo e della Polizia - che hanno più in comune con i fascisti di quanto non ne abbiano con noi - di decidere per noi quando i fascisti hanno oltrepassato il limite dall'esprimersi per rappresentare una minaccia immediata. Non rinunciamo alla nostra libertà di giudicare quando e come difenderci.

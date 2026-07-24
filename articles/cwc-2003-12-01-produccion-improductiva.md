@@ -1,0 +1,45 @@
+---
+title: "Producción improductiva"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2003/12/01/produccion-improductiva"
+---
+
+La moderna manufactura de ordenadores, automóviles y otros complejos productos tecnológicos requieren una desorbitante cantidad de desperdicios y polución, una dramática división del trabajo, y una jerarquía internacional. Como anarquistas, indiferentemente si adoptamos o no el punto de vista primitivista, debemos o bien desarrollar unas nuevas formas en la manufacturación de estas tecnologías complejas que eviten estos problemas, o debemos entender que una sociedad anarquista no será capaz de producir tecnologías complejas sin comprometer nuestros principios. Examinaré el caso de un ordenador personal como un ejemplo de los problemas tras la manufactura de tecnologías complejas –un proceso que llamo “producción destructiva”.
+
+El corazón de un ordenador –la diminuta parte que hace a los ordenadores tan rápidos y pequeños- es el chip semiconductor que llevan dentro. Puede que hayas escuchado varias marcas de estos como Intel Pentium, Motorota, y demás.
+
+Manufacturar estos chips requiere aproximadamente 400 pasos en un complicado proceso que empieza extrayendo el dióxido de silicio (silica). Es la sustancia más abundante en la corteza de la Tierra, así que no es muy difícil de encontrar o de extraer. La silica es entonces es calentada con carbón para formar dióxido de carbono y silicio. Este silicio es vuelto a calentar con ácido hidrocloríco e hidrógeno en el proceso de formación de una barra pura de silicio que es entonces cortado en formas de oblea de ancho milimétrico y enviado a la factoría donde harán el chip.
+
+Esta factoría es más del doble de grande que un campo de fútbol americano y contiene más de 100 tipos distintos de maquinaria de todas partes del mundo. Los chips deben ser manufacturados en “habitaciones limpias” que usan potentes filtros de aire para reducir la contaminación del aire a sólo 1 partícula por pie cúbico de aire (los hospitales tienen 10.000 partículas por pie cúbico y una puerta de calle normal contiene 500.000 partículas por pie cúbico). Aun con todo, estos filtros no sirven para los vapores tóxicos creados por el proceso de creación del chip.
+
+L@s trabajador@s en la factoría del chip usan microscopios, luces ultravioletas, químicos fotosensibles y batas químicas (todo tóxico), e instrumentos de precisión con los que dar minúsculos golpes e implantar en cada oblea de chip fósforos y boron. L@s trabajador@s también aplican capas de grosor microscópico de cobre y oro a los chips, entonces los envían a la factoría que hace las placas de circuitos [circuit board].
+
+La factoría que hace estas placas de circuitos usa cobre, fiberglass resina de epoxy para hacer las placas, entonces reviste estas placas con cobre y lo suelda con estaño, entonces añade los circuitos moldeados utilizando técnicas similares a aquellas en el proceso de creación del chip. Esto genera humos ácidos y otros desperdicios tóxicos.
+
+El plástico usado para hacer el exterior el ordenador viene del petróleo que requiere refinación extensiva, sin mencionar el complicado proceso mediante el cual es extraído de la Tierra.
+
+Finalmente, todas estas partes son juntadas en todavía otra factoría y enviado en barco a lo largo del mundo a varios centros de distribución.
+
+Como puedes ver, la manufactura de un solo ordenador requiere tratar con una gran división del trabajo. Desde la extracción (del cobre en Chile, del oro en Sud África, el estaño en Brasil) a la perforación petrolífera para manufactura para ensamblar complejas tecnologías, como estas, requieren trabajo alienado un supuesto anatema para el anarquismo. Y aún así, muchos anarquistas, que por desgracia no se atreven a confrontar la realidad de la destrucción ecológica y la estructura jerárquica detrás de la tecnología compleja, asumen que la manufactura de los ordenadores puede seguir como algo normal “después de la revolución”.
+
+Tengo escuchado a anarquistas intentando solucionar el problema de la división del trabajo diciendo que podemos “turnarnos” en la realización los diversos trabajos. ¿Podremos tornarnos viajando de continente en continente para extraerlos y refinarlos para convertirlos en partes útiles? Parece dudoso.
+
+Otra solución expuesta es la de asignar las distintas tareas de manufacturar un ordenador a la gente que se preste voluntaria porque quieren uno de los productos finales. Aun así, parece difícil que nadie se preste voluntari@ a semejante tarea dado los graves riesgos para la salud que conlleva (l@s trabajador@s en las factoría de ordenadores manifiestan los más altos incidentes de enfermedades pulmonares, erupciones cutáneas y enfermedades locomotoras). ¿Y cuánto debe trabajar un@ para “ganar” un simple ordenador? 20 horas, 40, 80, seis meses, el valor de un año entero trabajando a jornada-completa?
+
+¿Hay anarquistas que estén dispuestos a comprometerse con tanto trabajo simplemente para tener su propio y nuevo ordenador manufacturado.
+
+Además, los anarquistas a los que no les importa vivir sin ordenadores puede que no estén entusiasmados con tener que lidiar con los contaminantes y productos en consecuencia que conllevan con la fabricación de las máquinas. Silicon Valley, donde actualmente son manufacturados muchos ordenadores, tiene vastas áreas de aguas bajas contaminadas y la más grande concentración de sitios de Superfund cleanup de los EE.UU. La manufacturación de ordenadores millones de toneladas de desechos tóxicos cada año –¡manufacturar un solom chip de ordenador crea 40 kg. de desperdicios y usa 10.000 litros de agua! Y el proceso de refinado del cobre usado para crear chips contribuye a la lluvia ácida. En cuanto a que l@s no-usuari@s-de-ordenadores no van a tolerar vivir con semejantes desechos y polución, ¿l@s que sean pro-ordenadores van a vivir con este peso? Mucha de la contaminación manufacturera, como la contaminación de las aguas bajas y la lluvia ácida, tampoco puede ser limitada a una sola localización. ¿Qué harán l@s no-usuari@s-de-ordenadores cuando el agua de la que beben sea echada a perder río arriba por los fabricantes de ordenadores?
+
+Supón que se desarrolla un método para producir ordenadores ecológico y que no requiere prácticamente división del trabajo. El proceso sería aun así inimaginablemente complejo y ciertamente geográficamente diverso, requiriendo trabajador@s y materiales de todo el mundo. Es concebible una coordinar un esfuerzo global basado sobre los principios anarquistas, pero tal esfuerzo sería bastante menos “eficiente” (en otras palabras, sin el concepto fordista del horario tiránico y la división del trabajo) y así produce menos de lo deseado. Tampoco parece probable que le gente vaya a pasar por todos estos aros (minas de oro y cobre, exposición a peligrosos químicos, laboriosas asambleas de para determinar la línea que la factoría llevará, etc.) para tener su propio ordenador personal, y es que además habría menos gente que tomase parte en el proceso, con lo que otra vez vuelve a significar menos eficiencia. Posiciones de administración serán desarrolladas de seguro para tratar con el “problema” de la ineficiencia, y los administradores posiblemente recibirán las últimas y mejores versiones de los ordenadores como compensación a sus esfuerzos.
+
+Así pues, cuando tratamos de la tecnología compleja, no podemos estar satisfechos meramente con las ocupaciones de fábricas, ir a los sitios de extracción minera, y apoderarse (en vez de destruir) estos horribles medios de producción. Es así, que sólo hay dos maneras para existir los ordenadores en un mundo anarquista:
+
+No manufacturar nuevos ordenadores, si no usar los recursos existentes para mantener las actuales máquinas.
+Desarrollar nuevos métodos de manufacturación de ordenadores no contaminantes ni alienantes (improbable, pero remotamente posible –aunque, el proceso de búsqueda de nuevos métodos de manufactura generaría su propia contaminación, división del trabajo, etc.). Y los ordenadores no son el único (o peor) ejemplo de producción destructiva. Los coches son mucho peor, por ejemplo, y un análisis similar de la manufacturación de automóviles podría ocupar fácilmente un enorme libro.
+Espero haber demostrado que no tienes que ser un primitivista anti-tecnología para ver por qué no podemos aspirar a la producción de complejas, modernas, comodidades tecnológicas para continuar en una sociedad anarquista, en cuanto que requieren destrucción ecológica, división del trabajo, y una pronunciada jerarquía.
+
+
+_(Un mayor recurso para la información fáctica presentada aquí es el libro Stuff: the Secret Lives of Everyday Things, de John Ryan y Alan During, publicado en Northwest Enviromental Watch. Este libro también trata sobre coches, imprentas de periódicos, camisetas, zapatos, y otros artículos de nuestras vidas diarias)._
+
+_(Meditadas respuestas, meditados insultos, y gritos de “¡elitista primitivista!” pueden ser dirigidos a Infidel Castrado c/o Crimethinc, REDACTED)_

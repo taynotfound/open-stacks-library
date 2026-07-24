@@ -1,0 +1,20 @@
+---
+title: "Hay Una Diferencia Entre Vida Y Supervivencia"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2000/09/11/hay-una-diferencia-entre-vida-y-supervivencia"
+---
+
+Más allá de lo que la ciencia médica profese, existe una diferencia entre Vida y supervivencia. Estar vivo significa más que simplemente experimentar latidos en el corazón y actividad cerebral. Estar vivo, realmente vivo, es algo mucho más sutil y magnífico. Sus instrumentos miden la presión arterial y la temperatura corporal, pero obvian el goce, la pasión, el amor, todas las cosas que hacen que la vida sea realmente importante. Para que nuestras vidas vuelvan a serlo, para realmente obtener lo máximo posible de ellas, debemos redefinir la vida misma. Tenemos que prescindir de sus meras definiciones clínicas, y dar lugar a unas que tengan más que ver con lo que en realidad sentimos.
+
+¿Tal como están las cosas, cuánto de vida tenemos en nuestras vidas? ¿Cuántas mañanas te levantas sintiéndote realmente libre, emocionado por estar vivo, esperando ansiosamente las experiencias de un nuevo día? ¿Cuántas noches te duermes sintiéndote satisfecho, recordando los sucesos de los últimos días con satisfacción? La mayoría de nosotros nos sentimos como si ya todo hubiera sido decidido sin nosotros, como si vivir no fuera una actividad creativa sino más bien algo que inevitablemente nos sucede a todos. Eso no es estar vivo, es solamente sobrevivir: estar no-muerto. Tenemos agentes funerarios, pero sus servicios normalmente no son requeridos; tenemos morgues, pero pasamos la mayoría de nuestro tiempo en oficinas y video juegos, en centros comerciales, enfrente de televisores. Por supuesto que la ama de casa y el ejecutivo de pacotilla están aterrorizados por el riesgo y el cambio; no pueden imaginar que no haya nada más valioso que la seguridad física. Sus corazones pueden estar latiendo, pero ya no creen más en sus sueños, ni mucho menos en perseguirlos.
+
+Pero así es como comienza la revolución: unos pocos de nosotros empezamos a perseguir nuestros sueños, quebrando los viejos modelos, abrazando fuertemente lo que amamos (y en el proceso descubriendo lo que odiamos), soñando, cuestionando, actuando por fuera de los límites de la rutina y la regularidad. Otros nos ven haciéndolo, ven a gente animándose a ser más creativa y arriesgada, más generosa y ambiciosa de lo que se habían imaginado posible, y uno por uno se van uniendo a nosotros. Una vez que suficiente gente adopta esta nueva forma de vida, un punto crítico es finalmente alcanzado, y la sociedad misma comienza a cambiar. A partir de ese momento, el mundo empieza a sufrir una transformación: del espacio temeroso y enajenante que actualmente es, a un lugar lleno de posibilidades, donde nuestras vidas estén en nuestras propias manos y cualquier sueño pueda convertirse en realidad.
+
+Entonces, haz lo que quieras con tu vida, ¡lo que sea! Pero para estar seguro de conseguir lo que deseas, primero piensa cuidadosamente sobre lo que realmente es, y como conseguirlo. Analiza el mundo a tu alrededor, entonces sabrás cuáles son las personas y las fuerzas que trabajan en contra de tus deseos, y cuáles son las que están de tu lado... y cómo puedes trabajar junto con nosotros.
+
+Estamos aquí fuera viviendo la vida al máximo, esperándote. Abordando trenes de carga hacia destinos desconocidos, robando máscaras antigas en Génova, cruzando fronteras a través de Latinoamérica con identificaciones falsas, traduciendo hermosos textos como éste bajo un muelle caribeño a la luz del amanecer. Acabamos de terminar de hacer el amor en el baño de tu empresa, justo un minuto antes de que comience tu media hora de almuerzo y entres en él...
+
+Y la Vida está esperando, con nosotros, por ti; en las cimas de las montañas aún no escaladas, en el humo de las fogatas y de los edificios en llamas, en los brazos de amantes que girarán tu mundo al revés.
+
+_¡Ven, únete a nosotros!_

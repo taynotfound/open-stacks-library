@@ -1,0 +1,8 @@
+---
+title: "The Ex-Worker #76: Anarchist Nurses Speak Out on Survival and Resistance"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/04/08/the-ex-worker-76-anarchist-nurses-speak-out-on-survival-and-resistance-interviews-with-anarchist-nurses-on-health-mutual-aid-survival-resistance"
+---
+
+[**Listen here**](https://crimethinc.com/podcasts/the-ex-worker/episodes/76). Here at [the Ex-Worker](http://crimethinc.com/podcast), we continue to navigate the COVID-19 crisis by seeking guidance and insight from three anarchist nurses who are working on the frontlines of the pandemic. First, we hear from an anarchist ER nurse from the southwest US who offers reflections on individual and community health, mutual aid projects, and how to stay safe through the epidemic. You’ll hear a brief discussion of the promise and peril of antibody testing and the concept of an [immunity passport](https://www.cnn.com/2020/04/03/health/immunity-passport-coronavirus-lockdown-intl/index.html). After that, we share a long conversation with two anarchist nurses from New Orleans, Louisiana on a wide range of topics, including harm reduction, how to support healthcare workers, the legacy of AIDS activism, delineating between authority and expertise, and lots more. We close out the show with urgent appeals of support for families at [Black Mesa](https://www.gofundme.com/f/NHFC19Relief) as well as incarcerated radicals , [Kijana Tashiri Askari](https://kijanatashiriaskari.wordpress.com/), [Leonard Peltier](https://www.whoisleonardpeltier.info/), [David Campbell](https://freedavidcampbell.com), and all prisoners trapped on the inside through the pandemic.
