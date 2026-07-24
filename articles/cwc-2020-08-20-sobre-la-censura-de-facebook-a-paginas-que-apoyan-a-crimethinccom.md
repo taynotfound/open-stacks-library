@@ -1,0 +1,26 @@
+---
+title: "Sobre la censura de Facebook a páginas que apoyan a CrimethInc.com"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/08/20/sobre-la-censura-de-facebook-a-paginas-que-apoyan-a-crimethinccom-y-la-censura-digital-por-venir"
+---
+
+Facebook ha cerrado múltiples cuentas en la plataforma [que creen están conectadas con](https://twitter.com/nickmartin/status/1296175961260482560) crimethinc.com y [itsgoingdown.org](https://itsgoingdown.org/), entre otros proyectos editoriales anarquistas y antifascistas, [oficialmente](https://about.fb.com/news/2020/08/addressing-movements-and-organizations-tied-to-violence/) con el pretexto de “apoyo a la violencia.” Lo cual no tiene relación con el verdadero objetivo de acabar con esta, pero si con socavar, terminar con movimientos sociales, y esfuerzos de gente ordinaria de organizarse en sus comunidades.
+
+Facebook siempre se ha promovido a si mismo como un ente que busca asistir a las personas en la creación de redes para satisfacer sus necesidades. Los representantes de Facebook [orgullosamente promovieron](https://www.facebook.com/EgyptThankYou/) su rol en la revolución de Egipto. La decisión de prohibir organizaciones del movimiento social demuestra que están dispuestos a jugar un papel para garantizar que las únicas formas de activismo emergentes sean aquellas beneficiosas para las autoridades de turno. Por meses, Donald Trump ha demandado esta persecución por medio de una serie de posts en redes sociales donde ha culpado a anarquistas y antifascistas por las protestas precipitadas por la persistente violencia en los Estados Unidos.
+
+[[https://twitter.com/nickmartin/status/1296175961260482560]]
+
+La definición de violencia no es neutral. De la manera en que Facebook determina la violencia, es legítimo que la policía mate a miles de personas cada año, al mismo tiempo que desalojan, raptan, y encarcelan a millones – es legítimo bombardear a civiles, mientras que el agresor represente a un gobierno oficial – pero es “violencia” el prevenir que supremacistas blancos ataquen a una multitud o devolver el gas lacrimógeno a la policía que lo disparó. Reprimir las voces de quienes buscan proteger a sus comunidades de la violencia institucional y supremacista blanca es una decisión deliberada de *normalizar* la violencia mientras quienes realmente la implementan están en posesión del poder institucional.
+
+Amontonar a anarquistas y antifascistas junto a milicias de ultra derecha que explícitamente apoyan al gobierno y especialmente a la administración de turno es una movida estratégica para alterar el asunto. Esta es la misma operación que William Barr realizó al crear el equipo del Departamento de Justicia especializado en “extremistas anti-gubernamentales” de cualquier tipo. En el caso del Departamento de Justicia, les permite apuntar a ataques de ultra derecha y milicias para así poder demandar recursos con los cuales reprimir a quienes se encuentran en los frentes defendiendo las comunidades ante estos ataques. Intentando así ocasionar el mismo efecto con activistas de Black Lives Matter, asociándoles con neo-Nazis y nacionalistas blancos como “extremistas racialmente motivados.”
+
+Luego de que un fascista asesinara a Heather Heyer durante la manifestación “La Derecha Unida” en Charlottesville, una gran presión popular surgió para remover a fascistas y supremacistas blancos de las plataformas de redes sociales. Esta vez, la presión viene desde la cima de la jerarquía, en un momento donde movimientos de protesta han sido esenciales en crear un diálogo sobre opresión y violencia estatal a lo largo del país. Este es un contra-ataque de quienes están al poder, hacia páginas web que publican perspectivas de quienes se movilizaron en contra de los fascistas en Charlottesville. No es coincidencia que esto ocurra luego de que Trump haya movilizado a fuerzas federales a Portland, Oregon, precipitando así semanas de conflicto. Mientras que grupos de extrema derecha continúan organizándose en Facebook y millones difunden una peligrosa desinformación sobre el COVID-19, Facebook activamente coopera con la administración de Trump para reprimir el disentimiento.
+
+No cabe duda de que si esto ocurre sin oposición no se detendrá aquí. Mientras más se normaliza que los gobiernos puedan determinar cuales voces pueden ser oídas en las plataformas de redes sociales, este tipo de censura penetrará más profundamente cada sector de la sociedad, moldeando más y más qué es posible pensar, qué es posible imaginar.
+
+Si te preocupa esto, por favor usa todo los medios a tu disposición para difundir este mensaje. Facebook no debería poder determinar en tu lugar qué constituye o no a un discurso responsable. Juntxs, en solidaridad, podemos crear un mundo mejor, en el que nadie deba temer que fascistas, gobiernos, o corporaciones multimillonarias repriman la libre expresión. 
+
+ [[https://cdn.crimethinc.com/assets/articles/2020/08/19/banned-on-facebook.jpg class:portrait]]
+
+*Otras de las cuentas de Facebook que fueron censuradas bajo esta misma excusa incluyen la del músico MC Sole, el escritor de Truthout Chris Steel, y un medio de noticias europeas, Enough Is Enough.*

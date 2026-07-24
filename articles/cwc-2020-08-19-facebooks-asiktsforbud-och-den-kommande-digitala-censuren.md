@@ -1,0 +1,28 @@
+---
+title: "Facebooks åsiktsförbud och den kommande digitala censuren"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/08/19/facebooks-asiktsforbud-och-den-kommande-digitala-censuren"
+---
+
+Under förevändningen att de är “våldsbejakande” har Facebook nyligen tagit ned ett flertal sidor och grupper [de tror är kopplade till](https://twitter.com/nickmartin/status/1296175961260482560) antifascistiska och anarkistiska medieprojekt, bland andra [crimethinc.org](https://crimethinc.com/) och [itsgoingdown.org](https://itsgoingdown.org/). Detta har självklart ingenting att göra med att hindra våld utan allt  att göra med repression mot sociala rörelser och de medieprojekt som  rapporterar om dem.
+
+I månader har Donald Trump i en serie inlägg på sociala medier begärt detta tillslag, inlägg som gått ut på att beskylla anarkister och  antifascister för den våg av protester som svept över landet i respons  mot det grova polisvåldet i USA. För ett decennium sedan stoltserade  Facebookrepresentanter öppet med plattformens roll i det egyptiska  upproret—Idag visar de istället hur ivriga de är i att springa maktens  ärenden i att skydda status quo.
+
+[[https://twitter.com/nickmartin/status/1296175961260482560]]
+
+Att definiera våld är aldrig något neutralt. Enligt Facebooks  definition är det inte våld när polisen mördar tusentals personer varje  år när de vräker, kidnappar och fängslar miljoner amerikaner—det är inte våld när en regeringsföreträdare beordrar att släppa bomber på  civila—men det är “våld” att förhindra nazister från att storma en  demonstration, eller att kasta tillbaka en tårgasbehållare mot polisen  som sköt den. Att kväva de röster som kämpar för att skydda sina  samhällen från institutionellt och rasistiskt våld innebär att *normalisera* våld så länge det utövas av en institutionaliserad makt.
+
+Att klumpa ihop anarkister och anti-fascister med högerextrema  beväpnade miliser som stöttar Trumpadministrationen kan inte kallas  annat än en desinformationskampanj. Det är samma strategi som Trumps  justitieminister William Barr ägnar sig åt när han grundade  justitiedepartementets nya specialstyrka mot “regeringsfientliga  extremister” som siktar in sig lika mycket på organiserade fascister som antifascister. I fallet med justitiedepartementet så möjliggör det dem  att peka på högerextrema våldsutövande miliser för att kräva resurser  att kuva precis de krafter som står i frontlinjerna för att skydda sina  samhällen och gemenskaper mot dessa milisers attacker. Barr och  Trumpadministrationen ger sig nu även ge sig på Black Lives Matter med  samma typ av skenmanöver genom att kalla dem “racially motivated  extremists” och således kunna likställa dem med nynazister.
+
+Efter mordet på antifascisten Heather Heyer av en självutnämnd  fascist vid demonstrationen mot mobiliseringen “Unite the Right” i  Charlottsville växte det en stark gräsrotsorganisering för att tvinga  bort fascister och vit makt-sidor från sociala medier. Nu kommer  istället krav på deplatformering från ett etablissemang som känner sig  pressat av en nationell dialog om statens våld och förtryck. Det här är  en motoffensiv mot de medier som publicerade perspektiv från Heather  Hayers kamrater i Charlottsville. Det är inte en tillfällighet att denna offensiv kommer i samband med att Trump [sätter in federala styrkor](https://crimethinc.com/2020/07/17/solidarity-with-the-people-in-the-streets-of-portland-against-the-federal-occupation-and-the-police) mot demonstrationerna i Portland. Det är inte heller en tillfällighet  att avstängningen sker bara dagar efter att en högerextrem talesperson  nämner just crimethinc.com och itsgoingdown.org som hot i ett [senatsförhör](https://www.judiciary.senate.gov/meetings/the-right-of-the-people-peaceably-to-assemble-protecting-speech-by-stopping-anarchist-violence).
+
+Medan högerextrema grupper tillåts fortsätta att organisera sig på  Facebook och skrida farlig desinformation om Covid-19 så följer Facebook istället Trumps pipa och tystar samhällskritik. Och märk väl, om detta  går obemött så kommer det inte sluta här. Dess då längre censuren av  sociala rörelser-nära media tillåts gå dess då djupare kommer sådan  censur att tränga in i varje vrå av samhället. Det kommer att börja  forma vad som är möjligt att tänka, och vad som är möjligt att drömma.
+
+Om det på något vis oroar dig så använd alla tillgängliga medel för  att sprida denna nyhet. Facebook bör inte kunna bestämma vad som utgör  ansvarsfull yttrandefrihet. Tillsammans, och i solidaritet, kan vi skapa en bättre värld. En värld där ingen med gott samvete ska behöva gå rädd för att fascister, regeringar eller internationella mångmiljardföretag  ska hota eller tysta dem.
+
+> CrimethInc. är det fria samhällets poeter och intellektuella. Om anarkistisk media har något  sammanhängande tema så är det drömmen om ett samhälle där organiserat  våld och hotet om systematiskt våld inte existerar. Ett samhälle där det grupper av män med påkar, vapen och bomber aldrig skulle kunna hota  andra. Det är inte bara en legitim politisk position, det är en vital  och nödvändig sådan. Ingenting är tänkbart med våldsamt än att berätta  för oss—och speciellt våra ungdomar—att vi är portade från att ens  drömma om en fridfull, omhändertagande, värld.
+>
+> David Graeber, författare till *Debt: The First 5000 Years,* och professor i antropologi vid London School of Economics. I respons till nyheten om Facebooks censur
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/19/banned-on-facebook.jpg class:portrait]]

@@ -1,0 +1,98 @@
+---
+title: "Resoconti dalla battaglia di Grant Park"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/07/21/resoconti-dalla-battaglia-di-grant-park-come-i-manifestanti-di-chicago-hanno-respinto-la-polizia-e-hanno-quasi-rovesciato-una-statua"
+---
+
+Il 17 luglio 2020, in seguito a una manifestazione svoltasi a Grant Park – luogo di [ orribili violenze perpetrate dalla Polizia ]( https://www.nytimes.com/2018/08/28/us/politics/chicago-1968-democratic-convention-.html ) durante la Convention Democratica Nazionale del 1968 - i dimostranti hanno messo nel sacco e sconfitto gli agenti di Polizia, guadagnandosi la possibilità di provare a rovesciare un'odiata statua di Cristoforo Colombo. Nei seguenti resoconti, i partecipanti analizzano le tattiche e le strategie dei manifestanti e le lezioni apprese durante il corso degli eventi.
+
+> “Non è una protesta pacifica. Questa è anarchia – e la metteremo in ginocchio." 
+>
+ > - La sindachessa di Chicago Lori Lightfoot, [ minacciando ] i manifestanti del 17 luglio per aver fatto ricorso a parte infinitesimale della forza che i poliziotti di Chicago impiegano impunemente ogni giorno. Ha continuato a vantarsi della "lunga storia di proteste pacifiche" di Chicago, esortando la popolazione a "seguire quella tradizione e cercare di trovare dei punti di contatto con gli altri". 
+
+[ Parti da qui ]( https://it.crimethinc.com/2018/09/10/each-crueler-than-the-last-on-statues-of-christopher-columbus-and-the-men-who-raised-them ) se sei curioso di scoprire perché la gente vorrebbe abbattere le statue di Cristoforo Colombo. [ Leggi questo ]( https://it.crimethinc.com/2018/08/21/tear-down-the-monuments-to-thieves-how-the-confederate-statue-came-down-in-chapel-hill ) per un resoconto del rovesciamento di un monumento confederato prima dell'attuale ondata di abbattimenti di statue.
+
+[[ https://player.vimeo.com/video/439438945?title=0&byline=0&portrait=0 Riprese aeree della prima metà della manifestazione. La polizia ha [ diffuso con entusiasmo ]( https://www.youtube.com/watch?v=AIqlMtmpKq8 ) le registrazioni della prima parte degli eventi ma sembra aver occultato le riprese della successiva brutalità della polizia. ]]
+
+***
+
+# La battaglia di Grant Park
+
+Venerdì 17 luglio, centinaia di manifestanti si sono scontrati con i poliziotti durante il tentativo di rovesciare il monumento a Cristoforo Colombo sito in Grant Park, nel centro di Chicago. La battaglia di Grant Park è stata uno degli attacchi con oggetti più conflittuali ed efficaci ai danni del Dipartimento di Polizia di Chicago degli ultimi decenni.
+
+Alle 17:00 di venerdì, un comizio di solidarietà nero e indigeno si è riunito a Buckingham Fountain, situata in Grant Park. Nel corso di un rituale indigeno, esibizioni rap e discorsi appassionati che chiedevano il taglio dei fondi e l'abolizione della Polizia e la decolonizzazione di Zhigaagoong, la folla è cresciuta fino a un migliaio di persone. Verso le 7 di sera, alla fine della manifestazione, la gente è scesa in piazza, riunendosi in formazione di marcia su Columbus Avenue per dirigersi verso la statua di Cristoforo Colombo a pochi isolati a sud della fontana. Il corteo, che non era stato preventivato, è stato immediatamente accolto dalla folla, mentre per i pochi agenti presenti è stato un fulmine a ciel sereno.
+
+Guidato in buona parte da giovani neri, latini e indigeni, il corteo è stato supportato da uno strepitoso sistema audio mobile e circondato da una serie di grandi striscioni rinforzati con tubi in PVC. Dietro gli striscioni, e mescolate tra la folla, una quarantina di persone ha aperto i propri ombrelli. La marcia è stata gioiosa, rumorosa e ben organizzata.
+
+Con l’approssimarsi del corteo verso la statua di Colombo, all’incirca 35 poliziotti in bicicletta hanno circondato il monumento. Non c’è da stupirsi che ciò sia avvenuto poiché, durante l’estate, la controversa figura coloniale è stata un obiettivo ricorrente dei manifestanti. Alla fine di maggio, entrambe le statue di Colombo presenti a Chicago sono state ripetutamente vandalizzate dai [ rivoltosi di Minneapolis ]( https://it.crimethinc.com/2020/06/10/lassedio-del-terzo-distretto-di-minneapolis-un-racconto-e-unanalisi ) . In risposta, la sindachessa Lori Lightfoot ha disposto che gli operai comunali avvolgessero la statua in plastica bianca, facendo sembrare il già vergognoso simbolo simile a un membro del KKK.
+
+I manifestanti sembravano preparati per la presenza della Polizia. Anziché avvicinarsi alla statua dalla strada, la folla ha virato a sinistra, uscendo dal percorso, per reimmettersi all’interno di Grant Park, fermandosi presso una zona collinosa leggermente boschiva adiacente alla statua di Colombo. Qui, a circa 140 metri a nord dal monumento, coloro che portavano gli striscioni si sono riorganizzati in una formazione a "U;" insieme a chi aveva gli ombrelli, hanno circondato una parte dei manifestanti, proteggendoli alla vista. Dopo due minuti, quando il corteo ha iniziato a muoversi ancora, sessanta black bloc si erano riuniti in pieno giorno nel mezzo della più grande città del Midwest.
+
+Il corteo si è mosso verso la statua, mentre il gruppo di black bloc appena formatosi veniva protetto da striscioni e ombrelli.
+
+Mentre il blocco raggiungeva la statua e la folla la circondava, ha avuto luogo uno scontro. I poliziotti hanno afferrato gli striscioni, rubandoli o rompendone parecchi; un agente ha utilizzato un pezzo di uno striscione rotto per [ tentare di picchiare i manifestanti ]( https://www.youtube.com/watch?v=AIqlMtmpKq8 ) . La gente è stata bersagliata da spray al peperoncino ed è stata presa a manganellate. In risposta, da dietro gli ombrelli, centinaia di lattine di acqua La Croix hanno iniziato a essere lanciate sugli agenti, colpendone alcuni in faccia.
+
+[[ https://twitter.com/DominicGwinn/status/1284285480587206658 ]]
+
+Gente di ogni tipo stava afferrando lattine di La Croix a destra e a manca. Un oppositore solitario ha urlato: "Non ci si comporta così" ma sembrava l’unico a percepire la situazione in questo modo. Sembrava che tutti gli altri capissero che ciò che stava accadendo avesse a che fare con il lavorare insieme verso l'obiettivo comune di abbattere la statua. Nel mood predominante, nessuno ha tentato di distinguere tra manifestanti "buoni" e manifestanti "cattivi." Era come se tutti i presenti fossero d'accordo sul fatto che i pubblici ufficiali fossero… la Polizia.
+
+La raffica di lattine di La Croix ha sommerso i poliziotti. Quando, oltre a queste, gli ufficiali hanno iniziato a essere raggiunti da alcuni petardi, sono capitolati, lasciando la statua in mano ai manifestanti. La folla ha strappato la plastica che la ricopriva e l’ha tappezzata di tag "BLM,” "ACAB," "FTP" e "La Croix the cops.” Altri hanno continuato ad allontanare ulteriormente gli agenti dalla statua. Chi poteva, usava la propria bicicletta come scudo per se stesso e per gli altri. Qualcuno ha mantenuto la posizione mettendo in pericolo la propria vita nonostante l’incessante violenza della Polizia.
+
+Nel frattempo, sul piedistallo del monumento, sono stati fatti svariati tentativi per fissare una corda da arrampicata intorno al braccio teso della statua. Una volta rivelatasi inadatta, un coraggioso compagno è emerso dalla folla e ha scalato la statua a mani nude, stringendo la corda in mezzo ai denti. Dopo essere saliti sull'idolo colonialista, hanno assicurato le corde intorno al braccio. Quando è stato disteso orizzontalmente al di sotto di coloro che si erano arrampicati per attutirne un’eventuale caduta, ciò che rimaneva dello striscione ha ricoperto il suo quarto ruolo della giornata. Scendendo, lo scalatore si è fatto cadere sulla rete di sicurezza offertagli da coloro che, con lo sguardo adorante, stavano sorreggendo lo striscione. Le corde, ora attaccate alla statua, sono dispiegate e vengono formate due squadre per lanciarle in alto. Nel frattempo, gli agenti sono stati più volte cacciati dalla zona in modo tale che altri potessero concentrarsi sul tirare le corde.
+
+Mentre continuava a tentare di rovesciare la statua, la folla ha protetto l'area a lungo. In quest’arco temporale, i manifestanti hanno riportato svariate lesioni mentre i poliziotti hanno continuato a utilizzare spray al peperoncino e forza bruta. Gli sbirri hanno preso di mira chi aveva delle bici, rubandone oltre 100. Una giovane organizzatrice, che aveva precedentemente parlato durante la manifestazione, stava filmando gli agenti intenti a picchiare un dimostrante quando è stata attaccata riportando la rottura degli incisivi. Sono circolate notizie contrastanti sul numero di poliziotti feriti; presumibilmente, ne sono rimasti feriti 45, e 18 sono finiti in ospedale, anche se non sappiamo quanti di queste fossero lesioni offensive subite come conseguenza del tentativo di ferire gli altri.
+
+Grazie ai rinforzi, i poliziotti sono riusciti a riconquistare la zona ricorrendo anche a enormi quantità di spray al peperoncino con il quale hanno causato accessi di tosse e sensazione di soffocamento tra la folla. Dopo aver riportato parecchie ferite ed essendosi resa conto di aver fatto tutto tutto ciò che era in suo potere, la gente si è presa sottobraccio e si è ritirata verso Buckingham Fountain, dove si riunì e si disperse in sicurezza. Secondo i rapporti, dodici manifestanti sono stati arrestati per poi venir rilasciati sabato.
+
+Pur non essendo riuscita ad abbattere la statua, la folla ha dimostrato di aver appreso una serie di lezioni nel corso di questo movimento. Le persone si sono mosse insieme in modo da consentire a vari elementi di agire fidandosi delle persone che avevano intorno, fidandosi nel momento e fidandosi della giustizia delle loro azioni. A fine della serata, la statua era ancora in piedi ma la determinazione che aveva inizialmente animato il gruppo era ancora palpabile. Avevano bisogno di corde più forti, migliori attrezzi da arrampicata, forse inviti più espliciti per aiutare a tirare le corde. Ma, soprattutto, era diventato chiaro che se le persone vengono preparate e rimangono determinate, possono affrontare il Chicago Police Department.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/07/21/3.jpg ]]
+
+***
+
+# Decolonizzare Zhigaagoong: prospettiva interna di un esterno
+
+Una protesta davvero efficace è quella che sconvolge, disturba o danneggia lo status quo. Quelle sono i tipi di azioni che ottengono una risposta sotto forma di concessioni da parte dello Stato, delle riforme. Pur non essendo questa una legge universale - potrebbero esserci delle accezioni -, è una teoria estremamente pertinente.
+
+Chicago, Illinois, vanta una lunga storia di proteste veramente efficaci. Tuttavia, di recente, vi sono state per lo più dimostrazioni poco efficaci. Lavorare in modo pacifico, conforme, con lo Stato anziché contro di esso; né sconvolgente né distruttivo né dannoso. Anche qui la [ fiamma di George Floyd ]( https://it.crimethinc.com/2020/06/17/istantanee-della-rivolta-racconti-di-tre-settimane-di-rivolta-nazionale ) è divampata ma, nella maggior parte dei casi, è sembrato che la Polizia avesse il controllo del flusso e della direzione delle azioni "efficaci." [^1] Sebbene gli organizzatori abbiano preparato percorsi, guide, slogan, oratori, artisti e così via, alla fine, la polizia ha diretto il traffico ed entrambi hanno guidato e seguito le dimostrazioni. A un certo punto, durante un corteo, la gente ha tentato di marciare sull'autostrada. Laddove c'erano meno di una decina di agenti, la manifestazione ha coinvolto centinaia e centinaia di persone. Gli ufficiali l’hanno vietato, quindi la marcia è proseguita oltre l'autostrada. Un altro corteo, intorno al Municipio, è stato guidato da un ufficiale che faceva dei cenni ai manifestanti.
+
+[^1]: Date un’occhiata in vista dell’imminente "The Loop Riot" (2020).
+
+Queste dimostrazioni non sembrano azioni contro lo Stato ma paiono un giro su una giostra. Una lenta.
+
+La decolonizzazione di Zhigaagoong è stata la prima manifestazione dell'anno a Chicago, almeno tra quello che ho visto io personalmente, non solo ben organizzata ma anche inaspettata. Avrebbe potuto ottenere dei risultati significativi, se non fosse stato per una piccola svista.
+
+La serata è iniziata verso le cinque del pomeriggio con il libero incontro di qualche persona. Alcuni vendevano del merchandise; un rabbino che avevo già visto, coinvolto con organizzatori o che si era organizzato da solo, stava parlando di fronte a una telecamera. La gente si aggirava nei pressi della fontana di Buckingham. Era una bella giornata, anche se un po' calda, soleggiata e con piccole nuvole screziate sullo sfondo blu dell’orizzonte di Chicago. Una performance di nativi americani ha preso vita e la folla vi ha partecipato in modo marginale. La gente stava aumentando; direi alcune migliaia.
+
+Poi sono intervenuti oratori: due li avevo già visti nel corso delle precedenti dimostrazioni di BLM e delle organizzazioni affiliate – uno di questi so che è un leader di BLM Chi. La folla ha continuato a crescere durante un'altra esibizione musicale alla quale è seguito un ultimo oratore.
+
+Ora chiedono che gli striscioni vengano spostati verso la parte anteriore. Sono grandi, forse alti un metro e mezzo, e molto larghi; ce ne sono di diversi formati ma i due più grandi sono fatti con tubi in PVC e una cerata tesa su di essi e fissata al tubo rettangolare. Gli altri sono meno robusti e meno imponenti ma richiamano lo stesso l’attenzione. Il corteo inizia con gli striscioni sul davanti. Proprio dietro di loro, i manifestanti stanno camminando con degli ombrelli. Questo non sta avvenendo in nessun altro blocco della marcia. Le persone indicano alcuni droni in cielo e ne diminuiscono il campo visivo coprendosi con gli ombrelli. Poiché ne sono stati portati di scorta, se ne vedono parecchi.
+
+Il corteo raggiunge Grant Park e, all'improvviso, vi entra. La statua di Colombo, avvolta in plastica a mo’ di protezione, si trova subito dopo un avvallamento. Chi porta gli striscioni si dispone da un lato, portando con sé un gruppo di manifestanti, e appare un altro striscione che ripara la parte posteriore del gruppo. All'interno di questo spazio, la gente si cambia, indossando abiti neri, barattandoli con striscioni e ombrelli. Una quarantina di persone sbucano vestite da black bloc. Superano una fila di altri dimostranti.
+
+Gli striscioni sono sul davanti; la gente predispone gli ombrelli in posizione intorno a loro, creando una sorta di falange che, inizialmente, è molto efficace. Il blocco si sposta verso la statua e verso il numero esiguo di agenti che si trovano lì, forse una ventina. Dalle retrovie della falange, la gente li bersaglia con lattine, bottiglie d'acqua piene, petardi e altri piccoli oggetti. I poliziotti, incerti sul da farsi e non avendo un fronte compatto, afferrano gli ombrelli e li colpiscono con dello spray prima di ritirarsi dalla statua in attesa dei rinforzi. Immediatamente, le persone iniziano a togliere la plastica dal monumento mentre altri manifestanti delimitano un perimetro. Quelli intorno alla statua si rendono conto di non poter rimuovere tutta la plastica, o non sanno come farlo. La coprono ancora e qualcuno inizia a tirare fuori la corda.
+
+Questa è la prima svista. Fino a ora, l'operazione è stata meravigliosa. Il perimetro è consolidato. Manifestanti pacifici sono compatti tra il blocco e la polizia. Dal lato più occidentale della strada di fronte alla statua, sembra quasi che ci siano più poliziotti in tenuta antisommossa che dimostranti. Dalla statua, sembra vero il contrario. Gli agenti stanno maltrattando alcuni manifestanti pacifici ma non stanno facendo uno vero e proprio tentativo per farsi largo in mezzo a loro. Stanno usando spray al peperoncino ma non lacrimogeni o proiettili di gomma.
+
+Purtroppo, la corda è troppo sottile, fatta di un materiale che si allunga troppo facilmente quando viene tirato. Se posizionata e tirata correttamente, potrebbe ancora bastare per rovesciare la statua. Qualcuno prova a gettarla sopra la statua cinque o sei volte; poi, dall'esterno del blocco, arriva un ragazzo che si arrampica sul monumento e ne afferra la copertura di plastica per avvolgere la corda intorno al braccio teso di Colombo. Questo si trova vicino alla cima della statua, che si estende sopra il bordo del piedistallo. Solo una corda si trova dove dovrebbe essere.
+
+Gli agenti, stanchi di barcamenarsi tra i manifestanti pacifici, si spostano intorno al lato sud del monumento. I black bloc e i manifestanti pacifici li seguono, rimanendo compatti. Gli ufficiali, invece, non lo fanno; qualcuno lancia lattine, bottiglie e pezzi di tubi che sorreggono gli striscioni. I poliziotti provano a correre verso il lato est ma il blocco li segue ancora; frustrati, iniziano a picchiare persone a caso.
+
+Un agente colpisce un ragazzo in testa, squarciandogliela. Il viso gronda sangue che gocciola sulla giovane che sta cercando di tirarlo dietro il cordone. La gente è ancora compatta, proteggendo le corde dall'avanzata dei poliziotti che, frustrati, si espongono troppo. Alcuni di questi sono improvvisamente circondati da alcuni manifestanti. Lattine e bottiglie vengono lanciate; gli ufficiali reagiscono e vengono picchiati con tubi e cartelli. Rimane loro una via di fuga, lontana dalla statua.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/07/21/2.jpg ]]
+
+La gente ricomincia a tirare la corda, i due lati lo fanno all'unisono. Una persona con una bandiera nera suggerisce che chi tira dovrebbe alternarsi e tirare da lati opposti - le due linee sono quasi parallele, distanti tra loro meno di venti metri - ma nessuno degli organizzatori lo sente. Mentre gli agenti si raggruppano, qualcuno ha in programma di avvolgere la statua con la corda per fare una leva maggiore ma è troppo tardi. I poliziotti si sono radunati e, mentre il blocco inizia a muoversi, si spostano in avanti. C'è una vera e propria nuvola di spray al peperoncino; il “paracolpi” di manifestanti pacifici si sgretola. Anche a una trentina di metri, lo spray raggiunge occhi e gola. Vedendo che i dimostranti pacifici si disgregano, quelli che si trovano intorno alla statua lasciano cadere le corde per poi battere in ritirata.
+
+Gli agenti riconquistano la statua e, picchiando e usando lo spray, costringono i manifestanti – in preda a tosse e conati, urlanti e qualcuno sanguinante - a scendere dalla collina. Si riuniscono ancora e tornano verso la fontana per disperdersi. Alcuni di loro si cambiano d’abito lungo la strada.
+
+Con gli strumenti e l'organizzazione adeguate, la statua sarebbe stata ribaltata sul marciapiede in poco tempo. Purtroppo, è ancora in piedi.
+
+Anche se l'azione non ha avuto successo, ciò non significa che non abbia portato a nulla. La comunità di attivisti di Chicago ha dimostrato che non accetterà la completa indifferenza della loro città per la vita umana, per la dignità umana e per i diritti umani - che sono disposti a lottare per ciò che è giusto e che ne sono anche capaci. Ogni successo è preceduto dal fallimento e ogni fallimento è una lezione.
+
+Quella sera al Grant Park, Chicago ha imparato diverse lezioni. È stata imparata una lezione sul proprio potere, sul proprio agire. È stata imparata una lezione sulla vulnerabilità dello Stato. È stata imparata una lezione sulla pianificazione e sull'organizzazione. È stata imparata una lezione sul fallimento - che anche la più piccola negligenza nei piani meglio studiati può rovinarli.
+
+Chicago sta imparando, non sta mollando.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/07/21/1.jpg ]]

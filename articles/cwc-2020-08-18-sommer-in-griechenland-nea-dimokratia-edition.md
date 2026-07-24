@@ -1,0 +1,169 @@
+---
+title: "Sommer in Griechenland: Nea Dimokratia Edition"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/08/18/sommer-in-griechenland-nea-dimokratia-edition"
+---
+
+In Griechenland geht nach dem Beitritt der Partei [Nea Dimokratia (Neue Demokratie)](https://de.crimethinc.com/2019/08/29/griechenland-der-neue-krieg-gegen-migrantinnen-und-anarchistinnen-ein-interview) und dem [Verbot](https://crimethinc.com/2020/07/15/greece-everything-is-coming-to-a-boil-looming-recession-the-ban-on-freedom-of-assembly-and-the-murder-of-vassilis-maggos-1) der Versammlungsfreiheit der schwelende Konflikt zwischen Anarchist:innen und der extremen Rechten weiter, auch mitten im Sommer. In diesem Bericht schreiben wir über die Gentrifizierung, die eskalierenden Spannungen mit der Türkei, die ökologischen Kämpfe, die Flüchtlings- und Gefangenensolidarität, die Räumung des historischen besetzten Terra Incognita-Hauses und mehr.
+
+*Dieses Update ist eine Adaption [des monatlichen Beitrags](https://www.a-radio-network.org/bad-news-angry-voices-from-around-the-world/episode-37-08-2020/) von RadioFragmata zum Podcast »Bad News Report«. Ihr könnt auch unsere Berichte vom [Mai](https://crimethinc.com/2020/05/15/greece-repression-and-resistance-during-the-pandemic), [Juni](https://crimethinc.com/2020/06/22/from-minneapolis-to-greece-fuck-the-police-a-month-of-ecological-prisoner-and-solidarity-struggles-in-greece) und [Juli](https://crimethinc.com/2020/07/15/greece-everything-is-coming-to-a-boil-looming-recession-the-ban-on-freedom-of-assembly-and-the-murder-of-vassilis-maggos-1) lesen.*
+
+***
+
+Die griechische Regierung und ihre Stiefellecker und Nutznießerinnen stolpern der Katastrophe entgegen. Die Wirtschaftskrise von 2008 wird bald als bequemere Zeit angesehen werden. Während Tourist:innen durch Griechenland wandern und Münzen in die Taschen der Bosse fallen lassen, kann sich in diesem Jahr nur die Hälfte der Gesellschaft einen Urlaub leisten – etwas, das im heißen griechischen Sommer als unverzichtbar gilt. COVID-19-Fälle sind auf Rekordhöhe. Die täglichen Infektionsraten sind viel höher als zu der Zeit, als das Land im März formell abgeriegelt war. Dennoch fährt der Staat fort, die Budgets der Krankenhäuser zu kürzen, um Gelder an die Polizeibehörden umzuleiten, wodurch er sich auf seine menschlichen Gegner:innen konzentriert und nicht auf das Virus.
+
+In Griechenland, wie auch anderswo auf der Welt, kämpfen Revolutionäre, Ausgeschlossene und Ausgebeutete sowohl materiell als auch psychologisch mit der Selbsterhaltung angesichts der Zeitlupen-Apokalypse COVID-19 und dem rechten Polizeistaat. Während neue Maßnahmen in Kraft treten und ein zweiter Lockdown wahrscheinlich erscheint, finden wir Kraft im Verständnis, dass sowohl unsere Prekarität als auch der Kampf dagegen weltweit geteilt werden. Der Kampf hier ist tief verwurzelt in der Unzufriedenheit unzähliger schöner Herzen und einer Geschichte in den Straßen: »Selbst wenn wir niemals gewinnen, werden wir immer kämpfen!«
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/8.jpg]]
+
+# Immigration
+
+Formelle staatliche Angriffe und informelle faschistische Übergriffe gehen parallel in ganz Griechenland weiter. Der weltberühmte Basketballspieler Giannis Antetokounmpo diskutierte kürzlich über die Härten des Aufwachsens von Schwarzen in Griechenland im Lichte von Black Lives Matter; tatsächlich erhielt er die Staatsbürgerschaft erst, als er in die NBA eingezogen wurde – viele Menschen, die in Griechenland als Einwanderer:innen oder in nicht-weißen Familien geboren wurden, erhalten die Staatsbürgerschaft nie. Als Antwort auf seine Kommentare nannte ein hochrangiges Mitglied des Bildungsministeriums, Konstantinos Kalemis, Antetokounmpo in einem Tweet einen »Affen« und »N--r«. Zur gleichen Zeit antwortete der Bürgermeister von Aspropyrgos, Nikos Meletiou, der für den Abriss der Häuser von 100 Roma-Familien kritisiert wurde, dass er »nicht die Häuser der Leute demoliert« habe, er »brachte einfach den Müll raus«.
+
+Am 4. August wurde ein Mann aus Kamerun am Bahnhof Lianokladi von einem Mob angegriffen. Er war auf dem Weg mit dem Zug nach Lamia, als er erwähnte, dass er bereits das COVID-19-Virus gehabt hatte. Er wurde mit Gewalt bedroht, in den hinteren Teil des Zuges gedrängt und an der folgenden Station aus dem Zug geworfen. Anarchist:innen in der Region veranstalteten eine Demonstration [an dem Bahnhof, an dem dies geschah](https://www.alerta.gr/archives/7297).
+
+Die Flüchtlinge kommen weiterhin auf den Ägäischen Inseln an, nur um von Obdachlosigkeit bedroht zu werden, wenn sie Asyl beantragen, und erhalten Druck, damit sie nicht über ihre Bedingungen mit denen kommunizieren, die sie unterstützen könnten. Als Folge der fortgesetzten Maßnahmen, die die Bemühungen der Hilfskräfte erschweren, werden viele ankommende Flüchtlinge nicht von helfenden Händen empfangen, sondern von staatlichen Kräften oder rücksichtslosen Landwirt:innen, die nach billigen Arbeitskräften suchen. Die Einwanderer:innen sehen sich abscheulichen Arbeitsbedingungen auf den brutal heißen landwirtschaftlichen Feldern Griechenlands gegenüber.
+
+In den letzten Monaten haben Unterstützungsgruppen Dutzende Fälle dokumentiert, in denen griechische Grenzbehörden Rettungsflöße und Schlauchboote von Flüchtlingen aus den griechischen Gewässern eskortiert und im Meer ausgesetzt haben. [Offiziell](http://iexclusivenews.com.ng/blog/2020/08/15/greece-secretly-sent-away-more-than-1000-migrants-abandoning-them-on-the-open-sea/) sind mehr als tausend Flüchtlinge in der Ägäis gestrandet; wir gehen davon aus, dass die tatsächliche Zahl viel höher liegt. Die griechischen Grenzbehörden haben die Flüchtlinge nicht nur auf türkisches Gebiet zurückgedrängt, sondern sind sogar so weit gegangen, auf Schlauchboote zu schießen. Die Reise ins Asyl ist schon gefährlich genug; diejenigen, die dieses Risiko eingehen, zurück auf den Ozean zu zwingen, erhöht die Chance zu ertrinken. Selbst nach dem eigenen staatlichen Protokoll verstößt dies gegen die auf internationaler Ebene festgelegten Asylgesetze.
+
+Den Flüchtlingslagern mangelt es immer noch an grundlegender Hygiene, um die Ausbreitung von COVID-19 zu begrenzen; sie sind abgeriegelt und die Bewohner:innen werden als entbehrlich behandelt. Um diese Virusausbrüche zu verbergen, haben viele Lager damit begonnen, Unterstützenden den Zutritt zu verwehren. Dies schneidet eine dringend benötigte Rettungsleine ab, da viele Flüchtlinge in den Lagern in ganz Griechenland auf die Hilfe von Freiwilligen angewiesen sind und nicht auf die wenigen staatlichen Programme, die es gibt. Mit dem Virus als Vorwand, um den Ausschluss von Besucher:innen zu rationalisieren, hat der Staat den Fluss der benötigten Vorräte blockiert und die Stimmen derer, die sich in den Lagern aufhalten, zum Schweigen gebracht.
+
+In der Zwischenzeit konkurrieren Baufirmen um einen Vertrag über 132.680.000 Euro, um drei neue Flüchtlingslager auf den Inseln Samos, Leros und Kos zu errichten. Dies bietet die Möglichkeit zur Geldwäsche; zweifellos wird dieses Bauprojekt bei der Sicherheit der Flüchtlinge sparen und den Gewinn der Bauunternehmen in den Vordergrund stellen.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/7.jpg Flyer, die von Anarchist:innen am Bahnhof von Lianokladi verteilt wurden. class:portrait]]
+
+Wie in unserem [vorherigen Bericht beschrieben](https://crimethinc.com/2020/07/15/greece-everything-is-coming-to-a-boil-looming-recession-the-ban-on-freedom-of-assembly-and-the-murder-of-vassilis-maggos-1), hat eine Kampagne der Vertreibung und des Terrors Immigrant:innen und Flüchtlinge ins Visier genommen, die sich auf dem Victoria-Platz im Zentrum Athens versammeln. Die faschistische Partei Golden Dawn und ihre Sympathisant:innen schlossen sich anderen Gruppen an und riefen dazu auf, den Platz »zurückzuerobern«. Sie behaupteten offen, dass sie gegen die »Vielfalt« im Park protestierten und riefen zu ethnischen Säuberungen auf, um die griechische Reinheitsrhetorik zu verteidigen, die typisch für die griechisch-christliche Rechte ist. Ein Flyer für die Demonstration zur »Säuberung des Platzes« zeigte Bilder von People of Color, die abhingen, und Frauen in Hijab, die lächelten.
+
+Dem Aufruf folgten am 15. Juli ein paar Dutzend Faschist:innen, die sich in der Nähe des Platzes versammelten – ihnen standen Hunderte Antifaschist:innen kampfbereit gegenüber. Die Bereitschaftspolizei und andere staatliche Stellen schützten die Faschist:innen und veranschaulichten einmal mehr die Beziehung zwischen dem Staat und den Faschist:innen; nach einigen Stunden griff die Polizei die antifaschistischen Demonstrierenden, die den Platz blockierten, an und vertrieb sie schließlich. Während der ganzen Veranstaltung konnte man die Polizei sehen, wie sie die Faschist:innen zur Beruhigung ermutigte und ihre Unterstützung für sie zum Ausdruck brachte. Am Ende eskortierte die Polizei die Faschist:innen auf den Platz. Zerstreute Antifaschist:innen versuchten, die nahegelegenen Straßen zu blockieren und den Verkehrsfluss zu stören; die Polizei reagierte, indem sie Tränengas in die Menge warf und zwei Personen verprügelte und verhaftete. [Nachfolgendes Videomaterial](https://www.facebook.com/eleftheria.koumandou/posts/10157484141872544) zeigt deutlich, wie die Polizei Waffen in ihre Taschen legt, um die Schläge und die Verhaftung zu rechtfertigen. Die Delta-Polizei, die sie festnahm, traf nur wenige Vorkehrungen, um zu verbergen, was sie taten, selbst als sie gefilmt wurden; im gegenwärtigen politischen Klima ist ein solches Video vielleicht nicht einmal von Bedeutung. Die Verhafteten sehen sich derzeit verschiedenen Anklagen und einem langen Prozess gegenüber; ihnen wurde verboten, an Demonstrationen teilzunehmen oder »Exarchia zu besuchen«. Nea Dimokratia appelliert an die gemäßigte Rechte der Europäischen Union und die griechische Mittelschicht, während sie konsequent Golden Dawn und andere offen faschistische Elemente ihrer Basis unterstützt.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/2.jpg Während der Pattsituation um den Victoria-Platz. class:portrait]]
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/1.jpg Während der Pattsituation um den Victoria-Platz. class:portrait]]
+
+Antifaschist:innen zeigen weiterhin Solidarität mit denen, die in Victoria wohnen. Die Bemühungen, den Platz gegen Faschist:innen zu verteidigen, gehen weiter, zusammen mit den Versuchen, neue Bänke und Infrastruktur auf dem Platz aufzustellen, da der Staat die vorherigen entfernt hat.
+
+Es kursieren Berichte, dass die Gefangenen des Abschiebeknastes Petrouralli in Athen einer Kampagne des sexuellen Terrors durch die Wachen und das Personal ausgesetzt sind. Frauen, die medizinische Hilfe anfordern, wurden sexuell missbraucht, während sie in Einrichtungen eskortiert wurden, in denen es weniger Überwachung gibt. Frauen, die sich gegen die Wachen organisiert und versucht haben, Geschichten mit der Außenwelt zu teilen, wurden dafür bestraft – in einem Fall wurde eine Gruppe von Frauen mit Durchsuchungen ihrer Gefangenenbereiche überrascht und in andere Haftanstalten in ganz Griechenland verlegt. Die Vorwürfe sexueller Übergriffe gegen das Personal der Haftanstalt haben sich so weit verbreitet, dass die internen Angelegenheiten des Gefängnisses eine gestellte Untersuchung durchgeführt haben. Dennoch arbeiten alle der sexuellen Übergriffe und Einschüchterungen beschuldigten Wärter dort weiter, als ob nichts geschehen wäre.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/3.jpg Das Gefangenenlager für Einwanderer:innen in Petrouralli.]]
+
+# Räumungen
+
+In den frühen Morgenstunden des 17. August hat die Polizei in Thessaloniki das historische [besetzte Haus Terra Incognita geräumt](https://mpalothia.net/greece-announcement-by-terra-incognita-regarding-today-s-eviction/). Diese [Räumung](https://athens.indymedia.org/post/1606736/) wurde mitten im Sommer durchgeführt, in der Annahme, dass viele Unterstützer:innen gerade in den Ferien außerhalb der Stadt sein würden. Terra Incognita wurde 2004 gegründet und hat verschiedene Konzerte, Versammlungen und Projekte veranstaltet, die den breiteren anarchistischen und revolutionären Gemeinschaften von Thessaloniki dienen.
+
+[[https://twitter.com/exiledarizona/status/1295298585077133313]]
+
+Einige Stunden später [protestierten 100 Leute](https://www.facebook.com/anarxikh.hxorupansh/photos/pcb.3167648816649775/3167641919983798/), gefolgt von einem Protest [von 400 Leuten am Abend](https://www.facebook.com/siopieinaisunenoxh/photos/pcb.176826053881871/176825360548607/).
+
+Andere besetzte Häuser im ganzen Land bleiben in höchster Alarmbereitschaft. Mehr als acht Monate sind seit der vom Staat gesetzten Frist für die Mietvertragsunterzeichnung oder die drohende Räumung vergangen. Die Polizei droht weiterhin die Hausbesetzungen in den großen Städten und auf Inseln wie Korfu und Kreta. Besetzte Häuser, die Einwanderer:innen und Flüchtlinge beherbergen, wie Notara in Exarchia, haben von wiederholten Schikanen durch die örtliche Polizei berichtet. Im ganzen Land gibt es weiterhin Transparente, Demonstrationen und Graffiti-Kampagnen zur Unterstützung dieser Hausbesetzungen.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/9.jpg Die weltberühmte Terra Incognita vor ihrer Räumung. class:portrait]]
+
+# Ökologie
+
+Mitte August warnte eine Textnachricht des Staates vor einem Flächenbrand in der Nähe einer Plastikfabrik und forderte die Menschen auf, ihre Fenster geschlossen zu halten, da die Luft zum Atmen zu giftig werden könnte. Dies ist ein Vorgeschmack auf die Zukunft in Griechenland.
+
+Bauunternehmer:innen in Griechenland haben lange Zeit Brände genutzt, um Wälder für die Entwicklung abzuholzen. In Verbindung mit dem Klimawandel sind Brände eine ständige und zunehmende Bedrohung für das Land und die Menschen hier. Ende Juli wurden viertausend Menschen aus ihren Häusern vertrieben, als ein zwanzig Kilometer langes Gebiet neben dem größten Waffenlager des Landes in Brand geriet. [Einige anarchistische Gruppen organisieren sich](https://www.alerta.gr/archives/7148), um Waldbrände zu verhindern, wo der Staat nicht will.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/5.jpg Anarchist:innen, die sich gegen Waldbrände und ökologische Verwüstung organisieren.]]
+
+Eine Umweltbewegung wächst im ganzen Land so schnell, wie kapitalistische Bauträger:innen versuchen, das Land zu verkaufen. Die Besetzung eines städtischen Gebäudes in Athen am 28. Juli hat die Aufmerksamkeit auf Pläne zur Abholzung eines lokalen Berges namens Immotos gelenkt, einem der wenigen Orte, der in der Umgebung der Stadt natürlichen Schutz bietet. Die Besetzung machte die Bedrohung publik; und fürs Erste wurden die Pläne zur Abholzung des geliebten Berges ausgesetzt.
+
+Kampagnen zum Schutz des Süßwassers gegen Unternehmen wie Nestle gewinnen in Regionen wie Pelion weiter an Boden. Die Kampagne, die [in einem früheren Bericht](https://crimethinc.com/2020/06/22/from-minneapolis-to-greece-fuck-the-police-a-month-of-ecological-prisoner-and-solidarity-struggles-in-greece) über das Dorf Stagiates erwähnt wurde, geht weiter. Gemeinden in der Region Mesochora in Trikala sehen sich mit Räumungsbefehlen des staatlichen griechischen Elektrizitätsunternehmens konfrontiert, das dort einen Staudamm für Wasserkraftwerke ausbauen will. Die Menschen haben bereits begonnen, sich gegen die Bedrohung zu mobilisieren.
+
+Da der Tourismus zurückgeht, beabsichtigt die neue Regierung, die Plünderung der zuvor geschützten Wildnis zu intensivieren. Anarchistische und antiautoritäre Bewegungen beginnen die Notwendigkeit einer ökologischen Bewegung zu erkennen. Am 29. und 31. Juli haben Menschen in Athen die Firmensitze der Firmen ENTEKA SA in Chalandri und Erren Hellas auf der Akropolis mit Hämmern und Farblöschern angegriffen, um sich mit denjenigen solidarisch zu zeigen, die die Berge gegen den Bau von Windkraftanlagen in ganz Griechenland verteidigen, und um eine Botschaft zu senden, dass eine militante ökologische Bewegung unverzichtbar ist.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/6.jpg Ein Protest am Staudamm von Mesochora.]]
+
+# Sexuelle Gewalt
+
+Die griechisch-orthodoxe Kirche hat immer dazu gedient, das Patriarchat und die sexuelle Gewalt zu bewahren. Die Pandemie hat die Situation noch verschlimmert. Einige Leute haben [ein Projekt](https://www.facebook.com/SexHarassMap/) in Angriff genommen, um die Vorkommnisse von Sexismus und sexueller Gewalt zu kartieren.
+
+
+# Rest in Power, Vassilis Maggos
+
+Wie [in unserem letzten Bericht beschrieben](https://crimethinc.com/2020/07/15/greece-everything-is-coming-to-a-boil-looming-recession-the-ban-on-freedom-of-assembly-and-the-murder-of-vassilis-maggos-1), wurde der Anarchist Vassilis Maggos während einer Demonstration, bei der er sich mit den Verhafteten solidarisierte, die bei Protesten gegen eine Zementfabrik in Volos verhaftet worden waren, von der Polizei brutal zusammengeschlagen. Nach einem öffentlichen Aufschrei über den Tod des 26-Jährigen beschlagnahmte die Polizei seine Leiche bei seiner Familie, damit die Polizei ihre eigene Gerichtsmedizinerin einsetzen konnte. Die Polizei hat Eleni Kalyva für die Autopsie hinzugezogen – sie ist eine bekannte Verbündete, die die Polizei wiederholt eingesetzt hat, um kontroverse Fälle zu untersuchen, in denen die Beamt:innen möglicherweise schuldig waren. Es ist bekannt, dass sie faschistische Sympathien und eine enge Beziehung zur derzeitigen Regierung hat.
+
+Eleni Kalyvas Schlussfolgerung war, dass Vassilis an einem akuten Lungenödem gestorben ist. Die Polizei behauptet, dass dies nicht auf die Schläge zurückzuführen ist; die vollständige Untersuchung wurde jedoch nicht veröffentlicht, und seine Familie sucht Hilfe von außen. Vassilis verbrachte die letzten Wochen seines Lebens damit, sich von den Schmerzen und dem Trauma der Schläge durch die Polizei zu erholen. Anhand eines bekannten Manuskripts haben rechte soziale Medien persönliche Themen wie Drogenkonsum angeführt, um zu suggerieren, dass Vassilis für seinen eigenen Tod verantwortlich war. Selbst wenn Drogenkonsum etwas mit seinem Tod zu tun hatte, war das Trauma, von der Polizei geschlagen und gefoltert worden zu sein, eindeutig die Ursache für seinen tragischen Tod, und Drogenkonsum oder andere Probleme schmälern die Verantwortung der Polizei nicht.
+
+Die Polizei brachte Eleni Kalyva auch dazu, den Mord an einem Mädchen in Trikala Ende Juli zu untersuchen, als ein 16-jähriges Mädchen, von dem bekannt war, dass es eine Beziehung zu einem Polizisten hatte, tot vor einer Kirche aufgefunden wurde. Kalyva wurde hinzugezogen, um ihren Tod zu untersuchen, nachdem der Verdacht im Umlauf war, dass das Mädchen von ihrem Polizistenfreund ermordet wurde. Nun wird uns gesagt, dass das Mädchen auf die Spitze der Kirche geklettert ist und sich selbst getötet hat – was angesichts der Details der Situation eine überraschende Leistung wäre, aber Kalyva bestätigte die Behauptungen der Polizei.
+
+Anarchist:innen und antifaschistische Fußballfans haben in ganz Griechenland Wandmalereien, Transparente und Graffitis angebracht, die an Vassilis Maggos erinnern. Ein Molotow-Cocktail-Angriff auf ein Regierungsgebäude in Volos fand in seinem Namen statt, sowie ein [Brandanschlag](https://actforfree.nostate.net/?p=38556) auf eine [Bank in Marroussi, Athen](https://www.amwenglish.com/articles/arson-attack-on-national-bank-in-athens-greece/). Mensch wird sich an ihn erinnern.
+
+# Spannungen mit der Türkei
+
+Während Griechenland immer tiefer in die Wirtschaftskrise abgleitet, entsteht ein ironisches Verhältnis der Möglichkeiten zwischen Premierminister Kyriakos Mitsotakis und dem türkischen Präsidenten Recep Tayyip Erdoğan.
+
+Kriegsspiele im Mittelmeer eskalieren, während regionale Mächte um die Entdeckung von Öl in der Ägäis wetteifern. Die Umwandlung der Hagia Sophia, die von der Unesco zum Weltkulturerbe erklärt wurde, in eine Moschee hat die Spannungen ebenfalls verschärft. Beides hat dazu beigetragen, die rechten Basen der griechischen und türkischen Staatsoberhäupter abzulenken und zu ermutigen, indem der Nationalismus dazu benutzt wurde, die Aufmerksamkeit von den wirtschaftlichen Härten, die den Menschen in Griechenland und der Türkei zugefügt wurden, abzulenken.
+
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/10.jpg Flyer, die von Anarchist:innen am Bahnhof von Lianokladi verteilt wurden: »Das Machotum der Sicherheitskräfte reicht da hin, wo der Schlagstock der Polizei nicht hinreicht«. class:portrait]]
+
+# Unterdrückung
+
+Die Solidaritätsversammlung für Gefangene, Flüchtlinge und verfolgte Kämpfer:innen organisierte am 20. Juli eine Demonstration im Korydallos-Gefängnis in Athen. Die Demonstrierenden hielten eine Stunde lang vor dem berüchtigten Gefängnis die Stellung, warfen Flugblätter und sangen, um auf die Bedingungen in den Gefängnissen in ganz Griechenland aufmerksam zu machen, auf die Pläne der Regierung, ein neues Gefängnis in den Ruinen der Flüchtlings- und Roma-Lager zu errichten, und auf die Gefahr, die COVID-19 für die Gefangenen darstellt.
+
+Der Zugang zu ausreichend Wasser ist im Gefängnis von Grevena zu einem Problem geworden, während die Gefangenen mitten in der Pandemie Schwierigkeiten haben, eine angemessene Hygiene aufrechtzuerhalten. Ärzt:innen sind in den griechischen Gefängnissen nach wie vor Mangelware, was viele dazu veranlasst, sich zu fragen, wie hoch die wahre Zahl der COVID-19-Infektionen hinter Gittern ist, da viele, die krank werden oder sterben, nie medizinisches Personal sehen.
+
+Im Gefängnis von Korydallos gab der anarchistische politische Gefangene Dinos Giagtzoglou am 14. August eine [Solidaritätserklärung](https://athens.indymedia.org/post/1606659/) ab, in der er seine Unterstützung für die [chilenischen Angeklagten Monica Caballero und Francisco Solar](https://crimethinc.com/2020/07/28/repression-in-chile-and-why-it-matters-in-the-united-states) zum Ausdruck brachte.
+
+Vangelis Stathopoulous, ein Langzeit-Gefangener, der beschuldigt wird, Mitglied der Gruppe Revolutionary Struggle zu sein, wurde für den 24. Juli zu einem Auftritt vor dem Berufungsgericht in Athen eingeplant. Nur um ihm dann den Zugang zu seinen Anwält:innen zu verweigern und ihn schnell in seine Gefängniszelle in Larissa, vier Autostunden entfernt, zurück zu bringen. Es wird vermutet, dass es dabei darum ging, diesem politischen Gefangenen psychologischen Druck auszusetzen, während er darum kämpft in Berufung gehen zu können.
+
+Am 16. September werden die anarchistischen Angeklagten Giannis Dimitrakis, Kostas Sakkas und Dimitra Syrianou in Thessaloniki vor Gericht gestellt, die des versuchten Raubüberfalls auf eine Bargeldlieferung an einem Geldautomaten beschuldigt werden. Sie wurden im Juni 2019 nach einer organisierten Operation verhaftet, die einen Hinterhalt der Antiterror- und EKAM-Truppen umfasste. Die Angeklagten haben im Zuge ihres prinzipiellen Engagements für den anarchistischen Kampf bereits Inhaftierungen, Schussverletzungen, Folter, Gefängnisaufstände, Hungerstreiks, Haftbefehle und dann Verhaftungen und neue Inhaftierungen erlebt. Aufgrund der Pandemie sind Konzerte und andere Spendenaktionen nicht möglich, deshalb hat die Bewegung einen [Firefund](https://www.firefund.net/solidarity2020) zu ihrer Unterstützung eingerichtet.
+
+Neue Maßnahmen treten in Kraft, um die Überstellung von Gefangenen, die als Terrorist:innen gelten, zu verhindern. Diese Strategie soll zusätzliche Hürden für politische Gefangene schaffen, vor allem für anarchistische und illegalistische Gefangene, die sich in Gefängnisse in der Nähe ihrer Familien überstellen lassen oder hinter Gittern studieren wollen.
+
+In Griechenland ist es Gefangenen bei guter Führung erlaubt, an Wochenenden aus dem Gefängnis heraus Familie und Freund:innen zu besuchen. Die derzeitige Regierung versucht, diese Tradition auszurotten, insbesondere für politische Gefangene und solche, die als politische Feinde betrachtet werden, indem sie neue Hürden einführt, um zu verhindern, dass Gefangene die Erlaubnis für einen Hafturlaub erhalten. Politischen Gefangenen wie Dimitris Koufodinas von der Gruppe N17 wurde jegliche Möglichkeit eines Hafturlaubs verweigert. Dies ist Teil eines umfassenderen Anspruchs, das griechische Gefängnissystem zu »modernisieren«, was die Reduzierung der Mittel für Hygiene und soziale Dienste für Gefangene und eine Erhöhung des Budgets für die Infrastruktur und das Personal der Gefängnisse beinhaltet.
+
+# Gentrifizierung
+
+Airbnb ist eine Hauptursache für die Gentrifizierung auf der ganzen Welt. Es war auch eine treibende Kraft in der Kampagne, Exarchia von »unerwünschten« Elementen zu säubern und hat sich dafür eingesetzt, Griechenland unabhängig von der Pandemie wieder für den Tourismus zu öffnen. Die Pandemie hat einen Tribut von Airbnb in Griechenland gefordert, aber das Unternehmen ermutigt ihre Nutznießenden immer noch, neue Häuser zu kaufen und an bestehendem Eigentum festzuhalten, unter der Prämisse, dass die Unterbrechung des Tourismus nur temporär ist. Am 12. August zerschlugen Leute die Fenster der Büros eines privaten Unternehmens, das Airbnb-Immobilien in der Nachbarschaft von Pagrati verwaltet, und schickten damit eine Botschaft an diejenigen, die Athen in einen Zoo für Tourist:innen verwandeln wollen. Graffitis gegen Airbnb sind in Griechenland weit verbreitet.
+
+Der Staat experimentiert mit neuen Maßnahmen im Prozess der Räumung als Antwort auf den Bankrott. Der Staat verdoppelt die Zahl der Versteigerungen von Häusern, die noch bewohnt werden, sowie die Zwangsvollstreckung und Pfändung von Häusern von Bewohner:innen, die keine Steuern oder Zinsen zahlen können. Während Politiker:innen neue Maßnahmen im Parlament durchsetzen und die Polizei mit neuen Taktiken experimentiert, organisieren Anarchist:innen und Community Gruppen große Versammlungen, um sich auf den Herbst vorzubereiten, wenn sich die Wirtschaftskrise voraussichtlich verschärfen wird.
+
+Die griechische Regierung vergibt weiterhin neue Lizenzen an Unternehmen für die Nutzung der Bürgersteige und des öffentlichen Raums, um Restaurants und Bars für die Verluste während der Pandemie zu entschädigen. Dies ist auch ein opportunistischer Versuch, mehr öffentlichen Raum zu privatisieren. Während ein weiterer Lockdown droht, erwarten wir, mehr öffentlichen Raum zu verlieren, sobald der Lockdown wieder aufgehoben wird.
+
+In einem von vielen Versuchen, moderner und »europäischer« zu wirken, hat eine massive Kampagne den öffentlichen Verkehrsmitteln den Vorrang gegeben. Als Reaktion darauf wurden am 27. Juli in einer großen U-Bahn-Station im Athener Stadtteil Petralona [die Eingangsmaschinen zerstört](https://anarchistnews.org/content/attack-train-station-avenges-graffiter). Die Schaulustigen applaudierten, als der Eingang frei wurde. Diese Aktion ereignete sich nur zwei Wochen vor dem siebten Jahrestag des Todes von Thanasis Kanaoutis, einem neunzehnjährigen Jungen, der sich weigerte, die 1,20 Euro Gebühr für die Busfahrt zu bezahlen und von einem Metrobeamten aus dem Bus gestoßen wurde, wodurch er getötet wurde. Die Aktion am 27. Juli fand in Solidarität mit fünf Graffiti-Künstler:innen statt, die in den letzten Jahren bei der Überquerung der elektrischen Gleise auf der Flucht vor den Sicherheitsbeamt:innen ums Leben gekommen sind.
+
+Eine von Anarchist:innen unterzeichnete Verlautbarung, in dem sie sich zu der Aktion bekennen, schließt damit ab:
+
+>»ENDE DER APATHIE<br>
+>SAUBERE STÄDTE, NUR IN SCHMUTZIGEN KÖPFEN<br>
+>SICHERHEITSBEAMT:INNEN, LASST DIE FINGER VON GRAFFITI-KÜNSTLER:INNEN<br>
+>SOLIDARITÄT MIT DEN HAUSBESETZUNGEN<br>
+>EINE BRENNENDE STADT IST EINE BLÜHENDE BLUME<br>
+>BEWEGUNG OHNE TICKETS FÜR ALLE«
+>
+>-Anarchist:innen
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/18/4.jpg Graffiti an der U-Bahn in Athen.]]
+
+# Internationale Solidarität
+
+Der Aufstand in den Vereinigten Staaten findet in Griechenland weiterhin Widerhall. Mitte August hat sich eine Gruppe, die sich Anarchist International Solidarity nennt, in einer Verlautbarung zu zwei Brandstiftungen bekannt, um ihre Solidarität mit denjenigen zum Ausdruck zu bringen, die in den USA auf die Straße gehen. Eine davon richtete sich gegen das Haus des Generaldirektors der amerikanisch-hellenischen Handelskammer, Elias Spyrtounia, einem Lobbyisten und Vermittler für die geopolitischen Interessen der USA in Griechenland und der Balkanregion. In der Verlautbarung heißt es: »Der Brandanschlag auf sein Haus war ein Akt der Solidarität mit denen, die in den amerikanischen Metropolen auf die Straße gingen, mit der Polizei zusammenstießen, Symbole des Reichtums und der Unterdrückung zerstörten und von rassistischer Gewalt und staatlicher Repression betroffen sind.« Ein anderer zielte auf das Auto eines Polizeibeamten im Athener Stadtteil Gyzi: »Wenn die Polizei die Sprache der Gewalt sprechen will, lasst uns in nächtlichen Besuchen in ihren Häusern und Fahrzeugen antworten, als unsere minimale Reaktion«.
+
+Auch wenn die Infrastruktur unserer Bewegung dem Druck des griechischen Staates ausgesetzt ist, haben sich griechische Anarchist:innen zum Kampf für die Verteidigung der besetzten Häuser in anderen Teilen Europas zusammengeschlossen. In Athen beschädigten Menschen die Fassade eines deutschen Lebensmittelgeschäftes, LIDL, und eine Verlautbarung, in dem sie sich für die Aktion verantwortlich erklärten, erklärte sich solidarisch mit den Hausbesetzungen Liebig 34 und Rigaer 94 in Berlin, Deutschland, sowie mit allen Hausbesetzungen, die in Griechenland und auf der ganzen Welt kämpfen.
+
+# Exarchia
+
+Die Delta-Polizei – die Polizeieinheit, die im Anschluss an den Aufstand von 2008 geschaffen wurde, um Demonstrationen zu unterdrücken – durchstreift Exarchia, greift Frauen mit sexuellen Drohungen an und verhaftet PoC und solche, die sie des Anarchismus verdächtigen. Einige Polizist:innen tragen faschistische Aufnäher auf ihren Uniformen – die griechische Flagge mit einem Bild der Hagia Sophia in der Türkei. Obwohl wir keine der beiden Seiten in diesem Fall unterstützen, ist dieses spezielle Emblem ein traditionelles Bild, das benutzt wird, um Faschist:innen zu vereinen.
+
+Eine der letzten offenen Hausbesetzungen von Flüchtlingen und Immigranten in Exarchia, Notatra, ist weiterhin ständigen Schikanen ausgesetzt. PoC werden verfolgt, wenn sie sich dem besetzten Haus nähern oder es verlassen; die Delta-Polizei ist routinemäßig in der Nähe stationiert. Die Zunahme der Polizei ist in ganz Griechenland offensichtlich, seit die Nea Dimokratia an die Macht gekommen ist, aber die Situation in Exarchia ist anders. Es ist ein Experiment, dem wahrscheinlich sogar Polizeibehörden außerhalb Griechenlands Aufmerksamkeit schenken werden – eine langfristige Kampagne, um eine Nachbarschaft zu überwältigen und ihren Geist zu zerstören.
+
+Es ist interessant festzustellen, dass dieser Ansatz, obwohl neu in Griechenland, aus einer Strategie der New Yorker und Londoner Polizei stammt, die in den Neunzigern als »Quality of Life Policing« bekannt war. Die Idee ist, jeden Fall von vermuteter Kriminalität mit der gleichen Heftigkeit anzugreifen, um eine Nachbarschaft, die im Widerspruch zum Status Quo steht, zu überwältigen und eine Umgebung ständiger Angst für diejenigen zu schaffen, die sie bewohnen. Wie in New York City führt die Polizei auch in Exarchia unerbittlich Kontrollmaßnahmen durch, bei der Verdächtige angehalten und durchsucht werden.
+
+# Sommer in Griechenland
+
+Sie öffneten die Grenzen – und nur ein Bruchteil der üblichen Touristenzahl kam. Aber einige von denen, die kamen, brachten COVID-19 mit. Gleichzeitig haben die wenigen, die noch in der Lage sind, während der Sommersaison zu arbeiten, weniger Einfluss auf ihre Bosse als sonst, sowohl wegen der weit verbreiteten wirtschaftlichen Verzweiflung als auch wegen der Bedingungen unter der Partei Nea Dimokratia. In Griechenland arbeiten normalerweise Hunderttausende von Menschen während des Sommers, um für den Rest des Jahres Geld zu verdienen. Wir erwarten einen düsteren Herbst.
+
+Die Polizei fährt damit fort, freie Camper:innen in ganz Griechenland zu vertreiben und ihnen Strafzettel zu vergeben, um sie zu zwingen, nach Hause zu gehen. Im Juli wurden auf der Insel Samothraki einige Polizist:innen, die die Camper:innen belästigten, mit Steinen angegriffen und geschlagen.
+
+# Fazit
+
+Es ist August in Griechenland und die meisten Menschen sind von zu Hause weg – oder wünschen sich, sie könnten es sein. Es ist heiß und die Situation ist düster. Doch selbst inmitten des harten Sommers gab es Demonstrationen gegen den Gesetzesentwurf, der [in unserem vorherigen Bericht beschrieben wurde](https://crimethinc.com/2020/07/15/greece-everything-is-coming-to-a-boil-looming-recession-the-ban-on-freedom-of-assembly-and-the-murder-of-vassilis-maggos-1) und unzulässige Proteste verbietet. Frische Graffitis im ganzen Land drücken die Unzufriedenheit der Aufständischen aus.
+
+Die Kirche und die extreme Rechte zählen auf die neoliberale Verwaltung der Nea Dimokratia. Griechenland hat etwa 31,5 Milliarden Euro an COVID-19-Hilfe von der Europäischen Union erhalten, aber wir wissen, dass das Geld vor allem dazu dienen wird, den Reichen mehr Verträge zu verschaffen und mehr Polizei einzustellen, um ihre Macht zu schützen und ihre Gesetze durchzusetzen. Was auch immer in den kommenden Monaten passiert, wir hoffen, dass der Herbst eine neue Welle des Widerstands in Griechenland und auf der ganzen Welt entfachen wird.
+
+***
+
+Übersetzung von [SchwarzerPfeil](https://schwarzerpfeil.de/2020/09/01/sommer-in-griechenland-nea-dimokratia-edition/), leicht editiert
