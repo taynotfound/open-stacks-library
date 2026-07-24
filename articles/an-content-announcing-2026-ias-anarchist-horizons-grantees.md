@@ -1,0 +1,80 @@
+---
+title: "Announcing the 2026 IAS Anarchist Horizons Grantees"
+author: "Anarchist News"
+source: "anarchistnews.org"
+url: "http://anarchistnews.org/content/announcing-2026-ias-anarchist-horizons-grantees"
+---
+
+From The Institute for Anarchist Studies
+
+The Institute for Anarchist Studies is thrilled to announce the projects awarded with an Anarchist Horizons grant during our 2026 grant cycle.
+
+ 
+
+ 
+
+A Cage Is a Cage by Mica Fares and Josh Davidson
+
+This grant is supporting the illustration and promotion of A Cage Is a Cage, a children’s book about prison abolition. All royalties from the book will go to the Rosenberg Fund for Children, which supports the educational and emotional needs of children whose parents have faced repression because of their progressive activism.
+
+A Cage Is a Cage is being illustrated by Mica Fares, an anarchist, organizer, and artist, and was written by Josh Davidson, an anarchist, abolitionist, member of the Certain Days: Freedom for Political Prisoners calendar collective, part of the Children’s Art Project with political prisoner Oso Blanco, and editor of two books Rattling the Cages and A Clean Hell, both with former political prisoner Eric King. The book will be released by PM Press in 2027.
+
+ 
+
+The Fire Tribe Project by Pustaka Catut
+
+The Fire Tribe Project is a research project focused on stateless societies in the Indonesian archipelago, those who lived without kings and maintained their autonomy from the Hindu-Buddhist kingdoms, through the Sultanate, to the colonial state of the Dutch East Indies. The result is a book that is easily understood by laypeople and is also freely available online.
+
+Pustaka Catut is an anarchist book publisher in Indonesia. It is run editorially by anarchist writer, Bima Satria Putra.
+
+ 
+
+ 
+
+Anarchist Pedagogy and Architecture in Cuernavaca by Neil Mauricio Andrade
+
+This documentation, research, and translation project weaves historical experiences together with contemporary networks centered on the production of “convivial” spaces (Illich), grounded in a “positive synergy” between autonomy and heteronomy (Jean Robert)—that is: environments that challenge capitalist urbanization, non-bureaucratic and non-coercive habitats and ways of life, as well as the design of pedagogical tools that offer alternatives to state and banking educational systems.
+
+We are a pluralistic documentation, archive, and research group that seeks to crack the colonial-modern system through critical thought and community action. We are rooted and based in a “vernacular symbol-building” constructed by Jean Robert, and inspired by the decolonial, feminist, and Zapatista epistemology of Sylvia Marcos.
+
+ 
+
+The Big Forget by Kit Blamire
+
+The Big Forget is an oral present history project that reaches through the fog of mass forgetting to document the stories and perspectives of those still masking and politicising the ongoing COVID crisis in 2026 in Berlin. 
+
+The Big Forget is a project with Kit Blamire who is an organiser, filmmaker, artist and grief tender living in Berlin.
+
+ 
+
+ 
+
+ 
+
+Fauda: chaos as mutual aid organizing in the West Bank by Ricardo Esteves Ribeiro
+
+For decades, Palestinian communities across Palestine have been collectively organizing through some of the most sophisticated mutual aid networks to resist the Zionist colonial occupation. Fauda: chaos as mutual aid organizing in the West Bank is the result of roughly ten years reporting from the West Bank — particularly in the areas of Masafer Yatta, Farkha, Ramallah, and Bethlehem, and during the olive harvest campaigns — following popular resistance committees, collectives, and community organizers who, despite the escalating violence, dedicate their lives to creating the conditions for communities to practice what they call sumud: to not abandon the land.
+
+Ricardo Esteves Ribeiro is a co-founder of Fumaça, non-profit, anti-authoritarian Portuguese investigative journalism podcast dedicated to scrutinizing systems of oppression. He has been reporting from Palestine since 2017, spending time in the West Bank and in the territories occupied in 1948, mainly writing for Fumaça, El Salto and Mondoweiss.
+
+ 
+
+My Cross Is Blacker Than Yours: The Black Anarchic Beyond Anarchism by Chaaz C. Quigley
+
+My Cross Is Blacker Than Yours: The Black Anarchic Beyond Anarchism explores the anarchic as a recurring feature of Black life through figures such as Ella Baker, Hoodoo, and Black kinship networks. The book argues that Black practices of mutual aid, collective care, self-organization, and survival constitute a distinct tradition of freedom-making beyond inherited political categories.
+
+Chaaz C. Quigley (they/them) is a Black nonbinary writer, community organizer, and independent political theorist of trans experience based in Texas. They are the originator of Chaos Collectivism and the author of The Clear Seeds of Chaos, Care Is a Weapon, and Chaos in Essay.
+
+ 
+
+Join with Me Tomorrow & Other Stories by After the Storm
+
+Join with Me Tomorrow & Other Stories is an anthology of nine writers imagining better futures beyond capitalism, colonialism, and other present hierarchies. This grant allows us to offer the book on a “pay what you can” model and donate copies to libraries across the United States.
+
+After the Storm is an aspiring worker cooperative and speculative futurist magazine that publishes stories envisioning worlds beyond systems of oppression like patriarchy, capitalism, and fascism. We release quarterly issues that invite activists and dreamers to redefine the future.
+
+ 
+
+ 
+
+If you would like to be informed about future grant opportunities, please make sure to subscribe to our newsletter or follow us on social media.
