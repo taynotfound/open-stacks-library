@@ -1,0 +1,96 @@
+---
+title: "La mécanique sournoise de la politique du cliquet"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/09/10/la-mecanique-sournoise-de-la-politique-du-cliquet-pourquoi-les-democrates-sunissent-a-trump-et-au-dhs-en-diabolisant-les-anti-fascistes"
+---
+
+Le 9 septembre, la nouvelle est sortie. Un lanceur d’alerte du DHS[^1] (Département de la Sécurité Interieure) a porté plainte contre le chef du département nommé par Trump, l’accusant de minimiser la menace que représentent les suprémacistes blancs et d’insister sur le danger que représentent les anarchistes et les anti-fascistes. Cependant, le fait que Joe Biden et les autres démocrates se soient appropriés les arguments de Trump concernant les anarchistes et anti-fascistes est totalement passé inaperçu. Cela arrange bien les démocrates centristes d’apparaitre comme critiques modérés de Trump, alors même qu’ils s’approprient ses points de vues sur les manifestants, et le laissent faire de sale boulot d‘établir les discours qui justifient la répression d’état.
+
+[^1]: DHS : Le département de la Sécurité intérieure des Etats-Unis est un département du gouvernement fédéral  créé en 2002 par George W.Bush, en réponse aux attentats du 11 septembre 2001. Son objectif est d’organiser et d’assurer la sécurité intérieure du pays. Il combine entre autres les gardes-côtes, la douane, les services secrets, les gardes-frontières, les matons ou encore l’administration de sécurité du transport. Il est dirigé par le secrétaire à la Sécurité intérieure des Etats-Unis, Chad Wolf , aussi membre du cabinet présidentiel. Il est employé en intérim depuis novembre 2019 (cf note 3).
+
+Dans [les observations](https://www.c-span.org/video/?c4895925/user-clip-prosecute-anarchists) du 28 juillet, le candidat démocrate à la présidentielle Joe Biden a assimilé les anarchistes avec les pyromanes, affirmant que les « anarchistes et pyromanes » devraient être poursuivis en justice ; approuvant les accusations répétées par Trump comme quoi adhérer aux [idées anarchistes](https://crimethinc.com/tce/quebecois) était en soit une sorte de crime, tout comme un incendie volontaire.
+
+Le 7 septembre, quand Barbara Barr a [demandé](https://www.wgal.com/article/one-on-one-interview-with-joe-biden-in-harrisburg/33944090#) a Biden «  Est-ce que vous condamnez les antifa ? », il a répondu «  oui, » associant ‘antifa’ avec «  la violence, peu importe qui l’exerce».
+
+Cela soutien le discours promu par Trump avec ferveur pendant des années, surtout depuis son tweet du 31 mai disant que les « États-Unis d’Amérique allaient désigner les ANTIFA comme une Organisation Terroriste » . 
+
+Trump et d’autres partisans de l’extrême-droite ont longtemps cherché à établir que le fait de s’opposer au fascisme était une raison suffisante pour justifier la surveillance et l’intervention de l’état.
+
+C’est une des étape sur le chemin vers le totalitarisme. Le système bi-partitique américain fonctionne comme [une clé à cliquet](http://stopmebeforeivoteagain.org/stopme/chapter02.html), il y a le parti républicain d’un côté, qui pousse constamment vers la droite avec sa politique publique et son discours admissible ; et de l’autre, les Démocrates qui cherchent à acquérir du pouvoir en voulant séduire l’électorat centre-droit. Ce mécanisme empêche donc tout retour en arrière des politiques et des discours.
+
+Vu que les démocrates suivent les républicains en encourageant constamment et de plus en plus l’autoritarisme, le travail que fait Trump va aussi servir au parti de Biden. A savoir, de pointer les anarchistes, anti-fascistes, et autres manifestants comme des cibles légitimes.
+On doit comprendre maintenant comment cela fonctionne, pour ne pas se laisser surprendre par le fait que la répression d’état continuera après la potentielle victoire de Biden.
+
+[[https://twitter.com/carterforva/status/1288221642968236032]]  
+
+***
+
+# DHS se focalise sur les anti-fascistes, et laisse les suprémacistes blancs tranquilles
+
+Le lanceur d’alerte, Brian Murphy, a porté [plainte](https://www.nytimes.com/2020/09/09/us/politics/homeland-security-russia-trump.html#click=https://t.co/lBX6WSQM0I) contre le secrétaire du DHS, Chad Wolf, et «le haut fonctionnaire qui exerce les devoirs de vice secrétaire de la sécurité intérieure » Ken Cuccinelli.
+
+En effet, il accuse les fonctionnaires du DHS de modifier les rapports de l’« intelligence » afin de retransmettre les théories alarmistes de Trump sur la violence anarchiste et anti-fasciste, minimisant à l’inverse la menace que les nationalistes blancs et d’extrême-droite représentent pour la population générale. Du texte de la plainte : 
+
+> Au cours de différentes réunions entre fin mai 2020 et le 31 juillet 2020, Mr. Murphy a communiqué de manière sécurisée avec Wolf & Cuccinelli concernant leur abus de pouvoir et la mauvaise gestion d’un programme de l’« intelligence » par rapport aux informations qu’avait cette dernière sur les ANTIFA (sic) et les groupes « anarchistes » (sic) actifs dans tous les États-Unis. A chaque occasion, Mr Wolf et/ou Mr Cuccinelli a chargé Mr Murphy de modifier les études d’« intelligence » afin d’assurer que cela corresponde avec les commentaires publics du Président Trump au sujet des ANTIFA et des groupes « anarchistes ». 
+
+De plus, Cuccinelli a ordonné a Murphy de modifier les rapports concernant l’organisation des suprémacistes blancs afin de « faire apparaître la menace moins grave » et d’ajouter des « informations sur la proéminence de groupes de ‘gauche’ violents ».
+
+[Un rapport du DHS](https://twitter.com/benjaminwittes/status/1302018581933236227) a été modifié comme quoi les références sur les suprémacistes blancs qui «  présentent la menace la plus létale » soient remplacés par les mots « extrêmes violences domestiques », un terme générique utilisé pour créer une [fausse équivalence](https://theintercept.com/2020/08/20/facebook-bans-antifascist-pages/) entre ceux qui encouragent et mènent des attaques racistes et ceux qui s’organisent pour défendre leur communauté des premiers.
+
+Après ces révélations, quand les démocrates comme Biden et les sociétés comme [Facebook](https://crimethinc.com/2020/08/19/on-facebook-banning-pages-that-support-crimethinccom-and-the-digital-censorship-to-come) continuent de catégoriser les anarchistes et les anti-fascistes comme une menace pour la société, il paraît clair pour tout le monde qu’ils promeuvent délibérément le faux discours concocté par Donald Trump pour cibler l’ennemi.
+
+S’ils continuent d’encourager ce discours, c’est probablement parce que, comme Trump, ils veulent préserver les énormes disparités causé par le capitalisme et la suprématie blanche ; chose que les anarchistes et anti-fasciste cherchent à faire disparaître.
+Eux aussi, ils veulent la tyrannie, une tyrannie plus gentille, plus douce et plus durable. Ils ne  veulent juste pas être tenu responsables de la montée de cette tyrannie.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/09/10/1.jpg [Manifestants](https://media.washtimes.com/media/image/2020/07/20/APTOPIX_Racial_Injustice_Portland_32735.jpg-fc00b.jpg) à la maison de Chad Wolf à Alexandria, Virginia.]]
+
+***
+
+# Mais qu’est-ce qu’on pourrait attendre du DHS ? 
+
+Depuis sa création, le DHS a toujours ciblé les mouvements de protestation – même plus que ca, il a par exemple joué un rôle fondamental dans l’intensification de [l’islamophobie](https://columbialawreview.org/content/islamophobia-toward-a-legal-definition-and-framework/) et d’autres formes d’oppressions systémiques.  Depuis le point de vue de ceux qui veulent vivre dans une société libre et égalitaire, il n’y a pas de bonne manière pour que les représentants du DHS évaluent les menaces terroristes auxquelles les États-Unis font face. Le département lui-même existe dans le seul but de surveiller et diriger une force létale contre quiconque pourrait menacer l’ordre établi. L’énorme attention que la plainte de Murphy a reçue de la part de personnes soit-disant de gauche, indique à quel point de nombreuses personnes de gauche sont capables de s’unir aux [centristes](https://crimethinc.com/2018/01/24/anarchists-in-the-trump-era-scorecard-year-one-achievements-failures-and-the-struggles-ahead#the-centrists) et à légitimer les représentants des institutions auxquelles elles s’opposent normalement, mais ça, à condition que ces représentants prennent position contre Trump.
+
+Cela nous montre à quel point les groupes radicaux risquent de perdre s’ils se focalisent uniquement sur Trump – c’est une des tendances mentionnée plus haut sur le mécanisme du cliquet. Les centristes libéraux ont expérimenté les conséquences désastreuses de cette approche lorsqu’ils ont été déçus par le tant attendu [culte millénaire](https://crimethinc.com/2019/02/26/life-in-mueller-time-the-politics-of-waiting-and-the-spectacle-of-investigation) relatif a Robert Mueller, ex-directeur du FBI. Biden est simplement le dernier bénéficiaire de cette propension à chercher un représentant « légitime » d’un pouvoir ancré ; et pour contrer la montée de Trump, au nom de [la Loi](https://crimethinc.com/2018/11/09/take-your-pick-law-or-freedom-how-nobody-is-above-the-law-abets-the-rise-of-tyranny). Le problème c’est que la loi n’est pas quelque chose au-dessus du gouvernement américain, quelque chose que Mueller ou Biden pourrait utiliser pour rappeler Trump à l’ordre. La loi en vigueur est le reflet du gouvernement que Trump domine déjà.
+
+Cela serait stupide de dire qu’en ciblant les manifestants plutôt que les fascistes, le DHS se focalise sur la mauvaise menace. La chose importante à comprendre ici, c’est qu’un remaniement se met en place dans les institutions étatiques de répression. Un remaniement dont le but est d’étendre les cibles des opérations « anti-terroriste » pour y inclure un nombre en constante augmentation d’anarchistes, anti-fasciste, gauchistes, et tout autre dissidents, en particulier ceux qui démographiquement sont déjà ciblés sur des critères d’ethnicité, de classe et de religion. En même temps, l’espace alloué aux actions illégales pour défendre la suprématie blanche ne cesse d’augmenter – les éloges de Kyle Rittenhouse en témoignent. Au lieu d’offrir au DHS une occasion de se re-légitimer en promettant de nous protéger de la suprématie blanche – ce qui fournirait simplement une autre raison aux politiciens d’attribuer des fonds au DHS ; fonds qui seraient inévitablement dirigés contre les communautés et mouvements de manifestants – on doit regarder les facteurs systémiques qui assurent que, aussi longtemps qu’il existera, le DHS servira toujours a oppresser les peuples et écraser les mouvements pour la liberté et l’égalité.
+
+Depuis sa création le DHS a étendu le champs d’application de ses cibles, laissant aux suprémacistes blancs carte-blanche ; même avant que Trump soit au pouvoir. Aux début des années Obama, Daryle Johnson, un autre employé du DHS, a été [écarté du département](https://www.wired.com/2012/08/dhs/) pour avoir sonné l’alarme sur les activités de l’extrême-droite, à savoir une vague d’assassinats. Plus récemment, [les centres du DHS](https://theintercept.com/2020/07/15/george-floyd-protests-police-far-right-antifa/) ont servi pour transmettre les théories conspirationnistes d’extrême-droite aux départements de polices locales ; garantissant que la police locale [priorisait de cibler les anti-fascistes](https://shadowproof.com/2018/03/07/documents-reveal-police-targeting-anti-racists-charlottesville/) et qu’ils travaillaient main dans la main avec les partisans de Trump, les milices, et autre groupes d’extrême-droite. La récente vague de Blue Leaks[^2], a aussi [confirmé](https://itsgoingdown.org/fbi-wants-cops-to-think-ice-protesters-are-lethal-threat/) à quel point les officiers fédéraux s’emparaient des priorités de l’extrême-droite en se focalisant sur la répression des anarchistes et des anti-fascistes.
+
+[^2]:  Les Blue Leaks désignent un ensemble de données publiées dans le Web à partir du 19 juin 2020. Cela comprend plus d'un million de fichiers du gouvernement américain et, pour la majorité, concerne les forces de police américaine.
+
+Une fois que le dernier remaniement du DHS sera achevé, il n’y aura plus de telles révélations comme on a pu voir dans la plainte de Murphy. Les 2 partis accepteront que le département existe dans le but d’attaquer les anarchistes, les manifestants et quiconque s’oppose au fascisme et à la violence de la police. Les suprémacistes blancs auront acquis encore plus de marge de manœuvre pour s’organiser et mener des attaques sans devoir affronter l’opposition de l’état.
+
+Et ce processus pourra arriver sous Biden aussi bien que sous Trump.
+
+[[https://twitter.com/KELLYWEILL/status/1303793442972196868]]  
+
+***
+
+# Le Cliquet
+
+Chad Wolf et Ken Cuccinelli sont tous les deux [illégalement en poste](https://www.politico.com/news/2020/08/14/gao-chad-wolf-ken-cuccinelli-ineligible-dhs-395222) à la suite des machinations de Trump pour éviter le « procès de nomination »[^3]  obligatoire. Wolf est en particulier [tristement célèbre](https://www.instagram.com/p/CCwpRHsAraR/) pour avoir mis en place une politique capable d’enlever les enfants à leurs parents à la frontière américaine, et pour avoir [envoyé](https://crimethinc.com/2020/07/17/solidarity-with-the-people-in-the-streets-of-portland-against-the-federal-occupation-and-the-police) des officiers fédéraux de plusieurs départements du DHS à Portland afin de réprimer les protestations. Plusieurs analystes interprètent le déploiement des ces officiers fédéraux à Portland et partout ailleurs ; comme un test pour se préparer à utiliser les forces fédérales dans tout le pays afin d’imposer l’autorité de Trump. Et ce, dans tous les cas, qu’il gagne, qu’il suspende ou qu’il truque les élections de 2020.
+
+[^3]: Procès auquel notamment les juges et les secrétaires d’états sont normalement soumis devant la cour suprême. The appointment process ici traduit par procès de nomination.
+
+Wolf a mis sa carrière en jeu pour soutenir les efforts que Trump met en place pour consolider son pouvoir. Il a déclaré que les volontés des autorités locales étaient vraiment hors de propos. Le 31 août, Wolf a écrit une [lettre](https://www.foxnews.com/politics/portland-mayor-wheeler-feds-dhs-chad-wolf-letter) au maire de Portland, Ted Wheeler, « le président Trump l’a dit suffisamment clairement, un moment viendra où l’état et les autorités locales échoueront à protéger les citoyens de la violence, le gouvernement fédéral n’aura pas le choix que de protéger nos citoyens américains. ». Le 9 septembre, Wolf a [affirmé](https://www.foxnews.com/politics/dhs-chad-wolf-moral-duty-rioters) de nouveau que le DHS a le « devoir moral et légal » de « protéger » des villes des « émeutes ».
+
+Les démocrates et la gauche ont répondu à cet escalade de la même façon qu’ils ont répondu aux 4 années Trump : en répandant l’information, [«  dire sans crainte la vérité à ceux qui sont au pouvoir »](https://twitter.com/danielsgoldman/status/1303837853273686017), et des choses de ce genre. Rien de tout ça n’a obligé Wolf ou Cuccinelli à quitter son poste ou à changer la trajectoire du DHS ou des suprémacistes blancs qui soutiennent Trump. Cela donne principalement aux démocrates un alibi pour dire aux électeurs que ce n’est pas de leur faute si l’État prend une tournure autoritaire.
+Si les démocrates croyaient réellement les règles qui interdisent à Wolf et Cuccinelli de diriger le DHS, ils ne se contenteraient pas d’enregistrer des plaintes.
+
+La seule raison pour laquelle les démocrates de gauche ont une quelconque influence sur la classe dominante, c’est que les pauvres, les désespérés et les politisés sont prêts à faire n’importe quoi pour interrompre cette situation et rendre ingouvernable les grandes étendues des États-Unis. Comme tous les réformistes, les démocrates tirent parti de leur influence sur la classe dominante à travers des agitations qu’ils promettent de réprimer – mais pour maintenir cette influence, il faut qu’ils montrent qu’ils peuvent réprimer sans faire trop de concessions. Le cliquet encore une fois.
+
+C’est peut-être naïf d’attribuer la faiblesse des démocrates à la naïveté. Alors que Trump encourage ses soutiens à préparer de lui assurer le pouvoir si l’élection est contestée, alors que la police qui le soutient continue les meurtres illégaux des personnes racisées et de quelques blancs [anti-fascistes](https://twitter.com/crimethinc/status/1303892566392401920) ; les démocrates, eux, ne cherchent pas à mobiliser ces forces qui pourraient empêcher Trump de rester au pouvoir.
+
+Si Trump essaie de garder le pouvoir malgré le protocole électoral, les démocrates comptent sur le fait que les manifestants risquent leurs vies et rendent la situation insoutenable. Les anarchistes, les anti-fasciste, et les participants des moments les plus acharnés des soulèvements anti-police et le mouvement Black Lives Matter sont les seules forces sociales qui peuvent accomplir cela. Mais les démocrates ne sont pas fidèles à ceux dont ils espèrent qu’ils risquent leurs vie pour leur compte.
+
+Dans le long terme, les centristes comme Biden, semblent vouloir établir une nouvelle paix sociale en ralliant suffisamment d’électeurs pour faire poids – et les capitalistes – , et puis sacrifier les manifestants noirs, les anarchistes, et les anti-fascistes, sur l’autel de la « sécurité intérieure » comme une concession pour apaiser l’extrême-droite. L’argumentaire ridicule de Trump qui dit que Biden représente les «insurgés» qui ont obligé notre société à affronter les meurtres insensés de Breonna Taylor, George Floyd, Jacob Blake et tant d’autres noirs, cache mal le fait que le contraire est vrai. Biden représente une autre stratégie. Il veut maintenir la même situation que Trump, celle qui a mené à tous ces meurtres. Cela explique pourquoi Biden se serait [emparé du même discours](https://videos.dailymail.co.uk/video/mol/2020/09/02/913956403256707014/640x360_MP4_913956403256707014.mp4) que Trump sur les anarchistes et anti-fascistes, et sur la violence-même. La violence, ce nom de code pour dénoncer tout ce qui interrompt la violence incessante et nécessaire pour maintenir les grandes disparité de privilèges, de propriété et de pouvoir qui caractérisent notre ordre social en cours.
+
+Si Biden gagne ces élections, il nous faudra encore se préparer à se battre aussi fort contre la répression du DHS et autres agents de l’état, tout autant que si c’est Trump qui gagne.
+La seule distinction c’est que sous Trump, la répression sera brutal mais largement impopulaire, alors que sous Biden, ca sera plus discret, bien plus accepté et perçu comme légitime.
+
+C’est pourquoi on ne doit pas accorder un millimètre à la rhétorique de Biden quand il parle des « violent » anarchistes, ni croire qu’il fera tout pour freiner le DHS. **Ne graisse pas le cliquet**. ***Casse-le***. 
+
+***
+
+  [[https://twitter.com/elivalley/status/1311095095215689728]]

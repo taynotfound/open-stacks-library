@@ -1,0 +1,174 @@
+---
+title: "2020 in Hindsight: The Year in Review"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/12/30/2020-in-hindsight-the-year-in-review-including-a-brief-survey-of-our-humble-efforts"
+---
+
+This has been a rough year for everyone, including us. At the nadir, Donald Trump was tweeting that anarchists were responsible for all the rioting around the country, the *New York Times* was alleging that the violence was *our fault personally,* and social media corporations were cutting our lines of communication with the public. In the old days, if all those things happened to you in a row, the next thing to expect would be a police raid. This year, though, all that is just par for the course—most people have had an even rougher time, with tens of thousands of political arrests and hundreds of thousands of COVID-19 deaths in the United States alone. Despite all these challenges, in many ways, we had one of our most productive years. In the following report, we review the events of 2020 and the highlights of our publishing efforts.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/02/05/1.jpg This poster that [we published](https://crimethinc.com/2020/02/05/one-way-or-another-one-day-well-all-wear-masks-lets-meet-these-disasters-head-on) before the pandemic reached the United States captures the spirit of 2020, from COVID-19 and forest fires to the George Floyd Uprising. class:portrait]]
+
+One of our achievements in 2020 was [expanding our website to be fully multi-lingual](https://crimethinc.com/2020/05/13/crimethinccom-now-fully-multilingual-help-us-add-translations): we got the infrastructure of the site functioning in French, German, Italian, Portuguese, and Spanish, and we added new material in a grand total of 28 different languages. While the COVID-19 pandemic gave governments an excuse to clamp down national borders and foment new gulfs between populations, we've made another important step towards cultivating international connections and consciousness in the anarchist movement.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/05/13/header.jpg class:portrait]]
+
+The pandemic created a captive audience of several billion people, all depending on the internet for information; we saw massive spike in traffic to our website. On the other hand, busy responding to constant emergencies, we didn't complete any new print projects in English besides an array of new [zines](https://crimethinc.com/zines). Our German-speaking comrades upstaged us, producing a [new book](https://crimethinc.com/2020/12/03/writings-on-the-wall-a-new-crimethinc-collection-in-german) collecting German versions of CrimethInc. texts from the past eight years.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/12/03/7.jpg A new collection of our work in German. class:portrait]]
+
+It has been a difficult time for creative experimentation, with unceasing crises making it difficult to do anything other than continuously react. Nonetheless, we managed to publish a few artistic projects—notably a [multi-continental art project celebrating the poetry of Kenneth Rexroth](https://crimethinc.com/2020/12/22/a-poem-by-kenneth-rexroth-painted-across-the-rooftops-of-the-world-on-the-occasion-of-his-birthday) and our exploration of Makavejev's [WR: Mysteries of the Organism](https://crimethinc.com/2020/10/13/wr-mysteries-of-the-organism-beyond-the-liberation-of-desire-revisiting-makavejevs-subversive-classic-film), originally solicited for the second issue of *[Antipolitika](https://antipolitika.noblogs.org/post/2020/10/13/crimethinc/),* the premier Balkan anarchist journal, in a theme issue engaging with the legacy of Yugoslavia.
+
+For the same reason, it has been a bad year for reflective theoretical projects, though we did publish "[What Would an Anarchist Program Look Like](https://crimethinc.com/2020/11/02/exercise-what-would-an-anarchist-program-look-like)?", an exercise intended to provoke people into formulating their own proposals for what anarchist revolution will involve.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/12/22/7.jpg A scene from our art project [celebrating the poetry of Kenneth Rexroth](https://crimethinc.com/2020/12/22/a-poem-by-kenneth-rexroth-painted-across-the-rooftops-of-the-world-on-the-occasion-of-his-birthday).]]
+
+The aforementioned spike in web traffic enabled us to reach more people, as the tactics and analyses we have been developing for a quarter of a century suddenly became relevant to countless thousands who found themselves caught between an uprising and a police state. But not being able to travel, speak publicly, or sell books through book stores also made us more dependent on corporate channels to communicate. Midway through 2020, the empire struck back, with Facebook [banning us from their platform](https://crimethinc.com/2020/08/19/on-facebook-banning-pages-that-support-crimethinccom-and-the-digital-censorship-to-come) along with dozens of other anarchist writers and news sites on the pretext that they were banning pages that "support violence." Though they spun this as a measure to crack down on militia organizing, in fact, militias were permitted to continue organizing on Facebook: the militia mobilization in which Kyle Rittenhouse murdered two people and shot a third was organized via Facebook shortly after the ban went into effect. Far from cracking down on violence, in banning us and an array of other anarchist journalists, Facebook was simply bowing to right-wing pressure to suppress the voices of those who were documenting the rise of fascist violence.
+
+In response, thousands of public figures including David Graeber, Noam Chomsky, Cory Doctorow, and Chelsea Manning published an [open letter](https://www.change.org/p/stand-with-anarchist-publishers-banned-by-facebook) protesting the banning of anarchist journalists from Facebook and rejecting the company's false equivalence between right-wing groups that organize violent attacks and anti-fascist groups that report on them.
+
+Next, the *New York Times* [platformed a far-right conspiracy hack](https://crimethinc.com/2020/10/01/the-truth-about-the-truth-about-todays-anarchists-the-ex-worker-responds-to-the-new-york-times) with no prior journalistic experience to allege that CrimethInc. was somehow responsible for orchestrating all the unrest around the country. It seems almost incomprehensible that reputable journalists would sully their credibility simply in order to bolster the narrative spread by their avowed adversary, Donald Trump. The only way we can understand this is by framing it in the context of ongoing centrist attempts to undermine the momentum of the George Floyd uprising by alleging it would return Trump to office and employing divisive narratives about [outside agitators](https://crimethinc.com/2014/08/20/feature-the-making-of-outside-agitators).
+
+It took until mid-December for Instagram, which is owned by Facebook, to [follow Facebook's example](https://crimethinc.com/2020/12/21/surviving-the-social-media-crackdown-the-instagram-ban-and-how-to-keep-following-us), closing our account without explanation or justification. Presumably, both platforms will slowly, steadily suppress anarchists and other principled voices from here forward. This makes it especially pressing to establish [other means](https://crimethinc.com/2020/12/21/surviving-the-social-media-crackdown-the-instagram-ban-and-how-to-keep-following-us) of communicating. To that end, we've established a [Telegram channel](https://t.me/ExWorkers), a [Mastodon account](https://todon.eu/@CrimethInc), and [notifications via Signalboost](https://crimethinc.com/2020/12/21/surviving-the-social-media-crackdown-the-instagram-ban-and-how-to-keep-following-us#signalboost).
+
+[[https://cdn.crimethinc.com/assets/articles/2020/08/19/banned-on-facebook.jpg class:portrait]]
+
+***
+
+Everything we contributed in 2020—from composing eyewitness reports and analysis to programming this site and mailing out books—we accomplished by means of 100% volunteer labor, working collectively and anonymously the way we have since the mid-1990s. We seek neither financial gain nor fame nor personal credit for what we do. We are driven solely by our desire for collective liberation and the joy we take in collaborating on creative projects together.
+
+As always—if you like what we do, the best thing you can do is [do it yourself](https://crimethinc.com/2017/03/14/direct-action-guide). Take action in your own community, develop and refine your own analyses and strategies, reach out to others and fight for social change. You can also [contribute to our efforts](https://crimethinc.com/2018/01/29/what-we-need-from-you-how-you-can-help-with-crimethinc-projects) in a variety of ways, or, failing that, [donate](https://crimethinc.com/support) to us to help us print new outreach materials. Please [contact us](mailto:hello@crimethinc.com) if you can help in some other way!
+
+# In Memoriam
+
+We lost a lot of talented and hardworking comrades this year. It will be challenging to fill their shoes.
+
+In February, anarchist author, publisher, and gadfly [Aragorn](https://crimethinc.com/2020/02/19/aragorn-elegy-for-an-antagonist-on-hostility-and-its-limits)! passed away. We published a transcription of [an interview](https://crimethinc.com/2020/02/19/a-hell-of-a-mistress-the-beautiful-idea-an-interview-with-aragorn) conducted in summer 2018 in which Aragorn! describes the development of counterculture and anarchism across four decades—from his youth in the hardcore scene during the Reagan years to gang conflicts with Nazi skinheads, the first Gulf War, the emergence of the Internet, and all the different publishing and infrastructure projects he participated in.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/02/19/10.jpg Aragorn! class:portrait]]
+
+In September, our friend [David Graeber](https://crimethinc.com/2020/09/03/the-shock-of-victory-an-essay-by-david-graeber-and-a-eulogy-for-him) also passed away. David was a tireless and wide-ranging anarchist thinker. Like Aragorn!, we all assumed he still had decades of important work ahead of him when he was suddenly taken from us.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/09/03/5.jpg David Graeber. class:portrait]]
+
+Longtime anarchist [Stuart Christie](https://freedomnews.org.uk/stuart-christie-obituaries/), the [Anarchist Black Cross](https://www.abcf.net/blog/on-the-death-of-stuart-christie/) organizer who carried the torch of anarchism through the bleak mid-20th century until its resurgence in the 1980s. We recommend his [writing](http://autonomies.org/2020/08/for-stuart-christie-1946-2020/) as well as the [anarchist film archive](https://christiebooks.co.uk/anarchist-film-archive/) he curated.
+
+We also lost [Diane di Prima](https://www.poetryfoundation.org/harriet/2020/10/the-revolutionary-diane-di-prima-dies-at-86), one of the most important beat poets and an [anarchist proponent of revolution](https://www.poetryfoundation.org/harriet/2020/10/the-revolutionary-diane-di-prima-dies-at-86) across two centuries, and [Lucio Urtubia Jiménez](https://freedomnews.org.uk/obituary-lucio-urtubia-jimenez/), the anarchist illegalist whose inspiring political counterfeiting efforts are chronicled in the documentary [Lucio](https://christiebooks.co.uk/anarchist_films/lucio-2007-aitor-arregi-jose-maria-goenaga/).
+
+We mourn the death of [Michael Forest Reinoehl](https://www.nytimes.com/2020/10/13/us/michael-reinoehl-antifa-portland-shooting.html), the anti-fascist who was extrajudicially murdered by police and US marshals at the [urging](https://twitter.com/Acyn/status/1316801262277455872) of Donald Trump for the crime of defending himself from [a fascist attack](https://www.youtube.com/watch?v=dYcfRdHwJEw).
+
+Brian McCarville, an anarchist imprisoned in Oregon, [passed away](https://www.instagram.com/p/CHjyEkDMHmo/) on his 68th birthday, September 27. He had [participated in struggles against the prison system](http://portland.indymedia.org/en/2003/05/265711.shtml) since the turn of the century. Fierce anti-prison organizers [Karen Smith](https://antistasisproject.wordpress.com/2020/12/01/next-step-we-burn-it-down/) and [Rebecca L. Hensley](https://sfbayview.com/2020/12/rebecca-hensley-memorial/) passed away in December, followed by Lois Martin, an octogenarian volunteer with No More Deaths and a veteran of six decades of activism.
+
+While we were completing this text, we learned of the passing of anarchist historian [Alexandre Skirda](https://freedomnews.org.uk/obituary-alexandre-skirda-1942-2020/). He was known best for his biography of Nestor Makhno, *[Anarchy's Cossack](https://libcom.org/library/nestor-makhno-anarchys-cossack-alexandre-skirda),* which remains the definitive work on the life of the Ukrainian revolutionary.
+
+Finally, we grieve the passing of all those who have been killed by police, imprisonment, and COVID-19—all the squandered potential of our age.
+
+***
+
+# The Beginning
+
+It's easy to forget that 2020 began the same way it is ending, with saber-rattling from Trump threatening a [war with Iran](https://crimethinc.com/2020/01/08/against-all-wars-against-all-governments-the-real-danger-of-the-conflict-with-iran). In [Chile](https://crimethinc.com/2020/10/15/chile-looking-back-on-a-year-of-uprising-what-makes-revolt-spread-and-what-hinders-it) and [Lebanon](https://crimethinc.com/2020/02/24/lebanon-the-revolution-four-months-in-an-interview), the uprisings that had exploded in late 2019 were still simmering. In the United States, things seemed relatively quiet.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/12/30/against-all-wars-farsi_front_black_and_white.jpg Working with comrades around the world, we made versions of this [poster](https://crimethinc.com/posters/against-all-wars) reading "Against all wars—against all governments—against all oppression" in Farsi, Arabic, Indonesian, Spanish, Portuguese, and English. class:portrait-shadow]]
+
+# The Pandemic
+
+The COVID-19 pandemic is the first of a series of biological and ecological crises that late capitalism will face. We foreshadowed how a health system based around control would fail to protect people in "[The Operation Succeeded, but the Patient Died](https://crimethinc.com/2020/02/10/the-operation-succeeded-but-the-patient-died-biopower-and-the-nightmare-of-a-totally-managed-society)," our analysis of how what Michel Foucault called "biopower" functions in both hospitals and prisons.
+
+In our introduction to "[Against the Coronavirus and the Opportunism of the State](https://crimethinc.com/2020/03/12/against-the-coronavirus-and-the-opportunism-of-the-state-anarchists-in-italy-report-on-the-spread-of-the-virus-and-the-quarantine)," a report from Italy when COVID-19 was spiking there ahead of the outbreak in the United States, we laid out the basic problem that the virus forced our society to confront:
+
+> Fundamentally, the problem is that we lack a discourse about health that is not premised on centralized control. Across the political spectrum, every metaphor we have for safety and health is predicated on the exclusion of difference (for example, *borders, segregation, isolation, protection*) rather than the aim of developing a positive relationship with difference (for example, extending health-care resources to all, including those outside the borders of the US).
+>
+> We need a way of conceiving of well-being that understands bodily health, social ties, human dignity, and freedom as all being interconnected. We need a way of responding to crisis based in mutual aid—that doesn’t grant even more power and legitimacy to tyrants.
+
+Indeed, state strategies based in borders and segregation failed to keep the virus out of Europe and the United States. The chief forces that limited the impact of the pandemic and the ensuing economic turmoil here were [mutual aid projects](https://crimethinc.com/2020/06/26/finding-the-thread-that-binds-us-three-mutual-aid-networks-in-new-york-city) and voluntary decentralized measures such as wearing a mask and engaging in social distancing. Had access to proper medical care and enough resources to be able to take a year off from work been more evenly distributed, that would surely have saved hundreds of thousands of lives. 
+
+The economic imperatives that supposedly foster "productivity" have only been a threat to the general population and an obstacle to rational solutions. If most people were free to apply themselves to the tasks that they consider most meaningful rather than being forced to do whatever turns a profit for capitalists in order to avoid getting evicted from their homes, that would surely have resulted in *more* of the resources of our society being put towards solutions like finding [and distributing](https://www.washingtonpost.com/opinions/2020/12/29/covid-19-vaccine-distribution-slow-testing/) a safe and effective vaccine, not fewer.
+
+> Rather than placing blind faith in the state, we must focus on what we can do with our own agency, looking back to previous precedents for guidance. Let no one charge that anarchistic organizing is not “disciplined” or “coordinated” enough to address an issue like this. We have seen over and over that capitalist and state structures are at their most “disciplined” and “coordinated” precisely in the ways that they impose unnecessary crises on us—poverty, climate change, the prison-industrial complex. Anarchism, as we see it, is not a hypothetical blueprint for an alternate world, but the immediate necessity of acting outside and against the dictates of profit and authority in order to counteract their consequences. While the current models of “addressing the pandemic” that states are carrying out are based on top-down control that nevertheless fail to protect the most vulnerable, an anarchist approach would focus chiefly on shifting resources such as medical care toward all who require them, while empowering individuals and communities to be able to limit the amount of risk they choose to expose themselves to without tremendous negative consequences.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/03/18/5.jpg]]
+
+Our follow-up text, "[Surviving the Virus: An Anarchist Guide](https://crimethinc.com/2020/03/18/surviving-the-virus-an-anarchist-guide-capitalism-in-crisis-rising-totalitarianism-strategies-of-resistance)," was likely our most widely-read article of 2020, reaching hundreds of thousands of people in sixteen different languages. Expanding on it, we offered [an analysis](https://crimethinc.com/2020/04/10/and-after-the-virus-the-perils-ahead-resistance-in-the-year-of-the-plague-and-beyond) of the perils of expanding state power in the COVID-19 era, sketching out [three contending programs](https://crimethinc.com/2020/04/10/and-after-the-virus-the-perils-ahead-resistance-in-the-year-of-the-plague-and-beyond#three-programs) in the face of the crisis: the adherents of untrammeled capitalism (representing death), the proponents of technocracy (representing survival), and the partisans of freedom (that is, of life itself).
+
+We returned to some of these themes in "[What’s Worth Dying for](https://crimethinc.com/2020/04/21/whats-worth-dying-for-confronting-the-return-to-business-as-usual)?", exploring why so many people in the United States—including poor people—are in favor of sacrificing human beings on the altar of the economy.
+
+[[https://cdn.crimethinc.com/assets/posters/capitalism-is-a-death-cult/capitalism-is-a-death-cult_front_black_and_white.jpg Click on the image to download the poster. https://crimethinc.com/posters/capitalism-is-a-death-cult class:portrait-shadow]]
+
+As people grasped for points of intervention to respond to the emerging crises, we focused on housing resistance, publishing an [interview](https://crimethinc.com/2020/03/19/on-rent-strike-against-gentrification-and-the-pandemic-an-interview-with-residents-of-station-40-in-san-francisco) with Station 40 in San Francisco, the housing collective that was one of the first groups to publicly declare a rent strike, followed by [outreach](https://crimethinc.com/2020/03/27/immunity-for-all-invitation-to-a-strike-a-poster-and-a-call-for-collective-self-defense) [material](https://crimethinc.com/2020/04/05/we-defend-each-other-no-rent-no-evictions-no-debt-a-poster) and a [history of rent strikes](https://crimethinc.com/2020/03/30/rent-strike-a-strategic-appraisal-of-rent-strikes-throughout-history-and-today) worldwide. We also published [a narrative from a delivery driver in Manhattan](https://crimethinc.com/2020/04/13/all-we-have-is-us-a-call-from-a-delivery-driver-in-manhattan-for-a-solidarity-of-condition-and-position) describing the ways that risk is distributed according to class. Finally, we collected an array of [stickers and graffiti](https://crimethinc.com/2020/04/28/the-agitprop-of-the-pandemic-posters-stickers-and-graffiti-from-around-the-world) capturing anarchists' initial reactions to the pandemic all around the world.
+
+In our most ambitious historical effort of the year, "[The Anarchists versus the Plague](https://crimethinc.com/2020/05/26/the-anarchists-versus-the-plague-malatesta-and-the-cholera-epidemic-of-1884)," we chronicled the efforts of Malatesta and his comrades to respond to the cholera epidemic of 1884, translating a wealth of previously unavailable texts from French and Italian to distill lessons for twenty-first-century anarchists facing today's pandemic.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/05/25/16.jpg "A court for king cholera." In 1884 as today, poverty and oppression were the chief comorbidities afflicting the population alongside the plague.]]
+
+# The Uprising
+
+At the beginning of the uprising in Minneapolis, we [recognized](https://crimethinc.com/2020/05/28/minneapolis-we-have-crossed-the-rubicon-what-the-riots-mean-for-the-covid-19-era) how powerful and far-reaching the ensuing movement would become. We chronicled scenes from the first three weeks in our "[Snapshots from the Uprising](https://crimethinc.com/2020/06/17/snapshots-from-the-uprising-accounts-from-three-weeks-of-countrywide-revolt)." Our report from the uprising itself, "[The Siege of the Third Precinct in Minneapolis](https://crimethinc.com/2020/06/10/the-siege-of-the-third-precinct-in-minneapolis-an-account-and-analysis)," became our second most widely-read article of the year, thanks in part to [Fox News](https://www.fox9.com/news/the-siege-of-the-3rd-precinct-an-anarchist-playbook) and the like.
+
+As a general principle, we try to avoid counterproductive exposure—it's better for our publishing to reach people who will use it to do good work in the world, and otherwise to remain unheralded. But sometimes it becomes impossible to avoid publicity.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/06/17/header-2.jpg The uprising that began in Minneapolis extended the model offered by the [2014 uprising in Ferguson](https://crimethinc.com/2020/08/09/timeline-the-ferguson-rebellion-of-2014-chronology-of-an-uprising) to the entire United States.]]
+
+As the movement expanded and explored new tactics, we published [accounts from autonomous zones around the country](https://crimethinc.com/2020/07/02/the-cop-free-zone-reflections-from-experiments-in-autonomy-around-the-us) and other experiments, notably an [ambitious attempt to topple a statue of Christopher Columbus in Chicago](https://crimethinc.com/2020/07/21/accounts-from-the-battle-of-grant-park-how-chicago-demonstrators-pushed-back-the-police-and-nearly-toppled-a-statue).
+
+We also supported the movement with analytical texts, such as "[What Will It Take to Stop the Police from Killing](https://crimethinc.com/2020/05/31/what-will-it-take-to-stop-the-police-from-killing)."
+
+[[https://cdn.crimethinc.com/assets/articles/2020/07/16/4.jpg Far from enabling Trump to win reelection, the uprising showed that Trump had not succeeded in securing control of the United States, discouraging his supporters among the capitalist class from throwing their weight behind his effort to seize power regardless of the outcome of the election.]]
+
+# Internationally
+
+We covered [solidarity actions in 54 countries](https://crimethinc.com/2020/06/02/international-solidarity-with-the-minneapolis-uprising-demonstrations-graffiti-hacking-and-riots-on-six-continents) supporting the uprising in the United States. We also published reports from homegrown uprisings in [Serbia](https://crimethinc.com/2020/07/13/serbia-the-latest-front-in-the-covid-19-riots-an-anarchist-perspective-from-belgrade), [Belarus](https://crimethinc.com/2020/08/12/belarus-anarchists-in-the-uprising-against-the-dictatorship-an-interview), [Colombia](https://crimethinc.com/2020/09/11/uprising-in-colombia-an-example-of-what-is-to-come-a-report-and-interview-on-the-background-of-the-revolt), [Iran](https://crimethinc.com/2020/10/08/iran-there-is-an-infinite-amount-of-hope-but-not-for-us-an-interview-discussing-the-pandemic-economic-crisis-repression-and-resistance-in-iran), and [elsewhere](https://crimethinc.com/2020/11/12/second-wave-another-lockdown-another-rebellion-what-the-riots-around-southern-europe-tell-us-about-the-pandemic-and-the-state) around the world.
+
+On the one-year anniversary of the Turkish invasion of Rojava, we published an [extensive interview](https://crimethinc.com/2020/10/11/one-year-since-the-turkish-invasion-of-rojava-an-interview-with-tekosina-anarsist-on-anarchist-participation-in-the-revolutionary-experiment-in-northeast-syria) with anarchists in northeast Syria, comparing their experiences fighting the Islamic State and Turkey, exploring what has occurred in Syria since the invasion, and evaluating the effectiveness of anarchist interventions in Rojava.
+
+We've also been publishing a [monthly news update](https://crimethinc.com/2020/07/15/greece-everything-is-coming-to-a-boil-looming-recession-the-ban-on-freedom-of-assembly-and-the-murder-of-vassilis-maggos-1) from Greece, to support the anarchist movement there as it contends with successive waves of repression under the aptly-named "New Democracy" government.
+
+# The Buildup to the Election
+
+After US military officials refused to deploy the armed forces inside the United States to suppress protests against police and white supremacy, Trump set out to identify which of the armed elements of the federal government were loyal enough to him to go to war against US citizens on his behalf. He sent federal troops from the Department of Homeland Security to Portland, Oregon in a [test run](https://crimethinc.com/2020/07/17/solidarity-with-the-people-in-the-streets-of-portland-against-the-federal-occupation-and-the-police) to see if they would be able to control the population if he attempted to seize power after the election. Thousands responded, turning the city into a warzone for weeks. We published a [call for solidarity](https://crimethinc.com/2020/07/22/from-portland-to-the-world-a-call-for-solidarity-with-the-struggle-against-the-federal-occupation) with those on the streets of Portland that contributed to another wave of resistance around the country.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/07/16/3.jpg Cognitive dissonance: in Portland, even those who still believe in electoral politics found themselves at the forefront of clashes with the police.]]
+
+Over the following months, Joe Biden embraced Donald Trump’s talking points about anarchists and anti-fascists, agreeing that "arsonists and anarchists should be prosecuted.” We responded with "[The Insidious Workings of The Political Ratchet](https://crimethinc.com/2020/09/10/the-insidious-workings-of-the-political-ratchet-democrats-are-joining-trump-and-dhs-in-demonizing-anti-fascists-heres-why)":
+
+> The US two-party system functions like a ratchet, with the Republican Party steadily pulling public policy and permissible discourse to the right while Democrats, in seeking to acquire power by chasing the political center, serve as a mechanism that prevents policy and discourse from shifting back. As the Democrats follow the Republicans in steadily countenancing more and more authoritarianism, the work that Trump is doing to frame anarchists, anti-fascists, and other protesters as legitimate targets will also be useful to Biden’s party.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/10/21/4.jpg]]
+
+As the election approached, we spelled out the dangers and the stakes in our articles "[Preparing for Electoral Unrest and a Right-Wing Power Grab](https://crimethinc.com/2020/10/04/preparing-for-electoral-unrest-and-a-right-wing-power-grab-an-analysis)" and "[Between Electoral Politics and Civil War](https://crimethinc.com/2020/10/21/between-electoral-politics-and-civil-war-anarchists-confront-the-2020-election)."
+
+In Chile, where the powerful street movements of 2019 had been suppressed by the pandemic and then channeled towards reformism, our correspondents [reported on the role of electoral politics in containing and coopting struggles](https://crimethinc.com/2020/10/26/the-front-line-and-the-line-to-the-ballot-box-the-first-anniversary-of-chiles-social-explosion) following the referendum in which voters demanded the replacement of the constitution left from the dictatorship era. In both countries, the elections functioned to reduce the horizon of imaginable social change. By October 2020, it was difficult to remember that over the summer, a [Newsweek poll](https://www.newsweek.com/54-americans-think-burning-down-minneapolis-police-precinct-was-justified-after-george-floyds-1508452) had found that fully 54% of those questioned believed the burning of the Minneapolis Police Precinct was justified after George Floyd's killing at a time when Biden was polling around 46% and Trump at 38%. It takes a steady stream of centrist and far-right propaganda to maintain the impression that "ordinary people" want to keep things the way they are.
+
+Immediately ahead of the US election, we organized "[Everybody Out](https://crimethinc.com/2020/10/27/everybody-out-resources-for-a-season-of-post-election-unrest)," an awareness campaign rejecting both political parties and spreading access to the tactics demonstrators had developed during the clashes in Portland and elsewhere over the summer, in case they became necessary in the event of Trump attempting to seize power or Biden attempting to preserve Trump's policies.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/10/27/3.jpg class:portrait]]
+
+# Facing 2021
+
+In the end, Biden won the election. But Trump has made it very clear that if he could have seized power by brute force, he would have done so—and the rebels who made parts of many cities around the country ungovernable in May and June were among the chief factors discouraging a massive part of the capitalist class from supporting him in this endeavor. Without our grassroots resistance, his scheme could have succeeded.
+
+[[https://twitter.com/crimethinc/status/1325120376867872768]]
+
+Elections may shift who holds power within the state, but they don't bring about immediate changes on the level of society. [Aided and abetted by prosecutors and police](https://crimethinc.com/2020/12/24/washington-prosecutors-refuse-to-charge-far-right-shooter-prosecutors-send-a-clear-message-inviting-more-fascist-murders), fascists continue to mobilize, and the dismay Trump's loss has spread among his supporters will likely facilitate their recruiting efforts. From Washington, DC to the Pacific Northwest,
+
+> Biden’s electoral victory has done nothing to curtail the escalating violence of the far right. It has only emboldened them, while at the same time giving liberals an excuse to leave the most vulnerable sectors of the population to face their violence alone.
+
+Back in power, neoliberal democrats are approaching 2021 will the intention of preserving *business as usual* at all costs. The coming year will see the trials and tribulations of 2020 continue on a terrain that has only changed superficially: the same cutthroat capitalism, the same pandemic, the same racist police, the same authoritarian measures to exert control—and hopefully, the same courageous rebellion and resistance.
+
+We can conclude 2020 proud of our accomplishments, cherishing the starkly beautiful moments when people defied a world of dangers to offer a glimpse of all our lives could be.
+
+[[https://twitter.com/NYCAntifa/status/1266214274722082818]]
+
+# Postscript and Point of Departure: Do It Yourself
+
+One of our *other* projects this past year was to release a series of do-it-yourself guides to protest skills and equipment. These include protecting yourself from [doxxing](https://crimethinc.com/2020/08/26/doxcare-prevention-and-aftercare-for-those-targeted-by-doxxing-and-political-harassment) and [police batons](https://crimethinc.com/2020/12/15/a-demonstrators-guide-to-understanding-police-batons-and-how-to-protect-against-them), and everything you need to know to pick out the best [helmets](https://crimethinc.com/2020/09/01/a-demonstrators-guide-to-helmets-everything-you-need-to-know), [body armor](https://crimethinc.com/2020/12/15/a-demonstrators-guide-to-body-armor-protecting-yourself-against-blows-batons-bullets-and-more), and [goggles and gas masks](https://crimethinc.com/2020/09/02/a-demonstrators-guide-to-gas-masks-and-goggles-everything-you-need-to-know-to-protect-your-eyes-and-lungs-from-gas-and-projectiles) for your needs.
+
+We published two guides chiefly for street medics, about how to treat [common injuries from police weapons](https://crimethinc.com/2020/06/08/protocols-for-common-injuries-from-police-weapons-for-street-medics-and-medical-professionals-treating-demonstrators) and [gunshot wounds](https://crimethinc.com/2020/09/24/a-demonstrators-guide-to-responding-to-gunshot-wounds-what-everyone-should-know).
+
+Finally, we collected an [array of tactics employed during the struggle against police and federal troops in Portland](https://crimethinc.com/2020/08/03/tools-and-tactics-in-the-portland-protests-from-leaf-blowers-and-umbrellas-to-lasers-bubbles-and-balloons), including such innovations as employing leaf blowers to repel tear gas.
+
+In 2021, we'll follow up with more guides. For good or for ill, none of the struggles we participated in this past year are concluded.
+
+If you also survived 2020, congratulations, and we'll see you in the streets. Thank you for doing whatever you had to do to make it here.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/10/21/10.png]]

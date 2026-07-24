@@ -1,0 +1,50 @@
+---
+title: "Por Que Quebramos Janelas?"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/11/23/por-que-quebramos-janelas-sobre-a-eficiencia-do-vandalismo-politico"
+---
+
+Desde a [revolta em Ferguson](https://pt.crimethinc.com/2020/08/09/timeline-the-ferguson-rebellion-of-2014-chronology-of-an-uprising), nos EUA, em 2014 até as manifestações do dia [20 de Novembro de 2020](https://ponte.org/a-furia-negra-ressuscita-outra-vez-brasil-tem-dia-de-protestos-contra-racismo/) contra o assassinato de João Alberto por seguranças da rede Carrefour em Porto Alegre, a destruição da propriedade foi fundamental para uma nova onda de luta contra a violência policial. Mas o que vandalizar empresas tem a ver com protestar contra a brutalidade policial? Por que quebrar janelas?
+
+Primeiro, como [outras pessoas](#paralermais) argumentaram, quebramos porque a destruição da propriedade é uma tática eficaz. Da Organização Mundial do Comércio de 1999 em Seattle às Jornadas de Junho de 2013 no Brasil, das revoltas no Chile de 2019 aos levantes nos EUA de 2020, a destruição de propriedades tem sido uma parte essencial de muitas lutas. Nos permite pressionar ou responder inimigos infligindo a eles um custo econômico. Pode mobilizar camaradas em potencial, demonstrando que as forças governantes não são invencíveis. Pode forçar debates que, de outra forma, seriam abafados — certamente não estaríamos tendo uma conversa nacional sobre raça, classe e sobre o papel das polícias se não fosse pelas ações corajosas de pessoas que queimaram viaturas e delegacias em Minneapolis ou depredaram e atearam fogo em lojas do Carrefour em todo o Brasil. Por fim, o chamado “vandalismo” transmite uma rejeição radical à ordem dominante, abrindo espaço para que as pessoas comecem a imaginar outra forma de vida e sociedade.
+
+[[https://ponte.org/wp-content/uploads/2020/11/2020_11_20_PROTESTO_MOVIMENTO_NEGRO_SP_Foto_SergioSilva_PonteJornalismo-18.jpg São Paulo, 20 de Novembro de 2020]]
+
+Um processo criminal por dano à propriedade privada não é algo para se citar num currículo ou usar numa campanha política, e talvez isso seja até bom. Significa que o vandalismo político é geralmente um ato altruísta — e mesmo quando não é, tem que ser recompensante em si. Faz muito mais sentido suspeitar que ativistas profissionais e aspirantes a cargos políticos tenham segundas intenções quando questionam as motivações de quem pratica vandalismo. Isso explica porque líderes da esquerda oficial e políticos lançam tantas calúnias sobre essas pessoas.
+
+As vitrines representam a segregação. São barreiras invisíveis. Como tantas outras coisas nesta sociedade, elas oferecem simultaneamente uma imagem da “vida boa” ao mesmo tempo que bloqueiam o acesso a ela. Em uma economia que nos divide em abismos, as vitrines insultam os pobres com mercadorias que eles não podem comprar, status e segurança que eles nunca alcançarão. Para milhões de pessoas, alimentos saudáveis, remédios e outros bens de que precisam estão separadas por uma classe social inteira, um abismo que jamais cruzarão em uma vida de trabalho duro — um abismo representado por três centímetros de chapa de vidro.
+
+Destruir a vitrine de uma loja é contestar todas as fronteiras que cortam essa sociedade: negros e brancos, ricos e pobres, incluídos e excluídos. A maioria de nós se acostumou com essa segregação, considerando tais desigualdades como um fato da vida. Quebrar janelas é uma forma de romper esse silêncio, de desafiar a noção absurda de que a construção social dos direitos de propriedade é mais importante do que as necessidades das pessoas ao nosso redor.
+
+Um argumento reacionário afirma que os vândalos estão destruindo “sua própria vizinhança”, mas esta é uma maneira cínica de falar sobre pessoas que não tem nenhum imóvel em seus nomes. Na verdade, quando os empreiteiras falam em “melhorar” esses bairros, elas estão falando da expulsão dessa mesma população. O problema em Ferguson e em todas os bairros e periferias não é que a vida econômica tenha sido interrompida pelos protestos; o problema é o funcionamento normal da própria economia. Em uma sociedade movida apenas pelo lucro, quanto mais os pobres trabalham e pagam aluguel, mais pobres eles acabarão em relação àqueles que estão lucrando com seu trabalho — é daí que vem o lucro. É desonesto culpar a vítima, como se exigir que ela aceite mais submissão pudesse produzir um resultado diferente no futuro. Em um esquema de pirâmide, alguém tem que formar a camada inferior e, desde a colonização das chamadas Américas, isso sempre significou pessoas negras e não-brancas em geral na base da pirâmide.
+
+Como [várias pessoas já apontaram](http://fireworksbayarea.com/featured/we-welcome-the-fire-we-welcome-the-rain/), colonização, gentrificação, encarceramento em massa e letalidade policial são todas formas de deslocamento e de apagamento. Nos acostumamos às constantes e profundos impactos sobre os ambientes em que vivemos — desde que sejam feitos por capitalistas, pelo Estado e pela polícia, não pelos pobres. Isso normaliza uma relação alienada com a paisagem urbana, de modo que bairros inteiros podem ser arrasados e substituídos sem ninguém dar um pio. Isso normaliza um sistema social que só foi imposto à terra nos últimos dois séculos, fazendo com que a forma de vida mais insustentável já praticada pareça atemporal e eterna. O vandalismo demonstra que tanto a organização atual do espaço urbano quanto o sistema social que o determina são temporários e fruto de um contexto específico — e que é possível, mesmo com recursos limitados, transformar o espaço de acordo com uma lógica diferente. Gentrificação e vandalismo são formas de intervenção na paisagem urbana, a diferença é que a gentrificação é feita de cima para baixo, enquanto o vandalismo é de baixo para cima.
+
+Não é por acaso que as vitrines das lojas tem sido sempre o alvo de protestos contra a violência policial. As empresas, sejam multinacionais ou locais, são a base tributária de onde vem o dinheiro que paga a polícia. E sem polícia, as empresas não seriam capazes de acumular tanta riqueza às custas do trabalho de todos. Nesta situação, dirigir protestos diretamente à polícia é não atingir o alvo, pois a polícia responde aos empresários e políticos, não à opinião pública. É muito mais direto visar seus patrões, os próprios capitalistas. Dê a eles prejuízo suficiente em janelas quebradas e mercadorias destruídas e talvez eles pensem duas vezes sobre o tipo de policiamento eles desejam.
+
+“Mas algum trabalhador pobre terá que limpar isso”, acusam [liberais](http://www.commondreams.org/views/2011/11/14/throwing-out-masters-tools-and-building-better-house-thoughts-importance) hipócritas sempre que manifestantes atuam livremente nas avenidas dos ricos. Substituir janelas ou limpar pixação de uma fachada não é pior do que qualquer outro trabalho — não é como se os trabalhadores em questão estivessem fazendo um trabalho agradável e gratificante para seus patrões e agora precisam sofrer ainda mais. Na verdade, o vandalismo cria empregos, oferecendo oportunidades de trabalho adicionais para funcionários da indústria de serviços e trabalhadores da construção cujo trabalho não seria necessário de outra forma. Isso mostra o caráter reformista de apenas quebrar vitrines e significa que você não pode destruir o capitalismo vitrine por vitrine — mas tentar pode pelo menos redistribuir um pouco de riqueza para baixo. É tipicamente liberal que os críticos apresentem os pobres como vítimas de táticas de protesto combativas, quando na verdade seu medo é perder seu próprio status e conforto.
+
+Na versão mais paranoica dessa perspectiva, liberais que acham que não é possível haver revolta contra esse sistema que eles adoram, falam por aí que infiltrados ou a própria polícia quebrou vidraças que eles deveriam proteger. Como outras teorias da conspiração, isso atribui todo poder de agência a um único poder nefasto, negando a existência e o senso estratégico daqueles que agem contra esse poder.
+
+[[https://twitter.com/Antimdia1/status/1330274656985772033]]
+
+Tudo isso não é para argumentar que quebrar janelas é o suficiente para mudar o mundo. Em última análise, sabotagem e incêndio são estratégias de exércitos em retirada — daqueles que sabem que não manterão um determinado terreno por muito tempo. Um movimento forte o suficiente para manter um território recuperado da polícia não precisaria quebrar ou queimar nada, apenas transformá-lo em algo melhor. Por outro lado, enquanto as desigualdades persistirem, as pessoas estão vão atacá-las por meio da destruição de propriedade, vandalismo, saques e muitas outras táticas. Qualquer pessoa que realmente deseja ver o fim da destruição de propriedade deve se apressar em trazer o fim da propriedade em si e do sistema que divide quem tem e que não tem acesso à ela, usando raça, gênero e cidadania como critérios de exclusão. Colocando, muitas vezes, a propriedade dos que possuem tudo acima da vida de quem não tem nada.
+
+<a id="paralermais" name="paralermais"></a>
+
+# Para Ler Mais
+
+**[6 Críticas à Criminalização e ao Mito do “Manifestante Infiltrado”](https://faccaoficticia.noblogs.org/post/2020/06/06/6-criticas-a-criminalizacao-e-ao-mito-do-manifestante-infiltrado/)**
+
+**[Black Blocs, Bloqueios & Bombas de Fumaça](https://pt.crimethinc.com/zines/receitas-para-o-desastre-vol-01-black-blocs-bloqueios-bombas-de-fumaca)**
+
+**[O Que é Cultura de Segurança?](https://crimethinc.com/2004/11/01/what-is-security-culture)**
+
+**[In Defense of Rioting](http://time.com/3605606/ferguson-in-defense-of-rioting/)**
+
+**[In Defense of Looting](http://thenewinquiry.com/essays/in-defense-of-looting/)**
+
+**[In Defense of the Ferguson Riots](https://www.jacobinmag.com/2014/08/in-defense-of-the-ferguson-riots/)**
+
+**[The Illegitimacy of Violence, the Violence of Legitimacy](https://crimethinc.com/texts/atoz/violence.php)**
