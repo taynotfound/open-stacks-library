@@ -1,0 +1,173 @@
+---
+title: "We Carry a New World in Our Riots"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2021/08/13/we-carry-a-new-world-in-our-riots-on-the-looting-and-unrest-of-july-2021-in-south-africa"
+---
+
+Beginning on July 9, 2021, when the Pietermaritzburg High Court upheld the conviction and sentencing of former South African president Jacob Zuma, looting and unrest broke out in two provinces in South Africa for nine days. The unrest has been attributed to [a power struggle between factions of the ruling class](http://links.org.au/south-africa-historic-rupture-or-warring-brothers-again) and to anger about the handling of the COVID-19 pandemic; it has been associated with fears of ethnic violence. What's certain, at least, is that it was a response to [widespread poverty and desperation](https://peoplesdispatch.org/2021/07/12/durban-food-riots-turn-the-wheel-of-history/). The following reflections appear in dialogue with [this assessment](https://abahlali.org/node/17320/) of the events by [Abahlai baseMjondolo](https://abahlali.org), a landless people's [movement](http://abahlali.org/node/1391/) based in direct democracy. We encourage you to read the aforementioned assessment and the following text together in order to arrive at a more nuanced understanding of the questions at play.
+
+***
+
+*The following text is a contribution to the ongoing dialogue concerning the most incendiary wave of revolt to hit South Africa since the official end of apartheid. The author is a South African currently living in Spain who has collaborated with members of the landless people's association [Abahlai baseMjondolo](http://lovelettersjournal.blogspot.com/2014/10/abahlali-basemjondolo-anthology.html) in Cape Town, is the producer of the (now moribund) [Love Letters Journal](http://lovelettersjournal.blogspot.com/p/blog-page_4.html), and has previously collaborated on the South Africa section of [Dialectical Delinquents](https://dialectical-delinquents.com/).*
+
+# We Carry a New World in Our Riots
+
+> "We can break the neck of habit."
+>
+> –DH Lawrence, introduction to the first American edition of New Poems
+
+July is midwinter in the Southern hemisphere, where Billie Holliday's line in _You Go To My Head_—“Like a summer with a thousand Julys”—rings somewhat oddly. Just the same, this winter there was plenty of fire to keep people warm. For more than a week, the two most populous provinces of South Africa, Gauteng and KwaZulu Natal (KZN), which together also account for more than half of its GDP, were up in flames. More than 200 shopping centers and 100 malls were looted or burned, while at least 1400 ATMs were damaged and 300 banks and post offices vandalized, and eleven warehouses, eight factories, and a total of 90 pharmacies were destroyed "beyond revival" in KZN alone. The total tally for both provinces together is considerably higher, with more than 330 dead and upwards of 40,000 businesses looted, burned, or vandalized. According to president Cyril Ramaphosa, "there is virtually no part of the economy that has not been affected by the violence.” With police outnumbered and overwhelmed, it took the deployment of 25,000 army troops with machine guns and tanks in the streets to crush the rebellion.
+
+***
+
+# Death Be Not Loud
+
+> The particular death you die is not even a death (which is an inferior phenomenon at best) only an insanitary abstraction in the backyard…
+>
+> –Flann O'Brien, The Third Policeman
+
+Besides around a dozen people apparently trampled to death during the looting, it is almost certain that those killed during these events were murdered by the state. The fact that _hundreds of unarmed civilians were killed within the space of a few days,_ most likely almost all at the hands of heavily armed police and army units acting in defense of private property rather than human beings, is completely passed over in silence in the spectacular representation of the events. Besides the above cases, no cause of death is ever stated in media reports, which themselves merely reproduce without comment police statements. But a glance beneath the surface reveals an exemplary instance of the reality masked by lying statistics. A [recent statement](http://abahlali.org/node/17334/) by the landless people's organization Abahlali basMjondolo reports:
+
+> On Thursday last week (July 29), Zamekile Shangase, a 33-year-old woman from Asiyindawo in Lamontville, was shot and killed outside her home by the police. Zamekile was the mother of two children aged 6 and 11. She was elected to a position on the local Abahlali council in 2018 and served on the council for a year. Zamekile was shot while the police were raiding the settlement as part of Operation Show Your Receipt.
+>
+> This is the second time that the police had come to raid the settlements in this area and take people’s food. On Thursday they were going door to door, breaking locks, threatening and abusing people, and taking food from people. People got angry and started shouting. Some people started throwing stones at the police and banging on the police van. The police then got angry and started shooting.
+>
+> A police officer was standing on the road and shooting up the hill into Asiyindawo at random. After Zamekile was shot, the police carried on with their operation of seizing people’s food at gunpoint while her body was still lying on the ground.
+>
+> We were very concerned to read an article in a major news publication in which it was reported that the police were fired on from all directions by criminals armed with bullets stolen in the riots, that they were forced to return fire and that “a 33-year-old woman was killed.” Another article by the same journalist reported that Zamekile was “caught in the crossfire.” This article saw no need to even mention Zamekile’s name.
+>
+> The police lied to try and cover up the fact that they killed an unarmed person for no reason. There is no doubt that no one fired on the police. If the journalist had not just taken what the police said as the truth and had spoken to the residents of Asiyindawo, residents elsewhere in the nearby Sisonke settlement (formerly Madlala), and residents in the township (Lamontville) who live near Asiyindawo he would have found that they all agree that only the police were shooting.
+
+Despite the fact that the deaths are everywhere reported as if discussing a natural disaster, as if the victims were killed in a flood or a hurricane, anybody with any direct experience at the sharp end of police action will know without a shadow of a doubt that this is the most likely manner in which the 330 unnamed people were “killed in the riots.” Even those few who were trampled were likely indirect victims of the state inasmuch as the stampeding in question was likely a result of violent police action. This is shaping up to be the year with the highest number of civilians killed by the state in the history of the country—more than any year during the rebellions of the 1970s and '80s. Whereas “the official truth masks the truth about officials,” the violence of the neocolonial state is neither new nor exceptional. As I asked in "[Another Man Done Gone](https://dialectical-delinquents.com/articles-chronologically-2/class-struggle-histories-2/south-africa-the-latest/south-africa-another-man-done-gone-post-marikana-notes-201213/)," on the death of yet another African migrant at the hands of the police:
+
+> "More blacks are killed in police custody under democracy than were murdered by in the prisons of the apartheid security forces during the States of Emergency of the 1970s/80s. How many more never make it to the cells, murdered by the defenders of civilization in the line of duty? How many do the forces of law and order murder with preventable disease and starvation? How many are forced to die hustling or driven to madness and suicide? How many victims of modern slavery are condemned to a living-death day after day, confined to an existence of planned misery in a coffin of dead-time grown to encompass each waking moment? In what way was Mido Macia’s death exceptional?"
+
+[[https://cdn.crimethinc.com/assets/articles/2021/08/13/3.jpg Police stand over arrestees suspected of looting in a shopping center in Alexandra township in Johannesburg on July 12, 2021.]]
+
+***
+
+# **The Proletariat as Subject and as Misrepresentation**
+
+> Some women just wanted an end to it all. “It must all do away [sic], you see, **Just like this**!” Then you say, “But that is difficult. How can you do this?” This is what made women very angry. If you say there is something you cannot do you must say why.
+>
+> –Gladys Manzi, quoted in by Ian Sinclair in Cato Manor, June 1959
+
+I was prompted to write this in response to [a recent communiqué by Abahlali baseMjondolo](https://abahlali.org/node/17320/), which I consider to be the most exemplary and radical mass organization in the country, concerning the riots. With all due respect to my comrades in AbM, the attitude and language reflected here seems to me to be a simplistic misrepresentation of what is going on. Many of those committed to contributing towards basic change in this world often express many similar misunderstandings concerning the “negative” side of social movements, and it is in the interests of contributing to greater coherence that the present text is offered. Some examples are in order.
+
+To compare looters to maggots [which also, not coincidentally, misrepresents the true causes of economic breakdown in Zimbabwe just as simplistically, and in a similar tone, as those who alleged that "incompetent" and "lawless" black people invading white farms were to blame]—
+
+> "We fear that the economic situation will become like Zimbabwe, and that **when the worms have finished eating the carcass they will eat each other.**"
+
+To denounce rebels as short-sighted and self-sabotaging—
+
+> "What will happen to people’s jobs now that factories and other places of work are being burnt? That is not a revolution. It is destruction that will leave the poor poorer."
+
+And so on—this is precisely the sort of rhetoric and perspective we have seen expressed time and time again by the ruling class and their representatives whenever the oppressed resort to tactics that don't agree with what they think is "productive" and "moral." We have heard this applied to the landless who occupy land, "service delivery" protesters who blockade roads and attack state infrastructure, students and workers who sabotage their schools and workplaces, and it seems to me completely inconsistent, to put it mildly, for those who engage in, justify, and support such struggles to turn around and condemn participants in the present uprising.
+
+Riots and looting on a comparable scale to what we have just witnessed in South Africa were always part and parcel of the revolutionary liberation movement. The level of social amnesia that has erased this aspect of the movement—which happened to involve some the most egalitarian and unmediated forms of organization developed during the struggle—is a major obstacle to overcoming just some of the limitations that are decried by this communiqué. Fragmentation and separation between people engaged in such direct action, those engaged in land occupations, those engaged in workplace struggles, the struggles of youth within/against schools and rural resistance to imperialist resource extraction must be superseded to an even greater extent than they were during the 1980s if there is to be a chance of basic social change emerging. Of course, both the social amnesia and the separations are a symptom of major weakness in the working class nowadays, and although voluntaristic exhortations for unity are not fit to the purpose, it does seem to be somewhat overstating the case to say, as Anton Pannekoek did, that "the working class is not weak because it is divided; it is divided because it is weak." Certainly, a failure even to recognize the fundamental unity between various expressions of class struggle is a contributing factor towards _keeping_ us weak.
+
+Of course, when they say this is not (_in itself_) a revolution, when they regret the disorganization and limitations demonstrated by those who loot so inelegantly as to stampede one another to death a dozen times, I agree. Then again, even the total overthrow of personnel within a particular government does not in itself constitute a revolution, so long as the underlying social relations which those personnel work to serve and protect is not also overturned and fundamentally transformed.
+
+It is also untrue that the present movement is an unmitigated expression of desperation, disorganization, and selfishness. One example, which I don't believe is an isolated case, was related to me recently of a woman whose aunt runs a sort of charity in KwaZulu Natal for a bunch of children who are abandoned or whose parents simply couldn't afford to have children. They offer childcare, education, food, and the like. They were quite affected by the looting because they were in the middle of it all. But looters didn't touch the property they were staying on—they were only looting the stores around the area. Her aunt was told to stay indoors and was worried about food supplies for the children and staff. As it turned out, some looters ended up leaving a large amount of food for them after everything calmed down.
+
+My admiration and respect for the comrades in AbM is such that I have no doubt that we share many of the same basic perspectives regarding the struggle for a better world, that their fight is my fight, and that the intentions behind this statement are good. Which is why I think it so important for us all to remember that our own struggle was made possible only because our comrades from the past took bold and courageous steps in the fight against their own oppression, the consequences of which produced much immediate suffering but which, in the long term, were vindicated by the judgement of history. Rather than thoughtless immediate gratification, their actions constituted a deliberate sacrifice for the sake of the future.
+
+Following the Vaal triangle rebellion of 1984, for example, when the riots and looting that took place during a [rent strike](https://crimethinc.com/2020/03/30/rent-strike-a-strategic-appraisal-of-rent-strikes-throughout-history-and-today) left scarcely a single shop or government building standing in the townships of Sharpeville, Sebokeng, Evaton, Boipatong, and Bophelong, a young resident who witnessed the events in his location firsthand made the following observations:
+
+> We then entered Zone 7. Here the atmosphere told us that the strikes had not been so serious. We walked for a long distance without seeing any damage. I was really worried by that. It seemed as if, while other zones were protesting, this one had been holding parties and other things. The people here seemed to be cowards. Only some children could be seen in the streets, while their mothers and fathers seemed to have locked themselves in their yards. It was only near the shopping center that there was any sign of violence, but still at a low profile. The shops and other things had not been burnt as in other zones, but only the administration board office and a petrol station.
+>
+> Does it mean that they wanted to secure their tomorrow’s needs by leaving out the shops? Were the rent hikes not a burden on their necks too? Are they laughing at the other zones who burnt everything? If they were vexed by the rent hikes they should have done the same as everyone else that Bloody Monday.
+>
+> Brothers, if the time to fight has come, we ought to fight. There is no need to watch how the other partner is fighting. I don’t support the destruction of shops and offices, as they play a role in my daily existence, but if everything is to be destroyed, then let us destroy and not exempt even a single thing. Let us not lose God’s support by doing injustice; that is, doing harm to some and securing others, whereas they are all on the same elevation of guiltiness. Let us not be like King Saul, who infringed by securing King Hagat whereas ordained to exterminate everything by God.
+>
+> We are Africans and brothers in love, and ought to share the pains of bitterness and the fruits of joy.
+>
+> -Johannes Rantete, [The Third Day of September](https://dialectical-delinquents.com/articles-chronologically-2/class-struggle-histories-2/south-africa-the-latest/third-day-of-september-sebokeng-south-africa-30-years-ago/)
+
+This is not to romanticize such actions. As he pointed out: 
+
+> "The following days were the days of hunger. People have nowhere to get food. They have to travel long distances to the out­skirts to seek food and other commodities. Some people even cut pieces of meat from a living cow which escaped. It ran about without some parts..."
+
+But if it is true that people will be hungry after the riots, it is also true that they were already hungry before them. Suffering in itself cannot be avoided. What matters is the _meaning_ of this suffering, and this meaning is what we make out of it from the context in which it is endured. As our history shows us, when that context involves the long-term vision of a quest for a good life filled with love and justice, compassion and camaraderie, the direst of hardships may be stolidly endured.
+
+It is worth noting that in the case of the Vaal rebellion, and during the liberation struggle in general, the burning and looting was a tactical direct action consciously connected to a co-ordinated movement—in other words, they took place within the context of a self-organized working class acting in defense of its own interests. I would suggest that what is truly regrettable about the present events is not the hardship and destruction they may involve, but precisely this lack of connection to any kind of conscious collective strategy.
+
+All around the world and throughout history, the wretched of the earth have employed burning and looting as key tools in their struggle for liberation. As Vicky Osterweil pointed out after the Ferguson uprising,
+
+> “The civil rights movement was not purely non-violent. Some of its bravest, most inspiring activists worked within the framework of disciplined non-violence. Many of its bravest, most inspiring activists did not. It took months of **largely** non-violent campaigning in Birmingham, Alabama to force JFK to give his speech calling for a civil rights act. But in the month before he did so, the campaign in Birmingham had become decidedly not-non-violent...it is also the emergent threat of rioting that forced JFK’s hand… Throughout the civil rights era, massive non-violent civil disobedience campaigns were matched with massive riots. The most famous of these was the Watts rebellion of 1965 but they occurred in dozens of cities across the country. To argue that the movement achieved what it did in spite of rather than as a result of the mixture of not-non-violent and non-violent action is spurious at best.”
+>
+> –[In Defense of Looting](https://thenewinquiry.com/in-defense-of-looting/), The New Inquiry, August 21, 2014
+
+Calls for caution, denunciations of destruction, lectures in measured tones about the practical impossibility of immediately abolishing a world of slavery, the necessity for patience, discipline and organization, have long served to divide social movements into “responsible” and “irresponsible," “self-controlled” and “uncontrollable,” “respectable” and “criminal” elements, when the reality has always betrayed an underlying unity.
+
+On the subject of Watts, it is worth recalling the words of the Situationist International, which long ago pointed out the intimate relation between looting and the abolition of a world founded of poverty and racism:
+
+> “The Los Angeles rebellion was a rebellion against the commodity, against the world of the commodity in which worker-consumers are **hierarchically** subordinated to commodity standards. Like the young delinquents of all the advanced countries, but more radically because they are part of a class without a future, a sector of the proletariat unable to believe in any significant chance of integration or promotion, the Los Angeles blacks take modern capitalist propaganda, its publicity of abundance **literally.** They want to **possess now** all the objects shown and abstractly accessible, because they want to **use** them. In this way they are challenging their exchange-value, the **commodity reality** which molds them and marshals them to its own ends, and which has **preselected everything.** Through theft and gift they rediscover a use that immediately refutes the oppressive rationality of the commodity, revealing its relations and even its production to be arbitrary and unnecessary. The looting of the Watts district was the most direct realization of the distorted principle: “To each according to their **false** needs”—needs determined and produced by the economic system which the very act of looting rejects. But once the vaunted abundance is taken at face value and **directly** seized, instead of being eternally pursued in the rat-race of alienated labor and increasing unmet social needs, real desires begin to be expressed in festive celebration, in playful self-assertion, in the **potlatch** of destruction. People who destroy commodities show their human superiority over commodities. They stop submitting to the arbitrary forms that distortedly reflect their real needs. The flames of Watts **consummated** the system of consumption. The theft of large refrigerators by people with no electricity, or with their electricity cut off, is the best image of the lie of affluence transformed into a truth **in play.** Once it is no longer bought, the commodity lies open to criticism and alteration, whatever particular form it may take. Only when it is paid for with money is it respected as an admirable fetish, as a symbol of status within the world of survival.
+>
+> Looting is a **natural** response to the unnatural and inhuman society of commodity abundance. It instantly undermines the commodity as such, and it also exposes what the commodity ultimately implies: the army, the police and the other specialized detachments of the state’s monopoly of armed violence. What is a policeman? He is the active servant of the commodity, the man in complete submission to the commodity, whose job is to ensure that a given product of human labor remains a commodity, with the magical property of having to be paid for, instead of becoming a mere refrigerator or rifle—a passive, inanimate object, subject to anyone who comes along to make use of it. In rejecting the humiliation of being subject to police, the blacks are at the same time rejecting the humiliation of being subject to commodities. The Watts youth, having no future in market terms, grasped another **quality** of the present, and that quality was so incontestable and irresistible that it drew in the whole population—women, children, and even sociologists who happened to be on the scene. Bobbi Hollon, a young black sociologist of the neighborhood, had this to say to the **Herald Tribune** in October: "Before, people were ashamed to say they came from Watts. They’d mumble it. Now they say it with pride. Boys who used to go around with their shirts open to the waist, and who’d have cut you to pieces in half a second, showed up here every morning at seven o’clock to organize the distribution of food. Of course, it’s no use pretending that food wasn’t looted... All that Christian blah has been used too long against blacks. These people could loot for ten years and they wouldn’t get back half the money those stores have stolen from them over all these years... Me, I’m only a little black girl." Bobbi Hollon, who has sworn never to wash off the blood that splashed on her sandals during the rioting, adds: "Now the whole world is watching Watts."'
+>
+> –Internationale Situationniste #10, Decline and Fall of the Spectacle-Commodity Economy
+
+Just as the actions carried out by those who see no future for themselves in this world are not by themselves deprived of forethought by definition—quite the contrary—so the actions of those made desperate by misery of their conditions are not themselves miserable by definition; again, quite the contrary. This was depicted graphically by Thomas Pynchon, who published a first-hand report on the subject—_A Journey into the Mind of Watts_—in _The New York Times_ magazine:
+
+> “Others remember it in terms of music; through much of the rioting seemed to run, they say, a remarkable empathy, or whatever it is that jazz musicians feel on certain nights; everybody knowing what to do and when to do it without needing a word or a signal: 'You could go up to anybody, the cats could be in the middle of burning down a store or something, but they'd tell you, explain very calm, just what they were doing, what they were going to do next. And that's what they'd do; man, nobody has to give orders.'” 
+
+There is evidence to suggest that this element of creativity and play, always suppressed by the dominant representations of such events, was not absent in the recent riots, which were, [according to an editorial](https://www.newframe.com/a-moment-of-rupture/) in <em>New Frame,</em> “initially marked by a carnival atmosphere in some places.”
+
+[[https://cdn.crimethinc.com/assets/articles/2021/08/13/2.jpg All too often, denunciations of violence chiefly serve those who employ the most systematic forms of violence.]]
+
+# The Third Force or The Third Policeman?
+
+> He said it was again the beginning of the unfinished, the re-discovery of the familiar, the re-experience of the already suffered, the fresh-forgetting of the unremembered. Hell goes round and round. In shape it is circular and by nature it is interminable, repetitive and very nearly unbearable.
+>
+> –Flann O'Brien, The Third Policeman
+
+As fair Aurora flares forth her heavenly countenance in the East, gladdening the eye with a thousand bejewelled sparklings upon the dew-dimpled bonnets of parked cars, and delighting the ear with the mellifluous hubbub of garbage trucks making their morning rounds; as stalwart Gaia (she whose self-centered and revolutionary whirl about her own axis blesses us with the eternal dance of night and day) spins tirelessly in her ceaseless cosmic gyre; so too we mortals of the lower classes, whenever rising impudently above the station assigned to us, find ourselves involved in a perpetual cycle (of venerable antiquity, albeit of questionable repute) of condemnation and condescension in which, time and time again—_in saecula saeculorum_—we are imputed to play the roles of mere mindless puppets manipulated by higher powers conspiring for their own sinister purposes.
+
+Unsurprisingly, the dreaded _third force,_ which, according to the apartheid authorities, supposedly stood behind the revolutionary movement during the 1970s/80s, the _criminal elements_ and _outside agitators_ whom the ANC are constantly blaming for all forms of social contestation ever since 1994, has been trotted out again to explain the recent unrest. This time, there was a better excuse for raising the old bogeyman than on most occasions, as the first actions were indeed carried out in response to the jailing of former president Jacob Zuma. However, the intensity and extent of the rebellion belies so convenient a scapegoat. As anybody who has paid any attention to South African society could plainly see, and as AbM state in their communiqué, 
+
+> “The riots that have been happening have nothing to do with Zuma. Poverty and hunger were a bomb and the break down in order caused by Zuma’s people lit the fuse. Everywhere people who started taking food from the shops said that they are starving and have nothing to do with Zuma and are not doing anything for him. Migrants were also taking food. Everyone who lives in South Africa was taking food because the issue was hunger and poverty.” 
+
+Yet it is not merely the willfully ignorant authorities and the comfortable classes who repeat such baneful accusations. Many well-meaning leftists, despite the salutary influence of Rosa Luxemburg and Mikhail Bakunin, have never been able to square the spontaneous self-activity of the working class—especially when it takes on a particularly exuberant and ferocious character—with their own notions of organization, counter-power, and class consciousness.
+
+So it is that we find the likes of anarchist Shawn Hattingh [writing](http://links.org.au/south-africa-historic-rupture-or-warring-brothers-again), in an “International Journal of Socialist Renewal,” that 
+
+> “the link between the spate of large scale looting that took place and two very obvious conflicting ruling class power bases that currently exist in the country is undeniable. To claim that there was an exercising of working class power is to fundamentally misunderstand the powers at play and where the locus of power at this point in history actually lies.”
+
+To claim that sabotage and expropriation is not an exercising of working class power is fundamentally to misunderstand the nature of power altogether, as well as the historical role that such tactics are called upon to play within a countless diversity of contexts. So it is too that we find the likes of Richard Pithouse, a longtime close associate of Abahlali, [writing](https://www.newframe.com/decisive-action-imperative-in-widening-crisis/) in <em>New Frame</em> that 
+
+> “there is an ongoing, well-organized, widespread, and strategically sophisticated attack on infrastructure. Cellphone towers, electricity substations, reservoirs, trucks, malls, warehouses, fuel storage facilities, factories and more have been and are being destroyed with impunity. These kinds of attacks are not at all typical of spontaneous riots. They are more typical of a well-organized coup attempt, or a civil war.”
+
+On the contrary, the history of this country includes many occasions in which spontaneous uprisings strategically targeted infrastructure. The above-mentioned Vaal uprising systematically targeted post offices, petrol stations, and government buildings of all kinds. During the riots of 1959 in Cato Manor, Durban, most municipal buildings were torched, as were all shops rented out to traders by the state, as well as welfare organizations (associated with “white officialdom”) and municipal buses. In a scene laden with poetic meaning, Gladys Manzi remembers
+
+> “This bus with a radio inside. I still remember the song from... the radio there. _Ngagula, ngalala phansi, bajabula bonke sengilele phansi_ (“I am sick, I am lying down; as I lay down dying they are all happy”) and the bus was actually lying down on its side in flames.”
+
+Those who, like the women of Cato Manor or the people of Watts, acted _to put an immediate end to it all_ have never received more than condescending and pious sermons as to why it can't be done because _there is no explanation,_ other than the failure of most of their comrades to join them.
+
+# A Farewell to Harms
+
+> My mom worked in this building (Government of Tuzla Canton, set on fire). There I learned to type on a machine during the war, it was in ’92. When the building was on fire I told her, “Mom, that is where you worked all these years!” She told me, “Oh, fuck this building, let it burn. Burn them all! Why have emotions for a building. These workers built it, they burnt it, they will build it again. The building is not important. What is important is that they have nothing to eat. They should have set it on fire 15 years ago, and with it all of them.”
+>
+> -Participant in the [Bosnia-Herzegovina rebellion](https://crimethinc.com/2014/02/18/anarchists-in-the-bosnian-uprising), March 2014
+
+The power of the dispossessed to destroy, of course, is only the shadow side of an even greater power to create: a power that is hijacked, held hostage, imprisoned, enslaved, sabotaged, crippled, suppressed by today's dominant social relations. In order to liberate these creative powers, the barriers to their flourishing must be removed—a demolition job that inevitably results in heaps of messy ruins.
+
+Since I have been living as an immigrant farmworker in Spain for the last several years, it might not be amiss to quote one of the most celebrated speeches by one of our most celebrated comrades from the past, who, in response to a journalist who pointed out, during the Spanish Civil War, that even if he and his comrades win, “You will be sitting on a pile of ruins,” answered:
+
+> We have always lived in slums and holes in the wall. We will know how to accommodate ourselves for a while. For, you must not forget, we also know how to build. It is we the workers who built these palaces and cities, here in Spain and in America, and everywhere.
+>
+> We, the workers, can build others to take their place, and better ones! We are not in the least afraid of ruins. We are going to inherit the earth, there is not the slightest doubt about that. The bourgeoisie might blast and ruin its own world before it leaves the stage of history. We carry a new world, here, in our hearts. That world is growing this minute.
+>
+> –José Buenaventura Durruti: "[2,000,000 Anarchists Fight for Revolution Says Spanish Leader](https://sovversiva.wordpress.com/2011/12/23/2000000-anarchists-fight-for-revolution-says-spanish-leader/)," The Toronto Daily Star, August 18, 1936
+
+As the sentiments expressed above by the impassioned mother make plain, all around the world, ordinary people continue to carry that new world in our hearts just as our predecessors did in theirs. If nowadays it can often seem difficult to discern any trace of it growing within the shadow of death cast so deeply by the old world as it rolls darkly towards its ruin, we might take heart by the thought that, for those who listen carefully, even ruins speak eloquently.
+
+[[https://cdn.crimethinc.com/assets/articles/2021/08/13/1.jpg Through the lens of the media, we inevitably see events from the perspective of the police.]]
+
+***
+
+# Further Reading
+
+- [An introduction to Abahlali baseMjondolo](http://lovelettersjournal.blogspot.com/2014/10/abahlali-basemjondolo-anthology.html)
+- [Whiteout](http://lovelettersjournal.blogspot.com/2014/06/whiteout.html)—a poster on the Marikana land occupation carried out by members of the Cape Town section of AbM
