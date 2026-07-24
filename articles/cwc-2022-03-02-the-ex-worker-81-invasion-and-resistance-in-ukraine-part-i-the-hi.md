@@ -1,0 +1,8 @@
+---
+title: "The Ex-Worker #81: Invasion and Resistance in Ukraine, Part I"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/03/02/the-ex-worker-81-invasion-and-resistance-in-ukraine-part-i-the-history-leading-up-to-the-russian-invasion-ukrainian-anarchists-speak-out"
+---
+
+[**Listen here.**](https://crimethinc.com/podcasts/the-ex-worker/episodes/81) As Russian tanks encircle Kyiv and hundreds of thousands of refugees flee, our hearts go out to our comrades in Ukraine resisting the Russian invasion—and to the Russian anti-war movement bringing the resistance home. In this episode, we explore the history and background context to the current crisis in Ukraine. A variety of firsthand accounts from the weeks leading up to the invasion discuss differing perspectives on the threat of war, the complexities of anti-fascism, the role of NATO, and possibilities for principled resistance in times of severe threat. We share an excerpt from an interview by Elephant in the Room with a Ukrainian anarchist discussing the political history of Ukraine since the fall of the Soviet empire, Putin's vulnerabilities, and the character of the current Ukrainian regime. A long essay written by group of Ukrainian anarchists maps out the political landscape from the Maidan protests through the present crisis, with special attention to the evolution of the anarchist movement in recent years. And a statement from Russian anarchists on the eve of the invasion highlights the shared commitment of anarchists in the region to resisting Russian imperialism while working towards a broader vision of liberation.

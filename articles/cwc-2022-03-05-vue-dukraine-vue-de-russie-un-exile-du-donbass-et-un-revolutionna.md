@@ -1,0 +1,169 @@
+---
+title: "Vue d’Ukraine, vue de Russie"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/03/05/vue-dukraine-vue-de-russie-un-exile-du-donbass-et-un-revolutionnaire-en-russie-nous-racontent-leurs-histoires"
+---
+
+Pour aider à la compréhension des événements en Ukraine et en Russie, nous publions ici les témoignages de deux anarchistes de ces deux pays. Dans le premier, une personne déplacée de la capitale de la « République populaire de Louhansk » – l’une des régions de l’est de l’Ukraine qui était jusqu’à l’invasion contrôlée par des séparatistes financé·es par la Russie – décrit sa tentative de fuite de la zone de guerre et les conditions qui règnent en Ukraine. Dans le second, un révolutionnaire décrit les défis auxquels les Russes sont confronté·es lorsqu’iels tentent de se mobiliser contre la guerre, dans un contexte de répression extrême.
+
+Alors que dans le monde anglophone [NdT : et francophone], certain·es personnes prétendument « de gauche » ont repris les éléments de langage de Vladimir Poutine, en blâmant l’OTAN pour chercher des excuses à l’invasion russe ou en affirmant que les milliers d’Ukrainien·nes déjà tué·es devaient forcément être fascistes, nous pensons que toute prise de position sérieuse sur ces événements doit nécessairement intégrer de façon centrale les voix des Ukrainien·nes et des Russes qui s’opposent à l’agression militaire. Plutôt que d’être de simples consommateur·ices d’informations, plutôt que de soutenir les ambitions impériales  de dictateurs ou de chercher à les contenir en faisant appel à des gouvernements seulement soucieux de leurs propres intérêts, nous devons reconstruire de réelles relations de solidarité avec les personnes qui sont le plus directement touchées par cette invasion – en Ukraine, en Russie, en Biélorussie et ailleurs. 
+
+[[https://cdn.crimethinc.com/assets/articles/2022/03/05/1.jpg Tracts anti-guerre  affichés par des antifascistes à Krasnodar, en Russie.]]
+
+[[https://cdn.crimethinc.com/assets/articles/2022/03/05/2.jpg Un manifestant anti-guerre à Krasnodar, en Russie.]]
+
+***
+
+# Entretien avec un exilé du Donbass en Ukraine
+
+Cette semaine nous avons réalisé pour notre [podcast Ex-Worker](https://crimethinc.com/podcasts/the-ex-worker/episodes/82) un entretien avec un anarchiste originaire de Louhansk qui fuit actuellement en traversant l’Ukraine. La conversation a porté sur la vie quotidienne dans un pays en guerre, sur la loi martiale, sur la composition politique des forces armées, sur la mobilisation populaire de la société pour la défense et l’aide mutuelle, sur la situation aux frontières, et sur le soutien que peuvent apporter les personnes à l’extérieur de l’Ukraine. Vous pouvez écouter la [version audio](https://crimethinc.com/podcasts/the-ex-worker/episodes/82) de cet entretien ou en lire la transcription.
+
+**Merci de prendre le temps de discuter avec nous ! Est-ce que tu peux te présenter ?**
+{: .darkred}
+
+Oui, je m’appelle D., j’ai trente ans et je suis prof d’anglais en freelance. Je suis originaire de Lougansk [le nom russe de Louhansk] et actuellement je me trouve à Khmelnytskyi.
+
+**Peux-tu nous parler de la situation dans laquelle tu te trouves actuellement ?**
+{: .darkred}
+
+Depuis cinq ans je vis à Kiev et il y a cinq jours j’ai décidé, avec quelques autres personnes et deux ou trois animaux, d’évacuer. On a donc pris la voiture d’ami·es qui sont parti·es avec nous et on est arrivé·es à Khmelnytskyi. Pour l’instant, on ne peut pas aller plus loin car notre véhicule ne démarre plus. On est en train d’essayer de le réparer.
+
+La ville de Khmelnytskyi est très calme, surtout comparée à Kyiv ou à Kharkiv. Mais ce n’est calme qu’en termes de chars russes, de bombardements etc. De ce point de vue c’est super tranquille. Par contre c’est loin d’être le cas en ce qui concerne l’ambiance et l’humeur des gens ici. Il y a beaucoup de méfiance, de tension et de nervosité. Chaque jour, les habitant·es pensent que l’enfer va se déchaîner ici dès le lendemain. Dans ce genre de situation, il est très difficile d’apprécier cette paix toute relative mais qui existe encore, contrairement à l’endroit que nous avons quitté.
+
+Voilà la situation actuelle. 
+
+**On sait que la loi martiale a été déclarée dans tout le pays. Quel effet ça a sur vos vies au quotidien ?**
+{: .darkred}
+
+Comme n’importe quelle loi martiale je suppose, en tout cas il y a beaucoup de points communs. Par exemple un couvre-feu a été instauré dans tout le pays. On n’est pas censé·es sortir après une certaine heure. Il y aussi la mobilisation [c’est-à-dire la conscription], qui interdit à tous les hommes âgés de 18 à 60 ans de quitter le pays, et je crois qu’aujourd’hui le Parlement a approuvé le plan de conscription générale du président Zelensky. On en saura sans doute plus dans les prochains jours. Aussi, on voit beaucoup de milices – la Défense Territoriale comme on les appelle – patrouiller dans les rues. Elles sont composées de tous·tes les volontaires qui ont décidé de prendre les armes ou de participer à la défense par d’autres moyens. Les milicien·nes interrogent quiconque a l’air étrange ou suspect et essaient de les identifier pour déterminer s’iels représentent un danger pour l’Ukraine, pour ainsi dire.
+
+Dans toutes les guerres on peut compter sur le respect de bien moins de droits humains qu’habituellement. Mais j’ai l’impression que tout ce truc de « à situation exceptionnelle, mesures exceptionnelles » parle à la plupart des gens ici. Ce qui m’inquiète personnellement, c’est que j’ai déjà vécu ça (ma ville natale, Lougansk, a été envahie en 2014) et je sais que malheureusement, très souvent, les situations exceptionnelles passent, mais les mesures exceptionnelles restent en place pendant des années. Par exemple, le couvre-feu décrété à Lougansk en 2014 n’a jamais été levé ; cela fait huit ans que personne ne peut sortir la nuit, huit ans que les militaires patrouillent dans les rues, huit ans que plusieurs mesures d’austérité ont été mises en place. J’ai peur que l’Ukraine perde beaucoup au cours de cette guerre, et je crains encore plus que nous ne récupérions pas ce qui a été perdu une fois que nous en aurons fini. 
+
+**Je n’avais pas vraiment réalisé que tu étais sur place au moment du déclenchement de la guerre dans l’est, en 2014. Y a-t-il quelque chose que tu souhaites partager sur cette période, sur l’influence qu’elle a pu avoir sur la situation actuelle ?**
+{: .darkred}
+
+Bien sûr, même si je dois admettre que je n’ai pas directement assisté à la guerre en 2014. J’étais parti en avril de cette année sans vraiment croire que la guerre aurait lieu. J’avais décidé de partir en voyage à vélo jusqu’en Géorgie, alors j’ai pédalé à travers le sud de la Russie et je suis finalement arrivé à Tbilissi en mai 2014, au moment où la guerre a commencé chez moi. J’avais prévu de voyager pendant quelques semaines mais ça a finalement duré trois ans, parce que je n’avais plus d’endroit où revenir. J’ai donc raté la partie « guerre » de tout ça ; je l’ai vu se construire, j’ai assisté aux événements qui y ont mené, mais je n’avais jamais été bombardé – c’est ma première fois en réalité. Je ne peux pas dire que j’ai connu deux fois la guerre ; je l’ai vécu deux fois, mais seulement d’une certaine manière, sous certains aspects. Je n’avais jamais vu de champs de bataille actifs, comme j’en ai vus cette année.
+
+**As-tu eu des interactions avec les forces militaires ukrainiennes ? Qu’est-ce que tu sais de leur composition, ou des dynamiques politiques chez les personnes qui combattent ?**
+{: .darkred}
+
+Je connais personnellement des gens qui se sont portés volontaires pour la Défense Territoriale et qui viennent de toutes sortes de milieux. Parmi les volontaires, certain·es s’identifient comme antifascistes et anti-autoritaires, mais évidemment de très nombreux patriotes et nationalistes s’engagent aussi, et il y a des gens ordinaires qui ne se soucient pas du tout de la politique, qui sont sous pression et qui veulent juste faire quelque chose pour accélérer la fin de la guerre. Mais compte tenu de la démographie ukrainienne en général, de [son manque de] diversité politique… La société ukrainienne est très homogène à la base, donc il devrait logiquement y avoir beaucoup plus de gens de droite dans les rangs de la Défense territoriale. Mais à mon avis, ça ne fait que refléter la composition de la société ukrainienne, je ne pense pas que les gens de droite soient particulièrement plus attirés par les combats que les anti-autoritaires.
+
+Mais ce n’est que mon impression, je n’ai pas les chiffres en réalité.
+
+**En repensant aux discussions que les anarchistes avaient dans les semaines précédant l'invasion, qu’est-ce que tu penses que vous aviez compris ou prédit avec exactitude ? Qu'est-ce qui vous a surpris ?**
+{: .darkred}
+
+Je n’étais pas vraiment préparé à l’invasion, malgré le fait qu’elle nous menaçait depuis au moins un an. Les médias occidentaux ont accordé une attention croissante à cette affaire pendant les trois ou quatre mois qui ont précédé le déclenchement de l’attaque. Je crois que jusqu’au dernier moment, la plupart des civil·es espéraient simplement qu’elle n’aurait pas lieu, car il est très difficile de passer une année entière dans la terreur permanente et de se préparer à vivre ses derniers jours. Je crois que les gens ici ont pris l’habitude de réagir aux événements à mesure qu’ils ont lieu, un problème à la fois, plutôt que de se préparer pour l’apocalypse. Donc à cet égard, j’ai l’impression de n’avoir presque rien fait, comme la plupart des personnes que je connais.
+
+La façon dont la guerre se déroule est également assez surprenante. J’espérais que les plans de la Russie seraient un peu moins massifs en termes d’échelle – disons plus humbles. Je pensais que ce serait quelque chose comme ce qui s’est passé en 2014 dans ma ville natale, où les avancées militaires se sont fait « deux pas en avant, un pas en arrière » : on reprend un certain territoire, mais pas tout ce qui a été perdu, et tout le monde peut se sentir victorieux. Puis ça s’arrête, du moins la partie la plus folle de la guerre, pendant plusieurs années. Malheureusement, il semble que mes espoirs naïfs se sont révélés faux. L’objectif de l’agresseur n’est pas très clair, quel est son but final ? Qu’essaie-t-il d’accomplir ? C’est d’autant plus difficile à comprendre que l’invasion est massive, et que la dévastation est pratiquement incomparable à ce que nous avons pu connaître en Ukraine au cours de ce siècle.
+
+**Comment l’expérience de la guerre influence-t-elle ta façon de penser l’anarchisme et le changement social, et ce qui devrait être fait ?**
+{: .darkred}
+
+Je suis agréablement surpris par la réaction de nombreux·ses anarchistes. Iels ont très rapidement trouvé leur place dans cette guerre ; iels font des trucs, coopèrent et s’organisent contre l’invasion impérialiste. Il y avait bien moins de gens de gauche prêt·es à combattre à la guerre en 2014. Il me semble que beaucoup de gens pensaient alors que les territoires perdus par l’Ukraine étaient un sacrifice nécessaire pour maintenir la paix, et que cela ne valait pas la peine de verser le sang pour ça. Il y avait une certaine acceptation de ces pertes. Mais avec ce nouveau développement, avec cette guerre qui dure depuis huit jours maintenant, de nombreuses personnes ont réalisé qu’il était naïf de penser qu’on pourrait rassasier ce dragon. Tant qu’il sera en vie, il restera affamé, et il est donc temps de montrer un peu de résistance.
+
+Quand à mes pensées sur l’anarchisme… le gouvernement a fait le choix d’appeler à peu près tout le monde aux armes. Et en même temps, je n’avais jamais vu de toute ma vie d’aussi grands niveaux d’organisation populaire. Les gens s’entraident et coopèrent de différentes manières, gratuitement. C’est assez impressionnant, et ça montre que l’anarchisme a effectivement un énorme potentiel. On a vu en 2014 comment les choses se passent sans anarchisme et sans que les gens s’engagent à faire ce qu’ils peuvent pour gagner la guerre. La Crimée a été perdue sans un seul coup de feu, puis Lougansk, ma ville natale, a également été perdue, faute de cette lutte massive et engagée. Je ne veux pas minimiser ce que les militaires ont fait là-bas bien sûr, mais je crois que cela n’a rien à voir avec le combat que nous menons actuellement. Tout cela me fait dire que même dans un pays où les idées de l’anarchisme, de l’anti-autoritarisme et de la gauche en général ont été si malmenées, marginalisées, et presque éliminées, il existe encore une capacité énorme pour les gens de s’organiser et de combattre ce qui est prétendument l’une des armées les plus puissantes au monde.
+
+Tout ça me donne beaucoup d’espoir et de confiance dans les idées que je défendais et que je continue de défendre.
+
+**Peux-tu nous en dire un peu plus sur la façon dont la société se mobilise depuis la base ?**
+{: .darkred}
+
+Et bien c’est partout sur Internet en ce moment. On voit comment les gens se mobilisent pour toutes sortes de choses ; certain·es font le taxi, d’autres organisent des activités récréatives, les gens cuisinent pour les autres, s’occupent des animaux abandonnés, aident à l’approvisionnement en matériel médical, etc. Même certaines entreprises – et ce n’est pourtant pas mon genre d’en faire l’éloge –  se mobilisent et aident à la logistique pour permettre aux gens d’accéder à la nourriture, aux médicaments, et à toutes sortes de produits particulièrement essentiels dans des moments comme celui-ci, alors que la société normale s’effondre et se réorganise et qu’il est impossible de se reposer sur quoi que ce soit ; il est impossible de savoir si les services sur lesquels vous comptez habituellement fonctionneront toujours ou s’ils seront disponibles pour vous. Partout dans le pays, les gens se mobilisent. Internet joue un grand rôle dans tout ça, mais le désespoir et l’horreur de la guerre aussi. Lorsque vous êtes coincé·es quelque part et que la situation craint vraiment, vous voulez forcément faire tout ce que vous pouvez, avec qui vous pouvez, pour soulager votre souffrance et celle des gens qui vous entourent, et aider à mettre fin à la catastrophe le plus rapidement possible.
+
+Donc oui, je vois beaucoup d’exemples, notamment en ce qui concerne la nourriture, les soins, et le logement. En ce qui me concerne, je dors depuis déjà plusieurs jours chez quelqu’un que je ne connaissais pas, dans une ville où je n’étais jamais allé auparavant, et on m’offre beaucoup de choses dont j’aurais dû me passer autrement. C’est vraiment inspirant. Donc oui, je pense que les gens s’engagent sur toutes sortes de fronts, et répondent à toutes sortes de demandes et de galères que d’autres rencontrent. C’est motivant. 
+
+**Nous avons entendu dire que pour l’instant, plus d’un million de personnes ont fui l’Ukraine depuis le début de l’invasion. Peux-tu nous parler de la situation à la frontière ? À quoi est-ce que vous vous attendez quand vous y serez ?**
+{: .darkred}
+
+Je ne sais pas encore si je serai autorisé à partir ou pas. Malgré le fait que je sois diabétique, mes papiers militaires disent que je suis toujours éligible pour servir en temps de guerre, ce qui est exactement notre situation en ce moment. Je pense que je vais donc être obligé de rester, à moins que je ne préfère enfreindre la loi. Mais que je puisse partir ou non, la situation aux frontières est vraiment difficile pour celles et ceux qui y parviennent. Je sais qu’il y a des files d’attentes de trente kilomètres, certaines personnes passent plusieurs jours à essayer d’entrer en Pologne.
+
+Il est important de mentionner que les personnes non-blanches, notamment les Latino·as et les Africain·es, ont encore bien plus de difficultés à entrer en Europe que les Ukrainien·nes blanc·hes.
+
+[[https://twitter.com/MetroUK/status/1499712936218337283]]
+
+Il a aussi été rapporté que certaines personnes tentent de tirer profit du trafic d’être humains ; plusieurs personnes ont été prévenues que certains types offraient de l’« aide » à de jeunes femmes séduisantes pour les faire avancer dans la file d’attente, sans doute pour les piéger. Certaines personnes essaient de soutirer des pots-de-vin de plusieurs milliers de dollars pour faire éviter la file d’attente. Il se passe un tas de trucs louches… Mais d’un autre côté, je connais aussi des gens qui font plein de supers trucs : ils accueillent parfois jusqu’à dix personnes dans leurs maisons près de la frontière, nourrissent tout le monde et fournissent toute l’aide qu’ils peuvent à celles et ceux qui tentent de fuir. Il y a des côtés atroces bien sûr, comme dans toute crise, mais aussi des choses qui suscitent de l’espoir. Mais en tout cas la frontière avec l’Europe n’est pas du tout un endroit « tranquille » en ce moment, je peux vous le dire.
+
+Quoi qu’il en soit, c’est là que nous nous dirigerons dès que nous aurons réparé notre voiture. Indépendamment de ce qu’il s’y passe, ça reste une zone qui ne risque pas d’être bombardée avant longtemps. Plus on se rapproche de l’Europe, plus la situation est sûre. C’est la principale raison qui me pousse à continuer de plus en plus vers l’ouest, tant que nous le pouvons.
+
+**Qu’est-ce que les gens sur place attendent comme soutien ou comme forme de solidarité internationale ? Qu’est-ce qui selon toi pourrait faire une différence ou être efficace ?**
+{: .darkred}
+
+Et bien, ça dépend vraiment. Je ne peux pas être certain de la destination exacte de l’argent qui est envoyé aux ONG, mais je pense quand même que leur faire un don est une bonne chose. La plupart des gens ont besoin d’argent actuellement, à peu près tous·tes celles et ceux qui sont bloqué·es en Ukraine et ne peuvent pas partir en ont besoin. Donner à la Croix-Rouge, ou à n’importe quel groupe dont vous êtes certain·es qu’il est là pour soulager et diminuer les souffrances, ne sera pas un gaspillage. La principale chose dont les gens pris dans la guerre ont besoin, c’est que la guerre s’arrête ; la deuxième chose, c’est une possibilité d’y échapper. Étant donné qu’à l’heure actuelle l’Ukraine ferme toutes ses frontières aux hommes qui ne veulent pas se battre, tout moyen de contourner ces restrictions est bon à prendre. Ça peut être par exemple des médecins qui falsifient des papiers pour attester d’une grave maladie nécessitant des soins à Berlin, à Barcelone, etc. Il est encore trop tôt pour dire précisément ce qui pourra être utile à cet égard, mais ce genre d’aide sera en tout cas très précieuse pour beaucoup de personnes. 
+
+Et le soutien personnel. Je ne pense pas qu’il y ait grand monde en Ukraine qui refuserait de l’aide en ce moment. Si vous connaissez des gens en Ukraine et que vous avez quelques euros à disposition, envoyez-leur. Je pense qu’il leur sera très difficile de refuser ce genre d’aide.
+
+À ce stade, je n’attends plus rien de l’échelle géopolitique. Il est clair que ce que les États-Unis ont fait en tant qu’empire transatlantique n’a pas apporté grand-chose de bon en tout cas. En 2014, nous avons juste observé en silence nos territoires être annexés sans grande résistance. Puis quand les États-Unis ont commencé à s’impliquer davantage, nous avons eu droit à une guerre encore plus grande et plus sanglante. Donc… Je ne pense pas que ce que pourraient faire les États-Unis en tant que nation nous soit très bénéfique. Je ne peux qu’imaginer ce qui se passerait s’ils s’impliquaient sur le terrain, et j’ai en tête la façon dont ça s’est terminé dans d’autres pays comme l’Afghanistan, le Kurdistan, etc.
+
+Donc je pense que l’aide devrait venir de la base, d’individus à individus, ou d’organisations qui ont à cœur l’intérêt des personnes, et pas des grandes entreprises, des gouvernements, etc. Ce serait la façon la plus efficace de mettre des ressources à disposition, je pense.
+
+**Y a-t-il autre chose que tu voudrais que nos auditeur·ices sachent sur ce qui se passe en Ukraine en ce moment ?**
+{: .darkred}
+
+Je ne sais pas. Je crois que beaucoup de voix s’élèvent et sont entendues hors d’Ukraine en ce moment – ce qui n’est pas le cas pour la Russie ou pour ma ville natale –, de sorte qu’il est possible de se figurer quels sont les besoins ici, quelles sont les craintes et les espoirs des Ukrainien·nes. Que vous écoutiez ces voix et montriez votre solidarité est ce que pouvons espérer de mieux. Parce qu’à mesure que les guerres se poursuivent, les gens ont tendance à s’en désintéresser. Tant que cet intérêt existe, nous devrions tous et toutes faire de notre mieux pour diffuser ce qui se passe ici, et celles et ceux qui sont prêt·es à nous aider ne devraient pas attendre pour le faire, car tôt ou tard on ne se souviendra plus de ce qu’était l’Ukraine.
+
+C’est ce qui se passe avec toutes les guerres dans le monde. Deux semaines, c’est généralement le temps que dure la capacité d’attention, ou du moins c’est le temps qu’il faut avant d’atteindre le pic après lequel il ne s’agit plus que d’une guerre parmi tant d’autres.
+
+**Merci de nous avoir parlé!**
+{: .darkred}
+
+Pas de souci. Merci pour la discussion, je suis heureux de partager tout ça si les gens ont envie d’écouter.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/03/05/3.jpg « La Russie pour les tristes », un jeu de mot dérivé de l’expression « La Russie pour les Russes » Un sticker à Saint-Pétersbourg . class:portrait ]]
+
+***
+
+
+# Mes journées en Russie
+
+Mes journées en Russie sont tendues. 
+
+Ne nous méprenons pas, les bombes ne tombent pas sur nos têtes. Pourtant nous les regardons tomber sur des gens en Ukraine. Ma famille répète après la télé russe : « Zelensky cache des militaires dans des zones urbaines civiles, c’est pour ça qu’on doit les bombarder. » Parler à nos familles et aux gens dans les rues est d’une grande importance – les gens ne sont pas vraiment pour la guerre, mais ils essaient souvent de se convaincre que *cette* guerre est justifiée. Ils ne veulent pas être complices de ce cauchemar. C’est pourquoi il est très important d’avoir des conversations pour les confronter, quitte à les froisser, mais tout en leur permettant de s’identifier et d’écouter ce que nous avons à dire.
+
+La répression quotidienne est intense. N’importe qui, même les enfants, peut être arrêté pour la moindre pancarte ou affiche. Aujourd’hui, vous ne pouvez pas rester dans la rue en tenant un morceau de papier. Qu’il y soit inscrit « guerre » ou pas, vous serez arrêté·e. À Moscou et à Saint-Pétersbourg, la police tabasse les gens. Mais cela ne semble pas les effrayer. Beaucoup sortent à nouveau, cherchent des moyens de lutter, s’organisent.
+
+À partir d’aujourd’hui (4 mars 2022), protester contre la guerre ou diffuser des informations qui ne proviennent pas des sources officielles de l’État est devenu un crime. Vous pouvez être condamné·e à 15 ans de prison pour ça. Certain⋅es  journalistes ont comparé leur travail à de la manipulation d’explosifs : on ne peut faire d’erreur qu’une seule fois. Le bureau du procureur général a même créé des unités spéciales pour cibler le mouvement anti-guerre dans toutes les régions du pays.
+
+Pourtant, aussi difficile que soit la situation, nous ne faisons pas face à une agression militaire. Ici, nous devons choisir de nous battre ou non. Ailleurs, le choix de la résistance armée est peut-être plus simple en un sens : c’est le seul possible. Ici en Russie, pour résister à la guerre, il s’agit de faire un choix moral et d’estimer les risques. Rester les bras croisés ne devrait pas vraiment être une option, surtout parce que l’agression est faite en notre nom – ou du moins au nom de notre nationalité, de notre supposée identité. Néanmoins, s’opposer ou non reste un choix, auquel les gens en Russie sont maintenant confrontés.
+
+Jusqu’à récemment, je m’étais éloigné de la Russie pendant plusieurs années. Avant que je parte, la répression existait déjà, mais il était encore possible d’organiser la lutte politique ouvertement, de sortir dans les rues, et nous ne nous soucions pas tant que ça des arrestations ou des amendes. L’ultra-droite était parfois une source d’inquiétude et nous devions toujours avoir en tête diverses formes d’autodéfense. Mais en 2012, vous n’auriez pas eu à vous dire : *« Je suis un·e anarchiste. Je dois donc me préparer à la prison et à la torture. »*
+
+[[https://cdn.crimethinc.com/assets/articles/2022/03/05/4.jpg À l’intérieur d’un véhicule renforcé, la police anti-émeute russe se prépare à se déployer contre des manifestant·es anti-guerre à Saint-Pétersbourg.]]
+
+Maintenant, nos pratiques d’autodéfense impliquent de se poser des questions telles que : « Comment éviter de se faire arrêter pour avoir posté un message sur Telegram ? » En adoptant cette façon de penser, notre combat ne se fonde plus sur la défense de notre vision de la culture, de la société, des relations et des idées, mais sur le fait d’éviter la répression, de réagir à ce que l’État fait, de préserver notre liberté, d’éviter la prison. Et c’est la grande faiblesse de notre mouvement en Russie quand on le considère dans une perspective de long terme, car nous n’avons nul part où nous replier, personne ne peut nous garantir quoique ce soit. Nous ne pouvons même pas nous garantir mutuellement que nous resterons debout ensemble, main dans la main, en nous regardant dans les yeux et en sachant que, quoi qu’il arrive, nous continuerons la lutte. Il y a un manque de camaraderie, un manque de ressources et d’infrastructures, un manque de clarté idéologique concernant la façon de lutter aujourd’hui et pour les prochaines décennies. La conviction nous manque que la meilleure chose à faire pour notre liberté, pour notre bonheur, pour notre vie, soit de lutter. Nous manque aussi la croyance que la lutte vaut toujours la peine et qu’elle est forcément le bon choix, quitte à mourir ou à être emprisonné·e. C’est pourtant cette idée – que la lutte est vie, et que la vie est lutte – cette vision philosophique, ce sentiment, qui permet de reprendre ses esprits et de garder le moral dans les moments les plus difficiles.
+
+Camarades, nous sommes les seul·es à pouvoir nous donner mutuellement cette force.
+
+En ce moment, dans ma ville, loin de Moscou, juste pour sortir avec des affiches et crier des slogans, nous devons tenir une réunion d’une journée entière pour penser notre stratégie, trouver des tactiques et calculer le risque qu’implique l’urgence dans laquelle nous nous trouvons. Je peux entendre l’anxiété et la peur dans la voix de mes camarades. Et ça étouffe l’imagination. Dans ces moments, il devient évident que si nous voulons avoir la moindre chance de gagner, il nous faut d’abord être capables d’imaginer la victoire. Actuellement, nous luttons même pour imaginer nous organiser et lutter.
+
+C’est la différence que je vois ici, maintenant, en revenant en Russie après être parti quelque temps. Voilà ce qui a évolué pendant ces dix dernières années. Dorénavant, chacun·e doit réfléchir à ce qu’iel est prêt·e à mettre en jeu, individuellement et collectivement.
+
+Il est maintenant clair que nous devons travailler dur pour nous préparer et nous organiser dans les moments calmes, et pas seulement dans l’urgence. Parce qu’actuellement, il n’existe pas de structure, il n’y a aucune expérience à transmettre et peu de personnes sont prêtes à prendre leurs responsabilités et à se mettre en danger parce que cela en vaut en la peine. Notre organisation ne nous permet pas de formuler des propositions claires. Seules restent la confusion, la peur, la colère et un sentiment d’impuissance. 
+
+J’ai quand même remarqué une chose. Je ne sais pas si je le vois parce que c’est ce que je souhaite en tant qu’anarchiste, ou si c’est la réalité, mais il me semble que les gens considèrent que Poutine a franchi la ligne rouge. Ils constatent que leur gouvernement nie tout en bloc alors que des vidéos circulent montrant des villes ukrainiennes éventrées par les roquettes et des civil·es déchiqueté·es. On a l’impression d’avoir passé une sorte de point de non-retour et que les gens se réveillent. Tout est encore confus mais le bruit est trop fort et trop présent pour continuer de dormir. Les gens semblent se réveiller chaque jour un peu plus.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/03/05/6.jpg Manifestant·es anti-guerre en Russie.]]
+
+Les questions de victoire et de défaite ont toujours été compliquées pour nous, anarchistes. Si nous devions imaginer la défaite de la Russie, il faudrait que l’on se demande ce qu’elle signifierait. D’un côté, les guerres civiles n’ouvrent généralement pas de possibilités de libération ou ne conduisent pas à une révolution sociale – au contraire, elles noient généralement tout le monde dans le sang des participant·es. Une victoire purement militaire ne sera jamais une victoire pour les anarchistes. Ce que nous considérerions comme une victoire nécessitera des générations d’efforts révolutionnaires et de développement de la société, sur de nombreux fronts de lutte. L’engagement militaire n’est qu’une pièce du puzzle de l’autodéfense ; il n’est pas envisageable sans des relations et un tissu social plus larges qui lui donnent un sens. D’un autre côté, la défaite politique et militaire de l’État russe et de son idéologie, quelle que soit la forme qu’elle prendra, pourrait créer des fissures, ouvrir des brèches et créer des passerelles vers des formes de changement social révolutionnaire qui restent impensables pour les habitant·es de la Russie, la « prison des peuples », depuis une centaine d’années.
+
+Pour certaines personnes en Russie, c’est maintenant ou jamais.
+
+En ce sens, je vois un énorme potentiel dans le mouvement féministe en Russie. Pour l’instant, je vois les participantes à ce mouvement faire de leur mieux pour s’organiser et porter leur point de vue dans les rues, auprès des gens. Quand il s’agit de présenter une conception de l’autodéfense qui rassemble de nombreuses manières de lutter dans une philosophie concrète, je crois que les anarchistes et les féministes peuvent faire mieux que quiconque. Particulièrement quand il s’agit de lutte armée – et tôt ou tard c’est toujours le cas, car cela fait partie de l’autodéfense – nous devons écouter attentivement le point de vue de nos camarades féministes de Russie et du monde entier, étudier leurs apports et soutenir leurs espaces d’organisation autonomes. Nous pourrions bénéficier des perspectives des femmes et des personnes trans et non-binaires qui ont vécu l’organisation et la lutte au Rojava ; cela pourrait nous permettre d’entrevoir des processus révolutionnaires auquel il serait difficile d’accéder autrement.
+
+Il est possible d’imaginer deux scénarios à partir de la situation actuelle. Soit nous assistons à la montée et au renforcement d’un État autoritaire comme notre génération n’en a pas encore connus, soit les événements évoluent vers des lendemains plus libres. Si le régime de Poutine s’effondre et que nous parvenons à travailler ensemble en tant que société, nous pourrons faire émerger des changements et affronter les éléments de la droite conservatrice qui n’abandonneront pas le rêve d’un monde russe.
+
+L’espoir seul ne suffira pas à faire de ce dernier scénario une réalité. Nous devons travailler dur dès maintenant pour le faire advenir, en s’appuyant sur ce qui existe déjà et que les générations de camarades plus agé·es nous ont légués. 
+
+[[https://cdn.crimethinc.com/assets/articles/2022/03/05/7.jpg « Celui-ci est mort. Celui-là mourra aussi. » Art guerrilla à un arrêt de bus en Russie, il y a quelques années.]]
+
+Au milieu de cette incertitude et de cette instabilité, il nous faut maintenant commencer à penser à long terme, imaginer où nous voulons être dans dix, quinze ou vingt ans. On peut compter les étapes que nous devons franchir à rebours, depuis l’avenir que nous voulons jusqu’à la situation que nous connaissons aujourd’hui, afin d’identifier les mesures à prendre dès maintenant. Bien sûr, il est impossible de tout prévoir à l’avance. Mais cet exercice de pensée consiste avant tout à envisager la lutte comme l’engagement d’une vie ; à considérer la répression et les gouvernements étatiques qui l’imposent comme des adversaires sérieux, mais aussi comme des étapes d’une lutte historique qui dure depuis bien longtemps et que d’autres poursuivront après notre disparition. En adoptant cette façon de voir les choses, nous continuerons à vivre au sein de cette lutte et de ses développements – à travers l’héritage que nous laisserons aux générations à venir. 
+
+Alors que la répression s’intensifie en Russie, adopter ce point de vue peut nous permettre de survivre à ce qui va arriver, à tenir bon dans les temps à venir. Cela peut également nous aider à définir nos relations avec les camarades aux côtés desquel·les nous nous battons, et avec celles et ceux que nous n’avons pas encore rencontré·es. Et il pourrait y en avoir beaucoup – cette crise traverse toute notre société, et en transforme le paysage.
+
+Cette façon de penser pourrait permettre l’émergence de la coopération et de la solidarité là où elles ne pouvaient pas exister auparavant, et de nous lier, comme anarchistes, avec d’autres personnes avec qui travailler à créer un monde meilleur. Les gens qui nous entourent sont tout ce que nous avons, et nous devons comprendre les lignes de faille actuelles de notre société. L’heure est à la bravoure et à la persévérance comme jamais auparavant – et c’est maintenant, alors qu’il est difficile d’imaginer ce qui va arriver la semaine prochaine, que nous devons agir de telle sorte que, quoi qu’il arrive dans les prochains mois ou les prochaines années, nous puissions être honnêtes avec nous mêmes, et être capables de nous regarder dans les yeux avec fierté et amour, en souriant.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/03/05/5.jpg class:portrait ]]
+
+***

@@ -1,0 +1,8 @@
+---
+title: "The Ex-Worker #82: Invasion and Resistance in Ukraine, Part II"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/03/04/the-ex-worler-82-invasion-and-resistance-in-ukraine-part-ii-grassroots-mobilization-against-putins-invasion-by-anarchists-from-ukraine-and-russia"
+---
+
+[**Listen here.**](https://crimethinc.com/podcasts/the-ex-worker/episodes/82) As the Russian invasion of Ukraine proceeds, anarchists on both sides of the border are mobilizing to resist. This episode collects a variety of statements and accounts from anti-authoritarians explaining their opposition to Putin's bloodthirsty imperialism while rejecting nationalism and the state. We share messages from the newly formed anarchist Committee of Resistance in Kyiv, as well as from Russian anarchist groups including Food Not Bombs Moscow, Anarchist Fighter, and St. Petersburg's Anarchist Black Cross. These testimonies refute Russian state and authoritarian leftist propaganda about the invasion and emphasize the possibilities for resistance and solidarity. An anarchist refugee attempting to escape the war zone gives a detailed report on daily life in the midst of war, martial law, the political composition of the armed forces, the grassroots mobilization of society for defense and mutual aid, the situation at the border, and ways to show support. Stay tuned for more coverage of anarchist analysis and resistance from the front lines of imperial war.

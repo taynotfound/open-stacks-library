@@ -1,0 +1,8 @@
+---
+title: "The Ex-Worker #83: Anti-War Resistance in Russia"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/03/11/the-ex-worker-83-anti-war-resistance-in-russia-anti-war-resistance-in-russia-syrian-refugees-on-ukraine"
+---
+
+[**Listen here.**](https://crimethinc.com/podcasts/the-ex-worker/episodes/83) Even as Russian forces continue their brutal assault on Ukraine, a growing domestic uprising is challenging the empire from within. This episode of the Ex-Worker focuses on the anti-war movement in Russia, analyzing it from an anarchist perspective and assessing the regime’s power and vulnerability. The episode opens with a call to action from the March 6th day of protest across Russia and a summary of militant direct actions against the war machine. An anarchist in the provinces shares a first-person reflection on the evolution of the anti-authoritarian movement and its prospects in today’s crisis, while an analysis from Autonomous Action considers Putin’s miscalculations, the information war, international dynamics, and possibilities for resistance. An independent journalist discusses the nature of the protests, police responses, migration and diaspora, censorship, the role of NATO, and lessons to learn from the invasion and the protest movement. We close out with a Syrian refugee collective’s reflections on how their experiences in the Syrian revolution and civil war can inform how international observers relate to the conflict. And just for fun, we throw in some hair-raising Russian songs related to protest and war. We’ll continue our coverage of the crises in Ukraine and Russia—and much more—in the coming weeks, so stay tuned.
