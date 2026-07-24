@@ -1,0 +1,2961 @@
+---
+title: "コップシティ建設を中止させウィーラウニーの森を守る運動との連帯"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2023/01/19/kotupusiteijian-she-wozhong-zhi-sase-atorantanouirauninosen-woshou-ruyun-dong-tonolian-dai"
+---
+
+私たちは全ての良心を持った人々に呼びかける。コップシティ建設を中止させウィーラウニーの森を守る運動と連帯しよう 。
+
+***
+
+１月１８日、アトランタ警察は、 軍事掃討作戦を森に展開し、人を一人射殺した。これはこの間、警察が運動に対して行ってきた一連の暴力的な報復の最新の事例に過ぎない。 当局は、コップシティがアトランタを「安全」にするために必要だという話を信じ込ませようとしているが、この虐殺は彼らの言葉が何を意味しているのかを明確にしている。
+
+森は地球の肺だ。森の破壊は私たち全員に影響を及ぼす。ウィーラウニーの森をブルドーザーで跡形もなく押しつぶしてしまうことが促進するジェントリフィケーションや警察暴力も同じだ。アトランタで起きていることは一地域の問題ではない。
+
+[[https://cdn.crimethinc.com/assets/articles/2023/01/19/1.jpg class:portrait]]
+
+コップシティに加担している政治家たちは、森の守り人たちを「外部の扇動者」として貶めてきた。南部において、この呼び名による中傷は不名誉な歴史を持っている。この呼び名は、当局が奴隷廃止論者や、労働組合の活動家や、公民権運動などに向かって使ってきたものだからだ。このような呼び名を広げる人々の目標は、 連帯を妨げ、コミュニティーをお互いに孤立させることである。また同時にこの呼び名は州や連邦の警察および軍を投入するための口実を作っているのだが、警察や軍こそが実の「外部の扇動者」だ。まさにその戦略の結果が、１月１８日の悲劇として衆人の前に晒されている。
+
+森の代わりに警察の訓練センターを建てることは、より暴力的に警察に見張られた社会を作り出すほかないだろう。納税者の財産は、社会的に必要な様々なことへの取り組みの代わりに、警察と武器会社の懐を肥やすために使われるだろう。大量の投獄と警察の軍事化は、犯罪を減少させることにも、貧困層や労働者階級のコミュニティーの置かれた状況を改善することにも失敗してきた。
+
+アトランタとアメリカの各地で、警察予算への投資がなされることで 犠牲にされてきたのは、手に入れることのできる食料、教育、子育てや医療であり、また手頃な価格で安定した住宅や、公園および公共の場所や、公共交通機関および人々の自由な往来、そして数多の人々の経済的安定である。警察の手に資源を集中させることは、企業と大富豪による富と権力の極端な蓄積を守ることに役立つのだ。
+
+増加した予算と政治家からの全権委任で警察は何をするのだろうか。彼らは人々を殺すのだ。それも毎日、欠かさず。彼らは学校に通う子供達や、両親や、 生存するので精一杯の愛する人たちを投獄しトラウマを与える。私たちは暴力や、人種主義や、強欲や、生に対する乱暴な無関心といった価値によって見境なく組織された社会に安住してはならない。
+
+アトランタで繰り広げられている闘争は、未来をめぐる闘いである。気候変動の壊滅的な影響が、私たちのコミュニティーにハリケーンや、熱波や、山火事によって打撃を与える中、この闘いに賭けられたものはこれまでになく明確である。そこで決定づけられるのは、私たちの後に来る者たちが受け継ぐのは、住まうことのできる地球なのか、それとも警察国家の悪夢なのかである。人間の命を消耗品として扱わない社会を作り上げるのは私たちなのだ 。
+
+森の守り人たちは私たち全てのためにより良い世界を作ろうとしている。アトランタの人々とあらゆる場所にいる未来の世代のために私たちは彼らを支援すべきである。
+
+以下はアトランタの森の防衛を支援するいくつかの方法です：
+
+- [<u>アトランタ連帯資金</u>](https://atlsolidarity.org/)に**寄付**してください：逮捕された抗議者達と進行中の訴訟のための法的費用のために使われます
+- プロジェクトへの出資者に**電話**して、コップシティ（[<u>アトランタ警察財団のリスト</u>](https://littlesis.org/org/173655-Atlanta_Police_Foundation)）への出資を止めるように言ってください。[<u>プロジェクトの建設会社</u>](https://stopreevesyoung.com/)に電話して、建設の契約を破棄するよう**電話**してください。
+- 政治的連帯の保釈金の資金、森の守り資金、そしてあなたの住む場所で森の守り委員会を**組織**してください。
+- 地域の連帯行動に参加または**組織**してください。
+- この連帯声明を**支持**して**拡散**してください。メールアドレスは：[<u>defendweelaunee@riseup.net</u>](mailto:defendweelaunee@riseup.net)
+
+***
+
+## Organizations
+
+- Rainforest Action Network
+- Critical Resistance (National, based in Oakland, CA)
+- CODEPINK (Global)
+- Rising Tide North America
+- Wild Idaho Rising Tide
+- Siskiyou Rising Tide (OR)
+- Rising Tide Portland (OR)
+- Rising Tide Chicago (IL)
+- Diablo Rising Tide
+- [350.org](https://350.org/) National
+- 350 Eugene (OR)
+- 350 PDX (Portland, OR)
+- 350 New Hampshire Action
+- 350 CT (CT)
+- 350 Brooklyn (Brooklyn, NY)
+- 350 Bay Area (Bay Area, CA)
+- 350 Seattle (WA)
+- 350 Massachusetts (Massachusetts)
+- 350 Chicago (Chicago)
+- 350 Hawaii (Hawaii)
+- Degrowth.info Collective (International)
+- Degrowth Collective (Toronto)
+- Showing Up For Racial Justice (SURJ)
+- Showing Up for Racial Justice (Tucson, AZ)
+- SURJ Marin (Marin County, California)
+- Communities United Against Police Brutality (Minneapolis, MN)
+- Vallejo for Racial Justice
+- National Lawyers Guild 
+- National Lawyers Guild Mass Incarceration Committee
+- National Lawyers Guild Mass Defense Committee
+- National Lawyers Guild Bay Area Chapter (San Francisco, CA)
+- National Lawyers Guild Detroit & Michigan Chapter 
+- National Lawyers Guild District of Columbia Chapter (Washington, DC)
+- National Lawyers Guild Minnesota Chapter
+- National Lawyers Guild Vermont Chapter
+- National Lawyers Guild Chicago (Chicago, IL)
+- Water Protector Legal Collective
+- [No More Deaths](https://nomoredeaths.org/en/) / [No Más Muertes](https://nomoredeaths.org/es/)
+- Spirit of May 28
+- Democratic Socialists of America - Atlanta (Georgia)
+- Democratic Socialists of America - Pittsburgh (Pittsburgh, PA)
+- Democratic Socialists of America - Portland, OR chapter
+- Democratic Socialists of America- Santa Cruz chapter (Santa Cruz, CA)
+- South Jersey Democratic Socialists of America
+- Savannah Democratic Socialists of America (Georgia)
+- Birmingham Democratic Socialists of America (DSA) (AL)
+- Lower Hudson Valley Democratic Socialists of America
+- Seattle Democratic Socialists of America (WA)
+- Pasco-Hernando DSA (FL)
+- Boston DSA (Boston, Massachusetts)
+- Williams College Young Democratic Socialists of America (Williamstown, MA)
+- Monroe Community College Youth Democratic Socialists of America (NY) (Rochester, NY)
+- University of Minnesota Duluth YDSA (Duluth, Minnesota)
+- Marxist Unity Group - DSA
+- Capital District DSA (Capital Region, NY)
+- Democratic Socialists of America - Richmond (Richmond, VA)
+- Milwaukee Democratic Socialists of America (Milwaukee, WI)
+- Madison Area DSA (Madison, WI)
+- Capital District Socialist Party (Albany, NY)
+- ShutDownDC (Washington, DC)
+- Center for Grassroots Organizing (VT)
+- [Climate Disobedience Center](https://www.climatedisobedience.org/)
+- [IkiyA Collective](https://www.ikiyacollective.org/) (Indian Territory,  Oklahoma)
+- The Indigenous Anarchist Federation / Federación Anarquista Indigéna
+- Des Moines Black Liberation Movement (Des Moines, Iowa)
+- Triad Abolition Project (Winston-Salem/Greensboro, NC)
+- Fish Holler Forest Farm (Cumberland, MD)
+- Soul Fire Farm (Grafton, NY)
+- Flanner House Farms (Indianapolis, IN)
+- Feed the People Farms (Georgia)
+- National Extinction Rebellion XRUS (chapters across US)
+- Extinction Rebellion Australia (Sydney, Australia)
+- Extinction Rebellion Justice Eugene (Eugene, Oregon)
+- Extinction Rebellion Boston (Boston, MA)
+- Extinction Rebellion Philadelphia (Philadelphia, PA)
+- Extinction Rebellion Delaware (New Castle, DE)
+- Extinction Rebellion Bloomington (IN)
+- Extinction Rebellion (Portland, OR)
+- Extinction Rebellion New York
+- Extinction Rebellion NYC (New York City)
+- No Coal No Gas (NH)
+- Cascadia Forest Defenders
+- Atlanta Antifascists (Atlanta, GA)
+- Atlanta Community Press Collective
+- Atlanta Justice Alliance (Atlanta, GA)
+- People 4 The People (Atlanta, GA)
+- Community Books (Stone Mountain, GA)
+- Savannah Federation of Democratic Women (Savannah, GA)
+- Savannah Against Cop City! (Georgia)
+- Blue Mountains Biodiversity Project (OR) 
+- Willamette Valley Abolition Project (OR)
+- October 22nd Alliance to End Homelessness (South Florida)
+- Roanoke Peoples' Power Network (Roanoke, VA)
+- Sunrise Ann Arbor (MI)
+- Sunrise Movement (Bowling Green, KY)
+- Sunrise Hunterdon County (Hunterdon County, NJ, USA)
+- Sunrise New Haven (New Haven, CT)
+- Sunrise Movement Pittsburgh (PA)
+- Sunrise PDX	 (Portland, OR)
+- Sunrise Movement Boston (Boston, MA)
+- Sunrise Movement Connecticut (Connecticut, USA)
+- Sunrise Movement Morris County (Morris County, NJ)
+- Green New Deal Virginia (Virginia)
+- River City Climate Collective (St. Louis)
+- Doctors for Global Health
+- Bay Area Coalition for Headwaters (Berkeley, CA)
+- [Survival Resistance](http://www.survivalresistance.org/), (Atlanta, GA)
+- Michigan Solidarity Bail Fund
+- Decolonial Solidarity (Canada)
+- Detroit Will Breathe (Detroit, MI)
+- Mountain Area Abortion Doula Collective (NC)
+- Charlotte Uprising (Charlotte, NC)
+- Resurgens John Brown Gun Club (Atlanta, GA)
+- Green Cove Defense Committee (Olympia, WA)
+- Arm in Arm 4 Climate (Washington, DC)
+- Human Rights Coalition (Philadelphia, PA)
+- Oil and Gas Action Network (Oakland, CA)
+- Solarpunk Surf Club (Lexington, KY)
+- Just Transition Northwest Indiana (Indiana)
+- Dirty South Right Watch
+- East Tennessee Harm Reduction
+- Autonomous Research Institute for Direct Democracy and Social Ecology
+- Bay Area Anti-Repression Committee (Bay Area, CA)
+- [CrimethInc.](http://crimethinc.com/)
+- [PM Press](https://pmpress.org/)
+- On Our Own Authority! Publishing (Atlanta, GA)
+- Rose City Antifa (Portland, OR)
+- NJ Hate Watch
+- Mutual Aid Disaster Relief
+- Tilted Scales Collective
+- Three Way Fight
+- Burning River Anarchist Collective (Cleveland, OH)
+- Green Mountain John Brown Gun Club (Vermont)
+- Chicago Anti-Fascist Action
+- Autonomies Collective
+- Twin Cities Logistics Collective (MN) 
+- Tilted Scales Collective
+- Semillas Collective (LA, NYC and Mexico)
+- Neighborhood Anarchist Collective (Eugene, OR)
+- Cheyenne River Grassroots Collective (Lakota Territory, aka so-called South Dakota)
+- Filler Distro (Pittsburgh, PA)
+- Certain Days (North America)
+- NorCal Resist (Sacramento, CA)
+- Queers Bash Back (Columbia, SC)
+- [Firestorm Books](https://firestorm.coop/)
+- Florida Prisoner Solidarity
+- Friend of a Friend NYC (Manhattan, NY)
+- Friends Print Collective (Minneapolis, MN)
+- Hellbender (Asheville, NC)
+- [Ill Will magazine](https://illwill.com/)
+- Industrial Workers of the World Tallahassee
+- Atlanta IWW GMB (Atlanta Metro Area, GA)
+- Industrial Workers of the World Washington DC
+- Northern New Jersey Industrial Workers of the World GMB (Paterson, NJ, USA)
+- South Carolina IWW GMB 
+- [It's Going Down](https://itsgoingdown.org/)
+- Black Powder Press
+- Detritus Books
+- Brown Recluse Zine Distro (Oakland, CA)
+- Chicago Against Cop City (Chicago, IL)
+- Colorado Springs Anti-Fascists (Colorado Springs, CO)
+- Colorado Springs Peoples Coalition (Colorado Springs)
+- Popular Organization Francisco Villa de Izquierda Independiente (Los Panchos) (Mexico)
+- Ahuehuete.org (Mexico)
+- Parque Comunitario Panul (La Florida, Chile)
+- Red por la Defensa de la Precordillera (Santiago, Chile)
+- Salvemos el santuario de Hualpén (Bio Bio, Chile)
+- Coordinadora Territorial Wallpen (Bio Bio, Chile)
+- [Les Peuples Veulent/The Peoples Want](https://linktr.ee/lespeuplesveulent)
+- Lundi Matin (France)
+- Fridays for Future Flensburg (Germany)
+- Black Mosquito (Germany)
+- Montreal Anarchist Bookfair Collective
+- Czech Anarchist Federation (afed.cz)
+- A-ryhmä (Finland)
+- The Blockade Australia Network
+- Embros Theater (Athens, Greece)
+- Void Network (Greece and worldwide)
+- Support Earth (Greece)
+- Copwatch (Greece)
+- ZahedanStrong (Iran)
+- Save the Hammarby Forest (Stockholm, Sweden)
+- Bokkafé Angbett (Sweden)
+- Anarkism.info (Sweden)
+- Irregular Rhythm Asylum (Tokyo, Japan)
+- North East Anarchist Group (UK)
+- La Mer Monte, cycle d'écologie anticapitaliste, Marseille (France)
+- Youth for Climate Justice (Slovenia)
+- Graduate Employees Organization (GEO-3550) at the University of Michigan (Ann Arbor, MI)
+- Graduate Employees Organization, AFT Local 3550 (Ann Arbor, MI)
+- Students Allied for Freedom and Equality (Ann Arbor, Michigan)
+- NYC Public Sector Rank and File (PSRF)
+- Coffee with Comrades
+- Tucson Bail Fund (AZ)
+- Pride was a Riot (Sacramento, CA)
+- The Lavender Angels
+- Geoff Doner, Bureau of Power and Light Art Collective (Toronto, CA)
+- [Antimidia](https://antimidia.noblogs.org/)
+- Asheville Anti-Racism (Asheville, NC)
+- Clouded Mind
+- The Fellowship of the Hellbound
+- Minneapolis Against Cop City (Minneapolis, MN)
+- Jax Veg Fest (Jacksonville, FL)
+- Jersey Counter-Info Collective (NJ)
+- North California Environment Protection Group (CA)
+- Olympia Jail Support (Olympia, WA)
+- Save the Meadows (Philadelphia, PA)
+- Seitanic Jax (Jacksonville, FL)
+- Soup For My Family (Atlanta, GA)
+- Yanawana Herbolarios (San Antonio, TX)
+- Yes We Cannibal art collective (Baton Rouge, LA)
+- The People's Media NYC
+- The Healing Underground
+- Mergoat Magazine (Knoxville, TN)
+- Margot Land Design (Knoxville, TN)
+- Michigan General Defense Committee
+- Dirty Hands Collective
+- Distribuidora Anarquista Polaris (Galicia, Spain)
+- Manchester GMB (UK)
+- Judith's Dagger 
+- Washington Square Park Mutual Aid (NYC)
+- subMedia
+- Guerrilla Grafters 
+- Charis Books and More (Decatur, GA)
+- Coven Intelligence Program
+- Antidote Zine (antidotezine.com)
+- Community Not Cages (Winona, MN)
+- Agency Collective
+- Charlotte John Brown Gun Club
+- Solano Unity Network
+- Seaside Sounds Club of Connecticut
+- Illegibles (Poland)
+- Street Medics Corpus Christi (TX)
+- SAFE Boulder (Boulder, CO)
+- Spill Paint Art Action Collective (Twin Cities, MN)
+- Siskiyou Abolition Project (OR)
+- Colombia Freedom Collective
+- The Antifada Podcast
+- Emergency Release (NY) emergencyrelease.org
+- Iglesias Gardens (Philadelphia, PA)
+- Workers Voice / La Voz de los Trabajadores 
+- Herban Bridge Allies (Bridgeport, CT)
+- @OccupyWallStNYC
+- Reale Justice Network (Kansas City, MO)
+- Green and Red Podcast
+- Anarchist Radio Relay League
+- The Syrian Cantina (France)
+- Edist.ro Project
+- Recalcitrant Seeds
+- Breach Collective (Eugene, OR)
+- Emma Goldman Book Club (Dallas, TX)
+- Drymifolia Collective (Cascadian Bioregion)
+- Kolektiva
+- Beautiful Days Press (Brooklyn, NY)
+- Fifth Sun Project (Las Vegas, NV)
+- Direct Action Drumline (San Diego, CA)
+- FAMU SDS (Tallahassee, FL)
+- Climate Justice Committee (Minneapolis, MN)
+- Crooked River Anarchist Distro (Cleveland, OH)
+- Usufruct Collective International
+- Sound Off: Music for Bail (New York, NY)
+- Osterholzsoli (Wuppertal)
+- Bvlbancha Liberation Radio (New Orleans, LA)
+- Federation of Cascadian Anarchists and Syndicalists
+- Progress for Science (Los Angeles, CA)
+- Arboretum Detroit (Detroit, MI)
+- Mayakov+sky Platform (Oakland, CA)
+- Miami Valley Abolitionists (Dayton, Ohio)
+- Occupy Biden (Greenville, DE)
+- FTP DISTRO (Washington, DC)
+- Taller Ahuehuete
+- Crooked Moon Solidarity Space (Occupied Chinook Territory)
+- [Grassroots 2 Global](https://www.grassroots2global.org/)
+- AFP  (Anarhistična Fronta Posavje, Slovenia)
+- MZPP (Youth for climate justice Brežice, Slovenia)
+- Leinemasch BLEIBT (Hannover, Germany)
+- REDCLT - Rad El Dub Community Land Trust (Lake Worth, Florida)
+- Earth Neighborhood Productions
+- @1000people1000trees
+- Twin Cities Workers Defense Alliance (MN)
+- San Francisco Bay Area Independent Media Center (CA)
+- Cop-Free AFSCME
+- Socialist Rifle Association (National)
+- Charlotte Metro Chapter of the Socialist Rifle Association (NC)
+- Los Angeles Socialist Rifle Association
+- Tennessee Socialist Rifle Association
+- Canadian Socialist Rifle Association
+- North Georgia SRA (ATL, GA)
+- Triad NC Socialist Rifle Association (Unceded Haudenosaunee, Mohican, and Munsee Lenape Land)
+- Upstate NY Socialist Rifle Association 
+- Rogue Climate (Southern Oregon)
+- Radix Media
+- Panic! In The Discord research collective (disbanded)
+- Los Angeles Movement Advancing Socialism 
+- Puget Sound Prisoner Support (Seattle, WA)
+- East Bay Prisoner Support (CA)
+- People’s Health Sanctuary (Troy, NY)
+- Get Lit Zine Distro (Boise, ID)
+- Movement Rights / movementrights.org 
+- Animal Activism Mentorship 
+- Black Cats CPH (Copenhagen, Denmark)
+- Progressive Global Commons
+- People vs. Fossil Fuels (Washington, DC)
+- Fossil Free Media (Washington, DC)
+- Palm Beach County Environmental Coalition (FL)
+- Gainesville-Area Action for Environmental Justice (Gainesville, FL)
+- Sabal Trail Resistance (FL)
+- Everglades Earth First! (FL)
+- Earth First! Of Mastodon Valley (aka Hudson Valley, NY) 
+- Riot Act Books (Unceded Onondaga Territory (Binghamton, NY))
+- [Neurodivergent-U](https://app.neurodivergentu.com/)
+- Boundless in Motion (Kritee Kanko) (CO)
+- Rustbelt Abolition Radio (MI)
+- Open Oversight Virginia (Richmond, VA)
+- Police Free Penn (Philadelphia, PA)
+- Salem Neighborhood Anarchist Collective (OR)
+- Salem Food Not Bombs (OR)
+- DC Food Not Bombs (Washington, DC)
+- Jersey Shore Food Not Bombs (NJ)
+- Kingston Food Not Bombs (NY)
+- Food Not Bombs Memphis (Memphis, TN)
+- Food Not Bombs - South Bend (IN)
+- Lehigh Valley Food Not Bombs (Bethlehem, PA)
+- Tallahassee Food Not Bombs (FL)
+- Jedzenie Zamiast Bomb 2B (Food Not Bombs, Poland)
+- Garden Anarchist Network (NJ)
+- Soflaexit.com
+- Black Lives Matter - South Bend (IN)
+- Free Lexington (Lexington, KY)
+- Bates Leftist Coalition (ME)
+- End Solitary Santa Cruz County (CA)
+- Red Hammer Sports Club (Occupied Kalapuya territory)
+- Georgia Human Rights Clinic
+- Remora House (Washington, DC)
+- nolapeoplespage.raffle (New Orleans, LA)
+- Lucy Parsons Knife and Gun Club (North Georgia)
+- Lucy Parsons Knife and Gun Club (Atlanta)
+- Slanted House (Arcata, CA)
+- Workers Tap (Portland, OR)
+- Serve The People Akron (Akron, OH)
+- Tumultuous Ruin band (CA)
+- Atlanta Youth Liberation Front (Atlanta, GA)
+- DC Youth Liberation Front (DC)
+- SouthWest Youth Liberation Front
+- Municipal Adhesives
+- Beads Against Fascism
+- Judi's Midnight Diner (Medford, OR) 
+- Big Idea Bookstore (Pittsburgh, PA)
+- Northfield Against Line 3 (MN)
+- Unity and Struggle (Atlanta, GA & New York City)
+- Umpqua Watersheds (Roseburg, OR)
+- Atlanta Peoples Power Assembly
+- Autonomous Revolutionary Nordic Alliance (Sweden, Denmark, Finland)
+- Sly Badges Infoshop (Indianapolis, IN)
+- Rise Up Printings	(Springfield, MO)
+- Woodbine NYC (Queens, NY)
+- For the People - STL (Saint Louis, Missouri)
+- For the People, Long Beach (Long Beach, California)
+- Radical Anthropology Group (London, UK)
+- Voices of VV (Solano County)
+- Project Mayday (West Virginia)
+- Indivisible Lumpkin (Dahlonega GA)
+- Bookspace Columbus (Columbus, OH)
+- Planting Resistance Collective (Homestead, Fl)
+- Boise Mutual Aid (Boise, Idaho)
+- Alleghenies Abolition (Central PA)
+- Montclair Area Solidarity Network (Montclair, NJ)
+- DCBC Zine (Orange County, California)
+- Revolutionary Abolitionist Movement
+- Allan Gardens Community Aid Collective (Toronto, ON)
+- SoCal Antifa (Southern California)
+- Ratzon: Center for Healing and Resistance (Pittsburgh, PA)
+- White People 4 Black Lives / SURJ (Los Angeles, CA)
+- Atl Bike Life (Atlanta, Ga)
+- EAV Defends the Trees (Atlanta)
+- Emergent Goods (Worldwide)
+- Autonomy Recovery Self-Defense (Portland, OR)
+- Incarcerated Workers Organizing Committee (North America)
+- Ten Demands for Justice: The Road to Abolition
+- The Enviro Show (Florence, MA)
+- Toronto Against Fascism 
+- Terra Advocati
+- Taller Libertario Alfredo López (Cuba)
+- Burning Books (Buffalo, NY)
+- PeaceWorks (Brunswick, Maine)
+- Oakland Abolition and Solidarity (CA)
+- Anarchist Initiative Ljubljana (APL-FAO, Slovenia)
+- People's Spark KC (MO)
+- Promoting Enduring Peace
+- Palestine Legal
+- Zero Hour
+- Northwest Community Bail Fund
+- Left Voice
+- OMAS GEGEN RECHTS Deutschland Bündnis
+- Charlotte Revolutionary Study Group (NC)
+- Tamarack Oakland (CA)
+- Global Prison Abolition Coalition
+- Oregon New Economy (ONE) Project (Portland, OR)
+- KING'S BATTLEFIELD CHESS (R) (Philadelphia,PA)
+- Community Fridges Toronto (Toronto, Canada)
+- No Jail Deaths (Tucson, Arizona)
+- VIDAS NGO (Vega Baja, Puerto Rico Env)
+- Pittsburgh Palestine Solidarity Committee (Pittsburgh)
+- Negate City Zine Distro (Greensboro, NC)
+- Real Food Media (Minneapolis, MN)
+- [HEARD Advocates](https://behearddc.org/) (United States)	 
+- Appalachians Against Pipelines (Appalachia)
+- Fayetteville Police Accountability Community Taskforce (Fayetteville, NC)
+- Promoting Enduring Peace (New Haven, CT)
+- [Wald statt Asphalt Bündnis](https://twitter.com/wsa_buendnis) (Germany)
+- Pollinator Rare Plants	
+- Dirtbag Garden Club (Occupied Munsee Lenape Territory, so-called New York)
+- Celebrate845 (Hudson Valley NY)
+- Sober Rides Atlanta (Atlanta, GA)
+- eco haus collective (North Georgia)
+- avtonom.org (Russia)
+- Tekoşîna Anarşîst (Rojava)
+- MPower Change (New York, NY)
+- Chicago Action Medical (Chicago)
+- Bvlbancha Collective (Bvlbancha/New Orleans, LA)
+- Queers Against Kremlin (Dnipro, Ukraine)
+- Defund Newton Police (Newton, MA)
+- Mid-Ohio Valley Climate Action (Parkersburg, WV and Lowell, OH)
+- Alternative Library (Bellingham, WA)
+- VOCAL-NY Albany Chapter (Albany, NY)
+- Social Justice Action Center (SJAC) (Portland, OR)
+- Agroecology Research-Action Collective (US)
+- Center for Biological Diversity (Tucson, AZ)
+- Sane Energy Project (NY)
+- Grassroots Global Justice Alliance
+- International Concerned Family and Friends of Mumia Abu Jamal
+- Coalition to Protect New York
+- East River Park Action (NY)
+- Our Revolution Massachusetts Climate/Trees as Public Good working group 
+- No North Brooklyn Pipeline Alliance (NY)
+- Pittsburgh Labor Choir (PA)
+- PARA (Vancouver, BC)
+- Eco Owl Press (South Bend, IN)
+- Carrboro Really Really Free Market (North Carolina)
+- Institute for Anarchist Studies	 
+- Stop the Sweeps Seattle (Seattle)
+- Our Sacred Earth (Boulder, CO)
+- Freedom, Inc. (Madison, WI)
+- Amazon Watch (Traditional Ohlone, Muwekma, and Chochenyo lands)
+- Fletcher Energy and Environment Club (The Fletcher School at Tufts University, Medford, Massachusetts)
+- Global Women’s Strike – US (Philadelphia, PA; Los Angeles & SF Bay Area, CA)
+- Women of Color / Global Women’s Strike – US (Philadelphia, PA; Los Angeles, CA)
+- US Prostitutes Collective (US PROS) (SF Bay Area)
+- Payday men’s network – US (Philadelphia)
+- Legal Action for Women – US (SF Bay Area)
+- Every Mother is a Working Mother Network	 (Philadelphia, PA; Los Angeles, CA)
+- Network in Solidarity with the People of Guatemala // Red en Solidaridad con el Pueblo de Guatemala (EEUU)
+- Presente.org (National)
+- Abuse Survivors Collective (North Carolina)
+- Iowa Buffalo Rebellion Coalition (Ioway/Báxoje land)
+- Bronx Climate Justice North (Bronx, NY)
+- North Bronx Racial Justice (Bronx, NY)
+- Institute for Policy Studies Climate Policy Program (Washington DC)
+- Wall of Women (Denver)
+- Freedom to Thrive (Portland, OR)
+- Reclaim the Block (Minneapolis, MN)
+- Incarcerated Workers Organizing Committee-Milwaukee	
+- System Change Not Climate Change	 (North America)
+- Feminist Bird Club
+- Feminist Bird Club of Tucson (Tucson, AZ)
+- The Trellis - Bloomington Cooperative Living	 (Bloomington, IN)
+- Kinetic Communities
+- Occupy Bergen County (Bergen County, New Jersey)
+- Our Revolution Massachusetts Climate Justice group (Massachusetts)
+- Carceral Tech Resistance Network (Portland, OR)
+- Climate Hawks Vote (national)
+- Guerrilla Intellectual University (USA)
+- Dissenters (USA)
+- Generation Ratify	 
+- Hope Community Fridge (Chattanooga)
+- Fight Toxic Prisons
+- A-Radio Berlin
+- Actrices et Acteurs des Temps Présents (Brussels, Belgium)
+- Plant the Land (Gaza, Palestine)
+- University of Arizona College of Law National Lawyers Guild Student Chapter 
+- Central Ohio Youth Liberation
+- Freedom Road Socialist Organization 
+- Committee to Stop FBI Repression
+- Sunrise Corvallis (OR)
+- Boise Abolition Project
+- 198 Methods
+- [Resiste](https://resiste.squat.net/)!
+- Scientist Rebellion Turtle Island
+- Climate Justice Alliance
+- No Detention Centers in Michigan
+- NYC Jericho Amnesty Movement 
+- Center For A Stateless Society
+- FossielVrij Nederland (Netherlands)
+- Antifascist Music Alliance (Berlin, Germany)
+- Robin Wood (Germany)
+- Lincoln Ave Progressives
+- UConn UNCHAIN (CT)
+- Coalition to Abolish the Fur Trade (USA)
+- Jews for Palestinian Right of Return (USA)
+- Domestic Workers United (New York City)
+- Madison Infoshop (Madison, WI)
+- Madison Really Really Free Market (Madison, WI)
+- Tufts Climate Action (Somerville, MA)
+- Nuclear Information and Resource Service ("for a nuclear-free, carbon-free world") (Takoma Park, MD)
+- UVA Survivors (Charlottesville, VA)
+- Labor for Palestine (USA)
+- Brittlebush Distro	 (Inland Empire, Ca)
+- Fridays for Future US (USA)
+- Anti-Police Power Surrey (Surrey, BC)
+- Food & Water Watch (Washington, DC)
+- Against Bigotry, Responding with Action (Tujunga, California)
+- Inland Empire Harm Reduction (Riverside, CA)
+- People’s Justice Council (Birmingham, AL)
+- Environmental Performance Agency (New York City, NY)
+- VOICE Buffalo (Buffalo, NY)
+- Free the People WNY (Buffalo, NY)
+- Sextas Grietas Del Norte (US/Mexico)
+- IVICA RUS (Croatia)
+- Climate Families NYC (New York City)
+- Stockholm Anarchist Bookfair (Stockholm, Sweden)
+- Black Organizing Project (Oakland, CA)
+- Private Equity Stakeholder Project	 
+- Friends of Swazi Freedom (Worldwide)
+- Fund The People New Orleans (New Orleans, LA)
+- Sunrise Movement Kansas City (Kansas City, MO)
+- Western Movement Assembly (California)
+- Co–Star Astrology Society (New York, NY)
+- Alternatives for Community and Environment (Roxbury, Boston, Massachusetts)
+- Oil Change International (International)
+- National Campaign for Police Free Schools (National)
+- Great Falls Books Through Bars (Massachusetts)
+- Collective98
+- Anti-Police Power Surrey (Surrey, BC)
+- You Matter (Atlanta, GA)
+- PRAHM (WA)
+- Nattsvart Verkstad (Sweden)
+- Freedom & Captivity (Maine)
+- Peace Collective (California)
+- Outlive Them NYC (NYC)
+- Center for International Environmental Law (US/International)
+- Cienfuegos Cooperative (Miami, Florida)
+- Michigan Environmental Justice Coalition (Detroit, MI)
+- The John Cornyn Houston Office Protest (Houston, TX)
+- Central Ohio Revolutionary Socialists (Columbus, Ohio)
+- National Police Accountability Project
+- Charles H. Kerr Publishing Company 
+- Partisan Gardens - WFHB
+- Agência de Notícias Anarquistas-ANA (Brasil)
+- Care Not Cages (Bloomington)
+- Labor For Palestine (USA)
+- 31 Red LLC (Plano, TX)
+- Smugtown Mushrooms (Rochester, New York)
+
+## Individual Endorsements
+
+- Noam Chomsky
+- Starhawk
+- Rev. Seth Wispelwey (Tucson, AZ)
+- Rev. Alan Dicken (Cincinnati, OH)
+- Rev. Anne Dunlap
+- Rev. Chava Redonnet (Rochester, NY)
+- Rev. Cecil Charles Prescod (Portland, OR)
+- Allan Antliff (Canada)
+- Peter Linebaugh (Ann Arbor, Michigan)
+- Alan W Moore (Madrid, Spain)
+- Dr. Alexander Dunlap (Oslo, Norway)
+- Tatiana Seryán
+- Sumi Hasegawa
+- Payton McDonald, *Elements of Mutual Aid*
+- Leah Ayer, *Elements of Mutual Aid*
+- Josh Fox, director of *Awake, A Dream from Standing Rock*
+- Natasha Lennard (NY)
+- Shane Burley 
+- Joshua Potash
+- Andrew Culp (Los Angeles, CA)
+- Panagioti Tsolkas (Lake Worth, FL)
+- Vicky Osterweil
+- Cindy Barukh Milstein
+- Mattilda Bernstein Sycamore (Seattle, WA)
+- Kevin Carson (Winslow, AR)
+- No Bonzo
+- Donna Oblongata (Philadelphia, PA)
+- Scott Campbell
+- Barbara Wendeborn Brandom
+- Victor Wallis, author of “Red-Green Revolution"
+- Wesley Scott
+- Daniel McGowan (New York)
+- Charis Circle (Georgia)
+- Adam Horowitz (Decatur, GA)
+- Lib Aubuchon (Southside Atlanta)
+- Madison Green (Atlanta, GA)
+- Charlie Mackey (Atlanta, GA)
+- Lara Freedman (Atlanta, GA)
+- Cindi (Marietta, Georgia)
+- Sarai Turner (Decatur, Georgia)
+- Glenn Carroll (Decatur, GA)
+- Nicole Roos (Atlanta, Georgia)
+- Ziggy Bleau (Atlanta, Georgia)
+- K’Ann Parchment (Decatur, Georgia)
+- Robert Evans (Atlanta, Georgia)
+- Destiney Dempsey (Atlanta, Georgia)
+- Isabel Coyle (Decatur, Georgia)
+- Dawn B. Jones (East Point, Georgia)
+- Lisa Magee (Atlanta, Georgia)
+- Ellen Gebre (Atlanta, Georgia)
+- Alison Ross (Atlanta, Georgia)
+- Isabel Elmore (Alpharetta, Georgia)
+- Claire Wilkins (Dallas, GA)
+- Seth Maurizzio (Powder Springs, GA)
+- Kat Gomez (Atlanta, GA)
+- Emma Marzullo (Athens, GA)
+- Eden Taylor (Athens, GA)
+- Arabella Reddish (Marietta GA)
+- Jill Calderon (Atlanta, GA)
+- Sandy Barrett (Douglasville,  GA)
+- Chase Harvey (Atlanta, GA)
+- Joely Barrios (Decatur, GA)
+- E.R. Anderson (Decatur, GA)
+- Timothy Jouet (Atlanta, GA)
+- Ralph Macdonald (Decatur, Georgia)
+- Lisa Jouet (Atlanta, GA)
+- Christopher Brannen (Atlanta, GA)
+- Adrienne Carey Hurley
+- Andrew Hinz (Baltimore, MD)
+- Andrew Zonneveld (Atlanta, GA)
+- Patrick Farnsworth, host of Last Born In The Wilderness
+- caitlin manning (San Francisco, CA)
+- Anonymous comrades from Pellice, Infernotto, Susa valleys (Piedmont, Italy)
+- Beth Foss
+- Daniel Fischer
+- Jarrod Shanahan
+- Jules Bentley (Athens, Greece)
+- Lauren Sobchak (Kansas City, MO)
+- Merrie M Kelly, Oregon Insurance Lady (OR)
+- Nix Makoff (Chicago, IL)
+- Ray Gorlin
+- Robert Lee (Tallahassee, FL)
+- Ryan Deitsch (Parkland, Florida)
+- Timothy Cominghay
+- Tess Moschetta 
+- Frankie Baker
+- Alisha Bicknell
+- Andi Smith
+- Joshua Robinson (Edwardsville, IL)
+- John Johnson (Knoxville, TN)
+- Charli Ash 
+- Chris de Ocejo (Holyoke, MA)
+- Caleb Wexler
+- Jeff Clark (Ypsilanti, MI)
+- Megan Rosner (Roswell, GA)
+- Lane Phillips (Omaha, NE)
+- Margaretha Haughwout
+- Oliver Kellhammer
+- Keyanna Jones
+- Jerrod Moore
+- L.A. Kearns (Decatur, GA)
+- Medusa & Waffles (Atlanta, GA)
+- Ricky Maddix
+- Kelly Hayes, Lifted Voices (Chicago, IL)
+- Nicholas Isom (Atlanta, GA)
+- Anna Harrison (Mableton, GA)
+- John Leslie, Mid-Atlantic Workers’ Voice (Philadelphia, PA)
+- Michael Schreiber (Philadelphia, PA)
+- Timothy Eugene White Aiken
+- Jerome Jackson (Silver Spring, MD)
+- Ricardo Levins Morales (MN)
+- Karly Scott (OR)
+- Clayton Trumbull 
+- Gibson
+- Rachel Arney
+- Ben Ritter
+- Erin
+- Ashley Pollard
+- Jenn P. (Roanoke, VA)
+- Jay Ulfelder
+- Peter Lubbs
+- Kendall Hayes
+- Arthur Fonseca (Picuris Puebla, NM)
+- Joseph Albernaz (NY)
+- Lateef McLeod (Oakland, CA)
+- Deanville Celestine
+- Liana
+- Astro Rys (Brooklyn NY)
+- Treye K. (Boise, ID)
+- Sara M. (Athens, GA)
+- Guillermo Kuhl (Forsyth Co, GA)
+- David Carter
+- Allyson Ngyuen (GA)
+- Emily Heineman (Auburn, AL)
+- Alex Davies (PA)
+- Jenipher Jones Bonino, A People’s Law Office (Denver, CO)
+- Melissa Bonaccorso (Hadley, MA)
+- Primrose Harm Reduction (Austin, TX)
+- Kati Hinman (Philadelphia, PA)
+- Lauryn-Elizaveth Dewberry (Pell City, AL)
+- Alexandria Dennis
+- Twisha (Atlanta, GA)
+- Alice Choup (Huntsville, AL)
+- Rae Kurland (Brooklyn, NY)
+- Shannon Mardis (Hillsboro, OR)
+- Wendy White (Boulder, CO)
+- Rachel Crew Sylvester
+- Suzanne Weir Brault (MD)
+- Amber S. (Atlanta, GA)
+- Sally Weltner (Baltimore, MD)
+- Lydia (Atlanta, GA)
+- Spencer (Atlanta, GA)
+- Jada Ackley (Philadelphia,PA)
+- Cristina Murphy (Fulton County, GA)
+- Emily Contract (Columbia, SC)
+- Kyle Krakow	
+- Jordan (Arcata, CA)
+- Lauren Rosen (Detroit, MI)
+- Heather Paulson (Minnesota, MN)
+- Ryan Bingham (St. Louis, MO)
+- E Berry (Jacksonville, FL)
+- Hazel (Atlanta, GA)
+- Peter Clavin (NJ)
+- J Hallie Roberts (Dexter, Oregon)
+- Julio César Ramírez	
+- Connie Li	
+- Amy Harris (CT)
+- Reva, Andrew, Friend Russell English (Lexington, KY)
+- Leon Elcock 
+- Mollie Greenough (Kennewick, WA)
+- Seth M (Occupied Kumeyaay Land)
+- Emma Armbruster (St. Louis, MO)
+- Ziggy Berkoff (Tualatin, OR)
+- Zola (Montreal, CA)
+- Alyssa Doyley
+- Lindsey P. (SC)
+- Benji Hart (Chicago, IL)
+- Solanum Carolinensis (Atlanta, GA)
+- Natalie (Burbank, CA)
+- Megan (Arlington, VA)
+- LOKI (Montreal)
+- Diana Eaves
+- Kavi Duvvoori (Ontario)
+- Nick Shillingford, Host - Socialist News and Views Podcast (Minneapolis MN)
+- Dean Spade (Seattle, WA)
+- Jess Dillard-Wright (Springfield, MA)
+- Bigg Chief (Stone Mountain, GA)
+- Taylor
+- Sam (New York, NY)
+- Tina McKim (Seattle, WA)
+- Ellen Taylor, Lost Coast League Chairperson (Petrolia, CA)
+- Jacqui Zeng (Chicago, IL)
+- Darlene Neal (Murfreesboro, TN)
+- Carlina Green (San Francisco, CA)
+- Max Granger 
+- Jessica McCollum (Spokane, WA)
+- Mariah Parker (Atlanta, GA)
+- Adrian Glover (Decatur, GA)
+- Chris Bolus (Detroit, MI)
+- Hannah Davis (VA)
+- Karpani Burns (Arcata, CA)
+- Flynn Hibbs (MT)
+- Yvonne Yen Liu (Los Angeles, CA)
+- Wyatt Reeves
+- Connor Warmuth (Marietta, GA)
+- David Angel (Bristol, UK)
+- Gussie
+- Sara Ysen (CA)
+- stanley wolukau-wanambwa (Providence, RI)
+- Rachel Gunter (NYC)
+- Edgardo Delgado (Mayaguez, Puerto Rico)
+- Ava B. (Boston, MA)
+- Michael Harris (CT)
+- Alyssa Landa (Pittsburgh, PA)
+- Lucy K. (New York, NY)
+- Jack B. Duffy (CT)
+- Sophie Lewis
+- Liet Borowski (so-called Canada)
+- Gaia Sartori Pallotta (Milan, ITALY)
+- Luca Passafaro (Milan, ITALY) 
+- Justin Seda
+- Evan B. (Washington)
+- Tom Anderson (Occupied Ohlone Territory)
+- Bee (Atlanta, GA)
+- Berj Alexanian (Decatur, GA)
+- DJ (Kansas City, MO)
+- Derrick Beining (30308)
+- Cate Hall (Ventura, CA)
+- Lorie Fincik (Pennsylvania)
+- Andrew (Dallas)
+- Anthony B (Atlanta, GA)
+- MJR (Middletown, CT)
+- McKenna Vanhorn (Jesup, GA))
+- Evan Murphy
+- Erica (Taiwan)
+- Kristen Doty (Brooklyn, NY)
+- Ella Edelstein
+- Abe Drayton
+- Rowan Cheyne
+- Avril Marx (Chicagoland, IL)
+- Aubréy Bang-Guérin (Paris, France)
+- Deb Malkin
+- RJS
+- Hillary McInerny
+- Emma Wusi
+- Renee Myers (Missouri)
+- Sylvia Shriner (Washington)
+- Katherine Pina (Arlington, TX)
+- Eluned Li
+- Grace (Oregon)
+- Alan L. Stewart (Olympia, Washington)
+- Evalla (Oregon)
+- Stephanie B (Connecticut)
+- Remy Rose Way (Montgomery County, Pennsylvania)
+- Diane Falkowski
+- Pamelaj Paro (Portland, OR)
+- Sommer Anderson (Richmond, VA)
+- Jennifer K. Falcon, ikiyA Collective (San Antonio, TX)
+- C. Anderson (Decatur, Georgia)
+- Felecia Phillips (Alabama)
+- Evan Bode (Syracuse, NY)
+- Justianna (Georgia)
+- Trisha Pahawa (Marietta, Georgia)
+- Thomas Kopp, Nashville Antifascist (Nashville, TN)
+- Laurel Kearns (New Jersey)
+- Joanne Lavine (Oklahoma City, OK)
+- RJ Murray (Pittsburgh, PA)
+- Aleksandra Belotserkovskaya (Atlanta, GA)
+- Tori (Bay Area, CA)
+- Hector Vera (CA)
+- Stephanie Winfree
+- Will Pruett (Decatur, GA)
+- Simone Scott (Richmond, VA)
+- Todd Eaton (Brooklyn, NY)
+- Chanan Suarez (Flagstaff, Arizona)
+- T.W. Collins (Upstate NY, "but Atlanta is my hometown")
+- Kaisa (Boston, MA/Atlanta, GA)
+- Maya Rae Miller (Boston, MA)
+- Dove ER* (Occupied Piscataway and Susquehannock land (so-called "Baltimore"))
+- Cara Sanford (Marietta, GA)
+- Brett King (Grundy, Tennessee)
+- Doreen Stewart (TN)
+- Savannah Markham
+- Faye Ecklar (Decatur, GA)
+- Kat Wolfram (NY)
+- Nate Wendt (SD)
+- Sarah Cuk
+- Lillian Allen (Illinois River Valley)
+- Michael Hessel-Mial (College Station, TX)
+- Phoebe Weseley (FL)
+- Anna Stevens (Atlanta, GA)
+- Brendan Wissinger (Mount Union, PA)
+- Philadelphia Housing Action (Philadelphia, PA)
+- Steve Leigh (Seattle, Wa)
+- Cutte: The Transfeminine Trainwreck (WA)
+- Jenny Hubbard (Soquel, CA)
+- Johnny Joestar (Upstate New York)
+- Clare (Atlanta, GA)
+- Alexandra Mastorakis (Atlanta, GA)
+- Bloc from the Block (New York)
+- December Lee (NYC)
+- Lupita (Atlanta, GA)
+- Maria Low (WI)
+- Morgan Waite (DC)
+- rebecca
+- 庖丁 (Chikashsha I̠yaakni)
+- Leslie Dreyer (Durham, NC)
+- Kay Whitlock (Missoula, MT)
+- Anita Duvall (IN)
+- Nick M (Athens, GA)
+- Harpreet Chima (Stockton, CA)
+- Lee Abidakun (Canada)
+- Sebastian Sean Crow (TX)
+- Hunter (MI)
+- Will Voss (Champaign, IL)
+- Jacqueline Reed (IL)
+- Erin McNalley (Encinitas, CA)
+- Caroline Hallman (CA)
+- Br Scott Michael Pomerenk BSG (CO)
+- Ruth Boyajian (Atlanta, GA)
+- Jody Wynn Rodiger (Hartford, CT)
+- Maria Caicedo (NYS)
+- Jake Krakovsky
+- Matthew Owcarz
+- Redowl.org: Fynn (Baltimore, MD)
+- Paula Guthat (Detroit, MI)
+- Nicolette Hook (Atlanta, GA)
+- Vanessa Montijo (San Diego, CA)
+- Yaira Matos (Boston, MA)
+- Irene Domingo (St Paul, MN)
+- Gavin Healy (San Francisco, CA)
+- Cydnii Wilde Harris (Atlanta, GA)
+- Patrick Derilus (Brooklyn, NY)
+- Gitz Crazyboy (Treaty 7 Territory)
+- Kathryn F (VA)
+- Heather Hale (Atlanta, GA)
+- Julz (Atlanta, GA)
+- Jen Willsea
+- Barry Zhang
+- Mariska Harshbarger
+- Niko Johnson-Fuller (Champaign, IL)
+- Alina Rose (Atlanta, GA)
+- Muireall Brown (Portland, Oregon)
+- Catherine Kiley Glass (Warner Robins, GA)
+- Peter Stedman
+- Michael Jason Daly (Clarkston, GA)
+- Maddie Thomson Crossman (Jackson, ME)
+- Cyndia Hunnicutt
+- Michelle Kweder (Brunswick, ME) 
+- M Cathy Harmon-Christian, PhD
+- Bart Heath (Newburgh, IN)
+- Julian McDaniel (East TN)
+- Sean McCaffery (Charlotte, NC)
+- Michael Bennett Smith (Atlanta, GA)
+- Hailey DeWolf (Indianapolis, IN)
+- Kathryn Silverstein (Portland, ME)
+- Aivy Vu	
+- Erin (Atlanta, GA)
+- Stephanie Ellis	
+- Elizabeth King (Chicago, IL)
+- Bridget Kitson (Boise, ID)
+- Luke Otwell (Atlanta, GA)
+- Faith Coffman	
+- Bria Goeller (San Francisco, CA)
+- Greta B (Atlanta, GA)
+- Michael Coard (Philadelphia, PA)
+- Kyler Ferrill (Austin, TX)
+- M. Martin (Birmingham, AL)
+- Samuel Beaver (Tampa, Fl)
+- Basil (Occaneechee)
+- aiko hamamoto (Chicago, IL)
+- Hansen Hardin (Athens, GA)
+- Maria (GA)
+- Vani Natarajan (Brooklyn NY)
+- Megan Ives (Denver)
+- Jonas Berlin (California)
+- Mary Doyle (New York City/Lenape land)
+- Christel Loar (Eugene, OR USA)
+- Nathalie (Asheville, NC)
+- Robert Schneider	
+- Stephen C (Ohio)
+- Joshua Higginbotham (Oklahoma City, OK)
+- Rachael Chavez (California)
+- Dylan Jarrell (North Carolina)
+- Tareq Fayyad (Seattle)
+- Chloe Jaques (WA)
+- Sean Parson (Flagstaff, AZ)
+- Kelli (Atlanta)
+- anastasia (Geneva, NY)
+- Netters (Los Angeles, CA)
+- Madelyn Fetzko (Los Angeles)
+- Fane (Indiana, USA)
+- Teagan (CA)
+- Nishant Mohan (Atlanta, GA)
+- Becca Smith (Chicago)
+- Octavia Washington (Brooklyn, NY)
+- Edward Smith (Occupied Mascogo, Miccosukee, and Timucua territory)
+- Brooke Bastinelli (Los Angeles)
+- Elizabeth Schongar (Pennsylvania)
+- J.A. Vasquez (Pittsburgh, PA - Las Vegas, NM)
+- Mary H (Atlanta, GA)
+- George Jackson (Port Angeles, WA)
+- Deborah Elise White (Decatur, GA)
+- Mikah C
+- Carlos Gonzalez (Bloomingdale, FL)
+- Jasper Knox (Missouri)
+- Hunter McCray Wheeler (Morgantown, WV)
+- Paul Ottaviano (mid-west)
+- Jess I. (Atlanta, GA)
+- Lee Gough (Esopus, NY)
+- Trevor Leach (Asheville)
+- Apple/CliffordTMcGriff (Atlanta)
+- Melanie (Virginia)
+- Journey Martin (Boston MA)
+- Jami F (Atlanta, GA)
+- Kai Lopez (Homestead, Fl)
+- Cecelia Ruble (Minneapolis, MN)
+- Shane Meyer
+- Abi Hurland
+- Jada Thompson (Chicago)
+- Jhovan Murray (Atlanta,Ga)
+- Shay Black (Ottawa)
+- Steve (Atlanta)
+- Tony P (NYC)
+- Pauline St Denis (NYC)
+- Lauren Bosley (UK)
+- Pamela Skripak (Albany, NY)
+- Maggie Lyn (Sweden)
+- Lee Williams (Virginia)
+- Bailey Bond-Trittipo (Miami, FL)
+- Carolyn
+- Jeanmarie Swiontkowski (NY)
+- Kristin Hamilton (New Orleans)
+- Mari Sage F.
+- John Webster (Southern California)
+- Mari Sage F. (Athens, GA)
+- SJ Avery (Asheville, NC)
+- Dean B (Blackpool, UK)
+- Stephen Lett (Norman, OK)
+- Garrett Davis
+- T’ana Williams (Austell GA)
+- Shuvu Bhattarai
+- Vickie L (Atlanta, GA)
+- Timera Bennett
+- Maren Stephens
+- Ima O
+- Frances Yeager (Atlanta, GA)
+- Mercii Thomas (Washington, DC)
+- Jill Dimond (Ann Arbor, MI)
+- Jason Venegas (TN)
+- Peterson Silva (Florianópolis, Brazil)
+- Elliott Bauer (Decatur, GA)
+- Keely Quinn (Portland, OR)
+- Free Jessica Reznicek
+- Tyler (Columbus)
+- Grace Goulson (Louisville, KY)
+- Sam Harris (Atlanta, GA)
+- Fosia N.
+- Anna Rodriguez
+- Danielle Gonzalez (Florida)
+- Maraky A (Tonga & Chumash land (Los Angeles))
+- Callie Arechiga (Decatur, GA)
+- Sophia Spindel (Oakland, California)
+- Leandra Lovejoy (Atlanta, GA)
+- Han Kanzler (Orange County, California)
+- dana balicki (Joshua Tree, CA)
+- Devon Ingram
+- Berkeley Barnhill Stewart (Arkansas)
+- David Klein (Los Angeles, CA)
+- Connie Totera (Pittsburgh PA)
+- T. J. Demos (Santa Cruz, CA)
+- Jenna Prosperi
+- Mat Ross (Logan Township, NJ)
+- Angela Mathis (Atlanta, GA)
+- Katelyn Grimmett (Miami)
+- Heather (Michigan)
+- Dustin (Atlanta, GA)
+- Aliyah Auerbach (Atlanta)
+- Rachel Ogi (Chicago, IL)
+- Elizabeth Wilkowski (Douglasville, GA)
+- Pilar Maschi (NYC)
+- Alyse Wheelock
+- Avery Quinn (Olympia, WA)
+- Seth (Sioux City, IA)
+- Michael Almond (Marietta, GA)
+- Graeme Shaw (Winnipeg, Canada)
+- gayle dorothy (PNW)
+- Sydney Advani Ernest (California)
+- Pamela Yvette Cook (Atlanta, GA)
+- Janet Anna (San Diego)
+- Sarah Taylor (Atlanta, GA)
+- Joseph J Balkis (IL)
+- Izzy Esparza (Atlanta, GA)
+- claire eggimann (scottsdale, az)
+- Guadalupe Vazquez (Tempe, AZ)
+- Kasey Page (San Francisco, CA)
+- Aiden Harmon (Dallas, Georgia)
+- Bat (Chicago)
+- Michaela Wehner
+- Ania Hornowski (Roscommon, Ireland)
+- aubrianna sainz (arizona)
+- Kennard Bonilla (Maryland)
+- Jay B.
+- Jonathan Pomboza (NYC)
+- keri leigh merritt (Decatur, GA)
+- florian haller (Munich)
+- Kathl Stinson (Stone Mountain, GA)
+- Nathan (Texas)
+- Moss Lilith (Chattanooga, TN)
+- Frankie Judy (Bay Area, CA)
+- Harvey Holtz (Pittsburgh)
+- Eliza Adelle Gorman (Athens, Ga)
+- Grace Davies (Minneapolis, MN)
+- Seth Marino Donnelly (Bay Area California)
+- Brittney (Atlanta, GA)
+- Shelby Lopez (Duluth, GA)
+- Paul Till (Fishers, IN)
+- Elizabeth Daniell (New York)
+- Angela Marino Donnelly (Bay Area California)
+- jack (Arizona)
+- Yasser Munif
+- Jess (Atlanta, GA)
+- Jennifer Jewell (Toronto, Canada)
+- azey wang (Council of Three Fires Territories (Chicago))
+- Marta Jimenez (Atlanta, GA)
+- Stuart Selig
+- Meghan Smith (Atlanta, GA)
+- Gabriella Marcarelli
+- Marc Triller (Jersey City, NJ)
+- Isaac Wayne (Cleveland, OH)
+- Andrea (South Florida)
+- Dr. Rebecca Hall (Cambridge, MA)
+- Retta Sola (Atlanta, GA)
+- Marissa (California)
+- Skylar L (GA)
+- Warren Wagner (Chicago, IL)
+- Yasmeen Alfaqeeh (CA)
+- Cayden
+- Elise (Atlanta, GA)
+- Brigette Gillespie (Stone Mountain, GA)
+- Brooks Franklin (Otto, NC)
+- Robin Isherwood (Santa Barbara, CA)
+- Erik Kuranko (Bridgeport, CT)
+- Megan Cencula (NY, NY)
+- Katie W. (Woodstock, GA)
+- Iz	 
+- Bernie Eisenberg (Los Angeles)
+- Juliet H (Davis, CA)
+- Lila (Maryland)
+- Nehemiah Blodget (Oreland, Pennsylvania)
+- Cheyenne Turner	 
+- Lori A Crockett (Winchester, VA)
+- Kat Meyer-Reed (Decatur, GA)
+- Taylor Tutt (Queens, NY)
+- Barae Hirsch (Baltimore MD)
+- Baltimore Jail Support (Baltimore MD)
+- Phil Gasper (Madison, WI)
+- Sierra Russell (Canandaigua, NY)
+- Andrea Nasca (Bvlbancha)
+- Scott Ritchie (Atlanta, GA)
+- Joseph (VA)
+- Oakley Weiler (Hershey, PA)
+- erik agard (KCMO)
+- Sumi Hasegawa (Canada)
+- Georgia (Wisconsin)
+- Ximena Stroubakis (Winchester Va)
+- Ann Kennedy (Maine)
+- Eve Wesson (Colorado)
+- Daniel Mills (Iowa)
+- Mark Miele (Alabama)
+- Katy
+- Karen Bray (Macon, GA)
+- Kelsey Williams (Cartersville Ga)
+- Aella Rose-Hill (Minneapolis, MN)
+- Christian Noakes (Atlanta)
+- Tenzin Yangzom (Boston, MA)
+- Margaux Ratcliff (Atlanta, GA)
+- Nan Nitecka (Wisconsin)
+- Pipsqueak (Seattle, WA)
+- Adryan Corcione
+- Sacha MacLean (Ottawa, ON)
+- Samuel Abels (Parkersburg, West Virginia)
+- Katherine Cherry (Tucson, Arizona)
+- Lauren Francis	 
+- Rick (Bridgeport, CT)
+- doug shaeffer (chicago)
+- Emily Rodriguez	 
+- Kylie Alexander (Kansas)
+- Ryan Haberlein
+- grace ferzely (Athens, Georgia)
+- Jared Ware (Millennials Are Killing Capitalism) (Philadelphia)
+- Jeanette Jordan (La Habra, CA)
+- Leigh Ann Luscan (Richmond, VA)
+- Sophia Jane Blankinship (Poughkeepsie, NY)
+- Elli Rosa (Richmond VA)
+- Kaylee (Crested Butte, CO)
+- Alex L
+- Jillian Murphy (Portland, OR)
+- James Cooper (China, Maine)
+- Alecia Wallingford (Tokyo/NY)
+- Monique ortiz (NM)
+- Jackie Morales (Stockton, CA)
+- Lennie Wetmore (Occupied Oregon)
+- Julianah Vernon (Nashville, TN)
+- Omid Shekari (Pittsburgh)
+- Josh Rohrer (California)
+- Alyssa Leiva, Stockton Stands (Stockton, CA)
+- Brittany McLaughlin (New Jersey)
+- Nancy	 
+- Zachary Janick (Atlanta, GA)
+- Jodi Reeves (Pittsburgh, PA)
+- Harmonie Coleman	 
+- Ruth @Rooflesser (Los Angeles)
+- Riley (PA)
+- Mary K (Columbus, OH)
+- Marina Szende (Seattle, WA)
+- Dara Brown (Chicago)
+- Brianna Joyce	 
+- Jenny O'Connell (Brooklyn, NY)
+- Mason	 
+- Kara H (Atlanta, GA)
+- rosza daniel lang/levitsky (nyc (occupied lenapehoking), NY)
+- Elena (Los Angeles, CA)
+- Meghan Keane Studio (NYC)
+- J (Olympia, WA)
+- Sarah (Tennessee)
+- Emma (Atlanta)
+- Judy Gutierrez	 
+- Caitlin Kehler (Portland, Or)
+- Rose City Radical (Portland, OR)
+- Micaela Godfrey (Berlin, MA)
+- June Levier (Topeka, KS)
+- Grace Lane
+- Riley Harrington (Prescott, AZ)
+- Shiloh (Dayton, Ohio)
+- Madeleine (Brooklyn, New York)
+- Rose
+- Zoey Laird (Decatur)
+- Steve Schueth (Chicago, IL)
+- Caroline Nixon (Athens, Ga)
+- Pamela Brubaker (Bethlehem, PA)
+- Thad Danielson (Conway, MA)
+- Paul Reddy (Welwyn Garden City, England)
+- Maissa Albourini (Atlanta, Georgia)
+- Rye Butler-Corbett (Oregon)
+- Kara W	 (GA)
+- Alanna Morton (New York)
+- Holly A Stovall (Macomb, IL)
+- James M. Joyce (Louisville, KY)
+- Logan Metzler (Nebraska)
+- Malachy (Glasgow, Scotland)
+- Zena Kocher (MN)
+- Rebecca Quinn (Los Angeles, CA)
+- Phil Runkel (Waukesha, WI)
+- Cathy Cronin (Napanee, Ontario, Canada)
+- Peter Koch (Woodstock, New York)
+- Kevin Gallagher (Seattle, WA)
+- Peg Coogan (Ithaca, New York)
+- Richard Coogan (Ithaca, NY)
+- Dee Grady (British Columbia, Canada)
+- Rae Mariz (Stockholm, SE)
+- Carolyn Sara Beckingham (Lewes, East Sussex, UK)
+- gerhard zarbock (germany 34131)
+- Banj (VA)
+- Mr. Cristian J. Ramis (United Kingdom)
+- Vicki Fox (New York)
+- Elijah Mirman (Boston, MA)
+- Annabel Sammons (Rochester, NY)
+- Janice Stevenson (Asheville, NC)
+- Christine (Ontario, Canada)
+- Jake (Springfield, MA)
+- Wendy L. Haaf (London, Ontario, Canada)
+- Sandra Reischel (Washington, DC)
+- Candace (MA)
+- Diane	 
+- Alice Symmes (Massachusetts)
+- Joy Rosengarten (Merrick, NY)
+- Omekah Edmondson (Raleigh, NC)
+- Judy Katz (NY)
+- John Liss LL.B. (Toronto Canada)
+- Stephanie Bilenko (Illinois)
+- Joseph (Arkansas)
+- Sherah Faulkner (Chapel Hill, NC)
+- Teal (Clarkston)
+- Alessandra Nichols (Vermont)
+- Mary Ann Viveros	 
+- Paul O'Banion (Pacific Northwest)
+- Linda Scherzinger	 
+- Paul C. Garver (Acton MA)
+- Michael Lucero (Charleston, SC)
+- Bill Gawne, Jr. (North Riverside, IL)
+- Eric Miller (Columbia, MD)
+- Sherri J (Atlanta Metro)
+- Audrey Chapman	(Ireland)
+- Kathleen McHendry (Massachusetts)
+- Carrie Ferguson (Western MA)
+- tracie ashe (new orleans, la)
+- Ashley Shepherd (Denver, CO)
+- Janet Smeltz (Needham, MA)
+- Michelle B. (USA)
+- Patricia Layden (Seattle, WA)
+- Bjorn (Ohio)
+- Angela	 
+- Tadea Klein (Massachusetts)
+- Cindy Sass (Omaha, NE)
+- Mauricio Hollis	 
+- Susanna H Miller (Virginia Beach)
+- Arta Amiti (Hickory Hills, IL)
+- Fiona Gregory (Athabasca, Alberta, Canada)
+- Nick Kaye (Ormewood Park, Atlanta)
+- Myles Robertson (Tallahassee, FL)
+- Esther Seawell (Austin, TX)
+- Emily Townley
+- Joe Byars (Kalamazoo, MI)
+- Andrew Wehrheim (West Allis/Milwaukee, WI)
+- drew chafee (Tacoma, WA)
+- Bailey (Minneapolis, MN)
+- Max Moorhead (New York)
+- Elissa Fultz (Los Angeles, CA)
+- Summer (Berkeley, CA)
+- Heather Carver (Portland, OR)
+- Meera B.
+- Alissa Azar 
+- Barbara Rahder
+- Norma Field (Chicago, IL)
+- Jessica Moskowitz (Atlanta, GA/Gwinnett County)
+- Deborah Webb 
+- Stefan Christoff (Montreal/Tiohtià:ke)
+- Emma Henkel
+- Jonathan Nack, DSA* (*For identification purposes only)
+- Sandra Cobb (Moreland Hills, OH)
+- Brittany	(California)
+- Brandon Kalber (Atlanta, GA)
+- Molly Hartnett (Berkeley, CA)
+- Susan Garrison (St Louis, MO)
+- Sierra Mckie (Atlanta, GA)
+- Marguerite Pilger (Toronto, Canada)
+- Leora Harris (New York, NY)
+- Henry A Nelson (Wichita KS)
+- Marcy Chen (Virginia)
+- Zoe Webb (Atlanta, GA)
+- Deborah Kahkejian (Williamstown NY)
+- Stanley Williams (Atlanta, GA)
+- Rebecca Schwarz (Vermont)
+- Michael Czajkowski (Atlanta, GA)
+- Olivia	 
+- HP Lovesauce (Canada)
+- Nora Privitera (California)
+- Maddie Malone (Austin, Texas)
+- Caleb Klipowicz (Iowa City, IA)
+- April Woods	(Anchorage, Alaska, USA)
+- Levi Vonk (Washington, DC)
+- Dan La Botz (Brooklyn, NY)
+- Sebsatian Cadiz Garcia (So called "Georgia")
+- Jessica (Virginia)
+- S. Temple Sullivan (Asheville, NC)
+- Debra Reynolds Banting (Nova Scotia, Canada)
+- Angela Hoehne (Bavaria, Germany)
+- Stephen Oren (Chicago, IL)
+- Judith Doane (San Francisco, CA)
+- Liz Lundquist	 
+- Peoples Cauldro	(Cottekill, NY)
+- Rebecca Brachmann (St Petersburg, FL)
+- Greg C (Santa Ana, CA)
+- Brenda Morgan	 
+- Kirk Fast (Ozawkie)
+- Diane DiFante (WV)
+- Katie Siegmund	 
+- Ellie Roman (Florida)
+- Gigi McGaughey (London, United Kingdom)
+- Douglas M Mason (Port Matilda, PA)
+- Elizabeth Elliott (Columbus)
+- Ivana Morris (AZ)
+- Emily S	 
+- Alexandra Rhoads (San Jose, CA)
+- Laurel Kornfeld (Highland Park, NJ)
+- Kate Morales (Atlanta)
+- Leigh Fullmer (Utah)
+- Hannah C (Boston, MA)
+- Mira	 
+- Susan (Astoria OR)
+- Leslie Lomas (Colorado)
+- Hannah Truelsen (New York)
+- Janine Jones (Greensboro, North Carolina)
+- Joshua Slade Maddox (Alpharetta Georgia)
+- Rick Peterson (Portland, ME)
+- Hurd Hess (Iowa)
+- Keith Sosa (Phoenix, AZ)
+- Noelle	 
+- Jack Bellows (Atlanta, GA & Salt Lake City, UT)
+- Elio	 
+- Haley South (Alexandria, VA)
+- Stephen R. Shalom (Montclair, NJ)
+- Luna (Arizona) 
+- Robert Winston (Surrey, BC)
+- Ruby Arnone (Minneapolis, MN)
+- Nancy Holmstrom (NYC)
+- Arlo Fitschen (Phoenix, AZ)
+- Circe Wallace (California)
+- Jan Bargen (Reliquias, Portugal)
+- Chelsea Davidson (Tunnel Hill, Ga)
+- Christiana Constantinou (Kentucky)
+- Brendan O'Sullivan Olsen (Vancouver, BC) 
+- Fay Bracken (Apopka, Florida)
+- Judy J. Kohnson (California)
+- John Doucette (Pawtucket, Rhode Island)
+- Michael Schmotzer (York PA)
+- Steve Ongerth (cofounder, IWW Environmental Union Caucus) (Richmond, CA)
+- Kat Wiseman (Charlotte, NC)
+- Laura Sokoloski (New Hampshire)
+- Sharon Anderson (Toronto, Canada)
+- Amanda (WA)
+- Lina F. (Claremont, N.H.)
+- Neamhain Virtue (Portland, OR)
+- Caroline Gihlstorf	 
+- Jonathan Weintraub (British Columbia, Canada)
+- Sueño Fugaz (Tongva (Los Angeles, CA))
+- Zachary
+- Gwen Labbe	(Gainesville, FL)
+- Anne P (Michigan)
+- William Gisselquist (Tempe)
+- Mya Chabarria	 
+- Robert Moore (NC)
+- Ash-Lee W. Henderson (New Market, Tennessee)
+- Benjamin (Wales)
+- Caroline Kottmeier (North Hollywood)
+- Jonah Murray	 
+- J Kenderby (Toronto)
+- Eli Effinger-Weintraub (Minneapolis)
+- KTG (Fort Worth, Texas)
+- Daljit Soni (Maryland)
+- Raspberry of the Surface	 
+- Jen Nitz (Montana)
+- Penelope Shannon (Livingston, TX)
+- Kristen Annett (Cincinnati, OH)
+- Michael Slutsky (Minneapolis)
+- Kale Ratcliffe	 
+- Jerry Rivers (Roosevelt NY)
+- Howard Switzer (Nashville, TN)
+- Pat Lord (USA)
+- Vanessa (California)
+- Evan M
+- Jack Morehouse	 
+- Susannah Duncan	 
+- Rosie Thale (Chicago, IL)
+- ray mendoza	 
+- Dirk Marple (Kittredge, CO)
+- Clare Daher (Pennsylvania)
+- Blake (Atlanta, GA)
+- Noah Streng (Northampton, MA)
+- Michel Legendre (Brooklyn, NY)
+- Greg Camphire (Santa Ana, CA)
+- Kristen Bossert (Milton, DE)
+- MaryKate Bonner	(Norwood, MA)
+- Mary (Kansas City, Mo)
+- Takeo Granroth (Gilbert, Arizona)
+- Curtis Blankinship (Eugene, Oregon)
+- Amy (Buffalo)
+- Roman Christopher Reid (Las Vegas, NV)
+- Tiziana Perinotti
+- Jane Congleton (Providence RI)
+- Fae Summers (Stolen Powhatan land [Richmond, VA])
+- Mahroosa Haideri	 
+- Rachel Jones (Brooklyn, but from Atlanta)
+- Bethany Dusenberry (Hendersonville NC)
+- Jake Lowe (Washington, DC)
+- Abby (Worcester, MA)
+- George S. Buck (Decatur, Georgia)
+- Darla Eckart	
+- Ronald Wolniewicz (Toledo Ohio)
+- Stand.earth (Bellingham, WA)
+- Tamera Derby (Milwaukee, WI)
+- Shoshana (Tempe Arizona)
+- Rachel B. (Cheonan, South Korea)
+- Ted Scheinman (Washington, D.C.)
+- Aurora Brush
+- Corinna Schulenburg (Lenapehoking/New York City)
+- Jane Argodale (Asheville, NC)
+- Cali Zinga (Texas)
+- Rya (Las Cruces, NM)
+- Rita Rooney (Massachusetts)
+- Rebecca Fasman (Washington, DC)
+- mlou christ (WA)
+- David Huseth (Illinois)
+- Catherine (Concord, CA)
+- Sweta (Oakland)
+- Ted Griese (Kingston NY)
+- Vivienne Simon (Northampton, MA)
+- John P. Heyneman (Rochester, NY)
+- Kai (Duluth, MN)
+- Susan Heath (Oregon)
+- Sarah Mountz (Albany, New York)
+- Peter (St. Louis)
+- Takeo Suzuki	 
+- kd (Salem, Oregon)
+- Diana Cumming (MN)
+- Lauren Tatarsky (Ann Arbor, Michigan)
+- Michael Gilbreath (Wayland, MA)
+- Sheana Brown (Charlotte, NC)
+- Gael (Berkeley, CA)
+- Nguyen Hall (New York)
+- Alison Taylor (British Columbia, Canada)
+- Robin Bergman (Arlington MA)
+- Leslie Boyd (Illinois)
+- Celene Lyon (Rockport, MA)
+- Maria Goller (Union, WA)
+- Sue and John Morris (Marshfield, VT)
+- Debbie Campbell (St. Louis, MO)
+- Christopher Shepherd (BC, Canada)
+- Sam Law (Austin, Texas)
+- Matthew Heizman	 
+- Beth Ribet (Los Angeles, CA)
+- Sori Bannon (Chicago, IL)
+- lore wintergreen (Vashon, WA)
+- Alyssa (USA)
+- Susan Morrissey (California)
+- Sandra Phipps (Decatur, GA)
+- Edythe Cox (Boston, MA)
+- Wilson Stewart
+- Clarissa Smith (Portland, OR)
+- Gail Pearlman (Oakridge, OR)
+- Joey Ziegler (Seattle, WA)
+- Jesse Ginsburg	 
+- Sanjay Kumar	 
+- Janie Ginsburg	 
+- Larry Ginsburg	 
+- Selena Blick (Bend, OR)
+- Maiya Hoffman (Michigan, MI)
+- Haley Webb	 
+- Emilee Ann Wasiewski (Texas)
+- Elaine Nonneman (Seattle, WA)
+- Caroline Conrad (Brooklyn)
+- mary thompson (CA)
+- Jennifer Schwarzenbach (Seattle, WA)
+- Maria Jimenez-Zepeda (Seattle)
+- Molly O’Brien (New York City, NY)
+- Andrew McGlashan (Melbourne, Victoria, Australia.)
+- Mark M ("Here")
+- Kathy Kerridge (Benicia)
+- Jonathan Mitchell (Madison, AL)
+- Jill Dunham (California)
+- Michael Letwin (Brooklyn, NY)
+- Lin Griffith (Oakland, CA)
+- Lisa Tyler (Victoria, BC)
+- Kori Paganucci (Roseville, California)
+- Exen (Sacramento)
+- Raresh Vlad Bunea (Toronto)
+- C. Martinez (San Diego, CA)
+- Stellan Vinthagen, Endowed professor (University of Massachusetts Amherst)
+- Clive L Ocnacuwenga	 
+- Millen Kerry (NJ)
+- Thomas Körtvélyessy (Rotterdam, the Netherlands)
+- Keelan (Rhode Island)
+- Melissa Topacio Long (Bellingham WA)
+- Ann Smith (St. Johns, FL)
+- Jane P (Brookline, MA)
+- Melina Hammer	 
+- John Link (Home Park, Atlanta, GA)
+- Sasha S Switz (Boca Raton, FL)
+- Katie Wehrheim (Milwaukee, WI)
+- Mallorie (Raleigh, NC)
+- Denise Lytle (Woodbridge, NJ)
+- Emma Sopchak (Boston)
+- Lisa Berkovits (Massachusetts)
+- Nicolle (Illinois)
+- Victoria de Dios	 
+- Fred Wright (Brooklyn)
+- Gloria Chevalier (Fresno, California)
+- Harrison Stoneking (Columbus, Ohio)
+- Tierney Acosta (Silver Spring, MD)
+- Andrea Snoddy (Atlanta, GA)
+- Rose Marmion (St. Mary's Convent, UK))
+- Erin Bloom (Tennessee)
+- Avi (Halifax/Kjipuktuk, NS)
+- Semoni Weaver	 
+- Andy Dillon (NY, NY)
+- Kevin Maxwell Smith (Kent, Ohio)
+- Aderonke (Mantua, NJ)
+- dezeray lyn (Tampa, FL)
+- Mia	 
+- Nia Carter (NY)
+- Mars Scharf (Philadelphia, PA)
+- Jess Kenney (Northampton, MA)
+- Leila Salazar-Lopez (Oakland, CA)
+- Jacq (Kansas City, MO)
+- Nicole (Phoenix, Arizona)
+- Sparrow (Canada)
+- Alex H (NYC)
+- David Pellow (Santa Barbara, CA)
+- Marjorie Coppola (Arizona)
+- Jay (VT)
+- Joy Jennings (Atlanta, GA)
+- Patricia Morton (Los Angeles, CA)
+- Noelle Surat-Mosher (Boston, MA)
+- Lindsey Wagner (MD)
+- April	 
+- Grace Winternheimer	 (Salt Lake City, UT)
+- Maria Thomas (Michigan)
+- Gretchen Crawford (Rockland, Maine)
+- Zoe Ward (Fort Worth, Texas)
+- punkti Gandhi (Houston, TX)
+- Jacob Metz-Lerman (Brooklyn, New York)
+- Alexandra Foreman (Auburn)
+- Cullen Pospichal (Grafton, WI)
+- Abbey T
+- Sara Gutierrez (Dallas, Texas)
+- Anastasia Watson (Atlanta, GA)
+- Nadya Harrison (New Orleans, LA)
+- Eden (Atlanta, GA)
+- Akiem Rose (Los Angeles, CA)
+- Daphne Wysham (Washington)
+- Colin Krysl (Washington State)
+- Alexandra Everson (California)
+- Hannah DeWitt (Seattle)
+- Caitlin Ott (Philadelphia, PA / Lenapehoking)
+- Colin McElroy (Cobb county, GA)
+- Devi gopinathan (Seattle, WA)
+- jocelyn carpenter (Winder, GA)
+- Katherine Landesman (Boston, MA)
+- Perrine Guérin (Belgium)
+- Sara Landrey	 
+- Hillary Geller (Chicago, IL)
+- Anna-Marie Dolan (UK)
+- Rebecca Jean Emigh	 
+- Kelsey Nguyen	 
+- Alexis Fox	 
+- Khrizia K Velacruz (Oakland, CA)
+- Meghan Burrows (Florida)
+- Caden Healander (Los Angeles)
+- Mollie Wills (Vermont)
+- Namita Money (Baltimore, MD)
+- Jesse Drew (California)
+- Steve Riege (Connecticut)
+- Maggie Shanahan (Minnesota, USA)
+- Alexa	 
+- Gabriel Goffman (San Francisco)
+- Joan Steffen (Chicago, IL)
+- Anna Ingram (Tulsa, OK)
+- Elizabeth Seltzer	 
+- Kate Schram (Maryland)
+- Lauren Matheson (Canada)
+- Giorgio Losi	 (Bloomington, Indiana)
+- Ally R (Atlanta, GA)
+- tianna yellowbird (Canada)
+- Austin Hill (MA)
+- Imani Lawrence (New York)
+- Ellen (Ottawa)
+- Sarah Stark	 
+- Stephanie Sparrow (Michigan)
+- Molly Anderson (Middlebury, VT)
+- Tara (Bentonville, AR)
+- Samuel Ufford (Winnetka, IL)
+- Gloria Sanchez (Hawthorne, CA)
+- Ryan Dominguez	 
+- Love Hansell (Gothenburg, Sweden)
+- Hannah Landau	 
+- Rachel (Ohio)
+- Zara Khalid (McDonough)
+- Barbara Benas	 
+- sofia	 
+- Alison Page (MA)
+- Simone Ver Eecke (Brooklyn, NY)
+- Carissa Bolinski (Knoxville, TN)
+- emily (PA)
+- Jessica Ryan (Olympia, WA)
+- Renna Hintermeister (St. Paul, MN)
+- Nick Mercurio (Southeast Michigan)
+- Alyce Currier (Brooklyn, NY)
+- Michelle Sayles (Worcester, MA)
+- Ky Peterson	 
+- Josh B (Tucson, AZ)
+- Abby Leschinger (North Carolina)
+- Olivia Sullivan	 
+- Sarah (NC)
+- Julianne McCabe	 (Columbus, GA)
+- Sarah Duggan (Brooklyn, NY)
+- Kevin Gosztola (Chicago, IL)
+- Hannah Whitlark (Columbia SC)
+- Heather Montgomery (Old Fourth Ward, Atlanta, Georgia)
+- Ashton Valentine (Colorado)
+- Asha Salgado (Canada)
+- Elanny	 
+- Laila McCutcheon	 
+- Anne-Lise Francois	 
+- Emillie Adams (CT)
+- Tabatha (Seattle, Washington)
+- Eleanor Craig	 
+- Zeina Khalife (Athens, GA)
+- Micky	 
+- Alia s (BC, Canada)
+- Samara Johnson (Connecticut)
+- Nathan Stein (Chicago, IL)
+- Hannah Staples (Arizona)
+- Heidi A Hughes	 
+- Diane Doctor	 
+- Aodhán Connor-Farrell (Manahoac land)
+- Sirma Bilge (Canada)
+- Sabine von Mering (Wayland)
+- Sandra Barrett (Douglasville,  GA)
+- Aaron (Atlanta, GA)
+- Grove Galusha (Vermont)
+- Belinda Parra	 
+- Silver Damsen	 
+- Bonnie Lockhart (Oakland, CA)
+- M.J. Williams (NYC)
+- Rachel E Partain (America)
+- Emily Magnesi (Atlanta, GA)
+- Miki Nabetani	  
+- Athena Landy (Denver, CO)
+- Kaja (Brookhaven, GA)
+- Melisa Pacheco-Jaimes (Lawrenceville, GA)
+- Jessie Whitfield (Arizona)
+- Christina Cruz (Athens, GA)
+- Pamela L Blau 
+- Max Loxterkamp (Bristol, UK)
+- Annabelle Roh (Brooklyn, NY)
+- aliza	 
+- Mary Anna Thompson	 (Denver)
+- Courtney Mattinson (Alpharetta GA)
+- Phoenix W. Lee (Occupied Piscataway Land)
+- Lynese King	 
+- Ian Latinette	 (Pennsylvania)
+- Callie Cranfill	 
+- Shannon Duffy (Atlanta, GA)
+- Lynn Feinerman (San Francisco/Mill Valley California)
+- Janice (Las, Vegas)
+- Denisse Del Monte (Lawrenceville, GA)
+- Jamie Williams (Michigan)
+- Keagan Cranshaw (Savannah, GA)
+- Monica Campbell (New Jersey USA)
+- Haley Roeser (Los Angeles)
+- Rilyn Wagner (Atlanta, GA)
+- Kristina Todd	 
+- marta (Wompanoag land)
+- Lalita Martin	 (Atlanta, GA)
+- Omkar Joshi	 (Duluth, Georgia)
+- sonia marino (Vancouver, BC)
+- Crystal J Hoffman (Pittsburgh, PA)
+- Mariam Moazed	 
+- Morgan Lindsay (Ashland, OR)
+- Daniela (Miami, FL)
+- Mac McLaughlin (South Jersey, NJ)
+- Rebecca Scarborough (Camden, ME)
+- Katie Walkiewicz (San Diego, CA)
+- Jenna	 
+- Aili Thompson (Ottawa, Canada)
+- Kathiria Zorrilla-Feliciano (PA)
+- Jack Herold	 (Lakeville, CT)
+- Elijah Fountain	 
+- Jack Sanders (Madison, Wisconsin)
+- Bobby Timms	 
+- Vanessa Christaldi (Orlando, Florida)	 
+- Jason Cusell-Barnes (Alachua, Florida)
+- Matt Sessions (Florida)
+- Nayeli Maxson Velazquez (San Francisco, CA)
+- Calie Stark (Portland, OR)
+- remo giancola (Corvallis, OR)
+- dave gioia (Oregon)
+- Mary Trulley (Wisconsin)
+- Ivy (Canada)
+- Alexandra Lynn (Seattle, WA)
+- Gabrielle	 
+- Josie Vida	 
+- Shannon H. (MD)
+- Setsu Shigematsu (Riverside, CA)
+- David Riley (Freight riding the US)
+- Yana Lysenko (NYC)
+- Kailey Williams	 
+- Clara (Washington)
+- Mason Rollings (Inman Park)
+- Delta Delacruz	 
+- Llewyn Máire	 
+- Ashley Stevens (Vancouver, WA)
+- Malcolm Grant (NYC, NY)
+- Skye Murphy	 
+- Christina Powers (San Bruno, California)
+- Alejandra Bellavance (CA)
+- Megan Dobkin	 
+- MT	 
+- Jodi StJohn (Atlanta, GA)
+- Morgan (Los Angeles, CA)
+- alejandra olvera (Riverside, CA)
+- Josie Iller (FL)
+- Sarah Flickinger (Washington)
+- Suki deJong	 (Lake Worth, FL)
+- Carlo Zucchi (Como, Italy)
+- Elizabeth Violett	 
+- Eleen
+- Aleksander Varadian (New York)
+- natavia gage (Ohio)
+- Brina (Slovenia)
+- Priscilla J (CT, USA)
+- Miep (Gent)
+- Thomas Moran (Minneapolis, MN)
+- Samantha	 
+- Laima (Toronto)
+- Jessie Collins	 
+- Barbara Humphrey (Ludowici, GA)
+- Esther V. John (Seattle, WA)
+- David Copper (Staunton, Virginia)
+- Ashley Petersen (Pennsylvania)
+- Kara Moller (Washington, DC)
+- Bobby Timms	 
+- Susan Shearouse	 (Glen Allen, Virginia)
+- Ananta Alva	 (NJ)
+- Ruth Podolin (Medford, NJ)
+- Chris Rom (New York)
+- B. Alexandra Kedrock (Virginia)
+- Jake Padilla (Chicago,IL)
+- Sam Whitney (Washington)
+- Lindsey Schnabel (Atlanta, GA)
+- Celina Kong	 
+- Mesha Moore	 
+- Phil Runkel (Waukesha, WI)
+- Mike Harrington (Brooklyn, NY)
+- Meghana Karumuri (East Lansing, Michigan)
+- Evelyn L Ophir (Delray Beach, Florida)
+- Luanne Pasik (WA and AZ)
+- Lily Dusseau (Akron, Ohio)
+- Alexis (Texas)
+- Anne Craig (Asheville, N.C.)
+- victoria yusibova (Philadelphia, PA)
+- Cynthia Heil (Asheville, NC)
+- Blue Delliquanti (Minneapolis, MN)
+- Tereza Castillo (Phoenix, AZ)
+- Caitlin Schroering (Grew up in Atlanta, now in Charlotte, NC)
+- Sandra L Parks (Bridgewater VA)
+- Catherine T. Scott (Asheville NC)
+- Vincent Kolb (Pittsburgh)
+- Ella Fratantuono (North Carolina)
+- Atlas (Burlington, Vermont)
+- Bobbie Schroering (WV)
+- Samuel Korn (Minnesota)
+- Johnathan O’Keeffe (Lincoln, NE)
+- Molly Freiberg (Troy, NY)
+- Fred Wright (Brooklyn)
+- Paul Turner (Leicester, NC)
+- eva wo (Philadelphia, PA)
+- Evan Mulholland (Minneapolis, MN)
+- Melanie Willing (Richmond, VA)
+- Killashandra K	 
+- Donna Schutt (Asheville, NC)
+- Alexandra Melinchok (Silver Spring, Maryland)
+- Raven Rauth (Frederick MD)
+- Eliana Ruben (Texas)
+- Sharon Palmer (California)
+- Leigh Manley (Dennis, MA)
+- Hope Wilson (Buda, TX)
+- Damien (Bend, Oregon)
+- Iman Zouiten (Port Charlotte FL)
+- Ellen E Barfield (stolen Piscataway tribal land now called Baltimore, MD)
+- José María Saraví (Tandil)
+- Lori Kershner (PA)
+- Tom Nisse (Brussels, Belgium)
+- Bennett Berkowitz	 
+- Karen C.L. Anderson (Southeastern Connecticut)
+- Kathy Self (Asheville, NC)
+- Elizabeth Rodkewich (Madison)
+- Briana Conway (Sacramento, CA)
+- Gerritt and Elizabeth Baker-Smith (Portsmouth, VA)
+- Jacob Apenes (Portland, OR)
+- Donatella Galella (Riverside, CA)
+- Marshall (Brooklyn, NY)
+- Gianna Fine (Queens)
+- Felicity Quartermaine (Portland, OR)
+- Constance Rice	 
+- Julia Keane (Washington, DC)
+- Nancy C Tate (Riegelsville, PA)
+- Jenae Hemminger (Milledgeville, GA)
+- Lois Jordan	 
+- Brynn	 (Utah)
+- Martie Leys (Cotati, CA)
+- Liliana Noonan (Houston, TX)
+- Christine Niskanen (Binghamton, NY)
+- Ava Perl	 
+- Michelle Fairow (Rural WA State)
+- Drew Hudson (Vermont)
+- Kahlan	 
+- Carlos Martínez	 
+- Julia Kirn	 
+- Lucia Hernandez Larios (Austin, TX)
+- Laura Denick (New York, New York)
+- Cathy Holt (Barichara, Colombia)
+- Audra King (Hartford, CT)
+- Jonathan Stegall (Minneapolis, MN)
+- Emily Gottschling (Detroit)
+- Jacob (Florida)
+- Jacqueline Garduno Franco (NYC)
+- Cas Copher (WI)
+- Nina Chester (Navajo Nation, USA)
+- Meg Wright (Arizona) 
+- Molly Adams (NY)
+- Rachael Denny (Bradley, California)
+- Lorrie Streifel	 
+- Jacqueline (Maryland)
+- Lyndzie Zolac (Parma, Ohio)
+- Hayley Sanchez (Texas)
+- Noah Grigni (Atlanta, GA)
+- Lisa Adams
+- Maria Martinez (Alexandria, Virginia)
+- Hala Carter (Winterville, GA)
+- Iris Bordman (Vashon, WA)
+- Jennifer Scarlott (Bronx, NY)
+- Ana Cheng Jaramillo	 
+- Shelby Melton (Annapolis MD)
+- Drew de Man (South Fulton)
+- Sarah Medley (Portland, Oregon)
+- Cassidy DiPaola (Okeechobee, Florida)
+- Tiffany Mouzon (Jonesboro, GA)
+- Ally Langenkamp (Michigan)
+- Peter Rachleff (St. Paul, Minnesota)
+- Landon Adams (Kansas)
+- alexis duran (San Francisco, California)
+- Eric Morris (Akron, OH)
+- August (Oakland)
+- Kelly Wright	 
+- Brandy Knapton	  
+- Braven (NE Pennsylvania)
+- Elspeth Meyer	 
+- K [sic]
+- tony j hintze (Chicago, il)
+- Shana L. Redmond (New York, NY)
+- Maritza Mendoza	 
+- Jackson Kishbaugh-Maish (Berwyn, IL)
+- Wendy Mallette (Atlanta, GA)
+- Tracey Rocha (California)
+- Julian Dautremont (Columbus, OH)
+- Taylor Snodgrass (Indiana)
+- Muskaan Khemani	 
+- Rhea Hartwell (California)
+- Taven Zoe Frank (IL)
+- Christine Pappas (Los Angeles)
+- Elizabeth Berger (Oakland, CA)
+- Salem
+- A. Smith (Decatur, GA)
+- Nancy Graham (Chicago)
+- Caroline jordan (Atlanta)
+- Anne Marie Hertl (Grand Rapids, Michigan)
+- Moregan Szumanski (Michigan)
+- Hannah Zaritsky (Denver, Colorado)
+- Louise Halverson (Minneapolis, MN)
+- Sharon OHara Bruce (southeastern Michigan)
+- Teresa Brown (Canada)
+- Leah (Kansas City)
+- Nancy Yuill (Portland, Oregon)
+- Kendra Whelan	 
+- Don Kimball (Jacksonville, FL)
+- Laura Matthew (Worcester, MA)
+- Paige Coe (San Diego)
+- Michelle (TN)
+- Hannah Lane (San Rafael, CA)
+- Sara Melish (Oakland, CA)
+- Malia Kawaguchi	 
+- Marissa	 
+- Phil (Atlanta, GA)
+- Adam Denton (London, UK)
+- Sara (Kansas)
+- Josette Bailey (NYC, NY)
+- Barbara Thomas (Atlanta, GA)
+- Shari Sirkin (Corbett, Oregon)
+- Luke Anavi (Portland, Oregon)
+- John MacDougall	 
+- Casey	 
+- Jessica Scherer (Minnesota)
+- Samantha Love	 
+- Dee Allen (Oakland, California)
+- Ray Acheson (Brooklyn, NY)
+- Pat Albright (Philadelphia, PA)
+- Wren NS (Sweden)
+- Brian Kaneda (Los Angeles, CA)
+- Earnest Arky Solomon	 
+- Maya (Georgia)
+- Benjamin Colfax (Atlanta, GA)
+- Madison (Atlanta)
+- Henry Lear (Atlanta, GA)
+- Priscilla Merlo	 
+- Melissa Brown (Newton, MA)
+- Andrew Free (Atlanta, GA)
+- Mahnker Dahnweih (Madison, WI)
+- Marc Ramoneda	 
+- Maya Gomberg (Bulbancha)
+- Gail King (New York City, NY)
+- Gabriel Frazier (Savannah, GA)
+- Cloudy the Scribbler (Springfield, MA)
+- Madi Ugan (Chapel Hill, NC)
+- Yasmin E Mayer (Arcata, CA)
+- Corey Couch (Lula, GA)
+- Marissa Henriquez (Davis, CA)
+- Emily Smarte	 
+- Mathi Mugilan (So-called South Florida (land of Seminole))
+- Mars McCann Coruh (Los Angeles, CA)
+- Kara Reece (Virginia Beach, VA)
+- Bex Goolsby (New York City, NY)
+- Maria Gorman (Queens, NY)
+- Rodney Rowan Chandler (California)
+- Xavier Melvin (Savannah, Georgia)
+- Sonja Darai (Maine)
+- James (Texas)
+- Jada (Bowling Green, KY)
+- Matt (Atlanta, GA)
+- Kate Bergbower (Asheville, NC)
+- Michael Siptroth (Belfair, WA)
+- Michael Biggiani (Atlanta, GA)
+- Valerie Russo (Athens, GA)
+- Katy	 
+- Patrick (Oregon)
+- Siena Rafter	 
+- Aliyah S (Raleigh, NC)
+- David Cohen	 
+- Ezra Chaviv (Arkansas)
+- Debbie Kim	 
+- Pooja Patel
+- Clover Shillings (NY, USA)
+- Ken Schendel (Canada)
+- Kaniya Davis (Greensboro, NC)
+- Francisco Eraso (NYC, NY)
+- Sam Mera-Candedo (Baltimore, MD)
+- Helen Mrema	 
+- Liana Mestas	 
+- Rachel Goodman (Savannah, Georgia)
+- Nicole Baldy (Pittsburgh, PA)
+- Hannah (Atlanta, GA)
+- Luke (Nomadic)
+- John R Huff Jr (Denton, Texas)
+- Kyla Somerlot (Alabama)
+- Isabelle Borsanyi (New York)
+- Samantha (Sammie) Lewis (Detroit, MI)
+- Jerrica Martinez (Bloomington, IL)
+- Cris Hernandez (Los Angeles, CA)
+- Judy Ochoa (Orange, CA)
+- Evan (WA)
+- Barbara Wendeborn Brandom
+- Victor Wallis, author of “Red-Green Revolution"
+- Wesley Scott
+- Hector Brandt (Philadelphia, PA)
+- Asel Luzarraga (Basque Country)
+- Abi Stephens
+- Lauren Killion
+- David Beaulieu (Los Angeles)
+- Lindsay Culbertson (Buckhead, GA)
+- Sarah Gerringer (Virginia)
+- Alexis (Phenix City, Alabama)
+- Chuck Modi 
+- Enma Hopkins         
+- Emma (Philadelphia, PA)
+- Misha Choudhry
+- Caitlin Swirczynski         (Ohio)
+- Michael Heslar         
+- Julia Mcatee         
+- Judith Lienhard         (Oregon)
+- Dylan         (Atlanta)
+- Derya Sever         (Turkey)
+- Jaime O.         (Oakland, Ca (Stolen Ohlone Land))
+- Prem Parekh         (Suwanee)
+- Annabelle Pharrow         (Stillwater, Oklahoma)
+- Amy Verdonik         (San Diego, CA)         
+- Mackie Elwell         (Gwinnett County, GA)
+- Lauren Kesterson         (Tuscaloosa, AL)
+- Emily Mooshian         
+- Leo (Seattle, WA)
+- Morgan Patterson (New Haven, CT)
+- Amanda Bernard         
+- Anna Marie         (Massachusetts)
+- Melanie Evans         (Marion, NC)
+- Emilie Casey         
+- Avery         (Midlothian, VA)
+- Michela Rose         (Boston, MA)
+- Nicholas Fesette         (Decatur, GA)
+- Nia         (Chicago, IL)
+- Rosemari Roast         (Connecticut)
+- Journey Martin         (Dorchester MA)
+- Brianna Simmons         (Riverside)
+- Hannah Eichorst         (Atlanta, GA)
+- Mk Moskowitz         (Boston, MA)
+- Hannah Kass         (Madison, WI)
+- Rose Fairley         (Los Angeles, CA)
+- Vanessa Bretas         (Brooklyn, NY)
+- Feitian Ma         (Baltimore, MD)
+- Zak Zulty         (USA)
+- Leah Brindley         (Florida)
+- Jackie Harris         (St. Louis, MO)
+- Abigail         (Pennsylvania)
+- Genea         (Lenapehoking)
+- Alicia Hesselton         (Broomfield, CO)
+- Sophia         (Saint Paul, Minnesota)
+- Donna Shaunesey         (Virginia)
+- Miranda M         
+- Presleigh Hayashida         
+- Walker Caplan         (Brooklyn, NY)
+- Hallam Tuck         
+- Cameron Miller         
+- Rose Abramoff         (Knoxville TN)
+- Stacey Stewart         
+- Dutsch Dorman         (Murfreesboro TN)
+- Jenny         (Florida)
+- Ruth Bahl         (Baltimore, MD)
+- Margo Williams         (Thomasville, GA)
+- Carly Rizzuto         
+- Jacob Ruiz         (Los Angeles, CA)
+- Dave R         
+- Kal         (Pennsylvania)
+- Timothy Judson         (Syracuse, NY)
+- Alyce Trelawny Coleman         (CT)
+- Sara Redd         (Atlanta, GA)
+- Madison Mayhew         
+- Padma Dyvine         
+- Josh Klipp         (San Francisco, CA)
+- Olivia Lockhart         (Kirkland, WA)
+- Michael Whetten         (Garland, TX)
+- Charles Lockard         (Jacksonville, FL)
+- Autumn Sternemann         (Columbia, SC)
+- Emily Scholl         (Grand Rapids, MI)
+- Katie Anne Graves         (Atlanta, GA)
+- Theo         (Raleigh, NC)
+- Stefanie Wills         
+- Thomas Bolton         (Phillipsburg, NJ)
+- Emilynne Widick         (Nashville, TN)
+- Owen Schwartz         
+- Sophie Brant         (North Carolina)
+- John Mark Rozendaal         (New York City, NY)
+- Daniel Garcia         (St. Louis, MO)
+- Littlebird Dee         (Black Mountain, NC)
+- Brantley Littlejohn         (Indiana)
+- Julia Brokaw         (St Paul, MN)
+- Jean Cushman         (Baltimore, MD)
+- Kenneth Hardy         (Austin, TX)
+- Meredith A Smarr         (Colorado)
+- Maria A         (Texas)
+- Jeremy B         
+- Anthea Mitchell         (Jenison, MI)
+- Katie Chun         (Boston, MA)
+- Nicole G         (Washington, DC)
+- Allie Woodard         (Savannah, GA)
+- Ava         (Austin, TX)
+- Josie Saint         (Jasper, GA)
+- Rahul Deshpande         (Atlanta, GA)
+- Abby Oberg         (South Coast    Oregon)
+- Susan Meeker-Lowry         (Delanson, NY)
+- Holly Manning         (New Hampshire)
+- Natalie Koski-Karell         (San Diego, CA)
+- Mal Johnson         (Michigan)
+- Alice Mar-Abe         (Seattle, WA)
+- Emily Kincanon         (Moose Lake, MN)
+- Kris Acuña         (Rochester, MN)
+- Emma Ryan         (Northampton, MA)
+- Terry Tompkins         
+- Mark Scott         (Marfa, TX)
+- Lydia Burkett         
+- Maria Altamura         (Connecticut)
+- Autumn White Eyes         (Minneapolis, MN)
+- Riddhi S. Patel         (Central Valley, CA)
+- Jennifer Silverstein         (Windsor, California)
+- Zachary Oppenheimer         (Amherst, MA)
+- Elizabeth Scrafford         (Chicago, IL)
+- Frances Craik         (Phoenix, Az)
+- Katya Drake
+- Jenny         
+- Kurt Christian Reynolds         (Atlanta, GA)
+- Serena Soplop         (Florida)
+- Dee         
+- Griffin Franklin         (Flagstaff, Arizona)
+- Taylor Simonette         (Los Angeles, CA)
+- Hailey Olson         (Nevada)
+- Rich Averitt         (Soddy Daisy, Tennessee)
+- Denise Rischel         
+- Susan Larson         (Paso Robles, CA)
+- Joyce Grabush         (United States)
+- Tamara Hendershot         (Miami, Florida)
+- Linda Cummings         (Ohio)
+- Glow         (Boston, MA)
+- Dustin Mcdaniel, *Abolitionist Law Center* (Pittsburgh, Pa)
+- Ann Thryft         
+- Lisa A. Jacobson         
+- Alex Amonette         
+- Luci Evanston         (California)
+- Cindy Roper         (Northern NM)
+- Marilyn Mooshie         (Oregon)
+- Sally Jenks Roth  (Bristol, Vermont)
+- Martha Turobiner         
+- Martina Pilz (Germany)
+- Wrenn Reed         
+- Nyssa Mccarthy         (Pittsburgh, PA)
+- Abby Petersen         (Minneapolis, MN)
+- Michele Frisella         (Tucson, Arizona)
+- Karen Van Es         (Virginia)
+- Nia Howard         (Michigan)
+- Richard Solomon         (Oakland, California)
+- Craig Murray         (Windsor, Ontario, Canada)
+- Alex Kowtun         (Hornell, New York)
+- Anneliese Schultz         (Maine)
+- Robin Ouellette         (Massachusetts)
+- David Curtis Taggart         (Woodbridge, Virginia)
+- Usman Khan         (Austin, TX)
+- Sarah Frutig         (Arleta, CA)
+- Alyssa Jones         (West Virginia)
+- Ellen M Hinchcliffe         (Minneapolis, MN)
+- Kellie Osborne         
+- Maura Bradfield         (Ireland)
+- William Forrest         (Rochester, NY)
+- The Zemanick Family         (FL)
+- Janet Torgerson         (Arkansas)
+- Ryan Kuczynski         (New Jersey)
+- Deborah         (Philadelphia, PA)
+- Keith Wahl         (Florida)
+- Joseph Chin         (Indiana)
+- Debra Rehn         
+- Thomas Perez         (Titusville, FL)
+- Dan Peacock         (Texas)
+- Christopher Fuentes         (Seattle, WA)
+- Debra Wright         (Arizona)
+- Crystal Coddington         (PA)
+- Sheila Anderson         
+- Rita Garvey         (Florida)
+- Haley Horaz         
+- Shelley Simcox         (Bremerton, WA)
+- Janet G Heinle         (Santa Monica, CA)
+- Shanice         
+- Rev. David Sickles         (Cleveland, Ohio)
+- K. Strong         (New York)
+- Eesha Williams         (Dummerston, Vermont)
+- Martha Eberle         (Dripping Springs, Tx)
+- Kathleen Bungarz         (Walnut Creek, CA)
+- Joanne Desposito         
+- Mike Mcgowan         (USA)
+- Jenifer Johnson         (Marietta, GA)
+- John Mcginn         (Providence, Rhode Island)
+- Cheryl Voelker         (New York)
+- Erica Acebo         (Marietta, GA)
+- Diane Kraft         (Lewiston, NY)
+- Fayette Krause         (Pt. Townsend, WA)
+- Becky Franklin         (Minneapolis, MN)
+- Julia Lindemuth         
+- Glenn Majeski         (Daly City, California)
+- Steve Jones         (Sebastian, FL)
+- Charles Krueger         (Snellville, GA)
+- Paul Ukrainets         (Austin, TX)
+- Karen Wolf         (Maryland)
+- June         (Pootatuck Watershed)
+- Caroline Herritt         (Atlanta, GA)
+- Richard Payne         
+- Sarah Mozal         (Los Angeles, CA)
+- Forest Shomer         (Port Townsend, WA)
+- Lisa Haugen         (WA)
+- Melody C.         (Falmouth, MA)
+- Tony Beum         
+- Anthony Obst         (Berlin, Germany)
+- Charles Unger         
+- Tony Beum         (Littleton, Colorado)
+- Susan Yarnell         (Chapel Hill, NC)
+- Sea Branca         (Mendocino, CA)
+- Nancy C         
+- Janet Riordan         (Snohomish, WA)
+- Maryanne Tobin         (Philadelphia, PA)
+- Erik Boyd         (La Crescenta, California)
+- Barbara Rosenkotter         (Eastsound, WA)
+- Mary Almendarez         
+- Alexandra Rappaport         (Las Vegas, NV)
+- Elizabeth Phelan         (New York)
+- Gina Cipriano         (Kentucky)
+- Patrick Mcintyre         (Ypsilanti, MI)
+- Risa M Mandell         (Pennsylvania, PA)
+- Robin Weirich         (Irvine, CA)
+- Desi Bolanos         (New York)
+- Geraldine Gauer         (Louisville, Kentucky)
+- Chris Tarn         (France)
+- Michael Henderson         (California)
+- Shaun Mosley         (Atlanta, GA)
+- Jesse Goode         (Washington, DC)
+- Chris Dacus         
+- Elizabeth Smyth         (Valley Of The Mahicantuck)
+- Kathy Mcmath         (Ft Thomas)
+- Shelbie         (Missouri)
+- Donna Shellabarger         (California)
+- Manny Guerra         (Denver, Colorado)
+- Zachary Bowman         
+- Alison Thirkield         (Emory, GA)
+- The Red Dove         (NJ)
+- Cherry Hayes         (British Columbia, Canada)
+- Daniel Q. Moore         (Rochester, NY)
+- Ifeanyi Awachie         (Decatur, GA)
+- Imani         
+- Kathleen Ventrella         
+- Bernadette Gillick         
+- Michael D Markham         
+- Ann Duggan         (Barton, VT)
+- Katherine Roberts         (San Francisco, Formerly - Atlanta, GA)
+- Maggie Copeland         
+- Lisa Goodrich         (Boulder, CO)
+- Michael Crowden         
+- Lucia Pollock         (Washington, DC)
+- Viktoriya Abakumova         
+- Marlene D Bicardi         (North Miami Beach, Florida)
+- Suzanne L Swinconos         (Janesville, WI)
+- Susan C Peterson         (Michigan)
+- Zachary Jeffreys         
+- Deanna         (St. Louis, MO)
+- Suzanne Stamatov         (Santa Fe, NM)         
+- James Lamont         (St. Petersburg, FL)
+- Logan Threedouble         (California)
+- Denyse Chambers         (Canada)
+- Lucy Wills         (United Kingdom)
+- Mark Reback         
+- James And Rita Grauer         
+- Courtney Conover         (Level Cross, NC)
+- Teresa Mynko         (Southern California)
+- Bettina Hempel         (Teaneck, NJ)
+- Grace Tacherra Morrison         (Los Angeles, CA)
+- Anne Dwyer         (Seattle WA)
+- Anne Dwyer         (Seattle WA)
+- Robert Osborn         (Tacoma, Washington)
+- Janine         (Atlanta, GA)
+- Brigid         (Massachusetts)
+- Linda Walters         (Virginia)
+- Ji Montgomery         (Pennsylvania)
+- R         (California)
+- Grace Hunter         (Deland, FL)
+- Juliana Shepard         (Massachusetts)
+- Anna         (Oregon)
+- Eliet Donley         (Japan)
+- Nancy (AZ)
+- Edward R Handley         (Louisville, KY)
+- Patricia Rodriguez         (Tucson, AZ)
+- Anne Rara         (TX)
+- Meg Doyle         (New York, NY)
+- Ashley         
+- Lorraine Gray         (Massachusetts)
+- Mary C. Whiteside         
+- Rupal Nanavati         (Marietta, GA)
+- Parag Sampat         (Atlanta, GA)
+- Sarah Hearon         
+- Amy Bramblett         (Georgia)
+- Stephanie Anderson         (Florida)
+- Allen Singleton         (Atlanta, GA)
+- Elizabeth Watts         (Florida)
+- Jennifer         
+- Claudia Reed         
+- Gwendolyn Torres         (Pennsylvania)
+- Peggy S. Collins         (Southfield, MI)
+- Laura Wall         
+- Maria Esser         (Madison, WI)
+- Ron Raz         (Pennsylvania)
+- Tessa Marie         (Mount Clare, WV)
+- Julie Beer         (Palo Alto, CA)
+- Brooke Leader         
+- Kelly Sierra         (Arvada, Colorado)
+- Benay Blend         (Albuquerque, NM)
+- Noah Hewitt         (California)
+- Janet Selby         (Phoenix, AZ)
+- Alexandra H         (Billings, MT)
+- Jessica Tep         (Brooklyn, NY)
+- Jae         
+- Byron Cohea         (San Diego, CA)
+- Sarah Daggett         
+- Vicki Ingham         (Iowa)
+- Elissa         (Austin, TX)
+- Rebecca Leas         (Venice, FL)
+- Lynn Driessen         
+- Miranda Paige         
+- Jan Tucker         (Temecula, CA)
+- K         
+- Danna Dearborn         (Kittery Point, ME And Osprey, FL)
+- Chantez Neymoss         
+- Diana Wilkinson         (Flagstaff, AZ)
+- Olivia Mcnamara         
+- Abigail Klein         (California)
+- Elizabeth Costlow         (Fletcher, NC)
+- Ruthie Weller         (Waco, TX)
+- Galena Wurtzel         
+- Leslie Smith         (Oakland, CA)
+- Marge Maloney         
+- Maureen Schiener         (Buffalo, NY)
+- Kathryn J Damon         (NYC, NY)
+- Sabine Bradley         (Rochester NY)
+- Meredith         (Oklahoma)
+- Wm Briggs         
+- Mary Dicioccio         
+- Diego Henriquez         (Phoenix, AZ)
+- Erin Kidd         (Charlottesville, VA)
+- Christopher Mell         (Roswell, GA)
+- Charlotte Bicking         
+- M Callahan         
+- Hera Gerber         (St. Louis, MO)
+- Gerry Kumagai         (Toronto, Canada)
+- Kate Shepard         
+- Margaret R. Beegle         (Tucson, Arizona)
+- Ian Kpachavi         (Chicago, IL)
+- Eric Burr         (Mazama, WA)
+- Diana Morgan-Hickey         (San Jose, CA)
+- Matt Berry         (Bardstown, Kentucky)
+- Ira Gerard         (South Elgin, Illinois)
+- Emily Myers         (Atlanta, GA)
+- Patricia Bocanegra         
+- Margo Gross         (Arcata, California)
+- Patrick Diehl         (Tucson, AZ)
+- Bob Summers         
+- Monica Nelson         (Southern Islands)
+- Noriko Kumagai         (Toronto, Canada)
+- Carrie Lippy         
+- Donna Reynolds         (Upstate New York)
+- Eva Gabrielle Dickerson         (Chiang Mai, Thailand)
+- Diane-Michele Petrillo         
+- Carolyn Potts         
+- Rosalind Morehead         
+- Tinna         (Kansas City MO)
+- Michael Mahoney         (Texas)
+- Ulises Avila         (Seattle, WA)
+- Ivette Lopezfreeman (Atlanta, GA)
+- Ben Mayerik         (Marietta, GA)
+- Erin Glasco         (Chicago, IL)
+- Dawn Oneal         (Atlanta, GA)
+- Amanda Gormsen         (Los Angeles, CA)
+- Audreyana Boyd         (Los Angeles, CA)
+- Dr. Amy Eisenberg (Tohono O'odham Sacred Homeland, The Sonoran Desert)
+- Monroe Person         (Texas)
+- Dani S         
+- Aurora Massari         (Los Angeles, CA)
+- Ian         (Long Beach, CA)
+- Joseph Retsky         (Tucson, Arizona)
+- Jacob Abiad         (Canada)
+- Emily Harding         (Washington, DC)
+- Susan Bannister         (Maryland)
+- Ivica Rus         (Croatia)
+- Danielle Eveillard         
+- Ariel Fybush         (NYC, NY)
+- Karen Gilliland         
+- Issie         
+- Marian Hussenbux         (Britain)
+- Cristina De Jesus Morales         (Chicago, IL)
+- Joan How         (United Kingdom)
+- Gianluca Guaitoli         (Italy)
+- D'anna Asher         (Kauai)
+- Sierra Jones         (Eureka, CA)
+- Josh G         (North Dakota)
+- David Beaulieu         (Los Angeles, CA)
+- Carol Schaffer         
+- Sabree Galvan         
+- Lex Clearwater         
+- Bernard De Volder         
+- Maria Geusebroek         (France)
+- Ann Marie Daly         (Ireland)
+- Doris Verkamp         
+- Angela         (NC)
+- Marina Ris         
+- Kristin Seegert         (Michigan)
+- Stella         (Montreal, Canada)
+- Marja Leino         
+- Phyllis Grande         (Ny)
+- Elizabeth Urban         (Niles, Illinois)
+- Elisabeth Sidler         (Switzerland)
+- Cindy Hatcher         
+- Phillip Anderton         (Poole, UK)
+- Kiersten Lapense         (New Jersey)
+- Maggie Martin         (Decatur, TN)
+- Katherine O’Sullivan         (New York City, NY)
+- Landis Crockett         
+- Tishea         (Houston, TX)
+- Natrice Tilghman         
+- Jennifer Hunt         (Chicago, IL)
+- Terri Friedline         (Michigan)
+- Michael Wilaon         (Watertown, MA)
+- Adrianna         (UK)
+- Julie Alley         
+- Michael Gulley         (San Antonio, TX)
+- Elizabeth Jones         (New York)
+- Samuel Morningstar         
+- Shannon M. Coleman         (Rochester, NY)
+- Evan Villeneuve         (Detroit, MI)
+- Ari Braverman         (Queens, NY)
+- Paul Reddy         (W.G.C., Hertfordshire, England)
+- Tori Parsons         (Maine)
+- Ernie Boyd         (Asheville, NC)
+- Alana         (Rochester, NY)
+- Victoria Jackiw         (Erlangen, Germany)
+- Rebekah Steers         (Colorado)
+- Robert Moore         (NC)
+- Kathryn Elizabeth Reichard         (California)
+- Conor Wrigley         (Illinois)
+- Dawn Paley         (Puebla, Mexico)
+- Hanna Novak         (Detroit, MI)
+- Grayson Hester         (Atlanta, GA)
+- Michelle Dyrness         (Altadena)
+- C (NM)
+- Zephyr Converse         
+- Brittany Shaheen (Michigan)
+- Stephen Benson, Phd (Blue Hill, ME)
+- Monica Shores         
+- Robin How (UK)
+- Brianna Chastain         (Texas)
+- Emily Trincado         (Indiana)
+- Sara         
+- Joan Carol Welte         (Philadelphia, PA)
+- Clifford L. Snook         (Milford, PA)
+- Savannah Baird         
+- Julie Singh         (Atlanta, GA)
+- Sharon Franco         (Fort Myers, FL)
+- Ashley Barrienots         (Murfreesboro, TN)
+- Devin Murphy         (California)
+- Brenda Ramos         (New Jersey)
+- May         (New York)
+- Van Hopper         (Portland, OR)
+- Katie Luther         (Atlanta, GA)
+- Raimi L         
+- Cindy Hwang         (Brooklyn, NY)
+- Sativa Nadeau-Benton         (Macon, GA)
+- Lexie Vogel         
+- Scott Buchner         (Port Townsend, WA)
+- Robin Wood (Germany)         (Germany, Hamburg)
+- Mrs. Marilyn Dougher         (Anchorage, AK)
+- Elizabeth Fox         
+- C Day         (Florida)
+- Elena         
+- Rodger Field (Chicago, IL)
+- Alexis B         (Georgia)
+- Evan Mccoy         (Englewood, CO)
+- Takis Karakatsanis         
+- Sara Wicoff         (Texas)
+- Amelia Madden         (California)
+- Mitra         (Santa Cruz, CA)
+- Eric Patel         (New York, NY)
+- Jenna Yeakle         (Duluth, MN)
+- George Leddy         (Los Angeles, CA)
+- Ann Currie         
+- Erica Baum         (New York)
+- Frieda Weinstein Biton         (Montreal, Quebec    Canada)
+- Elizabeth Weaver         (Atlanta, GA)
+- Jason Tishler         
+- Autumn Ribbens         (CA)
+- Daniel Mihalyi         (The Dalles, OR)
+- Karen Kirschling         
+- Ak         (Upstate NY)
+- Liz         (East Atlanta Village, GA)
+- Cate Manochio         (Caldwell, NJ)
+- Mindy Blank         (Barre, VT)
+- Colin Sphar         (Chicago, IL)
+- Federico José Abelik         (Argentina)
+- Tamatrion Javers         (Cobb County, GA)
+- Zaila         (Atlanta, GA)
+- Madeline Beke         (Atlanta, GA)
+- Sarah B Stewart         (MA)
+- Michelle Macy         
+- Charles Soeder (Carrboro, NC)
+- Kevin Alan Mann (Oakland, CA, on unceded Ohlone Territory)
+- Michael Marek         (Phoenix, AZ)
+- Rhetta Eubanks         (New York, NY)
+- Cody Lougher         
+- Jackson Gregory         (Kennesaw, Georgia)
+- Anah M.         
+- Renee Marino         (Tampa, FL)
+- Cris         (Detroit, MI)
+- Liz         
+- Emily Luken         (Chicago, IL)
+- Cynthia Mcginnis         (Ronkonkoma)
+- Fannie Ip         (NYC, NY)
+- Nikki Dennis         (Portland, OR)
+- Devyn Hall         (Iowa)
+- Millie Mcwhorter         
+- Sky Hanzas         (Bay Area, CA)
+- Justin Gallicchio         (West Hartford, CT)
+- Ali         
+- Rebecca Jones         (New York City, NY)
+- Autumn Sanford         (Athens, GA)
+- Karina Dansie         
+- Lisa Coleman         
+- Kathryn Minervino         (Raleigh, NC)
+- Sudan Young         (New York)
+- Cameron Rasmussen         (New York)
+- Sudan Young         (New York)
+- Oliver         (Portland)
+- Nicolas C.         (Montreal, Quebec, Canada)
+- Shelly Williams         (Sacramento, CA)
+- Lizbeth Hernandez         (Berkeley, California)
+- Michelle Merrill         (Santa Cruz, CA)
+- Sam Butler         (Cleveland, Ohio)
+- Alex Hatzakis         
+- Sarah Y.         (FL)
+- Simone Biedermann         (Fehmarn, Germany)
+- Mo         
+- Regan Luebbert         (Pennsylvania)
+- Braden Baker         (Atlanta, Georgia)
+- Eleanor Dunn         (Los Angeles, CA)
+- Gabriel Oakes         (Seattle, WA)
+- Val         (Athens, GA)
+- Michele Hines         (KY, UT, WA, AK)
+- Chelsea Hillman         
+- Abbie Porto         (Chicago, IL)
+- Mya         (California)
+- Clare Redlick         
+- Idit Cahana         (New York)
+- Theresa Bucher         (Tarzana, Ca)
+- Jill Grief         (Toronto, Canada)
+- Sarah         (Minnesota)
+- Helen         (Wisconsin)
+- Nora Chesnut         (Austin, TX)
+- Carrie H         (Evans, GA)
+- Elina         
+- Catherine F Talbott (Southern Illinois, Home of the Shawnee National Forest)
+- Haley (Chicago, IL)
+- Isabel Tenison         
+- Marilyn Oliva-Rivas (Washington, DC)
+- Magie         
+- Emily Schukai         
+- Megan Bouwkamp         (Upstate, SC)
+- Alina Lasseter         (Valdosta, GA)
+- Mark Spencer         (Atlanta, GA)
+- Lindsay Miller         
+- Laurel         (Missoula, MT)
+- Amber C Smith         (Colorado)
+- Lilly         (Omaha, NE)
+- Alana         
+- Al Johnson-Kurts         (Vermont)
+- Melissa Specht         (New Haven)
+- Parithy S         
+- Kelly Kyutoku         (Corvallis, Oregon)
+- Bailey Veloria         
+- Maggie Shears         
+- Han Ward         
+- Jennifer Palmer         (Pasadena, CA)
+- Stephanie Johnson         
+- Angelic Dominguez         (Donna, Texas)
+- Sylvia Gonzalez         (Tucson, AZ)
+- Raven         (Indiana)
+- Emily         (New Zealand)
+- Abby         (Atlanta, GA)
+- Amanda         
+- Sara         
+- Paulina Soto         (Oklahoma)
+- Andrea Ramos Campos         
+- Carolyn Serebreny         (Haines City, FL)
+- Kayla A.         (Indiana)
+- Nicole Ramirez         
+- Rebecca Roberts         (NJ)
+- Miles Gorman         (Morristown , New Jersey)
+- Claire         (Wisconsin)
+- Hina         
+- Hunter         
+- Joel Pantuso-Iwaskewycz         (Oxford, OH)
+- Nikelle Knox         
+- Sophia Czyzewski         (Las Vegas, NV)
+- Zoe Muzyczka         (Cincinnati, OH)
+- Mindy Holmes         (Detroit, Michigan)
+- Ashlyn         
+- Lise Ullman         (Oregon)
+- Mary Claire Kelly         (Boston, Massachusetts)
+- Alyssa Shields         (Pennsylvania)
+- Lauren Labarre         (Athens, Georgia)
+- Carol E Gay         (Brick, NJ)
+- Rita         (Atlanta, GA)
+- Noir Oliver         
+- Heather Harmon         (Warwick, RI)
+- Richard Namkung         (Los Angeles, CA)
+- Antónia Audi         
+- Josie Mccartney         (Chicago, IL)
+- Judy         
+- Madison         
+- Maude Burns         (Rochester, NY)
+- Caroline Benda         (Jasper, GA)
+- Emily Yelton         (North Carolina)
+- Ziah Cloud         (Seattle, WA)
+- Gina Bennett         
+- Clarinda Karpov         (Omaha, Nebraska)
+- Alexandra Cousins         
+- Jaime Justen         (Brooklyn, NY)
+- Anna Patriarche         (Phoenix, AZ)
+- Tara Kamath         (Santa Monica, CA)
+- Patrick O'reilly         (Belleville, NJ)
+- Chalit Ratapana         (Bangkok, Thailand)
+- Brooke Gilley         (Wisconsin)
+- Maria Golner          
+- Izzy Darwin         
+- Karen Manzo         (Westminster, Colorado)
+- Megan Baxter         
+- Ashley Martinez         (Oregon)
+- Sealah Jeter         (Oregon)
+- Haniya Hassan         (San Diego, CA)
+- Kelsey Brodt         (Minnesota)
+- Arya Jemal         (New York, NY)
+- Mckenzie Forbes         (California)
+- Ana Vujadinovic         
+- Lucero Ramos         (Corona, CA)
+- Roya Lippe         (Illinois)
+- Hannah Demke         
+- Jamison Murphy         (Baltimore, Maryland)
+- Arianna Alexander         
+- Tara Fredenburg         (Memphis, TN)
+- Marelle         
+- Linnea Wolff         (Pittsburgh, PA)
+- Laura Beckman         (New York, NY)
+- Emily         
+- Amelia Ragusano         (Howell, NJ)
+- Olesya         
+- Lizzie         
+- Alissandra Valdez         
+- Lisa Meader         
+- Cinthia Romero Silva         (Chicago, IL)
+- Alissa Torrez         (Colorado)
+- Ahvionna         (Minnesota)
+- Madeleine Cane         (Vancouver, WA)
+- Keren Giovengo         (Brunswick, GA)
+- Jordan Schindler         (Illinois)
+- Breanna Mcgowan         (Atlanta, GA)
+- Natalie         
+- Corinne Haley         (Idaho)
+- Marlene Campbell         (Katy, TX)
+- Elizabeth Thomson         (Milford, MA)
+- Heather         (New Orleans, LA)
+- Tracie Hoops         (California)
+- Amy Sindorf         (Seattle, WA)
+- Chandler Mccormick         (Denver, Colorado)
+- Estephanie         
+- Maya Reynolds         (Ohio)
+- Kolbi Bradley         (Dc)
+- Calvin Brandt         (Cincinnati, Ohio)
+- Ankhet Holmes         (DC)
+- Abbigail Corwin         (Lewisburg, TN)
+- Lauren Zachary         (Morris, MN)
+- Sam Hines         
+- Rachel Jeayes         
+- Patricia Gray         (Orlando, FL)
+- Laron         (South Carolina)
+- Emma Ross         (Rochester, NY)
+- Marc James Léger         (Montreal, Canada)
+- Jenna         
+- Annick (USA)
+- Jenasen M.         (Michigan)
+- Nadia M         (Texas)
+- Zed         
+- Ms. Norris         (Idaho)
+- Sarah Brown (USA)
+- Cat Demers
+- Ella Johnson
+- Sonny Mercer (Lithonia, GA)
+- Mortimer D. Pendragon (NC)
+- Sydney Warner
+- Nicholas Smith 
+- Jessica Bolding (WA)
+- Sylvia Manning (TX)
+- Kilynne Higgins
+- Patrick Hr Lindley
+- Aj Henry
+- Jenasen M.         (Michigan)
+- Nadia M         (Texas)
+- Zed         
+- Ms. Norris         (Idaho)
+- Sarah Brown         (USA)
+- Kimberly Edwards         
+- David         (Earth)
+- Makenzie Fogg         
+- Haley         (Snoqualmie, WA)
+- Cian Doran         
+- Naomi Emma Lederman         
+- Spark         
+- Haley Mchatton Ballou         (Wakefield, MA)
+- Gillian Dunn         
+- Olivia Cavalluzzi         
+- Saorla         (Boston, MA)
+- Delsin         
+- Ava Ackerman         (Boston, MA)
+- Emma Neuman         
+- Lisa         
+- Racheal Matheny         (Dublin, CA)
+- Jamie Jenkins         (Atlanta, GA)
+- Brooke         
+- Haley Frey         (Reno, NV)
+- Gayle Bell         (Florida)
+- Emily Hoffmeister         
+- Mila (NY)
+- Ashley Yong         
+- Paula Munoz         (Florida)
+- Gregory Geboski         (Wisconsin)
+- Hans Schub         
+- Grey Crouch (Los Angeles, CA)
+- Sara Itkis (Quincy, MA—on Massachusett, Pawtucket, and Wompanoag Land)
+- Vanessa Sanchez (Arcata, CA)
+- Jean Kim         
+- Krystina Melville         (Virginia)
+- Liz Goldhammer         (La Verne, CA)
+- Margherita Bonazzi         (Italy)
+- Betelhem Teshome         (California)
+- Jennifer Chou         (Vancouver, Canada)
+- Sadie Kinne         (Arizona)
+- Elijah         (New York)
+- Emanuela Bianchi         (New York)
+- Amber Meister         (Pittsburgh, Pennsylvania)
+- Chelsea Mckee         (Brownsville, TX)
+- M. Flores         
+- Catherina Ebert         
+- Alexandra Smith         
+- Mikayla Kinghorn         (Idaho)
+- Tobias Jones         (Texas)
+- Gail Courtney         (Walthsamstow)
+- Carlos Umaña         (Madrid, Spain)
+- Annie Eldon         (Arizona)
+- Theresa Reuter         (Mother Earth)
+- Tina Shull         (Charlotte, NC)
+- Janet Yoshida-Gordon         
+- Andrew Wilson         (Prague, Czech Republic)
+- Barbara Mccane         (Chesapeake, VA)
+- Millie         (France)
+- Hyunjee N. Kim         (New York, NY)
+- Joseph Wenzel         
+- Bryana Miller         (Florida)
+- Jt Haines         (Minnesota)
+- Mia Treinen         (Tampa)
+- Leah Schultz         (Chicago)
+- Benjamin Kügerl         
+- Christina Slabinski         
+- Freeda Cathcart         (Roanoke, Virginia)
+- Kealani Charbonneau         (Lawrence, KS)
+- Coral Kendall         (Norfolk, VA)
+- Kaitlyn Leblanc         (Denver, CO)
+- Jessica Gutierrez         (Manhattan, Ks)
+- Tracy Basile         (New York)
+- Kristina Naso         (Brooklyn, NY)
+- Lily Nwanesi         
+- Alina Dollat         (Italy)
+- Gabriel Diaz         (La Puente, CA)
+- Ashley-Ann Cooper         (Florida)
+- Lise Commeyras         
+- Josie Bedore         
+- Margaret Seiler         (New York)
+- Pat Miguel Tomaino         (Boston, MA)
+- Holley Alane White         (New York)
+- Sophie Stachl         
+- Ellen Walsh         (New Jersey)
+- Ember Z         
+- Jane Broendel         (DC)
+- Azure         
+- Elin Anderson         (Connecticut)
+- Amanda Camp         (Monroe, GA)
+- Cambria Smith         (Nevada)
+- Emily Davies         
+- Pepper Elvin         (Edinburgh, UK)
+- Allison Allender         (Cleveland, OH)
+- Sarah Tucker         (Ohio)
+- Gail         
+- Shelli Nelligan-Anderson         
+- Liesl Cole         (Seattle, WA)
+- Rhett         
+- Jessica Lopez         (CT)
+- Anthony Adame         (Brooklyn)
+- Austin Lindberg         (West Hartford)
+- Sloan Bukowski         (Colorado)
+- Shawna Anderson         (New York, NY)
+- Elysa Tulek         
+- Dale Stephenson (Maine—former Atlanta resident)
+- Analeeze Quintanilla (Houston, TX)
+- Mara Kapno         
+- Mayra Pantoja         (Atlanta, GA)
+- Laura Harvester         (Tampa, FL)
+- Kendall Potts         
+- Alex Levy         
+- Taté Garcia         (San Diego, California)
+- Xueyi Lu         
+- Ash Knight         (Minneapolis, MN)
+- Judith Peascoe         (Vienna, WV)
+- June Hill         (Tallahassee, FL)
+- Lois Klein         (New York)
+- Richard Spotts         (Saint George, Utah)
+- Isabelle         (Ottawa, Canada)
+- Khalid Johnson         (Decatur, GA)
+- Sophia Daniluk         
+- Santonja Julie         
+- Adria Tenisson         (Ventura, Ca)
+- David L         
+- Aaron Kenna         
+- Joseph Dipietro         (San Diego, CA)
+- Nancy Wallace Nelson         (Mendocino, CA)
+- Angela         (California)
+- Carol Deem         (Pennsylvania)
+- Carlisle Tang         (Doreville, GA)
+- Danica C Kubick         (Maine)
+- Rama Bharadwaj         
+- Lauren Falls         (Connecticut)
+- Hender Winer         (Boston, MA)
+- Ileana D Vasquez         (Seattle, WA)
+- Carolyn C         (Wilmington, NC)
+- Stacey Dillingham         (Louisville, KY)
+- Robin Templeton         
+- Brittanee Walker-Williams         (Seattle, WA)
+- Elena Chute         (Pomona, California)
+- Ruth         (Chicago)
+- Tanya Jisa         (Carrboro, NC)
+- Kevin Caron         (Atlanta, GA)
+- Linda Wing         (USA)
+- Kristin Swenson         (Charlottesville, VA)
+- Linda Soldan         (Hartland, WI)
+- Luca De Sanctis Barton         (San Diego, CA)
+- Joshua         
+- Jenna Colemire         
+- Brady Comenduley         
+- Regine Adrien (New York)
+- Rebecca Borrer         (Hudson, NY)
+- Nathan         (Virginia)
+- Jesse Brown         (Indianapolis, IN)
+- Jessica Decker         (San Diego, CA)
+- Kat Lewis         (Minneapolis, MN)
+- Leigh Kimberg         (San Francisco, CA)
+- Darakshan Raja         
+- Catherine Mcivor         
+- Diana Lleras         (Atlanta, GA)
+- Clare Timmerman         (Atlanta, GA)
+- Ani         (Portland, OR)
+- Adrianne Micco         (CA)
+- Allison Kytta         (Atlanta, GA)
+- Boudicca Walsh         (Rochester, NY)
+- Keke Norment (Philadelphia, Pennsylvania)
+- Mariana         
+- Steve Edwards         (Ventura, CA)
+- Jimmy Lovett Jr         (San Diego, CA)
+- Pamela K Jensen         
+- Elliot Tables         (Atlanta, GA)
+- Stephanie Insolia         (Philadelphia, PA)
+- Lake Best         (Nashville, TN)
+- Shayne Cytrynbaum         
+- Oliver Presson         (Philadelphia, PA)
+- Kiley Smith         (Virginia)
+- Gerald Hallead         (Traverse City, Michigan)
+- Monica Mishima         
+- Layla Weide         
+- Jenina Podulka         (Jersey City, NJ)
+- Ariana Decker         
+- Dan Dileva         (Seattle, WA)
+- Serena Wohlrab         (Avondale Estates, GA)
+- Marybeth Holleman         (Anchorage, Alaska)
+- Adam P Gottlieb         (Chicago, IL)
+- Kathryn Mullins         
+- Alex Gruber         (Wisconsin)
+- Andrew Pavlock         (Punta Gorda)
+- Kyla         (Denver, CO)
+- Ivy Borden         (Tuscaloosa, AL)
+- Sneh Modi         (Edmonton, Canada)
+- Emily         
+- Andrew Mcglashan         (Melbourne, Victoria, Australia)
+- Leah James         (Massachusetts)
+- Kim De La Cruz         (Austin, TX)
+- Eugenia Bukhman         
+- Sofia Adams         (Brooklyn, New York)
+- Anna Hepp         (California)
+- Vicki Tran         (Ontario, Canada)
+- Ilana Fischer         (Atlanta, GA)
+- Sandy Commons         (Sacramento, CA)
+- J         (Midway City, California)
+- Charlie Blue Brahm         (Seattle, WA)
+- Lulu Balbi         (Sydney, Australia)
+- Jamilet Soto         
+- Blue Guang         
+- Jesus Rabadan         (Midway City, California)
+- Bror Welander         (Chicago, IL)
+- Carolina         
+- Briana Moss         (Dubuque, Iowa)
+- Ellie         (RI)
+- Isabella Frederick         (Seattle, WA)
+- Heidi Tähtinen         (Finland)
+- Valerie         
+- Ericka         (Minnesota)
+- Ollie         (US)
+- Ryan Crowley         (Maine)
+- Joseph Fifer         (Houghton, MI)
+- John Abbott         (Chicago, Il)
+- Brenna Goldberg         (Athens GA)
+- Carole Womeldorf         (Cincinnati, OH)
+- Elias         
+- Lexanne Painter         
+- Ren Rodriguez         (Canarsie Land)
+- Laura Mar
