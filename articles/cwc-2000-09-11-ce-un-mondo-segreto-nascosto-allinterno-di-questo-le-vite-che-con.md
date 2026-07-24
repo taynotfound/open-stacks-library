@@ -1,0 +1,24 @@
+---
+title: "Cè un mondo segreto nascosto allinterno di questo"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2000/09/11/ce-un-mondo-segreto-nascosto-allinterno-di-questo-le-vite-che-conduciamo-e-le-vite-che-vorremmo-condurre"
+---
+
+Questo mondo, il cosiddetto “mondo reale”, è solo una facciata. Tirate il sipario e vedrete che le biblioteche sono tutte piene di fuggiaschi che scrivono romanzi, le autostrade ronzano di fuggitivi e simpatizzanti, tutte le centraliniste e le madri assennate sono protese al guinzaglio per avere la possibilità di dimostrare quanto sono ancora vive... e tutti quei discorsi sulla praticità e sulla responsabilità sono solo minacce e bluff per impedirci di allungare le mani per scoprire che il paradiso è a portata di mano davanti a noi.
+
+Lo si può assaporare nello shock e nel fragore di un primo, inaspettato bacio, o nel sangue in bocca nell'istante in cui, dopo un incidente, ci si rende conto di essere ancora vivi. Si respira nel vento che si sente sui tetti di una notte di avventura davvero spericolata. Lo sentite nella magia delle vostre canzoni preferite, come vi sollevano e vi trasportano in modi che nessuna scienza o psicologia potrebbe mai spiegare. Può darsi che ne abbiate visto la prova graffiata sulle pareti del bagno in un codice senza chiave, o che siate riusciti a scorgerne un pallido riflesso nei film che fanno per intrattenerci. È tra le parole quando parliamo dei nostri desideri e delle nostre aspirazioni, ancora in agguato da qualche parte sotto i limiti dell'essere “pratici” e “realistici”.
+
+Quando i poeti e i radicali restano svegli fino all'alba, scervellandosi per trovare la sequenza perfetta di parole o azioni per riempire i cuori (o le città) di fuoco, stanno cercando di trovare un'entrata nascosta. Quando i bambini scappano dalla finestra per andare in giro a tarda notte, o i combattenti per la libertà cercano un punto debole nelle fortificazioni del governo, stanno cercando di intrufolarsi in essa - perché sanno meglio di noi dove sono nascoste le porte. Quando gli adolescenti vandalizzano un cartellone pubblicitario per provocare inseguimenti notturni con la polizia, o gli anarchici interrompono una manifestazione ordinata per spaccare le vetrine di una catena di negozi, stanno cercando di assalirne i cancelli.
+
+Quando fate l'amore e scoprite una nuova sensazione o una nuova regione del corpo del vostro amante, e vi sentite come esploratori che scoprono una nuova parte del mondo al pari di un'oasi nel deserto o della costa di un continente sconosciuto, come se foste i primi a raggiungere il polo nord o la luna, state tracciando le sue frontiere.
+
+Non è un luogo più sicuro di questo - al contrario, è la sensazione di pericolo che ci riporta alla vita: la sensazione che per una volta, per un momento che sembra eclissare il passato e il futuro, ci sia qualcosa di reale in gioco.
+
+Forse ci si è imbattuti per caso, una volta, stupendosi di ciò che si è trovato. Il vecchio mondo si è frantumato dietro e dentro di voi, e nessun medico o metafisico potrebbe rimetterlo insieme. Tutto quello che c'era prima è diventato banale, irrilevante, ridicolo, mentre gli orizzonti si sono improvvisamente dilatati intorno a voi e si sono aperte nuove strade inimmaginabili. E forse avete giurato che non sareste mai tornati, che avreste vissuto il resto della vostra vita elettrizzati da quell'urgenza, nel brivido della scoperta e della trasformazione - ma siete tornati.
+
+Il senso comune ci dice che questo mondo può essere vissuto solo temporaneamente, che è solo lo shock della transizione e nulla più; ma i miti che condividiamo intorno ai nostri fuochi raccontano una storia diversa: sentiamo parlare di donne e uomini che sono rimasti lì per settimane, anni, che non sono più tornati, che hanno vissuto e sono morti lì come eroi. Sappiamo, perché lo sentiamo in quella camera atavica del nostro cuore che custodisce la memoria della libertà di un tempo prima del tempo, che questo mondo segreto è vicino, ci aspetta. Lo si vede nel lampo dei nostri occhi, nell'abbandono dei nostri balli e dei nostri amori, nella protesta o nella festa che ci sfugge di mano.
+
+Non sei l'unico che cerca di trovarlo. Anche noi siamo qui fuori... alcuni di noi ti stanno addirittura aspettando. E sappiate che tutto ciò che avete fatto o pensato di fare per arrivarci non è folle, ma bello, nobile, necessario.
+
+La rivoluzione è semplicemente l'idea che potremmo entrare in quel mondo segreto e non tornare mai più; o, meglio, che potremmo bruciare questo, per rivelare interamente quello sottostante.
