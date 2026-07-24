@@ -1,0 +1,22 @@
+---
+title: "2008 Convergence Reportback Teaser"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2008/07/23/2008-convergence-reportback-teaser"
+---
+
+[[https://cdn.crimethinc.com/images/convergfire/convergfireb.jpg]]
+
+Here’s a brief summary of this past week’s convergence, until someone completes a lengthier report. You’ll have to read about it here, if not in the minutes of the next FBI witch hunt (see [supporteric.org](http://www.supporteric.org)), since neither the New York Times nor Fox News succeeded in getting their stooges on site and [the local media](http://www.jsonline.com/story/index.aspx?id=773869) could only string together the usual clichés.
+
+This year’s CrimethInc. Convergence occurred 40 miles outside of Milwaukee, WI, on the outskirts of the tiny town of Waldo. It began with appropriate theatrics. As participants descended upon the campsite on the first day, so did a massive supercell—spawning a tornado touchdown a mere 15 miles away—and with it, 70 mph horizontal winds and rain that threatened to carry everyone off. The early arrivals lucky enough to experience the storm had to hold on for dear life to prevent the temporary structures from blowing away. Despite this challenge, everything was cleaned up and reconstructed in time for the opening circle at dusk.
+
+Most of the week’s activities took place at the actual campsite: workshops under tarps in the grassy fields and beneath trees in the surrounding woods, rowdy direct action simulations, cooking over a wood-fire trench on chain link fencing, writing letters at the prisoner support station, perusing hundreds of free ’zines and books in the library, childcare volunteers chasing after the temporary community’s rad kids, day-and-night swimming in the nearby pond, and possibly the most inclusive and spirited event of the week—the Convergence Cabaret, featuring fabulous queer dance troupes, contortionist burlesque, anticapitalist hip hop, stand up comedy, and obscene puppetry.
+
+Readers familiar with the [discussion questions](https://crimethinc.com/texts/recentfeatures/under.php) following last summer’s convergence will be pleased to hear that this year there were neither tensions between subcultural groups nor attempts from wingnuts to co-opt the convergence to their own purposes. Practically everyone in attendance made an effort to contribute to an atmosphere of respect and consent-based interaction, and it’s notable that this is the first convergence at which the sobriety policy was not challenged. There were a couple uncomfortable moments, such as an unplanned fireside routine that many felt smacked of cultural appropriation, but participants generally appeared open to dialogue and critique; if anything, such events indicate that the convergence is drawing participants from outside homogenous anarchist circles, who nonetheless are willing to learn new ways to respect others and be accountable for their actions. The closest to last year’s 2012 workshop debacle was a prank on the opening night by an anonymous team of self-proclaimed Maximum Ultraists, which offered a harmless lightning rod for drama and speculation without derailing anything or distracting anyone.
+
+The only off-site event was an [anti-I-69 house demo](http://stopi69.wordpress.com/) carried out by 70 people on Saturday night. Afterwards, when everyone had regrouped at camp around the fire, another cloudburst inspired a midnight swim and a dance party characterized by a degree of passionate abandon not seen in North America since the first CrimethInc. convergence in 2002.
+
+Longtime organizers from past convergences agree that this year was the best yet in terms of wide diffusion of responsibility. The Milwaukee locals did an enthusiastic job of assembling infrastructure, and no one had to go without sleep or sanity to keep things on track. At this point, the format of the convergence is understood widely enough to be practically self-sustaining. It remains to those who will plan next summer’s convergence to invent some new experiment that is not yet familiar to anyone, so it will be possible for something to go wrong.
+
+With a final puppet show on the electoral spectacle, the campsite to clean, and yet another impending thunderstorm on the horizon, there wasn’t time in the closing circle for a comprehensive discussion of what went well, what could have been improved, and what participants would like to try next year. If you were in Waldo last week, please share your perspective in the comments section here!
