@@ -1,0 +1,34 @@
+---
+title: "Unsere Träume sind nicht räumbar!"
+url: "https://de.indymedia.org/node/829417"
+---
+
+Es ist der 1. Juli. Um 4 Uhr morgens umstellt ein interkantonales und absolut unverhältnismässiges Grossaufgebot der Staatsgewalt das neue Kulturzentrum ZACK. Da haben die Regierung und SwissLife wohl ordentlich Schiss gehabt, was da auf sie wartet. Gut so. Einsatzkräfte aus Bern, Zürich, Luzern, Aargau, Solothurn und Basel sind vor Ort. Diverse Barrikaden und zwei Besetzende, die sich auf dem Dach des vorderen Gebäudes befinden, machen es unmöglich, das Areal unbemerkt zu räumen und den Leerstand zu verriegeln. Zwar haben Versiegelungsarbeiten auf dem Gelände begonnen, um das Gelände gegen kreative Freiräume und Orte des Miteinanders zu sichern, aber die Solidarität mit dem ZACK überschattet diese Gewalt. Schon um 5 Uhr in der Früh versammeln sich die ersten Nachbar:innen und solidarisieren sich mit den Besetzer:innen des ZACK. Sie hissen Banner, singen Lieder und versuchen im Verlauf des ganzen nächsten Tages die beiden auf dem Dach mit Wasser und Lebensmittel zu versorgen. "Natürlich haben wir uns mit denen auf dem Dach solidarisiert. Schlussendlich hätte es jede:n von uns sein können. Wir alle sind die Besetzer:innen auf dem Dach, wir sind alle das ZACK."
+
+RECLAIM THE CITY: SACHBESCHÄDIGUNG GEGEN DIE STADT DER REICHEN
+
+Nach 15 Stunden Räumung und Belagerung des ZACK versammelten sich rund tausend Menschen bei der Dreirosenmatte. Wir protestierten entschieden gegen eine Stadtpolitik der Reichen, gegen den Raub von unseren Freiräumen und gegen die voranschreitende Verdrängung aus unseren Quartieren. Die Demo spiegelt die Durchmischtheit der Menschen und die Gleichzeitigkeit an Widerstandsformen und Utopieleben, die die letzten Wochen im ZACK Raum gefunden haben. Laut, zackig und voller geteilter Erinnerungen an gemeinschaftliche Alternativen für die es sich zu kämpfen lohnt, wurde zunächst in Richtung ZACK gezogen um zu zeigen: Wir sind alle ZACK! Die Zwei auf dem Dach könnten wir alle sein!
+
+Mit der Wut über den Verlust des neuen Kulturzentrums und selbstverwalteten Freiraums wurde die Stadt der Reichen gezielt angegriffen und dahin getragen, wo sie hingehört: Zur Regierung, die den Profitoasentraum machtgeiler Grosskonzernen ermöglicht, Strukturen der ungleichen Verteilung und Verdrängung festigt und die Träume sowie die materiellen Bedingungen der hier lebenden Bevölkerung verkümmern lässt. Die Regierung ermöglicht die ungleichen Eigentumsverhältnisse, spekuliert mit unserem Wohnraum und den wachsenden Mietzinsen durch ihre profitorientierte Politik. Während unsere Mietverträge gekündigt, unsere Häuser abgerissen und das Lädeli ums Eck nun einem Bürokomplex weichen muss, bauen sich Konzerne wie Schisslife ihre Profitoasen auf dem Scheiterhaufen unserer zerbrochenen Träume und zerstörten Quartieren.
+
+Der gezielte Angriff auf Eigentumsverhältnisse ist Reaktion auf den geplanten Abriss und die Zerstörung des ZACK-Areals im Kontext einer politischen Stadtentwicklung, die verdrängt, ausschliesst und vereinzelt. Die Krawalle machen deutlich, dass wir keine Spielsteine sind, die sich in den Händen kapitalistischer Interessen umherschieben lassen. Wir sind nicht gezwungen, die Verhältnisse, so wie sie jetzt sind, einfach hinzunehmen. Die Entscheidung zu rebellieren eröffnet Handlungsspielräume, laufende Verdrängungsprojekte und kapitalistische Verwertungszonen wie Klybeck Plus zu sabotieren und auf gelebte Alternativen aufmerksam zu machen.
+
+Während zersprungene Scheiben eines Luxusladens oder eine verschmierte milliardenschweren Bank einen medialen Aufschrei erzeugen, bleibt die Presse bei der gewaltvollen Praxis der Massenkündigungen, Abrisse und Zwangsräumungen still. Wir rebellieren gegen solche laufenden Verdrängungsprojekte wie das KlybeckPlus und zeigen gleichzeitig auf, das Alternativen wie das ZACK möglich und unverzichtbar sind.
+
+Als wir versuchten, in unser geliebtes ZACK heimzukehren, griff uns die Polizei mit krebserregendem Tränengas und mit Reizmittel versetzten Wasserwerfern an. Sie versuchten uns zu vereinzeln, aber wir blieben die ganze Nacht vor Ort und demonstrierten.
+
+Erst nach 29 Stunden erhielten die Besetzer:innen zwar dank massivem Druck vom Kantonsarzt 1L Wasser zum teilen. Jedoch wurde ihnen bis zu ihrem selbstbestimmten Abstieg jegliches Essen und Schlaf verwehrt. Nur durch unsere andauernden Versuche, den Widerstand zu stärken konnten wir sie nach 39 Stunden mit zwei Äpfeln und einem Mate versorgen. Auch dafür ernteten wir Repression, jedoch blieben wir standhaft, von den Strassen bis hoch aufs Dach. Denn wir alle sind das ZACK!
+
+WIR SIND ALLE ZACK
+
+Was diesen Monat im ZACK entstanden ist, bezeichnen die einen als historisch, die anderen sagen, wir hätten einen ZACKEN ab. Es stimmt wohl beides. Was diesen Monat im ZACK entstanden ist, geht tiefer als es sich irgendwer hätte vorstellen können. Dieser Ort hat Begegnungen ermöglicht, die sonst nie hätten entstehen können. Isoliert durch kapitalistische und neoliberale Strukturen, vereinzelt in den eigenen vier Wänden, der Lohnarbeit, vorgefertigten Konstrukten und Schubladen. Im ZACK ist Zusammenhalt entstanden, Kreativität, Eigeninitiative, Selbstbestimmung, Identifikation. Wir sagen: COMMUNITY OR DYSTOPIA. Und wir meinen's ernst. In einer Welt der Individualisierung, Spaltung und Oberflächlichkeit haben wir diesen Monat etwas geschaffen, was uns für's Leben bleibt.
+
+Seit Beginn war und ist das ZACK ein Raum der kollektiven sowie auch kritischen Aushandlungen einer Vielfalt an Haltungen und Meinungen, Handlungsformen sowie politischer Ansprüche und Anliegen. Was das ZACK in seiner Kraft ausmacht, ist das gemeinsame Halten dieser teils widersprüchlichen Vielfalt innerhalb der Bewegung, innerhalb der verschiedenen Formen des Widerstands und innerhalb der Umsetzung von Kollektivität und Gemeinschaft. Teil dieser Stärke ist es auch, Differenzen zu benennen und einen kollektiven und konstruktiven Umgang damit zu finden. Was uns dabei verbindet ist die Ablehnung bestehender Machtverhältnisse und einer kommerzialisierten und verkapitalisierten Welt, in der unserem Streben nach einem guten Leben für Alle keinen Wert zugeschrieben wird.
+
+DER KAMPF UM FREIRÄUME GEHT WEITER
+
+Unsere Forderungen sind und bleiben die gleichen: Swisslife soll die Gebäude im nördlichen Teil des Areals langfristig und vertragslos abtreten, aus der restlichen Quartiersplaung von Klybeck Plus herauslösen und die Nutzung des Areals an die Selbstverwaltung von Unten übergeben.
+
+Bis das Areal uns allen gehört geht auch der Angriff auf Eigentumsverhältnisse und die Stadt der Reichen weiter!
+
+ZACK – vom Sand im Getriebe zur Insel der Utopie

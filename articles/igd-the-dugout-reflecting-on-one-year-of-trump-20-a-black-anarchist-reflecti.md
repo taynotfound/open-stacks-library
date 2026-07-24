@@ -1,0 +1,8 @@
+---
+title: "The Dugout: Reflecting on One Year of Trump 2.0: A Black Anarchist Reflection"
+author: "It's Going Down"
+source: "It's Going Down"
+url: "https://itsgoingdown.org/the-dugout-reflecting-on-one-year-of-trump-2-0-a-black-anarchist-reflection/"
+---
+
+The Dugout&nbsp; offers an analysis and reflection on the opening of the second Trump administration.&nbsp; Listen and Download&nbsp; HERE It&rsquo;s been a year since Trump&rsquo;s return to the White House. We look at the chaos of his second term&mdash;from attacks on birthright citizenship to sweeping emergency powers and foreign policy shocks. We break down the fallout at home: labor pushback, a fractured left, and the rise of fascist movements. Most of all, we ask what resilience, solidarity, and new forms of anti-fascist organizing look like in this moment. Stay connected with The Dugout! Follow us for updates, exclusive content, and more: &#128279; &#8288;Instagram&#8288;: &#8288;https://www.instagram.com/dugoutpodcast/&#8288; &#128279; &#8288;Substack&#8288;: &#8288;https://tdugout.substack.com/&#8288; &#128279;&#8288;YouTube&#8288;: &#8288;https://www.youtube.com/@thedugoutpod&#8288; &#128279; &#8288;Patreon&#8288;: &#8288;https://www.patreon.com/TheDugoutPod&#8288; &#128279; &#8288;Website&#8288;: &#8288;https://bio.site/thedugoutpodcast&#8288; &#128279; Watch Prince Shakur on Youtube: https://www.youtube.com/channel/UCMMgrSHWLLU4U_FnJ1u10Ug Photo by Mitchel Lensink on Unsplash

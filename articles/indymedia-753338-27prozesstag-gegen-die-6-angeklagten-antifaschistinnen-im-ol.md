@@ -1,0 +1,14 @@
+---
+title: "27.Prozesstag gegen die 6 angeklagten Antifaschist*innen im OLG in Düsseldorf"
+url: "https://de.indymedia.org/node/753338"
+---
+
+Der Zeuge L. hatte, zusammen mit den bisher befragten Schüler*innen, den Angriff beobachtet. Nennenswerte neue Informationen brachte seine Aussage allerdings nicht. Stattdessen zeigte der Zeuge eine bemerkenswerte Konstanz darin, in nicht ganz unerheblichem Umfang von seinen früheren polizeilichen Vernehmungen abzuweichen. Seine Angaben dazu, wann er die Angegriffenen zuerst bemerkt haben will, mit welchem Geschädigten er gesprochen habe und Einzelheiten zum Ablauf des Angriffs, wirkten im Vergleich zu den Verhandlungs- und Vernehmungsprotokollen eher kreativ ergänzt.
+
+So irritierten auch die Aussagen zu den vermeintlich genutzten Gegenständen. Während er bei der Polizei noch angab, einen Hammer gesehen zu haben (den er auch klar beschreiben konnte), wollte er sich nun an einen Baseballschläger erinnern. Schließlich legte er sich auf “irgendwas Hölzernes” fest. Auch die Angabe eines angeblich genutzten Brecheisens begegnete beim Vorsitzenden Richter spürbarer Skepsis. Er bleibt mit dieser Aussage unter den zahlreichen Zeug*innen allein.
+
+Die, vielfach durchaus unplausiblen, Aussagen des Zeugen wurden in den Verhandlungspausen von Zuschauenden mit den Worten: “Es ist ihm wichtig was zu sagen. Das geht jetzt natürlich nach hinten los.” kommentiert. Wie die Verteidigung schon zu Beginn des Prozesses anmerkte, wurde hier mehr als deutlich, wie unzuverlässig subjektive Erinnerungen, gerade nach einer so langen Zeit, sind.
+
+Konsistent mit den vergangenen Vernehmungen war dafür seine Aussage, dass der Angriff nur „kurz“ gedauert habe. Für ihn habe es den Eindruck gemacht, als hätten die angreifenden Personen sich im Sinne von „Es reicht, jetzt lass verschwinden“ verständigt. Vor dem Hintergrund der von der Anklage unterstellten Tötungsabsicht ist das ein wichtiger Punkt. Er spricht dafür, dass die Beteiligten das Geschehen bewusst beendeten, weil sie eine Tötung gerade nicht beabsichtigten. Folglich mehren sich die deutlichen Anhaltspunkte in Aussagen, Gutachten (und Videos aus Budapest) das keine Tötungsabsicht bestand. Nicht weiter überraschend ist, dass auch die Verhandlungsprotokolle dieses Zeugen an einzelnen Stellen unschlüssig, da wohl nicht vollständig, sind.
+
+Im Anschluss wurde der Zeuge entlassen. Aufgrund des warmen Wetters verzichtete der Senat auf das Anschauen weiterer Videos und so wurde der Prozesstag um 13.00 beendet. Der Senat wies noch darauf hin, dass der Gutachter Eisenmenger für den nächsten Verhandlungstag (30.06.2026) ausgeladen worden sei und der Verhandlungstag somit ausfalle. Es geht weiter am nächsten Mittwoch (01.07.2026).
