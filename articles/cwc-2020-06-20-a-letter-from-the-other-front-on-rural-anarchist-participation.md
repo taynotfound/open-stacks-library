@@ -1,0 +1,57 @@
+---
+title: "A Letter From the Other Front"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/06/20/a-letter-from-the-other-front-on-rural-anarchist-participation"
+---
+
+In this essay, anarchists from a rural area of the United States describe how people who live outside the urban centers can contribute to the [movement](https://crimethinc.com/2020/06/17/snapshots-from-the-uprising-accounts-from-three-weeks-of-countrywide-revolt) against police violence and institutional white supremacy that has unfolded in response to the murder of George Floyd in Minneapolis.
+
+***
+
+*The authors of this letter are white anarchists living in outskirt areas of the Pacific Northwest that are occupied by a white majority and steeped in white supremacy. This context differs from other rural area; the authors do not wish to speak as experts on any experience besides their own. The authors are not attaching their names or specific location to this letter due to safety considerations in their small town.*
+
+***
+
+We wake up, roll over in bed, and grab the phone. What news of last night? What information, counter-information, wildly beautiful or unthinkably tragic developments have unfolded? What frantic or exhilarated texts from friends and comrades? Pictures and words blur together—there is so much all at once. George Floyd was murdered by Minneapolis police on May 25, one of countless victims of a bloody legacy of racist police violence. This nation was built on stolen land, Indigenous genocide, Black enslavement, and the exploitation and oppression of all people of color, and we know that this empire will not concede power willingly. Still, in grief and anger, people across the country are rising up in defense of Black lives and bodies.
+
+A police precinct in Minneapolis was captured and burned. Windows everywhere are smashed, goods expropriated and shared. The National Guard, the Army itself, is invoked to quell the unrest. Protestors are dying in the street—at this point, just a handful of brave and beautiful souls departed, but we fear more to come. White nationalists are trying to seize the moment to actualize their dreams of race war. Liberals work overtime to defang the movement in the streets. We know that any change beyond mere platitude and performance will require the destruction of the entire racist, capitalist system, and we see around us a nation teetering on the brink of open revolt and revolutionary possibility. We see the door begin to crack open, towards freedom, if only there are enough people on our side to push. The cities are on fire for Black liberation.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/06/20/1.jpg class:portrait]]
+
+But what about us, the far-flung radicals, tucked away in the hills, the plains, and the backwoods? We are not there—at the heart of this movement—at least not as much we’d like to be. We are rural anarchists, physically grounded away from the metropolis. We inhabit these wilder places because they offer us space to think, a slower pace of life, a connection with the land—room for autonomous projects and ideas to physically expand and grow, like a fern unfolding, out from under the constant oversight of cops, neighbors, politicians. 
+
+It would be easy to engage with this uprising as a voyeur, or perhaps as a consumer. We check the news between barn chores, farm chores, fixing the truck. We refresh the feed while caring for livestock and feral children. Text a friend “did you see this?!” as we tend the orchard, hunt rats in the wood shed, check the solar, sweep out the shitter. Rural life has a rhythm to it and an unceasing grind. Living at this physical distance from the cities, it is easy to develop an emotional distance as well. But this moment is too big, too urgent, for us to ignore. 
+
+We don’t live in the city, but we know we are connected. Here, the omnipresent oversight of police is replaced by the other arm of racist state control: white supremacists, white nationalists, and their associated militias. Most small town police and county sheriffs support these groups either explicitly or by association. On the rural front, you don’t need a badge to terrorize Black and brown citizens—just a gun and an American flag. Even if police reforms or reductions (or dare we dream, abolition) takes root in the cities, here white supremacy still looms large from every pickup truck with a Blue Lives Matter window decal and a shotgun on the passenger seat. Trump’s calls for resistance to anti-racist and anti-fascist struggle only increase the danger to rural BIPOC folks, visibly queer and trans people, anti-fascists, organizers and anyone else deemed Other.
+
+So what can we do right now as anarchists and radicals living in rural communities? How will we create direct solidarity with the metropolitan areas engaging in mass revolt? How do we agitate in our own communities to bring this struggle for Black liberation home? We have been asking this question and hearing it echoed by those around us. As the terrain of our struggle varies, our needs and strategies will diverge: cities may need to become ruins to be rebuilt, but the fields and forests needn’t burn in the transformation to a just and free world. We are all together, because our project is the same: we are building a new world, we will inherit the earth. And like everyone right now, we wonder what to do, how to situate ourselves, in this wild, frightening moment of unrest and possibility.
+
+We would like to share some ideas that may be useful for other rural radicals trying to engage in this moment. We are stumbling imperfectly towards the unknown—and there are as many answers as there are individuals, projects, and contexts. But the crux of it is this: don’t sleep on it. We can’t sit this one out just because we are hours away from the closest uprising. We recognize that there is no “Black consensus,” but we identify Black radicals with whom we share affinity—historically, currently, and locally—and we follow their leads. We need to find our points of connection, grab hold, and dig in. The door will only open if everyone keeps pushing together.
+
+**We offer support & solidarity in our local communities.** “Community" is a series of concentric and overlapping circles of connection and affinity. We freely and generously give care and solidarity to our chosen and biological families, roommates and landmates, friends, co-organizers, and neighbors. We give our time and labor to help other projects start, sustain, and improve. We focus on Black and POC needs within our communities. We listen to the voices of Black comrades and support Black-led organizing. 
+
+**We agitate at home.** What is appropriate here? What is possible? We are wary of directly importing big-city tactics into small towns. We think strategically and engage in acts of wild and imaginative creation, bridge building, guerrilla art, sabotage, organizing, fundraising, intelligence gathering, and mutual aid. We talk to our white and non-Black communities about what is going on, especially those who might feel differently about the events. We listen to what people are saying and ask questions. We show up at local demonstrations enthusiastically because we know that holding cardboard signs on the corner is an important step for this town. 
+
+**We offer up our rural spaces for respite and recuperation** for those who need a break from stressful or traumatizing environments. We are clear about what we can and cannot offer (meals, beds, use of common spaces, running water) as well as other considerations—is the house or land project made up of all white residents? Is the local town safe for people of color to travel through? What about those who are visibly queer or trans or otherwise marginalized?
+
+**We identify our local enemies.** A lot of white supremacists live out here in the boonies. We locate them and learn about their networks and capabilities. We use this information tactically to counter their efforts. We are careful to safeguard our identities and anonymize our efforts because a well-armed enemy is not something to fuck around with, especially when everyone in town knows your face and where you live. 
+
+**We arm ourselves and train each other.** The racist right is heavily armed. We buy guns and learn how to shoot. We start gun clubs to share and build our capabilities.
+
+**We give money as we are able.** We donate to bail funds, supply runs for protests, Black-led organizing and to Black individuals. We give as generously as we are able, especially if we benefit from white privilege or class privilege, if we are still getting a paycheck or are pulling in extra on COVID unemployment. 
+
+**We provide tech support.** We may live under a proverbial rock, but some of us have internet and phone lines. We help with graphics and web design. We listen to the police scanner and send updates to comrades on the ground. Location matters less than it ever has.
+
+**We identify resources and supply lines and distribute excess.** What resources can we share? How can these be directed locally and to cities in revolt? Are there extra shares of a CSA that can be distributed free to BIPOC families? Can an herbalist make medicinal care packages to send to the front lines? Rural stores may have things in stock that are sold out in cities. They are also less likely to keep spray paint and bolt cutters locked up—and they may be less suspicious of individuals buying extra black clothing, umbrellas, and other materials that could arouse suspicion in a city.
+
+**We go into the cities when we can.** It’s a long drive, but we try to get there. We go to march and make noise. We hand out masks, stand between police and the most vulnerable, run as street medics, and yes, even smash windows. We follow the lead of the crowd, stay aware of our surroundings, and watch carefully who is calling for escalation and deescalation alike. We show up for the struggle in this way because we know the state only pays attention to a threat—and hundreds or thousands of people in the streets cannot be ignored for long.
+
+We seek to contribute in all of these ways and countless others—because we know that an imaginative, militant, and accountable struggle for Black liberation must be central to the struggle for the world we aim to build together. Small towns and rural backwaters must rise up alongside the metropolis and our rural communities must connect with each another to share support, resources, ideas, and skills. The rural front will not directly reflect the same movements, horrors, and transformations as the city. We have our own set of circumstances, strategies, demons, and possibilities. We must engage our diverse skills and strengths and find ways to mobilize them. We must work diligently with intention and care. We know that the path is long and that we will learn and make mistakes along the way. We know the possibilities are ultimately only limited by our capabilities and willingness to act. 
+
+**Black liberation is human liberation. Let's roll, fuckers.**
+
+
+***
+
+[Header image is from Flickr](https://www.flickr.com/photos/84346589@N00/8552681155/) by a user named _@drburtoni_, accessed 2020-06-20. CC BY-NC-ND 2.0. Cropped by CrimethInc.

@@ -1,0 +1,97 @@
+---
+title: "Da Minneapolis alla Grecia, Fanculo agli sbirri"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/06/22/da-minneapolis-alla-grecia-fanculo-agli-sbirri-un-mese-di-lotte-ecologiche-carcerarie-e-solidali-in-grecia"
+---
+
+Mentre negli Stati Uniti sta avendo luogo una [ rivolta ](https://it.crimethinc.com/2020/06/17/istantanee-della-rivolta-racconti-di-tre-settimane-di-rivolta-nazionale) contro la violenza suprematista bianca della Polizia, una lotta di lungo corso si sta svolgendo in Grecia, dove il Governo di estrema destra di Nuova Democrazia sta cercando di reprimere una cultura di resistenza di lunga data. Nel seguente resoconto, passiamo in rassegna i movimenti anti-autoritari in tutta la Grecia - relativi a carceri, ecologia, spazi abitativi e organizzativi autonomi e altro ancora - tra cui alcuni in solidarietà con l'insurrezione negli Stati Uniti. 
+
+*Quest’aggiornamento è adattato dal [ contributo mensile ](https://www.a-radio-network.org/bad-news-angry-voices-from-around-the-world/bad-news-episodes/episode-35/) di RadioFragmata al podcast "Bad News Report" e riprende da dove era
+stato interrotto [ il mese scorso ](https://it.crimethinc.com/2020/05/15/greece-repression-and-resistance-during-the-pandemic).*
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/22/3.jpg Non posso respirare… in un mondo pieno di razzismo. Da Atene a Minneapoli Fanculo agli sbirri ]]
+
+***
+
+# Attacchi contro gli spazi abitativi e organizzativi
+
+In Grecia, il COVID-19 è pressoché scomparso dai discorsi quotidiani. I bar sono aperti, i negozi sono aperti e l'opportunismo dilagante e la repressione degli emarginati e dei movimenti rivoluzionari rimangono il bersaglio principale del regime di Nuova Democrazia.
+
+Il nostro ultimo rapporto è stato completato poche ore prima che una delle prime assemblee aperte fosse convocata presso il "Gini" in precedenza occupato del Polytechnio sito in Exarchia. Mentre le università rimangono chiuse in tutta la Grecia, l'edificio Gini del
+Politecnico è stato a lungo uno spazio autonomo utilizzato dal più ampio movimento anarchico per le assemblee e l'organizzazione. Le prime persone ad arrivare all'assemblea aperta sono state arrestate e portate al Distretto di Polizia per essere interrogate. Il COVID-19 offre allo Stato e all'amministrazione universitaria un pretesto per tentare di riprendersi l'edificio occupato del Politecnico e per debellare la tradizione delle università intese come rifugio sicuro per l'organizzazione rivoluzionaria greca. Bloccare l’accesso al Gini equivale a colpire direttamente la possibilità del nostro movimento di riunirsi e organizzarsi. Il Polytechnio di Exarchia è il campus universitario dove, all’inizio degli anni Settanta, il movimento anarchico greco stabilì un punto d’appoggio essenziale dopo la rivolta studentesca contro la Giunta, durante la quale parecchi studenti furono uccisi dalla dittatura prima della sua transizione in ciò che oggi è noto come Nuova Democrazia.
+
+Accanto a questi tentativi per sfruttare la chiusura delle scuole per muovere guerra contro i movimenti organizzatisi al loro interno, i server espers.net ospitati dall'Università ateniese Panteion sono stati chiusi dalla decisione del consiglio di amministrazione che aveva affermato che venivano utilizzati per atti di pirateria informatica. Non sorprende che ciò accada dopo che Nuova Democrazia ha formalmente abolito la politica universitaria in materia di asilo. I server espiv.net hanno ospitato centinaia di progetti, siti Web e piattaforme di comunicazione.
+
+Appena un giorno dopo la "riapertura" della maggior parte della Grecia, la Polizia ha fatto irruzione in uno squat a Exarchia che ospitava oltre cinquanta rifugiati, tra cui molti bambini. Queste persone sono state, a quanto pare, smistate in vari centri di detenzione e campi profughi – anche se, in realtà, molti sono semplicemente diventati dei senzatetto. Nuova Democrazia è intenzionata a mantenere il suo programma xenofobo di repressione e tortura contro i non greci e contro i rifugiati. Subito dopo, in molti si sono riversati nelle strade per manifestare contro lo sgombero. Molti squat sopravvivono, anche se il Governo aveva dichiarato che li avrebbe evacuati tutti nel dicembre 2019. Tuttavia, la repressione è in corso e potrebbe continuare fino a quando i nostri movimenti non avranno un luogo dove organizzarsi.
+
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/22/5.jpg Un'espressione di solidarietà da Prosfygika, un quartiere auto-organizzato di vecchia data nel centro di Atene. ]]
+
+# Cospirazione ed economia
+
+Proprio come la destra statunitense, i gruppi cristiani di estrema destra greci si sono fissati in modo ossessivo sul COVID-19. I gruppi fascisti si stanno muovendo nel nome di Dio e dell'economia per togliere priorità alla salute e alla sicurezza delle persone vulnerabili, organizzando manifestazioni che sostengono che il COVID-19 sia una cospirazione che coinvolge il 5G e George Soros. Allo stesso tempo, il Governo di Nuova Democrazia ha dichiarato che la Grecia sarà aperta al mondo nel disperato tentativo di generare denaro per far girare l'economia. Nessuna quarantena, nessun test: quest’estate, chiunque potrà portare dollari turistici in Grecia sarà il benvenuto per diffondere il virus nel modo che preferisce. Dopo una manifestazione che ha coinvolto questi teorici della cospirazione, gli antifascisti ne hanno picchiati due. Questi gruppi sembrano essere un'estensione delle proteste anti-macedoni controllate dal fascismo che hanno avuto luogo negli ultimi anni.
+
+
+[[https://cdn.crimethinc.com/assets/articles/2020/06/22/2.jpg Atene: i manifestanti solidali con la rivolta di Minneapolis usano delle Molotov per respingere la polizia presso l'ambasciata degli Stati Uniti.]]
+
+# Lotte ambientali
+
+Oltre a dare la priorità al denaro dei turisti rispetto alla salute di chi è vulnerabile, il nuovo Governo sta portando avanti la sua campagna di depredazione dei terreni. In tutta la Grecia, le comunità rurali sono minacciate da vari progetti tra cui l'estrazione mineraria, il saccheggio di risorse naturali come l'acqua potabile e la costruzione dei cosiddetti progetti di energia rinnovabile. Sulle montagne di Agrafa vicino a Trikala nella Grecia centrale, sulle isole di Tinos e Skyros e in altre aree del Paese, la gente sta organizzandosi contro i parchi eolici. Lotte ambientali come questa hanno recentemente guadagnato slancio in Grecia e raggiungeranno una fase critica nel futuro prossimo.
+
+A Volos, le associazioni ambientaliste si sono organizzate contro un grande cementificio (AGET-Lafarge) che incenerisce rifiuti per carburante e contro i piani governativi per costruire un nuovo stabilimento SRF (combustibili solidi rigenerati); quest’ultima dovrebbe raccogliere i rifiuti plastici e trasferirli per la combustione in altre fabbriche (come l’AGET-Lafarge). Il movimento locale che combatte contro questi progetti dal 2017, è variegato e coinvolge tutti, da socialdemocratici e sindacati ad assemblee e occupazioni anarchiche.
+
+Il 13 giugno di quest’anno, si è svolta la [ seconda grande manifestazione](https://athens.indymedia.org/post/1605759/) contro questi progetti, attirando circa 3000 partecipanti, tra cui un contingente di black bloc. La dimostrazione si è fermata davanti al cancello principale della fabbrica, dove molti poliziotti erano di guardia. Quando i manifestanti hanno tentato di appendere uno striscione sul cancello, sono stati attaccati violentemente dagli agenti, che hanno colpito molti dei presenti con dei manganelli e hannoa lanciato lacrimogeni e granate stordenti tra la folla. A tutto ciò sono seguite delle ostilità che sono continuate fino alle 22.00. Tredici persone sono state fermate; due sono state arrestate e devono rispondere delle accuse.
+
+Durante questi scontri, il capo della Polizia locale è stato picchiato davanti alle porte della fabbrica da alcuni black bloc. Più tardi quella stessa notte, circa 100 persone si sono radunate davanti al quartier generale della Polizia in solidarietà con gli arrestati; gli agenti in assetto antisommossa hanno attaccato anche loro. Il giorno successivo, il 14 giugno, quando la folla si era radunata davanti al tribunale locale in solidarietà con i detenuti, la Polizia ha attaccato nuovamente ricorrendo all’uso di lacrimogeni e granate stordenti. Un manifestante, brutalmente picchiato dagli agenti, è stato lasciato con le costole rotte sul lato della strada all’esterno della caserma. Le ultime notizie da Volos ci dicono che è ricoverato presso l'ospedale locale per riprendersi dalle ferite inflittegli.
+
+La maggior parte delle organizzazioni che hanno preso parte a questi eventi, ha rilasciato delle dichiarazioni contro la repressione della Polizia, proclamando solidarietà con la lotta ambientalista contro le attività di AGET-Lafarge e contro la costruzione dello stabilimento SRF. Gli arrestati sono stati rilasciati ma devono rispondere delle accuse per le quali dovranno presentarsi in Tribunale a ottobre.
+
+A meno di 10 chilometri da qui, gli abitanti di Stagiates, un piccolo villaggio tra le montagne del Pelion, hanno dato vita a un'assemblea autonoma per organizzarsi contro i tentativi di privatizzare l'acqua.
+
+Questa lotta è in corso da oltre cinque anni. Il 5 giugno, il sindaco di Volos, noto per associazioni di tipo mafioso, è [ apparso nella piazza ](https://www.facebook.com/permalink.php?story_fbid=118959653167364&id=108544074208922) di Stagiate con forze di Polizia e giornalisti dei media istituzionali per occupare tutti gli edifici municipali - tra cui la biblioteca e la scuola locale - dove i residenti organizzano eventi e assemblee. Ha
+gettato via i loro oggetti e ha cambiato le serrature per impedirne un ulteriore utilizzo da parte della comunità. Le sue azioni hanno suscitato una risposta infuriata da parte dei locali.
+
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/22/1.jpg Uno striscione a Stagiate. ]]
+
+# Ribellioni nelle carceri
+
+Il 9 aprile, in risposta alla morte di una detenuta - molto probabilmente dovuta al COVID-19 - una coraggiosa rivolta è scoppiata nella prigione femminile di Eleonas per ottenere ulteriori misure di sicurezza contro il virus all'interno delle carceri greche. Da allora, lo Stato ha adottato provvedimenti disciplinari nei confronti di almeno 11 donne, rifiutando di apportare modifiche alle terribili condizioni e alla scarsa igiene della prigione, comunicando una nuova volontà di aumentare la brutalità e la repressione esistente dietro le sbarre.
+
+Grazie ad altre notizie sui prigionieri, sappiamo che Vassilis Dimakis, l’anarchico che sta conducendo uno sciopero della fame per chiedere il diritto di continuare i suoi studi in galera, è stato separato dagli altri prigionieri nel tentativo di zittirlo e abbatterne l’animo. La solidarietà in suo sostegno è stata forte e lui continua la sua coraggiosa lotta all'interno della prigione.
+
+Nelle prime ore del 27 maggio, a Salonicco, in Grecia, due anarchici sono stati arrestati, presumibilmente in risposta al tentativo di posizionare un ordigno esplosivo nella casa di Dimitris Stamatis, ex membro di Nuova Democrazia e attuale presidente della Cassa Depositi e Prestiti. I media istituzionali greci affermano che un compagno è stato visto dalla polizia mentre teneva sotto controllo la residenza del politico, mentre un altro sarebbe stato catturato mentre cercava di installare i congegni. Uno è stato arrestato immediatamente; l'altro, alcune ore dopo, mentre andava in bicicletta. Dopo gli arresti, gli agenti hanno fatto irruzione nella casa di un detenuto e in varie altre case di presunti anarchici in tutta la città. Ciò è stato visto come un'opportunità per razziare quattro squat nell'area Ano Poli di Salonicco, permettendo di arrestare velocemente dieci persone.
+
+I due anarchici sono accusati di molteplici reati tra cui associazione per delinquere, tentato attentato, tentato incendio doloso, possesso e fabbricazione di materiale esplosivo che potrebbe rappresentare un pericolo per gli esseri umani, violazione delle leggi greche sulle armi e resistenza a pubblico ufficiale. In seguito a un’udienza tenutasi il 1° giugno, sono stati rilasciati dalla custodia cautelare a condizione che facciano rapporto alla stazione di Polizia tre volte al mese, che non viaggino al di fuori dei confini greci e che paghino una cauzione di 20.000 euro entro il 15 giugno. Eventi di solidarietà sono stati organizzati a una velocità impressionante per sostenere le esigenze finanziarie della Corte, superando rapidamente l'importo necessario grazie a una straordinaria dimostrazione di solidarietà. I compagni ora incoraggiano le persone a donare a [ Tameio ](http://www.tameio.org/) o per [ raccogliere fondi per le cauzione e compiere degli sforzi contro la repressione negli Stati Uniti ](https://bailfunds.github.io/).
+
+# Solidarietà con l'insurrezione a Minneapolis
+
+In Grecia sono state investite parecchie energie per esprimere solidarietà nei confronti dell’insurrezione negli Stati Uniti. Gli anarchici hanno realizzato [cartelloni](https://athens.indymedia.org/post/1605614/) e creato [graffiti imponenti](https://it.crimethinc.com/2020/06/02/solidarieta-internazionale-con-la-rivolta-di-minneapolis-manifestazioni-graffiti-hacking-e-insurrezioni-in-sei-continenti#grecia) in tutta la Grecia continentale e sulle sue isole, organizzando eventi educativi per aiutare le persone a comprendere il complicato contesto politico americano. [Manifestazioni solidali](https://athens.indymedia.org/post/1605597/)si sono svolte a [Salonicco](https://athens.indymedia.org/post/1605690/) e in altre zone del Paese. L'evento più notevole ha coinvolto 3.000 persone in corteo dal Parlamento greco all'ambasciata americana che, una volte giunte alla meta, hanno [lanciato pietre e Molotov](https://www.ieidiseis.gr/ellada/item/47020-tzortz-floint-epeisodia-kai-molotof-stin-amerikaniki-presveia-stin-athina) contro gli agenti in tenuta antisommossa a protezione dell'edificio. La polizia ha risposto con lacrimogeni mentre la manifestazione ha continuato allontanandosi dall'ambasciata. Si sono verificati dei tafferugli; piccoli scontri minimi hanno avuto luogo anche nel vicino quartiere esclusivo di Kolonaki.
+
+Umiliati dai video delle Molotov che li hanno colpiti fuori dall'ambasciata americana, gli agenti hanno reagito picchiando e fermando manifestanti a caso. Alcuni arresti hanno avuto luogo. Si è in attesa del processo.
+
+Il 12 giugno, nel quartiere di Nea Ionia ad Atene, si è svolta un'altra azione di solidarietà a sostegno dell'insurrezione negli Stati Uniti. In seguito, sono stati rilasciati un [ comunicato ](https://athens.indymedia.org/post/1605674/) e un video in cui è stata rivendicata la responsabilità di un attacco in cui parecchie Molotov venivano lanciate verso una Stazione di Polizia. Tutti i presenti sono riusciti a fuggire, mentre l'ufficiale di guardia è scappato per la paura. L'azione è stata rivendicata in forma anonima da un gruppo che si autodefinisce "George Floyd Revenge Unit" e che ha rivendicato il gesto compiuto come atto in sostegno dell'insurrezione contro la supremazia bianca e come espressione di solidarietà nei confronti di tutti i prigionieri anarchici. Di seguito, un estratto del comunicato:
+
+> Abbiamo intrapreso quest’azione ispirata agli eventi negli Stati Uniti e per vendicare George Floyd. Abbiamo intrapreso quest’azione in solidarietà con i detenuti in tutto il mondo e in concomitanza con i tre giorni di solidarietà internazionale con i detenuti. Dobbiamo farli riflettere due volte prima di toglierci la vita. Ci auguriamo di riuscire a costruire il potere per far sì che ciò diventi loro impossibile.
+>
+> Per la liberazione nera! Morte allo Stato! Attacca la Polizia! Distruggi il sistema! Saccheggia il mondo!
+>
+> -George Floyd Revenge Unit
+
+[[https://twitter.com/exiledarizona/status/1268125228644827138 Azione alla stazione di Polizia di Nea Ionia.]]
+
+# Altre lotte
+
+Negli ultimi mesi, il sindacato dei rider ha ripetutamente tenuto cortei motociclistici per chiedere maggiori protezioni e un aumento salariale. Queste richieste sono state esplicitate in modo più intenso con la pandemia, quando questi lavoratori sono stati costretti a correre nuovi rischi di salute per il profitto dei loro sfruttatori senza alcun compenso aggiuntivo. Per qualche tempo, queste dimostrazioni avevano avuto luogo senza gravi ripercussioni; eppure, l'11 giugno, una dimostrazione di rider ha subìto una repressione senza precedenti. Non appena si sono riuniti, la manifestazione di circa 50 lavoratori si è trovata circondata dagli agenti. I lavoratori hanno rifiutato di fornire le proprie generalità o di essere ridotti al silenzio; gli agenti hanno arrestato ogni singolo dimostrante, ricorrendo al kettlin, una tecnica di contenimento raramente vista prima in Grecia. Hanno costretto tutti i lavoratori ad abbandonare i loro veicoli, portandoli in carcere.
+
+Questo brutale assalto nei confronti di lavoratori che, in Grecia, sono stati considerati "essenziali" durante il lockdown, è anche una dichiarazione dello Stato sul fatto che, d’ora innanzi, adotterà misure più repressive contro i manifestanti - indubbiamente un azzardo, in un momento in cui l'autodifesa contro la violenza governativa sta diventando un luogo comune in tutto il mondo.
+
+Lo stesso quartiere di Exarchia ha provato un po' di sollievo dalle pressioni della Polizia poiché la riapertura dei negozi ha riportato lì la gente, potenzialmente dissuadendo la polizia locale dalle pubbliche manifestazioni di brutalità. Tuttavia, gli agenti continuano a pattugliare la piazza di Exarchia, compiendo frequenti irruzioni ed esigendo che i presenti mostrino i documenti. La squadra Delta continua a imperversare lungo le strade di Exarchia e di altri quartieri che, in precedenza, erano visti dai giovani come luoghi sicuri dove incontrarsi.
+
+Girano senza una meta fissa, intimidendo individui non bianchi, molestando sessualmente le donne. È molto probabile che queste azioni abbiano lo scopo di riconquistare gli spazi pubblici di cui i giovani si erano appropriati durante il lockdown, restituendone il controllo ai bar e ai ristoranti che occupano i marciapiedi e chiedono ai ragazzi di pagare per il privilegio di radunarsi all'esterno. Dopo le manifestazioni svoltesi ad Atene in risposta all'attacco di una riunione tenutasi a maggio in uno spazio pubblico nel quartiere di Kipseli, a Salonicco sono scoppiate delle rivolte quando la polizia ha lanciato dei lacrimogeni e picchiato alcuni giovani perché erano in una piazza pubblica.
+
+In Grecia, il movimento si rifiuta di cedere, anche se il Governo fa tutto ciò che è in suo potere per saccheggiare i terreni, sabotare i nostri sforzi organizzativi e distrarre la società dall'evidente crisi economica che incombe nell'immediato futuro. Ogni giorno hanno luogo
+delle azioni e noi continuiamo a restare ingovernabili. Solidarietà a tutti coloro che combattono la supremazia bianca e il potere statale negli Stati Uniti e in tutto il mondo.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/22/4.jpg ]]
