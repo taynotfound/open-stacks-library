@@ -1,0 +1,8 @@
+---
+title: "No Wall They Can Build, Episode 9"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2019/05/29/no-wall-they-can-build-episode-9-the-north"
+---
+
+[**Listen here.**](https://crimethinc.com/podcasts/no-wall-they-can-build/episodes/9) Welcome to **Episode 9** of [No Wall They Can Build](https://crimethinc.com/books/no-wall-they-can-build), the [Ex-Worker Podcast](http://crimethinc.com/podcast)’s serialized audiobook exploring borders and migration across North America. The border doesn’t end at the border: the violent regime of citizenship constrains and ruins lives throughout the north, as a chilling story of a narrow escape from death makes clear. Yet this ongoing migration constitutes, against all odds, a powerful form of resistance that is changing the United States in unpredictable ways. This installment begins to explore what it might take to actually end death in the desert—which would also mean dismantling the global systems of exploitation, colonialism, white supremacy, and state power that lie at its roots. We can take inspiration and strategic guidance from some of the stories that appear in this episode, ranging from an extraordinary migrant whose ingenuity and determination helped him to survive multiple crossings against unthinkable odds to a team of civil disobedience activists whose simple action managed to briefly grind part of the migrant detention industrial complex to a halt. Listening won’t offer a single path, program, or tactic that’s guaranteed to work, but rather a way of thinking about resistance at multiple points of intervention that can start wherever you are. Whatever action you take, it’s time to take sides.

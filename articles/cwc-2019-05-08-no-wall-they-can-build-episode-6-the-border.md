@@ -1,0 +1,8 @@
+---
+title: "No Wall They Can Build, Episode 6"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2019/05/08/no-wall-they-can-build-episode-6-the-border"
+---
+
+[**Listen here.**](https://crimethinc.com/podcast/no-wall-they-can-build-6) Welcome to **Episode 6** of [No Wall They Can Build](https://crimethinc.com/books/no-wall-they-can-build), the [Ex-Worker Podcast](http://crimethinc.com/podcast)’s serialized audiobook exploring borders and migration across North America. This installment investigates the three-tiered border and the process of crossing it, focusing on the places where the most deaths occur—southern Arizona and South Texas. The story of Arivaca, a small community of ranchers and hippies, shows how state arrogance and vigilante brutality turned the population towards solidarity with migrants. The complex politics of the Tohono O’odham reservation at Komkch’ed e Wah ‘osithk (Sells) reflect the fraught relationship between migration, colonialism, and the challenges facing indigenous communities today. The barren deserts and army base lands around Ajo mark some of the most grim and hazardous terrain of the entire border, while the recent surge in deaths around Falfurrias indicates the urgent need for further solidarity. Explanation of the actual mechanics of crossing the border, and the terrible perils faced by vulnerable migrants along the way, is supplemented by a poignant story about two flawed heroes of the desert. This episode paints a vivid picture of where and how migration into the United States actually happens, and the dangers stalking every step across the harsh landscape of the borderlands.

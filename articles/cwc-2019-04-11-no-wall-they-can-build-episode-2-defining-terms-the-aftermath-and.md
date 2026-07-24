@@ -1,0 +1,8 @@
+---
+title: "No Wall They Can Build, Episode 2"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2019/04/11/no-wall-they-can-build-episode-2-defining-terms-the-aftermath-and-the-travelers"
+---
+
+[**Listen here.**](https://crimethinc.com/podcast/no-wall-they-can-build-2) Welcome to **Episode 2** of [No Wall They Can Build](https://crimethinc.com/books/no-wall-they-can-build), the [Ex-Worker Podcast](http://crimethinc.com/podcast)’s serialized audiobook exploring borders and migration across North America. This installment continues last week’s introduction by **Defining Terms**—just what do we mean by *the border*, *migrants*, *refugees*, *solidarity workers*, and other key phrases? To begin the long section describing movement *From South to North*, **The Aftermath** lays out an unflinching view of the 500-year history of colonization, slavery, and genocide on which today’s capitalist economy and border regimes are based, followed by a harrowing tale of survival by a desert migrant. **The Travelers** lays out the forces pushing migrants from Mexico and the Northern Triangle (Guatemala, El Salvador, and Honduras) north towards the United States, illustrating the economics of the situation through a moving story in which migrants and solidarity workers work out the mathematics of international exploitation together. This chapter demystifies the basic dynamics at play in North American migration and evocatively illustrates their human cost.

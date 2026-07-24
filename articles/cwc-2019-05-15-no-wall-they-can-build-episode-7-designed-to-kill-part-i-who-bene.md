@@ -1,0 +1,8 @@
+---
+title: "No Wall They Can Build, Episode 7"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2019/05/15/no-wall-they-can-build-episode-7-designed-to-kill-part-i-who-benefits"
+---
+
+[**Listen here.**](https://crimethinc.com/podcast/no-wall-they-can-build-7) Welcome to **Episode 7** of [No Wall They Can Build](https://crimethinc.com/books/no-wall-they-can-build), the [Ex-Worker Podcast](http://crimethinc.com/podcast)’s serialized audiobook exploring borders and migration across North America. The Border Patrol, with its swollen budget and lavish technologies, clearly has the technical capacity to stop most, if not all, traffic across the border, yet their behavior seems to be at odds with their stated objective. This installment investigates the *actual* goal of border policy—which is not to *end* “illegal immigration,” but to *control and manage* it. While preventing this migration altogether would have catastrophic effects on the US economy, using selective enforcement to funnel traffic into increasingly remote areas while militarizing and hyper-policing certain areas maintains the labor supply while ratcheting up the profits to be made at every step in the process. A variety of stories—some heartbreaking, some hilarious—illustrate how this approach to enforcement impacts the lives of everyday people as they attempt to travel north into the United States. This episode identifies the various parties—both Republicans and Democrats, private prison and tech corporations, Mexican officials and cartels—who benefit from this counter-intuitive and cruel border policy… while reminding us of its horrific cost in human lives.

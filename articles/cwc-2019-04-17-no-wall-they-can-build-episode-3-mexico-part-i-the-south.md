@@ -1,0 +1,8 @@
+---
+title: "No Wall They Can Build, Episode 3"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2019/04/17/no-wall-they-can-build-episode-3-mexico-part-i-the-south"
+---
+
+[**Listen here.**](https://crimethinc.com/podcast/no-wall-they-can-build-3) Welcome to **Episode 3** of [No Wall They Can Build](https://crimethinc.com/books/no-wall-they-can-build), the [Ex-Worker Podcast](http://crimethinc.com/podcast)’s serialized audiobook exploring borders and migration across North America. This installment begins exploring the conditions south of the border that drive migration north by exploring the recent history and economy of Mexico. As NAFTA’s “free trade” policies impoverished and displaced millions, border militarization altered previous patterns of seasonal migration and established a permanent undocumented underclass of millions in the United States. The author cuts through myths around the “drug war,” helping to explain the complex web of players from the Sinaloa and Zetas cartels to the Mexican state and the social movements that contest them both—and how the situation might be transformed, if US drug and immigration policies changed. The episode concludes with an inspiring story of the determined and colorful resistance to state violence by the community of San Salvador Atenco. This episode provides a brief introduction to the fierce, many-sided conflicts across Mexico resulting from the actions of the US government and exacerbated by the Mexican state and cartels, but always contested by popular forces.
