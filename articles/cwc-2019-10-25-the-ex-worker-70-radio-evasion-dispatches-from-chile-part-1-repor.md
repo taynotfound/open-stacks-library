@@ -1,0 +1,8 @@
+---
+title: "The Ex-Worker #70: Radio Evasión—dispatches from Chile Part 1"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2019/10/25/the-ex-worker-70-radio-evasion-dispatches-from-chile-part-1-reports-from-fare-dodging-to-a-week-of-full-blown-revolt"
+---
+
+[**Listen here.**](https://crimethinc.com/podcasts/the-ex-worker/episodes/70) Beginning last Monday, October 14, high school students in Santiago, Chile kicked off a campaign of mass fare-dodging, or evasiones, in response to a 30 peso fare hike. The movement grew quickly and, before anyone knew it, [revolt spread all across Chile](https://crimethinc.com/2019/10/24/on-the-front-lines-in-chile-accounts-from-the-uprising). On the one hand, the government declared a [State of Exception](https://crimethinc.com/2019/10/21/chile-resisting-under-martial-law-a-report-interview-and-call-to-action), including a military-imposed curfew. On the other hand, the president and congress have been working hard to offer trablescrap reforms to satisfy the angry and exploited. However, neither the repression nor the reforms have been able to quell the resistance, which today celebrates its anniversary of one week in the streets. To catch you up on what’s been happening, we bring you an overview timeline of the revolt, along with four interviews from the streets. We’re not sure if this will be a one-off episode or the first in a series of updates from Chile, it all depends on how things go—whether they heat up or cool down, but for feedback, ideas for interview questions, or to contribute material, send us an e-mail at [podcast@crimethinc.com](mailto:podcast@crimethinc.com).

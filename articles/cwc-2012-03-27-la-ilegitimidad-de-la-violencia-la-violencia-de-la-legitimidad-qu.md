@@ -1,0 +1,118 @@
+---
+title: "La Ilegitimidad de la Violencia, la Violencia de la Legitimidad"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2012/03/27/la-ilegitimidad-de-la-violencia-la-violencia-de-la-legitimidad-que-quiere-decir-pinera-cuando-habla-de-la-violencia"
+---
+
+Qué es la violencia? Quién la define? Tiene lugar en la búsqueda de la liberación? Estas preguntas casi ancestrales retoman la delantera cada vez que estalla una rebelión popular. Pero dicha discusión nunca toma lugar en un campo de juego nivelado; mientras algunos buscan ilegitimar la violencia, el lenguaje de la legitimidad en sí mismo pavimenta el camino para que las autoridades la empleen.  
+
+[[https://cdn.crimethinc.com/assets/zines/la-ilegitimidad-de-la-violencia/la-ilegitimidad-de-la-violencia_front.jpg Haz clic en la imagen para descargar el fanzine. https://crimethinc.com/zines/la-ilegitimidad-de-la-violencia class:portrait-shadow]]
+
+> “Severas filas de policías montados a caballo y acompañados por perros cubrieron la entrada de la estación de policía para dispersar a los manifestantes. Sin embargo, hubo focos de violencia significativos que no pudieron alcanzar”. 
+>
+> -El [New York Times](https://thelede.blogs.nytimes.com/2011/08/06/shops-and-cars-burn-in-anti-police-riot-in-london/), en referencia a las protestas en el Reino Unido en agosto del 2011.
+
+El año 2001 durante la cumbre FTAA en la ciudad de Quebec, un periódico reportó que [“la violencia se desencadenó cuando los manifestantes empezaron a arrojar de vuelta los gases lacrimógenos hacia efectivos policiales”.](http://www.trabal.org/texts/stvio_socmovestud.pdf) Esta linea nos dice todo lo que necesitamos saber acerca de qué es percibido como “violento” y qué no. Cuando se puede percibir que las autoridades tienen un monopolio en el uso legítimo de la fuerza, el concepto de “violencia” suele usarse para referirse a un uso ilegítimo de la fuerza -es decir, cualquier cosa que se escape de su control. A causa de esto el término tiene una especie de [significado flotante](https://medium.com/@OKARA/significantes-flotantes-y-su-implicancia-en-el-desarrollo-organizacional-7d721de34a49), ya que también se define como “daño o amenaza que viola el consentimiento”.
+
+Esto se complica aun más si consideramos que nuestra sociedad está fundamentalmente basada en y corrompida por daños o amenazas que violan el consentimiento. En cierto sentido, no es acaso violento vivir en territorio colonizado, destruyendo ecosistemas con nuestro consumo diario y beneficiándonos de relaciones económicas que se fuerzan a punta de pistola? No es acaso violento que guardias armados limiten el acceso a comida y tierras, bienes que en algún momento fueron comunes y compartidos por todos, de aquellos que los necesitan? Qué es más violento? Desafiar a los policías que desalojan a las personas de sus hogares, o hacerse a un lado mientras los dejan en la calle? Es más violento arrojar bombas lacrimógenas de vuelta hacia la policía, o tildar de violentos a quienes las arrojan, dando así mayor libertades a la policía para hacer aun mas daño?
+
+[[https://www.instagram.com/p/B4fVYNbF1Ta/?igshid=1d51zs5ttefnk]]
+
+Dadas todas estas condiciones, no existe la no violencia - lo más cercano a lo que podemos aspirar es a rechazar la idea de que puede existir daño o amenaza de parte de quienes trabajan por reducirla. Y cuando son tantas las personas comprometidas con los privilegios que esta violencia les otorga, es ingenuo pensar que podríamos ser capaces de defendernos ni a nosotros mismos ni a otros desposeídos sin disgustar a al menos un par de banqueros y terratenientes. Así, en lugar de preguntarnos si una acción es violenta o no, quizás sea mejor simplemente preguntarnos: este acto contraataca asimetrías de poder o las refuerza?  
+
+Esta es la pregunta fundamental del anarquismo. Podemos aplicarla en toda situación; cada cuestionamiento en términos valóricos, tácticos y estratégicos procede de allí. Cuando un cuestionamiento se aborda desde esta perspectiva, por qué habríamos siquiera de enfrentarnos a la dicotomía entre violencia y no violencia?
+
+La discusión entre violencia y no violencia es atractiva porque abordarla suele ser una manera fácil de atribuirse cierta superioridad moral. Esto resulta seductor tanto por ser una oportunidad de criticar al estado como para competir frente a otros activistas por alcanzar un nivel mas alto de influencias. Pero en esta sociedad jerárquica, buscar una superioridad moral solo refuerza la jerarquía propiamente tal.  
+
+La legitimidad es una de las monedas de cambio que están distribuidas de manera desigual en nuestra sociedad, a través de las cuales las disparidades se perpetúan. Catalogar a personas o acciones de violentas es una forma de excluir a las mismas de la legitimidad de lo que sea que intenten comunicar, una manera de silenciarlas. Esto refuerza otras formas de marginalización: una persona blanca de clase acomodada puede actuar de maneras “no violentas “ que serian percibidas como violentas de ser perpetuadas por una persona pobre o de color. En una sociedad desigual, la definición de “violencia” no es más neutral que ninguna otra herramienta.
+
+Catalogar a personas o acciones de violentas tiene además consecuencias inmediatas: justifica el uso de la fuerza en contra de ellas. Esto ha sido un paso esencial de prácticamente todas las campañas que han apuntado hacia las comunidades más desposeídas, movimientos politicos y en general cualquiera que se encuentre del lado opuesto del capitalismo. Si has asistido a suficientes movilizaciones, sabes que muchas veces es posible anticipar la intensidad de la violencia que empleará la policía a partir de como se presenta la historia en el noticiero de la noche anterior. En estos contextos, autoridades e incluso organizadores rivales pueden involucrarse reprimiendo junto a la policía, determinando quién es un receptor legitimo en base a el enfoque de la narrativa.   
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/6.jpg]]
+
+# Deslegitimación, desrepresentación y división
+
+> “El orden público ha venido mejorando día a día. La marcha de ayer fue ejemplar, se manifestaron en paz y enviaron su mensaje con fuerza pero sin violencia, por eso que lo de ayer me llenó de alegría". 
+> 
+> –[Sebastian Piñera, Presidente de Chile](https://www.biobiochile.cl/noticias/nacional/chile/2019/10/26/pinera-la-marcha-de-ayer-me-lleno-de-alegria-todos-escuchamos-ese-mensaje-y-hemos-cambiado.shtml), tras una manifestación de mas de 1,000,000 personas en la cual encapuchados quemaron la entrada al metro, saquearon de tiendas, y tiraron piedras a la policía.
+
+La represión violenta es solo una de las múltiples estrategias con las que se suprimen los movimientos sociales. Para que esta represión sea exitosa, los movimientos deben dividirse entre legítimos e ilegítimos, convenciendo a los primeros de repudiar a los segundos—usualmente a cambio de privilegios o concesiones. Periodistas y “lideres sociales” suelen jugar un rol fundamental en este proceso en conjunto con la clase política.  
+
+Es por esta razón que el 29 de octubre de 2019 en vista de la gran envergadura de la rebelión chilena, politicos del Partido Comunista se apresuraron a condenar las acciones directas de expropiación y resistencia con respecto al toque de queda -y no solo para condenarlas, sino que también para exponerlas bajo la peor luz posible.  
+
+“Condeno tajantemente y sin medias tintas la violencia en las calles. No permitamos que se empañe el despertar de Chile con acciones que no representan a las grandes mayorías”, sostuvo el alcalde de Recoleta, Daniel Jadue, Partido Comunista.  
+
+“Esto es absolutamente inaceptable. Quienes hemos defendido públicamente las movilizaciones no debemos titubear en rechazar incendios provocados”, escribió el diputado de Convergencia Social, Gabriel Boric. Mientras que el diputado de Revolución Democrática, Giorgio Jackson, sostuvo que eran “terribles imágenes que vemos de Santiago y otras ciudades. Por supuesto que condenamos los destrozos e incendios”.  
+
+Dichos comentarios surgen solo un par de días después de “la marcha mas grande de Chile” el 25 de octubre, en la cual mas de un millón de personas se manifestaron en Plaza Italia. Sin embargo, la izquierda aceptada como legítima consideró necesario distanciarse de las componentes más fuertes de la revuelta. Por otro lado, el presidente Piñera sencillamente ignoró los elementos combativos que seguían acumulándose en las calles. Por qué? Un ejemplo del despertar Egipcio puede ayudarnos a entender las razones.
+
+El año 2012, cerca de un año después del despertar Egipcio, la fuerza militar decidió levantar el estado de emergencia—“[excepto en casos relacionados con matonaje](www.egyptindependent.com/node/617036)”. La revuelta popular del 2011 había forzado a las autoridades a legitimar formas de resistencia que anteriormente eran inaceptables, con Obama calificando como [no violento](https://www.youtube.com/watch?v=TyDLjLfE2Jc) un movimiento en el cual miles tuvieron que [pelear con la policía e incluso quemar estaciones policiales](http://occupywallst.org/article/solidarity-statement-cairo/). Con el objetivo de re legitimar los medios de la dictadura, fue necesario hacer la distinción entre “matones” violentos y el resto de la población. Sin embargo, la sustancia de esta distinción nunca fue especificada, “matón” es simplemente la palabra para referirse a una persona que es blanco seguro de un estado de emergencia. Desde la perspectiva de las autoridades, idealmente la imposición de la violencia por sí misma debería ser suficiente para tildar a sus víctimas de violentos—i.e. como blancos legítimos.  Esto dio como resultado que Egipto retornase a las mismas condiciones de tiranía bajo al-Sisi que vivieron bajo Mubarak.
+
+Entonces, cuando parte importante de la población está del lado de la resistencia, las autoridades se ven obligadas a re definir dicha resistencia como no violenta,  aún cuando previamente se le había considerado violenta. De lo contrario, la dicotomía entre violencia y legitimidad podría desgastarse—y sin aquella dicotomía sería mucho mas difícil justificar el uso de fuerza en contra de aquellos que amenazan el status quo. Del mismo modo, mientras más cedemos respecto a lo que permitimos a las autoridades calificar como violento, mayor será la cantidad de acciones categorizadas como tal, y los riesgos a los que nos enfrentamos serán aun mas grandes. Una consecuencia de las últimas décadas de desobediencia civil auto definida como no violenta es que algunas personas consideren que simplemente alzar la voz es violento, lo que hace posible categorizar a aquellos que siguen tanteando formas de protegerse de la violencia policial como “matones violentos”.
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/8.jpg]]
+
+# El señuelo de la legitimidad
+
+> “Los individuos que forman una resistencia entrelazando sus brazos, eso es per sé un acto de violencia… entrelazar brazos en una cadena humana cuando ha sido dada la orden de hacerse a un lado no es una protesta no violenta”.  
+>
+> -Margo Bennett, capitan de policia de UC, justificando el uso de fuerza en contra de estudiantes en la Universidad de California en Berkeley en [The San Francisco Chronicle.](https://www.sfgate.com/news/article/UC-cops-use-of-batons-on-Occupy-camp-questioned-2323415.php#ixzz1dQT8J9cb)  
+
+> “Acusar a Carabineros de violar los Derechos Humanos, me parece que viola ya un derecho humano de los Carabineros” 
+>
+> -[General Jorge Tobar](https://www.theclinic.cl/2019/11/01/el-paco-de-schrodinger-acusar-a-carabineros-de-violar-los-derechos-humanos-me-parece-que-viola-ya-un-derecho-humano-de-los-carabineros/), Carabinero de Chile
+
+Cuando queremos ser tomados en serio, es tentador atribuirse legitimidad de cualquier manera posible. Pero si no queremos reforzar las jerarquías de nuestra sociedad, deberíamos tener cuidado de no validar las definiciones de legitimidad que las perpetúan.
+
+Es fácil reconocer como esto funciona en algunas situaciones: cuando evaluamos a la gente según sus credenciales académicas, por ejemplo, esto prioriza el conocimiento abstracto por sobre las experiencias vividas, centrándose en aquellos con mas valor académico y marginando a todos los demás. En otros casos, esto ocurre de maneras más sutiles. Solemos enfatizar nuestro status de organizadores en nuestras comunidades, implicando que aquellos que no tienen el tiempo o recursos para ello tienen menos derecho a opinar. Nos atribuimos credibilidad como locales, implícitamente deslegitimando a aquellos que no lo son—incluyendo a inmigrantes que han sido forzados a mudarse a nuestros vecindarios porque sus comunidades han sido destruidas por procesos que se originan en las nuestras. Cuando las personas legitiman sus voces citando los roles que ellos juegan en una sociedad capitalista—como estudiantes, trabajadores, contribuyentes, ciudadanos- solo hacen más difícil aun para las personas desempleadas, en situación de calle y excluidas, legitimar sus voces.  
+
+Tendemos a sorprendernos por el retroceso que resulta de todo esto. Los políticos desacreditan a nuestros compañeros con el mismo vocabulario que hemos popularizado: “Esos no son verdaderos manifestantes, son vándalos haciéndose los manifestantes”. “No es que las comunidades empobrecidas sean un blanco para nosotros, estamos protegiéndolas de la delincuencia”.  Nosotros hemos pavimentado el camino para esto al validar lenguaje que condiciona la legitimidad.
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/4.jpg]]
+
+Cuando reforzamos la idea de que nuestros movimientos son y deben ser no violentos, estamos haciendo lo mismo. Esto crea un Otro que se escapa de la protección que otorga la legitimidad que sea que hayamos ganado para nosotros—esto es, en pocas palabras, crear un blanco para la violencia. Cualquiera que libere a sus compañeros de la policía en vez de esperar pasivamente a ser arrestado—cualquiera que improvise un escudo para protegerse de balines de goma en vez de dejar las calles libres para los policías -cualquiera que sea culpado de atacar a un oficial luego de haber sido atacado por uno: todas estas personas desafortunadas son arrojados a los lobos como “los violentos”, las manzanas podridas. Aquellos que tienen que cubrir sus rostros aun en acciones legales porque sus precarias situaciones de empleo o estado migratorio son denunciadas como criminales, traicionados por unas pocas migajas de legitimidad de parte de los poderosos. Nosotros, los Buenos Ciudadanos, podemos permitirnos ser perfectamente transparentes, nunca cometeríamos un delito ni ampararíamos a un potencial criminal.
+
+Y al crear este “Otro” se facilita el camino hacia la violencia contra éste. Aquellos que se ven enfrentados a las peores consecuencias de esto no son los jovencitos de clase media enfrascados en discusiones de internet, sino que es la misma gente que se encuentra en el lado contrario de casi todas las lineas divisoras del capitalismo: los pobres, los marginados, los indocumentados. No hay instituciones que velen por ellos, no hay incentivos para los juegos politicos que se inclinan a favor de autoridades y quizás uno que otro actor del jet set del activismo.  
+
+Simplemente deslegitimar la violencia no va a acabar con ella. Las desigualdades de esta sociedad no podrían ser mantenidas sin ella, y los desesperados siempre van a reaccionar, especialmente cuando sienten que han sido abandonados a su suerte. Pero este tipo de deslegitimacion puede crear un abismo entre la rabia y la superioridad moral, lo “irracional” y lo racional, lo violento y lo social. Pudimos ver las consecuencias de esto en las protestas en el Reino Unido en agosto del 2011, cuando muchos de los marginados, desesperados por obtener una vida mejor a través de cualquier medio legítimo, iniciaron una guerra en contra de la propiedad privada, la policía y en general el resto de la sociedad. Algunos de ellos habían intentado participar de [movimientos populares](https://crimethinc.com/2011/01/27/the-uk-student-movement) en el pasado, solo para ser estigmatizados como vándalos; naturalmente esta rebelión tomó un giro antisocial, causando cinco muertes y aun mayor alienación de parte de otros sectores de la población.
+
+La responsabilidad por esta tragedia no recae solo en los rebeldes, ni en aquellos que impusieron las injusticias que los hicieron sufrir, sino que también sobre los activistas que los estigmatizaron en vez de unírseles creando un movimiento que pudiera ayudarles a canalizar su ira. Si no hay conexión entre aquellos que quieren transformar la sociedad y aquellos que mas sufren en ella,  si no hay una causa común entre el esperanzado y el iracundo, entonces cuando el iracundo se rebele, el esperanzado renegará de él, destruyendo toda esperanza de un cambio real. No hay esfuerzo que sea capaz de eliminar jerarquías si es que se sigue excluyendo a aquellos desprovistos de derechos, a los “Otros”.  
+
+Cuáles deberían ser nuestras bases para la legitimidad entonces, que no involucren un compromiso con la legalidad, la no violencia o cualquier otro tipo de estándar que siga excluyendo a nuestros compañeros? Cómo explicamos lo que estamos haciendo y por qué es nuestro derecho? Tenemos que crear y hacer circular una moneda de cambio de legitimidad que no sea controlada por nuestros gobernantes, que no genere “Otros”.  
+
+Como anarquistas, sostenemos que nuestros deseos y bienestar, y el de todas las criaturas, son las únicas bases significativas para la acción. En vez de categorizar acciones como violentas y no violentas, nos enfocamos en determinar si dichas acciones extienden o limitan libertades. En vez de insistir que somos no violentos, enfatizamos la necesidad de interrumpir la violencia inherente a un modelo vertical. Esto puede parecer inconveniente para aquellos que están acostumbrados a buscar diálogo con los poderosos, pero es inevitable para cualquiera que anhele sinceramente abolir su poder.
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/12.jpg]]
+
+# Conclusión: de regreso a la estrategia
+
+Pero cómo logramos interrumpir la violencia vertical? Los partidarios de la no violencia enmarcan sus argumentos en términos de estrategia y moral: la violencia aliena las masas, evitando que podamos construir el “poder del pueblo” que necesitamos para triunfar.
+
+Existe un núcleo de verdad en el corazón de todo esto. Si la violencia es entendida como un uso ilegitimo de la fuerza, dicho argumento puede ser resumido como tautología: la acción ilegitima es impopular.
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/13.jpg]]
+
+De hecho, aquellos que dan por sentada la legitimidad de una sociedad capitalista son propensos a considerar violento a cualquiera que tome acciones para contrarrestar las desigualdades causadas por dicha sociedad.  
+
+Este no es un tema sencillo. Aun cuando creemos apasionadamente en lo que estamos haciendo, si no es considerado mayoritariamente legitimo, tendemos a titubear cuando nos piden explayarnos un poco más. Si tan solo pudiéramos permanecer dentro de los límites prescritos para nosotros en este sistema mientras intentamos derrocarlo! El pueblo exige compensaciones por todas estas injusticias, pero en una sociedad altamente regulada y controlada, es poco lo que se puede hacer.
+
+Al embarcarse en movimientos populares, muchas personas comprensiblemente necesitan cierta seguridad de que no tendrán que correr muchos riesgos, de que no tendrán que salirse tanto de su zona de confort. Pero suele suceder que dichas pre condiciones se vuelven limitaciones para el movimiento, y hay que trascender. Si realmente queremos transformar nuestra sociedad, no podemos permanecer para siempre dentro de los estrechos limites que las autoridades consideran legítimos: tenemos que extender el rango de lo que el pueblo se siente con el derecho de hacer.
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/7.jpg]]
+
+**Ni toda la cobertura mediática del mundo nos va a ayudar si no logramos crear una situación en la cual las personas se sientan con el derecho de defenderse a sí mismas y entre sí.**
+
+Legitimar la resistencia, expandir lo que es aceptable, no va a ser popular al principio—nunca lo es, precisamente por la tautología descrita anteriormente. Cambiar el discurso requiere de un esfuerzo consistente: enfrentarse con calma a atropellos y recriminaciones, humildemente enfatizando nuestro propio criterio para determinar qué es legitimo. 
+
+Si el desafío vale la pena o no va a depender de nuestras metas a largo plazo. Como [David Graeber](http://periodicoellibertario.blogspot.com/2016/03/el-shock-de-la-victoria.html) ha explicado, los conflictos respecto a las metas suelen presentarse en forma de diferencias morales y estratégicas. Hacer de la no violencia un elemento central de nuestro movimiento tendría sentido si nuestras metas a largo plazo no incluyeran desafiar la estructura fundamental de nuestra sociedad,  pero para construir un movimiento masivo que pueda ejercer legitimidad de la manera en la que ha sido definida por los poderosos—y que funciona codo a codo con la policía. Pero si realmente queremos transformar nuestra sociedad, tenemos que transformar el discurso de legitimidad, no solo intentar buscar una buena posición bajo el modelo que ya existe. Si nos enfocamos solo en esto último, nos encontraremos parados sobre un suelo que se mueve y resbala bajo nuestros pies, y muchos de aquellos con quienes tenemos que hacer causa común podrían jamas compartir su causa con nosotros.  
+
+Es importante tener debates estratégicos: alejarse del discurso de no violencia no significa que tenemos que considerar todas las ventanas rotas como una buena idea… Pero cuando los mas dogmáticos insisten en que todo aquel que no comparte sus metas y suposiciones—ni hablar de los intereses de su clase!—no tienen sentido estratégico, lo único que logran es obstruir el debate. Tampoco es estratégico enfocarnos en deslegitimarnos los unos a los otros en vez de coordinarnos para actuar juntos en nuestras intersecciones. Ese es el punto de afirmar una diversidad de tácticas: construir un movimiento que tenga espacio para todos sin dejar lugar para el dominio y la censura—un “poder del pueblo” que pueda expandirse e intensificarse.
+
+***
+
+> “Aquellos que dicen que la revolución egipcia fue pacífica no han visto los horrores ejercidos por la policía hacia nosotros, ni tampoco vieron la resistencia ni fuerzas equivalentes que los revolucionarios usaron en contra de la policía para defender sus ocupaciones o espacios: por admisión del mismo gobierno, 99 estaciones de policía fueron vandalizadas, miles de automóviles de policía fueron destruidos y todas las oficinas del partido del gobierno en Egipto de la época fueron quemadas. Se erigieron barricadas, los oficiales eran golpeados de vuelta y atacados con piedras, mientras disparaban gases lacrimógenos e incluso municiones contra nosotros… Si el estado hubiera cedido inmediatamente habríamos estado llenos de alegría, pero tal como ellos no titubeaban al momento de abusarnos, golpearnos, matarnos, sabíamos que no había otra opción que pelear de vuelta”. 
+>
+> -Comunicado de Solidaridad desde Cairo, Egipto a Occupy Wall Street, Nueva York, October 24, 2011
+
+[[https://cdn.crimethinc.com/assets/articles/2019/11/08/14.jpg]]
