@@ -1,0 +1,38 @@
+---
+title: "Retrospectiva del 18 de junio de 1999: El Carnaval contra el Capital"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2017/06/18/retrospectiva-del-18-de-junio-de-1999-el-carnaval-contra-el-capital-una-retrospectiva-video-y-comic"
+---
+
+Cuando los multimillonarios nacionalistas intentan hacerse pasar por rebeldes contra la élite global, es importante recordar todos los movimientos de base genuinos que representan una amenaza real para esas instituciones. Con ese espíritu, hoy recordamos cómo hace dieciocho años, el [18 de junio](https://bak.spc.org/j18/site/), de 1999, los manifestantes [cerraron el distrito financiero de Londres](http://www .ainfos.ca/99/jun/ainfos00181.html) en protesta contra las injusticias del capitalismo global.
+
+Cualquiera que sea la retórica que arroje sobre el “globalismo”, [Donald Trump no se opone a la globalización capitalista](http://www.anarchistagency.com/commentary/trump-and-the-legacy-of-the-anti-globalization-movement /), pero uno de sus principales practicantes, actualizándolo para el siglo XXI. En contraste con su oportunismo, los y las anarquistas siempre han mantenido una posición de principios contra el llamado “libre comercio”, coordinándose con otros en todo el mundo para resistir sus prerrogativas y demostrar otras formas de relacionarse unos con otros y de hacer circular recursos. Uno de los enfrentamientos más importantes en la historia de estos movimientos tuvo lugar el 18 de junio de 1999 en el centro de Londres.
+
+Una consecuencia del [movimiento de festivales gratuitos](http://datacide-magazine.com/radical-intersections/) y el grupo británico Earth First! y [Reclaim the Streets](https://www.youtube.com/watch?v=bUL0C_T-Sqk), el Carnaval contra el Capitalismo estaba programado para coincidir con la 24ª cumbre del G8 en Birmingham, Inglaterra, y se coordinaron actividades anti-capitalistas. Manifestaciones capitalistas en cuarenta países diferentes. Fue uno de los Días de Acción Global convocados por la red Acción Global de los Pueblos, que surgió de una serie de reuniones internacionales iniciadas por el Ejército Zapatista de Liberación Nacional (EZLN) en Chiapas, México.
+
+Las personas participantes distribuyeron un documento, [*Evading Standards,*](http://libcom.org/library/evading-standards-spoof-newspaper-1999) expresando su crítica al capitalismo en el formato del periódico de Londres, *The Evening Standard*: lo más parecido a piratear un sitio web en la era de los medios impresos. Reclaim the Streets también produjo un folleto de 32 páginas, [*Squaring up to the Square Mile,*](http://www.homemadejam.org/carnivals/answers/actions-jb.html#squaremile) que identifica las funciones (y ¡Ubicaciones!) de todas las instituciones, bancos, sedes corporativas y bares en el centro de Londres que eran parte integral del funcionamiento del capitalismo globalizado. Una [nueva versión](http://bigthink.com/strange-maps/squaring-up-to-the-square-mile-the-map-as-weapon) apareció para la cumbre del G20 de 2009 en Londres.
+
+El 18 de junio de 1999, miles de manifestantes se reunieron en la estación de tren de Liverpool Street. Las personas organizadoras distribuyeron máscaras de cuatro colores diferentes y los participantes se dividieron en cuatro marchas diferentes para dividir y confundir a la policía; Surgió una quinta marcha espontánea, así como una Masa Crítica compuesta por cientos de ciclistas. Las marchas convergieron en el London International Financial Futures Exchange (LIFFE), donde colgaron pancartas, encendieron una boca de incendio para simbolizar la liberación del río bajo las calles de Londres, adornaron las paredes con graffiti, desactivaron cámaras de vigilancia e instalaron sistemas de sonido para que actaran DJs y grupos de punk. Siguió una estridente tarde de baile, exuberancia y escaramuzas, durante la cual los participantes tapiaron la fachada del edificio LIFFE, irrumpieron y destrozaron su planta baja, y casi lograron destruir la propia Bolsa de Valores de Londres. En respuesta, la policía atacó al público en general con gases lacrimógenos y cargas de caballos y atropelló a una manifestante con una furgoneta antidisturbios, rompiéndole una pierna.
+
+[[https://cdn.crimethinc.com/assets/articles/2017/06/18/1.jpg]]
+
+Posteriormente, [los y las participantes reflexionaron](https://books.google.com/books?id=YrdGcZU66vIC&pg=PA194#v=onepage&q&f=false) que habían estado muy cerca de ocupar el piso de negociación de la Bolsa de Valores. Este es un recordatorio a tener en cuenta porque a veces nuestros planes locos tienen éxito y debemos prepararnos en consecuencia.
+
+Los acontecimientos del 18 de junio de 1999 prepararon el escenario para [las históricas manifestaciones contra la cumbre de la Organización Mundial del Comercio en Seattle](https://crimethinc.com/2006/11/30/seattle-seven-years-later) más tarde ese año. Esto catapultó al movimiento anticapitalista –al que los tímidos periodistas insistieron en referirse como “antiglobalización”– a la conciencia pública, contribuyendo al resurgimiento del anarquismo a principios del siglo XXI. Durante muchos años después del Carnaval contra el Capitalismo, nadie estuvo confundido acerca de quiénes eran los verdaderos oponentes de la globalización capitalista. Estas acciones establecieron una narrativa que hizo muy difícil que los nacionalistas se hicieran pasar por rebeldes contra el status quo. Fue necesaria una década y media de sucesivas oleadas de represión policial para reprimir estos movimientos hasta tal punto que un demagogo como Trump pudiera posicionarse como enemigo de la élite global.
+
+Desde nuestro punto de vista hoy, el Carnaval contra el Capitalismo llama la atención por su carácter lúdico y alegre. Fue conflictivo, pero logró unir a la gente en una actividad colectiva alegre, en marcado contraste con la violencia severa infligida por la policía sin sentido del humor. Hoy, cuando la prolongada violencia estatal ha obligado a los movimientos sociales a adoptar una postura combativa, haríamos bien en recordar la energía inventiva de aquellos días: no perder el rumbo en un duro enfrentamiento con los fascistas y el Estado, sino recordar que nuestros Una tarea importante es relacionarse con otras personas demostrando una forma de vida más satisfactoria.
+
+[[https://www.youtube.com/watch?v=n99liSyYxmo Cobertura noticiosa del 18 de junio.]]
+
+Para ilustrar la actitud lúdica de aquellos tiempos, hemos rastreado una comedia que satiriza la violencia policial y la cobertura de los medios corporativos de las protestas del 18 de junio, que apareció en la publicación impresa radical británica *Schnews* en ese momento. Hoy, cuando los agentes literales del FBI y los trolls de extrema derecha han hecho que la ironía y la caricatura sean prácticamente imposibles, este cómic aparece como un vestigio de una era más inocente. ¡Disfrutar!
+
+[[https://cdn.crimethinc.com/assets/articles/2017/06/18/2a.jpg *Schnews* página de cómic 1. https://cdn.crimethinc.com/assets/articles/2017/06/18/2.jpg class:portrait]]
+
+[[https://cdn.crimethinc.com/assets/articles/2017/06/18/3a.jpg *Schnews* página de cómic 2. https://cdn.crimethinc.com/assets/articles/2017/06/18/3.jpg class:portrait]]
+
+[[https://cdn.crimethinc.com/assets/articles/2017/06/18/4a.jpg *Schnews* página de cómic 3. https://cdn.crimethinc.com/assets/articles/2017/06/18/4.jpg class:portrait]]
+
+[[https://cdn.crimethinc.com/assets/articles/2017/06/18/5a.jpg *Schnews* página de cómic 4. https://cdn.crimethinc.com/assets/articles/2017/06/18/5.jpg class:portrait]]
+
+[*Descargue una versión PDF imprimible del cómic aquí.*](https://cdn.crimethinc.com/assets/articles/2017/06/18/carnival%20against%20capitalism.pdf)

@@ -1,0 +1,226 @@
+---
+title: "Die Belagerung des Dritten Polizeireviers in Minneapolis"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/06/10/die-belagerung-des-dritten-polizeireviers-in-minneapolis-bericht-und-analyse"
+---
+
+In dieser anonymen Einsendung stellen Teilnehmende des Aufstands in Minneapolis (in Reaktion auf den Mord an George Floyd) dar, wie eine Kombination verschiedener Taktiken die Polizei dazu zwang, das Dritte Polizeirevier aufzugeben.
+
+***
+
+Am dritten Tag der George-Floyd-Rebellion ging das Dritte Polizeirevier in Flammen auf – die folgende Analyse ist motiviert worden durch Diskussionen, die wir an dem Tag vor der brennenden Wache führten. Wir schlossen uns einer Gruppe auf der anderen Straßenseite des Reviers an, ihre vom Feuer erleuchteten Gesichter waren voller Freude und Bewunderung. Menschen mit den verschiedensten Hintergründen und Herkünften saßen beieinander und sprachen über den taktischen Nutzen von Lasern, über die entstandene Ethik des Teilens, die antirassistische Einheit im Kampf gegen die Polizei und die Falle der ›Unschuld‹. Es gab keine Meinungsverschiedenheiten; wir alle sahen die gleichen Dinge, die uns geholfen hatten zu gewinnen. Tausende teilten die Erfahrung dieser Kämpfe. Wir hoffen, dass sie die Erinnerung daran, wie mensch kämpft, in sich tragen werden. Die Zeiten des Kampfes und der Siegesfeier sind jedoch nicht mit den Gewohnheiten, Räumen und Bindungen des Alltags und deren Reproduktion zu vergleichen. Es ist erschreckend, wie weit das Ereignis bereits von uns entfernt erscheint. Unser Ziel in diesem Text ist es, die Strategie zu bewahren, die sich gegen das Dritte Polizeirevier von Minneapolis als siegreich erwiesen hat.
+
+Unsere Analyse konzentriert sich auf die Taktiken und die Zusammensetzung der Menge, die am zweiten Tag des Aufstands das Dritte Polizeirevier belagerte. Die Belagerung dauerte etwa von 16 Uhr des 27. Mai 2020 bis in die frühen Morgenstunden des 28. Mai. Wir glauben, dass der taktische Rückzug der Polizei aus dem Dritten Revier am dritten Tag durch die Belagerung am zweiten Tag errungen wurde, denn durch sie wurde sowohl das Personal als auch die Vorräte des Reviers erschöpft. Wir waren bei den Kämpfen, die dem Rückzug der Polizei vorausgingen, nicht anwesend und erreichten das Geschehen erst, als die Polizei das Revier gerade verließ. Wir waren zu dem Zeitpunkt der ersten Auseinandersetzungen am Dritten Revier am anderen Ende der Stadt, wo sich Jugendliche einige Handgemenge mit der Polizei lieferten und versuchten, ein Einkaufszentrum zu plündern – daher unser Schwerpunkt ab Tag zwei.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-3.jpg Das Dritte Revier tagsüber. Es wurde in der Nacht angezündet. (28. Mai) class:portrait ]]
+
+# Hintergrund:
+
+Der letzte Aufstand gegen die Polizei von Minneapolis fand als Reaktion auf den Mord an Jamar Clark am 15. November 2015 statt. Es kam zwei Wochen lang zu Unruhen, die bis zum 2. Dezember andauerten. Menschenmassen verwickelten die Polizei wiederholt in Auseinandersetzungen auf Distanz; die Reaktion auf den tödlichen Schuss verdichtete sich jedoch um eine Besetzung des nahe gelegenen Vierten Reviers. Organisationen wie die NAACP und die neu gegründete Organisation Black Lives Matter beanspruchten die Kontrolle über die sich versammelnde Menge; sie standen oft im Konflikt mit jungen, unabhängigen Rebell\*innen, die es vorzogen, direkt gegen die Polizei zu kämpfen. Ein Großteil unserer nachfolgenden Analyse konzentriert sich darauf, wie junge Schwarze und Braune Rebell\*innen aus armen Arbeitervierteln die Gelegenheit ergriffen, diese Beziehung zwischen Organisationen und Rebell\*innen umzukehren. Wir behaupten, dass dies eine notwendige Bedingung für den Aufstand war.
+
+George Floyd wurde am Montag, dem 25. Mai 2020, zwischen 20.20 und 20.32 Uhr in der 38. Straße Kreuzung Chicago Avenue von der Polizei ermordet. Demonstrationen gegen den Mord begannen am nächsten Tag am Ort seiner Ermordung, wo eine Mahnwache stattfand. Einige Anwesende begannen eine Demo zum Dritten Revier an der Lake Street Kreuzung 26., wo Rebell\*innen auf dem Parkplatz Polizeifahrzeuge angriffen.
+
+Diese beiden Orte wurden zu beständigen Sammelpunkten. Viele Gruppen der Community, Organisationen, Liberale, Progressive und Linke versammelten sich am Ort der Mahnwache, während diejenigen, die kämpfen wollten, sich im Allgemeinen in der Nähe des Reviers versammelten. Dadurch lagen mehr als zwei Meilen zwischen zwei sehr unterschiedlichen Menschenmassen, eine räumliche Trennung, die sich auch in anderen Bereichen der Stadt widerspiegelte. Plünderer stießen in verstreuten Einkaufszonen außerhalb des Einflussbereichs der Organisationen mit der Polizei zusammen, während viele der linken Demos kämpferische Elemente im Namen identitätsbasierter Risikoaversion ausschlossen.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-1.jpg Im Inneren des befreiten und ausgeweideten Target Supermarktes, gegenüber Lake Street und vom Dritten Revier. (28. Mai) ]]
+
+# Das ›Subjekt‹ des George-Floyd-Aufstandes
+
+Das Subjekt unserer Analyse ist nicht eine ›Race‹, eine Klasse, eine Organisation oder gar eine Bewegung, sondern eine *Menschenmenge*. Wir konzentrieren uns aus drei Gründen auf eine Menschenmenge: Erst einmal hing – mit Ausnahme der Demo-Sanis – die Macht und der Erfolg derjenigen, die gegen das Dritte Revier kämpften, nicht von ihrer Erfahrung im ›Organisieren‹ oder in Organisationen ab. Sie resultierte vielmehr daraus, dass ungebundene Einzelpersonen und Gruppen mutig in Rollen schlüpften, die sich gegenseitig ergänzten, und Gelegenheiten ergriffen, sobald sie sich ergaben.
+
+Während die erste Versammlung anlässlich einer Kundgebung stattfand, die von einer Schwarzen Organisation ausgerichtet wurde, wurden alle Aktionen, die das Dritte Revier *materiell* besiegten, *nach* Beendigung der Kundgebung von Personen durchgeführt, die nicht mit dieser Organisation in Verbindung standen. Es war praktisch keine\*r von der üblichen Bandbreite selbsternannter Gemeinde- und Religionsführer anwesend, sodass die Menge die Situation frei verändern konnte. Organisationen sind auf Stabilität und Vorhersehbarkeit angewiesen, um Strategien umzusetzen, deren Formulierung viel Zeit in Anspruch nimmt. Folglich sind die Anführer\*innen von Organisationen durch plötzliche Veränderungen der sozialen Bedingungen bedroht, da sie ihre Organisationen irrelevant machen könnten. Organisationen – selbst selbsternannte ›revolutionäre‹ Organisationen – haben ein Interesse daran, spontane Revolten zu unterdrücken, um dann unter den Unzufriedenen und Wütenden rekrutieren zu können. Ganz gleich, ob es sich um eine gewählte Funktionärin, ein religiöses Oberhaupt, einen ›Community Organizer‹ oder eine Vertreterin der Linken handelt, ihre Botschaft an unruhige Massen ist immer dieselbe: *Warten*.
+
+Das Organ, das das Dritte Revier zu Fall brachte, war eine *Menschenmenge* und keine Organisation. Ihre Ziele, Mittel und interne Zusammensetzung waren nicht von einer zentralen Stelle geregelt. Dies erwies sich als vorteilhaft, da die Menge infolgedessen auf praktischere Optionen zurückgreifen konnte und freier war, unvorhergesehene interne Beziehungen zu schaffen, um sich an den jeweiligen Konflikt anzupassen. Wir führen dies weiter unten im Abschnitt »Das Muster des Kampfes und der ›Zusammensetzung‹« aus.
+
+Das Organ der Straßen am 27. Mai war die Menschenmenge. Sie wurde von jenen konstituiert, die von der bestehenden, polizeilich verwalteten Ordnung exkludiert sind. Entscheidend war, dass nach dem ersten Tag der Unruhen ein Bandenfrieden ausgerufen worden war, der einige territoriale Teilnahme-Hindernisse neutralisierte. Die Menge stammte zumeist aus Arbeitervierteln und armen Schwarzen- und Braunenvierteln. Dies traf insbesondere auf diejenigen zu, die Dinge auf die Polizei warfen und Geschäfte verwüsteten und plünderten. Diejenigen, die sich nicht als die ›Besitzenden‹ der sie unterdrückenden Welt identifizieren, kämpfen und bestehlen sie eher – wenn sich die Gelegenheit dazu bietet. Die Menge hatte kein Interesse daran, sich vor Schaulustigen zu rechtfertigen, und sie war kaum daran interessiert, irgendwem außerhalb ihrer selbst etwas ›zu erklären‹. Es gab keine Zeichen oder Reden, sondern nur Sprechchöre, die den taktischen Zwecken des ›Aufpeitschens‹ (›Fuck 12!‹) und der Unterbrechung von Polizeigewalt mit strategisch eingesetzter ›Unschuld‹ (»Hands up! Don’t shoot!«) dienten.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-2.jpg Ein geplündertes Pfandhaus östlich des Dritten Reviers in der Lake Street steht kurz vor dem Brand. Es hatte sich verbreitet, dass der Besitzer in der Nacht zuvor jemanden erschossen hatte. (28. Mai) ]]
+
+# Rollen
+
+Wir sahen Menschen, die die folgenden Rollen übernahmen:
+
+## Medizinische Unterstützung:
+
+Dazu gehörten Demo-Sanis auf den Straßen und Sanitäter\*innen, die in einem umgebauten Gemeindezentrum zwei Blocks vom Revier entfernt erste Notfallversorgung durchführten. Unter anderen Umständen könnte dies in jeder nahe gelegenen sympathisierenden kommerziellen, religiösen oder gemeinnützigen Einrichtung durchgeführt werden. Alternativ könnte eine Menschenmenge oder eine Sanitätergruppe einen solchen Raum für die Dauer eines Protests besetzen. Diejenigen, die als Straßenmediziner\*innen organisiert waren, mischten sich nicht in die taktischen Entscheidungen der Menge ein. Stattdessen behandelten sie konsequent jede\*n, der\*die ihre Hilfe brauchte.
+
+## Polizeifunk monitoren und das Verwalten von Telegram-Channels
+
+Inzwischen ist es in vielen US-Städten gängige Praxis, den Polizeifunk mit Augenmerk auf strategisch wichtige Informationen mitzuhören und diese Informationen der Menge zur Verfügung zu stellen. In Minneapolis spielte dies eine entscheidende Rolle. Ziemlich sicher hat allerdings der Großteil der Menge nicht auf hohe Sicherheitsstandards geachtet bei der Nutzung der Telegram-Channels. Wir raten Rebell\*innen Telegram auf Einweghandys einzurichten, um auf dem Laufenden zu bleiben und trotzdem nicht Gefahr zu laufen, durch IMSI Catcher der Polizei (falsche Handymasten) ausgespäht zu werden.
+
+## Friedlicher Protest
+
+Die gewaltlosen Taktiken der friedlichen Demonstrant\*innen dienten zwei bekannten und einem ungewöhnlichen Ziel:
+
+-    Sie schufen ein legitimierendes Spektakel, das durch die Eskalation der Polizeigewalt noch verstärkt wurde.
+
+-    Sie schufen eine Frontlinie, die die Vorstöße der Polizei blockierte (wenn sie außerhalb des Reviers eingesetzt wurde).
+
+-    Darüber hinaus schirmten die friedlichen Demonstrant\*innen in einer unerwarteten Wendung der Dinge diejenigen ab, die Steine schmissen.
+
+Wann immer die Polizei mit Tränengas oder Gummigeschossen drohte, stellten sich gewaltlose Demonstrant\*innen mit erhobenen Händen an der Front auf und riefen: »Hands up, don’t shoot!« Manchmal knieten sie sich hin, aber üblicherweise nur während der ›Ruhepausen‹. Wenn die Polizist\*innen außerhalb der Reviere eingesetzt wurden, sahen sich ihre Polizeilinien häufig einer Reihe ›gewaltloser‹ Demonstrant\*innen gegenüber. Dies hatte zur Folge, dass der Konfliktraum vorübergehend stabilisiert wurde und andere Personen in der Menge ein stationäres Ziel erhielten. Obwohl einige friedliche Demonstrant\*innen den Menschen wütend befahlen, mit dem Werfen von Gegenständen aufzuhören, waren es doch nur wenige und sie wurden im Laufe des Tages immer stiller. Dies lag höchstwahrscheinlich daran, dass die Polizei schon früh im Konflikt mit Gummigeschossen auf Menschen zielte, die Dinge warfen, was die Menge wütend machte. Es ist erwähnenswert, dass bis dahin oft das Gegenteil der Fall war – wir sind daran gewöhnt, dass konfrontative Taktiken oft angewendet werden, um diejenigen, die gewaltfrei demonstrieren wollen, zu schützen (z.B. in Standing Rock und Charlottesville). Die Umkehrung dieser Beziehung in Minneapolis ermöglichte denjenigen, die konfrontative Taktiken anwenden, größere Autonomie.
+
+## Ballistische Truppen
+
+Ballistiker\*innen warfen Wasserflaschen, Steine und ein paar Molotowcocktails auf die Polizei und zündeten etwas Pyrotechnik. Diejenigen, die sich der Ballistik bedienten, arbeiteten nicht immer in Gruppen, aber dies schützte sie davor, von gewaltlosen Demonstranten angegriffen zu werden, die die Taktik der Menge diktieren wollten. Die Ballistikgruppen dienten drei Zielen:
+
+-    Sie lenkten die Polizeigewalt in Momenten der Eskalation von den friedlichen Elementen der Menge ab.
+
+-    Sie sorgten geduldig dafür, dass der Polizei die Munition der ›nicht-letalen‹ Waffen ausging
+
+-    Sie bedrohten die physische Sicherheit der Polizei und machten es für sie schwer, an Boden zu gewinnen
+
+Am ersten Tag des Aufstands gab es beim Dritten Revier Angriffe auf mehrere geparkte Polizei-SUVs. Die Sensibilität für die richtigen Taktiken wurde auch am zweiten Tag wieder deutlich: der Tag begann mit dem Werfen von Wasserflaschen auf Polizeibeamt\*innen, die sich auf dem Dach des Dritten Reviers und neben dem Gebäude befanden. Nachdem die Polizei mit Tränengas und Gummigeschossen reagiert hatte, begannen auch die Ballistiker\*innen mit Steinen zu arbeiten. Einige Personen innerhalb der Menge demontierten Bänke aus Stein und zerschlugen sie, um zusätzliche Geschosse zu liefern. Bei Einbruch der Dunkelheit setzten einige wenige Personen Feuerwerkskörper ein, dies wurde an den Tagen drei und vier schnell allgemein übernommen. ›Boogaloos‹ hatten bereits am ersten Tag kurz Feuerwerkskörper eingesetzt, aber nach dem, was wir sahen, saßen sie danach meist an der Seitenlinie. Schließlich ist es erwähnenswert, dass die Polizei von Minneapolis ›green tips‹ verwendete: Gummigeschosse mit explodierenden grünen Tintenspitzen, um Gesetzesbrecher\*innen für eine spätere Verhaftung zu markieren. Als aber klar wurde, dass die Polizei nur begrenzt in der Lage war, ihre Drohung wahr zu machen, und dass zudem die Menge gewinnen konnte, waren die Markierten hoch motiviert, wie wild zu kämpfen, um der Polizei zu trotzen.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-4.jpg Die Rückseite desselben Pfandhauses brennt. (28. Mai) class:portrait]]
+
+## Laserpointer
+
+In der Sprache der Bewegung in Hongkong werden diejenigen, die Laserpointer bedienen, als ›Lichtmagier‹ bezeichnet. Wie im Jahr 2019 in Hongkong, Chile und anderswo kamen einige Menschen mit Laserpointern, um die optischen Fähigkeiten der Polizei anzugreifen. Laserpointer bergen ein besonderes Verhältnis von Risiko und Gewinn, da es sehr einfach ist, Personen mit Laserpointern zu verfolgen, selbst wenn sie nachts in einer dichten und aktiven Menschenmenge operieren. Benutzer\*innen von Laserpointern sind besonders gefährdet, wenn sie versuchen, einzelne Polizeibeamte oder (vor allem) Polizeihubschrauber anzugreifen, während sie in kleinen Menschenmengen operieren; dies ist selbst dann noch der Fall, wenn es in der gesamten Nachbarschaft zu Massenplünderungen kommt (der Einsatz von Hochleistungslasern mit Zielfernrohren bei Tag ist unseres Wissens unerprobt). Die Vorteile von Laserpointern sind immens: Sie beeinträchtigen vorübergehend das Sehvermögen der Polizei am Boden und sie können die Überwachungsdrohnen der Polizei außer Gefecht setzen, indem sie deren Infrarotsensoren und Hinderniserkennungskameras stören. Im letzteren Fall kann eine hartnäckig gelaserte Drohne zur Erde absinken, wo die Menge sie zerstören kann. Dies geschah wiederholt an den Tagen zwei und drei. Wenn eine Menschenmenge besonders dicht und visuell schwer zu erkennen ist, können Laser eingesetzt werden, um Polizeihubschrauber zu verjagen. Dies wurde am dritten Tag nach dem Rückzug der Polizei aus dem Dritten Revier sowie am vierten Tag in der Nähe des Gefechts am Fünften Revier erfolgreich demonstriert.
+
+## Barrikadierer\*innen
+
+Barrikadier\*innen bauten Barrikaden aus vor Ort auffindbaren Materialien, darunter eine beeindruckende Barrikade, die die Polizei an der 26th Avenue nördlich der Lake Street blockierte. Im letzteren Fall wurde die Barrikade aus einem Zug von Einkaufswagen zusammengebaut und mit einer Einkaufswagenrückgabestation, Müllcontainern, Barrikaden der Polizei, sowie Sperrholz und Zaunmaterial von einer Eigentumswohnungsbaustelle stabilisiert. Vor dem Dritten Revier bot die Barrikade nützliche Deckung für Laserpointerangriffe und Steinewerfer\*innen und diente gleichzeitig als natürlicher Sammelpunkt für die Menge, um sich neu zu formieren. Als die Polizei am Fünften Revier zu Fuß auf die Menge zuging, füllten Dutzende von Personen die Straße mit einer mehrreihigen Barrikade. Einerseits hatte dies den Vorteil, dass die Polizei daran gehindert wurde, weiter vorzudringen und Verhaftungen vorzunehmen, während sich die Menge außerhalb der Reichweite der Gummigeschosse neu formieren konnte. Es wurde jedoch schnell klar, dass die Barrikaden die Menge davon abhielten, die Straße wieder einzunehmen, und sie musste teilweise abgebaut werden, um einen zweiten Vorstoß in Richtung der Polizeilinien zu ermöglichen. Es kann schwierig sein, Verteidigung und Angriff in einer Bewegung zu koordinieren.
+
+## Sound Systeme 
+
+Autosoundsysteme und Motoren sorgten für eine klangliche Umgebung, die die Menge belebte. Die Hymne des zweiten und dritten Tages war Lil' Boosies »Fuck The Police«. Doch eine Innovation, die wir noch nie zuvor gesehen hatten, war die Verwendung von Automotoren, um die Geräuschkulisse zu bereichern und die Menge ›aufzupushen‹«. Dies begann mit einem Pick-up mit modifizierter Auspuffanlage, der hinter der von der Menge abgewandten Seite geparkt war. Als die Spannungen mit der Polizei stiegen und es den Anschein hatte, dass der Konflikt wieder aufflammen würde, überdrehte der Fahrer seinen Motor und ließ ein Donnern durch die Menge rollen. Andere ähnlich modifizierte Autos schlossen sich an, ebenso wie einige Motorradfahrer\*innen.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-5.jpg Die Inneneinrichtung von Cub Foods (neben dem geplündertem Target). Sehr viel geschmolzenes Eis. (28. Mai) class:portrait ]]
+
+## Plünderer
+
+Die Plünderung diente drei wesentlichen Zielen.
+
+Erstens befreite sie Vorräte, mit denen die Menge sich regenerieren und ernähren konnte. Am ersten Tag versuchten Rebell\*innen, das Schnapslager direkt gegenüber dem Dritten Revier zu beschlagnahmen. Der Erfolg war von kurzer Dauer, da es den Bullen gelang, den Laden wieder zu sichern. Zu Beginn der Pattsituation am zweiten Tag signalisierte eine Handvoll Menschen ihre Entschlossenheit, indem sie auf den Laden kletterte und die Polizei vom Dach aus verspottete. Die Menge jubelte dieser Demütigung zu, was implizit das Ziel für den Rest des Tages vorgab: die Ohnmacht der Polizei zu demonstrieren, sie zu demoralisieren und ihre Fähigkeiten zu erschöpfen.
+
+Etwa eine Stunde später begannen die Plünderungen im Schnapsladen und in einem einen Block entfernten Aldi. Die Mehrheit der Anwesenden beteiligte sich zwar an den Plünderungen, aber es war klar, dass einige es auf sich nahmen, dabei strategisch vorzugehen. Die Plünderer\*innen des Aldi stellten riesige Mengen Wasserflaschen, Sportgetränke, Milch, Proteinriegel und andere Snacks zur Verfügung und stellten sie an Straßenecken in der ganzen Umgebung ab. Neben dem Spirituosenladen und dem Aldi befand sich das Dritte Revier in unmittelbarer Nähe eines Target, eines Cub Foods, eines Schuhgeschäfts, eines Dollars, einer Autozone, eines Wendy's und verschiedener anderer Geschäfte. Als die Plünderungen begannen, wurden sie sofort Teil der Belagerungs-Logistik des Reviers.
+
+Zweitens förderten die Plünderung die Moral der Menge, indem sie durch einen gemeinsamen Akt kollektiver Übertretung Solidarität und Freude erzeugte. Der Akt des Schenkens und der Geist der Großzügigkeit wurde für alle zugänglich gemacht und bildete einen positiven Kontrapunkt zu den direkten Konflikten mit der Polizei.
+
+Drittens, und das ist am wichtigsten, trugen die Plünderung dazu bei, die Situation unregierbar zu halten. Als sich die Plünderungen in der ganzen Stadt ausbreiteten, waren die Polizeikräfte überall dünn gesät. Ihre Versuche, wichtige Ziele zu sichern, ließen den Plünderern freie Hand über andere Bereiche der Stadt. Wie eine Faust, die Wasser drückt, wurde die Polizei von einem Gegner ausgespielt, der sich exponentiell ausbreitete.
+
+## Feuer
+
+Die Entscheidung, geplünderte Geschäfte anzuzünden, kann als taktisch intelligent angesehen werden. Sie trug zur Erschöpfung der Polizeiressourcen bei, da die Feuerwehrleute, die gezwungen waren, ständig Gebäudebrände in der ganzen Stadt zu löschen, schwere Polizeibegleitung benötigten. Dies beeinträchtigte ihre Fähigkeit, in Situationen andauernder Plünderungen einzugreifen, auf die sie in der überwiegenden Mehrzahl der Fälle nie reagierten (Ausnahmen waren die Einkaufszentren und das Super-Target-Geschäft in der University Ave.) Dies hat sich in anderen Städten, in denen die Polizei sich gegen eine Begleitung der Feuerwehrleute entschieden hat, anders entwickelt. Vielleicht erklärt dies, warum die Demonstrant\*innen während des Watts-Aufruhrs um die Feuerwehrfahrzeuge herum in die Luft schossen.
+
+Im Fall des Dritten Reviers hatte der Brand des Autozone [ein Laden für Kfz Zubehör] zwei unmittelbare Folgen: Erstens zwang er die Polizei, auf die Straße zu gehen und das Gebäude für die Feuerwehrleute zu schützen. Dies verminderte zwar die Zusammenstöße auf dem Gelände des Reviers, drängte aber auch die Menschenmenge die Lake Street hinunter, was weitreichende Plünderungen und eine Ausbreitung des Aufruhrs in der gesamten Nachbarschaft zur Folge hatte. Durch die Unterbrechung der magnetischen Anziehungskraft des Reviers trug die Reaktion der Polizei auf das Feuer indirekt zur Ausweitung des Aufruhrs in der ganzen Stadt bei.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-6.jpg Die Polizei umkreist das Dritte Revier, einige Stunden vor der Ausgangssperre. (29. Mai) class:portrait ]]
+
+# Das Muster des Kampfes und der ›Zusammensetzung‹
+
+Wir nennen die Kämpfe, die am zweiten und dritten Tag rund um das Revier geführt wurden, eine *Belagerung*, weil die Polizei durch Zermürbung geschlagen wurde. Das Muster der Schlacht war durch eine stetige Intensivierung gekennzeichnet, unterbrochen von qualitativen Sprüngen aufgrund der Gewalt der Polizei und der Ausweitung des Konflikts in Form von Plünderungen und Angriffen auf Unternehmensgebäude. Die Kombination der oben genannten Rollen trug dazu bei, eine Situation zu schaffen, die nicht polizeilich zu kontrollieren war, die die Polizei jedoch hartnäckig einzudämmen versuchte. Die für jede Eindämmungsbemühung erforderliche Repression verstärkte den Aufstand und sorgte für seine konzentrische Ausbreitung in der gesamten Umgebung. Bis zum dritten Tag war die gesamte Infrastruktur der Unternehmen rund um das Dritte Revier zerstört und die Polizei hatte nichts anderes als ein ›Königreich der Asche‹ vorzuweisen. Nur ihr Revier blieb übrig, ein einsames Ziel mit erschöpften Vorräten. Die Rebell\*innen, die am dritten Tag auftauchten, fanden einen Feind vor, der am Rande des Abgrunds wankte. Es bedurfte nur noch eines letzten Stoßes.
+
+Der zweite Tag des Aufstands begann mit einer Kundgebung: Die Teilnehmer\*innen befanden sich auf den Straßen, während die Polizei mit einem Arsenal von Waffen zur Kontrolle der Massen auf dem Dach ihres Gebäudes stationiert war. Das Schema des Kampfes entwickelte sich während der Kundgebung, als die Menge versuchte, über die Zäune zu klettern, die das Revier schützten, um es zu zerstören. Die Polizei feuerte Gummigeschosse ab, als die Redner\*innen der Kundgebung zur Ruhe riefen. Nachdem einige Zeit verstrichen war und weitere Reden gehalten wurden, versuchten einige es erneut. Als die Salve der Gummigeschosse kam, reagierte die Menge mit Steinen und Wasserflaschen. Dies löste eine Dynamik der Eskalation aus, die sich nach dem Ende der Kundgebung rasch beschleunigte. Einige riefen zur Gewaltlosigkeit auf und versuchten, die Werfenden zu stören, aber die meisten Leute machten sich nicht die Mühe, mit ihnen zu streiten. Sie wurden weitgehend ignoriert, oder aber die Antwort war immer dieselbe: »Dieser Scheiß mit der Gewaltlosigkeit funktioniert nicht!« Tatsächlich lag keine der beiden Seiten komplett richtig: Wie der Verlauf der Schlacht zeigen sollte, brauchten beide Seiten einander, um das historische Kunststück zu vollbringen, das Dritte Revier in Schutt und Asche zu legen.
+
+Es ist wichtig, darauf hinzuweisen, dass die Dynamik, die wir am zweiten Tag sahen, nicht darin bestand, Gewaltlosigkeit anzuwenden und darauf zu warten, dass die Repression die Situation eskaliert. Stattdessen riskierte einige Individuen einiges, um Polizeigewalt und Eskalation herauszufordern. Sobald die Menge und die Polizei in einem eskalierenden Schema des Konflikts waren, bestand das Ziel der Polizei darin, ihre territoriale Kontrolle auszuweiten, mit ihrem Revier als Mittelpunkt. Als die Polizei vorzurücken beschloss, begann sie damit, Blendgranaten auf die gesamte Menge zu werfen und Gummigeschosse auf die Steinewerfer\*innen abzufeuern, Barrikaden zu errichten und Tränengas abzufeuern.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-7.jpg Die Komsektikabteilung einges geplünderten Walgreens auf der Lake Street, nahe dem Dritten Revier. (28. Mai) class:portrait ]]
+
+Die Intelligenz der Menge bewies sich, da die Teilnehmenden im Laufe dieses Kampfes schnell **fünf Lektionen** lernten.
+
+Erstens ist es wichtig, angesichts von Blendgranaten ruhig zu bleiben, da sie nicht körperlich schädlich sind – sofern mensch sich mehr als einen Meter von ihnen entfernt befindet. Diese Lektion erstreckt sich auf eine allgemeinere Einsicht in Krisenbewältigung: Keine Panik, denn die Polizei wird immer Panik gegen uns einsetzen. Mensch muss schnell reagieren und dabei so ruhig wie möglich bleiben.
+
+Zweitens verbreitete sich die Praxis des Ausspülens der Augen nach Tränengaseinsätzen von den Demo-Sanitäter\*innen rasch in der übrigen Menge. Die geplünderten Wasserflaschen wurden direkt verbreitet und viele Menschen aus der Menge haben schnell gelernt wie sie eine Augenspülung effektiv durchführen. Menschen, die in der einen Minute Steine warfen, behandelten in der nächsten Minute die Augen der anderen. Dieses medizinische Grundwissen trug dazu bei, das Selbstvertrauen der Menge zu stärken, sodass sie der Versuchung zu Panik und Panikmache widerstehen konnten und dadurch in den Raum des Handelns zurückkehren konnten.
+
+Drittens war die vielleicht wichtigste taktische Entdeckung der Menge, dass mensch den aufgrund eines Tränenangriffs verlassenen Raum so schnell wie möglich wieder einnehmen muss. Jedes Mal, wenn die Menge zum Dritten Revier zurückkehrte, kam sie wütender und entschlossener zurück. Entweder um den Vormarsch der Polizei zu stoppen oder sie so teuer wie möglich für jeden Schritt bezahlen zu lassen.
+
+Viertens sahen wir in Anlehnung an die Sprache Hongkongs, wie die Menge die Maxime *›Sei Wasser‹* übernahm. Die Menge strömte schnell in Räume zurück, aus denen sie sich zurückziehen musste, und wenn sie zurückgedrängt wurde, verhielt sie sich nicht so wie die Polizei (die sich auf territoriale Kontrolle fixierte). Wenn sie konnte, strömte die Menge zurück in die Räume, aus denen sie durch Tränengas zum Rückzug gezwungen worden war. Aber wenn es nötig war, floss die Menge wie eine sintflutartige Zerstörungskraft in alle Richtungen davon. Jedes Vorrücken der Polizei führte dazu, dass mehr Geschäfte zerschlagen, geplündert und niedergebrannt wurden. Das bedeutete, dass die Polizei nur verlieren konnte, egal ob sie sich entschied, belagert zu bleiben oder die Menge zurückzudrängen.
+
+Schließlich verdeutlicht der Fall des Dritten Reviers die Macht der Unregierbarkeit als strategisches Ziel und als Mittel der Massenaktivität. *Je mehr eine Menschenmenge tun kann, desto schwieriger wird es sein, sie zu kontrollieren.* Menschenmassen können ihre Handlungsfähigkeit maximieren, indem sie die Anzahl der Rollen, die sie spielen, erhöhen und die komplementären Beziehungen zwischen ihnen maximieren.
+
+Gewaltfreie Praktiker\*innen können ihre Legitimität dazu nutzen, ballistische Truppen vorübergehend zu verbergen oder abzuschirmen. Ballistikkommandos können das Polizeifeuer von denjenigen ablenken, die Gewaltlosigkeit praktizieren. Plünderer können helfen, die Menge zu ernähren und zu heilen, während sie gleichzeitig die Polizei desorientieren. Im Gegenzug können diejenigen, die sich mit der Polizei anlegen, Möglichkeiten zur Plünderung schaffen. Lichtmagier können die ballistischen Teams vorübergehend undurchsichtig machen, indem sie die Polizei blenden und Überwachungsdrohnen und -kameras außer Gefecht setzen. Gewaltlose Praktiker\*innen können Zeit für Barrikadiere erkämpfen, die Arbeit der Barrikadiererinnen kann dann wiederum später dafür sorgen, dass es weniger Gewaltlose braucht, um die Frontlinie zu sichern.
+
+Daran sehen wir, dass eine vielfältige und komplexe Menge mächtiger ist als eine homogene Menge. Wir verwenden den Begriff *›Zusammensetzung‹*, um dieses Phänomen der Maximierung der komplementären praktischen Vielfalt zu benennen. Es unterscheidet sich von der *Organisation*, weil die Rollen wahlfrei sind, Einzelpersonen je nach Bedarf oder Wunsch zwischen ihnen wechseln können und es keine Anführer\*innen gibt, die sie zuweisen oder koordinieren. Menschenmengen, die sich formieren und ihre Zusammensetzung nutzen, sind wirksamer im Kampf gegen die Polizei. Nicht nur, weil sie tendenziell schwieriger zu kontrollieren sind, sondern auch, weil die Intelligenz, die sie animiert auf die real existierende Situation vor Ort reagiert und sich parallel zu dieser entwickelt, und nicht nach vorher bestehenden Vorstellungen davon, wie ein Kampf ›aussehen sollte‹. Es ist nicht nur wahrscheinlicher, dass ›zusammengesetzte‹ Menschenmengen die Polizei in Zermürbungsschlachten verwickeln, sondern sie haben auch eher die nötige Beweglichkeit, um zu gewinnen.
+
+Als abschließende Bemerkung hierzu können wir die Zusammensetzung mit der Idee der ›Vielfalt der Taktiken‹ kontrastieren, die von der globalisierungskritischen Bewegung verwendet wird. ›Vielfalt der Taktiken‹ war die Idee, dass verschiedene Gruppen bei einer Aktion zu verschiedenen Zeiten oder in verschiedenen Räumen unterschiedliche taktische Mittel einsetzen sollten, um auf ein gemeinsames Ziel hinzuarbeiten. Mit anderen Worten: ›Du machst deinen Kram, ich meinen‹, aber ohne Rücksicht darauf, wie sich das, was ich tue, mit dem, was du tust, ergänzt und umgekehrt. Vielfalt der Taktiken ist ein aktivistischer Code für ›Toleranz‹. Die Menge, die sich am 27. Mai gegen das Dritte Revier formierte, ›praktizierte nicht die Vielfalt der Taktiken‹, sondern kam zusammen, indem sie verschiedene Taktiken und Rollen in einer gemeinsamen Raum-Zeit miteinander zusammensetzte,  und es den Teilnehmenden so ermöglichte, jede Taktik situationsgerecht einzusetzen.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-8.jpg Graffiti der vorigen Nacht verzieren Läden. (29. Mai) ]]
+
+# Die Ambiguität von Gewalt und Gewaltlosigkeit an der Front
+
+Wir sind daran gewöhnt, dass üblicherweise konfrontative Taktiken eingesetzt werden, um diejenigen zu schützen, die Gewaltlosigkeit praktizieren – wie in Standing Rock und Charlottesville oder in der Figur des ›front-liners‹ in Hongkong. Die Umkehrung dieser Beziehung teilte jedoch die Funktionen des ›militanten Frontkämpfers‹ (*à la* Hongkong) in zwei getrennte Rollen auf: Schutz der Menge und Gegenangriff. Dies wurde in den Straßen nie zu einer expliziten Strategie; es gab keine Aufrufe zum ›Schutz der Werfer\*innen‹. Im US-Kontext, wo Gewaltlosigkeit und die damit einhergehenden Unschuldsnarrative im Kampf gegen den staatlichen Rassismus tief verwurzelt sind, ist unklar, ob diese Strategie explizit funktioniert hätte, wenn die Ballistiker\*innen nicht zunächst körperliche Risiken eingegangen wären. Mit anderen Worten: es scheint wahrscheinlich, dass die Verbindung von ballistischen Taktiken und Gewaltlosigkeit in Minneapolis durch eine stillschweigend geteilte Wahrnehmung der Bedeutung der Selbstaufopferung bei der Konfrontation mit dem Staat ermöglicht wurde, die alle Seiten dazu zwang, ihre Angst zu überwinden.
+
+Doch diese gemeinsame Risikowahrnehmung hat auch Grenzen. Während friedliche Demonstrant\*innen die Gesten der anderen wahrscheinlich als moralische Symbole gegen Polizeigewalt betrachteten, sahen die ballistischen Einheiten diese Gesten zweifellos anders, nämlich als Schutzschild oder als materiell-strategische Chance. Auch hier können wir die Macht von ›Zusammensetzung‹ in realen Situationen hervorheben, indem wir darauf hinweisen, wie sie die Möglichkeit zulässt, dass völlig unterschiedliche Auffassungen derselben Taktik nebeneinander existieren können. *Wir kombinieren, ohne gleich zu werden, wir bewegen uns zusammen, ohne einander zu verstehen – und dennoch funktioniert es.*
+
+Es gibt potenzielle Grenzen bei der Aufteilung von Frontkämpfer\*innen-Funktionen auf diese Rollen. Erstens stellt diese Aufteilung nicht die Verwertung des Leidens in der Politik der Gewaltlosigkeit infrage. Zweitens wird so der Wert der ballistischen Konfrontation uneindeutig, da die Rollenaufteilung verhindert, dass Ballistik eine feste Rolle an der Spitze der Menge zugeordnet wird. Es ist unbestreitbar, dass das Dritte Revier ohne ballistische Taktik nicht eingenommen worden wäre. Da die Frontlinie jedoch mit Gewaltlosigkeit identifiziert wurde, war die räumliche und symbolische Bedeutung der Ballistik implizit zweitrangig. Es stellt sich daher die Frage, ob so die Verwurzelung der Aufstandsbekämpfung in der Bewegung durch ›Community Policing‹ und die damit einhergehende Selbstkontrolle von Demonstrationen und Bewegungen im Rahmen der Gewaltlosigkeit erleichtert wurde.
+
+[[ https://cdn.crimethinc.com/assets/articles/2020/06/09/siege-9.jpg Graffiti auf einem K-Mart. (29. Mai) ]]
+
+# Fakten Checken: Eine Notwendigkeit für die Bewegung
+
+Wir glauben, dass die größte Gefahr, der sich die gegenwärtige Bewegung gegenübersieht, bereits in der Schlacht um das Dritte Revier eine maßgebliche Rolle spielte – nämlich die Gefahr von Gerüchten und Paranoia. Wir sind der Meinung, dass die Praxis der Faktenprüfung für die gegenwärtige Bewegung von entscheidender Bedeutung ist, um die Verwirrung in Bezug auf das Terrain und das Misstrauen gegenüber ihrer eigenen Zusammensetzung zu minimieren.
+
+Während des gesamten zweiten Tages hörten wir eine Litanei von Gerüchten. Immer wieder wurde uns gesagt, dass Verstärkung der Bereitschaftspolizei auf dem Weg sei, um uns zu kesseln. Wir wurden von fliehenden Mitgliedern der Menge gewarnt, dass die Nationalgarde »zwanzig Minuten entfernt« sei. Eine weiße Frau fuhr in ihrem Wagen neben uns vor und schrie: »DIE GASLEITUNGEN IN DER BRENNENDEN AUTOZONE GEHEN HOCH!!!«. All diese Gerüchte erwiesen sich als falsch. Als Ausdruck panischer Angst hatten sie immer den gleichen Effekt: die Menge dazu zu bringen, ihre Macht infrage zu stellen. Es war fast so, als ob bestimmte Mitglieder der Menge eine Art Schwindelgefühl angesichts der Macht erlebten, die sie nichtsdestoweniger zu schmieden halfen.
+
+Es ist notwendig, die Gerüchtekette zu unterbrechen, indem man diejenigen, die sie verbreiten befragt. Es gibt einfache Fragen, die wir stellen können, um die Verbreitung von Angst und Gerüchten zu stoppen: »Woher weißt du das?« »Wer hat dir das gesagt?« »Woher kommt diese Information?« »Ist das eine bestätigte Tatsache?« »Die Hinweise scheinen nicht schlüssig zu sein; welche Annahmen bringen dich zu diesem Urteil?« 
+
+Neben den Gerüchten gibt es auch das Problem, bestimmten Merkmalen des Konflikts eine unverhältnismäßige Bedeutung zuzuschreiben. Zu Beginn des zweiten Tages war eine der vorherrschenden Geschichten die Bedrohung durch die ›Boogaloo-Boys‹, die am Vortag aufgetaucht waren. Dies überraschte uns, weil wir ihnen am ersten Tag nicht begegnet waren. Am zweiten Tag sahen wir ein halbes Dutzend von ihnen, bei den sich überschlagenden Ereignissen befanden sie sich aber an der Seitenlinie. Trotz ihrer proklamierten Sympathie für George Floyd standen einige von ihnen später vor einem Geschäft Wache, um es vor Plünderern zu schützen. Dies zeigte nicht nur die Grenze ihrer behaupteten Solidarität, sondern auch ihrer strategischen Sensibilität.
+
+Schließlich wurden wir am dritten Tag gleich nach dem Aufwachen mit sogenannten Berichten konfrontiert, dass entweder Provokateure der Polizei oder Agitator\*innen von außerhalb für die Zerstörung am Vortag verantwortlich gewesen seien. Target, Cub Foods, Autozone, Wendy's und ein halb erbautes Hochhaus[^1] waren am Ende der Nacht in Flammen aufgegangen. 
+
+Wir können die Möglichkeit nicht ausschließen, dass eine unbekannte Anzahl feindlicher Kräfte versuchte, die Menge durch eine Eskalation der Zerstörung von Eigentum zu diskreditieren. Wenn das jedoch wahr ist, lässt sich nicht leugnen, dass ihr Plan spektakulär nach hinten losging.
+
+Im Allgemeinen betrachtete die Menge diese unglaublichen Feuer mit Ehrfurcht und Zustimmung. Sogar in der zweiten Nacht, als die Wohnanlage vollends verschlungen wurde, saß die Menge an der 26th Avenue gegenüber und ruhte sich aus, als hätte sie sich um ein Lagerfeuer versammelt. Jedes Gebäudefeuer trug zur materiellen Abschaffung des bestehenden Zustands der Dinge bei, und die Reduktion zu Asche wurde zum Siegeszeichen der Menge. Statt den Gerüchten über Provokateure oder Agitatorinnen Glauben zu schenken, halten wir es für plausibler, dass Menschen, die seit Jahrhunderten unterdrückt werden, arm sind und in das Fass einer zweiten Großen Depression starren, lieber die Welt in Brand stecken, als den Anblick ihrer Ordnung zu ertragen. Wir interpretieren die Gebäudebrände als Zeichen dafür, dass die Menge wusste, dass die Strukturen der Polizei, der weißen Vorherrschaft und der Klasse auf materiellen Kräften und Gebäuden beruhen.
+
+Aus diesem Grund halten wir daran fest, dass wir die Bedrohung durch mögliche Provokateure, Infiltratorinnen und Agitatoren danach beurteilen sollten, ob ihre Aktionen die Macht der Menge direkt verstärken oder schwächen. Wir haben gelernt, dass Dutzende von Gebäudebränden nicht ausreichen, um die ›öffentliche Unterstützung‹ für die Bewegung zu schmälern – obwohl sich das vorher keine\*r hätte vorstellen können. Diejenigen, die Personen in der Menge filmten, wie sie Eigentum zerstörten oder gegen das Gesetz verstießen, stellten jedoch – unabhängig davon, ob sie beabsichtigten, die Strafverfolgungsbehörden zu informieren –eine materielle Bedrohung für die Menge dar, weil sie nicht nur Verwirrung und Angst schürten, sondern dem Staat auch den Zugang zu Informationen ermöglichten.
+
+
+# Postscript: Visionen der Kommune
+
+Seit Guy Debords Text »The Decline and Fall of the Spectacle – Commodity Economy« (Niedergang und Fall der spektakulären Warenökonomie) von 1965 gibt es eine reiche Tradition der Erinnerung an die Entstehung des gemeinschaftlichen sozialen Lebens in Unruhen. Unruhen heben die kapitalistischen sozialen Beziehungen auf, was neue Beziehungen zwischen den Menschen und den Dingen, die ihre Welt ausmachen, ermöglicht. Hier sind unsere Zeugnisse:
+
+Als das Spirituosengeschäft geöffnet wurde, kamen Dutzende mit Bierkisten heraus, die für alle prahlerisch auf den Boden gestellt wurden. Das Bier der Wahl war Corona.
+{: .darkred}
+
+Wir sahen einen Mann, der ruhig und mit beiden Armen voller Whisky aus dem Laden ging. Er gab jedem, an dem er auf dem Rückweg Richtung des Kampfes vorbeiging, einen Whiskey. Einige der entleerten Schnapsflaschen wurden später auf die Polizei geworfen.
+{: .darkred}
+
+Während die Gebäude um uns herum in Flammen aufgingen, ging ein Mann vorbei und sagte zu niemand spezifischem: »Dieser Tabakladen hatte früher ein super Angebot für Loosies [einzeln verkaufte Zigaretten] ... Ach ja, die können mich mal.«
+{: .darkred}
+
+Wir sahen eine Frau, die mit einem Einkaufswagen voller Pampers und Steaks zurück zu ihrem Haus ging. Eine Gruppe, die an der Ecke einen Imbiss und eine Wasserpause einlegte, klatschte Beifall, als sie vorbeirollte.
+{: .darkred}
+
+Nachdem eine Gruppe den Autozone geöffnet hatte, saßen die Menschen drinnen und rauchten Zigaretten, während sie den Kampf zwischen Polizisten und Rebell\*innen von innen durch die großen Schaufenster beobachteten. Mensch konnte sehen, wie sie abwechselnd auf Polizei und Elemente in der Menge zeigten und sich dabei über das Geschehen austauschten. Sahen sie die gleichen Dinge, die wir sahen?
+{: .darkred}
+
+Wir shoppten Schuhe im durchwühlten Lagerraum eines geplünderten Foot Locker. Der Boden war überall mit halbzerstörten Schuhkartons, Seidenpapier und Schuhen bedeckt. Beim Durchwühlen riefen die Leute nach Größen und Typen. Wir verbrachten fünfzehn Minuten damit, nur ein passendes Paar zu finden, bis wir das Kampfgetöse hörten und darin eintauchten.
+{: .darkred}
+
+Am dritten Tag waren die Böden der Lebensmittelgeschäfte, die teilweise ausgebrannt waren, mit zentimeterdickem Sprinklerwasser und einer fauligen Mischung von Lebensmitteln bedeckt, die aus den Regalen geworfen worden waren. Dennoch konnte mensch drinnen Menschen in Stiefeln sehen, die die verbliebenen Waren durchsuchten, so als ob sie auf der Suche nach Schnäppchen wären. Die Sammler\*innen halfen sich gegenseitig, über gefährliche Gegenstände zu treten, und teilten ihre Beute wieder draußen.
+{: .darkred}
+
+Als die Polizei den Rückzug antrat, feierte eine junge Somalierin in traditioneller Tracht, indem sie einen Pflasterstein ausgrub und ihn kurzerhand durch ein Wartefenster einer Bushaltestelle warf. Ihre Freund\*innen – ebenfalls traditionell gekleidet – erhoben ihre Fäuste und tanzten.
+{: .darkred}
+
+Ein maskierter Mann ohne Shirt lief an dem brennenden Revier vorbei, reckte seine Fäuste und rief: »COVID IST VORBEI!«, während sechs Meter entfernt einige Teenager ein Gruppen-Selfie aufnahmen. Anstatt ›Cheese!‹ zu sagen, sagten sie »Death to the pigs!«. Laser blitzten über den mit Rauch gefüllten Himmel auf einen Polizeihubschrauber über uns.
+{: .darkred}
+
+Wir kamen an einem Schnapsladen vorbei, der geplündert wurde, als wir die beste Party der Welt verließen. Eine Mutter und ihre zwei jungen Teenager kamen aus ihrem Auto und fragten, ob es noch guten Schnaps gäbe. »Zum Teufel, ja! Holt euch was!« Die Tochter grinste und sagte: »Komm schon! Ich helfe dir, Mama!« Sie setzten ihre COVID-Masken auf und marschierten los.
+{: .darkred}
+
+Einen Tag später, vor dem Angriff auf das Fünfte Revier, kam es in der Nachbarschaft von Midtown zu Massenplünderungen. Ein junges Kind, das nicht älter als sieben oder acht Jahre sein konnte, kam mit einer Whiskeyflasche mit einem Fetzen, der oben herauskam, auf uns zu. »Habt ihr mal Feuer?« Wir lachten und fragten: »Was willst du treffen?« Er zeigte auf einen freundlichen Lebensmittelladen, und wir fragten, ob er »ein feindliches Ziel« finden könne. Er drehte sich sofort zur US-Bank auf der anderen Straßenseite um.
+{: .darkred}
+
+»This is anarchy.«
+
+***
+
+Weiterlesen:
+
+- [Internationale Solidarität mit dem Aufstand in Minneapolis](https://de.crimethinc.com/2020/06/02/internationale-solidaritat-mit-dem-aufstand-in-minneapolis-demonstrationen-graffiti-hacking-und-riots-auf-sechs-kontinenten)
+
+- [Minneapolis: Jetzt hat dieser Kampf zwei Seiten](https://de.crimethinc.com/2020/05/28/minneapolis-jetzt-hat-dieser-kampf-zwei-seiten-was-die-unruhen-fur-die-covid-19-ara-bedeuten)
+
+- [Werkzeuge und Taktiken der Portland Protests](https://de.crimethinc.com/2020/08/03/werkzeuge-und-taktiken-der-portland-protests-von-laubblasern-und-regenschirmen-bis-hin-zu-lasern-luftballons-und-elektrowerkzeugen)
+
+- [Von Chile nach Minneapolis: Ein offener Brief](https://de.crimethinc.com/2020/06/03/von-chile-nach-minneapolis-ein-offener-brief-globale-solidaritat-mit-der-rebellion-gegen-polizei-und-rassismus) 
+
+***
+
+Diese Übersetzung ist ursprünglich in dem Buch [›Writings on the Wall‹](https://de.crimethinc.com/2020/12/03/the-writing-on-the-wall-neue-crimethinc-textsammlung-auf-deutsch) erschienen.
+
+[^1]: Anmerkung der Redaktion: Bei dem teilweise errichteten Wohnkomplex mit 189 Wohneinheiten, auf den hier Bezug genommen wird (›Midtown Corner‹), handelte es sich in Wirklichkeit nicht um Eigentumswohnungen. Midtown Corner sollte eine gemischt genutzte Wohnanlage mit Einzelhandelsflächen im ersten Stock und 189 Einheiten erschwinglicher Mietwohnungen in den oberen fünf Stockwerken werden. Eine gewisse Verwirrung in der Öffentlichkeit mag dadurch entstanden sein, dass nur 38 der 189 Einheiten als ›sehr bezahlbar‹ bezeichnet wurden (was bedeutet, dass die Miete an 60% oder weniger des Mitteleinkommens der Region [Area Median Income] gebunden werden sollte). Die restlichen etwa 150 Einheiten wurden jedoch nicht zu Luxus- oder üblichen Marktpreisen angeboten; sie wurden als »›erschwinglich‹ bezeichnet, wobei die Miete an 80% oder weniger des AMI gebunden war. Das Projekt enthielt keine einzige Wohneinheit, die nicht für erschwingliche Mietpreise vorgesehen war.

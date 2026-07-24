@@ -1,0 +1,113 @@
+---
+title: "Chiusura del porto di Tacoma"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2023/11/10/chiusura-del-porto-di-tacoma-riflessioni-dal-mare-di-salish-1"
+---
+
+Dal [7 ottobre](https://crimethinc.com/2023/10/08/a-nuclear-superpower-and-a-dispossessed-people-an-anarchist-from-jaffa-on-the-violence-in-palestine-and-israeli-repression#escalating-hostilities), l'esercito israeliano ha [ucciso](https://www.aljazeera.com/news/longform/2023/10/9/israel-hamas-war-in-maps-and-charts-live-tracker) oltre 10.000 persone in Palestina, di cui quasi la metà erano bambini. In risposta, le persone di tutto il mondo si sono mobilitate in solidarietà. Molti stanno cercando modi di procedere, dalla richiesta di un cessate il fuoco all'uso di [azioni dirette](https://crimethinc.com/2023/11/03/strategizing-for-palestinian-solidarity-expanding-the-toolkit-from-demands-to-direct-action-1) per impedire al governo degli Stati Uniti di inviare armi a Israele. Nonostante il freddo di lunedì 6 novembre, diverse centinaia di persone si sono presentate al porto di Tacoma, nello Stato di Washington, per bloccare l'accesso a una nave che avrebbe dovuto consegnare attrezzature all'esercito israeliano.
+
+Nel testo che segue, i partecipanti ripercorrono la storia dei blocchi portuali nel Puget Sound, condividono la loro esperienza di protesta e cercano di offrire ispirazione per continuare la solidarietà transoceanica.
+
+***
+
+# Aumento della resistenza
+
+Giovedì 2 novembre, i manifestanti che protestavano contro il bombardamento e l'invasione di Gaza hanno bloccato un'autostrada a Durham, nella Carolina del Nord, e hanno chiuso la 30th Street Station di Filadelfia. Venerdì 3 novembre, al porto di Oakland, in California, i manifestanti sono riusciti a superare i controlli di sicurezza e a [salire a bordo](https://twitter.com/Vetipie/status/1720524453703249938) della MV [Cape Orlando](https://en.wikipedia.org/wiki/MV_Cape_Orlando) della United States Ready Reserve Fleet, che doveva partire per Tacoma per prelevare attrezzature militari destinate a Israele. La Cape Orlando è di proprietà del Dipartimento dei Trasporti, diretta dal Dipartimento della Difesa e gestita ed equipaggiata da marinai commerciali. Dopo uno stallo durato ore, la Guardia Costiera è finalmente riuscita a far scendere i manifestanti dalla nave.
+
+In seguito, si è sparsa la voce che ci sarebbe stata un'altra protesta quando la nave sarebbe arrivata a Tacoma. L'evento è stato annunciato da una coalizione di organizzazioni nazionali e dalle loro sezioni locali: Falastiniyat (un collettivo femminista della diaspora palestinese), Samidoun (una rete nazionale di sostegno ai prigionieri palestinesi) e l'[Arab Resource & Organizing Center](https://www.araborganizing.org/), che aveva anche partecipato all'organizzazione della protesta di Oakland.
+
+La mobilitazione a Tacoma era originariamente prevista per le 14.30 di domenica 5 novembre, ma gli organizzatori hanno cambiato l'orario a causa di informazioni aggiornate sull'arrivo della nave, chiedendo alle persone di presentarsi alle 5 del mattino di lunedì. Nonostante il timore che il cambiamento dell'ultimo minuto potesse compromettere lo slancio, quella mattina si sono presentate diverse centinaia di manifestanti. Il blocco è consistito in un picchetto continuo in più punti, sostenuto da alcuni autisti disposti a rischiare il sequestro delle loro auto da parte delle autorità.
+
+A tutti i lavoratori dell'ILWU impiegati per il turno di giorno è stato impedito di caricare la nave. L'obiettivo del blocco era quello di impedire ai lavoratori portuali di caricarla; purtroppo, però, ciò non ha impedito al carico militare di raggiungere la nave. Agendo come crumiri, i militari statunitensi sono intervenuti per caricarlo, apparentemente introdotti nel porto su navi della Guardia Costiera.
+
+Ora che la nebbia della guerra si è diradata, possiamo rivedere in dettaglio gli eventi della giornata. 
+
+[[https://cdn.crimethinc.com/assets/articles/2023/11/09/3.jpg "Nessun genocidio nel nostro nome: salvate Gaza."]]
+
+***
+
+# Attingendo a decenni di blocchi portuali
+
+Il Pacifico nord-occidentale ha una lunga storia di blocchi portuali. 
+
+Nel 1984, i lavoratori portuali dell'International Longshore and Warehouse Union (ILWU) si sono coordinati con gli attivisti anti-Apartheid e si sono rifiutati di scaricare le navi da carico provenienti dal Sudafrica. Tra il 2006 e il 2009, il movimento [Port Militarization Resistance](https://en.wikipedia.org/wiki/Port_Militarization_Resistance) ha ripetutamente [bloccato](https://www.indybay.org/newsitems/2006/06/05/18270941.php) i porti di Olympia e Tacoma per protestare contro l'occupazione di Iraq e Afghanistan. Nel 2011 e 2012, i partecipanti a
+Occupy/Decolonize Seattle si sono organizzati in solidarietà con i lavoratori portuali dell'ILWU a [Longview](https://libcom.org/article/longview-occupy-and-beyond-rank-and-file-and-89-unite) e hanno bloccato [il porto di Seattle](https://blackorchidcollective.wordpress.com/2011/12/14/occupy-seattle-a-new-phase-for-the-workers-movement/), tra gli altri porti.
+
+Nel 2014, i manifestanti hanno bloccato il porto di Tacoma usando lo slogan [Block the Boat](https://www.kiro7.com/news/education/block-boat-protest-tacoma-leads-fight/82009483/), cantando "I nostri porti saranno bloccati alle navi di Israele finché i porti di Gaza non saranno liberi". Una delle partecipanti era la madre di Rachel Corrie, una studentessa uccisa a Gaza dall'esercito israeliano nel 2002 mentre cercava di impedire la demolizione delle case delle famiglie palestinesi. Nel 2015, un'attivista si è incatenata a una nave di supporto per i piani di trivellazione petrolifera esplorativa della Royal Dutch Shell, usando lo slogan [Shell No](https://www.theguardian.com/us-news/2015/may/23/woman-chains-herself-to-shell-ship-in-protest-at-arctic-oil-exploration). Nel 2021, i manifestanti di Block the Boat hanno ritardato lo scarico della nave ZIM San Diego, gestita da Israele, [per settimane](https://jacobin.com/2021/06/block-the-boat-bds-israel-palestine-zim-san-diego-port-of-seattle-picket-sawant). L'Arab Resource & Organizing Center ha partecipato all'organizzazione delle proteste di Block the Boat.
+
+[[https://cdn.crimethinc.com/assets/articles/2023/11/09/4.jpg Protesta "Shell No!" nel 2015.]]
+
+Oggi il porto di Tacoma sembra essere il punto di carico preferito per le attrezzature militari nella regione, forse perché la Port Militarization Resistance è riuscita a bloccare con successo la logistica del porto di Olympia, mentre la polizia di Tacoma è stata in grado di usare una forza violenta sufficiente a mantenere aperto il porto di Tacoma per le spedizioni militari in Iraq e Afghanistan. I vari blocchi portuali hanno favorito anni di organizzazione tra i lavoratori dell'ILWU, i lavoratori migranti emarginati dei camion, gli ambientalisti e gli attivisti contro la guerra. Nuove tattiche di kayaktivismo sono emerse dalle lotte contro l'estrattivismo a Seattle, dove i gruppi di affinità marinare sono stati in grado di superare la Guardia Costiera e le organizzazioni ambientaliste no-profit che volevano mantenere le cose simboliche. In un'occasione, un gruppo di kayak è riuscito a far arenare una nave della Shell senza essere arrestato. Alcuni partecipanti hanno portato striscioni rinforzati alla manifestazione di lunedì 6 novembre 2023, perché ricordavano come la polizia avesse usato la forza per allontanare i manifestanti meno attrezzati durante il picchetto "Block the Boat" al porto di Seattle nel 2021. 
+
+Nel corso degli anni, questi blocchi portuali hanno ispirato altre innovazioni nel genere. Nel novembre 2017, i manifestanti hanno [bloccato i binari della ferrovia](https://pugetsoundanarchists.org/wp-content/uploads/The-Olympia-Communard.pdf) che passano per Olympia.[^1] In un momento in cui le lotte degli indigeni per la protezione dell'acqua e la difesa della terra si stavano intensificando e i locali volevano agire in solidarietà, bloccare il porto sembrava una sfida proibitiva, così hanno scelto una sezione dei binari della ferrovia attraverso la quale venivano inviati al porto i materiali per la fratturazione. Questa [occupazione](https://crimethinc.com/podcasts/the-ex-worker/episodes/61) è stata probabilmente più difendibile ed efficace di un blocco portuale, durando ben più di una settimana. Potrebbe indicare un futuro campo di sperimentazione. 
+
+# Raduno al porto
+
+Il porto di Tacoma e il vicino [centro di detenzione ICE](https://crimethinc.com/2019/07/14/on-willem-van-spronsens-action-against-the-northwest-detention-center-in-tacoma-including-the-full-text-of-his-final-statement) si trovano in un'area industriale che ospita anche un'accademia di polizia. Sono accessibili solo attraverso strette strozzature; in passato, la polizia ne ha approfittato per prendere di mira e molestare i manifestanti. L'azione precedente al porto di Oakland si è svolta in un'area più urbana; mentre i manifestanti si preparavano per l'attracco della nave a Tacoma, crescevano le preoccupazioni per le varie possibilità di repressione. I veterani della Resistenza alla Militarizzazione Portuale e altri individui dalla mentalità logistica hanno compilato elenchi di considerazioni da tenere in considerazione per realizzare un'azione in questo particolare porto.
+
+Lunedì mattina, le persone si sono presentate con energia positiva e striscioni rinforzati. Centinaia di persone si sono coordinate per portare rifornimenti e ulteriori ondate di picchetti. Il piano prevedeva di stabilire un picchetto a ciascuno dei tre ingressi del molo 7. La polizia ha bloccato preventivamente gli ingressi, sedendosi nei propri veicoli dietro la recinzione del porto. I manifestanti hanno marciato in cerchio, cantando, mentre altri hanno raccolto materiale con cui creare barricate improvvisate.
+
+[[https://cdn.crimethinc.com/assets/articles/2023/11/09/5.jpg]]
+
+Altri anarchici sono rimasti a distanza, pronti a dare supporto alla prigione e a consigliare i partecipanti sulle precauzioni di sicurezza. Altri ancora si sono sistemati nel vicino casinò, indagando e soffocando le voci nei crescenti gruppi di segnalazione e aiutando a collegare le persone alle informazioni o ai circuiti di comunicazione di cui avevano bisogno. Sia autonomamente che in conversazione con gli organizzatori, tutti hanno fatto del loro meglio per contribuire allo svolgimento dell'azione.
+
+La manifestazione è riuscita a realizzare ciò che alcuni pensavano fosse impossibile, impedendo ai lavoratori dell'ILWU di caricare il carico militare. Inaspettatamente, questo non è stato sufficiente. Persino gli scaricatori di porto più esperti sono rimasti sorpresi dal fatto che i militari potessero essere coinvolti come crumiri nel carico della nave. 
+
+Avremmo potuto concentrarci piuttosto sul blocco dell'equipaggiamento per raggiungere il porto? Secondo le schermate dei turni di lavoro disponibili pubblicamente, il carico che alla fine è stato caricato sulla nave era già arrivato al porto prima dell'orario di inizio dell'azione originariamente previsto per le 14:30 del 5 novembre. Considerando che la domenica pomeriggio era probabilmente la prima data utile per organizzare un'azione di massa con così poco preavviso, non sorprende che l'idea di bloccare il carico sia stata abbandonata a favore del blocco dei lavoratori dell'ILWU. Naturalmente, se l'informazione che le forniture militari stavano entrando nel porto fosse circolata prima, sarebbe stato possibile fare qualcosa di diverso.
+
+Gli organizzatori hanno scelto l'approccio del blocco dei lavoratori nonostante le tensioni che avrebbe provocato con l'ILWU Local 23. I nostri contatti all'interno dell'ILWU descrivono il presidente della Local 23 come un sionista; la maggior parte dei lavoratori della Local 23 era presumibilmente contraria all'azione, nonostante il rispetto del picchetto.[^2] Il presidente sarebbe arrivato a suggerire di far entrare i lavoratori dell'ILWU su barche, un piano che i militari avrebbero rifiutato.
+                
+Si diceva che una flottiglia di kayak si stesse organizzando per impedire la partenza di Orlando la mattina seguente. Alla fine, una [canoa](https://twitter.com/BTnewsroom/status/1721650393262768155) pilotata da membri dei Puyallup, dei Nisqually e di altri popoli Coast Salish e accompagnata da alcuni kayakisti ha bloccato il percorso della nave per un breve periodo il 6 novembre, ma nulla si è concretizzato per il 7 novembre.
+
+Questo intervento è un importante promemoria della necessità etica e strategica di lavorare con i gruppi indigeni che conoscono la terra e l'acqua e conservano una memoria vivente di lotta contro la violenza coloniale, che include il ripetuto superamento dell'esercito degli Stati Uniti.
+
+[[https://cdn.crimethinc.com/assets/articles/2023/11/09/1.jpg I membri dei Puyallup, dei Nisqually e di altri popoli Coast Salish si sono messi a bloccare la nave il 6 novembre.]]
+
+La nave è partita, ma uno Stryker Armored Personnel Carrier che doveva lavorare secondo le tabelle dei turni dell'ILWU non è stato caricato, presumibilmente a causa del picchetto. Data l'inesperienza del personale militare nel caricare i container, non è chiaro quanto della spedizione sia stata completamente caricata nel tempo previsto per la nave, dato che i porti rispettano un programma rigoroso per non interrompere le catene di approvvigionamento globali del capitale.
+
+# Valutazione
+
+I principali organizzatori hanno ricevuto feedback nel corso della protesta e hanno adattato la loro strategia al mutare della situazione, modificando la loro comunicazione per articolare ciò che stavano cercando di fare e spiegare le loro scelte piuttosto che appellarsi semplicemente alla loro autorità come organizzazione o come palestinesi. Ciononostante, [alcuni](https://pugetsoundanarchists.org/reportback-from-the-port-blockade-in-tacoma/) [partecipanti](https://pugetsoundanarchists.org/the-boat-that-wasnt-blocked/) hanno espresso disappunto per come si sono svolte le cose. È stato difficile ottenere informazioni complete su ciò che stava accadendo e questo ha impedito alle persone di prendere le proprie decisioni e di agire in modo autonomo. Alcuni anarchici che erano sul posto riferiscono che la nave era ancora in fase di carico quando gli organizzatori hanno annullato l'evento; altri contestano la scelta di non rivelare il fatto che i militari stavano caricando l'attrezzatura mentre la manifestazione aveva ancora numeri e slancio.
+
+È difficile stabilire fino a che punto gli organizzatori abbiano intenzionalmente nascosto le informazioni. Riteniamo che sia importante offrire feedback costruttivi e critiche di principio, resistendo alla tentazione di fare supposizioni sulle intenzioni altrui (o, nel peggiore dei casi, di impegnarsi in una sorta di "snitch-jacketing", che può minare gli sforzi per rispondere alle effettive infiltrazioni e violazioni della sicurezza nel movimento e spesso contribuisce a sbagliare la diagnosi dei problemi in gioco).
+
+La collaborazione con le autorità, soprattutto a spese di altri radicali, è sempre inaccettabile. Questo è un punto fermo degli eventi dominati da organizzazioni autoritarie. Fortunatamente, nulla di simile sembra essersi verificato durante il blocco del 6 novembre. Chi si trova da una parte o dall'altra di questo dibattito dovrebbe fare attenzione a non reagire in modo impulsivo e a non proiettare le cattive intenzioni su immaginari "avventurieri" tutti bianchi o su una "polizia di pace" repressiva.
+
+In questo spirito, spiegheremo la nostra preoccupazione. Gli organizzatori hanno annunciato simultaneamente che le armi erano state caricate sulla nave e, allo stesso tempo, [hanno dichiarato la vittoria](https://twitter.com/AROCBayArea/status/1721712416436949072). Ciò lascia spazio al sospetto che l'intenzione originaria fosse quella di "bloccare la nave" simbolicamente senza ostacolare effettivamente il carico di armi, per dare l'impressione di ottenere una "vittoria del movimento" senza alcun impatto sostanziale. Queste vittorie vuote possono sgonfiare i movimenti e lo slancio, seminando sfiducia nelle centinaia di persone che si sono presentate con poco preavviso con l'intenzione di impedire alle armi di raggiungere Israele. Sarebbe meglio riconoscere il fallimento, ammettendo che, nonostante i nostri sforzi, le autorità sono riuscite nel loro intento e affermando che dobbiamo intensificare i nostri sforzi se vogliamo salvare vite a Gaza. Abbiamo bisogno che gli organizzatori siano onesti con noi, in modo da sapere a cosa andiamo incontro.
+
+È importante sottolineare che alla fine sono stati i militari a caricare la nave, non l'ILWU. Questa mossa è stata senza precedenti, proprio come lo [spionaggio](https://www.democracynow.org/2014/2/25/exclusive_inside_the_army_spy_ring) dei militari sui manifestanti durante la resistenza alla militarizzazione del porto. Ma non avrebbe dovuto essere inaspettata. D'ora in poi, dobbiamo tenere presente che i militari sono pronti a intervenire direttamente nella logistica del capitalismo.
+
+Questo evidenzia anche una debolezza nella strategia di bloccare una nave con un picchetto e di bloccare le strade intorno al terminal. Per bloccare *effettivamente* la nave, sarebbe stata necessaria un'azione molto più dirompente, che avrebbe potuto includere l'assalto al terminal stesso e rischiare la violenza della polizia, gli arresti e la repressione federale.
+
+A Oakland, le persone sono riuscite a penetrare la sicurezza del porto per salire a bordo della nave, ma lo hanno fatto agendo con l'elemento sorpresa, quando la polizia non si era concentrata. Sarebbe stato molto diverso tentare di raggiungere la nave a Tacoma. L'azione a Oakland ha fatto guadagnare tempo agli organizzatori di Tacoma, ma ha anche reso molto più difficile riutilizzare la stessa strategia. In ogni caso, nessuno dei due approcci ha impedito la partenza della nave.
+
+Con questo non voglio dire che non ci sia mai un motivo per bloccare il terminal come abbiamo fatto noi. Piuttosto, il punto è che i meccanismi del capitalismo di guerra sono più pervasivi e adattabili delle strategie impiegate per bloccarlo a Oakland e Tacoma. Qualsiasi forma di escalation richiederà maggiore militanza, tolleranza al rischio e innovazione.
+
+Dovremmo essere onesti sulle nostre capacità, sui nostri limiti e sulle sfide che dobbiamo affrontare. Sebbene molte persone fossero pronte a partecipare a un picchetto, l'assalto a una struttura protetta comporta considerazioni diverse e una preparazione materiale, e richiede una valutazione a mente fredda dei benefici rispetto alle conseguenze. Non dobbiamo semplicemente incolpare gli organizzatori per il fatto che non è successo. Un movimento abbastanza potente non può essere frenato, nemmeno dai suoi leader.
+        
+Considerando che l'esercito degli Stati Uniti ha superato la strategia del picchetto - e considerando la grave posta in gioco di ciò che sta accadendo in Palestina - "Perché non prendere d'assalto il porto?" potrebbe essere un buon punto di partenza per le strategie future. Tuttavia, da questo momento in poi, il porto diventerà sempre più sicuro. Un altro approccio potrebbe essere quello di allontanarsi dal porto, cercando punti di intervento al di fuori di esso. A questo proposito, il blocco ferroviario di Olympia nel 2017 potrebbe offrire un esempio promettente.
+
+Allo stesso modo, se da un lato dobbiamo esplorare i modi per risolvere le differenze quando dobbiamo lavorare insieme, dall'altro possiamo anche cercare modi per condividere le informazioni e coordinarci mentre ci organizziamo autonomamente. Potremmo non essere in grado di raggiungere un consenso sulla strategia da utilizzare, ma possiamo esplorare i punti in cui siamo d'accordo e quelli in cui divergiamo, acquisire e far circolare l'intelligence e provare molte strategie diverse contemporaneamente.
+
+La logica e la logistica dell'ordine dominante sono intrecciate in tutto il mondo. Le [armi](https://apnews.com/article/armenia-azerbaijan-nagorno-karabakh-weapons-israel-6814437bcd744acc1c4df0409a74406c) israeliane hanno aiutato l'Azerbaigian a [invadere](https://crimethinc.com/2023/09/23/anarchist-voices-from-armenia-and-azerbaijan-on-the-violence-in-nagorno-karabakh) l'enclave armena del Nagorno-Karabakh a settembre. Le tecnologie di sorveglianza, occupazione e repressione, perfezionate per assediare Gaza e frammentare la Cisgiordania, sono dispiegate lungo il [mortale confine meridionale](https://crimethinc.com/books/no-wall-they-can-build) degli Stati Uniti. L'FBI chiama le aziende tecnologiche israeliane quando deve hackerare il telefono di qualcuno. Tutto è collegato, dai porti del Mare di Salish alla costa orientale del Mediterraneo.
+
+Ecco l'ammutinamento nel ventre dell'impero. Se non noi, chi? Se non ora, quando?
+
+[[https://cdn.crimethinc.com/assets/articles/2023/11/09/2.jpg]]
+
+***
+
+# Ulteriori letture e ascolti
+
+- [Il blocco ferroviario di Olympia](https://crimethinc.com/podcasts/the-ex-worker/episodes/61)
+- [Strategia per la solidarietà palestinese](https://crimethinc.com/2023/11/03/strategizing-for-palestinian-solidarity-expanding-the-toolkit-from-demands-to-direct-action-1) - Ampliare il kit di strumenti dalle richieste all'azione diretta
+- [Rapporto dal blocco del porto di Tacoma](https://pugetsoundanarchists.org/reportback-from-the-port-blockade-in-tacoma/)
+- [La barca che non è stata bloccata](https://pugetsoundanarchists.org/the-boat-that-wasnt-blocked/)
+
+
+
+
+[^1]: Da un [articolo](https://pugetsoundanarchists.org/wp-content/uploads/The-Olympia-Communard.pdf) apparso undici giorni dopo il blocco ferroviario di Olympia, che racconta le esperienze e le motivazioni dei bloccatori: "Sono tornato a casa dal lavoro alle 17 e ho ricevuto circa un milione di messaggi di testo che mi dicevano tutti la stessa cosa: c'è un blocco dei treni per il fracking in centro. Stesso posto dell'anno scorso. Scendi. Ero esausta, infreddolita e bagnata dal lavoro e avevo in programma di fare Shabbat con gli amici, ma non mi sarei persa un blocco ferroviario per nulla al mondo. "Shabbos al blocco! Ho detto ai miei amici. Se fermare un treno pieno di materiali utilizzati per la distruzione dell'ambiente e il genocidio delle popolazioni indigene non è Tikkun Olam, non so cosa lo sia".
+
+[^2]: Si è discusso se gli operai avrebbero ufficialmente interrotto il lavoro per problemi di salute e sicurezza, come hanno fatto in passato i lavoratori del sindacato, ma a quanto pare ciò non è avvenuto ufficialmente.
