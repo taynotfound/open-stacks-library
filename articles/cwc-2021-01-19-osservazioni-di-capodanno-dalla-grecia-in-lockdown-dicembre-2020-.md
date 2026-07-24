@@ -1,0 +1,92 @@
+---
+title: "Osservazioni di Capodanno dalla Grecia in lockdown"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2021/01/19/osservazioni-di-capodanno-dalla-grecia-in-lockdown-dicembre-2020-e-gennaio-2021"
+---
+
+In questo momento, i nostri compagni ci vengono ricordati attraverso striscioni e graffiti, attraverso brevi incontri con la scusa di fare esercizio tra i coprifuoco e attraverso le azioni coraggiose di coloro che sfruttano le tenebre per agire mentre il giorno diventa troppo pericoloso.
+
+In proporzione al numero di abitanti, il movimento anarchico in Grecia è tra i più grandi al mondo. Tuttavia, stiamo ora sperimentando una repressione senza precedenti a causa della pandemia e del conseguente opportunismo politico. Restiamo bloccati, sopraffatti dal regno della destra e dai suoi difensori. L'ecocidio, il controllo sociale, le nuove repressioni sulle Università e la repressione generale di coloro che sono esclusi o ritenuti nemici dello Stato greco continuano a espandersi all'ombra del COVID-19.
+
+Porremo l’accento su alcuni recenti fonti di preoccupazione riguardanti gli sforzi di solidarietà essenziali per il movimento anarchico globale. A volte, facciamo fatica a scrivere questi aggiornamenti, non desiderando semplicemente presentare un bollettino mensile sulla depressione dalla Grecia. Scriviamo da una prospettiva che molte persone qui condividono, riassunta al meglio da questo commento che racchiude il tema di tante interazioni: “Alcuni giorni buoni, alcuni giorni cattivi. Mi sento bloccato e non sono nemmeno sicuro di cosa sto aspettando."
+
+Durante questa pausa forzata nelle nostre vite, chi detiene il potere si butta a capofitto verso politiche e automatismi camuffati da risposta a una pandemia. Questo fa parte di uno sforzo più ampio per gentrificare la società greca.
+
+Ma non dubitate nemmeno un momento che qui stia crescendo una tensione più ampia: ogni volta che lo Stato sarà costretto ad allentare la lockdown, le persone si sveglieranno, stufe marce, e la rabbia sarà ovunque!
+
+Quest’articolo è una versione ampliata dal contributo di Radio Fragmata [*report di Bad News*](https://www.a-radio-network.org/episode-41-12-2020/) . Potete anche leggere i nostri report di [*maggio*](https://it.crimethinc.com/2020/05/15/grecia-repressione-e-resistenza-durant e-la-pandemia), [*giugno*](https://it.crimethinc.com/2020/06/22/da-minneapolis-alla-grecia-fanculo-agli-sbirri-un-mese-di-lotte-ecologiche-carcerarie-e-solidali-in-grecia) , [*luglio*](https://it.crimethinc.com/2020/07/15/grecia-tutto-sta-venendo-a-galla-reces sione-imminente-il-divieto-della-liberta-di-assembramento-e-la-morte-di-vassilis-maggos) , [*agosto*](https://it.crimethinc.com/2020/08/18/estate-in-grecia-edizione-nuova-democrazia) , [*settembre*](https://it.crimethinc.com/2020/09/14/grecia-il-campo-profughi-di-moria-b rucia-mentre-la-repressione-statale-sintensifica) , [*ottobre*](https://it.crimethinc.com/2020/10/24/grecia-la-corte-si-e-pronunciata-cont ro-alba-dorata-ma-nelle-piazze-la-lotta-continua-vogliamo-che-il-fascismo-venga-abolit o-non-regolamentato-giudizialmente) *e* [*dicembre*](https://it.crimethinc.com/2020/12/01/grecia-nuova-democrazia-e-opportunis mo-pandemico-il-lockdown-riprende) .
+
+# La crisi dei rifugiati continua, aggravata dal Coronavirus
+
+Rifugiati e migranti ancora in attesa di asilo e documenti ora affrontano una situazione sempre più pericolosa poiché minacciati dal COVID-19 e tenuti al freddo, sia metaforicamente sia letteralmente, dalla rinomata burocrazia greca nei campi profughi di tutto il Paese. La situazione non è cambiata dal nostro precedente report; semmai è peggiorata durante l'inverno.
+
+Questa è una tragedia senza tregua. La Grecia sta testando i limiti relativi a quanto in basso possano essere spinti gli standard dell'Unione europea per i rifugiati e gli immigrati. L'inevitabile afflusso incombente di rifugiati in fuga dalle reazioni a catena dei lockdown in tutto il mondo finirà in queste condizioni di deterioramento. Inoltre, i programmi xenofobi con cui i nazionalisti greci hanno attaccato i rifugiati e chiunque li sostenga saranno probabilmente ampliati attraverso la collaborazione informale con i nazionalisti di altri Paesi che, presumibilmente, diventeranno le destinazioni future per i rifugiati, come accaduto con Malta, Spagna e Italia.
+
+# COVID-19
+
+Il Governo ha speso un milione di euro in addobbi natalizi, mentre alla gente vengono dati pochi spiccioli in attesa del lockdown. I fallimenti e l'opportunismo dello Stato greco durante la pandemia hanno persino attirato l'attenzione della stampa istituzionale, con [Bloomberg](https://www.bloomberg.com/graphics/covid-resilience-ranking/) che ha collocato la Grecia al 50° posto su 53 Paesi con un PIL di oltre 200 miliardi di dollari in termini di gestione del COVID-19.
+
+Questa classifica per la “resilienza” al COVID-19 è determinata valutando l'entità delle misure di lockdown rispetto al tasso di contagio, alle conseguenze economiche e alla qualità della vita. Per fare un confronto, mentre gli Stati Uniti rappresentano chiaramente una situazione estrema per quanto riguarda i tassi di mortalità, questi sono in linea con il rifiuto dell'amministrazione Trump di qualsiasi tipo di ordine per un lockdown nazionale o per l’obbligo di indossare la mascherina. Al contrario, la Grecia sta vivendo uno dei lockdown più rigidi nel mondo occidentale ma il tasso di contagi rimane elevato rispetto ai Paesi che adottano misure simili. La dilagante disparità di criteri e la sospensione circostanziale delle misure portano alla conclusione che il Governo greco si preoccupa esclusivamente di promuovere politiche egoistiche anziché mitigare le crisi mediche e umanitarie.
+
+Per esempio, il Governo sta permettendo alle chiese di rimanere aperte per placare il suo zoccolo di estrema destra, ha revocato le restrizioni perché la gente potesse fare acquisti prima di Natale e ora sta puntando tutto sulla collaborazione con media di parte per incolpare l’uomo della strada per il picco nei tassi di contagio.
+
+[[https://cdn.crimethinc.com/assets/articles/2021/01/19/2.jpg La Polizia tollera la folla fuori in attesa da McDonald’s.]]
+
+# Sbirri ovunque, terapia intensiva da nessuna parte
+
+Anche i lockdown sono stati militarizzati, soprattutto nelle regioni più povere a ovest di Atene e nel trattamento delle comunità rom in tutto il Paese. In queste regioni caratterizzate da povertà, lavoratori immigrati e popolazioni rom, i soldati su veicoli blindati impongono lockdown intensi. Non è un caso che il quartiere ribelle di Exarchia e le comunità rom fuori dal centro di Atene siano presi di mira con lockdown particolarmente rigidi, mentre nelle periferie e nei quartieri ricchi, come l’ateniese Colonaki, gruppi di persone si riuniscano fuori dai bar, si muovano liberamente senza paura di essere arrestate e i proprietari di negozi di lusso utilizzino una scappatoia destinata ai lavoratori essenziali per creare documenti che consentano ai loro amici di uscire insieme a loro per andare in bar e ristoranti aperti per il take-away.
+
+I poliziotti si raggruppano senza utilizzare le mascherine; fermano i medici notturni e gli addetti alle consegne per pura noia, trastullandosi con i documenti, perquisendoli, diffondendo il virus in nome della prevenzione. Se non si divertono abbastanza, passano a maltrattare i senzatetto. Anche Politico, una fonte dei media istituzionali, [ha iniziato a coprire](https://www.politico.eu/article/police-brutality-on-the-rise-in-locked-down-g reece-activists-warn/) gli abusi della Polizia e l'opportunismo politico introdotto da Nuova Democrazia durante la pandemia.
+
+[[https://cdn.crimethinc.com/assets/articles/2021/01/19/3.jpg Graffiti in memoria di Alexandros Grigoropoulos, un quindicenne greco assassinato dalla Polizia nel quartiere di Exarchia.]]
+
+# Il 6 dicembre
+
+Il 6 dicembre 2008, ad Atene, Grecia, la polizia ha ucciso il quindicenne Alexandros Grigoropoulos nel quartiere di Exarchia. In risposta, anarchici, giovani e altri ribelli di popolazioni prese di mira si ribellarono, organizzando rivolte e occupazioni in tutto il Paese che durarono per settimane. Da allora, ogni anno, è [un anniversario importante](https://it.crimethinc.com/2018/12/17/ill-always-remember-the-6th-of-decemb er-a-report-from-athens-greece-on-the-ten-year-anniversary-of-the-murder-of-alexis) .
+
+Proprio come il [17 novembre](https://it.crimethinc.com/2020/12/01/grecia-nuova-democrazia-e-opportunismo- pandemico-il-lockdown-riprende) , il 6 dicembre 2020 ha visto un attacco ai nostri movimenti con la scusa delle precauzioni pandemiche. Il 6 dicembre, la Polizia ha istituito un perimetro intorno al quartiere di Exarchia, e un ulteriore perimetro interno di sicurezza extra è stato allestito direttamente intorno al memoriale per Alexis Grigoropolous, in modo palesemente irrispettoso alla sua memoria. Gli agenti hanno risposto ai pacifici tentativi di anziani simpatizzanti di lasciare fiori al memoriale con minacce di violenza; in un caso [ripreso in un video](https://kolektiva.media/videos/watch/fa3bec6d-9ecc-4a4d-b3d6-7b888d50ad00) , un ufficiale della MAT viene visto prendere dei fiori e spaccarli prima di gettarli per terra. Ogni tentato corteo è stato attaccato. Quel giorno, i poliziotti greci hanno effettuato oltre cento arresti. Nonostante ciò, a dispetto delle misure draconiane imposte dallo Stato, le persone hanno coraggiosamente partecipato a cortei e manifestazioni per commemorare Alexis e l'insurrezione che seguì al suo assassinio nel dicembre 2008.
+
+[[https://player.vimeo.com/video/502083433?title=0&amp;byline=0&amp;portrait=0 Un agente di Polizia che distrugge in modo derisorio i fiori lasciati dalle persone in lutto al memoriale di Alexis Grigoropoulos, il giovane assassinato dalla Polizia nel 2008.]]
+
+Poco prima del 6 dicembre, alcune persone hanno cercato di esporre uno striscione in memoria di Alexis davanti al Parlamento di Atene, solo per essere attaccati agenti della squadra Delta e da lacrimogeni. Nel corso della giornata, un altro piccolo gruppo ha tentato di reggere uno striscione e cantare a Exarchia. Anche la Polizia li ha attaccati, lanciando contro alcuni di loro una granata stordente all'interno di un edificio, fatto estremamente pericoloso. I piccoli cortei sono stati affrontati in modo simile in tutto il Paese, da Creta alla Grecia settentrionale, mentre lo Stato cercava di sopprimere questa tradizione ribelle. Tuttavia, marce autonome si sono svolte fuori dal centro di Atene e in tutta la Grecia, mentre striscioni e graffiti in tutto il Paese hanno affermato il nostro amore per la libertà.
+
+Il 6 dicembre, un gruppo, di cui avrebbero fatto parte un’ottantina di persone, ha attaccato una stazione di Polizia a Colonos, Atene, mandando alcuni agenti in ospedale per ferite lievi. I poliziotti hanno arrestato una donna, che rischia di dover affrontare accuse penali; fortunatamente, è stata rilasciata in attesa del processo. Il giorno seguente, presso memoriale di Alexis ad Atene, un centinaio persone hanno retto striscioni, intonato slogan e deposto fiori e candele. Il corteo è stato disperso poco dopo il suo inizio dalla Polizia antisommossa che ha fatto sparpagliare le persone in tutta Exarchia, lasciando però un gruppo di circa 40 elementi bloccato all'interno di un edificio circondato su tutti i lati dalla Polizia. Per fortuna - probabilmente temendo rappresaglie per la brutalità inflitta il giorno prima e perché la stampa nei paraggi stava guardando – gli agenti hanno permesso al gruppo di andarsene indisturbato.
+
+Nonostante la brutalità e la repressione del 6 dicembre, non sono stati in grado di soffocare le nostre voci, né di sopprimere il ricordo di Alexis. Il nostro amore per la libertà è più sincero della mentalità mercenaria di coloro che servono lo Stato e la classe dirigente. Ogni espressione commemorativa e ribelle, grande o piccola che fosse, è stata un atto di coraggio in un momento in cui il semplice uscire di casa comportava dei rischi. Per molti versi è stata una giornata dura e triste ma non importa quanto intensa sia la repressione statale, non rinunceremo mai alle nostre convinzioni rivoluzionarie, non dimenticheremo mai coloro che sono stati assassinati o imprigionati, non perdoneremo mai i responsabili. Alexis vive nei nostri cuori e nelle nostre azioni.
+
+[[https://cdn.crimethinc.com/assets/articles/2021/01/19/4.jpg Il memoriale ad Alexis, vuoto a dicembre grazie alla mirata repressione della Polizia che ha approfittato del lockdown.]]
+
+# Repressione
+
+Il 6 dicembre è stato fermato anche un compagno francese noto come Errol. Era già stato arrestato ripetutamente nel corso di varie azioni; questa volta è però stato portato al carcere Petroralli come immigrato, anche se cittadino dell'Unione Europea. Avviare un procedimento di espulsione come questo contro un anarchico è un atto senza precedenti: a prescindere dal fatto che ci interessi la Legge, è degno di nota il fatto che sia illegale secondo la politica dell'UE. Pochi giorni dopo, senza processo né preavviso, Errol è stato deportato in Francia. Gli sforzi, le azioni e i graffiti di solidarietà continuano in tutto il Paese ma fin dove la Grecia si spinge a inviare un messaggio ai non greci nel movimento è allarmante.
+
+Da una dichiarazione dell'assemblea di solidarietà con il compagno anarchico Errol:
+
+*L'arresto di Errol rappresenta una nuova escalation repressiva da parte dello Stato, a dimostrazione che il perseguimento di reati può portare alla reclusione e alla deportazione di soggetti politici. Lo stato di paralisi e di decimazione della resistenza sociale deve spezzarsi e la lotta perché il processo al nostro compagno cessi è un altro passo in questa direzione.*
+
+[[https://cdn.crimethinc.com/assets/articles/2021/01/19/5.jpg Graffiti che dicono "Giù le mani dall'anarchico Errol."]]
+
+Attualmente, otto persone sono accusate di reato per un'azione contro il Preside della Facoltà di Economia, responsabile di aver [evacuato un centro sociale locale e lo squat Vancouver](https://it.crimethinc.com/2019/12/25/buona-crisi-e-felice-nuova-paura-repre ssione-e-resistenza-in-grecia-dicembre-2019-1) . Una campagna a sostegno del decano umiliato ha mobilitato i sostenitori di Nuova Democrazia che sono rimasti scioccati nel vedere un uomo bianco umiliato per essere stato costretto a indossare un cartello che diceva "solidarietà agli squat." Hanno offerto una ricompensa di centomila euro per informazioni su chi potesse essere responsabile: una cifra considerevole, soprattutto nel bel mezzo di una crisi economica. La Polizia ha radunato persone a caso, con pochissime prove oltre a sostegno del fatto che abbiano legami con il movimento. A prescindere da ciò, le accuse sono molto significative ed è probabile che seguirà una campagna di sostegno e anti-repressione a lungo termine. [Cliccate qui]( https://www.firefund.net/s8a?fbclid=IwAR3BKHImdg2DmmfZTUlSpqdGDHA0gOAolBjZa4lH45UrYfnt sULrmx2FcVs) per conoscere i modi per donare, sostenere, scoprire altro sul caso e mostrare solidarietà.
+
+# Condizioni carcerarie
+
+I prigionieri di tutto il Paese continuano a ribellarsi in mezzo a condizioni igieniche, e non solo, per colpa delle quali in molti rischiano di contrarre COVID-19. Il Ministero della Giustizia continua a investire risorse in tutto ciò che riguarda il carcere, tranne che per la salute dei detenuti stessi.
+
+Dimitris Koufontinas, il prigioniero politico dell’Organizzazione Rivoluzionaria 17 novembre che deve scontare una lunga pena, ha intrapreso uno sciopero della fame, chiedendo condizioni migliori e di essere trasferito nella prigione di Korydallos ad Atene per essere più vicino alla sua famiglia e ai suoi amici. Dal 16 gennaio 2021, parallelamente a una più ampia campagna di sostegno del movimento di solidarietà dei prigionieri, Nikos Maziotis del gruppo Lotta Rivoluzionaria e Giannis Dimitrakis [hanno iniziato uno sciopero della fame]( https://athens.indymedia.org/post/1609685/) in solidarietà con Dimitris fino a quando le sue richieste non saranno soddisfatte. [Polykarpos Georgiadis e Vaggelis Stathopoylos](https://athens.indymedia.org/post/1609694/) si sono uniti a loro il 18 gennaio 2021. Gli scioperi della fame stanno diventando più frequenti nelle carceri greche a causa del peggioramento delle condizioni per colpa del COVID-19.
+
+# Università
+
+La Polizia ha fatto irruzione in un edificio del dormitorio studentesco che il movimento stava utilizzando poiché riunirsi non solo è illegale ma logisticamente sempre più complicato a causa del lockdown e dello sgombero degli squat. Questa non è la prima volta che degli agenti effettuano un raid in un dormitorio ma questa volta hanno usato droni e altre tecnologie che non erano mai state viste prima. Hanno fatto volare gli apparecchi da una finestra all'altra degli alloggi per studenti, chiedendo ai residenti di evacuare l'edificio. Persino la stampa istituzionale ha descritto i poliziotti come presi bene nello sperimentare i loro nuovi giocattoli.
+
+Studenti e insegnanti hanno già tentato di manifestare contro il dispiegamento di nuove forze di Polizia nei campus, solo per essere vittime di kettling e minacciati di arresto per violazioni legate ai divieti di assembramento e al lockdown. Il kettling di centinaia di persone in nome della prevenzione della trasmissione del virus è un altro esempio assurdo della situazione orwelliana che stiamo vivendo qui.
+
+[[https://cdn.crimethinc.com/assets/articles/2021/01/19/1.jpg La Polizia tollera la folla in Ermou Street, la parte di Atene più simile a Times Square a New York. Tali raggruppamenti sono tollerati solo quando impegnati nel consumismo.]]
+
+# Il 2021
+
+Di solito, la vigilia di Capodanno vede imponenti dimostrazioni di rumore nelle carceri di tutta la Grecia ma queste sono state riprogrammate a causa del coprifuoco e delle inevitabili multe e della repressione, poiché i quartieri e le regioni in cui si trovano le prigioni sono generalmente inospitali per anarchici e antifascisti. Tuttavia, pochi minuti prima del nuovo anno, un'esplosione ha causato danni significativi all'edificio del quartier generale della Polizia a Kipseli, Atene.
+
+Felice nuova paura dalla Grecia!
+
+Vi preghiamo di dedicare un momento per donare al [fondo di solidarietà in corso](https://www.firefund.net/solidarfund) per i rivoluzionari perseguitati e imprigionati in Grecia.
