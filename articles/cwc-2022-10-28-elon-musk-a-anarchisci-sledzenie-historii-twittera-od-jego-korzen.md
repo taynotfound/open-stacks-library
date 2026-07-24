@@ -1,0 +1,75 @@
+---
+title: "Elon Musk, A Anarchiści"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/10/28/elon-musk-a-anarchisci-sledzenie-historii-twittera-od-jego-korzeni-jako-narzedzia-protestu-do-przejecia-przez-elona-muska"
+---
+
+Elon Musk objął w posiadanie Twittera, twierdząc, że uczyni z niego „wspólny cyfrowy miejski plac”. Jaki plac miejski jest własnością jednego plutokraty? Plac w mieście fabrycznym — albo w feudalnym latyfundium. Co to będzie oznaczać dla zwykłych ludzi, którzy polegają na platformach takich jak Twitter, aby móc komunikować się i organizować w erze cyfrowej?
+
+# Rozładowanie napięć w klasie rządzącej
+
+Konflikty, które rozegrały się w obrębie klasy kapitalistycznej podczas prezydentury Trumpa, skutecznie postawiły raczkującą koalicję nacjonalistów i kapitalistów starego typu (takich jak lobby naftowe) przeciwko partyzantom neoliberalnego biznesu, którego przykładem jest zdecydowana większość Doliny Krzemowej. Gdyby nie te wewnątrzklasowe konflikty, wysiłki Trumpa, by skonsolidować kontrolę nad rządem USA dla jego szczególnej marki nacjonalistycznego autorytaryzmu, mogłyby się już udać. Ruchy oddolne stawiały opór polityce Trumpa i poparciu ulicy, ale Dolina Krzemowa również wzięła udział w konfrontacji, czego kulminacją było usunięcie Trumpa z platformy przez Twittera w następstwie [nieudanej próby zamachu stanu](https://crimethinc.com/2022/01/06/january-6-first-as-farce-next-time-as-tragedy-what-if-we-knew-we-would-face-another-coup) z 6 stycznia. To podkreśliło to, co było jasne już od [lata 2020](https://crimethinc.com/2021/01/20/the-trump-years-the-road-from-january-20-2017-to-january-20-2021-a-chronology-of-resistance) roku: Trump nie zbudował wystarczającego poparcia wśród klasy kapitalistycznej, aby utrzymać w rękach władzę.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/10/28/3.jpg Decyzje poprzednich administratorów Twittera w czasach Trumpa ujawniły linie podziału w obrębie klasy kapitalistycznej.]]
+
+Co by było, gdyby Trump był w stanie nawiązać współpracę z [masą krytyczną](https://161crew.bzzz.net/lewicowcy-poza-ukraina-sa-przyzwyczajeni-do-sluchania-tylko-ludzi-z-moskwy-wywiad-z-anarchosyndykalistami-we-wschodniej-ukrainie/) miliarderów z Doliny Krzemowej? Czy sprawy potoczyłyby się inaczej? To ważne pytanie, ponieważ trójstronny konflikt między nacjonalistami, neoliberałami i partycypacyjnymi ruchami społecznymi jeszcze się nie skończył.
+
+Ujmując to w zwulgaryzowanych kategoriach dialektycznych:
+
+- **Teza**: Dążenie Trumpa do utrwalenia autorytarnego nacjonalizmu.
+- **Antyteza**: opozycja ze strony neoliberalnych potentatów z Doliny Krzemowej.
+- **Synteza**: Elon Musk kupuje Twittera.
+{: .darkred}
+
+Rozumiane w ten sposób przejęcie Twittera przez Muska nie jest tylko kaprysem pojedynczego plutokraty — jest to również krok w kierunku rozwiązania niektórych sprzeczności wewnątrz klasy kapitalistycznej, aby lepiej ustanowić jednolity front przeciwko robotnikom i wszystkim innym, którzy są ofiarami przemocy systemu kapitalistycznego. Jakiekolwiek zmiany wprowadzi Musk, z pewnością będą one odzwierciedlać jego klasowe interesy jako najbogatszego człowieka świata.
+
+Spośród wszystkich gigantów mediów społecznościowych — mimo notorycznej obecności Trumpa na tej platformie — administratorzy Twittera byli prawdopodobnie mniej przychylni agendzie Trumpa niż administratorzy Facebooka czy Youtube’a. Podczas gdy Mark Zuckerberg [wielokrotnie spotykał się](https://www.theguardian.com/commentisfree/2019/nov/22/surprised-about-mark-zuckerbergs-secret-meeting-with-trump-dont-be) z Trumpem i jego skrajnie prawicowymi zwolennikami, takimi jak Tucker Carlson, a Facebook i Instagram przychyliły się do żądań skrajnej prawicy, by [zakazać](https://crimethinc.com/2020/08/19/on-facebook-banning-pages-that-support-crimethinccom-and-the-digital-censorship-to-come) anarchistom i antyfaszystom [wstępu na swoje platformy](https://crimethinc.com/2020/12/21/surviving-the-social-media-crackdown-the-instagram-ban-and-how-to-keep-following-us), Twitter banował faszystów co najmniej tak samo chętnie, jak anarchistów i innych aktywistów. W tym czasie spekulowaliśmy, że może to być, ponieważ Twitter był nadal kierowany przez oryginalnych założycieli.
+
+Prześledźmy dzieje Twittera od jego oddolnych początków jako narzędzia protestu dla aktywistów, aż do przejęcia przez Muska, szkicując historię kapitalistycznego przejęcia Internetu w kapsułce.
+
+***
+
+# Innowacja i kooptacja
+
+Wraz z zakupem Twittera przez Muska widzimy zakończenie cyklu innowacji i kooptacji w dziedzinie komunikacji. Pod koniec XX wieku dominujące modele polityczne i technologiczne były monolityczne i jednokierunkowe: telewizja sieciowa, masowe partie polityczne. W odpowiedzi anarchiści i inni buntownicy eksperymentowali z niezależnymi mediami i podziemnymi sieciami, tworząc innowacyjne poziome i zdecentralizowane modele, takie jak indymedia.org. Korporacje technologiczne ostatecznie spieniężyły te modele jako media partycypacyjne Internetu 2.0, takie jak Facebook. Jednak od przełomu wieków do [powstania w 2020 r](https://crimethinc.com/2020/06/17/snapshots-from-the-uprising-accounts-from-three-weeks-of-countrywide-revolt)., utrzymujące się horyzontalne i partycypacyjne aspekty internetu w ogóle i mediów społecznościowych w szczególności nadal wzmacniają pozycję tych, którzy dążyli do osiągnięcia większego samostanowienia — wystarczy wspomnieć [graffiti](https://www.flickr.com/photos/international_center_for_transitional_justice/5413612600) „Dziękuję ci Facebooku” w Tunezji po tak zwanych powstaniach „Arabskiej Wiosny” w latach 2010-2011.
+
+W ciągu ostatniej dekady korporacje i rządy wprowadziły jednak coraz więcej nadzoru i kontroli w sieci. Przejęcie Twittera przez Muska jest najnowszym etapem reakcyjnego przykręcania śruby o ponurych konsekwencjach.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/10/28/1.jpg Luty 2011: graffiti w Tunisie po obaleniu prezydenta Ben Alego. Zdjęcie autorstwa Habiba Nassara.]]
+
+Musk i jego koledzy postrzegają kapitalizm jako merytokrację, w której najsprytniejsi i najbardziej pracowici konkurenci nieubłaganie pną się na szczyt. Stąd, przypuszczalnie, ma pochodzić ich własny sukces.
+
+Oczywiście, jeśli Musk chciałby udowodnić, że jego sukces nie jest jedynie konsekwencją przywilejów i szczęścia, fortuny i dobrej passy, mógłby to łatwo wykazać, rozdając swój majątek, zrywając więzi społeczne, zmieniając nazwisko i powtarzając po raz drugi swoje rzekome wyczyny od szmatek do bogactwa. Gdyby był w stanie wspiąć się po raz drugi na szczyt piramidy bez korzyści wynikających z dorastania jako biały w Południowej Afryce w czasach apartheidu (odkładając na razie na bok kwestię szmaragdowych inwestycji jego ojca), być może musielibyśmy udzielić posłuchu jego twierdzeniom, że rynek wyniósł go ze względu na jego osobiste cechy — choć nadal nie byłoby to dowodem na to, że kapitalizm nagradza wysiłki, które są [najkorzystniejsze](https://crimethinc.com/books/work) dla ludzkości.
+
+Zgodnie z narracją Doliny Krzemowej, platformy takie jak Twitter są wynalazkami indywidualnych przedsiębiorców, napędzanymi przez kapitał finansowy sprytnych inwestorów.
+
+Jednak Twitter nie powstał po prostu, w pełni ukształtowany jak Atena, z głowy założyciela firmy Jacka Dorseya. W rzeczywistości było to skromne udoskonalenie modelu już zademonstrowane przez [TXT-mob,](http://en.wikipedia.org/wiki/TXTMob) program dla wiadomości tekstowych opracowany przez I[nstitute for Applied Autonomy](https://web.archive.org/web/20150316164355/http://www.appliedautonomy.com/txtmob.html) dla [protestów na Demokratycznej i Republikańskiej Konwencji Narodowej](https://crimethinc.com/texts/atoz/demonstrating.php). [Blaine Cook](https://twitter.com/blaine) i [Evan Henshaw-Plath](https://twitter.com/rabble), anarchistyczni programiści, którzy pracowali z Dorseyem w jego poprzedniej firmie Odeo, pomogli [dopracować TXTmob](https://medium.com/@tadhirsch/txtmob-and-twitter-a-reply-to-nick-bilton-eedbde2abbcd), a później zabrali ten model ze sobą na rozmowy z Dorseyem, które dały początek Twitterowi.
+
+Jeśli bezustanna gorączkowość mediów społecznościowych w ogóle, a Twittera w szczególności, może być wyczerpująca, to należało się tego spodziewać — infrastruktura Twittera została pierwotnie zaprojektowana do komunikacji ulicznej podczas masowych mobilizacji o wysokim zagrożeniu, w których informacje muszą być przekazywane natychmiast, sprowadzone do najistotniejszych elementów. Nie jest przypadkiem, że pomimo swoich wad, platforma nadal jest przydatna dla ulicznych aktywistów i dziennikarzy konfliktowych.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/10/28/2.jpg Stare dobre czasy, kiedy pro-Twitterowe graffiti pojawiło się na placu Tahrir podczas egipskiej rewolucji.]]
+
+Chodzi tu o to, że innowacyjne modele niekoniecznie wyłaniają się z komercyjnej przedsiębiorczości Wielkich Ludzi historii i ekonomii. Częściej wyłaniają się w trakcie zbiorowych wysiłków mających na celu rozwiązanie jednego z problemów stworzonych przez kapitalistyczny porządek. [Opór jest motorem historii](https://crimethinc.com/2010/08/23/fighting-in-the-new-terrain). Następnie oportuniści tacy jak Musk wykorzystują ogromną dźwignię ekonomiczną, jaką daje im rynek napędzany przez zysk, aby wykupić nowe technologie i ostatecznie obrócić je przeciwko ruchom i środowiskom, które pierwotnie je wytworzyły.
+
+Możemy wyróżnić dwa etapy kapitalistycznego zawłaszczania modelu TXTmob. W pierwszej fazie struktura, która została pierwotnie zaprojektowana przez wolontariuszy na użytek zwykłych protestujących, została przekształcona w korporację notowaną na giełdzie, mniej więcej w tym samym czasie, gdy otwarte przestrzenie wczesnego Internetu były kolonizowane przez komercyjne systemy nadzoru Internetu 2.0. W drugiej fazie ta notowana na giełdzie korporacja została przekształcona w prywatną zabawkę jednego uprawnionego potentata — z konsekwencjami, które dopiero poznamy.
+
+Musk twierdzi, że jego celem jest otwarcie platformy na szerszy zakres wypowiedzi. W praktyce nie ma czegoś takiego jak „[wolność słowa](https://crimethinc.com/2017/01/26/this-is-not-a-dialogue-not-just-free-speech-but-freedom-itself)” w czystej postaci — każda decyzja, która może kształtować warunki dialogu, nieuchronnie wpływa na to, kto może uczestniczyć, kto może być słyszany i co może zostać powiedziane. Mimo tego, co możemy im zarzucić, poprzedni moderatorzy treści na Twitterze nie przeszkadzali platformie w obsłudze ruchów oddolnych. Musimy jeszcze zobaczyć, czy Musk będzie celowo brał na cel aktywistów i organizatorów, czy po prostu pozwoli tłumowi reakcjonistów wykonać to zadanie, ale to byłoby bardzo naiwne wierzyć jego słowu, że chce uczynić Twitter bardziej otwartym.
+
+[[https://twitter.com/Esqueer_/status/1583225288481046528]]
+
+# Miliarder kontra anarchiści
+
+Wyobraź sobie, że nie wierzysz, że Elon Musk zasługuje na więcej władzy nad tym, co dzieje się na Twitterze niż około 238 milionów ludzi, którzy używają go dzisiaj. Dla celów tego eksperymentu myślowego wyobraź sobie, że wierzysz, że nikt nie zasługuje na posiadanie tak nadmiernej władzy nad środkami, za pomocą których ludzie komunikują się ze sobą. Innymi słowy, wyobraź sobie, że jesteś [anarchistą](https://tochangeeverything.com/).
+
+Co możesz zrobić, aby ludzie mogli kontrolować technologie, które nas łączą? Czy możesz stworzyć nowe platformy, które odpowiadają bezpośrednio tym, którzy z nich korzystają? Co ważniejsze, czy możesz je spopularyzować, odciągając użytkowników od zamkniętych zagród korporacyjnych mediów społecznościowych? Czy można przyciągnąć ludzi do siebie na innych forach, przestrzeniach, które nie mogą być kupione i kontrolowane przez miliarderów?
+
+W efekcie przejęcie Twittera przez Muska wraca do lat 80. ubiegłego wieku, kiedy to główne media komunikacyjne były całkowicie kontrolowane przez wielkie korporacje. Różnica polega na tym, że dzisiejsze technologie są raczej partycypacyjne niż jednokierunkowe: zamiast widzieć po prostu dziennikarzy i celebrytów, użytkownicy widzą reprezentacje siebie nawzajem, starannie wyselekcjonowane przez tych, którzy zarządzają platformami. Jeśli w ogóle, to sprawia, że pretensje mediów społecznościowych do reprezentowania życzeń społeczeństwa jako całości są bardziej podstępne i przekonujące niż spektakle telewizji sieciowej mogłyby być kiedykolwiek.
+
+Sam Twitter jest prawdopodobnie straconą sprawą, ale nie powinniśmy pochopnie rezygnować z żadnego terytorium, za pośrednictwem którego moglibyśmy się komunikować i organizować przeciwko naszym ciemiężcom. W globalnym, sieciowym świecie nasi przeciwnicy w rządach, korporacjach i ruchach reakcyjnych będą nadal korzystać z technologii cyfrowej, aby działać z pełną szybkością i koordynacją. Nie możemy sobie pozwolić na to, by nie robić tego samego, nawet jeśli w dłuższej perspektywie szukamy znacznie bogatszych form połączenia niż wszystko, co może zapewnić technologia cyfrowa.
+
+To ty stajesz przeciwko miliarderom. Mają do dyspozycji całe bogactwo i władzę najbardziej potężnego imperium w historii układu słonecznego. Wszystko, co ty masz do dyspozycji to twoja własna pomysłowość, solidarność twoich towarzyszy i desperacja milionów takich jak ty. Miliarderzy odnoszą sukcesy, koncentrując władzę w swoich rękach kosztem wszystkich innych. Abyście mogli odnieść sukces, musicie pokazać, jak każdy może stać się potężniejszy. W tym konkursie ścierają się ze sobą dwie zasady: z jednej strony indywidualna agresja kosztem wszystkich istot żywych; z drugiej strony potencjał jednostki do zwiększenia samostanowienia wszystkich istot ludzkich, wszystkich istot żywych.
+
+Dobrą wiadomością jest to, że ich narracja o tym, skąd pochodzi innowacja, jest kłamstwem. Anarchiści mieli więcej wspólnego z powstaniem Twittera niż plutokraci tacy jak Musk. Możemy stworzyć inne platformy, inne punkty wyjścia do połączenia, inne strategie zmieniania świata. Musimy.
+
+[^1]: We could go back even further to the protests at the [summit of the European Union in Gothenburg](https://goteborg.squat.net/brochure.html), June 14-16, 2001, during which some participants organized a "communicationcentral" using a crude program to mass-distribute SMS messages. Everyone could subscribe to the service, but the infrastructure was not decentralized, which made it vulnerable. The police carried out a raid and eight people served a year or more apiece behind bars. Similar raids followed during protests at the [2008 Republican National Convention](https://crimethinc.com/2009/05/05/going-it-alone) in St. Paul and the [2009 G20 summit](https://crimethinc.com/2009/10/07/g20-mobilization-preliminary-assessment) in Pittsburgh before the authorities shifted from trying to prosecute those providing information to the general public during protests to targeting those who inadvertently gave away too much information about themselves via social media.

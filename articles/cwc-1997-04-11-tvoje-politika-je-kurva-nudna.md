@@ -1,0 +1,40 @@
+---
+title: "Tvoje politika je kurva nudná"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/1997/04/11/tvoje-politika-je-kurva-nudna"
+---
+
+Postav se k tomu čelem, tvoje politika je kurva nudná.
+
+Víš, že je to pravda. Proč by se jinak všichni tak cukali, když to slovo vyslovíš? Proč je účast na tvém diskusním klubu anarchokomunistické teorie na svém rekordním minimu? Proč se ještě utlačovaný proletariát nevzpamatoval a nepřidal se ke tvému boji za osvobození světa?
+
+Možná že po letech snahy o jejich vzdělávání v jejich útlaku jsi za jejich podmínky začal vinit je samotné. Musí chtít být rozdrceni patou kapitalistického imperialismu, proč by jinak neměli zájem o tvé politické úsilí? Proč se k tobě ještě nepřidali a neupoutali se k nábytku z mahagonu, neskandují slogany na pečlivě připravených a zorganizovaných protestech a nejsou stálými návštěvníky anarchistických knihkupectví? Proč si nesedli a nenaučili se veškerou terminologii nutnou ke skutečnému porozumění komplexity marxistické ekonomické teorie?
+
+Skutečnost je taková, že tvá politika je pro ně nudná, protože pro ně je skutečně irelevantní. Vědí, že tvé zastaralé způsoby protestu – tvé pochody, v rukou držené cedule a shromáždění – nemají už potenciál způsobit opravdovou změnu, protože se staly tak předvídatelnou součástí statutu quo. Tvůj post-marxistický žargon je odrazuje, protože doopravdy je jazykem akademických diskurzů, a ne zbraní schopnou podkopávat systémy kontroly. Vědí, že tvé neustálé rozbroje, štěpící se skupiny a nekonečné hádky o pomíjivé teorie nemohou ovlivnit žádnou reálnou změnu v jejich každodenním světě. Vědí, že ať úřaduje kdokoliv, ať jsou zákony v knihách jakékoliv, nehledě na to pod kterým „ismem“ pochodují intelektuálové, obsah jejich života zůstane stejný. Oni – my – víme, že naše nuda je důkazem, že tato „politika“ není klíčem ke skutečné proměně života. Naše životy jsou už tak dost nudné!
+
+A ty to víš taky. Pro kolik z vás je politika povinností? Něco, do čeho se zapojuješ jen protože cítíš, že bys měl, když je milion věcí, které bys dělal radši? Tvé dobrovolničení – je to tvůj oblíbený koníček, nebo to děláš z pocitu povinnosti? Proč si myslíš, že je těžké motivovat ostatní, aby dobrovolničili tak jako ty? Mohlo by to být protože je to především pocit viny, co tě nutí plnit svou „povinnost“ být politicky aktivní? Možná že si trochu okořeníš aktivismus tím, že se pokoušíš (vědomě či ne) dostat se do problému s autoritami, nechat se zatknout: ne protože by to bylo praktické pro věc, ale protože to dělá věci více vzrušující, protože to připomene romantiku neklidných momentů, které jsou teď již dávno minulostí. Cítil jsi někdy, že se účastníš rituálu, dlouho zavedené tradice okrajových protestů, které slouží skutečně jen k posílení pozice hlavního proudu? Netoužil jsi někdy potají uniknout nehybnosti a nudě svých politických „povinností“?
+
+Není divu, že se k tobě nikdo nepřidal ve tvých politických snahách. Možná si říkáš, že je to těžká, nevděčná práce, ale že někdo ji přece dělat musí. Odpověď je že, no, NE.
+
+Všem nám ve skutečnosti děláš medvědí službu se svou únavnou, zdlouhavou, nudnou politikou. Faktem je, že je není nic důležitějšího než politika. NE politika Americké „demokracie“ a práva, politika toho, kdo je zvolen státním zákonodárcem, aby podepsal ty samé novely a udržoval při životě ten samý systém. Ne politika anarchisty „zapletl jsem se s radikální levicí, protože mě baví hádat se o nepodstatných detailech a rétoricky psát o nedosažitelné utopii“. Ne politika žádného lídra nebo ideologie, která vyžaduje „obětovat se pro věc“. Ale politika našeho každodenního života. Když politiku oddělíš od současných, každodenních zkušeností individuálních žen i mužů, stává se naprosto nepodstatnou. Vskutku, stává se soukromou doménou bohatých, zpohodlněných intelektuálů, kteří se mohou zatěžovat s tak ponurými teoretickými věcmi. Když se zapojíš do politiky z pocitu povinnosti a děláš z politické akce nudnou zodpovědnost, namísto vzrušující hry, kterou stojí za to hrát už samu o sobě, odrazuješ lidi, jejichž životy už jsou příliš fádní pro jakoukoliv další nudu. Když z politiky děláš věc bez života, věc bez radosti, energii vysávající povinnost, stává se z ní pro lidi jen další břemeno, místo nástroje, který jim ulehčí. A tak kazíš ideu politiky lidem, pro které by měla být nejdůležitější. Každý má totiž zájem na tom, ptát se co po životě chce a jak toho dosáhne. Ale ty jim dáváš dojem, že je politika mizerná, sebestředná, zbytečná, nesmyslná, hra střední třídy/bohémů, hra, která nemá žádný význam pro život, který žijí.
+
+Co by mělo být politické? Zda si užíváme, co děláme pro zajištění obživy a přístřeší. Zda cítíme, že naše každodenní interakce s přáteli, sousedy a kolegy jsou naplňující. Zda máme možnost žít každý den tak, jak bychom si přáli. A „politika“ by se měla skládat nejen z diskuse těchto otázek, ale i z  akce, která přímo zlepší naše životy v bezprostřední současnosti. Akce, která je sama zábavná, vzrušující a radostná – protože politická akce která je nudná, únavná a tísnivá, může do našeho života přinést jen nudu, únavu a tíseň. Už žádný čas by neměl být zahozen debatováním problémů, které budou bezvýznamné, když následující den půjdeme do práce. Už žádné předvídatelné rituální protesty, u kterých je autoritám až příliš jasné, co s nimi, které tak dobře znají; už žádné nudné rituální protesty, které potenciálním dobrovolníkům nebudou připadat jako zábavný způsob strávení nedělního odpoledne – ty nás očividně nedostanou nikam. Už nikdy bychom se neměli „obětovat pro věc“. Protože my sami, štěstí v našich vlastních životech a životech našich bližních, jsou tím, za co bychom měli bojovat!
+
+Poté co učiníme politiku relevantní a poutavou, zbytek se přidá. Ale z vyčerpávající převážně teoretické a ritualizované politiky nic nevzejde. Toto bychom si neměli vyložit tak, že by nás neměl zajímat blahobyt zvířat, lidí nebo ekosystémů, se kterými nemáme kontakt v našem každodenním životě. Ale základní kámen naší politiky musí být konkrétní: musí být bezprostřední, každému musí být jasné proč stojí za to a musí být zábavou sám o sobě. Jak můžeme přinést pozitivitu do života druhých, pokud se ze života samy neradujeme?
+
+Abychom to na chvíli zkonkretizovali: Strávit odpoledne sháněním jídla, které by jinak bylo obchody vyhozeno a podávat ho hladovým a nebo těm kteří jsou unavení z toho pracovat jen aby měli na jídlo – to je dobrá politická akce, ale jen pokud tě baví. Pokud ji děláš s přáteli nebo při ní potkáváš nové přátele, pokud se při ní zamiluješ nebo si s kamarády vyprávíte vtipné historky nebo se jen cítíš dobře, že jsi někomu ulehčil, to je dobrá politická akce. Na druhou stranu odpoledne strávené psaním naštvaného dopisu obskurnímu levicovému tabloidu s námitkou na fejetonistovo použití pojmu „anarcho-syndikalista“ ničeho nedosáhne - a ty to víš.
+
+Možná je čas na nové slovo pro „politiku,“ protože z toho starého jste udělali takovou nadávku.  Protože nikdo by neměl být odrazen, když mluvíme o tom jak společným jednáním zlepšíme naše životy.  A proto prezentujeme naše požadavky, které jsou nediskutabilní a musí být naplněny tak brzo jak je jen možné, protože nebudeme žít navěky.
+
+1. Dělej politiku znovu relevantní pro naše každodenní zážitky. Čím dále je od nás objekt našeho politického znepokojení, tím míň je pro nás relevantní, tím míň pro nás bude znamenat, tím míň bude reálný a naléhavý a tím víc bude politika únavná.
+
+2. Všechna politická aktivita musí být sama o sobě radostná a zábavná. Nemůžeš uhasit bezútěšnost více bezútěšností.
+
+3. K naplnění prvních dvou kroků je třeba vytvoření úplně nových metod a přístupů k politice. Stávající jsou zastaralé a překonané. Možná že nikdy nebyly dobré a právě proto je svět takový, jaký je.
+
+4. Bav se! Nikdy neexistuje výmluva proto nudit se… nebo být nudný!
+
+Připoj se k nám v přetvoření „revoluce“ na hru. Hru s nejvyššími sázkami co jde, ale i tak bezstarostnou, radostnou hrou.
+
+-Nadia C.

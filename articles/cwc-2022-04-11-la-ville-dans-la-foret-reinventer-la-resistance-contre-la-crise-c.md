@@ -1,0 +1,494 @@
+---
+title: "La ville dans la forêt"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/04/11/la-ville-dans-la-foret-reinventer-la-resistance-contre-la-crise-climatique-et-la-militarisation-de-la-police-1"
+---
+
+Depuis avril 2021, des activistes qui se battent contre le démantèlement de la police et la défense de l’environnement sont engagé.es dans une lutte acharnée contre la destruction d’une partie de la forêt d’Atlanta, en Géorgie. Le gouvernement souhaite y implanter un terrain d’entraînement pour la police et faciliter la construction d’un laboratoire de post-production sonore pour l’industrie du cinéma. Dans le texte qui suit, les personnes qui participent au mouvement font la chronique de l’année de résistance qui vient de s’écouler. Iels retraçent les victoires et les échecs du mouvement et font l’analyse des stratégies mises en oeuvre. La mobilisation à Atlanta s’inscrit dans la continuité directe des efforts faits après [le meurtre de George Floyd](/2020/06/17/snapshots-from-the-uprising-accounts-from-three-weeks-of-countrywide-revolt) pour penser de façon nouvelle les liens entre la lutte pour la défense de la terre et la lutte contre la police/la lutte abolitionniste. 
+
+Ce texte est adressé à tou.tes celleux qui se battent pour garder la terre habitable et mettre un terme à l’oppression policière: il fait le bilan et réfléchit aux leçons d’une année de mobilisation pour la défense de la forêt.
+
+> Quand un arbre se développe, il est tendre et souple. S’il est sec et dur, il meurt. La dureté et la force sont des compagnons de la mort. Souplesse et fragilité sont l’expression de la fraîcheur du vivant. Ce qui a durci ne gagnera jamais. »
+>
+> -[Stalker](https://www.youtube.com/watch?v=8qpgL6ndEQU), Andrei Tarkovsky
+{: .darkgreen}
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/4.jpg La forêt. ]]
+
+***
+
+# Défendre la forêt dans la ville
+
+La forêt d’Atlanta représente la [plus importante couverture boisée](https://www.atlantamagazine.com/list/life-atlanta-2040/still-the-city-of-trees) pour un centre urbain américain. La forêt de la South River en est la plus grande section ; elle est le « poumon » de la ville, capturant les émissions de carbone et ses ruissellements dans ses terres marécageuses et sa dense canopée. La forêt de la South River se rattache à d’autres zones forestières au sud de la ville et s’étend jusqu’à Decatur à l’est. On y aperçoit souvent des daims courir ou jouer dans les bois ; une expérience stupéfiante, surtout en ville. Loin des caméras de surveillance et des centres commerciaux, des adolescent.es se donnent rendez-vous, des fanatiques enfourchent leur VTT et des personnes âgées promènent leur chien.
+
+C’est ici que la mairie d’Atlanta, celle du comté de Dekalb et la Fondation de la police d’Atlanta ont décidé de construire un terrain d’entraînement. À côté, dans le parc de la crique retranchée (Intrenchment Creek Park), un scandaleux accord octroie des terres publiques aux Studios Blackhall qui souhaitent transformer leur complexe de post-production son en une entreprise gigantesque, la plus grande au monde. Ces projets vont détruire à terme la vie sauvage préservée par la forêt malgré sa proximité à la ville. La métropole toute entière, pour le moment à l’abri des pires conséquences de la crise climatique, sera exposée aux inondations, aux températures élevées, aux après-midis de brouillard humide au même titre que le reste du monde entré dans un siècle de crises climatiques et de désastres écologiques.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/17.jpg La forêt de la rivière sud. Légende : La forêt de la rivière sud-est est une idée ambitieuse visant à l’expansion des espaces verts à Atlanta. Elle représente un potentiel de 1,5ha de terre au sud-ouest d’Atlanta et au sud-ouest du comté de Dekalb. Depuis 2018 le Conservatoire de la Nature travaille à fédérer les énergies pour développer ce projet nécessaire. ]]
+
+L’endroit choisi par la Fondation de la police pour construire son terrain d’entraînement est aussi le site de la vieille Ferme-Prison d’Atlanta. Au 19ème siècle [les esclaves travaillaient cette terre](https://atlpresscollective.com/2022/04/04/1860-slave-census-record-for-george-key), volée aux Indiens Muscogees (les Creek) qui la nommaient _Weelaunee._ Pendant la Reconstruction, la terre a été exploitée en laiterie ; ensuite elle est devenue une prison où les détenus travaillaient aux champs ou s’occupaient des animaux dans des conditions inhumaines. Quelques-uns furent même lynchés. Y construire de nouvelles infrastructures carcérales perpétue une histoire faite de dépossessions et d’outrages.
+
+​Les opposants à ces projets considèrent le camp d’entraînement de la police—surnommé Ville des Flics— et les visées de Blackhall comme les deux visages d’une même reprise en main d’Atlanta. **En bref l’expansion de Blackwell exacerbera les disparités économiques et le désastre écologique pendant que la ville des flics entraînera la police à les protéger.**
+
+​Le mouvement mobilisé contre ces projets, autour des slogans _Défense de la Forêt_ et _À bas la ville des flics,_ a traversé plusieurs phases d’expérimentation, utilisant différentes tactiques et stratégies pour rester en phase avec ce qui se passait. Ces efforts ont permis de revitaliser la défense de l’environnement et la mobilisation pour le démantèlement de la police dans le sillage de la rébellion suite au meurtre de George Floyd.
+ 
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/16.jpg Old Atlanta Prison Farm. class:portrait ]]
+
+***
+
+# Repères historiques
+ 
+Un peu d’histoire pour comprendre le mouvement.
+
+## La méthode d’Atlanta (Atlanta Way)
+
+> “Selon les historiens, la méthode d’Atlanta plonge ses racines dans des réunions très secrètes entre chefs d’entreprises noirs et blancs où se négociaient des progrès en termes d’égalité raciale, pour éviter des manifestations publiques et préserver l’image d’une ville commerçante.
+>
+Ce qui, dans les années 60, a aidé la ville à surmonter la tourmente de la déségrégation et à devenir un leader national dans la lutte pour les droits civiques. Atlanta est maintenant la capitale économique du Sud-ouest. Cette réputation se maintient depuis des décennies grâce aux champions de l’Atlanta Way dans le business et le gouvernement. »
+>
+> –“[La méthode d’Atlanta, un idéal jamais entièrement réalisé](https://www.bizjournals.com/atlanta/news/2020/06/26/a-walk-together-the-atlanta-way.html),” *Atlanta Business Chronicle*
+
+La méthode d’Atlanta, comme on l’appelle ici, est un modèle d’organisation sociale qui remonte au début des années 60. Au moment où les noirs se mobilisaient dans le Sud profond après la seconde guerre mondiale, des chefs d’entreprises, propriétaires terriens, politiciens et magnats de l’industrie concluaient une alliance pour court-circuiter les combats visant à la [justice raciale dans la ville](https://www.ajc.com/news/atlanta-way-challenged-after-violent-night-protests/HWsEwkX0ZN6xD4kesoElSO). Ils espéraient qu’en augmentant la coopération entre les entreprises blanches et les affairistes noirs, ils pourraient devancer les demandes des masses noires exploitées sans trop endommager l’économie capitaliste d’après-guerre. Ce qui a apporté un pouvoir sans précédent à la classe dominante aux États-Unis après la destruction de l’économie européenne. Mis en place pendant la période Jim Crow et ses prolongements immédiats, la méthode d’Atlanta subordonnait les politiques publiques aux relations personnelles et aux arrangements d’arrière-cour des riches, une tendance à l’œuvre encore aujourd’hui.
+
+La stratégie de base de l’Atlanta Way pour contrer les insurrections implique que les noirs occupent des postes politiques, administratifs, policiers et soient présents dans l’industrie de la justice. En retour on attend d’eux qu’ils imposent des politiques répressives, des coupes budgétaires drastiques et des privatisations de masse dans les quartiers noirs ou défavorisés. De nombreux libéraux en Géorgie pensent que pour faire progresser l’égalité raciale il faut [créer des aides financières et industrielles](https://www.bizjournals.com/atlanta/news/2020/06/26/a-walk-together-the-atlanta-way.html) pour les promoteurs, les universités, les entreprises de construction et les investisseurs immobiliers. Le système patronal népotique —semblable à ce qu’on appelle le [clientélisme](https://en.wikipedia.org/wiki/Clientelism) dans d’autres parties du monde— est supposé encourager la formation d’une classe moyenne noire dynamique.
+
+Et pourtant les habitant.es noir.es d’Atlanta sont encore sur représenté.es dans les prisons de la ville, les statistiques de chômage, les queues pour les distributions alimentaires et les bureaux de probation. Toutes les constructions d’habitats sociaux ont été arrêtées dans la ville, les refuges pour sans-abris fermés et les quartiers historiquement noirs font face à un afflux sans précédent de locataires non noirs chassé.es d’autres villes ou de quartiers voisins plus chers par la hausse des loyers.
+
+La méthode d’Atlanta prolonge la période Jim Crow jusqu’à notre époque. Sans elle, Atlanta ne serait pas une destination privilégiée pour les profiteurs et les hommes d’affaire. En organisant les affaires de la ville à partir d’accords privés entre politiciens et capitalistes, en coordonnant les investissements et le commerce suivant des principes de privatisation et d’aides aux entreprises, les architectes de ce système ont fait passer les politiques néolibérales reaganiennes pour du gauchisme institutionnel. En les promouvant comme de l’antiracisme, les élites politiques privent les gens pauvres des outils nécessaires pour se battre contre la paupérisation. Sous couvert d’antiracisme, l’Atlanta Way met en oeuvre le pillage des ressources par les politiciens et leurs collègues dans les secteurs des affaires et des ONG.
+
+Aujourd’hui Atlanta est la ville la [plus inégalitaire](https://www.usnews.com/news/cities/articles/2020-09-21/us-cities-with-the-biggest-income-inequality-gaps) du continent américain et la méthode Atlanta commence à se désagréger. La résistance contre les brutalités de la police et le racisme a également une [longue histoire militante](https://en.wikipedia.org/wiki/1967_Atlanta_riots) ici et il est à espérer que les années à venir créeront un environnement hostile pour les cliques au pouvoir. C’est le contexte dans lequel nous pouvons anticiper une nouvelle vague de résistance à l’Atlanta Way venue d’en haut. Les investisseurs internationaux et les enclaves de plus en plus blanches et riches n’ont pas d’investissements à long terme dans le noyau urbain ; ils utilisent la ville comme un espace de profit grâce à ses faibles taxes et ses terrains peu chers. Mais la résistance viendra aussi d’en bas : des locataires, travailleur.es, étudiant.es, prisonnier.es, jeunes et habitant.es confronté.es aux expulsions et à la destruction de leurs logements. Les discours du siècle précédent ne réconcilieront plus les deux camps. Les dirigeant.es de la ville et son vaste réseau de bénévoles sont piégé.es entre deux forces conflictuelles qui peuvent les balayer dans des combats fratricides de plus en plus désespérés.
+
+# Les manifestations autour de la mort de George Floyd
+ 
+Les années Obama ont été témoin de plusieurs mouvements autonomes à grande échelle, comme Occupy Wall Street, la première vague de manifestations de Black Lives Matter déclenchées par la [révolte à Ferguson](/2019/08/09/looting-back-an-account-of-the-ferguson-uprising), et la lutte contre le pipeline Dakota Access.
+L’élection de Donald Trump a coïncidé avec une réaction d’extrême droite propulsée par les mèmes, les forums misogynes en ligne, la xénophobie, le nationalisme blanc et l’anti-élitisme. Ce qui a catalysé un mouvement antifasciste féroce. À son apogée, il a impliqué des [millions de personnes ordinaires](/2017/01/29/dont-see-what-happens-be-what-happens-continuous-updates-from-the-airport-blockades) ; mais les participant.es les plus actif.ves sont venu.es en grande partie des mêmes couches sociales que les mouvements de base précédents, tous plus ou moins en faveur d’un front commun avec les libéraux urbains et les progressistes contre l’extrême droite.
+
+[L’insurrection suite à la mort de George Floyd](/2020/06/17/snapshots-from-the-uprising-accounts-from-three-weeks-of-countrywide-revolt) a changé la donne. En quelques semaines, des dizaines de millions de personnes ont affronté la police, contestant directement le droit de l’État à [déterminer la sécurité des personnes](/2020/05/28/minneapolis-we-have-crossed-the-rubicon-what-the-riots-mean-for-the-covid-19-era) ou à maintenir les [discriminations dans l’accès aux ressources](https://www.npr.org/sections/codeswitch/2020/08/27/906642178/one-authors-argument-in-defense-of-looting).
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/1.jpg Atlanta, été 2020 : des journées inoubliables. ]]
+
+Fin mai 2020, les manifestations et les émeutes se sont répandues de Minneapolis au reste du pays, [jusqu’à Atlanta](https://itsgoingdown.org/frontliners-to-the-front-part-2). Pendant plusieurs semaines des milliers de personnes se sont affrontées à la police et aux gardes nationaux près du parc olympique du centenaire (Centennial Olympic Park), construisant des barricades, renvoyant des cartouches de gaz lacrymogène, transformant les pavés des trottoirs en projectiles. Par moments des foules ont fracassé des vitrines, braqué des hélicoptères de police au laser et lancé des feux d’artifice sur la police. Chaque jour, des dizaines de manifestations ont secoué la métropole et les [banlieues](https://www.onlineathens.com/story/news/state/2020/06/01/georgia-cities-rocked-by-protests-against-police-brutality/43079245).
+
+Le 12 juin 2020 deux policiers d’Atlanta ont tué Rayshard Brooks qui dormait dans sa voiture devant le Wendy’s. Les jours qui ont suivi, des groupes déterminés ont brûlé le restaurant. Les affrontements se sont poursuivis pendant des semaines autour du commissariat n°3 voisin, puis à Cherokee et Atlanta Avenue à Grant Park, inondant presque tous les soirs les rues résidentielles [de gaz lacrymogènes et d’explosions](https://reporternewspapers.net/2020/06/18/grant-park-neighborhood-condemns-weaponry-tactics-used-to-disperse-protesters). Un petit groupe de manifestants a également [occupé](https://illwill.com/at-the-wendys) les décombres brûlés du Wendy’s.
+
+Au milieu de cette agitation, le procureur général a mis en accusation l’officier Garrett Rolfe pour le meurtre de Rayshard Brooks. En réponse, des centaines d’agents de police ont posé des arrêts maladie, refusant de travailler et d’exercer leurs fonctions. De nombreux officiers ont quitté leur emploi en raison du stress généré par l’opposition populaire. Ils craignaient également les conséquences judiciaires de leur recours systématique à la violence.
+
+De début juin à fin 2022, plus de 200 officiers de police d’Atlanta ont démissionné, dont le chef de la police. Certains gardiens de la paix [sont partis](https://abcnews.go.com/US/protesters-vandalize-georgia-department-public-safety-headquarters-atlanta/story?id=71620199) après que les manifestants aient détruit leur quartier général le 4 juillet 2020. Des adjoints du shérif, des policiers des transports en commun et d’autres employés rattachés à la police ont également cherché un nouvel emploi. Le Bureau des enquêtes de Géorgie a envoyé des courriels pour recruter en masse des étudiants en sociologie, suggérant qu’eux aussi ont désespérément besoin de plus d’agents. Le système était face à une crise de légitimité et à un profond dilemme institutionnel dû à la répression exigée par les chefs d’entreprises blancs, les propriétaires, les associations commerciales et les sociétés immobilières internationales.
+
+C’est le contexte dans lequel la Ville d’Atlanta, la Fondation pour la Police d’Atlanta et le bureau de l’ancienne maire, Keisha Lance Bottom, ont lancé le projet de cette Ville des Flics. Mêlant nationalisme culturel et [appels à la paix](https://www.ajc.com/news/state--regional-govt--politics/atlanta-mayor-urges-violent-protesters-home/t22rY6BywWhnCxhi2QNxoK), la mairesse Bottoms appelait au calme pendant que ses agents [traînaient les étudiants hors de leurs voitures](https://www.dailymail.co.uk/news/article-9697629/Students-pulled-car-stunned-Atlanta-police-sue.html), frappaient les manifestants avec des matraques et lançaient des gaz lacrymogènes dans les rues bondées.
+
+Les conséquences de ces évènements sont encore sous-estimées par les commentateurs et les militant.es. Quelques-un.es ont décidé d’oublier la révolte ; d’autres se sont réfugié.es dans la commémoration ; d’autres encore poursuivent des [actions subversives](https://www.metamute.org/editorial/articles/cars-riots-black-liberation) isolées mais tout à fait légitimes.
+
+Pendant ce temps, le gouvernement local et fédéral, les groupements professionnels, les services de police et les milices armées ont travaillé sans relâche pour s’assurer qu’un soulèvement populaire ne se reproduise pas.
+
+Outre l’adoption de lois et le [meurtre de dissidents](https://www.sm28.org/articles/winston-smith-and-the-spirit-of-the-george-floyd-uprising), la réaction institutionnelle s’est concentrée sur la gestion de la perception du public. Des intérêts industriels et des sociétés d’investissement privées ont mené des campagnes d’influence en s’appuyant sur des médias locaux, dont 40 % appartiennent à Sinclair Broadcast Group, une [organisation de droite](https://www.gsb.stanford.edu/insights/media-consolidation-means-less-local-news-more-right-wing-slant) ayant des liens avec l’ancien président américain Donald Trump. Entre Sinclair, Nexstar, Gray, Tegna et Tribune, cette reprise en main coordonnée des événements a influencé négativement la perception de la révolte et ses conséquences.
+
+À la suite du soulèvement, un récit mensongé a circulé sur le fait que la police, démoralisée et sous-financée, ne pourrait pas contrôler la « vague de criminalité » qui déferlait sur le pays. Ce récit, orchestré en réponse à la demande populaire de « démanteler la police » pendant la révolte de 2020, a façonné l’imagination des blanc.e.s des banlieues, des propriétaires de petites entreprises et de nombreux.ses citadin.e.s progressistes. Le scénario « vague de criminalité » laissait entendre que les services de police du pays avaient été privés de leur financement ou de leurs pouvoirs, ce qui les empêchait d’assurer la paix sociale ou la libre entreprise. En réalité, la grande majorité des services de police ont reçu une augmentation annuelle de leur budget, comme d’habitude. Et à la suite des événements de 2020, les décisionnaires politiques comme la droite leur ont donné plus de pouvoir, en témoigne l’accession d’Eric Adams au poste de maire de New York.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/3.jpg La Fondation de la police permet aux entreprises de financer les forces de l’ordre. Derrière chaque cérémonie d’inauguration, une ligne de police anti-émeute. class:portrait ]]
+
+# « Instaurer une justice sociale »
+ 
+Le gouvernement d’Atlanta a élaboré quelques solutions provisoires aux dilemmes auxquels il est confronté. Pour respecter leurs engagements envers les bailleurs de fonds, les politiciens municipaux doivent continuer à sacrifier les biens publics sur l’autel de l’économie afin d’attirer davantage d’investisseurs importants dans la région, en particulier l’industrie cinématographique et les entreprises technologiques. Pour maintenir le contrôle à notre époque de déplacements rapides, de hausse du coût de la vie, de tensions chroniques entre le gouvernement conservateur de l’État et l’administration libérale de la ville, les finances sont essentiellement fléchées sur les forces de l’ordre dans la région. Pour apaiser les classes inférieures de plus en plus rebelles, ce processus de restructuration et de répression en appelle à l’autonomisation des noirs, la justice sociale et le progressisme.
+
+Or les bureaucrates ne sont pas bien placés pour s’en occuper. Des décennies de réductions d’impôt et de déréglementations ont entraîné des [défaillances et des pannes d’infrastructures](https://en.wikipedia.org/wiki/Interstate_85_bridge_collapse) de toutes sortes. Entre autres soucis, Atlanta a vu s’envoler l’implantation d’un [deuxième siège d’Amazon](http://web.archive.org/web/20190127121755/http://atlantaagainstamazon.org) parce que les transports en commun, parmi les moins financés aux États-Unis, [n’étaient même pas opérationnel](https://www.11alive.com/article/money/why-atlanta-may-not-land-amazon-hq2/85-6741cd2f-f9db-43f9-a8c1-e38e4cfcbcf5) lorsque les technocrates de l’entreprise sont venus prospecter. En même temps, ce sont précisément les faibles impôts et l’absence de réglementation qui attirent les capitaux en Géorgie, de sorte que cultiver une stratégie de gouvernance social-démocrate créerait forcément une fuite des richesses vers d’autres parties du pays. Il semble que le plan actuel consiste à céder un maximum de contrats et de ressources publics à des promoteurs privés, afin de leur permettre d’engager les coûts de la désintégration sociale, d’utiliser la police pour contrôler le retour de flamme, et de se servir de l’aura de Martin Luther King, Jr. pour prévenir toute résistance significative.
+
+C’est ainsi que le projet de transformer un espace sauvage en un centre de formation de la police devient l’« Institut pour la justice sociale ». Le pillage de biens publics au profit d’une entreprise cinématographique et d’un [magnat de l’immobilier](https://atlanta.curbed.com/2019/8/15/18761677/blackhall-studios-atlanta-intrenchment-hollywood-land-swap-dekalb) est décrit comme une occasion de créer de « bons emplois » pour les locaux, et non comme une expropriation criminelle des biens communs. La coupe à blanc que Blackhall Studios offre à la municipalité en échange d’une partie de la forêt sera rebaptisée « Michelle Obama Park ».
+
+Le gouvernement prévoit de commencer à défricher la forêt en mai ou juin 2022. Ce qui suit est l’histoire du mouvement déterminé à arrêter ce processus.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/8.jpg Intrenchment Creek Park—les futurs studios de son ? class:portrait ]]
+
+***
+
+# Chronologie des évènements
+
+_Pour rester brève, cette chronologie n’inclura pas les actions en justice, les injonctions, les pétitions pour faire cesser les travaux etc. Ces stratégies font bien sûr partie du mouvement et leurs non citations dans le déroulé n’obéit à rien d’autre qu’à un souci d’allègement._
+
+**Printemps-Été 2021:** La Ville d’Atlanta, en partenariat avec Blackhall Studios, approuve l’échange d’une partie d’Intrenchment Creek Park, des terres publiques appartenant au comté de Dekalb, contre une parcelle de terrain propriété du studio de cinéma. L’entente foncière est scellée dans une série de réunions et d’audiences plus ou moins secrètes.
+ 
+**Avril-Mai 2021:** Des activistes et des écologistes locaux découvrent un plan de la Fondation de la police d’Atlanta pour transformer le terrain connu sous le nom de Old Atlanta Prison Farm (l’ancienne ferme-prison d’Atlanta) à Key Road et Fayetteville Road en un vaste complexe de formation policière.
+ 
+**15 mai 2021:** Plus de 200 personnes se rassemblent à Intrenchment Creek Park pour une séance d’information sur les propositions d’aménagement.
+ 
+**17 mai 2021:** Selon une déclaration anonyme publiée sur [Abolition Media Worldwide](http://web.archive.org/web/20210518045336/https://www.amwenglish.com/articles/attack-on-destructive-machinery-in-atlanta-forest), sept engins laissés sans surveillance sur la parcelle de terrain appartenant à Blackhall, principalement des tracteurs et des excavatrices, sont vandalisés. Fenêtres brisées, pneus crevés, ils sont [incendiés](https://scenes.noblogs.org/post/2021/05/20/photos-of-what-was-left-of-the-deforestation-machinery-after-may-17th-2021). La déclaration lie le sabotage à la destruction de la forêt :
+ 
+> Nous n’avons pas besoin d’une tribune pour nous divertir. Tout ce dont nous avons besoin existe déjà. Nous n’avons pas besoin de terrains d’entraînement pour la police. Nous exigeons la fin des services de police… Toute nouvelle tentative de destruction de la forêt d’Atlanta sera accueillie par une réponse similaire. Cette forêt était là bien avant nous, et elle sera là bien après.
+ 
+**Juin 2021:** Des avis apparaissent dans la forêt pour informer les passants que des arbres ont été « dopés », et que leur coupe pourrait endommager les scies et possiblement blesser ceux qui les utilisent.
+ 
+**10 juin 2021:** Trois autres excavatrices brûlent sur la parcelle de terrain appartenant à Blackhall Studios. Aucune de ces actions n’apparaît dans les médias locaux, bien que des [preuves photographiques](https://alissa-azar.medium.com/direct-action-three-excavators-scorched-in-atlanta-forest-3164192966e) des dommages circulent dans les médias sociaux.
+ 
+**16 juin 2021:** Le soir où le conseil municipal d’Atlanta doit voter le décret validant la construction de la « Cop City », des militant.e.s protestent devant la [résidence privée](https://www.fox5atlanta.com/news/atlanta-councilwoman-not-scared-after-protests-on-her-property) de la conseillère municipale Joyce Shepherd, marraine de l’arrêté.
+ 
+**Du 23 au 26 juin 2021:** La [première semaine d’action](https://itsgoingdown.org/resistance-cop-city-atlanta-expands) pour la défense de la forêt attire des centaines de personnes.
+ 
+**23 août 2021:** À Roseville, dans le Minnesota, les fenêtres du bureau de Corporation Service Company sont brisées. Une [déclaration anonyme en ligne](https://www.anarchistfederation.net/roseville-office-attacked-in-solidarity-with-atlanta-forest/?hilite=atlanta) indique :
+
+> Après avoir fracassé la porte du bureau et jeté des pots de peinture à l’intérieur, un message a été bombé sur la façade : PAS TOUCHE À LA FORÊT D’ATLANTA. On exige que le CSC rompe avec son client, Blackhall Studios. Blackhall Studios aimerait niveler le sud de la forêt d’Atlanta pour construire un gigantesque studio de post-production son et un aéroport, créant des niveaux sans précédent de gentrification dans la ville.
+ 
+**Été 2021:** Le collectif _Stop Cop City_ et d’autres groupes de gauche rejoignent le mouvement. Les organisations et les réseaux militants créent leurs propres manifestations, des pages sur les réseaux sociaux et des réunions. Le média local indépendant _Mainline Zine_ participe à rendre visible le mouvement, plus ou moins en accord avec ces organisations.
+ 
+**Septembre 2021:** Les réunions du Conseil municipal, tenues sur Zoom en raison des restrictions liées au coronavirus, sont inondées d’objections. Les votes sur l’arrêté de location sont retardés à plusieurs reprises en raison de ces objections et de manifestations devant le domicile du directeur des opérations d’Atlanta, [Jon Keen](https://scenes.noblogs.org/post/2021/09/07/fuck-cop-city-labor-day-bbq), et de la conseillère municipale [Natalyn Archibong](https://www.mainlinezine.com/atlanta-protesters-arrested-council-passes-lease-police-foundation).
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/5.jpg Devant la maison de Natalyn Archibong. Arrestation des manifestants par la police pour que le Conseil Municipal puisse approuver le bail foncier. ]]
+
+**7 octobre:** L’ONG Color of Change annonce que Coca-Cola [quitte](https://www.mainlinezine.com/coca-cola-atlanta-police-foundation-cop-city) le conseil d’administration de la Fondation de la police d’Atlanta.
+
+**18 octobre:** Un [groupe d’action directe](https://scenes.noblogs.org/post/2021/10/18/demo-to-stop-construction) perturbe le bornage et le nettoyage des terrains de la prison Old Atlanta Prison Farm. Une guérite de surveillance est détruite.
+
+**Du 10 au 14 novembre:** Un large éventail d’événements culturels, de soirées d’information, de feux de joie et de réunions se déroulent pendant une [deuxième semaine d’action](https://scenes.noblogs.org/post/2021/11/09/fall-21-week-of-action-events). Cela coïncide avec l’établissement d’un campement dans la forêt ; il dure six semaines.
+
+**12 novembre:** Manifestation au siège de Reeves Young. Les renseignements collectés par les militant.e.s indiquent que Reeves Young Construction a été engagé pour déboiser la forêt et construire le camp d’entraînement de Cop City. Environ 30 personnes se rassemblent au siège de la société à Sugar Hill, en Géorgie, brandissant des banderoles et exigeant que la société [rompe son contrat avec la Fondation de la Police d’Atlanta](https://scenes.noblogs.org/post/2021/11/18/watch-protest-at-reeves-young).
+
+[[ https://twitter.com/defendATLforest/status/1461175735540924416 ]]
+
+*Twitter Le 11/12, à Sugar Hill, GA, des activistes ont visité les bureaux de Reeves Young, la société de construction sous contrat avec l’Atlanta Police Fondation pour raser la forêt d’Atlanta et construire Cop City.*
+ 
+*Encouragez Reeves Young à abandonner le contrat. Composez le 770-271-1159.*
+ 
+**20 novembre:** Deux autres bulldozers brûlent dans la forêt. Selon une déclaration anonyme republiée sur le site [Unoffensive Animal](https://unoffensiveanimal.is/2021/11/22/two-bulldozers-set-alight-in-defence-of-atlanta-forest), des défenseurs anonymes de la forêt
+ 
+> « … ont brûlé deux bulldozers dans le sud de la forêt d’Atlanta. Non à la Ville des Flics, Non à la dystopie hollywoodienne. Défendons la forêt d’Atlanta »
+ 
+Cet équipement se trouvait sur le terrain que Blackhall Studios voudrait échanger, l’emplacement prévu du futur « parc Michelle Obama ».
+ 
+**27 novembre:** Un groupe d’Indien.ne.s Muscogee (Creek) retourne sur ses terres ancestrales situées à l’emplacement actuel du parc Intrenchment Creek dans la forêt de la South River. En Creek le lieu est dénommé Weelaunee. La délégation de Muscogee appelle tout le monde à défendre le terrain contre les projets de Cop City et de Blackhall.
+ 
+**17 décembre:** Une douzaine de manifestants marchent vers la porte d’entrée des studios Blackhall sur Constitution Road et bloquent l’entrée principale en scandant des slogans. Peu de temps après, un grand contingent de policiers [fait une descente dans la forêt](https://itsgoingdown.org/our-woods-not-hollywoods-atlanta-forest-defenders-disrupt-blackhall-studios), expulsant le camp de protestation établi en novembre pendant la semaine d’action.
+ 
+**20 décembre:** Selon une déclaration anonyme publiée sur le site [Scenes from the Atlanta Forest](https://scenes.noblogs.org/post/2021/12/21/home-of-dean-reeves-visited), des banderoles sont accrochées dans l’arrière-cour de la résidence privée de Dean Reeves, président de Reeves Young. Dean Reeves aurait fait partie des membres du conseil d’administration présents lors de l’action du 12 novembre et aurait personnellement poussé et agressé des manifestants.
+
+**9 janvier:** Survival Resistance, une organisation écologiste locale, [lance une campagne contre AT&T](https://scenes.noblogs.org/post/2022/01/05/join-survival-resistance-for-a-month-of-action-at-att), qui finance le développement de Cop City, organisant des manifestations devant leurs bureaux.
+
+**18 janvier:** Pour commencer à sonder le terrain et déterminer les matériaux de construction nécessaires à la pose des fondations, Reeves Young et un représentant de la Fondation de la Police d’Atlanta pénètrent dans les bois près de Key Road et déracinent de nombreux arbres à l’aide d’un bulldozer. Des manifestants exigent leur départ. La construction est arrêtée. Le bulldozer reste sur les lieux ; il est ensuite vandalisé et [perd ses fenêtres](https://scenes.noblogs.org/post/2022/01/19/reeves-young-and-apf-employees-forced-out-of-atlanta-forest-machinery-attacked).
+
+**19 janvier:** Près du lieu de confrontation de la veille, plusieurs personnes [s’installent dans des cabanes perchées dans les arbres](https://itsgoingdown.org/cop-city-resistance-tree-sit), annonçant leur intention d’y rester afin de retarder la destruction.
+
+**Du 25 au 27 janvier:** [Long Ingineering reprend la surveillance de la vieille ferme-prison d’Atlanta](https://scenes.noblogs.org/post/2022/01/28/defending-the-atlanta-forest-background-and-reportback), accompagné par la Fondation de la police d’Atlanta, des policiers d’Atlanta et des shérifs du comté de Dekalb.
+
+**28 janvier:** [60 militant.e.s pour la défense de la forêt marchent](https://scenes.noblogs.org/post/2022/01/31/the-fight-for-the-forest-continues) dans South River près de la Old Atlanta Prison Farm pour arrêter le forage et les relevés d’échantillons au sol. La police du comté de Dekalb attaque les manifestants, en arrêtant quatre, les premières arrestations dans le contexte du mouvement.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/6.jpg  Les défenseurs des forêts allument des bombes fumigènes et des fusées éclairantes en s’approchant des tracteurs le 28 janvier 2022. ]]
+
+**31 janvier:** Des « vandales autonomes » cassent les fenêtres et bombent « stop cop city » sur la façade d’une Bank of America à Twin City dans le Minnesota. Selon une [déclaration en ligne](https://scenes.noblogs.org/post/2022/03/25/twin-cities-bank-of-america-attacked-to-stop-cop-city), l’action est effectuée en solidarité avec les manifestant.e.s arrêté.e.s le 28 janvier.
+ 
+**1er mars:** Selon un [autre communiqué](https://scenes.noblogs.org/post/2022/03/01/concerning-the-destruction-of-long-engineering-vehicles-atlanta-georgia),
+
+> « Cinq gros camions Long Engineering utilisés pour des travaux d’arpentage destinés à délimiter le déboisement dans le sud de la forêt d’Atlanta ont été détruits en solidarité avec les défenseurs de l’environnement qui protègent actuellement la forêt des coupes pour construire Cop City et agrandir les infrastructures hollywoodiennes existantes de Blackhall Studios. »
+ 
+**19 mars:** Six machines-outils appartenant à Reeves Young, dont deux grandes excavatrices et un bulldozer, sont détruites à Flowery Branch, en Géorgie. Le communiqué en ligne prévient,
+
+> « Si votre entreprise ne se retire pas immédiatement du projet Cop City de l’APF, nous ruinerons vos profits et vous n’aurez d’autre choix que d’abandonner le contrat. »
+
+**26 mars:** Wells Fargo et les distributeurs automatiques de la Bank of America sont vandalisés dans le centre-ville de Philadelphie. Selon une [déclaration en ligne](https://scenes.noblogs.org/post/2022/03/26/banks-attacked-in-solidarity-with-atlanta-forest-defenders), les deux entreprises ont été ciblées parce qu’elles financent l’Atlanta Police Fondation.
+
+[[ https://twitter.com/unoffensive112/status/1509418720493453318 ]]
+
+*Twitter unoffensiveanimal: Banques attaquées en solidarité avec le mouvement pour défendre la forêt d’Atlanta*
+
+***
+
+# Des nouveaux modèles pour les luttes à venir
+ 
+Les mouvements de contestation empruntent habituellement l’une ou l’autre des stratégies suivantes.
+ 
+La première consiste en une escalade progressive. C’est le modèle couramment adopté par les organisations militantes, les syndicats, les groupes d’étudiant.e.s, et autres. Cette approche vise à accompagner le plus grand nombre possible de personnes à travers les contradictions inhérentes au processus réformiste, en sensibilisant lentement les participant.e.s à la nécessité de méthodes supplémentaires.
+
+Lorsque cette stratégie se déroule bien, le mouvement, devenu plus expérimenté, se donne des objectifs plus larges et plus offensifs avec des revendications précises. En période d’austérité, cependant, il est difficile de contraindre les autorités à céder aux demandes ; le plus souvent, la répression policière, les carriéristes charismatiques et le délitement contribuent à la lente décélération de la lutte. Dans les entreprises ou les régions qui connaissent une croissance économique réelle, les mouvements sont parfois en mesure d’obtenir satisfaction, mais cela se fait au détriment de la mobilisation elle-même, les dirigeant.e.s du mouvement sont acheté.es, les tactiques les plus efficaces criminalisées et les entreprises restructurées — par exemple, sous forme d’automatisation ou d’externalisation.
+ 
+Il peut arriver qu’un mouvement surgisse brutalement sous les projecteurs comme une sorte de commotion cérébrale qui attire l’attention dans un tourbillon de refus. Ces luttes se déclenchent souvent sur des accidents ou des griefs spécifiques qui rapidement deviennent paradigmatiques de tous les maux sociaux. La plupart des révoltes de masse qui ont éclaté depuis 2019 ont suivi cette voie, y compris la soi-disante [révolution d’octobre](/2019/10/24/on-the-front-lines-in-chile-accounts-from-the-uprising) au Chili, le [soulèvement de George Floyd aux États-Unis](/2020/06/17/snapshots-from-the-uprising-accounts-from-three-weeks-of-countrywide-revolt), la [révolte](/2021/12/31/sudan-anarchists-against-the-military-dictatorship-an-interview-with-sudanese-anarchists-gathering) contre Omar Bashir au Soudan ou le [soulèvement de 2022 au Kazakhstan](/2022/01/12/kazakhstan-after-the-uprising-analysis-from-from-russian-anarchists-eyewitness-accounts-from-anarchists-in-almaty). En se transformant en un affrontement général avec le pouvoir, les protagonistes de ces luttes mettent en accusation l’ensemble de l’ordre social, posant la question de la révolution en termes pratiques. À ce jour, cependant, la plupart de ces soulèvements ont été écrasés par la police, avalés par les guerres civiles ou anéantis par les superpuissances géopolitiques.
+ 
+Jusqu’à présent, la lutte pour défendre la forêt d’Atlanta ne correspond à aucun de ces modèles. Elle pourrait donc représenter une nouvelle manière d’aborder les combats à venir après les événements tumultueux de 2020.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/2.jpg “Les barricades ferment le chemin mais ouvrent la voie.” Un barrage pour défendre la forêt. ]]
+
+## 1er Acte, démolir leur stratégie
+ 
+En avril 2021, lorsque des activistes ont découvert les deux projets visant à détruire la forêt de South River, ils ont fait passer de bouche à oreille pendant plusieurs semaines l’annonce d’une réunion d’informations au parc Intrenchment Creek à laquelle environ 200 personnes ont assisté. La mairie n’avait pas encore publié ses plans, de sorte que les opposants ont pris en main le récit des faits, en veillant à ce qu’ils soient exposés précisément. Lors de cette séance d’information, plusieurs présentateurs masqués ont contextualisé les projets comme 1) une réaction raciste et autoritaire contre les manifestations après la mort de George Floyd, 2) un processus de gentrification et de déplacements pan-urbains, et 3) en les inscrivant dans la crise climatique et l’avenir à terme de la région.
+
+En organisant cet événement, les militant.e.s ont empêché la mairie de développer publiquement ses projets à sa manière, en supposant qu’ils aient l’intention de le faire. Les participant.e.s ont posé des questions, partagé leurs points de vue et se sont engagé.e.s à transmettre ce qu’iels avaient appris à leurs communautés tout en organisant une résistance populaire, institutionnelle et directe. Ce qui a établi les bases d’une lutte collective appuyée sur de multiples tactiques et stratégies.
+ 
+En 48 heures, sept excavatrices, tracteurs et autres pièces de machinerie lourde qui n’étaient pas protégées ont été détruits. Une déclaration anonyme est apparue en ligne détaillant motivations, méthodes et reliant ces attaques à la lutte contre le colonialisme, l’autoritarisme et l’orthodoxie de genre. Ce fut le coup d’envoi de la première phase du mouvement. À ce jour, personne n’a été arrêté pour ces actions.
+ 
+Au cours des semaines qui ont suivi, réunions, affiches et flyers se sont répandus dans les réseaux de gauche, les marchés paysans et les espaces subculturels autonomes. Des écologistes locaux et des historiens investis depuis longtemps sur le terrain ont organisé des visites et des promenades botaniques. Quelques candidat.e.s pour le conseil municipal ont intégré la lutte dans leurs campagnes électorales.
+​
+À la mi-juin, des saboteur.e.s ont publié une autre déclaration annonçant qu’un certain nombre d’arbres avaient été « dopés » et que trois autres excavatrices avaient été endommagées. Le sabotage n’a provoqué aucune critique parmi les opposants aux projets. Au contraire, parce qu’il s’est produit si tôt dans le mouvement, ce genre d’action audacieuse est devenue une partie de son ADN. Alors que de nombreuses personnes célébraient ces actions, la question se posait du développement du mouvement en une stratégie participative permettant à davantage de gens de s’impliquer, au-delà du partage d’informations ou de l’approbation des actions courageuses de militant.e.s anonymes.
+
+Si les participant.e.s à la première phase du mouvement avaient voulu créer un scandale politique, ils n’avaient pas encore réussi. Cependant, iels avaient attiré l’attention de quelques centaines de personnes prêtes à soutenir un mouvement qui incluait le vandalisme et d’autres formes de sabotage. Ils avaient également établi un discours sur la forêt à partir des conditions fixées par des militant.e.s autonomes, et non par des politiciens ou la police.
+ 
+Ce qui manquait dans la première phase a structuré inversement la phase qui a suivi.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/11.jpg « Sauvons nos arbres, éradiquons les flics. » Intrenchment Creek Park. ]]
+
+# Des noms et des adresses
+ 
+À la mi-juin 2021, la plupart des groupes de gauche locaux ainsi que des groupes autonomes, anarchistes et radicaux d'Atlanta étaient au courant de ce qui se tramait dans la forêt, tout en cherchant obstinément des stratégies pour arrêter les projets. Certaines personnes - dont des activistes lié.e.s à des organisations socialistes nationales, des réseaux abolitionnistes et des groupes écologistes - ont commencé à frapper aux portes dans les environs de la forêt de South River, pensant que les associations de quartier et les familles, touchées par la déforestation et la pollution sonore, seraient forcément des alliées. Les démarcheur.se.s espéraient créer des  liens avec les voisins et les amener à se mobiliser.
+ 
+D'autres stratégies sont apparues à peu près au même moment. Un groupe s'est concentré sur la réunion du conseil municipal du 16 juin, censé voter l'ordonnance relative aux baux fonciers parrainée par Joyce Shepherd, alors conseillère municipale. La réunion s'étant déroulée en ligne en raison de la pandémie de COVID-19, les membres du conseil municipal votaient depuis leurs résidences respectives. Quelques manifestant.es ont facilement trouvé l'adresse du domicile de la conseillère Shepherd et ont déployé une banderole devant chez elle pendant la réunion. Alors que la majorité des manifestant.es criaient des slogans sur le trottoir, l’un d’eux s'est approché de sa maison, a frappé à la porte et a sonné. À l'intérieur Shepherd panique. Les personnes au pouvoir supposent généralement que leurs actions se déroulent dans un "espace" politique abstrait, et que les conséquences de leurs décisions ne les toucheront pas directement. Shepherd a annulé le vote et quitté la réunion plus tôt pour appeler la police, arrivée après la dispersion des manifestants.
+ 
+Dans l'heure qui a suivi, Joyce Shepherd a tenu une conférence de presse depuis le nouveau commissariat de la zone 3, situé sur Metropolitan Parkway. Entourée d'officiers de police et de journalistes, Shepherd a décrit en détail les objectifs de son ordonnance sur les baux fonciers, la nature du projet et les efforts des manifestants pour l'empêcher d’agir. Une courte déclaration qui a propulsé le mouvement et son histoire devant le public. Le lendemain, elle fait une autre déclaration dans laquelle elle affirme qu'elle votera l'ordonnance "quoi qu'en disent" les habitants de la ville qui l’ont élue. Les autres élu.es ont dénoncé les tactiques des manifestants, laissant entendre à tort que leurs méthodes étaient illégales.
+
+Grâce à cette action, quelques personnes ont été en mesure d'atteindre un des premiers objectifs du mouvement - transformer les développements de Cop City/Blackhall en scandales publics. Ils ont également retardé le vote, démontrant concrètement le potentiel de la confrontation directe. Une nouvelle stratégie émergeait : faire pression directement sur les décideurs.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/13.jpg Non à la Ville des Flics: Sentier de promenade du parc Intrenchment Creek. La résistance habite chaque centimètre carré de la forêt. class:portrait ]]
+
+## LA PREMIÈRE SEMAINE D’ACTION
+ 
+La première semaine d'action a débuté quelques jours plus tard, le 23 juin. Les organisateurs espéraient déclencher un large éventail d'interventions. Ils ont tenu des réunions pour expliquer leurs idées, visant à lier la résistance contre le développement de Cop City, et de Blackhall avec la gentrification et la déforestation qui l'accompagnent. Un calendrier partagé a été établi en ligne ainsi qu’une campagne médiatique pour permettre au plus grand nombre de s'exprimer.
+ 
+À cet égard, la première semaine d'action a été un succès retentissant. Il y a eu des discussions sur l'écologie, le colonialisme et la sexualité, des visites guidées dans la forêt de jour et au clair de lune ; des feux de joie nocturnes dans une clairière ; un spectacle de punk hardcore dans une salle voisine, au cours duquel des centaines de participants ont repoussé la police ; et une rave party au cœur de la forêt, qui a rassemblé quelques 500 participant.e.s jusqu'au petit matin dans une ambiance irréelle éclairée par des bâtons lumineux. Si les organisateurs avaient pour objectif de générer un consensus culturel parmi les milliers de personnes appartenant aux sous-cultures de la poésie, du queer, du punk et de la danse underground de la ville, ils ont réussi.
+ 
+La nuit du 24 juin, des activistes se sont rendu.e.s au domicile du PDG de Blackhall Studios, Ryan Milsap, dans la banlieue d'Atlanta, à Social Circle. En déposant des tracts au domicile de Milsap, dans sa rue, dans ses immeubles de placement et dans sa boîte postale, les militant.e.s espéraient inciter, [selon leurs termes](https://unoffensiveanimal.is/2021/06/27/forest-destroying-ceos-house-visited-neighborhood-educated-about-his-actions), "d'autres personnes à faire des recherches et à se mobiliser contre les responsables directs de la destruction de la forêt."
+ 
+Deux jours plus tard, le 26 juin, dernier jour de la première semaine d'action, une cinquantaine de manifestant.e.s s’est rendue au siège de la Fondation de la police d'Atlanta (APF). Alors qu’iels sortaient de la station de métro Five Points, un petit contingent d'officiers a tenté d'arrêter l'un.e d’entre eux. Le groupe s’est battu avec les policiers et a réussi à les repousser. Poursuivant leur chemin derrière une banderole sur laquelle on pouvait lire "Le Nom du Monde est Forêt", en référence au livre éponyme d'Ursula K. Le Guin, les activistes se sont dirigé.e.s vers la tour Deloitte sur Peachtree Street. Passant la sécurité, iels sont allé.e.s directement vers les bureaux de l'APF et ont brisé portes et fenêtres en verre avant de renverser les tables dans le hall de la tour. Les participant.e.s ont réussi à se disperser dans le centre-ville sans être arrêté.e.s, tandis que des dizaines de véhicules de police établissaient frénétiquement un périmètre de sécurité, fermant l’accès au centre-ville.
+
+[[ https://youtu.be/sPqp-ObLQuM L'action au siège de la Fondation de la police d'Atlanta le 26 juin 2021 dans les réseaux sociaux. ]]
+
+## QUAND LA DISSIDENCE NE SUFFIT PAS
+ 
+Le mouvement s'est étendu au cours des mois suivants. De nouveaux groupes se sont formés à mesure que les organisations militantes et les médias indépendants développaient des perspectives leur permettant de s'impliquer dans la lutte. Alors que les journaux télévisés et la Fondation de la Police n'ont pas réussi à présenter un récit médiatique cohérent après le vandalisme des bureaux de l'APF, les activistes se sont mis au travail en faisant circuler des tracts d'information et des graphiques en ligne, en menant des interviews, en frappant aux portes et en organisant des campagnes d'appels téléphoniques lors des réunions du conseil municipal. Pendant la quasi-totalité des mois d'août et de septembre, la "Coalition Stop Cop City" et d'autres organisations se sont efforcées de créer des tensions et de contester les arbitrages du Conseil municipal. À la suite de l'intervention chez Joyce Shepherd, des manifestant.e.s se sont rassemblé.e.s devant les domiciles des personnes susceptibles de voter "oui" les soirs où des décisions devaient être prises, ce qui a entraîné de nouveaux retards dans le processus. Pendant un moment, il a semblé possible que la campagne puisse remporter une victoire facile.
+ 
+Malheureusement, ce ne fut pas le cas. Comme le savent ceux qui étudient les mouvements révolutionnaires, la police remplit une fonction essentielle dans la société de classe. Elle permet à de nombreux rapports de domination et d'exploitation de perdurer. Il ne s'agit pas simplement d'un problème économique ou sociétal que l'on peut contourner avec quelques idées intelligentes et un peu de pression. Malgré les efforts des activistes, qui ont culminé dans 17 heures de commentaires d'opposition publics, l'ordonnance a été adoptée le 8 septembre alors que la police arrêtait les manifestants devant le domicile de la conseillère municipale Natalyn Archibong. Le terrain abritant l'ancienne ferme-prison d'Atlanta a été cédé à la Fondation de la police d'Atlanta.
+ 
+De nombreuses personnes ont été démoralisées par cette tournure des événements. Certain.e.s se sont tourné.e.s vers les élections locales, en espérant que le gouvernement de la ville pourrait être composé de candidat.e.s abolitionnistes ou progressistes qui feraient échouer le projet. Il s'est avéré que la mairesses Bottoms ne s'est pas représentée aux élections, et que l'ancien maire, Kasim Reed, a perdu face au maire actuel, Andre Dickens. Joyce Shepherd a également perdu sa réélection. Pourtant, depuis les élections, rien n'a changé en ce qui concerne les projets Blackhall et APF.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/12.jpg Devant la maison de Jon Keen, Officier en chef des Opérations de la mairie d’Atlanta. ]]
+
+# Quand la dissidence ne suffit pas
+ 
+Le mouvement s'est étendu au cours des mois suivants. De nouveaux groupes se sont formés à mesure que les organisations militantes et les médias indépendants développaient des perspectives leur permettant de s'impliquer dans la lutte. Alors que les journaux télévisés et la Fondation de la Police n'ont pas réussi à présenter un récit médiatique cohérent après le vandalisme des bureaux de l'APF, les activistes se sont mis au travail en faisant circuler des tracts d'information et des graphiques en ligne, en menant des interviews, en frappant aux portes et en organisant des campagnes d'appels téléphoniques lors des réunions du conseil municipal. Pendant la quasi-totalité des mois d'août et de septembre, la "Coalition Stop Cop City" et d'autres organisations se sont efforcées de créer des tensions et de contester les arbitrages du Conseil municipal. À la suite de l'intervention chez Joyce Shepherd, des manifestant.e.s se sont rassemblé.e.s devant les domiciles des personnes susceptibles de voter "oui" les soirs où des décisions devaient être prises, ce qui a entraîné de nouveaux retards dans le processus. Pendant un moment, il a semblé possible que la campagne puisse remporter une victoire facile.
+ 
+Malheureusement, ce ne fut pas le cas. Comme le savent ceux qui étudient les mouvements révolutionnaires, la police remplit une fonction essentielle dans la société de classe. Elle permet à de nombreux rapports de domination et d'exploitation de perdurer. Il ne s'agit pas simplement d'un problème économique ou sociétal que l'on peut contourner avec quelques idées intelligentes et un peu de pression. Malgré les efforts des activistes, qui ont culminé dans 17 heures de commentaires d'opposition publics, l'ordonnance a été adoptée le 8 septembre alors que la police arrêtait les manifestants devant le domicile de la conseillère municipale Natalyn Archibong. Le terrain abritant l'ancienne ferme-prison d'Atlanta a été cédé à la Fondation de la police d'Atlanta.
+ 
+De nombreuses personnes ont été démoralisées par cette tournure des événements. Certain.e.s se sont tourné.e.s vers les élections locales, en espérant que le gouvernement de la ville pourrait être composé de candidat.e.s abolitionnistes ou progressistes qui feraient échouer le projet. Il s'est avéré que la mairesses Bottoms ne s'est pas représentée aux élections, et que l'ancien maire, Kasim Reed, a perdu face au maire actuel, Andre Dickens. Joyce Shepherd a également perdu sa réélection. Pourtant, depuis les élections, rien n'a changé en ce qui concerne les projets Blackhall et APF.
+
+## Le combat continue
+ 
+La Fondation de la police d'Atlanta a passé un contrat avec au moins trois entreprises pour la réalisation de son projet. L'arpentage a été attribué à Long Engineering, la construction à Reeves Young Construction et Brasfield & Gorrie. On ne sait pas encore qui défrichera le terrain de l'Intrenchment Creek Park où Blackhall Studios espère s'étendre.
+ 
+Les informations ont été collectées par des militant.e.s très présent.e.s sur le terrain. Peu après le vote du conseil municipal en septembre, des géomètres et de petites équipes de travail ont commencé à pénétrer sur le site près de Key et Fayetteville Roads. Grâce aux camions et aux uniformes il a été possible de savoir quelles étaient les entreprises embauchées, ce qui a une fois de plus permis aux contestataires d'engager le combat selon leurs propres termes.
+Le 8 octobre, environ 25 personnes envahissent le chantier dans la forêt pour empêcher les entrepreneurs qui défrichent le terrain de prendre des photos et de prélever des échantillons du sol. Lorsque les travailleurs partent, une tour de surveillance érigée par la police est renversée. Les défenseur.se.s de la forêt se dispersent sans être arrêté.e.s.
+ 
+Si les défenseur.se.s de la forêt n'avaient utilisé que des canaux virtuels ou institutionnels pour collecter des informations, ils auraient peut-être appris beaucoup plus tard que Reeves Young avait été mandaté pour effectuer la destruction proprement dite. Annoncer la nouvelle avant la mairie a été un avantage constant.
+ 
+## La Deuxième semaine d'action
+ 
+Perdre l'initiative et tenter de recréer une phase antérieure des événements aboutit souvent à l’échec. Nostalgiques de l'époque grisante de la révolte active, du chaos des nuits enflammées et des quartiers commerçants enfumés, des activistes décident de réunir quelques volontaires pour relancer le mouvement. Des préparatifs se mettent en place avec l'espoir qu'il suffise de fixer un lieu et une date précise. Une foule se rassemble, mais elle n'est pas à la hauteur des attentes, composée essentiellement de militant.e.s ou d'ami.e.s dévoué.e.s.
+
+Au fil des semaines, faire repartir le mouvement devient l’enjeu dominant. Un groupe d'ami.e.s ou d’activistes en réseau organisent d’autres manifestations "comme la précédente", mais dans un lieu différent ou avec une intention plus ambitieuse. Cela peut fonctionner quelques fois, mais généralement de nouveaux rôles et des règles différentes ont été établies, le sentiment euphorique de puissance qui animait les premiers jours a disparu, et rien ne peut le ramener. Les grandes foules se sont dispersées et la police a compris le processus. Finalement, même cela prend fin, et les participant.e.s élaborent toutes sortes de théories pour en expliquer les raisons. Il y a des accusations, du ressentiment, des dénonciations et des scissions, les rebelles se reprochant leurs échecs et leurs limites. On pourrait écrire un livre entier sur ce phénomène. Si celles et ceux qui participent aux luttes pouvaient prendre conscience de cette mécanique, des efforts plus stimulants se construiraient.
+ 
+Après le vote du Conseil municipal en septembre, on ne savait pas vraiment combien de personnes continueraient à s'opposer aux projets de la mairie, bien que la confrontation du 8 octobre ait suggéré que certain.e.s le souhaitaient. Sentant la fragilité du moment, des militant.e.s ont annoncé une deuxième semaine d'action pour la mi-novembre.
+ 
+La deuxième Semaine d'action a été similaire à la première, avec des innovations. Certains groupes ont organisé des événements culturels, des soirées d'information, des feux de joie et des réunions qui se sont principalement déroulés à l'intérieur ou à proximité d'un campement annoncé publiquement au Intrenchment Creek Park.
+ 
+[[ https://twitter.com/defendATLforest/status/1458631384931700739 ]]
+ 
+Pendant la première Semaine d'action un petit groupe de participant.e.s a installé un camp clandestin sur une partie de l'ancienne ferme-prison d'Atlanta. Cette fois-ci, quelques douzaines de personnes ont monté des tentes, érigé des bâches et des cuisines de fortune, accroché des bannières et construit un véritable campement dans les bois. Il a perduré pendant six semaines.
+Sans surprise, la diversité globale des militant.e.s présent.e.s a diminué par rapport à la première semaine d'action. Lorsqu'une lutte se resserre suite à un changement de perspectives, une répression ou d'autres revers, le mouvement se rétrécit sur [ses composantes initialeshttps://crimethinc.com/2013/09/09/after-the-crest-part-i-what-to-do-while-the-dust-is-settling, selon des stratifications ethniques, générationnelles, de genre et de classe, malgré les efforts et la bonne volonté des participant.e.s.
+
+## Passer à l'attaque
+ 
+Reeves Young ayant été identifié comme l’entrepreneur engagé pour détruire la forêt et construire l’enceinte pour l’entraînement de la police, les participant.e.s au mouvement se sont concentré.e.s sur lui. Le 12 novembre 2021, immédiatement après la deuxième semaine d’action, trente personnes sont descendues dans les bureaux de Sugar Hill, en Géorgie, à 40 milles d’Atlanta. Brandissant des banderoles et criant des slogans, le groupe est entré dans les locaux, perturbant une réunion du conseil d’administration présidée par Dean Reeves et le PDG, Eric Young. Les dirigeants ont fait de leur mieux pour paraître indifférents, commentant les millions dont ils se remplissaient les poches. Lentement, l’atrium s’est rempli de travailleurs préoccupés par les manifestations et la violence de leurs patrons, qui avaient commencé à bousculer et même à frapper les manifestant.e.s, en ciblant les petits et les faibles. Les manifestant.e.s ont ainsi atteint leur objectif de mettre sous pression le prestataire de services de la Fondation de la police d’Atlanta.
+ 
+Trois jours plus tard, deux autres excavatrices ont été brûlées sur la parcelle de terrain qui appartient maintenant aux studios Blackhall. Ce sont les onzièmes et douzièmes pièces de machinerie lourde sabotées, selon les revendications postées en ligne. Contrairement aux déclarations anonymes précédentes, le texte était succinct, énonçant seulement ce qui s’était passé et pourquoi.
+ 
+Le mouvement avait fait face à des revers, mais il ne s’était pas consumé dans un conflit stérile entre des militant.e.s endurci.e.s et la Fondation de la police.
+
+## Danse traditionnelle
+ 
+Le 27 novembre 2021, 250 à 300 personnes se sont rassemblées dans le parc Intrenchment Creek pour participer à une danse cérémonielle initiée par le peuple Muscogee (ruisseau). Cette délégation du Helvpe Ceremonial Grounds, dans l’est de l’Oklahoma, était invitée sur ses terres ancestrales par un organisateur autochtone local.
+
+Le peuple Muscogee était autrefois organisé en une confédération de tribus couvrant une grande partie de ce qui est maintenant l’Alabama, la Géorgie, la Floride et la Caroline du Sud. Les Muscogees et leurs ancêtres mississippiens, connus sous le nom de « constructeurs de monticules », ont mis en place un réseau de villes, chacune autonome et indépendante. Les décisions étaient prises par consensus, un mode de décisions inconnu des européens. Le concept de propriété privée qui règne en maître dans notre société était un anathème pour les Muscogees qui occupaient des terres communales. La quasi-totalité de ce qui est aujourd’hui l’Alabama a été arrachée au Muscogee en 1814, après la défaite de la révolte des Bâtons rouges, au cours de laquelle de nombreux Muscogees se sont alliés à Tecumseh et aux insurgés shawnees contre l’occupation coloniale de leurs terres. Entre 1821 et 1836, les Muscogees ont été expulsés vers l’Oklahoma, où beaucoup vivent encore.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/9.jpg Danse traditionnelle de la délégation de Muscogee (Creek) dans la forêt de Weelaunee le 27 novembre 2021. ]]
+
+# Avancées et replis
+ 
+Dans les semaines qui ont suivi la cérémonie au parc Intrenchment Creek, les campeur.se.s de la forêt y ont installé une cuisine et un coin salon. Iels ont dressé des banderoles et des panneaux dans les arbres pour les cyclistes, les randonneur.se.s et ceux qui traversaient le parc. Cette présence semi-permanente dans la forêt était un moyen de recueillir des informations et d’éloigner les promoteurs.
+
+Le campement a été expulsé le 17 décembre, après six semaines d’occupation. Ce matin-là, une douzaine de personnes ont bloqué l’entrée des studios Blackhall, sur Constitution Road. Iels ont brûlé un drapeau, scandé des slogans et « jeté un sort » sur l’entreprise audiovisuelle avant de se disperser dans la forêt. Dans les heures qui ont suivi, vraisemblablement à la demande de Blackhall, la police du comté de Dekalb est entrée en masse dans la forêt, des voitures de police tournaient dans le parking, des agents à pied sillonnaient les chemins, des hélicoptères et des drones le ciel, et des véhicules banalisés ont envahi les rues. Les agents ont probablement été gênés par la faible visibilité du terrain et tous les défenseur.se.s de la forêt basés dans le campement ont réussi à s’échapper. C’était la première fois que les forces de l’ordre faisaient un effort concerté pour arrêter les manifestant.e.s dans la forêt de South River.
+ 
+Un mois plus tard, le 18 janvier 2022, Reeves Young et l’Atlanta Police Foundation sont entrés dans la forêt près de Key Road avec un bulldozer. Ils ont commencé à abattre des arbres pour que leurs associés de Long Engineering puissent arpenter les terres, placer des piquets et marquer les arbres à abattre. Une douzaine de personnes en noir se sont approchées des ouvriers et du représentant de l’APF Alan Williams, leur ordonnant de partir. Le bulldozer a ensuite été vandalisé.
+ 
+Plusieurs personnes ont construit avec une rapidité impressionnante des cabanes dans les arbres près du site d’arpentage et s’y sont installées. La nouvelle s’est vite répandue. Ça n’aurait pas pu arriver à un meilleur moment.
+
+[[ https://twitter.com/atlanta_press/status/1510278635705487363 ]]
+
+*Nous avons acquis les courriels APF/City of ATL via une demande des dossiers ouverts et nous voulons les partager avec vous tous.*
+
+## Le combat se durcit
+ 
+Lors des affrontements avec les entrepreneurs les 8 octobre 2021 et 18 janvier 22, de petits groupes courageux ont pu interrompre les travaux sans recourir à la force. Il est possible que cette période soit terminée, ou bien que l’échéancier pour l’enquête et l’échantillonnage conduise les dirigeants d’entreprise et les chefs de police à exposer leurs employés à des risques plus élevés dans la poursuite de leurs résultats financiers respectifs.
+ 
+Du 25 au 28 janvier, des efforts constants ont été déployés pour empêcher l’abattage des arbres et le forage du sol. En vain. Dans certains cas, seule une poignée de militants étaient sur les lieux derrière des barricades improvisées. Les renforts n’ayant pu arriver à temps pour les aider. Plus tard dans la semaine, le 28 janvier, une soixantaine de personnes ont défilé pour défendre la forêt à 10h en semaine. Ce rassemblement, le plus important de ces derniers mois, a défilé dans la forêt, sur le terrain de la Prison Farm, autour des barricades et des cabanes dans les arbres, et a directement confronté les ouvriers qui creusaient des trous dans le sol.
+ 
+La police a attaqué la marche, en ciblant plusieurs personnes ; les manifestant.e.s n’ont pas réagi à cette agression, alors qu’iels étaient plus nombreux.ses que les policiers. Peut-être qu’en recourant à certaines tactiques populaires de la rébellion de 2020, comme l’utilisation massive de parapluies ou de boucliers de fortune, les participant.e.s se seraient engagé.e.s  plus fermement.
+L’air un peu anxieux, Alan Williams, de l’Atlanta Police Foundation, filmait des manifestants.
+
+C’était la première fois que des manifestant.e.s étaient arrêté.e.s dans la forêt de South River, soit du côté de la Prison Farm ou du côté d’Intrenchment Creek. Chaque phase du mouvement s’est construite en développant les contradictions et les limites de la phase précédente. Une nouvelle stratégie pourra donc s’établir à partir des points les plus résilients des étapes précédentes.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/15.jpg Ils vont en-bas, nous allons en-haut. Une cabane dans les arbres. ]]
+
+***
+
+# La meilleure défense réside dans une bonne offensive
+ 
+Chaque mouvement a besoin de stratégies offensives et défensives. Dans cette lutte, des stratégies défensives permettent aux militants de résister à la répression et de protéger la forêt. Les stratégies offensives aident à imposer ses propres échéanciers, champs de bataille et confrontations, démoralisant ceux qui cherchent à détruire la forêt et les forçant finalement à abandonner les développements prévus.
+
+[[ https://twitter.com/defendATLforest/status/1494339171887943690 ]]
+
+*Qu’est-ce que défendre la forêt d’Atlanta ? Défendre la forêt d’Atlanta est un mouvement pour le passé, le présent et le futur.*
+
+## Défense
+ 
+Début avril, il devient clair que la résistance à la construction sur le terrain n’est pas une stratégie offensive viable. La présence de militant.e.s et de groupes organisés dans la forêt de South River doit être comprise comme la stratégie défensive la plus sophistiquée dont dispose le mouvement. La forêt restera un lieu de contestation tant que l’APF et Blackhall Studios chercheront à la détruire. Plus les activistes comprendront la forêt et son terrain spécifique, plus les groupes seront préparés à y mener des actions ; plus les participant.e.s établiront des pratiques et des infrastructures que les nouveaux.elles arrivant.e.s pourront utiliser, mieux ce sera. En reliant continuellement une lutte au destin d’un lieu particulier, les participant.e.s entretiennent une relation émotionnelle et sensuelle avec la terre, ce qu’on rencontre rarement dans les mouvements autour d’objectifs abstraits.
+
+*Quelques principes pour une défense cohérente et efficace :*
+
+- **Tenir le terrain.** Reeves Young et Blackhall espèrent détruire une zone spécifique de la forêt. En les empêchant d’opérer facilement, en rendant difficile l’arpentage et dangereux de laisser de l’équipement là-bas, on limite sérieusement leur capacité à y parvenir.
+- **Guerre d’usure.** En équipant le terrain pour le défendre, les activistes peuvent entraîner Reeves Young, la police locale ou d’autres forces adverses dans des conflits ciblés et intensifs en main-d’œuvre, des jeux de « chat et de souris » et d’autres engagements coûteux et peu gratifiants. Pour l’instant, les défenseurs.ses ont l’avantage d’un terrain apte à contrer les efforts, les mouvements, la visibilité, ou la capacité opérationnelle générale de l’attaquant. Plus l’adversaire doit surveiller et planifier autour des défenseurs.ses, moins il peut se concentrer sur la destruction de la forêt.
+- **Perturbation.** Les défenseurs.ses des forêts peuvent limiter la capacité de l’adversaire à attaquer selon des calendriers ou des échéanciers cohérents ou synchronisés. Les défenseurs.ses ont le privilège d’un engagement sélectif : ils peuvent s’engager quand et comment ils le veulent, selon l’inclination ou l’opportunité, fragilisant ainsi les assaillants.
+- **Préparation.** L’objectif principal de la défense est de permettre l’offensive. Les défenseurs.ses des forêts peuvent mener des opérations stationnaires ou mobiles ; ils peuvent s’engager ou s’échapper ; perturber, saboter, confondre ou tromper les promoteurs. L’objectif principal est de forcer les entrepreneurs à procéder maladroitement et d’une manière confuse sur un plan logistique et politique.
+
+La défense ne peut se substituer à l’offensive, mais c’est un aspect nécessaire du combat. Si la défense du terrain devient le seul objectif d’un mouvement, il finira par être vaincu. Ce qui marquerait un pas en arrière en regard du début de la mobilisation, moment où les participant.e.s ont fixé les termes des négociations. Si les travaux d’envergure ne commencent pas avant plusieurs mois, il pourrait être désastreux pour les activistes en colère de passer cette période à accumuler des accusations et des blessures en luttant contre un adversaire de plus en plus enhardi et militarisé.
+ 
+Par conséquent, d’autres moyens sont nécessaires.
+
+[[ https://twitter.com/efjournal/status/1503767540463329281 ]]
+
+*« Il n’y aura PAS de paix pour les sous-traitants impliqués dans la planification ou la destruction du sud de la forêt d’Atlanta avant que TOUS les contrats avec l’Atlanta Police Foundation & Black Hall Studios aient été dénoncés »*
+
+## Offensive
+ 
+Celui qui fixe les termes d’un combat peut organiser la dynamique au désavantage de son adversaire. Lorsque la police entraîne des foules hostiles dans des couloirs vides, des garages ou des ruelles, c’est ce qu’elle tente de faire. C’est la tactique des gouvernements qui définissent les conflits comme des « enjeux » et des « débats », conférant le pouvoir à ceux qui sont les mieux placés pour générer un consensus public et gérer l’information (c.‑à‑d. les politiciens et l’appareil électoral qui en fait la promotion). Pour ceux qui ont moins de moyens, les meilleures stratégies sont celles qui prennent leurs adversaires au dépourvu, les obligeant à réagir de manière inefficace ou imprécise. Idéalement, l’adversaire ne devrait même pas comprendre ce qui se passe.
+ 
+Les activistes tenants de l’action directe mettent l’accent sur l’illégalité. Collecte d’informations, engagements frontaux audacieux, attaques surprises, tactiques d’essaimage, manœuvres de délit de fuite, frappes de cibles ou d’infrastructures non protégées, campagnes en ligne ciblées, formation de groupes ciblés ou de foules décentralisées… Tous ces éléments sont plus ou moins familiers à ceux qui ont été acteurs.rices d’émeutes, de rébellions et de campagnes d’action directe au cours de la dernière décennie.
+ 
+Pourtant, il y a plus à dire sur les principes de l’illégalité et comment les mettre en œuvre dans la mobilisation.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/10.jpg Old Atlanta Prison Farm. La terre a lentement guéri de siècles de violence. ]]
+
+## La diversité des mouvements est un atout
+ 
+À ce jour, le mouvement pour la défense de la forêt d’Atlanta ne s’est pas structuré sur une stratégie unique. Les participant.e.s ont utilisé plusieurs stratégies en parallèle, les forces d’une approche comblant les faiblesses d’une autre. Une mobilisation fonctionne mieux lorsque les participant.e.s tolèrent celles et ceux qui ont des tactiques et des priorités différentes. Dans un mouvement qui s’adapte à un large éventail d’approches, des stratégies particulières peuvent succomber à des pressions sans compromettre l’ensemble de la mobilisation.
+
+Comme mentionné précédemment, il y a eu des tensions concernant les priorités des différents groupes, les identités présumées des participant.e.s, et les liens allégués entre leurs expériences d’oppression et leurs idéologies politiques. Parfois — et cela n’est pas unique à ce mouvement —, les mentalités rigides ont miné la capacité de certain.e.s participant.e.s à imaginer une lutte cohérente autour d’objectifs et de motivations qui se chevauchent mais restent distincts. Au pire, cela a conduit certain.e.s à prétendre que ça ne valait pas la peine de collaborer avec celles et ceux qui ont des priorités différentes. De nombreux mouvements ont été paralysés par ce genre de mentalité au cours des cinq dernières années — et les services de police, les gouvernements municipaux, les réactionnaires et les opportunistes libéraux n’ont pas raté l’occasion d’exploiter cette possibilité. L’expérience et le bon sens suggèrent qu’il n’est pas sage de mettre tous ses oeufs dans le même panier — et que la répétition n’est pas toujours un signe de désorganisation, comme le laissent entendre certaines tendances centralisatrices, mais peut être l’expression d’une approche plus résiliente de l’organisation, tant que les objectifs généraux restent en ligne de mire.
+
+C’est plus efficace d’être critique et curieux.se que dogmatique. Si un groupe ou une tendance s’organise seul, alors laissez-le faire. Si l’on s’aventure en terrain inconnu, il vaut mieux travailler avec d’autres, même à contre-coeur. Si on ne peut travailler qu’avec celles et ceux qu‘on peut bousculer, intimider ou humilier, ces allié.e.s manqueront certainement de conviction, de courage et d’intelligence. La confrontation des différences, des critiques et des préoccupations est une force dans un mouvement et idéalement, elles devraient s’articuler dans une visée d’éducation et d’apprentissage mutuels, de peur de virer à la répression et de servir les desseins de la police et des entrepreneurs —un tournant à l’œuvre dans diverses tendances ou cliques qui en viennent à lentement se cannibaliser.
+ 
+[[ https://twitter.com/defendATLforest/status/1452666819240734728 ]]
+
+*Ils veulent massacrer la forêt ! Empêchons-les ! « NO ONE WAY WORKS,…” Diane di Prima. Une tactique isolée échoue, il faudra s’y mettre tous pour réussir.*
+
+## Le modèle SHAC
+ 
+Une stratégie court dans le mouvement depuis l’automne dernier, depuis les manifestations chez Joyce Shepherd et les autres conseillers municipaux jusqu’aux pressions exercées contre Reeves Young et Ryan Milsap de Blackhall Studios. Elle pourrait se résumer ainsi : **tenir les décisionnaires des projets personnellement responsables de leurs actes et de ceux des entreprises qu’ils possèdent.** Une stratégie forcément controversée par le système de règles et de normes sous lequel nous vivons qui stipule que les exploiteurs, les seigneurs de guerre, les meurtriers de masse et ceux qui détruisent les écosystèmes ne doivent pas faire face à des pressions à la maison en raison des décisions qu’ils prennent au travail. Elle rejette la logique de la « responsabilité limitée » qui est à la base de la règle d’entreprise dans notre société.
+ 
+Au début du 21ème siècle, les défenseurs des droits des animaux au Royaume-Uni et aux États-Unis ont entrepris de faire tomber la plus grande société d’expérimentation animale de la planète, Huntingdon Life Sciences (HLS). La campagne « Stop Huntingdon Animal Cruelty » (SHAC), officiellement dissoute en 2014, est surtout connue pour son internationalisation ambitieuse au début des années 2000. La méthodologie de ce mouvement, qui englobait l’action directe, les manifestations symboliques, les événements culturels, le sabotage, les farces et plus encore, comprenait de nombreuses caractéristiques utilisées depuis dans d’autres campagnes. La stratégie globale de SHAC a consisté à mobiliser des petits groupes qui ciblaient uniquement le fonctionnement économique des entreprises impliquées dans l’expérimentation animale. Le modèle SHAC est ainsi centré sur le ciblage tertiaire, c’est-à-dire isoler les fournisseurs de services afin de limiter leurs capacités à répondre à leurs clients, qui sont la cible réelle.
+
+Une méthode tout à fait adaptée à la lutte contre le développement de Cop City et de Blackhall Studios dans la forêt de South River.
+ 
+[Le modèle SHAC](/2008/09/01/the-shac-model-a-critical-assessment) isole le prestataire de services (p. ex., Reeves Young ou quiconque engagé pour Blackhall) de ses clients tiers, de ses contrats de construction, des entreprises qui gèrent leur aménagement paysager ou leurs données, et de toute entreprise qui leur fournit de la main-d’œuvre ou des fournitures.
+ 
+Le prestataire de services dépend de nombreux tiers qui lui fournissent les assurances, le matériel, l’équipement, la sécurité, la restauration, le nettoyage, le service de courrier, l’entretien des données et plus encore. Il s’agit donc d’exercer des pressions sur ces tiers pour qu’ils abandonnent le prestataire de services. En outre, le prestataire est probablement une entreprise qui compte plus d’un client, et ces autres clients peuvent également être poussés à l’abandonner. Toute entreprise ou tout entrepreneur en mesure de transférer son argent au prestataire peut faire l’objet de pressions.
+ 
+Essentiellement, cette stratégie ne remet pas directement en question le prestataire et, par conséquent, le client. À ce jour, on ne sait toujours pas qui est le prestataire de Blackhall, même si cette information sera divulguée tôt ou tard.
+
+[[ https://twitter.com/defendATLforest/status/1483867828935610380 ]]
+
+*Arrêtons Reeve Young: …les gens qui tuent la forêt ont des noms et des adresses.*
+
+### Limites de la stratégie SHAC
+ 
+C’est plus difficile pour les militant.e.s de maintenir un sentiment d’urgence quand iels se mobilisent loin de la forêt. Cibler les individus à leur bureau et à leur domicile implique principalement celles et ceux qui privilégient le conflit, et non ceux.elles qui préfèrent maintenir des espaces de rencontre accueillants, construire des cabanes dans les arbres, des campings propres ou cuisiner pour d’autres, cultiver le genre d’imagination collective nécessaire pour transformer la société.
+ 
+Sans recherches ou cartographies adéquates, les activistes peuvent perdre du temps à cibler des institutions mineures et des entreprises qui ne veulent pas ou ne peuvent pas abandonner leurs contrats. Iels vont passer des mois sur des entreprises insignifiantes avec de nombreux sous-traitants possibles. Les forces déterminées à détruire la forêt sont en mesure de piéger les militant.e.s dans les batailles juridiques. Les lois sont toujours biaisées en faveur du profit.
+ 
+Celles et ceux qui utilisent cette stratégie développent parfois une idée tordue de la nature du pouvoir. Alors que notre société est gouvernée par des entreprises et des États, et que ces entités sont dirigées par des humains, les schémas d’exploitation, d’abus, de destruction et de violence ne sont pas uniquement causés par la malveillance de certaines personnes. Tenir les individus responsables de leurs actions peut être une tactique efficace ponctuelle mais le but ultime est d’émanciper toute l’humanité et la terre, y compris ceux qui profitent de l’arrangement actuel, [de ne pas juger ou punir les malfaiteurs](/2019/04/08/against-the-logic-of-the-guillotine-why-the-paris-commune-burned-the-guillotine-and-we-should-too).
+ 
+Toutes les idées peuvent être mises en pratique et jugées. L’idée d’utiliser cette stratégie pour défendre la forêt repose sur une hypothèse simple : si Reeves Young est contraint d’abandonner le contrat avec APF, les investisseurs d’APF perdront la confiance nécessaire pour le remplacer et le projet échouera. Il en va de même pour le projet Blackhall.
+
+Si les militants battent Reeves Young par l’action directe et l’auto-organisation, le mouvement aura gagné en assurance et pourra évoluer, même si un nouvel entrepreneur est embauché.
+ 
+[[ https://twitter.com/defendATLforest/status/1473374883811934211 ]]
+
+*Dean Reeves est cofondateur de Reeves Young, la société de construction engagée pour détruire la forêt d’Atlanta et construire #CopCity; Ce rapport sur @scenesatl dit qu’il a récemment reçu une visite chez lui.*
+
+## Leçons apprises : I-69 et NODAPL
+ 
+Il y a eu de nombreuses luttes contre des plans d’aménagement sur le territoire américain au cours des deux dernières décennies. Des mobilisations populaires ont interrompu des pipelines, des projets industriels, de nouvelles prisons, des explosions dans les montagnes et des déforestations. Les leçons ont été tirées des mouvements qui ont échoué, comme la lutte pour empêcher la construction de l’Interstate 69 et celle contre le pipeline Dakota Access à Standing Rock.
+ 
+Dans le mouvement contre l’I-69, la soi-disante « super autoroute de l’ALENA », un petit groupe d’anarchistes et d’environnementalistes ont élaboré une stratégie axée sur l’action directe et la propagande dans le sud de l’Indiana, où la construction devait commencer, pour étouffer le projet dans l’œuf. En fin de compte, les intérêts industriels en jeu dans la construction de l’autoroute ont déjoué les groupes autonomes et leurs alliés. La stratégie choisie a engagé les organisateur.trice.s à partir loin de chez eux, dans une région souvent hostile. Ils ont pu établir des relations solides avec les agriculteurs.rices directement confronté.e.s à des expropriations mais le FBI a œuvré pour isoler ces cultivateurs.rices en s’adressant aux pasteurs de leurs églises qui ne se sentaient pas menacés par la route, mais qui étaient paniqués par les anarchiste. Si ceux.elles qui s’opposaient à l’autoroute avaient travaillé à renforcer la mobilisation le long des travaux, dans des régions agricoles plus accueillantes, des villes-collèges et des grandes villes plus au nord, une lutte plus conséquente aurait certainement émergée. Cette stratégie aurait reposé sur une mobilisation au long court pendant les années nécessaires à l’État pour mettre en place son projet, plutôt que de tenter une confrontation directe au début des travaux.
+ 
+Dans le mouvement qui s’opposait à la construction de l’oléoduc Dakota Access sur les terres des Lakotas, un puissant réseau de groupes autochtones, d’environnementalistes, d’anarchistes et de manifestant.e.s s’est constitué aux côtés de spiritualistes, d’avocat.e.s et de politicien.ne.s locaux. Malgré les efforts des premier.e.s organisateurs.rices et militant.e.s, le mouvement a privilégié les voix des militant.e.s aguerri.e.s et des politicien.ne.s opérant au sein des structures coloniales aux dépends de l’expression des jeunes et des Lakotas de la classe ouvrière. Ce qui a conduit à condamner les tactiques efficaces — « non violentes » ou autres — et à favoriser actions symboliques et stratégies légalistes.
+ 
+Après plusieurs mois d’occupation, des annonces déroutantes ont été émises par le président de l’époque, Barack Obama, laissant entendre que le mouvement avait réussi, alors que la construction n’avait été que retardée. Après cela, David Archambault et d’autres membres du mouvement ont utilisé des arguments identitaires pour démobiliser les campements et désagréger le mouvement. Archambault a été généreusement récompensé pour avoir joué ce rôle, tandis que d’autres ont été emprisonné.e.s. Ce qui coïncidait parfaitement avec la stratégie de Tiger Swan, la société de sécurité privée engagée par l’entreprise de pipelines, qui visait à diviser le camp sur des questions identitaires pour isoler les radicaux.
+ 
+Les défenseur.e.s de la forêt d’Atlanta doivent poursuivre leurs stratégies de masse, en évitant des campagnes trop ciblées et en s’appuyant sur des ressources culturelles pour élargir le soutien, reconstituer les effectifs et résister à la répression. Dans le même temps, ils devraient répandre largement les tactiques décentralisées qui impliquent les individus pour limiter les dommages infligés au mouvement par ceux.elles qui veulent prendre le pouvoir ou les opportunistes.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/14.jpg Forest Defenders affrontent Long Engineering et la police du comté de Dekalb. class:portrait ]]
+
+***
+
+# Le choc de la victoire
+
+[On gagne plus qu’on ne croit](/2020/09/03/the-shock-of-victory-an-essay-by-david-graeber-and-a-eulogy-for-him/). En vingt ans de résistance, manifestée par des mouvements d’action directe à l’échelle « locale » et « mondiale », les attitudes ont changé dans notre société. Les pressions et les idées des mouvements sociaux ont contribué à cette transformation. La résistance autochtone et écologiste à l’oléoduc Dakota Access en 2016 a été très soutenue, la participation des jeunes blancs et des non noirs aux côtés des rebelles noirs au soulèvement de George Floyd en 2020 a été d’une ampleur inédite et sans précédent. Et, à travers toute une gamme de tendances politiques, le consensus est général sur la crise de l’ordre néolibéral né dans les années 80 et la nécessité inéluctable d’une transformation de la politique mondiale.
+
+Dans de nombreux mouvements de défense de l’environnement, il est difficile d’atteindre les objectifs à court terme ; les protagonistes procèdent souvent comme s’ils ne s’attendaient pas à gagner. Les objectifs à moyen terme, bien qu’ils soient rarement énoncés à voix haute, comprennent généralement des objectifs plus généraux, comme :
+
+- Décourager les futures entreprises écologiquement destructrices.
+- Légitimer les stratégies d’organisation autoritaires.
+- Démoraliser ou remettre en question la légitimité des forces policières et des canaux institutionnels.
+- Innover, diffuser des cadres ou des tactiques basés sur l’action directe.
+- Répandre des idées radicales et élargir les réseaux de ceux.elles qui s’en emparent.
+ 
+Lorsque nous considérons la dernière décennie sous cet angle, il est difficile de soutenir que les anarchistes, les abolitionnistes, les antifascistes, les environnementalistes, les féministes, les activistes dans les prisons et les radicaux autochtones et noirs ont échoué. Certains de ces objectifs ont été atteints à un point tel que des tactiques et des propositions qui se limitaient à la frange radicale il y a 20 ans ont été adoptées par des millions de personnes.
+ 
+Les objectifs à long terme — la révolution mondiale, la décolonisation, l’abolition du capitalisme, la destruction des frontières et des hiérarchies raciales, l’abolition de la police et des armées permanentes, l’avènement de la vraie communauté — ne semblent pas immédiatement réalisables, mais ils sont peut-être plus proches. Depuis 2018, selon le [Fonds monétaire international](https://www.elibrary.imf.org/view/journals/001/2020/129/article-A001-en.xml), les marées de révolutions, d’insurrections, de bouleversements et de désobéissances de masse ont atteint des proportions historiques. Jusqu’à présent, la plupart de ces rébellions ont été réprimées ou apaisées, confirmant la doctrine révolutionnaire classique selon laquelle seule une révolution mondiale peut vraiment nous émanciper, car l’ordre dirigeant commande maintenant des forces de répression à un niveau mondial. Néanmoins, comme nous le constatons en Ukraine en ce moment, il y a des limites à ce que même les plus puissantes de ces armées peuvent faire.
+ 
+Mais qu’en est-il de ceux.elles d’entre nous qui sont engagé.e.s dans des luttes concrètes aujourd’hui, des luttes que nous sommes déterminé.e.s à gagner ? Paradoxalement, il semble que de nos jours, il est plus facile d’atteindre des objectifs à moyen terme que des objectifs à court terme, et les gens se concentrent plus souvent sur des objectifs à long terme que sur des objectifs à court terme. D’une certaine manière, des milliers de personnes ont participé à la destruction de quartiers commerciaux, à l’établissement de zones sans flic et au blocus d’aéroports, mais il est encore très difficile d’imaginer la protection d’une réserve naturelle aux limites d’une ville. C’est troublant, mais cela ne devrait pas être démoralisant. Comme nous l’avons déjà vu, il y a plus de certitudes dans le fait que des milliers de personnes arracheront des pavés pour combattre la police que de voir le conseil municipal d’Atlanta tenir compte des demandes de ses propres électeurs. C’est précisément cet enchaînement d’événements, transformé en une tempête d’émeutes sur les ruines du [commissariat de la zone 3](/2020/06/10/the-siege-of-the-third-precinct-in-minneapolis-an-account-and-analysis), qui a ouvert le débat sur la restructuration des forces de l’ordre dans le pays, et non les campagnes réformistes des décennies précédentes.
+ 
+Dans ce contexte, ceux.elles qui se consacrent à la défense de la forêt d’Atlanta se trouvent dans une situation difficile, mais pas impraticable. D’une part, ils doivent élaborer un cadre, répartir les interventions sur une grande échelle afin que tous les groupes puissent participer et faire des propositions. Les objectifs de ces unités doivent être suffisamment immédiats pour renforcer la confiance et la fougue des militant.e.s dans de petites victoires. Ils doivent agir comme si la victoire était possible — car c’est sûrement le cas — tout en gardant à l’esprit qu’une autre révolte contre la police, la gentrification, l’effondrement du climat ou le racisme pourrait éclater *partout,* éclairée par l’expérience qui émerge d’une lutte qui reste, pour l’instant, une affaire locale.
+ 
+C’est une immense responsabilité et un cadeau. L’influence de groupes militants et d’organisations peut se noyer dans le chaos des soulèvements massifs, alors que des millions de personnes s’emparent de leur propre vie. Pourtant, au cours de la dernière décennie, nous constatons combien les [innovations des radicaux](https://libcom.org/article/after-fall-communiques-occupied-california) et des petits groupes dans les mouvements locaux peuvent façonner l’imagination des [mouvements de masse](/2013/09/10/after-the-crest-part-ii-the-rise-and-fall-of-the-oakland-commune) qui suivent. La défense de la forêt d’Atlanta influencera les luttes à venir. Ce que nous faisons maintenant créera un précédent pour ce qui arrivera plus tard. Ne reculons pas.
+
+***Pas de Cop City, pas de Dystopie Hollywoodienne !***
+
+[[ https://twitter.com/defendATLforest/status/1513380231460974597 ]]
+
+*Appel à la solidarité nationale le 1er mai pour défendre la forêt d’Atlanta contre la ville des flics.*
+
+***
+
+# Annexe : La prison agricole d'Atlanta et l'héritage du réformisme carcéral
+ 
+En 1821, après avoir contraint les Muscogees à quitter la Géorgie à marche forcée, l’État de Géorgie a construit une ligne de chemin de fer à l’ouest de la région en bordure des terres Muscogee et Cherokee, à l’endroit de l’actuelle Atlanta. Il fallait développer l’industrie en établissant des avant-postes commerciaux et un système ferroviaire national reliant les zones agricoles du Sud aux zones industrielles du Nord-Est.
+ 
+En utilisant la main-d’œuvre et l’infrastructure du Decatur voisin, fondé en 1822 après la saisie du territoire de Muscogee, les habitants et les entreprises se sont rapidement installés autour du terminus de la ligne de chemin de fer, devenu un centre logistique majeur, sans doute le plus grand dans le sud-est des États-Unis.
+En 1864, pendant la guerre de Sécession, le général Sherman attaqua Atlanta, incendiant presque tout le chemin de fer et les bâtiments environnants, détruisant ainsi la capacité de l’armée confédérée de déplacer des troupes et des ressources sur son territoire. Dans les années qui ont suivi, la population d’Atlanta a explosé. Elle est devenue l’une des plus grandes villes du Sud-Est, avec une importante population noire et ouvrière.
+ 
+Pendant la Reconstruction, les frontières de la ville se sont élargies pour accueillir les vagues de nouveaux résidents, y compris les noirs émancipés arrivant des plantations. Avec cette croissance, le pouvoir de l’administration municipale s’est accru parallèlement aux efforts des capitalistes locaux pour attirer des investissements dans la nouvelle capitale de l’État. Le gouvernement a obtenu le droit d’ouvrir des ateliers publics, des moulins, des usines et des parcs.
+En 1920, le gouvernement de la Géorgie a transformé une ferme laitière municipale située sur Key Road en prison. La mutation de l’usine de laiterie de la ville en camp de travail forcé illustre la relation entre la production et la manière de gouverner aux États-Unis. Malgré les espoirs des premiers réformateurs et idéologues, l’État n’est pas un véhicule de résolution des conflits, ni un instrument de réconciliation de classe ou un moyen d’établir la paix sociale. La fonction principale de l’État est de faire respecter les hiérarchies en matière de connaissances (sacrées, légales ou autres), de contrôle des ressources (y compris la terre, les matières premières, le capital, les moyens de production, le travail, les armées…) et de prise de décision (bureaucraties, tribunaux, congrès…). Tant qu’un État contrôle un territoire, il se réserve le droit de transformer tout élément de ce territoire en une opération ou une installation policière.
+ 
+On le voit dans l’histoire des anciennes laiteries de Key Road. Comme l’a documenté l’Atlanta Community Press Collective dans son article de 2021 intitulé « [Esclavagisme, surpopulation et tombes anonymes](](https://atlpresscollective.com/2021/08/14/history-of-the-atlanta-city-prison-farm)) » la prison agricole d’Atlanta a été rebaptisée moult fois pendant les années suivantes, tout en étendant son autorité et ses biens au cours de phases successives de réformes et de restructurations « humanitaires ».
+ 
+Au début, l’ouverture de la prison agricole a été justifiée par un récit mensonger sur la stagnation économique dans les laiteries et par l’indignation morale entourant des conditions de vie très dégradées dans un bâtiment voisin sur l’avenue Glenwood. En 1944, les prisonniers ont dû construire un nouvel hôpital destiné à fournir des soins médicaux aux détenus, surmenés, agressés sexuellement par des gardes, torturés et parfois tués par les autorités pénitentiaires. Une fois terminé, les autorités ont mis les prisonniers au travail pour le nettoyage et l’entretien, mais l’infrastructure médicale elle-même a été utilisée pour traiter les personnes atteintes de maladies vénériennes dans la ville et non ceux qui l’ont bâtie, poursuivant une stratégie de longue date visant à fournir des avantages sociaux à une partie de la classe ouvrière en intensifiant l’exploitation de leurs voisins sans emploi et racisés.
+
+La prison était utilisée pour l’incarcération systématique des vagabonds et des « ivrognes », poussés par la notion moraliste que la solitude et le travail acharné renouvelleraient l’« [honneur](https://www.abandonedspaces.com/prisons/atlanta-prison-farm.html?firefox=1) » des captifs. Le surpeuplement, une excuse préférée de l’État carcéral, a été utilisé pour justifier l’expansion de la prison six fois de 1929 à 1960.
+
+Au début des années 1980, les pressions exercées par l’American Civil Liberties Union ont forcé la Prison Farm à remplacer ses unités d’isolement cellulaire par vingt cellules supplémentaires ; les réformateurs qui ne comprennent pas la nécessité de détruire ces installations aboutissent souvent à introduire une cruauté plus rationnelle et efficace. À cette époque, les peines pour alcoolisme et autres crimes « de qualité de vie » ont commencé à diminuer, tout comme la population d’Atlanta s’est contractée. Entre 1970 et 1990, la ville a perdu 21 p. 100 de ses habitant.es — la plupart d’entre eux blanc.he.s —. La réorganisation industrielle et la segmentation raciale dans la classe ouvrière fournissaient des emplois aux travailleurs blancs dans les secteurs des bureaux, des services et de la logistique, à l’extérieur des limites de la ville tandis que les travailleurs noirs restaient concentrés dans un noyau urbain de plus en plus démuni et abandonné.
+
+[[ https://cdn.crimethinc.com/assets/articles/2022/04/11/7.jpg Les ruines de la vieille prison d’Atlanta ont longtemps été le repaire des rebelles et des visionnaires. ]]
+
+## Ne les laissez pas se re former
+ 
+> « Les réformistes carcéraux espèrent profiter de cette occasion pour introduire des ajustements qui stabiliseront les régimes de confinement et de contrôle pour un autre siècle. Mais à ce stade, des actions stimulantes pourraient catalyser un mouvement qui pousse à l’abolition plutôt qu’à la réforme. »
+>
+> - [Storming the Gates](/2019/05/23/storming-the-gates-the-new-wave-of-frontal-attacks-on-prisons-jails-and-detention-centers)
+ 
+Depuis plus d’un siècle, les demandes de réforme du système carcéral ont préservé sa logique sous-jacente de contrôle, en invoquant le progrès et l’avenir. Les concepteurs de Cop City font valoir l’idée que, dans le camp, les agents seront formés à des techniques de police « moins létales ». Après la révolte de 2014 à Ferguson, dans le Missouri, les groupes civiques ont intensifié leurs demandes pour que les policiers soient équipés de caméras corporelles, dans l’espoir de freiner les exécutions illégales de Noirs. [Ce qui n’a pas limité la violence policière](/2017/03/16/cameras-everywhere-safety-nowhere-why-police-body-cameras-wont-make-us-safer), mais a permis à la police d’obtenir encore plus de ressources.
+ 
+Alors que les commissaires du comté de Fulton canalisent plus d’un million de dollars vers la création d’une nouvelle prison, John Keen et d’autres membres du gouvernement municipal justifient cela par un discours « humanitaire » sur le surpeuplement. Il est possible qu’ils aient l’intention de construire cette nouvelle prison à proximité de l’enceinte de Cop City.
+ 
+Au cours de la dernière demi-décennie, les abolitionnistes ont gagné du terrain contre ces tactiques, luttant pour renverser, démanteler ou fermer les institutions carcérales plutôt que de les réformer. Mais pour que ces efforts réussissent, les gens ordinaires doivent se concevoir comme des agents du changement social — au même titre que les milliers de participants au [siège du commissariat de la zone 3 à Minneapolis](/2020/06/10/the-siege-of-the-third-precinct-in-minneapolis-an-account-and-analysis) — au lieu de se tourner vers des représentants politiques ou des organisations à but non lucratif. Même les politiciens les plus sincères sont liés par des procédures, des lois et des ententes secrètes inconnues de la plupart des gens. L’action sur le terrain est tout simplement plus efficace que le changement institutionnel, même si le changement institutionnel est votre seul objectif. Cette compréhension éclaire la lutte actuelle pour arrêter l’expansion de la police dans la forêt de South River.

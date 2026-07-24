@@ -1,0 +1,90 @@
+---
+title: "E Depois da Guerra?"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2022/04/26/e-depois-da-guerra-as-perspectivas-para-as-lutas-sociais-na-ucrania-bielorrussia-e-russia-1"
+---
+
+A invasão russa da Ucrânia colocou a Europa Oriental em desordem, interrompendo uma ordem mundial já volátil. Mas o que se seguirá à guerra? E como o resultado moldará as perspectivas dos movimentos revolucionários na região?
+
+A guerra criou um terreno fértil para nacionalistas e militaristas recrutarem na Ucrânia, Rússia, Polônia e em outros lugares da Europa. O armamento que a OTAN está enviando para a Ucrânia e regiões vizinhas permanecerá por lá nos próximos anos, intensificando a contagem de corpos em futuras guerras civis em toda a região, modeladas nas guerras de aliados em Donbas e na Síria. Os soldados que sobreviverem aos combates trarão de volta as consequências de experiências traumáticas, que alguns deles irão reviver em suas próprias comunidades – ou nas comunidades de outros como mercenários em conflitos futuros. O patriarcado e o fundamentalismo normalmente se intensificam como consequência da guerra, como vimos do Líbano à Palestina, do Irã ao Afeganistão – e possivelmente, em menor grau, também nos Estados Unidos, após as invasões do Afeganistão e do Iraque.
+
+Como reconheceu o próprio presidente ucraniano [Volodymyr Zelenskyy](https://www.haaretz.com/world-news/europe/.premium.HIGHLIGHT-zelenskyy-says-post-war-ukraine-will-emulate-israel-won-t-be-liberal-european-1.10721395), esta guerra é um passo em direção a um mundo de militarização permanente, em que o modelo israelense de policiamento militarizado se tornará a norma e a força bruta será o principal meio de resolver as diferenças políticas. Grandes populações de refugiados deslocados por guerras e crises econômicas e ecológicas serão segregados de acordo com hierarquias nacionais e étnicas – recebidos em lares acolhedores, amontoados em campos de internamento ou [empurrados de volta para as fronteiras para morrer](https://pt.crimethinc.com/2022/03/29/solidariedade-em-tempos-de-guerra-e-deslocamento-anarchists-confront-the-weaponization-of-refugees-on-the-poland-belarus-border).
+
+Em resposta a tudo isso, anarquistas esperam avançar com outra visão do futuro, estabelecendo a solidariedade entre movimentos antiguerra, antinacionalistas e antiestatais em todas as fronteiras e linhas de diferença. Em vez de nos identificarmos com qualquer governo ou círculo capitalista, apontando os erros de alguns para desculpar os erros de outros, pretendemos construir a capacidade de interromper a guerra e a exploração [por meio de ações populares de base](https://pt.crimethinc.com/2022/03/31/russia-waiting-for-the-wheel-of-history-to-turn-reflections-on-the-first-phase-of-the-russian-anti-war-movement). Antecipar os desafios que os movimentos sociais da região enfrentarão após esta guerra pode nos ajudar a definir nossas prioridades.
+
+Com camaradas da Rússia, preparamos uma tradução do seguinte [artigo](https://avtonom.org/author_columns/voyna-i-socialnaya-borba-0) de Vladimir Platonenko explorando quais serão as perspectivas para a luta social na Ucrânia, Bielorrússia e Rússia após o término da guerra. Você pode ler uma tradução em inglês de um artigo anterior dele sobre a guerra [aqui](https://theanarchistlibrary.org/library/vladimir-platonenko-about-the-war-with-ukraine). Embora Platonenko assuma como certo que a Rússia será derrotada — o que dificilmente nos parece uma conclusão precipitada — consideramos este texto valioso porque mostra os perigos de se identificar com o governo ucraniano e enfatiza a responsabilidade dos liberais russos pela situação na Rússia hoje, o que pode se repetir mesmo que Putin seja de alguma forma derrubado do poder.
+
+***
+
+# Guerra e luta social na Ucrânia
+
+A pior coisa que Putin fez na Ucrânia foi reconciliar as autoridades com o povo. O presidente passou de objeto de crítica universal para o Charles de Gaulle ucraniano.[^1] O general do Ministério do Interior ucraniano se oferece para se entregar ao exército russo em troca da libertação de civis da cidade sitiada e se torna um herói nacional. Toda a população da Ucrânia, dos sem-teto ao oligarca, se une em uma luta comum. É o mesmo que na URSS em 1941, quando Stalin chamava a todos de “irmãos e irmãs” e as pessoas acreditavam em sua sinceridade. Se aquela guerra foi uma guerra doméstica para a URSS, então esta se tornou uma guerra doméstica para a Ucrânia. Kharkov e Mariupol são percebidos como Stalingrado, Leningrado ou a Fortaleza de Brest. Lembre-se de como Vysotsky cantou sobre o bloqueio de Leningrado? “Todo mundo estava morrendo de fome, até o promotor.” Bem, nem todos morreram de fome e nenhum dos altos funcionários morreu de distrofia. Mas na memória do povo, continua do jeito que o poeta cantou. O mesmo será dito e cantado sobre Mariupol ou Kharkov.
+
+E quando a guerra terminar, todas as dificuldades serão atribuídas a ela. Os famintos e os sem-teto ficarão tranqüilos com o fato de terem vencido. E o Maidan social [o levante],[^2] que está se formando lentamente na Ucrânia, será adiado por um longo tempo.
+
+Já aconteceu após a anexação da Crimeia. No Maidan [ou seja, em [2014](https://pt.crimethinc.com/2022/02/24/guerra-e-anarquistas-perspectivas-antiautoritarias-na-ucrania)], muitas pessoas disseram que depois de Yanukovich, teríamos que lidar com os oligarcas em seguida. Depois que a Rússia tomou a Crimeia, isso foi esquecido.[^3] "Agora não. A pátria está em perigo.” Agora, isso está acontecendo de novo, mas em um tom muito mais áspero.
+
+Para ser justo, as contradições entre as autoridades e o povo, e a diferença de interesses e objetivos das classes alta e baixa não desapareceram. Na região de Poltava, se não me engano, houve confisco dos aldeões… onze tanques russos (abandonados pelos russos). Ou seja, os aldeões usariam esses tanques como arados ou tratores, e o exército ucraniano os confiscou. Mas, por enquanto, tais contradições são resolvidas em favor do governo – em nome de uma vitória comum.
+
+A Ucrânia sempre foi boa em uma coisa: sempre foi normal depor o governante que desagradou o povo. Isso a diferenciava da Moscóvia (antiga Rússia), onde a figura do czar era sagrada. As exceções foram a [Era das Perturbações](https://en.wikipedia.org/wiki/Time_of_Troubles), que foi encerrado pelo mercador (Minin) e pelo príncipe (Pozharsky). Mas na Ucrânia, sempre foi a regra que os líderes impopulares são expulsos. Esta tradição ucraniana remonta pelo menos aos tempos dos cossacos. Quantos atamans cossacos ucranianos pagaram com suas posições, e às vezes com suas vidas, por “medidas impopulares”! Se esta tradição vai continuar agora é difícil dizer.
+
+É possível que sim. Não é apenas o exército ucraniano que está lutando contra o exército russo, mas também as unidades de defesa territorial. Ou seja: pessoas comuns – que agora têm armas. Eles podem mantê-las. Eles se sentirão envolvidos na vitória e exigirão respeito das autoridades. As autoridades não poderão simplesmente dispersá-los pelos campos, como Stalin fez com os veteranos da linha de frente da Segunda Guerra Mundial.
+
+Mas as autoridades podem enganar as pessoas redirecionando sua raiva do Estado para o inimigo externo. Isso será especialmente fácil se a Rússia for derrotada, mas não liquidada. Sem falar no fato de que tudo isso acontecerá após a vitória. E antes disso, haverá uma guerra santa, na qual o povo e o Partido são um, estão unidos. Ou seja, o povo e o governo, neste caso.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/04/06/4.jpg]]
+
+# Na Bielorrússia
+
+Se na Ucrânia a guerra reconciliou as autoridades com o povo, ou melhor, o povo com as autoridades, na Bielorrússia é bem o contrário. Lukashenko não está ansioso para ir à guerra. Ele também não quer se envolver nesse confronto. No entanto, ele tem que participar, mesmo que apenas permitindo que o exército de Putin passe por seu território. E a questão do exército bielorrusso se juntar à guerra permanece em aberto.
+
+O povo não quer guerra com a Ucrânia. Eles até organizam sabotagem nas ferrovias. Além disso, voluntários bielorrussos já estão lutando ao lado da Ucrânia, formados em uma unidade separada.[^4] É claro que, no futuro, isso se tornará a base do exército anti-Lukashenko. Pode-se imaginar qual lado receberá a simpatia da maioria do povo bielorrusso, se houver uma guerra entre os partidários e os oponentes de Lukashenko. Como o Ocidente não reconhece Lukashenko como o presidente legítimo, deve-se supor que o exército anti-Lukashenko não terá falta de alimentos, equipamentos ou armas. E muito provavelmente vencerá. A questão é o que acontecerá na Bielorrússia depois. 
+
+A esquerda liberal bielorrussos mostraram sua inutilidade ao arruinar [os protestos de 2020](https://crimethinc.com/2021/06/30/belarus-when-we-rise-a-critical-analysis-of-the-2020-revolt-against-the-dictatorship). No entanto, isso provavelmente não os impedirá de reivindicar sua parte na vitória (“Trabalhamos duro!”) e reivindicar um lugar no governo. Tanto mais que todo o Ocidente unido estará do lado deles.
+
+Praticamente não há leninistas na Bielorrússia. Esse nicho é ocupado pelo próprio Lukashenko, que prometeu preservar o estado de bem-estar social em troca da obediência das massas. Os nacionalistas clássicos também são fracos lá – considerando-os seus principais inimigos, Lukashenko reprimiu tudo relacionado à cultura bielorrussa. Por outro lado, há “anarco”-nacionalistas [sic].[^5] No entanto, é difícil para mim estimar o quão forte eles são.
+
+Ao mesmo tempo, até os eventos de 2020, havia um movimento anarquista bastante forte na Bielorrússia. Ao contrário dos progressistas, anarquistas não deram flores à tropa de choque nem incitaram outros a fazerem o mesmo. Não é à toa que muitos deles acabaram atrás das grades. Mas mesmo depois disso, pelo que entendi, há alguns anarquistas no destacamento bielorrusso lutando na Ucrânia. Pelo menos é o que mostram as fotos.[^4] Portanto, a menos que as autoridades ucranianas ou a oposição bielorrussa os “eliminem” (e muito provavelmente as autoridades ucranianas não precisarão, e a oposição bielorrussa simplesmente não poderá fazê-lo antes da vitória), então após a vitória sobre Lukashenko, anarquistas poderiam se tornar uma força independente na Bielorrússia.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/04/06/3.jpg]]
+
+# Na Rússia
+
+A pior situação está nos territórios da Federação Russa. A parte mais ativa, capaz e educada da população foge para o exterior ou é reduzida a pó pelas guerras. Alguns dos soldados que se renderam aos ucranianos passaram para o lado da Ucrânia e pretendem lutar desse lado. Mas essas pessoas são muito poucas para entrar em Moscou como libertadores da Rússia. O máximo que podem esperar é que, em caso de derrota da Federação Russa, seu governo concorde em deixá-los retornar ao país não como estrangeiros e traidores nacionais, mas como cidadãos plenos. No máximo, podem ser cidadãos particularmente respeitados, mas nada mais do que isso.
+
+Se [Yulia Latynina](https://en.wikipedia.org/wiki/Yulia_Latynina) merece algum crédito, há um projeto para criar uma rede de emigrantes russos, mas o que está por trás disso e para onde isso levará ainda não está claro. O fato de a social darwinista Latynina estar depositando suas esperanças nisso é mais alarmante do que encorajador para os defensores da justiça social.
+
+Na Rússia de hoje, com suas tradições monárquicas, qualquer tipo de luta contra o regime atual está fortemente associada a Navalny e aos liberais, em quem Navalny provavelmente apostará, assim como Yeltsin fez uma vez. Isso pode levar a uma repetição da era Yeltsin e depois da era Putin. Deixe-me lembrá-lo de que foram Yeltsin e sua comitiva liberal que primeiro arruinaram e roubaram o povo russo, depois nomearam Putin para guardar o que foi roubado.
+
+Isso também significa que são os progressistas os responsáveis ​​diretos pela chegada de Putin ao poder e por todas as atrocidades que ele cometeu. No entanto, eles estão determinados a culpar as pessoas comuns e fazê-las pagar a conta, que o Ocidente apresentará a uma Rússia derrotada.
+
+Acrescente-se que, se na selvagem década de 1990, os empresários russos foram salvos de uma nova revolução popular pela luta de gangues que matou uma parte significativa da população ativa (e não a pior parte, porque em tal luta, os primeiros para morrer foram os que retiveram um vestígio de sua humanidade, enquanto os piores canalhas sobreviveram), agora essa parte da mesma população será esmagada na guerra (e em lutas semelhantes depois dela, quando os soldados acostumados a saquear e matar retornarão do front de batalha).
+
+Em suma, a menos que algum “[cisne negro](https://en.wikipedia.org/wiki/Black_swan_theory)” voe em resgate do povo russo, a Rússia repetirá o Yeltsin-Putin três décadas, ao que o país provavelmente perecerá [sic], exceto Moscou e algumas outras regiões, onde estabelecer-se-á uma “economia próspera” com jornada de trabalho de 12 horas para as pessoas comuns e restaurantes e bordéis de elite para os oligarcas.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/04/06/2.jpg]]
+
+# Possível Desintegração
+
+Entre outras coisas, esse “cisne negro” pode ser a divisão do país em várias regiões. Nem os liberais russos nem o Ocidente querem isso, porque então não ficará claro de quem receber reparações. Na verdade, a falta de vontade de pagar — literal e figurativamente — pelas atrocidades de Moscou pode se tornar uma das razões para a separação de várias regiões. No momento, tal separação é impossível, porque seria rapidamente suprimida pelo exército federal, contra o qual as regiões simplesmente não têm como se opor. Mas após a derrota da Rússia, a situação pode mudar, pois o exército federal ficará enfraquecido e as regiões terão suas próprias formações militares locais.
+
+Se o país entrar em colapso, o monólito do poder vertical também entrará em colapso, e ninguém poderá impor seu modelo de economia a todo o país, do Báltico às Ilhas Curilas, como foi feito na Rússia (lembre-se que uma das principais razões para a primeira guerra chechena foi a rejeição pela Chechênia do modelo [Gaidar](http://news.bbc.co.uk/2/hi/europe/8416497.stm)-[Chubais](https://www.theguardian.com/world/2022/mar/23/putin-adviser-anatoly-chubais-quits-leaves-russia-invasion-ukraine) de privatização). Já falamos sobre a chance de evitar o pagamento das indenizações (que as autoridades tentarão impor às pessoas comuns, não aos funcionários corruptos). Finalmente, a desintegração territorial permitirá que os revolucionários e outros encrenqueiros escapem da perseguição das autoridades, se necessário, simplesmente mudando-se para uma região vizinha – e, quando necessário, para todos se reunirem em uma região, da maneira que ativistas de diferentes países se reuniram para o Maidan.
+
+Mas tudo isso só acontecerá se o colapso seguir o modelo latino-americano, em que todos os moradores da antiga província (cujas fronteiras não coincidem com as fronteiras étnicas) mantêm direitos iguais, independentemente de sua língua e origem, ao invés do modelo africano, em que os membros de um grupo étnico consideram o novo país como seu e todos os outros residentes são (na melhor das hipóteses) assimilados, (na pior das hipóteses) exterminados, ou então simplesmente reduzidos a cidadãos de segunda classe. Neste último caso, ao invés de luta social, teremos conflito inter-étnico.
+
+A secessão da Ucrânia ocorreu de acordo com o modelo latino-americano; na Ucrânia moderna, há tantas pessoas com sobrenomes russos, judeus ou até armênios quanto nomes ucranianos entre os soldados do exército russo que invadiu a Ucrânia, enquanto a discriminação dos Ivanovs e Koganovs na Ucrânia existe apenas na imaginação inflamada daqueles que ouvem Solovyov e Simonyan [proeminentes propagandistas da TV russa]. Mas a separação da Chechênia seguiu o segundo modelo descrito acima: não apenas os russos, mas também representantes de outros grupos étnicos enfrentaram discriminação dos próprios chechenos. E agora, é difícil dizer qual dessas possibilidades aconteceria se a dissolução da Federação Russa ocorresse.
+
+Isso dependerá de muitos fatores, incluindo nós mesmos – embora, infelizmente, não apenas nós.
+
+[[https://cdn.crimethinc.com/assets/articles/2022/04/06/1.jpg]]
+
+[^1]: Charles de Gaulle foi o oficial do exército que liderou o governo francês no exílio durante a Segunda Guerra Mundial e depois reprimiu a revolta de maio de 1968
+
+[^2]: Maidan Nezalezhnosti (“Praça da Independência”) é a praça central de Kiev, capital da Ucrânia. Foi o local de protestos massivos em 2004, durante a chamada “Revolução Laranja”, e novamente em 2013 a 2014 durante os eventos que levaram à [Revolução Ucraniana](/2014/03/17/feature-the-ukrainian-revolution-the-future-of-social-movements) de 2014.
+
+[^3]: Como escrevemos em [2014](/2014/03/17/feature-the-ukrainian-revolution-the-future-of-social-movements), “Governos poderosos não ficarão parados e nem deixarão as pessoas comuns sentirem o gosto de derrubá-los. Eles serão pressionados a intervir, como a Rússia fez na Ucrânia, na esperança de que a guerra possa superar a insurreição. A guerra é uma maneira de fechar possibilidades – de mudar de assunto.”
+
+[^4]: Infelizmente, nossas fontes bielorrussas oferecem um relato menos otimista do destacamento de voluntários bielorrussos lutando na Ucrânia, descrevendo-o como envolvendo elementos de direita.
+
+[^5]: Mediante comunicação direta com o autor e um camarada da Bielorrússia, constatamos que o grupo ao qual o autor se referia não existe mais. Em 2015 e 2016, ex-hooligans antifascistas fizeram um esforço para criar um amálgama de anarquismo e nacionalismo na Rússia, Bielorrússia e Ucrânia, mas de acordo com nossas fontes, nenhum vestígio disso permanece lá.
