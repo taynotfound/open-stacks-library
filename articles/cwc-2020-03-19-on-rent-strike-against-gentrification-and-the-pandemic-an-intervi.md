@@ -1,0 +1,123 @@
+---
+title: "On Rent Strike against Gentrification and the Pandemic"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/03/19/on-rent-strike-against-gentrification-and-the-pandemic-an-interview-with-residents-of-station-40-in-san-francisco"
+---
+
+In the Mission District of San Francisco, Station 40 has served the Bay Area community as an anti-authoritarian collective living and organizing space for nearly two decades. Five years ago, their landlord attempted to evict them, only to be forced to back down by a powerful coordinated solidarity campaign. Now, Station 40 has taken the initiative to respond to the crisis currently playing out across the world, unilaterally declaring a rent strike in response to the economic precarity caused by the [COVID-19 pandemic](https://crimethinc.com/2020/03/18/surviving-the-virus-an-anarchist-guide-capitalism-in-crisis-rising-totalitarianism-strategies-of-resistance). We interviewed residents of Station 40 about the history of their project and the context and objective of their bold refusal.
+
+**What is Station 40?**
+{: .darkred}
+
+Station 40 is a 17-year-old collective living space that has seen hundreds of residents and thousands of guests and many iterations over the years. This space has hosted numerous and diverse events, housed countless people, served food to the masses, beat the odds on everything from infestations to evictions. We've been a hub for organizing Mutual Aid workshops, healing pop-ups, memorials for fallen anarchists, revels, book releases, report-backs from comrades all over the world, prisoner support projects, reading groups, benefits for more projects than we can count. Food Not Bombs cooked here weekly for the better part of 15 years. Communication infrastructure like [Indymedia](https://www.indybay.org/) and [Signal](https://signal.org/) have their roots here.
+
+We hope to continue this ever-developing work, most recently bringing a focus of spirituality to the preexisting anarchy of Station 40 and our block in general. This space has been a means for us to continue to afford to live and fight in a city where that is increasingly miraculous.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/03/18/2/4.jpg A protest against gentrification in the Mission district [on January 1, 2014](https://www.kqed.org/news/122444/san-francisco-mission-protest-anti-police-activists-tie-cause-to-gentrification).]]
+
+**Five years ago, people mobilized to defend Station 40 against eviction driven by gentrification in the Mission district of San Francisco. What factors and strategies were essential to your victory at that time? Did you learn anything important from it?**
+{: .darkred}
+
+At the time, there was a large push for development in San Francisco. In response to the influx of venture capitalists and start-up companies, our landlords were looking for quick capital by selling their constellation of properties for a fast payout. The "Monster of the Mission"—a giant box of luxury housing not unlike the other developments that were popping up—was supposed to be erected across the street; property prices were skyrocketing.
+
+We had a pro bono lawyer who helped us, but ultimately the lawyer wanted us to settle and take the cash-for-keys so everyone would get a cut—of a payoff that could *never* match long-term affordable housing costs in the heart of this city. The housemates who were living together in Station 40 at that time decided to stay here instead. They employed a myriad of tactics, such as calling on the friends of Station 40 from around the world (an autonomous group of supporters who organized to support us), "knowing the enemy" (gathering information about our landlords via public records), holding a press conference and events and fundraisers, consulting housing militants and the local Land Trust, and coordinating with supportive independent journalists.
+
+We demanded that the building should go into a land trust and that our residency would be secured in perpetuity. We also made it clear that we would fight by any means to stay here. Two weeks into the fight, our landlords called us wanting to make peace; this resulted in a verbal agreement to leave us alone and revisit the issue in three years.
+
+Today, it has been five years. All this time, the housemates here have been on alert, while also choosing to maintain our quality of life by not stressing too much about potential unpredictable outcomes—particularly in light of the fact that we have already beaten an eviction before. It was just recently announced that the "Monster of the Mission" is officially cancelled. Two years after our negotiated discussion date, the landlords have continued to cash their checks happily.
+
+Until now. 
+
+[[https://cdn.crimethinc.com/assets/articles/2020/03/18/2/3.jpg A protest against gentrification in the Mission in 2015.]]
+
+Here is some coverage of our fight against eviction in 2015:
+
+- [Friends of Station 40 Press Conference](https://www.indybay.org/newsitems/2015/03/02/18769398.php)
+- [At 16th and Mission, collective housing must go — but tech offices can stay?](https://48hills.org/2015/03/at-16th-and-mission-collective-housing-must-go-but-tech-offices-can-stay/)
+- [Tenants Fight Longtime Neighborhood Landlord at 16th and Mission](https://missionlocal.org/2015/03/tenants-fight-longtime-neighborhood-landlord-at-16th-and-mission/)
+- [Housing collective avoids eviction from Mission district home](https://www.sfexaminer.com/news/housing-collective-avoids-eviction-from-mission-district-home/)
+
+**Why did you decide to go on strike this time?**
+{: .darkred}
+
+Coronavirus first began getting traction around these parts via memes, fleeting stories from news sources, and whispers from friends of friends in social services. We began listening to the whispers early and prepared as much as possible. It was less than a week later when news from Italy started coming in, travel bans were put in place, and—most notably—the toilet paper was gone.
+
+Within a couple more days, all events were canceled, bars and restaurants had closed, and a soft lockdown quarantine was underway. At that point, 90% of the house had either lost work entirely or had their hours cut significantly. Meanwhile, the other 10% is now being asked to work twice as hard in social services to help maneuver through this crisis—but they are not getting paid any more for their extra efforts. This crisis has shined a glaring light on the injustices relating to housing inequality, the absence of affordable medical care, the  astronomical costs of rent in the Bay Area, and the ways that capitalism robs us of our time, energy, and quality of life.
+
+When this situation became clear, there was no other choice but to declare a rent strike. Trying to hustle during a mandatory shut-in not only puts us in danger but also endangers others who are more vulnerable.
+
+However, this opens a larger question. Some projections say that after several weeks of this shutdown (though it may be longer), there will be no way to go back to "business as usual." As anarchists, as a collective, we have to imagine what could be next and to do what it takes to be a part of building that new reality. Getting free from rent (which is to say, theft) and debt amid a full-blown pandemic crisis seemed like the best possible way to start. We believe that the simple tactics of refusal (rent strike, sick-outs, redistribution of resources, mutual aid) are essential to getting through this situation. We hope the rent strike spreads. We have the best chance of survival and victory together.
+
+**What is your vision of how we should respond to the pandemic and the social, political, and economic crisis accompanying it? What is the worst-case scenario for how this could pan out? What is the best case scenario?**
+{: .darkred}
+
+It seems that the best possible answer to the first question is that we need to find balance. We must find a balance between caring for ourselves and understanding what forms of mutual aid we have to share. We are being forced into fear, separation, and the dismay of confronting feelings of scarcity and a pandemic we can't cure. The greatest strength of our house and our community has always been our connections based in trust. When you have community that you're willing to show up for, that you can trust will show up for you, there is a sense—a faith—that everything can be OK. In times like these, hope and faith can be among the few things that keep us alive. 
+
+The easiest things to imagine right now are worst-case scenarios, overrun hospitals, the National Guard being flown in to violently enforce mandatory lockdowns, countless deaths caused by handshakes and coughs, being unable to work or connect with community for the unforeseeable future, all-out dystopian [biopolitical](https://crimethinc.com/2020/02/10/the-operation-succeeded-but-the-patient-died-biopower-and-the-nightmare-of-a-totally-managed-society) authoritarianism.
+
+But for us, it's more interesting and exciting to think about what the best-case scenarios might be—the moments of imagination and creation—like a caterpillar dissolving in its cocoon, imagining itself into a butterfly. Imagine a world entirely without rent, in which people would have more time and space to envision and practice the things they love, the things that benefit them and their community alike. Imagine there being *zero* homelessness in the world because we took the ample empty housing currently available and gave it to houseless people, rather than letting those spaces sit vacant while real estate speculators wait to try to sell them to the highest bidder. How about not having to work 40 to 70 hours a week as a capitalist cog, making money for rich people who don't care about whether we live or die?
+
+Imagine no one having crippling debt. Imagine there being free medical care and food for all, instead of us having to spend all our money funding colonization and murder worldwide. How wonderful would it be if the people took the streets, gathered together to dance, break bread, practice ritual... honestly, the possibilities are endless. I imagine a healthier population that respects the earth and all living beings, giving the land back to indigenous stewards, reparations for all enslaved peoples, the end of incarceration and the entire military-industrial complex.
+
+But we have to start somewhere. A widespread rent strike seems like as good a place as any. 
+
+For our part, we would like our housing to be secure in perpetuity—whether through a land trust or via other communal means. We think now is the time to push for that.
+
+***
+
+# Appendix I: Communiqué about the Rent Strike, March 16, 2020
+    
+Dear friends of Station 40,
+
+We decided tonight that we're going on rent strike. The urgency of the moment demands decisive and collective action. We are doing this to protect and care for ourselves and our community. Now more than ever, we refuse debt and we refuse to be exploited. We will not shoulder this burden for the capitalists. Five years ago, we defeated our landlord's attempt to evict us. We won because of the the solidarity of our neighbors and our friends around the world. We are once again calling on that network. Our collective feels prepared for the shelter-in-place that begins at midnight throughout the bay area. The most meaningful act of solidarity for us in this moment is for everyone to go on strike together. We will have your back, as we know you will have ours. Rest, pray, take care of each other. 
+
+Everything for everyone!
+
+The residents of Station 40.
+
+***
+
+[[https://cdn.crimethinc.com/assets/articles/2020/03/18/2/2.jpg class:portrait]]
+    
+# Appendix II: Communiqué from the Anti-Eviction Campaign, March 2015
+
+Station 40 Tenants Fight Eviction of Their Home and Propose “Win-Win” Land Trust Solution
+
+About a week ago, we received eviction papers (an unlawful detainer) from our landlords, Ahuva, Emanuel, and Barak Jolish. Their legal documents aim to displace the dozen of us tenants from our affordable, eleven-year-old home, Station 40, located at 3030B 16th Street. It is no coincidence that Station 40 is being evicted on the same intersection as the hotly contested proposed development by Maximus Real Estate Partners of a 350-unit luxury apartment building in what is a predominantly working-class neighborhood.
+
+For over a decade, Station 40 has been home to anarchists, queer and transgender refugees, broke people, veterans against war, those healing from the prison system, lifelong San Franciscans, immigrants, people with disabilities, and those who were previously homeless. Most of us work in the neighborhood in various parts of the service industry, cooking and educating, in Rainbow Grocery Co-op and other grocery stores and thrift shops. We’ve hosted and/or organized hundreds of anticapitalist-oriented events, including fund-raisers, critical discussions, film screenings and performances, assemblies, book releases, art shows and workshops, and indie media projects, contributing to the rebel spirit of the Bay Area. Station 40 is also host to the weekly Thursday Food Not Bombs, sharing free home-cooked meals on the BART Plaza with those who are increasingly being brutally disappeared from 16th and Mission.
+
+Although the Jolish family had previously stated their intentions many times to sell our building, they have refused a viable proposal presented by the Station 40 collective, San Francisco Community Land Trust, and Mission Economic Development Agency to sell their property to the land trust, in what would be a win-win situation for the property owners, current tenants, and Mission community at large.
+
+The Mission has already seen many evictions, and much resistance to them. Benito Santiago won his fight to stay in his home, which is now owned by the SF Land Trust. Patricia Kerman and Tom Rapp also won their eviction case against their landlord, but still struggle courageously to stay in their home. We have now been served eviction papers, too. Our turn has come, and we don’t intend to make it easy for our landlords.
+
+In the context of the rapid development and displacement in our neighborhood and on our corner, our own eviction comes as no surprise. When the proposed Maximus luxury apartments were announced, we all knew that we’d be next. If we were surprised, it was only with how quickly it happened. Within a week of that announcement, the Jolish family had already begun talking about getting us out. Ahuva Jolish repeated the now all too common refrain of “wanting to get out of the business”—a phrase that tenants throughout the city have come to dread as a signal for a brutal wave of eviction and redevelopment.
+
+Our position in this has remained the same: if the Jolish family wishes to sell this building, they should sell it to the San Francisco Community Land Trust—an option that would allow them to sell at a more than fair price and allows us to stay, still with affordable rents, while also keeping many of the other struggling neighbors in place. The offer from the land trust would make it possible to maintain and even create more housing for working-class and struggling people—in perpetuity. As soon as this offer was on the table, however, our landlords changed their tune. They now insist that they do not want to sell our building. This is a half-truth—in other words, a lie. Our home is sandwiched between two adjacent properties owned by the Jolish family and their business partners, Ruth and Oded Schwartz. They do not want to sell this individual building to the Land Trust, because they want to sell all three buildings, as a package, to a developer. If sold together, the properties have (to use a disgusting term) added "tear-down value."
+
+In their current attempt to evict us, Ahuva and Emanuel Jolish use the false justification that we are in violation of a commercial lease by living in our home. Furthermore, they claim that they have had no knowledge we’ve been residents here. This is yet another lie. We have lived here for over eleven years, it is zoned for residential use, and we therefore have all the just cause protections afforded to tenants, and Ahuva and her family know all this.
+
+The truth is that the Jolish family stands to make millions off the fact that 16th and Mission along with San Francisco as a whole are being flipped for the benefit of the rich, while devastating those who have called this place their home for decades. The Plaza 16 Coalition, which Station 40 is also a member of, likes to call the Maximus project “the monster in the Mission.” Behind this monster, we see many intertwining monsters—capitalism and white supremacy, to name just two.
+
+Tragically we’ve seen developers like Maximus Real Estate Partners and their shadowy peons from the “Clean Up the Plaza” campaign look at the community at 16th and Mission as nothing more than a barrier to their riches. In 2013, we started to see Clean Up the Plaza placards everywhere. This was strange since no one seemed to know who was behind the campaign or what its agenda was. It soon became clear when Maximus announced its intention to build a 350-unit luxury apartment building that would take out a whole corner of businesses, a plaza used by hundreds of poor—mostly black and Latino people—and cast an ominous shadow over the playground of nearby Marshall Elementary. It turns out that one of the political consultants for Maximus, Jack Davis, is one of the main organizers of the Clean Up the Plaza scheme. Then the police occupation of the plaza began. Day and night, SFPD menaced over those who kick it in the plaza, such as immigrants, SRO residents and people without homes, addicts, working people, multigenerational families, and outcasts of all stripes. We watched from our windows across the street in horror as more and more of these people were targeted, criminalized, and disappeared.
+
+The insidious power plays used to displace people along with their culture at 16th and Mission are happening throughout the Mission District, Bay Area, and in many cities nationwide. There’s first the most obvious issue: evictions. Evictions come in the form of lawsuits where losing means potentially being forced to pay for your own attorney and your landlord’s attorney (who is likely getting paid $300 or much more per hour). This process takes months, and necessitates that you are able to go to meetings with lawyers and attend several court dates during work hours, among numerous other tasks that become a full-time job. Everyday people, the very people who make up the heart and soul of San Francisco cannot compete with this apparatus that is set up to work against them. The property “rights” of millionaires trump the basic needs of the rest of us to simply live.
+
+Then there’s the police state. Not only will the police come and literally force you from your home if you refuse to leave, but they also contribute to the project of gentrification by disappearing working-class and poor black and brown residents. In a city of 6 percent black residents (in 1980 it was 13 percent), the SF County Jail is made up of 56 percent black prisoners. To paint the picture in even more stark terms, in the last year SFPD has murdered Alex Nieto, O’Shaine Evans, Matthew Hoffman, and just days ago, Amilcar Perez-Lopez. These men, three men of color, and Hoffman, a poor man struggling with his mental health, represent the demographics of the folks who are being lost right now in San Francisco.
+
+We gotta say it: the phenomena of rampant police murders, the banishment of thousands of longtime residents from city centers, all those forced to live on the streets, and the increasing number of poor people getting warehoused in jails and prisons—2.5 million people nationwide—signals that our society condones state-sponsored ethnic cleansing that targets black and brown residents.
+
+Adriana Camarena of the Justice for Alex Nieto organization pointed out in a recent demonstration that the new Condo “Vida” should really be named “Muerte” because that’s what condos represent to the people who have lived here for decades. Everyone knows that the people who move into these new developments are quick to call the cops on their Latino neighbors (like Alex) and say that the neighborhood is being improved as Latino residents get forced from their homes. Meanwhile, they gloat about how great it is that they live in a neighborhood with so much culture and taquerias on every block.
+
+All this is happening while mysterious fires are destroying the homes of working-class people throughout the Mission District, leaving the next-door condos completely intact, and the city moves on plans to build an even bigger jail to replace the one at 850 Bryant.
+
+We know that the eviction of our space is a stepping-stone toward the eviction and demolition of this entire block. As of yet, the Jolish family has made no offer that we could accept and still hold our heads high. We want to maintain, defend, and build collective, autonomous, and working-class space in this neighborhood. We cannot accept any offers that do not make that possible. Even if we were made such an offer, we do not conceive of winning in solely individual terms. The choice to stay and fight is also a choice to fight for this neighborhood as a whole. We want to stay, but we also want everyone else to stay as well.
+
+We draw inspiration from all who are fighting for their lives and a place to live them: the indigenous people all over this continent who are occupying their sacred places to resist development; the squatters in the deindustrialized urban centers of the Midwest who are building homes amid the ruins; those in Athens and Barcelona who take to the streets in reaction to the evictions of long-standing occupied social centers; the Kurdish and international fighters in Kobane who have used all means to defend against fascist occupation; the fighters in Ferguson who have used similar means to resist the police occupation of their streets as well; and especially everyone in this neighborhood who has already stood up and refused to be moved now and in the past.
+
+We believe that by fighting together, we can jointly hold back the system of death and erasure. We are infinitely grateful for all the solidarity we have already received; because of it we are still here. We’re asking for your continued support because we want to stay put in our home and in this neighborhood for many years to come.
+
+The simple truth that the Jolish family continues to deny is also our greatest strength: this is our home. This is our home and we are going to fight tooth and nail for it. We are not millionaires trying to add a few more million to the pile. We are working class people, who against all odds, have built a home here. Having something to fight for makes us strong.
+
+[[https://cdn.crimethinc.com/assets/articles/2020/03/18/2/5.jpg class:portrait]]

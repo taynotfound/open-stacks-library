@@ -1,0 +1,136 @@
+---
+title: "Dopo lo zenit, parte I"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2013/09/09/dopo-lo-zenit-parte-i-cosa-fare-quando-si-sono-calmate-le-acque"
+---
+
+{: .darkred}
+Quando sei allo zenit, pensi che andrà avanti per sempre. Ti senti invincibile, inarrestabile. Poi ecco che arriva la botta: procedimenti giudiziari, disgregamento, depressione.
+
+{: .darkred}
+Una volta che passi attraverso questo iter più volte, la procedura diventa familiare. Diventa possibile riconoscere questi sconvolgimenti come il battito del cuore di qualcosa di più grande di ogni singolo movimento.
+
+Negli ultimi sei anni, le città di tutto il mondo hanno visto le lotte giungere al picco: [**Atene**](https://crimethinc.com/2008/12/25/how-to-organize-an-insurrection), [**Londra**](https://crimethinc.com/2011/01/26/the-uk-student-movement), [**Barcellona**](https://crimethinc.com/2012/04/19/the-rose-of-fire-has-returned-the-struggle-for-the-streets-of-barcelona), [**Il Cairo**](https://crimethinc.com/2011/02/02/egypt-today-tomorrow-the-world), [**Oakland**](http://www.bayofrage.com/featured-articles/occupy-oakland-is-dead), [**Montréal**](https://crimethinc.com/2012/08/14/while-the-iron-is-hot-student-strike-social-revolt-in-quebec-spring-2012), [**Istanbul**](http://www.salon.com/2013/06/14/%E2%80%9Ci%E2%80%99ve_gone_to_resist_i%E2%80%99ll_be_right_back%E2%80%9D). Un decennio fa, gli anarchici convergevano da tutto il mondo per partecipare a un'unica [**protesta contro il Summit.**](https://crimethinc.com/2005/05/11/demonstrating-resistance) Ora molti hanno preso parte a rivolte durate mesi nelle proprie città e, di sicuro, altri ancora lo faranno.
+
+Ma cosa succederà una volta che saremo arrivati all’apice? Se una singola rivolta non farà cadere il capitalismo, dobbiamo chiederci cosa è importante di questi momenti clou - cosa speriamo di ottenere da loro, come ce li immaginiamo nel lungo termine e come trarre il massimo dal periodo di declino che li segue. Ciò è particolarmente urgente oggi, quando possiamo essere sicuri che, durante il cammino, ci saranno altri disordini.
+
+A tal fine, abbiamo instaurato un dialogo con gli anarchici di alcune città in cui ci sono stati tali climax. Questa è la prima di una serie di riflessioni ricavate da tali scambi. Puoi leggere le risposte date da [**Oakland**](https://crimethinc.com/2013/09/10/after-the-crest-part-ii-the-rise-and-fall-of-the-oakland-commune), [**Barcellona**](https://crimethinc.com/2013/09/11/after-the-crest-part-iii-barcelona-anarchists-at-low-tide) e [**Montréal**](https://crimethinc.com/2013/09/12/after-the-crest-part-iv-montreal-peaks-and-precipices).
+
+Praticamente tutti i partecipanti a questi scambi hanno riferito indipendentemente che, per loro, è stato davvero difficile formulare i loro pensieri: “Non so perché, ma ogni volta che mi siedo per lavorarci, mi deprimo.” Questo suggerisce un problema più ampio. Molti anarchici dipendono da una narrazione trionfalistica, in cui si deve passare da una vittoria all’altra per aver qualcosa di cui parlare. Ma anche i movimenti hanno cicli di vita naturali e, inevitabilmente, raggiungono il picco per poi morire. Se le nostre strategie si fondano su una crescita infinita, ci stiamo preparando per un inevitabile fallimento. Ciò vale soprattutto per le narrazioni che determinano il nostro stato d’animo.
+
+> [Movimento](https://crimethinc.com/books/contradictionary/definitions/movement): un misterioso fenomeno sociale che aspira alla crescita che tuttavia, quando osservato, sembra sempre essere in declino.
+
+Quando il cambiamento sociale sta guadagnando terreno, è mutevole e, quindi, invisibile; solo quando si stabilizzerà come quantità fissa sarà possibile etichettarlo e da quel momento potrà solo decomporsi. Questo spiega perché i movimenti esplodono come comete nella coscienza pubblica quando si trovano al punto più alto della loro innovazione, per poi essere seguiti da una lunga scia di rendimenti decrescenti. Un occhio più acuto può vedere il fermento sociale dietro queste esplosioni, perpetue e sconfinate, attirare alternativamente nuovi partecipanti ed emettere nuove ondate di attività, come fossero dei respiri in successione.
+
+Durante Occupy Oakland, a un'occupazione di tre settimane seguì un declino di sei mesi. Vale la pena ripeterlo: *i* *movimenti trascorrono la maggior parte del loro tempo decadendo.* Ciò rende ancora più importante valutare come sfruttare al meglio la fase calante.
+
+Poiché tutti i movimenti raggiungono inevitabilmente dei limiti, è inutile piangerne la scomparsa, come se potessero crescere per sempre se solo i loro membri fossero *abbastanza strategici.* Se diamo per scontato che l'obiettivo di qualsiasi tattica sia sempre quello di mantenere lo slancio di un determinato movimento, non potremo mai fare altro che reagire in modo donchisciottesco contro l'inesorabile passare del tempo. Anziché lottare per evitare la dissoluzione, dovremmo agire con lo sguardo rivolto verso il futuro.
+
+Ciò potrebbe significare consolidare i legami sviluppatisi nel corso del movimento, o essere sicuri di uscire di scena con il botto per ispirare i movimenti futuri, o rivelare le contraddizioni interne mai risolte dal movimento. Forse, una volta che un movimento ha raggiunto i suoi limiti, la cosa più importante da fare nella fase calante sarebbe indicare cosa dovrebbe fare un movimento futuro per trascendere quei limiti.
+
+{: .darkred}
+[Avevamo occupato l’edificio](https://crimethinc.com/2011/11/27/breaking-and-entering-a-new-world-pioneering-the-future-of-the-occupy-movement) da quasi ventiquattr’ore, e stavamo iniziando a immaginare che, in qualche modo, avremmo potuto tenercelo stretto. Stavo uscendo per andare a recuperare materiali per fortificare il luogo quando qualcosa attirò la mia attenzione. Lì nella polvere del garage abbandonato c'era lo stemma di un’auto fuori produzione da quarant’anni. Mi allungai per raccoglierlo, poi esitai: avrei potuto darci un’occhiata dopo. D’impulso, lo presi lo stesso. Mezz'ora dopo, una squadra SWAT circondò l'edificio su tutti i lati. Non abbiamo mai recuperato niente di quello che abbiamo costruito o portato lì. Oltre un centinaio di noi si erano incontrati, avevano ballato e dormito in quello stabile, al di fuori dei confini di qualsiasi cosa avessimo mai potuto immaginare prima nella nostra cittadina, e quel piccolo stemma è tutto ciò che mi rimane per dimostrare che è accaduto veramente.
+
+{: .darkred}
+Quando la settimana successiva andai a trovare i miei amici nella Bay Area, li trovai pervasi dalla stessa euforia che avevo provato io nel momento in cui mi ero trovato quando avevo lasciato l’edificio: “Camminiamo e la gente ci vede e grida OC-CU-PY! Le cose cresceranno e continueranno a crescere!!”
+
+# Mantenere la prospettiva.
+
+Durante un crescendo di lotta sociale, può essere difficile mantenere la prospettiva; alcune cose sembrano essenziali ma si dimostrano transitorie, mentre altre che si perdono per strada si rivelano fondamentali in seguito. Spesso ci lasciamo sfuggire le occasioni per favorire connessioni a lungo termine, dandoci per scontati nell'urgenza di rispondere a eventi immediati. Successivamente, quando l’attimo è passato, non sappiamo come ritrovarci - o non ne abbiamo motivo, avendo fatto terra bruciata in situazioni di forte stress. Cos’è veramente importante, il successo tattico di una determinata azione o la forza delle relazioni che ne derivano?
+
+Allo stesso modo, di rado è facile dire dove ti trovi durante il corso degli eventi. All'inizio, quando un ventaglio di possibilità si apre davanti a noi, non è chiaro come andranno le cose; spesso, gli anarchici aspettano di essere coinvolti fino a quando altri non avranno già determinato il carattere del movimento. In seguito, al culmine, potrebbe sembrare che i partecipanti si trovino già sulla soglia di un nuovo straordinario potenziale - quando, in realtà, quel ventaglio di possibilità ha già iniziato a chiudersi. Questa confusione rende difficile sapere quando sarà il momento giusto per cambiare rotta e intraprendere una nuova strategia.
+
+{: .darkred}
+Un paio di mesi dopo ero fuori da un bar nel centro di Oakland con alcuni amici e chiesi loro cosa pensassero delle prospettive per il futuro. “Le cose si sistemeranno, arriverà la primavera,” mi assicurarono.
+
+{: .darkred}
+All’inizio credetti loro. Non dicevano tutti la stessa cosa in tutto il Paese? Fu allora che ebbi un’illuminazione: eravamo seduti lì al sole, indossando delle magliette, nella città che aveva visto l'azione più intensa dell'intero movimento Occupy. Se non c'era già un'altra occupazione lì, non sarebbe tornata.
+
+# Tieni aperto il ventaglio delle possibilità finché puoi; se ti devi dividere, fallo alle tue condizioni.
+
+I movimenti, di solito, iniziano con un'esplosione d’incertezza e potenziale. Finché i limiti non sono chiari, un gran numero di membri ha un motivo per essere coinvolto, mentre le autorità devono trattenersi, incerte delle conseguenze della repressione. Come possiamo mantenere aperto abbastanza a lungo questo ventaglio di possibilità senza scansare i veri disaccordi? (Pensa a quando Occupy Wall Street decollò per la prima volta e al suo interno si mescolarono ogni sorta di tendenze radicali e [**reazionarie**](http://larouchepac.com/node/19779)). È meglio rimandare gli scontri su questioni ideologiche - come la nonviolenza contro la diversità delle tattiche - o accellerarle? (Pensa al controverso black bloc di Occupy Oakland il [**2 novembre 2011**](http://www.bayofrage.com/from-the-bay/the-anti-capitalist-march-and-the-black-bloc).)
+
+Un modo per affrontare questa sfida è cercare di chiarire qual è la posta in gioco senza tracciare linee fisse d’identità politica nel processo. Non appena un disaccordo tattico o ideologico viene inteso come conflitto tra corpi sociali distinti, l'orizzonte inizia a chiudersi. Il momento del potenziale dipende dalla fluidità del movimento, dalla circolazione delle idee al di fuori dei suoi domini abituali, dall'emergere di nuove configurazioni sociali e dall'apertura dei singoli partecipanti alla trasformazione personale; trincerarsi dietro posizioni rigide fa sì che tutto questo venga minato.
+
+Il problema è ulteriormente complicato dal fatto che la massima priorità delle autorità è sempre quella di dividere i movimenti - spesso sulla falsariga di ciò che i membri stessi vogliono dividere. Potrebbe essere meglio cercare di non esasperare eventuali fratture permanenti fino a quando l'orizzonte della possibilità non si sarà chiuso, quindi assicurarsi che le lineee siano tracciate secondo i tuoi termini, non secondo quelli delle autorità o dei loro [**inconsapevoli fantocci liberali**](http://www.truthdig.com/report/item/the_cancer_of_occupy_20120206). 
+
+[[https://cdn.crimethinc.com/images/atc/atc-dust-2b.gif]]
+
+# Spingersi oltre il limite.
+
+Cos’è ancora possibile dopo che l'orizzonte è stato circoscritto? In un movimento morente, ci si può ancora [spingere oltre il limite,](https://crimethinc.com/2012/09/17/post-debate-debrief-video-and-libretto) stabilendo nuovi precedenti per il futuro in modo che le lotte successive possano immaginare di andare oltre. Questa è un buon motivo per non evitare indefinitivamente scontri ideologici; per legittimare le tattiche che saranno necessarie in futuro, spesso si deve iniziare ad agire al di fuori del opinione dominante.
+
+Per esempio, alla fine della giornata del 2 novembre 2011, i partecipanti di Occupy Oakland tentarono, in modo controverso, [**di occupare un edificio**](http://www.indybay.org/newsitems/2011/11/03/18697018.php). Pur provocando una serie di ripercussioni, questo costituì un precedente per una serie di occupazioni che consentirono a Occupy di iniziare a sfidare la santità della proprietà privata durante la sua lunga fase calante, facendo sì che il movimento lasciasse un’eredità molto più radicale di quanto sarebbe stato altrimenti.
+
+# I passi in avanti di un anno sono i passi indietro di quello successivo.
+
+L'energia vitale delle novità lascia il posto alla calcificazione, e quelle stesse innovazioni diventano la barriera successiva che deve essere superata. Per esempio, l'enfasi sulla nonviolenza tattica che ha permesso a un grande corpo di convergere attorno a Occupy Wall Street divenne un ostacolo per tenere le strade quando la repressione aumentò. Spesso, nei luoghi in cui un movimento attraversa una nuova soglia, questo rimane successivamente sospeso in quel punto di sviluppo, limitato dalle stesse strutture che gli hanno permesso di avanzare. Dopo l'occupazione del Campidoglio di Madison nella primavera 2011, l'attività nel Wisconsin non fu mai all’altezza di ciò che accadde a New York, proprio come Occupy Wall Street non eguagliò mai l’intensità di Occupy Oakland. Nel febbraio 2012, dopo che Occupy Oakland si spense, lo sciopero degli studenti a Montréal definì lo spartiacque per le lotte contemporanee in Nord America - e gli anarchici di Montréal stanno ancora pagando il prezzo di questo momento clou, trovandosi a dover affrontare una dura repressione poliziesca.
+
+Durante la fase nascente di un movimento, i partecipanti si fissano spesso su alcune tattiche. C'è la tendenza a provare a ripetere i successi più recenti; a lungo termine, ciò può solo produrre conservatorismo e rendimenti decrescenti. I rendimenti decrescenti son pur sempre rendimenti, e una tattica che non è più efficace nel suo contesto originale potrebbe offrire un grande potenziale in un altro contesto - prova ne è l'occupazione di [**Taksim Square**](https://crimethinc.com/2013/06/19/postcards-from-the-turkish-uprising) nel giugno 2013, quando nessuno negli Stati Uniti avrebbe potuto immaginare di occupare ancora qualcos’altro. Quando nessuno si aspetta nulla di nuovo da loro, gli slogan e le strategie che avevano generato così tanta enfasi si trasformano in ostacoli.
+
+Non appena Occupy è al telegiornale, chiunque abbia avuto in mente l’idea di un'occupazione dovrebbe sbrigarsi a metterla in pratica prima che il ventaglio di opportunità si chiuda e nessuno voglia mai più occupare qualcosa. In un esempio comico di questa propensione a fissarsi su alcune tattiche, dopo lo sgombero di Occupy Oackland, Occupy Wall Street inviò un gran numero di tende in tutto il Paese come gesto di supporto. Nei mesi successivi - mentre la lotta di Oakland giunse alla sua conclusione su un altro terreno - queste tende non fecero altro che occupare spazio.
+
+[[https://cdn.crimethinc.com/images/atc/atc-dust-3b.gif class_portrait]]
+
+# Non retrocedere verso strategie obsolete.
+
+A volte, dopo che una nuova strategia in sintonia con il contesto attuale ha creato un nuovo impeto, c'è la tendenza a tornare agli approcci precedenti che - da tempo - hanno smesso di funzionare. Quando le persone con poca esperienza pregressa convergono in un movimento, a volte richiedono la guida di coloro che sono attivi da più tempo; più spesso sono i veterani stessi a richiedere di fornire questa guida. Sfortunatamente, gli attivisti di lunga data introducono di frequente vecchie tattiche e strategie, sfruttando la nuova opportunità per riprendere i progetti sconfitti del passato.
+
+Per esempio, quattordici anni fa, il muoversi incessantemente da un incontro all’altro durante il Summit mondiale offrì un modo per esercitare una leva transnazionale contro la globalizzazione capitalista, proponendo un modello che sostituisse l'organizzazione del lavoro locale e nazionale che era stata superata dalla mobilità internazionale delle società. Tuttavia, quando gli attivisti della classe operaia furono coinvolti, mossero delle critiche alle “cavallette” dei summit che saltavano da una parte all’altra del mondo anziché organizzare localmente nella cara, vecchia maniera. Allo stesso modo, Occupy decollò perché fu in grado di offrire un nuovo modello di autodifesa a una [**popolazione sempre più precaria**](https://crimethinc.com/2012/01/01/nightmares) priva di posizioni economiche stabili dalle quali mobilitarsi. Ma, ancora una volta, gli attivisti del lavoro old-fashion videro questo nuovo movimento solo come una potenziale riserva di corpi per sostenere le lotte sindacali e ne incanalarono l’impeto in [**vicoli ciechi facilmente cooptati**](http://www.bayofrage.com/further-reading/wall-street-of-the-waterfront).
+
+Sulla scia di ogni movimento, dovremmo studiare ciò che i suoi successi e insuccessi ci indicano della nostra situazione attuale, riconoscendo che quando potremo fare uso di quelle lezioni la situazione sarà cambiata ancora una volta.
+
+# Attenzione alle aspettative crescenti.
+
+Quando un movimento è al suo apice, diventa possibile agire su una scala precedentemente inimmaginabile. Questo può essere debilitante in seguito, quando la gamma di possibilità si riduce ancora e i partecipanti non sono più ispirati dalle tattiche in cui si erano impegnati prima dello zenit. Un modo per conservare lo slancio dopo la fine di un movimento è quello di stabilire obiettivi intermedi raggiungibili e ribadire anche i più umili sforzi verso di loro.
+
+La traiettoria delle [**lotte degli anarchici verdi**](https://crimethinc.com/2008/02/22/green-scared) in Oregon al cambio del secolo scorso offre un esempio straordinario di questo tipo di inflazione. All'inizio, gli obiettivi erano piccoli e concreti: proteggere un determinato albero o un [**tratto specifico di foresta**](https://crimethinc.com/videos/pickaxe). Dopo le [**proteste contro la World Trade Organization**](https://crimethinc.com/2006/11/30/seattle-seven-years-later) a Seattle, gli obiettivi degli anarchici verdi nella regione [**si ipertrofizzarono**](http://greenanarchy.anarchyplanet.org/) fino a quando non raggiunsero un impasse tattico. Quando il tuo obiettivo immediato è quello di "abbattere la civiltà industriale," qualsiasi cosa tu possa fare sembrerà inutile.
+
+Infatti, durante una fase di declino, può essere importante resistere alla tendenza all'escalation. Quando la [**campagna SHAC**](https://crimethinc.com/2008/09/01/the-shac-model-a-critical-assessment) si arenò, [**Root Force**](http://www.rootforce.org/2008/02/10/a-revised-strategy) decise di applicare la stessa strategia contro un obiettivo molto più grande: passare da una singola società di sperimentazioni sugli animali ai principali progetti infrastrutturali alla base del capitalismo transnazionale. Una campagna in stile SHAC destinata a una *piccola* azienda avrebbe potuto avere successo, consentendo a una nuova generazione di continuare ad applicare la strategia, ma Root Force non è mai decollata.
+
+# Smetti finché sei in vantaggio.
+
+La fase calante di un movimento può essere un momento pericoloso. Spesso, il sostegno popolare è diminuito e le forze della repressione hanno riacquistato equilibrio, ma i partecipanti hanno ancora grandi speranze e provano un senso d’urgenza. A volte è meglio spostare l'attenzione prima che si verifichi qualcosa di veramente debilitante.
+
+Eppure smettere mentre sei in vantaggio è complicato. Se i legami che sono stati stretti sono fondati su un'azione collettiva, può essere difficile mantenerli senza stare insieme nelle strade.
+
+Mesi dopo che Occupy Oakland era definitivamente terminato, la polizia [**attaccò brutalmente**](http://www.youtube.com/watch?v=fmA2jjNVr2g) una [**marcia anarchica**](http://www.bayofrage.com/from-the-bay/all-our-ancestors-killed-colonists) contro il Columbus Day, effettuando diversi arresti e sporgendo denunce penali. Rimane la domanda se ciò dimostra che gli anarchici si erano spinti troppo in là, ma dopo un’azione la notte successiva a Oakland, l'attività di strada nella Bay Area s’interruppe per quasi un anno. D'altra parte, dopo che il movimento studentesco nel Regno Unito si spense, un’esplosione di [**rivolte**](https://crimethinc.com/2012/01/01/nightmares) nell'agosto 2011 suggerì che molti di coloro che provenivano dal sottoproletariato si erano sentiti abbandonati dal ritiro dall'azione di strada da parte dei loro ex-alleati attivisti. È possibile che, se il movimento fosse continuato in qualche forma, le rivolte sarebbero potute andare diversamente - come punto di partenza per un'altra ondata di lotta collettiva, anziché come atto disperato di una popolazione emarginata che si ribellava in modo disastroso contro la società stessa.
+
+# Preparati al burnout e alla depressione.
+
+Dopo lo zenit, quando l'euforia è finita, molti membri sperimenteranno la depressione. Dato che gli eventi che li hanno regolarmente riuniti sono cessati, sono isolati e più vulnerabili. Altri potranno sviluppare delle dipendenze: quando le strade non bruciano più, l’uso di droghe può essere un modo per mantenere una sorta di confidenza gli uni con gli altri e con il pericolo stesso. I semplici piaceri con cui le persone avevano celebrato le loro vittorie potranno espandersi per riempire lo spazio lasciato dalla marea sfuggente degli eventi, diventando autodistruttivi. Questo è un altro motivo per stabilire nuove sedi in cui mantenere cameratismo e legami quando il ventaglio di possibilità si sta chiudendo.
+
+[[https://cdn.crimethinc.com/images/atc/atc-dust-4b.gif class:portrait]]
+
+# Risparmia energia per il fallout.
+
+Tutti questi problemi sono spesso intensificati da un’esplosione di disaccordi che, di solito, seguono la fine di un movimento. Una volta chiaro che un movimento è finito per sempre, tutti i conflitti rimandati dai suoi membri vengono a galla, poiché non vi è più alcun incentivo per tenerli nascosti. Risentimenti repressi e differenze ideologiche emergono, insieme a gravi accuse di abuso di potere e violazioni del consenso. Imparare da questi dissidi è parte essenziale del processo che prepara il terreno per i movimenti futuri: per esempio, l'anarchismo contemporaneo discende in parte dal contraccolpo femminista che seguì i movimenti della Nuova sinistra degli anni Sessanta. Di rado i partecipanti pensano di risparmiare energia per questa fase, e può sembrare un lavoro ingrato, poiché l'"azione" è apparentemente finita.
+
+{: .darkred}
+Mancavano poche notti allo sgombero dell'accampamento di Occupy Philly e stavamo organizzando un'Assemblea Generale per decidere il da farsi. La tensione era palpabile tra i residenti del campo, soprattutto senzatetto, e coloro che partecipavano principalmente a riunioni e gruppi di lavoro. Quella notte, un clochard interruppe l’Assemblea per accusare molti di quelli che erano ai vertici di essere in combutta con la Polizia, di essere razzisti e di pianificare il tradimento dei senzatetto. Il facilitatore cercò di ignorare l'interruzione ma l'uomo, arrabbiato, riuscì a sovrastarlo e, alla fine, fece irritare alcune persone che iniziarono a urlare a loro volta. In questo momento di caos ed emozione intensa, abbiamo avuto un'opportunità unica. Avremmo potuto spostare la nostra attenzione dalla minaccia cui il Governo voleva che reagissimo, usando invece l’Assemblea Generale per affrontare finalmente le tensioni insite nel nostro gruppo nella speranza di costruire una forza che sarebbe potuta sopravvivere nella fase di lotta successiva. Invece, il facilitatore cercò di ristabilire l'ordine dicendoci di “dividerci in piccoli gruppi e discutere sul significato del ‘rispetto’.” Il mio cuore sobbalzò. La nostra energia condivisa era esplosiva; dovevamo canalizzarla, non reprimerla.
+
+{: .darkred}
+Quella fu l'ultima volta che vidi molti dei compagni con cui avevo stretto amicizia nei mesi precedenti. Dopotutto, lo sgombero non fu la più grande minaccia che ci trovammo ad affrontare.
+
+# La repressione colpisce più duramente alla fine.
+
+La repressione governativa di solito non colpisce a pieno regime fino a quando un movimento non si è spento. Allo Stato conviene maggiormente attaccare le persone quando le loro reti di supporto sono crollate e la loro attenzione è altrove. L’[**Operazione Backfire**](https://crimethinc.com/2008/02/22/green-scared) colpì anni dopo il momento clou dell’Earth Liberation Front (Fronte per la Liberazione della Terra), quando molti dei partecipanti avevano voltato pagina e le comunità che li avevano sostenuti si erano disintegrate. Allo stesso modo, le autorità attesero fino al maggio 2012 per rispondere a Occupy con una serie di [**istigazioni a delinquere**](https://crimethinc.com/2012/05/29/inside-the-fbi-entrapment-strategy).
+
+L'obiettivo principale della repressione è quello di creare una serie di fratture all'interno del corpo sociale preso di mira, isolandolo e costringendolo a reagire. Idealmente, dovremmo rispondere alla repressione in modo da stabilire nuove connessioni e prepararci per nuove offensive.
+
+[[https://cdn.crimethinc.com/images/atc/atc-dust-5b.gif]]
+
+# Mantieni la tua posizione.
+
+Come possiamo passare ad altre forme di connessioni quando le circostanze eccezionali che ci hanno uniti sono finite? Le reti che si uniscono senza sforzo durante il momento clou di rado sopravvivono. Mentre nuovi eventi stavano avendo luogo, c'era un riconoscimento palese per aver messo da parte le differenze e aver interrotto le routine per convergere. Successivamente, i grandi gruppi che si sono formati [**lentamente si scompongono in gruppi più piccoli**](https://crimethinc.com/2011/12/06/three-years-since-the-greek-insurrection), mentre quelli più piccoli spesso svaniscono del tutto. Il rimescolamento delle alleanze che ha luogo durante questo periodo è vitale, ma lo è altrettanto il non perdersi a vicenda nella confusione.
+
+All’apice di un movimento, i partecipanti danno spesso per scontato che, quando tutto sarà finito, si troveranno a un livello superiore. Ma questo di rado è garantito. Questa potrebbe essere la domanda più importante che ci attende mentre ci avviciniamo alla prossima ondata di lotte: come possiamo guadagnare e mantenere terreno? I partiti politici possono misurare la loro efficacia in base al numero di nuove reclute che riescono ad arruolare, ma gli anarchici devono concepire il successo in modo diverso.
+
+Alla fine, quelle che rimarranno dopo lo zenit non saranno solo le organizzazioni con una serie di contatti, ma saranno soprattutto le nuove domande, le nuove pratiche e i nuovi punti di riferimento su come le persone possano difendersi da sole. Tramandare questi ricordi alla prossima generazione è una delle cose più importanti che possiamo fare.
+
+# Ulteriori letture
+
+- [**Three Years since the Greek Insurrection**](https://crimethinc.com/2011/12/06/three-years-since-the-greek-insurrection), (A tre anni dall’insurrezione greca) la nostra intervista con i compagni di Atene sui mesi successivi alla [**rivolta del dicembre 2008**](https://crimethinc.com/2008/12/25/how-to-organize-an-insurrection)
+- [**Occupy Oakland Is Dead; Long Live the Oakland Commune**](http://www.bayofrage.com/featured-articles/occupy-oakland-is-dead) (Occupy Oakland è morta; lunga vita alla comune di Oakland)
+- *Cracking under Pressure: Narrating the Decline of the Amsterdam Squatters’ Movement* (Non reggere la pressione: racconto del declino del movimento squatter di Amsterdam), di Lynn Owens

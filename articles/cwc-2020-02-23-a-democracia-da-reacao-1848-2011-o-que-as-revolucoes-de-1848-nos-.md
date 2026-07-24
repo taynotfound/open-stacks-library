@@ -1,0 +1,70 @@
+---
+title: "A Democracia Da Reação, 1848-2011"
+author: "CrimethInc."
+source: "CrimethInc."
+url: "https://crimethinc.com/2020/02/23/a-democracia-da-reacao-1848-2011-o-que-as-revolucoes-de-1848-nos-dizem-sobre-os-limites-de-2o11"
+---
+
+Que mal pode vir de usar o [discurso da democracia](https://faccaoficticia.noblogs.org/publicacoes/democracia/) para descrever objeto de nossos movimentos por libertação? Podemos responder a essa pergunta com uma análise retirada das páginas da história: o levante que ocorreu em Paris em Junho de 1848.
+
+>“O que é incrível no voto universal é que ele corta os protestos pela raiz e, ao dar direito de voto à insurreição, ele a desarma."
+>
+>– Victor Hugo, Os Miseráveis.
+
+Em seu livro _Um Projeto de Democracia_, David Graeber traça um paralelo entre [as revoluções de 1848 e os levantes de 2011](http://www.delanceyplace.com/view-archives.php?p=2429). Nenhum dos movimentos revolucionários de 1848 conseguiu manter o poder por mais de alguns anos, ele nota, ainda assim os objetivos básicos pelos quais eles lutaram foram amplamente alcançados dentro de algumas décadas: por todo o lado, monarquias davam lugar a democracias constitucionais, com o voto universal e as redes de proteção social a caminho. O argumento por analogia é que, embora os levantes que tiveram seu auge em 2011 não tenham tido sucesso imediato, eles terão um impacto a longo prazo na forma como pensamos a política. As lutas pela democracia estatal no Oriente Médio e no Sudeste Asiático e as experiências dos movimentos de democracia direta na Europa e nos E.U.A. criaram uma situação onde as pessoas de todo o mundo irão exigir mais democracia em seus governos e em suas vidas.
+
+Talvez. Mas essa conjuntura não nos oferece nenhuma ferramenta com a qual compreender como as forças reacionárias que sofreram contratempos em 1848 e 2011 poderiam se reconfigurar sob bandeiras democráticas. No Egito, depois da revolução de 2011, a ideia de um governo democrático relegitimou o aparato de repressão estatal por tempo suficiente para que [os militares](https://tahriricn.wordpress.com/2013/07/09/egypt-goodbye-welcome-my-revolutionegypt-the-military-the-brotherhood-tamarod) reconquistassem o [seu controle do poder](https://www.theguardian.com/world/2014/may/26/egypt-anointing-sis-west-battle-interest-values). Na Europa e nos E.U.A., a força dos movimento populares de democracia direta foi canalizada em partidos políticos como o [Syriza](https://crimethinc.com/texts/r/syriza) na Grécia e o [Podemos](https://crimethinc.com/texts/r/podemos) na Espanha — nenhum dos quais foi capaz de cumprir suas promessas — e a candidatura condenada de [Bernie Sanders](https://itsgoingdown.org/bern-notice-building-a-material-force-age-of-trumpism).
+
+De fato, o que aconteceu no Egito entre 2011 e 2014 é muito parecido com o que aconteceu na França entre 1848 e 1851. Uma ampla coalizão de diferentes grupos derrubou um ditador; os elementos mais conservadores dentro da coalizão venceram as eleições; os levantes populares que se seguiram foram reprimidos para proteger a frágil democracia; e no fim, um novo déspota veio ao poder com uma plataforma de lei e ordem, através de um misto de eleição e golpe.
+
+O ressurgimento do ["Estado Profundo"](indeedhttp://billmoyers.com/2014/02/21/anatomy-of-the-deep-state) na França em junho de 1848 e no Egito entre 2011 e 2013 ressalta o que leva anarquistas a argumentarem desde 1848 que a única forma para garantir as conquistas revolucionárias é deslegitimar e desarticular o Estado em si. Neste aspecto, o problema do discurso democrático é que, pelo fato de a vasta maioria dos modelos democráticos serem baseados no Estado, ele oferece um disfarce para qualquer pessoa ou grupo que queira relegitimar o poder do Estado.
+
+Certamente, mesmo as pessoas que se opõem abertamente ao Estado podem acabar reforçando-o — seja se juntando ao governo, como fizeram anarquistas da CNT durante a Guerra Civil Espanhola, ou mais indiretamente, ao legitimar estruturas e objetivos que, em última instância, permitem que defensores do Estado se apresentem como quem possui estratégias mais eficazes, como anarquistas como Cindy Milstein e David Graeber arriscam fazer.
+
+Para entender como isso funciona, vamos voltar a 1848.
+
+[[ https://cdn.crimethinc.com/assets/articles/2016/06/23/2b.jpg As barricadas de Junho 1848. ]]
+
+Em fevereiro de 1848, um levante em Paris derrubou o rei; a revolta se irradiou por toda Europa junto com as notícias da revolução francesa, se espalhando mais rápido que qualquer onda de distúrbios da era digital. A transformação da França numa República foi motivo de muita alegria, mas poucas pessoas concordavam sobre que era uma República. Assim como anarquistas, socialistas, liberais, neoconservadores e fascistas se topam sob a bandeira da democracia hoje, em 1848 uma ampla gama de pessoas se identificava com o ideal da República, se prendendo a debates sobre qual seria a verdadeira natureza da República. Até mesmo Pierre-Joseph Proudhon, já um autoproclamado anarquista, [se dizia republicano](https://www.libertarian-labyrinth.org/contrun/notes-on-proudhons-changing-notion-of-the-state-1-of-3/), e sua oposição explícita à autoridade não o impediu de servir na Assembleia Nacional ao lado de conservadores como Adolphe Thiers – o estadista que mais tarde massacrou a Comuna de Paris para dar origem à conservadora Terceira República.
+
+De fato, o voto universal para toda população, há muito buscado por radicais, trouxe ao poder um governo predominantemente reacionário. Antigos monarquistas e aristocratas se reinventaram como republicanos e começaram a usar seus recursos superiores para manipular o sistema. Tudo isso ilustra por que, depois que um objetivo é alcançado, é melhor dispensarmos a velha retórica em favor de uma linguagem que clarifique os novos problemas que surgem. Hoje em dia, não podemos imaginar anarquistas ou outras defensoras sinceras da liberdade reivindicando para si a bandeira da República, embora muitas ainda se apresentem como defensoras da _democracia real_.
+
+Em junho de 1848, quatro meses após a revolução, o recém-eleito governo da República rescindiu as poucas medidas que ele havia tomado para atender as necessidades das pessoas pobres —e as trabalhadoras que haviam se insurgido em fevereiro mais uma vez montaram barricadas nas ruas de Paris e clamavam por revolução. Da perspectiva dos bons republicanos, isso era impensável: finalmente se alcançou um governo democrático, então qualquer pessoa que se rebelasse contra ele era uma inimiga da democracia. Desta vez, as pessoas da classe trabalhadora não encontraram aliados entre os republicanos de classe média. Elas estavam sozinhas.
+
+Victor Hugo, eleito para a Assembleia Nacional ao lado de Proudhon e Thiers, considerou seu dever cívico como democrata e republicano acompanhar o exército quando ele invadiu a cidade e massacrou rebeldes. Reacionários que não foram capazes de derrotar as pessoas trabalhadoras em nome da monarquia, agora as massacraram em nome da República, preservando a ordem social que causou a revolução. Milhares de pessoas foram massacradas numa chuva de chumbo que durou três dias. Depois disso, muitas lojas não puderam reabrir pois todo mundo que trabalhava lá foi morto.
+
+Alguns meses mais tarde, o sobrinho de Napoleão foi eleito Presidente da República, prometendo restabelecer a ordem na França. No fim de seu mandato, ele organizou um golpe de Estado para se estabelecer como imperador, terminando com o breve reino da democracia.
+
+Desta vez, Victor Hugo implorou à classe trabalhadora de Paris que erguesse barricadas e se levantasse contra o usurpador. Ela não deu ouvidos ao poeta. Por que as pessoas deveriam arriscar suas vidas para preservar a autoridade dos republicanos que as massacraram na última vez que elas se levantaram contra seus opressores?
+
+Agora que as forças reacionárias não tinham mais utilidade para os políticos que abriram caminho para elas, eles também foram enviados à prisão e ao exílio. Hugo escapou da ilha de Guernsey; alguns de seus colegas congressistas foram executados imediatamente. As suas eleições e patriotismo serviram para manter a legitimidade do governo por tempo suficiente para um tirano astuto assumir o controle. Encorajando as pessoas pobres a quebrar a lei em nome da Constituição, Victor Hugo e seus colegas mostraram as contradições inerentes ao seu revolucionarismo morno. Eles pagaram um alto preço por sua ingenuidade — principalmente com o sangue de outras pessoas.
+
+Com os livros que ele publicou de seu exílio, Hugo ganhou reconhecimento mundial por colocar palavras nas bocas das mesmas pessoas pobres cujo massacre ele supervisionou. Ele escreveu sobre os eventos de junho de 1848 em suas memórias, lastimando “de um lado o desespero do povo, do outro o desespero da sociedade”, ignorando o seu papel nos massacres que ele descreveu com tanta repulsa. Em [_Os Miseráveis_](https://pt.wikipedia.org/wiki/Os_Miser%C3%A1veis), ele teve dificuldade para ver algum sentido em como as pessoas que tinham criado a revolução poderiam pegar em armas contra seus representantes legitimamente eleitos:
+
+>Às vezes ocorre que, mesmo contrário aos princípios, contrário à liberdade, à igualdade e à fraternidade, até mesmo contrário ao voto universal, mesmo contrário ao governo do povo para o povo, das profundezas da angústia, das suas destituições e seus desencorajamentos, das suas febres, dos seus tormentos, da sua podridão, das suas ignorâncias, das suas trevas, que a grande massa desesperada, a população protesta contra e trava batalhas contra o povo.
+>
+>Foi necessário combatê-la, e isso foi um dever, pois ela atacou a república. Mas o que foi junho de 1848, no fundo? Uma revolta do povo contra si mesmo. . . Em nome da revolução, ele atacou o quê? A revolução. Ele — as barricadas, a sorte, o azar, a desordem, o terror, a incompreensão, o desconhecido — ficou frente a frente com a Assembleia Constituinte, com a soberania do povo, com o voto universal, a nação, a República.
+
+Victor Hugo ficou do lado da sociedade contra as pessoas que a constituem; do lado da soberania contra a liberdade; do lado da humanidade contra os seres humanos. Em nome da democracia e da república, ele se enganou fazendo sua parte, usando da força para preservar a sociedade de classes. Ele não foi o único: Proudhon e praticamente todos os socialistas de renome ficaram do lado do governo.
+
+Na época, a democracia republicana era nova demais na Europa de forma que poucas pessoas podiam antecipar como ela poderia fazer avançar as pautas reacionárias. O mesmo é verdade sobre a democracia direta hoje: pouquíssimas pessoas se deram conta de que uma democracia digital mais participativa pode na verdade sustentar a legitimidade da polícia e das prisões. A previsão de Graeber — de que os objetivos democráticos dos movimentos que foram derrotados em 2011 serão, todavia, alcançados daqui a alguns anos — pode se realizar sem trazer nenhum ganho significativo rumo à libertação, assim como as pautas das revoluções de 1848 foram implementadas de maneira repressiva por políticos como Adolphe Thiers que, no processo, matou as próprias pessoas que iniciaram a revolução. A Terceira República Francesa finalmente triunfou em 1871 com o massacre de dezenas de milhares de participantes da Comuna; bem como a classe trabalhadora em junho de 1848, as gerações de anarquistas e comunistas que vieram após 1871 tiveram que lutar contra o governo republicano sem a assistência das pessoas que se somaram à elas para se opor à monarquia e ao imperador.
+
+Contrário ao otimismo de Graeber, as aspirações de 1848 se concretizaram em escrito, mas não em espírito — e o mesmo pode ocorrer com as aspirações de 2011, a menos que desenvolvamos uma crítica à democracia da reação.
+
+Como podemos evitar uma repetição da tragédia de junho de 1848? Em primeiro lugar, não devemos jamais deixar uma mudança na esfera política ser um substituto para a autodeterminação social e econômica. Da mesma forma, não devemos nunca nos enamorar muito de um método de tomada de decisão — seja a democracia parlamentar ou assembleias baseadas no consenso — de forma que nos induzam a aceitar injustiças em seu nome. Em todo acampamento do Occupy onde participantes de classe média usaram a assembleia geral para governar sobre as pessoas em situação de rua que ocupavam o acampamento, reconhecemos um eco de junho de 1848.
+
+E finalmente, acima de tudo, devemos sempre pensar além de nossas próprias vitórias, desenvolvendo ferramentas críticas com as quais podemos atacar os problemas que surgirão depois — lutando a próxima batalha, e não a última.
+
+# Leitura complementar
+
+Para comemorar a revolta de junho de 1848, preparamos uma biografia de um de seus muitos participantes coloridos, Emmanuel Barthélemy. Vilificado por Victor Hugo no mesmo capítulo de _Os Miseráveis_ citado acima, Barthélemy arriscou sua vida nas barricadas, escapou da prisão e depois lutou em um duelo com um republicano que serviu na Assembleia Nacional. Entre outros materiais históricos, localizamos e traduzimos o relatório de Barthélemy sobre seu papel no levante. Embora seja praticamente a única narrativa sobrevivente do lado proletário das barricadas, é a primeira vez que aparece em inglês.
+
+[[https://cdn.crimethinc.com/assets/articles/2016/06/23/3a.jpg class:portrait]]
+
+## Emmanuel Barthélemy
+
+[**PDF para leitura [10MB]**](https://cdn.crimethinc.com/pdfs/Emmanuel-Barthelemy_screen.pdf)  
+
+[**PDF para impressão [10MB]**](https://cdn.crimethinc.com/pdfs/Emmanuel-Barthelemy_imposed.pdf)
+
+Apesar de seu histórico peculiar, as reflexões [críticas de Proudhon sobre democracia](https://robertgraham.wordpress.com/proudhon-bicentennial-1809-2009), publicadas no início da revolução de 1848, também são interessantes. Para mais informações sobre a crítica anarquista da democracia, consulte [nossa série sobre o assunto](https://crimethinc.com/2016/03/16/series-the-anarchist-critique-of-democracy).
