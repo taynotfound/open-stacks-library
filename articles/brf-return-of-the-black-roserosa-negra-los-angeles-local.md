@@ -1,0 +1,8 @@
+---
+title: "Return of the Black Rose/Rosa Negra Los Angeles Local"
+author: "Admin101"
+source: "Black Rose/Rosa Negra"
+url: "https://www.blackrosefed.org/la-local-announcement/"
+---
+
+We’re proud to announce the return of the Los Angeles Local of Black Rose/Rosa Negra. Bringing together members who are involved in neighborhood, tenant, and labor organizing across the city and county of LA, we’re excited to raise ourselves to the challenge of building up fighting social movements in one of the country’s most densely populated regions. We draw inspiration from the history of struggles that shaped LA—from the organizing in exile undertaken by the Flores Magón brothers, the “open shop” labor wars, and the Chicano Moratorium, to the immigrant led 2006 &#8220;Gran Paro&#8221; general strike and the numerous uprisings for Black liberation—each contain profound and unique lessons that we draw from. We hope to contribute, in our own way, to our region’s legacy of working class self organization and militancy. You can contact us via email at: losangeles@blackrosefed.org Find us on Instagram at: @blackrose_losangeles ¡Arriba los que luchan! Up with those who fight! ¡Luchar, Crear, Poder Popular! Fight, Build, Popular Power! ¡Hacia el socialismo libertario! Toward libertarian socialism! Not in LA, but organizing in your city? Looking for a political home where you can develop as an organizer and collaborate using a shared strategy? Reach out to Black Rose/Rosa Negra via our Join page . The post Return of the Black Rose/Rosa Negra Los Angeles Local appeared first on Black Rose/Rosa Negra Anarchist Federation .
