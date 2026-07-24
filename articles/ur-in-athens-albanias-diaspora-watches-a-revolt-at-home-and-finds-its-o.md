@@ -1,0 +1,275 @@
+---
+title: "In Athens, Albania’s Diaspora Watches a Revolt at Home, and Finds Its Own Voice"
+author: "By Sophia Potsi, Contributor"
+source: "Unicorn Riot"
+url: "https://unicornriot.ninja/2026/in-athens-albanias-diaspora-watches-a-revolt-at-home-and-finds-its-own-voice/"
+---
+
+🦄
+
+                            Eco                            
+                        
+                        ,                             🦄
+
+                            Global                            
+                        
+                        ,                             🦄
+
+                            Protest & Direct Action                            
+                        
+                                                
+                    
+
+	                In Athens, Albania&#8217;s Diaspora Watches a Revolt at Home, and Finds Its Own Voice
+
+                
+                                    
+                        					By Sophia Potsi, Contributor					   July 12, 2026July 16, 2026                    
+                            
+
+	            
+	            Single story posts page footer widgets mobile
+
+Your Source For Independent Media – No Ads or Paywalls – Viewer Supported            
+                        
+	                                                
+People have taken to the streets in Albania for over a month now. What started as a protest about environmental concerns and a luxury resort tied to President Trump’s son-in-law has turned into a mass movement against the government, with people demanding the resignation of the Prime Minister Edi Rama.
+
+The story begins with a development plan for the Vjosa-Narta lagoon, a protected wetland on Albania’s Adriatic coast, and the nearby uninhabited island of Sazan, once a secret Soviet-era military base, now eyed as the site of a luxury tourism complex. The project is reportedly worth well over one billion euros and is tied to Affinity Partners, the investment firm through which American businessman and politician Jared Kushner is acquiring Sazan. The firm was established to use Saudi Arabian capital to facilitate investments between Israel and the Arab world.
+
+Kushner and his wife Ivanka Trump have spoken publicly about their vision for the area; high-end, eco-luxury, a yacht marina, wellness spa, and fine-dining restaurants, transforming a stretch of pristine coastline into a five-star destination.
+
+For the Albanian government, this was framed as a historic opportunity, a flagship investment that would put the country on the map as a premier Mediterranean destination and bring much-needed foreign capital into a struggling economy.  
+
+Rama went as far as to compare the project with the Greek case of Costa Navarino, a comparison that doesn&#8217;t hold up well. For many Albanians, the project raised immediate red flags. There was no public environmental impact assessment before construction began.
+
+Environmental groups sounded the alarm and they called for the project to be suspended. Vjosa-Narta is one of the most important breeding and migratory habıtats ın the Mediterranean and one of the region&#8217;s flamingo colonies, thus the symbol of the protests. 
+
+The trigger for all this came on May 30, when a video began circulating on social media showing a protester being dragged across a Zvërnec beach by private security guards. The footage spread within hours. Almost overnight, the conversation shifted. 
+
+This was no longer simply a fight over flamingos and wetlands, it became a fight about who controls public space, who answers to whom, and whether ordinary citizens have any say over what happens to their own coastline. And on a broader scale it became a discussion about transparency, corruption and democracy. 
+
+Map of southwestern Albania showcasing where Sazan, Zvërnec, and the Vjosa-Narta Lagoon are located &#8212; all part of the contentious luxury development plans. Black font added by Unicorn Riot. 
+
+Spontaneously and overnight, demonstrators took to the streets chanting “Albania is not for sale.” Members of the Albanian diaspora flew to Tirana to participate in the marches resulting in crowds that the country hasn&#8217;t seen in decades.  
+
+International coverage has framed this unrest as the Kushner-Trump story and as a story about the presidentıal family tryıng to profit from a foreign development deal as it has done in the past. President Rama, has leaned into this framing suggesting that the uprising is a “hybrid war” effort claiming that these are attempts from state sponsored actors including ones from Iran, anti-Israeli groups and opponents of Trump.
+
+On the other hand, articles written by Albanian commentators such as Elton Dusha push back against this narrative. They attribute the current events as systemic abuse of property rights, unresolved land disputes dating back to the post-communist transition, entrenched corruption spanning both of Albania’s major political parties, and an economic crisis that is pushing the country’s young people abroad even as its population rapidly ages. Apart from that analysis it is useful to put in perspective the fact that the average local pension in Albania is €180-230 ($205-262) when the living expenses are calculated around €700-1000 ($709-1,141).
+
+Τhe protests have not stayed within Albania’s borders, they have spread across Europe, especially within the Albanian diaspora. In Greece, Albanian migrants have gathered in Syntagma Square in central Athens, claiming a corner, passing around a microphone, and giving voice to the same grievances animating the crowds in Tirana. 
+
+  
+    
+      
+      
+    
+  
+  
+
+The conversations there are charged with anger, but also with something quieter and more personal: stories of departure, of who was left behind, and of the long, grinding effort simply to survive in a new country.
+
+Albanians are the largest migrant community in Greece having arrived in large numbers before the 1990s following the collapse of the communist regime. The treatment they received from the Greek state was delayed immigration and legalization registration. That fed many negative stereotypes. Albanians in Greece are often portrayed as criminals in public discourse, making their exploitation as a cheap undocumented source of labor easier.
+
+The consequences of that period still echo in these times. A Greek pension law requiring forty years of legal residency before granting eligibility means that many first generation Albanian migrants find themselves without any pension after a lifetime of work. 
+
+A protest by the Albanian diaspora in Greece. Screenshot from video contributed by Sophia Potsi.
+
+This generation of Albanians in some ways is characterized by political passivity, as Ervin Kondakciu mentions three overlapping forces: a paradoxical &#8220;a-political hyper-politicization&#8221; instilled by Albania&#8217;s authoritarian socialist system before they emigrated, the disillusionment that followed the early-1990s transition to capitalism and multiparty politics — which culminated in the 1997 banking collapse, state failure, and armed conflict — and the hostile institutional reality that migrants then faced in Greece, marked by legal exclusion, arbitrary treatment, and violence. 
+
+In some ways, the result has been a lost generation, unable to fully return to Albania, yet never entirely at home in the Greece that took them in. Many live in continued precarity, particularly the older migrants whose decades of labor will never translate into a secure retirement. 
+
+Their children, by contrast, tell a different story. Raised within Greek schools, fluent in the language, and woven into local institutions, the younger generation carries none of that same suspended, in-between existence. They are, in nearly every sense, integrated, however slow and uneven as this process turned out to be.
+
+The protesters in Greece vary by age but the problems that they are reporting are the same. One of the issues that is recurring is Albania&#8217;s public healthcare system. 
+
+Anabel Haka, who now lives in Greece, said she was diagnosed with cancer but found that doctors in Tirana were reluctant to treat her case. She said she spent three years navigating Albania’s health bureaucracy and taking medications that did not match her diagnosis before traveling to Greece, where she received what she described as appropriate treatment.
+
+“I want to see a change in Tirana so that I can go back to my country,” she said.
+
+Anabel Haka pictured in Syntagma Square in June 2026. Screenshot from video contributed by Sophia Potsi.
+
+Her account reflects broader trends documented by health researchers. Public health spending in Albania declined steadily from 2021 to 2024, reaching 2.9 percent of gross domestic product in 2024, the lowest level in the region, according to regional health data. Nearly 59 percent of health costs in the country are paid out of pocket by patients, a burden that researchers describe as unaffordable for many Albanian families. Protesters have also cited persistent shortages of common medications as a symptom of the same underlying problems.
+
+The escalation of the Sazan situation has now reached the EU. The European Parliament has expressed “serious concerns.” The environmental protection rule of law remains part of Albania&#8217;s EU accession commitments. 
+
+The plan has been put on hold for now but not cancelled. People are still on the streets, the protests show no sign of losing momentum after 50 days. Rama has so far refused to back down, casting the demonstrations as politically motivated rather than a genuine expression of public discontent.
+
+Sign with Albanian Prime Minister Edi Rama and opposition leader Sali Berisha. Screenshot from video contributed by Sophia Potsi.
+
+What happens next remains uncertain. Albania&#8217;s government has offered no indication that it will pause the controversial Sazan development or commission what the people have demanded. 
+
+Meanwhile, the diaspora gatherings in Syntagma Square continue week after week, less a protest in the traditional sense than a ritual of testimony, older migrants speaking about pensions they&#8217;ll never receive, younger ones speaking about the experience of growing as a migrant, all of them supporting the cause back home and being inspired by it.
+
+Whether the demonstrations will force any concrete change is an open question. Albania has previously seen waves of public anger that ultimately dissipated without altering the country&#8217;s political trajectory. But the scale of this mobilization suggests something different may be taking shape, even if its final form is not yet clear. For many of the people gathering, the demand has narrowed to something almost deceptively simple: that the country’s future should not be made without Albanians themselves having a say.
+
+Cover image contributed by Sophia Potsi.
+
+
+Follow us on X (aka Twitter), Facebook, YouTube, Vimeo, Instagram, Mastodon, Threads, BlueSky and Patreon.
+
+Please consider a tax-deductible donation to help sustain our horizontally-organized, non-profit media organization:
+
+
+
+	                                        -->
+
+-->
+                
+                    
+    
+    Related posts and coverage:
+
+      
+              
+          Revolt in Albania Reaches Diaspora in Greece &bull; July 12, 2026        
+
+                    
+  
+
+      About this post
+    
+
+Categories:  Eco, Global, Protest & Direct ActionTagged: Adriatic Sea, Affinity Partners, albania, Albanian diaspora, Albanians in Greece, costa navarino, Discrimination, EU, fine dining, greece, ivanka trump, jared kushner, luxury resort, mediterranean sea, Rama, Sali Berisha, Sazan, Vjose-Narta, wellness spa, yachti marina, ZvërnecPublished July 12, 2026                
+                        
+        
+    
+
+                
+                    
+                        More from Unicorn Riot 🦄
+                    
+                    
+-->
+                                                	                                            
+                                                        
+                                
+                                    
+                                                                        Government Says Terabytes of Signal Chats are Central to the Case Against Minnesota 15
+
+                                    
+                            
+                                                        
+                                
+                                    
+			                                                            NYC Activists Maintain Boycott Against ‘Blood Money Rave’ Boiler Room
+
+			                                                        
+                            
+                                                    
+
+                        
+
+-->
+                    
+
+    	                                
+                
+    
+
+	
+
+        
+            
+                
+                    Non-profit independent media
+
+                
+            
+
+                        
+                
+                    
+		                                            
+				                
+
+Unicorn Riot is a decentralized, educational non-profit media organization. Unicorn Riot reports underrepresented stories and sheds light on alternative perspectives and systems. We aim to provide an accessible platform for diverse stories, communities and media makers through free, nonprofit news.
+
+Born from the Internet in 2015, our commercial-free platform operates non-hierarchically, independent of corporate or government control. Unicorn Riot is a registered 501(c)(3) in Minnesota. All of our financial support comes from grants and from you, our audience.
+
+
+DONATE
+
+
+
+
+
+
+Sign Up for Our Newsletter!
+
+
+Email Address *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
+                            
+                                 Primary mailing address (No packages).
+
+Unicorn Riot
+PO BOX 7472
+Minneapolis, MN 55407
+
+ For more: About Unicorn Riot
+
+                            
+		                                    
+                
+                
+                    
+                        
+			                HOME
+
+DONATE
+
+MERCH STORE
+
+LIVE
+
+ABOUT UNICORN RIOT
+
+ SEARCH
+
+                        
+
+	                                                
+			                    
+    
+
+    
+    
+
+    
+
+    
+
+    
+    
+
+    
+
+    
+
+                            
+	                    
+                    
+                
+
+                                            
+        
+        
+            
+				Unless otherwise noted, all Unicorn Riot media is redistributable under 
+Attribution-NonCommercial-ShareAlike 3.0 United States (CC BY-NC-SA 3.0 US  License) 2026 
+ Privacy Policy

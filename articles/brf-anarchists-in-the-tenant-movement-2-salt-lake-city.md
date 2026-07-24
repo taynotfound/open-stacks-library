@@ -1,0 +1,95 @@
+---
+title: "Anarchists in the Tenant Movement #2 – Salt Lake City"
+author: "Black Rose/Rosa Negra"
+source: "Black Rose/Rosa Negra"
+url: "https://www.blackrosefed.org/anarchists-tenant-movement-2/"
+---
+
+May 6, 2026
+
+Anarchists in the Tenant Movement #2 &#8211; Salt Lake City
+
+This is the second installment of our Anarchists in the Tenant Movement series. You can find the first installment here. The interview below was conducted with an organizer named Espy, involved in building a tenant organization in the western Salt Lake Valley.
+
+Like our other series Anarchists in the Labor Movement, this series presents insights and perspectives from anarchists who are active in tenant organizing. Some of those we speak to are organizing through established tenant unions, others are building new unions, while others still are launching initial campaigns without a formal union yet.
+
+For Black Rose / Rosa Negra (BRRN), mass organizations like tenant unions play a central role in our strategy. It is through these kinds of organizations that people create and apply their collective leverage against structures that dominate and exploit us, such as landlordism and private property. By engaging consistently in everyday campaigns, members of mass organizations grow their collective confidence and power, enabling them to take on ever bigger fights and ultimately to challenge the very existence of these dominating structures.
+
+In part, the aim of this series is simply to shine a spotlight on the presence of anarchist militants in the U.S. tenant movement. More substantively, we ask participants to critically reflect on their experiences, including both successes and failures, to draw out generalizable lessons.
+
+Some, but not all of those interviewed in this series are members of Black Rose / Rosa Negra.
+
+Answers have been edited for clarity and length.
+
+Espy &#8211; Tenant organizer in Salt Lake City
+
+Black Rose/Rosa Negra (BRRN): How would you summarize your political perspective in one sentence? 
+
+Espy: Anarchist Communism: I want a world built by the working class and for the working class, without exploitation.
+
+BRRN: What tenant union are you part of? (or describe where it is in the US if you do not want to name the specific union) 
+
+Espy: I’m helping to organize a residents’ association in a mobile home park on the west side of the Salt Lake Valley. For the time being, we are only in one park, but we have plans to expand into other parks owned by the same company in the area through connections we have gained through organizing this lot.
+
+BRRN: About how many people are part of your tenant union? 
+
+Espy: We currently have an active core group of 8 residents and around 12 total members in the union.
+
+BRRN: How is your tenant union organized? Describe its structures, how decisions are made, etc. 
+
+Espy: We are still trying to define the structure of the association. So far, we have developed rules around membership and a loose decision-making process. The bar of entry is extremely low; all that is required of members is to live in the park, attend one meeting, sign the Membership Agreement, and provide the association with a current phone number and lot number to maintain contact. The association settled on making decisions based on majority voting of all who are present at the current meeting. To make sure everyone knows what is going to be voted on so they can attend and voice their opinion, the Membership Agreement mandates that all proposals are given to members one week in advance to the meeting it will be voted on. 
+
+The structure is very much living and ever-changing and adapts to whatever issues we are facing at the current moment. For example, we are starting to run into new problems as we grow, like the need for live translation and a point of contact for management to connect with once we give them our demand letter, that will likely necessitate the formalization of more structure within the association.
+
+BRRN: Prior to tenant organizing, did you have any other organizing experience? 
+
+Espy: I had tried to organize a union at my last job very unsuccessfully. I didn’t take any time researching strategy or training on how to unionize and immediately made some harmful decisions. I failed to bring anyone into an organizing committee and falsely hoped that people with left-leaning politics would jump into organizing with me when they heard about the effort, but they were all too afraid of losing their jobs over it. I decided to announce the union effort to all of my coworkers by putting agitation propaganda by the time clock in hopes to get more people interested in joining the union. All this did, however, was tip management off and they immediately hired a union-busting lawyer, made each of the department managers sit through anti-union meetings, and began retaliation against me and my department.
+
+BRRN: Describe the campaign you’re currently involved in (or the most recent one): how did the campaign start, what are the main issues, what strategy and tactics are being used? 
+
+Espy: We recently finished a months-long process of developing a letter with our demands to the park management, that will announce our tenants&#8217; union and &#8220;force&#8221; management to recognize us as a collective bargaining unit, according to Utah Code 57-16-16. We have eight demands in the letter that we have discussed and voted on as an association. The demands vary in the degree of concessions that would be required from management and ownership. This includes smaller demands like renting a dumpster twice a year to help with maintaining cleanliness in the park, and sending all information to the residents in both English and Spanish, to more structural demands like stopping unjust evictions, pausing rent increases for five years and then, after that moratorium period, increasing rent by a fixed amount of $30 per year. If management does not heed to our demands, we have also included that the property owners should sell the land of the park to the residents at a competitive price.  
+
+After drafting the letter, we are now going back into the park to collect signatures from other residents. We have collectively decided not to turn in the letter until we have signatures from half (about 150) of the trailers in the park. This was done because the residents have felt that a lot of people in the majority hispanic park are afraid to stand up for themselves both because of a fear of retaliation and due to the political moment we find ourselves in. The residents decided that they would feel much more comfortable going public with the association when they have a majority behind them. 
+
+We have been gathering signatures for a little over three months now and it has been a slower process than we originally anticipated. This is in part due to the fact that none of the residents have had any experience with door knocking and having one-on-one organizing conversations, and those of us with these skills have been slow to practice these skills with them. As we are hitting these hurdles we are starting to look to give advice to the residents to support their struggle.
+
+BRRN: How do your anarchist politics relate to/inform the day-to-day of tenant organizing work? 
+
+Espy: Our politics inform almost every decision we make in our organizing. Since the main organizers do not live in the park itself, we constantly have to question the ethics and politics behind what we are doing and how we are doing it. We are trying our best to avoid coming in from without and telling the residents what they should do, and instead building a more collaborative and democratic environment for many ideas to thrive. At one of the first meetings we had, the residents all decided that they wanted to form a tenant union if us organizers were the leaders of it. All of us being anarchists, we pushed back against this but it is still a common refrain from the union members. We even went as far to include in the membership agreement that only residents at the park could be members and have voting power as a way to say that the organizers could participate in discussion but we are not members. Since we have more experience and knowledge on the organizing front, we have taken the approach that we should be walking slightly ahead of, but still alongside, the residents instead of trying to lead them. We are trying to build up the capacities and knowledge of the residents to run their union without our help as much as they can. There has been several times where we have recognized a common problem in the tenant union but we wait until the residents bring it up and help them think through possible solutions instead of dictating what they should do. 
+
+BRRN: How do tenant unions fit into a broader strategy aimed at revolutionary social transformation? 
+
+Espy: Tenant unions are one site where we can develop class consciousness and popular power. To me, I see tenant unions as another way to combat the State, both because of the State’s claim to a monopoly of violence over a specific territory and because people seem to be more militant in defending the places they live over the places they work. This is, of course, not to say that we don’t need workplace organizing, only that we will need both, and these movements will need to link up to fight against the System of Domination. The struggle over housing is essential to overthrowing capitalism because one of the main mechanisms that capital uses to force us to sell our labor is the fact that we have to pay for a place to sleep at night and feel secure. If we can eliminate the need to pay for housing, we eliminate part of the need to sell our labor to capital.
+
+BRRN: What resources have helped you the most in developing as a tenant organizer? 
+
+Espy: The piece that helped me the most to get started in tenant organizing and thinking strategically was Seattle Solidarity Network&#8217;s “Building a Solidarity Network.” Other than that the resources published by Tenants and Neighborhood Councils (TANC), Los Angeles Tenant Union (LATU), Autonomous Tenants Union Network (ATUN). In fact, we have shared the LATU Tenants Association Handbook with the residents and read sections of it out loud in some of the early meetings.
+
+BRRN: What advice would you share with anarchists looking to organize or become active in a tenant union? What do you wish you had known when you started? 
+
+Espy: Find your people. Tenant organizing involves a lot of door knocking, one-on-one conversations, strategizing, and attending meetings. It all becomes much easier if you have a solid group of people with similar tactical, strategic, and political thinking. Our park has over three hundred trailers, and two of us almost got burnt out from knocking on 60 doors before the first meeting. No one person could’ve knocked on any door by themselves, and that was only the first task that set off 10 months of organizing in this park. 
+
+Study! While nobody has it all figured out, doing a baseline amount of research can be immensely helpful! At the start of our organizing, we discovered Utah Code 57-16-16, which gives the residents in a mobile home park some basic rights to form a “Residents’ Association.” While we are striving to build power outside of the law, it has been super useful to be able to tell folks who are on the fence about joining the union that their rights to organize are at least nominally protected. Researching your local context as well as tenant organizing tactics, resources, etc. can be extremely helpful in the long run.
+
+Are you an anarchist involved in the tenant movement? Would you like to participate in this series? Email us at eec@blackrosefed.org
+
+Enjoyed this article and want to read more on tenant organizing? Check out our tenant organizing resource guide!
+
+Federation
+
+Tenant Organizing
+
+ 
+
+Unless otherwise stated, all original content is CC BY-NC Black Rose/Rosa Negra.
+A menos que se indique lo contrario, todo el contenido original es CC BY-NC Black Rose/Rosa Negra.
+
+Instagram
+
+Twitter
+
+Facebook
+
+Mastodon
+
+SoundCloud

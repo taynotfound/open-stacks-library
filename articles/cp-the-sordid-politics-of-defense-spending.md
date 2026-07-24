@@ -1,0 +1,24 @@
+---
+title: "The Sordid Politics of Defense Spending"
+author: "Melvin Goodman"
+source: "Counterpunch"
+url: "https://www.counterpunch.org/2026/07/24/the-sordid-politics-of-defense-spending/"
+---
+
+Photograph by Nathaniel St. Clair
+
+The mainstream media argues that increased spending on defense in peacetime is predicated on military necessity and military objectives. In actual fact, the major increases in defense spending that I have studied relate to political and economic requirements, having very little to do with military requirements.
+
+I was on the faculty of the National War College in 1998, when key congressional Republicans and the Chairman of the Joint Chiefs of Staff, General Hugh Shelton, invited President Bill Clinton to the college for a “closed-door briefing” on new requirements for military procurement and military pay. Over the previous six years, Clinton had been an easy mark for the Pentagon because he typically yielded to the political right-wing leaders of the Congress (e.g., Rep. Newt Gingrich and Senator Jesse Helms) as well as to the military brass on defense spending and on opposition to such important arms control and disarmament issues as the Comprehensive Nuclear Test Ban Treaty and the Anti-Personnel Mine Ban Convention.
+
+Clinton was particularly vulnerable regarding military demands in 1998 because of his sexual relationship with Monica Lewinsky, particularly his many lies about that relationship. Clinton was never a favorite among my military students at the war college. They were particularly livid about his sexual escapades and his deceit because they knew that similar behavior on their part would compromise and presumably end their military careers.
+
+It was no surprise to me that one week after the meeting at Fort Lesley J. McNair, Secretary of Defense William Cohen signaled there would be a significant increase in defense spending and that the “men and women of our armed forces will have the resources they need to do their jobs.” (Stephen Lee Myers, “Clinton is Seeking More Money for Military Readiness,” The New York Times, September 23, 1998.)
+
+There was a greater political scandal regarding defense spending in the 1980s, when there was no threat to U.S. national security. President Ronald Reagan was seeking the largest peacetime increase in defense spending at that time and wanted the Central Intelligence Agency to produce the intelligence to support such an increase. I was a senior political analyst on the Soviet Union at that time, and spent many hours arguing with CIA director William Casey and deputy director of intelligence Robert Gates that intelligence was being politicized to support such defense spending at a time when our only threat, the Soviet Union, was in political, economic and even military decline. It was my lack of success in those debates that led me to end a 25-year career at the CIA and to join the faculty of the NWC.
+
+Twenty years later, Gates turned up as Secretary of Defense for both Presidents George W. Bush and Barack Obama, and took advantage of additional opportunities to support unnecessary wars in Iraq and Afghanistan in order to demand greater defense spending. Gates has rebranded himself more recently as a defender of U.S. “soft power,” but over the years as an intelligence professional and a Pentagon chieftain, he had used every opportunity to argue for greater military power and greater military spending. As secretary in both administrations, he briefed Congress on the need for efficiencies but regularly increased the size of the Army and overemphasized the challenge of irregular warfare. Secretary of Defense Gates was known for crushing the alternative views of senior officers that would have led to lighter, more mobile weapons systems that would have occasioned savings in defense spending.
+
+Once again, we are facing exorbitant increases in defense spending (e.g., total spending of $1.5 trillion) and are engaging in an exaggeration of the national security challenges for justification. U.S. spending on defense would exceed the spending of all countries, and would weaken any U.S. efforts to supply the funding for needed social and economic reforms.
+
+Political and military analysts are exaggerating the threat of the Sino-Russian relationship as well as the possible likelihood of a Russian threat against a NATO country or a Chinese invasion of Taiwan. These possible scenarios are primarily “marketing devices” for increased military spending. Meanwhile, there are serious deficits regarding the management of the Pentagon under Secretary of Defense Pete Hegseth; a strategic deficit in assessing the near-term defense challenges; and the unwillingness of Congress to apply rigid standards of oversight regarding defense spending.
